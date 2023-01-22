@@ -15,18 +15,6 @@ $j(document).ready(function() {
 
     $j( document ).tooltip();
 
-    /* add another click handler to all 'external' links */
-    $j("a").each(function(index, element){
-        if(!($j(element).attr("href").includes("bookofproofs.github.io"))){
-          $j(element).click(function(){   //bind handlers
-               var url = $j(this).attr('href');
-               showDialog(url);
-               return false;
-            });
-        }
-    });
-
-
     var toggler = document.getElementsByClassName("caret");
     var i;
     for (i = 0; i < toggler.length; i++) {
