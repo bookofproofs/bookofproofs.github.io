@@ -21,4 +21,4 @@ rule out outstanding copyright problems.
 In case you believe you are a copyright owner of content we wrongly derived and published under CC BY-SA 4.0, 
 please get in touch with us in [Github discussions][gd], so we can verify and possibly resolve your issues. 
 
-[gd]:https://github.com/bookofproofs/bookofproofs.github.io/discussions/6
+[gd]:https://github.com/bookofproofs/bookofproofs.github.io/discussions/2
