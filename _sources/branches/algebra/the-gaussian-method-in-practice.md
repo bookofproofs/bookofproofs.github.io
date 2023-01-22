@@ -55,6 +55,7 @@ Therefore, `$x_1=1, x_2=2, x_3=3$` is the solution of the system `$( * ).$`
 ---
 
 §§§1
+```python
 <div class='sage'>
 print("Original extended matrix:\n")
 A=matrix(QQ,[[1,-3,2,1],[5,4,-3,4],[2,-8,4,-2]])
@@ -72,8 +73,10 @@ print("\nAdding the 2/19-fold multiple of the second row to the third:\n")
 A1[2]=A1[2]+2/19*A1[1]
 print(A1)
 </div>
+```
 
 §§§2
+```python
 <div class='sage'>
 print("STEP 2: Backward substitution:\n")
 A=matrix(QQ,[[1,-3,2,1],[0,19,-13,-1],[0,0,-26/19,-78/19]])
@@ -87,3 +90,4 @@ print("x2=", x2)
 print("x1=", x1)
 
 </div>
+```

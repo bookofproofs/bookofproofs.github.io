@@ -64,8 +64,7 @@ class BopSource:
         self.parentid = ""
         self.publisher = ""
         self.orderid = "0"
-        self.childcat = ""
-        self.descrseo = ""
+        self.publisher = ""
         self.references = list()
         self._references_md = ""
         self.categories = list()
@@ -134,8 +133,6 @@ class BopSource:
                     self.publisher = prop_split[1].strip()
                 elif prop_split[0] == "orderid":
                     self.orderid = prop_split[1].strip()
-                elif prop_split[0] == "childcat":
-                    self.childcat = prop_split[1].strip()
                 elif prop_split[0] == "parentid":
                     self.parentid = prop_split[1].strip()
                 elif prop_split[0] == "references":

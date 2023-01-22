@@ -281,7 +281,9 @@ class BopCompiler:
         for match in pattern.finditer(content):
             key = match.group(1)
             if key in bop_source.scripts:
-                content = content.replace("<p>" + key + "</p>", "\n" + bop_source.scripts[key] + "\n")
+                script = bop_source.scripts[key]
+                script = re.sub(r"(^```[a-z]*$)", r"", script, flags=re.M)
+                content = content.replace("<p>" + key + "</p>", "\n" + script + "\n")
             else:
                 AssertionError("Script key {0} not found in {1}".format(key, bop_source.get_file_name()))
         return content

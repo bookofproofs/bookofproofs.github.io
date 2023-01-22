@@ -9,6 +9,6 @@ title: Content Tree
 contributors: bookofproofs
 ---
 ---
-The tree index reflects the nesting structure of <strong><span style='color:orange'>Bo</span><span style='color:lightblue'>P</span></strong>:
+The tree index reflects the "common-thread" structure of <strong><span style='color:orange'>Bo</span><span style='color:lightblue'>P</span></strong>:
 
 {{ tree-index }}
