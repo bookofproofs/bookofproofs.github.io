@@ -192,7 +192,7 @@ class BopSource:
                 ret += "<a href='https://github.com/" + contributor + "'>"
                 ret += "<img src='https://github.com/" + contributor + ".png?size=32' alt='" + contributor + "'/>"
                 ret += "</a>"
-        ret += " <a class='improve' title='{0}' href='{1}/_sources/{2}'>{3}</a><br>".format(
+        ret += " <a class='improve' title='{0}' href='{1}/{2}'>{3}</a><br>".format(
             'improve this site',
             BopSource.url_images,
             self.get_file_destination() + "/" + self.name + ".md",
