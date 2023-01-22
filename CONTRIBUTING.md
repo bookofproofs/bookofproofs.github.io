@@ -128,7 +128,7 @@ topic|Historical development of a topic|Unstructured article
 
 ### "Common Thread" - the Structure of layouts 
 
-<strong><span style='color:orange'>Bo</span><span style='color:lightblue'>P</span></strong> facilitates mathematical educations. Contributors and authors can organize their posts from "easy" to "more difficult" mathematical concepts.
+<strong><span style='color:orange'>Bo</span><span style='color:lightblue'>P</span></strong> facilitates mathematical education. Contributors and authors can organize their posts from "easy" to "more difficult" mathematical concepts.
 Unlike wiki pages in which each article is self-contained and widely independent from other articles,
 the sites of <strong><span style='color:orange'>Bo</span><span style='color:lightblue'>P</span></strong> follow a "common thread". 
 
