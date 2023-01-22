@@ -1,0 +1,790 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/favicon.ico">
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/index.html" class="w3-bar-item">
+            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+        </a>
+        <!-- Float links to the right. Hide them on small screens -->
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <a href="https://bookofproofs.github.io/notation/notation.html" class="w3-bar-item w3-button">Notation</a>
+                <a href="https://bookofproofs.github.io/help/help.html" class="w3-bar-item w3-button">Help</a>
+                <div style='clear:both'></div>
+            </div>
+        </div>
+        <div style='clear:both'></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/references/references.html'>References</a> / .</h3>
+
+<hr>
+
+<div style='overflow-x:auto;'><table>
+<thead>
+<tr>
+<th style="text-align: left;">License</th>
+<th style="text-align: left;">Abbreviation</th>
+<th style="text-align: left;">Reference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$626</td>
+<td style="text-align: left;"><strong>Callahan, Daniel</strong>: "Euclid’s 'Elements' Redux", <a href="http://starrhorse.com/euclid/">http://starrhorse.com/euclid/</a>, 2014</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6920</td>
+<td style="text-align: left;">bookofproofs$627</td>
+<td style="text-align: left;"><strong>Multiple Authors</strong>: "Wikipedia", <a href="https://en.wikipedia.org/wiki/Main_Page">https://en.wikipedia.org/wiki/Main_Page</a>, 2008</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6921</td>
+<td style="text-align: left;">bookofproofs$628</td>
+<td style="text-align: left;"><strong>Casey, John</strong>: "The First Six Books of the Elements of Euclid", <a href="http://www.gutenberg.org/ebooks/21076">http://www.gutenberg.org/ebooks/21076</a>, 2007</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6921</td>
+<td style="text-align: left;">bookofproofs$691</td>
+<td style="text-align: left;"><strong>Hilbert, David</strong>: "The Foundations of Geometry", <a href="http://www.gutenberg.org/ebooks/17384">http://www.gutenberg.org/ebooks/17384</a>, 1899, Reprint Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6921</td>
+<td style="text-align: left;">bookofproofs$6573</td>
+<td style="text-align: left;"><strong>Heiberg, I.L, Menge H</strong>: "Euclidis Opera Omnia", <a href="https://archive.org/details/euclidisoperaomn01eucluoft">https://archive.org/details/euclidisoperaomn01eucluoft</a>, 1883</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6923</td>
+<td style="text-align: left;">bookofproofs$6419</td>
+<td style="text-align: left;"><strong>Fitzpatrick, Richard</strong>: "Euclid's Elements of Geometry", <a href="http://farside.ph.utexas.edu/Books/Euclid/Euclid.html">http://farside.ph.utexas.edu/Books/Euclid/Euclid.html</a>, 2007</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6923</td>
+<td style="text-align: left;">bookofproofs$6909</td>
+<td style="text-align: left;"><strong>O’Connor, John J; Robertson, Edmund F</strong>: "MacTutor History  of Mathematics Archive", <a href="http://www-history.mcs.st-and.ac.uk/">http://www-history.mcs.st-and.ac.uk/</a>, 2014</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6923</td>
+<td style="text-align: left;">bookofproofs$6910</td>
+<td style="text-align: left;"><strong>Pattis, Richard</strong>: "ICS-33: Intermediate Programming", <a href="https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt">https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt</a>, 2014</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6923</td>
+<td style="text-align: left;">bookofproofs$6915</td>
+<td style="text-align: left;"><strong>Huylebrouck, D.</strong>: "Mathematics in (central) Africa before colonization", <a href="http://etopia.sintlucas.be/3.14/Ishango_meeting/Mathematics_Africa.pdf">http://etopia.sintlucas.be/3.14/Ishango_meeting/Mathematics_Africa.pdf</a>, 2006</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6923</td>
+<td style="text-align: left;">bookofproofs$6911</td>
+<td style="text-align: left;"><strong>Burali-Forti, C.</strong>: "Una questione sui numeri transfiniti", <a href="https://doi.org/10.1007/BF03015911">https://doi.org/10.1007/BF03015911</a>, 1897, Rend. Circ. Matem. (1897) 11: 15</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6923</td>
+<td style="text-align: left;">bookofproofs$6912</td>
+<td style="text-align: left;"><strong>@pickover</strong>: "Pizza Lovers", Twitter, 2017</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6923</td>
+<td style="text-align: left;">bookofproofs$6914</td>
+<td style="text-align: left;"><strong>Kauffman, L.</strong>: "Virtual Knot Theory", <a href="https://sites.math.washington.edu/~reu/papers/2011/allison/VKT.pdf">https://sites.math.washington.edu/~reu/papers/2011/allison/VKT.pdf</a>, 1999</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6923</td>
+<td style="text-align: left;">bookofproofs$6917</td>
+<td style="text-align: left;"><strong>Lawrence Lo.</strong>: "Ancient Scripts", <a href="http://www.ancientscripts.com/sumerian.html">http://www.ancientscripts.com/sumerian.html</a>, 1996</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6923</td>
+<td style="text-align: left;">bookofproofs$6918</td>
+<td style="text-align: left;"><strong>Einstein, A.</strong>: "On the Electrodynamics of Moving Bodies", <a href="http://www.fourmilab.ch/etexts/einstein/specrel/specrel.pdf">http://www.fourmilab.ch/etexts/einstein/specrel/specrel.pdf</a>, 1905</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6924</td>
+<td style="text-align: left;">bookofproofs$6907</td>
+<td style="text-align: left;"><strong>Brenner, Prof. Dr. rer. nat., Holger</strong>: "Various courses at the University of Osnabrück", <a href="https://de.wikiversity.org/wiki/Wikiversity:Hochschulprogramm">https://de.wikiversity.org/wiki/Wikiversity:Hochschulprogramm</a>, 2014</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6924</td>
+<td style="text-align: left;">bookofproofs$6908</td>
+<td style="text-align: left;"><strong>Prime.mover and others</strong>: "Pr∞fWiki", <a href="https://proofwiki.org/wiki/Main_Page">https://proofwiki.org/wiki/Main_Page</a>, 2016</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6926</td>
+<td style="text-align: left;">bookofproofs$6927</td>
+<td style="text-align: left;"><strong>Carmichael, Robert</strong>: "Diophantine Analysis", Jon Wiley  &#38; Sons, Inc., 1915, 1st Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6926</td>
+<td style="text-align: left;">bookofproofs$6928</td>
+<td style="text-align: left;"><strong>Hardy, G.H.</strong>: "A Course of Pure Mathematics", Cambridge at the University Press, 1921, 3rd Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6926</td>
+<td style="text-align: left;">bookofproofs$6929</td>
+<td style="text-align: left;"><strong>Dudeney, H. E.</strong>: "Amusements in Mathematics", The Authors' Club, 1917</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8240</td>
+<td style="text-align: left;"><strong>Acheson, David</strong>: "Die Calculus-Story", Anaconda, 2018</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8324</td>
+<td style="text-align: left;"><strong>Hilbert, David</strong>: "Grundlagen der Geometrie", Leipzig, B.G. Teubner, 1903</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8336</td>
+<td style="text-align: left;"><strong>Steen, L.A.;Seebach J.A.Jr.</strong>: "Counterexamples in Topology", Dover Publications, Inc, 1970</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8404</td>
+<td style="text-align: left;"><strong>Miller, Kenneth S.</strong>: "An Introduction to the Calculus of Finite Differences And Difference Equations", Dover Publications, Inc, 1960</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8406</td>
+<td style="text-align: left;"><strong>Young, H. D.; Freedman, R. A. </strong>: "University Physics with Modern Physics", Pearson, 2016, 14th Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8480</td>
+<td style="text-align: left;"><strong>Reus, Bernhard</strong>: "Limits of Computation", Springer, 2016</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8526</td>
+<td style="text-align: left;"><strong>Halberstam, H; Roth, K.F.</strong>: "Sequences", Oxford at the Claredon Press, 1966</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8548</td>
+<td style="text-align: left;"><strong>Kneser, Hellmuth</strong>: "Mathematische Lehrbücher - Funktionentheorie", Vanderhoeck &amp; Ruprecht, 1958</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8550</td>
+<td style="text-align: left;"><strong>Lang, Serge</strong>: "Complex_Analysis", Springer, 1999, Forth Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8560</td>
+<td style="text-align: left;"><strong>Jänich, Klaus</strong>: "Topologie", Springer, 2001, 7th Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8613</td>
+<td style="text-align: left;"><strong>Grotemeyer, K.P.</strong>: "Topologie", B.I.-Wissenschaftsverlag, 1969</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8635</td>
+<td style="text-align: left;"><strong>Toenniessen, Fridtjof</strong>: "Topologie", Springer, 2017</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8684</td>
+<td style="text-align: left;"><strong>Axler, Sheldon</strong>: "Linear Algebra Done Right", Springer, 2015, 3rd Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8688</td>
+<td style="text-align: left;"><strong>Piotrowski, Andreas</strong>: "FPL - A Proposal How To Write and Read Proof-Based Mathematics", bookofproofs, 2021</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$977</td>
+<td style="text-align: left;"><strong>Aigner, Martin</strong>: "Diskrete Mathematik", vieweg studium, 1993</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8401</td>
+<td style="text-align: left;"><strong>Misner, Ch. W.; Thorne, K. S.</strong>: "Gravitation", Princeton University Press, 2017</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8405</td>
+<td style="text-align: left;"><strong>Bool, George</strong>: "A Treatise on the Calculus of Finite Differences", Dover Publications, Inc., 1960</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8527</td>
+<td style="text-align: left;"><strong>Schwarz, Wolfgang</strong>: "Einführung in Siebmethoden der analytischen Zahlentheorie", B.I.-Wissenschaftsverlag, 1974</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8549</td>
+<td style="text-align: left;"><strong>Rühs, F.</strong>: "Funktionentheorie", VEB Deutscher Verlag der Wissenschaften, 1962</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8614</td>
+<td style="text-align: left;"><strong>Toenniessen, Fridtjof</strong>: "Topologie: Ein Lesebuch von den elementaren Grundlagen bis zur Homologie und Kohomologie", Springer, 2017</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$566</td>
+<td style="text-align: left;"><strong>Aldous Joan M., Wilson Robin J.</strong>: "Graphs and Applications - An Introductory Approach", Springer, 2000</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8402</td>
+<td style="text-align: left;"><strong>Dürr, D.; Lazarovici, D.</strong>: "Verständliche Quantenmechanik", Springer Spektrum, 2018</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8403</td>
+<td style="text-align: left;"><strong>Heuser, Harro</strong>: "Lehrbuch der Analysis, Teil 2", B.G. Teubner, 1993, 8th Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1093</td>
+<td style="text-align: left;"><strong>Alsina, Claudi; Nelsen, Roger B.</strong>: "Bezaubernde Beweise", Springer Spektrum, 2013</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$828</td>
+<td style="text-align: left;"><strong>Ayres jr. Frank</strong>: "Theory and Problems of Modern Algebra", McGraw-Hill Book Company Europe, 1978</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$7878</td>
+<td style="text-align: left;"><strong>Beierle, C.; Kern-Isberner, G.</strong>: "Methoden wissensbasierter Systeme", Vieweg, 2000</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8231</td>
+<td style="text-align: left;"><strong>Berchtold, Florian</strong>: "Geometrie", Springer Spektrum, 2017</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8187</td>
+<td style="text-align: left;"><strong>Blömer, J.</strong>: "Lecture Notes Algorithmen in der Zahlentheorie", Goethe University Frankfurt, 1997</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8238</td>
+<td style="text-align: left;"><strong>Blum, Wolfgang</strong>: "Eine kurze Geschichte der Mathematik", wbg Theiss, 2019</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$856</td>
+<td style="text-align: left;"><strong>Bosch, Karl</strong>: "Elementare Einführung in die Wahrscheinlichkeitsrechnung", vieweg Studium, 1995, 6th Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8317</td>
+<td style="text-align: left;"><strong>Butz, T.</strong>: "Fouriertransformation für Fußgänger", Teubner, 1998</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$2785</td>
+<td style="text-align: left;"><strong>Byrne, O.</strong>: "The First Six Books of the Elements of Euclid, in Which Coloured Diagrams and Symbols are used Instead of Letters", London William Pickering, 1847</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$7966</td>
+<td style="text-align: left;"><strong>Coxeter, H.S.M</strong>: "Projective Geometry (2nd Edition)", Springer, 1987</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$593</td>
+<td style="text-align: left;"><strong>Cryan D., Shatil S., Mayblin B.</strong>: "Logic. A Graphic Guide", Icon Books Ltd., London, 2001</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8232</td>
+<td style="text-align: left;"><strong>Das Abjijit</strong>: "Computational Number Theory", CRC Press, 2008</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1084</td>
+<td style="text-align: left;"><strong>Deming David</strong>: "Science and Technology in World History", McFarland, 2012, Vol. 3</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1228</td>
+<td style="text-align: left;"><strong>Di Battista G., Eades P., Tamassia R., Tollis, I.G.</strong>: "Graph Drawing - Algorithms for the Visualization of Graphs", Prentice-Hall, Inc., 1999</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1163</td>
+<td style="text-align: left;"><strong>Diestel, Reinhard</strong>: "Graph Theory, 3rd Edition", Springer, 2005</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$6916</td>
+<td style="text-align: left;"><strong>Diverse Authors</strong>: "BrainyQuote", <a href="https://www.brainyquote.com/">https://www.brainyquote.com/</a>, 2015</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$6357</td>
+<td style="text-align: left;"><strong>Dye, Heather</strong>: "An Invitation to Knot Theory", CRC Press, 2016</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$983</td>
+<td style="text-align: left;"><strong>Ebbinghaus, H.-D.</strong>: "Einführung in die Mengenlehre", BI Wisschenschaftsverlag, 1994, 3th Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1272</td>
+<td style="text-align: left;"><strong>Landau, Edmund</strong>: "Vorlesungen über Zahlentheorie, Aus der Elementaren Zahlentheorie", S. Hirzel, Leipzig, 1927</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1086</td>
+<td style="text-align: left;"><strong>Erk, Katrin; Priese, Lutz</strong>: "Theoretische Informatik", Springer Verlag, 2000, 2nd Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$7896</td>
+<td style="text-align: left;"><strong>Fischer, Gerd</strong>: "Lehrbuch der Algebra", Springer Spektrum, 2017, 4th Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8297</td>
+<td style="text-align: left;"><strong>Flachsmeyer, Jürgen</strong>: "Kombinatorik", VEB Deutscher Verlag der Wissenschaften, 1972, 3rd Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$581</td>
+<td style="text-align: left;"><strong>Forster Otto</strong>: "Analysis 1, Differential- und Integralrechnung einer Veränderlichen", Vieweg Studium, 1983</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$582</td>
+<td style="text-align: left;"><strong>Forster Otto</strong>: "Analysis 2, Differentialrechnung im (\mathbb R^n), Gewöhnliche Differentialgleichungen", Vieweg Studium, 1984</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8239</td>
+<td style="text-align: left;"><strong>Fuchs, D.; Tabachnikov, S.</strong>: "Ein Schaubild der Mathematik", Springer, 2011</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1632</td>
+<td style="text-align: left;"><strong>Gericke, Helmuth</strong>: "Mathematik in Antike, Orient und Abendland", fourierverlag, 2003, 6th Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$641</td>
+<td style="text-align: left;"><strong>Govers, Timothy</strong>: "The Princeton Companion to Mathematics", Princeton University Press, 2008,</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1112</td>
+<td style="text-align: left;"><strong>Graham L. Ronald, Knuth E. Donald, Patashnik Oren</strong>: "Concrete Mathematics", Addison-Wesley, 1994, 2nd Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8241</td>
+<td style="text-align: left;"><strong>Hardy, H.</strong>: "Divergent Series (Publication)", Oxford Press, 1949</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1849</td>
+<td style="text-align: left;"><strong>Health L. Thomas (Transl.)</strong>: "Euclid's Elements - all thirteen books", Green Lion Press, 2013,</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$2775</td>
+<td style="text-align: left;"><strong>Health, T.L.</strong>: "The Thirteen Books of Euclid's Elements - With Introduction and Commentary by T. L. Health", Cambridge at the University Press, 1968, Vol 1, 2, 3</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1796</td>
+<td style="text-align: left;"><strong>Hedderich, J.;Sachs, L.</strong>: "Angewandte Statistik", Springer Gabler, 2012, Vol .14</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1357</td>
+<td style="text-align: left;"><strong>Hermann, D.</strong>: "Algorithmen Arbeitsbuch", Addison-Wesley Publishing Company, 1992</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$586</td>
+<td style="text-align: left;"><strong>Heuser Harro</strong>: "Lehrbuch der Analysis, Teil 1", B.G. Teubner Stuttgart, 1994, 11th Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8237</td>
+<td style="text-align: left;"><strong>Hischer, Horst</strong>: "Grundlegende Begriffe der Mathematik: Entstehung und Entwicklung", Springer Spektrum, 2012</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8055</td>
+<td style="text-align: left;"><strong>Hoffmann, D.</strong>: "Forcing, Eine Einführung in die Mathematik der Unabhängigkeitsbeweise", Hoffmann, D., 2018</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$7897</td>
+<td style="text-align: left;"><strong>Hoffmann, Dirk</strong>: "Die Gödel'schen Unvollständigkeitssätze", Springer-Spektrum, 2012</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8227</td>
+<td style="text-align: left;"><strong>Hoffmann, Dirk</strong>: "Einsteins Relativitätstheorie", BoD, 2015</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$7895</td>
+<td style="text-align: left;"><strong>Hoffmann, Dirk</strong>: "Theoretische Informatik, 3. Auflage", Hanser, 2015</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$656</td>
+<td style="text-align: left;"><strong>Hoffmann, Dirk W.</strong>: "Grenzen der Mathematik - Eine Reise durch die Kerngebiete der mathematischen Logik", Spektrum Akademischer Verlag, 2011</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8152</td>
+<td style="text-align: left;"><strong>Jones G., Jones M.</strong>: "Elementary Number Theory (Undergraduate Series)", Springer, 1998</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$6823</td>
+<td style="text-align: left;"><strong>Kane, Jonathan</strong>: "Writing Proofs in Analysis", Springer, 2016</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8226</td>
+<td style="text-align: left;"><strong>Karpfinger, Christian</strong>: "Höhere Mathematik in Rezepten", Springer Spektrum, 2013, 2nd Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8251</td>
+<td style="text-align: left;"><strong>Klotzek, B.</strong>: "Geometrie", Studienbücherei, 1971</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$7937</td>
+<td style="text-align: left;"><strong>Knabner, P; Barth, W.</strong>: "Lineare Algebra - Grundlagen und Anwendungen", Springer Spektrum, 2013</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$577</td>
+<td style="text-align: left;"><strong>Knauer Ulrich</strong>: "Diskrete Strukturen - kurz gefasst", Spektrum Akademischer Verlag, 2001</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$640</td>
+<td style="text-align: left;"><strong>Knerr, Richard</strong>: "Knaurs Buch der Mathematik", Droemer Knaur Lexikographisches Institut, München, 1989</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8230</td>
+<td style="text-align: left;"><strong>Knopp, Konrad</strong>: "Theorie und Anwendung der unendlichen Reihen", Springer, 1996, 8th Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8250</td>
+<td style="text-align: left;"><strong>Koch, H.; Pieper, H.</strong>: "Zahlentheorie - Ausgewählte Methoden und Ergebnisse", Studienbücherei, 1976</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$561</td>
+<td style="text-align: left;"><strong>Koecher Max</strong>: "Lineare Algebra und analytische Geometrie", Springer-Verlag Berlin Heidelberg New York, 1992, 3rd Volume</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$7838</td>
+<td style="text-align: left;"><strong>Kohar, Richard</strong>: "Basic Discrete Mathematics, Logic, Set Theory &amp; Probability", World Scientific, 2016</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8189</td>
+<td style="text-align: left;"><strong>Kraetzel, E.</strong>: "Studienbücherei Zahlentheorie", VEB Deutscher Verlag der Wissenschaften, 1981</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$696</td>
+<td style="text-align: left;"><strong>Kramer Jürg, von Pippich, Anna-Maria</strong>: "Von den natürlichen Zahlen zu den Quaternionen", Springer-Spektrum, 2013</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$570</td>
+<td style="text-align: left;"><strong>Krumke S. O., Noltemeier H.</strong>: "Graphentheoretische Konzepte und Algorithmen", Teubner, 2005, 1st Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8256</td>
+<td style="text-align: left;"><strong>Kuhnert, F.</strong>: "Vorlesungen über lineare Algebra", VEB Deutscher Verlag der Wissenschaften, 1976</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1538</td>
+<td style="text-align: left;"><strong>Landau, Edmund</strong>: "Grundlagen der Analysis", Heldermann Verlag, 2008</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8228</td>
+<td style="text-align: left;"><strong>Landau, Edmund</strong>: "Handbuch der Lehre von der Verteilung der Primzahlen", Teubner Verlag, 1909</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$6735</td>
+<td style="text-align: left;"><strong>Lang, Serge</strong>: "Algebra - Graduate Texts in Mathematics", Springer, 2002, 3rd Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1775</td>
+<td style="text-align: left;"><strong>Lawler; Lenstra; Rinnooy Kan; Shmoys</strong>: "The Traveling Salesman Problem", Wiley-Interscience, 1985</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$6260</td>
+<td style="text-align: left;"><strong>Lee, John M.</strong>: "Axiomatic Geometry", AMC, 2013</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1209</td>
+<td style="text-align: left;"><strong>Matou&#353;ek, J; Ne&#353;et&#351;il, J</strong>: "Invitation to Discrete Mathematics", Oxford University Press, 1998</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$711</td>
+<td style="text-align: left;"><strong>Mendelson Elliott</strong>: "Theory and Problems of Boolean Algebra and Switching Circuits", McGraw-Hill Book Company, 1982</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8243</td>
+<td style="text-align: left;"><strong>Merzbach, U.; Boyer C.</strong>: "A History of Mathematics", Wiley, 2011, 3rd Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8254</td>
+<td style="text-align: left;"><strong>Michel, H.</strong>: "Maß- und Integrationstheorie I", VEB Deutscher Verlag der Wissenschaften, 1978</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8309</td>
+<td style="text-align: left;"><strong>Modler, F.; Kreh, M.; Goertz, R.</strong>: "Tutorium Höhere Analysis", Springer Spektrum, 2018</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8311</td>
+<td style="text-align: left;"><strong>Modler, F.; Kreh, M.</strong>: "Tutorium Analysis 1 und Lineare Algebra 1", Springer Spektrum, 2018, 4th Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8312</td>
+<td style="text-align: left;"><strong>Modler, F.; Kreh, M.</strong>: "Tutorium Analysis 2 und Lineare Algebra 2", Springer Spektrum, 2015, 3rd Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$677</td>
+<td style="text-align: left;"><strong>Modler, Florian; Kreh, Martin</strong>: "Tutorium Algebra", Springer Spektrum, 2013</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8252</td>
+<td style="text-align: left;"><strong>Molodschi, W.N.</strong>: "Studien zu philosophischen Problemen der Mathematik", VEB Deutscher Verlag der Wissenschaften, 1977</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8242</td>
+<td style="text-align: left;"><strong>Nash, J.F.; Rassias M.</strong>: "Open Problems in Mathematics", Springer, 2016</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8310</td>
+<td style="text-align: left;"><strong>Netto, Eugen</strong>: "Lehrbuch der Combinatorik", Verlag von B.G. Teubner, 1901</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8234</td>
+<td style="text-align: left;"><strong>Neunhäuserer, Jörg</strong>: "Mathematisch Begriffe in Beispielen und Bildern", Springer Spektrum, 2017</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$6259</td>
+<td style="text-align: left;"><strong>Pade, Jochen</strong>: "Quantenmechanik zu Fuß", Springer Spectrum, 2012, Band 1, 2nd Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8233</td>
+<td style="text-align: left;"><strong>Pickover, Clifford</strong>: "Das Mathebuch", Libero, 2009</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$6913</td>
+<td style="text-align: left;"><strong>Piotrowski, Andreas</strong>: "Anmerkungen zur Verteilung der Primzahlzwillinge", Master’s thesis, Frankfurt am Main, 1999</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1591</td>
+<td style="text-align: left;"><strong>Piotrowski, Andreas</strong>: "bookofproofs.org", Own Work, 2014</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1258</td>
+<td style="text-align: left;"><strong>Reingold, E.M; Nievergelt, J;Deo, N.</strong>: "Combinatorial Algorithms - Theory and Practice", Prentice-Hall, 1977</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$979</td>
+<td style="text-align: left;"><strong>Reinhardt F., Soeder H.</strong>: "dtv-Atlas zur Mathematik", Deutsche Taschenbuch Verlag, 1994, 10th Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$512</td>
+<td style="text-align: left;"><strong>Ribenboim Paolo</strong>: "The Little Book of Bigger Primes", Springer New York, 2004, 2nd Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8229</td>
+<td style="text-align: left;"><strong>Riesz F., Sz.-Nagy, B.</strong>: "Functional Analysis (Translation)", Dover Publications, 1955</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$6301</td>
+<td style="text-align: left;"><strong>Ruhrländer, Michael</strong>: "Aufstieg zu den Einsteingleichungen", Pro BUSINESS GmbH, 2014</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$701</td>
+<td style="text-align: left;"><strong>Scheid Harald</strong>: "Zahlentheorie", Spektrum Akademischer Verlag, 2003, 3rd Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$573</td>
+<td style="text-align: left;"><strong>Schmidt G., Ströhlein T.</strong>: "Relationen und Graphen", Springer-Verlag, 1989</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8186</td>
+<td style="text-align: left;"><strong>Schnorr, C.P.</strong>: "Lecture Notes Diskrete Mathematik", Goethe University Frankfurt, 2001</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$624</td>
+<td style="text-align: left;"><strong>Sedgewick, Robert</strong>: "Algorithmen in C++", Addison-Wesley, 1992, 1st Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1071</td>
+<td style="text-align: left;"><strong>Sexl, Roman, Schmidt, Herbert K.</strong>: "Raum, Zeit, Relativität", vieweg Studium, 1991, 3rd Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$6363</td>
+<td style="text-align: left;"><strong>Sossinsky, Alexei</strong>: "Mathematik der Knoten - Wie eine Theorie entsteht", rororo, 2000</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8285</td>
+<td style="text-align: left;"><strong>Spalt, Detlef</strong>: "Eine kurze Geschichte der Analysis", Springer Spektrum, 2019</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8244</td>
+<td style="text-align: left;"><strong>Struik, D.J.</strong>: "Abriss der Geschichte der Mathematik", Studienbücherei, 1976</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1356</td>
+<td style="text-align: left;"><strong>Stummel, F; Hainer, K</strong>: "Praktische Mathematik", Teubner, 1982, 2nd Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$7837</td>
+<td style="text-align: left;"><strong>Tadelis, Steven</strong>: "Game Theory - an Introduction", Princeton University Press, 2013</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1692</td>
+<td style="text-align: left;"><strong>Timmann, Steffen</strong>: "Repetitorium der Funktionentheorie", Binomi-Verlag, 2003</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8236</td>
+<td style="text-align: left;"><strong>Toeplitz, O.;Rademacher, H.</strong>: "Von Zahlen und Figuren", Springer, 1933, Reprint</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8255</td>
+<td style="text-align: left;"><strong>Trachtenbrot, B.A.</strong>: "Algorithmen und Rechenautomaten", VEB Deutscher Verlag der Wissenschaften, 1977</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$886</td>
+<td style="text-align: left;"><strong>Tuschik, H.P., Wolter, H.</strong>: "Mathematische Logik - kurzgefasst", Bibliograpfisches Institut &#38; F.A. Brockhaus AG, Mannheim, 1994</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8253</td>
+<td style="text-align: left;"><strong>Tutschke, W.</strong>: "Grundlagen der reellen Analysis, II Integralrechnung", VEB Deutscher Verlag der Wissenschaften, 1972</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$6267</td>
+<td style="text-align: left;"><strong>Weingärtner, Andreas</strong>: "Spezielle Relativitätstheorie - ganz einfach", Books On Demand, 2016</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$1038</td>
+<td style="text-align: left;"><strong>Wille, D; Holz., M </strong>: "Repetitorium der Linearen Algebra", Binomi Verlag, 1994</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8235</td>
+<td style="text-align: left;"><strong>Wüstholz, Gisbert</strong>: "Algebra, für Studierende der Mathematik, Physik, Informatik", Springer Spektrum, 2013, 2nd Edition</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$8245</td>
+<td style="text-align: left;"><strong>Wußing, H.</strong>: "Vorlesungen zur Geschichte der Mathematik", Studienbücherei, 1979</td>
+</tr>
+<tr>
+<td style="text-align: left;">bookofproofs$6925</td>
+<td style="text-align: left;">bookofproofs$6288</td>
+<td style="text-align: left;"><strong>Ziegler, Günter M.</strong>: "Lectures on Polytopes", Springer Verlag, 1994</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>
