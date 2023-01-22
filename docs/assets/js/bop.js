@@ -76,6 +76,6 @@ $j(document).ready(function() {
 });
 
 function showDialog(url){  //load content and open dialog
-    $j("#dialog").load(url);
+    $j("#dialog").load(url, {async: false});
     $j("#dialog").dialog("open");
 }
