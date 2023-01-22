@@ -255,7 +255,7 @@ class BopCompiler:
         # Do not uncomment this. To save storage, we will store images only once in the source github repository
         # but not as a duplicate in the docs folder store. As a convention, all images' urls will refer to the source
         # self.fm.copy_folder("../_sources/_assets/images", "../docs/assets/images")
-        self.fm.copy_file("../_sources/_assets/images/favicon.ico", "../docs/favicon.ico")
+        self.fm.copy_file("../_sources/_assets/images/fav.ico", "../docs/fav.ico")
 
     def _compile_sub_assets(self, sub):
         sub_contents = self.fm.get_folder_content("_sources/_assets/" + sub)
