@@ -38,7 +38,7 @@ class BopSource:
                        BopLayouts.corollary, BopLayouts.application, BopLayouts.motivation]
     root_nodes = ["bookofproofs$0", "bookofproofs$2", "bookofproofs$i"]
     url_root = "https://bookofproofs.github.io"
-    url_images = "https://github.com/bookofproofs/bookofproofs.github.io/blob/main"
+    url_images = "https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources"
 
     def __init__(self, file_name: str):
         self.fm = FileMgr()
