@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="POLYNOMIAL RINGS, IRREDUCIBILITY, FIELD EXTENSIONS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="polynomial rings,irreducibility,field extensions">
+<title>Polynomial Rings, Irreducibility, and Field Extensions</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/index.html" class="w3-bar-item">
+            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+        </a>
+        <!-- Float links to the right. Hide them on small screens -->
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <a href="https://bookofproofs.github.io/notation/notation.html" class="w3-bar-item w3-button">Notation</a>
+                <a href="https://bookofproofs.github.io/help/help.html" class="w3-bar-item w3-button">Help</a>
+                <div style='clear:both'></div>
+            </div>
+        </div>
+        <div style='clear:both'></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/algebra/one-to-one-correspondence-of-ideals-in-the-factor-ring-and-a-commutative-ring-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/algebra/algebraic-number-theory-and-ring-theory.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/algebra/polynomial-over-a-ring-degree-variable.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/algebra/algebra.html'>Algebra</a> / Chapter: Polynomial Rings, Irreducibility, and Field Extensions</h3>
+
+<hr>
+
+<h1>Chapter: Polynomial Rings, Irreducibility, and Field Extensions</h1>
+<p>In this chapter, we deal with solutions of polynomials over a ring $R[X]$, i.e. we will be looking for the <a href="https://bookofproofs.github.io/branches/set-theory/zero-of-a-function.html">roots</a> of the equation $p(x)=0$, where $p$ is a polynomial from $R[X]$. Usually, we require the ring $R$ to be a <a href="https://bookofproofs.github.io/branches/algebra/field.html">field</a> and talk about polynomials over a field $F[X]$. This is because we require that it is possible to divide an equation by some of the coefficients in the polynomial. This requirement will be necessary if we want to find a closed formula for the solution. </p>
+<p>Astonishingly, it will turn out that closed formulas for roots of polynomials are only possible up to the degree $4$. For degrees $5$ and above, no such formulas are not only known but also not possible. This is what is known as <em>Abel-Ruffini</em> theorem.</p>
+<p>In our search to find the <a href="https://bookofproofs.github.io/branches/set-theory/zero-of-a-function.html">roots</a> of polynomials, we will be using the tool of <em>field extensions</em>. We will explain what it exactly is later, but for the time being, it is sufficient to know that a field extension $L$ is a <a href="https://bookofproofs.github.io/branches/algebra/field.html">field</a> constructed with the purpose to contains both, the field $F$ (being itself a field containing the coefficients of a given polynomial $p$, but none of its roots) and the roots of this polynomial. In other words, $L$ is a field containing $F$, in which a given polynomial $p,$ which was non-solvable in $F,$ becomes solvable.</p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/algebra/polynomial-over-a-ring-degree-variable.html'>Definition: Polynomial over a Ring, Degree, Variable</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/polynomial-ring.html'>Definition: Polynomial Ring</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/elementary-symmetric-functions.html'>Definition: Elementary Symmetric Functions</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/irreducible-polynomial.html'>Definition: Irreducible Polynomial</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/field-extension.html'>Definition: Field Extension</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/algebraic-element.html'>Definition: Algebraic Element</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/multiplicity-of-a-root-of-a-polynomial.html'>Definition: Multiplicity of a Root of a Polynomial</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/transcendental-element.html'>Definition: Transcendental Element</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/minimal-polynomial.html'>Definition: Minimal Polynomial</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/subadditive-function.html'>Definition: Subadditive Function</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/solutions-of-polynomials.html'>Section: Solutions of Polynomials</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/polynomial-rings-and-irreducibility-field-extensions.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Footnotes</h4>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="LINEAR EQUATIONS AND SYSTEMS OF LINEAR EQUATIONS SLES &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="equations,linear,linear equations,,sles,systems,systems of linear equations">
+<title>Linear Equations and Systems of Linear Equations (SLEs)</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/index.html" class="w3-bar-item">
+            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+        </a>
+        <!-- Float links to the right. Hide them on small screens -->
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <a href="https://bookofproofs.github.io/notation/notation.html" class="w3-bar-item w3-button">Notation</a>
+                <a href="https://bookofproofs.github.io/help/help.html" class="w3-bar-item w3-button">Help</a>
+                <div style='clear:both'></div>
+            </div>
+        </div>
+        <div style='clear:both'></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/algebra/invertible-and-inverse-matrix.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/algebra/linear-algebra.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/algebra/linear-equations-with-many-unknowns.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/algebra/algebra.html'>Algebra</a> / Chapter: Linear Equations and Systems of Linear Equations (SLEs)</h3>
+
+<hr>
+
+<h1>Chapter: Linear Equations and Systems of Linear Equations (SLEs)</h1>
+<p><em>Linear equations,</em> like ${3x} -2 = 13,$ are the very first type of equations a schoolchild meets. This equation is called <a href="https://bookofproofs.github.io/branches/geometry/euclid-elements/book-1-plane-geometry/straight-line-segment-and-ray.html">linear" since its graph is a "straight line</a> To solve it, one treats $x$ as an unknown and applies usual rules of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html">arithmetics</a> to $x,$ as if it was a number. By applying these rules, you can transform the equation into a much simpler one, finally finding the <strong>solution</strong> - the number $x$ which satisfies the equation<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>:
+$$\begin{array}{rclll}
+{3x} -2&amp;=&amp;13&amp;&amp;|+2\\
+{3x}&amp;=&amp;15&amp;&amp;|\div 3\\
+x&amp;=&amp;5
+\end{array}$$</p>
+<p><em>Systems of linear equations</em> (SLEs) contain more than one linear equation. SLEs are well-studied mathematical objects and "simple" in the sense that they can be solved by applying the same rules of arithmetics needed to solve a single linear equation. A solution to an SLE are unknowns satisfying all linear equations at once. </p>
+<h3>Example</h3>
+<p>A word problem which can be solved using an SLE is known since antiquity:</p>
+<blockquote>
+<p>"There are rabbits and chickens in a cage. The number of heads is $4$, the number of legs is $10.$ How many rabbits and chickens are in the cage?"</p>
+</blockquote>
+<p>This word problem can be solved as follows: Let $r$ and $c$ denote the numbers of rabbits and chickens, respectively. Obviously, these unknowns satisfy the following linear equations simultaneously:</p>
+<p>$$\begin{array}{rcl}
+r + c&amp;=&amp;4\\
+4r + 2c&amp;=&amp;10\\
+\end{array}\quad ( * )$$</p>
+<p>Using the first equation, we can express the number of chickens as $c=4-r.$ Substituting $c$ by $4-r$ in the second equation gives us</p>
+<p>$$\begin{array}{rclll}
+4r + 2(4-r)&amp;=&amp;10&amp;&amp;\\
+4r + 8-2r&amp;=&amp;10&amp;&amp;|-8\\
+2r&amp;=&amp;2&amp;&amp;|\div 2\\
+r&amp;=&amp;1
+\end{array}$$</p>
+<p>Now, we know that there is only one rabbit in the cage. With this result, we can solve the first equation:</p>
+<p>$$\begin{array}{rclll}
+1 + c&amp;=&amp;4&amp;&amp;|-1\\
+c&amp;=&amp;3
+\end{array}$$</p>
+<h3>Real practical problems - SLEs with many unknowns</h3>
+<p>SLEs have a broad field of practical applications, including the economy, mechanics, electronics, geology, to mention just a few. Real practical problems from these fields lead to SLEs with many, often thousands, millions or even billions of unknowns. In comparison, the above SLE has only two unknowns - $c$ and $r.$ If an SLE has many equations in many unknowns, it is conceptually simpler to think of them as one equation in one unknown. This sounds impossible, but it is perfectly possible if we introduce more complicated mathematical objects - called <a href="https://bookofproofs.github.io/branches/algebra/matrix-set-of-matrices-over-a-field.html">matrices</a> and <a href="https://bookofproofs.github.io/branches/algebra/vector-space.html">vectors</a> For instance, the SLE given in $( * )$ can be written as a single equation </p>
+<p>$$ Ax=b,\quad ( * * )$$</p>
+<p>with the matrix $$A=\pmatrix{1&amp;1\\4&amp;2}$$
+and the vectors $$x=\pmatrix{r\\c}\quad\text{and}\quad b=\pmatrix{4\\10},$$
+in which the vector $x$ is the unknown vector satisfying the equation $( * * ).$ </p>
+<h3>What you will learn in this chapter of <strong><span style='color:orange'>Bookof</span><span style='color:lightblue'>Proofs</span></strong>?</h3>
+<p>In the following, we will </p>
+<ul>
+<li>establish the theoretical foundations to solve SLEs with an arbitrary number of unknowns </li>
+<li>learn about the conditions for the existence and uniqueness of solutions to SLEs </li>
+<li>introduce (computer) algorithms to solve SLEs with an arbitrary number of unknowns</li>
+<li>discuss the performance of these algorithms and ways to improve them</li>
+</ul>
+<h3 class='navigation'>Table of Contents</h3>
+
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/algebra/linear-equations-with-many-unknowns.html'>Definition: Linear Equations with many Unknowns</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/systems-of-linear-equations-with-many-unknowns.html'>Definition: Systems of Linear Equations with many Unknowns</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html'>Definition: Coefficient Matrix</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/solving-simple-systems-of-linear-equations.html'>Section: Solving Simple Systems of Linear Equations</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/solving-general-systems-of-linear-equations-gaussian-method.html'>Section: Solving General Systems Of Linear Equations - Gaussian Method</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/relationship-between-the-solutions-of-homogeneous-and-inhomogeneous-sles.html'>Theorem: Relationship Between the Solutions of Homogeneous and Inhomogeneous SLEs</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/fundamental-lemma-of-homogeneous-systems-of-linear-equations.html'>Lemma: Fundamental Lemma of Homogeneous Systems of Linear Equations</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/linear-equations-and-systems-of-linear-equations-sles.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Knabner, P; Barth, W.</strong>: "Lineare Algebra - Grundlagen und Anwendungen", Springer Spektrum, 2013</li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>The bar "|" to the right of each step denotes that we perform the same arithmetic operation on both sides of the equation, e.g. adding $2$ or dividing by $3.$&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

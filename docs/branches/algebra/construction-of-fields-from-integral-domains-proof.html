@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of CONSTRUCTION OF FIELDS FROM INTEGRAL DOMAINS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="construction,domains,fields,integral,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/index.html" class="w3-bar-item">
+            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+        </a>
+        <!-- Float links to the right. Hide them on small screens -->
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <a href="https://bookofproofs.github.io/notation/notation.html" class="w3-bar-item w3-button">Notation</a>
+                <a href="https://bookofproofs.github.io/help/help.html" class="w3-bar-item w3-button">Help</a>
+                <div style='clear:both'></div>
+            </div>
+        </div>
+        <div style='clear:both'></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/algebra/construction-of-fields-from-integral-domains.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/algebra/construction-of-fields-from-integral-domains.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/algebra/finite-integral-domains-are-fields.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/algebra/algebra.html'>Algebra</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/algebra/construction-of-fields-from-integral-domains.html'>Theorem: Construction of Fields from Integral Domains</a>)</p>
+<h4>Uniqueness</h4>
+<p>If \((F_1, + , \cdot)\) and \((F_2,\ast, \circ)\) where two different <a href="https://bookofproofs.github.io/branches/algebra/field.html">fields</a> fulfilling both properties (1) and (2), then because of the property (2), \((F_1,+, \cdot)\) would be a <a href="https://bookofproofs.github.io/branches/algebra/subfield.html">subfield</a> of \((F_2,\ast, \circ)\) and vice versa. Therefore, both fields must be the same.</p>
+<h4>Existence</h4>
+<p>To improve the readability, in our proof we write \(ab\) instead of \(a\cdot b\). Our proof will be comprised of 4 steps:</p>
+<h3>Step 1: Construct \((F, \ast , \circ)\) as a non-empty set with two binary operations: addition "\( \ast \)" and multiplication "\( \circ \)"</h3>
+<p>By assumption, \((R, +, \cdot)\) is an <a href="https://bookofproofs.github.io/branches/algebra/zero-divisor-and-integral-domain.html">integral domain</a> As a first step, we define an <a href="https://bookofproofs.github.io/branches/set-theory/equivalence-relation.html">equivalence relation</a> on the <a href="https://bookofproofs.github.io/branches/set-theory/cartesian-product.html">cartesian product</a> \(R\times (R\setminus\{0\})=\{(a,b)~|~a\in R,b\in R\setminus\{0\}\}\) as follows:</p>
+<p>$$(a,b)\sim (c,d)\Leftrightarrow ad=bc,~~~~~~(a,c\in R;~b,d\in R\setminus\{0\}).$$</p>
+<p>Please note that this is indeed an equivalence relation, since it is reflexive, symmetric and transitive:
+* The <strong>reflexivity</strong> of "\(\sim\)" follows from the commutativity of multiplication in the integral domain \((R, + , \cdot)\): $$(a,b)\sim(a,b)\Leftrightarrow ab=ba,~~~~~~(a\in R;~b\in R\setminus\{0\}).$$
+* Also the <strong>symmetry</strong> of "\(\sim\)" follows from the commutativity of multiplication in the integral domain \((R, + , \cdot)\): 
+$$\begin{array}{ccl}
+(a,b)\sim (c,d) &amp;\Leftrightarrow&amp; ad=bc\\
+&amp;\Leftrightarrow &amp;cb=da\\
+&amp;\Leftrightarrow&amp; (c,d)\sim (a,b),~~~~~~(a,c\in R;~b,d\in R\setminus\{0\}).
+\end{array}$$
+* The <strong>transitivity</strong> of  "\(\sim\)" follows from \(R\) being an integral domain: 
+   * Assume for \(a,c,e\in R;~b,d,f\in R\setminus\{0\}\):
+\begin{align}\label{eq:889a}\begin{array}{ccc}
+(a,b)\sim (c,d)&amp;\Leftrightarrow&amp;ad=bc\
+(c,d)\sim (e,f)&amp;\Leftrightarrow&amp;cf=de.\
+\end{array}\end{align}
+   * After multiplying both sides of both equations, we can first rearrange the variables, because the multiplication is commutative in any integral domain, and get
+\begin{align}\label{eq:889b}\begin{array}{ccc}
+(ad)(cf)&amp;=&amp;(bc)(de)\
+adcf&amp;=&amp;bcde\
+(af)(dc)&amp;=&amp;(be)(dc)\
+\end{array}\end{align}
+   * Now, if \(c\neq 0\), then \(d\in R\setminus\{0\}\) means that also \(d\neq 0\). Therefore we have \(dc\neq 0\), because in \(R\) the element \(0\) is the only zero divisor. This means that we can cancel \((dc)\) in the equation \eqref{eq:889b}, resulting in
+$$\begin{array}{ccc}
+(af)\cancel{(dc)}&amp;=&amp;(be)\cancel{(dc)}\\
+&amp;(a,b)\sim(e,f).&amp;
+\end{array}$$
+   * On the other hand, if \(c=0\), then it follows from \eqref{eq:889a} and from \(b,d,f\in R\setminus\{0\}\), and from the fact that \(F\) has no zero divisors except of \(0\) that we must have \(a=e=0\), which means that \((a,b)\sim(c,d)\) degrades to \((0,b)\sim(0,d)\Leftrightarrow 0\cdot d=b\cdot 0\Leftrightarrow 0=0\), and analogously  \((c,d)\sim(e,f)\) degrades to \((0,d)\sim(0,f)\Leftrightarrow 0\cdot f=d\cdot 0\Leftrightarrow 0=0\), which again means \((a,b)\sim(e,f)\). 
+   * Therefore, "\(\sim\)" is transitive.</p>
+<p>We have just shown that the relation "\(\sim\)" constitutes an equivalence relation. Therefore, each ordered pair \((a,b)\) represents its own equivalence class \(\lbrack a,b\rbrack \subseteq R\times (R\setminus\{0\})\) and we can set 
+$$F:=(R\times (R\setminus\{0\}))/\sim$$
+as the set of all these equivalence classes. However, because the relation \(\sim\) is symmetric and transitive, each equivalence class \(\lbrack a,b\rbrack \) <strong>does not(!)</strong> depend on the special choice of its representative \((a,b)\). Therefore, we can define two new binary operations \(\ast\), \(\circ\) on \(F\) using <strong>any</strong> representatives, e.g. the representatives \((a,b)\) and \((c,d)\) as we do in the following: 
+$$\begin{array}{ccl}
+\lbrack a,b\rbrack \ast\lbrack c,d\rbrack &amp;:=&amp;\lbrack ad + cb,~bd\rbrack ,\\
+\lbrack a,b\rbrack \circ\lbrack c,d\rbrack &amp;:=&amp;\lbrack ac,~bd\rbrack .\\
+\end{array}$$</p>
+<p>Please note that \(F\) does contain equivalence classes suitable to define the above binary operations \(\ast\), \(\circ\). Because \((R, + ,\cdot)\) is an integral domain, it contains the element \(0\), but also at least one other element \(x\in R\) with \(x\neq 0\). Therefore, \(F\) is also not empty (i.e. it contains at least the two equivalence classes \(\lbrack 0,x\rbrack \) and \(\lbrack x,x\rbrack \) represented by \((0,x)\) and \((x,x)\)). Thus, we have succeeded to define a non-empty set with two binary operations \((F,\ast,\circ)\).</p>
+<h3>Step 2: Demonstrate that \((F,\ast,\circ)\) is a field</h3>
+<p>We will show the <a href="https://bookofproofs.github.io/branches/algebra/field.html">defining properties of a field</a>, namely: 
+1. \((F,\ast)\) is a commutative group with \(\lbrack 0,x\rbrack \) as neutral element (of addition "\(\ast\)")
+1. \(F^*:=(F \setminus \{\lbrack 0,x\rbrack \},\circ)\) is a commutative group with \(\lbrack x,x\rbrack \) as neutral element (identity of multiplication "\(\circ\)")
+1. The distributivity law holds for all \(\lbrack a,b\rbrack ,\lbrack c,d\rbrack ,\lbrack e,f\rbrack \in F\).</p>
+<p>Ad 1):
+As mentioned in the last note on Step 1, \(\lbrack 0,x\rbrack \in F\), so \((F,\ast)\) is not empty.</p>
+<blockquote>
+<p>a) The operation \(\ast\) is associative, because for all \(\lbrack a,b\rbrack ,\lbrack c,d\rbrack ,\lbrack e,f\rbrack \in F\) we have
+$$
+\begin{array}{ccl}
+(\lbrack a,b\rbrack \ast\lbrack c,d\rbrack )\ast \lbrack e,f\rbrack &amp;=&amp;\lbrack ad + cb,bd\rbrack \ast\lbrack e,f\rbrack \\
+&amp;=&amp;\lbrack (ad + cb)f + ebd,bdf\rbrack \\
+&amp;=&amp;\lbrack adf + cfb + edb,bdf\rbrack \\
+&amp;=&amp;\lbrack adf + (cf + ed)b,bdf\rbrack \\
+&amp;=&amp;\lbrack a,b\rbrack \ast\lbrack cf + ed,df\rbrack =\lbrack a,b\rbrack \ast(\lbrack c,d\rbrack \ast\lbrack e,f\rbrack ).\\
+\end{array}$$</p>
+<p>b) The operation \(\ast\) is commutative, because for all \(\lbrack a,b\rbrack ,\lbrack c,d\rbrack \in F\) we have
+$$
+\begin{array}{ccl}
+\lbrack a,b\rbrack \ast\lbrack c,d\rbrack &amp;=&amp;\lbrack ad + cb,bd\rbrack \\
+&amp;=&amp;\lbrack cb + ad,db\rbrack =\lbrack c,d\rbrack \ast\lbrack a,b\rbrack .\\
+\end{array}$$</p>
+<p>c) The equivalence class \(\lbrack 0,x\rbrack \), represented by \((0,x)\) with \(0\in R;~x\in R\setminus\{0\}\) is the neutral element of the operation \(\ast\).
+$$
+\begin{array}{ccl}
+\lbrack a,b\rbrack \ast\lbrack 0,x\rbrack &amp;=&amp;\lbrack ax + 0\cdot b,bx\rbrack =\lbrack ax,bx\rbrack \\
+&amp;\Leftrightarrow&amp;ax=xb\\
+&amp;\Leftrightarrow&amp;a\cancel x=\cancel xb~~~~~~~~~\text{ note that we can cancel by }x\neq 0!\\
+&amp;\Leftrightarrow&amp;a\cdot 1=1\cdot b\\
+&amp;\Leftrightarrow&amp;\lbrack a\cdot 1,b\cdot 1\rbrack =\lbrack a,b\rbrack \\
+\end{array}$$</p>
+<p>d) Each equivalence class \(\lbrack a,b\rbrack \in(F,\ast)\) has an (additive) inverse element \(\lbrack - a,b\rbrack \in(F,\ast)\).
+$$\lbrack a,b\rbrack \ast\lbrack  - a,b\rbrack =\lbrack ab - ba,bb\rbrack =\lbrack 0,bb\rbrack =\lbrack 0,x\rbrack ,$$
+because \((0,bb)\sim(0,x)\).</p>
+</blockquote>
+<p>Ad 2):
+As mentioned in the last note on Step 1, \(\lbrack x,x\rbrack \in F \setminus \{\lbrack 0,x\rbrack \}\), so \((F \setminus \{\lbrack 0,x\rbrack \},\circ)\) is not empty.</p>
+<blockquote>
+<p>a) The operation \(\circ\) is associative, because for all \(\lbrack a,b\rbrack ,\lbrack c,d\rbrack ,\lbrack e,f\rbrack \in F \setminus \{\lbrack 0,x\rbrack \}\) we have
+$$
+\begin{array}{ccl}
+(\lbrack a,b\rbrack \circ\lbrack c,d\rbrack )\circ \lbrack e,f\rbrack &amp;=&amp;\lbrack ac,bd\rbrack \circ\lbrack e,f\rbrack \\
+&amp;=&amp;\lbrack (ac)e,(bd)f\rbrack \\
+&amp;=&amp;\lbrack (a(ce),b(df)\rbrack \\
+&amp;=&amp;\lbrack a,b\rbrack \circ\lbrack ce,df\rbrack \\
+&amp;=&amp;\lbrack a,b\rbrack \circ(\lbrack c,d\rbrack \circ\lbrack e,f\rbrack ).\\
+\end{array}$$</p>
+<p>b) The operation \(\circ\) is commutative, because for all \(\lbrack a,b\rbrack ,\lbrack c,d\rbrack \in F \setminus \{\lbrack 0,x\rbrack \}\) we have
+$$
+\begin{array}{ccl}
+\lbrack a,b\rbrack \circ\lbrack c,d\rbrack &amp;=&amp;\lbrack ac,bd\rbrack \\
+&amp;=&amp;\lbrack ca,db\rbrack =\lbrack c,d\rbrack \circ\lbrack a,b\rbrack .\\
+\end{array}$$</p>
+<p>c) The equivalence class \(\lbrack x,x\rbrack \), represented by \((x,x)\) with \(x\in R\setminus\{0\}\) is the neutral element of the operation \(\circ\).
+$$
+\begin{array}{ccl}
+\lbrack a,b\rbrack \circ\lbrack x,x\rbrack &amp;=&amp;\lbrack ax,bx\rbrack \\
+&amp;\Leftrightarrow&amp;ax=xb\\
+&amp;\Leftrightarrow&amp;a\cancel x=\cancel xb~~~~~~~~~\text{ note that we can cancel by }x\neq 0!\\
+&amp;\Leftrightarrow&amp;a\cdot 1=1\cdot b\\
+&amp;\Leftrightarrow&amp;\lbrack a\cdot 1,b\cdot 1\rbrack =\lbrack a,b\rbrack \\
+\end{array}$$</p>
+<p>d) Each equivalence class \(\lbrack a,b\rbrack \in(F \setminus \{\lbrack 0,x\rbrack \},\circ)\) has a (multiplicative) inverse element \(\lbrack b,a\rbrack \in(F \setminus \{\lbrack 0,x\rbrack \},\circ)\).
+$$\lbrack a,b\rbrack \circ\lbrack b,a\rbrack =\lbrack ab,ba\rbrack =\lbrack x,x\rbrack ,$$
+because \((ab,ba)\sim(x,x)\).</p>
+</blockquote>
+<p>Ad 3):
+In \((F,\ast,\circ)\), the distributivity law is fulfilled, because for all \(\lbrack a,b\rbrack ,\lbrack c,d\rbrack ,\lbrack e,f\rbrack \in F\) we have
+$$
+\begin{array}{ccl}
+\lbrack a,b\rbrack \circ(\lbrack c,d\rbrack \ast\lbrack e,f\rbrack )&amp;=&amp;\lbrack a,b\rbrack \circ\lbrack cf + de,df\rbrack \\
+&amp;=&amp;\lbrack a(cf + de),bdf\rbrack \\
+&amp;=&amp;\lbrack acf + ade),bdf\rbrack \\
+&amp;=&amp;\lbrack (acf + ade)b,(bdf)b\rbrack ~~~~~~~~~\text{ note that we can multiply by }b\neq 0!\\
+&amp;=&amp;\lbrack (ac)(bf) + (ae)(bd),(bd)(bf)\rbrack \\
+&amp;=&amp;\lbrack ac,bd\rbrack \ast\lbrack ae,bf\rbrack \\
+&amp;=&amp;(\lbrack a,b\rbrack \circ\lbrack c,d\rbrack )\ast(\lbrack a,b\rbrack \circ\lbrack e,f\rbrack ).
+\end{array}$$</p>
+<h3>Step 3: Demonstrate that \((F,\ast,\circ)\) fulfills property (1)</h3>
+<p>We shall show that there is a subset \(S\subseteq F\), which is a <a href="https://bookofproofs.github.io/branches/algebra/ring-homomorphism.html">ring isomorphic</a> to \(R\), i.e. where \((S, \ast, \circ)\simeq (R, +, \cdot)\). We will do so by constructing the subset \(S\subseteq F\) and finding a bijective homomorphism \(f:R\mapsto S\).
+* For the multiplicative identity element \(\lbrack x,x\rbrack \in F\), consider the subset 
+$$S:=\{\lbrack ax,x\rbrack ~|~a\in R\},$$
+and set $$f:\begin{cases}R&amp;\mapsto S\\a&amp;\mapsto \lbrack ax,x\rbrack .\end{cases}$$
+* Then \(f\) surjective by definition and it is injective since we can conclude that 
+$$\begin{array}{ccl}
+f(a)=f(b)&amp;\Leftrightarrow&amp;\lbrack ax,x\rbrack =\lbrack bx,x\rbrack \\
+&amp;\Rightarrow&amp;(ax,x)\sim(bx,x)\\
+&amp;\Rightarrow&amp;(ax)x=x(bx)\\
+&amp;\Rightarrow&amp;a\cancel{x^2}=b\cancel{x^2}~~~~~~~~~\text{ note that we can cancel by }x\neq 0!\\
+&amp;\Rightarrow&amp;a=b\\
+\end{array}.$$
+Since \(f\) is both, surjective and injective, it is <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html">bijective</a>
+* \(f\) is also a <a href="https://bookofproofs.github.io/branches/algebra/ring-homomorphism.html">ring homomorphism</a>, since we have
+$$\begin{array}{ccl}
+f(a+b)&amp;=&amp;\lbrack (a + b)x,x\rbrack \\
+&amp;=&amp;\lbrack (ax + bx),x\rbrack \\
+&amp;=&amp;\lbrack (ax)x + (bx)x,xx\rbrack ~~~~~~~~~\text{ note that we can multiply by }x\neq 0!\\
+&amp;=&amp;\lbrack ax,x\rbrack \ast\lbrack bx,x\rbrack \\
+&amp;=&amp;f(a)\ast f(b).
+\end{array}$$
+On the other hand, we have also
+$$\begin{array}{ccl}
+f(ab)&amp;=&amp;\lbrack (ab)x,x\rbrack \\
+&amp;=&amp;\lbrack abx,x\rbrack \\
+&amp;=&amp;\lbrack abxx,xx\rbrack ~~~~~~~~~\text{ note that we can multiply by }x\neq 0!\\
+&amp;=&amp;\lbrack ax,x\rbrack \circ\lbrack bx,x\rbrack \\
+&amp;=&amp;f(a)\circ f(b).
+\end{array}$$
+Together, we have shown the isomorphism \((S, \ast, \circ)\simeq (R, +, \cdot)\).</p>
+<h3>Step 4: Demonstrate that \((F,\ast,\circ)\) fulfills property (2)</h3>
+<p>We shall show that \((F,\ast,\circ)\) is minimal with the property (1). By construction of \(S\subseteq F\), \(F\) contains all elements of the form \(\lbrack ax,x\rbrack \) for all \(x\in R \setminus \{0\}\). Because \(F\) is a field, it must also contain the inverse elements \(\lbrack x,ax\rbrack \) for all \(a\in R \setminus \{0\}\). Because \((F,\ast,\circ)\) is closed under the operation \(\circ\), we also have that</p>
+<p>$$\lbrack ax,x\rbrack \circ\lbrack x,bx\rbrack =\lbrack a \cancel{xx},b\cancel{xx}\rbrack =\lbrack a,b\rbrack ,~~~~~~(a\in R,~b\in R \setminus \{0\}).$$
+This demonstrates that we cannot reduce \(F\) further more, e.g. by taking away any single equivalence class \(\lbrack a,b\rbrack \). Therefore \(F\) is minimal with the property (1).</p>
+<h4>Uniqueness</h4>
+<p>If \((F_1, + , \cdot)\) and \((F_2,\ast, \circ)\) where two different <a href="https://bookofproofs.github.io/branches/algebra/field.html">fields</a> fulfilling both properties (1) and (2), then because of the property (2), \((F_1,+, \cdot)\) would be a <a href="https://bookofproofs.github.io/branches/algebra/subfield.html">subfield</a> of \((F_2,\ast, \circ)\) and vice versa. Therefore, both fields must be the same.</p>
+<h4>Existence</h4>
+<p>To improve the readability, in our proof we write \(ab\) instead of \(a\cdot b\). Our proof will be comprised of 4 steps:</p>
+<h3>Step 1: Construct \((F, \ast , \circ)\) as a non-empty set with two binary operations: addition "\( \ast \)" and multiplication "\( \circ \)"</h3>
+<p>By assumption, \((R, +, \cdot)\) is an <a href="https://bookofproofs.github.io/branches/algebra/zero-divisor-and-integral-domain.html">integral domain</a> As a first step, we define an <a href="https://bookofproofs.github.io/branches/set-theory/equivalence-relation.html">equivalence relation</a> on the <a href="https://bookofproofs.github.io/branches/set-theory/cartesian-product.html">cartesian product</a> \(R\times (R\setminus\{0\})=\{(a,b)~|~a\in R,b\in R\setminus\{0\}\}\) as follows:</p>
+<p>$$(a,b)\sim (c,d)\Leftrightarrow ad=bc,~~~~~~(a,c\in R;~b,d\in R\setminus\{0\}).$$</p>
+<p>Please note that this is indeed an equivalence relation, since it is reflexive, symmetric and transitive:
+* The <strong>reflexivity</strong> of "\(\sim\)" follows from the commutativity of multiplication in the integral domain \((R, + , \cdot)\): $$(a,b)\sim(a,b)\Leftrightarrow ab=ba,~~~~~~(a\in R;~b\in R\setminus\{0\}).$$
+* Also the <strong>symmetry</strong> of "\(\sim\)" follows from the commutativity of multiplication in the integral domain \((R, + , \cdot)\): 
+$$\begin{array}{ccl}
+(a,b)\sim (c,d) &amp;\Leftrightarrow&amp; ad=bc\\
+&amp;\Leftrightarrow &amp;cb=da\\
+&amp;\Leftrightarrow&amp; (c,d)\sim (a,b),~~~~~~(a,c\in R;~b,d\in R\setminus\{0\}).
+\end{array}$$
+* The <strong>transitivity</strong> of  "\(\sim\)" follows from \(R\) being an integral domain: 
+   * Assume for \(a,c,e\in R;~b,d,f\in R\setminus\{0\}\):
+\begin{align}\label{eq:889a}\begin{array}{ccc}
+(a,b)\sim (c,d)&amp;\Leftrightarrow&amp;ad=bc\
+(c,d)\sim (e,f)&amp;\Leftrightarrow&amp;cf=de.\
+\end{array}\end{align}
+   * After multiplying both sides of both equations, we can first rearrange the variables, because the multiplication is commutative in any integral domain, and get
+\begin{align}\label{eq:889b}\begin{array}{ccc}
+(ad)(cf)&amp;=&amp;(bc)(de)\
+adcf&amp;=&amp;bcde\
+(af)(dc)&amp;=&amp;(be)(dc)\
+\end{array}\end{align}
+   * Now, if \(c\neq 0\), then \(d\in R\setminus\{0\}\) means that also \(d\neq 0\). Therefore we have \(dc\neq 0\), because in \(R\) the element \(0\) is the only zero divisor. This means that we can cancel \((dc)\) in the equation \eqref{eq:889b}, resulting in
+$$\begin{array}{ccc}
+(af)\cancel{(dc)}&amp;=&amp;(be)\cancel{(dc)}\\
+&amp;(a,b)\sim(e,f).&amp;
+\end{array}$$
+   * On the other hand, if \(c=0\), then it follows from \eqref{eq:889a} and from \(b,d,f\in R\setminus\{0\}\), and from the fact that \(F\) has no zero divisors except of \(0\) that we must have \(a=e=0\), which means that \((a,b)\sim(c,d)\) degrades to \((0,b)\sim(0,d)\Leftrightarrow 0\cdot d=b\cdot 0\Leftrightarrow 0=0\), and analogously  \((c,d)\sim(e,f)\) degrades to \((0,d)\sim(0,f)\Leftrightarrow 0\cdot f=d\cdot 0\Leftrightarrow 0=0\), which again means \((a,b)\sim(e,f)\). 
+   * Therefore, "\(\sim\)" is transitive.</p>
+<p>We have just shown that the relation "\(\sim\)" constitutes an equivalence relation. Therefore, each ordered pair \((a,b)\) represents its own equivalence class \(\lbrack a,b\rbrack \subseteq R\times (R\setminus\{0\})\) and we can set 
+$$F:=(R\times (R\setminus\{0\}))/\sim$$
+as the set of all these equivalence classes. However, because the relation \(\sim\) is symmetric and transitive, each equivalence class \(\lbrack a,b\rbrack \) <strong>does not(!)</strong> depend on the special choice of its representative \((a,b)\). Therefore, we can define two new binary operations \(\ast\), \(\circ\) on \(F\) using <strong>any</strong> representatives, e.g. the representatives \((a,b)\) and \((c,d)\) as we do in the following: 
+$$\begin{array}{ccl}
+\lbrack a,b\rbrack \ast\lbrack c,d\rbrack &amp;:=&amp;\lbrack ad + cb,~bd\rbrack ,\\
+\lbrack a,b\rbrack \circ\lbrack c,d\rbrack &amp;:=&amp;\lbrack ac,~bd\rbrack .\\
+\end{array}$$</p>
+<p>Please note that \(F\) does contain equivalence classes suitable to define the above binary operations \(\ast\), \(\circ\). Because \((R, + ,\cdot)\) is an integral domain, it contains the element \(0\), but also at least one other element \(x\in R\) with \(x\neq 0\). Therefore, \(F\) is also not empty (i.e. it contains at least the two equivalence classes \(\lbrack 0,x\rbrack \) and \(\lbrack x,x\rbrack \) represented by \((0,x)\) and \((x,x)\)). Thus, we have succeeded to define a non-empty set with two binary operations \((F,\ast,\circ)\).</p>
+<h3>Step 2: Demonstrate that \((F,\ast,\circ)\) is a field</h3>
+<p>We will show the <a href="https://bookofproofs.github.io/branches/algebra/field.html">defining properties of a field</a>, namely: 
+1. \((F,\ast)\) is a commutative group with \(\lbrack 0,x\rbrack \) as neutral element (of addition "\(\ast\)")
+1. \(F^*:=(F \setminus \{\lbrack 0,x\rbrack \},\circ)\) is a commutative group with \(\lbrack x,x\rbrack \) as neutral element (identity of multiplication "\(\circ\)")
+1. The distributivity law holds for all \(\lbrack a,b\rbrack ,\lbrack c,d\rbrack ,\lbrack e,f\rbrack \in F\).</p>
+<p>Ad 1):
+As mentioned in the last note on Step 1, \(\lbrack 0,x\rbrack \in F\), so \((F,\ast)\) is not empty.</p>
+<blockquote>
+<p>a) The operation \(\ast\) is associative, because for all \(\lbrack a,b\rbrack ,\lbrack c,d\rbrack ,\lbrack e,f\rbrack \in F\) we have
+$$
+\begin{array}{ccl}
+(\lbrack a,b\rbrack \ast\lbrack c,d\rbrack )\ast \lbrack e,f\rbrack &amp;=&amp;\lbrack ad + cb,bd\rbrack \ast\lbrack e,f\rbrack \\
+&amp;=&amp;\lbrack (ad + cb)f + ebd,bdf\rbrack \\
+&amp;=&amp;\lbrack adf + cfb + edb,bdf\rbrack \\
+&amp;=&amp;\lbrack adf + (cf + ed)b,bdf\rbrack \\
+&amp;=&amp;\lbrack a,b\rbrack \ast\lbrack cf + ed,df\rbrack =\lbrack a,b\rbrack \ast(\lbrack c,d\rbrack \ast\lbrack e,f\rbrack ).\\
+\end{array}$$</p>
+<p>b) The operation \(\ast\) is commutative, because for all \(\lbrack a,b\rbrack ,\lbrack c,d\rbrack \in F\) we have
+$$
+\begin{array}{ccl}
+\lbrack a,b\rbrack \ast\lbrack c,d\rbrack &amp;=&amp;\lbrack ad + cb,bd\rbrack \\
+&amp;=&amp;\lbrack cb + ad,db\rbrack =\lbrack c,d\rbrack \ast\lbrack a,b\rbrack .\\
+\end{array}$$</p>
+<p>c) The equivalence class \(\lbrack 0,x\rbrack \), represented by \((0,x)\) with \(0\in R;~x\in R\setminus\{0\}\) is the neutral element of the operation \(\ast\).
+$$
+\begin{array}{ccl}
+\lbrack a,b\rbrack \ast\lbrack 0,x\rbrack &amp;=&amp;\lbrack ax + 0\cdot b,bx\rbrack =\lbrack ax,bx\rbrack \\
+&amp;\Leftrightarrow&amp;ax=xb\\
+&amp;\Leftrightarrow&amp;a\cancel x=\cancel xb~~~~~~~~~\text{ note that we can cancel by }x\neq 0!\\
+&amp;\Leftrightarrow&amp;a\cdot 1=1\cdot b\\
+&amp;\Leftrightarrow&amp;\lbrack a\cdot 1,b\cdot 1\rbrack =\lbrack a,b\rbrack \\
+\end{array}$$</p>
+<p>d) Each equivalence class \(\lbrack a,b\rbrack \in(F,\ast)\) has an (additive) inverse element \(\lbrack - a,b\rbrack \in(F,\ast)\).
+$$\lbrack a,b\rbrack \ast\lbrack  - a,b\rbrack =\lbrack ab - ba,bb\rbrack =\lbrack 0,bb\rbrack =\lbrack 0,x\rbrack ,$$
+because \((0,bb)\sim(0,x)\).</p>
+</blockquote>
+<p>Ad 2):
+As mentioned in the last note on Step 1, \(\lbrack x,x\rbrack \in F \setminus \{\lbrack 0,x\rbrack \}\), so \((F \setminus \{\lbrack 0,x\rbrack \},\circ)\) is not empty.</p>
+<blockquote>
+<p>a) The operation \(\circ\) is associative, because for all \(\lbrack a,b\rbrack ,\lbrack c,d\rbrack ,\lbrack e,f\rbrack \in F \setminus \{\lbrack 0,x\rbrack \}\) we have
+$$
+\begin{array}{ccl}
+(\lbrack a,b\rbrack \circ\lbrack c,d\rbrack )\circ \lbrack e,f\rbrack &amp;=&amp;\lbrack ac,bd\rbrack \circ\lbrack e,f\rbrack \\
+&amp;=&amp;\lbrack (ac)e,(bd)f\rbrack \\
+&amp;=&amp;\lbrack (a(ce),b(df)\rbrack \\
+&amp;=&amp;\lbrack a,b\rbrack \circ\lbrack ce,df\rbrack \\
+&amp;=&amp;\lbrack a,b\rbrack \circ(\lbrack c,d\rbrack \circ\lbrack e,f\rbrack ).\\
+\end{array}$$</p>
+<p>b) The operation \(\circ\) is commutative, because for all \(\lbrack a,b\rbrack ,\lbrack c,d\rbrack \in F \setminus \{\lbrack 0,x\rbrack \}\) we have
+$$
+\begin{array}{ccl}
+\lbrack a,b\rbrack \circ\lbrack c,d\rbrack &amp;=&amp;\lbrack ac,bd\rbrack \\
+&amp;=&amp;\lbrack ca,db\rbrack =\lbrack c,d\rbrack \circ\lbrack a,b\rbrack .\\
+\end{array}$$</p>
+<p>c) The equivalence class \(\lbrack x,x\rbrack \), represented by \((x,x)\) with \(x\in R\setminus\{0\}\) is the neutral element of the operation \(\circ\).
+$$
+\begin{array}{ccl}
+\lbrack a,b\rbrack \circ\lbrack x,x\rbrack &amp;=&amp;\lbrack ax,bx\rbrack \\
+&amp;\Leftrightarrow&amp;ax=xb\\
+&amp;\Leftrightarrow&amp;a\cancel x=\cancel xb~~~~~~~~~\text{ note that we can cancel by }x\neq 0!\\
+&amp;\Leftrightarrow&amp;a\cdot 1=1\cdot b\\
+&amp;\Leftrightarrow&amp;\lbrack a\cdot 1,b\cdot 1\rbrack =\lbrack a,b\rbrack \\
+\end{array}$$</p>
+<p>d) Each equivalence class \(\lbrack a,b\rbrack \in(F \setminus \{\lbrack 0,x\rbrack \},\circ)\) has a (multiplicative) inverse element \(\lbrack b,a\rbrack \in(F \setminus \{\lbrack 0,x\rbrack \},\circ)\).
+$$\lbrack a,b\rbrack \circ\lbrack b,a\rbrack =\lbrack ab,ba\rbrack =\lbrack x,x\rbrack ,$$
+because \((ab,ba)\sim(x,x)\).</p>
+</blockquote>
+<p>Ad 3):
+In \((F,\ast,\circ)\), the distributivity law is fulfilled, because for all \(\lbrack a,b\rbrack ,\lbrack c,d\rbrack ,\lbrack e,f\rbrack \in F\) we have
+$$
+\begin{array}{ccl}
+\lbrack a,b\rbrack \circ(\lbrack c,d\rbrack \ast\lbrack e,f\rbrack )&amp;=&amp;\lbrack a,b\rbrack \circ\lbrack cf + de,df\rbrack \\
+&amp;=&amp;\lbrack a(cf + de),bdf\rbrack \\
+&amp;=&amp;\lbrack acf + ade),bdf\rbrack \\
+&amp;=&amp;\lbrack (acf + ade)b,(bdf)b\rbrack ~~~~~~~~~\text{ note that we can multiply by }b\neq 0!\\
+&amp;=&amp;\lbrack (ac)(bf) + (ae)(bd),(bd)(bf)\rbrack \\
+&amp;=&amp;\lbrack ac,bd\rbrack \ast\lbrack ae,bf\rbrack \\
+&amp;=&amp;(\lbrack a,b\rbrack \circ\lbrack c,d\rbrack )\ast(\lbrack a,b\rbrack \circ\lbrack e,f\rbrack ).
+\end{array}$$</p>
+<h3>Step 3: Demonstrate that \((F,\ast,\circ)\) fulfills property (1)</h3>
+<p>We shall show that there is a subset \(S\subseteq F\), which is a <a href="https://bookofproofs.github.io/branches/algebra/ring-homomorphism.html">ring isomorphic</a> to \(R\), i.e. where \((S, \ast, \circ)\simeq (R, +, \cdot)\). We will do so by constructing the subset \(S\subseteq F\) and finding a bijective homomorphism \(f:R\mapsto S\).
+* For the multiplicative identity element \(\lbrack x,x\rbrack \in F\), consider the subset 
+$$S:=\{\lbrack ax,x\rbrack ~|~a\in R\},$$
+and set $$f:\begin{cases}R&amp;\mapsto S\\a&amp;\mapsto \lbrack ax,x\rbrack .\end{cases}$$
+* Then \(f\) surjective by definition and it is injective since we can conclude that 
+$$\begin{array}{ccl}
+f(a)=f(b)&amp;\Leftrightarrow&amp;\lbrack ax,x\rbrack =\lbrack bx,x\rbrack \\
+&amp;\Rightarrow&amp;(ax,x)\sim(bx,x)\\
+&amp;\Rightarrow&amp;(ax)x=x(bx)\\
+&amp;\Rightarrow&amp;a\cancel{x^2}=b\cancel{x^2}~~~~~~~~~\text{ note that we can cancel by }x\neq 0!\\
+&amp;\Rightarrow&amp;a=b\\
+\end{array}.$$
+Since \(f\) is both, surjective and injective, it is <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html">bijective</a>
+* \(f\) is also a <a href="https://bookofproofs.github.io/branches/algebra/ring-homomorphism.html">ring homomorphism</a>, since we have
+$$\begin{array}{ccl}
+f(a+b)&amp;=&amp;\lbrack (a + b)x,x\rbrack \\
+&amp;=&amp;\lbrack (ax + bx),x\rbrack \\
+&amp;=&amp;\lbrack (ax)x + (bx)x,xx\rbrack ~~~~~~~~~\text{ note that we can multiply by }x\neq 0!\\
+&amp;=&amp;\lbrack ax,x\rbrack \ast\lbrack bx,x\rbrack \\
+&amp;=&amp;f(a)\ast f(b).
+\end{array}$$
+On the other hand, we have also
+$$\begin{array}{ccl}
+f(ab)&amp;=&amp;\lbrack (ab)x,x\rbrack \\
+&amp;=&amp;\lbrack abx,x\rbrack \\
+&amp;=&amp;\lbrack abxx,xx\rbrack ~~~~~~~~~\text{ note that we can multiply by }x\neq 0!\\
+&amp;=&amp;\lbrack ax,x\rbrack \circ\lbrack bx,x\rbrack \\
+&amp;=&amp;f(a)\circ f(b).
+\end{array}$$
+Together, we have shown the isomorphism \((S, \ast, \circ)\simeq (R, +, \cdot)\).</p>
+<h3>Step 4: Demonstrate that \((F,\ast,\circ)\) fulfills property (2)</h3>
+<p>We shall show that \((F,\ast,\circ)\) is minimal with the property (1). By construction of \(S\subseteq F\), \(F\) contains all elements of the form \(\lbrack ax,x\rbrack \) for all \(x\in R \setminus \{0\}\). Because \(F\) is a field, it must also contain the inverse elements \(\lbrack x,ax\rbrack \) for all \(a\in R \setminus \{0\}\). Because \((F,\ast,\circ)\) is closed under the operation \(\circ\), we also have that</p>
+<p>$$\lbrack ax,x\rbrack \circ\lbrack x,bx\rbrack =\lbrack a \cancel{xx},b\cancel{xx}\rbrack =\lbrack a,b\rbrack ,~~~~~~(a\in R,~b\in R \setminus \{0\}).$$
+This demonstrates that we cannot reduce \(F\) further more, e.g. by taking away any single equivalence class \(\lbrack a,b\rbrack \). Therefore \(F\) is minimal with the property (1).</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/construction-of-fields-from-integral-domains-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Kramer Jürg, von Pippich, Anna-Maria</strong>: "Von den natürlichen Zahlen zu den Quaternionen", Springer-Spektrum, 2013</li>
+</ol>
+<h4>Footnotes</h4>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

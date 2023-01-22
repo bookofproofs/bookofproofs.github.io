@@ -146,6 +146,10 @@ class BopValidator:
                     self._parent_child_graph[bop_source.parentid] = list()
                 self._parent_child_graph[bop_source.parentid].append(bop_source.nodeid)
                 bop_source.set_parent(self._unique_nodeids[bop_source.parentid])
+        print("   Sorting parent-child graph")
+        for nodeid in self._unique_nodeids:
+            if nodeid in self._parent_child_graph:
+                self._parent_child_graph[nodeid].sort(key=self.get_order_id)
 
     def _validate_tree(self):
         """

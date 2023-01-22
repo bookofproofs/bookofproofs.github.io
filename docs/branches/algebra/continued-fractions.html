@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="CONTINUED FRACTIONS ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="continued,continued fraction,finite continued fraction,fractions,infinite continued fraction,continued fractions">
+<title>Continued Fractions</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/index.html" class="w3-bar-item">
+            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+        </a>
+        <!-- Float links to the right. Hide them on small screens -->
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <a href="https://bookofproofs.github.io/notation/notation.html" class="w3-bar-item w3-button">Notation</a>
+                <a href="https://bookofproofs.github.io/help/help.html" class="w3-bar-item w3-button">Help</a>
+                <div style='clear:both'></div>
+            </div>
+        </div>
+        <div style='clear:both'></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/algebra/rational-numbers-and-the-greatest-common-divisor.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/algebra/algebraic-and-transcendent-numbers.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/algebra/continuants-and-convergents.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/algebra/algebra.html'>Algebra</a> / Definition: Continued Fractions</h3>
+
+<hr>
+
+<p>In the following, we will introduce <em>continued fractions</em>, which will help us to find a representation of real numbers, which is independent of any basis and with the help of which we will be able to reveal the structure of a given real number.</p>
+<h1>Definition: Continued Fractions</h1>
+<p>A <strong>continued fraction</strong> is a <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/ratio-of-two-real-numbers.html">ratio</a> built from the  <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/order-relation-for-integers-positive-and-negative-integers.html">positive integers</a> $q_0, q_1,q_2,\ldots \in\mathbb Z$ of the following form:</p>
+<p>$$[q_0;q_1,q_2,\ldots]:=q_0+\cfrac{1}{q_1+\cfrac{1}{q_2+\cfrac{1}\ddots}}.$$</p>
+<h3>Notes</h3>
+<ul>
+<li>If the <a href="https://bookofproofs.github.io/branches/analysis/real-sequence.html">sequence</a> $(q_n)_{n\in\mathbb N}$ is infinite, then $[q_0;q_1,q_2,\ldots]$ is called an <strong>infinite continued fraction</strong>.<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup></li>
+<li>A the case of a finite sequence, $[q_0;q_1,q_2,\ldots,q_n]$ is called a <strong>finite continued fraction</strong>.</li>
+<li>In a continued fraction (both finite or infinite), we sometimes consider the first $k+1$ elements $[q_0;q_1,q_2,\ldots,q_k]$ for a $k\ge 0$ and call them the $k$-th <strong>convergent</strong> of the continued fraction. If this is a section of a finite continued fraction, then we require $0\le k\le n.$</li>
+<li>See <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/semi-numerical-algorithms/continued-fraction-python.html">continued fraction</a> Python algorithm for practical calculation of the $k$-th section.</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/continued-fractions.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Schnorr, C.P.</strong>: "Lecture Notes Diskrete Mathematik", Goethe University Frankfurt, 2001</li>
+<li><strong>Kraetzel, E.</strong>: "Studienbücherei Zahlentheorie", VEB Deutscher Verlag der Wissenschaften, 1981</li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>This is only a formal definition, since the question, whether an infinite continued fraction is <a href="https://bookofproofs.github.io/branches/analysis/convergent-real-sequence.html">convergent</a>, is not answered yet.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

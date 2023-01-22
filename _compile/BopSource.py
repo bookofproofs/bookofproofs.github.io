@@ -203,14 +203,21 @@ class BopSource:
         ret = self._pre_body
         ret += self.__get_title()
         if self.parent.title != "":
-            ret += " (related to <a href='" + self.parent.url() + "'>" + self.parent.title + "</a>)\n\n"
+            ret += " (related to <a href='" + self.parent.url() + "'>" + self.parent.get_plane_title() + "</a>)\n\n"
+        if self._body.strip() == "":
+            ret += "_(no contents provided yet)_"
+        else:
+            ret += self._body
         ret += self._body
         return ret
 
     def _get_content_node(self):
         ret = self._pre_body
         ret += self.__get_title()
-        ret += self._body
+        if self._body.strip() == "":
+            ret += "_(no contents provided yet)_"
+        else:
+            ret += self._body
         return ret
 
     def get_body(self):
@@ -284,7 +291,7 @@ class BopSource:
     def get_long_title(self):
         title = self.title
         if title == "" and self.layout in BopSource.related_layouts:
-            title = "(related to " + self.parent.title + ")"
+            title = "(related to " + self.parent.get_plane_title() + ")"
         if title == "" and self.nodeid in BopSource.root_nodes:
             title = self.categories[0].capitalize()
         return title
@@ -299,6 +306,8 @@ class BopSource:
         ret = BopSource.get_layout_title(self.layout)
         if self.title != "" and ret != ".":
             ret += ": " + self.title
+        elif self.title == "" and ret != ".":
+            return ret
         else:
             ret = self.title
         return ret

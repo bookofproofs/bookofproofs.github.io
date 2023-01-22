@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="GAUSSIAN METHOD TO SOLVE SYSTEMS OF LINEAR EQUATIONS, RANK OF A MATRIX &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="equations,gaussian,gaussian method,linear,matrix,method,rank,solve,systems">
+<title>Gaussian Method to Solve Systems of Linear Equations, Rank of a Matrix</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/index.html" class="w3-bar-item">
+            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+        </a>
+        <!-- Float links to the right. Hide them on small screens -->
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <a href="https://bookofproofs.github.io/notation/notation.html" class="w3-bar-item w3-button">Notation</a>
+                <a href="https://bookofproofs.github.io/help/help.html" class="w3-bar-item w3-button">Help</a>
+                <div style='clear:both'></div>
+            </div>
+        </div>
+        <div style='clear:both'></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/algebra/elementary-gaussian-operations-do-not-change-the-solutions-of-an-sle-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/algebra/solving-general-systems-of-linear-equations-gaussian-method.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/algebra/the-gaussian-method-in-practice.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/algebra/algebra.html'>Algebra</a> / Definition: Gaussian Method to Solve Systems of Linear Equations, Rank of a Matrix</h3>
+
+<hr>
+
+<h1>Definition: Gaussian Method to Solve Systems of Linear Equations, Rank of a Matrix</h1>
+<p>The <strong>Gaussian method</strong> is a method to solve a given <a href="https://bookofproofs.github.io/branches/algebra/systems-of-linear-equations-with-many-unknowns.html">system of linear equations (SLE)</a> written in the form of an <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html">extended coefficient matrix</a>:</p>
+<p>$$A|\beta:=\left(\begin{array}{ccc|c}\alpha_{11}&amp; \ldots&amp;\alpha_{1n}&amp;\beta_1\\ 
+\alpha_{21}&amp; \ldots&amp;\alpha_{2n}&amp;\beta_2\\ 
+\vdots&amp;\vdots&amp;\vdots&amp;\vdots\\ 
+\alpha_{m1}&amp; \ldots&amp;\alpha_{mn}&amp;\beta_m\end{array}\right)\quad\quad ( * )$$</p>
+<p>with $\beta_i,a_ij\in F$, where $F$ is a <a href="https://bookofproofs.github.io/branches/algebra/field.html">field</a> and not all $\beta_i,a_{ij}$ are zero<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>.</p>
+<p>The method consists of the following two steps:</p>
+<ol>
+<li>Bring the system $( * )$ to an <a href="https://bookofproofs.github.io/branches/algebra/solution-to-an-upper-triangular-sle-backward-substitution.html">upper triangular</a> form 
+$$\left(\begin{array}{ccccccc|c}a_{11}&amp; a_{12}&amp;\ldots&amp;a_{1r}&amp;a_{1,r+1}&amp;\ldots&amp;a_{1n}&amp;b_1\\ 
+0&amp; a_{22}&amp;\ldots&amp;a_{2r}&amp;a_{2,r+1}&amp;\ldots&amp;a_{2n}&amp;b_2\\ 
+\vdots&amp;\vdots&amp;\ddots&amp;\vdots&amp;\vdots&amp;\vdots&amp;\vdots&amp;\vdots\\ 
+0&amp; 0 &amp;\ldots&amp;a_{rr}&amp;a_{r,r+1}&amp;\ldots&amp;a_{rn}&amp;b_r\\ 
+\vdots&amp; \vdots &amp;\ldots&amp;0&amp;0&amp;\ldots&amp;0&amp;b_{r+1}\\ 
+\vdots&amp; \vdots &amp;\ldots&amp;\vdots&amp;\vdots&amp;\ldots&amp;\vdots&amp;\vdots\\ 
+0&amp; \ldots &amp;\ldots&amp;0&amp;0&amp;\ldots&amp;0&amp;b_m\\ 
+\end{array}\right)\quad \quad ( * * )$$ 
+using the <a href="https://bookofproofs.github.io/branches/algebra/elementary-gaussian-operations.html">elementary Gaussian operations</a>, where<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup> all the $a_{ii}\neq 0$ for $i=1,\ldots $ with some $r\in\{1,\ldots,\min(m,n)\}.$ The number $r$ is called the <strong>rank</strong> of the <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html">coefficient matrix</a> $A.$
+The first step might involve the following steps:<ol>
+<li>Remove all columns consisting of only zero elements.</li>
+<li>Set $k=1$.</li>
+<li>Check, if in the remaining system, the element $\alpha_{kk}$ is non-zero, if so proceed with the step 5.</li>
+<li>Let $i$ be the row, in which in the first column the element $\alpha_{ik}$ is not zero. Exchange the rows $1$ and $i,$ i.e. set $a_{1k}:=\alpha_{ik}$ (applying Gaussian operation $I.$)<sup id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup> </li>
+<li>To set the numbers $\alpha_{2k},\ldots,\alpha_{mk}$ to zero, add to the rows $2,\ldots,m$ a suitable multiple of the $k$-th row (applying Gaussian operation $III.$)</li>
+<li>If the upper triangular form $( * * )$ has been reached, end.</li>
+<li>Otherwise set $k=k+1$ and go back to step 3. </li>
+</ol>
+</li>
+<li>If in the system $( * * )$ $b_j\neq 0$ for at least one $j &gt; r,$ then the system $( * )$ has no solutions<sup id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup>. Otherwise, we can solve the system $( * * )$ using the <a href="https://bookofproofs.github.io/branches/algebra/solution-to-an-upper-triangular-sle-backward-substitution.html">backward substitution</a>.</li>
+</ol>
+<p>The Gaussian method makes use of the lemma that <a href="https://bookofproofs.github.io/branches/algebra/elementary-gaussian-operations-do-not-change-the-solutions-of-an-sle.html">the elementary Gaussian operations do not change the set of solutions</a> of the system $( * ).$ Thus, the solution to $( * * )$ found in the second step is also a solution to $( * ).$</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/gaussian-method-to-solve-systems-of-linear-equations-rank-of-a-matrix.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Knabner, P; Barth, W.</strong>: "Lineare Algebra - Grundlagen und Anwendungen", Springer Spektrum, 2013</li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>If so, we have the case <a href="https://bookofproofs.github.io/branches/algebra/solution-to-a-zero-sle.html">discussed in this example</a>&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:2">
+<p>In the system $( * * )$ we have used the Latin notation $a,b$ instead of the Greek notation $\alpha, \gamma$ to indicate that these elements might be different from the original system $( * )$ after having applied the elementary Gaussian operations.&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+<li id="fn:3">
+<p>When implementing the algorithm for the computer, one should choose the row $i$ with the maximal absolute value of $\alpha_{i1}$ to make the algorithm numerically stable.&#160;<a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text">&#8617;</a></p>
+</li>
+<li id="fn:4">
+<p>As we have seen in <a href="https://bookofproofs.github.io/branches/algebra/solution-to-a-degenerated-diagonal-sle.html">this example</a>&#160;<a class="footnote-backref" href="#fnref:4" title="Jump back to footnote 4 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

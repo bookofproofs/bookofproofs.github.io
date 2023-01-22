@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="DIRECT PROOF Proof of PROPERTIES OF A GROUP HOMOMORPHISM ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!">
+<meta name="keywords" content="properties of group homomorphism,property of group homomorphism,properties of group homomorphisms,property of group homomorphisms,properties of homomorphism,group homomorphism properties,homomorphism properties,group homomorphism,properties of homomorphisms,homomorphism property,group homomorphism pdf,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/index.html" class="w3-bar-item">
+            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+        </a>
+        <!-- Float links to the right. Hide them on small screens -->
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <a href="https://bookofproofs.github.io/notation/notation.html" class="w3-bar-item w3-button">Notation</a>
+                <a href="https://bookofproofs.github.io/help/help.html" class="w3-bar-item w3-button">Help</a>
+                <div style='clear:both'></div>
+            </div>
+        </div>
+        <div style='clear:both'></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/algebra/examples-of-properties-of-group-homomorphisms.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/algebra/algebra.html'>Algebra</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html'>Proposition: Properties of a Group Homomorphism</a>)</p>
+<h3>Proof of (1)</h3>
+<ul>
+<li>Since \(f\) is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a>, it follows for the <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">identity</a> \(e_G\) of the <a href="https://bookofproofs.github.io/branches/algebra/group.html">group</a> \((G,\ast)\) that $f(e_G)=f(e_G\ast e_G)=f(e_G)\cdot f(e_G).$</li>
+<li>The multiplication (inside the group \(H\)) of the equation with the element and \(f(e_G)^{-1}\) gives us   $f(e_G)\cdot f(e_G)^{-1}=f(e_G)\cdot f(e_G)\cdot f(e_G)^{-1}.$ </li>
+<li>This can be simplified to $e_H=f(e_G)\cdot e_H=f(e_G).$</li>
+</ul>
+<h3>Proof of (2)</h3>
+<ul>
+<li>In order to show \(f(x^{-1})=f(x)^{-1}\), we multiply the equation (inside the group \(H\)) with \(f(x)\), use the homomorphism property of \(f\) and the result in (1), which gives us $f(x)\cdot f(x^{-1})=f(x\ast x^{-1})=f(e_G)=e_H.$</li>
+<li>After multiplying both sides of the equation with \(f(x)^{-1}\), we get $f(x)^{-1}\cdot f(x)\cdot f(x^{-1})=f(x)^{-1}\cdot e_H.$</li>
+<li>This can be simplified to $e_H\cdot f(x^{-1})=f(x)^{-1},$ and finally to $f(x^{-1})=f(x)^{-1}.$</li>
+</ul>
+<h3>Proof of (1)</h3>
+<ul>
+<li>Since \(f\) is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a>, it follows for the <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">identity</a> \(e_G\) of the <a href="https://bookofproofs.github.io/branches/algebra/group.html">group</a> \((G,\ast)\) that $f(e_G)=f(e_G\ast e_G)=f(e_G)\cdot f(e_G).$</li>
+<li>The multiplication (inside the group \(H\)) of the equation with the element and \(f(e_G)^{-1}\) gives us   $f(e_G)\cdot f(e_G)^{-1}=f(e_G)\cdot f(e_G)\cdot f(e_G)^{-1}.$ </li>
+<li>This can be simplified to $e_H=f(e_G)\cdot e_H=f(e_G).$</li>
+</ul>
+<h3>Proof of (2)</h3>
+<ul>
+<li>In order to show \(f(x^{-1})=f(x)^{-1}\), we multiply the equation (inside the group \(H\)) with \(f(x)\), use the homomorphism property of \(f\) and the result in (1), which gives us $f(x)\cdot f(x^{-1})=f(x\ast x^{-1})=f(e_G)=e_H.$</li>
+<li>After multiplying both sides of the equation with \(f(x)^{-1}\), we get $f(x)^{-1}\cdot f(x)\cdot f(x^{-1})=f(x)^{-1}\cdot e_H.$</li>
+<li>This can be simplified to $e_H\cdot f(x^{-1})=f(x)^{-1},$ and finally to $f(x^{-1})=f(x)^{-1}.$</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/properties-of-a-group-homomorphism-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Modler, Florian; Kreh, Martin</strong>: "Tutorium Algebra", Springer Spektrum, 2013</li>
+</ol>
+<h4>Footnotes</h4>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="MATRIX MULTIPLICATION ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="matrix product,matrix multiplication,product of matrices,multiplication of matrices,how to multiply two matrices">
+<title>Matrix Multiplication</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/index.html" class="w3-bar-item">
+            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+        </a>
+        <!-- Float links to the right. Hide them on small screens -->
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <a href="https://bookofproofs.github.io/notation/notation.html" class="w3-bar-item w3-button">Notation</a>
+                <a href="https://bookofproofs.github.io/help/help.html" class="w3-bar-item w3-button">Help</a>
+                <div style='clear:both'></div>
+            </div>
+        </div>
+        <div style='clear:both'></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/algebra/diagonal-matrix.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/algebra/introduction-to-matrices-and-vectors.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/algebra/identity-matrix.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/algebra/algebra.html'>Algebra</a> / Definition: Matrix Multiplication</h3>
+
+<hr>
+
+<h1>Definition: Matrix Multiplication</h1>
+<p>Let \(A\in M_{m\times n}(F)\) and \(B\in M_{n\times r}(F)\) be two <a href="https://bookofproofs.github.io/branches/algebra/matrix-set-of-matrices-over-a-field.html">matrices</a> The <strong>matrix multiplication</strong> $"\cdot"$ is defined by  </p>
+<p>\[
+C:=AB=\pmatrix{
+\alpha_{11} &amp; \alpha_{12} &amp; \ldots &amp; \alpha_{1n} \cr
+\alpha_{21} &amp; \alpha_{22} &amp; \ldots &amp; \alpha_{2n} \cr
+\vdots &amp; \vdots &amp; \ddots &amp; \vdots \cr
+\alpha_{m1} &amp; \alpha_{m2} &amp; \ldots &amp; \alpha_{mn} \cr
+}\cdot\pmatrix{
+\beta_{11} &amp; \beta_{12} &amp; \ldots &amp; \beta_{1r} \cr
+\beta_{21} &amp; \beta_{22} &amp; \ldots &amp; \beta_{2r} \cr
+\vdots &amp; \vdots &amp; \ddots &amp; \vdots \cr
+\beta_{n1} &amp; \beta_{n2} &amp; \ldots &amp; \beta_{nr} \cr
+}=\pmatrix{
+\sum_{k=1}^n\alpha_{1k}\beta_{k1} &amp; \sum_{k=1}^n\alpha_{1k}\beta_{k2} &amp; \ldots &amp; \sum_{k=1}^n\alpha_{1k}\beta_{kr}  \cr
+\sum_{k=1}^n\alpha_{2k}\beta_{k1} &amp; \sum_{k=1}^n\alpha_{2k}\beta_{k2} &amp; \ldots &amp; \sum_{k=1}^n\alpha_{2k}\beta_{kr}  \cr
+\vdots &amp; \vdots &amp; \ddots &amp; \vdots \cr
+\sum_{k=1}^n\alpha_{mk}\beta_{k1} &amp; \sum_{k=1}^n\alpha_{mk}\beta_{k2} &amp; \ldots &amp; \sum_{k=1}^n\alpha_{mk}\beta_{kr}  \cr
+}
+\]</p>
+<p>The resulting matrix $C\in M_{m\times r}(F)$ is called the <strong>matrix product</strong> of the two matrices \(A\) and \(B\). </p>
+<h3>Notes</h3>
+<ul>
+<li>The matrix product of two matrices \(A\) and \(B\) is a matrix \(C\), whose matrix elements in the \(i\)-th row and \(j\)-th column equal the <a href="https://bookofproofs.github.io/branches/algebra/dot-product-inner-product-scalar-product.html">dot products</a> of the \(i\)-th row vector of \(A\) with the \(j\)-th column vector of \(B\), \(i=1,\ldots,m\), \(j=1,\ldots,r\).</li>
+<li>A matrix product is only possible if the number of rows of the first matrix equals the number of columns of the second matrix. </li>
+<li>In general, the matrix product is not commutative, i.e. $AB\neq BA.$</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/matrix-multiplication.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Wille, D; Holz, M </strong>: "Repetitorium der Linearen Algebra", Binomi Verlag, 1994</li>
+</ol>
+<h4>Footnotes</h4>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

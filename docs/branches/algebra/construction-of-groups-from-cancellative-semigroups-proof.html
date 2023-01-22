@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of CONSTRUCTION OF GROUPS FROM COMMUTATIVE AND CANCELLATIVE SEMIGROUPS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="construction,cancellative semigroup,group,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/index.html" class="w3-bar-item">
+            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+        </a>
+        <!-- Float links to the right. Hide them on small screens -->
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <a href="https://bookofproofs.github.io/notation/notation.html" class="w3-bar-item w3-button">Notation</a>
+                <a href="https://bookofproofs.github.io/help/help.html" class="w3-bar-item w3-button">Help</a>
+                <div style='clear:both'></div>
+            </div>
+        </div>
+        <div style='clear:both'></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/algebra/construction-of-groups-from-cancellative-semigroups.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/algebra/construction-of-groups-from-cancellative-semigroups.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/algebra/cyclic-group-order-of-an-element.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/algebra/algebra.html'>Algebra</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/algebra/construction-of-groups-from-cancellative-semigroups.html'>Theorem: Construction of Groups from Commutative and Cancellative Semigroups</a>)</p>
+<h3>Uniqueness</h3>
+<ul>
+<li>Assume, two <a href="https://bookofproofs.github.io/branches/algebra/group.html">groups</a> \((G_1,\ast)\) and \((G_2,\circ)\) fulfil both properties (1) and (2).</li>
+<li>Because of the property (2), \((G_1,\ast)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> of \((G_2,\ast)\) and vice versa. </li>
+<li>Therefore, both groups are, in fact, the same groups.</li>
+</ul>
+<h3>Existence</h3>
+<p>Our proof will be comprised of 4 steps:</p>
+<ul>
+<li>Step 1: Construct \((G,\ast)\) as a non-empty set with a binary operation "\(\ast\)"<ul>
+<li>By assumption, \((H,\circ)\) is a <a href="https://bookofproofs.github.io/branches/algebra/commutativity.html">commutative</a> and <a href="https://bookofproofs.github.io/branches/algebra/cancellation-property.html">cancellative</a> <a href="https://bookofproofs.github.io/branches/algebra/semigroup.html">semigroup</a> </li>
+<li>As a first step, we define an <a href="https://bookofproofs.github.io/branches/set-theory/equivalence-relation.html">equivalence relation</a> on the <a href="https://bookofproofs.github.io/branches/set-theory/cartesian-product.html">cartesian product</a> \(H\times H=\{(a,b)~|~a,b\in H\}\) as follows:
+\[(a,b)\sim (c,d)\Leftrightarrow a\circ d=b\circ c~~~(a,b,c,d\in H).\]</li>
+<li>Please note that this is indeed an equivalence relation, since it is reflexive, symmetric and transitive:<ul>
+<li>The <em>reflexivity</em> of "\(\sim\)" follows from the commutativity of \(H\): $(a,b)\sim(a,b)\Leftrightarrow a\circ b=b\circ a.$</li>
+<li>Also the <em>symmetry</em> of "\(\sim\)" follows from the commutativity of \(H\):\[\begin{array}{ccl}
+(a,b)\sim (c,d)&amp;\Leftrightarrow&amp;a\circ d=b\circ c\\
+&amp;\Leftrightarrow&amp;c\circ b=d\circ a\\
+&amp;\Leftrightarrow&amp;(c,d)\sim (a,b).
+\end{array}\]</li>
+<li>The <em>transitivity</em> of  "\(\sim\)" follows from \(H\) being cancellative and commutative:<ul>
+<li>Assume for \(a,b,c,d,e,f\in H\):
+\[\begin{array}{ccc}
+(a,b)\sim (c,d)&amp;\Leftrightarrow&amp;a\circ d=b\circ c\\
+(c,d)\sim (e,f)&amp;\Leftrightarrow&amp;c\circ f=d\circ e.\\
+\end{array}\]</li>
+<li>After multiplying both sides of both equations, rearranging the variables and cancelling we get
+\[\begin{array}{ccc}
+(a\circ d)\circ (c\circ f)&amp;=&amp;(b\circ c)\circ (d\circ e)\\
+a\circ d\circ c\circ f&amp;=&amp;b\circ c\circ d\circ e\\
+(a\circ f)\circ \cancel{(d\circ c)}&amp;=&amp;(b\circ e)\circ \cancel{(d\circ c)}\\
+&amp;(a,b)&amp;\sim&amp;(e,f).&amp;
+\end{array}\]</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>We have just shown that \(\sim\) is an equivalence relation. </li>
+<li>Therefore, each ordered pair \((a,b)\) represents its own equivalence class \([a,b]\subseteq H\times H\) and we can set $G:=( H\times H)/\sim$ as the set of all these equivalence classes. </li>
+<li>However, because the relation \(\sim\) is symmetric and transitive, each equivalence class \([a,b]\) <em>does not(!)</em> depend on the special choice of its representative \((a,b)\). </li>
+<li>Therefore, we can define the operation \(\ast\) on \(G\) using <em>any</em> representatives, e.g. the representatives \((a,b)\) and \((c,d)\) as we do in the following $[a,b]\ast[c,d]:=[a\circ c,b\circ d].$</li>
+<li>Please note that \(G\) does contain equivalence classes suitable to define the above binary operation $\ast,$ since \(H\) is not empty and so \(G\) is. </li>
+<li>Therefore, we have succeeded to define a non-empty set with a binary operation \((G,\ast)\).</li>
+</ul>
+</li>
+<li>Step 2: Demonstrate that \((G,\ast)\) is a <a href="https://bookofproofs.github.io/branches/algebra/abelian-group.html">commutative group</a><ul>
+<li>We will show that the operation \(\ast\) is associative and commutative and that \(G\) contains a unique identity as well as each of its elements has a unique inverse. </li>
+<li>By construction, the operation \(\ast\) is associative:
+\[\begin{array}{rcl}([a,b]\ast[c,d])\ast[e,f]&amp;=&amp;([a\circ c,b\circ d])\ast[e,f]\\
+&amp;=&amp;[a\circ c\circ e,b\circ d\circ f]\\
+&amp;=&amp;[a,b]\ast([c\circ e,d\circ f])\\
+&amp;=&amp;[a,b]\ast([c,d]\ast [e,f]).\end{array}\]</li>
+<li>By construction, the operation \(\ast\) is commutative:
+\[\begin{array}{rcl}[a,b]\ast[c,d]&amp;=&amp;[a\circ c,b\circ d]\\
+&amp;=&amp;[c\circ a,d\circ b]\\
+&amp;=&amp;[c,d]\ast[a,b].\end{array}\]</li>
+<li>Because \(H\) is cancellative, it follows for any \((h,h)\in H\times H\) that the equivalence class \([h,h]\) is an identity element of \((G,\ast\)):
+\[\begin{array}{rcl}[a,b]\ast[h,h]&amp;=&amp;[a\circ \cancel h,b\circ \cancel h]\\
+&amp;=&amp;[\cancel h\circ a,\cancel h\circ b]\\
+&amp;=&amp;[h,h]\ast[a,b]\\
+&amp;=&amp;[a,b].\end{array}\]
+Please note that the identity \([h,h]\) is unique because, as an equivalence class, it does not dependent on the special choice of the representative \((h,h)\).</li>
+<li>Because \(\circ\) is commutative by assumption, for any \([a,b]\in (G,\ast)\), the equivalence class \([a,b]\) is the unique inverse:
+\[\begin{array}{rcl}[a,b] \ast[b,a]&amp;=&amp;[a\circ b, b\circ a]\\
+&amp;=&amp;[a\circ b, a\circ b]\\
+&amp;=&amp;[h,h].\end{array}\]</li>
+</ul>
+</li>
+<li>Step 3: Demonstrate that \((G,\ast)\) fulfills property (1)<ul>
+<li>We shall show that there is a subset \(S\subseteq G\), which is a <a href="https://bookofproofs.github.io/branches/algebra/calculations-in-a-group.html">semigroup isomorphic</a> to \(H\), i.e. where \((S,\ast)\simeq (H,\circ)\). </li>
+<li>We will do so by constructing the subset \(S\subseteq G\) and finding a bijective homomorphism \(f:H\mapsto S\).</li>
+<li>For the identity element \([h,h]\in G\), consider the subset $S:=\{[a\circ h,h]~|~a\in H\},$ and set \[f:\begin{cases}H&amp;\mapsto S\\a&amp;\mapsto [a\circ h,h].\end{cases}\]</li>
+<li>Then \(f\) surjective by definition and it is injective since we can conclude that 
+\[\begin{array}{ccl}
+f(a)=f(b)&amp;\Leftrightarrow&amp;[a\circ h,h]=[b\circ h,h]\\
+&amp;\Rightarrow&amp;(a\circ h,h)\sim(b\circ h,h)\\
+&amp;\Rightarrow&amp;(a\circ h)\circ h=h\circ (b\circ h)\\
+&amp;\Rightarrow&amp;a\circ \cancel{h^2}=b\circ \cancel{h^2}\\
+&amp;\Rightarrow&amp;a=b\\
+\end{array}.\]
+Since \(f\) is both, surjective and injective, it is <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html">bijective</a></li>
+<li>\(f\) is also a <a href="https://bookofproofs.github.io/branches/algebra/exponentiation-in-a-group.html">homomorphism</a>, since we have
+\[\begin{array}{ccl}
+f(a\circ b)&amp;=&amp;[(a\circ b)\circ h,h]\\
+&amp;=&amp;[(a\circ b)\circ h,h]\ast[h,h]\\
+&amp;=&amp;[a\circ b\circ h\circ h,h\circ h]\\
+&amp;=&amp;[(a\circ h)\circ (b\circ h),h\circ h]\\
+&amp;=&amp;[a\circ h,h]\ast[b\circ h,h]\\
+&amp;=&amp;f(a)\ast f(b).
+\end{array}\]</li>
+</ul>
+</li>
+<li>Altogether, in steps 1 to 3, we have shown the isomorphism \((S,\ast)\simeq (H,\circ)\).</li>
+<li>Step 4: Demonstrate that \((G,\ast)\) fulfills property (2)<ul>
+<li>We shall show that \((G,\ast)\) is minimal with the property (1). </li>
+<li>By construction of \(S\subseteq G\), \(G\) contains all elements of the form \([a\circ h,h]\) for all \(a\in H\). </li>
+<li>Because \(G\) is a group, it must also contain the inverse elements \([h,a\circ h]\) for all \(a\in H\). </li>
+<li>Because \((G,\ast)\) is closed under \(\ast\), we also have for all $a,b\in H$:
+\[\begin{array}{rcl}[a\circ h,h]\ast[h,b\circ h]&amp;=&amp;[a\circ \cancel{h\circ h},b\circ \cancel{h\circ h}]\\
+&amp;=&amp;[a,b]\end{array}.\]</li>
+<li>This demonstrates that we cannot reduce \(G\) any further, e.g. by taking away any single equivalence class \([a,b]\). </li>
+<li>Therefore \(G\) is minimal with the property (1).</li>
+</ul>
+</li>
+</ul>
+<h3>Uniqueness</h3>
+<ul>
+<li>Assume, two <a href="https://bookofproofs.github.io/branches/algebra/group.html">groups</a> \((G_1,\ast)\) and \((G_2,\circ)\) fulfil both properties (1) and (2).</li>
+<li>Because of the property (2), \((G_1,\ast)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> of \((G_2,\ast)\) and vice versa. </li>
+<li>Therefore, both groups are, in fact, the same groups.</li>
+</ul>
+<h3>Existence</h3>
+<p>Our proof will be comprised of 4 steps:</p>
+<ul>
+<li>Step 1: Construct \((G,\ast)\) as a non-empty set with a binary operation "\(\ast\)"<ul>
+<li>By assumption, \((H,\circ)\) is a <a href="https://bookofproofs.github.io/branches/algebra/commutativity.html">commutative</a> and <a href="https://bookofproofs.github.io/branches/algebra/cancellation-property.html">cancellative</a> <a href="https://bookofproofs.github.io/branches/algebra/semigroup.html">semigroup</a> </li>
+<li>As a first step, we define an <a href="https://bookofproofs.github.io/branches/set-theory/equivalence-relation.html">equivalence relation</a> on the <a href="https://bookofproofs.github.io/branches/set-theory/cartesian-product.html">cartesian product</a> \(H\times H=\{(a,b)~|~a,b\in H\}\) as follows:
+\[(a,b)\sim (c,d)\Leftrightarrow a\circ d=b\circ c~~~(a,b,c,d\in H).\]</li>
+<li>Please note that this is indeed an equivalence relation, since it is reflexive, symmetric and transitive:<ul>
+<li>The <em>reflexivity</em> of "\(\sim\)" follows from the commutativity of \(H\): $(a,b)\sim(a,b)\Leftrightarrow a\circ b=b\circ a.$</li>
+<li>Also the <em>symmetry</em> of "\(\sim\)" follows from the commutativity of \(H\):\[\begin{array}{ccl}
+(a,b)\sim (c,d)&amp;\Leftrightarrow&amp;a\circ d=b\circ c\\
+&amp;\Leftrightarrow&amp;c\circ b=d\circ a\\
+&amp;\Leftrightarrow&amp;(c,d)\sim (a,b).
+\end{array}\]</li>
+<li>The <em>transitivity</em> of  "\(\sim\)" follows from \(H\) being cancellative and commutative:<ul>
+<li>Assume for \(a,b,c,d,e,f\in H\):
+\[\begin{array}{ccc}
+(a,b)\sim (c,d)&amp;\Leftrightarrow&amp;a\circ d=b\circ c\\
+(c,d)\sim (e,f)&amp;\Leftrightarrow&amp;c\circ f=d\circ e.\\
+\end{array}\]</li>
+<li>After multiplying both sides of both equations, rearranging the variables and cancelling we get
+\[\begin{array}{ccc}
+(a\circ d)\circ (c\circ f)&amp;=&amp;(b\circ c)\circ (d\circ e)\\
+a\circ d\circ c\circ f&amp;=&amp;b\circ c\circ d\circ e\\
+(a\circ f)\circ \cancel{(d\circ c)}&amp;=&amp;(b\circ e)\circ \cancel{(d\circ c)}\\
+&amp;(a,b)&amp;\sim&amp;(e,f).&amp;
+\end{array}\]</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>We have just shown that \(\sim\) is an equivalence relation. </li>
+<li>Therefore, each ordered pair \((a,b)\) represents its own equivalence class \([a,b]\subseteq H\times H\) and we can set $G:=( H\times H)/\sim$ as the set of all these equivalence classes. </li>
+<li>However, because the relation \(\sim\) is symmetric and transitive, each equivalence class \([a,b]\) <em>does not(!)</em> depend on the special choice of its representative \((a,b)\). </li>
+<li>Therefore, we can define the operation \(\ast\) on \(G\) using <em>any</em> representatives, e.g. the representatives \((a,b)\) and \((c,d)\) as we do in the following $[a,b]\ast[c,d]:=[a\circ c,b\circ d].$</li>
+<li>Please note that \(G\) does contain equivalence classes suitable to define the above binary operation $\ast,$ since \(H\) is not empty and so \(G\) is. </li>
+<li>Therefore, we have succeeded to define a non-empty set with a binary operation \((G,\ast)\).</li>
+</ul>
+</li>
+<li>Step 2: Demonstrate that \((G,\ast)\) is a <a href="https://bookofproofs.github.io/branches/algebra/abelian-group.html">commutative group</a><ul>
+<li>We will show that the operation \(\ast\) is associative and commutative and that \(G\) contains a unique identity as well as each of its elements has a unique inverse. </li>
+<li>By construction, the operation \(\ast\) is associative:
+\[\begin{array}{rcl}([a,b]\ast[c,d])\ast[e,f]&amp;=&amp;([a\circ c,b\circ d])\ast[e,f]\\
+&amp;=&amp;[a\circ c\circ e,b\circ d\circ f]\\
+&amp;=&amp;[a,b]\ast([c\circ e,d\circ f])\\
+&amp;=&amp;[a,b]\ast([c,d]\ast [e,f]).\end{array}\]</li>
+<li>By construction, the operation \(\ast\) is commutative:
+\[\begin{array}{rcl}[a,b]\ast[c,d]&amp;=&amp;[a\circ c,b\circ d]\\
+&amp;=&amp;[c\circ a,d\circ b]\\
+&amp;=&amp;[c,d]\ast[a,b].\end{array}\]</li>
+<li>Because \(H\) is cancellative, it follows for any \((h,h)\in H\times H\) that the equivalence class \([h,h]\) is an identity element of \((G,\ast\)):
+\[\begin{array}{rcl}[a,b]\ast[h,h]&amp;=&amp;[a\circ \cancel h,b\circ \cancel h]\\
+&amp;=&amp;[\cancel h\circ a,\cancel h\circ b]\\
+&amp;=&amp;[h,h]\ast[a,b]\\
+&amp;=&amp;[a,b].\end{array}\]
+Please note that the identity \([h,h]\) is unique because, as an equivalence class, it does not dependent on the special choice of the representative \((h,h)\).</li>
+<li>Because \(\circ\) is commutative by assumption, for any \([a,b]\in (G,\ast)\), the equivalence class \([a,b]\) is the unique inverse:
+\[\begin{array}{rcl}[a,b] \ast[b,a]&amp;=&amp;[a\circ b, b\circ a]\\
+&amp;=&amp;[a\circ b, a\circ b]\\
+&amp;=&amp;[h,h].\end{array}\]</li>
+</ul>
+</li>
+<li>Step 3: Demonstrate that \((G,\ast)\) fulfills property (1)<ul>
+<li>We shall show that there is a subset \(S\subseteq G\), which is a <a href="https://bookofproofs.github.io/branches/algebra/calculations-in-a-group.html">semigroup isomorphic</a> to \(H\), i.e. where \((S,\ast)\simeq (H,\circ)\). </li>
+<li>We will do so by constructing the subset \(S\subseteq G\) and finding a bijective homomorphism \(f:H\mapsto S\).</li>
+<li>For the identity element \([h,h]\in G\), consider the subset $S:=\{[a\circ h,h]~|~a\in H\},$ and set \[f:\begin{cases}H&amp;\mapsto S\\a&amp;\mapsto [a\circ h,h].\end{cases}\]</li>
+<li>Then \(f\) surjective by definition and it is injective since we can conclude that 
+\[\begin{array}{ccl}
+f(a)=f(b)&amp;\Leftrightarrow&amp;[a\circ h,h]=[b\circ h,h]\\
+&amp;\Rightarrow&amp;(a\circ h,h)\sim(b\circ h,h)\\
+&amp;\Rightarrow&amp;(a\circ h)\circ h=h\circ (b\circ h)\\
+&amp;\Rightarrow&amp;a\circ \cancel{h^2}=b\circ \cancel{h^2}\\
+&amp;\Rightarrow&amp;a=b\\
+\end{array}.\]
+Since \(f\) is both, surjective and injective, it is <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html">bijective</a></li>
+<li>\(f\) is also a <a href="https://bookofproofs.github.io/branches/algebra/exponentiation-in-a-group.html">homomorphism</a>, since we have
+\[\begin{array}{ccl}
+f(a\circ b)&amp;=&amp;[(a\circ b)\circ h,h]\\
+&amp;=&amp;[(a\circ b)\circ h,h]\ast[h,h]\\
+&amp;=&amp;[a\circ b\circ h\circ h,h\circ h]\\
+&amp;=&amp;[(a\circ h)\circ (b\circ h),h\circ h]\\
+&amp;=&amp;[a\circ h,h]\ast[b\circ h,h]\\
+&amp;=&amp;f(a)\ast f(b).
+\end{array}\]</li>
+</ul>
+</li>
+<li>Altogether, in steps 1 to 3, we have shown the isomorphism \((S,\ast)\simeq (H,\circ)\).</li>
+<li>Step 4: Demonstrate that \((G,\ast)\) fulfills property (2)<ul>
+<li>We shall show that \((G,\ast)\) is minimal with the property (1). </li>
+<li>By construction of \(S\subseteq G\), \(G\) contains all elements of the form \([a\circ h,h]\) for all \(a\in H\). </li>
+<li>Because \(G\) is a group, it must also contain the inverse elements \([h,a\circ h]\) for all \(a\in H\). </li>
+<li>Because \((G,\ast)\) is closed under \(\ast\), we also have for all $a,b\in H$:
+\[\begin{array}{rcl}[a\circ h,h]\ast[h,b\circ h]&amp;=&amp;[a\circ \cancel{h\circ h},b\circ \cancel{h\circ h}]\\
+&amp;=&amp;[a,b]\end{array}.\]</li>
+<li>This demonstrates that we cannot reduce \(G\) any further, e.g. by taking away any single equivalence class \([a,b]\). </li>
+<li>Therefore \(G\) is minimal with the property (1).</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/construction-of-groups-from-cancellative-semigroups-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Kramer Jürg, von Pippich, Anna-Maria</strong>: "Von den natürlichen Zahlen zu den Quaternionen", Springer-Spektrum, 2013</li>
+</ol>
+<h4>Footnotes</h4>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

@@ -143,7 +143,7 @@ bookofproofs$6925 | bookofproofs$8255 | **Trachtenbrot, B.A.**: "Algorithmen und
 bookofproofs$6925 | bookofproofs$886 | **Tuschik, H.P., Wolter, H.**: "Mathematische Logik - kurzgefasst", Bibliograpfisches Institut &#38; F.A. Brockhaus AG, Mannheim, 1994
 bookofproofs$6925 | bookofproofs$8253 | **Tutschke, W.**: "Grundlagen der reellen Analysis, II Integralrechnung", VEB Deutscher Verlag der Wissenschaften, 1972
 bookofproofs$6925 | bookofproofs$6267 | **Weingärtner, Andreas**: "Spezielle Relativitätstheorie - ganz einfach", Books On Demand, 2016
-bookofproofs$6925 | bookofproofs$1038 | **Wille, D; Holz., M **: "Repetitorium der Linearen Algebra", Binomi Verlag, 1994
+bookofproofs$6925 | bookofproofs$1038 | **Wille, D; Holz, M **: "Repetitorium der Linearen Algebra", Binomi Verlag, 1994
 bookofproofs$6925 | bookofproofs$8235 | **Wüstholz, Gisbert**: "Algebra, für Studierende der Mathematik, Physik, Informatik", Springer Spektrum, 2013, 2nd Edition
 bookofproofs$6925 | bookofproofs$8245 | **Wußing, H.**: "Vorlesungen zur Geschichte der Mathematik", Studienbücherei, 1979
 bookofproofs$6925 | bookofproofs$6288 | **Ziegler, Günter M.**: "Lectures on Polytopes", Springer Verlag, 1994

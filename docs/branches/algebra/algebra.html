@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="ALGEBRA &amp;#9733; bring your math skills to the graduate level &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="reduction of epsilon-nfa to nfa,proof">
+<title>Algebra</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/index.html" class="w3-bar-item">
+            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+        </a>
+        <!-- Float links to the right. Hide them on small screens -->
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <a href="https://bookofproofs.github.io/notation/notation.html" class="w3-bar-item w3-button">Notation</a>
+                <a href="https://bookofproofs.github.io/help/help.html" class="w3-bar-item w3-button">Help</a>
+                <div style='clear:both'></div>
+            </div>
+        </div>
+        <div style='clear:both'></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/triangle-numbers.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/branches.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/algebra/algebraic-structures-overview.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/algebra/algebra.html'>Algebra</a> / Branch: Algebra</h3>
+
+<hr>
+
+<h1>Branch: Algebra</h1>
+<p><em>Algebra</em> is a discipline of mathematics dealing with <em>sets</em> (see <a href="https://bookofproofs.github.io/branches/set-theory/set-theory.html">set theory</a>), which are structured by one or more <a href="https://bookofproofs.github.io/branches/algebra/binary-operation.html">binary operations</a> While studying these so-called <em>algebraic structures</em> (i.e. <em>groups</em>, <em>rings</em>, <em>fields</em>, <em>modules</em>, and <em>vector spaces</em>), algebra provides means to find solutions of <em>equations</em> and <em>systems of equations</em> formulated inside these structures. </p>
+<h3>Theoretical minimum (in a nutshell)</h3>
+<p>You should be acquainted with <a href="https://bookofproofs.github.io/branches/set-theory/set-theory.html">set theory</a>, especially the <a href="https://bookofproofs.github.io/branches/set-theory/set-operations.html">set operations</a> and basics about <a href="https://bookofproofs.github.io/branches/set-theory/functions.html">functions</a></p>
+<h3>Concepts you will learn in this part of <strong><span style='color:orange'>Bookof</span><span style='color:lightblue'>Proofs</span></strong></h3>
+<ul>
+<li>What are <em>groups</em>, which are their properties and applications?</li>
+<li>What are <em>rings</em> and which are the different types of rings and their properties?</li>
+<li>What are <em>fields</em> and how they improve the solvability of <em>equations</em> in comparison to rings?</li>
+<li>What are <em>vector spaces</em>, <em>matrices</em>, <em>determinants</em> and how these and other concepts of <em>linear algebra</em> help to solve <em>systems of linear equations</em>?</li>
+<li>What are <em>modules</em>?</li>
+<li>How the <em>Galois theory</em> helps to form new fields out of existing ones and what solvability of equations has to do with geometry?</li>
+</ul>
+<h3 class='navigation'>Table of Contents</h3>
+
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/algebra/algebraic-structures-overview.html'>Part: Algebraic Structures - Overview</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/group-theory.html'>Part: Group Theory</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/algebraic-number-theory-and-ring-theory.html'>Part: Algebraic Number Theory and Ring Theory</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/finite-fields.html'>Part: Finite Fields</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/galois-theory.html'>Part: Galois Theory</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/linear-algebra.html'>Part: Linear Algebra</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/constructions-with-ruler-and-compass.html'>Part: Constructions with Ruler and Compass</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/ordered-fields-and-their-topology.html'>Part: Ordered Fields and Their Topology</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/solving-strategies-and-sample-solutions-to-problems-in-algebra.html'>Part: Solving Strategies and Sample Solutions to Problems in Algebra</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/algebra.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Footnotes</h4>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

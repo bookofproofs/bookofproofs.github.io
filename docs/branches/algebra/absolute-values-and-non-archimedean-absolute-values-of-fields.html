@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="ABSOLUTE VALUE AND NON-ARCHIMEDEAN ABSOLUTE VALUES OF FIELDS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="absolute value in fields,absolute value,valuation of fields,valuations,absolute values,trivial absolute value,trivial valuation,non-archimedean,non-archimedean absolute value,non-archimedean absolute values">
+<title>Absolute Values and Non-Archimedean Absolute Values of Fields</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/index.html" class="w3-bar-item">
+            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+        </a>
+        <!-- Float links to the right. Hide them on small screens -->
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <a href="https://bookofproofs.github.io/notation/notation.html" class="w3-bar-item w3-button">Notation</a>
+                <a href="https://bookofproofs.github.io/help/help.html" class="w3-bar-item w3-button">Help</a>
+                <div style='clear:both'></div>
+            </div>
+        </div>
+        <div style='clear:both'></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/algebra/square-of-a-non-zero-element-is-positive-in-ordered-fields-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/algebra/ordered-fields-and-their-topology.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/algebra/examples-of-absolute-values.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/algebra/algebra.html'>Algebra</a> / Definition: Absolute Values and Non-Archimedean Absolute Values of Fields</h3>
+
+<hr>
+
+<h1>Definition: Absolute Values and Non-Archimedean Absolute Values of Fields</h1>
+<p>Let $(F,\oplus,\odot)$ be a <a href="https://bookofproofs.github.io/branches/algebra/field.html">field</a> An <strong>absolute value</strong> $|\cdot|:F\to \mathbb R$ is a <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html">real-valued</a> <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html">function</a> fulfilling the following properties:</p>
+<ol>
+<li>$|x|\ge 0$ for all $x\in F.$</li>
+<li>$|x|=0$ if and only if $x=0\in F.$</li>
+<li>$|x\odot y|=|x|\cdot |y|$ for all $x,y\in F.$</li>
+<li>$|x\oplus y|\le |x|+|y|$ for all $x,y\in F$  <strong>triangle inequality</strong>).</li>
+</ol>
+<p>An absolute value, in which the 4th axiom is replaced by</p>
+<h1>4. $|x\oplus y|\le \max(|x|,|y|)$</h1>
+<p>(i.e. the <a href="https://bookofproofs.github.io/branches/analysis/maximum-real-numbers.html">maximum</a> of the absolute values), is called <em>non-archimedean</em> (or a <strong>valuation</strong> of $F$).</p>
+<h3>Notes</h3>
+<ul>
+<li>The absolute value can be defined for all fields, not only for ordered fields. This is because an absolute value is simply a function fulfilling some properties which do not require the domain $F$ to be an ordered field.</li>
+<li>In some special literature, you will find definitions of absolute values that require the field $F$ to be ordered. This is the case in definitions like this $$|x|:=\begin{cases}x&amp;\text{if }x \ge 0,\\-x&amp;\text{else }x &lt; 0.\end{cases}$$ You should be aware that this is only a special case definition applicable for only some common fields like the field of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html">real numbers</a> $(\mathbb R, +,\cdot).$ It would be not applicable for any unordered field. For instance, the unordered field of complex numbers $(\mathbb C, +,\cdot)$ requires another definition of an absolute value.</li>
+<li>The definition of an absolute value given here is applicable for all kinds of fields.</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/absolute-values-and-non-archimedean-absolute-values-of-fields.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Modler, F.; Kreh, M.</strong>: "Tutorium Analysis 1 und Lineare Algebra 1", Springer Spektrum, 2018, 4th Edition</li>
+</ol>
+<h4>Footnotes</h4>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="SOLVING GENERAL SYSTEMS OF LINEAR EQUATIONS - GAUSSIAN METHOD &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="equations,gaussian,general,linear,method,solving,systems">
+<title>Solving General Systems Of Linear Equations - Gaussian Method</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/index.html" class="w3-bar-item">
+            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+        </a>
+        <!-- Float links to the right. Hide them on small screens -->
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <a href="https://bookofproofs.github.io/notation/notation.html" class="w3-bar-item w3-button">Notation</a>
+                <a href="https://bookofproofs.github.io/help/help.html" class="w3-bar-item w3-button">Help</a>
+                <div style='clear:both'></div>
+            </div>
+        </div>
+        <div style='clear:both'></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/algebra/solution-to-a-lower-triangular-sle-forward-substitution.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/algebra/linear-equations-and-systems-of-linear-equations-sles.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/algebra/elementary-gaussian-operations.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/algebra/algebra.html'>Algebra</a> / Section: Solving General Systems Of Linear Equations - Gaussian Method</h3>
+
+<hr>
+
+<h1>Section: Solving General Systems Of Linear Equations - Gaussian Method</h1>
+<p>In the proceeding examples, in particular, the example of <a href="https://bookofproofs.github.io/branches/algebra/solution-to-an-upper-triangular-sle-backward-substitution.html">backward substitution</a>, we have seen that if an SLE is in an upper triangular form,</p>
+<p>$$\left(\begin{array}{ccccccc|c}\alpha_{11}&amp; \alpha_{12}&amp;\ldots&amp;\alpha_{1r}&amp;\alpha_{1,r+1}&amp;\ldots&amp;\alpha_{1n}&amp;\beta_1\\
+0&amp; \alpha_{22}&amp;\ldots&amp;\alpha_{2r}&amp;\alpha_{2,r+1}&amp;\ldots&amp;\alpha_{2n}&amp;\beta_2\\
+\vdots&amp;\vdots&amp;\ddots&amp;\vdots&amp;\vdots&amp;\vdots&amp;\vdots&amp;\vdots\\
+0&amp; 0 &amp;\ldots&amp;\alpha_{rr}&amp;\alpha_{r,r+1}&amp;\ldots&amp;\alpha_{rn}&amp;\beta_r\\
+\vdots&amp; \vdots &amp;\ldots&amp;0&amp;0&amp;\ldots&amp;0&amp;\beta_{r+1}\\
+\vdots&amp; \vdots &amp;\ldots&amp;\vdots&amp;\vdots&amp;\ldots&amp;\vdots&amp;\vdots\\
+0&amp; \ldots &amp;\ldots&amp;0&amp;0&amp;\ldots&amp;0&amp;\beta_m\\
+\end{array}\right)$$</p>
+<p>then we can easily decide whether there is no solution to the system or we can find an explicit solution to it. Therefore, if we could find some way to transform any given SLE into an upper triangular form, <strong>without changing the set of its solutions</strong>, then this would enable us to solve any given SLE, provided that it has a solution. Indeed, such a transformation exists and was found by the German mathematician "Carl Friedrich Gauss":<a href="https://www.bookofproofs.org/history/johann-carl-friedrich-gauss/">https://www.bookofproofs.org/history/johann-carl-friedrich-gauss/</a>. In the following, we define elementary Gaussian operations allowing us to transform any given SLE into an upper triangular form.</p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<p>Examples: <a href='https://bookofproofs.github.io/branches/algebra/the-gaussian-method-in-practice.html'>1</a> </p>
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/algebra/elementary-gaussian-operations.html'>Definition: Elementary Gaussian Operations</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/elementary-gaussian-operations-do-not-change-the-solutions-of-an-sle.html'>Lemma: Elementary Gaussian Operations Do Not Change the Solutions of an SLE</a></li>
+<li><a href='https://bookofproofs.github.io/branches/algebra/gaussian-method-to-solve-systems-of-linear-equations-rank-of-a-matrix.html'>Definition: Gaussian Method to Solve Systems of Linear Equations, Rank of a Matrix</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/solving-general-systems-of-linear-equations-gaussian-method.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Knabner, P; Barth, W.</strong>: "Lineare Algebra - Grundlagen und Anwendungen", Springer Spektrum, 2013</li>
+</ol>
+<h4>Footnotes</h4>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

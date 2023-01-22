@@ -41,6 +41,42 @@ Once you are ready with your editions:
 9. Commit and push to a new branch and make a change request.
 
 # Using the templates
+## Sections of the templates
+### Overview (Example)
+The templates usually consist of three (3) sections separated by `---`. A typical template looks like this:
 
-(to be continued)
+```
+layout: part
+categories: branches,algebra
+nodeid: bookofproofs$85
+orderid: 1
+parentid: bookofproofs$59
+title: Algebraic Structures - Overview
+description: ALGEBRAIC STRUCTURES OVERVIEW ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
+references: 
+keywords: algebraic structures overview
+contributors: bookofproofs
+---
+<optional intro>
+---
+<your content>
+```
+
+In some cases you might need a 4th section separated from the other three by another `---`.
+
+```
+---
+<optional script list> 
+```
+
+### Properties in Front Matter
+
+
+The first section is the so called front-matter. Here you list properties of your template. 
+These properties tell the compiler to process your markdown file specifically.
+
+The second 
+
+
+## (to be continued)
 ``` { .python linenos=true linenostart=42 hl_lines="1-2 10" }
