@@ -7,7 +7,7 @@ class BopValidator:
     issue_types = ['broken-links', 'missing-proof', "malformed-tables"]
 
     allowed_layout_combis = {
-        BopLayouts.root: [BopLayouts.branch, BopLayouts.index, BopLayouts.epoch],
+        BopLayouts.root: [BopLayouts.branch, BopLayouts.index, BopLayouts.epoch, BopLayouts.topic],
         BopLayouts.index: [BopLayouts.index],
         BopLayouts.branch: [BopLayouts.part, BopLayouts.axiom, BopLayouts.definition, BopLayouts.theorem,
                             BopLayouts.proposition, BopLayouts.lemma, BopLayouts.example, BopLayouts.explanation,
@@ -48,7 +48,8 @@ class BopValidator:
         BopLayouts.motivation: [],
         BopLayouts.explanation: [],
         BopLayouts.solution: [],
-        BopLayouts.epoch: [BopLayouts.epoch],
+        BopLayouts.epoch: [BopLayouts.epoch, BopLayouts.topic],
+        BopLayouts.topic: [BopLayouts.topic]
     }
 
     def __init__(self, sources: dict):
@@ -269,33 +270,55 @@ class BopValidator:
             if len(bop_source.categories) == 0:
                 raise AssertionError(
                     "Missing categories in {0}".format(bop_source.get_file_name()))
-            pattern = re.compile(r'[a-z0-9\-]+')
-            for cat in bop_source.categories:
-                if cat not in self._all_categories:
-                    self._all_categories[cat] = list()
-                if not re.match(pattern, cat):
+            if bop_source.parent is not None:
+                if ",".join(bop_source.parent.categories) not in ",".join(bop_source.categories):
                     raise AssertionError(
-                        "Malformed category '{0}' found in {1} (must match '[a-z0-0\-]+')".format(
-                            bop_source.get_file_name()))
-                if cat not in self._category_graph:
-                    self._category_graph[cat] = list()
-                if cat not in self._unique_file_names:
-                    raise AssertionError(
-                        "No markdown file found for the category '{0}'".format(cat))
+                        "Categories '{0}' of {1}\ndo not correspond " \
+                        "to the categories {2} of its parent {3}.".format(
+                            str(bop_source.categories),
+                            bop_source.get_file_name(),
+                            str(bop_source.parent.categories),
+                            bop_source.parent.get_file_name()
+                        )
+                    )
+                pattern = re.compile(r'[a-z0-9\-]+')
+                for cat in bop_source.categories:
+                    if cat not in self._all_categories:
+                        self._all_categories[cat] = list()
+                    if not re.match(pattern, cat):
+                        raise AssertionError(
+                            "Malformed category '{0}' found in {1} (must match '[a-z0-0\-]+')".format(
+                                cat, bop_source.get_file_name()))
+                    if cat not in self._category_graph:
+                        self._category_graph[cat] = list()
+                    if cat not in self._unique_file_names:
+                        raise AssertionError(
+                            "\nNo markdown file found for the category '{0}'.\nTo start using this category, you must " \
+                            "first create a new source file {1}.md\nand put it in _sources or one of its subfolders.\n" \
+                            "Also, give it the same categories as in {2}.".format(cat, cat, bop_source.get_file_name()))
+                    else:
+                        other = self._unique_file_names[cat]
+                        if other.categories[-1] != cat:
+                            raise AssertionError(
+                                "\nThe file '{0}' is used as a category but has the categories '{1}'.\n"
+                                "Make sure the file name '{2}' is the last category in the front matter.".format(
+                                    other.get_file_name(),
+                                    ",".join(other.categories),
+                                    cat))
 
-            # chain the categories
-            for i in range(0, len(bop_source.categories) - 1):
-                if bop_source.categories[i + 1] not in self._category_graph[bop_source.categories[i]]:
-                    self._category_graph[bop_source.categories[i]].append(bop_source.categories[i + 1])
-            # add the node to its last category
-            self._all_categories[bop_source.categories[-1]].append(bop_source)
-        # sort the nodes within each category
-        for cat in self._all_categories:
-            self._all_categories[cat].sort(key=lambda x: x.title)
-        # check if the categories have cycles
-        for cat in self._all_categories:
-            visited = list()
-            self._visit_cat_rec(cat, visited, self._all_categories)
+                # chain the categories
+                for i in range(0, len(bop_source.categories) - 1):
+                    if bop_source.categories[i + 1] not in self._category_graph[bop_source.categories[i]]:
+                        self._category_graph[bop_source.categories[i]].append(bop_source.categories[i + 1])
+                # add the node to its last category
+                self._all_categories[bop_source.categories[-1]].append(bop_source)
+            # sort the nodes within each category
+            for cat in self._all_categories:
+                self._all_categories[cat].sort(key=lambda x: x.title)
+            # check if the categories have cycles
+            for cat in self._all_categories:
+                visited = list()
+                self._visit_cat_rec(cat, visited, self._all_categories)
 
     def _validate_issues(self):
         """

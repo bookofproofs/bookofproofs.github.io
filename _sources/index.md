@@ -33,9 +33,8 @@ title: BookOfProofs - Mathematics, Physics, and Computer Sciences
         <img style="width:100%" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/differential-calculus-2820657__340.jpg?raw=true" alt="Project">
         <h3>Project</h3>
         <p> 
-        <strong><span style="color:orange">Bo</span><span style="color:lightblue">P</span></strong> was launched in February 2014 and 
-        started as a collaborative effort, but it was too hard to mobilize the community. 
-        In February 2023, we started to move the site to <a href="https://github.com/bookofproofs/bookofproofs.github.io">github</a>. You can only contribute if you are a github user.
+        <strong><span style="color:orange">Bo</span><span style="color:lightblue">P</span></strong> was launched in February 2014 is 
+        a collaborative project. In February 2023, we started migrating the site to <a href="https://github.com/bookofproofs/bookofproofs.github.io">github</a>. You can now co-author if you are a github user.
         </p>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
