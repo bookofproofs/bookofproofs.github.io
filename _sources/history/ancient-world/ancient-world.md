@@ -5,9 +5,9 @@ orderid: 1
 parentid: bookofproofs$2
 title: Ancient World
 description: ANCIENT WORLD (FROM 4000 BC TO 1 BC) ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
-references: bookofproofs$8244
+references: bookofproofs$8244,bookofproofs$6909
 keywords: ancient mathematics,mathematics in ancient world
-contributors: bookofproofs
+contributors: bookofproofs,@MacTutor
 issues: broken-links,malformed-tables
 
 ---
@@ -27,7 +27,8 @@ Unfortunately, the knowledge of mathematics of this time is very limited, becaus
 : Place-value sexagesimal system, numerical notation 
 
 ### about 2000 BC
-[Megalithic Stone and Wood Settings][bookofproofs$1635]
+Megalithic stone and wood settings
+: (found mainly on the British Isles); following astronomic and geometric principles. The most famous example is Stonehenge. The settings form circles, ellipses, egg-shaped rings or more complicated figures.
 
 ### ca. 1850 BC
 [Babylonian Mathematics][bookofproofs$6311]

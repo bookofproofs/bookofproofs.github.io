@@ -16,7 +16,7 @@ contributors: bookofproofs
 
 The most we know about **Egyptian mathematics** is from the papyrus Rhind, which contained 85 problems, and the _Moscow_ papyrus, containing 25 problems. The papyri were dated about 1700 BC to 1550 BC. The Rhind Papyrus was the largest and best preserved mathematical papyrus from ancient Egypt. It is a copy of papyrus from around 1850 BC. 
 
-!https://upload.wikimedia.org/wikipedia/commons/4/4b/Egyptian_A%27h-mos%C3%A8_or_Rhind_Papyrus_%281065x1330%29.png!
+![portion of the Rhind Papyrus](https://upload.wikimedia.org/wikipedia/commons/4/4b/Egyptian_A%27h-mos%C3%A8_or_Rhind_Papyrus_%281065x1330%29.png)
 (a portion of the Rhind Papyrus, Wikimedia: Unknown - British Museum, EA10057)
 
 The Egyptians had a _decimal system_ with specific signs, but it was different from the modern place value system. 

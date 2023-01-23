@@ -5,9 +5,9 @@ orderid: 2
 parentid: bookofproofs$2
 title: Late Ancient World
 description: LATE ANCIENT WORLD&#160;(FROM 0 TO 499) &#9733; history of mathematics &#10010; science &#10140; visit BookOfProofs now!
-references: 
+references: bookofproofs$6909
 keywords: ancient,late,world
-contributors: bookofproofs
+contributors: bookofproofs,@MacTutor
 issues: broken-links,malformed-tables
 
 ---

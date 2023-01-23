@@ -15,7 +15,8 @@ issues: broken-links
 
 ---
 
-The _Ancient Chinese Mathematics_ ranged from 1400 BC (Shang dynasty) to 6th-century AD. In this period, a positional number system with the basis `$10$` was invented, which was equally revolutionary with respect to calculations as the _sexagesimal system_ used by the "Sumers":https://www.bookofproofs.org/history/sumerian-mathematics/ and the "Babylonians":https://www.bookofproofs.org/history/babylonian-mathematics/. The decimal system is still used today worldwide. The Chinese have also invented the _abacus_, which was used to simplify every-day calculations. With respect to the basic arithmetic operations, the abacus was as helpful and powerful as today's pocket calculators and is still being used in some parts of China. 
+The _Ancient Chinese Mathematics_ ranged from 1400 BC (Shang dynasty) to 6th-century AD. In this period, a positional number system with the basis `$10$` was invented, which was equally revolutionary with respect to calculations as the _sexagesimal system_ used by the 
+[Sumers][bookofproofs$1637] and the [Babylonians][bookofproofs$6311]. The decimal system is still used today worldwide. The Chinese have also invented the _abacus_, which was used to simplify every-day calculations. With respect to the basic arithmetic operations, the abacus was as helpful and powerful as today's pocket calculators and is still being used in some parts of China. 
 
 The most important, purely mathematical book of the ancient Chinese mathematics is _Cheng Ch'iu Chien Suan-ching_ (the _Nine Chapters on the Mathematical Art_), which can be dated back to the dynasty Han, 220 AD. It contains [problems" from practical arithmetics which are solved using algebraic equations. "Square roots][bookofproofs$1161], for instance `$$751\frac 12=\sqrt{564752\frac 14}$$`
 are calculated as well as [systems of linear equations][bookofproofs$1044] are sometimes written as [coefficient matrix][bookofproofs$7941], e.g. 
