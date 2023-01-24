@@ -10,7 +10,7 @@ bookofproofs$6921 | bookofproofs$628 | **Casey, John**: "The First Six Books of 
 bookofproofs$6921 | bookofproofs$691 | **Hilbert, David**: "The Foundations of Geometry", http://www.gutenberg.org/ebooks/17384, 1899, Reprint Edition
 bookofproofs$6921 | bookofproofs$6573 | **Heiberg, I.L, Menge H**: "Euclidis Opera Omnia", https://archive.org/details/euclidisoperaomn01eucluoft, 1883
 bookofproofs$6923 | bookofproofs$6419 | **Fitzpatrick, Richard**: "Euclid's Elements of Geometry", http://farside.ph.utexas.edu/Books/Euclid/Euclid.html, 2007
-bookofproofs$6923 | bookofproofs$6909 | **O’Connor, John J; Robertson, Edmund F**: "MacTutor History  of Mathematics Archive", http://www-history.mcs.st-and.ac.uk/, 2014
+bookofproofs$6923 | bookofproofs$6909 | **O’Connor, John J; Robertson, Edmund F**: "MacTutor History  of Mathematics Archive", https://www-history.mcs.st-and.ac.uk/, 2014
 bookofproofs$6923 | bookofproofs$6910 | **Pattis, Richard**: "ICS-33: Intermediate Programming", https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt, 2014
 bookofproofs$6923 | bookofproofs$6915 | **Huylebrouck, D.**: "Mathematics in (central) Africa before colonization", http://etopia.sintlucas.be/3.14/Ishango_meeting/Mathematics_Africa.pdf, 2006 
 bookofproofs$6923 | bookofproofs$6911 | **Burali-Forti, C.**: "Una questione sui numeri transfiniti", https://doi.org/10.1007/BF03015911, 1897, Rend. Circ. Matem. (1897) 11: 15

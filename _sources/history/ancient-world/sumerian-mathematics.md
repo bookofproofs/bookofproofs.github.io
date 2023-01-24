@@ -15,7 +15,7 @@ issues: broken-links
 
 ---
 
-In comparison to the "Egyptian mathematics":https://www.bookofproofs.org/history/1550-bc-egyptian-mathematics/, the _Sumerian_ period (3rd dynasty of Ur in Mesopotamia) was much more sophisticated. The Sumers developed a placed-valued _sexagesimal system_, which differs from the currently world-wide used _decimal system_ only by the base of `$60$` instead of `$10$`. Thus, for instance, the number `$59$` would be written as a single Sumerian digit, while the number `$61$` would be written as two Sumerian digits used for `$1,$` i.e. as `$11=1\cdot 60^1+1\cdot 60^0.$` 
+In comparison to the [Egyptian mathematics][bookofproofs$8246], the _Sumerian_ period (3rd dynasty of Ur in Mesopotamia) was much more sophisticated. The Sumers developed a placed-valued _sexagesimal system_, which differs from the currently world-wide used _decimal system_ only by the base of `$60$` instead of `$10$`. Thus, for instance, the number `$59$` would be written as a single Sumerian digit, while the number `$61$` would be written as two Sumerian digits used for `$1,$` i.e. as `$11=1\cdot 60^1+1\cdot 60^0.$` 
 
 Sumerians used clay tablets with numerical notation. Their unique symbols are shown below. 
 

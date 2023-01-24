@@ -17,7 +17,7 @@ All other folders are auxiliary:
 # How can I collaborate?
 
 Note: As long as we are still migrating from the old site, you can contribute to the already migrated branches of mathematics.
-Check the subfolders of _sources to see, which branches of mathematics are already migrated. 
+Check the subfolders of `_sources/branches` and `_sources/history` to see, which branches of mathematics are already migrated. 
 
 We will remove this note after the migration is complete.  
 
