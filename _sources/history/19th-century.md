@@ -1538,7 +1538,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Pierpont/">James P Pierpont</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Zorawski/">Kazimierz Zorawski</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Zorawski/">Żorawski, Kazimierz</a>
+: A Polish mathematician who worked on invariants of differential forms, integral invariants of Lie groups, differential geometry and fluid mechanics.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Chini/">Mineo Chini</a>
 
@@ -2151,7 +2152,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Wedderburn/">Joseph Henry Maclagen Wedderburn</a>
 : Joseph Wedderburn worked for most of his life in Princeton. He made important advances in the theory of rings, algebras and matrix theory.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bartel/">Kazimierz Wladyslaw Bartel</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bartel/">Bartel, Kazimierz Władysław</a>
+: a Polish mathematician who went on to become president of Poland up to the first World War.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Knopp/">Konrad Hermann Theodor Knopp</a>
 : A German mathematician who worked on generalised limits and complex functions. He was the co-founder of Mathematische Zeitschrift in 1918.
@@ -2166,12 +2168,13 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Moore_Robert/">Robert Lee Moore</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Banachiewicz/">Tadeusz Banachiewicz</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Banachiewicz/">Banachiewicz, Tadeusz</a>
+: A Polish astronomer, mathematician and geodesist.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Angheluta/">Theodor Angheluta</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Sierpinski/">Waclaw Sierpinski</a>
-: Sierpiński's most important work is in the area of set theory, point set topology, and number theory. In the set theory he made important contributions to the axiom of choice and to the continuum hypothesis.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Sierpinski/">Sierpinski, Wacław</a>
+: A Polish mathematician. Sierpiński's most important work is in the area of set theory, point set topology, and number theory. In the set theory he made important contributions to the axiom of choice and to the continuum hypothesis.
 
 ### 1883 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Chatelet_Albert/">Albert Châtelet</a>
@@ -2472,7 +2475,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Brodetsky/">Selig Brodetsky</a>
 : Educated at Cambridge and Leipzig. He became a lecturer at Bristol and later lecturer and professor at Leeds. He worked on fluid flow with particular emphasis on aerodynamics. He was President of the Hebrew University of Jerusalem for a short time.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Mazurkiewicz/">Stefan Mazurkiewicz</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Mazurkiewicz/">Mazurkiewicz, Stefan</a>
 : A Polish mathematician who worked in mathematical analysis, topology, and probability.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Chapman/">Sydney Chapman</a>
@@ -2651,7 +2654,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Onicescu/">Octav Onicescu</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Banach/">Tadeusz Banachiewicz</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Banach/">Banach, Stefan</a>
+: A Polish mathematician. Banach founded modern functional analysis and made major contributions to the theory of topological vector spaces. In addition, he contributed to measure theory, integration, and orthogonal series.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Pejovic/">Tadija Pejovic</a>
 
@@ -2742,7 +2746,7 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Frenkel/">Jacov Il'ich Frenkel</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Neyman/">Jerzy Neyman</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Neyman/">Neyman, Jerzy</a>
 : A Russian born American mathematician who did important work in probability and statistics including applications to meteorology and medicine.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Suslin/">Mikhail Yakovlevich Suslin</a>
@@ -2843,8 +2847,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lah/">Ivo Lah</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kuratowski/">Kazimierz Kuratowski</a>
-: Kazimierz Kuratowski worked in the area of [topology][bookofproofs$57] and [set theory][bookofproofs$27]. He is best known for his theorem giving a necessary and sufficient condition for a [graph][bookofproofs$523] to be [planar][bookofproofs$1226].
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kuratowski/">Kuratowski, Kazimierz</a>
+: A Polish mathematician who worked in the area of [topology][bookofproofs$57] and [set theory][bookofproofs$27]. He is best known for his theorem giving a necessary and sufficient condition for a [graph][bookofproofs$523] to be [planar][bookofproofs$1226].
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Pars/">Leopold Alexander Pars</a>
 
@@ -2862,7 +2866,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Janovskaja/">Sof&#39;ja Aleksandrovna Janovskaja</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Wazewski/">Tadeusz Wazewski</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Wazewski/">Wazewski, Tadeusz</a>
+: A Polish mathematician who contributed to the theory of differential equations, control theory and the theory of analytic spaces.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Morton_Vernon/">Vernon Morton</a>
 

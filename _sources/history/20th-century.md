@@ -182,7 +182,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Menger/">Karl Menger</a>
 : An Austrian-American mathematician who worked on algebras, geometries, curve and dimension theory. He also contributed to game theory and social sciences.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Zarankiewicz/">Kazimierz Zarankiewicz</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Zarankiewicz/">Zarankiewicz, Kazimierz</a>
+: A Polish mathematician who worked in topology.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Shoda/">Kenjiro Shoda</a>
 
@@ -359,7 +360,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Levitzki/">Jacob Levitzki</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Slupecki/">Jerzy Słupecki</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Slupecki/">Słupecki, Jerzy/a>
+: A Polish mathematician born China in who made important contributions to logic.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Evelyn/">Cecil John Alvin Evelyn</a>
 
@@ -439,7 +441,7 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Dennis/">Dennis Parnell Sullivan</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Borsuk/">Karol Borsuk</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Borsuk/">Borsuk, Karol</a>
 : A Polish mathematician who made important contributions to topology.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kalmar/">László Kalmár</a>
@@ -759,7 +761,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Alexander_Hugh/">Hugh Alexander</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Rozycki/">Jerzy Rozycki</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Rozycki/">Różycki, Jerzy</a>
+: A Polish mathematician who, along with his colleagues Marian Adam Rejewski and Henryk Michał Zygalski, did amazingly valuable work decoding messages sent by the German Enigma machines. Although impossible to quantify, many lives must have been saved since, it is claimed, their work contributed to the shortening of World War II by between three to five years.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Haantjes/">Johannes Haantjes</a>
 
@@ -990,7 +993,7 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Faedo/">Alessandro Faedo</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Mostowski/">Andrzej Mostowski</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Mostowski/">Mostowski, Andrzej</a>
 : A Polish mathematician who worked on logic and the foundations of mathematics.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Silva_Dias/">Cândido Silva Dias</a>
@@ -1093,18 +1096,19 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Schwarz_Stefan/">Stefan Schwarz</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Slebarski/">Tadeusz Boleslaw Ślebarski</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Slebarski/">Ślebarski, Tadeusz Boleslaw</a>
+: A Polish astronomer who taught for many years at the University of St Andrews.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Potapov/">Vladimir Petrovich Potapov</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Potapov/">Potapov, Vladimir Petrovich</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/McAfee/">Walter Samuel McAfee</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/McAfee/">McAfee, Walter Samuel</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hoeffding/">Wassily Hoeffding</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hoeffding/">Hoeffding, Wassily</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cooper_William/">William Wager Cooper</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cooper_William/">Cooper, William Wager</a>
 
 ### 1915 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Dou/">Hendrik Douwe Kloosterman</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Dou/">Kloosterman, Hendrik Douwe</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Povzner/">Aleksandr Yakovlevich Povzner</a>
 
@@ -1213,7 +1217,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Dienes_Zoltan/">Zoltán Dienes</a>
 
 ### 1917 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Alexiewicz/">Andrzej Tadeusz Alexiewicz</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Alexiewicz/">Alexiewicz, Andrzej Tadeusz</a>
+: A Polish mathematician who was an expert at functional analysis.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Selberg/">Atle Selberg</a>
 : A Norwegian mathematician known for his work in analytic number theory and on discrete groups and automorphic forms.
@@ -1547,8 +1552,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hamill/">Christine Mary Hamill</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Mostow/">Andrzej Mostowski</a>
-: A Polish mathematician who worked on logic and the foundations of mathematics.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Mostow/">Mostow, Gorge Daniel</a>
+: An outstanding mathematician winning the Leroy Steele Prize in 1993 and the Wolf Prize in Mathematics in 2013 for his fundamental and pioneering contribution to geometry and Lie group theory. He also played a major role in supporting mathematics as president of the American Mathematical Society and in many other leading roles.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Gorenstein/">Daniel Gorenstein</a>
 
@@ -1991,7 +1996,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Polkinghorne/">John Charlton Polkinghorne</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Urbanik/">Kazimierz Urbanik</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Urbanik/">Urbanik, Kazimierz</a>
+: A Polish mathematician (born in what is now Ukraine) best known for his work in stochastic processes and probability theory.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Curle/">Newby Curle</a>
 
