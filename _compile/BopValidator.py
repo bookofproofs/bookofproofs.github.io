@@ -49,7 +49,8 @@ class BopValidator:
         BopLayouts.explanation: [],
         BopLayouts.solution: [],
         BopLayouts.epoch: [BopLayouts.epoch, BopLayouts.topic],
-        BopLayouts.topic: [BopLayouts.topic]
+        BopLayouts.topic: [BopLayouts.topic],
+        BopLayouts.notation: [],
     }
 
     def __init__(self, sources: dict):

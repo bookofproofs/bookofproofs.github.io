@@ -21,6 +21,7 @@ class BopLayouts:
     index = "index"
     lemma = "lemma"
     motivation = "motivation"
+    notation = "notation"
     part = "part"
     proof = "proof"
     problem = "problem"
@@ -281,6 +282,8 @@ class BopSource:
         elif layout == BopLayouts.default:
             return "."
         elif layout == BopLayouts.index:
+            return "."
+        elif layout == BopLayouts.notation:
             return "."
         else:
             raise NotImplementedError(layout)

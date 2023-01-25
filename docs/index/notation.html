@@ -1,0 +1,973 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
+<title>Symbolic Notation</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+        </a>
+        <!-- Float links to the right. Hide them on small screens -->
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style='clear:both'></div>
+            </div>
+        </div>
+        <div style='clear:both'></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/index/index.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/index/index.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/index/tree-index.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/index/index.html'>Index</a> / .</h3>
+
+<hr>
+
+<h1>Symbolic Notation</h1>
+<p>In a collaborative project, a unified notation is important for both the authors and readers. 
+In the below list, you will find the symbolic notation we choose for mathematical concepts.
+Because we occasionally use the same symbols across different branches of mathematics to express different things, 
+the symbols are attached to different branches.</p>
+<h2>Algebra</h2>
+<dl>
+<dt>\((\mathbb B,\sqcap,\sqcup,1,0)\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/logic/boolean-algebra.html">Boolean algebra</a></dd>
+<dt>$\operatorname{char}( F )$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/characteristic-of-a-field.html">characteristic (here of a field)</a>, <a href="https://bookofproofs.github.io/branches/algebra/characteristic-of-a-ring.html">characteristic (here of a ring)</a></dd>
+<dt>\((R,+,\cdot)\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/ring.html">ring, unit ring</a></dd>
+<dt>$a\sim_G b$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/conjugate-elements-of-a-group.html">conjugate elements</a> $a,b$ in the group $G$</dd>
+<dt>$a\mid b$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/generalization-of-divisor-and-multiple.html">divisor (generalization)</a></dd>
+</dl>
+<h2>Analysis</h2>
+<dl>
+<dt>\(a_{-k}a_{-k+1}\cdots a_{-1}a_{0}.a_{1}a_{2}a_{3}\cdots\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/b-adic-fractions.html">\(b\)-adic fraction</a></dd>
+<dt>$a\sim b$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/associate.html">Associate</a></dd>
+<dt>$(a_n)\sim(b_n)$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/asymptotical-approximation.html">asymptotically equivalent sequences</a></dd>
+<dt>\(\bar{v}\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/theoretical-physics/classical-physics/average-velocity.html">average velocity (in physics)</a></dd>
+</dl>
+<h1>Theoretical Computer Science</h1>
+<dl>
+<dt>\(\mathcal O\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/theoretical-computer-science/complexity-theory/big-o-notation.html">big-O</a> or <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/complexity-theory/big-o-notation.html">asymptotic notation</a></dd>
+</dl>
+<h2>Geometry</h2>
+<dl>
+<dt>\(\angle{PQR}\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/angle-rectilinear-vertex-legs.html">angle</a> between \(\overline{PQ}\) and \(\overline{QR}\) (called <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/angle-rectilinear-vertex-legs.html">legs of the angle</a>) being rotated counter-clockwise around \(Q\) (called the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/angle-rectilinear-vertex-legs.html">vertex of the angle</a>) </dd>
+<dt>\(A,B,C,\ldots\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/point.html">point</a></dd>
+<dt>\(\overline EF\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/straight-line-segment-and-ray.html">ray</a> beginning at point \(E\) and going through point \(F\)</dd>
+<dt>\(\overline{AC}\perp\overline{DB}\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/right-angle-perpendicular-straight-lines.html">right angle</a> between \(\overline{AC}\) and \(\overline{DB}\) being <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/right-angle-perpendicular-straight-lines.html">perpendicular</a></dd>
+<dt>\(\overline{CD}\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/straight-line-segment-and-ray.html">segment</a> between the endpoints \(C\) and \(D\)</dd>
+<dt>\(AB\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/straight-line-segment-and-ray.html">straight line</a> connecting the points \(A\) and \(B\)</dd>
+<dt>\(\odot AB\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/circle-circumference-radius.html">circle</a> with center \(A\) and <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/circle-circumference-radius.html">radius</a> \(\overline{AB}\)]</dd>
+<dt>\(\triangle ABC\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/equilateral-triangle-isosceles-triangle-scalene-triangle.html">triangle</a> between the points \(A,B,C\)]</dd>
+<dt>\(\boxdot{ABCD}\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/square-rectangle-rhombus-rhomboid-trapezium.html">square</a> with the edges \(A,B,C,D\)]</dd>
+<dt>\(\boxdot{ABCD}\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/square-rectangle-rhombus-rhomboid-trapezium.html">parallelogram</a> with the edges \(A,B,C,D\)]</dd>
+<dt>\(\boxdot{ABCD}\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/square-rectangle-rhombus-rhomboid-trapezium.html">rhombus</a> with the edges \(A,B,C,D\)]</dd>
+<dt>\(\boxdot{ABCD}\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/square-rectangle-rhombus-rhomboid-trapezium.html">rectangle</a> with the edges \(A,B,C,D\)]</dd>
+<dt>\(AB\parallel CD\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/parallel-straight-lines.html">parallel lines</a></dd>
+<dt>\(AB\not\parallel CD\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/parallel-straight-lines.html">non-parallel lines</a></dd>
+<dt>\(\sim\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-7-elementary-number-theory/proportional-numbers.html">proportional</a></dd>
+<dt>\({A}\cong{B}\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/congruence.html">congruence of the objects</a> \(A\) and \(B\)</dd>
+</dl>
+<h2>Geometry (Projective)</h2>
+<dl>
+<dt>$P=m\cdot l$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/projective-geometry/concurrent-straight-lines.html">concurrent straight lines</a> $m$ and $l$ meeting at the point $P$</dd>
+<dt>$l=PQ$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/projective-geometry/collinear-points.html">collinear points</a> $P$ and $Q$ on a line $l$ joining them </dd>
+<dt>$\alpha=PQ$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/projective-geometry/coplanar-points-and-straight-lines.html">coplanar points</a> $P$ and $Q$ on a plane $\alpha$ joining them </dd>
+<dt>$\alpha=Pl$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/projective-geometry/coplanar-points-and-straight-lines.html">coplanar point $P$ and line $l$</a> on a plane $\alpha$ joining them </dd>
+<dt>$p\overline{\overline\wedge}q$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/projective-geometry/perspectivities.html">perspectivity</a> of two straight lines </dd>
+<dt>$P\overline{\overline\wedge}Q$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/projective-geometry/perspectivities.html">perspectivity</a> of two points </dd>
+<dt>$P\overline\wedge p$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/projective-geometry/projectivities-ranges-and-pencils.html">projectivity</a> of a point $P$ and a straight line $p$</dd>
+</dl>
+<h2>Number Theory</h2>
+<dl>
+<dt>\(d\not\mid n\)</dt>
+<dd>\(d\) does not <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-7-elementary-number-theory/aliquant-part-a-number-being-not-a-divisor-of-another-number.html">divide</a> \(n\)</dd>
+<dt>\(p\)</dt>
+<dd>[prime number ]</dd>
+<dt>\(p_i\)</dt>
+<dd>[i-th prime number]</dd>
+<dt>\(\mathbb P\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-7-elementary-number-theory/prime-number.html">prime numbers (set of)</a></dd>
+<dt>\(|z|\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/absolute-value-of-complex-numbers.html">absolute value (complex case)</a> \(z\)</dd>
+<dt>\(|x|\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/absolute-value-of-real-numbers-modulus.html">absolute value (real case)</a></dd>
+<dt>\(|x-y|\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/absolute-value-of-real-numbers-modulus.html">distance (here real case)</a> of \(x\) and \(y\)</dd>
+<dt>$a\equiv b\mod m$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-theory/congruent-residue.html">congruent modulo</a> $m$</dd>
+<dt><code>a\equiv b(m)</code></dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-theory/congruent-residue.html">residue modulo</a> $m$</dd>
+<dt>\(a\perp b\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-theory/coprime-numbers.html">co-prime</a> (also <a href="https://bookofproofs.github.io/branches/number-theory/coprime-numbers.html">relatively prime numbers</a>) numbers \(a\) and \(b\)</dd>
+</dl>
+<h1>Number Systems and Arithmetics</h1>
+<dl>
+<dt>\(+\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-natural-numbers.html">addition (here natural numbers)</a></dd>
+<dt>\((\mathbb C, +, \cdot)\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-complex-numbers-together-with-addition-and-multiplication.html">field of complex numbers</a></dd>
+<dt>\((\mathbb C, +)\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-complex-numbers-together-with-addition.html">commutative group of complex numbers with respect to addition</a></dd>
+<dt>\((\mathbb Z, + )\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-integers-together-with-addition.html">group of integers with respect to addition</a></dd>
+<dt>\((\mathbb C^*, \cdot)\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-non-zero-complex-numbers-together-with-multiplication.html">commutative group of complex numbers with respect to multiplication</a></dd>
+<dt>\((\mathbb Q^*, \cdot)\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-non-zero-rational-numbers-together-with-multiplication.html">commutative group of rational numbers with respect to multiplication</a></dd>
+<dt>\((\mathbb R^*, \cdot)\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-non-zero-real-numbers-together-with-multiplication.html">commutative group of real numbers with respect to multiplication</a></dd>
+<dt>\((\mathbb Q,+,\cdot))\)</dt>
+<dd>[field of rational numbers</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-rational-numbers-together-with-addition-and-multiplication.html">Algebraic Structure of Rational Numbers Together with Addition and Multiplication</a></dd>
+<dt>\((\mathbb Q,+)\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-rational-numbers-together-with-addition.html">commutative group of rational numbers with respect to addition</a></dd>
+<dt>\((\mathbb R,+,\cdot))\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-real-numbers-together-with-addition-and-multiplication.html">field of real numbers</a></dd>
+<dt>\((\mathbb R, +)\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-real-numbers-together-with-addition.html">commutative group of real numbers with respect to addition</a></dd>
+<dt>\(z^* \)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/complex-conjugate.html">complex conjugate</a> of the complex number \(z\)</dd>
+</dl>
+<h2>Combinatorics</h2>
+<dl>
+<dt>\(\binom nk\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/combinatorics/binomial-coefficients.html">binomial coefficient</a></dd>
+</dl>
+<h2>Topology</h2>
+<dl>
+<dt>$\delta X$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/topology/boundary-points-closures-interiors-and-exteriors.html">boundary</a> of $X$</dd>
+<dt>$X^e$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/topology/boundary-points-closures-interiors-and-exteriors.html">exterior</a> of $X$</dd>
+<dt>$X^-$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/topology/boundary-points-closures-interiors-and-exteriors.html">closure</a> of $X$</dd>
+<dt>$X^\circ$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/topology/boundary-points-closures-interiors-and-exteriors.html">interior</a> of $X$</dd>
+<dt>\(A\simeq B\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/calculations-in-a-group.html">isomorphic sets</a> $A$ and $B$</dd>
+<dt>$\operatorname{cnf}(\phi)$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/logic/canonical-normal-form.html">canonical normal form</a> of $\phi$</dd>
+</dl>
+<h2>Set Theory</h2>
+<dl>
+<dt>$|A|$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/cardinal-number.html">cardinality</a> of the set $A$ (also <a href="https://bookofproofs.github.io/branches/set-theory/cardinal-number.html">cardinal number</a>)</dd>
+<dt>\(A\times B\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/cartesian-product.html">Cartesian product</a> of the sets \(A\) and \(B\)</dd>
+<dt>\(A_1\times A_2\times\cdots\times A_n\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/cartesian-product.html">Cartesian product</a> of the sets \(A_1\ldots A_n\)</dd>
+<dt>\(A^n\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/cartesian-product.html">Cartesian product</a> of the set \(A\) with itself (\(n\) times)</dd>
+<dt>$a\prec b$</dt>
+<dd>$a$ is <a href="https://bookofproofs.github.io/branches/set-theory/comparing-the-elements-of-posets-and-chains.html">greater than</a> $b$</dd>
+<dt>$a\succ b$</dt>
+<dd>$a$ is <a href="https://bookofproofs.github.io/branches/set-theory/comparing-the-elements-of-posets-and-chains.html">smaller than</a> $b$</dd>
+<dt>$a\preceq b$</dt>
+<dd>$a$ is <a href="https://bookofproofs.github.io/branches/set-theory/comparing-the-elements-of-posets-and-chains.html">greater than or equal to</a> $b$</dd>
+<dt>$a\succeq b$</dt>
+<dd>$a$ is <a href="https://bookofproofs.github.io/branches/set-theory/comparing-the-elements-of-posets-and-chains.html">smaller than or equal to</a> $b$</dd>
+<dt>$a=b$</dt>
+<dd>$a$ is <a href="https://bookofproofs.github.io/branches/set-theory/comparing-the-elements-of-posets-and-chains.html">equal to</a> $b$</dd>
+<dt>$\mathbb Z_m$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-theory/congruence-classes.html">quotient set</a> of <a href="https://bookofproofs.github.io/branches/number-theory/congruence-classes.html">congruence class modulo</a> $m$</dd>
+<dt>$a(m)$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/number-theory/congruence-classes.html">representative</a> $a$ of the <a href="https://bookofproofs.github.io/branches/number-theory/congruence-classes.html">congruence class modulo</a> $m$</dd>
+<dt>\((R_2\circ R_1)(x)\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/composition-of-binary-relations.html">composition of the relations</a> \(R_2\) and \(R_1\)</dd>
+<dt>\(R_2(R_1(x))\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/composition-of-binary-relations.html">composition of the relations</a> \(R_2\) and \(R_1\)</dd>
+<dt>\((g\circ f)(x)\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/composition-of-functions.html">composition of the functions</a> \(f\) and \(g\)</dd>
+<dt>\(g(f(x))\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/composition-of-functions.html">composition of the functions</a>  \(f\) and \(g\)</dd>
+</dl>
+<h2>Probability Theory and Statistics</h2>
+<dl>
+<dt>\(\Omega\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/certain-and-impossible-event.html">certain event</a></dd>
+<dt>\(\emptyset\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/certain-and-impossible-event.html">impossible event</a></dd>
+</dl>
+<h2>Graph Theory</h2>
+<dl>
+<dt>\(\overline G\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/complement-graph.html">complement graph</a></dd>
+<dt>\(K_{m,n}\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/complete-bipartite-graph.html">complete bipartite graph</a></dd>
+<dt>\(K_n\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/complete-graph.html">complete graph</a> (with \(n\) vertices)`</dd>
+</dl>
+<h2>Logic</h2>
+<dl>
+<dt>\(x \wedge y\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/logic/conjunction.html">conjunction</a> of two propositions ("\(x\) and \(y\)")</dd>
+</dl>
+<h2>(work in progress)</h2>
+<dl>
+<dt>$\operatorname{ccnf}(\phi)$</dt>
+<dd>[conjunctive canonical normal form of $\phi$</dd>
+<dt>$\operatorname{dcnf}(\phi)$</dt>
+<dd>[disjunctive canonical normal form of $\phi$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/logic/conjunctive-and-disjunctive-canonical-normal-forms.html">Conjunctive and Disjunctive Canonical Normal Forms</a></dd>
+<dt>$[x_1,x_2,\ldots]$</dt>
+<dd>[continued fraction</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/continued-fractions.html">Continued Fractions</a></dd>
+<dt>\(\lim_{n\to\infty} x_n\)</dt>
+<dd>[limes of convergent series</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/convergent-real-sequence.html">Convergent Real Sequence</a></dd>
+<dt>\(\sum_{k=0}^\infty x_k\)</dt>
+<dd>[series</dd>
+<dt>\(\sum_{k=0}^\infty x_k\)</dt>
+<dd>[limit of a convergent series</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/convergent-real-series.html">Convergent Real Series</a></dd>
+<dt>\(\lim_{n\rightarrow\infty} a_n=a\)</dt>
+<dd>[limit of a convergent sequence</dd>
+<dd><a href="https://bookofproofs.github.io/branches/topology/convergent-sequences.html">Convergent Sequences and Limits</a></dd>
+<dt>\(\operatorname{conv}(X)\)</dt>
+<dd>[convex hull of \(X\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/convex-hull.html">Convex Hull</a></dd>
+<dt>\(aH\)</dt>
+<dd>[left coset of the subgroup \(H\subseteq G\) with respect to \(a\in G\)</dd>
+<dt>\(Ha\)</dt>
+<dd>[right coset of the subgroup \(H\subseteq G\) with respect to \(a\in G\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/cosets.html">Cosets</a></dd>
+<dt>\(C_n\)</dt>
+<dd>[cycle graph (with \(n\) vertices)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/cycle-graph.html">Cycle Graph</a></dd>
+<dt>\(G=\langle g \rangle\)</dt>
+<dd>[cyclic group</dd>
+<dt>$operatorname{ord}(a)$</dt>
+<dd>[order of the element $a$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/cyclic-group-order-of-an-element.html">Cyclic Group, Order of an Element</a></dd>
+<dt>\(\mathbb C\)</dt>
+<dd>[set of complex numbers</dd>
+<dt>\(\Re(z)\)</dt>
+<dd>[real part of the complex number \(z\)</dd>
+<dt>\(\Im(z)\)</dt>
+<dd>[imaginary part of the complex number \(z\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-complex-numbers.html">Definition of Complex Numbers</a></dd>
+<dt>\(\mathbb Z\)</dt>
+<dd>[integers (set of)`</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html">Definition of Integers</a></dd>
+<dt>\(\mathbb Q\)</dt>
+<dd>[set of rational numbers</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-rational-numbers.html">Definition of Rational Numbers</a></dd>
+<dt>\(\mathbb R\)</dt>
+<dd>[set of real numbers</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html">Definition of Real Numbers</a></dd>
+<dt>\(\mathbb R^n\)</dt>
+<dd>[Euclidean vector space of dimension \(n\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/definition-of-the-metric-space-r-n-euclidean-norm.html">Definition of the Metric Space \(\mathbb R^n\), Euclidean Norm</a></dd>
+<dt>$\vdash_L\phi$</dt>
+<dd>[derivable formula $\phi$ in logical calculus $L$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/logic/derivability-property.html">Derivability Property</a></dd>
+<dt>\(f'(x)\)</dt>
+<dd>[derivative of \(f\) at \(x\)</dd>
+<dt>\(\frac {df(x)}{dx}\)</dt>
+<dd>[derivative of \(f\) at \(x\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/derivative-differentiable-functions.html">Derivative, Differentiable Functions</a></dd>
+<dt>$\operatorname{diam} (A)$</dt>
+<dd>[diameter of set \(A\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/topology/diameter-in-metric-spaces.html">Diameter In Metric Spaces</a></dd>
+<dt>\(\Delta f(b,a)\)</dt>
+<dd>[difference quotient of function \(f\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/difference-quotient.html">Difference Quotient</a></dd>
+<dt>\(D=(V,E,\alpha,\omega)\)</dt>
+<dd>[Digraph</dd>
+<dt>\(\alpha(e)\)</dt>
+<dd>[initial vertex assigned to the edge \(e\)</dd>
+<dt>\(\omega(e)\)</dt>
+<dd>[terminal vertex assigned to the edge \(e\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/digraph-initial-and-terminal-vertices-loops-parallel-and-inverse-edges-simple-digraph.html">Digraph, Initial and Terminal Vertices, Loops, Parallel and Inverse Edges, Simple Digraph</a></dd>
+<dt>\(\operatorname {dim}(V)\)</dt>
+<dd>[dimension of a vector space \(V\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/dimension-of-a-vector-space.html">Dimension of a Vector Space</a></dd>
+<dt>\(\left(D_{v}f\right)\left(x\right)\)</dt>
+<dd>[directional derivative of \(f\) along vector \(v\) at point \(x\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/directional-derivative.html">Directional Derivative</a></dd>
+<dt>\(x \vee y\)</dt>
+<dd>[disjunction of the propositions \(x\) and \(y\) ("(x)<code>or</code>(y)")`</dd>
+<dd><a href="https://bookofproofs.github.io/branches/logic/disjunction.html">Disjunction</a></dd>
+<dt>\(p\)</dt>
+<dd>[prime number</dd>
+<dt><code>(p_i\)</code></dt>
+<dd>[i-th prime number</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-theory/divisibility.html">Divisibility</a></dd>
+<dt>\(d\mid n\)</dt>
+<dd>[\(d\) divides  \(n\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-theory/divisor-complementary-divisor-multiple.html">Divisor, Complementary Divisor, Multiple</a></dd>
+<dt>\(\langle v,w\rangle\)</dt>
+<dd>[dot product of the vectors \(v\) and \(w\)</dd>
+<dt>\(\langle v,w\rangle\)</dt>
+<dd>[inner product of the vectors \(v\) and \(w\)</dd>
+<dt>\(\langle v,w\rangle\)</dt>
+<dd>[scalar product of the vectors \(v\) and \(w\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/dot-product-inner-product-scalar-product.html">Dot Product, Inner Product, Scalar Product (General Field Case)</a></dd>
+<dt>\(G^\ast_{\mathcal D}\)</dt>
+<dd>[dual graph of a planar graph \(G\) in its planar drawing \(\mathcal D\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/dual-planar-graph.html">Dual Planar Graph</a></dd>
+<dt>$A=B$</dt>
+<dd>[equal sets $A$ and $B$</dd>
+<dt>$A\neq B$</dt>
+<dd>[unequal sets $A$ and $B$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/equality-of-sets.html">Equality of Sets</a></dd>
+<dt>\([a]_R\)</dt>
+<dd>[equivalence class with the representative element \(a\) under the relation \(R\)</dd>
+<dt>\([a]\)</dt>
+<dd>[equivalence class with the representative element \(a\) (short form, if relation \(R\) is clear from the context)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/equivalence-class.html">Equivalence Class</a></dd>
+<dt>\(a\sim_R b\)</dt>
+<dd>[equivalence \(R\) of the elements \(a\) and \(b\)</dd>
+<dt>\(a\sim b\)</dt>
+<dd>[equivalence (short notation), if \(R\) is clear from the context of the elements \(a\) and \(b\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/equivalence-relation.html">Equivalence Relation</a></dd>
+<dt>\(x \Leftrightarrow y\)</dt>
+<dd>[equivalence "\(x\) if and only if \(y\)"</dd>
+<dd><a href="https://bookofproofs.github.io/branches/logic/equivalence.html">Equivalence</a></dd>
+<dt>$e$</dt>
+<dd>[Euler's constant</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/eulers-constant.html">Euler's Constant</a></dd>
+<dt>$x^{-1}$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html">inverse element of $x$</a></dd>
+<dt>\(\mathbb R_{ + }\)</dt>
+<dd>[set of positive real numbers including zero</dd>
+<dt><code>(\mathbb R_{ - }\)</code></dt>
+<dd>[set of negative real numbers including zero</dd>
+<dt><code>(\mathbb R^{ * }_{ + }\)</code></dt>
+<dd>[set of positive real numbers excluding zero</dd>
+<dt><code>(\mathbb R^{ * }_{ - }\)</code></dt>
+<dd>[set of negative real numbers excluding zero</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-theory/explanation-of-congruence-classes.html">Explanation of Congruence Classes</a></dd>
+<dt>\(\exp_a(x)\)</dt>
+<dd>[exponential function of general base \(a\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/exponential-function-of-general-base.html">Exponential Function of General Base</a></dd>
+<dt>\(\exp(x)\)</dt>
+<dd>[exponential function</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/exponential-function.html">Exponential Function</a></dd>
+<dt>\(x^n\)</dt>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/exponentiation-in-a-monoid.html">\(x\) raised to the \(n\)-th power (\(x\) to the \(n\))</code></a></dd>
+<dt>$\overline{\mathbb R}$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/extended-real-numbers.html">extended real numbers</a></dd>
+<dt><code>\(\bigwedge ^{n}V\)</dt>
+<dd>[exterior algebra over the vector space \(V\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/exterior-algebra-alternating-product-universal-alternating-map.html">Exterior Algebra, Alternating Product, Universal Alternating Map</a></dd>
+<dt>$n!$</dt>
+<dd>[factorial</dd>
+<dd><a href="https://bookofproofs.github.io/branches/combinatorics/factorial.html">Factorial</a></dd>
+<dt>\(n^{\underline{k}}\)</dt>
+<dd>[factorial power (falling)</dd>
+<dt><code>(n^{\overline{k}}\)</code></dt>
+<dd>[factorial power (rising)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/combinatorics/falling-and-rising-factorial-powers.html">Falling And Rising Factorial Powers</a></dd>
+<dt>\(L/F\)</dt>
+<dd>[field extension \(L\) over the field \(F\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/field-extension.html">Field Extension</a></dd>
+<dt>\((F,+,\cdot)\)</dt>
+<dd>[field with the operations \(+:F\mapsto F\) and \(\cdot:F\mapsto F\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/field.html">Field</a></dd>
+<dt>\(\lfloor x \rfloor\)</dt>
+<dd>[floor of the real number \(x\)</dd>
+<dt>\(\lceil x \\)</dt>
+<dd>[ceiling of the real number \(x\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-theory/floor-and-ceiling-functions.html">Floor and Ceiling Functions</a></dd>
+<dt>$\int_a^bf(x)dx=F(x)\;\Rule{1px}{4ex}{2ex}^{b}_{a}$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/fundamental-theorem-of-calculus.html">Riemann integral</a> calculation of $f$ using its <a href="https://bookofproofs.github.io/branches/analysis/fundamental-theorem-of-calculus.html">antiderivative</a> $F$</dd>
+<dt>$\Gamma(x)$</dt>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/gamma-function.html">Gamma function</a> of $x$</dd>
+<dt>$\gcd(M)$</dt>
+<dd>[greatest common divisor of the set $M$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/generalization-of-the-greatest-common-divisor.html">Generalization of the Greatest Common Divisor</a></dd>
+<dt>$\langle A \rangle$</dt>
+<dd>[group generated by the set $A$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/generating-set-of-a-group.html">Generating Set of a Group</a></dd>
+<dt>$\langle A\rangle_R$</dt>
+<dd>[ideal generated by the set $A$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/generating-set-of-an-ideal.html">Generating Set of an Ideal</a></dd>
+<dt>\(G O T O\)</dt>
+<dd>[GOTO-computable functions (set of)</dd>
+<dt>\(G O T O^{part}\)</dt>
+<dd>[partially GOTO-computable functions (set of)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/theoretical-computer-science/computability/goto-computable-functions.html">GOTO-Computable Functions</a></dd>
+<dt>$\Gamma_f$</dt>
+<dd>[Graph $\Gamma$ of a function $f$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/graph-of-a-function.html">Graph of a Function</a></dd>
+<dt>\(\gcd(a,b)\)</dt>
+<dd>[greatest common divisor</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-theory/greatest-common-divisor.html">Greatest Common Divisor</a></dd>
+<dt>$|G|$</dt>
+<dd>[order of the group $G$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/group-order.html">Group Order</a></dd>
+<dt>\((G,\ast)\)</dt>
+<dd>[group</dd>
+<dt>$|G|$</dt>
+<dd>[order of the group \(G\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/group.html">Group</a></dd>
+<dt>\(D_{v_{n}}(...D_{v_{2}}(D_{v_{1}}f(x)))\)</dt>
+<dd>[higher order directional derivative of \(f\) along the vectors \(v_{1},\ldots ,v_{n}\) at the point \(x\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/higher-order-directional-derivative.html">Higher Order Directional Derivative</a></dd>
+<dt>$f^{(k)}$</dt>
+<dd>[derivative of order $k$ of $f$</dd>
+<dt>$\frac{d^kf(x)}{dx^k}$</dt>
+<dd>[derivative of order $k$ of $f$</dd>
+<dt>$\left(\frac d{dx}\right)^kf(x)$</dt>
+<dd>[derivative of order $k$ of $f$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/higher-order-derivatives.html">Higher-Order Derivatives</a></dd>
+<dt>$\cosh$</dt>
+<dd>[hyperbolic cosine</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/hyperbolic-cosine.html">Hyperbolic Cosine</a></dd>
+<dt>$\sinh$</dt>
+<dd>[hyperbolic sine</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/hyperbolic-sine.html">Hyperbolic Sine</a></dd>
+<dt>\(I\lhd R\)</dt>
+<dd>[ideal of the ring R</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/ideal.html">Ideal</a></dd>
+<dt>\(I\)</dt>
+<dd>[identity matrix</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/identity-matrix.html">Identity Matrix</a></dd>
+<dt>\(i\)</dt>
+<dd>[imaginary unit</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/imaginary-unit.html">Imaginary Unit</a></dd>
+<dt>\(x \Rightarrow y\)</dt>
+<dd>[conclusion "if \(x\) then  \(y\)"</dd>
+<dd><a href="https://bookofproofs.github.io/branches/logic/implication.html">Implication</a></dd>
+<dt>\(N_G(v),(N(v))\)</dt>
+<dd>[neighbors of \(v\) in the undirected graph `(G), (short form)</dd>
+<dt><code>(\delta_G(v),(\delta(v))\)</code></dt>
+<dd>[edges incident to \(v\) in the undirected graph \(G\), (short form)</code></dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/incidence-adjacency-neighbours.html">Incidence, Adjacency, Neighbours</a></dd>
+<dt><code>\(N_D^-(v),(N^-(v))\)</dt>
+<dd>[predecessor vertices of \(v\) in the digraph `(D), (short form)</dd>
+<dt><code>(N_D^+(v),(N^+(v))\)</code></dt>
+<dd>[successor vertices of \(v\) in the digraph `(D), (short form)</dd>
+<dt><code>(\delta_D^-(v),(\delta^-(v))\)</code></dt>
+<dd>[edges incoming to \(v\) in the digraph `(D), (short form)</dd>
+<dt><code>(\delta_D^+(v),(\delta^+(v))\)</code></dt>
+<dd>[edges outgoing from \(v\) in the digraph \(D\), (short form)</code></dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/incidence-adjacency-inner-and-outer-degree-predecessor-and-successor-vertices.html">Incidence, Adjacency, Predecessor and Successor Vertices, Neighbours</a></dd>
+<dt><code>\(\inf(D)\)</dt>
+<dd>[infimum of a subset of real numbers \(D\subseteq\mathbb R\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/infimum-greatest-lower-bound.html">Infimum, Greatest Lower Bound</a></dd>
+<dt>\(\dot x(t)\)</dt>
+<dd>[velocity (instantaneous, in physics)`</dd>
+<dd><a href="https://bookofproofs.github.io/branches/theoretical-physics/classical-physics/instantaneous-velocity.html">Instantaneous Velocity</a></dd>
+<dt>$\arccos(x)$</dt>
+<dd>[inverse cosine of $x$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/inverse-cosine-of-a-real-variable.html">Inverse Cosine of a Real Variable</a></dd>
+<dt>$\operatorname{arcosh}(x)$</dt>
+<dd>[inverse hyperbolic cosine</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/inverse-hyperbolic-cosine.html">Inverse Hyperbolic Cosine</a></dd>
+<dt>$\operatorname{arsinh}(x)$</dt>
+<dd>[inverse hyperbolic sine</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/inverse-hyperbolic-sine.html">Inverse Hyperbolic Sine</a></dd>
+<dt>$\arcsin(x)$</dt>
+<dd>[inverse sine of $x$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/inverse-sine-of-a-real-variable.html">Inverse Sine of a Real Variable</a></dd>
+<dt>$\arctan(x)$</dt>
+<dd>[inverse tangent of $x$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/inverse-tangent-of-a-real-variable.html">Inverse Tangent of a Real Variable</a></dd>
+<dt>$A^{-1}$</dt>
+<dd>[inverse matrix</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/invertible-and-inverse-matrix.html">Invertible and Inverse Matrix</a></dd>
+<dt>$f^{-1}$</dt>
+<dd>[inverse function</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/invertible-functions.html">Invertible Functions, Inverse Functions</a></dd>
+<dt>\(D_1\equiv D_2\)</dt>
+<dd>[isomorphic digraphs \(D_1\) and \(D_2\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/isomorphic-digraphs.html">Isomorphic Digraphs</a></dd>
+<dt>\(G_1\equiv G_2\)</dt>
+<dd>[isomorphic undirected graphs \(G_1\) and \(G_2\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/isomorphic-undirected-graphs.html">Isomorphic Undirected Graphs</a></dd>
+<dt>$\ker(f)$</dt>
+<dd>[kernel of a group homomorphism $f$</dd>
+<dt>$\operatorname{im}(f)$</dt>
+<dd>[image of a group homomorphism $f$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html">Kernel and Image of Group Homomorphism</a></dd>
+<dt>\(\operatorname{lcm}(a,b)\)</dt>
+<dd>[least common multiple</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-theory/least-common-multiple.html">Least Common Multiple</a></dd>
+<dt>$\left(\frac np\right)$</dt>
+<dd>[Legendre symbol modulo $p$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-theory/legendre-symbol.html">Legendre Symbol</a></dd>
+<dt>$\varliminf$</dt>
+<dd>[limit superior</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/limit-inferior.html">Limit Inferior</a></dd>
+<dt>\(\operatorname {lim} _{x\rightarrow a}\,f(x)=b\)</dt>
+<dd>[limit of a function</dd>
+<dd><a href="https://bookofproofs.github.io/branches/topology/limit-of-a-function.html">Limit of a Function</a></dd>
+<dt>$\varlimsup$</dt>
+<dd>[limit superior</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/limit-superior.html">Limit Superior</a></dd>
+<dt>$\lim_{\xi\to x} f(\xi)$</dt>
+<dd>[limit of $f$ at $x$</dd>
+<dt>$\lim_{\xi\searrow  x} f(\xi)$</dt>
+<dd>[limit of $f$ at $x$ from above</dd>
+<dt>$\lim_{\xi\nearrow  x} f(\xi)$</dt>
+<dd>[limit of $f$ at $x$ from below</dd>
+<dt>$\lim_{\xi\to +\infty} f(\xi)$</dt>
+<dd>[limit of $f$ at infinity</dd>
+<dt>$\lim_{\xi\to +\infty} f(\xi)$</dt>
+<dd>[limit of $f$ at minus infinity</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/limits-of-real-functions.html">Limits of Real Functions</a></dd>
+<dt>\(Span(A)\)</dt>
+<dd>[linear span of a set of a set \(A\) of vectors</dd>
+<dt><code>(Span(S)\)</code></dt>
+<dd>[linear hull of a set of a set \(A\) of vectors</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/linear-span.html">Linear Span</a></dd>
+<dt>\((n_1,n_2,...,n_k)\)</dt>
+<dd>[linked list (data structure) of \(k\) nodes</dd>
+<dd><a href="https://bookofproofs.github.io/branches/theoretical-computer-science/data-structures/linked-list-list-nodes.html">Linked List, List Nodes</a></dd>
+<dt>$\log_a(x)$</dt>
+<dd>[logarithm of $x$ to the base $a$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/logarithm-to-a-general-base.html">Logarithm to a General Base</a></dd>
+<dt>\(L O O P\)</dt>
+<dd>[LOOP-computable functions (set of)`</dd>
+<dd><a href="https://bookofproofs.github.io/branches/theoretical-computer-science/computability/loop-computable-functions.html">LOOP-Computable Functions</a></dd>
+<dt>\((X,\ast)\)</dt>
+<dd>[magma</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/magma.html">Magma</a></dd>
+<dt>\(M_{m\times n}(F)\)</dt>
+<dd>[matrices (set of) over a field \(F\) with \(m\) rows and \(n\) columns</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/matrix-set-of-matrices-over-a-field.html">Matrix, Set of Matrices over a Field</a></dd>
+<dt>$\max(D)$</dt>
+<dd>[maximum of the set $D$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/maximum-real-numbers.html">Maximum (Real Numbers)</a></dd>
+<dt>\((M,{\mathcal {A}})\)</dt>
+<dd>[measureable set with a \(\sigma\)-algebra</code>(\mathcal {A})`</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/measurable-set.html">Measurable Set</a></dd>
+<dt><code>\((M,\mathcal{A},\mu)\)</dt>
+<dd>[measurable space, consisting of a set \(M\), a</code>(\sigma)-algebra <code>\(\mathcal{A}\) and a measure \(\mu\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/measurable-space.html">Measurable Space</a></dd>
+<dt>\(m\)</dt>
+<dd>[meter</dd>
+<dd><a href="https://bookofproofs.github.io/branches/theoretical-physics/special-relativity/meter.html">Meter</a></dd>
+<dt>\((X,d)\)</dt>
+<dd>[metric space of the set \(X\) with a metric \(d\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/topology/metric-space.html">Metric Space</a></dd>
+<dt>$\omega$</dt>
+<dd>[inductive set</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/minimal-inductive-set.html">Minimal Inductive Set</a></dd>
+<dt>\(\tau(G)\)</dt>
+<dd>[minimal tree decomposability of the graph \(G\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/minimal-tree-decomposability.html">Minimal Tree Decomposability</a></dd>
+<dt>$\min(D)$</dt>
+<dd>[minimum of the set $D$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/minimum-real-numbers.html">Minimum (Real Numbers)</a></dd>
+<dt>\(_RM\)</dt>
+<dd>[left module of a ring \(R\)</dd>
+<dt>\(M_R\)</dt>
+<dd>[right module of a ring \(R\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/module.html">Module</a></dd>
+<dt>$\omega_f$</dt>
+<dd>[modulus of continuity of $f$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/topology/modulus-of-continuity-of-a-continuous-function-lebesgue.html">Modulus of Continuity of a Continuous Function</a></dd>
+<dt>\(\cdot\)</dt>
+<dd>[multiplication sign</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-natural-numbers.html">Multiplication of Natural Numbers</a></dd>
+<dt>$(\mathbb Z_m^*,\cdot)$</dt>
+<dd>[multiplicative group modulo $m$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-theory/multiplicative-group-modulo-an-integer.html">Multiplicative Group Modulo an Integer `$(\mathbb Z_m^*,\cdot)$</a></dd>
+<dt>\(\ln(x)\)</dt>
+<dd>[natural logarithm</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/natural-logarithm.html">Natural Logarithm</a></dd>
+<dt>\(\neg x\)</dt>
+<dd>[negation of the proposition \(x\) ("not \(x\)")</code></dd>
+<dd><a href="https://bookofproofs.github.io/branches/logic/negation.html">Negation</a></dd>
+<dt><code>\(\| \|\)</dt>
+<dd>[norm</dd>
+<dt><code>((V,\|\|)\)</code></dt>
+<dd>[normed vector space</dd>
+<dd><a href="https://bookofproofs.github.io/branches/topology/norm-normed-vector-space.html">Norm, Normed Vector Space</a></dd>
+<dt>\(N\unlhd G\)</dt>
+<dd>[normal subgroup</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/normal-subgroups.html">Normal Subgroups</a></dd>
+<dt>\(x^n\)</dt>
+<dd>[power \(n\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/nth-powers.html">Nth Powers</a></dd>
+<dt>\(\sqrt[n]{x}\)</dt>
+<dd>[\(n\)-th root of \(x\)</dd>
+<dt>\(x^n\)</dt>
+<dd>[\(n\)-th power of \(x\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/nth-roots-of-positive-numbers.html">Nth Roots of Positive Numbers</a></dd>
+<dt>\(N_n\)</dt>
+<dd>[null graph (with \(n\) vertices)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/null-graph.html">Null Graph</a></dd>
+<dt>$f'_+(x)$</dt>
+<dd>[right-derivative of $f$ at $x$</dd>
+<dt>$f'_-(x)$</dt>
+<dd>[left-derivative of $f$ at $x$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/one-sided-derivative-right-and-left-differentiability.html">One-sided Derivative, Right-Differentiability and Left-Differentiability</a></dd>
+<dt>$B(c,r)$</dt>
+<dd>[open ball with center \(c\) and radius \(r\)</dd>
+<dt>$B(c,\epsilon)$</dt>
+<dd>[epsilon neighborhood of \(c\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/topology/open-ball-neighborhood.html">Open Ball, Neighborhood</a></dd>
+<dt>\(|G|\)</dt>
+<dd>[order of the graph \(G\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/order-of-a-graph.html">Order of a Graph</a></dd>
+<dt>\((x_1,x_2)\)</dt>
+<dd>[ordered pair</dd>
+<dt>\((x_1,\ldots,x_n)\)</dt>
+<dd>[ordered n-tuple of set elements</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/ordered-pair-n-tuple.html">Ordered Pair, n-Tuple</a></dd>
+<dt>\(\alpha, \beta,\gamma, \ldots\)</dt>
+<dd>[ordinal numbers</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/ordinal-number.html">Ordinal Number</a></dd>
+<dt>$||x||_p$</dt>
+<dd></dd>
+<dt>`$p$-norm</dt>
+<dd><a href="https://bookofproofs.github.io/branches/topology/p-norm-taxicab-norm-euclidean-norm-maximum-norm.html">p-Norm, Taxicab Norm, Euclidean Norm, Maximum Norm</a></dd>
+<dt>\(f(a)\)</dt>
+<dd>[image of element \(a\) under the function \(f\)</dd>
+<dt>\(f[A]\)</dt>
+<dd>[image of a set \(A\) under the function \(f\)</dd>
+<dt>\(f^{-1}[B]\)</dt>
+<dd>[inverse image of a set \(B\) under the function \(f\)</dd>
+<dt>\(f^{-1}(b)\)</dt>
+<dd>[fiber of the element \(b\) under the function \(f\)</dd>
+<dt>\(f:A\mapsto B\)</dt>
+<dd>[map</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html">Partial and Total Maps (Functions)</a></dd>
+<dt>\((\begin{matrix}\pi(1) &amp; \pi(2) &amp; \pi(3) &amp; \cdots &amp; \pi(n-1) &amp; \pi(n)\end{matrix})\)</dt>
+<dd>[permutation of \(n\) elements</dd>
+<dt><code>(n!\)</code></dt>
+<dd>[factorial</dd>
+<dd><a href="https://bookofproofs.github.io/branches/combinatorics/permutations.html">Permutations</a></dd>
+<dt>\(\operatorname{PL1}\)</dt>
+<dd>[predicate logic of first order</dd>
+<dd><a href="https://bookofproofs.github.io/branches/logic/pl1-first-order-predicate-logic.html">PL1 - First Order Predicate Logic</a></dd>
+<dt>\(\mathcal D\)</dt>
+<dd>[planar drawing</dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/planar-drawing-embedding.html">Planar Drawing (Embedding)</a></dd>
+<dt>$\deg(p)$</dt>
+<dd>[degree of a polynomial $p$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/polynomial-over-a-ring-degree-variable.html">Polynomial over a Ring, Degree, Variable</a></dd>
+<dt>\(R[X]\)</dt>
+<dd>[polynomial ring (set of all polynomials over the commutative ring \(R\))</code>.</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/polynomial-ring.html">Polynomial Ring</a></dd>
+<dt><code>\(\mathcal P(X)\)</dt>
+<dd>[power set of \(X\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/power-set.html">Power Set</a></dd>
+<dt>\((V,\preccurlyeq)\)</dt>
+<dd>[ordered set</dd>
+<dt>$\preccurlyeq$</dt>
+<dd>[order, preorder</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/preorder-partial-order-and-poset.html">Preorder, Partial Order and Poset</a></dd>
+<dt>$(a)$</dt>
+<dd>[principal ideal generated by $a$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/principal-ideal.html">Principal Ideal</a></dd>
+<dt>$p(X\le x)$</dt>
+<dd>[probability of the event that the random variable \(X\) has a realization less or equal \(x\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/probability-distribution.html">Probability Distribution</a></dd>
+<dt>\(p(\overline A)\)</dt>
+<dd>[probability of the complement event of \(A\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/probability-of-the-complement-event.html">Probability of the Complement Event</a></dd>
+<dt>\(\exists\)</dt>
+<dd>[existential quantifier "there exists"</dd>
+<dt><code>(\forall\)</code></dt>
+<dd>[universal quantifier "for all"</dd>
+<dd><a href="https://bookofproofs.github.io/branches/logic/quantifier-bound-variables-free-variables.html">Quantifier, Bound Variables, Free Variables</a></dd>
+<dt>$V/_{R}$</dt>
+<dd>quotient set of the set \(V\) under the relation \(R\) (also called <code>($)V$</code> modulo <code>($)R.$)</code></dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/quotient-set-partition.html">Quotient Set, Partition</a></dd>
+<dt>\(\Omega\)</dt>
+<dd>[probability space</dd>
+<dt><code>(A,B,C,\ldots\)</code></dt>
+<dd>[random events</dd>
+<dd><a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/random-experiments-and-random-events.html">Random Experiments and Random Events</a></dd>
+<dt>\(X,Y\)</dt>
+<dd>[random variables (denoted by roman upper-case letters)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/random-variable-realization-population-and-sample.html">Random Variable, Realization, Population and Sample</a></dd>
+<dt>\([a,b]\)</dt>
+<dd>[closed real interval</dd>
+<dt>\((a,b)\)</dt>
+<dd>[open real interval</dd>
+<dt>\((a,b]\)</dt>
+<dd>[left-open, right-closed real interval</dd>
+<dt>\([a,b)\)</dt>
+<dd>[right-open, left-closed real interval</dd>
+<dt>\((- \infty,b)\)</dt>
+<dd>[left-unbounded, right-open real interval</dd>
+<dt>\((- \infty,b]\)</dt>
+<dd>[left-unbounded, right-closed real interval</dd>
+<dt>\((a,+ \infty)\)</dt>
+<dd>[right-unbounded, left-open real interval</dd>
+<dt>\([a,+ \infty)\)</dt>
+<dd>[right-unbounded, left-closed real interval</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/real-intervals.html">Real Intervals</a></dd>
+<dt>\(f_n(A)\)</dt>
+<dd>[absolute frequency of the event \(A\)</dd>
+<dt>\(F_n(A)\)</dt>
+<dd>[relative frequency of the event \(A\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/relative-and-absolute-frequency.html">Relative and Absolute Frequency</a></dd>
+<dt>${f|}_C : A \to$</dt>
+<dd>[restriction of the function \(f\) on the subset \(C\subseteq A\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/restriction.html">Restriction</a></dd>
+<dt>$\vdash$</dt>
+<dd>[derivable relation</dd>
+<dd><a href="https://bookofproofs.github.io/branches/logic/rules-of-inference.html">Rules of Inference</a></dd>
+<dt>$\models$</dt>
+<dd>[model relation</dd>
+<dt>$\models \phi$</dt>
+<dd>[valid expression <code>($)\phi$</code> (logic)</dd>
+<dt>$\models \phi$</dt>
+<dd>[tautology <code>($)\phi$</code> (logic)</dd>
+<dt>$\not{\models} \phi$</dt>
+<dd>[invalid expression <code>($)\phi$</code> (logic)</dd>
+<dt>$\not{\models} \phi$</dt>
+<dd>[contradiction $\phi$ (logic)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/logic/satisfaction-relation-model-tautology-contradiction.html">Satisfaction Relation, Model, Tautology, Contradiction</a></dd>
+<dt>\(s\)</dt>
+<dd>[second</dd>
+<dd><a href="https://bookofproofs.github.io/branches/theoretical-physics/special-relativity/second.html">Second</a></dd>
+<dt>\((S,\ast)\)</dt>
+<dd>[semigroup</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/semigroup.html">Semigroup</a></dd>
+<dt>\((a_n)_{n\in\mathbb N}\)</dt>
+<dd>[sequence</dd>
+<dd><a href="https://bookofproofs.github.io/branches/topology/sequence.html">Sequence</a></dd>
+<dt>\(A^C\)</dt>
+<dd>[complement of the set \(A\subseteq X\) (in a given set \(X\))</code></dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/set-complement.html">Set Complement</a></dd>
+<dt><code>\(A\setminus B\)</dt>
+<dd>[set difference</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/set-difference.html">Set Difference</a></dd>
+<dt>\(A\cap B\)</dt>
+<dd>[intersection of the sets \(A\) and \(B\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/set-intersection.html">Set Intersection</a></dd>
+<dt>\(\mathbb N\)</dt>
+<dd>[the set of natural numbers (including 0)`</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/set-of-natural-numbers-peano.html">Set of Natural Numbers (Peano)</a></dd>
+<dt>\(\mathbb B:=\{0,1\}\)</dt>
+<dd>[set of binary logical values</dd>
+<dd><a href="https://bookofproofs.github.io/branches/logic/set-of-truth-values-true-and-false.html">Set of Truth Values (True and False)</a></dd>
+<dt>\(A\cup B\)</dt>
+<dd>[union of the sets \(A\) and \(B\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/set-union.html">Set Union</a></dd>
+<dt>\(x\in X\)</dt>
+<dd>[\(x\) is an element of the set \(X\)</dd>
+<dt>\(x\notin X\)</dt>
+<dd>[\(x\) is not an element of the set \(X\)</dd>
+<dt>\(\emptyset\)</dt>
+<dd>[empty set</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html">Set, Set Element, Empty Set</a></dd>
+<dt>\(\mathbb N_d\)</dt>
+<dd>[set of all natural numbers relatively prime to the natural number \(d\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-theory/sets-of-integers-co-prime-to-a-given-integer.html">Sets of Integers Co-Prime To a Given Integer</a></dd>
+<dt>$PL0$</dt>
+<dd>[propositional logic</dd>
+<dd><a href="https://bookofproofs.github.io/branches/logic/signature-of-propositional-logic-pl0.html">Signature of Propositional Logic - PL0</a></dd>
+<dt>\({A}\sim{B}\)</dt>
+<dd>[similarity (in geometry) of the objects \(A\) and \(B\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/similarity.html">Similarity</a></dd>
+<dt>$\{X\}$</dt>
+<dd>[singleton of the set $X$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/singleton.html">Singleton</a></dd>
+<dt>$\inf(S)$</dt>
+<dd>[infimum of $S$</dd>
+<dt>$\sup(S)$</dt>
+<dd>[supremum of $S$</dd>
+<dt>$\max(S)$</dt>
+<dd>[maximum of $S$</dd>
+<dt>$\min(S)$</dt>
+<dd>[minimum of $S$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/special-elements-of-ordered-sets.html">Special Elements of Ordered Sets</a></dd>
+<dt>\(\operatorname{Spec}(R)\)</dt>
+<dd>[spectrum of a commutative ring</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/spectrum-of-a-commutative-ring.html">Spectrum of a Commutative Ring</a></dd>
+<dt>\(\Sigma \)</dt>
+<dd>[alphabet</dd>
+<dt>$\Sigma^*$</dt>
+<dd>[string set over an alphabet $\Sigma$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/logic/strings-words-over-an-alphabet.html">Strings (words) over an Alphabet</a></dd>
+<dt>\(S\subseteq D\)</dt>
+<dd>[subdigraph \(S\) of a digraph \(D\)</dd>
+<dt>\(D[V]\)</dt>
+<dd>[induced subdigraph in \(D\) spanned by vertices in \(V\)</dd>
+<dt>\(D[v_1,\ldots,v_k]\)</dt>
+<dd>[induced subdigraph in \(D\) spanned by the vertices \(v_1,\ldots,v_k\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/subdigraphs-and-superdigraphs-induced-subdigraph.html">Subdigraphs and Superdigraphs; Induced Subdigraph</a></dd>
+<dt>\(S\subseteq G\)</dt>
+<dd>[subgraph \(S\) of a graph \(G\)</dd>
+<dt>\(G[V]\)</dt>
+<dd>[induced subgraph in \(G\) spanned by vertices in \(V\)</dd>
+<dt>\(G[v_1,\ldots,v_k]\)</dt>
+<dd>[induced subgraph in \(G\) spanned by the vertices \(v_1,\ldots,v_k\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/subgraphs-and-supergraphs.html">Subgraphs and Supergraphs; Induced Subgraph</a></dd>
+<dt>\((a_{n_k})_{k\in\mathbb N}\)</dt>
+<dd>[subsequence of the sequence \((a_n)_{n\in\mathbb N}\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/topology/subsequence.html">Subsequence</a></dd>
+<dt>\(A\subseteq X\)</dt>
+<dd>[\(A\) is a subset of \(X\)</dd>
+<dt>\(A\subset X\)</dt>
+<dd>[\(A\) is a proper subset of \(X\)</dd>
+<dt>\(X\supseteq A\)</dt>
+<dd>[\(X\) is a superset of \(A\)</dd>
+<dt>\(X\supset A\)</dt>
+<dd>[\(X\) is a proper superset of \(A\)</dd>
+<dt>\(\mathcal P(X)\)</dt>
+<dd>[power set of \(X\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html">Subset and Superset</a></dd>
+<dt>\(\mathbb P_d\)</dt>
+<dd>[prime numbers not dividing the natural number \(d\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-theory/subsets-of-prime-numbers-not-dividing-a-natural-number.html">Subsets of Prime Numbers Not Dividing a Natural Number</a></dd>
+<dt>\(x-y\)</dt>
+<dd>[subtraction</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/subtraction-of-integers.html">Subtraction of Integers</a></dd>
+<dt>\(a_1+a_2+\cdots+a_n\)</dt>
+<dd>[sum (three dots-notation)</dd>
+<dt>$\sum_{k=1}^n a_k$</dt>
+<dd>[sum (delimited notation)</dd>
+<dt>$\sum_{ \substack{ 1\text{st condition on }k \\ 2\text{nd condition on }k\\ \vdots }}a_k\$</dt>
+<dd>[sum (general notation)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/sums.html">Sums</a></dd>
+<dt>\(\tilde G\)</dt>
+<dd>[suppressed multigraph</dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/suppressing-vertices-suppressed-multigraph.html">Suppressing Vertices, Suppressed Multigraph</a></dd>
+<dt>\(\sup(D)\)</dt>
+<dd>[supremum of a subset of real numbers \(D\subseteq\mathbb R\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/supremum-least-upper-bound.html">Supremum, Least Upper Bound</a></dd>
+<dt>$\tan(x)$</dt>
+<dd>[tangent of $x$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/tangent-of-a-real-variable.html">Tangent of a Real Variable</a></dd>
+<dt>\(\gamma\)</dt>
+<dd>[Lorentz factor (special relativity)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/theoretical-physics/special-relativity/time-dilation-lorentz-factor.html">Time Dilation, Lorentz Factor</a></dd>
+<dt>\(X,\mathcal {T}\)</dt>
+<dd>[topological space consisting of a set \(X\) and its topology \(\mathcal {T}\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/topology/topological-space-topology.html">Topological Space, Topology</a></dd>
+<dt>$(V,\preccurlyeq)$</dt>
+<dd>[chain $V$ with a total order $\preccurlyeq$</dd>
+<dd><a href="https://bookofproofs.github.io/branches/set-theory/total-order.html">Total Order and Chain</a></dd>
+<dt>\((D\varphi)_x\)</dt>
+<dd>[total derivative of \(\varphi \) at the point \(x\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/analysis/totally-differentiable-functions-total-derivative.html">Totally Differentiable Functions, Total Derivative</a></dd>
+<dt>\(A^T\)</dt>
+<dd>[transposed matrix</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/transposed-matrix.html">Transposed Matrix</a></dd>
+<dt>\(\Delta_n\)</dt>
+<dd>[triangle number ((n)'th)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/triangle-numbers.html">Triangle Numbers</a></dd>
+<dt>\(G=(V,E,\gamma)\)</dt>
+<dd>[undirected graph</dd>
+<dt><code>(G=(V,E)\)</code></dt>
+<dd>[simple graph</dd>
+<dt>$|G|$</dt>
+<dd>[order of a (directed or undirected) \(G\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html">Undirected Graph, Vertices, Edges, Simple Graph</a></dd>
+<dt>\(R A M \)</dt>
+<dd>[Random Access Machine</dd>
+<dd><a href="https://bookofproofs.github.io/branches/theoretical-computer-science/computability/unit-cost-random-access-machine.html">Unit-Cost Random Access Machine</a></dd>
+<dt>\(U\)</dt>
+<dd>[unknot</dd>
+<dd><a href="https://bookofproofs.github.io/branches/knot-theory/unknot.html">Unknot</a></dd>
+<dt>\(x,y,a,b,\ldots\)</dt>
+<dd>[vectors (Latin letters)</dd>
+<dt>\(\alpha,\beta,\gamma,\ldots\)</dt>
+<dd>[scalars (Greek letters)</dd>
+<dt>\(v=\pmatrix{ \alpha_{1}\cr \alpha_{2}\cr \vdots \cr \alpha_{n} \cr }\)</dt>
+<dd>[vector (column notation)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/vector-space.html">Vector Space</a></dd>
+<dt>\(d_D^+(v),(d^+(v))\)</dt>
+<dd>[outer degree of \(v\) in the digraph \(D\), (short form)</dd>
+<dt><code>(d_D^-(v),(d^-(v))\)</code></dt>
+<dd>[inner degree of \(v\) in the digraph \(D\), (short form)</dd>
+<dt><code>(d_D(v),(d(v))\)</code></dt>
+<dd>[degree of \(v\) in the digraph \(D\), (short form)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/vertex-degrees-for-digraphs.html">Vertex Degrees for Digraphs</a></dd>
+<dt>\(\deg_G(v),\deg(v)\)</dt>
+<dd>[degree of \(v\) in the undirected graph \(G\), (short form)</code></dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/vertex-degrees-for-undirected-graphs.html">Vertex Degrees for Undirected Graphs</a></dd>
+<dt><code>\(\Lambda(n)\)</dt>
+<dd>[von Mangoldt function of \(n\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/number-theory/von-mangoldt-function.html">Von Mangoldt Function</a></dd>
+<dt><code>P^k</code></dt>
+<dd>[path of length \(k\)</dd>
+<dt><code>T^k</code></dt>
+<dd>[trail of length \(k\)</dd>
+<dt><code>W^k</code></dt>
+<dd>[walk of length \(k\)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/graph-theory/walks-trails-paths-and-cycles.html">Walks, Trails, and Paths</a></dd>
+<dt>\(W H I L E\)</dt>
+<dd>[WHILE-computable functions (set of)</dd>
+<dt>\(W H I L E^{part}\)</dt>
+<dd>[partially WHILE-computable functions  (set of)</dd>
+<dd><a href="https://bookofproofs.github.io/branches/theoretical-computer-science/computability/while-computable-functions.html">WHILE-Computable Functions</a></dd>
+<dt>\(O\)</dt>
+<dd>[zero matrix</dd>
+<dd><a href="https://bookofproofs.github.io/branches/algebra/zero-matrix-zero-vector.html">Zero Matrix, Zero Vector</a></dd>
+</dl>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/index/notation.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Footnotes</h4>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>
