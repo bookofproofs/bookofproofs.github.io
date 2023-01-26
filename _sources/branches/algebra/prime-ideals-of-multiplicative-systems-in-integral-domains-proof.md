@@ -14,4 +14,3 @@ contributors: bookofproofs,@calahan,@casey
 
 ---
 
-(not provided yet)

@@ -3,7 +3,7 @@ categories: branches,algebra
 nodeid: bookofproofs$3473
 orderid: 0
 parentid: bookofproofs$8296
-title: 1502
+title: By Induction
 description: PROOF OF PRINCIPAL IDEALS BEING MAXIMAL IDEALS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$677
 keywords: principal ideals vs. maximal ideals,principal and maximal ideal,principal maximal,maximal principal,proof

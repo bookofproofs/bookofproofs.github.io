@@ -3,7 +3,7 @@ categories: branches,algebra
 nodeid: bookofproofs$2889
 orderid: 0
 parentid: bookofproofs$8271
-title: 1574
+title: 
 description: Proof of FIRST ISOMORPHISM THEOREM FOR GROUPS ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: bookofproofs$677
 keywords: isomorphism theorem for groups,group isomorphism theorem,group isomorphism theorems,isomorphism theorem,first isomorphism theorem,proof

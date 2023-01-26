@@ -3,7 +3,7 @@ categories: branches,algebra
 nodeid: bookofproofs$3472
 orderid: 0
 parentid: bookofproofs$8295
-title: 1501
+title: By Induction
 description: Proof of PRINCIPAL IDEALS BEING PRIME IDEALS ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: 
 keywords: principal ideals vs. prime ideals,principal and prime ideal,principal prime,prime principal,proof

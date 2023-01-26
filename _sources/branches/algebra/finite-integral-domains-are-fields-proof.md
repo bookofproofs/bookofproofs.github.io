@@ -3,7 +3,7 @@ categories: branches,algebra
 nodeid: bookofproofs$2880
 orderid: 0
 parentid: bookofproofs$8222
-title: 1526
+title: 
 description: PROOF OF FINITE INTEGRAL DOMAINS ARE FIELDS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$677,bookofproofs$6735
 keywords: are,domains,fields,finite,integral,proof

@@ -3,7 +3,7 @@ categories: branches,algebra
 nodeid: bookofproofs$2896
 orderid: 0
 parentid: bookofproofs$8293
-title: 1598
+title: By Induction
 description: Proof for CRITERIONS FOR EQUALITY OF PRINCIPAL IDEALS ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: 
 keywords: equality of principal ideals,equal principal ideals,proof

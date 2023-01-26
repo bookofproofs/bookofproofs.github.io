@@ -3,7 +3,7 @@ categories: branches,algebra
 nodeid: bookofproofs$1047
 orderid: 0
 parentid: bookofproofs$1045
-title: 
+title: By Induction
 description: PROOF BY INDUCTION PROOF OF FUNDAMENTAL LEMMA OF HOMOGENEOUS SYSTEMS OF LINEAR EQUATIONS &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$561
 keywords: equations,fundamental,homogeneous,lemma,linear,systems,proof

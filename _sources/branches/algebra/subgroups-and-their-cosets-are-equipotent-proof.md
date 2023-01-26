@@ -3,7 +3,7 @@ categories: branches,algebra
 nodeid: bookofproofs$2887
 orderid: 0
 parentid: bookofproofs$8269
-title: 1561
+title: 
 description: Proof of SUBGROUPS AND THEIR COSETS ARE EQUIPOTENT ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$677
 keywords: subgroups,cosets,equipotent,equal number of elements,proof

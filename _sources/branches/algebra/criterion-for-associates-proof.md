@@ -3,7 +3,7 @@ categories: branches,algebra
 nodeid: bookofproofs$2895
 orderid: 0
 parentid: bookofproofs$8292
-title: 1597
+title: By Induction
 description: A CRITERION FOR ASSOCIATES PROOF ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: bookofproofs$677
 keywords: criterion for associates,proof

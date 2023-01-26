@@ -3,7 +3,7 @@ categories: branches,algebra
 nodeid: bookofproofs$2890
 orderid: 0
 parentid: bookofproofs$8272
-title: 1580
+title: 
 description: PROOF OF CLASSIFICATION OF CYCLIC GROUPS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: 
 keywords: classification of cyclic groups,proof

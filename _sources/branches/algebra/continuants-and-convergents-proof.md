@@ -3,7 +3,7 @@ categories: branches,algebra
 nodeid: bookofproofs$2885
 orderid: 0
 parentid: bookofproofs$8249
-title: 1552
+title: By Induction
 description: PROOF OF CONTINUANTS AND CONVERGENTS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: 
 keywords: continuants,convergents,proof

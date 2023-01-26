@@ -3,7 +3,7 @@ categories: branches,algebra
 nodeid: bookofproofs$2892
 orderid: 0
 parentid: bookofproofs$8283
-title: 1588
+title: 
 description: PROOF OF GROUP OF UNITS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: 
 keywords: group of units,unit group,unit groups,groups of units,proof

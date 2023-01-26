@@ -3,7 +3,7 @@ categories: branches,algebra
 nodeid: bookofproofs$2894
 orderid: 0
 parentid: bookofproofs$8289
-title: 1594
+title: 
 description: CONNECTION BETWEEN RINGS IDEALS AND FIELDS PROOF ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: bookofproofs$677
 keywords: connection between rings ideals and fields,two ideals,ring with two right ideals,ring with two left ideals,proof

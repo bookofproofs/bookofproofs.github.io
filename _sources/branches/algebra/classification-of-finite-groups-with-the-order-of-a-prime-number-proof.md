@@ -3,7 +3,7 @@ categories: branches,algebra
 nodeid: bookofproofs$2891
 orderid: 0
 parentid: bookofproofs$8273
-title: 1584
+title: 
 description: Proof of CLASSIFICATION OF FINITE GROUPS WITH THE ORDER OF A PRIME NUMBER ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: bookofproofs$677
 keywords: classification of finite groups, prime order,proof

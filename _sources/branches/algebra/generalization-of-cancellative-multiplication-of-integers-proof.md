@@ -3,7 +3,7 @@ categories: branches,algebra
 nodeid: bookofproofs$2893
 orderid: 0
 parentid: bookofproofs$8288
-title: 1592
+title: By Induction
 description: PROOF OF GENERALIZATION OF CANCELLATIVE MULTIPLICATION OF INTEGERS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$677
 keywords: cancellative multiplication in integral domains,cancelling in integral domain,proof
