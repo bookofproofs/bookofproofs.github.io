@@ -7,7 +7,7 @@ title: 13th Century
 description: 13TH CENTURY (FROM 1200 TO 1299) ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: 
 keywords: 13th,century
-contributors: bookofproofs
+contributors: bookofproofs,@MacTutor
 issues: broken-links,malformed-tables
 
 ---

@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="Proof of KERNEL AND IMAGE OF A GROUP HOMOMORPHISM ARE SUBGROUPS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
 <meta name="keywords" content="image,kernel,subgroup,subgroups,group homomorphism,image of homomorphism is a subgroup,image of a group homomorphism is a subgroup,image of a homomorphism is a subgroup,image of a homomorphism,kernel and image of homomorphism,image of a group homomorphism,proof">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title></title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -51,27 +50,6 @@
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-a-group-homomorphism-are-subgroups.html'>Lemma: Kernel and Image of a Group Homomorphism are Subgroups</a>)</p>
 <ul>
 <li>Given a group homomorphism \(f:(G,\ast)\mapsto (H,\cdot)\), we first show that \(\ker(f)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> of \(G\).<ul>
-<li>Note that from the <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html">properties of a group homomorphism</a>, it follows that \(f(e_G)=e_H.\)</li>
-<li>Thus, the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html">kernel</a> \(\ker(f)\) is not empty. </li>
-<li>Therefore assume that \(x,y\in \ker(f)\), i.e. \(f(x)=f(y)=e_H\). </li>
-<li>It follows $f(x\ast y^{-1})=f(x)\cdot f(y^{-1})=e_H\cdot (f(y))^{-1}=e_H\cdot (e_H)^{-1}=e_H.$</li>
-<li>We have found that \(x\ast y^{-1}\in ker(f)\), which is a <a href="https://bookofproofs.github.io/branches/algebra/criteria-for-subgroups.html">subgroup criterion</a> </li>
-<li>Thus, \(\ker(f)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> of \(G\).</li>
-</ul>
-</li>
-<li>
-<p>We now show analogously that \(\operatorname{im}(f)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> of \(H\). </p>
-<ul>
-<li>Again from \(e_H=f(e_G)\) it follows that the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html">image</a> \(\operatorname{im}(f)\) is not empty. </li>
-<li>Therefore assume that \(a,b\in im(f)\), i.e. that there exist some \(x,y\in G\) with \(f(x)=a\) and \(f(y)=b\). </li>
-<li>It follows that $a\cdot b^{-1}=f(x)\cdot (f(y))^{-1}=f(x)\cdot f(y^{-1})=f(x\ast y^{-1}).$</li>
-<li>We have found that \(a\cdot b^{-1}\in H\) is the image of \(x\ast y^{-1}\in G\), which is a <a href="https://bookofproofs.github.io/branches/algebra/criteria-for-subgroups.html">subgroup criterion</a> </li>
-<li>Thus, \(\operatorname{im}(f)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> of \(H\).</li>
-</ul>
-</li>
-<li>
-<p>Given a group homomorphism \(f:(G,\ast)\mapsto (H,\cdot)\), we first show that \(\ker(f)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> of \(G\).</p>
-<ul>
 <li>Note that from the <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html">properties of a group homomorphism</a>, it follows that \(f(e_G)=e_H.\)</li>
 <li>Thus, the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html">kernel</a> \(\ker(f)\) is not empty. </li>
 <li>Therefore assume that \(x,y\in \ker(f)\), i.e. \(f(x)=f(y)=e_H\). </li>

@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="COMMON CONCEPTS OF ALGEBRA: SUBSTRUCTURES AND MORPHISMS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!">
 <meta name="keywords" content="common concepts of algebra,morphism,morphisms,substructure,substructures">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title>Common Concepts Of Algebra: Substructures and Morphisms</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -60,17 +59,6 @@
 <p>A <strong>homomorphism</strong> (Greek "homos"=similar, "morphe"=shape) is <em>structure-preserving</em> function necessary for the comparison of two given algebraic structures. We will define soon exactly what is meant by that. For the time being it is sufficient for the reader to understand that whenever we have to do with two algebraic structures $(G,\ast)$ and $(H,\cdot),$ with two different binary operations $"\ast"$ and $"\cdot"$, a homomorphism is a technical tool of mathematicians to decide whether or not combining two elements of $G$ using the operation $"\ast"$ is like combining two elements of $H$ using the operation $"\cdot".$ This is what "structure-preserving" is all about and that is the reason why homomorphisms are so common and important in algebra.</p>
 <h3>What are isomorphisms, why they are so common and so important in algebra?</h3>
 <p>We will define soon exactly what is meant by an <em>isomorphism.</em> For the time being it is sufficient for the reader to understand that isomorphisms (Greek "isos"=equal, "morphe"=shape) is a tool of mathematicians to <em>unmusk</em> seemingly different algebraic structures as having not only similar but even equal algebraic structure. Whenever mathematicians succeed to find an isomorphism between two given algebraic structures, they reduce the complexity of the theory. The equality of algebraic structures believed to date to be different is always a great discovery and help mathematicians to explain specific examples of algebraic structures by known prototypes.</p>
-<p>Before we proceed with more complex algebraic structures, let us pause for a while and introduce some very common concepts of algebra: <em>substructures</em>, <em>homomorphisms</em> and <em>isomorphisms</em>.  </p>
-<h3>What are substructures?</h3>
-<p>A <strong>substructure</strong> of a given <a href="https://bookofproofs.github.io/branches/algebra/algebraic-structures-overview.html">algebraic structure</a> $(X,\ast)$ is simply a <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html">proper subset</a> $S\subset X,$ which is <a href="https://bookofproofs.github.io/branches/algebra/closure.html">closed under</a> the operation $\ast$. This way, it is itself a new algebraic structure $(S,\ast)$ which "inherits" the structure of $(X,\ast).$   </p>
-<h3>Why are substructures so common in algebra?</h3>
-<p>We encounter very often the substructures of a given algebraic structure. The reason why it is the case is simply that it is almost always possible to construct a substructure out of a given structure. For instance, for magmas, we can talk about submagmas, for semigroups ... about subsemigroups, and for monoids ... about submonoids.</p>
-<h3>Why is the study of substructures so important in algebra?</h3>
-<p>Algebra is the <em>study of the structure</em> of algebraic structures. Therefore, it is important to know which (if any) substructures exist for a given algebraic structure. Moreover, if they exist, they frequently reveal surprising properties, which would not be revealed, if we only studied the original algebraic structure $(X,\ast).$ An example of such surprising property is that the number of elements of a finite subgroup<sup id="fnref2:1"><a class="footnote-ref" href="#fn:1">1</a></sup> is always a <a href="https://bookofproofs.github.io/branches/number-theory/divisor-complementary-divisor-multiple.html">divisor</a> of the number of elements of the original group. </p>
-<h3>What are homomorphisms, why are they so common and so important in algebra?</h3>
-<p>A <strong>homomorphism</strong> (Greek "homos"=similar, "morphe"=shape) is <em>structure-preserving</em> function necessary for the comparison of two given algebraic structures. We will define soon exactly what is meant by that. For the time being it is sufficient for the reader to understand that whenever we have to do with two algebraic structures $(G,\ast)$ and $(H,\cdot),$ with two different binary operations $"\ast"$ and $"\cdot"$, a homomorphism is a technical tool of mathematicians to decide whether or not combining two elements of $G$ using the operation $"\ast"$ is like combining two elements of $H$ using the operation $"\cdot".$ This is what "structure-preserving" is all about and that is the reason why homomorphisms are so common and important in algebra.</p>
-<h3>What are isomorphisms, why they are so common and so important in algebra?</h3>
-<p>We will define soon exactly what is meant by an <em>isomorphism.</em> For the time being it is sufficient for the reader to understand that isomorphisms (Greek "isos"=equal, "morphe"=shape) is a tool of mathematicians to <em>unmusk</em> seemingly different algebraic structures as having not only similar but even equal algebraic structure. Whenever mathematicians succeed to find an isomorphism between two given algebraic structures, they reduce the complexity of the theory. The equality of algebraic structures believed to date to be different is always a great discovery and help mathematicians to explain specific examples of algebraic structures by known prototypes.</p>
 <h3 class='navigation'>Table of Contents</h3>
 
 <p>Explanations: <a href='https://bookofproofs.github.io/branches/algebra/all-types-of-morphisms-and-their-properties.html'>1</a> </p>
@@ -96,7 +84,7 @@
 <hr />
 <ol>
 <li id="fn:1">
-<p>We will learn about the algebraic structure of a group soon in this part of <strong><span style='color:orange'>Bookof</span><span style='color:lightblue'>Proofs</span></strong>.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a><a class="footnote-backref" href="#fnref2:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+<p>We will learn about the algebraic structure of a group soon in this part of <strong><span style='color:orange'>Bookof</span><span style='color:lightblue'>Proofs</span></strong>.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
 </li>
 </ol>
 </div>

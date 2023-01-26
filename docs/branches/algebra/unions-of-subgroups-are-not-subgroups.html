@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="UNIONS OF SUBGROUPS ARE NOT SUBGROUPS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
 <meta name="keywords" content="unions of subgroups">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title>Unions of Subgroups Are Not Subgroups</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,9 +48,6 @@
 
 <h1>Explanation: Unions of Subgroups Are Not Subgroups</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/groups-overview.html'>Chapter: Groups (Overview)</a>)</p>
-<p>The <a href="https://bookofproofs.github.io/branches/algebra/criteria-for-subgroups.html">subgroup intersection criterion</a> makes sure that any <a href="https://bookofproofs.github.io/branches/set-theory/set-intersection.html">set intersection</a> of subgroups of a <a href="https://bookofproofs.github.io/branches/algebra/group.html">group</a> $G$ is also its <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> But how about the <a href="https://bookofproofs.github.io/branches/set-theory/set-union.html">set union</a> of subgroups? The following counterexample shows that it is not true in general:</p>
-<p>Consider the two subgroups $$\begin{array}{rcl}H_1&amp;:=\{2n\mid n\in\mathbb Z\}=\{\ldots,-6,-4,-2,0,2,4,6,\ldots\}\\
-H_2&amp;:=\{3n\mid n\in\mathbb Z\}=\{\ldots,-9,-6,-3,0,2,6,9,\ldots\}\end{array}$$ of the additive group $(\mathbb Z,+)$ of all integers. The union $$H_1\cup H_2=\{\ldots,-9,-8,-6,-4,-3,-2,0,2,3,4,6,9,\ldots\}$$ cannot be a group (and more than ever a subgroup) because it is not <a href="https://bookofproofs.github.io/branches/algebra/closure.html">closed</a> under the addition operation. For instance, $$-3+2=1\not\in H_1\cup H_2.$$</p>
 <p>The <a href="https://bookofproofs.github.io/branches/algebra/criteria-for-subgroups.html">subgroup intersection criterion</a> makes sure that any <a href="https://bookofproofs.github.io/branches/set-theory/set-intersection.html">set intersection</a> of subgroups of a <a href="https://bookofproofs.github.io/branches/algebra/group.html">group</a> $G$ is also its <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> But how about the <a href="https://bookofproofs.github.io/branches/set-theory/set-union.html">set union</a> of subgroups? The following counterexample shows that it is not true in general:</p>
 <p>Consider the two subgroups $$\begin{array}{rcl}H_1&amp;:=\{2n\mid n\in\mathbb Z\}=\{\ldots,-6,-4,-2,0,2,4,6,\ldots\}\\
 H_2&amp;:=\{3n\mid n\in\mathbb Z\}=\{\ldots,-9,-6,-3,0,2,6,9,\ldots\}\end{array}$$ of the additive group $(\mathbb Z,+)$ of all integers. The union $$H_1\cup H_2=\{\ldots,-9,-8,-6,-4,-3,-2,0,2,3,4,6,9,\ldots\}$$ cannot be a group (and more than ever a subgroup) because it is not <a href="https://bookofproofs.github.io/branches/algebra/closure.html">closed</a> under the addition operation. For instance, $$-3+2=1\not\in H_1\cup H_2.$$</p>

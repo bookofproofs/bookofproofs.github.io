@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="PROOF OF CLASSIFICATION OF CYCLIC GROUPS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
 <meta name="keywords" content="classification of cyclic groups,proof">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title>1580</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -51,28 +50,6 @@
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/classification-of-cyclic-groups.html'>Theorem: Classification of Cyclic Groups</a>)</p>
 <ul>
 <li>By hypothesis, $(G,\ast)$ is a <a href="https://bookofproofs.github.io/branches/algebra/cyclic-group-order-of-an-element.html">cyclic group</a> with a generator $g\in G$ with $G=\langle g\rangle.$</li>
-<li>Define the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html">function</a> $f:(\mathbb Z, + )\to (G,\ast),$ by $f(k):=a^k$ for all $a\in (G,\ast)$ and all elements $k$ of the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-integers-together-with-addition.html">additive group of integers</a> $k\in (\mathbb Z,+).$ </li>
-<li>$f$ is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a>, since $f(k+j)=a^{k+j}=a^k\ast a^j=f(k)\ast f(j).$</li>
-<li>In particular, the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html">image</a> $\operatorname{im}(f)$ equals the group $G$, since $\operatorname{im}(f)=\{a^k\mid k\in\mathbb Z\}=\langle g\rangle=G.$</li>
-<li>On the other hand, the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html">kernel</a> $\ker(f)=\{a\in G\mid f(a)=e_G\}$ is a <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-a-group-homomorphism-are-subgroups.html">subgroup of $(Z,+)$</a></li>
-<li>Let $G$ have an <a href="https://bookofproofs.github.io/branches/algebra/group-order.html">infinite order</a> $|G|=\infty.$<ul>
-<li>Then $\ker(f)=\{0\}.$</li>
-<li>It follows from the <a href="https://bookofproofs.github.io/branches/algebra/first-isomorphism-theorem-for-groups.html">isomorphism theorem for groups</a> that $(G,\ast)$ is <a href="https://bookofproofs.github.io/branches/algebra/isomorphism.html">isomorphic</a> to $\mathbb Z/\{0\}.$ </li>
-<li>But  $\mathbb Z/\{0\}=\mathbb Z.$</li>
-<li>Therefore, $(G,\ast)$ is <a href="https://bookofproofs.github.io/branches/algebra/isomorphism.html">isomorphic</a> to $(\mathbb Z, + ).$</li>
-</ul>
-</li>
-<li>
-<p>Let $G$ have an <a href="https://bookofproofs.github.io/branches/algebra/group-order.html">finite order</a> $|G|=n$ with $n &gt; 0.$</p>
-<ul>
-<li>Note that all <a href="https://bookofproofs.github.io/branches/algebra/additive-subgroups-of-integers.html">additive subgroups of integers</a> have the form $(\mathbb Z_n, + )$ for a <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/set-theoretic-definitions-of-natural-numbers-ernst-zermelo-1908-john-von-neumann-1923.html">natural number</a> $n\in\mathbb N.$</li>
-<li>In particular, $\ker(f)$ has this form.</li>
-<li>It follows from the <a href="https://bookofproofs.github.io/branches/algebra/first-isomorphism-theorem-for-groups.html">isomorphism theorem for groups</a> that $(G,\ast)$ is <a href="https://bookofproofs.github.io/branches/algebra/isomorphism.html">isomorphic</a> to $(\mathbb Z/\ker(f), + ) = (\mathbb Z_n, + ).$</li>
-</ul>
-</li>
-<li>
-<p>By hypothesis, $(G,\ast)$ is a <a href="https://bookofproofs.github.io/branches/algebra/cyclic-group-order-of-an-element.html">cyclic group</a> with a generator $g\in G$ with $G=\langle g\rangle.$</p>
-</li>
 <li>Define the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html">function</a> $f:(\mathbb Z, + )\to (G,\ast),$ by $f(k):=a^k$ for all $a\in (G,\ast)$ and all elements $k$ of the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-integers-together-with-addition.html">additive group of integers</a> $k\in (\mathbb Z,+).$ </li>
 <li>$f$ is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a>, since $f(k+j)=a^{k+j}=a^k\ast a^j=f(k)\ast f(j).$</li>
 <li>In particular, the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html">image</a> $\operatorname{im}(f)$ equals the group $G$, since $\operatorname{im}(f)=\{a^k\mid k\in\mathbb Z\}=\langle g\rangle=G.$</li>

@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="Proof of SIMPLE CALCULATIONS RULES IN A GROUP &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
 <meta name="keywords" content="calculation,group,rules,simple,proof">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title></title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,67 +48,6 @@
 
 <h1>Proof</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/simple-calculation-rules-in-a-group.html'>Proposition: Simple Calculations Rules in a Group</a>)</p>
-<h3>Ad 1)</h3>
-<ul>
-<li>Because of the existence of <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html">inverse</a> elements it is \(e=e\ast e^{-1}\). </li>
-<li>On the other hand, because $e$ is the <a href="https://bookofproofs.github.io/branches/algebra/uniqueness-of-neutral-element.html">unique neutral element</a>, we have \(e^{-1}=e\ast e^{-1}\).</li>
-<li>Comparing both equations leads to \(e^{-1}=e\).</li>
-</ul>
-<h3>Ad 2)</h3>
-<ul>
-<li>The element \(x^{-1}\) has the inverse elements \((x^{-1})^{-1}\) and \(x\), respectively.</li>
-<li>Both must be identical, since <a href="https://bookofproofs.github.io/branches/algebra/uniqueness-of-inverse-elements.html">inverse element are unique</a></li>
-</ul>
-<h3>Ad 3)</h3>
-<ul>
-<li>\(a^{-1}\ast b\) <em>is</em> the solution of \(a\ast x=b\), since \(a\ast (a^{-1}\ast b)=(a\ast a^{-1})\ast b=e\ast b=b\) for all \(a,b\in G\). </li>
-<li>Moreover, it is the <em>only</em> solution. For if an element $y\in G$ solves \(a\ast y=b\), it follows<br />
-\[\begin{array}{rcl}
-a\ast y&amp;=&amp;b\\
-a^{-1}\ast (a\ast y)&amp;=&amp;a^{-1}\ast b\\
-(a^{-1}\ast a)\ast y&amp;=&amp;a^{-1}\ast b\\
-e\ast y&amp;=&amp;a^{-1}\ast b\\
-y&amp;=&amp;a^{-1}\ast b
-\end{array}
-\]</li>
-</ul>
-<h3>Ad 4)</h3>
-<p>Exercise, in analogy to 3)</p>
-<h3>Ad 5)</h3>
-<ul>
-<li>If $a\ast x=a\ast y$ then for all $a\in G$:
-\[\begin{array}{rcl}
-a\ast x&amp;=&amp;a\ast y\\
-a^{-1}\ast (a\ast x)&amp;=&amp;a^{-1}\ast (a\ast y)\\
-(a^{-1}\ast a)\ast x&amp;=&amp;(a^{-1}\ast a)\ast x\\
-e\ast x&amp;=&amp;e\ast y\\
-x&amp;=&amp;y
-\end{array}
-\]</li>
-<li>A similar <a href="https://bookofproofs.github.io/branches/algebra/cancellation-property.html">cancellation property</a> can be concluded for the equation $x\ast a=y\ast a$, from which it follows $x=y$ for all $a\in G.$</li>
-</ul>
-<h3>Ad 6)</h3>
-<p>The element \((x\ast y)\) has the inverse element \((x\ast y)^{-1}\). It follows for all \(x,y\in G\):
-\[\begin{array}{rcl}
-(x\ast y)\ast(x\ast y)^{-1}&amp;=&amp;e\\
-y^{-1}\ast x^{-1}\ast (x\ast y)\ast(x\ast y)^{-1}&amp;=&amp;y^{-1}\ast x^{-1}\ast e\\
-y^{-1}\ast (x^{-1}\ast x)\ast y\ast(x\ast y)^{-1}&amp;=&amp;y^{-1}\ast x^{-1}\\
-y^{-1}\ast e\ast y\ast(x\ast y)^{-1}&amp;=&amp;y^{-1}\ast x^{-1}\\
-y^{-1}\ast y\ast(x\ast y)^{-1}&amp;=&amp;y^{-1}\ast x^{-1}\\
-(y^{-1}\ast y)\ast(x\ast y)^{-1}&amp;=&amp;y^{-1}\ast x^{-1}\\
-e\ast(x\ast y)^{-1}&amp;=&amp;y^{-1}\ast x^{-1}\\
-(x\ast y)^{-1}&amp;=&amp;y^{-1}\ast x^{-1}\\
-\end{array}
-\]</p>
-<h3>Ad 7)</h3>
-<ul>
-<li>$[\ast"$ is "associative]<a href="https://bookofproofs.github.io/branches/algebra/associativity.html">bookofproofs$668</a> by definition of a <a href="https://bookofproofs.github.io/branches/algebra/group.html">group</a> (a group is a monoid, which is a semigroup, which is associative)</li>
-<li>Therefore, we can apply the <a href="https://bookofproofs.github.io/branches/algebra/general-associative-law.html">general associative law</a> we have already proven for any associative algebraic structure.</li>
-</ul>
-<h3>Ad 8)</h3>
-<ul>
-<li>If the group \((G,\ast)\) is <a href="https://bookofproofs.github.io/branches/algebra/abelian-group.html">commutative</a>, then we can apply the <a href="https://bookofproofs.github.io/branches/algebra/general-commutative-law.html">general commutative law</a> we have already proven for any commutative algebraic structure.</li>
-</ul>
 <h3>Ad 1)</h3>
 <ul>
 <li>Because of the existence of <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html">inverse</a> elements it is \(e=e\ast e^{-1}\). </li>

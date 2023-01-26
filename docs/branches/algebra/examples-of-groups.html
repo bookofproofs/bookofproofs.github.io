@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="EXAMPLES OF GROUPS ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
 <meta name="keywords" content="examples of groups,group examples,group example">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title>Examples of Groups</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,29 +48,6 @@
 
 <h1>Example: Examples of Groups</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/groups-overview.html'>Chapter: Groups (Overview)</a>)</p>
-<h3>Examples</h3>
-<p>The following are examples of <a href="https://bookofproofs.github.io/branches/algebra/group.html">groups</a> and the reader is invited to verify the defining properties of a group for each of the examples.</p>
-<ul>
-<li>The set $(\mathbb Z, + )$ of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-integers-together-with-addition.html">integers</a>, together with addition is a group.</li>
-<li>The set of $(\mathbb Q, + )$ of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-rational-numbers.html">rational numbers</a> under addition forms a group. </li>
-<li>The set of non-zero $(\mathbb Q^*,\cdot)$ of rational numbers under multiplication forms a group. </li>
-<li>The set of $(\mathbb R,+ )$ of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html">real numbers</a> under addition forms a group. </li>
-<li>The set of non-zero $(\mathbb R^*,\cdot)$ of real numbers under multiplication forms a group. </li>
-<li>The set of $(\mathbb C,+ )$ of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-complex-numbers.html">complex numbers</a> under addition forms a group. </li>
-<li>The set of non-zero $(\mathbb C^*,\cdot)$ of complex numbers under multiplication forms a group.</li>
-<li>Let $(G,\ast)$ be a group and let $S$ be a non-empty set. The set $(M,\circ)$ of maps $f,g:S\to G$ is itself a group for each $x\in S$, with the binary operation $(f\circ g)(x):=f(x)\ast g(x)$ and the inverse $f^{-1}(x):=(f(x))^{-1}\in G$. The identity element is the map $e'\in M$ which maps the element $x$ to the identity element $e\in G$.</li>
-<li>Let $S$ be a non-empty set and let $G$ be the set of bijective mappings $f:S\to S$. Then $(G,\circ)$ is a group with the composition of mappings $(f\circ g)(x):=f(g(x))$ for all $x\in S$. The identity element is the identity map $id:S\to S$ and, since all mappings $f\in G$ are bijective, $G$ contains inverse mappings $f^{-1}\in G$ for all $f\in G$. This example is called a <em>symmetric group.</em></li>
-<li>Let $V$ be a <a href="https://bookofproofs.github.io/branches/algebra/vector-space.html">vector space</a> over a field $F$. Let $GL(V)$ denote the set of invertible linear maps of $V$ onto itself. Then $(GL(V),\circ)$ is a group, where the binary operation $\circ$ denotes the composition of mappings.</li>
-<li>Let $V$ be a vector space over a field $F$. Let $GL(V,F)$ denote the set of invertible $n\times n$ matrices with components in $F$. Then $(GL(F),\circ)$ is a group, where the binary operation $\circ$ denotes the <a href="https://bookofproofs.github.io/branches/algebra/matrix-multiplication.html">matrix multiplication</a> This group is called the <strong>general linear group</strong>.</li>
-<li>The <a href="https://bookofproofs.github.io/branches/algebra/direct-product-of-groups.html">direct product of groups</a> is a group.</li>
-</ul>
-<h3>Counterexamples</h3>
-<p>The following are examples which are not groups:</p>
-<ul>
-<li>The set $(\mathbb N, + )$ of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/set-theoretic-definitions-of-natural-numbers-ernst-zermelo-1908-john-von-neumann-1923.html">natural numbers</a>, together with addition is not a group since not all natural numbers have an inverse element. In fact, only $0\in \mathbb N$ is the only element with the inverse $-0\in\mathbb N.$</li>
-<li>The set $(\mathbb Z, \cdot )$ of integers together with multiplication is not a group, since not all elements $a\in \mathbb Z$ have an inverse, e.g. $2\in \mathbb Z$ but $\frac 12\not\in\mathbb Z.$</li>
-<li>The set $(\mathbb R,\ast)$ of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html">real numbers</a>, together with the mean value operation $a \ast b=\frac{a+b}2$ is not a group, since this operation is not <a href="https://bookofproofs.github.io/branches/algebra/associativity.html">associative</a></li>
-</ul>
 <h3>Examples</h3>
 <p>The following are examples of <a href="https://bookofproofs.github.io/branches/algebra/group.html">groups</a> and the reader is invited to verify the defining properties of a group for each of the examples.</p>
 <ul>

@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="THE GAUSSIAN METHOD IN PRACTICE &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
 <meta name="keywords" content="gaussian,method,practice,x3-a[0][1]">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title>The Gaussian Method in Practice</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -50,68 +49,6 @@
 <p>The following example will demonstrate the <a href="https://bookofproofs.github.io/branches/algebra/gaussian-method-to-solve-systems-of-linear-equations-rank-of-a-matrix.html">Gaussian method</a> by example. </p>
 <h1>Example: The Gaussian Method in Practice</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/solving-general-systems-of-linear-equations-gaussian-method.html'>Section: Solving General Systems Of Linear Equations - Gaussian Method</a>)</p>
-<h3>Example</h3>
-<p>We want to solve the system of linear equations with three unknowns </p>
-<p>$$\begin{array}{rcr} 
-x_1 -3x_2 +2x_3&amp;=&amp;1\\
-5x_1 + 4x_2 -3x_3&amp;=&amp;4\\
-2x_1 -8x_2 +4x_3&amp;=&amp; -2\\
-\end{array}\quad\quad( * )$$ </p>
-<p>This system has the following <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html">extended coefficient matrix</a>:</p>
-<p>$$A|\beta:= 
-\left(\begin{array}{rrr|r}
-1&amp;-3&amp;2&amp;1\\ 
-5&amp;4&amp;-3&amp;4\\ 
-2&amp;-8&amp;4&amp;-2\\ 
-\end{array}\right)$$</p>
-<p>In the following, we use SageMath. You will have to click the evaluate buttons to see the results.</p>
-
-
-<div class='sage'>
-print("Original extended matrix:\n")
-A=matrix(QQ,[[1,-3,2,1],[5,4,-3,4],[2,-8,4,-2]])
-print(A)
-print("")
-print("STEP 1: Bring the matrix to the upper-triangular form")
-print("\nAdding the -5-fold multiple of the first row to the second:\n")
-A1=A
-A1[1]=A1[1]-5*A1[0]
-print(A1)
-print("\nAdding the -2-fold multiple of the first row to the third:\n")
-A1[2]=A1[2]-2*A1[0]
-print(A1)
-print("\nAdding the 2/19-fold multiple of the second row to the third:\n")
-A1[2]=A1[2]+2/19*A1[1]
-print(A1)
-</div>
-
-
-<p>The resulting <a href="https://bookofproofs.github.io/branches/algebra/solution-to-an-upper-triangular-sle-backward-substitution.html">upper-triangular</a> matrix is </p>
-<p>$$A|\beta:= 
-\left(\begin{array}{rrr|r}
-1&amp;-3&amp;2&amp;1\\ 
-0&amp;19&amp;-13&amp;-1\\ 
-0&amp;0&amp;-\frac{26}{19}&amp;-\frac{78}{19}\\ 
-\end{array}\right)$$</p>
-<p>Now we can use the <a href="https://bookofproofs.github.io/branches/algebra/solution-to-an-upper-triangular-sle-backward-substitution.html">backward substitution</a> to solve the system</p>
-
-
-<div class='sage'>
-print("STEP 2: Backward substitution:\n")
-A=matrix(QQ,[[1,-3,2,1],[0,19,-13,-1],[0,0,-26/19,-78/19]])
-print(A)
-print("\nSetting x3=-78/19*(-19/26), substituting x3 in second row, setting x2=...etc....\n")
-x3=A[2][3]/A[2][2]
-x2=(A[1][3]-A[1][2]*x3)/A[1][1]
-x1=(A[0][3]-A[0][2]*x3-A[0][1]*x2)/A[0][0]
-print("x3=", x3)
-print("x2=", x2)
-print("x1=", x1)
-
-</div>
-
-
-<p>Therefore, $x_1=1, x_2=2, x_3=3$ is the solution of the system $( * ).$</p>
 <h3>Example</h3>
 <p>We want to solve the system of linear equations with three unknowns </p>
 <p>$$\begin{array}{rcr} 

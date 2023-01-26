@@ -7,7 +7,7 @@ title: 11th Century
 description: 11TH CENTURY (FROM 1000 TO 1099) ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: 
 keywords: 11th century
-contributors: bookofproofs
+contributors: bookofproofs,@MacTutor
 issues: broken-links,malformed-tables
 
 ---

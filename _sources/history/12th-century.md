@@ -7,7 +7,7 @@ title: 12th Century
 description: 12TH CENTURY (FROM 1100 TO 1199) ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: 
 keywords: 12th century
-contributors: bookofproofs
+contributors: bookofproofs,@MacTutor
 issues: broken-links,malformed-tables
 
 ---

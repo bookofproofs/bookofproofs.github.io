@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="SOLUTIONS OF A LINEAR EQUATION WITH MANY UNKNOWNS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
 <meta name="keywords" content="equation,linear,many,solutions,unknowns">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title>Solutions of a Linear Equation with many Unknowns</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,21 +48,6 @@
 
 <h1>Corollary: Solutions of a Linear Equation with many Unknowns</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/linear-equations-with-many-unknowns.html'>Definition: Linear Equations with many Unknowns</a>)</p>
-<p>Let $n\ge 1$ and let $\alpha_1x_1+\ldots+\alpha_nx_n=\gamma$ be a <a href="https://bookofproofs.github.io/branches/algebra/linear-equations-with-many-unknowns.html">linear equation</a> with the unknowns $x_1,\ldots,x_n$ and the elements $\alpha_1,\ldots,\alpha_n,\gamma$ of a <a href="https://bookofproofs.github.io/branches/algebra/field.html">field</a> $F.$ There are the following cases for finding a solution to this equation:</p>
-<h3>Case $1$: Not all coefficients $\alpha_1,\ldots,\alpha_n$ are $0$.</h3>
-<p>We can re-index the coefficients and unknowns appropriately to let $\alpha_1=0,\ldots,\alpha_{m-1}=0$ and $\alpha_{m}\neq 0,\alpha_{m+1}\neq 0,\ldots,\alpha_n\neq 0.$ The (homogenous or inhomogenous) equation is then given by
-$$0 x_1 + 0 x_{m-1} + \alpha_m x_m + \alpha_{m+1} x_{m+1} + \ldots +\alpha_n x_n=\gamma.$$
-Then
-$$x_m:=\frac{\gamma-\alpha_{m+1}x_{m+1}-\ldots-\alpha_n x_n}{\alpha_m}\quad ( * )$$
-is a solution for any choice of the $n-1$ unknowns $x_1,\ldots,x_{m-1},x_{m+1}\ldots,x_n\in F.$ We say that the solution $( * )$ has $n-1$ <strong>degrees of freedom</strong>. If $\gamma=0$ (the equation is homogenous), then we call the special choice $x_1=0,\ldots,x_n=0$ the <strong>trivial solution</strong> of $( * ).$</p>
-<h3>Case $2$: All coefficients $\alpha_1,\ldots,\alpha_n$ are $0$, but $\gamma\neq 0.$</h3>
-<p>The inhomogenous equation is then given by
-$$0 x_1 +  \ldots +0x_n=\gamma.$$
-In this case, for any choice of the $n$ unknowns $x_1,\ldots,x_n\in F,$ the equation has no solution.</p>
-<h3>Case $3$: All coefficients $\alpha_1,\ldots,\alpha_n$ are $0$, and $\gamma = 0.$</h3>
-<p>The homogenous equation is then given by
-$$0 x_1 +  \ldots +0x_n=0$$</p>
-<p>Any choice of the $n$ unknowns $x_1,\ldots,x_n\in F,$ is a solution of the equation.</p>
 <p>Let $n\ge 1$ and let $\alpha_1x_1+\ldots+\alpha_nx_n=\gamma$ be a <a href="https://bookofproofs.github.io/branches/algebra/linear-equations-with-many-unknowns.html">linear equation</a> with the unknowns $x_1,\ldots,x_n$ and the elements $\alpha_1,\ldots,\alpha_n,\gamma$ of a <a href="https://bookofproofs.github.io/branches/algebra/field.html">field</a> $F.$ There are the following cases for finding a solution to this equation:</p>
 <h3>Case $1$: Not all coefficients $\alpha_1,\ldots,\alpha_n$ are $0$.</h3>
 <p>We can re-index the coefficients and unknowns appropriately to let $\alpha_1=0,\ldots,\alpha_{m-1}=0$ and $\alpha_{m}\neq 0,\alpha_{m+1}\neq 0,\ldots,\alpha_n\neq 0.$ The (homogenous or inhomogenous) equation is then given by

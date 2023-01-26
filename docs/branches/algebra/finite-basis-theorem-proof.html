@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="Proof of FINITE BASIS THEOREM &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
 <meta name="keywords" content="basis,finite,theorem,finite basis,finite basis theorem,basis theorem,the basis theorem,proof">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title></title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -154,111 +153,6 @@ would be a non-trivial representation of \(0\), which again is a contradiction t
 <p>Therefore \(m=n\).</p>
 <h4>Proof for \( (3) \): <a href="https://bookofproofs.github.io/branches/algebra/linearly-dependent-and-linearly-independent-vectors-zero-vector.html">Linearly independent</a> vectors \(v_1,\ldots,v_r\) with \(r &lt; n\) can be completed by vectors \(v_{r+1},\ldots,v_{n}\) to create a basis \(v_1,\ldots,v_n\)  of \(V\).</h4>
 <p>Let \(A_r:=\{v_1,\ldots,v_r\}\). Because \(A_r\) is a set of linearly independent vectors and because \(r &lt; n\), the vector space \(Span(A_r)\) a proper subspace of \(V\), i.e. there is a vector \(v_{r+1}\in V\) with \(v_{r+1}\not\in Span(A_r)\). Therefore, \(v_{r+1}\) is linearly independent from \(A_r\). We can repeat the argument for \(A_{r+1}=A_r\cup\{v_{r+1}\}\). This will end, once we have reached the dimension of \(V\), which by definition is the maximum number of independent vectors in \(V\).</p>
-<h4>Proof for \( (1) \): \(V\) has a <a href="https://bookofproofs.github.io/branches/set-theory/finite-set-infinite-set.html">finite</a> <a href="https://bookofproofs.github.io/branches/algebra/basis-coordinate-system.html">basis</a></h4>
-<p>Since \(V\) is a vector space over a field \(F\) with a finite dimension \(dim(V)=n &lt; \infty\), the number \(n\) is <a href="https://bookofproofs.github.io/branches/algebra/dimension-of-a-vector-space.html">by definition of the dimension</a> the maximum number of <a href="https://bookofproofs.github.io/branches/algebra/linearly-dependent-and-linearly-independent-vectors-zero-vector.html">linearly independent</a> vectors contained in \(V\). Let \(B:=\{v_1,\ldots,v_n\}\subseteq V\) be any such linearly independent vectors. We note that, for any subset \(A\subseteq B\), the vectors in \(A\) have also to be independent. In order to show that \(B\) is a basis, it remains to show that \(B\) is a <a href="https://bookofproofs.github.io/branches/algebra/generating-systems.html">generating system</a> of \(V\). </p>
-<p>If \(V=\{0\}\), then \(B=\{0\}\), and trivially the vector \(v_1=0\in V\) can be represented as a linear combination of the basis<sup id="fnref2:1"><a class="footnote-ref" href="#fn:1">1</a></sup> \(v_1=0=\alpha v_1\) for all  \(\alpha\in F\), so \(V=Span(B)\).</p>
-<p>If \(V\neq\{0\}\), \(B:=\{v_1,\ldots,v_n\}\) and \(b\in V\) with \(b\neq 0\), then, since \(n\) is maximal by assumption, the set of vectors \(B\cup \{b\}\) must be linearly dependent, i.e. the equation
-\[\begin{array}{ccl}
-0&amp;=&amp;\alpha_1v_1+\ldots+\alpha_nv_n+\beta b\\
-&amp;\Updownarrow\\
--\beta b&amp;=&amp;\alpha_1v_1+\ldots+\alpha_nv_n~~~~~~~~~~~~~~~~( * ) 
-\end{array}\]
-can be solved either for \(\beta\neq 0\) or \(\alpha_i\neq 0\) for at least one \(i=1,\ldots,n\). Note that  \(\beta\neq 0\), for if \(\beta=0\), we would have the the case \[0=\alpha_1v_1+\ldots+\alpha_nv_n\]
-which can only be solved trivially by \(\alpha_1=\ldots=\alpha_n=0\in F\) because of the linear independence of the \(v_i\). Therefore, we can divide both sides of the equation \( ( * ) \) by \(-\beta\), resulting in 
-\[b=\frac{\alpha_1}{- \beta} v_1+\ldots+\frac{\alpha_n}{- \beta} v_n.\]
-Since \(\alpha_i,\beta\in F\) were all arbitrary, we have shown that any non-zero vector \(b\in V\) can be represented as a linear combination of the \(v_i\in B\). Thus, we have again \(V=Span(B)\).</p>
-<h4>Proof for \( (2) \): Two different bases of \(V\) have the same number of elements, and this number equals \(n=dim(V)\).</h4>
-<p>In \( (1) \) we have shown already the existence of a basis \(B=\{v_1,\ldots,v_n\}\) with \(n\) elements, \(n=dim(V)\). It remains to show that no basis of \(V\) can have a different number of elements. Suppose the existence of such a basis, say \(A:=\{w_1,\ldots,w_m\}\) with \(m\neq n\). </p>
-<p>\(m &gt; n\) would mean a <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html">contradiction</a> to the property of \(n\) as the maximum number of linearly independent vectors in \(V\) and the definition of \(A\) as a <a href="https://bookofproofs.github.io/branches/algebra/basis-coordinate-system.html">basis</a> </p>
-<p>\(m &lt; n\) would mean that we can generate all vectors of \(V\) using a smaller number of independent vectors then its dimension \(n\). Since there are (!) some \(n\) linearly independent vectors \(v_1,\ldots, v_n\), after all, we shall be able to generate them with a smaller number the independent vectors \(w_1,\ldots, w_m\). We will show that this is impossible.</p>
-<p>Suppose in contrary that it is possible. In other words, we have</p>
-<p>\[
-\begin{array}{ccc}
-\alpha_{11}w_1+\ldots + \alpha_{1m}w_m&amp;=&amp;v_1\\
-\alpha_{21}w_1+\ldots + \alpha_{2m}w_m&amp;=&amp;v_2\\
-\vdots&amp;\vdots&amp;\vdots\\
-\alpha_{n1}w_1+\ldots + \alpha_{nm}w_m&amp;=&amp;v_n\\
-\end{array}
-\]</p>
-<p>In matrix form we can write
-\[\pmatrix{
-\uparrow  &amp; \uparrow  &amp; \ldots &amp; \uparrow \cr
-w_1 &amp; w_2 &amp; \ldots &amp; w_m \cr
-\downarrow  &amp; \downarrow  &amp; \ldots &amp; \downarrow \cr
-}\cdot\pmatrix{
-\alpha_{11} &amp; \alpha_{12} &amp; \ldots &amp; \alpha_{1n} \cr
-\alpha_{21} &amp; \alpha_{22} &amp; \ldots &amp; \alpha_{2n} \cr
-\vdots &amp; \vdots &amp; \ddots &amp; \vdots \cr
-\alpha_{m1} &amp; \alpha_{m2} &amp; \ldots &amp; \alpha_{mn} \cr
-}=\pmatrix{
-\uparrow  &amp; \uparrow  &amp; \ldots &amp; \uparrow \cr
-v_1 &amp; v_2 &amp; \ldots &amp; v_n \cr
-\downarrow  &amp; \downarrow  &amp; \ldots &amp; \downarrow \cr
-}\]
-Since \(m &lt; n\), the matrix with the coefficients \(\alpha_{ij}\) has more columns then rows. Following the <a href="https://bookofproofs.github.io/branches/algebra/fundamental-lemma-of-homogeneous-systems-of-linear-equations.html">fundamental lemma</a>, the homogeneous equation system </p>
-<p>\[\pmatrix{
-\alpha_{11} &amp; \alpha_{12} &amp; \ldots &amp; \alpha_{1n} \cr
-\alpha_{21} &amp; \alpha_{22} &amp; \ldots &amp; \alpha_{2n} \cr
-\vdots &amp; \vdots &amp; \ddots &amp; \vdots \cr
-\alpha_{m1} &amp; \alpha_{m2} &amp; \ldots &amp; \alpha_{mn} \cr
-}\cdot\pmatrix{
-X_{1} \cr
-X_{2} \cr
-\vdots \cr
-X_{n} \cr
-}=\pmatrix{
-0 \cr
-0 \cr
-\vdots \cr
-0 \cr
-}\]
-has more unknowns as equations, and as such, a nontrivial solution \(X_1 = \beta_1 , X_2=\beta_2,\ldots X_n = \beta_n\):
-\[\pmatrix{
-\alpha_{11} &amp; \alpha_{12} &amp; \ldots &amp; \alpha_{1n} \cr
-\alpha_{21} &amp; \alpha_{22} &amp; \ldots &amp; \alpha_{2n} \cr
-\vdots &amp; \vdots &amp; \ddots &amp; \vdots \cr
-\alpha_{m1} &amp; \alpha_{m2} &amp; \ldots &amp; \alpha_{mn} \cr
-}\cdot\pmatrix{
-\beta_{1} \cr
-\beta_{2} \cr
-\vdots \cr
-\beta_{n} \cr
-}=\pmatrix{
-0 \cr
-0 \cr
-\vdots \cr
-0 \cr
-}\]
-In other words 
-\[\pmatrix{
-\uparrow  &amp; \uparrow  &amp; \ldots &amp; \uparrow \cr
-w_1 &amp; w_2 &amp; \ldots &amp; w_m \cr
-\downarrow  &amp; \downarrow  &amp; \ldots &amp; \downarrow \cr
-}\cdot\pmatrix{
-\alpha_{11} &amp; \alpha_{12} &amp; \ldots &amp; \alpha_{1n} \cr
-\alpha_{21} &amp; \alpha_{22} &amp; \ldots &amp; \alpha_{2n} \cr
-\vdots &amp; \vdots &amp; \ddots &amp; \vdots \cr
-\alpha_{m1} &amp; \alpha_{m2} &amp; \ldots &amp; \alpha_{mn} \cr
-}\cdot\pmatrix{
-\beta_{1} \cr
-\beta_{2} \cr
-\vdots \cr
-\beta_{n} \cr
-}=\pmatrix{
-\uparrow  &amp; \uparrow  &amp; \ldots &amp; \uparrow \cr
-v_1 &amp; v_2 &amp; \ldots &amp; v_n \cr
-\downarrow  &amp; \downarrow  &amp; \ldots &amp; \downarrow \cr
-}\cdot\pmatrix{
-\beta_{1} \cr
-\beta_{2} \cr
-\vdots \cr
-\beta_{n} \cr
-}\]</p>
-<p>\[0 w_1 + \ldots + 0w_m = 0 = \beta_1v_1+\ldots+\beta_nv_n\]
-would be a non-trivial representation of \(0\), which again is a contradiction to \(v_i\) being independent.</p>
-<p>Therefore \(m=n\).</p>
-<h4>Proof for \( (3) \): <a href="https://bookofproofs.github.io/branches/algebra/linearly-dependent-and-linearly-independent-vectors-zero-vector.html">Linearly independent</a> vectors \(v_1,\ldots,v_r\) with \(r &lt; n\) can be completed by vectors \(v_{r+1},\ldots,v_{n}\) to create a basis \(v_1,\ldots,v_n\)  of \(V\).</h4>
-<p>Let \(A_r:=\{v_1,\ldots,v_r\}\). Because \(A_r\) is a set of linearly independent vectors and because \(r &lt; n\), the vector space \(Span(A_r)\) a proper subspace of \(V\), i.e. there is a vector \(v_{r+1}\in V\) with \(v_{r+1}\not\in Span(A_r)\). Therefore, \(v_{r+1}\) is linearly independent from \(A_r\). We can repeat the argument for \(A_{r+1}=A_r\cup\{v_{r+1}\}\). This will end, once we have reached the dimension of \(V\), which by definition is the maximum number of independent vectors in \(V\).</p>
 <hr>
 <p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/finite-basis-theorem-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
 <hr>
@@ -273,7 +167,7 @@ would be a non-trivial representation of \(0\), which again is a contradiction t
 <hr />
 <ol>
 <li id="fn:1">
-<p>\(v_1\) is linearly independent, since \(0=\alpha\cdot v_1\) can be solved only trivially by \(\alpha=0\), since \(v_1\neq 0\).&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a><a class="footnote-backref" href="#fnref2:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+<p>\(v_1\) is linearly independent, since \(0=\alpha\cdot v_1\) can be solved only trivially by \(\alpha=0\), since \(v_1\neq 0\).&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
 </li>
 </ol>
 </div>

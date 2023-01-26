@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="PROOF OF CONTINUANTS AND CONVERGENTS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
 <meta name="keywords" content="continuants,convergents,proof">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title>1552</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,15 +48,6 @@
 
 <h1>Proof: 1552</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/continuants-and-convergents.html'>Lemma: Continuants and Convergents</a>)</p>
-<p>By <a href="https://bookofproofs.github.io/branches/logic/proving-principle-by-complete-induction.html">induction</a>, the above definition of continuants, as well as <a href="https://bookofproofs.github.io/branches/algebra/continued-fractions.html">convergents</a>:</p>
-<h3>Base Case $k=1$</h3>
-<p>$[q_0;q_1]=q_0+\frac{1}{q_1}=q_0+\frac{Q_0}{Q_1(q_1)}$</p>
-<h3>Induction step $k\to k+1$:</h3>
-<p>$$\begin{array}{rcll}
-[q_0;q_1,\ldots,q_{k+1}]&amp;=&amp;q_0+\frac{1}{[q_1;q_2,\ldots,q_k]}\\
-&amp;=&amp;q_0+\cfrac{1}{q_1+\cfrac{Q_{k-1}(q_2,\ldots,q_{k+1})}{Q_k(q_2,\ldots,q_{k+1})}}&amp;\text{by base case}\\
-&amp;=&amp;q_0+\cfrac{Q_k(q_2,\ldots,q_{k+1})}{q_1Q_k(q_2,\ldots,q_{k+1})+Q_{k-1}(q_3,\ldots,q_{k+1})}.
-\end{array}$$</p>
 <p>By <a href="https://bookofproofs.github.io/branches/logic/proving-principle-by-complete-induction.html">induction</a>, the above definition of continuants, as well as <a href="https://bookofproofs.github.io/branches/algebra/continued-fractions.html">convergents</a>:</p>
 <h3>Base Case $k=1$</h3>
 <p>$[q_0;q_1]=q_0+\frac{1}{q_1}=q_0+\frac{Q_0}{Q_1(q_1)}$</p>

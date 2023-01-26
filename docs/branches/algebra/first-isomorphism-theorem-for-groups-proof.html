@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="Proof of FIRST ISOMORPHISM THEOREM FOR GROUPS ★ history of mathematics ✚ science ➜ visit BookOfProofs now!">
 <meta name="keywords" content="isomorphism theorem for groups,group isomorphism theorem,group isomorphism theorems,isomorphism theorem,first isomorphism theorem,proof">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title>1574</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -51,47 +50,6 @@
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/first-isomorphism-theorem-for-groups.html'>Theorem: First Isomorphism Theorem for Groups</a>)</p>
 <ul>
 <li>By hypothesis, $(G,\ast)$, $(H,\cdot)$ are <a href="https://bookofproofs.github.io/branches/algebra/group.html">groups</a> and $f:G\to N$ is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a> with the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html">kernel</a> $\ker(f).$ </li>
-<li>We demonstrate that $(G/\ker(f),\circ)$ is a <a href="https://bookofproofs.github.io/branches/algebra/factor-groups.html">factor group</a> $(G/\ker(f),\circ).$<ul>
-<li>First of all, $\ker(f)=\{g\in G\mid f(g)=e_H\}$ is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> of $G$ according to the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-a-group-homomorphism-are-subgroups.html">corresponding lemma</a></li>
-<li>Moreover, it is even a <a href="https://bookofproofs.github.io/branches/algebra/normal-subgroups.html">normal subgroup</a> of $G,$ according to <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphisms-and-normal-subgroups.html">another previous lemma</a></li>
-<li>By definition of <a href="https://bookofproofs.github.io/branches/algebra/factor-groups.html">factor groups</a>, $(G/\ker(f),\circ)$ is a factor group with the group operation $"\circ"$ defined by $$(a_1 \ker(f))\circ(a_2\ker(f)):=(a_1\ast a_2)\ker(f)$$ for all $a_1,a_2\in G.$ </li>
-</ul>
-</li>
-<li>Moreover, the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html">image</a> $\operatorname{im}(f)=\{f(g)\in H\mid g\in G\}$ is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> of $(H,\cdot)$ according to the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-a-group-homomorphism-are-subgroups.html">corresponding lemma</a>, and in particular a <a href="https://bookofproofs.github.io/branches/algebra/group.html">group</a> itself.</li>
-<li>Thus, the <a href="https://bookofproofs.github.io/branches/algebra/algebraic-structure-algebra.html">algebraic structures</a> $(\operatorname{im}(f),\cdot)$ and $(G/\ker(f),\circ)$ are <a href="https://bookofproofs.github.io/branches/algebra/group.html">groups</a>.</li>
-<li>The <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html">function</a> $\phi:G/\ker(f)\to \operatorname{im}(f),$ $\phi(a\ker(f))=f(a)$ is <a href="https://bookofproofs.github.io/branches/logic/when-is-something-well-defined-in-mathematics.html">well-defined</a>:<ul>
-<li>Assume, $a,b\in G$ with $a\ker(f)=b\ker(f).$</li>
-<li>Therefore $a\ast b^{-1}\in \ker(f).$ </li>
-<li>Since $f$ is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a>, it follows from the <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html">properties of group homomorphism</a> that $$\begin{array}{rcl}f(a\ast b^{-1})&amp;=&amp;f(a)\cdot f(b^{-1})\\&amp;=&amp;f(e_G)\\&amp;=&amp;e_H.\end{array}$$</li>
-<li>Thus, $f(a)=f(b).$</li>
-</ul>
-</li>
-<li>Moreover, $\phi$ is itself a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a>.<ul>
-<li>Since for all $a,b\in G$ we have $$\begin{array}{rcl}\phi(a\ker(f)\circ b\ker (f))&amp;=&amp;\phi((a\ast b)\ker(f))\\
-&amp;=&amp;f(a\ast b)\\
-&amp;=&amp;f(a)\cdot f(b)\\
-&amp;=&amp;\phi(a\ker(f))\circ \phi(b\ker(f)).\end{array}$$</li>
-</ul>
-</li>
-<li>$\phi$ is <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html">injective</a><ul>
-<li>Let $a\in G$ with $\phi(a\ker(f))=f(a)=e_H$ be given.</li>
-<li>Then $a\in\ker(f).$</li>
-<li>Therefore, $a\ker(f)=e_G\ker(f).$</li>
-<li>It follows $\ker(\phi)=\{e_G\ker(f)\}.$</li>
-</ul>
-</li>
-<li>$\phi$ is <a href="https://bookofproofs.github.io/branches/set-theory/surjective-function.html">surjective</a><ul>
-<li>Let $b\in \operatorname{im}(f).$ </li>
-<li>Then there is an $a\in G$ with $f(a)=b.$</li>
-<li>It follows $\phi(a\ker(f))=b.$</li>
-</ul>
-</li>
-<li>
-<p>Altogether, we have shown that $\phi$ is a <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html">bijective</a> group homomorphism, in other words $\phi$ is an <a href="https://bookofproofs.github.io/branches/algebra/isomorphism.html">isomorphism</a></p>
-</li>
-<li>
-<p>By hypothesis, $(G,\ast)$, $(H,\cdot)$ are <a href="https://bookofproofs.github.io/branches/algebra/group.html">groups</a> and $f:G\to N$ is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a> with the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html">kernel</a> $\ker(f).$ </p>
-</li>
 <li>We demonstrate that $(G/\ker(f),\circ)$ is a <a href="https://bookofproofs.github.io/branches/algebra/factor-groups.html">factor group</a> $(G/\ker(f),\circ).$<ul>
 <li>First of all, $\ker(f)=\{g\in G\mid f(g)=e_H\}$ is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> of $G$ according to the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-a-group-homomorphism-are-subgroups.html">corresponding lemma</a></li>
 <li>Moreover, it is even a <a href="https://bookofproofs.github.io/branches/algebra/normal-subgroups.html">normal subgroup</a> of $G,$ according to <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphisms-and-normal-subgroups.html">another previous lemma</a></li>

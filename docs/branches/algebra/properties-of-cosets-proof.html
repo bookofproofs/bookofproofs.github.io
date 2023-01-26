@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="Proof of PROPERTIES OF COSETS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
 <meta name="keywords" content="cosets,properties,properties of cosets,coset properties,proof">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title></title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,18 +48,6 @@
 
 <h1>Proof</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/properties-of-cosets.html'>Proposition: Properties of Cosets</a>)</p>
-<p>In the following let \((G,\ast)\) be a <a href="https://bookofproofs.github.io/branches/algebra/group.html">group</a> and \(H\subseteq G\) its <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> </p>
-<h4>Proof of (1)</h4>
-<p>If \(|H|=n\), then \(|Ha|\le n\), which follows from the <a href="https://bookofproofs.github.io/branches/algebra/cosets.html">definition of a coset</a> But \(|Ha| \not &lt;  n\). For if \(|Ha| &lt;  n\), then there would be at least two different elements \(g,h\in H\), \(g\neq h\) and \(g\ast a=h\ast a\). This is equivalent to \(g=h\), which is a <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html">contradiction</a> to \(g\neq h\). Thus it must be \(|Ha|=|H|\). Analogously, we can prove \(|aH|=|H|\).</p>
-<h4>Proof of (2)</h4>
-<p>We have to prove that \(a\sim_l b:=a\in bH\) (respectively \(a\sim_r b:=a\in Hb\)) define <a href="https://bookofproofs.github.io/branches/set-theory/equivalence-relation.html">equivalence relations</a>, by proving their reflexivity, symmetry and transitivity.</p>
-<h3>Reflexivity</h3>
-<p>Because \(H\subset G\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> of \(G\), the neutral element of \(G\) is also the neutral element of \(H\). Therefore, following the <a href="https://bookofproofs.github.io/branches/algebra/cosets.html">definition of cosets</a>, \(a\in aH\) and \(a\in Ha\). So \(a\sim_l a\) (respectively \(a\sim_r a\)) are reflexive. </p>
-<h3>Symmetry</h3>
-<p>Assume \(a\sim_l b\). From \(a\in bH\) it follows that there exists \(x\in H\) with \(a=b\ast x\), which is equivalent to \(a\ast x^{-1}=b\). Because also \(x^{-1}\in H\), it follows that \(b\in aH\), so \(b\sim_l a\) is symmetric. Respectively, assume \(a\sim_r b\). From \(a\in Hb\) it follows that there exists \(x\in H\) with \(a=x\ast b\), which is equivalent to \(x^{-1}a=b\). Because also \(x^{-1}\in H\), it follows that \(b\in Ha\), so \(b\sim_r a\) is symmetric.</p>
-<h3>Transitivity</h3>
-<p>Assume \(a\sim_l b\) and \(b\sim_l c\). From \(a\in bH\) it follows that there exists \(x\in H\) with \(a=b\ast x\), which is equivalent to \(a\ast x^{-1}=b\). From \(b\in cH\) it follows that there exists \(y\in H\) with \(b=c\ast y\). From both results, it follows that \(a\ast x^{-1}=c\ast y\), which is equivalent to \(a=c\ast y\ast x\). Because \(H\) is closed under \(\ast\), \(y\ast x\in H\). Therefore, \(a\sim_l c\) is transitive.
-Respectively, assume \(a\sim_r b\) and \(b\sim_r c\). From \(a\in Hb\) it follows that there exists \(x\in H\) with \(a=x\ast b\), which is equivalent to \(x^{-1}\ast a=b\). From \(b\in Hc\) it follows that there exists \(y\in H\) with \(b=y\ast c\). From both results, it follows that \(x^{-1}\ast a=y\ast c\), which is equivalent to \(a=x\ast y\ast c\). Because \(H\) is closed under \(\ast\), \(x\ast y\in H\). Therefore, \(a\sim_r c\) is transitive.</p>
 <p>In the following let \((G,\ast)\) be a <a href="https://bookofproofs.github.io/branches/algebra/group.html">group</a> and \(H\subseteq G\) its <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> </p>
 <h4>Proof of (1)</h4>
 <p>If \(|H|=n\), then \(|Ha|\le n\), which follows from the <a href="https://bookofproofs.github.io/branches/algebra/cosets.html">definition of a coset</a> But \(|Ha| \not &lt;  n\). For if \(|Ha| &lt;  n\), then there would be at least two different elements \(g,h\in H\), \(g\neq h\) and \(g\ast a=h\ast a\). This is equivalent to \(g=h\), which is a <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html">contradiction</a> to \(g\neq h\). Thus it must be \(|Ha|=|H|\). Analogously, we can prove \(|aH|=|H|\).</p>

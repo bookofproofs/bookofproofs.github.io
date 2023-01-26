@@ -3,8 +3,8 @@ categories: branches,algebra
 nodeid: bookofproofs$8655
 orderid: 8
 parentid: bookofproofs$212
-title: Unique Solvability of $a\ast x=b$ in Groups
-description: UNIQUE SOLVABILITY OF $A\AST X=B$ IN GROUPS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
+title: Unique Solvability of `$a\ast x=b$` in Groups
+description: UNIQUE SOLVABILITY OF AX=B IN GROUPS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$581
 keywords: unique solvability of a*x=b in groups
 contributors: bookofproofs

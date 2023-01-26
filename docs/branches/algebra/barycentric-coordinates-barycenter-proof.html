@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="Proof of BARYCENTRIC COORDINATES, BARYCENTER &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
 <meta name="keywords" content="barycenter,barycentric,coordinates,proof">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title></title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,27 +48,6 @@
 
 <h1>Proof</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/barycentric-coordinates-barycenter.html'>Corollary: Barycentric Coordinates, Barycenter</a>)</p>
-<p>Let \(\mathcal A=(A,V_A,v)\) be an affine space with \(V_A\) as the associated <a href="https://bookofproofs.github.io/branches/algebra/vector-space.html">vector space over a field \(F\) </a> </p>
-<p>Take any \(Q\in \mathcal A\). By <a href="https://bookofproofs.github.io/branches/algebra/affine-space.html">definition of an affine space</a> there is a unique vector \(q\in V_A\) defined by \(q:=\overrightarrow{QP_0}\), which is equivalent to \(Q=P_0 + q\).</p>
-<p>By hypothesis, \(P_0,P_1,P_2\ldots,P_n\) is an affine basis of \(\mathcal A\), which by <a href="https://bookofproofs.github.io/branches/algebra/affine-basis-affine-coordinate-system.html">definition</a> means that the vectors \(x_1=\overrightarrow{P_0P_1},\,x_2=\overrightarrow{P_0P_2},\,\ldots,\,x_n=\overrightarrow{P_0P_n}\) form a <a href="https://bookofproofs.github.io/branches/algebra/basis-coordinate-system.html">basis of the corresponding vector space</a> \(V_A\). </p>
-<p>By definition of a basis of a vector space it means that there exist unique elements \(\lambda_1, \ldots, \lambda_n\in F \)  such that
-\[q=\lambda_1x_1+ \cdots +\lambda_nx_n.\]</p>
-<p>Then it follows</p>
-<p>\[\begin{array}{rcl}
-Q&amp;=&amp;P_0+q\\
-&amp;=&amp;P_0+\lambda_1x_1+\cdots+\lambda_nx_n\\
-&amp;=&amp;P_0+\lambda_1\overrightarrow{P_1P_0}+\cdots+\lambda_n\overrightarrow{P_nP_0}\\
-&amp;=&amp;P_0+\lambda_1(P_1-P_0)+\cdots+\lambda_n(P_n-P_0)\\
-&amp;=&amp;P_0+\lambda_1P_1+\cdots+\lambda_nP_n -\lambda_1P_0-\cdots-\lambda_nP_0\\
-&amp;=&amp;(1-(\lambda_1+\cdots+\lambda_n))P_0+\lambda_1P_1+\cdots+\lambda_nP_n\\
-&amp;=&amp;\lambda_0P_0+\lambda_1P_1+\cdots+\lambda_nP_n
-\end{array}\]
-with \(\lambda_0:=1-(\lambda_1+\cdots+\lambda_n)\in F\).</p>
-<p>Because all \(\lambda_0, \ldots, \lambda_n\in F \) form a unique \((n+1)\)-tuple, it follows</p>
-<p>\[Q=\lambda _{0}P_{0}+\cdots +\lambda_{n}P_{n},\quad\quad\lambda_0+\cdots+\lambda_n=1.\]</p>
-<p>The following figure demonstrates the ideas of this proof for the special case of an affine plane, in which any point \(Q\) can be represented in barycentric coordinates using the affine basis of points of a triangle.</p>
-<p><img alt="barycentric" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/barycentric.png?raw=true" />
-(c) bookofproofs own work</p>
 <p>Let \(\mathcal A=(A,V_A,v)\) be an affine space with \(V_A\) as the associated <a href="https://bookofproofs.github.io/branches/algebra/vector-space.html">vector space over a field \(F\) </a> </p>
 <p>Take any \(Q\in \mathcal A\). By <a href="https://bookofproofs.github.io/branches/algebra/affine-space.html">definition of an affine space</a> there is a unique vector \(q\in V_A\) defined by \(q:=\overrightarrow{QP_0}\), which is equivalent to \(Q=P_0 + q\).</p>
 <p>By hypothesis, \(P_0,P_1,P_2\ldots,P_n\) is an affine basis of \(\mathcal A\), which by <a href="https://bookofproofs.github.io/branches/algebra/affine-basis-affine-coordinate-system.html">definition</a> means that the vectors \(x_1=\overrightarrow{P_0P_1},\,x_2=\overrightarrow{P_0P_2},\,\ldots,\,x_n=\overrightarrow{P_0P_n}\) form a <a href="https://bookofproofs.github.io/branches/algebra/basis-coordinate-system.html">basis of the corresponding vector space</a> \(V_A\). </p>

@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="PROOF BY INDUCTION PROOF OF FUNDAMENTAL LEMMA OF HOMOGENEOUS SYSTEMS OF LINEAR EQUATIONS &amp;#9733; master graduate maths &amp;#10004; visit BookOfProofs now!">
 <meta name="keywords" content="equations,fundamental,homogeneous,lemma,linear,systems,proof">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title></title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,42 +48,6 @@
 
 <h1>Proof</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/fundamental-lemma-of-homogeneous-systems-of-linear-equations.html'>Lemma: Fundamental Lemma of Homogeneous Systems of Linear Equations</a>)</p>
-<p>Let \(\alpha_{ij}\in F\) and \(F\) be an <a href="https://bookofproofs.github.io/branches/algebra/field.html">field</a>, and let 
-\[\begin{array}{ccl}
-\alpha_{11}X_1+\ldots+\alpha_{1n}X_n&amp;=&amp;0\\
-\alpha_{21}X_1+\ldots+\alpha_{2n}X_n&amp;=&amp;0\\
-\vdots&amp;\vdots&amp;\vdots\\
-\alpha_{m1}X_1+\ldots+\alpha_{mn}X_n&amp;=&amp;0\\
-\end{array}~~~~~~~~~~~~~~~~ ( * ) \]
-be a <a href="https://bookofproofs.github.io/branches/algebra/systems-of-linear-equations-with-many-unknowns.html">homogeneous system of linear equations</a> with  \(n\) unknowns \(X_1,\ldots,X_n\) and (\(1\le m &lt; n\)) equations. We have to show that the the equation system \( ( * ) \) has a non-trivial solution.</p>
-<p>First, we observe the following:</p>
-<ol>
-<li>It is sufficient to assume \(m=n-1\) since if we have found a non-trivial solution for this case, it is also a solution of the more general case \(m &lt; n - 1\) (after removing some more equations from the system).</li>
-<li>We can assume \(\alpha_{11}\neq 0\). If in \( ( * )\) all coefficients \( \alpha_{ij} \) were zero, then any elements of the field \(F\) replacing the unknowns \(X_1,\ldots,X_n\) would be a non-trivial solution. If \(\alpha_{11}= 0\) but some other \(\alpha_{ij}\neq 0\), we can change the order of the equations by switching the \(i\)-th equation with the \(1\)-st equation and re-numbering the \(j\)-th unknown with the \(1\)-st unkonwn, so that   \(\alpha_{11}\neq 0\). Note that these operations do not change the non-trivial solution, if it exists.</li>
-<li>We can assume that besides \(\alpha_{11}\), all other coefficients in the first column equal zero \(\alpha_{21}=\alpha_{31}=\ldots=\alpha_{m1}=0\). In order to transform the equation system into this form, we have (for \(i=2,\ldots,m\)) to multiply the first equation with \(\alpha_{i1}\) and subtract the resulting product form the \(\alpha_{11}\) multiple of the \(i\)-th equation. Note that these operations do not change the non-trivial solution, if it exists, either.</li>
-</ol>
-<p>After these preparations, it is possible to prove the lemma <a href="https://bookofproofs.github.io/branches/logic/proving-principle-by-complete-induction.html">by induction</a> on the number of unknowns. </p>
-<h3>Base Case \(n=2\).</h3>
-<p>The equation system </p>
-<p>\[\begin{array}{ccl}
-\alpha_{11}X_1+\alpha_{12}X_2&amp;=&amp;0\\
-\end{array}\]
-has the solution \(X_1:=\beta_1=-\frac{\alpha_{12}}{\alpha_{11}} X_2\), \(X_2:=\beta_2\in F\).</p>
-<h3>Induction step \(n &gt; 2\).</h3>
-<p>Let the fundamental lemma be proven for \(m\ge 2\) unknowns. We have to find a non-trivial solution of the equation system 
-\[\begin{array}{cllcl}
-\alpha_{11}X_1&amp;+&amp;\alpha_{12}X_2+\ldots+\alpha_{1n}X_n&amp;=&amp;0\\
-0&amp;+&amp;\alpha_{22}X_2+\ldots+\alpha_{2n}X_n&amp;=&amp;0\\
-\vdots&amp;&amp;\vdots&amp;\vdots&amp;\vdots\\
-0&amp;+&amp;\alpha_{m2}X_2+\ldots+\alpha_{mn}X_n&amp;=&amp;0\\
-\end{array}~~~~~~~~~~~~~~~~~~~~~(1)\]
-According to the base case, there exist a non-trivial solution \(b_2,\ldots,b_n\in F\) of the equation system
-\[\begin{array}{lcl}
-\alpha_{22}X_2+\ldots+\alpha_{2n}X_n&amp;=&amp;0\\
-\vdots&amp;\vdots&amp;\vdots\\
-\alpha_{m2}X_2+\ldots+\alpha_{mn}X_n&amp;=&amp;0\\
-\end{array}~~~~~~~~~~~~~~~~~~~~~(2)\]
-Note that we have renumbered the unknowns of the smaller equation system  \( (2) \) from \(X_1,\ldots,X_{n-1}\in F\) to \(X_2,\ldots,X_n\in F\) in order to better embed them into the greater equation system \( (1) \). Then the solution of the greater equation system is \(X_1:=\beta_1=-\frac{\alpha_{12}}{\alpha_{11}} X_2 -\ldots -\frac{\alpha_{1n}}{\alpha_{11}} X_n\), \(X_i:=\beta_i\in F\), \(i=2,\ldots,n\).</p>
 <p>Let \(\alpha_{ij}\in F\) and \(F\) be an <a href="https://bookofproofs.github.io/branches/algebra/field.html">field</a>, and let 
 \[\begin{array}{ccl}
 \alpha_{11}X_1+\ldots+\alpha_{1n}X_n&amp;=&amp;0\\

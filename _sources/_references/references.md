@@ -1,5 +1,4 @@
-layout: default
-categories: references
+layout: hidden
 ---
 ---
 License | Abbreviation  | Reference

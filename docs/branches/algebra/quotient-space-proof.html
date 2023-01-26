@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="Proof of QUOTIENT SPACE &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
 <meta name="keywords" content="quotient space,quotient spaces,proof">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title></title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -51,25 +50,6 @@
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/quotient-space.html'>Proposition: Quotient Space</a>)</p>
 <ul>
 <li>By hypothesis, \(V\) is a <a href="https://bookofproofs.github.io/branches/algebra/vector-space.html">vector space</a> over a <a href="https://bookofproofs.github.io/branches/algebra/field.html">field</a> \(F\), and \(U\subseteq V\) is its <a href="https://bookofproofs.github.io/branches/algebra/subspace.html">subspace</a> defining the <a href="https://bookofproofs.github.io/branches/algebra/equivalency-of-vectors-in-vector-space-if-their-difference-forms-a-subspace.html">equivalence relation induced by \(U\) on \(V\) </a> with the quotient set \(V/U\). </li>
-<li>Because the <a href="https://bookofproofs.github.io/branches/set-theory/canonical-projection.html">canonical projection</a> \(q\colon V\longrightarrow V/U,\,v\longmapsto [v]\,,\) must become a <a href="https://bookofproofs.github.io/branches/algebra/linear-map.html">linear map</a> over the field \(F\), it has to fulfill the properties <ul>
-<li>addition \([v]+[w]=[v+w]\) for all <a href="https://bookofproofs.github.io/branches/set-theory/equivalence-relation.html">equivalent classes</a> in \(V/U\) and</li>
-<li>scalar multiplication \(\lambda [v]=[\lambda v]\) for all \[[v]\in V/U\] and \(\lambda \in F\).</li>
-</ul>
-</li>
-<li>Because the above properties have to be valid for all elements, there can only be only one quotient space \(V/U\) such that \(q\) is a linear map over \(F\). </li>
-<li>The above properties do not depend on the representatives of the equivalence classes. <ul>
-<li>Let \([v]=[v']\) and \([w]=[w']\). We have to show that \([v+w]=[v'+w']\). By hyothesis, we can set \(v'=v+u\) and \(w'=w+u'\) with some \(u,u'\in U\). It follows \[v'+w'=v+w+u+u'\,\]
-and the representative \(v+w+u+u'\) is equivalent to the representative \(v+w\) because of \(u+u'\in U\). </li>
-<li>Similarly, let \(v'=v+u\) with \(u\in U\). Then it follows \[\lambda v'=\lambda (v+u)=\lambda v+\lambda u\,,\]
-and the representative \(\lambda v+\lambda u'\) is equivalent to \(\lambda v\) because of \(\lambda u \in U\). </li>
-</ul>
-</li>
-<li>
-<p>Because the addition and the scalar multiplication on \(V/U\) are well-defined and because \(q\) is <a href="https://bookofproofs.github.io/branches/set-theory/surjective-function.html">surjective</a> it follows that \(V/U\) \(q\) is linear map and that the quotient space \(V/U\) is a vector space.</p>
-</li>
-<li>
-<p>By hypothesis, \(V\) is a <a href="https://bookofproofs.github.io/branches/algebra/vector-space.html">vector space</a> over a <a href="https://bookofproofs.github.io/branches/algebra/field.html">field</a> \(F\), and \(U\subseteq V\) is its <a href="https://bookofproofs.github.io/branches/algebra/subspace.html">subspace</a> defining the <a href="https://bookofproofs.github.io/branches/algebra/equivalency-of-vectors-in-vector-space-if-their-difference-forms-a-subspace.html">equivalence relation induced by \(U\) on \(V\) </a> with the quotient set \(V/U\). </p>
-</li>
 <li>Because the <a href="https://bookofproofs.github.io/branches/set-theory/canonical-projection.html">canonical projection</a> \(q\colon V\longrightarrow V/U,\,v\longmapsto [v]\,,\) must become a <a href="https://bookofproofs.github.io/branches/algebra/linear-map.html">linear map</a> over the field \(F\), it has to fulfill the properties <ul>
 <li>addition \([v]+[w]=[v+w]\) for all <a href="https://bookofproofs.github.io/branches/set-theory/equivalence-relation.html">equivalent classes</a> in \(V/U\) and</li>
 <li>scalar multiplication \(\lambda [v]=[\lambda v]\) for all \[[v]\in V/U\] and \(\lambda \in F\).</li>

@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="Proof of GROUP HOMOMORPHISMS AND NORMAL SUBGROUPS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!">
 <meta name="keywords" content="group homomorphisms,normal subgroups,group homomorphism,normal subgroup,proof">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title></title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -51,19 +50,6 @@
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/group-homomorphisms-and-normal-subgroups.html'>Lemma: Group Homomorphisms and Normal Subgroups</a>)</p>
 <ul>
 <li>By hypothesis, \(f:(G,\ast)\mapsto (H,\cdot)\) is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a>  </li>
-<li>Due to the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-a-group-homomorphism-are-subgroups.html">corresponding lemma</a>, the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html">kernel</a> \(\ker(f)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> of \(G\). </li>
-<li>
-<p>It remains to be shown that it is a <a href="https://bookofproofs.github.io/branches/algebra/normal-subgroups.html">normal subgroup</a> of $G.$</p>
-<ul>
-<li>Let $g\in G$ and \(h\in \ker(f)\), i.e. $f(h)=e_H.$ </li>
-<li>It follows from the <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html">properties of group homomorphism</a> that $$\begin{array}{rcl}f(g\ast h\ast g^{-1})&amp;=&amp;f(g)\cdot f(h)\cdot f(g^{-1})\\&amp;=&amp;f(g)\cdot e_H\cdot (f(g))^{-1}\\&amp;=&amp;f(g)\cdot f(g)^{-1}\\&amp;=&amp;e_H.\end{array}$$</li>
-<li>Thus, $g\ast h\ast g^{-1}\in \ker(f)$ for any $g\in G$ and any $h\in \ker(f).$ </li>
-<li>Therefore, $\ker(f)$ is a normal subgroup of \(G\), i.e. $\ker(f)\unlhd G.$</li>
-</ul>
-</li>
-<li>
-<p>By hypothesis, \(f:(G,\ast)\mapsto (H,\cdot)\) is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a>  </p>
-</li>
 <li>Due to the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-a-group-homomorphism-are-subgroups.html">corresponding lemma</a>, the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html">kernel</a> \(\ker(f)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> of \(G\). </li>
 <li>It remains to be shown that it is a <a href="https://bookofproofs.github.io/branches/algebra/normal-subgroups.html">normal subgroup</a> of $G.$<ul>
 <li>Let $g\in G$ and \(h\in \ker(f)\), i.e. $f(h)=e_H.$ </li>

@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="PROOF OF OPEN AND CLOSED SUBSETS OF A ZARISKI TOPOLOGY &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
 <meta name="keywords" content="closed,open,subsets,topology,zariski,proof">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title></title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,23 +48,6 @@
 
 <h1>Proof</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/open-and-closed-subsets-of-a-zariski-topology.html'>Proposition: Open and Closed Subsets of a Zariski Topology</a>)</p>
-<p>We only provide a sketch of a proof:</p>
-<h3>ad \((1)\)</h3>
-<ul>
-<li>From the <a href="https://bookofproofs.github.io/branches/algebra/one-to-one-correspondence-of-ideals-in-the-factor-ring-and-a-commutative-ring.html">lemma about the one-to-one correspondence of ideals in a factor ring and a commutative ring</a> it follows that the <a href="https://bookofproofs.github.io/branches/algebra/prime-ideal.html">prime ideals</a> in the <a href="https://bookofproofs.github.io/branches/algebra/factor-rings-generalization-of-congruence-classes.html">factor ring</a> \(R/{I}\) correspond over the ideal \({J}\mapsto q^{-1}({J})={J}+{I}\) to the prime ideals of \(R\) containing the ideal \({I}\). </li>
-<li>Therefore, the <a href="https://bookofproofs.github.io/branches/topology/open-function-closed-function.html">spectrum function</a> \(q^{ * }\) is <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html">bijective</a> and has the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html">image</a> being the set \(V(I)\) of all ideals of \(R\) containing \(I\).</li>
-<li>It is also <a href="https://bookofproofs.github.io/branches/topology/open-function-closed-function.html">closed</a>, since for any ideal \({K}\subseteq R/{I}\) and a prime ideal \({J}\subseteq R/{I}\) we have \({K}\subseteq {J}\) if and only if \[{K}+{I}=q^{-1}({K})\subseteq {J}+{I}.\] Therefore the image of \(V({K})\) equals the image of \(V({K}+{I})\) and thus, it is closed.</li>
-</ul>
-<h3>ad \((2)\)</h3>
-<ul>
-<li>This follows immediately from the <a href="https://bookofproofs.github.io/branches/algebra/prime-ideals-of-multiplicative-systems-in-integral-domains.html">lemma about prime ideals of multiplicative systems in integral domains</a></li>
-</ul>
-<h3>ad \((3)\)</h3>
-<ul>
-<li>Note that for any prime ideal \({J}\) and an element \(f\in R\) we have \(f\not \in {J}\) if and only if \({J}\) is disjoint to the <a href="https://bookofproofs.github.io/branches/algebra/multiplicative-system.html">multiplicative system</a> \(\left\{f^{n}{|}\,n\in \mathbb {N} \right\}\).</li>
-<li>From that note, it follows together with \((2)\) that the map is <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html">injective</a> and its image equals \(D(f)\). </li>
-<li>The same argument applied on \(g\in R\) respectively \({\frac {g}{1}}\in R_{f}\) reveals that the image of \(D(g)\subseteq \operatorname {Spek} \left(R_{f}\right)\) equals \(D(fg)\) and is therefore open.</li>
-</ul>
 <p>We only provide a sketch of a proof:</p>
 <h3>ad \((1)\)</h3>
 <ul>

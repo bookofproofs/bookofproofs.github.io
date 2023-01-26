@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="Proof of ELEMENTARY GAUSSIAN OPERATIONS DO NOT CHANGE THE SOLUTIONS OF AN SLE &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
 <meta name="keywords" content="change,elementary,gaussian,not,operations,sle,solutions,proof">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title></title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -51,41 +50,6 @@
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/elementary-gaussian-operations-do-not-change-the-solutions-of-an-sle.html'>Lemma: Elementary Gaussian Operations Do Not Change the Solutions of an SLE</a>)</p>
 <ul>
 <li>Let an <a href="https://bookofproofs.github.io/branches/algebra/systems-of-linear-equations-with-many-unknowns.html">SLE</a>  be given in the form of an <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html">extended coefficient matrix</a> $A|\gamma.$</li>
-<li>We want to prove that the <a href="https://bookofproofs.github.io/branches/algebra/elementary-gaussian-operations.html">elementary Gaussian operations</a> do not change the <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html">set</a> $S$ of the solutions of the SLE.<ul>
-<li>Exchanging the rows of $A|\gamma.$<ul>
-<li>This elementary Gaussian operation does not change $S$ because the exchanged rows just change the order of the equations listed in the SLE and the order of the equations does not influence the simultaneous solution of the whole SLE.</li>
-</ul>
-</li>
-<li>Exchanging the columns of $A$<ul>
-<li>This elementary Gaussian operation corresponds to a renaming of the unknowns in each of the equations in the whole SLE. Certainly, the solutions $S$ do not change if we rename the unknowns.</li>
-</ul>
-</li>
-<li>Multiplying a row of $A|\gamma$ by a number $c\neq 0.$<ul>
-<li>This elementary Gaussian operation transforms an equation 
-$$\alpha_{i1}x_1+\alpha_{i2}x_2+\ldots+\alpha_{in}x_n=\gamma_i$$
-into
-$$c\alpha_{i1}x_1+c\alpha_{i2}x_2+\ldots+c\alpha_{in}x_n=c\gamma_i.$$
-Clearly, since both sides of the equation are multiplied by the same number $c\neq 0$, any existing replacement of the unknowns solving the first equation will also solve the second equation and vice versa. Therefore, the set $S$ of the simultaneous solutions of the whole SLE does not change in this case, either.</li>
-</ul>
-</li>
-<li>Adding a multiple of one row of $A|\gamma$ to another row of $A|\gamma$ <ul>
-<li>This elementary Gaussian operation transforms two equations 
-$$\begin{array}{rcl}\alpha_{i1}x_1+\alpha_{i2}x_2+\ldots+\alpha_{in}x_n&amp;=&amp;\gamma_i\\
-\alpha_{j1}x_1+\alpha_{j2}x_2+\ldots+\alpha_{jn}x_n&amp;=&amp;\gamma_j\end{array}\quad\quad( * )$$
-into
-$$\begin{array}{rcl}(\alpha_{i1}+c\alpha_{j1})x_1+(\alpha_{i2}+c\alpha_{j2})x_2+\ldots+(\alpha_{in}+c\alpha_{jn})x_n&amp;=&amp;\gamma_i+c\gamma_j\\
-\alpha_{j1}x_1+\alpha_{j2}x_2+\ldots+\alpha_{jn}x_n&amp;=&amp;\gamma_j\end{array}\quad\quad( * * )$$
-It follows from the <a href="https://bookofproofs.github.io/branches/algebra/field.html">distributivity property of the field</a> $F$ that any simultaneous solution $(s_1,\ldots,s_n)$ of $( * )$ is also a solution of $( * * ).$ If, conversely, $(s_1,\ldots,s_n)$ is a solution of $( * * )$, then we can transform the first equation into the original form $( * )$ by adding the $-c$-th mutliple of the $j$-th row, and $(s_1,\ldots,s_n)$ will remain the simultaneous solution of the new two equations $( * ).$ Therefore, this type of elementary Gaussian operation does not change the set $S$ of solutions to SLE, either.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>
-<p>In summary, all four elementary Gaussian operations do not change the solution set $S$ of any given SLE.</p>
-</li>
-<li>
-<p>Let an <a href="https://bookofproofs.github.io/branches/algebra/systems-of-linear-equations-with-many-unknowns.html">SLE</a>  be given in the form of an <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html">extended coefficient matrix</a> $A|\gamma.$</p>
-</li>
 <li>We want to prove that the <a href="https://bookofproofs.github.io/branches/algebra/elementary-gaussian-operations.html">elementary Gaussian operations</a> do not change the <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html">set</a> $S$ of the solutions of the SLE.<ul>
 <li>Exchanging the rows of $A|\gamma.$<ul>
 <li>This elementary Gaussian operation does not change $S$ because the exchanged rows just change the order of the equations listed in the SLE and the order of the equations does not influence the simultaneous solution of the whole SLE.</li>

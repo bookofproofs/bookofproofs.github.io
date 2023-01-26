@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="SOLUTION TO A ZERO SLE &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
 <meta name="keywords" content="sle,solution,zero">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title>Solution to a Zero SLE</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,19 +48,6 @@
 
 <h1>Example: Solution to a Zero SLE</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/solving-simple-systems-of-linear-equations.html'>Section: Solving Simple Systems of Linear Equations</a>)</p>
-<p>Our first example is a rather degenerated SLE with an <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html">extended coefficient matrix</a> consisting of a <a href="https://bookofproofs.github.io/branches/algebra/zero-matrix-zero-vector.html">zero matrix</a>:</p>
-<p>$$\left(\begin{array}{ccc|c}0&amp; \ldots&amp;0&amp;\beta_1\\
-0&amp; \ldots&amp;0&amp;\beta_2\\
-\vdots&amp;\vdots&amp;\vdots&amp;\vdots\\
-0&amp; \ldots&amp;0&amp;\beta_m\end{array}\right)$$</p>
-<p>Each <a href="https://bookofproofs.github.io/branches/algebra/linear-equations-with-many-unknowns.html">linear equation</a> in such an SLE has the form</p>
-<p>$$0x_1+0x_2+\ldots+0x_n=\beta_j$$</p>
-<p>for $j=1,\ldots,m$ and <a href="https://bookofproofs.github.io/branches/algebra/solutions-of-a-linear-equation-with-many-unknowns.html">we have seen in a corollary</a> that these equations have
-* either no solutions at all if $\beta_j\neq 0$
-* or infinitely many solutions with arbitrary choices for the unknowns $x_1,\ldots,x_n,$ if $\beta_j=0.$</p>
-<p>From this, we can conclude that the above SLE will have
-* either no solutions at all, if $\beta_j\neq 0$ for <strong>at least one</strong> $j$ with $1\le j \le m,$
-* or infinitely many solutions with arbitrary choices for the unknowns $x_1,\ldots,x_n,$ if $\beta_j=0$ <strong>for all</strong> $j$ with $1\le j \le m.$</p>
 <p>Our first example is a rather degenerated SLE with an <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html">extended coefficient matrix</a> consisting of a <a href="https://bookofproofs.github.io/branches/algebra/zero-matrix-zero-vector.html">zero matrix</a>:</p>
 <p>$$\left(\begin{array}{ccc|c}0&amp; \ldots&amp;0&amp;\beta_1\\
 0&amp; \ldots&amp;0&amp;\beta_2\\

@@ -184,8 +184,12 @@ class BopSource:
         for contributor in self.contributors:
             if contributor.startswith("@"):
                 # named contributor
-                ret += ", " + contributor[1:] + " "
+                if ret != "":
+                    ret += ", "
+                ret += contributor[1:]
             else:
+                if ret != "":
+                    ret += ", "
                 # contributor from github
                 ret += "<a href='https://github.com/" + contributor + "'>"
                 ret += "<img src='https://github.com/" + contributor + ".png?size=32' alt='" + contributor + "'/>"
@@ -206,7 +210,6 @@ class BopSource:
             ret += "_(no contents provided yet)_"
         else:
             ret += self._body
-        ret += self._body
         return ret
 
     def _get_content_node(self):
@@ -282,6 +285,8 @@ class BopSource:
         elif layout == BopLayouts.default:
             return "."
         elif layout == BopLayouts.index:
+            return "."
+        elif layout == BopLayouts.hidden:
             return "."
         elif layout == BopLayouts.notation:
             return "."

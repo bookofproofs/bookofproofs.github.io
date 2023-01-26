@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="EXAMPLES OF MAGMAS, SEMIGROUPS, AND MONOIDS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
 <meta name="keywords" content="examples,magmas,monoids,semigroups">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title>Examples of Magmas, Semigroups, and Monoids</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -57,24 +56,6 @@
 </ul>
 <h3>Examples of <a href="https://bookofproofs.github.io/branches/algebra/semigroup.html">semigroups</a></h3>
 <ul>
-<li>On the set $M_{n\times n}(\mathbb R)$ of $n\times n$ <a href="https://bookofproofs.github.io/branches/algebra/matrix-set-of-matrices-over-a-field.html">square matrices</a> with <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html">real</a> coefficients, we can define a binary operation $\ast$ by $(A,B)\to A\ast B:=AB + BA$, where $A$ and $B$ are matrices in $M_{n\times n}(\mathbb R)$ and $AB$ and $BA$ denote the "matrix multiplication":<a href="https://www.bookofproofs.org/branches/matrix-multiplication/matrix-multiplication.html">https://www.bookofproofs.org/branches/matrix-multiplication/</a><sup id="fnref2:1"><a class="footnote-ref" href="#fn:1">1</a></sup>. The operation $[\ast"$ is not "associative]<a href="https://bookofproofs.github.io/branches/algebra/associativity.html">bookofproofs$668</a> for $n\ge 2$ and the semigroup has no neutral element.</li>
-<li>All of the below examples (a semigroup is more general than a monoid).  </li>
-</ul>
-<h3>Examples of <a href="https://bookofproofs.github.io/branches/algebra/monoid.html">monoids</a></h3>
-<ul>
-<li>In the set $(\mathbb N, + )$ of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-natural-numbers.html">natural numbers together with addition</a> the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-natural-numbers-is-associative.html">addition of natural numbers is associative</a> with $0$ as a <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">neutral element</a>. Therefore it is a monoid. In addition, the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-natural-numbers-is-commutative.html">addition of natuaral numbers is commutative</a></li>
-<li>If $X$ is a non-empty <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html">set</a>, then the set $(\mathcal F(X,X),\circ)$ of all <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html">functions</a> $f:X\to X$ with the <a href="https://bookofproofs.github.io/branches/set-theory/composition-of-functions.html">composition of functions</a> $[\circ"$ an an operation is a monoid, since the "composition of functions is associative]<a href="https://bookofproofs.github.io/branches/set-theory/composition-of-functions-is-associative.html">bookofproofs$8005</a> and the identity function $f(x)=x$ for all $x\in X$ is its <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">neutral element</a>. </li>
-<li>The set $(\mathbb Z\times \mathbb Z,\ast) of pairs of [integers][bookofproofs$844] with the operation $(a,b)\ast(c,d):=(ac,bd)$ is a monoid (the reader might verify the <a href="https://bookofproofs.github.io/branches/algebra/associativity.html">associativity</a> property with the neutral element $(1,1).$</li>
-<li>The set $(\Sigma^*,\cdot)$ of <a href="https://bookofproofs.github.io/branches/logic/algebraic-structure-of-strings-over-an-alphabet.html">strings</a> is a monoid.</li>
-</ul>
-<h3>Examples of <a href="https://bookofproofs.github.io/branches/algebra/magma.html">magmas</a></h3>
-<ul>
-<li>The set $\mathbb N$ together with the power operation $(n,m)\to n^m$ is not associative and it has only a <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">left-neutral</a> element.</li>
-<li>The set of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-rational-numbers.html">rational numbers</a> with the operation of building arithmetic mean $(p,q)\to \frac 12(p+q)$ is not associative and it has no neutral element.</li>
-<li>All of the below examples (a magma is more general than a semigroup).</li>
-</ul>
-<h3>Examples of <a href="https://bookofproofs.github.io/branches/algebra/semigroup.html">semigroups</a></h3>
-<ul>
 <li>On the set $M_{n\times n}(\mathbb R)$ of $n\times n$ <a href="https://bookofproofs.github.io/branches/algebra/matrix-set-of-matrices-over-a-field.html">square matrices</a> with <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html">real</a> coefficients, we can define a binary operation $\ast$ by $(A,B)\to A\ast B:=AB + BA$, where $A$ and $B$ are matrices in $M_{n\times n}(\mathbb R)$ and $AB$ and $BA$ denote the "matrix multiplication":<a href="https://www.bookofproofs.org/branches/matrix-multiplication/matrix-multiplication.html">https://www.bookofproofs.org/branches/matrix-multiplication/</a><sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>. The operation $[\ast"$ is not "associative]<a href="https://bookofproofs.github.io/branches/algebra/associativity.html">bookofproofs$668</a> for $n\ge 2$ and the semigroup has no neutral element.</li>
 <li>All of the below examples (a semigroup is more general than a monoid).  </li>
 </ul>
@@ -99,7 +80,7 @@
 <hr />
 <ol>
 <li id="fn:1">
-<p>We will define the concept of a "matrix" and its multiplication later when we will be studying the linear algebra.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a><a class="footnote-backref" href="#fnref2:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+<p>We will define the concept of a "matrix" and its multiplication later when we will be studying the linear algebra.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
 </li>
 </ol>
 </div>

@@ -7,7 +7,7 @@ title: 14th Century
 description: 14TH CENTURY (FROM 1300 TO 1399) ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: 
 keywords: 14th,century
-contributors: bookofproofs
+contributors: bookofproofs,@MacTutor
 issues: broken-links,malformed-tables
 
 ---

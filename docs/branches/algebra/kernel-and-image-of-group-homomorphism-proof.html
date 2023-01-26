@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="Proof of KERNEL AND IMAGE OF GROUP HOMOMORPHISM ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!">
 <meta name="keywords" content="image,kernel,group homomorphism,proof">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title></title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -51,39 +50,6 @@
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html'>Lemma: Kernel and Image of Group Homomorphism</a>)</p>
 <ul>
 <li>By hypothesis, \((G,\ast)\) and \((H,\cdot)\) are <a href="https://bookofproofs.github.io/branches/algebra/group.html">groups</a> with the respective <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">identities</a> \(e_G\) and \(e_H\) and \(f:G\rightarrow H\) is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a> </li>
-<li>We first show that \(ker(f)=\{e_G\}\) \(\Longleftrightarrow f\) is <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html">injective</a><ul>
-<li>$"\Rightarrow"$<ul>
-<li>Assume \(\ker(f)=\{e_G\}\). </li>
-<li>This means that the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html">fiber of \(e_H\) under \(f\) </a> equals \(\{e_G\}\), i.e. \(f^{-1}(e_H)=e_G\). </li>
-<li>This means that \(f(e_G)=e_H\). </li>
-<li>Because \(f\) is a group homomorphism, it follows that 
-\[\begin{array}{cl}
-f(x)=f(x\ast e_G)=e_H\cdot x=x\\
-f(y)=f(y\ast e_G)=e_H\cdot y=y\\
-\end{array}\]
-for any two elements \(x,y\in H\). </li>
-<li>Therefore, from \(f(x)=f(y)\) it follows that \(x=y\), so \(f\) is <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html">injective</a></li>
-</ul>
-</li>
-<li>$"\Leftarrow"$<ul>
-<li>Assume \(f\) is injective. </li>
-<li>This means that from \(f(x)=f(y)\) it follows that \(x=y\). </li>
-<li>Because \(f\) is a group homomorphism, we have \(f(x)\cdot(f(y))^{-1}=e_H\) and it follows further from its <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html">properties</a> that \(f(x)\cdot f(y^{-1})=e_H\). </li>
-<li>Applying the homomorphism property again, we get \(f(x\ast y^{-1})=e_H\). </li>
-<li>Now, because \(x=y\), we have \(f(e_G)=e_H\), i.e. \(f^{-1}(e_H)=e_G\), thus \(ker(f)=\{e_G\}\).</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>
-<p>We now show that \(\operatorname{im}(f)=H\) \(\Longleftrightarrow f\) is surjective. </p>
-<ul>
-<li>We just have to apply the <a href="https://bookofproofs.github.io/branches/set-theory/surjective-function.html">definition of surjectivity</a></li>
-</ul>
-</li>
-<li>
-<p>By hypothesis, \((G,\ast)\) and \((H,\cdot)\) are <a href="https://bookofproofs.github.io/branches/algebra/group.html">groups</a> with the respective <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">identities</a> \(e_G\) and \(e_H\) and \(f:G\rightarrow H\) is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a> </p>
-</li>
 <li>We first show that \(ker(f)=\{e_G\}\) \(\Longleftrightarrow f\) is <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html">injective</a><ul>
 <li>$"\Rightarrow"$<ul>
 <li>Assume \(\ker(f)=\{e_G\}\). </li>

@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="PROPERTIES OF GROUP HOMOMORPHISMS BY EXAMPLE ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
 <meta name="keywords" content="examples of properties of group homomorphisms">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title>Examples of Properties of Group Homomorphisms</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,43 +48,6 @@
 
 <h1>Example: Examples of Properties of Group Homomorphisms</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/group-homomorphism.html'>Definition: Group Homomorphism</a>)</p>
-<p>We want to verify the <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html">properties of group homomorphisms</a> for the <a href="https://bookofproofs.github.io/branches/algebra/examples-of-group-homomorphisms.html">examples given for group homomorphisms</a></p>
-<h3>Ad Example 1</h3>
-<ul>
-<li>Verifying the property (1) $f(e_G)=e_H$: <ul>
-<li>The <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">neutral element</a> of $G=(\mathbb Z,+)$ is $e_G=0$ and the same neutral element has $H=(\{3n\mid n\in\mathbb Z\}, +)$, i.e. $e_H=0$. Thus $$f(0)=3\cdot 0=0.$$</li>
-</ul>
-</li>
-<li>Verifying the property (2) $f(x^{-1})=f(x)^{-1}$ for all $x\in G$:<ul>
-<li>Let $x\in(\mathbb Z,+)$. Then $x^{-1}=-x.$</li>
-<li>Then $f(-x)=3\cdot(-x)=-3x$ which is the inverse element of $3x\in (\{3n\mid n\in\mathbb Z\},+).$ </li>
-</ul>
-</li>
-</ul>
-<h3>Ad Example 2</h3>
-<ul>
-<li>Verifying the property (1) $f(e_G)=e_H$: <ul>
-<li>The <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">neutral element</a> of $G=(\mathbb R,+)$ is $e_G=0$ and the neutral element of $H=(\mathbb R^{ +}, \cdot)$ is $e_H=1$. We verify by <a href="https://bookofproofs.github.io/branches/analysis/exp-of-0-equals-1.html">exponential function zero</a> $$\exp(0)=1.$$</li>
-</ul>
-</li>
-<li>Verifying the property (2) $f(x^{-1})=f(x)^{-1}$ for all $x\in G$:<ul>
-<li>Let $x\in(\mathbb R,+)$. Then $x^{-1}=-x.$ We verify by the <a href="https://bookofproofs.github.io/branches/analysis/reciprocity-of-exponential-function.html">reciprocity law for the exponential function</a> 
-$$\exp(-x)=\frac{1}{\exp(x)},$$ which is the inverse element of $\exp(x)\in (\mathbb R^{ +},\cdot).$ </li>
-</ul>
-</li>
-</ul>
-<h3>Ad Example 3</h3>
-<ul>
-<li>Verifying the property (1) $f(e_G)=e_H$: <ul>
-<li>The <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">neutral element</a> of $G=(\mathbb R,+)$ is $e_G=0$ and the neutral element of $H=(\operatorname{GL}(2,\mathbb R),\cdot)$ is $$e_H=\pmatrix{1&amp;0\\0&amp;1}.$$ We verify for the in the example defined group homomorphism $$\rho(0)=\pmatrix{\cos(0)&amp;-\sin(0)\\\sin(0)&amp;\cos(0)}=\pmatrix{1&amp;0\\0&amp;1}.$$</li>
-</ul>
-</li>
-<li>Verifying the property (2) $f(x^{ -1})=f(x)^{ -1}$ for all $x\in G$:<ul>
-<li>Let $x\in(\mathbb R,+)$. Then $x^{ -1}=-x.$ We verify by the <a href="https://bookofproofs.github.io/branches/analysis/eveness-of-the-cosine-of-a-real-variable.html">eveness of cosine</a> and the <a href="https://bookofproofs.github.io/branches/analysis/oddness-of-the-sine-of-a-real-variable.html">oddness of sine</a>
-$$\rho(-x)=\pmatrix{\cos( -x)&amp;-\sin( -x)\\\sin( -x)&amp;\cos( -x)}=\pmatrix{\cos(-x)&amp;\sin(x)\\-\sin(x)&amp;\cos(x)},$$ which is the inverse element of $H.$ This can be verified by the <a href="https://bookofproofs.github.io/branches/analysis/pythagorean-identity.html">Pythagorean identity</a> $$\pmatrix{\cos(x)&amp;-\sin(x)\\\sin(x)&amp;\cos(x)}\cdot \pmatrix{\cos(x)&amp;\sin(x)\\-\sin(x)&amp;\cos(x)}=\pmatrix{1&amp;0\\0&amp;1}.$$</li>
-</ul>
-</li>
-</ul>
 <p>We want to verify the <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html">properties of group homomorphisms</a> for the <a href="https://bookofproofs.github.io/branches/algebra/examples-of-group-homomorphisms.html">examples given for group homomorphisms</a></p>
 <h3>Ad Example 1</h3>
 <ul>

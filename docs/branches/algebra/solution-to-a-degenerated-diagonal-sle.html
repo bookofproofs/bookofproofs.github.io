@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="SOLUTION TO A DEGENERATED DIAGONAL SLE &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
 <meta name="keywords" content="degenerated,diagonal,sle,solution">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title>Solution to a Degenerated Diagonal SLE</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,17 +48,6 @@
 
 <h1>Example: Solution to a Degenerated Diagonal SLE</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/solving-simple-systems-of-linear-equations.html'>Section: Solving Simple Systems of Linear Equations</a>)</p>
-<p>We extend our <a href="https://bookofproofs.github.io/branches/algebra/solution-to-a-diagonal-sle.html">previous example</a> by some zero lines: The <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html">extended coefficient matrix</a> has now the form</p>
-<p>$$\left(\begin{array}{ccccccc|c}\alpha_{11}&amp; 0&amp;\ldots&amp;0&amp;0&amp;\ldots&amp;0&amp;\beta_1\\
-0&amp; \alpha_{22}&amp;\ldots&amp;0&amp;\vdots&amp;\vdots&amp;\vdots&amp;\beta_2\\
-\vdots&amp;\vdots&amp;\ddots&amp;\vdots&amp;\vdots&amp;\vdots&amp;\vdots&amp;\vdots\\
-0&amp; 0 &amp;\ldots&amp;\alpha_{rr}&amp;0&amp;\ldots&amp;0&amp;\beta_r\\
-\vdots&amp; \vdots &amp;\ldots&amp;0&amp;0&amp;\ldots&amp;0&amp;\beta_{r+1}\\
-\vdots&amp; \vdots &amp;\ldots&amp;\vdots&amp;\vdots&amp;\ldots&amp;\vdots&amp;\vdots\\
-0&amp; \ldots &amp;\ldots&amp;0&amp;0&amp;\ldots&amp;0&amp;\beta_m\\
-\end{array}\right)$$</p>
-<p>In this SLE, there exists an $r\in \{1,\ldots,\min(m,n)\},$ for which $\alpha_{jj}\neq 0$ for $j=1,\ldots,r,$ and $\alpha_{jj}=0$ for $j=r+1,\ldots,m.$</p>
-<p>Like in the previous example, the solution of the SLE is given by $$x_j:=\frac{\beta_j}{\alpha_{jj}}$$ for  $j=1,\ldots,r.$ For the remaining $x_j$ with $j=r+1,\ldots,n$ we can choose arbitrary values, if $\beta_j=0$ <strong>for all</strong> $j=r+1,\ldots m.$ Please note that the whole SLE has no (simultaneous) solution, if $\beta_j\neq 0$ <strong>for at least one</strong> of the "zero-lines" $j=r+1,\ldots m.$</p>
 <p>We extend our <a href="https://bookofproofs.github.io/branches/algebra/solution-to-a-diagonal-sle.html">previous example</a> by some zero lines: The <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html">extended coefficient matrix</a> has now the form</p>
 <p>$$\left(\begin{array}{ccccccc|c}\alpha_{11}&amp; 0&amp;\ldots&amp;0&amp;0&amp;\ldots&amp;0&amp;\beta_1\\
 0&amp; \alpha_{22}&amp;\ldots&amp;0&amp;\vdots&amp;\vdots&amp;\vdots&amp;\beta_2\\

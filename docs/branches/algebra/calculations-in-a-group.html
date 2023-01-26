@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="CALCULATIONS IN A GROUP ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
 <meta name="keywords" content="calculations in a group">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title>Calculations in a Group</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,37 +48,6 @@
 
 <h1>Motivation: Calculations in a Group</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/groups-overview.html'>Chapter: Groups (Overview)</a>)</p>
-<p>Before we dive deeper into the group theory, let us take a break from introducing new theoretical concepts. Instead, let us take a closer look at the algebraic structure in a group. If you are new to group theory but are familiar with <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html">arithmetics</a>, you will recognize some parallels between the calculations which are possible in a group and calculations which are possible in a number system, for instance, the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-integers-together-with-addition.html">integers together with the addition</a>  $(\mathbb Z, + ).$ This is not a coincidence since number systems are groups. </p>
-<p>We want to demonstrate this by the exampe of the number system of integers:</p>
-<ol>
-<li>Adding two integers, e.g. $2 + 3$ will produce again an integer - here the result is $5.$ Therefore, $(\mathbb Z, + )$ is <a href="https://bookofproofs.github.io/branches/algebra/closure.html">closed</a> under the operation $"+".$</li>
-<li>The <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-integers-is-associative.html">addition of integers is associative</a></li>
-<li><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/existence-of-integer-zero-neutral-element-of-addition-of-integers.html">Integer Zero</a> $0$ is the <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">neutral element</a> of addition in $\mathbb Z$. For instance, $2+0=0+2=2.$</li>
-<li>Moreover, every integer has an <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html">inverse</a> In our integer case, the inverse of $2$ is $-2$ and vice versa, since $2 + (-2)=(-2)+2=0.$ Therefore, <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/order-relation-for-integers-positive-and-negative-integers.html">negative and positive integers</a>  are inverse to each other and $0$ is inverse to itself.</li>
-</ol>
-<p>These are exactly the properties required in a <a href="https://bookofproofs.github.io/branches/algebra/group.html">group</a> Therefore, $(\mathbb Z, + )$ is a group. It is even a <a href="https://bookofproofs.github.io/branches/algebra/abelian-group.html">commutative group</a>, since the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-integers-is-commutative.html">addition of integers is commutative</a></p>
-<p>So far, so good. But if you are new to group theory, you will have to become aware of something else. Groups are algebraic structures, which can be arbitrary mathematical objects, not only numbers. In the general sense, groups might occur in sets which have nothing to do with numbers. The surprising fact is that also in these groups we can "calculate" with their elements <em>as if</em> they were numbers.</p>
-<p>As an example, consider the set \(S,\ast\) of symmetries of an <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclid-elements/book-1-plane-geometry/equilateral-triangle-isosceles-triangle-scalene-triangle.html">equilateral triangle</a>, shown in the following figure:</p>
-<p><img alt="symmetrygroupequilateraltriangle1" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/symmetrygroupequilateraltriangle1.png?raw=true" /></p>
-<ul>
-<li>The element $a\in S$ can be interpreted as the identity symmetry (i.e. the neutral element of $S$) - we leave the triangle as it is.</li>
-<li>The element $b\in S$ is the rotation of the triangle by $120^\circ$ clockwise. You should convince yourself that $a=b\ast b\ast b=b^3,$ i.e. we have to rotate the triangle three times to get the original triangle again.</li>
-<li>Similarly, with $c\in S$ as the rotation of the triangle by $120^\circ$ counter-clockwise, we have $a=c\ast c\ast c=c^3.$</li>
-<li>The symmetries $d,e,f$ are not rotations but reflections. In the figure, the symmetry axis is drawn by a dotted line. We have $a=d^2=e^2=f^2.$</li>
-<li>On the other hand, all elements have also "inverse" elements, just like in the example of positive and negative integers above. For instance, the inverse reflections of \(d,e,f\) are inverse to themselves - i.e. composing one such reflection twice will result in the unchanged triangle (i.e. the symmetry \(a\)):</li>
-</ul>
-<p>We can combine any of the six elements in an <a href="https://bookofproofs.github.io/branches/algebra/operation-table.html">operation table</a> of the group $(S,\ast)$ and you are invited to complete the table as an exercise:</p>
-<p>$$\begin{array}{c|cccccc}
-\ast&amp;a&amp;b&amp;c&amp;d&amp;e&amp;f\\
-\hline
-a&amp;a&amp;b&amp;c&amp;d&amp;e&amp;f\\
-b&amp;b&amp;c&amp;a&amp;\text{(exercise)}&amp;\text{(exercise)}&amp;\text{(exercise)}\\
-c&amp;c&amp;a&amp;b&amp;\text{(exercise)}&amp;\text{(exercise)}&amp;\text{(exercise)}\\
-d&amp;d&amp;\text{(exercise)}&amp;\text{(exercise)}&amp;a&amp;\text{(exercise)}&amp;\text{(exercise)}\\
-e&amp;e&amp;\text{(exercise)}&amp;\text{(exercise)}&amp;\text{(exercise)}&amp;a&amp;\text{(exercise)}\\
-f&amp;f&amp;\text{(exercise)}&amp;\text{(exercise)}&amp;\text{(exercise)}&amp;\text{(exercise)}&amp;a\\
-\end{array}$$</p>
-<p>This example demonstrates that in groups we can "calculate" with elements exactly like we are used to in adding integers. In this sense, groups are a generalization of numbers.</p>
 <p>Before we dive deeper into the group theory, let us take a break from introducing new theoretical concepts. Instead, let us take a closer look at the algebraic structure in a group. If you are new to group theory but are familiar with <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html">arithmetics</a>, you will recognize some parallels between the calculations which are possible in a group and calculations which are possible in a number system, for instance, the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-integers-together-with-addition.html">integers together with the addition</a>  $(\mathbb Z, + ).$ This is not a coincidence since number systems are groups. </p>
 <p>We want to demonstrate this by the exampe of the number system of integers:</p>
 <ol>

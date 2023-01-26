@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="Proof of FACTOR GROUPS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
 <meta name="keywords" content="factor,groups,factor group,factor groups,proof">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title></title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,56 +48,6 @@
 
 <h1>Proof</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/factor-groups.html'>Lemma: Factor Groups</a>)</p>
-<p>Let \( ( G ,\ast) \) be a <a href="https://bookofproofs.github.io/branches/algebra/group.html">group</a>, \(N\unlhd G\) its <a href="https://bookofproofs.github.io/branches/algebra/normal-subgroups.html">normal subgroup</a> and the operation $"\circ":=(a_1 N)\circ(a_2N):=(a_1\ast a_2)N$ for all $a_1,a_2\in G$ be given.
-* Ad \((1)\): The operation "\(\circ\)" is well-defined, (i.e. it does not depend on the particular choice of representatives \(a_1,a_2\)).
-   * Let \(a_1,b_1\) be two different representatives of the left coset \(a_1N\) and \(a_2,b_2\) be two different representatives of the left coset \(a_2N\). 
-   * If \(b_1\in a_1N\) then there exists an \(c_1\in N\) with \(b_1=a_1\ast c_1\). 
-   * Analogously, there is an \(c_2\in N\) with \(b_2=a_2\ast c_2\). 
-   * Therefore (using the <a href="https://bookofproofs.github.io/branches/algebra/associativity.html">associativity</a> of the operation "\(\ast\)"):
-\[\begin{array}{ccl}
-(b_1\ast b_2)N&amp;=&amp;((a_1\ast c_1)\ast (a_2\ast c_2))N\\
-&amp;=&amp;(a_1\ast c_1\ast a_2)\ast\underbrace{(c_2N)}_{=N\text{ because }c_2\in N}\\
-&amp;=&amp;(a_1\ast (c_1\ast a_2))N
-\end{array}\] 
-   * Because \(N\) is a <a href="https://bookofproofs.github.io/branches/algebra/normal-subgroups.html">normal subgroup</a> of \(G\), there is a \(c_3\in N\) with \(c_1\ast a_2=a_2\ast c_3\). 
-   * Therefore, continue the calculation by replacing 
-\[\begin{array}{ccl}
-(a_1\ast (c_1\ast a_2))N&amp;=&amp;(a_1\ast (a_2\ast c_3))N\\
-&amp;=&amp;(a_1\ast a_2)\ast\underbrace{(c_3N)}_{=N\text{ because }c_3\in N}\\
-&amp;=&amp;(a_1\ast a_2)N
-\end{array}\] 
-   * This demonstrates that $(a_1\ast a_2)N=(b_1\ast b_2)N.$
-* Ad \((2)\) The operation <a href="https://bookofproofs.github.io/branches/algebra/associativity.html">\(\circ\)" is "associative</a>. 
-   * This follows from the associativity of "\(\ast\)", since for all \(a_1,a_2,a_3\in G\):
-\[\begin{array}{ccl}
-((a_1 N)\circ(a_2N))\circ(a_3N)&amp;=&amp;(a_1\ast a_2)N\circ (a_3N)\\
-&amp;=&amp;((a_1\ast a_2)\ast a_3)N\\
-&amp;=&amp;(a_1\ast (a_2\ast a_3))N\\
-&amp;=&amp;(a_1N)\circ(a_2\ast a_3)N\\
-&amp;=&amp;(a_1N)\circ((a_2N\circ a_3N))\\
-\end{array}\]
-* Ad \((3)\): The factor group \((G/N,\circ)\) contains at least one element \(N\) and this is its <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">neutral element</a>
-   * The <a href="https://bookofproofs.github.io/branches/algebra/cosets.html">left coset</a> \(e_GN\) with respect to the neutral element \(e_G\in G\) is an element of \((G/N,\circ)\).
-   * Thus, \(N=e_GN\in G/N\). 
-   * Moreover, for any <a href="https://bookofproofs.github.io/branches/algebra/cosets.html">coset</a> \(aN\in G/N\) we have
-\[\begin{array}{ccccccc}
-N\circ(aN)&amp;=&amp;(e_GN)\circ(aN)&amp;=&amp;(e_G\ast a)N&amp;=&amp;aN\\
-(aN)\circ N&amp;=&amp;(aN)\circ(e_GN)&amp;=&amp;(a\ast e_G)N&amp;=&amp;aN\\
-\end{array}\] 
-   * Therefore, \(N\) is the identity element of \((G/N,\circ)\).
-* Ad \((4)\): The <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html">inverse element</a> of an element \(aN\) of \((G/N,\circ)\) is \(a^{-1}N\).
-   * For any \(aN\in G/N\) we have 
-\[\begin{array}{ccccccc}
-(a^{-1}N)\circ(aN)&amp;=&amp;(a^{-1}\ast a) N&amp;=&amp;e_GN&amp;=&amp;N\\
-(aN)\circ(a^{-1}N)&amp;=&amp;(a\ast a^{-1}) N&amp;=&amp;e_GN&amp;=&amp;N.\\
-\end{array}\]</p>
-<p>Altogether, we have shown that the <a href="https://bookofproofs.github.io/branches/algebra/properties-of-cosets.html">quotient set</a> \(G/N:=\{aN: a\in G\}\) of all <a href="https://bookofproofs.github.io/branches/algebra/cosets.html"> (left) cosets</a>, together with the binary operation $"\circ"$ forms a factor group $(G/N,\circ ).$ </p>
-<ul>
-<li>Ad \((5)\): \((G/N,\circ )\) is <a href="https://bookofproofs.github.io/branches/algebra/abelian-group.html">Abelian</a>, if $G$ is.<ul>
-<li>This follows immediately from the definition of $"\circ".$</li>
-</ul>
-</li>
-</ul>
 <p>Let \( ( G ,\ast) \) be a <a href="https://bookofproofs.github.io/branches/algebra/group.html">group</a>, \(N\unlhd G\) its <a href="https://bookofproofs.github.io/branches/algebra/normal-subgroups.html">normal subgroup</a> and the operation $"\circ":=(a_1 N)\circ(a_2N):=(a_1\ast a_2)N$ for all $a_1,a_2\in G$ be given.
 * Ad \((1)\): The operation "\(\circ\)" is well-defined, (i.e. it does not depend on the particular choice of representatives \(a_1,a_2\)).
    * Let \(a_1,b_1\) be two different representatives of the left coset \(a_1N\) and \(a_2,b_2\) be two different representatives of the left coset \(a_2N\). 

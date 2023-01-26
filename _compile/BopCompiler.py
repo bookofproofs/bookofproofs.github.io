@@ -125,6 +125,10 @@ class BopCompiler:
         self.indices["{{ bbh-index }}"] = self._index_compiler.get_history_building_block_index()
         print("   Making issue index")
         self.indices["{{ q-index }}"] = self._index_compiler.get_issue_index()
+        print("   Making contributors index")
+        self.indices["{{ c-index }}"] = self._index_compiler.get_contributors_index()
+        # print("   Making symbolic notation index")
+        # self.indices["{{ n-index }}"] = self._index_compiler.get_notation_index()
 
     def _render_all_sources(self):
         print("Rendering sources...")
@@ -199,7 +203,7 @@ class BopCompiler:
         for source in self.sources:
             bop_source = self.sources[source]
             content_replaced = self._replace_template(self._main_template, bop_source)
-            if bop_source.nodeid in ['bookofproofs$ti', 'bookofproofs$bbi', 'bookofproofs$qi']:
+            if bop_source.parent is not None and bop_source.parent.nodeid == 'bookofproofs$i':
                 content_replaced = self._replace_indices(content_replaced)
             # since we have no webserver, replace all hyperlinks ending with "/" by the same ending with "/<site>.html"
             # replace urls starting with the root url to local
@@ -232,6 +236,7 @@ class BopCompiler:
         body += bop_source.get_toc() + "\n"
         body += bop_source.get_references_md()
         body += bop_source.get_link_references()
+
         content_replaced = content.replace("{{ body }}",
                                            markdown.markdown(body, tab_length=3,
                                                              extensions=['pymdownx.magiclink', 'tables', 'footnotes',
@@ -256,6 +261,8 @@ class BopCompiler:
         # but not as a duplicate in the docs folder store. As a convention, all images' urls will refer to the source
         # self.fm.copy_folder("../_sources/_assets/images", "../docs/assets/images")
         self.fm.copy_file("../_sources/_assets/images/fav.ico", "../docs/fav.ico")
+        # google site verification
+        self.fm.copy_file("../_sources/_assets/google5e9ab19be7343012.html", "../docs/google5e9ab19be7343012.html")
 
     def _compile_sub_assets(self, sub):
         sub_contents = self.fm.get_folder_content("_sources/_assets/" + sub)

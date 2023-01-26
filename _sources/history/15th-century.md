@@ -7,7 +7,7 @@ title: 15th Century
 description: 15TH CENTURY (FROM 1400 TO 1499) ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: 
 keywords: 15th,century
-contributors: bookofproofs
+contributors: bookofproofs,@MacTutor
 issues: broken-links,malformed-tables
 
 ---

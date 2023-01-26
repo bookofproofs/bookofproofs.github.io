@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="EXAMPLES OF RING HOMOMORPHISMS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
 <meta name="keywords" content="examples of ring homomorphisms">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title>Examples of Ring Homomorphisms</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,22 +48,6 @@
 
 <h1>Example: Examples of Ring Homomorphisms</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/rings-overview.html'>Chapter: Rings (Overview)</a>)</p>
-<h3>Example 1</h3>
-<p>We look for all <a href="https://bookofproofs.github.io/branches/algebra/endomorphism.html">endomorphisms</a> (i.e. self-homomorphisms) of the ring $(\mathbb Z,+,\cdot)$ of all integers with addition and multiplication. Let $f:\mathbb Z\to\mathbb Z$ be a <a href="https://bookofproofs.github.io/branches/algebra/ring-homomorphism.html">ring homomorphism</a> This means that it has to fulfill the properties $$\begin{array}{rcl}
-f(x + y)&amp;=&amp;f(x) + f(y),\\
-f(x \cdot y)&amp;=&amp;f(x)\cdot f(y)\\
-f(1)&amp;=&amp;1.
-\end{array}$$
-Then for the special case $n\ge 1$ we get $$f(n)=f(\underbrace{1+\ldots+1}_{n\text{ times}})=\underbrace{f(1)+\ldots+f(1)}_{n\text{ times}}=\underbrace{1+\ldots+1}_{n\text{ times}}=n.$$ This implies $$f(0)=f(0\cdot 1)=f(0)\cdot f(1)=0\cdot 1=0.$$ Thus $f(n)+f(-n)=0$, or $$f(-n)=-f(n)=-n.$$
-It follows that $f:\mathbb Z\to\mathbb Z$ be a <a href="https://bookofproofs.github.io/branches/algebra/ring-homomorphism.html">ring homomorphism</a> if and only if $f$ is the <a href="https://bookofproofs.github.io/branches/set-theory/identity-function.html">identity function</a> $f(n)=n$ for all $n\in\mathbb Z.$</p>
-<h3>Example 2</h3>
-<p>The <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/complex-conjugate.html">complex conjugation</a> $f:\mathbb C\to\mathbb C$ is a ring homomorphism, since $$\begin{array}{rcl}
-(z_1+z_2)^*&amp;=&amp;z_1^*+z_2^*\\
-(z_1\cdot z_2)^*&amp;=&amp;z_1^*\cdot z_2^*\\
-(1)^*&amp;=&amp;1^*
-\end{array}$$</p>
-<h3>Example 3</h3>
-<p>For any integer $m\ge 2,$ the function $f:\mathbb Z\to \mathbb Z_m$ sith $f(a)=a(m)$ of the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-integers-together-with-addition-and-multiplication.html">commutative ring of integers</a> $(\mathbb Z,+,\cdot)$ to the commutative ring of congruences $\mathbb Z_m$ is a ring homomorphism which is partially <a href="https://bookofproofs.github.io/branches/number-theory/addition-subtraction-and-multiplication-of-congruences-commutative-ring.html">shown here</a> It remains to note that $$1\equiv 1(m)$$ for all $m\ge 2.$</p>
 <h3>Example 1</h3>
 <p>We look for all <a href="https://bookofproofs.github.io/branches/algebra/endomorphism.html">endomorphisms</a> (i.e. self-homomorphisms) of the ring $(\mathbb Z,+,\cdot)$ of all integers with addition and multiplication. Let $f:\mathbb Z\to\mathbb Z$ be a <a href="https://bookofproofs.github.io/branches/algebra/ring-homomorphism.html">ring homomorphism</a> This means that it has to fulfill the properties $$\begin{array}{rcl}
 f(x + y)&amp;=&amp;f(x) + f(y),\\

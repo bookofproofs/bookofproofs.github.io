@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="PROOF OF GREATEST COMMON DIVISOR AND LEAST COMMON MULTIPLE OF IDEALS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
 <meta name="keywords" content="common,divisor,greatest,greatest common divisor,ideals,least,least common multiple,multiple,proof">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title></title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,15 +48,6 @@
 
 <h1>Proof</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/greatest-common-divisor-and-least-common-multiple-of-ideals.html'>Lemma: Greatest Common Divisor and Least Common Multiple of Ideals</a>)</p>
-<h3>We will first show that the set  \(I + J\) is an ideal of the ring \(R\).</h3>
-<p>According to the <a href="https://bookofproofs.github.io/branches/algebra/ideal.html">definition of ideals</a>, if \(I\lhd R\) and \(J\lhd R\)  are ideals by hypothesis, then \((I, + )\) and \((J, + )\) are subgroups of the additive group  \((R,+ )\). According to the <a href="https://bookofproofs.github.io/branches/algebra/addition-of-ideals.html">definition of the set</a> \(I+J\) and for an \(i_1,i_2\in I\) and \(j_1,j_2\in J\) we therefore have for each element \((i_1+j_1)+(i_2+j_2)\) contained in \(I+J\) that also the element \((i_1+j_1) - (i_2+j_2)\) is contained in \(I+J\). Thus, it is verified by the <a href="https://bookofproofs.github.io/branches/algebra/criteria-for-subgroups.html">first subgroup criterion</a>, that the set \((I + J, + )\) is a subgroup of the additive group \((R,+)\). Moreover, if \(r\in R\) and \(i+j\in I+J\), then we have 
-\[r(i+j)=ri+rj\in I+J.\] Therefore, \(I + J\) is an ideal of the ring \(R\). </p>
-<h3>Now, we will show that \(I+J\) is the greatest <a href="https://bookofproofs.github.io/branches/algebra/divisibility-of-ideals.html">ideal dividing</a> \(I\) and \(J\).</h3>
-<p>First of all, we observe that \(I+J\) divides both, \(I\) and \(J\), since \(I+J\supseteq I\) and \(I+J\supseteq J\). Now, for any other ideal \(K\lhd R\) dividing both, \(I\) and \(J\) we have either \(I+J\supseteq K\) or \(K\supseteq I+ J\). In the case \(I+J=K\) there is nothing to show. Suppose \(I+J\supset K\). Then, there would exist an \(x\in I+J\) with \(x\not\in K\). But this <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html">contradicts</a> \(K\supseteq I\owns x\), (analogously \(K\supseteq J\owns x\)), since \(K\) divides both ideals by assumption. Thus, we must have \(K\supseteq I + J\). This demonstrates that for any other ideal \(K\) dividing both, \(I\) and \(J\), it also divides \(I+J\). This means that \(I + J\) is the <strong>greatest common divisor</strong>, or \(I+J=gcd(I,J)\).</p>
-<h3>Next, we show that the set  \(I \cap J\) is an ideal of the ring \(R\).</h3>
-<p>Since \((I, + )\) and \((J, + )\) are subgroups of the additive group  \((R,+ )\), also \((I\cap J, + ) \) is a subgroup by <a href="https://bookofproofs.github.io/branches/algebra/criteria-for-subgroups.html">second subgroup criterion</a>.  Moreover, if \(r\in R\) and \(x\in I\cap J\), then \(x\in I\) and \(x\in J\), so \(rx\in I\) and \(rx\in J\) since \(I\) and \(J\) are ideals. But this means that \(rx\in I\cap J\). Therefore, \(I \cap J\) is an ideal of the ring \(R\).</p>
-<h3>Last, we show that the set \(I \cap J\) is a least common multiple of the ideals \(I\) and \(J\).</h3>
-<p>First of all, we observe that \(I\supseteq I\cap J\) and \(J\supseteq I\cap J\), thus \(I\cap J\) is a multiple of both ideals (in other words both ideals divide \(I\cap J\) simultaneously). For any other ideal \(K\lhd R\) being the multiple of both ideals (\(I\supseteq K\) and \(J\supseteq K\)) we have either \(I\cap J\supseteq K\) or \(K\supseteq I\cap J\). In the case \(I\cap J=K\) there is nothing to show. Suppose \(K\supset I\cap J\). Then, there would exist an \(x\in K\) with \(x\not\in I\cap J\). This <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html">contradicts</a> \(x\in I\cap J\), since \(I\subseteq K\owns x\) and \(J\subseteq K\owns x\) simultaneously. Thus, we must have \(I\cap J\supseteq K\). This demonstrates that for any other ideal \(K\) being a multiple of both, \(I\) and \(J\), it is also a multiple of \(I\cap J\). This means that \(I\cap J\) is the <strong>least common multiple</strong>, or \(I\cap J=lcm(I,J)\).</p>
 <h3>We will first show that the set  \(I + J\) is an ideal of the ring \(R\).</h3>
 <p>According to the <a href="https://bookofproofs.github.io/branches/algebra/ideal.html">definition of ideals</a>, if \(I\lhd R\) and \(J\lhd R\)  are ideals by hypothesis, then \((I, + )\) and \((J, + )\) are subgroups of the additive group  \((R,+ )\). According to the <a href="https://bookofproofs.github.io/branches/algebra/addition-of-ideals.html">definition of the set</a> \(I+J\) and for an \(i_1,i_2\in I\) and \(j_1,j_2\in J\) we therefore have for each element \((i_1+j_1)+(i_2+j_2)\) contained in \(I+J\) that also the element \((i_1+j_1) - (i_2+j_2)\) is contained in \(I+J\). Thus, it is verified by the <a href="https://bookofproofs.github.io/branches/algebra/criteria-for-subgroups.html">first subgroup criterion</a>, that the set \((I + J, + )\) is a subgroup of the additive group \((R,+)\). Moreover, if \(r\in R\) and \(i+j\in I+J\), then we have 
 \[r(i+j)=ri+rj\in I+J.\] Therefore, \(I + J\) is an ideal of the ring \(R\). </p>

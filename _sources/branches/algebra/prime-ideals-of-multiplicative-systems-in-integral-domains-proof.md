@@ -7,7 +7,7 @@ title:
 description:  Proof of PRIME IDEALS OF MULTIPLICATIVE SYSTEMS IN INTEGRAL DOMAINS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: domains,ideals,integral,multiplicative,prime,systems,proof
-contributors: bookofproofs,@Daniel Calahan,@John Casey
+contributors: bookofproofs,@calahan,@casey
 
 ---
 

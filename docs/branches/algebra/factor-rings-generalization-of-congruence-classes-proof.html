@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="Proof of FACTOR RINGS, GENERALIZATION OF CONGRUENCE CLASSES &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
 <meta name="keywords" content="factor rings,factor ring,proof">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title></title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,58 +48,6 @@
 
 <h1>Proof</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/factor-rings-generalization-of-congruence-classes.html'>Lemma: Factor Rings, Generalization of Congruence Classes</a>)</p>
-<p>We will show the lemma in five steps, by proving the existence of an additive group \((R/I,\oplus)\), introducing a multiplication operation "\(\odot\)",  and proving the ring properties of the resulting algebraic structure \((R/I,\oplus,\odot)\). </p>
-<h3>\((1)\) Existence of the additive group \((R/I,\oplus)\)</h3>
-<p>By hypothesis, \(I\lhd R\) is an <a href="https://bookofproofs.github.io/branches/algebra/ideal.html">ideal</a> of the <a href="https://bookofproofs.github.io/branches/algebra/ring.html">ring</a> \( ( R, + ,\cdot )\). Thus, by definition of any ideal, \( ( I, + )\) is a subgroup of the additive group \((R, + )\). Moreover, since \( ( R, + ,\cdot )\) is a ring, the group \((R,+)\) and its subgroup \((I , + )\) are commutative. Therefore, \((I , + )\) is a <a href="https://bookofproofs.github.io/branches/algebra/normal-subgroups.html">normal subgroup</a> of \((R , + )\). According to the corresponding lemma, there exists an (here additive) <a href="https://bookofproofs.github.io/branches/algebra/factor-groups.html">factor group</a> \((R/I ,\oplus)\), while the addition "\(\oplus\)" is defined by </p>
-<p>\[(r_1 + I)\oplus(r_2+I):=(r_1 +  r_2)+I\quad\quad(r_1,r_2\in R).\]</p>
-<p>According to this lemma, the operation "\(\oplus\)" is well-defined, because it does not depend on the particular choice of representatives \(r_1,r_2\). Also, the elements of \((R/I ,\oplus)\) are residue classes \(r+I~(r\in R)\), its identity element is \(I\). The inverse of an element \((r + I)\in R/I \) is \( (-r + I)\in R/I \).</p>
-<h3>\((2)\) the factor group \((R/I,\oplus)\) is Abelian</h3>
-<p>This follows immediately from the commutativity of the group \((R, + )\) and the definition </p>
-<p>\[(r_1 + I)\oplus(r_2+I)=(r_1 +  r_2)+I=(r_2 +  r_1)+I=(r_2 + I)\oplus(r_1+I).\]</p>
-<h3>\((3)\) In \(R/I\), we can also define a multiplication "\(\odot\)" by \((r_1 + I)\odot(r_2+I):=(r_1 \cdot  r_2)+I\), which does not depend on the representatives \(r_1,r_2\in R\).</h3>
-<p>To realize it, suppose \(r_1,s_1\in R\) are two different representatives of the residue class \(r_1 + I\) in \(R/I\) and \(r_2,s_2\in R\) are two different representatives of the residue class \(r_2 + I\) in \(R/I\). We have to show that
-\[(r_1 \cdot  r_2)+I=(s_1 \cdot  s_2)+I.\] 
-By our assumption
-\[\begin{array}{ccl}
-s_1=r_1+i_1\quad (i_1\in I),\\
-s_2=r_2+i_2\quad (i_2\in I).\\
-\end{array}\]
-Therefore 
-\[(s_1\cdot s_2) + I=((r_1+i_1)\cdot(r_2+i_2))+ I=(r_1\cdot r_2+\underbrace{r_1\cdot i_2+i_1\cdot r_2+i_1\cdot i_2}_{\in I,\text{ since }I\text{ is an ideal }})+ I=(r_1\cdot r_2)+ I.\]</p>
-<p>Thus, the multiplication defined like this does not depend on the representatives \(r_1,r_2\in R\).</p>
-<h3>\((4)\) The algebraic structure \((R/I,\odot)\) is a semigroup, i.e. the multiplication "\(\odot\)" is associative.</h3>
-<p>The associativity follows for any \((r_1 + I),(r_2 + I),(r_3 + I)\in R/I\) from </p>
-<p>\[\begin{array}{ccl}
-(r_1+I)\odot((r_2+I)\odot(r_3+I))&amp;=&amp;(r_1+I)\odot((r_2\cdot r_3)+I)\\
-&amp;=&amp;(r_1\cdot(r_2\cdot r_3))+I\\
-&amp;=&amp;((r_1\cdot r_2)\cdot r_3)+I\quad\quad("\cdot"\text{ is associative!})\\
-&amp;=&amp;((r_1\cdot r_2)+I)\odot (r_3+I)\\
-&amp;=&amp;((r_1+I)\odot(r_2+I))\odot (r_3+I)\\
-\end{array}\]</p>
-<p>Note, that if \((R,\cdot)\) is a monoid, so is \((R/I,\odot)\). For if \(1\) is the identity element of \((R,\cdot)\), then the identity element of \((R/I,\odot)\) is \((1 + I)\), since for any \(r+I\in R/I\)</p>
-<p>\[\begin{array}{ccl}
-(r+I)\odot(1+I) = (r\cdot 1)+I=r+I,\\
-(1+I)\odot(r+I) = (1\cdot r)+I=r+I.\\
-\end{array}\]</p>
-<p>Therefore, \(R/I\) is an unit ring, if and only if \(R\) is.</p>
-<h3>\((5)\) The distributivity laws hold for "\(\oplus\)" and "\(\odot\)".</h3>
-<p>For any \((r_1 + I),(r_2 + I),(r_3 + I)\in R/I\) we have:</p>
-<p>\[\begin{array}{ccl}
-(r_1 + I)\odot((r_2 + I)\oplus(r_3 + I)) &amp;=&amp;(r_1 + I)\odot((r_2 + r_3) + I)\\
-&amp;=&amp;(r_1 \cdot(r_2 + r_3)) + I\\
-&amp;=&amp;((r_1 \cdot r_2) + (r_1 \cdot r_3)) + I\\
-&amp;=&amp;((r_1 \cdot r_2)+I)\oplus((r_1 \cdot r_3) + I)\\
-&amp;=&amp;((r_1+I) \odot (r_2+I))\oplus((r_1+I) \odot (r_3 + I))
-\end{array}\]
-and
-\[\begin{array}{ccl}
-((r_1 + I)\oplus(r_2 + I))\odot(r_3 + I) &amp;=&amp;((r_1 + r_2)+ I)\odot(r_3 + I)\\
-&amp;=&amp;((r_1+r_2)\cdot r_3) + I\\
-&amp;=&amp;((r_1 \cdot r_3) + (r_2 \cdot r_3)) + I\\
-&amp;=&amp;((r_1 \cdot r_3)+I)\oplus((r_2 \cdot r_3) + I)\\
-&amp;=&amp;((r_1+I) \odot (r_3+I))\oplus((r_2+I) \odot (r_3 + I)).
-\end{array}\]</p>
-<p>We have proven the resulting algebraic structure \((R/I,\oplus,\odot)\) to be a ring, es required.</p>
 <p>We will show the lemma in five steps, by proving the existence of an additive group \((R/I,\oplus)\), introducing a multiplication operation "\(\odot\)",  and proving the ring properties of the resulting algebraic structure \((R/I,\oplus,\odot)\). </p>
 <h3>\((1)\) Existence of the additive group \((R/I,\oplus)\)</h3>
 <p>By hypothesis, \(I\lhd R\) is an <a href="https://bookofproofs.github.io/branches/algebra/ideal.html">ideal</a> of the <a href="https://bookofproofs.github.io/branches/algebra/ring.html">ring</a> \( ( R, + ,\cdot )\). Thus, by definition of any ideal, \( ( I, + )\) is a subgroup of the additive group \((R, + )\). Moreover, since \( ( R, + ,\cdot )\) is a ring, the group \((R,+)\) and its subgroup \((I , + )\) are commutative. Therefore, \((I , + )\) is a <a href="https://bookofproofs.github.io/branches/algebra/normal-subgroups.html">normal subgroup</a> of \((R , + )\). According to the corresponding lemma, there exists an (here additive) <a href="https://bookofproofs.github.io/branches/algebra/factor-groups.html">factor group</a> \((R/I ,\oplus)\), while the addition "\(\oplus\)" is defined by </p>

@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="RATIONAL NUMBERS AND THE GREATEST COMMON DIVISOR &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
 <meta name="keywords" content="common,divisor,greatest,numbers,rational,gcd of rational numbers">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title>Rational Numbers and the Greatest Common Divisor</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,19 +48,6 @@
 
 <h1>Motivation: Rational Numbers and the Greatest Common Divisor</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/algebraic-and-transcendent-numbers.html'>Chapter: Algebraic and Transcendent Numbers</a>)</p>
-<p>Let $\frac{a}b\in\mathbb Q$ be a <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-rational-numbers.html">rational number</a> with $0 &lt; a$ and $0 &lt; b.$ In the "proof of the greatest common divisor":<a href="https://www.bookofproofs.org/branches/greatest-common-divisor-python/proof/proof.html">https://www.bookofproofs.org/branches/greatest-common-divisor-python/proof/</a> for the calculation of the <a href="https://bookofproofs.github.io/branches/number-theory/greatest-common-divisor.html">greatest common divisor</a> $\gcd(a,b)$, the Euclidean algorithm can be written with a sequence of rational numbers defined as follows:</p>
-<p>$$\begin{array}{rclclcl}
-\frac{a}{b} &amp; = &amp; q_0 &amp; + &amp; \frac{r_1}{b} &amp; \text{with} &amp; q_0\in\mathbb N,\; 0 &lt; r_1 &lt; b\\
-\frac{b}{r_1} &amp; = &amp; q_1 &amp; + &amp; \frac{r_2}{r_1} &amp; \text{with} &amp; q_1\in\mathbb N,\; 0 &lt; r_2 &lt; r_1\\
-\frac{r_1}{r_2} &amp; = &amp; q_2 &amp; + &amp; \frac{r_3}{r_2}&amp; \text{with} &amp; q_2\in\mathbb N,\; 0 &lt; r_3 &lt; r_2\\
-&amp;\vdots&amp;\\
-\frac{r_{n-3}}{r_{n-2}} &amp; = &amp; q_{n-2}&amp; + &amp; \frac{r_{n-1}}{r_{n-2}} &amp; \text{with} &amp; q_{n-2}\in\mathbb N,\; 0 &lt; r_{n-1} &lt; r_{n-2}\\
-\frac{r_{n-2}}{r_{n-1}} &amp; = &amp; q_{n-1}&amp; + &amp; \frac{r_{n}}{r_{n-1}} &amp; \text{with} &amp; q_{n-1}\in\mathbb N,\;  0 &lt; r_{n} &lt; r_{n-1}\\
-\frac{r_{n-1}}{r_{n}} &amp; = &amp; q_{n} &amp;&amp;&amp; \text{with} &amp; q_{n}\in\mathbb N
-\end{array}$$</p>
-<p>Therefore, we can put the ratios in each other and get the following representation of the number $\frac ab$:</p>
-<p>$$\frac{a}b=q_0+\cfrac{1}{q_1+\cfrac{1}{q_2+\cfrac{1}{\ddots+\cfrac{1}{q_{n-2}+\cfrac{1}{q_{n-1}+\cfrac{1}{q_n}}}}}}$$</p>
-<p>Please note that because $r_{n} &lt; r_{n-1}$, we have $q_n &gt; 1$ and thus $q_n\neq 0.$ Thus, this representation is well-defined. It is possible to represent any positive rational number this way. But how about <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-irrational-numbers.html">irrational numbers</a> In order to answer this question, we will introduce a new concept, the concept of <em>continued fractions</em>.</p>
 <p>Let $\frac{a}b\in\mathbb Q$ be a <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-rational-numbers.html">rational number</a> with $0 &lt; a$ and $0 &lt; b.$ In the "proof of the greatest common divisor":<a href="https://www.bookofproofs.org/branches/greatest-common-divisor-python/proof/proof.html">https://www.bookofproofs.org/branches/greatest-common-divisor-python/proof/</a> for the calculation of the <a href="https://bookofproofs.github.io/branches/number-theory/greatest-common-divisor.html">greatest common divisor</a> $\gcd(a,b)$, the Euclidean algorithm can be written with a sequence of rational numbers defined as follows:</p>
 <p>$$\begin{array}{rclclcl}
 \frac{a}{b} &amp; = &amp; q_0 &amp; + &amp; \frac{r_1}{b} &amp; \text{with} &amp; q_0\in\mathbb N,\; 0 &lt; r_1 &lt; b\\

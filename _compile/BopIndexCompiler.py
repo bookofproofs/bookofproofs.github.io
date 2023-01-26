@@ -87,6 +87,31 @@ class BopIndexCompiler:
         index += "</ul>\n"
         return index
 
+    def get_contributors_index(self):
+        index = "<ul id='myUL'>\n"
+        distinct_contributors = dict()
+        for bop_source in self._validator.get_nodes().values():
+            for contributor in bop_source.contributors:
+                if contributor not in distinct_contributors:
+                    distinct_contributors[contributor] = list()
+                distinct_contributors[contributor].append(bop_source)
+
+        contributors = list(distinct_contributors.keys())
+        contributors.sort()
+        for contributor in contributors:
+            index += " <li><span class='caret'>{0}:</span>\n".format(contributor)
+            index += "  <ul class='nested'>\n"
+            distinct_contributors[contributor].sort(key=lambda x: x.get_sort_title())
+            for node in distinct_contributors[contributor]:
+                index += "   <li><span>{0}:</span> <a href='{1}'>{2}</a></li>\n".format(
+                    BopSource.get_layout_title(node.layout),
+                    node.url(),
+                    node.get_long_title())
+            index += "  </ul>\n"
+            index += " </li>\n"
+        index += "</ul>\n"
+        return index
+
     def _collect_nodes_with_issue(self, issue_type: str):
         ret = list()
         for bop_source in self._validator.get_nodes().values():

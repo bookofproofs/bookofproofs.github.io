@@ -6,21 +6,20 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="description" content="SOLUTION TO A DIAGONAL SLE &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
 <meta name="keywords" content="diagonal,sle,solution">
-<meta name="google-site-verification" content="mHbvzVaeTGZ1FCeq3zA7wrXB3udvdTNt8iQiGyGiyUU" />
 <title>Solution to a Diagonal SLE</title>
 <script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
 <script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
-<link rel="stylesheet" type="text/css" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
-<link rel="stylesheet" type="text/css" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
 <link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
 <script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
-<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/highlight.css">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
 
 </head>
 <body>
@@ -49,17 +48,6 @@
 
 <h1>Example: Solution to a Diagonal SLE</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/solving-simple-systems-of-linear-equations.html'>Section: Solving Simple Systems of Linear Equations</a>)</p>
-<p>The next example is a more interesting SLE. While it is quite simple, it has <a href="https://bookofproofs.github.io/branches/algebra/systems-of-linear-equations-with-many-unknowns.html">non-trivial</a> solutions. Its <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html">extended coefficient matrix</a> contains a <a href="https://bookofproofs.github.io/branches/algebra/diagonal-matrix.html">diagonal matrix</a></p>
-<p>$$\left(\begin{array}{cccc|c}\alpha_{11}&amp; 0&amp;\ldots&amp;0&amp;\beta_1\\
-0&amp; \alpha_{22}&amp;\ldots&amp;0&amp;\beta_2\\
-\vdots&amp;\vdots&amp;\ddots&amp;\vdots\\
-0&amp; 0 &amp;\ldots&amp;\alpha_{mm}&amp;\beta_m\end{array}\right)$$</p>
-<p>in which we assume all $\alpha_jj\neq 0$ for $j=1,\ldots,m.$ Please note that the coefficient matrix here is a <a href="https://bookofproofs.github.io/branches/algebra/square-matrix.html">square matrix</a>, since it has $m$ columns and $m$ rows. Each <a href="https://bookofproofs.github.io/branches/algebra/linear-equations-with-many-unknowns.html">linear equation</a> in such an SLE has the form</p>
-<p>$$\begin{array}{rcl}0x_1+\ldots+0x_{j-1}+\alpha_{jj}x_j+0x_{j+1}+\ldots+0x_n&amp;=&amp;\beta_j\\
-\alpha_{jj}x_j&amp;=&amp;\beta_j\end{array}$$
-and therefore the SLE has the solution $$x_j:=\frac{\beta_j}{\alpha_{jj}}$$
-for $j=1,\ldots,m.$</p>
-<p>This example shows us that a diagonal SLE is not really a <strong>system</strong> of linear equations since the simultaneous solutions to all equations are independent of each other. In other words, the system does not pose any constraints to the solution of every single equation which would depend on other equations.</p>
 <p>The next example is a more interesting SLE. While it is quite simple, it has <a href="https://bookofproofs.github.io/branches/algebra/systems-of-linear-equations-with-many-unknowns.html">non-trivial</a> solutions. Its <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html">extended coefficient matrix</a> contains a <a href="https://bookofproofs.github.io/branches/algebra/diagonal-matrix.html">diagonal matrix</a></p>
 <p>$$\left(\begin{array}{cccc|c}\alpha_{11}&amp; 0&amp;\ldots&amp;0&amp;\beta_1\\
 0&amp; \alpha_{22}&amp;\ldots&amp;0&amp;\beta_2\\

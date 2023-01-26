@@ -9,6 +9,6 @@ title: By Contributors
 contributors: bookofproofs
 ---
 ---
-Thanks to the contributors: 
+Thank you to the contributors (contributors starting with '@' are non-github users): 
 
 {{ c-index }}
