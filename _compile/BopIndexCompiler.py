@@ -195,7 +195,7 @@ class BopIndexCompiler:
                 keyword_referencing_nodes[keyword] = list()
             if keyword not in keyword_containing_nodes:
                 keyword_containing_nodes[keyword] = list()
-            for bop_source in keyword_defining_nodes[keyword]:
+            for bop_source in self._all_nodes.values():
                 content = bop_source.get_pre_body() + "\n" + bop_source.get_body()
                 if "][" + bop_source.nodeid + "]" in content:
                     keyword_referencing_nodes[keyword].append(bop_source)
@@ -227,6 +227,7 @@ class BopIndexCompiler:
     def get_seo_keywords_index(self):
         # gather all keyword-defining nodes
         keyword_defining_nodes = dict()
+        keyword_defining_nodesids = set()
         for bop_source in self._all_nodes.values():
             distinct_keywords = set()
             for keyword in bop_source.keywords.split(","):
@@ -236,14 +237,15 @@ class BopIndexCompiler:
                 if keyword not in keyword_defining_nodes:
                     keyword_defining_nodes[keyword] = list()
                 keyword_defining_nodes[keyword].append(bop_source)
+                keyword_defining_nodesids.add(bop_source.nodeid)
         # create keyword-containing nodes
         keyword_containing_nodes = dict()
         for keyword in keyword_defining_nodes:
             if keyword not in keyword_containing_nodes:
                 keyword_containing_nodes[keyword] = list()
-            for bop_source in keyword_defining_nodes[keyword]:
+            for bop_source in self._all_nodes.values():
                 content = bop_source.get_pre_body() + "\n" + bop_source.get_body()
-                if keyword in content:
+                if keyword in content and bop_source.nodeid not in keyword_defining_nodesids:
                     keyword_containing_nodes[keyword].append(bop_source)
         sorted_keywords = list(keyword_defining_nodes.keys())
         sorted_keywords.sort()
