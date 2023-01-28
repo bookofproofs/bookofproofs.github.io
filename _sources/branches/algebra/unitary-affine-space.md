@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6279
-orderid: 1
+orderid: 100
 parentid: bookofproofs$6277
 title: Unitary Affine Space
 description: UNITARY AFFINE SPACE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

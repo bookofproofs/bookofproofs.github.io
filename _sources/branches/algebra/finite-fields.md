@@ -1,7 +1,7 @@
 layout: part
 categories: branches,algebra
 nodeid: bookofproofs$295
-orderid: 4
+orderid: 400
 parentid: bookofproofs$59
 title: Finite Fields
 description: FINITE FIELDS ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

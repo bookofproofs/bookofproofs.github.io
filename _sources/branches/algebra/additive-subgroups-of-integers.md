@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$8268
-orderid: 2
+orderid: 200
 parentid: bookofproofs$137
 title: Additive Subgroups of Integers
 description: ADDITIVE SUBGROUPS OF INTEGERS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

@@ -1,14 +1,14 @@
 layout: topic
 categories: history, ancient-world
 nodeid: bookofproofs$1637
-orderid: 56
+orderid: 5600
 parentid: bookofproofs$610
 title: Sumerian Mathematics
 description: ABOUT 2050 BC: PLACE-VALUE SEXAGESIMAL SYSTEM ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: bookofproofs$641
 keywords: mathematics,sumerian
 contributors: bookofproofs
-issues: broken-links
+
 
 ---
 

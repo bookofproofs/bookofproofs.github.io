@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$679
-orderid: 1
+orderid: 100
 parentid: bookofproofs$137
 title: Group Homomorphism
 description: GROUP HOMOMORPHISM ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

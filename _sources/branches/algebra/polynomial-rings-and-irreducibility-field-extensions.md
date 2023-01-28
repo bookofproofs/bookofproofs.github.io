@@ -1,7 +1,7 @@
 layout: chapter
 categories: branches,algebra
 nodeid: bookofproofs$211
-orderid: 1
+orderid: 100
 parentid: bookofproofs$76
 title: Polynomial Rings, Irreducibility, and Field Extensions
 description: POLYNOMIAL RINGS, IRREDUCIBILITY, FIELD EXTENSIONS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

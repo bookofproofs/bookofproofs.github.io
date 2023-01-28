@@ -1,7 +1,7 @@
 layout: example
 categories: branches,algebra
 nodeid: bookofproofs$7948
-orderid: 2
+orderid: 200
 parentid: bookofproofs$7945
 title: Solution to a Degenerated Diagonal SLE
 description: SOLUTION TO A DEGENERATED DIAGONAL SLE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

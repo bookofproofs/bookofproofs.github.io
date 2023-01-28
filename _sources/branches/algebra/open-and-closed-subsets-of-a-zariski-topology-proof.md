@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$6327
-orderid: 0
+orderid: 50
 parentid: bookofproofs$6262
 title: 
 description: PROOF OF OPEN AND CLOSED SUBSETS OF A ZARISKI TOPOLOGY &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

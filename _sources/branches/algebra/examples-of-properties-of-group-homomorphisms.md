@@ -1,7 +1,7 @@
 layout: example
 categories: branches,algebra
 nodeid: bookofproofs$8652
-orderid: 2
+orderid: 200
 parentid: bookofproofs$679
 title: Examples of Properties of Group Homomorphisms
 description: PROPERTIES OF GROUP HOMOMORPHISMS BY EXAMPLE ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

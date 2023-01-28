@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$8668
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8667
 title: 
 description: PROOF OF CHARACTERIZATION OF NON-ARCHIMEDEAN ABSOLUTE VALUES ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

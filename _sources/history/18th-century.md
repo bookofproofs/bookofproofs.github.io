@@ -1,14 +1,14 @@
 layout: epoch
 categories: history
 nodeid: bookofproofs$52
-orderid: 11
+orderid: 1100
 parentid: bookofproofs$2
 title: 18th Century
 description: 18TH CENTURY (FROM 1700 TO 1799) ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: bookofproofs$6909
 keywords: 18th,century
 contributors: bookofproofs,@MacTutor
-issues: broken-links,malformed-tables
+
 
 ---
 

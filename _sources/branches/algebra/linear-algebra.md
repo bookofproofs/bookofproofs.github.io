@@ -1,7 +1,7 @@
 layout: part
 categories: branches,algebra
 nodeid: bookofproofs$121
-orderid: 6
+orderid: 600
 parentid: bookofproofs$59
 title: Linear Algebra
 description: LINEAR ALGEBRA ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

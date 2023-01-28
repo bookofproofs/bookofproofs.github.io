@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$275
-orderid: 6
+orderid: 600
 parentid: bookofproofs$211
 title: Multiplicity of a Root of a Polynomial
 description: MULTIPLICITY OF A ROOT OF A POLYNOMIAL ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

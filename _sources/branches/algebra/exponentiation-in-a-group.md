@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$401
-orderid: 1
+orderid: 100
 parentid: bookofproofs$838
 title: Exponentiation in a Group
 description: EXPONENTIATION IN A GROUP &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

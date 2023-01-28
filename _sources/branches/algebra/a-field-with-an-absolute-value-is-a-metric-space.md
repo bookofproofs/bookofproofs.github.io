@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$8662
-orderid: 5
+orderid: 500
 parentid: bookofproofs$210
 title: A Field with an Absolute Value is a Metric Space
 description: A FIELD WITH AN ABSOLUTE VALUE IS A METRIC SPACE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

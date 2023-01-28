@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$8267
-orderid: 4
+orderid: 400
 parentid: bookofproofs$269
 title: Generating Set of an Ideal
 description: GENERATING SET OF AN IDEAL &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

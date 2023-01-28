@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$1052
-orderid: 5
+orderid: 500
 parentid: bookofproofs$343
 title: Zero Matrix, Zero Vector
 description: ZERO MATRIX, ZERO VECTOR ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

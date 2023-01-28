@@ -1,7 +1,7 @@
 layout: theorem
 categories: branches,algebra
 nodeid: bookofproofs$8271
-orderid: 22
+orderid: 2200
 parentid: bookofproofs$137
 title: First Isomorphism Theorem for Groups
 description: FIRST ISOMORPHISM THEOREM FOR GROUPS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

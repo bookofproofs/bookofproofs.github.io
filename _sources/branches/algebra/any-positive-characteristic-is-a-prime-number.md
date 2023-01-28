@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$882
-orderid: 1
+orderid: 100
 parentid: bookofproofs$881
 title: Any Positive Characteristic Is a Prime Number
 description: ANY POSITIVE CHARACTERISTIC IS A PRIME NUMBER &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: chapter
 categories: branches,algebra
 nodeid: bookofproofs$404
-orderid: 10
+orderid: 1000
 parentid: bookofproofs$121
 title: Affine Spaces
 description: AFFINE SPACES &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$672
-orderid: 2
+orderid: 200
 parentid: bookofproofs$115
 title: Commutativity
 description: COMMUTATIVITY ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

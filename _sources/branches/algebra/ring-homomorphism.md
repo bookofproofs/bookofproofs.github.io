@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$885
-orderid: 4
+orderid: 400
 parentid: bookofproofs$192
 title: Ring Homomorphism
 description: RING HOMOMORPHISM ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

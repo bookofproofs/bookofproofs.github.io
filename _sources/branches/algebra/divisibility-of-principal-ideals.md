@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$1066
-orderid: 2
+orderid: 200
 parentid: bookofproofs$1063
 title: Divisibility of Principal Ideals
 description: DIVISIBILITY OF PRINCIPAL IDEALS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

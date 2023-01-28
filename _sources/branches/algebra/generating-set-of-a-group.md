@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$8265
-orderid: 0
+orderid: 50
 parentid: bookofproofs$137
 title: Generating Set of a Group
 description: GENERATING SET OF A GROUP ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

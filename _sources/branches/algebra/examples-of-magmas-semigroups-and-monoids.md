@@ -1,14 +1,14 @@
 layout: example
 categories: branches,algebra
 nodeid: bookofproofs$6819
-orderid: 3
+orderid: 300
 parentid: bookofproofs$120
 title: Examples of Magmas, Semigroups, and Monoids
 description: EXAMPLES OF MAGMAS, SEMIGROUPS, AND MONOIDS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6735,bookofproofs$7896
 keywords: examples,magmas,monoids,semigroups
 contributors: bookofproofs
-issues: broken-links
+
 
 ---
 

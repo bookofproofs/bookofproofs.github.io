@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$6263
-orderid: 0
+orderid: 50
 parentid: bookofproofs$6261
 title: 
 description:  Proof of FIBER OF PRIME IDEALS UNDER A SPECTRUM FUNCTION &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

@@ -1,14 +1,14 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$553
-orderid: 4
+orderid: 400
 parentid: bookofproofs$212
 title: Commutative (Abelian) Group
 description: COMMUTATIVE ABELIAN GROUP ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$577,bookofproofs$6907
 keywords: commutative group,abelian group,commutative,abelian
 contributors: bookofproofs
-issues: broken-links
+
 
 ---
 An important subtype of groups are _commutative_ groups. Therefore, they deserve a separate definition.

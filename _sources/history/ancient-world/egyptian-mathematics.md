@@ -1,7 +1,7 @@
 layout: topic
 categories: history, ancient-world
 nodeid: bookofproofs$8246
-orderid: 0
+orderid: 50
 parentid: bookofproofs$610
 title: Egyptian Mathematics
 description: 1550 BC: EGYPTIAN MATHEMATICS ★ history of mathematics ✚ science ➜ visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6282
-orderid: 0
+orderid: 50
 parentid: bookofproofs$6281
 title: Points, Lines, Planes, Hyperplanes
 description: POINTS, LINES, PLANES, HYPERPLANES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

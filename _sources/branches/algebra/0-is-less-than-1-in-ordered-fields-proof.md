@@ -1,14 +1,14 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$6862
-orderid: 0
+orderid: 50
 parentid: bookofproofs$6861
 title: 
 description: Proof of 0 IS LESS THAN 1 ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$577
 keywords: 0 is less than 1 in ordered fields,proof
 contributors: bookofproofs
-issues: broken-links
+
 
 ---
 

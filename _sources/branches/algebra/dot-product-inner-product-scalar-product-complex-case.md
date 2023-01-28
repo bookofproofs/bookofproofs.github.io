@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6266
-orderid: 1
+orderid: 100
 parentid: bookofproofs$372
 title: Dot Product, Inner Product, Scalar Product (Complex Case)
 description: DOT PRODUCT, INNER PRODUCT, SCALAR PRODUCT COMPLEX CASE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

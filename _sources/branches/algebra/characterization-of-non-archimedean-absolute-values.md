@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$8667
-orderid: 8
+orderid: 800
 parentid: bookofproofs$210
 title: Characterization of Non-Archimedean Absolute Values
 description: CHARACTERIZATION OF NON-ARCHIMEDEAN ABSOLUTE VALUES ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

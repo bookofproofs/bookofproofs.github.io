@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6292
-orderid: 1
+orderid: 100
 parentid: bookofproofs$6287
 title: Convex Hull
 description: CONVEX HULL &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

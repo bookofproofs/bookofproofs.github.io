@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6193
-orderid: 10
+orderid: 1000
 parentid: bookofproofs$210
 title: Complete Ordered Field
 description: COMPLETE ORDERED FIELD ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

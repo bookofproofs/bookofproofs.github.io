@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$829
-orderid: 14
+orderid: 1400
 parentid: bookofproofs$137
 title: Properties of Cosets
 description: PROPERTIES OF COSETS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

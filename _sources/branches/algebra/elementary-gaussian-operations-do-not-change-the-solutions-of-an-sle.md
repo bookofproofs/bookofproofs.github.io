@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$7953
-orderid: 1
+orderid: 100
 parentid: bookofproofs$7951
 title: Elementary Gaussian Operations Do Not Change the Solutions of an SLE
 description: ELEMENTARY GAUSSIAN OPERATIONS DO NOT CHANGE THE SOLUTIONS OF AN SLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

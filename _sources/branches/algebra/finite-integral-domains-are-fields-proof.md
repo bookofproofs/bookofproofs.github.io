@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$2880
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8222
 title: 
 description: PROOF OF FINITE INTEGRAL DOMAINS ARE FIELDS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

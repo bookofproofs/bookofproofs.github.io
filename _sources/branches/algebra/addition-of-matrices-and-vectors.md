@@ -1,7 +1,7 @@
 layout: section
 categories: branches,algebra
 nodeid: bookofproofs$343
-orderid: 3
+orderid: 300
 parentid: bookofproofs$7942
 title: Addition of Matrices and Vectors
 description: ADDITION OF MATRICES AND VECTORS ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

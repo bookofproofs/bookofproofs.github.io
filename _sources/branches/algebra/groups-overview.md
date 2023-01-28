@@ -1,14 +1,14 @@
 layout: chapter
 categories: branches,algebra
 nodeid: bookofproofs$212
-orderid: 5
+orderid: 500
 parentid: bookofproofs$85
 title: Groups (Overview)
 description: GROUPS OVERVIEW ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: 
 keywords: groups overview
 contributors: bookofproofs
-issues: malformed-tables
+
 
 ---
 

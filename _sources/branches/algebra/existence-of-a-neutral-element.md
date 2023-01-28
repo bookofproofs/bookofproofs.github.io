@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$661
-orderid: 3
+orderid: 300
 parentid: bookofproofs$115
 title: Existence of a Neutral Element
 description: EXISTENCE OF A NEUTRAL ELEMENT ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

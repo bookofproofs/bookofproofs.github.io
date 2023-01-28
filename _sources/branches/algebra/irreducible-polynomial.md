@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$100
-orderid: 3
+orderid: 300
 parentid: bookofproofs$211
 title: Irreducible Polynomial
 description: IRREDUCIBLE POLYNOMIAL ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

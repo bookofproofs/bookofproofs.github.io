@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$1037
-orderid: 9
+orderid: 900
 parentid: bookofproofs$194
 title: Linear Span
 description: LINEAR SPAN ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

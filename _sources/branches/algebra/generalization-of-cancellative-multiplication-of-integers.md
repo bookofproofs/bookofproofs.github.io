@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$8288
-orderid: 1
+orderid: 100
 parentid: bookofproofs$181
 title: Generalization of Cancellative Multiplication of Integers
 description: GENERALIZATION OF CANCELLATIVE MULTIPLICATION OF INTEGERS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

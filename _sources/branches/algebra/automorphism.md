@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$8649
-orderid: 7
+orderid: 700
 parentid: bookofproofs$706
 title: Automorphism
 description: AUTOMORPHISM ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

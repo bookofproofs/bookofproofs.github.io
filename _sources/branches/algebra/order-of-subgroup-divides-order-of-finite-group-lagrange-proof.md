@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$794
-orderid: 0
+orderid: 50
 parentid: bookofproofs$831
 title: 
 description: Proof of ORDER OF SUBGROUP DIVIDES ORDER OF FINITE GROUP ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

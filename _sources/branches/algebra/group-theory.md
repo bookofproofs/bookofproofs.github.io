@@ -1,7 +1,7 @@
 layout: part
 categories: branches,algebra
 nodeid: bookofproofs$137
-orderid: 2
+orderid: 200
 parentid: bookofproofs$59
 title: Group Theory
 description: GROUP THEORY ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

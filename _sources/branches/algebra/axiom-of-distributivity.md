@@ -1,7 +1,7 @@
 layout: axiom
 categories: branches,algebra
 nodeid: bookofproofs$682
-orderid: 0
+orderid: 50
 parentid: bookofproofs$192
 title: Axiom of Distributivity
 description: AXIOM OF DISTRIBUTIVITY ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

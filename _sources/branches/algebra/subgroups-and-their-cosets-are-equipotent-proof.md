@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$2887
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8269
 title: 
 description: Proof of SUBGROUPS AND THEIR COSETS ARE EQUIPOTENT ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

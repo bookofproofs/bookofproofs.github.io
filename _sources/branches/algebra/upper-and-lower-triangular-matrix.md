@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$1053
-orderid: 4
+orderid: 400
 parentid: bookofproofs$1056
 title: Upper and Lower Triangular Matrix
 description: UPPER AND LOWER TRIANGULAR MATRIX &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

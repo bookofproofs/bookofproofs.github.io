@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$8292
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8260
 title: A Criterion for Associates
 description: A CRITERION FOR ASSOCIATES ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

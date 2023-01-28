@@ -1,7 +1,7 @@
 layout: explanation
 categories: branches,algebra
 nodeid: bookofproofs$8650
-orderid: 7
+orderid: 700
 parentid: bookofproofs$212
 title: Unions of Subgroups Are Not Subgroups
 description: UNIONS OF SUBGROUPS ARE NOT SUBGROUPS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

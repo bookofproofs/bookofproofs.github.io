@@ -4,8 +4,6 @@ from FileMgr import FileMgr
 
 
 class BopValidator:
-    issue_types = ['broken-links', 'missing-proof', "malformed-tables"]
-
     allowed_layout_combis = {
         BopLayouts.root: [BopLayouts.branch, BopLayouts.index, BopLayouts.epoch, BopLayouts.topic],
         BopLayouts.index: [BopLayouts.index],
@@ -113,8 +111,9 @@ class BopValidator:
 
     def _validate_orderids(self):
         """
-        Check for positive integer order ids
-        :return: None, or raises an Error
+        Check for positive integer order ids; Create an issue if there are multiple nodes with the same order id
+        inside the same parent
+        :return: None, or raises an Error if negative or non-numeric
         """
         print("   Validating orderid")
         for source_id in self._unique_nodeids:
@@ -125,6 +124,17 @@ class BopValidator:
                 raise AssertionError(
                     "Only positive integer orderid allowed for {0} detected in {1}".format(bop_source.nodeid,
                                                                                            bop_source.get_file_name()))
+
+            filter_expr = lambda x: x.parentid == bop_source.nodeid
+            children_nodes = list(filter(filter_expr, self._unique_nodeids.values()))
+            clashing_orderids = set()
+            for child in children_nodes:
+                if child.orderid not in clashing_orderids:
+                    clashing_orderids.add(child.orderid)
+                else:
+                    bop_source.issues.append("conflicting-order-of-children")
+                    break
+
 
     def _validate_parentids(self):
         """
@@ -147,7 +157,7 @@ class BopValidator:
                 if bop_source.parentid not in self._parent_child_graph:
                     self._parent_child_graph[bop_source.parentid] = list()
                 self._parent_child_graph[bop_source.parentid].append(bop_source.nodeid)
-                bop_source.set_parent(self._unique_nodeids[bop_source.parentid])
+                bop_source.parent = self._unique_nodeids[bop_source.parentid]
         print("   Sorting parent-child graph")
         for nodeid in self._unique_nodeids:
             if nodeid in self._parent_child_graph:
@@ -331,19 +341,26 @@ class BopValidator:
             if bop_source.layout in [BopLayouts.theorem, BopLayouts.corollary, BopLayouts.proposition,
                                      BopLayouts.lemma]:
                 if not self._has_proof(bop_source):
-                    if "missing-proof" not in bop_source.issues:
-                        bop_source.issues.append("missing-proof")
-            if len(bop_source.issues) > 0:
-                for issue in bop_source.issues:
-                    if issue not in BopValidator.issue_types:
-                        raise AssertionError(
-                            "Unknown issue type '{0}' found in {0}".format(issue, bop_source.get_file_name()))
+                    bop_source.issues.append("missing-proof")
+            else:
+                if self._has_proof(bop_source):
+                    bop_source.issues.append("misplaced-proof")
+            content = bop_source.get_pre_body() + "\n" + bop_source.get_body()
+            if "www.bookofproofs.org" in content:
+                bop_source.issues.append("non-migrated-link")
+            if bop_source.keywords == "":
+                bop_source.issues.append("seo-missing-keywords")
+            if bop_source.description == "":
+                bop_source.issues.append("seo-missing-description")
+            if bop_source.orderid == 0:
+                bop_source.issues.append("missing-order-id")
 
     def _has_proof(self, bop_source):
         for possible_proof in self._unique_nodeids.values():
             if possible_proof.parentid == bop_source.nodeid:
                 if possible_proof.layout == BopLayouts.proof:
-                    return True
+                    if possible_proof.get_body() != "":
+                        return True
         return False
 
     def _validate_layouts(self):
@@ -355,8 +372,6 @@ class BopValidator:
         errors_found = list()
         erroneous_layouts = list()
         for bop_source in self._unique_nodeids.values():
-            if bop_source.nodeid == "bookofproofs$6308":
-                pass
             if bop_source.parentid != "":
                 parent_node = self._unique_nodeids[bop_source.parentid]
                 if parent_node.layout not in BopValidator.allowed_layout_combis:
@@ -366,10 +381,11 @@ class BopValidator:
                         parent_node.get_file_name()
                     ))
                 elif bop_source.layout not in BopValidator.allowed_layout_combis[parent_node.layout]:
-                    if "bad-layout-nesting" not in bop_source.issues:
-                        bop_source.issues.append("bad-layout-nesting")
+                    issue = "bad-layout-nesting-" + bop_source.layout + "&#8605;" + parent_node.layout
+                    if issue not in bop_source.issues:
+                        bop_source.issues.append(issue)
                     errors_found.append(bop_source.nodeid)
-                    combi = parent_node.layout + "->" + bop_source.layout
+                    combi = bop_source.layout + "↝" + parent_node.layout
                     if combi not in erroneous_layouts:
                         erroneous_layouts.append(combi)
         if errors_found:

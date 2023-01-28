@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$1062
-orderid: 0
+orderid: 50
 parentid: bookofproofs$269
 title: Ideal
 description: IDEAL ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

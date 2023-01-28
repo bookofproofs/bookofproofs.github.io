@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6213
-orderid: 0
+orderid: 50
 parentid: bookofproofs$885
 title: Algebra over a Ring
 description: ALGEBRA OVER A RING &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

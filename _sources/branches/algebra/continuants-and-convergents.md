@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$8249
-orderid: 2
+orderid: 200
 parentid: bookofproofs$234
 title: Continuants and Convergents
 description: CONTINUANTS AND CONVERGENTS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

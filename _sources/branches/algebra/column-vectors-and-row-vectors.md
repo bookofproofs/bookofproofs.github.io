@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$7943
-orderid: 2
+orderid: 200
 parentid: bookofproofs$7942
 title: Column Vectors and Row Vectors
 description: COLUMN VECTORS AND ROW VECTORS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$1044
-orderid: 1
+orderid: 100
 parentid: bookofproofs$138
 title: Systems of Linear Equations with many Unknowns
 description: SYSTEMS OF LINEAR EQUATIONS WITH MANY UNKNOWNS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

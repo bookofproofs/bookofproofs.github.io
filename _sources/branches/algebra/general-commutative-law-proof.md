@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$546
-orderid: 0
+orderid: 50
 parentid: bookofproofs$542
 title: 
 description: DIRECT PROOF Proof of GENERAL COMMUTATIVE LAW &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

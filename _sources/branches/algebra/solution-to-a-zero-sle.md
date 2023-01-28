@@ -1,7 +1,7 @@
 layout: example
 categories: branches,algebra
 nodeid: bookofproofs$7946
-orderid: 0
+orderid: 50
 parentid: bookofproofs$7945
 title: Solution to a Zero SLE
 description: SOLUTION TO A ZERO SLE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$881
-orderid: 4
+orderid: 400
 parentid: bookofproofs$76
 title: Characteristic of a Ring
 description: CHARACTERISTIC OF A RING ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

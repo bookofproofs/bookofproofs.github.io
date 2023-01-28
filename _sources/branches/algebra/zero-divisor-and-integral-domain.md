@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$821
-orderid: 0
+orderid: 50
 parentid: bookofproofs$181
 title: Zero Divisor and Integral Domain
 description: ZERO DIVISOR AND INTEGRAL DOMAIN &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$8283
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8259
 title: Group of Units
 description: GROUP OF UNITS ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

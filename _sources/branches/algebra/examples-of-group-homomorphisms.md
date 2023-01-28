@@ -1,7 +1,7 @@
 layout: example
 categories: branches,algebra
 nodeid: bookofproofs$8651
-orderid: 0
+orderid: 50
 parentid: bookofproofs$679
 title: Examples of Group Homomorphisms
 description: EXAMPLES OF GROUP HOMOMORPHISMS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

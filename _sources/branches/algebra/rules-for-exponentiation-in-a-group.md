@@ -1,7 +1,7 @@
 layout: corollary
 categories: branches,algebra
 nodeid: bookofproofs$676
-orderid: 0
+orderid: 50
 parentid: bookofproofs$401
 title: Rules for Exponentiation in a Group
 description: RULES FOR EXPONENTIATION IN A GROUP ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: explanation
 categories: branches,algebra
 nodeid: bookofproofs$1102
-orderid: 3
+orderid: 300
 parentid: bookofproofs$85
 title: Operation Table
 description: OPERATION TABLE ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

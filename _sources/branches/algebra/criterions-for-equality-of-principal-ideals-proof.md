@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$2896
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8293
 title: By Induction
 description: Proof for CRITERIONS FOR EQUALITY OF PRINCIPAL IDEALS ★ history of mathematics ✚ science ➜ visit BookOfProofs now!

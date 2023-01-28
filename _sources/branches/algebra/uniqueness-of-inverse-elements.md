@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$359
-orderid: 6
+orderid: 600
 parentid: bookofproofs$115
 title: Uniqueness of Inverse Elements
 description: UNIQUENESS OF INVERSE ELEMENTS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

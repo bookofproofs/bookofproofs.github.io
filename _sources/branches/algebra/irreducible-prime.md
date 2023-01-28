@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$822
-orderid: 7
+orderid: 700
 parentid: bookofproofs$181
 title: Irreducible, Prime
 description: IRREDUCIBLE, PRIME ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

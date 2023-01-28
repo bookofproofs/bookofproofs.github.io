@@ -1,14 +1,14 @@
 layout: epoch
 categories: history
 nodeid: bookofproofs$339
-orderid: 10
+orderid: 1000
 parentid: bookofproofs$2
 title: 17th Century
 description: 17TH CENTURY (FROM 1600 TO 1699) ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: bookofproofs$6909
 keywords: 17th,century
 contributors: bookofproofs,@MacTutor
-issues: broken-links,malformed-tables
+
 
 ---
 

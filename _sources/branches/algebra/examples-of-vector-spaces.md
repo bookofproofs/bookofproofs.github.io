@@ -1,14 +1,14 @@
 layout: example
 categories: branches,algebra
 nodeid: bookofproofs$7976
-orderid: 0
+orderid: 50
 parentid: bookofproofs$560
 title: Examples of Vector Spaces
 description: EXAMPLES OF VECTOR SPACES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$7937
 keywords: examples,spaces,vector
 contributors: bookofproofs
-issues: broken-links
+
 
 ---
 

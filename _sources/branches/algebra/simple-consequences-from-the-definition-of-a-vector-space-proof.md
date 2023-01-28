@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$7979
-orderid: 0
+orderid: 50
 parentid: bookofproofs$7978
 title: 
 description: Proof of SIMPLE CONSEQUENCES FROM THE DEFINITION OF A VECTOR SPACE ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

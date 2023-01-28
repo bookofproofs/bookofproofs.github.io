@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$1068
-orderid: 2
+orderid: 200
 parentid: bookofproofs$1062
 title: Addition of Ideals
 description: ADDITION OF IDEALS &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

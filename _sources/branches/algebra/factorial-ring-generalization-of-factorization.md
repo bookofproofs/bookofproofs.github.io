@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$8262
-orderid: 8
+orderid: 800
 parentid: bookofproofs$181
 title: Factorial Ring, Generalization of Factorization
 description: FACTORIAL RING, GENERALIZATION OF FACTORIZATION ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

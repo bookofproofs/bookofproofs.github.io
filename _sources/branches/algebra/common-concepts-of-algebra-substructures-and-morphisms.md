@@ -1,7 +1,7 @@
 layout: motivation
 categories: branches,algebra
 nodeid: bookofproofs$706
-orderid: 0
+orderid: 50
 parentid: bookofproofs$85
 title: Common Concepts Of Algebra: Substructures and Morphisms
 description: COMMON CONCEPTS OF ALGEBRA: SUBSTRUCTURES AND MORPHISMS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: section
 categories: branches,algebra
 nodeid: bookofproofs$170
-orderid: 10
+orderid: 1000
 parentid: bookofproofs$211
 title: Solutions of Polynomials
 description: SOLUTIONS OF POLYNOMIALS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

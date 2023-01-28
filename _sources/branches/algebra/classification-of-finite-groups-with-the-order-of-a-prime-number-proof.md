@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$2891
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8273
 title: 
 description: Proof of CLASSIFICATION OF FINITE GROUPS WITH THE ORDER OF A PRIME NUMBER ★ history of mathematics ✚ science ➜ visit BookOfProofs now!

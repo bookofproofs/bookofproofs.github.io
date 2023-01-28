@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$8687
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8686
 title: 
 description: PROOF OF ABELIAN GROUP OF VECTORS UNDER ADDITION &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

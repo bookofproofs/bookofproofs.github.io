@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$824
-orderid: 0
+orderid: 50
 parentid: bookofproofs$823
 title: 
 description:  Proof of CANCELLATION LAW &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6257
-orderid: 0
+orderid: 50
 parentid: bookofproofs$487
 title: Reduction of an Integer Polynomial Modulo a Prime Number
 description: REDUCTION OF A INTEGER POLYNOMIAL MODULO A PRIME NUMBER ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

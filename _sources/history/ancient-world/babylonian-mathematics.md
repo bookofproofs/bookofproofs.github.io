@@ -1,14 +1,14 @@
 layout: topic
 categories: history, ancient-world
 nodeid: bookofproofs$6311
-orderid: 13
+orderid: 1300
 parentid: bookofproofs$610
 title: Babylonian Mathematics
 description: CA. 1850 BC: BABYLONIAN MATHEMATICS ⋆ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: bookofproofs$641
 keywords: babylonian,mathematics
 contributors: bookofproofs
-issues: broken-links
+
 
 ---
 

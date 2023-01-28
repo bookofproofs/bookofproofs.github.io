@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6705
-orderid: 9
+orderid: 900
 parentid: bookofproofs$211
 title: Subadditive Function
 description: SUBADDITIVE FUNCTION &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

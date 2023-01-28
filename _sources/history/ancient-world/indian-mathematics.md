@@ -1,7 +1,7 @@
 layout: topic
 categories: history, ancient-world
 nodeid: bookofproofs$1636
-orderid: 42
+orderid: 4200
 parentid: bookofproofs$610
 title: Indian Mathematics
 description: ABOUT 500 BC: INDIAN MATHEMATICS ⋆ history of mathematics ✚ science ➜ visit BookOfProofs now!

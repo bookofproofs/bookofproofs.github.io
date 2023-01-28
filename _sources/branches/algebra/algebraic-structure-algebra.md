@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$342
-orderid: 1
+orderid: 100
 parentid: bookofproofs$85
 title: Algebraic Structure (Algebra)
 description: ALGEBRAIC STRUCTURE ALGEBRA ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

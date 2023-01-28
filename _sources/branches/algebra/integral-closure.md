@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6322
-orderid: 1
+orderid: 100
 parentid: bookofproofs$6213
 title: Integral Closure
 description: INTEGRAL CLOSURE &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

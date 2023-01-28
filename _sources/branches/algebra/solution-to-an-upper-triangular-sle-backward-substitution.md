@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$7949
-orderid: 3
+orderid: 300
 parentid: bookofproofs$7945
 title: Solution to an Upper Triangular SLE - Backward Substitution
 description: SOLUTION TO AN UPPER TRIANGULAR SLE - BACKWARD SUBSTITUTION &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

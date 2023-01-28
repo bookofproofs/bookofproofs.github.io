@@ -1,14 +1,14 @@
 layout: chapter
 categories: branches,algebra
 nodeid: bookofproofs$120
-orderid: 4
+orderid: 400
 parentid: bookofproofs$85
 title: Magmas, Semigroups, Monoids (Overview)
 description: MAGMAS, SEMIGROUPS, MONOIDS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: 
 keywords: magmas,monoids,semigroups,semigroups and monoids,semigroup and monoid,semigroup monoid,monoid properties
 contributors: bookofproofs
-issues: malformed-tables
+
 
 ---
 

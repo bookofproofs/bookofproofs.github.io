@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$6251
-orderid: 0
+orderid: 50
 parentid: bookofproofs$6266
 title: Properties of a Complex Scalar Product
 description: PROPERTIES OF A COMPLEX SCALAR PRODUCT &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

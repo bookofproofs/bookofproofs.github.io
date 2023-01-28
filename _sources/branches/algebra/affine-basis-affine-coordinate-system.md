@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$434
-orderid: 1
+orderid: 100
 parentid: bookofproofs$404
 title: Affine Basis, Affine Coordinate System
 description: AFFINE BASIS, AFFINE COORDINATE SYSTEM &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

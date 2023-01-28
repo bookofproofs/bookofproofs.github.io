@@ -1,13 +1,13 @@
 layout: corollary
 categories: branches,algebra
 nodeid: bookofproofs$6289
-orderid: 0
+orderid: 50
 parentid: bookofproofs$6287
 title: Intersection of Convex Affine Sets
 description: INTERSECTION OF CONVEX AFFINE SETS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6288
 keywords: affine,convex,intersection,sets
-contributors: bookofproofs,@casey
+contributors: bookofproofs
 
 ---
 

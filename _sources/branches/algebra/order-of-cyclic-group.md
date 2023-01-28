@@ -1,14 +1,14 @@
 layout: theorem
 categories: branches,algebra
 nodeid: bookofproofs$808
-orderid: 17
+orderid: 1700
 parentid: bookofproofs$137
 title: Order of Cyclic Group (Fermat's Little Theorem)
 description: ORDER OF CYCLIC GROUP ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$696
 keywords: cyclic order,group,fermat,fermat's,little theorem
 contributors: bookofproofs
-issues: broken-links
+
 
 ---
 

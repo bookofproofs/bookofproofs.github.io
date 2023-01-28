@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$827
-orderid: 13
+orderid: 1300
 parentid: bookofproofs$137
 title: Cosets
 description: COSETS ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

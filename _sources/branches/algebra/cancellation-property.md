@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$837
-orderid: 7
+orderid: 700
 parentid: bookofproofs$115
 title: Cancellation Property
 description: CANCELLATION PROPERTY &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

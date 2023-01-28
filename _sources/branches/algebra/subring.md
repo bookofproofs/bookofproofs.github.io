@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$884
-orderid: 3
+orderid: 300
 parentid: bookofproofs$192
 title: Subring
 description: SUBRING ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

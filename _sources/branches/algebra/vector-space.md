@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$560
-orderid: 0
+orderid: 50
 parentid: bookofproofs$276
 title: Vector Space
 description: VECTOR SPACE ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

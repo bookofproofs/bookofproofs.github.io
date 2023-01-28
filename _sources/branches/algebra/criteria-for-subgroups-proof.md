@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$812
-orderid: 0
+orderid: 50
 parentid: bookofproofs$811
 title: 
 description: Proof of CRITERIA FOR SUBGROUPS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

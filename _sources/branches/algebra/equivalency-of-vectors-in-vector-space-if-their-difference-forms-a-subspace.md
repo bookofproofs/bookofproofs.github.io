@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$6328
-orderid: 1
+orderid: 100
 parentid: bookofproofs$214
 title: Equivalency of Vectors in Vector Space If their Difference Forms a Subspace
 description: EQUIVALENCY OF VECTORS IN VECTOR SPACE IF THEIR DIFFERENCE FORMS A SUBSPACE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

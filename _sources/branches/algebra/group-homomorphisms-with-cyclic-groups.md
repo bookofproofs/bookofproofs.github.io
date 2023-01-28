@@ -1,14 +1,14 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$815
-orderid: 7
+orderid: 700
 parentid: bookofproofs$137
 title: Group Homomorphisms with Cyclic Groups
 description: GROUP HOMOMORPHISMS WITH CYCLIC GROUPS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$677
 keywords: cyclic groups,homomorphisms
 contributors: bookofproofs
-issues: broken-links
+
 
 ---
 

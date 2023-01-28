@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$8663
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8662
 title: 
 description: PROOF OF A FIELD WITH AN ABSOLUTE VALUE IS A METRIC SPACE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

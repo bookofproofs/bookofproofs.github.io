@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$8664
-orderid: 6
+orderid: 600
 parentid: bookofproofs$210
 title: Dependent and Independent Absolute Values
 description: DEPENDENT AND INDEPENDENT ABSOLUTE VALUES ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

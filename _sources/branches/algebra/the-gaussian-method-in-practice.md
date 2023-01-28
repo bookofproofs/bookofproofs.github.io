@@ -1,7 +1,7 @@
 layout: example
 categories: branches,algebra
 nodeid: bookofproofs$7956
-orderid: 3
+orderid: 300
 parentid: bookofproofs$7951
 title: The Gaussian Method in Practice
 description: THE GAUSSIAN METHOD IN PRACTICE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

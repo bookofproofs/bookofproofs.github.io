@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6321
-orderid: 8
+orderid: 800
 parentid: bookofproofs$211
 title: Minimal Polynomial
 description: MINIMAL POLYNOMIAL ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$7952
-orderid: 0
+orderid: 50
 parentid: bookofproofs$7951
 title: Elementary Gaussian Operations
 description: ELEMENTARY GAUSSIAN OPERATIONS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: part
 categories: branches,algebra
 nodeid: bookofproofs$85
-orderid: 1
+orderid: 100
 parentid: bookofproofs$59
 title: Algebraic Structures - Overview
 description: ALGEBRAIC STRUCTURES OVERVIEW ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

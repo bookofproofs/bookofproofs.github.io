@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6235
-orderid: 6
+orderid: 600
 parentid: bookofproofs$706
 title: Endomorphism
 description: ENDOMOMORPHISM ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

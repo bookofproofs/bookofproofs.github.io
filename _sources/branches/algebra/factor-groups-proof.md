@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$1099
-orderid: 0
+orderid: 50
 parentid: bookofproofs$191
 title: 
 description: Proof of FACTOR GROUPS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

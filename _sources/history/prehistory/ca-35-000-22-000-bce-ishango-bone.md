@@ -1,7 +1,7 @@
 layout: topic
 categories: history, prehistory
 nodeid: bookofproofs$1634
-orderid: 0
+orderid: 50
 parentid: bookofproofs$611
 title: to 22 000 BC: Ishango Bone
 description: FROM 35000 BC: TO 22 000 BC: ISHANGO BONE ★ history of mathematics ✚ science ➜ visit BookOfProofs now!

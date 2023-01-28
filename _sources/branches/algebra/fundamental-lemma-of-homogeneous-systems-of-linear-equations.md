@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$1045
-orderid: 7
+orderid: 700
 parentid: bookofproofs$138
 title: Fundamental Lemma of Homogeneous Systems of Linear Equations
 description: FUNDAMENTAL LEMMA OF HOMOGENEOUS SYSTEMS OF LINEAR EQUATIONS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

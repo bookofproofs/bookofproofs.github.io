@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6188
-orderid: 1
+orderid: 100
 parentid: bookofproofs$85
 title: Binary Operation
 description: BINARY OPERATION ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

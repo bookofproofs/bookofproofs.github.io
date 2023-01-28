@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$7941
-orderid: 3
+orderid: 300
 parentid: bookofproofs$138
 title: Coefficient Matrix
 description: COEFFICIENT MATRIX &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

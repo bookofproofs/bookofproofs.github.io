@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$7978
-orderid: 1
+orderid: 100
 parentid: bookofproofs$560
 title: Simple Consequences from the Definition of a Vector Space
 description: SIMPLE CONSEQUENCES FROM THE DEFINITION OF A VECTOR SPACE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

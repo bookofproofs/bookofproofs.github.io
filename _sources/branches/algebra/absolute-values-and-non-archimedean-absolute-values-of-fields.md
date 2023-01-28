@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$8659
-orderid: 3
+orderid: 300
 parentid: bookofproofs$210
 title: Absolute Values and Non-Archimedean Absolute Values of Fields
 description: ABSOLUTE VALUE AND NON-ARCHIMEDEAN ABSOLUTE VALUES OF FIELDS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

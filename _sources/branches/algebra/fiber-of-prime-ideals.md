@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$6317
-orderid: 1
+orderid: 100
 parentid: bookofproofs$6261
 title: Fiber of Prime Ideals
 description: FIBER OF PRIME IDEALS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$1100
-orderid: 0
+orderid: 50
 parentid: bookofproofs$274
 title: 
 description:  Proof of FACTOR RINGS, GENERALIZATION OF CONGRUENCE CLASSES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

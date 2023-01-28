@@ -1,14 +1,14 @@
 layout: motivation
 categories: branches,algebra
 nodeid: bookofproofs$8248
-orderid: 0
+orderid: 50
 parentid: bookofproofs$234
 title: Rational Numbers and the Greatest Common Divisor
 description: RATIONAL NUMBERS AND THE GREATEST COMMON DIVISOR &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$701,bookofproofs$8189
 keywords: common,divisor,greatest,numbers,rational,gcd of rational numbers
 contributors: bookofproofs
-issues: broken-links
+
 
 ---
 

@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$1040
-orderid: 0
+orderid: 50
 parentid: bookofproofs$1039
 title: 
 description: PROOF BY CONTRADICTION Proof of UNIQUENESS LEMMA OF A FINITE BASIS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$8295
-orderid: 1
+orderid: 100
 parentid: bookofproofs$269
 title: Principal Ideals being Prime Ideals
 description: PRINCIPAL IDEALS BEING PRIME IDEALS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$7958
-orderid: 0
+orderid: 50
 parentid: bookofproofs$7957
 title: 
 description:  Proof of RELATIONSHIP BETWEEN THE SOLUTIONS OF HOMOGENEOUS AND INHOMOGENEOUS SLES &#9733; master graduate maths &#10004; visit BookOfProofs now!

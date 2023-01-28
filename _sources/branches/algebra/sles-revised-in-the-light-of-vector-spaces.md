@@ -1,7 +1,7 @@
 layout: application
 categories: branches,algebra
 nodeid: bookofproofs$7977
-orderid: 0
+orderid: 50
 parentid: bookofproofs$194
 title: SLEs Revised in the Light of Vector Spaces
 description: SYSTEMS OF LINEAR EQUATIONS AND VECTOR SPACES ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

@@ -1,14 +1,14 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$817
-orderid: 9
+orderid: 900
 parentid: bookofproofs$137
 title: Subgroups of Cyclic Groups
 description: SUBGROUPS OF CYCLIC GROUPS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$677
 keywords: subgroups of cyclic groups,subgroup of a cyclic group,subgroup of cyclic group
 contributors: bookofproofs
-issues: broken-links
+
 
 ---
 

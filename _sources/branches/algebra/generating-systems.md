@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$279
-orderid: 5
+orderid: 500
 parentid: bookofproofs$194
 title: Generating Systems
 description: GENERATING SYSTEMS ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

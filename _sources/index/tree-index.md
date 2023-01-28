@@ -2,7 +2,7 @@ layout: index
 nodeid: bookofproofs$ti
 parentid: bookofproofs$i
 categories: index
-orderid: 0
+orderid: 50
 description: BookOfProofs Tree Index
 keywords: mathematics, physics, computer sciences, index
 title: Content Tree

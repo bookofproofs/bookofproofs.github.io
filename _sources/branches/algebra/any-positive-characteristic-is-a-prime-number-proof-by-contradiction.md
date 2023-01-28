@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$883
-orderid: 0
+orderid: 50
 parentid: bookofproofs$882
 title: 
 description: PROOF OF ANY POSITIVE CHARACTERISTIC IS A PRIME NUMBER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$8257
-orderid: 2
+orderid: 200
 parentid: bookofproofs$181
 title: Generalization of Divisor and Multiple
 description: GENERALIZATION OF DIVISOR AND MULTIPLE ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

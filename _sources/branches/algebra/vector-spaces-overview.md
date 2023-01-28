@@ -1,7 +1,7 @@
 layout: chapter
 categories: branches,algebra
 nodeid: bookofproofs$276
-orderid: 8
+orderid: 800
 parentid: bookofproofs$85
 title: Vector Spaces (Overview)
 description: VECTOR SPACES (OVERVIEW) ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

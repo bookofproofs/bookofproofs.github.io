@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$6734
-orderid: 7
+orderid: 700
 parentid: bookofproofs$343
 title: Abelian Group of Matrices Under Addition
 description: ABELIAN GROUP OF MATRICES UNDER ADDITION ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

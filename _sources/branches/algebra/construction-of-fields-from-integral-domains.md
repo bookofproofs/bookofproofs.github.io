@@ -1,7 +1,7 @@
 layout: theorem
 categories: branches,algebra
 nodeid: bookofproofs$888
-orderid: 2
+orderid: 200
 parentid: bookofproofs$821
 title: Construction of Fields from Integral Domains
 description: CONSTRUCTION OF FIELDS FROM INTEGRAL DOMAINS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

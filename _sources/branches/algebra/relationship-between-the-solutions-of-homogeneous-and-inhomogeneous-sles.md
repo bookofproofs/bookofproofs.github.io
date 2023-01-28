@@ -1,7 +1,7 @@
 layout: theorem
 categories: branches,algebra
 nodeid: bookofproofs$7957
-orderid: 6
+orderid: 600
 parentid: bookofproofs$138
 title: Relationship Between the Solutions of Homogeneous and Inhomogeneous SLEs
 description: RELATIONSHIP BETWEEN THE SOLUTIONS OF HOMOGENEOUS AND INHOMOGENEOUS SLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

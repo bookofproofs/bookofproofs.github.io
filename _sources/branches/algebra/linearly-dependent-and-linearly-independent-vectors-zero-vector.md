@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$1036
-orderid: 2
+orderid: 200
 parentid: bookofproofs$194
 title: Linearly Dependent and Linearly Independent Vectors, Zero Vector
 description: LINEARLY DEPENDENT AND LINEARLY INDEPENDENT VECTORS, ZERO VECTOR ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

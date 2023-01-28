@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$8296
-orderid: 2
+orderid: 200
 parentid: bookofproofs$269
 title: Principal Ideals being Maximal Ideals
 description: PRINCIPAL IDEALS BEING MAXIMAL IDEALS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

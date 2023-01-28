@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$1070
-orderid: 0
+orderid: 50
 parentid: bookofproofs$1069
 title: 
 description: PROOF OF GREATEST COMMON DIVISOR AND LEAST COMMON MULTIPLE OF IDEALS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

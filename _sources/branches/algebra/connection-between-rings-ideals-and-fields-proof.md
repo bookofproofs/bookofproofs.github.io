@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$2894
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8289
 title: 
 description: CONNECTION BETWEEN RINGS IDEALS AND FIELDS PROOF ★ history of mathematics ✚ science ➜ visit BookOfProofs now!

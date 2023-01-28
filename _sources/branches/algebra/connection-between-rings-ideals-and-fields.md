@@ -1,7 +1,7 @@
 layout: theorem
 categories: branches,algebra
 nodeid: bookofproofs$8289
-orderid: 8
+orderid: 800
 parentid: bookofproofs$269
 title: Connection between Rings, Ideals, and Fields
 description: CONNECTION BETWEEN RINGS, IDEALS, AND FIELDS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

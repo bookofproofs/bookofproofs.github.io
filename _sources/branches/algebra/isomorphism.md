@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$412
-orderid: 5
+orderid: 500
 parentid: bookofproofs$706
 title: Isomorphism
 description: ISOMORPHISM &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

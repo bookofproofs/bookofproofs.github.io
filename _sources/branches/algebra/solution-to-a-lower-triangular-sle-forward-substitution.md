@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$7950
-orderid: 4
+orderid: 400
 parentid: bookofproofs$7945
 title: Solution to a Lower Triangular SLE - Forward Substitution
 description: SOLUTION TO A LOWER TRIANGULAR SLE - FORWARD SUBSTITUTION &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

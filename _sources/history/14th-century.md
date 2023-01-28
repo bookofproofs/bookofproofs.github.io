@@ -1,14 +1,13 @@
 layout: epoch
 categories: history
 nodeid: bookofproofs$602
-orderid: 7
+orderid: 700
 parentid: bookofproofs$2
 title: 14th Century
 description: 14TH CENTURY (FROM 1300 TO 1399) ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: 
 keywords: 14th,century
 contributors: bookofproofs,@MacTutor
-issues: broken-links,malformed-tables
 
 ---
 

@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6324
-orderid: 0
+orderid: 50
 parentid: bookofproofs$6258
 title: Ring of Integers
 description: RING OF INTEGERS &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

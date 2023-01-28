@@ -1,14 +1,14 @@
 layout: explanation
 categories: branches,algebra
 nodeid: bookofproofs$8070
-orderid: 2
+orderid: 200
 parentid: bookofproofs$838
 title: Calculation Rules in a Group with Additive Notation
 description: CALCULATION RULES IN A GROUP WITH ADDITIVE NOTATION &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: 
 keywords: additive,calculation,group,notation,rules,additive notation
 contributors: bookofproofs
-issues: broken-links
+
 
 ---
 

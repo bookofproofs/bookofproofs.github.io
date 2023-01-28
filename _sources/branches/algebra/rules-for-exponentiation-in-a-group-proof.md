@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$8069
-orderid: 0
+orderid: 50
 parentid: bookofproofs$676
 title: 
 description: PROOF OF RULES FOR EXPONENTIATION IN A GROUP ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

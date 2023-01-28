@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$6248
-orderid: 1
+orderid: 100
 parentid: bookofproofs$274
 title: One-to-one Correspondence of Ideals in the Factor Ring and a Commutative Ring
 description: ONE-TO-ONE CORRESPONDENCE OF IDEALS IN THE FACTOR RING AND A COMMUTATIVE RING &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

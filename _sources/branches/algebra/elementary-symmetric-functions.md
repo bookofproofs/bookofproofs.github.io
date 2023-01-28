@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$8151
-orderid: 2
+orderid: 200
 parentid: bookofproofs$211
 title: Elementary Symmetric Functions
 description: ELEMENTARY SYMMETRIC FUNCTIONS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

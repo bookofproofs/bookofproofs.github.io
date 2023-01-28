@@ -1,7 +1,7 @@
 layout: example
 categories: branches,algebra
 nodeid: bookofproofs$8653
-orderid: 4
+orderid: 400
 parentid: bookofproofs$679
 title: Examples of Kernels and Images of Group Homomorphisms
 description: EXAMPLES OF KERNELS AND IMAGES OF GROUP HOMOMORPHISMS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

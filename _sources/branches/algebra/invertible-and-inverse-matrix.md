@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$1055
-orderid: 9
+orderid: 900
 parentid: bookofproofs$7942
 title: Invertible and Inverse Matrix
 description: INVERTIBLE AND INVERSE MATRIX ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

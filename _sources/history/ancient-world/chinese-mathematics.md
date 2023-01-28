@@ -1,14 +1,14 @@
 layout: topic
 categories: history, ancient-world
 nodeid: bookofproofs$6312
-orderid: 16
+orderid: 1600
 parentid: bookofproofs$610
 title: Ancient Chinese Mathematics
 description: CA. 1400 BC: CHINESE MATHEMATICS ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: bookofproofs$641,bookofproofs$8244
 keywords: 1400,chinese,mathematics
 contributors: bookofproofs
-issues: broken-links
+
 
 ---
 

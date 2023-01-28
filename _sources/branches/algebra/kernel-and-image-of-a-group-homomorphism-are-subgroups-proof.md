@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$834
-orderid: 0
+orderid: 50
 parentid: bookofproofs$833
 title: 
 description:  Proof of KERNEL AND IMAGE OF A GROUP HOMOMORPHISM ARE SUBGROUPS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

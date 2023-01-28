@@ -1,14 +1,14 @@
 layout: example
 categories: branches,algebra
 nodeid: bookofproofs$6821
-orderid: 5
+orderid: 500
 parentid: bookofproofs$137
 title: Examples of Cyclic Groups
 description: EXAMPLES OF CYCLIC GROUPS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6735
 keywords: examples of cyclic groups
 contributors: bookofproofs
-issues: broken-links
+
 
 ---
 

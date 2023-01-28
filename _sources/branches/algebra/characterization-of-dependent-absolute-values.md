@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$8665
-orderid: 7
+orderid: 700
 parentid: bookofproofs$210
 title: Characterization of Dependent Absolute Values
 description: CHARACTERIZATION OF DEPENDENT ABSOLUTE VALUES ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

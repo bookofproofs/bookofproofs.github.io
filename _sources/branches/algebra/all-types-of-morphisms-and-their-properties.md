@@ -1,7 +1,7 @@
 layout: explanation
 categories: branches,algebra
 nodeid: bookofproofs$432
-orderid: 1
+orderid: 100
 parentid: bookofproofs$706
 title: All Types of Morphisms and Their Properties
 description: ALL TYPES OF MORPHISMS AND THEIR PROPERTIES ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

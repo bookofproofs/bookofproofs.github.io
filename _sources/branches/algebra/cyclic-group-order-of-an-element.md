@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$807
-orderid: 4
+orderid: 400
 parentid: bookofproofs$137
 title: Cyclic Group, Order of an Element
 description: CYCLIC GROUP ORDER OF AN ELEMENT ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

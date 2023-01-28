@@ -1,7 +1,7 @@
 layout: example
 categories: branches,algebra
 nodeid: bookofproofs$8661
-orderid: 4
+orderid: 400
 parentid: bookofproofs$210
 title: Examples of Absolute Values
 description: EXAMPLES OF ABSOLUTE VALUES ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$1049
-orderid: 0
+orderid: 50
 parentid: bookofproofs$372
 title: Dot Product, Inner Product, Scalar Product (General Field Case)
 description: DOT PRODUCT, INNER PRODUCT, SCALAR PRODUCT GENERAL FIELD CASE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

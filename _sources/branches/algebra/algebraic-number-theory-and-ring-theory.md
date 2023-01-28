@@ -1,7 +1,7 @@
 layout: part
 categories: branches,algebra
 nodeid: bookofproofs$76
-orderid: 3
+orderid: 300
 parentid: bookofproofs$59
 title: Algebraic Number Theory and Ring Theory
 description: ALGEBRAIC NUMBER THEORY, RING THEORY ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

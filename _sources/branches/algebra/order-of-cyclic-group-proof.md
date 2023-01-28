@@ -1,14 +1,14 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$792
-orderid: 0
+orderid: 50
 parentid: bookofproofs$808
 title: 
 description: Proof of ORDER OF CYCLIC GROUP ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$677
 keywords: cyclic order,group,fermat,fermat's,little theorem,proof
 contributors: bookofproofs
-issues: broken-links
+
 
 ---
 

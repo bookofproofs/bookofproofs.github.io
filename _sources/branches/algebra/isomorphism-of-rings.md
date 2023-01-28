@@ -1,7 +1,7 @@
 layout: theorem
 categories: branches,algebra
 nodeid: bookofproofs$171
-orderid: 3
+orderid: 300
 parentid: bookofproofs$76
 title: Isomorphism of Rings
 description: ISOMORPHISM OF RINGS ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$8071
-orderid: 3
+orderid: 300
 parentid: bookofproofs$212
 title: Group Order
 description: GROUP ORDER ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

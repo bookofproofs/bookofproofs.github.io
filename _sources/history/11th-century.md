@@ -1,14 +1,13 @@
 layout: epoch
 categories: history
 nodeid: bookofproofs$612
-orderid: 4
+orderid: 400
 parentid: bookofproofs$2
 title: 11th Century
 description: 11TH CENTURY (FROM 1000 TO 1099) ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: 
 keywords: 11th century
 contributors: bookofproofs,@MacTutor
-issues: broken-links,malformed-tables
 
 ---
 

@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$6825
-orderid: 0
+orderid: 50
 parentid: bookofproofs$170
 title: Quadratic Formula
 description: QUADRATIC FORMULA &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: theorem
 categories: branches,algebra
 nodeid: bookofproofs$8272
-orderid: 23
+orderid: 2300
 parentid: bookofproofs$137
 title: Classification of Cyclic Groups
 description: CLASSIFICATION OF CYCLIC GROUPS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

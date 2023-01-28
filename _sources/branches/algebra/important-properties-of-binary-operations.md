@@ -1,7 +1,7 @@
 layout: chapter
 categories: branches,algebra
 nodeid: bookofproofs$115
-orderid: 2
+orderid: 200
 parentid: bookofproofs$85
 title: Important Properties of Binary Operations
 description: IMPORTANT PROPERTIES OF BINARY OPERATIONS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

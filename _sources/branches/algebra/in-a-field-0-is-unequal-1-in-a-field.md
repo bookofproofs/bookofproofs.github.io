@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$6858
-orderid: 3
+orderid: 300
 parentid: bookofproofs$265
 title: In a Field, `$0$` Is Unequal `$1$`
 description: 0 IS UNEQUAL 1 IN A FIELD ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

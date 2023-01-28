@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$1067
-orderid: 0
+orderid: 50
 parentid: bookofproofs$1066
 title: 
 description: Proof of DIVISIBILITY OF PRINCIPAL IDEALS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

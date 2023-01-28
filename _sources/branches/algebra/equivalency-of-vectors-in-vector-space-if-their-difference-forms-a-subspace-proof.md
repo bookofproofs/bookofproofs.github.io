@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$6329
-orderid: 0
+orderid: 50
 parentid: bookofproofs$6328
 title: 
 description: PROOF OF EQUIVALENCY OF VECTORS IN VECTOR SPACE IF THEIR DIFFERENCE FORMS A SUBSPACE &#9733; master graduate maths &#10004; visit BookOfProofs now!

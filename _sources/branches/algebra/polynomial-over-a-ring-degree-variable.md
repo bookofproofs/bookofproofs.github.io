@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$487
-orderid: 0
+orderid: 50
 parentid: bookofproofs$211
 title: Polynomial over a Ring, Degree, Variable
 description: POLYNOMIAL OVER A RING, DEGREE, VARIABLE ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

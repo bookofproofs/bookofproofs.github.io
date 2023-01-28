@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$673
-orderid: 4
+orderid: 400
 parentid: bookofproofs$120
 title: Exponentiation in a Monoid
 description: EXPONENTIATION IN A MONOID &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

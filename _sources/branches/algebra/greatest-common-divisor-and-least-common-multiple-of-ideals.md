@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$1069
-orderid: 0
+orderid: 50
 parentid: bookofproofs$1062
 title: Greatest Common Divisor and Least Common Multiple of Ideals
 description: GREATEST COMMON DIVISOR AND LEAST COMMON MULTIPLE OF IDEALS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

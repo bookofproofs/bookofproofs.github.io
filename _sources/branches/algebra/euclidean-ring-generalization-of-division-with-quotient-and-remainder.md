@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$8263
-orderid: 9
+orderid: 900
 parentid: bookofproofs$181
 title: Euclidean Ring, Generalization of Division With Quotient and Remainder
 description: EUCLIDEAN RING, GENERALIZATION OF DIVISION WITH QUOTIENT AND REMAINDER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

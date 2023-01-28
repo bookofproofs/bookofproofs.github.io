@@ -1,7 +1,7 @@
 layout: chapter
 categories: branches,algebra
 nodeid: bookofproofs$194
-orderid: 2
+orderid: 200
 parentid: bookofproofs$121
 title: Vectors Revised - Vector Spaces
 description: VECTORS REVISED - VECTOR SPACES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

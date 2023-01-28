@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$8270
-orderid: 6
+orderid: 600
 parentid: bookofproofs$137
 title: Finite Order of an Element Equals Order Of Generated Group
 description: FINITE ORDER OF AN ELEMENT EQUALS ORDER OF GENERATED GROUP ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

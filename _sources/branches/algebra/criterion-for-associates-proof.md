@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$2895
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8292
 title: By Induction
 description: A CRITERION FOR ASSOCIATES PROOF ★ history of mathematics ✚ science ➜ visit BookOfProofs now!

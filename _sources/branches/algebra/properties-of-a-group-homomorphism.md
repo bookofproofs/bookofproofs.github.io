@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$680
-orderid: 1
+orderid: 100
 parentid: bookofproofs$679
 title: Properties of a Group Homomorphism
 description: PROPERTIES OF A GROUP HOMOMORPHISM ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

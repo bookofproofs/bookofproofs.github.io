@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$6249
-orderid: 0
+orderid: 50
 parentid: bookofproofs$6245
 title: Spectrum Function of Commutative Rings
 description: SPECTRUM FUNCTION OF COMMUTATIVE RINGS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

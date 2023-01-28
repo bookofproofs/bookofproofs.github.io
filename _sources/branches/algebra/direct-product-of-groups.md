@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6822
-orderid: 11
+orderid: 1100
 parentid: bookofproofs$137
 title: Direct Product of Groups
 description: DIRECT PRODUCT OF GROUPS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

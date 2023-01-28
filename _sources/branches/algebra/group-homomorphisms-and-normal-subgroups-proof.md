@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$835
-orderid: 0
+orderid: 50
 parentid: bookofproofs$832
 title: 
 description: Proof of GROUP HOMOMORPHISMS AND NORMAL SUBGROUPS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

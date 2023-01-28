@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$3473
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8296
 title: By Induction
 description: PROOF OF PRINCIPAL IDEALS BEING MAXIMAL IDEALS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

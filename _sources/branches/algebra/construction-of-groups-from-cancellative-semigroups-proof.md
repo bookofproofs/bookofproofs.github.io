@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$840
-orderid: 0
+orderid: 50
 parentid: bookofproofs$839
 title: 
 description:  Proof of CONSTRUCTION OF GROUPS FROM COMMUTATIVE AND CANCELLATIVE SEMIGROUPS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

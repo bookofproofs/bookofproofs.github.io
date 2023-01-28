@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$2888
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8270
 title: 
 description: PROOF OF FINITE ORDER OF AN ELEMENT EQUALS ORDER OF GENERATED GROUP &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

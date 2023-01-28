@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$832
-orderid: 21
+orderid: 2100
 parentid: bookofproofs$137
 title: Group Homomorphisms and Normal Subgroups
 description: GROUP HOMOMORPHISMS AND NORMAL SUBGROUPS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

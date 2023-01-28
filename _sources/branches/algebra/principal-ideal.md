@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$1063
-orderid: 3
+orderid: 300
 parentid: bookofproofs$269
 title: Principal Ideal
 description: PRINCIPAL IDEAL ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

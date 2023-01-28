@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$809
-orderid: 3
+orderid: 300
 parentid: bookofproofs$679
 title: Kernel and Image of Group Homomorphism
 description: KERNEL AND IMAGE OF GROUP HOMOMORPHISM ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$7955
-orderid: 2
+orderid: 200
 parentid: bookofproofs$7951
 title: Gaussian Method to Solve Systems of Linear Equations, Rank of a Matrix
 description: GAUSSIAN METHOD TO SOLVE SYSTEMS OF LINEAR EQUATIONS, RANK OF A MATRIX &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

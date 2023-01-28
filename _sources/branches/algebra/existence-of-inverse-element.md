@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$670
-orderid: 5
+orderid: 500
 parentid: bookofproofs$115
 title: Inverse Element
 description: INVERSE ELEMENT ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

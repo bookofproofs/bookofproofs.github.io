@@ -48,8 +48,8 @@ class BopSource:
         if len(contents) != 3 and len(contents) != 4:
             raise AssertionError("Malformed front matter found in " + file_name)
         if len(contents) == 3:
-            self._pre_body = contents[1]
-            self._body = contents[2]
+            self._pre_body = contents[1].strip()
+            self._body = contents[2].strip()
             self._script_source = ""
         else:
             self._pre_body = contents[1]
@@ -81,14 +81,11 @@ class BopSource:
         self.predecessor = None
         self.successor = None
 
-    def set_parent(self, source):
-        self.parent = source
-
-    def set_predecessor(self, source):
-        self.predecessor = source
-
-    def set_successor(self, source):
-        self.successor = source
+    def __str__(self):
+        if self.title != "":
+            return self.layout + ": " + self.title
+        else:
+            return self.layout + ": " + self.get_long_title()
 
     def get_file_name(self):
         return self._file_name
@@ -138,8 +135,6 @@ class BopSource:
                     self.parentid = prop_split[1].strip()
                 elif prop_split[0] == "references":
                     self.references = prop_split[1].split(",")
-                elif prop_split[0] == "issues":
-                    self.issues = prop_split[1].split(",")
                 else:
                     raise NotImplementedError("Unknown property " + prop_split[0] + " found in " + self._file_name)
 
@@ -147,7 +142,6 @@ class BopSource:
         self.references = self._sanitize_list(self.references)
         self.contributors = self._sanitize_list(self.contributors)
         self.categories = self._sanitize_list(self.categories)
-        self.issues = self._sanitize_list(self.issues)
 
     def _sanitize_list(self, l: list):
         new_list = list()
@@ -185,11 +179,11 @@ class BopSource:
             if contributor.startswith("@"):
                 # named contributor
                 if ret != "":
-                    ret += ", "
-                ret += contributor[1:]
+                    ret += " "
+                ret += contributor
             else:
                 if ret != "":
-                    ret += ", "
+                    ret += " "
                 # contributor from github
                 ret += "<a href='https://github.com/" + contributor + "'>"
                 ret += "<img src='https://github.com/" + contributor + ".png?size=32' alt='" + contributor + "'/>"
@@ -285,7 +279,7 @@ class BopSource:
         elif layout == BopLayouts.default:
             return "."
         elif layout == BopLayouts.index:
-            return "."
+            return "Index"
         elif layout == BopLayouts.hidden:
             return "."
         elif layout == BopLayouts.notation:
@@ -371,12 +365,6 @@ class BopSource:
 
     def get_script_source(self):
         return self._script_source
-
-    def __str__(self):
-        if self.title != "":
-            return self.layout + ": " + self.title
-        else:
-            return self.layout + ": " + self.get_long_title()
 
     def get_sort_title(self, leading_zeros=5):
         title = self.get_long_title()

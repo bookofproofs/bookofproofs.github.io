@@ -1,7 +1,7 @@
 layout: chapter
 categories: branches,algebra
 nodeid: bookofproofs$181
-orderid: 0
+orderid: 50
 parentid: bookofproofs$76
 title: Divisibility in General Rings
 description: DIVISIBILITY IN GENERAL RINGS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

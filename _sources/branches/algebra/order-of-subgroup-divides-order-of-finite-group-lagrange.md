@@ -1,7 +1,7 @@
 layout: theorem
 categories: branches,algebra
 nodeid: bookofproofs$831
-orderid: 16
+orderid: 1600
 parentid: bookofproofs$137
 title: Order of Subgroup Divides Order of Finite Group
 description: ORDER OF SUBGROUP DIVIDES ORDER OF FINITE GROUP LAGRANGE ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

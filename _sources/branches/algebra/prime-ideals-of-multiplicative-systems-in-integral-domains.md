@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$6244
-orderid: 7
+orderid: 700
 parentid: bookofproofs$269
 title: Prime Ideals of Multiplicative Systems in Integral Domains
 description: PRIME IDEALS OF MULTIPLICATIVE SYSTEMS IN INTEGRAL DOMAINS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$2889
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8271
 title: 
 description: Proof of FIRST ISOMORPHISM THEOREM FOR GROUPS ★ history of mathematics ✚ science ➜ visit BookOfProofs now!

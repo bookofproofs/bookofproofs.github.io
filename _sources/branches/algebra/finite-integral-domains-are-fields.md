@@ -1,7 +1,7 @@
 layout: theorem
 categories: branches,algebra
 nodeid: bookofproofs$8222
-orderid: 3
+orderid: 300
 parentid: bookofproofs$821
 title: Finite Integral Domains are Fields
 description: FINITE INTEGRAL DOMAINS ARE FIELDS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

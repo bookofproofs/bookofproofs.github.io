@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$191
-orderid: 20
+orderid: 2000
 parentid: bookofproofs$137
 title: Factor Groups
 description: FACTOR GROUPS ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

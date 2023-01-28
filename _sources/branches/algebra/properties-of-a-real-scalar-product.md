@@ -1,7 +1,7 @@
 layout: corollary
 categories: branches,algebra
 nodeid: bookofproofs$6214
-orderid: 0
+orderid: 50
 parentid: bookofproofs$1049
 title: Properties of a Real Scalar Product
 description: PROPERTIES OF A REAL SCALAR PRODUCT &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$681
-orderid: 0
+orderid: 50
 parentid: bookofproofs$680
 title: 
 description: DIRECT PROOF Proof of PROPERTIES OF A GROUP HOMOMORPHISM ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

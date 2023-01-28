@@ -1,7 +1,7 @@
 layout: solution
 categories: branches,algebra
 nodeid: bookofproofs$8282
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8281
 title: 
 description: SOLUTION OF VERIFYING SUBGROUP PROPERTIES ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

@@ -1,14 +1,14 @@
 layout: section
 categories: branches,algebra
 nodeid: bookofproofs$7951
-orderid: 5
+orderid: 500
 parentid: bookofproofs$138
 title: Solving General Systems Of Linear Equations - Gaussian Method
 description: SOLVING GENERAL SYSTEMS OF LINEAR EQUATIONS - GAUSSIAN METHOD &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$7937
 keywords: equations,gaussian,general,linear,method,solving,systems
 contributors: bookofproofs
-issues: broken-links
+
 
 ---
 

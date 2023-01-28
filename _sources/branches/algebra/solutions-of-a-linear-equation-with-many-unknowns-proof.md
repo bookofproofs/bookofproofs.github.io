@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$7940
-orderid: 0
+orderid: 50
 parentid: bookofproofs$7939
 title: 
 description:  Proof of SOLUTIONS OF A LINEAR EQUATION WITH MANY UNKNOWNS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

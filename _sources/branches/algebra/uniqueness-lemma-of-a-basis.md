@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$1039
-orderid: 0
+orderid: 50
 parentid: bookofproofs$299
 title: Uniqueness Lemma of a Finite Basis
 description: UNIQUENESS LEMMA OF A FINITE BASIS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

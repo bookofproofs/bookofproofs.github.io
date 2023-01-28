@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$7954
-orderid: 0
+orderid: 50
 parentid: bookofproofs$7953
 title: 
 description:  Proof of ELEMENTARY GAUSSIAN OPERATIONS DO NOT CHANGE THE SOLUTIONS OF AN SLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

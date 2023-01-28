@@ -2,7 +2,7 @@ layout: index
 nodeid: bookofproofs$bbi
 parentid: bookofproofs$i
 categories: index
-orderid: 1
+orderid: 100
 description: BookOfProofs Building Block Index
 keywords: mathematical language, building block
 title: By Building Blocks

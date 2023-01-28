@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$8655
-orderid: 8
+orderid: 800
 parentid: bookofproofs$212
 title: Unique Solvability of `$a\ast x=b$` in Groups
 description: UNIQUE SOLVABILITY OF AX=B IN GROUPS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$8656
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8655
 title: 
 description: PROOF OF UNIQUE SOLVABILITY OF $A\AST X=B$ IN GROUPS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

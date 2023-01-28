@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$1064
-orderid: 3
+orderid: 300
 parentid: bookofproofs$1063
 title: Principal Ideal Ring
 description: PRINCIPAL IDEAL RING ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

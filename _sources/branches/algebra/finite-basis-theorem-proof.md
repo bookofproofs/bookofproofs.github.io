@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$1046
-orderid: 0
+orderid: 50
 parentid: bookofproofs$1042
 title: 
 description:  Proof of FINITE BASIS THEOREM &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

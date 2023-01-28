@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$299
-orderid: 6
+orderid: 600
 parentid: bookofproofs$194
 title: Basis, Coordinate System
 description: BASIS, COORDINATE SYSTEM &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

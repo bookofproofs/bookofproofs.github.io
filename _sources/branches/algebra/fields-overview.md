@@ -1,14 +1,14 @@
 layout: chapter
 categories: branches,algebra
 nodeid: bookofproofs$265
-orderid: 7
+orderid: 700
 parentid: bookofproofs$85
 title: Fields (Overview)
 description: FIELDS OVERVIEW ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: 
 keywords: fields overview
 contributors: bookofproofs
-issues: malformed-tables
+
 
 ---
 

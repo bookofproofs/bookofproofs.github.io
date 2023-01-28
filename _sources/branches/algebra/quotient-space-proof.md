@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$6331
-orderid: 0
+orderid: 50
 parentid: bookofproofs$71
 title: 
 description:  Proof of QUOTIENT SPACE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

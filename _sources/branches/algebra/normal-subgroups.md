@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$273
-orderid: 19
+orderid: 1900
 parentid: bookofproofs$137
 title: Normal Subgroups
 description: NORMAL SUBGROUPS ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$8660
-orderid: 9
+orderid: 900
 parentid: bookofproofs$210
 title: Signum Function in An Ordered Field
 description: SIGNUM FUNCTION IN AN ORDERED FIELD ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

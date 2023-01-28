@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$1050
-orderid: 7
+orderid: 700
 parentid: bookofproofs$7942
 title: Matrix Multiplication
 description: MATRIX MULTIPLICATION ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

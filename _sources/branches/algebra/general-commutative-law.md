@@ -1,7 +1,7 @@
 layout: corollary
 categories: branches,algebra
 nodeid: bookofproofs$542
-orderid: 0
+orderid: 50
 parentid: bookofproofs$672
 title: General Commutative Law
 description: GENERAL COMMUTATIVE LAW &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

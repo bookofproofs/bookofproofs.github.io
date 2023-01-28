@@ -1,14 +1,13 @@
 layout: epoch
 categories: history, prehistory
 nodeid: bookofproofs$611
-orderid: 0
+orderid: 50
 parentid: bookofproofs$2
 title: Prehistory
 description: PREHISTORY&#160;FROM 99999 BC TO 4001 BC &#9733; history of mathematics &#10010; science &#10140; visit BookOfProofs now!
 references: 
 keywords: prehistoric mathematics,prehistoric maths,mathematics in prehistory,maths in prehistory
 contributors: bookofproofs
-issues: broken-links,malformed-tables
 
 ---
 

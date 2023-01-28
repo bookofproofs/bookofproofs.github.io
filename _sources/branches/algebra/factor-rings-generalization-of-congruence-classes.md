@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$274
-orderid: 11
+orderid: 1100
 parentid: bookofproofs$181
 title: Factor Rings, Generalization of Congruence Classes
 description: FACTOR RINGS, GENERALIZATION OF CONGRUENCE CLASSES ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$8260
-orderid: 6
+orderid: 600
 parentid: bookofproofs$181
 title: Associate
 description: ASSOCIATE ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

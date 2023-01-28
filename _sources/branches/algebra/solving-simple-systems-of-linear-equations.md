@@ -1,7 +1,7 @@
 layout: section
 categories: branches,algebra
 nodeid: bookofproofs$7945
-orderid: 4
+orderid: 400
 parentid: bookofproofs$138
 title: Solving Simple Systems of Linear Equations
 description: SOLVING SIMPLE SYSTEMS OF LINEAR EQUATIONS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

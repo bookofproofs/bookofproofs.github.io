@@ -1,14 +1,14 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$826
-orderid: 0
+orderid: 50
 parentid: bookofproofs$825
 title: 
 description: Proof of SUBGROUPS OF FINITE CYCLIC GROUPS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$677
 keywords: finite cyclic groups,subgroups,proof
 contributors: bookofproofs
-issues: broken-links
+
 
 ---
 

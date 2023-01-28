@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6192
-orderid: 0
+orderid: 50
 parentid: bookofproofs$210
 title: Ordered Field
 description: ORDERED FIELD ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

@@ -1,14 +1,14 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$816
-orderid: 0
+orderid: 50
 parentid: bookofproofs$815
 title: 
 description: PROOF OF GROUP HOMOMORPHISMS WITH CYCLIC GROUPS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: 
 keywords: cyclic groups,homomorphisms,proof
 contributors: bookofproofs
-issues: broken-links
+
 
 ---
 

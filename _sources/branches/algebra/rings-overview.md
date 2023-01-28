@@ -1,14 +1,14 @@
 layout: chapter
 categories: branches,algebra
 nodeid: bookofproofs$192
-orderid: 6
+orderid: 600
 parentid: bookofproofs$85
 title: Rings (Overview)
 description: RINGS OVERVIEW ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: 
 keywords: rings overview,overview of rings
 contributors: bookofproofs
-issues: malformed-tables
+
 
 ---
 

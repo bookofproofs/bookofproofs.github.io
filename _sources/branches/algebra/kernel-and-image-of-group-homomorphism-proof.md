@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$810
-orderid: 0
+orderid: 50
 parentid: bookofproofs$809
 title: 
 description: Proof of KERNEL AND IMAGE OF GROUP HOMOMORPHISM ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

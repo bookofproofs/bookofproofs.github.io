@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$8293
-orderid: 1
+orderid: 100
 parentid: bookofproofs$1063
 title: Criterions for Equality of Principal Ideals
 description: CRITERIONS FOR EQUALITY OF PRINCIPAL IDEALS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

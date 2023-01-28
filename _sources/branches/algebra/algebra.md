@@ -1,7 +1,7 @@
 layout: branch
 categories: branches,algebra
 nodeid: bookofproofs$59
-orderid: 5
+orderid: 500
 parentid: bookofproofs$0
 title: Algebra
 description: ALGEBRA &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

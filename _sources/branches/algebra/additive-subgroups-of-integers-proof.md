@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$2886
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8268
 title: 
 description: Proof of ADDITIVE SUBGROUPS OF INTEGERS ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

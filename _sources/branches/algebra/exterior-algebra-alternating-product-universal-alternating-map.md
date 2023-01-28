@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6333
-orderid: 8
+orderid: 800
 parentid: bookofproofs$194
 title: Exterior Algebra, Alternating Product, Universal Alternating Map
 description: EXTERIOR ALGEBRA, ALTERNATING PRODUCT, UNIVERSAL ALTERNATING MAP ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

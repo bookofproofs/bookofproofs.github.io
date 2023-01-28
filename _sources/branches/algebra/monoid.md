@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$659
-orderid: 2
+orderid: 200
 parentid: bookofproofs$120
 title: Monoid
 description: MONOID ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$6859
-orderid: 0
+orderid: 50
 parentid: bookofproofs$6858
 title: 
 description: Proof of $0$ IS UNEQUAL $1$ ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

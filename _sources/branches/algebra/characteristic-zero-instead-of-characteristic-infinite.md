@@ -1,7 +1,7 @@
 layout: explanation
 categories: branches,algebra
 nodeid: bookofproofs$8277
-orderid: 0
+orderid: 50
 parentid: bookofproofs$881
 title: Characteristic Zero Instead of Characteristic Infinite
 description: CHARACTERISTIC ZERO INSTEAD OF CHARACTERISTIC INFINITE ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

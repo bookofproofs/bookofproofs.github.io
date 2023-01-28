@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$669
-orderid: 4
+orderid: 400
 parentid: bookofproofs$115
 title: Uniqueness of the Neutral Element
 description: UNIQUENESS OF THE NEUTRAL ELEMENT ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

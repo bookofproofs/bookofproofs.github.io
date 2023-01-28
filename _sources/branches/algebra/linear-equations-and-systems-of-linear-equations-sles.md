@@ -1,7 +1,7 @@
 layout: chapter
 categories: branches,algebra
 nodeid: bookofproofs$138
-orderid: 1
+orderid: 100
 parentid: bookofproofs$121
 title: Linear Equations and Systems of Linear Equations (SLEs)
 description: LINEAR EQUATIONS AND SYSTEMS OF LINEAR EQUATIONS SLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$554
-orderid: 5
+orderid: 500
 parentid: bookofproofs$212
 title: Subgroup
 description: SUBGROUP ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

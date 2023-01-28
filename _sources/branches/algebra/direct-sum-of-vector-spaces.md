@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6320
-orderid: 0
+orderid: 50
 parentid: bookofproofs$214
 title: Direct Sum of Vector Spaces
 description: DIRECT SUM OF VECTOR SPACES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

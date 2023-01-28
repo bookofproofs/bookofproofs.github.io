@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6256
-orderid: 7
+orderid: 700
 parentid: bookofproofs$211
 title: Transcendental Element
 description: TRANSCENDENTAL ELEMENT ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

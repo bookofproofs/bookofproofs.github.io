@@ -1,7 +1,7 @@
 layout: motivation
 categories: branches,algebra
 nodeid: bookofproofs$838
-orderid: 0
+orderid: 50
 parentid: bookofproofs$212
 title: Calculations in a Group
 description: CALCULATIONS IN A GROUP ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

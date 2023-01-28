@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6280
-orderid: 6
+orderid: 600
 parentid: bookofproofs$404
 title: Affinely Dependent and Affinely Independent Points
 description: AFFINELY DEPENDENT AND AFFINELY INDEPENDENT POINTS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

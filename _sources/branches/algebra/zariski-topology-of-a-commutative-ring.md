@@ -1,14 +1,14 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6246
-orderid: 2
+orderid: 200
 parentid: bookofproofs$6245
 title: Zariski Topology of a Commutative Ring
 description: ZARISKI TOPOLOGY OF A COMMUTATIVE RING &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: commutative,ring,topology,zariski,zariski topology
 contributors: 
-issues: broken-links
+
 
 ---
 

@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$8666
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8665
 title: 
 description: PROOF OF CHARACTERIZATION OF DEPENDENT ABSOLUTE VALUES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!

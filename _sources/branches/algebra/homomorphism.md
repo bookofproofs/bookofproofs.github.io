@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$364
-orderid: 2
+orderid: 200
 parentid: bookofproofs$706
 title: Homomorphism
 description: HOMOMORPHISM ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

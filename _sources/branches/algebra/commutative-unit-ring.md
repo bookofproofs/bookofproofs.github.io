@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$880
-orderid: 2
+orderid: 200
 parentid: bookofproofs$192
 title: Commutative (Unit) Ring
 description: COMMUTATIVE UNIT RING ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$6261
-orderid: 1
+orderid: 100
 parentid: bookofproofs$6240
 title: Fiber of Prime Ideals Under a Spectrum Function
 description: FIBER OF PRIME IDEALS UNDER A SPECTRUM FUNCTION &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

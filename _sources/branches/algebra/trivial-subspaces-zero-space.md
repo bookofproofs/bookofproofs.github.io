@@ -1,7 +1,7 @@
 layout: example
 categories: branches,algebra
 nodeid: bookofproofs$563
-orderid: 0
+orderid: 50
 parentid: bookofproofs$562
 title: Trivial Subspaces, Zero Space
 description: TRIVIAL SUBSPACES, ZERO SPACE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

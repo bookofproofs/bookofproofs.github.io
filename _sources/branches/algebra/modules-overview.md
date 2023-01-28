@@ -1,7 +1,7 @@
 layout: chapter
 categories: branches,algebra
 nodeid: bookofproofs$263
-orderid: 9
+orderid: 900
 parentid: bookofproofs$85
 title: Modules (Overview)
 description: MODULES (OVERVIEW) ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

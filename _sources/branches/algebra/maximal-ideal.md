@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6243
-orderid: 6
+orderid: 600
 parentid: bookofproofs$269
 title: Maximal Ideal
 description: MAXIMAL IDEAL ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: proposition
 categories: branches,algebra
 nodeid: bookofproofs$811
-orderid: 6
+orderid: 600
 parentid: bookofproofs$212
 title: Criteria for Subgroups
 description: CRITERIA FOR SUBGROUPS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

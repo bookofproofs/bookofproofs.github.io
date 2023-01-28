@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$6211
-orderid: 4
+orderid: 400
 parentid: bookofproofs$211
 title: Field Extension
 description: FIELD EXTENSION ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

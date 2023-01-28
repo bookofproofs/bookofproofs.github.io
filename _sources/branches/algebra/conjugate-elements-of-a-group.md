@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$8266
-orderid: 12
+orderid: 1200
 parentid: bookofproofs$137
 title: Conjugate Elements of a Group
 description: CONJUGATE ELEMENTS OF A GROUP ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

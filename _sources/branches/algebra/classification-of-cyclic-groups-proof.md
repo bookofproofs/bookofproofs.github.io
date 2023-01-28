@@ -1,7 +1,7 @@
 layout: proof
 categories: branches,algebra
 nodeid: bookofproofs$2890
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8272
 title: 
 description: PROOF OF CLASSIFICATION OF CYCLIC GROUPS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

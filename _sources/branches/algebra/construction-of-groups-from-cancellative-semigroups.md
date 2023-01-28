@@ -1,7 +1,7 @@
 layout: theorem
 categories: branches,algebra
 nodeid: bookofproofs$839
-orderid: 3
+orderid: 300
 parentid: bookofproofs$137
 title: Construction of Groups from Commutative and Cancellative Semigroups
 description: CONSTRUCTION OF GROUPS FROM COMMUTATIVE AND CANCELLATIVE SEMIGROUPS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!

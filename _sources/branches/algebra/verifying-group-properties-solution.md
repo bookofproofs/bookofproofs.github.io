@@ -1,7 +1,7 @@
 layout: solution
 categories: branches,algebra
 nodeid: bookofproofs$8280
-orderid: 0
+orderid: 50
 parentid: bookofproofs$8279
 title: 
 description: SOLUTION OF VERIFYING GROUP PROPERTIES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!

@@ -1,7 +1,7 @@
 layout: definition
 categories: branches,algebra
 nodeid: bookofproofs$1065
-orderid: 1
+orderid: 100
 parentid: bookofproofs$1062
 title: Divisibility of Ideals
 description: DIVISIBILITY OF IDEALS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!

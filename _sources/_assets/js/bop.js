@@ -57,8 +57,8 @@ $j(document).ready(function() {
     // monkey-patch the autocomplete to format search results
     $j.ui.autocomplete.prototype._renderItem = function( ul, item ) {
         var re = new RegExp(this.term, "i") ;
-        var t = item.label.replace(re,"<span style='font-weight:bold;color:#009879;padding:0;'>$&</span>");
-        return $j( "<li></li>" ).data( "item.autocomplete", item ).append( t ).appendTo( ul );
+        var t = item.label.replace(re,"<span style='font-weight:bold;color:orange;padding:0;'>$&</span>");
+        return $j( "<li></li>" ).data( "item.autocomplete", item ).append("<a>" + t + "</a>").appendTo( ul );
     };
 
 });

@@ -1,120 +1,175 @@
 from BopSource import BopSource, BopLayouts
-from BopValidator import BopValidator
+from BopIndexNode import BopIndexNode
 
 
 class BopIndexCompiler:
     def __init__(self, validator):
         self._validator = validator
+        self._index_tree = BopIndexNode()
+        self._all_nodes = self._validator.get_nodes()
+        self._pc = self._validator.get_parent_child_graph()
 
-    def get_tree_index(self):
+    def _get_index_to_html(self):
         index = "<ul id='myUL'>\n"
         level = 0
-        pre_order = list()
-        for root_node in BopSource.root_nodes:
-            index += self._get_tree_index_rec(level, root_node, pre_order)
+        for node in self._index_tree.children:
+            index += self._get_index_to_html_rec(level, node)
         index += "</ul>\n"
         # as a by-product, we know the pre-order of the tree
-        # now we can calculate the predecessors and successors of the tree
-        for i in range(1, len(pre_order) - 1):
-            node = pre_order[i]
-            node.set_predecessor(pre_order[i - 1])
-            node.set_successor(pre_order[i + 1])
-        pre_order[0].set_successor(pre_order[1])
         return index
 
-    def _get_tree_index_rec(self, level: int, nodeid: str, pre_order: list):
+    def _get_index_to_html_rec(self, level: int, node: BopIndexNode):
         index = ""
-        unique_nodes = self._validator.get_nodes()
-        node = unique_nodes[nodeid]
-        pre_order.append(node)
-        if node.layout in [BopLayouts.default, BopLayouts.index]:
-            pass  # exclude specific nodes from the index
-        else:
-            level += 1
-            parent_child_graph = self._validator.get_parent_child_graph()
-            if nodeid in parent_child_graph:
-                if nodeid in BopSource.root_nodes:
-                    index += " " * level + "<li><span class='caret'></span><a href='{0}'>{1}</a>\n".format(
-                        node.url(),
-                        node.get_long_title())
+        level += 1
+        if len(node.children) > 0:
+            index += " " * level + "<li>"
+            if node.bop_source is not None:
+                outline = BopSource.get_layout_title(node.bop_source.layout)
+                if outline == ".":
+                    outline = ""
                 else:
-                    index += " " * level + "<li><span class='caret'>{0}:</span> <a href='{1}'>{2}</a>\n".format(
-                        BopSource.get_layout_title(node.layout), node.url(),
-                        node.get_long_title())
-                # if a node has a subtree, continue with a nested ul element
-                level += 1
-                index += " " * level + "<ul class='nested'>\n"
-                # order the children by order id
-                parent_child_graph[nodeid].sort(key=self._validator.get_order_id)
-                for childid in parent_child_graph[nodeid]:
-                    index += self._get_tree_index_rec(level, childid, pre_order)
-                index += " " * level + "</ul>\n"
-                level -= 1
+                    outline += ": "
+                index += "<span class='caret'>{0}</span><a href='{1}'>{2}</a> ({3}) \n".format(
+                    outline,
+                    node.bop_source.url(),
+                    node.bop_source.get_long_title(),
+                    node.count
+                )
             else:
-                index += " " * level + "<li><span>{0}:</span> <a href='{1}'>{2}</a>\n".format(
-                    BopSource.get_layout_title(node.layout), node.url(), node.get_long_title())
-
+                index += "<span class='caret'></span> {0} ({1}) \n".format(node.label, node.count)
+            level += 1
+            index += " " * level + "<ul class='nested'>\n"
+            for child in node.children:
+                index += self._get_index_to_html_rec(level, child)
+            index += " " * level + "</ul>\n"
+            level -= 1
             index += " " * level + "</li>\n"
+        else:
+            if node.bop_source is not None:
+                outline = BopSource.get_layout_title(node.bop_source.layout)
+                if outline == ".":
+                    outline = ""
+                else:
+                    outline += ": "
+                index += " " * level + "<li><span>{0}</span><a href='{1}'>{2}</a></li>\n".format(
+                    outline,
+                    node.bop_source.url(),
+                    node.bop_source.get_long_title()
+                )
+            else:
+                index += " " * level + "<li>{0}</li>\n".format(node.label)
+        level -= 1
         return index
+
+    def _calculate_counts(self, node: BopIndexNode):
+        if len(node.children) == 0:
+            node.count = 0
+            return 1
+        else:
+            ret = 0
+            for child in node.children:
+                ret += self._calculate_counts(child)
+            node.count = ret
+            return ret
+
+    def get_tree_index(self):
+        # use the main parent child graph of the validator as the input parent-child graph for the index html
+        BopIndexNode.clear(self._index_tree)
+        for nodeid in BopSource.root_nodes:
+            node = BopIndexNode()
+            node.bop_source = self._all_nodes[nodeid]
+            node.parent = self._index_tree
+            self._copy_tree_rek(node)
+            # mark predecessors / successors for navigation
+            pre_order = BopIndexNode.get_bop_sources_in_pre_order(node)
+            for i in range(1, len(pre_order) - 1):
+                pre_order[i].predecessor = pre_order[i - 1]
+                pre_order[i].successor = pre_order[i + 1]
+            if len(pre_order) > 2:
+                pre_order[0].successor = pre_order[1]
+                pre_order[-1].predecessor = pre_order[-2]
+
+        self._calculate_counts(self._index_tree)
+        return self._get_index_to_html()
+
+    def _copy_tree_rek(self, node: BopIndexNode):
+        if node.bop_source is not None:
+            if node.bop_source.nodeid in self._pc:
+                for childid in self._pc[node.bop_source.nodeid]:
+                    child_node = BopIndexNode()
+                    child_node.bop_source = self._all_nodes[childid]
+                    child_node.parent = node
+                    self._copy_tree_rek(child_node)
 
     def get_building_block_index(self):
-        index = "<ul id='myUL'>\n"
-        index += self._get_bb_index_specific(BopLayouts.axiom)
-        index += self._get_bb_index_specific(BopLayouts.definition)
-        index += self._get_bb_index_specific(BopLayouts.theorem)
-        index += self._get_bb_index_specific(BopLayouts.lemma)
-        index += self._get_bb_index_specific(BopLayouts.proposition)
-        index += self._get_bb_index_specific(BopLayouts.corollary)
-        index += self._get_bb_index_specific(BopLayouts.proof)
-        index += "</ul>\n"
-        return index
+        # create an own parent child graph for building blocks of mathematics
+        BopIndexNode.clear(self._index_tree)
+        self._filter_nodes_by_layout(BopLayouts.axiom)
+        self._filter_nodes_by_layout(BopLayouts.definition)
+        self._filter_nodes_by_layout(BopLayouts.theorem)
+        self._filter_nodes_by_layout(BopLayouts.lemma)
+        self._filter_nodes_by_layout(BopLayouts.proposition)
+        self._filter_nodes_by_layout(BopLayouts.corollary)
+        self._filter_nodes_by_layout(BopLayouts.proof)
+        self._calculate_counts(self._index_tree)
+        return self._get_index_to_html()
+
+    def get_other_building_block_index(self):
+        # create an own parent child graph for other building blocks
+        BopIndexNode.clear(self._index_tree)
+        self._filter_nodes_by_layout(BopLayouts.algorithm)
+        self._filter_nodes_by_layout(BopLayouts.motivation)
+        self._filter_nodes_by_layout(BopLayouts.application)
+        self._filter_nodes_by_layout(BopLayouts.explanation)
+        self._filter_nodes_by_layout(BopLayouts.example)
+        self._filter_nodes_by_layout(BopLayouts.problem)
+        self._filter_nodes_by_layout(BopLayouts.solution)
+        self._calculate_counts(self._index_tree)
+        return self._get_index_to_html()
+
+    def get_history_building_block_index(self):
+        # create an own parent child graph for history building blocks
+        BopIndexNode.clear(self._index_tree)
+        self._filter_nodes_by_layout(BopLayouts.epoch)
+        self._filter_nodes_by_layout(BopLayouts.topic)
+        self._calculate_counts(self._index_tree)
+        return self._get_index_to_html()
 
     def get_issue_index(self):
-        index = "<ul id='myUL'>\n"
-        for issue_type in BopValidator.issue_types:
-            nodes = self._collect_nodes_with_issue(issue_type)
-            if len(nodes) > 0:
-                title = issue_type.replace("-", " ").title()
-                index += " <li><span class='caret'>{0}:</span>\n".format(title)
-                index += "  <ul class='nested'>\n"
-                for node in nodes:
-                    index += "   <li><span>{0}:</span> <a href='{1}'>{2}</a></li>\n".format(
-                        BopSource.get_layout_title(node.layout),
-                        node.url(),
-                        node.get_long_title())
-                index += "  </ul>\n"
-                index += " </li>\n"
-        index += "</ul>\n"
-        return index
+        BopIndexNode.clear(self._index_tree)
+        collected_issue_types = set()
+        for bop_source in self._all_nodes.values():
+            for issue in bop_source.issues:
+                if issue not in collected_issue_types:
+                    collected_issue_types.add(issue)
+        list_issue_types = list(collected_issue_types)
+        list_issue_types.sort()
+        for issue in list_issue_types:
+            self._filter_nodes_by_issue(issue)
+        self._calculate_counts(self._index_tree)
+        return self._get_index_to_html()
 
     def get_contributors_index(self):
-        index = "<ul id='myUL'>\n"
-        distinct_contributors = dict()
-        for bop_source in self._validator.get_nodes().values():
+        BopIndexNode.clear(self._index_tree)
+        distinct_contributors = list()
+        for bop_source in self._all_nodes.values():
             for contributor in bop_source.contributors:
                 if contributor not in distinct_contributors:
-                    distinct_contributors[contributor] = list()
-                distinct_contributors[contributor].append(bop_source)
+                    distinct_contributors.append(contributor)
+        distinct_contributors.sort()
+        for contributor in distinct_contributors:
+            contributor_node = BopIndexNode()
+            contributor_node.label = contributor
+            contributor_node.parent = self._index_tree
+            relevant_bop_sources = self._filter_nodes_by_lambda(lambda x: contributor in x.contributors)
+            self._add_to_index_tree_by_category(contributor_node, relevant_bop_sources)
 
-        contributors = list(distinct_contributors.keys())
-        contributors.sort()
-        for contributor in contributors:
-            index += " <li><span class='caret'>{0}:</span>\n".format(contributor)
-            index += "  <ul class='nested'>\n"
-            distinct_contributors[contributor].sort(key=lambda x: x.get_sort_title())
-            for node in distinct_contributors[contributor]:
-                index += "   <li><span>{0}:</span> <a href='{1}'>{2}</a></li>\n".format(
-                    BopSource.get_layout_title(node.layout),
-                    node.url(),
-                    node.get_long_title())
-            index += "  </ul>\n"
-            index += " </li>\n"
-        index += "</ul>\n"
-        return index
+        self._calculate_counts(self._index_tree)
+        return self._get_index_to_html()
 
     def _collect_nodes_with_issue(self, issue_type: str):
         ret = list()
-        for bop_source in self._validator.get_nodes().values():
+        for bop_source in self._all_nodes.values():
             found = False
             for issue in bop_source.issues:
                 if issue == issue_type:
@@ -125,132 +180,61 @@ class BopIndexCompiler:
         ret.sort(key=lambda x: x.get_sort_title())
         return ret
 
-    def get_other_building_block_index(self):
-        index = "<ul id='myUL'>\n"
-        index += self._get_bb_index_specific(BopLayouts.algorithm)
-        index += self._get_bb_index_specific(BopLayouts.motivation)
-        index += self._get_bb_index_specific(BopLayouts.application)
-        index += self._get_bb_index_specific(BopLayouts.explanation)
-        index += self._get_bb_index_specific(BopLayouts.example)
-        index += self._get_bb_index_specific(BopLayouts.problem)
-        index += self._get_bb_index_specific(BopLayouts.solution)
-        index += "</ul>\n"
-        return index
-
-    def get_history_building_block_index(self):
-        index = "<ul id='myUL'>\n"
-        index += self._get_bb_index_specific(BopLayouts.epoch)
-        index += self._get_bb_index_specific(BopLayouts.topic)
-        index += "</ul>\n"
-        return index
-
     def get_search_autocomplete_index(self):
         value_label_pairs = list()
-        unique_nodes = self._validator.get_nodes()
-        for bop_source in unique_nodes.values():
+        for bop_source in self._all_nodes.values():
             link = "{value:\"" + bop_source.get_file_destination() + "/" + bop_source.name + ".html\""
             title = ",label:\"" + bop_source.get_plane_long_title().replace("\"", "") + "\"}"
             value_label_pairs.append(link + title)
         return ",".join(value_label_pairs)
 
-    def _get_bb_index_specific(self, layout: str):
-        index = ""
-        relevant_nodes = list()
-        relevant_node_ids = list()
-        unique_nodes = self._validator.get_nodes()
-        for nodeid in unique_nodes:
-            bop_source = unique_nodes[nodeid]
-            if bop_source.layout == layout:
-                relevant_nodes.append(bop_source)
-                relevant_node_ids.append(bop_source.nodeid)
-        if len(relevant_nodes) == 0:
-            index += " <li><span>{0}:</span> (None)\n".format(BopSource.get_plural_layout_title(layout))
-            index += " </li>\n"
-        else:
-            index += " <li><span class='caret'>{0}:</span>\n".format(BopSource.get_plural_layout_title(layout))
-            index += "  <ul class='nested'>\n"
-            relevant_nodes.sort(key=lambda x: ", ".join(x.categories) + x.get_sort_title())
-            # gather all different paths to categories
-            groups_of_categories = dict()
-            for bop_source in relevant_nodes:
-                cat_key = str(bop_source.categories)
-                if cat_key not in groups_of_categories:
-                    groups_of_categories[cat_key] = bop_source.categories.copy()
-            # remove standard paths to make the building block index more readable
-            for cat_key in groups_of_categories:
-                if cat_key.startswith("['branches'"):
-                    groups_of_categories[cat_key].pop(0)
-                if cat_key.startswith("['history'"):
-                    groups_of_categories[cat_key].pop(0)
-            to_be_processed_cats = list()
-            for cat_key in groups_of_categories:
-                for cat in groups_of_categories[cat_key]:
-                    if cat not in to_be_processed_cats:
-                        to_be_processed_cats.append(cat)
+    def _filter_nodes_by_lambda(self, filter_expr):
+        filtered_nodes = list(filter(filter_expr, self._all_nodes.values()))
+        # sort alphabetically
+        filtered_nodes.sort(key=lambda x: ", ".join(x.categories) + ", " + x.get_sort_title())
+        return filtered_nodes
 
-            # make the index nesting the categories
-            if len(to_be_processed_cats) > 0:
-                while len(to_be_processed_cats) > 0:
-                    level = 3
-                    cat = to_be_processed_cats[0]
-                    index += self.__get_recursive_categories(level, cat, relevant_node_ids, to_be_processed_cats,
-                                                             layout)
-            else:
-                level = 3
-                cat = ""
-                index += self.__get_recursive_categories(level, cat, relevant_node_ids, to_be_processed_cats, layout)
+    def _filter_nodes_by_issue(self, issue: str):
+        issue_node = BopIndexNode()
+        issue_node.label = issue.replace("-", " ").title()
+        issue_node.parent = self._index_tree
+        relevant_bop_sources = self._filter_nodes_by_lambda(lambda x: issue in x.issues)
+        self._add_to_index_tree_by_category(issue_node, relevant_bop_sources)
 
-            index += "  </ul>\n"
-            index += " </li>\n"
-        return index
+    def _filter_nodes_by_layout(self, layout: str):
+        layout_node = BopIndexNode()
+        layout_node.label = BopSource.get_plural_layout_title(layout)
+        layout_node.parent = self._index_tree
+        relevant_bop_sources = self._filter_nodes_by_lambda(lambda x: x.layout == layout)
+        self._add_to_index_tree_by_category(layout_node, relevant_bop_sources)
 
-    def __get_recursive_categories(self, level: int, cat: str, relevant_node_ids: list, relevant_cats: list,
-                                   layout: str):
-        index = ""
-        if cat != "":
-            cat_title = cat.replace("-", " ").title()
-            category_graph = self._validator.get_category_graph()
-            if len(category_graph[cat]) > 0:
-                level += 1
-                index += " " * level + "<li><span class='caret'>{0}</span>\n".format(cat_title)
-                level += 1
-                index += " " * level + "<ul class='nested'>\n"
-                for childcat in category_graph[cat]:
-                    if childcat in relevant_cats:
-                        level += 1
-                        index += self.__get_recursive_categories(level, childcat, relevant_node_ids, relevant_cats,
-                                                                 layout)
-                        level -= 1
-                index += " " * level + "</ul>\n"
-                level -= 1
-                index += " " * level + "</li>\n"
-            else:
-                level += 1
-                index += " " * level + "<li><span class='caret'>{0}</span>\n".format(cat_title)
-                level += 1
-                index += " " * level + "<ul class='nested'>\n"
-                all_categories = self._validator.get_all_categories()
-                for node in all_categories[cat]:
-                    if node.nodeid in relevant_node_ids:
-                        index += " " * level + \
-                                 "<li><span>{0}:</span> <a href='{1}'>{2}</a></li>\n".format(
-                                     BopSource.get_layout_title(node.layout),
-                                     node.url(),
-                                     node.get_long_title())
-                level -= 1
-                index += " " * level + "</ul>\n"
-                level -= 1
-                index += " " * level + "</li>\n"
-            if len(relevant_cats) > 0:
-                relevant_cats.pop(0)
-        else:
-            all_nodes = self._validator.get_nodes()
-            for nodeid in relevant_node_ids:
-                node = all_nodes[nodeid]
-                if node.layout == layout:
-                    index += " " * level + \
-                             "<li><span>{0}:</span> <a href='{1}'>{2}</a></li>\n".format(
-                                 BopSource.get_layout_title(node.layout),
-                                 node.url(),
-                                 node.get_long_title())
-        return index
+    def _add_to_index_tree_by_category(self, root_node: BopIndexNode, relevant_bop_sources: list):
+        processed_categories = dict()
+        last_parent = root_node
+        for bop_source in relevant_bop_sources:
+            for i in range(1, len(bop_source.categories)):
+                cat_id = ",".join(bop_source.categories[1:i + 1])
+                found_parent = None
+                for ci in processed_categories:
+                    if cat_id.startswith(ci):
+                        found_parent = processed_categories[ci]
+                if found_parent is None:
+                    if cat_id not in processed_categories:
+                        processed_categories[cat_id] = root_node
+                    last_parent = root_node
+                    cat_node = BopIndexNode()
+                    cat_node.label = bop_source.categories[i].replace("-", " ").title()
+                    cat_node.parent = last_parent
+                    last_parent = cat_node
+                    processed_categories[cat_id] = cat_node
+                else:
+                    if cat_id not in processed_categories:
+                        cat_node = BopIndexNode()
+                        cat_node.label = bop_source.categories[i].replace("-", " ").title()
+                        cat_node.parent = found_parent
+                        last_parent = cat_node
+                        processed_categories[cat_id] = cat_node
+
+            node = BopIndexNode()
+            node.bop_source = bop_source
+            node.parent = last_parent

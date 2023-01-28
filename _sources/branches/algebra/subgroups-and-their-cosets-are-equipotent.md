@@ -1,7 +1,7 @@
 layout: lemma
 categories: branches,algebra
 nodeid: bookofproofs$8269
-orderid: 15
+orderid: 1500
 parentid: bookofproofs$137
 title: Subgroups and Their Cosets are Equipotent
 description: SUBGROUPS AND THEIR COSETS ARE EQUIPOTENT &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
