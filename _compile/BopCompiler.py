@@ -1,5 +1,6 @@
 import re
 import markdown
+import time
 
 from FileMgr import FileMgr
 from BopSource import BopSource, BopLayouts
@@ -10,6 +11,7 @@ from BopIndexCompiler import BopIndexCompiler
 
 class BopCompiler:
     local = False
+    verbose = False
 
     def __init__(self):
         self.fm = FileMgr()
@@ -64,8 +66,9 @@ class BopCompiler:
         print("Writing compiled sources...")
         for source in self.sources:
             bop_source = self.sources[source]
-            file_destination = bop_source.get_file_destination()
-            self.fm.write_file(file_destination, bop_source.name + ".html", bop_source.get_compiled_content())
+            if bop_source.layout != BopLayouts.hidden:
+                file_destination = bop_source.get_file_destination()
+                self.fm.write_file(file_destination, bop_source.name + ".html", bop_source.get_compiled_content())
 
     def _render_references(self, bop_source: BopSource):
         references_md = "<hr>\n"
@@ -134,6 +137,10 @@ class BopCompiler:
         self.indices["{{ q-index }}"] = self._index_compiler.get_issue_index()
         print("   Making contributors index")
         self.indices["{{ c-index }}"] = self._index_compiler.get_contributors_index()
+        print("   Making keywords index")
+        self.indices["{{ ii-index }}"] = self._index_compiler.get_keywords_index()
+        print("   Making SEO keywords index")
+        self.indices["{{ k-index }}"] = self._index_compiler.get_seo_keywords_index()
 
     def _render_all_sources(self):
         print("Rendering sources...")
@@ -206,28 +213,14 @@ class BopCompiler:
     def _render_all_markdowns(self):
         print("   Rendering markdowns")
         for source in self.sources:
+            start_time = time.time()
             bop_source = self.sources[source]
-            if bop_source.parent is not None and bop_source.parent.nodeid == 'bookofproofs$i':
-                bop_source.set_body(self._replace_indices(bop_source.get_body()))
             content_replaced = self._replace_template(self._main_template, bop_source)
-            # since we have no webserver, replace all hyperlinks
-            # ending with "/" by the same ending with "/<site>.html"
-            # replace urls starting with the root url to local
-            content_replaced = self._replace_links_with_folders(
-                r"(href=\'https\:\/\/bookofproofs\.github\.io.*?)([a-z\-]+)(\/\')", r"\1\2/\2.html'",
-                content_replaced)
-            content_replaced = self._replace_links_with_folders(
-                r"(href=\"https\:\/\/bookofproofs\.github\.io.*?)([a-z\-]+)(\/\")", r'\1\2/\2.html"',
-                content_replaced)
+            if bop_source.parent is not None and bop_source.parent.nodeid == 'bookofproofs$i':
+                content_replaced = self._replace_indices(content_replaced)
             bop_source.set_compiled_content(content_replaced)
-
-    def _replace_links_with_folders(self, pattern_str: str, str_repl: str, content_replaced: str):
-        pattern = re.compile(pattern_str)
-        target = content_replaced
-        for match in pattern.finditer(content_replaced):
-            if BopSource.url_root in match.group(1):
-                target = re.sub(pattern_str, str_repl, target, flags=re.M)
-        return target
+            if BopCompiler.verbose:
+                print("            {0}s: {1}".format("%.2f" % (time.time() - start_time), source))
 
     def _replace_indices(self, content_replaced: str):
         for index in self.indices:

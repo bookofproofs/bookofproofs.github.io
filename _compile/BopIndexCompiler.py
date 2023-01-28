@@ -1,3 +1,5 @@
+import re
+
 from BopSource import BopSource, BopLayouts
 from BopIndexNode import BopIndexNode
 
@@ -166,6 +168,101 @@ class BopIndexCompiler:
 
         self._calculate_counts(self._index_tree)
         return self._get_index_to_html()
+
+    def get_keywords_index(self):
+        # gather all keyword-defining nodes
+        keyword_defining_nodes = dict()
+        keyword_defining_nodesids = set()
+        pattern = re.compile(r"\*\*(.+?)\*\*")
+        for bop_source in self._all_nodes.values():
+            content = bop_source.get_pre_body() + "\n" + bop_source.get_body()
+            distinct_keywords = set()
+            for match in pattern.finditer(content):
+                keyword = match.group(1)
+                if keyword not in distinct_keywords:
+                    distinct_keywords.add(keyword)
+            for keyword in distinct_keywords:
+                if keyword not in keyword_defining_nodes:
+                    keyword_defining_nodes[keyword] = list()
+                keyword_defining_nodes[keyword].append(bop_source)
+                keyword_defining_nodesids.add(bop_source.nodeid)
+        # create keyword-referencing and keyword-containing nodes
+        keyword_referencing_nodes = dict()
+        keyword_containing_nodes = dict()
+
+        for keyword in keyword_defining_nodes:
+            if keyword not in keyword_referencing_nodes:
+                keyword_referencing_nodes[keyword] = list()
+            if keyword not in keyword_containing_nodes:
+                keyword_containing_nodes[keyword] = list()
+            for bop_source in keyword_defining_nodes[keyword]:
+                content = bop_source.get_pre_body() + "\n" + bop_source.get_body()
+                if "][" + bop_source.nodeid + "]" in content:
+                    keyword_referencing_nodes[keyword].append(bop_source)
+                if keyword in content and bop_source.nodeid not in keyword_defining_nodesids:
+                    keyword_containing_nodes[keyword].append(bop_source)
+        sorted_keywords = list(keyword_defining_nodes.keys())
+        sorted_keywords.sort()
+        # create the actual html index
+        index = ""
+        for keyword in sorted_keywords:
+            link_counter = 0
+            keyword_term = keyword
+            if keyword_term == "":
+                keyword_term = "&lt;missing&gt;"
+            index += "<dl><dt>" + keyword_term + "</dt><dd>"
+            for bop_source in keyword_defining_nodes[keyword]:
+                link_counter += 1
+                index += "<a href='{0}'>[{1}]</a> ".format(bop_source.url(), link_counter)
+            for bop_source in keyword_referencing_nodes[keyword]:
+                link_counter += 1
+                index += "<a href='{0}'>({1})</a> ".format(bop_source.url(), link_counter)
+            for bop_source in keyword_containing_nodes[keyword]:
+                link_counter += 1
+                index += "<a href='{0}'>{1}</a> ".format(bop_source.url(), link_counter)
+            index += "</dd><dl>\n"
+        return index
+
+    def get_seo_keywords_index(self):
+        # gather all keyword-defining nodes
+        keyword_defining_nodes = dict()
+        for bop_source in self._all_nodes.values():
+            distinct_keywords = set()
+            for keyword in bop_source.keywords.split(","):
+                if keyword not in distinct_keywords:
+                    distinct_keywords.add(keyword)
+            for keyword in distinct_keywords:
+                if keyword not in keyword_defining_nodes:
+                    keyword_defining_nodes[keyword] = list()
+                keyword_defining_nodes[keyword].append(bop_source)
+        # create keyword-containing nodes
+        keyword_containing_nodes = dict()
+        for keyword in keyword_defining_nodes:
+            if keyword not in keyword_containing_nodes:
+                keyword_containing_nodes[keyword] = list()
+            for bop_source in keyword_defining_nodes[keyword]:
+                content = bop_source.get_pre_body() + "\n" + bop_source.get_body()
+                if keyword in content:
+                    keyword_containing_nodes[keyword].append(bop_source)
+        sorted_keywords = list(keyword_defining_nodes.keys())
+        sorted_keywords.sort()
+
+        # create the actual html index
+        index = ""
+        for keyword in sorted_keywords:
+            link_counter = 0
+            keyword_term = keyword
+            if keyword_term == "":
+                keyword_term = "&lt;missing&gt;"
+            index += "<dl><dt>" + keyword_term + "</dt><dd>"
+            for bop_source in keyword_defining_nodes[keyword]:
+                link_counter += 1
+                index += "<a href='{0}'>[{1}]</a> ".format(bop_source.url(), link_counter)
+            for bop_source in keyword_containing_nodes[keyword]:
+                link_counter += 1
+                index += "<a href='{0}'>{1}</a> ".format(bop_source.url(), link_counter)
+            index += "</dd><dl>\n"
+        return index
 
     def _collect_nodes_with_issue(self, issue_type: str):
         ret = list()

@@ -21,7 +21,6 @@ class BopLayouts:
     index = "index"
     lemma = "lemma"
     motivation = "motivation"
-    notation = "notation"
     part = "part"
     proof = "proof"
     problem = "problem"
@@ -358,7 +357,7 @@ class BopSource:
         path_link = BopSource.url_root
         for cat in self.categories:
             path_link += "/" + cat
-            path.append("<a href='{0}/'>{1}</a>".format(path_link, cat.capitalize()))
+            path.append("<a href='{0}'>{1}</a>".format(path_link + "/" + cat + ".html", cat.capitalize()))
         path_title = BopSource.get_layout_title(self.layout)
         if path_title != ".":
             path_title = self.get_plane_title()

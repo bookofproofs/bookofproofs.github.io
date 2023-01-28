@@ -1,7 +1,8 @@
-layout: notation
-categories: index
+layout: index
 nodeid: bookofproofs$nota
 parentid: bookofproofs$i
+categories: index
+orderid: 600
 title: Symbolic Notation 
 contributors: bookofproofs
 ---
