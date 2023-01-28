@@ -213,13 +213,18 @@ class BopIndexCompiler:
             index += "<dt>" + keyword_term + "</dt><dd>"
             for bop_source in keyword_defining_nodes[keyword]:
                 link_counter += 1
-                index += "<a href='{0}'>[{1}]</a> ".format(bop_source.url(), link_counter)
+                if link_counter <= 100:
+                    index += "<a href='{0}'>[{1}]</a> ".format(bop_source.url(), link_counter)
             for bop_source in keyword_referencing_nodes[keyword]:
                 link_counter += 1
-                index += "<a href='{0}'>({1})</a> ".format(bop_source.url(), link_counter)
+                if link_counter <= 100:
+                    index += "<a href='{0}'>({1})</a> ".format(bop_source.url(), link_counter)
             for bop_source in keyword_containing_nodes[keyword]:
                 link_counter += 1
-                index += "<a href='{0}'>{1}</a> ".format(bop_source.url(), link_counter)
+                if link_counter <= 100:
+                    index += "<a href='{0}'>{1}</a> ".format(bop_source.url(), link_counter)
+            if link_counter > 100:
+                index += "... (" + str(link_counter-100) + " more)"
             index += "</dd>\n"
         index += "</dl>\n"
         return index
@@ -260,10 +265,14 @@ class BopIndexCompiler:
             index += "<dt>" + keyword_term + "</dt><dd>"
             for bop_source in keyword_defining_nodes[keyword]:
                 link_counter += 1
-                index += "<a href='{0}'>[{1}]</a> ".format(bop_source.url(), link_counter)
+                if link_counter <= 100:
+                    index += "<a href='{0}'>[{1}]</a> ".format(bop_source.url(), link_counter)
             for bop_source in keyword_containing_nodes[keyword]:
                 link_counter += 1
-                index += "<a href='{0}'>{1}</a> ".format(bop_source.url(), link_counter)
+                if link_counter <= 100:
+                    index += "<a href='{0}'>{1}</a> ".format(bop_source.url(), link_counter)
+            if link_counter > 100:
+                index += "... (" + str(link_counter-100) + " more)"
             index += "</dd>\n"
         index += "</dl>\n"
         return index
