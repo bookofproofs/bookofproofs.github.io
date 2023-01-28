@@ -116,8 +116,7 @@ class BopCompiler:
                     self._source_licenses_ids.add(bop_source.nodeid)
             else:
                 bop_source = BopSource(file)
-            if bop_source.layout != BopLayouts.hidden:
-                self.sources[file] = bop_source
+            self.sources[file] = bop_source
 
     def _validate_all_sources(self):
         print("Validating sources...")
@@ -135,8 +134,6 @@ class BopCompiler:
         self.indices["{{ q-index }}"] = self._index_compiler.get_issue_index()
         print("   Making contributors index")
         self.indices["{{ c-index }}"] = self._index_compiler.get_contributors_index()
-        # print("   Making symbolic notation index")
-        # self.indices["{{ n-index }}"] = self._index_compiler.get_notation_index()
 
     def _render_all_sources(self):
         print("Rendering sources...")
@@ -210,10 +207,11 @@ class BopCompiler:
         print("   Rendering markdowns")
         for source in self.sources:
             bop_source = self.sources[source]
-            content_replaced = self._replace_template(self._main_template, bop_source)
             if bop_source.parent is not None and bop_source.parent.nodeid == 'bookofproofs$i':
-                content_replaced = self._replace_indices(content_replaced)
-            # since we have no webserver, replace all hyperlinks ending with "/" by the same ending with "/<site>.html"
+                bop_source.set_body(self._replace_indices(bop_source.get_body()))
+            content_replaced = self._replace_template(self._main_template, bop_source)
+            # since we have no webserver, replace all hyperlinks
+            # ending with "/" by the same ending with "/<site>.html"
             # replace urls starting with the root url to local
             content_replaced = self._replace_links_with_folders(
                 r"(href=\'https\:\/\/bookofproofs\.github\.io.*?)([a-z\-]+)(\/\')", r"\1\2/\2.html'",

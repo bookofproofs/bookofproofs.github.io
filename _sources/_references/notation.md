@@ -8,7 +8,8 @@ Notation | Description  | Comment
 `$G=\langle g \rangle$` | [cyclic group][bookofproofs$807] |
 `$\operatorname{ord}(a)$` | [order of the element][bookofproofs$807] `$a$` |
 `$(\mathbb B,\sqcap,\sqcup,1,0)$` | [Boolean algebra][bookofproofs$7872] |
-`$\operatorname{char}( F )$` | [characteristic (here of a field)][bookofproofs$8275], [characteristic (here of a ring)][bookofproofs$881] |
+`$\operatorname{char}( F )$` | [characteristic (here of a field)][bookofproofs$8275] |
+`$\operatorname{char}( F )$` | [characteristic (here of a ring)][bookofproofs$881] |
 `$(R,+,\cdot)$` | [ring, unit ring][bookofproofs$683] |
 `$a\sim_G b$` | [conjugate elements][bookofproofs$8266] `$a,b$` in the group `$G$` |
 `$a\mid b$` | [divisor (generalization)][bookofproofs$8257] |
@@ -309,7 +310,7 @@ Notation | Description  | Comment
 `$x-y$` | [subtraction (here integers)][bookofproofs$1585] |
 `$a_1+a_2+\cdots+a_n$` | [sum (three dots-notation)][bookofproofs$261]  |
 `$\sum_{k=1}^n a_k$` | [sum (delimited notation)][bookofproofs$261]  |
-`$\sum_{ \substack{ 1\text{st condition on }k \\ 2\text{nd condition on }k\\ \vdots }}a_k\$` | [sum (general notation)][bookofproofs$261]  |
+`$\sum_{ \substack{ 1\text{st condition on }k \\ 2\text{nd condition on }k\\ \vdots }}a_k$` | [sum (general notation)][bookofproofs$261]  |
 `$\tilde G$` | [suppressed multigraph][bookofproofs$1169] |
 `$\sup(D)$` | [supremum][bookofproofs$1754] of a subset of real numbers `$D\subseteq\mathbb R$` |
 `$\tan(x)$` | [tangent][bookofproofs$6746] of `$x$` |

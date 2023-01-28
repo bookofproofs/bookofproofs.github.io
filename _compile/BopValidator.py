@@ -63,6 +63,7 @@ class BopValidator:
         self._validate_orderids()
         self._validate_parentids()
         self._validate_tree()
+        self._validate_notation()
         self._validate_hyperlinks()
         self._validate_scripts()
         self._validate_categories()
@@ -75,13 +76,12 @@ class BopValidator:
         :return: None, or raises an Error
         """
         print("   Validating nodeid")
-        for source_id in self.sources:
-            bop_source = self.sources[source_id]
+        for bop_source in self.sources.values():
             if bop_source.layout == "":
                 raise AssertionError("Missing layout detected in " + bop_source.get_file_name())
             if bop_source.layout == BopLayouts.default and bop_source.nodeid != "":
                 raise AssertionError("Nodeid not allowed for nodes with layout:default " + bop_source.get_file_name())
-            elif bop_source.layout != BopLayouts.default and bop_source.nodeid == "":
+            elif bop_source.layout not in [BopLayouts.default, BopLayouts.hidden] and bop_source.nodeid == "":
                 raise AssertionError("Missing nodeid when layout: (other than default) " + bop_source.get_file_name())
             if bop_source.nodeid != "" and bop_source.nodeid not in self._unique_nodeids:
                 self._unique_nodeids[bop_source.nodeid] = bop_source
@@ -135,7 +135,6 @@ class BopValidator:
                     bop_source.issues.append("conflicting-order-of-children")
                     break
 
-
     def _validate_parentids(self):
         """
         Check for missing parentids
@@ -146,11 +145,13 @@ class BopValidator:
             bop_source = self._unique_nodeids[source_id]
             if bop_source.parentid == "" and bop_source.nodeid in BopSource.root_nodes:
                 pass  # only the single node bookofproofs$0 may have no parentid (since it is the root)
-            elif bop_source.parentid == "" and bop_source.nodeid not in BopSource.root_nodes:
+            elif bop_source.parentid == "" and bop_source.nodeid not in BopSource.root_nodes and \
+                    bop_source.layout != BopLayouts.hidden:
                 raise AssertionError(
-                    "Missing parentid only allowed for the root nodes {0}; ".format(str(BopSource.root_nodes)) +
+                    "Missing parentid only allowed for hidden and the root nodes {0}; ".format(
+                        str(BopSource.root_nodes)) +
                     "detected in " + bop_source.get_file_name())
-            elif bop_source.parentid not in self._unique_nodeids:
+            elif bop_source.parentid not in self._unique_nodeids and bop_source.layout != BopLayouts.hidden:
                 raise AssertionError(
                     "Unknown parentid {0} detected in ".format(bop_source.parentid) + bop_source.get_file_name())
             if bop_source.parentid != "":
@@ -278,7 +279,7 @@ class BopValidator:
         print("   Validating categories")
         for nodeid in self._unique_nodeids:
             bop_source = self._unique_nodeids[nodeid]
-            if len(bop_source.categories) == 0:
+            if len(bop_source.categories) == 0 and bop_source.layout != BopLayouts.hidden:
                 raise AssertionError(
                     "Missing categories in {0}".format(bop_source.get_file_name()))
             if bop_source.parent is not None:
@@ -392,6 +393,62 @@ class BopValidator:
             print("      Issues with {0}".format(str(erroneous_layouts)))
             print("      (were added to {0})".format(str(errors_found)))
 
+    def _validate_notation(self):
+        """
+        Check if the the notation of each node is is allowed inside the layout of its parent
+        :return: None, or raises an Error
+        """
+        print("   Validating notation")
+        notation_file = "../_sources/_references/notation.md"
+        notation_data = self.sources[notation_file].get_body().splitlines()
+        index_file = "../_sources/index/n-index.md"
+        unique_categories = dict()
+        for line in notation_data:
+            pattern = re.compile(r"\[(.*?)\]\[(.*?)\]")
+            unique_references_per_notation = set()
+            for match in pattern.finditer(line):
+                if match.group(2) not in unique_references_per_notation:
+                    unique_references_per_notation.add(match.group(2))
+                if match.group(2) not in self._unique_nodeids:
+                    raise AssertionError("Unknown id '{0}' found in {1}".format(match.group(2), notation_file))
+                else:
+                    referenced_node = self._unique_nodeids[match.group(2)]
+                    cat_id = ",".join(referenced_node.categories)
+                    if cat_id not in unique_categories:
+                        unique_categories[cat_id] = list()
+                    unique_categories[cat_id].append(line)
+            if "Notation" not in line and "Description not in line" and ":---" not in line:
+                if len(unique_references_per_notation) > 1:
+                    raise AssertionError("Multiple references '{0}' found in line {1} in {2}".format(
+                        str(unique_references_per_notation),
+                        line,
+                        notation_file)
+                    )
+                if len(unique_references_per_notation) == 0:
+                    raise AssertionError("Missing references in line {0} found in {1}".format(
+                        line,
+                        notation_file)
+                    )
+                if len(line.split("|")) != 3:
+                    raise AssertionError("Notation line {0} does not have 3 columns {1}".format(
+                        line,
+                        notation_file)
+                    )
+        print("   Making symbolic notation index")
+        keys = list(unique_categories.keys())
+        keys.sort()
+        index = ""
+        new_table = "\n\nNotation | Description  | Comment\n:------------- | :------------- | :-------------\n"
+        for key in keys:
+            notation_header = key.replace("branches,", "").replace(",", " / ").replace("-", " ").title()
+            index += "### " + notation_header + new_table
+            for line in unique_categories[key]:
+                index += line + "\n"
+            index += "\n\n"
+        replaced = self.sources[index_file].get_body()
+        replaced = replaced.replace("{{ n-index }}", index)
+        self.sources[index_file].set_body(replaced)
+
     def get_parent_child_graph(self):
         return self._parent_child_graph
 
@@ -403,3 +460,6 @@ class BopValidator:
 
     def get_all_categories(self):
         return self._all_categories
+
+    def get_notation(self):
+        return self._notation

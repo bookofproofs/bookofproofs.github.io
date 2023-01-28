@@ -218,6 +218,9 @@ class BopSource:
     def get_body(self):
         return self._body
 
+    def set_body(self, body: str):
+        self._body = body
+
     def get_pre_body(self):
         return self._pre_body
 
