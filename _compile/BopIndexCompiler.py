@@ -204,13 +204,13 @@ class BopIndexCompiler:
         sorted_keywords = list(keyword_defining_nodes.keys())
         sorted_keywords.sort()
         # create the actual html index
-        index = ""
+        index = "<dl>"
         for keyword in sorted_keywords:
             link_counter = 0
             keyword_term = keyword
             if keyword_term == "":
                 keyword_term = "&lt;missing&gt;"
-            index += "<dl><dt>" + keyword_term + "</dt><dd>"
+            index += "<dt>" + keyword_term + "</dt><dd>"
             for bop_source in keyword_defining_nodes[keyword]:
                 link_counter += 1
                 index += "<a href='{0}'>[{1}]</a> ".format(bop_source.url(), link_counter)
@@ -220,7 +220,8 @@ class BopIndexCompiler:
             for bop_source in keyword_containing_nodes[keyword]:
                 link_counter += 1
                 index += "<a href='{0}'>{1}</a> ".format(bop_source.url(), link_counter)
-            index += "</dd><dl>\n"
+            index += "</dd>\n"
+        index += "</dl>\n"
         return index
 
     def get_seo_keywords_index(self):
@@ -248,20 +249,21 @@ class BopIndexCompiler:
         sorted_keywords.sort()
 
         # create the actual html index
-        index = ""
+        index = "<dl>"
         for keyword in sorted_keywords:
             link_counter = 0
             keyword_term = keyword
             if keyword_term == "":
                 keyword_term = "&lt;missing&gt;"
-            index += "<dl><dt>" + keyword_term + "</dt><dd>"
+            index += "<dt>" + keyword_term + "</dt><dd>"
             for bop_source in keyword_defining_nodes[keyword]:
                 link_counter += 1
                 index += "<a href='{0}'>[{1}]</a> ".format(bop_source.url(), link_counter)
             for bop_source in keyword_containing_nodes[keyword]:
                 link_counter += 1
                 index += "<a href='{0}'>{1}</a> ".format(bop_source.url(), link_counter)
-            index += "</dd><dl>\n"
+            index += "</dd>\n"
+        index += "</dl>\n"
         return index
 
     def _collect_nodes_with_issue(self, issue_type: str):
