@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="3.07: RELATIVE LENGTHS OF LINES INSIDE CIRCLE &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="circle,inside,lengths,lines,relative">
+<title>3.07: Relative Lengths of Lines Inside Circle</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--3-circles/touching-circles-have-different-centers-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--3-circles/propositions-from-book-3.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--3-circles/relative-lengths-of-lines-inside-circle-proof.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/geometry/geometry.html'>Geometry</a> / <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclidean-geometry.html'>Euclidean-geometry</a> / <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/elements-euclid.html'>Elements-euclid</a> / <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--3-circles/book--3-circles.html'>Book--3-circles</a> / Proposition: 3.07: Relative Lengths of Lines Inside Circle</h3>
+
+<hr>
+
+<h1>Proposition: 3.07: Relative Lengths of Lines Inside Circle</h1>
+<h3>(Proposition 7 from Book 3 of Euclid's “Elements”)</h3>
+<blockquote>
+<p>If some <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/point.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.01: Point">point</a>, which is not the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/center-of-the-circle.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.16: Center of the Circle">center</a> of the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circle</a>, is taken on the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/diameter-of-the-circle.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.17: Diameter of the Circle">diameter</a> of a <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circle</a>, and some <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight lines</a> radiate from the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/point.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.01: Point">point</a> towards the (<a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circumference</a> of the) <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circle</a>, then the greatest (<a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight line</a>) will be that on which the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/center-of-the-circle.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.16: Center of the Circle">center</a> (lies), and the least the remainder (of the same <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/diameter-of-the-circle.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.17: Diameter of the Circle">diameter</a>). And for the others, a (<a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight line</a>) nearer<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> to the (<a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight line</a>) through the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/center-of-the-circle.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.16: Center of the Circle">center</a> is always greater than a (<a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight line</a>) further away. And only two equal (<a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight lines</a>) will radiate from the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/point.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.01: Point">point</a> towards the (<a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circumference</a> of the) <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circle</a>, (one) on each (side) of the least (<a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight line</a>).
+* Let $ABCD$ be a <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circle</a>, and let $AD$ be its <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/diameter-of-the-circle.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.17: Diameter of the Circle">diameter</a>, and let some <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/point.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.01: Point">point</a> $F$, which is not the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/center-of-the-circle.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.16: Center of the Circle">center</a> of the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circle</a>, have been taken on $AD$.
+* Let $E$ be the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/center-of-the-circle.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.16: Center of the Circle">center</a> of the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circle</a>.
+* And let some <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight lines</a>, $FB$, $FC$, and $FG$, radiate from $F$ towards (the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circumference</a> of) <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circle</a> $ABCD$.
+* I say that $FA$ is the greatest (<a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight line</a>), $FD$ the least, and of the others, $FB$ (is) greater than $FC$, and $FC$ than $FG$.</p>
+</blockquote>
+<p><img alt="fig07e" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book03/fig07e.png?raw=true" /></p>
+<h3>Modern Formulation</h3>
+<p>If a point $F$ is located on the diameter ($\overline{AD}$) of a given circle and is not its center ($E$), then if we connect this point $F$ to all points of the circumference, we get a infinite family of segments, among which exactly one is the longest (let it be $\overline{FA}$ with the length $\beta$), exactly one is the shortest (let it be $\overline{FD}$ with the length $\alpha$) and all other (infinitely many) segments are located on both sides of the diameter, and their lengths $\gamma$ take all values between $ \alpha\le \gamma\le \beta$. Moreover, among these infinitely many segments there are exactly two segments with the same length $\gamma$, namely those which lie symmetrically with respect to the diameter $\overline{AD}.$ </p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<p>Proofs: <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--3-circles/relative-lengths-of-lines-inside-circle-proof.html'>1</a> </p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> @fitzpatrick <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/geometry/euclidean-geometry/elements-euclid/book--3-circles/relative-lengths-of-lines-inside-circle.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Freely downloadable (subject to copyright)</h4>
+<ol>
+<li><strong>Fitzpatrick, Richard</strong>: "Euclid's Elements of Geometry", <a href="https://farside.ph.utexas.edu/Books/Euclid/Euclid.html">https://farside.ph.utexas.edu/Books/Euclid/Euclid.html</a>, 2007</li>
+</ol>
+<h4>CC BY-SA 3.0</h4>
+<ol>
+<li><strong>Prime.mover and others</strong>: "Pr∞fWiki", <a href="https://proofwiki.org/wiki/Main_Page">https://proofwiki.org/wiki/Main_Page</a>, 2016</li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Presumably, in an angular sense (translator's note).&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

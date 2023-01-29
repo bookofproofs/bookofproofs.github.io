@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="EUCLIDEAN MOVEMENT - ISOMETRY ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="euclidean movement,isometry,movement,plane of reflection,reflection,rotation,rotation axis,translation">
+<title>Euclidean Movement - Isometry</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/between-relation-axioms-of-order.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclidean-geometry.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/congruence.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/geometry/geometry.html'>Geometry</a> / <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclidean-geometry.html'>Euclidean-geometry</a> / Definition: Euclidean Movement - Isometry</h3>
+
+<hr>
+
+<h1>Definition: Euclidean Movement - Isometry</h1>
+<p>In a <a href="https://bookofproofs.github.io/branches/analysis/definition-of-the-metric-space-r-n-euclidean-norm.html" title="Analysis / Proposition: Definition of the Metric Space `\(\mathbb R^n\)`, Euclidean Norm">Euclidean metric space</a> \((\mathbb R^n,d)\) with the Euclidean distance</p>
+<p>\[d(A,B):=\sqrt{(x_1+y_1)^2+(x_2+y_2)^2+\ldots+(x_n+y_n)^2}\]</p>
+<p>for any two points \(A,B\in\mathbb R^n\):</p>
+<p>\[\begin{array}{rcl}
+A&amp;=&amp;(x_1,x_2,\ldots,x_n),\\
+B&amp;=&amp;(y_1,y_2,\ldots,y_n)
+\end{array}\]</p>
+<p>a <strong>Euclidean movement</strong> is an <a href="https://bookofproofs.github.io/branches/algebra/automorphism.html" title="Algebra / Definition: Automorphism">automorphism</a> (i.e. reversible function of \(\mathbb R^n\) to itself)</p>
+<p>\[f :\mathbb R^n \mapsto \mathbb R^n,\]</p>
+<p>which is also an <a href="https://bookofproofs.github.io/branches/topology/isometry.html" title="Topology / Definition: Isometry">isometry</a>, i.e. which preserves the distance</p>
+<p>\[d(f(A),f(B))=d(A,B).\]</p>
+<p>There are four types of Euclidean movements:</p>
+<ol>
+<li><strong>Identity</strong> - maps every point \(A\) to itself (no movement at all)</li>
+<li><strong>Translation</strong> - moves every point \(A\) by the same amount in a given direction.</li>
+<li><strong>Rotation</strong> - circular movement of any point \(A\) around a center . In the plane \(\mathbb R^2\), this center is called the <strong>point of rotation</strong>. In the three-dimensional space \(\mathbb R^3\), objects always rotate around an imaginary line called a <strong>rotation axis</strong>. </li>
+<li><strong>Rotation</strong> - circular movement of any point \(A\) around a center . In the plane \(\mathbb R^2\), this center is called the <strong>point of rotation</strong>. In the three-dimensional space \(\mathbb R^3\), objects always rotate around an imaginary line called a <strong>rotation axis</strong>.</li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/geometry/euclidean-geometry/euclidean-movement-isometry.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="BASIC GEOMETRIC CONCEPTS IN PROJECTIVE GEOMETRY &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="basic,concepts,geometric,geometry,notation:,principle of duality in a plane,projective,basic geometry concepts">
+<title>Basic Geometric Concepts in Projective Geometry</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/geometry/projective-geometry/projective-geometry.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/geometry/projective-geometry/projective-geometry.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/geometry/projective-geometry/incidence.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/geometry/geometry.html'>Geometry</a> / <a href='https://bookofproofs.github.io/branches/geometry/projective-geometry/projective-geometry.html'>Projective-geometry</a> / Chapter: Basic Geometric Concepts in Projective Geometry</h3>
+
+<hr>
+
+<h1>Chapter: Basic Geometric Concepts in Projective Geometry</h1>
+<p>Projective geometry builds on some simple mathematical concepts also known in the Euclidean geometry but with some subtle differences. In the following, we want to refer to the concepts known from the Euclidean geometry and explain how the concepts differ in projective geometry.</p>
+<h3>Points</h3>
+<p>Naturally, we think of <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/point.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.01: Point">points</a> as infinitesimal dots with a "position" but "without any magnitude". This concept of a point is also used in projective geometry, however, "position" only has a <strong>relative meaning</strong>, i.e. in relation to other geometrical objects like lines or planes, not in the absolute meaning of distances or coordinates. For instance, in projective geometry it perfectly makes sense to speak about "points lying on a line", but sentences like <strong>"The distance of two points is $2$."</strong>, or a <strong>"The point in the plane has the coordinates $(1,2).$"</strong> do not make any sense!</p>
+<p>In the course of the next text we will extend the Euclidean definition to allow <strong>points at infinity</strong> - i.e. infinitely distant points on a straight line. </p>
+<p><em>Notation:</em> In the following, we will consistently denote points with Latin capital letters, e.g. $A,B,C,\ldots$</p>
+<h3>Straight Lines</h3>
+<p>Since distances and lengths do not play any role, projective geometry does not study <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">segments</a>. Even <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">rays</a> are not objects of study in projective geometry. Therefore, in projective geometry, <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight lines</a> always have unlimited extend in both directions.</p>
+<p>In the course of the text to follow we will extend the Euclidean definition of a straight line to allow a <strong>straight line at infinity</strong> - i.e. a straight line connecting two distinct points at infinity. </p>
+<p><em>Notation:</em> In the following, we will consistently denote straight lines with small Latin letters, e.g. $k,l,m\ldots$</p>
+<h3>Planes</h3>
+<p>The concept of a <strong>plane</strong> is the same as <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/def-1-07-plane.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.07: Plane">defined in the Euclidean geometry</a>, with the difference that also contains all points and lines at infinity.</p>
+<p><em>Notation:</em> In the following, we will consistently denote planes with small Greek letters, e.g. $\alpha,\beta,\gamma\ldots$</p>
+<p>The <strong>principle of duality in a plane</strong> asserts that every definition in the projective geometry remains meaningful and every theorem remains true, when we interchange the words "points" and "straight line", and consequently also certain other pairs of words such as "collinear" and "join" and "meet",
+Other simple geometrical concepts, which are specific to projective geometry, will be provided in the following text. These concepts include</p>
+<ul>
+<li><a href="https://bookofproofs.github.io/branches/geometry/projective-geometry/incidence.html" title="Geometry / Projective Geometry / Definition: Incidence">incidence</a>,</li>
+<li><a href="https://bookofproofs.github.io/branches/geometry/projective-geometry/collinear-points.html" title="Geometry / Projective Geometry / Definition: Collinear Points">collinear points</a>,</li>
+<li><a href="https://bookofproofs.github.io/branches/geometry/projective-geometry/concurrent-straight-lines.html" title="Geometry / Projective Geometry / Definition: Concurrent Straight Lines">concurrent straight lines</a>,</li>
+<li><a href="https://bookofproofs.github.io/branches/geometry/projective-geometry/coplanar-points-and-straight-lines.html" title="Geometry / Projective Geometry / Definition: Coplanar Points and Straight Lines">coplanar points and straight lines</a>,</li>
+<li><a href="https://bookofproofs.github.io/branches/geometry/projective-geometry/projectivities-ranges-and-pencils.html" title="Geometry / Projective Geometry / Definition: Projectivities, Ranges and Pencils">projectivities</a>, and</li>
+<li><a href="https://bookofproofs.github.io/branches/geometry/projective-geometry/perspectivities.html" title="Geometry / Projective Geometry / Definition: Perspectivities">perspectivities</a>.</li>
+</ul>
+<h3 class='navigation'>Table of Contents</h3>
+
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/geometry/projective-geometry/incidence.html'>Definition: Incidence</a></li>
+<li><a href='https://bookofproofs.github.io/branches/geometry/projective-geometry/collinear-points.html'>Definition: Collinear Points</a></li>
+<li><a href='https://bookofproofs.github.io/branches/geometry/projective-geometry/concurrent-straight-lines.html'>Definition: Concurrent Straight Lines</a></li>
+<li><a href='https://bookofproofs.github.io/branches/geometry/projective-geometry/coplanar-points-and-straight-lines.html'>Definition: Coplanar Points and Straight Lines</a></li>
+<li><a href='https://bookofproofs.github.io/branches/geometry/projective-geometry/projectivities-ranges-and-pencils.html'>Definition: Projectivities, Ranges and Pencils</a></li>
+<li><a href='https://bookofproofs.github.io/branches/geometry/projective-geometry/perspectivities.html'>Definition: Perspectivities</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/geometry/projective-geometry/basic-geometric-concepts-in-projective-geometry.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

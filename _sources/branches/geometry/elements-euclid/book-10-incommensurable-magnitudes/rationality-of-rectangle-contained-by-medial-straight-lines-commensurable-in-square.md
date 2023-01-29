@@ -1,0 +1,29 @@
+layout: proposition
+categories: branches,geometry,euclidean-geometry,elements-euclid,book-10-incommensurable-magnitudes
+nodeid: bookofproofs$2119
+orderid: 2400
+parentid: bookofproofs$1882
+title: Prop. 10.025: Rationality of Rectangle Contained by Medial Straight Lines Commensurable in Square
+description: 10.025: RATIONALITY OF RECTANGLE CONTAINED BY MEDIAL STRAIGHT LINES COMMENSURABLE IN SQUARE &#9733; master graduate maths &#10004; visit BookOfProofs now!
+references: bookofproofs$6419,bookofproofs$6908
+keywords: commensurable,contained,lines,medial,rationality,rectangle,square,straight
+contributors: bookofproofs,@fitzpatrick
+
+---
+
+
+---
+
+### (Proposition 25 from Book 10 of Euclid's “Elements”)
+
+> The [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by [medial][bookofproofs$2115] [straight lines][bookofproofs$645] (which are) [commensurable in square][bookofproofs$2082] only is either [rational][bookofproofs$2083] or [medial][bookofproofs$2115].
+* For let the [rectangle][bookofproofs$909] `$AC$` be contained by the [medial][bookofproofs$2115] [straight lines][bookofproofs$645] `$AB$` and `$BC$` (which are) [commensurable in square][bookofproofs$2082] only.
+* I say that `$AC$` is either [rational][bookofproofs$2083] or [medial][bookofproofs$2115].
+
+![fig025e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book10/fig025e.png?raw=true)
+
+
+
+### Modern Formulation
+
+(not yet contributed)

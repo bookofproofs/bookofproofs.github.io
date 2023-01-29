@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="1.04: STRAIGHT LINE, SEGMENT AND RAY ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="euclidean distance,length,line,ray,segment,segments,straight line,straight lines,rays,lines">
+<title>1.04: Straight Line, Segment and Ray</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/intersections-of-lines.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/definitions-from-book-1.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/collinear.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/geometry/geometry.html'>Geometry</a> / <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclidean-geometry.html'>Euclidean-geometry</a> / <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/elements-euclid.html'>Elements-euclid</a> / <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/book--1-plane-geometry.html'>Book--1-plane-geometry</a> / Definition: 1.04: Straight Line, Segment and Ray</h3>
+
+<hr>
+
+<h1>Definition: 1.04: Straight Line, Segment and Ray</h1>
+<blockquote>
+<p>A <strong>straight line</strong> is any <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/line.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.02: Line, Curve">line</a> which lies evenly with <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/point.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.01: Point">points</a> on itself.</p>
+</blockquote>
+<h3>Modern Definition</h3>
+<p>Note that Euclid does not distinguish between straight lines and segments. </p>
+<p>A <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/line.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.02: Line, Curve">line</a> connecting two given <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/point.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.01: Point">points</a> \(A\) and \(B\), $A\neq B,$ which is without a curve and infinite in length is called a <strong>straight line</strong> and denoted by \(AB\).</p>
+<p>The part of a straight line between the two <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/point.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.01: Point">points</a> \(C\) and \(D\) it connects is called a <strong>line segment</strong> (or simply a <strong>segment</strong>) and denoted by \(\overline{CD}\). </p>
+<p>\(C\) and \(D\) are the <strong>endpoints</strong> of \(\overline{CD}\).</p>
+<p>Given a segment \(\overline{EF}\), the part of the corresponding straight line \(EF\), which begins at the endpoint \(E\), connects it with the other endpoint \(F\) and is infinite in length is called a <strong>ray</strong>. We denote the ray with \(\overline EF\).</p>
+<p>Example of a straight line \(AB\), a segment \(\overline{CD}\) and a ray \(\overline EF\):</p>
+<p><img alt="Fig5p1p1" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/Fig5p1p1.jpg?raw=true" /></p>
+<p>Given the Cartesian coordinates of two points in the \(n\)-dimensional <a href="https://bookofproofs.github.io/branches/analysis/definition-of-the-metric-space-r-n-euclidean-norm.html" title="Analysis / Proposition: Definition of the Metric Space `\(\mathbb R^n\)`, Euclidean Norm">Euclidean metric space</a> \(R^n\),</p>
+<p>\[\begin{array}{rcl}
+A&amp;=&amp;(x_1,x_2,\ldots,x_n),\\
+B&amp;=&amp;(y_1,y_2,\ldots,y_n)
+\end{array}\]</p>
+<p>a segment can be described as a <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">total map</a>.
+\[
+\overline{AB}:=\cases{[0,1]\to\mathbb R^n\\
+t\to (x_1+t(y_1-x_1),x_2+t(y_2-x_2)\ldots,x_1+t(y_n-x_n))}
+\]</p>
+<p>analogously, a ray can be described by </p>
+<p>\[
+\overline AB:=\cases{[0,\infty]\to\mathbb R^n\\
+t\to (x_1+t(y_1-x_1),x_2+t(y_2-x_2)\ldots,x_1+t(y_n-x_n))}
+\]</p>
+<p>and a straight line by</p>
+<p>\[
+AB:=\cases{[-\infty,\infty]\to\mathbb R^n\\
+t\to (x_1+t(y_1-x_1),x_2+t(y_2-x_2)\ldots,x_1+t(y_n-x_n)).}
+\]</p>
+<p>The <strong>length</strong> of the segment \(\overline {AB}\) is given by the <strong>Euclidean distance</strong> of the two points:</p>
+<p>\[d(A,B):=\sqrt{(x_1+y_1)^2+(x_2+y_2)^2+\ldots+(x_n+y_n)^2}.\]</p>
+<h3>Try out an interactive demonstration:</h3>
+<div id="boxE16491" class="jxgbox centered"  style="max-width:100%; width:500px; height:500px;"></div>
+<div style ='clear:both'></div>
+
+
+<script type="text/javascript">
+ var b = JXG.JSXGraph.initBoard('boxE16491', {boundingbox: [-5, 5, 5, -5]});
+ 
+ var p1 = b.create('point',[-1.5,3], {name:'A',size:3});
+ var p2 = b.create('point',[1.5,3], {name:'B',size:3});
+ var p3 = b.create('point',[-1.5,0], {name:'C',size:3});
+ var p4 = b.create('point',[1.5,-0], {name:'D',size:3});
+ var p5 = b.create('point',[-1.5,-3], {name:'E',size:3});
+ var p6 = b.create('point',[1.5,-3], {name:'F',size:3});
+ 
+ var li1 = b.create('line',["A","B"], {straightFirst:true, straightLast:true, strokeWidth:2});
+ var li2 = b.create('line',["C","D"], {straightFirst:false, straightLast:false, strokeWidth:2});
+ var li3 = b.create('line',["E","F"], {straightFirst:false, straightLast:true, strokeWidth:2});
+
+</script>
+
+<h3 class='navigation'>Table of Contents</h3>
+
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/collinear.html'>Definition: Collinear Points, Segments, Rays</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

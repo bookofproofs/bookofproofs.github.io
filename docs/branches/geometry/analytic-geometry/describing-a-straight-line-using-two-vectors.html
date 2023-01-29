@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="DESCRIBING A STRAIGHT LINE USING TWO VECTORS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="(r.x()-q.x())+(p1.y()-q.y()),describing,line,math.sqrt((p1.x()-q.x()),straight,two,using,vectors">
+<title>Describing a Straight Line Using Two Vectors</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/geometry/analytic-geometry/points-vs-vectors-in-a-number-space.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/geometry/analytic-geometry/analytic-geometry.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/geometry/analytic-geometry/equivalence-of-different-descriptions-of-a-straight-line-using-two-vectors.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/geometry/geometry.html'>Geometry</a> / <a href='https://bookofproofs.github.io/branches/geometry/analytic-geometry/analytic-geometry.html'>Analytic-geometry</a> / Definition: Describing a Straight Line Using Two Vectors</h3>
+
+<hr>
+
+<p>We have seen in the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">definition of a straight line</a> that in the $n$-dimensional <a href="https://bookofproofs.github.io/branches/geometry/analytic-geometry/points-in-a-coordinate-system-number-spaces.html" title="Geometry / Analytic Geometry / Definition: Points in a Coordinate System - Number Spaces">number space</a>, a <strong>straight line</strong> can be defined given two points $A$ and $B,$ $A\neq B$ with the Cartesian coordinates
+$$\begin{array}{rcl}A&amp;=&amp;(x_1,\ldots,x_n)\\B&amp;=&amp;(y_1,\ldots,y_n)\end{array}$$</p>
+<p>as a <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">map</a> $AB:\mathbb R\to \mathbb R^n$ with the formula $$AB(t):=(x_1+t(y_1-x_1),x_2+t(y_2-x_2)\ldots,x_1+t(y_n-x_n)).$$ We want to explain this seemingly complicated formula. First of all, note that the above formula is very similar to what we have seen in our discussion about <a href="https://bookofproofs.github.io/branches/geometry/analytic-geometry/points-vs-vectors-in-a-number-space.html" title="Geometry / Analytic Geometry / Definition: Points vs. Vectors in a Number Space">points vs. vectors in a number space</a>. Using the argumentation given there, the above formula can be written much more concisely as follows:</p>
+<h1>Definition: Describing a Straight Line Using Two Vectors</h1>
+<p>Let $A,B$ be points of an $n$-dimensional <a href="https://bookofproofs.github.io/branches/geometry/analytic-geometry/points-in-a-coordinate-system-number-spaces.html" title="Geometry / Analytic Geometry / Definition: Points in a Coordinate System - Number Spaces">number space</a> $\mathbb R^n$ with $A\neq B$ and the origin $O\in\mathbb R^n.$ The <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Set Theory / Definition: Subset and Superset">subset</a> $L\subset \mathbb R^n$ of points defined </p>
+<p>$$L:=\{P\in\mathbb R^n:\;\overrightarrow{OP}=\overrightarrow{OA}+t\cdot \overrightarrow{AB}\},$$
+where $\overrightarrow{OA}$ and $\overrightarrow{AB}$ are <a href="https://bookofproofs.github.io/branches/algebra/vector-space.html" title="Algebra / Definition: Vector Space">vectors</a> and $t\cdot \overrightarrow{AB}$ is a <a href="https://bookofproofs.github.io/branches/algebra/vector-space.html" title="Algebra / Definition: Vector Space">scalar multiplication</a> with $t\in\mathbb R$ is called a <strong>straight line</strong> in $\mathbb R^n.$ </p>
+<h3>Example</h3>
+<p>You can study the behavior of this formula in the following figure for $n=2$ (i.e. in the <a href="https://bookofproofs.github.io/branches/geometry/analytic-geometry/points-in-a-coordinate-system-number-spaces.html" title="Geometry / Analytic Geometry / Definition: Points in a Coordinate System - Number Spaces">number plane</a>). Of course, the situation is the same for all dimensions $n.$</p>
+<div id='box-E15106s' class='jxgbox centered' style='max-width:500px; height:500px;'></div>
+
+
+<script>
+JXG.Options.axis.ticks.insertTicks = true;
+board = JXG.JSXGraph.initBoard('box-E15106s', {boundingbox: [-5, 5, 5, -5], showCopyright:false, axis:true, grid: true, keepaspectratio: true});
+
+
+var grid = board.create('grid', []);
+var q = board.create('point', [0,2], {name:'A'});
+var r = board.create('point', [-1, 2], {name:'B'});
+var o = board.create('point', [0,0], {name:'O'});
+var l1 = board.create('arrow', [o, q] ,{dash:1, opacity:0.6, strokeWidth:3, }); 
+
+var l3 = board.create('line', [q, r], {color:'green'});
+
+var l21 = board.create('arrow', [q, r], {strokeWidth:3, });
+var p1 = board.create('point', [1,2], {name:'OP', attractors: [l3], attractorDistance:0.2, snatchDistance: 20});
+var l2 = board.create('arrow', [o, p1] ,{dash:1, opacity:0.6, strokeWidth:3, });
+
+var graph = board.create('text', [-4, 3, function(){var dotproduct=(p1.X()-q.X())*(r.X()-q.X())+(p1.Y()-q.Y())*(r.Y()-q.Y()); var length=Math.sign(dotproduct)*Math.sqrt((p1.X()-q.X())*(p1.X()-q.X())+(p1.Y()-q.Y())*(p1.Y()-q.Y())); return "t ="+length;}]);
+</script>
+
+<p>In the above figure, you can move the points $A$ and $B$ as well as the point $AB(t)$ depending on the parameter $t$ (try it!). The figure demonstrates that as the parameter $t$ changes, taking all possible real values, the point $AB(t)$ will move along the points of a straight line. In this sense, the <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">set</a> of all points $P$ whose vectors $\overrightarrow{OP}$ are given by $\overrightarrow{OA}+t\cdot \overrightarrow{AB}$ for all $t\in\mathbb R$ is a <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Set Theory / Definition: Subset and Superset">subset</a> of the number plane which actually <strong>is</strong> the straight line $AB.$</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/geometry/analytic-geometry/describing-a-straight-line-using-two-vectors.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of 3.02: CHORD LIES INSIDE ITS CIRCLE &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="chord,circle,inside,its,lies,proof">
+<title>By Euclid</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--3-circles/chord-lies-inside-its-circle.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--3-circles/chord-lies-inside-its-circle.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--3-circles/conditions-for-diameter-to-be-perpendicular-bisector.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/geometry/geometry.html'>Geometry</a> / <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/euclidean-geometry.html'>Euclidean-geometry</a> / <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/elements-euclid.html'>Elements-euclid</a> / <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--3-circles/book--3-circles.html'>Book--3-circles</a> / Proof: By Euclid</h3>
+
+<hr>
+
+<h1>Proof: By Euclid</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--3-circles/chord-lies-inside-its-circle.html'>Proposition: 3.02: Chord Lies Inside its Circle</a>)</p>
+<ul>
+<li>For (if) not then, if possible, let it fall outside (the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circle</a>), like $AEB$ (in the figure).</li>
+<li>And let the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/center-of-the-circle.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.16: Center of the Circle">center</a> of the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circle</a> $ABC$ have been found <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--3-circles/finding-the-center-of-a-given-circle.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  3 Circles / Proposition: 3.01: Finding the Center of a given Circle">[Prop. 3.1]</a>, and let it be (at <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/point.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.01: Point">point</a>) $D$.</li>
+<li>And let $DA$ and $DB$ have been joined, and let $DFE$ have been drawn through.</li>
+<li>Therefore, since $DA$ is equal to $DB$, the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/angle-rectilinear-vertex-legs.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.09: Angle, Rectilinear, Vertex, Legs">angle</a> $DAE$ (is) thus also equal to $DBE$ <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/isosceles-triangles-i.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Proposition: 1.05: Isosceles Triangles I">[Prop. 1.5]</a>.</li>
+<li>And since in triangle $DAE$ the one side, $AEB$, has been produced, angle $DEB$ (is) thus greater than $DAE$ <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/the-exterior-angle-is-greater-than-either-of-the-non-adjacent-interior-angles.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Proposition: 1.16: The Exterior Angle Is Greater Than Either of the Non-Adjacent Interior Angles">[Prop. 1.16]</a>.</li>
+<li>And $DAE$ (is) equal to $DBE$ <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/isosceles-triangles-i.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Proposition: 1.05: Isosceles Triangles I">[Prop. 1.5]</a>.</li>
+<li>Thus, $DEB$ (is) greater than $DBE$.</li>
+<li>And the greater angle is subtended by the greater side <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/angles-and-sides-in-a-triangle-ii.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Proposition: 1.19: Angles and Sides in a Triangle II">[Prop. 1.19]</a>.</li>
+<li>Thus, $DB$ (is) greater than $DE$.</li>
+<li>And $DB$ (is) equal to $DF$.</li>
+<li>Thus, $DF$ (is) greater than $DE$, the lesser than the greater.</li>
+<li>The very thing is <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">impossible</a>.</li>
+<li>Thus, the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight line</a> joining $A$ to $B$ will not fall outside the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circle</a>.</li>
+<li>So, similarly, we can show that neither (will it fall) on the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circumference</a> itself.</li>
+<li>Thus, (it will fall) inside (the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circle</a>).</li>
+<li>Thus, if two <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/point.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.01: Point">points</a> are taken at random on the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circumference</a> of a <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circle</a> then the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/straight-line-segment-and-ray.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.04: Straight Line, Segment and Ray">straight line</a> joining the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/point.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.01: Point">points</a> will fall inside the <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/circle-circumference-radius.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  1 Plane Geometry / Definition: 1.15: Circle, Circumference, Radius">circle</a>.</li>
+<li>(Which is) the very thing it was required to show.</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> @fitzpatrick <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/geometry/euclidean-geometry/elements-euclid/book--3-circles/chord-lies-inside-its-circle-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Freely downloadable (subject to copyright)</h4>
+<ol>
+<li><strong>Fitzpatrick, Richard</strong>: "Euclid's Elements of Geometry", <a href="https://farside.ph.utexas.edu/Books/Euclid/Euclid.html">https://farside.ph.utexas.edu/Books/Euclid/Euclid.html</a>, 2007</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

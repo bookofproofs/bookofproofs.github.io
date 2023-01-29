@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="GEOMETRICAL INTERPRETATION OF HYPERPLANES &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="geometrical,hyperplanes,interpretation">
+<title>Geometrical Interpretation of Hyperplanes</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/geometry/analytic-geometry/hyperplane-of-a-number-space.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/geometry/analytic-geometry/hyperplane-of-a-number-space.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/geometry/projective-geometry/projective-geometry.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/geometry/geometry.html'>Geometry</a> / <a href='https://bookofproofs.github.io/branches/geometry/analytic-geometry/analytic-geometry.html'>Analytic-geometry</a> / Explanation: Geometrical Interpretation of Hyperplanes</h3>
+
+<hr>
+
+<h1>Explanation: Geometrical Interpretation of Hyperplanes</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/geometry/analytic-geometry/hyperplane-of-a-number-space.html'>Definition: Hyperplane of a Number Space</a>)</p>
+<p>As we have seen in the <a href="https://bookofproofs.github.io/branches/geometry/analytic-geometry/presentation-of-a-straight-line-in-a-plane-as-a-linear-equation.html" title="Geometry / Analytic Geometry / Proposition: Presentation of a Straight Line in a Plane as a Linear Equation">above proposition</a>, a hyperplane solving a <a href="https://bookofproofs.github.io/branches/algebra/linear-equations-with-many-unknowns.html" title="Algebra / Definition: Linear Equations with many Unknowns">linear equation</a> with $n=2$ unknowns is a straight line. But what about the general case $n\ge 1$? </p>
+<p>If $A=(\alpha_1,\ldots,\alpha_n)\in\mathbb R^n$ is not the origin, and $\beta\in\mathbb R$, the linear equation might have the form</p>
+<p>$$\alpha_1x_1+\alpha_2x_2+\ldots+\alpha_nx_n=\beta.\quad ( * ) $$ </p>
+<p>We have seen how to <a href="https://bookofproofs.github.io/branches/geometry/analytic-geometry/points-vs-vectors-in-a-number-space.html" title="Geometry / Analytic Geometry / Definition: Points vs. Vectors in a Number Space">identify points with vectors in number spaces</a>. By interpreting the points $P\in \mathbb R^n$ solving the equation $( * )$ as vectors $\overrightarrow{OP}$ we can easily interpret hyperplanes geometrically. In order to do so, we first have to reformulate the equation $( * )$ a little bit. We can re-index the $\alpha_i$ to achieve that $\alpha_1\neq 0$. In this case, we can solve the linear equation for $x_1$ and get</p>
+<p>$$x_1=\frac{\beta}{\alpha_1}-\frac{\alpha_2}{\alpha_1}x_2-\ldots-\frac{\alpha_n}{\alpha_1}x_n.\quad( * * )$$ </p>
+<p>Therefore, the value of the unknown $x_1$ depends on the specific choices of the values of the unknowns $x_2, \ldots,x_n$. In other words, we can represent $x_1$ by choosing specific values of the other variables. Any choice of these $n-1$ variables will give us one value of $x_1$. Thus, the set of all solutions of an equation of $n$ unknowns can be completely described by all possible choices of $n-1$ variables. In order to illustrate this, we write any point $P$ solving the equation $( * )$ as a vector $\overrightarrow{OP}$ with the coordinates $x_1,\ldots,x_n$, in which we replace $x_1$ by the expression $( * * )$: </p>
+<p>$$\overrightarrow{OP}=\pmatrix{\frac{\beta}{\alpha_1}-\frac{\alpha_2}{\alpha_1}x_2-\ldots-\frac{\alpha_n}{\alpha_1}x_n\\x_2\\\vdots\\x_n}.$$</p>
+<p>While the vector $\overrightarrow{OP}$ depends on the values of the $n-1$ variables $x_2,\ldots,x_n$, we can use <a href="https://bookofproofs.github.io/branches/algebra/vector-space.html" title="Algebra / Definition: Vector Space">vector addition and scalar multiplication</a> to write it as a sum of vectors depending on only one of these variables each:</p>
+<p>$$\pmatrix{\frac{\beta}{\alpha_1}-\frac{\alpha_2}{\alpha_1}x_2-\ldots-\frac{\alpha_n}{\alpha_1}x_n\\x_2\\\vdots\\x_n}=\pmatrix{\frac{\beta}{\alpha_1}\\0\\\vdots\\0}+x_2 \pmatrix{-\frac{\alpha_2}{\alpha_1}\\1\\\vdots\\0}+\cdots+x_n\pmatrix{-\frac{\alpha_n}{\alpha_1}\\0\\\vdots\\1}.$$</p>
+<p>In case the equation $( * )$ is <a href="https://bookofproofs.github.io/branches/algebra/linear-equations-with-many-unknowns.html" title="Algebra / Definition: Linear Equations with many Unknowns">homogeneous</a>, this representation simplifies to</p>
+<p>$$\pmatrix{-\frac{\alpha_2}{\alpha_1}x_2-\ldots-\frac{\alpha_n}{\alpha_1}x_n\\x_2\\\vdots\\x_n}=x_2 \pmatrix{-\frac{\alpha_2}{\alpha_1}\\1\\\vdots\\0}+\cdots+x_n\pmatrix{-\frac{\alpha_n}{\alpha_1}\\0\\\vdots\\1}.$$</p>
+<p>Obviously, the $n-1$ vectors $$\pmatrix{-\frac{\alpha_2}{\alpha_1}\\1\\\vdots\\0},\cdots,\pmatrix{-\frac{\alpha_n}{\alpha_1}\\0\\\vdots\\1}$$ are not multiplies of each other, thus they form an $n-1$ dimensional <a href="https://bookofproofs.github.io/branches/algebra/basis-coordinate-system.html" title="Algebra / Definition: Basis, Coordinate System">basis</a> of an $n-1$ dimensional number space $H\subseteq \mathbb R^{n}$. This is the reason, why a hyperplane $H$ being a solution of a linear equation with $n$ unknowns has always a dimension which is one less than the number of dimensions of the space $\mathbb R^n$ it is part of.</p>
+<p>Now, it is easy to use all these observations to conclude, how to interpret hyperplanes for different values of $n$.</p>
+<h4>Case $n=1$</h4>
+<p>A linear equation in the one-dimensional number line $\mathbb R^1$ has the form $\alpha_1x_1=\beta,$ and the hyperplane solving it is always a zero-dimensional point $\pmatrix{\frac{\beta}{\alpha_1}}.$</p>
+<h4>Case $n=2$</h4>
+<p>A linear equation in the two-dimensional number plane $\mathbb R^2$ has the form $\alpha_1x_1+\alpha_2x_2=\beta,$ and the hyperplane solving it is always a one-dimensional straight line 
+$$\pmatrix{\frac{\beta}{\alpha_1}\\0}+x_2 \pmatrix{-\frac{\alpha_2}{\alpha_1}\\1}.$$</p>
+<h4>Case $n=3$</h4>
+<p>A linear equation in the three-dimensional number space $\mathbb R^3$ has the form $\alpha_1x_1+\alpha_2x_2+\alpha_3x_3=\beta,$ and the hyperplane solving it is always a two-dimensional plane</p>
+<p>$$\pmatrix{\frac{\beta}{\alpha_1}\\0\\0}+x_2 \pmatrix{-\frac{\alpha_2}{\alpha_1}\\1\\0}+x_3\pmatrix{-\frac{\alpha_3}{\alpha_1}\\0\\1}.$$</p>
+<h4>Case $n\ge 4$</h4>
+<p>A linear equation in the $n$-dimensional number space $\mathbb R^n$ has the form $\alpha_1x_1+\ldots+\alpha_n x_n=\beta,$ and the hyperplane solving it is always an $n-1$-dimensional hyperplane</p>
+<p>$$\pmatrix{\frac{\beta}{\alpha_1}\\0\\\vdots\\0}+x_2 \pmatrix{-\frac{\alpha_2}{\alpha_1}\\1\\\vdots\\0}+\cdots+x_n\pmatrix{-\frac{\alpha_n}{\alpha_1}\\0\\\vdots\\1}.$$</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/geometry/analytic-geometry/geometrical-interpretation-of-hyperplanes.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Knabner, P; Barth, W.</strong>: "Lineare Algebra - Grundlagen und Anwendungen", Springer Spektrum, 2013</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>
