@@ -47,21 +47,21 @@
 
 <h1>Proof: By Induction</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/fundamental-lemma-of-homogeneous-systems-of-linear-equations.html'>Lemma: Fundamental Lemma of Homogeneous Systems of Linear Equations</a>)</p>
-<p>Let \(\alpha_{ij}\in F\) and \(F\) be an <a href="https://bookofproofs.github.io/branches/algebra/field.html" title="Definition: Field">field</a>, and let 
+<p>Let \(\alpha_{ij}\in F\) and \(F\) be an <a href="https://bookofproofs.github.io/branches/algebra/field.html" title="Algebra / Definition: Field">field</a>, and let 
 \[\begin{array}{ccl}
 \alpha_{11}X_1+\ldots+\alpha_{1n}X_n&amp;=&amp;0\\
 \alpha_{21}X_1+\ldots+\alpha_{2n}X_n&amp;=&amp;0\\
 \vdots&amp;\vdots&amp;\vdots\\
 \alpha_{m1}X_1+\ldots+\alpha_{mn}X_n&amp;=&amp;0\\
 \end{array}~~~~~~~~~~~~~~~~ ( * ) \]
-be a <a href="https://bookofproofs.github.io/branches/algebra/systems-of-linear-equations-with-many-unknowns.html" title="Definition: Systems of Linear Equations with many Unknowns">homogeneous system of linear equations</a> with  \(n\) unknowns \(X_1,\ldots,X_n\) and (\(1\le m &lt; n\)) equations. We have to show that the the equation system \( ( * ) \) has a non-trivial solution.</p>
+be a <a href="https://bookofproofs.github.io/branches/algebra/systems-of-linear-equations-with-many-unknowns.html" title="Algebra / Definition: Systems of Linear Equations with many Unknowns">homogeneous system of linear equations</a> with  \(n\) unknowns \(X_1,\ldots,X_n\) and (\(1\le m &lt; n\)) equations. We have to show that the the equation system \( ( * ) \) has a non-trivial solution.</p>
 <p>First, we observe the following:</p>
 <ol>
 <li>It is sufficient to assume \(m=n-1\) since if we have found a non-trivial solution for this case, it is also a solution of the more general case \(m &lt; n - 1\) (after removing some more equations from the system).</li>
 <li>We can assume \(\alpha_{11}\neq 0\). If in \( ( * )\) all coefficients \( \alpha_{ij} \) were zero, then any elements of the field \(F\) replacing the unknowns \(X_1,\ldots,X_n\) would be a non-trivial solution. If \(\alpha_{11}= 0\) but some other \(\alpha_{ij}\neq 0\), we can change the order of the equations by switching the \(i\)-th equation with the \(1\)-st equation and re-numbering the \(j\)-th unknown with the \(1\)-st unkonwn, so that   \(\alpha_{11}\neq 0\). Note that these operations do not change the non-trivial solution, if it exists.</li>
 <li>We can assume that besides \(\alpha_{11}\), all other coefficients in the first column equal zero \(\alpha_{21}=\alpha_{31}=\ldots=\alpha_{m1}=0\). In order to transform the equation system into this form, we have (for \(i=2,\ldots,m\)) to multiply the first equation with \(\alpha_{i1}\) and subtract the resulting product form the \(\alpha_{11}\) multiple of the \(i\)-th equation. Note that these operations do not change the non-trivial solution, if it exists, either.</li>
 </ol>
-<p>After these preparations, it is possible to prove the lemma <a href="https://bookofproofs.github.io/branches/logic/proving-principle-by-complete-induction.html" title="Lemma: The Proving Principle by Complete Induction">by induction</a> on the number of unknowns. </p>
+<p>After these preparations, it is possible to prove the lemma <a href="https://bookofproofs.github.io/branches/logic/proving-principle-by-complete-induction.html" title="Logic / Lemma: The Proving Principle by Complete Induction">by induction</a> on the number of unknowns. </p>
 <h3>Base Case \(n=2\).</h3>
 <p>The equation system </p>
 <p>\[\begin{array}{ccl}

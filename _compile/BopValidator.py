@@ -234,9 +234,15 @@ class BopValidator:
                                 "Cannot resolve hyperlink reference [{0}] detected in ".format(
                                     search_key) + bop_source.get_file_name())
                         elif search_key not in bop_source.links:
+                            cats = self._unique_nodeids[search_key].categories.copy()
+                            if len(cats) > 1:
+                                cats = cats[1:]
+                            for i in range(0, len(cats)):
+                                cats[i] = cats[i].replace("-", " ").title()
                             bop_source.links[search_key] = \
                                 self._unique_nodeids[search_key].url() + " \"" + \
-                                html.escape(self._unique_nodeids[search_key].get_plane_long_title()) + "\""
+                                html.escape(" / ".join(cats) + " / " +
+                                            self._unique_nodeids[search_key].get_plane_long_title()) + "\""
 
     def _validate_scripts(self):
         """

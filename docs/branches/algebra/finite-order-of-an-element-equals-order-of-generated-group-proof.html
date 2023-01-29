@@ -48,14 +48,14 @@
 <h1>Proof</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/finite-order-of-an-element-equals-order-of-generated-group.html'>Proposition: Finite Order of an Element Equals Order Of Generated Group</a>)</p>
 <ul>
-<li>By hypothesis, $(G,\ast)$ is a <a href="https://bookofproofs.github.io/branches/algebra/group.html" title="Definition: Group">group</a> and $a\in G$ its element with a <a href="https://bookofproofs.github.io/branches/set-theory/finite-set-infinite-set.html" title="Definition: Finite Set, Infinite Set">finite</a> <a href="https://bookofproofs.github.io/branches/algebra/cyclic-group-order-of-an-element.html" title="Definition: Cyclic Group, Order of an Element">order</a> $\operatorname{ord}(a)=n &lt; \infty.$ </li>
-<li>By definition of <a href="https://bookofproofs.github.io/branches/algebra/generating-set-of-a-group.html" title="Definition: Generating Set of a Group">generating set of a group</a>, we have  $\langle a\rangle=\{a^k\mid k\in\mathbb Z\}.$</li>
-<li>By <a href="https://bookofproofs.github.io/branches/number-theory/division-with-quotient-and-remainder-euclid.html" title="Lemma: Division with Quotient and Remainder">division with quotient and remainder</a>, we can write $k=qn+r$ with $0\ge r &lt; n.$ </li>
-<li>Because $n$ is the order of the element $a$, we have $a^{k}=a^{qn+r}=(a^n)^q\cdot a^r=e^q\cdot a^r=a^r$ with $e\in G$ being the <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html" title="Definition: Existence of a Neutral Element">neutral element</a>.</li>
+<li>By hypothesis, $(G,\ast)$ is a <a href="https://bookofproofs.github.io/branches/algebra/group.html" title="Algebra / Definition: Group">group</a> and $a\in G$ its element with a <a href="https://bookofproofs.github.io/branches/set-theory/finite-set-infinite-set.html" title="Set Theory / Definition: Finite Set, Infinite Set">finite</a> <a href="https://bookofproofs.github.io/branches/algebra/cyclic-group-order-of-an-element.html" title="Algebra / Definition: Cyclic Group, Order of an Element">order</a> $\operatorname{ord}(a)=n &lt; \infty.$ </li>
+<li>By definition of <a href="https://bookofproofs.github.io/branches/algebra/generating-set-of-a-group.html" title="Algebra / Definition: Generating Set of a Group">generating set of a group</a>, we have  $\langle a\rangle=\{a^k\mid k\in\mathbb Z\}.$</li>
+<li>By <a href="https://bookofproofs.github.io/branches/number-theory/division-with-quotient-and-remainder-euclid.html" title="Number Theory / Lemma: Division with Quotient and Remainder">division with quotient and remainder</a>, we can write $k=qn+r$ with $0\ge r &lt; n.$ </li>
+<li>Because $n$ is the order of the element $a$, we have $a^{k}=a^{qn+r}=(a^n)^q\cdot a^r=e^q\cdot a^r=a^r$ with $e\in G$ being the <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html" title="Algebra / Definition: Existence of a Neutral Element">neutral element</a>.</li>
 <li>Therefore, $\langle a\rangle=\{a^0,a^1,a^2,\ldots a^{n-1}\}.$</li>
 <li>Moreover, all of these elements are distinct.<ul>
 <li>Assume, they were not, e.g. $a^i=a^j$ but $0\le i &lt; j\le n-1.$ </li>
-<li>Then, we would have $a^{j-i}=e,$ in <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Lemma: The Proving Principle by Contradiction">contradiction</a> to $0 &lt; j-i &lt; n.$</li>
+<li>Then, we would have $a^{j-i}=e,$ in <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">contradiction</a> to $0 &lt; j-i &lt; n.$</li>
 <li>Therefore, $n=\operatorname{ord}(a)$ equals the group order $|\langle a\rangle|.$</li>
 </ul>
 </li>

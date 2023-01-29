@@ -47,7 +47,7 @@
 
 <h1>Definition: Solution to a Lower Triangular SLE - Forward Substitution</h1>
 <h3>Introductory Example</h3>
-<p>A similar example, in which the <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html" title="Definition: Coefficient Matrix">extended coefficient matrix</a> contains a <a href="https://bookofproofs.github.io/branches/algebra/upper-and-lower-triangular-matrix.html" title="Definition: Upper and Lower Triangular Matrix">lower triangular matrix</a>.
+<p>A similar example, in which the <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html" title="Algebra / Definition: Coefficient Matrix">extended coefficient matrix</a> contains a <a href="https://bookofproofs.github.io/branches/algebra/upper-and-lower-triangular-matrix.html" title="Algebra / Definition: Upper and Lower Triangular Matrix">lower triangular matrix</a>.
 $$\left(\begin{array}{lllllll|c}0&amp; 0&amp;\ldots&amp;0&amp;\ldots&amp;\ldots&amp;0&amp;\beta_1\\
 \vdots&amp;\vdots&amp;\ddots&amp;\vdots&amp;\vdots&amp;\vdots&amp;\vdots&amp;\vdots\\
 0&amp; 0&amp;\ldots&amp;0&amp;\ldots&amp;\ldots&amp;0&amp;\beta_{r-1}\\
@@ -57,7 +57,7 @@ $$\left(\begin{array}{lllllll|c}0&amp; 0&amp;\ldots&amp;0&amp;\ldots&amp;\ldots&
 \alpha_{m1}&amp; \ldots &amp;\ldots&amp;\alpha_{mr}&amp;\alpha_{m,r+1}&amp;\ldots&amp;\alpha_{mn}&amp;\beta_m\\
 \end{array}\right)$$</p>
 <p>In this SLE, there exists an $r\in \{1,\ldots,\min(m,n)\},$ for which $\alpha_{jj}= 0$ for $j=1,\ldots,r-1$ and $\alpha_{jj}\neq 0$ for $j=r,\ldots,m.$</p>
-<p>Similarly as the <a href="https://bookofproofs.github.io/branches/fun/dudeney/the-five-brigands.html" title="Problem: The Five Brigands">previous example</a>, if $\beta_j\neq 0$ <strong>for at least one</strong> of the "zero-lines" $j=1,\ldots r-1,$ then the whole SLE has no (simultaneous) solution. Thus, assume $\beta_j\neq 0$ <strong>for all</strong> $j=1,\ldots, r-1.$ In this case, the solution of the SLE can be found as follows:</p>
+<p>Similarly as the <a href="https://bookofproofs.github.io/branches/fun/dudeney/the-five-brigands.html" title="Fun / Dudeney / Problem: The Five Brigands">previous example</a>, if $\beta_j\neq 0$ <strong>for at least one</strong> of the "zero-lines" $j=1,\ldots r-1,$ then the whole SLE has no (simultaneous) solution. Thus, assume $\beta_j\neq 0$ <strong>for all</strong> $j=1,\ldots, r-1.$ In this case, the solution of the SLE can be found as follows:</p>
 <h3>Definition <strong>Forward Substitution</strong></h3>
 <h1>Choose arbitrary values for the unknowns $x_{1},\ldots, x_{r-1}$.</h1>
 <p>(Please note that if $r &gt; 1$, the simultaneous solution has $r-1$ degrees of freedom. Otherwise (if $r=1$), the solution is unique, as the following steps show:)</p>

@@ -47,35 +47,35 @@
 
 <h1>Proof</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/abelian-group-of-matrices-under-addition.html'>Proposition: Abelian Group of Matrices Under Addition</a>)</p>
-<p>The proof is very easy but long since it only requires the verification of the rules for the <a href="https://bookofproofs.github.io/branches/algebra/matrix-set-of-matrices-over-a-field.html" title="Definition: Matrix, Set of Matrices over a Field">matrices</a> $M_{m\times n}(F)$ over a <a href="https://bookofproofs.github.io/branches/algebra/field.html" title="Definition: Field">field</a> $F$ component by component. We will use two different symbols to distinguish between the addition of the components "$+$" in the field $F$ and the addition of matrices $\oplus$ in $M_{m\times n}(F)$. </p>
+<p>The proof is very easy but long since it only requires the verification of the rules for the <a href="https://bookofproofs.github.io/branches/algebra/matrix-set-of-matrices-over-a-field.html" title="Algebra / Definition: Matrix, Set of Matrices over a Field">matrices</a> $M_{m\times n}(F)$ over a <a href="https://bookofproofs.github.io/branches/algebra/field.html" title="Algebra / Definition: Field">field</a> $F$ component by component. We will use two different symbols to distinguish between the addition of the components "$+$" in the field $F$ and the addition of matrices $\oplus$ in $M_{m\times n}(F)$. </p>
 <h3>Ad $(1)$</h3>
 <ul>
 <li>Let any three matrices $A,B,C\in M_{m\times n}(F)$ be given.</li>
 <li>Let $A=(a_{ij})$, $A=(b_{ij})$ and $C=(c_{ij})$, $i=1,\ldots,m$, $j=1,\ldots,n$ be the components of $A,B,C$.</li>
-<li>Since $(F,+)$ is itself an <a href="https://bookofproofs.github.io/branches/algebra/abelian-group.html" title="Definition: Commutative (Abelian) Group">Abelian group</a>, we have 
+<li>Since $(F,+)$ is itself an <a href="https://bookofproofs.github.io/branches/algebra/abelian-group.html" title="Algebra / Definition: Commutative (Abelian) Group">Abelian group</a>, we have 
 $$a_{ij}+(b_{ij}+c_{ij})=(a_{ij}+(b_{ij})+c_{ij}$$
 for all $i=1,\ldots,m$, $j=1,\ldots,n$. </li>
-<li>Thus, by the definition of <a href="https://bookofproofs.github.io/branches/algebra/matrix-and-vector-addition.html" title="Definition: Matrix and Vector Addition">matrix addition</a>, it follows $$A\oplus(B\oplus C)=(A\oplus B)\oplus C.$$</li>
+<li>Thus, by the definition of <a href="https://bookofproofs.github.io/branches/algebra/matrix-and-vector-addition.html" title="Algebra / Definition: Matrix and Vector Addition">matrix addition</a>, it follows $$A\oplus(B\oplus C)=(A\oplus B)\oplus C.$$</li>
 </ul>
 <h3>Ad $(2)$</h3>
 <ul>
 <li>Let any two matrices $A,B\in M_{m\times n}(F)$ be given.</li>
 <li>Let $A=(a_{ij})$, $A=(b_{ij})$, $i=1,\ldots,m$, $j=1,\ldots,n$ be the components of $A,B$.</li>
-<li>Since $(F,+)$ is itself an <a href="https://bookofproofs.github.io/branches/algebra/abelian-group.html" title="Definition: Commutative (Abelian) Group">Abelian group</a>, we have 
+<li>Since $(F,+)$ is itself an <a href="https://bookofproofs.github.io/branches/algebra/abelian-group.html" title="Algebra / Definition: Commutative (Abelian) Group">Abelian group</a>, we have 
 $$a_{ij}+b_{ij}=b_{ij}+a_{ij}$$
 for all $i=1,\ldots,m$, $j=1,\ldots,n$. </li>
-<li>Thus, by the definition of <a href="https://bookofproofs.github.io/branches/algebra/matrix-and-vector-addition.html" title="Definition: Matrix and Vector Addition">matrix addition</a>, it follows $A\oplus B=B\oplus A.$</li>
+<li>Thus, by the definition of <a href="https://bookofproofs.github.io/branches/algebra/matrix-and-vector-addition.html" title="Algebra / Definition: Matrix and Vector Addition">matrix addition</a>, it follows $A\oplus B=B\oplus A.$</li>
 </ul>
 <h3>Ad $(3)$</h3>
 <ul>
-<li>Let $A,O\in M_{m\times n}(F)$ be given, where $O$ is the <a href="https://bookofproofs.github.io/branches/algebra/zero-matrix-zero-vector.html" title="Definition: Zero Matrix, Zero Vector">zero matrix</a>, with the components $A=(a_{ij})$, $O=(b_{ij})$, b_{ij}=0, $i=1,\ldots,m$, $j=1,\ldots,n$ where $0\in F.$ </li>
+<li>Let $A,O\in M_{m\times n}(F)$ be given, where $O$ is the <a href="https://bookofproofs.github.io/branches/algebra/zero-matrix-zero-vector.html" title="Algebra / Definition: Zero Matrix, Zero Vector">zero matrix</a>, with the components $A=(a_{ij})$, $O=(b_{ij})$, b_{ij}=0, $i=1,\ldots,m$, $j=1,\ldots,n$ where $0\in F.$ </li>
 <li>It follows $a_{ij}+0=0+a_{ij}=a_{ij}$ for all $i=1,\ldots,m$, $j=1,\ldots,n$. </li>
 <li>Thus, $A\oplus O=O\oplus A=A.$</li>
 </ul>
 <h3>Ad $(4)$</h3>
 <ul>
 <li>Let $A\in M_{m\times n}(F)$ be given with the components $A=(a_{ij})$, $i=1,\ldots,m$, $j=1,\ldots,n.$ </li>
-<li>In $(F,+)$ the element $-a_{ij}$ is the <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html" title="Definition: Inverse Element">inverse element</a> of the addition $+$. </li>
+<li>In $(F,+)$ the element $-a_{ij}$ is the <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html" title="Algebra / Definition: Inverse Element">inverse element</a> of the addition $+$. </li>
 <li>Thus, $a_{ij}+(-a_{ij})=-a_{ij}+a_{ij}=0$ for all $i=1,\ldots,m$, $j=1,\ldots,n$. </li>
 <li>By setting $-A$ as the matrix with the components $(-a_{ij})$, $i=1,\ldots,m$, $j=1,\ldots,n,$ we get $$A\oplus -A=-A\oplus A=O$$ with $O$ being the zero matrix in $M_{m\times n}(F)$.</li>
 </ul>

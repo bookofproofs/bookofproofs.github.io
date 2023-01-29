@@ -46,18 +46,18 @@
 <hr>
 
 <h1>Definition: Vector Space</h1>
-<p>Let (\(F,+,\cdot)\) be a <a href="https://bookofproofs.github.io/branches/algebra/field.html" title="Definition: Field">field</a>. A non-empty <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Definition: Set, Set Element, Empty Set">set</a> \(V\) of elements called <strong>vectors</strong> with two <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Definition: Partial and Total Maps (Functions)">maps</a>.
+<p>Let (\(F,+,\cdot)\) be a <a href="https://bookofproofs.github.io/branches/algebra/field.html" title="Algebra / Definition: Field">field</a>. A non-empty <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">set</a> \(V\) of elements called <strong>vectors</strong> with two <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">maps</a>.
 \[
 \cases{
 V\times V\mapsto V:(x,y)\mapsto x\oplus y  &amp; \text{(the vector addition)}\\
 F\times V\mapsto V:(\alpha,x)\mapsto \alpha \odot x &amp; \text{(the scalar multiplication)}
 }\]</p>
 <p>is called a <strong>vector space over the field</strong> $F$ (or a <em>$F$-vector space</em> or a <strong>linear space over</strong> $F$), if:
-1. \((V,\oplus)\) is an <a href="https://bookofproofs.github.io/branches/algebra/abelian-group.html" title="Definition: Commutative (Abelian) Group">Abelian group</a>, in particular:
-   * The addition "$\oplus$" of vectors is <a href="https://bookofproofs.github.io/branches/algebra/associativity.html" title="Definition: Associativity">associative</a>: $x\oplus (y\oplus z)=(x\oplus y)\oplus z$ for all $x,y,z\in V.$
-   * "$\oplus$" has a <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html" title="Definition: Existence of a Neutral Element">neutral element</a>, called the <strong>zero vector</strong> $o\in V$ with $x\oplus o=o\oplus x=x$ for all $x\in V.$
-   * Every vector $x\in V$ has an <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html" title="Definition: Inverse Element">inverse</a> $-x\in V$ with $x\oplus(-x)=(-x)\oplus x=o.$ 
-   * "$\oplus$" is <a href="https://bookofproofs.github.io/branches/algebra/commutativity.html" title="Definition: Commutativity">commutative</a>, i.e. $x\oplus y=y\oplus x$ for all $x,y\in V.$
+1. \((V,\oplus)\) is an <a href="https://bookofproofs.github.io/branches/algebra/abelian-group.html" title="Algebra / Definition: Commutative (Abelian) Group">Abelian group</a>, in particular:
+   * The addition "$\oplus$" of vectors is <a href="https://bookofproofs.github.io/branches/algebra/associativity.html" title="Algebra / Definition: Associativity">associative</a>: $x\oplus (y\oplus z)=(x\oplus y)\oplus z$ for all $x,y,z\in V.$
+   * "$\oplus$" has a <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html" title="Algebra / Definition: Existence of a Neutral Element">neutral element</a>, called the <strong>zero vector</strong> $o\in V$ with $x\oplus o=o\oplus x=x$ for all $x\in V.$
+   * Every vector $x\in V$ has an <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html" title="Algebra / Definition: Inverse Element">inverse</a> $-x\in V$ with $x\oplus(-x)=(-x)\oplus x=o.$ 
+   * "$\oplus$" is <a href="https://bookofproofs.github.io/branches/algebra/commutativity.html" title="Algebra / Definition: Commutativity">commutative</a>, i.e. $x\oplus y=y\oplus x$ for all $x,y\in V.$
 1. For \(\alpha,\beta\in F\) and \(x,y\in V\) the following <strong>axioms of scalar multiplication</strong> hold:
    * $(\alpha + \beta)\odot x=\alpha\odot x \oplus \beta\odot x,$
    * $\alpha\odot(x\oplus y)=\alpha\odot x \oplus \alpha\odot y,$ 
@@ -67,7 +67,7 @@ F\times V\mapsto V:(\alpha,x)\mapsto \alpha \odot x &amp; \text{(the scalar mult
 <p>Whenever any misunderstandings can be excluded, <strong><span style='color:orange'>Bookof</span><span style='color:lightblue'>Proofs</span></strong> follows the convention used in most mathematical literature, making no difference in the notation of vector addition "$\oplus$" and the addition of field elements "$+$", as well as the scalar multiplication "$\odot$" and the multiplication of field elements "$\cdot$". 
 However, to keep field elements and vectors apart, the latter will be denoted by small Latin letters, e.g. $x,y,a,b,\ldots,$ while field elements will be denoted by small Greek letters $\alpha,\beta,\gamma,\ldots.$</p>
 <h3>Vector notation with respect to a basis</h3>
-<p>If \(V\) has a <a href="https://bookofproofs.github.io/branches/set-theory/finite-set-infinite-set.html" title="Definition: Finite Set, Infinite Set">finite</a> <a href="https://bookofproofs.github.io/branches/algebra/basis-coordinate-system.html" title="Definition: Basis, Coordinate System">basis</a>, \(B=\{b_1,\ldots, b_n\}\subseteq V\), the  <a href="https://bookofproofs.github.io/branches/algebra/uniqueness-lemma-of-a-basis.html" title="Lemma: Uniqueness Lemma of a Finite Basis">uniqueness lemma</a> ensures that we can write any vector \(v\in V\) as a unique <a href="https://bookofproofs.github.io/branches/algebra/linear-combination.html" title="Definition: Linear Combination">linear combination</a> of the basis vectors:
+<p>If \(V\) has a <a href="https://bookofproofs.github.io/branches/set-theory/finite-set-infinite-set.html" title="Set Theory / Definition: Finite Set, Infinite Set">finite</a> <a href="https://bookofproofs.github.io/branches/algebra/basis-coordinate-system.html" title="Algebra / Definition: Basis, Coordinate System">basis</a>, \(B=\{b_1,\ldots, b_n\}\subseteq V\), the  <a href="https://bookofproofs.github.io/branches/algebra/uniqueness-lemma-of-a-basis.html" title="Algebra / Lemma: Uniqueness Lemma of a Finite Basis">uniqueness lemma</a> ensures that we can write any vector \(v\in V\) as a unique <a href="https://bookofproofs.github.io/branches/algebra/linear-combination.html" title="Algebra / Definition: Linear Combination">linear combination</a> of the basis vectors:
 \[v = \alpha_1b_1+\ldots+\alpha_nb_n.\] 
 With respect to the basis \(B\), we can write the vector \(v\) in its column notation</p>
 <p>\[

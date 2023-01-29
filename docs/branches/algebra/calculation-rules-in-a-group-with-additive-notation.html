@@ -47,8 +47,8 @@
 
 <h1>Explanation: Calculation Rules in a Group with Additive Notation</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/calculations-in-a-group.html'>Motivation: Calculations in a Group</a>)</p>
-<p>For someone who is new to <a href="https://bookofproofs.github.io/branches/algebra/group-theory.html" title="Part: Group Theory">group theory</a> but is familiar with <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html" title="Branch: Number Systems and Arithmetics">arithmetics</a> it might be surprising, that in a <a href="https://bookofproofs.github.io/branches/algebra/group.html" title="Definition: Group">group</a> $(G,\ast)$, the same calculation rules apply if we exchange the operation $\ast$ by an addition sign $(G, +)$ or by a multiplication sign $(G, \cdot).$ </p>
-<p>For instance, in the additive notation, the above <a href="https://bookofproofs.github.io/branches/algebra/simple-calculation-rules-in-a-group.html" title="Proposition: Simple Calculations Rules in a Group">calculation rules in a group</a> can be formulated as follows:</p>
+<p>For someone who is new to <a href="https://bookofproofs.github.io/branches/algebra/group-theory.html" title="Algebra / Part: Group Theory">group theory</a> but is familiar with <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html" title="Number Systems Arithmetics / Branch: Number Systems and Arithmetics">arithmetics</a> it might be surprising, that in a <a href="https://bookofproofs.github.io/branches/algebra/group.html" title="Algebra / Definition: Group">group</a> $(G,\ast)$, the same calculation rules apply if we exchange the operation $\ast$ by an addition sign $(G, +)$ or by a multiplication sign $(G, \cdot).$ </p>
+<p>For instance, in the additive notation, the above <a href="https://bookofproofs.github.io/branches/algebra/simple-calculation-rules-in-a-group.html" title="Algebra / Proposition: Simple Calculations Rules in a Group">calculation rules in a group</a> can be formulated as follows:</p>
 <ol>
 <li>$-e=e.$</li>
 <li>$-(-x)=x$ for all \(x\in G\).</li>
@@ -59,8 +59,8 @@
 <li>\(x_1 + x_2 + x_3 + \ldots + x_n:=(\ldots((x_1 + x_2) + x_3) + \ldots + x_n\) holds for all \(x_i\in G\).</li>
 <li>\(x_{k_1} + x_{k_2} + \ldots + x_{k_n}=x_{1} + x_{2} + \ldots + x_{n}\)</li>
 </ol>
-<p>The "corresponding proof":<a href="https://bookofproofs.github.io/branches/algebra/simple-calculation-rules-in-a-group.html" title="Proposition: Simple Calculations Rules in a Group">bookofproofs$555</a>proof/ of these (seemingly different) rules is exactly the same except for the notation. Please try to write down the proof in the additive notation it as an exercise!</p>
-<p>Similarly, while the <a href="https://bookofproofs.github.io/branches/algebra/exponentiation-in-a-group.html" title="Definition: Exponentiation in a Group">exponentiation in a group</a> is a new operation, which can be defined, if you use the multiplicative notation $(G,\ast)$, the same can be done in the additive case $(G, + ).$ Here, instead of an "exponentiation", we can define a "multiplication" as a new operation and explain it in terms of addition. To be more concrete, for an integer $n\in \mathbb Z$, we can define:</p>
+<p>The "corresponding proof":<a href="https://bookofproofs.github.io/branches/algebra/simple-calculation-rules-in-a-group.html" title="Algebra / Proposition: Simple Calculations Rules in a Group">bookofproofs$555</a>proof/ of these (seemingly different) rules is exactly the same except for the notation. Please try to write down the proof in the additive notation it as an exercise!</p>
+<p>Similarly, while the <a href="https://bookofproofs.github.io/branches/algebra/exponentiation-in-a-group.html" title="Algebra / Definition: Exponentiation in a Group">exponentiation in a group</a> is a new operation, which can be defined, if you use the multiplicative notation $(G,\ast)$, the same can be done in the additive case $(G, + ).$ Here, instead of an "exponentiation", we can define a "multiplication" as a new operation and explain it in terms of addition. To be more concrete, for an integer $n\in \mathbb Z$, we can define:</p>
 <p>\[n\cdot x :=
 \begin{cases}
 e  &amp; \text{ if } n=0 \\
@@ -71,19 +71,19 @@ x + (n-1)\cdot x &amp; \text{ if } n &gt; 0.
 <blockquote>
 <p>But you have to be very cautious! </p>
 </blockquote>
-<p>Note that the dot sign "$\cdot$" in $n\cdot x$ does not (!) mean that we <em>multiply</em> the integer $n$ by a group element $x$. It only means that we introduce a shorter notation for adding $n$ times the element $x\in G$ to each other. That is also the reason why it makes sense to set the result to the <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html" title="Definition: Existence of a Neutral Element">neutral element</a> $e\in G$ in the case $n=0,$ since we add "none" to each other.</p>
-<p>For the sake of completeness, we want to reformulate the <a href="https://bookofproofs.github.io/branches/algebra/rules-for-exponentiation-in-a-group.html" title="Corollary: Rules for Exponentiation in a Group">exponentiation rules</a> and translate them into the additive notation for groups:</p>
+<p>Note that the dot sign "$\cdot$" in $n\cdot x$ does not (!) mean that we <em>multiply</em> the integer $n$ by a group element $x$. It only means that we introduce a shorter notation for adding $n$ times the element $x\in G$ to each other. That is also the reason why it makes sense to set the result to the <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html" title="Algebra / Definition: Existence of a Neutral Element">neutral element</a> $e\in G$ in the case $n=0,$ since we add "none" to each other.</p>
+<p>For the sake of completeness, we want to reformulate the <a href="https://bookofproofs.github.io/branches/algebra/rules-for-exponentiation-in-a-group.html" title="Algebra / Corollary: Rules for Exponentiation in a Group">exponentiation rules</a> and translate them into the additive notation for groups:</p>
 <p>\[\begin{array}{cl}
 (1)&amp;n\cdot x+ m\cdot x=(n+m)\cdot x,\\
 \end{array}
 \]</p>
-<p>If the group is <a href="https://bookofproofs.github.io/branches/algebra/abelian-group.html" title="Definition: Commutative (Abelian) Group">Abelian</a>, then
+<p>If the group is <a href="https://bookofproofs.github.io/branches/algebra/abelian-group.html" title="Algebra / Definition: Commutative (Abelian) Group">Abelian</a>, then
 \[\begin{array}{cl}
 (2)&amp;m\cdot (n\cdot x)=(mn)\cdot x.\\
 (3)&amp;n\cdot x+n\cdot y=n\cdot (x + y).
 \end{array}
 \]</p>
-<p>Again, the "proof":<a href="https://bookofproofs.github.io/branches/algebra/rules-for-exponentiation-in-a-group.html" title="Corollary: Rules for Exponentiation in a Group">bookofproofs$676</a>proof/ would be exactly the same (try it as an exercise!).</p>
+<p>Again, the "proof":<a href="https://bookofproofs.github.io/branches/algebra/rules-for-exponentiation-in-a-group.html" title="Algebra / Corollary: Rules for Exponentiation in a Group">bookofproofs$676</a>proof/ would be exactly the same (try it as an exercise!).</p>
 <p>Please note that the exponentiation rules - written down in the additive notation - are strongly reminiscent of a kind of a "distributivity rule" for groups. </p>
 <blockquote>
 <p>But again, be cautious! </p>

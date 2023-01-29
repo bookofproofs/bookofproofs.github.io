@@ -46,15 +46,15 @@
 <hr>
 
 <h1>Definition: Gaussian Method to Solve Systems of Linear Equations, Rank of a Matrix</h1>
-<p>The <strong>Gaussian method</strong> is a method to solve a given <a href="https://bookofproofs.github.io/branches/algebra/systems-of-linear-equations-with-many-unknowns.html" title="Definition: Systems of Linear Equations with many Unknowns">system of linear equations (SLE)</a> written in the form of an <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html" title="Definition: Coefficient Matrix">extended coefficient matrix</a>:</p>
+<p>The <strong>Gaussian method</strong> is a method to solve a given <a href="https://bookofproofs.github.io/branches/algebra/systems-of-linear-equations-with-many-unknowns.html" title="Algebra / Definition: Systems of Linear Equations with many Unknowns">system of linear equations (SLE)</a> written in the form of an <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html" title="Algebra / Definition: Coefficient Matrix">extended coefficient matrix</a>:</p>
 <p>$$A|\beta:=\left(\begin{array}{ccc|c}\alpha_{11}&amp; \ldots&amp;\alpha_{1n}&amp;\beta_1\\ 
 \alpha_{21}&amp; \ldots&amp;\alpha_{2n}&amp;\beta_2\\ 
 \vdots&amp;\vdots&amp;\vdots&amp;\vdots\\ 
 \alpha_{m1}&amp; \ldots&amp;\alpha_{mn}&amp;\beta_m\end{array}\right)\quad\quad ( * )$$</p>
-<p>with $\beta_i,a_ij\in F$, where $F$ is a <a href="https://bookofproofs.github.io/branches/algebra/field.html" title="Definition: Field">field</a> and not all $\beta_i,a_{ij}$ are zero<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>.</p>
+<p>with $\beta_i,a_ij\in F$, where $F$ is a <a href="https://bookofproofs.github.io/branches/algebra/field.html" title="Algebra / Definition: Field">field</a> and not all $\beta_i,a_{ij}$ are zero<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>.</p>
 <p>The method consists of the following two steps:</p>
 <ol>
-<li>Bring the system $( * )$ to an <a href="https://bookofproofs.github.io/branches/algebra/solution-to-an-upper-triangular-sle-backward-substitution.html" title="Definition: Solution to an Upper Triangular SLE - Backward Substitution">upper triangular</a> form 
+<li>Bring the system $( * )$ to an <a href="https://bookofproofs.github.io/branches/algebra/solution-to-an-upper-triangular-sle-backward-substitution.html" title="Algebra / Definition: Solution to an Upper Triangular SLE - Backward Substitution">upper triangular</a> form 
 $$\left(\begin{array}{ccccccc|c}a_{11}&amp; a_{12}&amp;\ldots&amp;a_{1r}&amp;a_{1,r+1}&amp;\ldots&amp;a_{1n}&amp;b_1\\ 
 0&amp; a_{22}&amp;\ldots&amp;a_{2r}&amp;a_{2,r+1}&amp;\ldots&amp;a_{2n}&amp;b_2\\ 
 \vdots&amp;\vdots&amp;\ddots&amp;\vdots&amp;\vdots&amp;\vdots&amp;\vdots&amp;\vdots\\ 
@@ -63,7 +63,7 @@ $$\left(\begin{array}{ccccccc|c}a_{11}&amp; a_{12}&amp;\ldots&amp;a_{1r}&amp;a_{
 \vdots&amp; \vdots &amp;\ldots&amp;\vdots&amp;\vdots&amp;\ldots&amp;\vdots&amp;\vdots\\ 
 0&amp; \ldots &amp;\ldots&amp;0&amp;0&amp;\ldots&amp;0&amp;b_m\\ 
 \end{array}\right)\quad \quad ( * * )$$ 
-using the <a href="https://bookofproofs.github.io/branches/algebra/elementary-gaussian-operations.html" title="Definition: Elementary Gaussian Operations">elementary Gaussian operations</a>, where<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup> all the $a_{ii}\neq 0$ for $i=1,\ldots $ with some $r\in\{1,\ldots,\min(m,n)\}.$ The number $r$ is called the <strong>rank</strong> of the <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html" title="Definition: Coefficient Matrix">coefficient matrix</a> $A.$
+using the <a href="https://bookofproofs.github.io/branches/algebra/elementary-gaussian-operations.html" title="Algebra / Definition: Elementary Gaussian Operations">elementary Gaussian operations</a>, where<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup> all the $a_{ii}\neq 0$ for $i=1,\ldots $ with some $r\in\{1,\ldots,\min(m,n)\}.$ The number $r$ is called the <strong>rank</strong> of the <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html" title="Algebra / Definition: Coefficient Matrix">coefficient matrix</a> $A.$
 The first step might involve the following steps:<ol>
 <li>Remove all columns consisting of only zero elements.</li>
 <li>Set $k=1$.</li>
@@ -74,9 +74,9 @@ The first step might involve the following steps:<ol>
 <li>Otherwise set $k=k+1$ and go back to step 3. </li>
 </ol>
 </li>
-<li>If in the system $( * * )$ $b_j\neq 0$ for at least one $j &gt; r,$ then the system $( * )$ has no solutions<sup id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup>. Otherwise, we can solve the system $( * * )$ using the <a href="https://bookofproofs.github.io/branches/algebra/solution-to-an-upper-triangular-sle-backward-substitution.html" title="Definition: Solution to an Upper Triangular SLE - Backward Substitution">backward substitution</a>.</li>
+<li>If in the system $( * * )$ $b_j\neq 0$ for at least one $j &gt; r,$ then the system $( * )$ has no solutions<sup id="fnref:4"><a class="footnote-ref" href="#fn:4">4</a></sup>. Otherwise, we can solve the system $( * * )$ using the <a href="https://bookofproofs.github.io/branches/algebra/solution-to-an-upper-triangular-sle-backward-substitution.html" title="Algebra / Definition: Solution to an Upper Triangular SLE - Backward Substitution">backward substitution</a>.</li>
 </ol>
-<p>The Gaussian method makes use of the lemma that <a href="https://bookofproofs.github.io/branches/algebra/elementary-gaussian-operations-do-not-change-the-solutions-of-an-sle.html" title="Lemma: Elementary Gaussian Operations Do Not Change the Solutions of an SLE">the elementary Gaussian operations do not change the set of solutions</a> of the system $( * ).$ Thus, the solution to $( * * )$ found in the second step is also a solution to $( * ).$</p>
+<p>The Gaussian method makes use of the lemma that <a href="https://bookofproofs.github.io/branches/algebra/elementary-gaussian-operations-do-not-change-the-solutions-of-an-sle.html" title="Algebra / Lemma: Elementary Gaussian Operations Do Not Change the Solutions of an SLE">the elementary Gaussian operations do not change the set of solutions</a> of the system $( * ).$ Thus, the solution to $( * * )$ found in the second step is also a solution to $( * ).$</p>
 <hr>
 <p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/gaussian-method-to-solve-systems-of-linear-equations-rank-of-a-matrix.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
 <hr>
@@ -90,7 +90,7 @@ The first step might involve the following steps:<ol>
 <hr />
 <ol>
 <li id="fn:1">
-<p>If so, we have the case <a href="https://bookofproofs.github.io/branches/algebra/solution-to-a-zero-sle.html" title="Example: Solution to a Zero SLE">discussed in this example</a>.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+<p>If so, we have the case <a href="https://bookofproofs.github.io/branches/algebra/solution-to-a-zero-sle.html" title="Algebra / Example: Solution to a Zero SLE">discussed in this example</a>.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
 </li>
 <li id="fn:2">
 <p>In the system $( * * )$ we have used the Latin notation $a,b$ instead of the Greek notation $\alpha, \gamma$ to indicate that these elements might be different from the original system $( * )$ after having applied the elementary Gaussian operations.&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
@@ -99,7 +99,7 @@ The first step might involve the following steps:<ol>
 <p>When implementing the algorithm for the computer, one should choose the row $i$ with the maximal absolute value of $\alpha_{i1}$ to make the algorithm numerically stable.&#160;<a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text">&#8617;</a></p>
 </li>
 <li id="fn:4">
-<p>As we have seen in <a href="https://bookofproofs.github.io/branches/algebra/solution-to-a-degenerated-diagonal-sle.html" title="Example: Solution to a Degenerated Diagonal SLE">this example</a>.&#160;<a class="footnote-backref" href="#fnref:4" title="Jump back to footnote 4 in the text">&#8617;</a></p>
+<p>As we have seen in <a href="https://bookofproofs.github.io/branches/algebra/solution-to-a-degenerated-diagonal-sle.html" title="Algebra / Example: Solution to a Degenerated Diagonal SLE">this example</a>.&#160;<a class="footnote-backref" href="#fnref:4" title="Jump back to footnote 4 in the text">&#8617;</a></p>
 </li>
 </ol>
 </div>

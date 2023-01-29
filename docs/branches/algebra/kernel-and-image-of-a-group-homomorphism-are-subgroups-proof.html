@@ -48,21 +48,21 @@
 <h1>Proof</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-a-group-homomorphism-are-subgroups.html'>Lemma: Kernel and Image of a Group Homomorphism are Subgroups</a>)</p>
 <ul>
-<li>Given a group homomorphism \(f:(G,\ast)\mapsto (H,\cdot)\), we first show that \(\ker(f)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html" title="Definition: Subgroup">subgroup</a> of \(G\).<ul>
-<li>Note that from the <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html" title="Proposition: Properties of a Group Homomorphism">properties of a group homomorphism</a>, it follows that \(f(e_G)=e_H.\)</li>
-<li>Thus, the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html" title="Lemma: Kernel and Image of Group Homomorphism">kernel</a> \(\ker(f)\) is not empty. </li>
+<li>Given a group homomorphism \(f:(G,\ast)\mapsto (H,\cdot)\), we first show that \(\ker(f)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html" title="Algebra / Definition: Subgroup">subgroup</a> of \(G\).<ul>
+<li>Note that from the <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html" title="Algebra / Proposition: Properties of a Group Homomorphism">properties of a group homomorphism</a>, it follows that \(f(e_G)=e_H.\)</li>
+<li>Thus, the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html" title="Algebra / Lemma: Kernel and Image of Group Homomorphism">kernel</a> \(\ker(f)\) is not empty. </li>
 <li>Therefore assume that \(x,y\in \ker(f)\), i.e. \(f(x)=f(y)=e_H\). </li>
 <li>It follows $f(x\ast y^{-1})=f(x)\cdot f(y^{-1})=e_H\cdot (f(y))^{-1}=e_H\cdot (e_H)^{-1}=e_H.$</li>
-<li>We have found that \(x\ast y^{-1}\in ker(f)\), which is a <a href="https://bookofproofs.github.io/branches/algebra/criteria-for-subgroups.html" title="Proposition: Criteria for Subgroups">subgroup criterion</a>.</li>
-<li>Thus, \(\ker(f)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html" title="Definition: Subgroup">subgroup</a> of \(G\).</li>
+<li>We have found that \(x\ast y^{-1}\in ker(f)\), which is a <a href="https://bookofproofs.github.io/branches/algebra/criteria-for-subgroups.html" title="Algebra / Proposition: Criteria for Subgroups">subgroup criterion</a>.</li>
+<li>Thus, \(\ker(f)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html" title="Algebra / Definition: Subgroup">subgroup</a> of \(G\).</li>
 </ul>
 </li>
-<li>We now show analogously that \(\operatorname{im}(f)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html" title="Definition: Subgroup">subgroup</a> of \(H\). <ul>
-<li>Again from \(e_H=f(e_G)\) it follows that the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html" title="Lemma: Kernel and Image of Group Homomorphism">image</a> \(\operatorname{im}(f)\) is not empty. </li>
+<li>We now show analogously that \(\operatorname{im}(f)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html" title="Algebra / Definition: Subgroup">subgroup</a> of \(H\). <ul>
+<li>Again from \(e_H=f(e_G)\) it follows that the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html" title="Algebra / Lemma: Kernel and Image of Group Homomorphism">image</a> \(\operatorname{im}(f)\) is not empty. </li>
 <li>Therefore assume that \(a,b\in im(f)\), i.e. that there exist some \(x,y\in G\) with \(f(x)=a\) and \(f(y)=b\). </li>
 <li>It follows that $a\cdot b^{-1}=f(x)\cdot (f(y))^{-1}=f(x)\cdot f(y^{-1})=f(x\ast y^{-1}).$</li>
-<li>We have found that \(a\cdot b^{-1}\in H\) is the image of \(x\ast y^{-1}\in G\), which is a <a href="https://bookofproofs.github.io/branches/algebra/criteria-for-subgroups.html" title="Proposition: Criteria for Subgroups">subgroup criterion</a>.</li>
-<li>Thus, \(\operatorname{im}(f)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html" title="Definition: Subgroup">subgroup</a> of \(H\).</li>
+<li>We have found that \(a\cdot b^{-1}\in H\) is the image of \(x\ast y^{-1}\in G\), which is a <a href="https://bookofproofs.github.io/branches/algebra/criteria-for-subgroups.html" title="Algebra / Proposition: Criteria for Subgroups">subgroup criterion</a>.</li>
+<li>Thus, \(\operatorname{im}(f)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html" title="Algebra / Definition: Subgroup">subgroup</a> of \(H\).</li>
 </ul>
 </li>
 </ul>

@@ -49,16 +49,16 @@
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/construction-of-groups-from-cancellative-semigroups.html'>Theorem: Construction of Groups from Commutative and Cancellative Semigroups</a>)</p>
 <h3>Uniqueness</h3>
 <ul>
-<li>Assume, two <a href="https://bookofproofs.github.io/branches/algebra/group.html" title="Definition: Group">groups</a> \((G_1,\ast)\) and \((G_2,\circ)\) fulfil both properties (1) and (2).</li>
-<li>Because of the property (2), \((G_1,\ast)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html" title="Definition: Subgroup">subgroup</a> of \((G_2,\ast)\) and vice versa. </li>
+<li>Assume, two <a href="https://bookofproofs.github.io/branches/algebra/group.html" title="Algebra / Definition: Group">groups</a> \((G_1,\ast)\) and \((G_2,\circ)\) fulfil both properties (1) and (2).</li>
+<li>Because of the property (2), \((G_1,\ast)\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html" title="Algebra / Definition: Subgroup">subgroup</a> of \((G_2,\ast)\) and vice versa. </li>
 <li>Therefore, both groups are, in fact, the same groups.</li>
 </ul>
 <h3>Existence</h3>
 <p>Our proof will be comprised of 4 steps:</p>
 <ul>
 <li>Step 1: Construct \((G,\ast)\) as a non-empty set with a binary operation "\(\ast\)"<ul>
-<li>By assumption, \((H,\circ)\) is a <a href="https://bookofproofs.github.io/branches/algebra/commutativity.html" title="Definition: Commutativity">commutative</a> and <a href="https://bookofproofs.github.io/branches/algebra/cancellation-property.html" title="Definition: Cancellation Property">cancellative</a> <a href="https://bookofproofs.github.io/branches/algebra/semigroup.html" title="Definition: Semigroup">semigroup</a>.</li>
-<li>As a first step, we define an <a href="https://bookofproofs.github.io/branches/set-theory/equivalence-relation.html" title="Definition: Equivalence Relation">equivalence relation</a> on the <a href="https://bookofproofs.github.io/branches/set-theory/cartesian-product.html" title="Definition: Cartesian Product">cartesian product</a> \(H\times H=\{(a,b)~|~a,b\in H\}\) as follows:
+<li>By assumption, \((H,\circ)\) is a <a href="https://bookofproofs.github.io/branches/algebra/commutativity.html" title="Algebra / Definition: Commutativity">commutative</a> and <a href="https://bookofproofs.github.io/branches/algebra/cancellation-property.html" title="Algebra / Definition: Cancellation Property">cancellative</a> <a href="https://bookofproofs.github.io/branches/algebra/semigroup.html" title="Algebra / Definition: Semigroup">semigroup</a>.</li>
+<li>As a first step, we define an <a href="https://bookofproofs.github.io/branches/set-theory/equivalence-relation.html" title="Set Theory / Definition: Equivalence Relation">equivalence relation</a> on the <a href="https://bookofproofs.github.io/branches/set-theory/cartesian-product.html" title="Set Theory / Definition: Cartesian Product">cartesian product</a> \(H\times H=\{(a,b)~|~a,b\in H\}\) as follows:
 \[(a,b)\sim (c,d)\Leftrightarrow a\circ d=b\circ c~~~(a,b,c,d\in H).\]</li>
 <li>Please note that this is indeed an equivalence relation, since it is reflexive, symmetric and transitive:<ul>
 <li>The <em>reflexivity</em> of "\(\sim\)" follows from the commutativity of \(H\): $(a,b)\sim(a,b)\Leftrightarrow a\circ b=b\circ a.$</li>
@@ -92,7 +92,7 @@ a\circ d\circ c\circ f&amp;=&amp;b\circ c\circ d\circ e\\
 <li>Therefore, we have succeeded to define a non-empty set with a binary operation \((G,\ast)\).</li>
 </ul>
 </li>
-<li>Step 2: Demonstrate that \((G,\ast)\) is a <a href="https://bookofproofs.github.io/branches/algebra/abelian-group.html" title="Definition: Commutative (Abelian) Group">commutative group</a>.<ul>
+<li>Step 2: Demonstrate that \((G,\ast)\) is a <a href="https://bookofproofs.github.io/branches/algebra/abelian-group.html" title="Algebra / Definition: Commutative (Abelian) Group">commutative group</a>.<ul>
 <li>We will show that the operation \(\ast\) is associative and commutative and that \(G\) contains a unique identity as well as each of its elements has a unique inverse. </li>
 <li>By construction, the operation \(\ast\) is associative:
 \[\begin{array}{rcl}([a,b]\ast[c,d])\ast[e,f]&amp;=&amp;([a\circ c,b\circ d])\ast[e,f]\\
@@ -116,7 +116,7 @@ Please note that the identity \([h,h]\) is unique because, as an equivalence cla
 </ul>
 </li>
 <li>Step 3: Demonstrate that \((G,\ast)\) fulfills property (1)<ul>
-<li>We shall show that there is a subset \(S\subseteq G\), which is a <a href="https://bookofproofs.github.io/branches/algebra/calculations-in-a-group.html" title="Motivation: Calculations in a Group">semigroup isomorphic</a> to \(H\), i.e. where \((S,\ast)\simeq (H,\circ)\). </li>
+<li>We shall show that there is a subset \(S\subseteq G\), which is a <a href="https://bookofproofs.github.io/branches/algebra/calculations-in-a-group.html" title="Algebra / Motivation: Calculations in a Group">semigroup isomorphic</a> to \(H\), i.e. where \((S,\ast)\simeq (H,\circ)\). </li>
 <li>We will do so by constructing the subset \(S\subseteq G\) and finding a bijective homomorphism \(f:H\mapsto S\).</li>
 <li>For the identity element \([h,h]\in G\), consider the subset $S:=\{[a\circ h,h]~|~a\in H\},$ and set \[f:\begin{cases}H&amp;\mapsto S\\a&amp;\mapsto [a\circ h,h].\end{cases}\]</li>
 <li>Then \(f\) surjective by definition and it is injective since we can conclude that 
@@ -127,8 +127,8 @@ f(a)=f(b)&amp;\Leftrightarrow&amp;[a\circ h,h]=[b\circ h,h]\\
 &amp;\Rightarrow&amp;a\circ \cancel{h^2}=b\circ \cancel{h^2}\\
 &amp;\Rightarrow&amp;a=b\\
 \end{array}.\]
-Since \(f\) is both, surjective and injective, it is <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html" title="Definition: Bijective Function">bijective</a>.</li>
-<li>\(f\) is also a <a href="https://bookofproofs.github.io/branches/algebra/exponentiation-in-a-group.html" title="Definition: Exponentiation in a Group">homomorphism</a>, since we have
+Since \(f\) is both, surjective and injective, it is <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html" title="Set Theory / Definition: Bijective Function">bijective</a>.</li>
+<li>\(f\) is also a <a href="https://bookofproofs.github.io/branches/algebra/exponentiation-in-a-group.html" title="Algebra / Definition: Exponentiation in a Group">homomorphism</a>, since we have
 \[\begin{array}{ccl}
 f(a\circ b)&amp;=&amp;[(a\circ b)\circ h,h]\\
 &amp;=&amp;[(a\circ b)\circ h,h]\ast[h,h]\\
