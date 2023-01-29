@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="ISOMORPHISM GRAPHS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="graphs,isomorphism,isomorphic graph">
+<title>Isomorphism (Graphs)</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/graph-theory/graph-transformations.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/graph-transformations.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/isomorphic-undirected-graphs.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/graph-theory/graph-theory.html'>Graph-theory</a> / Chapter: Isomorphism (Graphs)</h3>
+
+<hr>
+
+<h1>Chapter: Isomorphism (Graphs)</h1>
+<p>The <strong>isomorphism</strong> of graphs is a very important concept for trying to solve graph-theoretical problems by means of a computer, because any <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">graph</a> or <a href="https://bookofproofs.github.io/branches/graph-theory/digraph-initial-and-terminal-vertices-loops-parallel-and-inverse-edges-simple-digraph.html" title="Graph Theory / Definition: Digraph, Initial and Terminal Vertices, Loops, Parallel and Inverse Edges, Simple Digraph">digraph</a> can be <a href="https://bookofproofs.github.io/branches/graph-theory/graph-representations.html" title="Graph Theory / Chapter: Graph Representations">represented in a way</a>, which can be handled with a computer. </p>
+<p>Graph isomorphism ensures that two graphs, e.g. having different diagrams or labeling of vertices and edges can be, in a sense, regarded as the same, because they convey the same information. Consider an <strong>office resource graph</strong> with three persons: Alice Norisson \(A,N\) , Christine Smith \(C,S\) and Bob Parker \(B,P\) , connected to three resources in their office network - a printer \(p\) or \(r_1\), an internet hot spot \(h\) or \(r_2\), and a database \(d\) or \(r_3\). Due to some network problems, Bob Parker lost his connection to the hot spot. </p>
+<p>All of the below diagrams convey the same information about the network connection in the office, although they are quite different and have different labellings (e.g. using the first or last names of each person, varying of the diagram pictograms, or moving them around, without changing the connections in-between):</p>
+<p><img alt="graphs10" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/graphs10.jpg?raw=true" /></p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/graph-theory/isomorphic-undirected-graphs.html'>Definition: Isomorphic Undirected Graphs</a></li>
+<li><a href='https://bookofproofs.github.io/branches/graph-theory/isomorphic-digraphs.html'>Definition: Isomorphic Digraphs</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/graph-theory/isomorphism-graphs.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

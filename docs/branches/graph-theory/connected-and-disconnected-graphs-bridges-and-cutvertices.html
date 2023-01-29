@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="CONNECTED AND DISCONNECTED GRAPHS, BRIDGES AND CUTVERTICES &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="articulation point,bridge,bridges,connected,cutvertex,cutvertices,disconnected,graphs,connected and disconnected graph,disconnected graph,connected graph,connected vs disconnected graph,connected graph and disconnected graph,connected and unconnected graph,connected graph vs disconnected graph,disconnected graph definition,unconnected graph,define,">
+<title>Connected and Disconnected Graphs, Bridges and Cutvertices</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/graph-theory/characterization-of-eulerian-graphs-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/paths-cycles-and-connectivity.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/characterization-of-cutvertices.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/graph-theory/graph-theory.html'>Graph-theory</a> / Definition: Connected and Disconnected Graphs, Bridges and Cutvertices</h3>
+
+<hr>
+
+<h1>Definition: Connected and Disconnected Graphs, Bridges and Cutvertices</h1>
+<p>Let \(G(V,E,\gamma)\) be a non-empty undirected <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">graph</a>.
+* \(G\) is called <strong>connected</strong>, if there is a <a href="https://bookofproofs.github.io/branches/graph-theory/walks-trails-paths-and-cycles.html" title="Graph Theory / Definition: Walks, Trails, and Paths">path</a> \(P=w-u\) between any two of its vertices \(w\) and \(u\). Equivalently, a connected graph has exactly one component, i.e. the <a href="https://bookofproofs.github.io/branches/graph-theory/get-all-components-of-a-graph.html" title="Graph Theory / Algorithm: Get All Components of a Graph">output of the algorithm</a> \(\mathtt{getCOMPONENTS(G)}\) is a set \(C\) of subgraphs with \(|C|=1\).
+* \(G\) is called <strong>disconnected</strong>, if it has more than one component, i.e. if it is not connected. 
+* An edge in a connected graph is a <strong>bridge</strong>, if its removal leaves a disconnected graph.
+* A vertex of a connected graph is a <strong>cutvertex</strong> or <strong>articulation point</strong>, if its removal leaves a disconnected graph.</p>
+<h4>Examples:</h4>
+<p><img alt="graphs2" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/graphs2.jpg?raw=true" /></p>
+<p>The above graph \(G\), consisting of \(14\) vertices is disconnected. However, It has the following conntected components:</p>
+<ul>
+<li>\(G[1,2,3,4,5,6,7,8]\)</li>
+<li>\(G[9,10]\)</li>
+<li>\(G[11,12,13]\)</li>
+<li>\(G[ 14 ]\)</li>
+</ul>
+<p>The edge \((3,6)\) is a bridge of the component \(G[1,2,3,4,5,6,7,8]\) and the edge \((9,11)\) is a bridge of the component \(G[9,10]\).</p>
+<p>The vertices \(3\) and \(4\) are articulation points of the component  \(G[1,2,3,4,5,6,7,8]\).</p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/graph-theory/characterization-of-cutvertices.html'>Proposition: Characterization of Cutvertices</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/graph-theory/connected-and-disconnected-graphs-bridges-and-cutvertices.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Aldous Joan M., Wilson Robin J.</strong>: "Graphs and Applications - An Introductory Approach", Springer, 2000</li>
+<li><strong>Diestel, Reinhard</strong>: "Graph Theory, 3rd Edition", Springer, 2005</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

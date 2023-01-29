@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="PROOF OF RELATIONSHIP BETWEEN TREE DEGREE, TREE HEIGHT AND THE NUMBER OF LEAVES IN A TREE ★ master graduate maths ✔ visit BookOfProofs now!">
+<meta name="keywords" content="tree degree and the number of leaves,tree height and the number of leaves,degree height and leaves,proof">
+<title>By Induction</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/graph-theory/relationship-between-degree-height-and-the-number-of-leaves-in-a-tree.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/relationship-between-degree-height-and-the-number-of-leaves-in-a-tree.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/spanning-tree.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/graph-theory/graph-theory.html'>Graph-theory</a> / Proof: By Induction</h3>
+
+<hr>
+
+<h1>Proof: By Induction</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/graph-theory/relationship-between-degree-height-and-the-number-of-leaves-in-a-tree.html'>Lemma: Relationship between Tree Degree, Tree Height and the Number of Leaves in a Tree</a>)</p>
+<ul>
+<li>By hypothesis, $T(V,E)$ is a <a href="https://bookofproofs.github.io/branches/graph-theory/trees-and-forests.html" title="Graph Theory / Definition: Trees and Forests">tree</a> with $|V|$ <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">vertices</a> and a given <a href="https://bookofproofs.github.io/branches/graph-theory/root-degree-of-a-tree-subtree-height.html" title="Graph Theory / Definition: Root, Degree of a Tree, Subtree, Height">root</a> $r$.</li>
+<li>Let $h$ be the <a href="https://bookofproofs.github.io/branches/graph-theory/root-degree-of-a-tree-subtree-height.html" title="Graph Theory / Definition: Root, Degree of a Tree, Subtree, Height">height</a> of $T$ with respect to $r$, let $d$ be the <a href="https://bookofproofs.github.io/branches/graph-theory/root-degree-of-a-tree-subtree-height.html" title="Graph Theory / Definition: Root, Degree of a Tree, Subtree, Height">degree</a> of $T$ with respect to $r$, and let $l$ denote the number of <a href="https://bookofproofs.github.io/branches/graph-theory/leaf.html" title="Graph Theory / Definition: Leaf">leaves</a> in $T$.</li>
+<li>We prove the inequalities <a href="https://bookofproofs.github.io/branches/logic/proving-principle-by-complete-induction.html" title="Logic / Lemma: The Proving Principle by Complete Induction">by induction</a> on the height $h.$</li>
+<li>Base case $h=0$:<ul>
+<li>If the height of the tree is $0$ then $|V|=1=l\le d^0\le 2\cdot d^0.$</li>
+<li>Moreover, $0\le \log_d(l)$ (<a href="https://bookofproofs.github.io/branches/analysis/logarithm-to-a-general-base.html" title="Analysis / Proposition: Logarithm to a General Base">logarithm to the base of the tree degree $d$</a>).</li>
+</ul>
+</li>
+<li>Induction step $h\to h+1$<ul>
+<li>Assume, for all trees $T^\prime$ with heights $h^\prime\le h$ we have the inequalities<ul>
+<li>$l^\prime\le d^{h^\prime}$</li>
+<li>$|V|\le 2\cdot d^{h^\prime}$</li>
+<li>$h^\prime\ge\log_d({l^\prime}).$</li>
+</ul>
+</li>
+<li>Let $T(V,E)$ be a tree of height $h+1$.</li>
+<li>We prove $l+1\le d^{h+1}$:<ul>
+<li>Note that the <a href="https://bookofproofs.github.io/branches/graph-theory/leaf.html" title="Graph Theory / Definition: Leaf">leaves</a> at the altitude $h+1$ of a tree $T$ have leaves of $T^\prime$ as their predecessors.</li>
+<li>Since $T$ is of degree $d,$ each leaf of $T^\prime$ can have at most $d$ new successors (leaves) in $T.$</li>
+<li>It follows $l+1\le d\cdot d^{h}=d^{h+1}.$</li>
+</ul>
+</li>
+<li>We prove $|V|\le 2\cdot d^{h+1}$<ul>
+<li>We have just shown that at most $d^{h+1}$ new vertices in $T$ can be added at the altitude $h+1$.</li>
+<li>The overall number of <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">vertices</a> in $T$ can be, therefore, estimated as $|V|\le 2d^h+d^{h+1}\le d^{h+1}+d^{h+1}=2d^{h+1}.$</li>
+</ul>
+</li>
+<li>We prove $h+1\ge\log_d({l+1})$:<ul>
+<li>Since $l+1\le d^{h+1}$, it follows $\log_d(l+1)\le h+1$</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/graph-theory/relationship-between-degree-height-and-the-number-of-leaves-in-a-tree-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Erk, Katrin; Priese, Lutz</strong>: "Theoretische Informatik", Springer Verlag, 2000, 2nd Edition</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

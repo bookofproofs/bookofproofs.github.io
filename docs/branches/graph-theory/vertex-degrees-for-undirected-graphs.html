@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="VERTEX DEGREES FOR UNDIRECTED GRAPHS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="vertex degrees,vertex degree">
+<title>Vertex Degrees for Undirected Graphs</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/graph-theory/complement-graph.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/graphs.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/degree-sequence.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/graph-theory/graph-theory.html'>Graph-theory</a> / Definition: Vertex Degrees for Undirected Graphs</h3>
+
+<hr>
+
+<h1>Definition: Vertex Degrees for Undirected Graphs</h1>
+<p>Let \(G=(V,E,\gamma)\) be an <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">undirected graph</a>, \(v\in V\) be a vertex of \(G\). The number of edges <a href="https://bookofproofs.github.io/branches/graph-theory/incidence-adjacency-neighbours.html" title="Graph Theory / Definition: Incidence, Adjacency, Neighbours">incident</a> to \(v\) is called the <strong>degree</strong> of \(v\) and denoted by \(\deg_G(v)\). Formally, we set 
+\[\deg_G(v):=|\delta_G(v)|\]
+with \(\delta_G(v)=\{e\in E: v\in \gamma(e)\}\). Note that the index \(G\) can be omitted in the notation, if it is clear from the context, which graph \(G\) is concerned.</p>
+<h3>Example:</h3>
+<p><img alt="graphs6" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/graphs6.jpg?raw=true" /></p>
+<p>The values of the degrees of vertices in the above graph are:</p>
+<div style='overflow-x:auto;'><table>
+<thead>
+<tr>
+<th style="text-align: left;">Vertex \(v\)</th>
+<th style="text-align: left;">Degree \(\deg(v)\)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">\(a\)</td>
+<td style="text-align: left;">\(5\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(b\)</td>
+<td style="text-align: left;">\(6\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(c\)</td>
+<td style="text-align: left;">\(4\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(d\)</td>
+<td style="text-align: left;">\(3\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(e\)</td>
+<td style="text-align: left;">\(4\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(f\)</td>
+<td style="text-align: left;">\(0\)</td>
+</tr>
+</tbody>
+</table></div>
+<h3 class='navigation'>Table of Contents</h3>
+
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/graph-theory/degree-sequence.html'>Definition: Degree Sequence</a></li>
+<li><a href='https://bookofproofs.github.io/branches/graph-theory/regular-graph.html'>Definition: Regular Graph</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/graph-theory/vertex-degrees-for-undirected-graphs.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Krumke S. O., Noltemeier H.</strong>: "Graphentheoretische Konzepte und Algorithmen", Teubner, 2005, 1st Edition</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="ROOT, DEGREE OF A TREE, SUBTREE, HEIGHT ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="tree root,tree degree,subtree,tree roots,tree degrees,subtrees,tree height,tree heights,root,roots">
+<title>Root, Degree of a Tree, Subtree, Height</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/graph-theory/equivalent-definitions-of-trees-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/trees-and-forests.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/lower-bound-of-leaves-in-a-tree.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/graph-theory/graph-theory.html'>Graph-theory</a> / Definition: Root, Degree of a Tree, Subtree, Height</h3>
+
+<hr>
+
+<h1>Definition: Root, Degree of a Tree, Subtree, Height</h1>
+<p>Let a <a href="https://bookofproofs.github.io/branches/graph-theory/trees-and-forests.html" title="Graph Theory / Definition: Trees and Forests">tree</a> $T$ be given and let $r$ be a designated <a href="https://bookofproofs.github.io/branches/graph-theory/vertex-degrees-for-undirected-graphs.html" title="Graph Theory / Definition: Vertex Degrees for Undirected Graphs">vertex</a> of that tree called its <strong>root</strong>.
+* The <strong>subtrees</strong> of $T$ (with respect to the root $r$) are the <a href="https://bookofproofs.github.io/branches/graph-theory/connected-and-disconnected-graphs-bridges-and-cutvertices.html" title="Graph Theory / Definition: Connected and Disconnected Graphs, Bridges and Cutvertices">disconnected</a> <a href="https://bookofproofs.github.io/branches/graph-theory/subgraphs-and-supergraphs.html" title="Graph Theory / Definition: Subgraphs and Supergraphs; Induced Subgraph">subgraphs</a> of $T$ when disconnected by removing the root $r.$
+* The <strong>roots of the subtrees</strong> are those uniquely determined vertices, which were adjacent to $r$ before it was removed.
+* The <strong>degree</strong> of $T$ (with respect to the root $r$) is the maximum <a href="https://bookofproofs.github.io/branches/graph-theory/vertex-degrees-for-undirected-graphs.html" title="Graph Theory / Definition: Vertex Degrees for Undirected Graphs">vertex degree</a> of its root and all vertex degrees of roots of its subtrees obtained recursively by removing their roots.
+* The height of $T$ (with respect to the root $r$) is the maximum length of a <a href="https://bookofproofs.github.io/branches/graph-theory/walks-trails-paths-and-cycles.html" title="Graph Theory / Definition: Walks, Trails, and Paths">path</a> between $r$ and its <a href="https://bookofproofs.github.io/branches/graph-theory/leaf.html" title="Graph Theory / Definition: Leaf">leaves</a>.</p>
+<h3>Example</h3>
+<p>The following figure demonstrates the above concepts and also the fact that they indeed depend on the special choice of the root. You see the same tree drawn in two different ways.</p>
+<p><img alt="treeroots" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/treeroots.png?raw=true" /></p>
+<p>In the left drawing:</p>
+<ul>
+<li>$r$ is the root.</li>
+<li>The induced graphs $G[a,b]$, $G[c,d,e]$ and $G[f,g,h,j]$ are subtrees with their respective roots $a$, $c$ and $f.$</li>
+<li>After a recursive removal of these roots, we get the graphs $G[b]$, $G[d]$, $G[e]$, $G[g]$, $G[h]$, and $G[i]$, which are their own roots, have no more subtrees, and, at the same time, are the leafs of the original tree.</li>
+<li>The maximum degree of all consecutive roots is $3,$ thus the order of this tree is $3.$</li>
+<li>The height of the tree is $2.$ </li>
+</ul>
+<p>In the right drawing:</p>
+<ul>
+<li>$f$ is the root.</li>
+<li>The induced graphs $G[r,a,b,c,d,e],$ $G[g]$, $G[h]$, $G[i]$ are subtrees with their respective roots $r$, $g$, $h$ and $i$.</li>
+<li>Only $G[r,a,b,c,d,e]$ has two subtrees $G[a,b]$, $G[c,d,e]$.</li>
+<li>After a recursive removal of their roots $a$ and $c$, we get the graphs $G[b]$, $G[d]$, $G[e]$, which are their own roots and have no more subtrees.</li>
+<li>The maximum degree of all consecutive roots is now $4.$ Thus, the order of this tree is $4.$</li>
+<li>The height of the tree is $3.$</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/graph-theory/root-degree-of-a-tree-subtree-height.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Krumke S. O., Noltemeier H.</strong>: "Graphentheoretische Konzepte und Algorithmen", Teubner, 2005, 1st Edition</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

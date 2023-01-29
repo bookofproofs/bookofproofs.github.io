@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of CHARACTERIZATION OF PLANAR HAMILTONIAN GRAPHS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!">
+<meta name="keywords" content="characterization of hamiltonian planar graphs,planar hamiltonian graphs,planar hamiltonian graph,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/graph-theory/characterization-of-planar-hamiltonian-graphs.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/characterization-of-planar-hamiltonian-graphs.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/eulerian-tour.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/graph-theory/graph-theory.html'>Graph-theory</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/graph-theory/characterization-of-planar-hamiltonian-graphs.html'>Theorem: Characterization of Planar Hamiltonian Graphs</a>)</p>
+<h2>Proof</h2>
+<p>In the following proof, we assume that \(G(V,E)\) is a <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">simple</a>, <a href="https://bookofproofs.github.io/branches/graph-theory/planar-graph.html" title="Graph Theory / Definition: Planar Graph">planar</a> and <a href="https://bookofproofs.github.io/branches/graph-theory/connected-and-disconnected-graphs-bridges-and-cutvertices.html" title="Graph Theory / Definition: Connected and Disconnected Graphs, Bridges and Cutvertices">connected</a> graph with \(n:=|V|\) vertices.</p>
+<h3>"\(\Rightarrow\)"</h3>
+<ul>
+<li>Assume, \(G\) is <a href="https://bookofproofs.github.io/branches/graph-theory/hamiltonian-graph.html" title="Graph Theory / Definition: Hamiltonian Graph">Hamiltonian</a>. We have to prove that the <a href="https://bookofproofs.github.io/branches/graph-theory/minimal-tree-decomposability.html" title="Graph Theory / Definition: Minimal Tree Decomposability">minimal tree decomposability</a> of all dual graphs \(G^\ast\) of \(G\) is \(\tau(G^\ast)=2\).</li>
+<li>Since \(G\) is planar, it has a <a href="https://bookofproofs.github.io/branches/graph-theory/planar-drawing-embedding.html" title="Graph Theory / Definition: Planar Drawing (Embedding)">planar drawing</a> \(\mathcal D\).</li>
+<li>Take <strong>any</strong> <a href="https://bookofproofs.github.io/branches/graph-theory/planar-drawing-embedding.html" title="Graph Theory / Definition: Planar Drawing (Embedding)">planar drawing</a> \(\mathcal D\) of \(G\).</li>
+<li>Construct the corresponding <a href="https://bookofproofs.github.io/branches/graph-theory/dual-planar-graph.html" title="Graph Theory / Definition: Dual Planar Graph">dual graph</a> \(G^\ast_{\mathcal D}\).</li>
+<li>Since \(G\) is Hamiltonian, there is a <a href="https://bookofproofs.github.io/branches/graph-theory/hamiltonian-cycle.html" title="Graph Theory / Definition: Hamiltonian Cycle">Hamiltonian cycle</a> \(C^n\) of \(G\); let \(C^n\) denote the Hamiltonian cycle drawn inside \(\mathcal D\). </li>
+<li>Identify vertices \(v_1,\ldots v_m\) of \(G^\ast_{\mathcal D}\), which are enclosed by \(C^n\) in \(\mathcal D\). </li>
+<li>By the <a href="https://bookofproofs.github.io/branches/graph-theory/dual-graph-of-a-all-faces-contained-in-a-planar-hamiltonian-cycle-is-a-tree.html" title="Graph Theory / Lemma: Dual Graph of a All Faces Contained in a Planar Hamiltonian Cycle is a Tree">lemma about the dual graph of faces contained inside a planar Hamiltonian cycle</a>, the <a href="https://bookofproofs.github.io/branches/graph-theory/subgraphs-and-supergraphs.html" title="Graph Theory / Definition: Subgraphs and Supergraphs; Induced Subgraph">subgraph induced</a> in \(G^\ast_{\mathcal D}\), i.e. the graph \(G^\ast_{\mathcal D}[v_1,\ldots v_m]\), is a <a href="https://bookofproofs.github.io/branches/graph-theory/trees-and-forests.html" title="Graph Theory / Definition: Trees and Forests">tree</a>, say \(T_1.\)</li>
+<li>Since the vertices \(v_1,\ldots v_m\) are only those vertices of \(G^\ast_{\mathcal D}\), which are enclosed by the Hamiltonian cycle \(C^n\), there is at least one other vertex \(w\) of \(G^\ast_{\mathcal D}\), e.g. the vertex corresponding to the <a href="https://bookofproofs.github.io/branches/graph-theory/face-infinite-face.html" title="Graph Theory / Definition: Face, Infinite Face">infinite face</a> of the planar drawing \(\mathcal D\). Therefore, \(w\) is contained in the non-empty subset of vertices \(V^\ast\setminus\{v_1,\ldots,v_m\}\), where \(V^\ast\) denotes all the vertices of \(G^\ast_{\mathcal D}\). </li>
+<li>Again, by the <a href="https://bookofproofs.github.io/branches/graph-theory/dual-graph-of-a-all-faces-contained-in-a-planar-hamiltonian-cycle-is-a-tree.html" title="Graph Theory / Lemma: Dual Graph of a All Faces Contained in a Planar Hamiltonian Cycle is a Tree">lemma about the dual graph of faces contained inside a planar Hamiltonian cycle</a>, the subgraph induced by the vertices \(V^\ast\setminus\{v_1,\ldots,v_m\}\) in \(G^\ast_{\mathcal D}\), i.e. the graph \(G^\ast_{\mathcal D}[V^\ast\setminus\{v_1,\ldots,v_m\}]\), is a also <a href="https://bookofproofs.github.io/branches/graph-theory/trees-and-forests.html" title="Graph Theory / Definition: Trees and Forests">tree</a>, say \(T_2,\) because the Hamiltonian cycle \(C^n\) encloses the vertices \(V^\ast\setminus\{v_1,\ldots,v_m\}\) in similar way as it encloses the vertices \(\{v_1,\ldots,v_m\}\). </li>
+<li>Thus, the dual graph \(G^\ast_{\mathcal D}\) can be <a href="https://bookofproofs.github.io/branches/graph-theory/graph-decomposable-into-k-trees.html" title="Graph Theory / Definition: Graph Decomposable Into `\(k\)` Trees">decomposed into two trees</a>: \(T_1\) and \(T_2\), thus \(\tau(G^\ast_{\mathcal D})\le 2\).</li>
+<li>It remains to be show that this decomposition is <a href="https://bookofproofs.github.io/branches/graph-theory/minimal-tree-decomposability.html" title="Graph Theory / Definition: Minimal Tree Decomposability">minimal</a>, i.e. to prove that indeed \(\tau(G^\ast_{\mathcal D})=2\). This will be proven by <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">contradiction</a>; Assume, \(\tau(G^\ast_{\mathcal D}) &lt; 2\).  <ul>
+<li>Case \(\tau(G^\ast_{\mathcal D})=0\): <ul>
+<li>In this case, the "proof of the lemma for the bounds for the minimal tree decomposability":<a href="https://www.bookofproofs.org/branches/bounds-for-the-minimal-tree-decomposability/proof/">https://www.bookofproofs.org/branches/bounds-for-the-minimal-tree-decomposability/proof/</a> shows that the <a href="https://bookofproofs.github.io/branches/graph-theory/dual-planar-graph.html" title="Graph Theory / Definition: Dual Planar Graph">dual graph</a> \(G^\ast_{\mathcal D}\) contains <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">loops</a>. This can only happen, if the planar graph \(G\) contains a <a href="https://bookofproofs.github.io/branches/graph-theory/subgraphs-and-supergraphs.html" title="Graph Theory / Definition: Subgraphs and Supergraphs; Induced Subgraph">subgraph</a>, which is a <a href="https://bookofproofs.github.io/branches/graph-theory/trees-and-forests.html" title="Graph Theory / Definition: Trees and Forests">tree</a>, since the planar drawing of a tree is contained in a single <a href="https://bookofproofs.github.io/branches/graph-theory/face-infinite-face.html" title="Graph Theory / Definition: Face, Infinite Face">infinite face</a> of the plane,  this face in the dual graph corresponds to a single vertex with as many loops, as there are edges in the tree.</li>
+<li>Because \(G\) contains a subgraph which is a tree, it is not <a href="https://bookofproofs.github.io/branches/graph-theory/biconnected-graphs-k-connected-graphs.html" title="Graph Theory / Definition: Biconnected Graphs, `\(k\)`-Connected Graphs">biconnected</a>, since each vertex of such a tree is a <a href="https://bookofproofs.github.io/branches/graph-theory/connected-and-disconnected-graphs-bridges-and-cutvertices.html" title="Graph Theory / Definition: Connected and Disconnected Graphs, Bridges and Cutvertices">cutvertex</a> of \(G\).</li>
+<li>Since <a href="https://bookofproofs.github.io/branches/graph-theory/biconnectivity-is-a-necessary-condition-for-a-hamiltonian-graph.html" title="Graph Theory / Lemma: Biconnectivity is a Necessary Condition for a Hamiltonian Graph">biconnectivity is a necessary condition for Hamiltonian graphs</a>, \(G\) cannot be Hamiltonian, because it contains a tree subgraph, contradicting the case \(\tau(G^\ast_{\mathcal D})=0\).</li>
+</ul>
+</li>
+<li>Case \(\tau(G^\ast_{\mathcal D})=1\): <ul>
+<li>Again, according to the "proof of the lemma for the bounds for the minimal tree decomposability":<a href="https://www.bookofproofs.org/branches/bounds-for-the-minimal-tree-decomposability/proof/">https://www.bookofproofs.org/branches/bounds-for-the-minimal-tree-decomposability/proof/</a>, \(\tau(G^*_{\mathcal D})=1\) holds only, if the dual graph \(G^\ast_{\mathcal D}\) is itself a tree. This can only happen, if the planar graph \(G\) consists of a single vertex with as many loops, as there are edges in the tree being its dual graph \(G^\ast_{\mathcal D}\). </li>
+<li>However, \(G\) is a simple graph by hypothesis and so it cannot contain any loops, which contradicts the case \(\tau(G^\ast_{\mathcal D})=1\).</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Since we have proven that \(\tau(G^\ast_{\mathcal D}) \not &lt; 2\) and   \(\tau(G^\ast_{\mathcal D}) \le 2\), it follows  \(\tau(G^\ast_{\mathcal D}) =2\).</li>
+<li>Since \(G^\ast_{\mathcal D}\) was an arbitrary dual graph (because it was constructed from an arbitrary planar drawing \({\mathcal D}\) of \(G\)), this property holds for all dual graphs of the planar Hamiltonian graph \(G\). </li>
+</ul>
+<h3>"\(\Leftarrow\)"</h3>
+<ul>
+<li>Assume, the <a href="https://bookofproofs.github.io/branches/graph-theory/minimal-tree-decomposability.html" title="Graph Theory / Definition: Minimal Tree Decomposability">minimal tree decomposability</a> of all dual graphs \(G^\ast\) of \(G\) is \(\tau(G^\ast)=2\). We have to prove that \(G\) is Hamiltonian. We will do this by constructing a <a href="https://bookofproofs.github.io/branches/graph-theory/hamiltonian-cycle.html" title="Graph Theory / Definition: Hamiltonian Cycle">Hamiltonian cycle</a> in \(G\).</li>
+<li>Construct the dual graph \(G^\ast_{\mathcal D}\) from an arbitrary planar drawing \(\mathcal D\) of \(G\).</li>
+<li>Since \(\tau(G^\ast_{\mathcal D})=2\), identify trees \(T_1\) and \(T_2\), into which \(G^\ast_{\mathcal D}\) can be <a href="https://bookofproofs.github.io/branches/graph-theory/graph-decomposable-into-k-trees.html" title="Graph Theory / Definition: Graph Decomposable Into `\(k\)` Trees">decomposed</a>.</li>
+<li>Let \(V^\ast(T_1)\) and \(V^\ast(T_2)\) denote the vertices of both trees, respectively. </li>
+<li>We claim that there are exactly \(n\) edges of \(G^\ast_{\mathcal D}\) connecting the vertices \(V^\ast(T_1)\) with the vertices \(V^\ast(T_2)\), where \(n\) equals the number of the vertices of the original graph \(G\). Proof:<ul>
+<li>For the dual graph \(G^\ast_{\mathcal D}\), the <a href="https://bookofproofs.github.io/branches/graph-theory/euler-characteristic-for-planar-graphs.html" title="Graph Theory / Theorem: Euler Characteristic for Planar Graphs">Eulerian characteristic for planar graphs</a> leads to the equation \[|V^\ast|-|E^\ast| + n =2,\] where \(|V^\ast|\) is the number of its vertices, \(|E^\ast|\) is the number of its edges, and \(n\) equals the number of its faces (actually, it also equals the number of the vertices of the original graph \(G\)).</li>
+<li>By definition of <a href="https://bookofproofs.github.io/branches/graph-theory/graph-decomposable-into-k-trees.html" title="Graph Theory / Definition: Graph Decomposable Into `\(k\)` Trees">tree decomposition</a>, \(V^\ast(T_1)\) and \(V^\ast(T_2)\) are non-empty sets and build a partition of the \(n\) vertices of \(G^\ast_{\mathcal D}\). Replacing \(n\) by the sum \(|V^\ast(T_1)|+|V^\ast(T_2)|\) leads to the equation \[|V^\ast(T_1)|+|V^\ast(T_2)|-|E^\ast| + n =2.\]</li>
+<li>Let \(E^\ast(T_1)\) denote the number of edges of the tree \(T_1\) and let \(E^\ast(T_2)\) denote the number of edges of the tree \(T_2\). Therefore, the number of the edges of \(G^\ast_{\mathcal D}\) can be written as the sum \(|E^\ast|=|E^\ast(T_1)|+|E^\ast(T_2)|+|E^\ast( R)|\), where \(|E^\ast( R)|\) denotes the number of any remaining edges in \(G^\ast_{\mathcal D}\), if they exist. Clearly, \(|E^\ast( R)|\ge 0\) and this leads to the equation
+\[|V^\ast(T_1)|+|V^\ast(T_2)|-|E^\ast(T_1)|-|E^\ast(T_2)|-|E^\ast( R)| + n =2.\]</li>
+<li>From the <a href="https://bookofproofs.github.io/branches/graph-theory/equivalent-definitions-of-trees.html" title="Graph Theory / Proposition: Equivalent Definitions of Trees">equivalent definitions of trees</a>, we know that \(|E^\ast(T_1)|=|V^\ast(T_1)|-1\) and that \(|E^\ast(T_2)|=|V^\ast(T_2)|-1\). This leads to the equation
+\[|V^\ast(T_1)|+|V^\ast(T_2)|-(|V^\ast(T_1)|-1)-(|V^\ast(T_2)|-1)-|E^\ast( R)| + n =2.\]</li>
+<li>This is equivalent to \(|E^\ast( R)=n|\), as required.</li>
+</ul>
+</li>
+<li>Note that, for planarity reasons, none of the remaining \(n\) edges of \(G^\ast_{\mathcal D}\) connecting the vertices \(V^\ast(T_1)\) with the vertices \(V^\ast(T_2)\) are crossing each other. Thus, they form faces in the plane together with the edges of the trees \(T_1\) and \(T_2\), which they are connecting together. Moreover, if we virtually draw in the plane a simple closed curve around e.g. the tree \(T_1\) in a way in which the curve never crosses the edges of \(T_1\), but always crosses the \(n\) remaining edges  of \(G^\ast_{\mathcal D}\)  connecting \(T_1\) with \(T_2\), our curve will also cross each of the \(n\) faces and induce a circular order on them.  </li>
+<li>By construction of the dual graph \(G^\ast_{\mathcal D}\): <ul>
+<li>There must be a <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html" title="Set Theory / Definition: Bijective Function">bijection</a> between each of such \(n\) faces and all the \(n\) vertices of the original graph \(G\). </li>
+<li>There must be a bijection between the \(n\) remaining edges of \(G^\ast_{\mathcal D}\) not included in \(T_1\) and \(T_2\) and some \(n\) edges of the original graph \(G\). </li>
+<li>Finally, these \(n\) edges of the original graph connect exactly the \(n\) vertices of \(G\). </li>
+</ul>
+</li>
+<li>The alternating chain of \(n\) edges and \(n\) vertices of \(G\) defines a Hamiltonian cycle if and only if all vertices and all edges are distinct. But that is how they have been constructed in the above proof, because the above circular order of the faces corresponds to a circular order of the vertices in the Hamiltonian cycle. </li>
+<li>Thus, \(G\) is <a href="https://bookofproofs.github.io/branches/graph-theory/hamiltonian-graph.html" title="Graph Theory / Definition: Hamiltonian Graph">Hamiltonian</a>.</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/graph-theory/characterization-of-planar-hamiltonian-graphs-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Piotrowski, Andreas</strong>: "bookofproofs.org", Own Work, 2014</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

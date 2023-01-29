@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="BIPARTITE GRAPH &amp;#9733; bring your math skills to the graduate level &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="bipartite,graph">
+<title>Bipartite Graph</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/graph-theory/bipartite-graphs.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/bipartite-graphs.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/complete-bipartite-graph.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/graph-theory/graph-theory.html'>Graph-theory</a> / Definition: Bipartite Graph</h3>
+
+<hr>
+
+<h1>Definition: Bipartite Graph</h1>
+<p>A <a href="https://bookofproofs.github.io/branches/graph-theory/digraph-initial-and-terminal-vertices-loops-parallel-and-inverse-edges-simple-digraph.html" title="Graph Theory / Definition: Digraph, Initial and Terminal Vertices, Loops, Parallel and Inverse Edges, Simple Digraph">digraph</a> \(D(V,E,\alpha,\omega)\) or an  <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">undirected graph</a> \(G(V,E,\gamma)\) is called <strong>bipartite</strong>, if its vertices can be split into two subsets \(A\) and \(B\) in such a way that each edge of the graph joins a vertex in \(A\) and a vertex in \(B\). Formally, if there is a <a href="https://bookofproofs.github.io/branches/set-theory/quotient-set-partition.html" title="Set Theory / Definition: Quotient Set, Partition">partition</a> of vertices \(V=A\cup B,~ A\cap B=\emptyset\) with </p>
+<ul>
+<li>Either \(\alpha(e)\in A \wedge \omega(e)\in B)\) or \(\alpha(e)\in B \wedge \omega(e)\in A\)  for all \(e\in E\) in a digraph \(D(V,E,\alpha,\omega)\).</li>
+<li>\(\gamma(e)=X\) with some pairs of vertices \(X=\{x,y\}\) such that either  \(x\in A, y\in B\)  or \(x\in B, y\in A\) for all \(e\in E\) in a graph \(G(V,E,\gamma)\).</li>
+</ul>
+<p>In particular, a bipartite graph has no loops.</p>
+<h3>Example</h3>
+<p>The following figure shows a bipartite digraph. The vertices of one partition \(A\) are colored blue, while the vertices of the other partition \(B\) are colored orange. Please note that there are only edges between vertices with alternating colors. In particular, there are no loops:</p>
+<p><img alt="bipartite" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/bipartite.jpg?raw=true" /></p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/graph-theory/complete-bipartite-graph.html'>Definition: Complete Bipartite Graph</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/graph-theory/bipartite-graph.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Aldous Joan M., Wilson Robin J.</strong>: "Graphs and Applications - An Introductory Approach", Springer, 2000</li>
+<li><strong>Krumke S. O., Noltemeier H.</strong>: "Graphentheoretische Konzepte und Algorithmen", Teubner, 2005, 1st Edition</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

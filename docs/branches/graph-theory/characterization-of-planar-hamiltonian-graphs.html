@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="CHARACTERIZATION OF PLANAR HAMILTONIAN GRAPHS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="characterization of hamiltonian planar graphs,planar hamiltonian graphs,planar hamiltonian graph">
+<title>Characterization of Planar Hamiltonian Graphs</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/graph-theory/dual-graph-of-a-all-faces-contained-in-a-planar-hamiltonian-cycle-is-a-tree-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/hamiltonian-graph.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/characterization-of-planar-hamiltonian-graphs-proof.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/graph-theory/graph-theory.html'>Graph-theory</a> / Theorem: Characterization of Planar Hamiltonian Graphs</h3>
+
+<hr>
+
+<h1>Theorem: Characterization of Planar Hamiltonian Graphs</h1>
+<p>(Note that finding a Hamiltonian cycle is an NP-hard problem and there is much research going on to find theoretical results about finding not only necessary but also sufficient criteria for a graph to be Hamiltonian. The following theorem is one such research[^1591] result in providing a necessary and sufficient criterion for a planar graph to be Hamiltonian. The theorem is also the main motivation for defining the concept of <a href="https://bookofproofs.github.io/branches/graph-theory/minimal-tree-decomposability.html" title="Graph Theory / Definition: Minimal Tree Decomposability">minimal tree decomposability</a> \(\tau(G)\) of a graph \(G\).) </p>
+<p>For all <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">simple</a> <a href="https://bookofproofs.github.io/branches/graph-theory/planar-graph.html" title="Graph Theory / Definition: Planar Graph">planar</a> <a href="https://bookofproofs.github.io/branches/graph-theory/connected-and-disconnected-graphs-bridges-and-cutvertices.html" title="Graph Theory / Definition: Connected and Disconnected Graphs, Bridges and Cutvertices">connected</a> graphs \(G\), the following equivalence holds: \(G\) is <a href="https://bookofproofs.github.io/branches/graph-theory/hamiltonian-graph.html" title="Graph Theory / Definition: Hamiltonian Graph">Hamiltonian</a>, if and only if the <a href="https://bookofproofs.github.io/branches/graph-theory/minimal-tree-decomposability.html" title="Graph Theory / Definition: Minimal Tree Decomposability">minimal tree decomposability</a> of every of its <a href="https://bookofproofs.github.io/branches/graph-theory/dual-planar-graph.html" title="Graph Theory / Definition: Dual Planar Graph">dual graphs</a> equals \(2\), formally:</p>
+<p>\[\text{Simple and planar }G:~G\text{ is Hamiltonian}\quad\Longleftrightarrow\quad \tau(G^*)=2\text{ for all dual graphs }G^*\text{ of }G.\]</p>
+<h3>Example</h3>
+<p>The idea for this equivalence is illustrated in the following example:
+* The planar graph is drawn using the orange color (here a dodecahedron graph). 
+* The bold orange lines mark a Hamiltonian circle. 
+* The blue graph is the dual (here an icosahedron graph).
+* The bold black lines mark the decomposition of the icosahedron graph into two tree graphs (marked solid and dotted).
+* The theorem states for this example that the dodecahedron graph is Hamiltonian if and only if the minimum decomposition of its dual icosahedron graph leads to exactly two trees (but not more and not less than two trees).<br />
+* The constructive nature of the proof makes use of the fact that a Hamiltonian cycle of a planar graph (if it is Hamiltonian) can be constructed from the edges dual to exactly those edges of the dual graph, which are not part of the decomposition trees (in the example below those are the thin blue edges crossing the bold orange edges), or by removing the edges crossed by the dual edges of the decomposition trees (in the example below those are the thin orange edges crossed by the bold black edges).  </p>
+<p>!{max-width:100%;}<a href="https://www.bookofproofs.org/graphics/examples/dualplanarhamiltonian1.png">https://www.bookofproofs.org/graphics/examples/dualplanarhamiltonian1.png</a>!</p>
+<p>new:branchcorollary:The 4-colors Problem and Planar Hamiltonian Graphs</p>
+<p>Let $G$ be a <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">simple</a> <a href="https://bookofproofs.github.io/branches/graph-theory/planar-graph.html" title="Graph Theory / Definition: Planar Graph">planar</a> which is also <a href="https://bookofproofs.github.io/branches/graph-theory/hamiltonian-graph.html" title="Graph Theory / Definition: Hamiltonian Graph">Hamiltonian</a>. Then it can be colored in</p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<p>Proofs: <a href='https://bookofproofs.github.io/branches/graph-theory/characterization-of-planar-hamiltonian-graphs-proof.html'>1</a> </p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/graph-theory/characterization-of-planar-hamiltonian-graphs.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Piotrowski, Andreas</strong>: "bookofproofs.org", Own Work, 2014</li>
+</ol>
+<h4>Footnotes</h4>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

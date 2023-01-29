@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of EQUIVALENT DEFINITIONS OF TREES ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="equivalent definitions of trees,proof">
+<title>By Induction</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/graph-theory/equivalent-definitions-of-trees.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/equivalent-definitions-of-trees.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/graph-theory/root-degree-of-a-tree-subtree-height.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/graph-theory/graph-theory.html'>Graph-theory</a> / Proof: By Induction</h3>
+
+<hr>
+
+<h1>Proof: By Induction</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/graph-theory/equivalent-definitions-of-trees.html'>Proposition: Equivalent Definitions of Trees</a>)</p>
+<p>By hypothesis, $G(V,E,\gamma)$ is an <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">undirected graph</a>.</p>
+<h3>$(1)\Rightarrow(2)$</h3>
+<ul>
+<li>Let \(G\) be a <a href="https://bookofproofs.github.io/branches/graph-theory/trees-and-forests.html" title="Graph Theory / Definition: Trees and Forests">tree</a>.</li>
+<li>Let $G^\prime(V,E^\prime,\gamma^\prime)$ be a <a href="https://bookofproofs.github.io/branches/graph-theory/subgraphs-and-supergraphs.html" title="Graph Theory / Definition: Subgraphs and Supergraphs; Induced Subgraph">supergraph</a> of $G$ containing at least one additional <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">edge</a> $e^\prime\in E^\prime\setminus E.$</li>
+<li>Without loss of generality, assume $e^\prime$ is not a <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">loop</a> (otherwise, $G^\prime$ would contain a <a href="https://bookofproofs.github.io/branches/graph-theory/closed-walks-closed-trails-and-cycles.html" title="Graph Theory / Definition: Closed Walks, Closed Trails, and Cycles">cycle</a>).</li>
+<li>In other words, without loss of generality, $\gamma^\prime(e^\prime)=\{v,u\}$ with $u\neq v.$</li>
+<li>Since $G$ is a tree, it is <a href="https://bookofproofs.github.io/branches/graph-theory/connected-and-disconnected-graphs-bridges-and-cutvertices.html" title="Graph Theory / Definition: Connected and Disconnected Graphs, Bridges and Cutvertices">connected</a>.</li>
+<li>Therefore, there is a <a href="https://bookofproofs.github.io/branches/graph-theory/paths-cycles-and-connectivity.html" title="Graph Theory / Part: Paths, Cycles and Connectivity">path</a> $P$ connecting $u$ and $v$.</li>
+<li>Since $e^\prime$ connects $u$ and $v$ directly, $P$+$e^\prime$ is a <a href="https://bookofproofs.github.io/branches/graph-theory/closed-walks-closed-trails-and-cycles.html" title="Graph Theory / Definition: Closed Walks, Closed Trails, and Cycles">cycle</a>.</li>
+<li>Thus, $G$ contains no cycle and any supergraph of $G$ contains a cycle.</li>
+</ul>
+<h3>$(2)\Rightarrow(3)$</h3>
+<ul>
+<li>Let $G$ contain no cycle and let any supergraph of $G$ contain a cycle.</li>
+<li>Let $u,v\in V$ be a pair of any vertices. </li>
+<li>Because $G$ contains no cycle, it also contains no <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">loops</a>. Therefore, we can assume $u\neq v.$</li>
+<li>Let $e^\prime=\{u,v\}$ be an additional edge of the supergraph $G^\prime:=(V,E\cup\{e^\prime\},\gamma).$</li>
+<li>By assumption $G^\prime$ contains a cycle and this cycle must contain $e^\prime$, since $G$ had no cycles.</li>
+<li>Without loss of generality, set $C=(v=v_0,e^\prime,u=v_1,e_2,\ldots,e_k,v_k=v)$ to a cycle containing $e^\prime.$</li>
+<li>It follows that $P=(u=v_1,e_2,\ldots,e_k,v_k=v)$ is a <a href="https://bookofproofs.github.io/branches/graph-theory/walks-trails-paths-and-cycles.html" title="Graph Theory / Definition: Walks, Trails, and Paths">path</a> connecting $u$ and $v$ in $G.$</li>
+<li>Assume, there exists another path $Q=(u=v_1,e^\prime_2,\ldots,e^\prime_k,v_k=v)$ connecting $u$ and $v$ in $G.$<ul>
+<li>By assumption $P\neq Q$ and therefore, there are indices $i\in\{2,\ldots,k\}$ such that $e_i\neq e^\prime_i.$</li>
+<li>By the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/well-ordering-principle-of-natural-numbers.html" title="Number Systems Arithmetics / Proposition: Well-Ordering Principle of Natural Numbers">well-ordering principle</a>, there is a minimal such index $i\ge 2.$</li>
+<li>Then, the edges $e_i$ and $e^\prime_i$ connect the vertex $v_{i-1}$ with two different vertices $v_{i}$ and $v^\prime_{i},$ otherwise $(v_{i-1},e_i,v_i,e^\prime_i,v_{i-1})$ woud be a cycle.</li>
+<li>Since both $P$ and $Q$ end at the same vertex $v_k=v,$ the set of indices $j$ such that $j&gt;i$ and $v_j=v^\prime_j,$ is not empty.</li>
+<li>Using the well-ordering principle once again, there is a minimal index $j$ such that $i &lt; j\le k,$ and at which both paths $P$ und $Q$ meet together again.</li>
+<li>This would mean that between $v_{i-1}$ and $v_j$ there is a cycle formed by parts of the paths $P$ and $Q$.</li>
+<li>This is a <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">contradiction</a> to the hypothesis, $G$ contained no cycle.</li>
+<li>Thus, $P$ and $Q$ are identical.</li>
+</ul>
+</li>
+<li>It follows that for every pair of vertices $u,v\in V$ there is exactly one <a href="https://bookofproofs.github.io/branches/graph-theory/walks-trails-paths-and-cycles.html" title="Graph Theory / Definition: Walks, Trails, and Paths">path</a> $P^k:=x_0x_1\ldots x_{k-1}x_k$ in $G$ with $x_0=u$ and $x_k=v$.</li>
+</ul>
+<h3>$(3)\Rightarrow(4)$</h3>
+<ul>
+<li>Assume, every pair of vertices $u,v\in V$ there is exactly one <a href="https://bookofproofs.github.io/branches/graph-theory/walks-trails-paths-and-cycles.html" title="Graph Theory / Definition: Walks, Trails, and Paths">path</a> $P^k:=x_0x_1\ldots x_{k-1}x_k$ in $G$ with $x_0=u$ and $x_k=v$.</li>
+<li>Trivially, $G$ is <a href="https://bookofproofs.github.io/branches/graph-theory/connected-and-disconnected-graphs-bridges-and-cutvertices.html" title="Graph Theory / Definition: Connected and Disconnected Graphs, Bridges and Cutvertices">connected</a>.</li>
+<li>Now, let us remove any edge $e\in E$ from $G$ with $\gamma(e)=\{u,v\}.$</li>
+<li>If $u=v,$ then $e$ was a <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">loop</a> and $P=u$ and $Q=(u,e)$ would be two different paths from $u$ to $u.$</li>
+<li>Therefore, $u\neq v.$</li>
+<li>Assume $G$ without the edge $e$ is still connected.<ul>
+<li>Then there is a path $Q$ from $u$ to $v$ not passing through the edge $e.$</li>
+<li>But then, $Q$ and $P=(u,e,v)$ would be two different paths in $G$ connecting $u$ and $v.$</li>
+</ul>
+</li>
+<li>It follows $G$ is <a href="https://bookofproofs.github.io/branches/graph-theory/connected-and-disconnected-graphs-bridges-and-cutvertices.html" title="Graph Theory / Definition: Connected and Disconnected Graphs, Bridges and Cutvertices">connected</a> and the removal of any edge leaves $G$ disconnected ($G$ is "minimally connected").</li>
+</ul>
+<h3>$(4)\Rightarrow(5)$</h3>
+<ul>
+<li>Let $G$ be minimally connected.</li>
+<li>We prove first the inequality $|E|\le |V|-1$ <a href="https://bookofproofs.github.io/branches/logic/proving-principle-by-complete-induction.html" title="Logic / Lemma: The Proving Principle by Complete Induction">by induction</a> on $n=|V|.$<ul>
+<li>Base cases $n=1$<ul>
+<li>The inequality is correct since $G$ is minimally connected, there are $0$ edges in $G,$ and $0\le 1-1.$</li>
+</ul>
+</li>
+<li>Induction step $n\to n+1$<ul>
+<li>Assume, for all trees with $k$ vertices, $1 \le k  &lt; n,$ we have $|E|\le |V|-1.$ </li>
+<li>$(4)$ shows that removing any edge $e$ disconnects $G$ in some <a href="https://bookofproofs.github.io/branches/graph-theory/connectivity-is-an-equivalence-relation-components-are-a-partition-of-a-graph.html" title="Graph Theory / Proposition: Connectivity Is an Equivalence Relation - Components Are a Partition of a Graph">components</a> $G_1,\ldots G_p.$</li>
+<li>By induction assumption $|E_i|\le |V_i|-1$ for all $i=1,\ldots,p.$</li>
+<li>Because $G_1,\ldots G_p$ are a <a href="https://bookofproofs.github.io/branches/graph-theory/connectivity-is-an-equivalence-relation-components-are-a-partition-of-a-graph.html" title="Graph Theory / Proposition: Connectivity Is an Equivalence Relation - Components Are a Partition of a Graph">partition</a>, we can sum up all $p$ inequalities to get $|E|\le |V|-p\le |V|-1.$</li>
+</ul>
+</li>
+<li>It follows $|E|\le |V|-1$ for all minimally connected graphs $G.$</li>
+</ul>
+</li>
+<li>We now observe that for all minimally connected graphs $|V|\le |E|+1,$ since any edge connects at most $2$ different vertices. In other words $|E|\ge |V|-1.$ </li>
+<li>Since $|E|\le |V|-1$ and $|E|\ge |V|-1,$ it follows $G$ is connected and $|E|=|V|-1.$ </li>
+</ul>
+<h3>$(5)\Rightarrow(6)$</h3>
+<ul>
+<li>Every $G$ is connected and $|E|=|V|-1.$</li>
+<li>Assume, $C$ is a <a href="https://bookofproofs.github.io/branches/graph-theory/closed-walks-closed-trails-and-cycles.html" title="Graph Theory / Definition: Closed Walks, Closed Trails, and Cycles">cycle</a> in $G$ containing some edge $e.$ </li>
+<li>Then the <a href="https://bookofproofs.github.io/branches/graph-theory/subgraphs-and-supergraphs.html" title="Graph Theory / Definition: Subgraphs and Supergraphs; Induced Subgraph">subgraph</a> $H$ retrieved from $G$ by removing $e$ is still connected and contains $|V|-2$ edges.</li>
+<li>This is a contradiction to the hypothesis.</li>
+<li>Therefore, $G$ has no cycle and  $|E|=|V|-1.$</li>
+</ul>
+<h3>$(6)\Rightarrow(1)$</h3>
+<ul>
+<li>Assume, $G$ has no cycle and  $|E|=|V|-1.$</li>
+<li>By definition, $G$ is a <a href="https://bookofproofs.github.io/branches/graph-theory/trees-and-forests.html" title="Graph Theory / Definition: Trees and Forests">forest</a>.</li>
+<li>Assume, $G$ is not <a href="https://bookofproofs.github.io/branches/graph-theory/connected-and-disconnected-graphs-bridges-and-cutvertices.html" title="Graph Theory / Definition: Connected and Disconnected Graphs, Bridges and Cutvertices">connected</a> and consists of the <a href="https://bookofproofs.github.io/branches/graph-theory/connectivity-is-an-equivalence-relation-components-are-a-partition-of-a-graph.html" title="Graph Theory / Proposition: Connectivity Is an Equivalence Relation - Components Are a Partition of a Graph">components</a> $G_1,\ldots,G_p.$</li>
+<li>Since every $G_i$ is a <a href="https://bookofproofs.github.io/branches/graph-theory/trees-and-forests.html" title="Graph Theory / Definition: Trees and Forests">tree</a>, we have by the implications $(1)\Rightarrow\ldots\Rightarrow(5)$ that $|E_i|=|V_i|-1$ for $i=1,\ldots,p.$</li>
+<li>It follows $$|V|-1=|E|=\sum_{i=1}^p |E_i|=\sum_{i=1}^p (|V_i|-1)=|V|-p.$$</li>
+<li>Now, it follows $p=1.$</li>
+<li>Therefore, $G$ is a <a href="https://bookofproofs.github.io/branches/graph-theory/trees-and-forests.html" title="Graph Theory / Definition: Trees and Forests">tree</a>.</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/graph-theory/equivalent-definitions-of-trees-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Krumke S. O., Noltemeier H.</strong>: "Graphentheoretische Konzepte und Algorithmen", Teubner, 2005, 1st Edition</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>
