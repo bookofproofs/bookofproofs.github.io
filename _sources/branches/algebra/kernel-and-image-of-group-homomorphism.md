@@ -14,8 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\((G,\ast)\)` and `\((H,\cdot)\)` be two [groups][bookofproofs$671] with the respective [identities][bookofproofs$661] `\(e_G\)` and `\(e_H\)` and `\(f:G\rightarrow H\)` be a [group homomorphism][bookofproofs$679] 
-
+Let `\((G,\ast)\)` and `\((H,\cdot)\)` be two [groups][bookofproofs$671] with the respective [identities][bookofproofs$661] `\(e_G\)` and `\(e_H\)` and `\(f:G\rightarrow H\)` be a [group homomorphism][bookofproofs$679].
 We define:
 
 * the **kernel** `$\operatorname{ker}(f):= \{g\in G\mid f(g)=e_H\}$`, in other words, it is the [fiber of `$e_H$` under the group homomorphism `$f$` ][bookofproofs$592],
@@ -23,5 +22,5 @@ We define:
 
 The kernel and the image of `$f$` fulfill the following defining properties:
 
-1. `\(\ker(f)=\{e_G\}\)` `\(\Longleftrightarrow f\)` is [injective][bookofproofs$769]
-1. `\(\ker(f)=\{e_G\}\)` `\(\Longleftrightarrow f\)` is [injective][bookofproofs$769]
+1. `\(\ker(f)=\{e_G\}\)` `\(\Longleftrightarrow f\)` is [injective][bookofproofs$769].
+1. `\(\ker(f)=\{e_G\}\)` `\(\Longleftrightarrow f\)` is [injective][bookofproofs$769].

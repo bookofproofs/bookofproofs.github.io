@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\(A\in M_{m\times n}(F)\)` and `\(B\in M_{n\times r}(F)\)` be two [matrices][bookofproofs$1048] The **matrix multiplication** `$"\cdot"$` is defined by  
+Let `\(A\in M_{m\times n}(F)\)` and `\(B\in M_{n\times r}(F)\)` be two [matrices][bookofproofs$1048]. The **matrix multiplication** "`$\cdot$`" is defined by  
 
 `\[
 C:=AB=\pmatrix{

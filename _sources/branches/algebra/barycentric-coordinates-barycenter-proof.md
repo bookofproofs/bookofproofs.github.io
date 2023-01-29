@@ -14,8 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\(\mathcal A=(A,V_A,v)\)` be an affine space with `\(V_A\)` as the associated [vector space over a field `\(F\)` ][bookofproofs$560] 
-
+Let `\(\mathcal A=(A,V_A,v)\)` be an affine space with `\(V_A\)` as the associated [vector space over a field `\(F\)` ][bookofproofs$560].
 Take any `\(Q\in \mathcal A\)`. By [definition of an affine space][bookofproofs$6277] there is a unique vector `\(q\in V_A\)` defined by `\(q:=\overrightarrow{QP_0}\)`, which is equivalent to `\(Q=P_0 + q\)`.
 
 By hypothesis, `\(P_0,P_1,P_2\ldots,P_n\)` is an affine basis of `\(\mathcal A\)`, which by [definition][bookofproofs$434] means that the vectors `\(x_1=\overrightarrow{P_0P_1},\,x_2=\overrightarrow{P_0P_2},\,\ldots,\,x_n=\overrightarrow{P_0P_n}\)` form a [basis of the corresponding vector space][bookofproofs$299] `\(V_A\)`. 
@@ -44,5 +43,7 @@ Because all `\(\lambda_0, \ldots, \lambda_n\in F \)` form a unique `\((n+1)\)`-t
 
 The following figure demonstrates the ideas of this proof for the special case of an affine plane, in which any point `\(Q\)` can be represented in barycentric coordinates using the affine basis of points of a triangle.
 
+
 ![barycentric](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/barycentric.png?raw=true)
+
 (c) bookofproofs own work

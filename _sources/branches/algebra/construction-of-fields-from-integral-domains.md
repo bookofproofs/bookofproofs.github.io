@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\((R, +, \cdot)\)` be an [integral domain][bookofproofs$821] Then there exists a unique [field][bookofproofs$557] `\((F, \ast, \circ)\)` with the following properties:
+Let `\((R, +, \cdot)\)` be an [integral domain][bookofproofs$821]. Then there exists a unique [field][bookofproofs$557] `\((F, \ast, \circ)\)` with the following properties:
 
 > (1) There is a subset `\(S\subset  F\)`, which is a [ring isomorphic][bookofproofs$885] to `\(R\)`, i.e. where `\((S, \ast, \circ)\simeq (R, +, \cdot)\)`.
 

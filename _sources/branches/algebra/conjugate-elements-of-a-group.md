@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-Let `$(G,\ast)$` be a [group][bookofproofs$671] Two elements `$a,b\in G$` are called **conjugate** if there exists an element `$h\in G$` with `$$a=h^{-1}\ast b\ast h.$$` In this case, conjugate elements are denoted by `$a\sim_G b.$` If the context of the group is clear, then we write `$a\sim b.$`
+Let `$(G,\ast)$` be a [group][bookofproofs$671]. Two elements `$a,b\in G$` are called **conjugate** if there exists an element `$h\in G$` with `$$a=h^{-1}\ast b\ast h.$$` In this case, conjugate elements are denoted by `$a\sim_G b.$` If the context of the group is clear, then we write `$a\sim b.$`

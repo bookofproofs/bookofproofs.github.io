@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -46,7 +45,7 @@
 
 <hr>
 
-<p>The following example will demonstrate the <a href="https://bookofproofs.github.io/branches/algebra/gaussian-method-to-solve-systems-of-linear-equations-rank-of-a-matrix.html">Gaussian method</a> by example. </p>
+<p>The following example will demonstrate the <a href="https://bookofproofs.github.io/branches/algebra/gaussian-method-to-solve-systems-of-linear-equations-rank-of-a-matrix.html" title="Definition: Gaussian Method to Solve Systems of Linear Equations, Rank of a Matrix">Gaussian method</a> by example. </p>
 <h1>Example: The Gaussian Method in Practice</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/solving-general-systems-of-linear-equations-gaussian-method.html'>Section: Solving General Systems Of Linear Equations - Gaussian Method</a>)</p>
 <h3>Example</h3>
@@ -56,7 +55,7 @@ x_1 -3x_2 +2x_3&amp;=&amp;1\\
 5x_1 + 4x_2 -3x_3&amp;=&amp;4\\
 2x_1 -8x_2 +4x_3&amp;=&amp; -2\\
 \end{array}\quad\quad( * )$$ </p>
-<p>This system has the following <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html">extended coefficient matrix</a>:</p>
+<p>This system has the following <a href="https://bookofproofs.github.io/branches/algebra/coefficient-matrix.html" title="Definition: Coefficient Matrix">extended coefficient matrix</a>:</p>
 <p>$$A|\beta:= 
 \left(\begin{array}{rrr|r}
 1&amp;-3&amp;2&amp;1\\ 
@@ -85,14 +84,14 @@ print(A1)
 </div>
 
 
-<p>The resulting <a href="https://bookofproofs.github.io/branches/algebra/solution-to-an-upper-triangular-sle-backward-substitution.html">upper-triangular</a> matrix is </p>
+<p>The resulting <a href="https://bookofproofs.github.io/branches/algebra/solution-to-an-upper-triangular-sle-backward-substitution.html" title="Definition: Solution to an Upper Triangular SLE - Backward Substitution">upper-triangular</a> matrix is </p>
 <p>$$A|\beta:= 
 \left(\begin{array}{rrr|r}
 1&amp;-3&amp;2&amp;1\\ 
 0&amp;19&amp;-13&amp;-1\\ 
 0&amp;0&amp;-\frac{26}{19}&amp;-\frac{78}{19}\\ 
 \end{array}\right)$$</p>
-<p>Now we can use the <a href="https://bookofproofs.github.io/branches/algebra/solution-to-an-upper-triangular-sle-backward-substitution.html">backward substitution</a> to solve the system</p>
+<p>Now we can use the <a href="https://bookofproofs.github.io/branches/algebra/solution-to-an-upper-triangular-sle-backward-substitution.html" title="Definition: Solution to an Upper Triangular SLE - Backward Substitution">backward substitution</a> to solve the system</p>
 
 
 <div class='sage'>
@@ -119,15 +118,14 @@ print("x1=", x1)
 <ol>
 <li><strong>Knabner, P; Barth, W.</strong>: "Lineare Algebra - Grundlagen und Anwendungen", Springer Spektrum, 2013</li>
 </ol>
-<h4>Footnotes</h4>
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

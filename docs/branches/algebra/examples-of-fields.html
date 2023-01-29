@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -48,21 +47,21 @@
 
 <h1>Example: Examples of Fields</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/fields-overview.html'>Chapter: Fields (Overview)</a>)</p>
-<p>Below, you can find some examples of the algebraic structure called a <a href="https://bookofproofs.github.io/branches/algebra/field.html">field</a></p>
+<p>Below, you can find some examples of the algebraic structure called a <a href="https://bookofproofs.github.io/branches/algebra/field.html" title="Definition: Field">field</a>.</p>
 <h3>Example 1</h3>
-<p>The <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-rational-numbers.html">rational numbers</a> together with the addition $[ + "$ and multiplication $"\cdot"$, i.e. the "algebraic structure]<a href="https://bookofproofs.github.io/branches/algebra/algebraic-structure-algebra.html">bookofproofs$342</a> $(\mathbb Q,+,\cdot)$ form a field, which is proven <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-rational-numbers-together-with-addition-and-multiplication.html">here</a></p>
+<p>The <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-rational-numbers.html" title="Proposition: Definition of Rational Numbers">rational numbers</a> together with the addition "$+$" and multiplication "$\cdot$", i.e. the <a href="https://bookofproofs.github.io/branches/algebra/algebraic-structure-algebra.html" title="Definition: Algebraic Structure (Algebra)">algebraic structure</a> $(\mathbb Q,+,\cdot)$ form a field, which is proven <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-rational-numbers-together-with-addition-and-multiplication.html" title="Proposition: Algebraic Structure of Rational Numbers Together with Addition and Multiplication">here</a>.</p>
 <h3>Counterexample 2</h3>
-<p>The <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html">integers</a> $(\mathbb Z, +,\cdot)$ are not a field since $1$ and $-1$ are the only integers that have a <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html">multiplicative inverse</a>  To be a field, it would be necessary that all elements except the additive neutral element $0$ had a multiplicative inverse. </p>
+<p>The <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Proposition: Definition of Integers">integers</a> $(\mathbb Z, +,\cdot)$ are not a field since $1$ and $-1$ are the only integers that have a <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html" title="Definition: Inverse Element">multiplicative inverse</a>. To be a field, it would be necessary that all elements except the additive neutral element $0$ had a multiplicative inverse. </p>
 <h3>Counterexample 3</h3>
-<p>The set of all $n\times n$ <a href="https://bookofproofs.github.io/branches/algebra/matrix-set-of-matrices-over-a-field.html">matrices</a> over a field $F$ together with <a href="https://bookofproofs.github.io/branches/algebra/matrix-and-vector-addition.html">matrix addition</a> and <a href="https://bookofproofs.github.io/branches/algebra/matrix-multiplication.html">matrix multiplication</a> an $(M_{n\times n}(F), +,\cdot)$ are not a field, since not all such matrices unequal the <a href="https://bookofproofs.github.io/branches/algebra/zero-matrix-zero-vector.html">zero matrix</a> are <a href="https://bookofproofs.github.io/branches/algebra/invertible-and-inverse-matrix.html">invertible</a> matrix <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html">multiplicative inverse</a> Also, the multiplication is in general not <a href="https://bookofproofs.github.io/branches/algebra/commutativity.html">commutative</a></p>
+<p>The set of all $n\times n$ <a href="https://bookofproofs.github.io/branches/algebra/matrix-set-of-matrices-over-a-field.html" title="Definition: Matrix, Set of Matrices over a Field">matrices</a> over a field $F$ together with <a href="https://bookofproofs.github.io/branches/algebra/matrix-and-vector-addition.html" title="Definition: Matrix and Vector Addition">matrix addition</a> and <a href="https://bookofproofs.github.io/branches/algebra/matrix-multiplication.html" title="Definition: Matrix Multiplication">matrix multiplication</a> an $(M_{n\times n}(F), +,\cdot)$ are not a field, since not all such matrices unequal the <a href="https://bookofproofs.github.io/branches/algebra/zero-matrix-zero-vector.html" title="Definition: Zero Matrix, Zero Vector">zero matrix</a> are <a href="https://bookofproofs.github.io/branches/algebra/invertible-and-inverse-matrix.html" title="Definition: Invertible and Inverse Matrix">invertible</a> matrix <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html" title="Definition: Inverse Element">multiplicative inverse</a>. Also, the multiplication is in general not <a href="https://bookofproofs.github.io/branches/algebra/commutativity.html" title="Definition: Commutativity">commutative</a>.</p>
 <h3>Example 4</h3>
-<p>The <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html">real numbers</a>":<a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html">bookofproofs$844</a> $(\mathbb R, +,\cdot)$ form a field (was proven <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-real-numbers-together-with-addition-and-multiplication.html">here</a>).</p>
+<p>The <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html" title="Proposition: Definition of Real Numbers">real numbers</a>":<a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Proposition: Definition of Integers">bookofproofs$844</a> $(\mathbb R, +,\cdot)$ form a field (was proven <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-real-numbers-together-with-addition-and-multiplication.html" title="Proposition: Algebraic Structure of Real Numbers Together with Addition and Multiplication">here</a>).</p>
 <h3>Example 5</h3>
-<p>The <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html">real numbers</a>":<a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html">bookofproofs$844</a> $(\mathbb R, +,\cdot)$ form a field (was proven <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-real-numbers-together-with-addition-and-multiplication.html">here</a>).</p>
+<p>The <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html" title="Proposition: Definition of Real Numbers">real numbers</a>":<a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Proposition: Definition of Integers">bookofproofs$844</a> $(\mathbb R, +,\cdot)$ form a field (was proven <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-real-numbers-together-with-addition-and-multiplication.html" title="Proposition: Algebraic Structure of Real Numbers Together with Addition and Multiplication">here</a>).</p>
 <h3>Example 6</h3>
-<p>The <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-complex-numbers.html">complex numbers</a> $(\mathbb C, +,\cdot)$ form a field (was proven <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-complex-numbers-together-with-addition-and-multiplication.html">here</a>).</p>
+<p>The <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-complex-numbers.html" title="Definition: Definition of Complex Numbers">complex numbers</a> $(\mathbb C, +,\cdot)$ form a field (was proven <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-complex-numbers-together-with-addition-and-multiplication.html" title="Proposition: Algebraic Structure of Complex Numbers Together with Addition and Multiplication">here</a>).</p>
 <h3>Example 7</h3>
-<p>The smallest <a href="https://bookofproofs.github.io/branches/algebra/finite-fields.html">finite field</a> is the algebraic structure $(\{1,0\},+,\cdot)$ with the following addition and multiplication, which can be easily verified by the reader as an exercise (just verify all the <a href="https://bookofproofs.github.io/branches/algebra/field.html">field axioms</a>):</p>
+<p>The smallest <a href="https://bookofproofs.github.io/branches/algebra/finite-fields.html" title="Part: Finite Fields">finite field</a> is the algebraic structure $(\{1,0\},+,\cdot)$ with the following addition and multiplication, which can be easily verified by the reader as an exercise (just verify all the <a href="https://bookofproofs.github.io/branches/algebra/field.html" title="Definition: Field">field axioms</a>):</p>
 <p>$$\begin{array}{c|cc}
 +&amp;1&amp;0\\\hline
 1&amp;0&amp;1\\
@@ -80,15 +79,14 @@
 <ol>
 <li><strong>Modler, F.; Kreh, M.</strong>: "Tutorium Analysis 1 und Lineare Algebra 1", Springer Spektrum, 2018, 4th Edition</li>
 </ol>
-<h4>Footnotes</h4>
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

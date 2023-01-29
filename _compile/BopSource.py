@@ -206,7 +206,7 @@ class BopSource:
         return ret
 
     def _get_content_node(self):
-        ret = self._pre_body
+        ret = self._pre_body + "\n"
         ret += self.__get_title()
         if self._body.strip() == "":
             ret += "_(no contents provided yet)_"

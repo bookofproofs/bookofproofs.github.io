@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -47,22 +46,22 @@
 <hr>
 
 <h1>Chapter: Magmas, Semigroups, Monoids (Overview)</h1>
-<p>With the introduced <a href="https://bookofproofs.github.io/branches/algebra/important-properties-of-binary-operations.html">properties of binary operations</a> we are now able to define the first simple algebraic structures (or <em>algebras</em>).  The following table shows which algebras will be introduced soon and which properties they require. </p>
+<p>With the introduced <a href="https://bookofproofs.github.io/branches/algebra/important-properties-of-binary-operations.html" title="Chapter: Important Properties of Binary Operations">properties of binary operations</a> we are now able to define the first simple algebraic structures (or <em>algebras</em>).  The following table shows which algebras will be introduced soon and which properties they require. </p>
 <div style='overflow-x:auto;'><table>
 <thead>
 <tr>
 <th style="text-align: left;">Algebra $(X,\ast)$</th>
-<th style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/closure.html">Closure</a></th>
-<th style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/associativity.html">Associativity</a></th>
-<th style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">Neutral Element</a></th>
-<th style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html">Existence of Inverse</a></th>
-<th style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/cancellation-property.html">Cancellation</a></th>
-<th style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/commutativity.html">Commutativity</a></th>
+<th style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/closure.html" title="Definition: Closure">Closure</a></th>
+<th style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/associativity.html" title="Definition: Associativity">Associativity</a></th>
+<th style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html" title="Definition: Existence of a Neutral Element">Neutral Element</a></th>
+<th style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html" title="Definition: Inverse Element">Existence of Inverse</a></th>
+<th style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/cancellation-property.html" title="Definition: Cancellation Property">Cancellation</a></th>
+<th style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/commutativity.html" title="Definition: Commutativity">Commutativity</a>.</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/magma.html">Magma</a></td>
+<td style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/magma.html" title="Definition: Magma">Magma</a></td>
 <td style="text-align: left;">✔</td>
 <td style="text-align: left;">(✔)</td>
 <td style="text-align: left;">(✔)</td>
@@ -71,7 +70,7 @@
 <td style="text-align: left;">(✔)</td>
 </tr>
 <tr>
-<td style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/semigroup.html">Semigroup</a></td>
+<td style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/semigroup.html" title="Definition: Semigroup">Semigroup</a></td>
 <td style="text-align: left;">✔</td>
 <td style="text-align: left;">✔</td>
 <td style="text-align: left;">(✔)</td>
@@ -80,7 +79,7 @@
 <td style="text-align: left;">(✔)</td>
 </tr>
 <tr>
-<td style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/monoid.html">Monoid</a></td>
+<td style="text-align: left;"><a href="https://bookofproofs.github.io/branches/algebra/monoid.html" title="Definition: Monoid">Monoid</a></td>
 <td style="text-align: left;">✔</td>
 <td style="text-align: left;">✔</td>
 <td style="text-align: left;">✔</td>
@@ -90,7 +89,7 @@
 </tr>
 </tbody>
 </table></div>
-<p>When in the table the entry "(✔)" is used, then it means that the defined binary operation $"\ast"$ might not fulfill the property at all, which is required, if the sigh "✔" is used. </p>
+<p>When in the table the entry "(✔)" is used, then it means that the defined binary operation "$\ast$" might not fulfill the property at all, which is required, if the sigh "✔" is used. </p>
 <p>If an optional operation is fulfilled anyway, then the name of the algebraic structure is modified. For instance, if in a given semigroup the all elements $x,y\in X$ commute, i.e. $x\ast y=y\ast x,$ then we call such a semigroup a <em>commutative semigroup</em>. For some combinations, the name might even change. For instance, if $X$ is a monoid, and inverses exist for all elements of $X,$ then we have a <em>group</em> in place, but we will introduce groups in a later chapter. In this chapter, we want to concentrate on the tree simple-structure algebras: magma, semigroup, and monoid.</p>
 <h3 class='navigation'>Table of Contents</h3>
 
@@ -106,11 +105,11 @@
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-*Linear equations,* like `${3x} -2 = 13,$` are the very first type of equations a schoolchild meets. This equation is called [linear" since its graph is a "straight line][bookofproofs$645] To solve it, one treats `$x$` as an unknown and applies usual rules of [arithmetics][bookofproofs$195] to `$x,$` as if it was a number. By applying these rules, you can transform the equation into a much simpler one, finally finding the **solution** - the number `$x$` which satisfies the equation[^1]:
+*Linear equations,* like `${3x} -2 = 13,$` are the very first type of equations a schoolchild meets. This equation is called "linear" since its graph is a [straight line][bookofproofs$645]. To solve it, one treats `$x$` as an unknown and applies usual rules of [arithmetics][bookofproofs$195] to `$x,$` as if it was a number. By applying these rules, you can transform the equation into a much simpler one, finally finding the **solution** - the number `$x$` which satisfies the equation[^1]:
 `$$\begin{array}{rclll}
 {3x} -2&=&13&&|+2\\
 {3x}&=&15&&|\div 3\\
@@ -54,7 +54,7 @@ c&=&3
 
 ### Real practical problems - SLEs with many unknowns
 
-SLEs have a broad field of practical applications, including the economy, mechanics, electronics, geology, to mention just a few. Real practical problems from these fields lead to SLEs with many, often thousands, millions or even billions of unknowns. In comparison, the above SLE has only two unknowns - `$c$` and `$r.$` If an SLE has many equations in many unknowns, it is conceptually simpler to think of them as one equation in one unknown. This sounds impossible, but it is perfectly possible if we introduce more complicated mathematical objects - called [matrices][bookofproofs$1048] and [vectors][bookofproofs$560] For instance, the SLE given in `$( * )$` can be written as a single equation 
+SLEs have a broad field of practical applications, including the economy, mechanics, electronics, geology, to mention just a few. Real practical problems from these fields lead to SLEs with many, often thousands, millions or even billions of unknowns. In comparison, the above SLE has only two unknowns - `$c$` and `$r.$` If an SLE has many equations in many unknowns, it is conceptually simpler to think of them as one equation in one unknown. This sounds impossible, but it is perfectly possible if we introduce more complicated mathematical objects - called [matrices][bookofproofs$1048] and [vectors][bookofproofs$560]. For instance, the SLE given in `$( * )$` can be written as a single equation 
 
 `$$ Ax=b,\quad ( * * )$$`
 

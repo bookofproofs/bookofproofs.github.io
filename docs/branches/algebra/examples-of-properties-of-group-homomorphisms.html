@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -48,11 +47,11 @@
 
 <h1>Example: Examples of Properties of Group Homomorphisms</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/group-homomorphism.html'>Definition: Group Homomorphism</a>)</p>
-<p>We want to verify the <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html">properties of group homomorphisms</a> for the <a href="https://bookofproofs.github.io/branches/algebra/examples-of-group-homomorphisms.html">examples given for group homomorphisms</a></p>
+<p>We want to verify the <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html" title="Proposition: Properties of a Group Homomorphism">properties of group homomorphisms</a> for the <a href="https://bookofproofs.github.io/branches/algebra/examples-of-group-homomorphisms.html" title="Example: Examples of Group Homomorphisms">examples given for group homomorphisms</a>.</p>
 <h3>Ad Example 1</h3>
 <ul>
 <li>Verifying the property (1) $f(e_G)=e_H$: <ul>
-<li>The <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">neutral element</a> of $G=(\mathbb Z,+)$ is $e_G=0$ and the same neutral element has $H=(\{3n\mid n\in\mathbb Z\}, +)$, i.e. $e_H=0$. Thus $$f(0)=3\cdot 0=0.$$</li>
+<li>The <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html" title="Definition: Existence of a Neutral Element">neutral element</a> of $G=(\mathbb Z,+)$ is $e_G=0$ and the same neutral element has $H=(\{3n\mid n\in\mathbb Z\}, +)$, i.e. $e_H=0$. Thus $$f(0)=3\cdot 0=0.$$</li>
 </ul>
 </li>
 <li>Verifying the property (2) $f(x^{-1})=f(x)^{-1}$ for all $x\in G$:<ul>
@@ -64,11 +63,11 @@
 <h3>Ad Example 2</h3>
 <ul>
 <li>Verifying the property (1) $f(e_G)=e_H$: <ul>
-<li>The <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">neutral element</a> of $G=(\mathbb R,+)$ is $e_G=0$ and the neutral element of $H=(\mathbb R^{ +}, \cdot)$ is $e_H=1$. We verify by <a href="https://bookofproofs.github.io/branches/analysis/exp-of-0-equals-1.html">exponential function zero</a> $$\exp(0)=1.$$</li>
+<li>The <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html" title="Definition: Existence of a Neutral Element">neutral element</a> of $G=(\mathbb R,+)$ is $e_G=0$ and the neutral element of $H=(\mathbb R^{ +}, \cdot)$ is $e_H=1$. We verify by <a href="https://bookofproofs.github.io/branches/analysis/exp-of-0-equals-1.html" title="Proposition: \(\exp(0)=1\)">exponential function zero</a> $$\exp(0)=1.$$</li>
 </ul>
 </li>
 <li>Verifying the property (2) $f(x^{-1})=f(x)^{-1}$ for all $x\in G$:<ul>
-<li>Let $x\in(\mathbb R,+)$. Then $x^{-1}=-x.$ We verify by the <a href="https://bookofproofs.github.io/branches/analysis/reciprocity-of-exponential-function.html">reciprocity law for the exponential function</a> 
+<li>Let $x\in(\mathbb R,+)$. Then $x^{-1}=-x.$ We verify by the <a href="https://bookofproofs.github.io/branches/analysis/reciprocity-of-exponential-function.html" title="Corollary: Reciprocity of Exponential Function, Non-Zero Property">reciprocity law for the exponential function</a>.
 $$\exp(-x)=\frac{1}{\exp(x)},$$ which is the inverse element of $\exp(x)\in (\mathbb R^{ +},\cdot).$ </li>
 </ul>
 </li>
@@ -76,12 +75,12 @@ $$\exp(-x)=\frac{1}{\exp(x)},$$ which is the inverse element of $\exp(x)\in (\ma
 <h3>Ad Example 3</h3>
 <ul>
 <li>Verifying the property (1) $f(e_G)=e_H$: <ul>
-<li>The <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">neutral element</a> of $G=(\mathbb R,+)$ is $e_G=0$ and the neutral element of $H=(\operatorname{GL}(2,\mathbb R),\cdot)$ is $$e_H=\pmatrix{1&amp;0\\0&amp;1}.$$ We verify for the in the example defined group homomorphism $$\rho(0)=\pmatrix{\cos(0)&amp;-\sin(0)\\\sin(0)&amp;\cos(0)}=\pmatrix{1&amp;0\\0&amp;1}.$$</li>
+<li>The <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html" title="Definition: Existence of a Neutral Element">neutral element</a> of $G=(\mathbb R,+)$ is $e_G=0$ and the neutral element of $H=(\operatorname{GL}(2,\mathbb R),\cdot)$ is $$e_H=\pmatrix{1&amp;0\\0&amp;1}.$$ We verify for the in the example defined group homomorphism $$\rho(0)=\pmatrix{\cos(0)&amp;-\sin(0)\\\sin(0)&amp;\cos(0)}=\pmatrix{1&amp;0\\0&amp;1}.$$</li>
 </ul>
 </li>
 <li>Verifying the property (2) $f(x^{ -1})=f(x)^{ -1}$ for all $x\in G$:<ul>
-<li>Let $x\in(\mathbb R,+)$. Then $x^{ -1}=-x.$ We verify by the <a href="https://bookofproofs.github.io/branches/analysis/eveness-of-the-cosine-of-a-real-variable.html">eveness of cosine</a> and the <a href="https://bookofproofs.github.io/branches/analysis/oddness-of-the-sine-of-a-real-variable.html">oddness of sine</a>
-$$\rho(-x)=\pmatrix{\cos( -x)&amp;-\sin( -x)\\\sin( -x)&amp;\cos( -x)}=\pmatrix{\cos(-x)&amp;\sin(x)\\-\sin(x)&amp;\cos(x)},$$ which is the inverse element of $H.$ This can be verified by the <a href="https://bookofproofs.github.io/branches/analysis/pythagorean-identity.html">Pythagorean identity</a> $$\pmatrix{\cos(x)&amp;-\sin(x)\\\sin(x)&amp;\cos(x)}\cdot \pmatrix{\cos(x)&amp;\sin(x)\\-\sin(x)&amp;\cos(x)}=\pmatrix{1&amp;0\\0&amp;1}.$$</li>
+<li>Let $x\in(\mathbb R,+)$. Then $x^{ -1}=-x.$ We verify by the <a href="https://bookofproofs.github.io/branches/analysis/eveness-of-the-cosine-of-a-real-variable.html" title="Proposition: Eveness of the Cosine of a Real Variable">eveness of cosine</a> and the <a href="https://bookofproofs.github.io/branches/analysis/oddness-of-the-sine-of-a-real-variable.html" title="Proposition: Oddness of the Sine of a Real Variable">oddness of sine</a>.
+$$\rho(-x)=\pmatrix{\cos( -x)&amp;-\sin( -x)\\\sin( -x)&amp;\cos( -x)}=\pmatrix{\cos(-x)&amp;\sin(x)\\-\sin(x)&amp;\cos(x)},$$ which is the inverse element of $H.$ This can be verified by the <a href="https://bookofproofs.github.io/branches/analysis/pythagorean-identity.html" title="Proposition: Pythagorean Identity">Pythagorean identity</a> $$\pmatrix{\cos(x)&amp;-\sin(x)\\\sin(x)&amp;\cos(x)}\cdot \pmatrix{\cos(x)&amp;\sin(x)\\-\sin(x)&amp;\cos(x)}=\pmatrix{1&amp;0\\0&amp;1}.$$</li>
 </ul>
 </li>
 </ul>
@@ -93,15 +92,14 @@ $$\rho(-x)=\pmatrix{\cos( -x)&amp;-\sin( -x)\\\sin( -x)&amp;\cos( -x)}=\pmatrix{
 <ol>
 <li><strong>Modler, Florian; Kreh, Martin</strong>: "Tutorium Algebra", Springer Spektrum, 2013</li>
 </ol>
-<h4>Footnotes</h4>
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

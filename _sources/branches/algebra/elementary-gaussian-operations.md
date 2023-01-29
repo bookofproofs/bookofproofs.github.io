@@ -14,8 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let an [SLE][bookofproofs$1044] be given in the form of its [extended coefficient matrix][bookofproofs$7941]
-
+Let an [SLE][bookofproofs$1044] be given in the form of its [extended coefficient matrix][bookofproofs$7941].
 `$$A|\beta:=\left(\begin{array}{ccc|c}\alpha_{11}& \ldots&\alpha_{1n}&\beta_1\\ 
 \alpha_{21}& \ldots&\alpha_{2n}&\beta_2\\ 
 \vdots&\vdots&\vdots&\vdots\\ 

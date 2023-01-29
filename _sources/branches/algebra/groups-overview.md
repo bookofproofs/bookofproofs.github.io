@@ -15,10 +15,10 @@ contributors: bookofproofs
 
 ---
 
-Above, we have learned about [magmas, semigroups, monoids][bookofproofs$120] as simple types of [algebraic structures][bookofproofs$342] In this chapter, we will introduce a more complex algebra - the _group_. We continue with our tabular overview to indicate, which properties of a group fulfills:
+Above, we have learned about [magmas, semigroups, monoids][bookofproofs$120] as simple types of [algebraic structures][bookofproofs$342]. In this chapter, we will introduce a more complex algebra - the _group_. We continue with our tabular overview to indicate, which properties of a group fulfills:
 
 
-Algebra `$(X,\ast)$`  | [Closure][bookofproofs$1103] | [Associativity][bookofproofs$668] | [Neutral Element][bookofproofs$661] | [Existence of Inverse][bookofproofs$670] | [Cancellation][bookofproofs$837] | [Commutativity][bookofproofs$672]
+Algebra `$(X,\ast)$`  | [Closure][bookofproofs$1103] | [Associativity][bookofproofs$668] | [Neutral Element][bookofproofs$661] | [Existence of Inverse][bookofproofs$670] | [Cancellation][bookofproofs$837] | [Commutativity][bookofproofs$672].
 :------------- |:------------- |:------------- |:------------- |:------------- |:------------- |:-------------
  [Magma][bookofproofs$836]| ✔| (✔)| (✔)| (✔)| (✔)| (✔)
  [Semigroup][bookofproofs$660]| ✔| ✔| (✔)| (✔)| (✔)| (✔)

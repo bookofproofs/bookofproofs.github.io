@@ -33,7 +33,7 @@ Let `\( ( G ,\ast) \)` be a [group][bookofproofs$671], `\(N\unlhd G\)` its [norm
 &=&(a_1\ast a_2)N
 \end{array}\]` 
    * This demonstrates that `$(a_1\ast a_2)N=(b_1\ast b_2)N.$`
-* Ad `\((2)\)` The operation [`\(\circ\)`" is "associative][bookofproofs$668]. 
+* Ad `\((2)\)` The operation "`\(\circ\)`" is [associative][bookofproofs$668]. 
    * This follows from the associativity of "`\(\ast\)`", since for all `\(a_1,a_2,a_3\in G\)`:
 `\[\begin{array}{ccl}
 ((a_1 N)\circ(a_2N))\circ(a_3N)&=&(a_1\ast a_2)N\circ (a_3N)\\
@@ -42,7 +42,7 @@ Let `\( ( G ,\ast) \)` be a [group][bookofproofs$671], `\(N\unlhd G\)` its [norm
 &=&(a_1N)\circ(a_2\ast a_3)N\\
 &=&(a_1N)\circ((a_2N\circ a_3N))\\
 \end{array}\]`
-* Ad `\((3)\)`: The factor group `\((G/N,\circ)\)` contains at least one element `\(N\)` and this is its [neutral element][bookofproofs$661]
+* Ad `\((3)\)`: The factor group `\((G/N,\circ)\)` contains at least one element `\(N\)` and this is its [neutral element][bookofproofs$661].
    * The [left coset][bookofproofs$827] `\(e_GN\)` with respect to the neutral element `\(e_G\in G\)` is an element of `\((G/N,\circ)\)`.
    * Thus, `\(N=e_GN\in G/N\)`. 
    * Moreover, for any [coset][bookofproofs$827] `\(aN\in G/N\)` we have
@@ -58,7 +58,7 @@ N\circ(aN)&=&(e_GN)\circ(aN)&=&(e_G\ast a)N&=&aN\\
 (aN)\circ(a^{-1}N)&=&(a\ast a^{-1}) N&=&e_GN&=&N.\\
 \end{array}\]`
 
-Altogether, we have shown that the [quotient set][bookofproofs$829] `\(G/N:=\{aN: a\in G\}\)` of all [ (left) cosets][bookofproofs$827], together with the binary operation `$"\circ"$` forms a factor group `$(G/N,\circ ).$` 
+Altogether, we have shown that the [quotient set][bookofproofs$829] `\(G/N:=\{aN: a\in G\}\)` of all [ (left) cosets][bookofproofs$827], together with the binary operation "`$\circ$`" forms a factor group `$(G/N,\circ ).$` 
 
 * Ad `\((5)\)`: `\((G/N,\circ )\)` is [Abelian][bookofproofs$553], if `$G$` is.
    * This follows immediately from the definition of `$"\circ".$`

@@ -138,5 +138,5 @@ _(no contents provided yet)_
 
 ### 490 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Simplicius/">Simplicius</a>
-: A Greek mathematician who wrote commentaries on the works of other philosophers and mathematicians including Euclid and Aristotle. 
+: A Greek mathematician who wrote commentaries on the works of other philosophers and mathematicians including Euclid and <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Aristotle/">Aristotle</a>. 
 

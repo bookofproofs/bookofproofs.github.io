@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-We say a [field][bookofproofs$557] `$(F, +, \cdot)$` is **ordered**, if there exists a [strict total order][bookofproofs$7993] `$"<"$` on `$F$` that fulfills the two properties:
+We say a [field][bookofproofs$557] `$(F, +, \cdot)$` is **ordered**, if there exists a [strict total order][bookofproofs$7993] "`$<$`" on `$F$` that fulfills the two properties:
 
 1. from `\(a > b\)` it follows `\(a+c > b+c\)` (for arbitrary `\(c\in F\)`),
 1. from `\(a > 0\)` and `\(b > 0\)` it follows `\(a\cdot b > 0\)`.

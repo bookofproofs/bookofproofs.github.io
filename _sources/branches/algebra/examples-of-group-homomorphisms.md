@@ -19,11 +19,10 @@ contributors: bookofproofs
 
 ### Example 2
 
-For [real numbers][bookofproofs$1105] `$x\in\mathbb R$`, the [exponential function][bookofproofs$281] is a [group homomorphism][bookofproofs$679] between the groups `$(\mathbb R,+)$` and `$(\mathbb R^{ +},\cdot),$` since `$$\exp(x+y)=\exp(x)\cdot\exp(y)$$` for all `$x,y\in\mathbb R.$` This is also known as the [functional equation of the exponential function][bookofproofs$1415]
-
+For [real numbers][bookofproofs$1105] `$x\in\mathbb R$`, the [exponential function][bookofproofs$281] is a [group homomorphism][bookofproofs$679] between the groups `$(\mathbb R,+)$` and `$(\mathbb R^{ +},\cdot),$` since `$$\exp(x+y)=\exp(x)\cdot\exp(y)$$` for all `$x,y\in\mathbb R.$` This is also known as the [functional equation of the exponential function][bookofproofs$1415].
 ### Example 3
 
-The rotation matrix map `$$\rho:x\to\pmatrix{\cos(x)&-\sin(x)\\\sin(x)&\cos(x)}$$` is group homomorphism of the group `$(\mathbb R,+)$` and the general linear group `$(\operatorname{GL}(2,\mathbb R),\cdot)$` together with the [matrix multiplication][bookofproofs$1050] `$[\cdot"$`.  This is because of the "additivity theorems for cosine and sine][bookofproofs$6730] `$$\begin{align}\rho(x+y)&=\pmatrix{\cos(x+y)&-\sin(x+y)\\\sin(x+y)&\cos(x+y)}\nonumber\\
+The rotation matrix map `$$\rho:x\to\pmatrix{\cos(x)&-\sin(x)\\\sin(x)&\cos(x)}$$` is group homomorphism of the group `$(\mathbb R,+)$` and the general linear group `$(\operatorname{GL}(2,\mathbb R),\cdot)$` together with the [matrix multiplication][bookofproofs$1050] "`$\cdot$`".  This is because of the [additivity theorems for cosine and sine][bookofproofs$6730] `$$\begin{align}\rho(x+y)&=\pmatrix{\cos(x+y)&-\sin(x+y)\\\sin(x+y)&\cos(x+y)}\nonumber\\
 &=\pmatrix{\cos(x)\cos(y)-\sin(x)\sin(y)&-\sin(x)\cos(y)-\cos(x)\sin(y)\\\sin(x)\cos(y)+\cos(x)\sin(y)&\cos(x)\cos(y)-\sin(x)\sin(y)}\nonumber\\
 &=\pmatrix{\cos(x)&-\sin(x)\\\sin(x)&\cos(x)}\cdot\pmatrix{\cos(y)&-\sin(y)\\\sin(y)&\cos(y)}\nonumber\\
 &=\rho(x)\cdot\rho(y).\nonumber\end{align}$$`

@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\((R, +,\cdot)\)` and `\((S,\ast,\circ)\)` be two [rings][bookofproofs$683] A [function][bookofproofs$592] `\(f:R\rightarrow S\)` is called a **ring homomorphism**, if and only if for all `\(x,y\in R\)` the following equation holds:
+Let `\((R, +,\cdot)\)` and `\((S,\ast,\circ)\)` be two [rings][bookofproofs$683]. A [function][bookofproofs$592] `\(f:R\rightarrow S\)` is called a **ring homomorphism**, if and only if for all `\(x,y\in R\)` the following equation holds:
 
 `\[\begin{array}{rcl}
 f(x + y)&=&f(x) \ast f(y),\\

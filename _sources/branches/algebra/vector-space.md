@@ -14,8 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let (`\(F,+,\cdot)\)` be a [field][bookofproofs$557] A non-empty [set][bookofproofs$550] `\(V\)` of elements called **vectors** with two [maps][bookofproofs$592] 
-
+Let (`\(F,+,\cdot)\)` be a [field][bookofproofs$557]. A non-empty [set][bookofproofs$550] `\(V\)` of elements called **vectors** with two [maps][bookofproofs$592].
 `\[
 \cases{
 V\times V\mapsto V:(x,y)\mapsto x\oplus y  & \text{(the vector addition)}\\
@@ -24,12 +23,12 @@ F\times V\mapsto V:(\alpha,x)\mapsto \alpha \odot x & \text{(the scalar multipli
 
 is called a **vector space over the field** `$F$` (or a *$F$-vector space* or a **linear space over** `$F$`), if:
 1. `\((V,\oplus)\)` is an [Abelian group][bookofproofs$553], in particular:
-   * The addition `$[\oplus"$` of vectors is "associative][bookofproofs$668]: `$x\oplus (y\oplus z)=(x\oplus y)\oplus z$` for all `$x,y,z\in V.$`
-   * `$[\oplus"$` has a "neutral element][bookofproofs$661], called the **zero vector** `$o\in V$` with `$x\oplus o=o\oplus x=x$` for all `$x\in V.$`
+   * The addition "`$\oplus$`" of vectors is [associative][bookofproofs$668]: `$x\oplus (y\oplus z)=(x\oplus y)\oplus z$` for all `$x,y,z\in V.$`
+   * "`$\oplus$`" has a [neutral element][bookofproofs$661], called the **zero vector** `$o\in V$` with `$x\oplus o=o\oplus x=x$` for all `$x\in V.$`
    * Every vector `$x\in V$` has an [inverse][bookofproofs$670] `$-x\in V$` with `$x\oplus(-x)=(-x)\oplus x=o.$` 
-   * `$[\oplus"$` is "commutative][bookofproofs$672], i.e. `$x\oplus y=y\oplus x$` for all `$x,y\in V.$`
+   * "`$\oplus$`" is [commutative][bookofproofs$672], i.e. `$x\oplus y=y\oplus x$` for all `$x,y\in V.$`
 1. For `\(\alpha,\beta\in F\)` and `\(x,y\in V\)` the following **axioms of scalar multiplication** hold:
-   *  `$(\alpha + \beta)\odot x=\alpha\odot x \oplus \beta\odot x,$`
+   * `$(\alpha + \beta)\odot x=\alpha\odot x \oplus \beta\odot x,$`
    * `$\alpha\odot(x\oplus y)=\alpha\odot x \oplus \alpha\odot y,$` 
    * `$(\alpha\cdot \beta)\odot x=\alpha\odot (\beta\odot x),$`
    * If `$1\in F$` is the neutral element of the field, then it is also a neutral element of the scalar multiplication in `$V,$` i.e. `$1\odot x=x.$`
@@ -38,7 +37,8 @@ is called a **vector space over the field** `$F$` (or a *$F$-vector space* or a 
 
 ### A note on notation 
 
-Whenever any misunderstandings can be excluded, <strong><span style='color:orange'>Bookof</span><span style='color:lightblue'>Proofs</span></strong> follows the convention used in most mathematical literature, making no difference in the notation of vector addition  `$"\oplus"$` and the addition of field elements  `$" + "$` as well as the scalar multiplication `$"\odot"$` and the multiplication of field elements `$"\cdot".$` However, to keep field elements and vectors apart, the latter will be denoted by small Latin letters, e.g. `$x,y,a,b,\ldots,$` while field elements will be denoted by small Greek letters `$\alpha,\beta,\gamma,\ldots.$`
+Whenever any misunderstandings can be excluded, <strong><span style='color:orange'>Bookof</span><span style='color:lightblue'>Proofs</span></strong> follows the convention used in most mathematical literature, making no difference in the notation of vector addition "`$\oplus$`" and the addition of field elements "`$+$`", as well as the scalar multiplication "`$\odot$`" and the multiplication of field elements "`$\cdot$`". 
+However, to keep field elements and vectors apart, the latter will be denoted by small Latin letters, e.g. `$x,y,a,b,\ldots,$` while field elements will be denoted by small Greek letters `$\alpha,\beta,\gamma,\ldots.$`
 
 
 ### Vector notation with respect to a basis

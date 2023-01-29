@@ -16,8 +16,7 @@ contributors: bookofproofs
 
 ### Introductory Example
 
-A similar example, in which the [extended coefficient matrix][bookofproofs$7941] contains a [lower triangular matrix][bookofproofs$1053]
-
+A similar example, in which the [extended coefficient matrix][bookofproofs$7941] contains a [lower triangular matrix][bookofproofs$1053].
 `$$\left(\begin{array}{lllllll|c}0& 0&\ldots&0&\ldots&\ldots&0&\beta_1\\
 \vdots&\vdots&\ddots&\vdots&\vdots&\vdots&\vdots&\vdots\\
 0& 0&\ldots&0&\ldots&\ldots&0&\beta_{r-1}\\

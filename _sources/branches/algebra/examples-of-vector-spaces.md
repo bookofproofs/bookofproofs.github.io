@@ -21,7 +21,9 @@ The [field of real numbers][bookofproofs$6194] can be considered as a [vector sp
 
 From a geometrical point of view, the vector space `$\mathbb R^1$` can be imagined as a **number line**. the following figure shows the number line vector space and a vector in it (here the number `$3.5$`):
 
+
 ![numberline](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/numberline.png?raw=true)
+
 
 The number line has a designated vector, the zero vector `$(0)$`, and each point on the number line can be identified with the vector "pointing" to the real number `$x$`, which we can write as `$(x)$`.
 
@@ -29,4 +31,6 @@ The number line has a designated vector, the zero vector `$(0)$`, and each point
 
 "Descartes":https://www.bookofproofs.org/history/rene-descartes/ was the first to identify the points of a [plane][bookofproofs$647] with pairs of two real numbers. As in the case of a number line, this requires the choice of a special vector, which is the zero vector `$(0,0)$`. Then, each point in the plane with the coordinates `$x$` and `$y$` can be identified with a vector pointing to the point, which has the same coordinates, i.e. the vector `$(x,y).$`
 
+
 ![carthesian](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/carthesian.png?raw=true)
+

@@ -14,14 +14,14 @@ contributors: bookofproofs
 
 ---
 
-### `$"\Rightarrow"$`
+### "`$\Rightarrow$`"
 
-* By assumption, `\((i)=Ri\)` and `\((j)=Rj\)` are [principal ideals][bookofproofs$1063] for some `\(i,j\in R\)`, where `$(R, + ,\cdot)$` is an [integral domain][bookofproofs$821] 
+* By assumption, `\((i)=Ri\)` and `\((j)=Rj\)` are [principal ideals][bookofproofs$1063] for some `\(i,j\in R\)`, where `$(R, + ,\cdot)$` is an [integral domain][bookofproofs$821].
 * If `\(i \mid j\)`, then following the [definition of divisibility in the ring][bookofproofs$8257] there exists an element `\(x\in R\)` with `\(xi=j\)`. 
 * It follows that `$(j)=Rj=R(xi)\subseteq Ri=(i).$` 
 * Following the [definition of divisibility of ideals][bookofproofs$1065] `$(j)\subseteq (i)$` is equivalent to `$(i)\mid (j).$`
 
-### `$"\Leftarrow"$`
+### "`$\Leftarrow$`"
 
 * If, vice versa, `\((i)\mid (j)\)`, we have the set inclusion `\((j)\subseteq (i)\)`. 
 * Because `\(j\in (j)\)`, it follows that `\(j\in (i)\)`. 

@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `$(R,\cdot,+)$` be an [integral domain][bookofproofs$821] with the [multiplicative neutral element][bookofproofs$661] `$1,$` and let `$M\subseteq R$` be its [subset][bookofproofs$552] The element `$a$` is called the **greatest common divisor** of `$M,$` if and only if:
+Let `$(R,\cdot,+)$` be an [integral domain][bookofproofs$821] with the [multiplicative neutral element][bookofproofs$661] `$1,$` and let `$M\subseteq R$` be its [subset][bookofproofs$552]. The element `$a$` is called the **greatest common divisor** of `$M,$` if and only if:
 
 * `$a\mid m\quad\forall m\in M$`, i.e. `$a$` is a [divisor][bookofproofs$8257] of all elements of `$M.$`
 * `$a'\mid m\quad\forall m\in M\Rightarrow a'\mid a$`, i.e. if any other element `$a'$` is dividing all elements of `$M,$` then it is also dividing `$a.$`

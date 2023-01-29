@@ -14,9 +14,8 @@ contributors: bookofproofs
 
 ---
 
-In the following proof, `$(R, + ,\cdot)$` is an [integral domain][bookofproofs$821]
-
-### `$"\Rightarrow"$`
+In the following proof, `$(R, + ,\cdot)$` is an [integral domain][bookofproofs$821].
+### "`$\Rightarrow$`"
 
 * Let `$(a)\lhd R$` and `$(b)\lhd R$` be two [principal ideals][bookofproofs$1063] with `$(a)=(b)$`.
 * By the [equality of sets][bookofproofs$6841], whe have `$(a)\subseteq (b)$` and `$(b)\subseteq (a).$`
@@ -25,7 +24,7 @@ In the following proof, `$(R, + ,\cdot)$` is an [integral domain][bookofproofs$8
 * Following the definition of [divisors][bookofproofs$8257] there are elements `$c,d\in R$` with `$ac=b$` and `$bd=a.$`
 * It follows with the definition of [associates][bookofproofs$8260] that `$a\sim b.$`
 
-### `$"\Leftarrow"$`
+### "`$\Leftarrow$`"
 
 * Let `$a\sim b.$`
 * By the [criterion for associates][bookofproofs$8292] there is a [unit][bookofproofs$8259] `$c\in R^\ast$` with `$a=bc.$` 

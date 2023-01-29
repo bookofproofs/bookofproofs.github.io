@@ -14,8 +14,7 @@ contributors: bookofproofs
 
 ---
 
-#### Proof for `\( (1) \)`: `\(V\)` has a [finite][bookofproofs$985] [basis][bookofproofs$299]
-
+#### Proof for `\( (1) \)`: `\(V\)` has a [finite][bookofproofs$985] [basis][bookofproofs$299].
 Since `\(V\)` is a vector space over a field `\(F\)` with a finite dimension `\(dim(V)=n < \infty\)`, the number `\(n\)` is [by definition of the dimension][bookofproofs$1041] the maximum number of [linearly independent][bookofproofs$1036] vectors contained in `\(V\)`. Let `\(B:=\{v_1,\ldots,v_n\}\subseteq V\)` be any such linearly independent vectors. We note that, for any subset `\(A\subseteq B\)`, the vectors in `\(A\)` have also to be independent. In order to show that `\(B\)` is a basis, it remains to show that `\(B\)` is a [generating system][bookofproofs$279] of `\(V\)`. 
 
 If `\(V=\{0\}\)`, then `\(B=\{0\}\)`, and trivially the vector `\(v_1=0\in V\)` can be represented as a linear combination of the basis[^1] `\(v_1=0=\alpha v_1\)` for all  `\(\alpha\in F\)`, so `\(V=Span(B)\)`.
@@ -37,8 +36,7 @@ Since `\(\alpha_i,\beta\in F\)` were all arbitrary, we have shown that any non-z
 
 In `\( (1) \)` we have shown already the existence of a basis `\(B=\{v_1,\ldots,v_n\}\)` with `\(n\)` elements, `\(n=dim(V)\)`. It remains to show that no basis of `\(V\)` can have a different number of elements. Suppose the existence of such a basis, say `\(A:=\{w_1,\ldots,w_m\}\)` with `\(m\neq n\)`. 
 
-`\(m > n\)` would mean a [contradiction][bookofproofs$744] to the property of `\(n\)` as the maximum number of linearly independent vectors in `\(V\)` and the definition of `\(A\)` as a [basis][bookofproofs$299] 
-
+`\(m > n\)` would mean a [contradiction][bookofproofs$744] to the property of `\(n\)` as the maximum number of linearly independent vectors in `\(V\)` and the definition of `\(A\)` as a [basis][bookofproofs$299].
 `\(m < n\)` would mean that we can generate all vectors of `\(V\)` using a smaller number of independent vectors then its dimension `\(n\)`. Since there are (!) some `\(n\)` linearly independent vectors `\(v_1,\ldots, v_n\)`, after all, we shall be able to generate them with a smaller number the independent vectors `\(w_1,\ldots, w_m\)`. We will show that this is impossible.
 
 Suppose in contrary that it is possible. In other words, we have

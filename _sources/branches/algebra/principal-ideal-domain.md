@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-An [integral domain][bookofproofs$821] is said to be a **principal ideal domain**, if every of its [ideals][bookofproofs$1062] is a [principal ideal][bookofproofs$1063]
+An [integral domain][bookofproofs$821] is said to be a **principal ideal domain**, if every of its [ideals][bookofproofs$1062] is a [principal ideal][bookofproofs$1063].

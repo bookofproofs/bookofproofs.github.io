@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-A [homomorphism][bookofproofs$364] `\(f:G\rightarrow H\)` is called a **group homomorphism**, if `\((G,\ast)\)` and `\((H,\cdot)\)` are two [groups][bookofproofs$671]
+A [homomorphism][bookofproofs$364] `\(f:G\rightarrow H\)` is called a **group homomorphism**, if `\((G,\ast)\)` and `\((H,\cdot)\)` are two [groups][bookofproofs$671].

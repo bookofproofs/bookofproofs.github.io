@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\(A,B\in M_{m\times n}(F)\)` be two [matrices][bookofproofs$1048] over a given [field][bookofproofs$557] The **matrix addition** `$"+"$` is defined by
+Let `\(A,B\in M_{m\times n}(F)\)` be two [matrices][bookofproofs$1048] over a given [field][bookofproofs$557]. The **matrix addition** "`$+$`" is defined by
 
 `$$
 C:=A+B=\pmatrix{
@@ -36,8 +36,7 @@ C:=A+B=\pmatrix{
 
 The resulting matrix `$C\in M_{m\times n}(F)$` is called a **matrix sum** of the two matrices `\(A\)` and `\(B\)`.
 
-Vector addition is a special case of matrix addition for matrices of the size `$M_{m\times 1}(F)$` for [column vectors][bookofproofs$7943] 
-
+Vector addition is a special case of matrix addition for matrices of the size `$M_{m\times 1}(F)$` for [column vectors][bookofproofs$7943].
 `$$
 \pmatrix{
 \alpha_{1} \cr

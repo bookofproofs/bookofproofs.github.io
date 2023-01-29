@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-Let `\(F\)` be a [field][bookofproofs$557] and let `\(L/F\)` be its [field extension][bookofproofs$6213] An element `\(x\in L\)` is called *transcendental over `\(F\)`*, if it is not [algebraic over `\(F\)` ][bookofproofs$6255]
+Let `\(F\)` be a [field][bookofproofs$557] and let `\(L/F\)` be its [field extension][bookofproofs$6213]. An element `\(x\in L\)` is called *transcendental over `\(F\)`*, if it is not [algebraic over `\(F\)` ][bookofproofs$6255].

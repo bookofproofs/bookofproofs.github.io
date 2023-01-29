@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -56,9 +55,9 @@ k&amp;\mapsto g^k
 \end{cases}\]
 For any two integers \(k,l\in\mathbb Z\) we then have </p>
 <p>\[f(k+l)=g^{k+l}=g^k\ast g^l.\]
-It follows that \(f\) is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a> Since the sum \(k+l\) can represent any integer \(j\in\mathbb Z\) (for a given \(j\), fix \(k\) and set \(l:=j-k\)), \(g^j\) can generate all (even infinitely many) elements of \(G\). Therefore, \(f\) is <a href="https://bookofproofs.github.io/branches/set-theory/surjective-function.html">surjective</a></p>
+It follows that \(f\) is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html" title="Definition: Group Homomorphism">group homomorphism</a>. Since the sum \(k+l\) can represent any integer \(j\in\mathbb Z\) (for a given \(j\), fix \(k\) and set \(l:=j-k\)), \(g^j\) can generate all (even infinitely many) elements of \(G\). Therefore, \(f\) is <a href="https://bookofproofs.github.io/branches/set-theory/surjective-function.html" title="Definition: Surjective Function">surjective</a>.</p>
 <h3>"\(\Leftarrow\)"</h3>
-<p>Let \(f:\mathbb Z\mapsto G\) be a <a href="https://bookofproofs.github.io/branches/set-theory/surjective-function.html">surjective</a>  <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a>, i.e. </p>
+<p>Let \(f:\mathbb Z\mapsto G\) be a <a href="https://bookofproofs.github.io/branches/set-theory/surjective-function.html" title="Definition: Surjective Function">surjective</a>  <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html" title="Definition: Group Homomorphism">group homomorphism</a>, i.e. </p>
 <p>\[f(k+l)=f(k)\ast f(l)\in G,\]
 for any integers \(k,l\in\mathbb Z\) with \(im(f)=G\). We have to show that \(G\) is cyclic. In particular, we have to prove that there exist an integer \(j\), for which \(G=\langle f(j) \rangle\), i.e. for which each element of \(G\) can be represented as some power of \(f(j)\). We will show that \(j=1\) will do the trick. First of all, note that because \(f\) is a group homomorphism, we can generate all elements \(f(k)\in G\) with \(k \ge 1\) as "powers" of \(f(1)\) as follows:</p>
 <p>\[\begin{array}{ccl}
@@ -67,7 +66,7 @@ f(2)&amp;=&amp;f(1+1)=f(1)\ast f(1)=f(1)^2\\
 \vdots\\
 f(k)&amp;=&amp;f(\underbrace{1+\ldots+1}_{k\text{ times}})=\underbrace{f(1)\ast\ldots \ast f(1)}_{k\text{ times}}=f(1)^k.\\ 
 \end{array}\]</p>
-<p>Following the <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html">properties of group homomorphism</a>, also \(f(-1)\) can be generated from \(f(1)\) by the equation </p>
+<p>Following the <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html" title="Proposition: Properties of a Group Homomorphism">properties of group homomorphism</a>, also \(f(-1)\) can be generated from \(f(1)\) by the equation </p>
 <p>\[f(-1)=f(1)^{-1}.\]</p>
 <p>Therefore, we can also generate all elements \(f(k)\in G\) with \(k \le -1\) as "powers" of \(f(1)\) as follows:</p>
 <p>\[\begin{array}{ccl}
@@ -76,7 +75,7 @@ f(-2)&amp;=&amp;f(-1-1)=f(1)^{-1}\ast f(1)^{-1}=f(1)^{-2}\\
 \vdots\\
 f(-k)&amp;=&amp;f(\underbrace{-1-\ldots-1}_{k\text{ times}})=\underbrace{f(1)^{-1}\ast\ldots \ast f(1)^{-1}}_{k\text{ times}}=f(1)^{-k}.\\ 
 \end{array}\]</p>
-<p>Finally, again following the <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html">properties of group homomorphism</a>, also the identity \(e_G\) of the group \(G\) can be generated from \(f(1)\) by the equation </p>
+<p>Finally, again following the <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html" title="Proposition: Properties of a Group Homomorphism">properties of group homomorphism</a>, also the identity \(e_G\) of the group \(G\) can be generated from \(f(1)\) by the equation </p>
 <p>\[e_G=f(0)=f(-1)\ast f(1)=f(1)^{-1}\ast f(1)^1=f(1)^0.\] </p>
 <p>Because \(f\) is surjective and we have explored all integers \(k\in\mathbb Z\), we must have generated all elements of \(G\) by only the element \(f(1)\in G\). Thus, \(G=\langle f(1) \rangle\).</p>
 <hr>
@@ -84,11 +83,11 @@ f(-k)&amp;=&amp;f(\underbrace{-1-\ldots-1}_{k\text{ times}})=\underbrace{f(1)^{-
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

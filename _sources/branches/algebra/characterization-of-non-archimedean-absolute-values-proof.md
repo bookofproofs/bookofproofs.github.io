@@ -14,8 +14,7 @@ contributors: bookofproofs
 
 ---
 
-In the following prove, `$(F,+,\cdot)$` is a [field][bookofproofs$557]
-
+In the following prove, `$(F,+,\cdot)$` is a [field][bookofproofs$557].
 ### Ad `$(1)$`
 
 * Assume, `$|\cdot|$` is a [non-archimedean absolute value][bookofproofs$8659] on `$F.$`
@@ -25,8 +24,8 @@ In the following prove, `$(F,+,\cdot)$` is a [field][bookofproofs$557]
 ### Ad `$(2)$`
 
 * Assume, there is a constant `$C$` with `$|n|\le C,$` where `$n=\underbrace{1+\ldots+1}_{n\text{ times}},$` `$1\in F.$`
-* Then, for fixed `$x,y\in F,$` we get with the [binomial theorem][bookofproofs$1397]
+* Then, for fixed `$x,y\in F,$` we get with the [binomial theorem][bookofproofs$1397].
 `$$|(x+y)^n|=\left|\sum_{k=0}^n{n\choose k}x^{n-k}y^k\right|\le nC\max(|x|,|y|)^n,$$`
-in which, by abuse of notation, we regard `$n$` also as a [natural number][bookofproofs$718]
+in which, by abuse of notation, we regard `$n$` also as a [natural number][bookofproofs$718].
 * Taking `$n$`-th [roots][bookofproofs$46] on both sides a letting `$n$` [tend to infinity][bookofproofs$1345], we get by the standard results from analysis ([limit of nth root of n][bookofproofs$6724] and [limit of the nth root of a positive constant][bookofproofs$6709]), we get `$$|x+y|\le\max (|x|,|y|).$$`
 * It follows that `$|\cdot|$` is [non-archimedean][bookofproofs$8659].

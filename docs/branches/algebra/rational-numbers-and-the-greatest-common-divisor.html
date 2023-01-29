@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -48,7 +47,7 @@
 
 <h1>Motivation: Rational Numbers and the Greatest Common Divisor</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/algebraic-and-transcendent-numbers.html'>Chapter: Algebraic and Transcendent Numbers</a>)</p>
-<p>Let $\frac{a}b\in\mathbb Q$ be a <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-rational-numbers.html">rational number</a> with $0 &lt; a$ and $0 &lt; b.$ In the "proof of the greatest common divisor":<a href="https://www.bookofproofs.org/branches/greatest-common-divisor-python/proof/">https://www.bookofproofs.org/branches/greatest-common-divisor-python/proof/</a> for the calculation of the <a href="https://bookofproofs.github.io/branches/number-theory/greatest-common-divisor.html">greatest common divisor</a> $\gcd(a,b)$, the Euclidean algorithm can be written with a sequence of rational numbers defined as follows:</p>
+<p>Let $\frac{a}b\in\mathbb Q$ be a <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-rational-numbers.html" title="Proposition: Definition of Rational Numbers">rational number</a> with $0 &lt; a$ and $0 &lt; b.$ In the "proof of the greatest common divisor":<a href="https://www.bookofproofs.org/branches/greatest-common-divisor-python/proof/">https://www.bookofproofs.org/branches/greatest-common-divisor-python/proof/</a> for the calculation of the <a href="https://bookofproofs.github.io/branches/number-theory/greatest-common-divisor.html" title="Proposition: Greatest Common Divisor">greatest common divisor</a> $\gcd(a,b)$, the Euclidean algorithm can be written with a sequence of rational numbers defined as follows:</p>
 <p>$$\begin{array}{rclclcl}
 \frac{a}{b} &amp; = &amp; q_0 &amp; + &amp; \frac{r_1}{b} &amp; \text{with} &amp; q_0\in\mathbb N,\; 0 &lt; r_1 &lt; b\\
 \frac{b}{r_1} &amp; = &amp; q_1 &amp; + &amp; \frac{r_2}{r_1} &amp; \text{with} &amp; q_1\in\mathbb N,\; 0 &lt; r_2 &lt; r_1\\
@@ -60,7 +59,7 @@
 \end{array}$$</p>
 <p>Therefore, we can put the ratios in each other and get the following representation of the number $\frac ab$:</p>
 <p>$$\frac{a}b=q_0+\cfrac{1}{q_1+\cfrac{1}{q_2+\cfrac{1}{\ddots+\cfrac{1}{q_{n-2}+\cfrac{1}{q_{n-1}+\cfrac{1}{q_n}}}}}}$$</p>
-<p>Please note that because $r_{n} &lt; r_{n-1}$, we have $q_n &gt; 1$ and thus $q_n\neq 0.$ Thus, this representation is well-defined. It is possible to represent any positive rational number this way. But how about <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-irrational-numbers.html">irrational numbers</a> In order to answer this question, we will introduce a new concept, the concept of <em>continued fractions</em>.</p>
+<p>Please note that because $r_{n} &lt; r_{n-1}$, we have $q_n &gt; 1$ and thus $q_n\neq 0.$ Thus, this representation is well-defined. It is possible to represent any positive rational number this way. But how about <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-irrational-numbers.html" title="Definition: Definition of Irrational Numbers">irrational numbers</a>. In order to answer this question, we will introduce a new concept, the concept of <em>continued fractions</em>.</p>
 <hr>
 <p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/rational-numbers-and-the-greatest-common-divisor.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
 <hr>
@@ -70,15 +69,14 @@
 <li><strong>Scheid Harald</strong>: "Zahlentheorie", Spektrum Akademischer Verlag, 2003, 3rd Edition</li>
 <li><strong>Kraetzel, E.</strong>: "Studienbücherei Zahlentheorie", VEB Deutscher Verlag der Wissenschaften, 1981</li>
 </ol>
-<h4>Footnotes</h4>
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `$p\in R[X]$` be a [polynomial over a ring][bookofproofs$487] Replacing the variable `$x$` by some element of the ring makes the polynomial a [function][bookofproofs$592] `$p:R\to R.$` If `$b\in R$` is a [zero of this  function][bookofproofs$6736], i.e. `$p(b)=0,$` then there exists a [natural number][bookofproofs$718] `$n\in\mathbb N,$` `$n\ge 1$` such that:
+Let `$p\in R[X]$` be a [polynomial over a ring][bookofproofs$487]. Replacing the variable `$x$` by some element of the ring makes the polynomial a [function][bookofproofs$592] `$p:R\to R.$` If `$b\in R$` is a [zero of this  function][bookofproofs$6736], i.e. `$p(b)=0,$` then there exists a [natural number][bookofproofs$718] `$n\in\mathbb N,$` `$n\ge 1$` such that:
 
 * `$(x-b)^n\mid p$` (the polynomial `$(x-b)^n$` is a [divisor][bookofproofs$8257] of `$p$`) and
 * `$(x-b)^{n+1}\not\mid p$` (the polynomial `$(x-b)^{n+1}$` is not a [divisor][bookofproofs$8257] of `$p$`).

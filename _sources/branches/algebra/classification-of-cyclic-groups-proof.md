@@ -18,7 +18,7 @@ contributors: bookofproofs
 * Define the [function][bookofproofs$592] `$f:(\mathbb Z, + )\to (G,\ast),$` by `$f(k):=a^k$` for all `$a\in (G,\ast)$` and all elements `$k$` of the [additive group of integers][bookofproofs$1654] `$k\in (\mathbb Z,+).$` 
 * `$f$` is a [group homomorphism][bookofproofs$679], since `$f(k+j)=a^{k+j}=a^k\ast a^j=f(k)\ast f(j).$`
 * In particular, the [image][bookofproofs$809] `$\operatorname{im}(f)$` equals the group `$G$`, since `$\operatorname{im}(f)=\{a^k\mid k\in\mathbb Z\}=\langle g\rangle=G.$`
-* On the other hand, the [kernel][bookofproofs$809] `$\ker(f)=\{a\in G\mid f(a)=e_G\}$` is a [subgroup of `$(Z,+)$`][bookofproofs$833]
+* On the other hand, the [kernel][bookofproofs$809] `$\ker(f)=\{a\in G\mid f(a)=e_G\}$` is a [subgroup of `$(Z,+)$`][bookofproofs$833].
 * Let `$G$` have an [infinite order][bookofproofs$8071] `$|G|=\infty.$`
    * Then `$\ker(f)=\{0\}.$`
    * It follows from the [isomorphism theorem for groups][bookofproofs$8271] that `$(G,\ast)$` is [isomorphic][bookofproofs$412] to `$\mathbb Z/\{0\}.$` 

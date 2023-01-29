@@ -14,6 +14,6 @@ contributors: bookofproofs
 
 ---
 
-Let `$(G,\ast)$` be a [cyclic group][bookofproofs$807] Then `$G$` is [isomorphic][bookofproofs$412]:
+Let `$(G,\ast)$` be a [cyclic group][bookofproofs$807]. Then `$G$` is [isomorphic][bookofproofs$412]:
 * either to the [group of integers, together with addition][bookofproofs$1654] `$(\mathbb Z,+),$` if `$G$` is of [infinite order][bookofproofs$8071] `$|G|=\infty,$`
 * or to the [additive subgroup of integers][bookofproofs$8268] `$(\mathbb Z_n,+),$` if `$|G|=n.$`

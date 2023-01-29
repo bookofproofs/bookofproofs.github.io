@@ -20,4 +20,4 @@ A **characteristic of a field** `$\operatorname{char}( F )$` is the minimal[^1] 
 `\[\underbrace{1 + \ldots + 1}_{n\text{ times}}=n\cdot 1=0.\]`
 
 
-[^1]: Such minimal element exists due to the [well-ordering principle of the natural numbers][bookofproofs$698] If in a given field `\(F\)` there is no such such `$n$` with `$n > 0$`, then `$n=0$` will do the trick.
+[^1]: Such minimal element exists due to the [well-ordering principle of the natural numbers][bookofproofs$698]. If in a given field `\(F\)` there is no such such `$n$` with `$n > 0$`, then `$n=0$` will do the trick.

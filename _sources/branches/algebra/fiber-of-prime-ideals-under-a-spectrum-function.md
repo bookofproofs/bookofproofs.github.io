@@ -16,7 +16,7 @@ contributors:
 
 Let `\(\varphi \colon R\longrightarrow S\,\)` be a [ring homomorphism][bookofproofs$885] between two [commutative rings][bookofproofs$880] and let 
 `\[\varphi ^{ * }\colon \cases{\operatorname {Spec} \left(S\right)\longrightarrow \operatorname {Spec} \left(R\right),\cr J\longmapsto \varphi ^{ * }(J)}\]`
-be the corresponding [spectrum function][bookofproofs$6249] Then the [fiber][bookofproofs$592] of a [prime ideal][bookofproofs$6240]  `\(I\in \operatorname {Spec} \left(R\right)\)` under the spectrum function fulfills the following properties:
+be the corresponding [spectrum function][bookofproofs$6249]. Then the [fiber][bookofproofs$592] of a [prime ideal][bookofproofs$6240]  `\(I\in \operatorname {Spec} \left(R\right)\)` under the spectrum function fulfills the following properties:
 
 1. It equals `\(\operatorname {Spec} (S/IS)\)`.
 1. It equals `\(\operatorname {Spec} (S/IS)\)`.

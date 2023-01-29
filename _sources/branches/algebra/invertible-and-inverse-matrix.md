@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\(A\in M_{n\times n}(F)\)` be a [square matrix][bookofproofs$1056] If there exists another square matrix `\(B\in M_{n\times n}(F)\)` which, when [multiplied][bookofproofs$1050] with `\(A\)`, results in the [identity matrix][bookofproofs$1051]:
+Let `\(A\in M_{n\times n}(F)\)` be a [square matrix][bookofproofs$1056]. If there exists another square matrix `\(B\in M_{n\times n}(F)\)` which, when [multiplied][bookofproofs$1050] with `\(A\)`, results in the [identity matrix][bookofproofs$1051]:
 
 `\[AB=BA=I,\]` 
 

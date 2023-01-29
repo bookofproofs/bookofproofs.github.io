@@ -19,7 +19,9 @@ In comparison to the [Egyptian mathematics][bookofproofs$8246], the _Sumerian_ p
 
 Sumerians used clay tablets with numerical notation. Their unique symbols are shown below. 
 
+
 ![470px-Babylonian_numerals](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/470px-Babylonian_numerals.png?raw=true)
+
 (from Wikimedia, uploaded by Josell7)
 
 The earliest texts contain tables with symbols for `$1$`, `$60$` and `$60^2$` as well as `$\frac {1}{60}$` and `$\frac {1}{60^2}$` and also contain examples of calculations connected with administrative tasks like cattle breeding, or taxes.

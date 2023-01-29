@@ -16,9 +16,9 @@ contributors: bookofproofs
 
 * By hypothesis, `$(F,+,\cdot)$` is a [field][bookofproofs$557] with an [absolute value][bookofproofs$8659] `$|\cdot|:F\to\mathbb R.$`
 * Set `$d(x,y):=|x-y|$` for all `$x,y\in F.$`
-* We have to verify, that `$d$` is a [metric][bookofproofs$614]
+* We have to verify, that `$d$` is a [metric][bookofproofs$614].
    * If `$d(x,y)=0,$` then `$|x-y|=0,$` and by definition of absolute value `$x=y.$`
    * Vice versa, if `$x=y,$` then `$x-y=0$` and `$d(x,y)=|0|=0.$` 
    * Obviously, `$d(x,y)=d(y,x)$` is symmetric.
    * Also, both, `$d$` fulfills the triangle inequality, because `$|\cdot|$` does.
-* It follows that `$(F,d)$` is a [metric space][bookofproofs$617]
+* It follows that `$(F,d)$` is a [metric space][bookofproofs$617].

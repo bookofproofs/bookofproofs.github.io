@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-In the following chapter, we will generalize the results we achieved in the [elementary number theory][bookofproofs$67] about [divisibility][bookofproofs$77] for the set `$\mathbb Z$` of integers to generalize [integral domain][bookofproofs$821]
+In the following chapter, we will generalize the results we achieved in the [elementary number theory][bookofproofs$67] about [divisibility][bookofproofs$77] for the set `$\mathbb Z$` of integers to generalize [integral domain][bookofproofs$821].

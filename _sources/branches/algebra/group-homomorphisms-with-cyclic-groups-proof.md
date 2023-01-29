@@ -25,8 +25,7 @@ k&\mapsto g^k
 For any two integers `\(k,l\in\mathbb Z\)` we then have 
 
 `\[f(k+l)=g^{k+l}=g^k\ast g^l.\]`
-It follows that `\(f\)` is a [group homomorphism][bookofproofs$679] Since the sum `\(k+l\)` can represent any integer `\(j\in\mathbb Z\)` (for a given `\(j\)`, fix `\(k\)` and set `\(l:=j-k\)`), `\(g^j\)` can generate all (even infinitely many) elements of `\(G\)`. Therefore, `\(f\)` is [surjective][bookofproofs$770]
-
+It follows that `\(f\)` is a [group homomorphism][bookofproofs$679]. Since the sum `\(k+l\)` can represent any integer `\(j\in\mathbb Z\)` (for a given `\(j\)`, fix `\(k\)` and set `\(l:=j-k\)`), `\(g^j\)` can generate all (even infinitely many) elements of `\(G\)`. Therefore, `\(f\)` is [surjective][bookofproofs$770].
 ### "`\(\Leftarrow\)`"
 
 Let `\(f:\mathbb Z\mapsto G\)` be a [surjective][bookofproofs$770]  [group homomorphism][bookofproofs$679], i.e. 

@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\((X,\ast)\)` be an [algebraic structure][bookofproofs$342] If `$X$` has an element `$e\in X$` with 
+Let `\((X,\ast)\)` be an [algebraic structure][bookofproofs$342]. If `$X$` has an element `$e\in X$` with 
 
 * `\(e\ast x=x\)` for all `\(x\in (X,\ast)\)`, then `$e$` is called *left-neutral* (or *left-identity*, or *left-unit*)
 * `\(x\ast e=x\)` for all `\(x\in (X,\ast)\)`, then `$e$` is called *right-neutral* (or *right-identity*, or *right-unit*).  
@@ -23,5 +23,5 @@ If `$e$` is both, left-neutral and right-neutral, then it is called **neutral** 
 
 ### Notes
 
-* If `$"\ast"$` is an "multiplication" operation, we can also say **multiplicative neutral element** and denote `$e$` by `$1.$` 
-* If `$"\ast"$` is an "addition" operation, we can also say **additive neutral element** and denote `$e$` by `$0.$`
+* If "`$\ast$`" is an "multiplication" operation, we can also say **multiplicative neutral element** and denote `$e$` by `$1$`.
+* If "`$\ast$`" is an "addition" operation, we can also say **additive neutral element** and denote `$e$` by `$0$`.

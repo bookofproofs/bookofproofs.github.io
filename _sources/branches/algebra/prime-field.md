@@ -15,4 +15,4 @@ contributors: bookofproofs
 
 ---
 
-A **prime field** `$(P, + ,\cdot)$` is a [field][bookofproofs$557]which does not contain any proper [subfields][bookofproofs$887] Formally, if `$(F, + ,\cdot)$` is a  [field][bookofproofs$557], then `$P$` is  the [algebraic structure][bookofproofs$342] defined by `$$P:=\bigcap_{S\subset F,\;S\text{ subfield of }F}S.$$`
+A **prime field** `$(P, + ,\cdot)$` is a [field][bookofproofs$557] which does not contain any proper [subfields][bookofproofs$887]. Formally, if `$(F, + ,\cdot)$` is a  [field][bookofproofs$557], then `$P$` is  the [algebraic structure][bookofproofs$342] defined by `$$P:=\bigcap_{S\subset F,\;S\text{ subfield of }F}S.$$`

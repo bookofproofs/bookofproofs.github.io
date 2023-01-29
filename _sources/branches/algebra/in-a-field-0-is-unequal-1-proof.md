@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-* By hypothesis, `$(F,+,\cdot)$` is a [field][bookofproofs$557]
+* By hypothesis, `$(F,+,\cdot)$` is a [field][bookofproofs$557].
 * Suppose, `$0=1$`.
    * Take `$x\in F$` with `$x\neq 0$`[^1].
    * Because `$0$` is the [neutral element of addition][bookofproofs$661] in `$F$`, `$1$` is its additive inverse, i.e. `$1-0=0.$`

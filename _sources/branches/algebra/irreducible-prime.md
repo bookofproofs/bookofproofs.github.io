@@ -14,8 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\((R, +,\cdot)\)` be an [integral domain][bookofproofs$821] 
-
+Let `\((R, +,\cdot)\)` be an [integral domain][bookofproofs$821].
 An element `$p\in R$` is called a **prime** element of `$R$`, if and only if
 
 * `$p\neq 0,$` and

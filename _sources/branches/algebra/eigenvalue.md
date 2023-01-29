@@ -14,4 +14,4 @@ contributors:
 
 ---
 
-Let `\(F\)` be a [field][bookofproofs$557], and let `\(V\)` be a [vector space][bookofproofs$560] over `\(F\)` and let `\(\varphi \colon V\longrightarrow V\,\)` be a [linear function][bookofproofs$403] An element `\(\lambda \in F\)` is called an **eigenvalue** of `\(\varphi \)`, if there exist a [vector][bookofproofs$560] `\(v\in V\)`, `\(v\neq 0\)` with `\[\varphi (v)=\lambda v.\]`
+Let `\(F\)` be a [field][bookofproofs$557], and let `\(V\)` be a [vector space][bookofproofs$560] over `\(F\)` and let `\(\varphi \colon V\longrightarrow V\,\)` be a [linear function][bookofproofs$403]. An element `\(\lambda \in F\)` is called an **eigenvalue** of `\(\varphi \)`, if there exist a [vector][bookofproofs$560] `\(v\in V\)`, `\(v\neq 0\)` with `\[\varphi (v)=\lambda v.\]`

@@ -10,7 +10,7 @@ keywords: algebra,algebraic structure,algebras,algebraic structures,define algeb
 contributors: bookofproofs
 
 ---
-Please note that the concept of a [binary operation][bookofproofs$6188] can be derived from the [set theory][bookofproofs$27] It is a [function][bookofproofs$592], which is a special type of a [relation][bookofproofs$571] On the other hand, a relation is a [subset][bookofproofs$552] of the [Cartesian product][bookofproofs$748] `$X\times X.$`  In the following, we define _algebraic structures_ and also derive this concept directly from the set theory:
+Please note that the concept of a [binary operation][bookofproofs$6188] can be derived from the [set theory][bookofproofs$27]. It is a [function][bookofproofs$592], which is a special type of a [relation][bookofproofs$571]. On the other hand, a relation is a [subset][bookofproofs$552] of the [Cartesian product][bookofproofs$748] `$X\times X.$`  In the following, we define _algebraic structures_ and also derive this concept directly from the set theory:
 
 ---
 

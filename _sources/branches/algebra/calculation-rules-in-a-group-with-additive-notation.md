@@ -44,7 +44,7 @@ And for negative integers `$-n$`:
 
 > But you have to be very cautious! 
 
-Note that the dot sign `$[\cdot"$` in `$n\cdot x$` does not (!) mean that we _multiply_ the integer `$n$` by a group element `$x$`. It only means that we introduce a shorter notation for adding `$n$` times the element `$x\in G$` to each other. That is also the reason why it makes sense to set the result to the "neutral element][bookofproofs$661] `$e\in G$` in the case `$n=0,$` since we add "none" to each other.
+Note that the dot sign "`$\cdot$`" in `$n\cdot x$` does not (!) mean that we _multiply_ the integer `$n$` by a group element `$x$`. It only means that we introduce a shorter notation for adding `$n$` times the element `$x\in G$` to each other. That is also the reason why it makes sense to set the result to the [neutral element][bookofproofs$661] `$e\in G$` in the case `$n=0,$` since we add "none" to each other.
 
 For the sake of completeness, we want to reformulate the [exponentiation rules][bookofproofs$676] and translate them into the additive notation for groups:
 
@@ -68,4 +68,4 @@ Please note that the exponentiation rules - written down in the additive notatio
 
 There is no distributivity rule for groups since in a group only one operation is defined - but for distributivity, we need two: addition and multiplication. Remember, and this is only a repetition of what has been said above: `$n\cdot x$` does _not_ mean that we multiply an integer `$n$` by the group element `$x.$` It only means that we add `$x\in G$`  `$n$` times to each other.
 
-The reason, why we haven't chosen the additive notation for introducing these calculation rules is that if you are a beginning student of group theory, there is a danger of confusing the operation sign `$"\cdot"$` in `$n\cdot x$` with the group operation, which is only the addition `$(G, +).$`
+The reason, why we haven't chosen the additive notation for introducing these calculation rules is that if you are a beginning student of group theory, there is a danger of confusing the operation sign "`$\cdot$`" in `$n\cdot x$` with the group operation, which is only the addition `$(G, +).$`

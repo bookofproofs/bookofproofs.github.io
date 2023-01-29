@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-[Matrices][bookofproofs$1048] and [vectors][bookofproofs$560] are interesting mathematical objects on their own. They are frequently used in the linear algebra in many other mathematical disciplines. While we will study their properties later in more detail, in this section we shall limit ourselves to some basic definitions and notations needed to proceed with our study of [systems of linear equations][bookofproofs$1044]
+[Matrices][bookofproofs$1048] and [vectors][bookofproofs$560] are interesting mathematical objects on their own. They are frequently used in the linear algebra in many other mathematical disciplines. While we will study their properties later in more detail, in this section we shall limit ourselves to some basic definitions and notations needed to proceed with our study of [systems of linear equations][bookofproofs$1044].

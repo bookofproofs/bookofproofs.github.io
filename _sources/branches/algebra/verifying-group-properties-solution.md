@@ -16,4 +16,4 @@ contributors: bookofproofs
 
 * Show the [associativity][bookofproofs$668] of the operation `$"\ast".$`
 * Show the existence of a [neutral element][bookofproofs$661] in `$e\in G$` with respect to `$"\ast".$`
-* For an arbitrary elements of `$a\in G,$` demonstrate the existence of an [inverse element][bookofproofs$670]
+* For an arbitrary elements of `$a\in G,$` demonstrate the existence of an [inverse element][bookofproofs$670].

@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-### `$"\Rightarrow"$`
+### "`$\Rightarrow$`"
 
 * Assume, `$ac=bc.$`
 * Because of the [distributivity law in rings][bookofproofs$683], it follows `$(a-b)c=0.$`
@@ -22,7 +22,7 @@ contributors: bookofproofs
 * Therefore `$a-b=0.$`
 * This is equivalent to `$a=b.$`
 
-### `$"\Leftarrow"$`
+### "`$\Leftarrow$`"
 
 * Assume, `$a=b.$`
 * Multiplication by `$c$` gives us `$ac=bc.$`

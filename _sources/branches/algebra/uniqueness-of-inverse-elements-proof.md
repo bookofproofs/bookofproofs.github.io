@@ -16,6 +16,6 @@ contributors: bookofproofs
 
 * By hypothesis, `$x\in X$` has at least one [inverse element][bookofproofs$670] `$y\in X.$`
 * Let `$z\in X$` be another inverse element of `$x.$`
-* By definition of inverse elements, we have `$x\ast y=y\ast x=e$` and `$x\ast z=z\ast x=e,$` where `$e$` is the [unique neutral element][bookofproofs$669] 
-* Since `$[\ast"$` is an "associative][bookofproofs$668], it follows `$z=z\ast e=z\ast(x\ast y)=(z\ast x)\ast y=e\ast y=y.$`
+* By definition of inverse elements, we have `$x\ast y=y\ast x=e$` and `$x\ast z=z\ast x=e,$` where `$e$` is the [unique neutral element][bookofproofs$669].
+* Since "`$\ast$`" is an [associative][bookofproofs$668], it follows `$z=z\ast e=z\ast(x\ast y)=(z\ast x)\ast y=e\ast y=y.$`
 * Therefore, `$y$` is unique.

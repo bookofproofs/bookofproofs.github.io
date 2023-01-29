@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-So far, we have dealt with [vectors][bookofproofs$7943]  in the context of solving [linear equations][bookofproofs$138] Before we continue our applications of vectors, it makes sense to pause dealing with applications and take a look at vectors from a higher perspective. It is necessary to learn more about one of the most important algebraic structures in mathematics strongly linked to vectors, called **vector spaces** and which we will now define formally.
+So far, we have dealt with [vectors][bookofproofs$7943]  in the context of solving [linear equations][bookofproofs$138]. Before we continue our applications of vectors, it makes sense to pause dealing with applications and take a look at vectors from a higher perspective. It is necessary to learn more about one of the most important algebraic structures in mathematics strongly linked to vectors, called **vector spaces** and which we will now define formally.

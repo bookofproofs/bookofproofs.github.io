@@ -24,8 +24,7 @@ We only provide a sketch of a proof:
 
 ### ad `\((2)\)` 
 
-* This follows immediately from the [lemma about prime ideals of multiplicative systems in integral domains][bookofproofs$6244]
-
+* This follows immediately from the [lemma about prime ideals of multiplicative systems in integral domains][bookofproofs$6244].
 ### ad `\((3)\)` 
 
 * Note that for any prime ideal `\({J}\)` and an element `\(f\in R\)` we have `\(f\not \in {J}\)` if and only if `\({J}\)` is disjoint to the [multiplicative system][bookofproofs$6234] `\(\left\{f^{n}{|}\,n\in \mathbb {N} \right\}\)`.

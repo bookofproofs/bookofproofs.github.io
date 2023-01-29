@@ -14,7 +14,7 @@ Similar to the introduced matrices, in the following definition, we introduce th
 
 ---
 
-Let `$n\ge 1$` be a [natural number][bookofproofs$718] A **column vector** (or just **vector**) with `$n$` field elements is a [matrix][bookofproofs$1048] over a [field][bookofproofs$557] `$F$` with just one column and many rows, i.e. an element of `$M_{m\times 1}(F):$`
+Let `$n\ge 1$` be a [natural number][bookofproofs$718]. A **column vector** (or just **vector**) with `$n$` field elements is a [matrix][bookofproofs$1048] over a [field][bookofproofs$557] `$F$` with just one column and many rows, i.e. an element of `$M_{m\times 1}(F):$`
 
 `$$v=\pmatrix{\alpha_1\\\vdots\\\alpha_m}$$`
 

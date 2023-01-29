@@ -14,8 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\(\mathcal C\)` be a [family][bookofproofs$6198] of  [convex][bookofproofs$6287] [subsets][bookofproofs$552] `\(C\)` of an [`\(n\)`-dimensional][bookofproofs$6281] [affine space][bookofproofs$6277] `\(\mathcal A=(A,V_A,v)\)` with `\(V_A\)` as the associated [vector space][bookofproofs$560] over the field `\(\mathbb R\)` of [real numbers][bookofproofs$6194]
-
+Let `\(\mathcal C\)` be a [family][bookofproofs$6198] of  [convex][bookofproofs$6287] [subsets][bookofproofs$552] `\(C\)` of an [`\(n\)`-dimensional][bookofproofs$6281] [affine space][bookofproofs$6277] `\(\mathcal A=(A,V_A,v)\)` with `\(V_A\)` as the associated [vector space][bookofproofs$560] over the field `\(\mathbb R\)` of [real numbers][bookofproofs$6194].
 Take two points `\(P,Q\)` from the [intersection][bookofproofs$552] `\(\bigcap\mathcal C\)`.
 
 By definition of set intersection, for all `\(C\in\mathcal C\)` we have that `\(P,Q\in C\)`.

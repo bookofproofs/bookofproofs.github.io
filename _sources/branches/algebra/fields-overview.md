@@ -18,7 +18,7 @@ contributors: bookofproofs
 In this chapter, we will introduce the _field_ as a very important algebraic structure. Like it was the case in rings, a field has two different [binary operations][bookofproofs$6188], usually referred to as "addition" and "multiplication". The following tabular overview indicates the properties of a field in comparison to previous algebraic structures:
 
 
-Algebra `$(X,\ast)$`  | [Closure][bookofproofs$1103] | [Associativity][bookofproofs$668] | [Neutral Element][bookofproofs$661] | [Existence of Inverse][bookofproofs$670] | [Cancellation][bookofproofs$837] | [Commutativity][bookofproofs$672] | [Distributivity][bookofproofs$682]
+Algebra `$(X,\ast)$`  | [Closure][bookofproofs$1103] | [Associativity][bookofproofs$668] | [Neutral Element][bookofproofs$661] | [Existence of Inverse][bookofproofs$670] | [Cancellation][bookofproofs$837] | [Commutativity][bookofproofs$672] | [Distributivity][bookofproofs$682].
 :------------- |:------------- |:------------- |:------------- |:------------- |:------------- |:------------- |:-------------
  [Magma][bookofproofs$836]| ✔| (✔)| (✔)| (✔)| (✔)| (✔)| n/a
  [Semigroup][bookofproofs$660]| ✔| ✔| (✔)| (✔)| (✔)| (✔)| n/a

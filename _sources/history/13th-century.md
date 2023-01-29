@@ -48,7 +48,7 @@ _(no contents provided yet)_
 
 ### 1235
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Llull/">Ramon Llull</a>
-: A Majorcan philosopher whose logical methods influenced Leibniz.
+: A Majorcan philosopher whose logical methods influenced <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Leibniz/">Gottfried Wilhelm von Leibniz</a>.
 
 ### 1236
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Tibbon/">Jacob ben Machir ibn Tibbon</a>
@@ -83,5 +83,5 @@ _(no contents provided yet)_
 
 ### 1295
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bradwardine/">Thomas Bradwardine</a>
-: An English mathematician and theologian who examined Aristotle's theories of dynamics.
+: An English mathematician and theologian who examined <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Aristotle/">Aristotle</a>'s theories of dynamics.
 

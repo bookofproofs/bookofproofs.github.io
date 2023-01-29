@@ -23,8 +23,7 @@ contributors: bookofproofs
 ### Ad 2)
 
 * The element `\(x^{-1}\)` has the inverse elements `\((x^{-1})^{-1}\)` and `\(x\)`, respectively.
-* Both must be identical, since [inverse element are unique][bookofproofs$359]
-
+* Both must be identical, since [inverse element are unique][bookofproofs$359].
 ### Ad 3)
 
 * `\(a^{-1}\ast b\)` _is_ the solution of `\(a\ast x=b\)`, since `\(a\ast (a^{-1}\ast b)=(a\ast a^{-1})\ast b=e\ast b=b\)` for all `\(a,b\in G\)`. 
@@ -72,7 +71,7 @@ e\ast(x\ast y)^{-1}&=&y^{-1}\ast x^{-1}\\
 
 ### Ad 7)
 
-* `$[\ast"$` is "associative][bookofproofs$668] by definition of a [group][bookofproofs$671] (a group is a monoid, which is a semigroup, which is associative)
+* "`$\ast$`" is [associative][bookofproofs$668] by definition of a [group][bookofproofs$671] (a group is a monoid, which is a semigroup, which is associative)
 * Therefore, we can apply the [general associative law][bookofproofs$540] we have already proven for any associative algebraic structure.
 
 ### Ad 8) 

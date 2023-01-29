@@ -14,4 +14,4 @@ contributors:
 
 ---
 
-Let `\(R\)` be an [integral domain][bookofproofs$821] and let `\(S\subseteq R\)` be its [multiplicative system][bookofproofs$6234] If `\(I\)` is a [prime ideal][bookofproofs$6240] of `\(R_S\)`, then it is also a prime ideal of `\(R\)` such that `\(S\cap I=\emptyset\)`.
+Let `\(R\)` be an [integral domain][bookofproofs$821] and let `\(S\subseteq R\)` be its [multiplicative system][bookofproofs$6234]. If `\(I\)` is a [prime ideal][bookofproofs$6240] of `\(R_S\)`, then it is also a prime ideal of `\(R\)` such that `\(S\cap I=\emptyset\)`.

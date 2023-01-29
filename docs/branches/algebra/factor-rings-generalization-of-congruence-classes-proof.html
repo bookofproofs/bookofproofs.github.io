@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -50,7 +49,7 @@
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/factor-rings-generalization-of-congruence-classes.html'>Lemma: Factor Rings, Generalization of Congruence Classes</a>)</p>
 <p>We will show the lemma in five steps, by proving the existence of an additive group \((R/I,\oplus)\), introducing a multiplication operation "\(\odot\)",  and proving the ring properties of the resulting algebraic structure \((R/I,\oplus,\odot)\). </p>
 <h3>\((1)\) Existence of the additive group \((R/I,\oplus)\)</h3>
-<p>By hypothesis, \(I\lhd R\) is an <a href="https://bookofproofs.github.io/branches/algebra/ideal.html">ideal</a> of the <a href="https://bookofproofs.github.io/branches/algebra/ring.html">ring</a> \( ( R, + ,\cdot )\). Thus, by definition of any ideal, \( ( I, + )\) is a subgroup of the additive group \((R, + )\). Moreover, since \( ( R, + ,\cdot )\) is a ring, the group \((R,+)\) and its subgroup \((I , + )\) are commutative. Therefore, \((I , + )\) is a <a href="https://bookofproofs.github.io/branches/algebra/normal-subgroups.html">normal subgroup</a> of \((R , + )\). According to the corresponding lemma, there exists an (here additive) <a href="https://bookofproofs.github.io/branches/algebra/factor-groups.html">factor group</a> \((R/I ,\oplus)\), while the addition "\(\oplus\)" is defined by </p>
+<p>By hypothesis, \(I\lhd R\) is an <a href="https://bookofproofs.github.io/branches/algebra/ideal.html" title="Definition: Ideal">ideal</a> of the <a href="https://bookofproofs.github.io/branches/algebra/ring.html" title="Definition: (Unit) Ring">ring</a> \( ( R, + ,\cdot )\). Thus, by definition of any ideal, \( ( I, + )\) is a subgroup of the additive group \((R, + )\). Moreover, since \( ( R, + ,\cdot )\) is a ring, the group \((R,+)\) and its subgroup \((I , + )\) are commutative. Therefore, \((I , + )\) is a <a href="https://bookofproofs.github.io/branches/algebra/normal-subgroups.html" title="Definition: Normal Subgroups">normal subgroup</a> of \((R , + )\). According to the corresponding lemma, there exists an (here additive) <a href="https://bookofproofs.github.io/branches/algebra/factor-groups.html" title="Lemma: Factor Groups">factor group</a> \((R/I ,\oplus)\), while the addition "\(\oplus\)" is defined by </p>
 <p>\[(r_1 + I)\oplus(r_2+I):=(r_1 +  r_2)+I\quad\quad(r_1,r_2\in R).\]</p>
 <p>According to this lemma, the operation "\(\oplus\)" is well-defined, because it does not depend on the particular choice of representatives \(r_1,r_2\). Also, the elements of \((R/I ,\oplus)\) are residue classes \(r+I~(r\in R)\), its identity element is \(I\). The inverse of an element \((r + I)\in R/I \) is \( (-r + I)\in R/I \).</p>
 <h3>\((2)\) the factor group \((R/I,\oplus)\) is Abelian</h3>
@@ -108,15 +107,14 @@ and
 <ol>
 <li><strong>Kramer Jürg, von Pippich, Anna-Maria</strong>: "Von den natürlichen Zahlen zu den Quaternionen", Springer-Spektrum, 2013</li>
 </ol>
-<h4>Footnotes</h4>
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

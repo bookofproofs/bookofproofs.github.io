@@ -24,7 +24,7 @@ To improve the readability, in our proof we write `\(ab\)` instead of `\(a\cdot 
 
 ### Step 1: Construct `\((F, \ast , \circ)\)` as a non-empty set with two binary operations: addition "`\( \ast \)`" and multiplication "`\( \circ \)`"
 
-By assumption, `\((R, +, \cdot)\)` is an [integral domain][bookofproofs$821] As a first step, we define an [equivalence relation][bookofproofs$574] on the [cartesian product][bookofproofs$748] `\(R\times (R\setminus\{0\})=\{(a,b)~|~a\in R,b\in R\setminus\{0\}\}\)` as follows:
+By assumption, `\((R, +, \cdot)\)` is an [integral domain][bookofproofs$821]. As a first step, we define an [equivalence relation][bookofproofs$574] on the [cartesian product][bookofproofs$748] `\(R\times (R\setminus\{0\})=\{(a,b)~|~a\in R,b\in R\setminus\{0\}\}\)` as follows:
 
 `$$(a,b)\sim (c,d)\Leftrightarrow ad=bc,~~~~~~(a,c\in R;~b,d\in R\setminus\{0\}).$$`
 
@@ -178,7 +178,7 @@ f(a)=f(b)&\Leftrightarrow&\lbrack ax,x\rbrack =\lbrack bx,x\rbrack \\
 &\Rightarrow&a\cancel{x^2}=b\cancel{x^2}~~~~~~~~~\text{ note that we can cancel by }x\neq 0!\\
 &\Rightarrow&a=b\\
 \end{array}.$$`
-Since `\(f\)` is both, surjective and injective, it is [bijective][bookofproofs$771]
+Since `\(f\)` is both, surjective and injective, it is [bijective][bookofproofs$771].
 * `\(f\)` is also a [ring homomorphism][bookofproofs$885], since we have
 `$$\begin{array}{ccl}
 f(a+b)&=&\lbrack (a + b)x,x\rbrack \\

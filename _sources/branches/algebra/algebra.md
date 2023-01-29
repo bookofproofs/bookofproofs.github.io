@@ -14,12 +14,11 @@ contributors: bookofproofs
 
 ---
 
-_Algebra_ is a discipline of mathematics dealing with _sets_ (see [set theory][bookofproofs$27]), which are structured by one or more [binary operations][bookofproofs$6188] While studying these so-called _algebraic structures_ (i.e. _groups_, _rings_, _fields_, _modules_, and _vector spaces_), algebra provides means to find solutions of _equations_ and _systems of equations_ formulated inside these structures. 
+_Algebra_ is a discipline of mathematics dealing with _sets_ (see [set theory][bookofproofs$27]), which are structured by one or more [binary operations][bookofproofs$6188]. While studying these so-called _algebraic structures_ (i.e. _groups_, _rings_, _fields_, _modules_, and _vector spaces_), algebra provides means to find solutions of _equations_ and _systems of equations_ formulated inside these structures. 
 
 ### Theoretical minimum (in a nutshell)
 
-You should be acquainted with [set theory][bookofproofs$27], especially the [set operations][bookofproofs$7986] and basics about [functions][bookofproofs$64]
-
+You should be acquainted with [set theory][bookofproofs$27], especially the [set operations][bookofproofs$7986] and basics about [functions][bookofproofs$64].
 ### Concepts you will learn in this part of <strong><span style='color:orange'>Bookof</span><span style='color:lightblue'>Proofs</span></strong>
 
 * What are _groups_, which are their properties and applications?

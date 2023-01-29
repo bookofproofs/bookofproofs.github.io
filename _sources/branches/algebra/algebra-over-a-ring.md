@@ -14,4 +14,4 @@ contributors:
 
 ---
 
-Let `\((R, +,\cdot)\)` and `\((S,\ast,\circ)\)` be [commutative rings][bookofproofs$880] and let `\(f:R\rightarrow S\)` be a fixed [ring homomorphism][bookofproofs$885] Then `\(S\)` is called an *`\(R\)`-algebra* or an **algebra over the ring** `\(R\)`.
+Let `\((R, +,\cdot)\)` and `\((S,\ast,\circ)\)` be [commutative rings][bookofproofs$880] and let `\(f:R\rightarrow S\)` be a fixed [ring homomorphism][bookofproofs$885]. Then `\(S\)` is called an *`\(R\)`-algebra* or an **algebra over the ring** `\(R\)`.

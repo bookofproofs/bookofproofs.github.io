@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-Let `$(G,\ast)$` be a [finite group][bookofproofs$8071] with `$|G|=p$` where `$p$` is a [prime number][bookofproofs$473] Then `$G$` is [isomorphic][bookofproofs$412] to the [additive subgroup of integers][bookofproofs$8268] `$(\mathbb Z_p,+).$`
+Let `$(G,\ast)$` be a [finite group][bookofproofs$8071] with `$|G|=p$` where `$p$` is a [prime number][bookofproofs$473]. Then `$G$` is [isomorphic][bookofproofs$412] to the [additive subgroup of integers][bookofproofs$8268] `$(\mathbb Z_p,+).$`

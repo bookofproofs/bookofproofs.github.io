@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `$V$` be a [vector space][bookofproofs$560] over the [field][bookofproofs$557] `$F.$` Since, by definition, all vectors `$x\in V$` form an [Abelian group][bookofproofs$553], the statements 1 to 8 follow immediately as a [corollary from the group axioms][bookofproofs$555] The statements 9 to 12 remain to be shown.
+Let `$V$` be a [vector space][bookofproofs$560] over the [field][bookofproofs$557] `$F.$` Since, by definition, all vectors `$x\in V$` form an [Abelian group][bookofproofs$553], the statements 1 to 8 follow immediately as a [corollary from the group axioms][bookofproofs$555]. The statements 9 to 12 remain to be shown.
 
 ### Ad 9)
 

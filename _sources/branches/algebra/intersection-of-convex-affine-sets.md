@@ -14,6 +14,5 @@ contributors: bookofproofs
 
 ---
 
-Let `\(\mathcal C\)` be a [family][bookofproofs$6198] of  [convex][bookofproofs$6287] [subsets][bookofproofs$552] `\(C\)` of an [`\(n\)`-dimensional][bookofproofs$6281] [affine space][bookofproofs$6277] `\(\mathcal A=(A,V_A,v)\)` with `\(V_A\)` as the associated [vector space][bookofproofs$560] over the field `\(\mathbb R\)` of [real numbers][bookofproofs$6194]
-
+Let `\(\mathcal C\)` be a [family][bookofproofs$6198] of  [convex][bookofproofs$6287] [subsets][bookofproofs$552] `\(C\)` of an [`\(n\)`-dimensional][bookofproofs$6281] [affine space][bookofproofs$6277] `\(\mathcal A=(A,V_A,v)\)` with `\(V_A\)` as the associated [vector space][bookofproofs$560] over the field `\(\mathbb R\)` of [real numbers][bookofproofs$6194].
 It follows immediately from the [definition of convex affine sets][bookofproofs$6287] that any [intersection][bookofproofs$552] of convex sets `\(\bigcap \mathcal C\)` is again convex.

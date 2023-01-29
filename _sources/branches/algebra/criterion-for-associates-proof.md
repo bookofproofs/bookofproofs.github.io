@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-### `$"\Rightarrow"$`
+### "`$\Rightarrow$`"
 
 * Assume, `$a,b\in R$` are [associates][bookofproofs$8260] `$a\sim b.$`
 * By definition, `$a\mid b$` and `$b\mid a.$`
@@ -24,7 +24,7 @@ contributors: bookofproofs
 * If `$a=0$` then `$b=0$` and, trivially, `$a=cb$` for some  `$c\in R^\ast,$` ($(R^\ast,\cdot)$ being the [group of units][bookofproofs$8283]).
 * If `$a\neq 0$` then `$cd=1$` but then `$c$` is a [unit][bookofproofs$8259], therefore `$c\in R^\ast,$` and again `$a=cb.$`
 
-### `$"\Leftarrow"$`
+### "`$\Leftarrow$`"
 
 * Let `$a=cb$` with `$c$` being a unit.
 * Therefore, `$b\mid a.$`

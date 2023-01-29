@@ -47,10 +47,9 @@ The first step might involve the following steps:
 
 The Gaussian method makes use of the lemma that [the elementary Gaussian operations do not change the set of solutions][bookofproofs$7953] of the system `$( * ).$` Thus, the solution to `$( * * )$` found in the second step is also a solution to `$( * ).$`
 
-[^1]: If so, we have the case [discussed in this example][bookofproofs$7946]
-
+[^1]: If so, we have the case [discussed in this example][bookofproofs$7946].
 [^2]: In the system `$( * * )$` we have used the Latin notation `$a,b$` instead of the Greek notation `$\alpha, \gamma$` to indicate that these elements might be different from the original system `$( * )$` after having applied the elementary Gaussian operations.
 
 [^3]: When implementing the algorithm for the computer, one should choose the row `$i$` with the maximal absolute value of `$\alpha_{i1}$` to make the algorithm numerically stable.
 
-[^4]: As we have seen in [this example][bookofproofs$7948]
+[^4]: As we have seen in [this example][bookofproofs$7948].

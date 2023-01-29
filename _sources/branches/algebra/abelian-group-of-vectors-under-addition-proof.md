@@ -15,4 +15,4 @@ contributors: bookofproofs
 ---
 
 * By definition, the set of [(column) vectors][bookofproofs$7943] `$F^n$` is identical with the set of all single-column [matrices][bookofproofs$1048] `$M_{m\times n}(F)$` over a [field][bookofproofs$557] `$F$`. 
-* Therefore, the proof follows immediately from the proof of the [corresponding proposition for matrices][bookofproofs$6734]
+* Therefore, the proof follows immediately from the proof of the [corresponding proposition for matrices][bookofproofs$6734].

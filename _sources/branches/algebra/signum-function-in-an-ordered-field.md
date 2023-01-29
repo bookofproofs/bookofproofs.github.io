@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `$(F,+,\cdot)$` be an [ordered field][bookofproofs$6192] The **signum** `$\operatorname{sign}:F\to F$` is a [function][bookofproofs$592] defined for all `$x\in F$` by `$$\operatorname{sign}(x):=\begin{cases}
+Let `$(F,+,\cdot)$` be an [ordered field][bookofproofs$6192]. The **signum** `$\operatorname{sign}:F\to F$` is a [function][bookofproofs$592] defined for all `$x\in F$` by `$$\operatorname{sign}(x):=\begin{cases}
 1&\text{if }x > 0,\\
 0&\text{if }x = 0,\\
 -1&\text{if }x < 0,\\

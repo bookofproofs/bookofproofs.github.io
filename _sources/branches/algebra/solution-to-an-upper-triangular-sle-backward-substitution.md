@@ -16,8 +16,7 @@ contributors: bookofproofs
 
 ### Introductory Example
 
-In this example, the [extended coefficient matrix][bookofproofs$7941] contains an [upper triangular matrix][bookofproofs$1053]
-
+In this example, the [extended coefficient matrix][bookofproofs$7941] contains an [upper triangular matrix][bookofproofs$1053].
 `$$\left(\begin{array}{ccccccc|c}\alpha_{11}& \alpha_{12}&\ldots&\alpha_{1r}&\alpha_{1,r+1}&\ldots&\alpha_{1n}&\beta_1\\
 0& \alpha_{22}&\ldots&\alpha_{2r}&\alpha_{2,r+1}&\ldots&\alpha_{2n}&\beta_2\\
 \vdots&\vdots&\ddots&\vdots&\vdots&\vdots&\vdots&\vdots\\

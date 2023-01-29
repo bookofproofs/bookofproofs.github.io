@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `$F$` be a [field][bookofproofs$557] A **diagonal matrix** is a [square matrix][bookofproofs$1056] of the form
+Let `$F$` be a [field][bookofproofs$557]. A **diagonal matrix** is a [square matrix][bookofproofs$1056] of the form
 
 `\[
 \pmatrix{

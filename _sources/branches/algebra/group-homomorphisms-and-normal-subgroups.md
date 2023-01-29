@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-Let `\(f:(G,\ast)\mapsto (H,\cdot)\)` a [group homomorphism][bookofproofs$679] Then the [kernel][bookofproofs$809] `\(\ker(f)\)` is a [normal subgroup][bookofproofs$273] of `\(G\)`, i.e. `\(\ker(f)\unlhd G\)`.
+Let `\(f:(G,\ast)\mapsto (H,\cdot)\)` a [group homomorphism][bookofproofs$679]. Then the [kernel][bookofproofs$809] `\(\ker(f)\)` is a [normal subgroup][bookofproofs$273] of `\(G\)`, i.e. `\(\ker(f)\unlhd G\)`.

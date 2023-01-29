@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-A [homomorphism][bookofproofs$364] `$f:G\to H$` between the [algebraic structures][bookofproofs$342] `$(G,\ast)$` and `$(H,\cdot)$` is called a **monomorphism**, if `$f$` is [surjective][bookofproofs$770]
+A [homomorphism][bookofproofs$364] `$f:G\to H$` between the [algebraic structures][bookofproofs$342] `$(G,\ast)$` and `$(H,\cdot)$` is called a **monomorphism**, if `$f$` is [surjective][bookofproofs$770].

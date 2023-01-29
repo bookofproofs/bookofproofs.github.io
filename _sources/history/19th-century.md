@@ -106,8 +106,8 @@ _(no contents provided yet)_
 : An Irish astronomer and mathematician who discovered the quaternions.
 
 ### 1806 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/De_Morgan/">Augustus De Morgan</a>
-: Augustus De Morgan became the first professor of mathematics at University College London and made important contributions to mathematics, e.g.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/De_Morgan/">De Morgan, Augustus</a>
+: Augustus De Morgan became the first professor of mathematics at University College London and made important contributions to logic and mathematics.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Minding/">Ernst Ferdinand Adolf Minding</a>
 : Ferdinand Minding worked in differential geometry and the theory of surfaces.
@@ -224,7 +224,7 @@ _(no contents provided yet)_
 ### 1815 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lovelace/">Ada Lovelace</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Boole/">George Boole</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Boole/">Boole, George</a>
 : George Boole approached logic in a new way reducing it to a simple algebra, incorporating logic into mathematics. He also worked on differential equations, the calculus of finite differences and general methods in probability.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Weierstrass/">Karl Theodor Wilhelm Weierstrass</a>
@@ -451,7 +451,7 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Wolstenholme/">Joseph Wolstenholme</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cantor_Moritz/">Moritz Cantor</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cantor_Moritz/">Cantor, Moritz Benedikt</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Ferrers/">Norman Macleod Ferrers</a>
 
@@ -530,7 +530,7 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/De_Forest/">Erastus Lyman De Forest</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Venn/">John Venn</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Venn/">Venn, John</a>
 : An English mathematician and logician best known for the Venn diagrams which can be used to visualise the unions and intersections of sets.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Jack_William/">William Jack</a>
@@ -659,7 +659,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Ball_Robert/">Robert Ball</a>
 
 ### 1841 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Schroder/">Ernst Schröder</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Schroder/">Schröder, Ernst</a>
+: A German mathematician who did important work is in the area of algebra, set theory and logic. His work on ordered sets and ordinal numbers is fundamental to the subject.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Laurent_Hermann/">Hermann Laurent</a>
 
@@ -767,8 +768,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Edgeworth/">Francis Ysidro Edgeworth</a>
 : An Irish-born statistician who examined correlation and methods of estimating correlation coefficients in a series of papers.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cantor/">Moritz Benedikt Cantor</a>
-: A German historian of mathematics.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cantor/">Cantor, Georg Ferdinand Ludwig Philipp</a>
+: A Russian-born mathematician who can be considered as the founder of set theory and introduced the concept of infinite numbers with his discovery of cardinal numbers. He also advanced the study of trigonometric series.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Darwin/">George Howard Darwin</a>
 : An English mathematician who was a son of Charles Darwin and studied the three-body-problem.
@@ -845,7 +846,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Weyr/">Emil Weyr</a>
 : Born in what is now the Czech Republic and worked in descriptive and projective geometry.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Frege/">Friedrich Ludwig Gottlob Frege</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Frege/">Frege, Friedrich Ludwig Gottlob</a>
 : A German mathematician who was one of the founders of modern symbolic logic putting forward the view that mathematics is reducible to logic.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bruns/">Ernst Heinrich Bruns</a>
@@ -1248,8 +1249,8 @@ _(no contents provided yet)_
 : Vito Volterra published papers on partial differential equations, particularly the equation of cylindrical waves. His most famous work was done on integral equations.
 
 ### 1861 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Whitehead/">Alfred North Whitehead</a>
-: A mathematician and philosopher who collaborated with Bertrand Russell on Principia Mathematica (1910-13).
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Whitehead/">Whitehead, Alfred North</a>
+: A mathematician and philosopher who collaborated with Bertrand Russell on _Principia Mathematica_ (1910-13).
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Burali-Forti/">Cesare Burali-Forti</a>
 : Discovery of a paradox resulting from the assumption that a set of all [ordinals][bookofproofs$723] could exist, named the [Burali-Forti paradox][bookofproofs$779].
@@ -1307,7 +1308,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kneser/">Adolf Kneser</a>
 : A German mathematician who wrote on integral equations.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hilbert/">Philbert Maurice d'Ocagne</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hilbert/">Hilbert, David</a>
+: Hilbert's work in geometry had the greatest influence in that area after Euclid. A systematic study of the axioms of Euclidean geometry led Hilbert to propose 21 such axioms and he analysed their significance. He made contributions in many areas of mathematics and physics.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Study/">Christian Hugo Eduard Study</a>
 : A German mathematician who became a leader in the geometry of complex numbers. He also worked on invariant theory.
@@ -1436,8 +1438,7 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Minkowski/">Hermann Minkowski</a>
 : Minkowski developed a new view of space and time and laid the mathematical foundation of the theory of relativity.
-: develops [Spacetime diagrams][bookofproofs$6307]
-
+: develops [Spacetime diagrams][bookofproofs$6307].
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kurschak/">József Kürschák</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Schlesinger/">Ludwig Schlesinger</a>
@@ -1642,7 +1643,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bowley/">Arthur Bowley</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kagan/">Benjamin Fedorovich Kagan</a>
-: On Lobachevsky's geometry. In 1902 he proposed axioms and definitions very different from Hilbert. Kagan studied tensor differential geometry after going to Moscow because of an interest in relativity. He wrote a history of non-euclidean geometry and also a detailed biography of Lobachevsky. He edited Lobachevsky's complete works which appeared in five volumes between 1946 and 1951.
+: On Lobachevsky's geometry. In 1902 he proposed axioms and definitions very different from <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hilbert/">Hilbert</a>. Kagan studied tensor differential geometry after going to Moscow because of an interest in relativity. He wrote a history of non-euclidean geometry and also a detailed biography of Lobachevsky. He edited Lobachevsky's complete works which appeared in five volumes between 1946 and 1951.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Egorov/">Mikhail Egorovich Vashchenko-Zakharchenko</a>
 : Mikhail Vashchenko-Zakharchenko worked on the theory of linear differential equations, the theory of probability and non-euclidean geometry.
@@ -1743,8 +1744,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Russell_A_D/">Alexander Durie Russell</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Russell/">John Scott Russell</a>
-: A Scottish engineer and naval architect best known for his identification of a solitary wave: a precursor of today's solitons.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Russell/">Russell, Bertrand Arthur William</a>
+: In a long and varied career, Russell published a vast number of books on logic, theory of knowledge, and many other topics. His best known work was _Principia Mathematica_.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/MacMillan_Chrystal/">Chrystal Macmillan</a>
 
@@ -2192,7 +2193,7 @@ _(no contents provided yet)_
 : An Italian mathematician who worked on a large range of mathematical topics.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hellinger/">Ernst David Hellinger</a>
-: Hellinger introduced a new type of integral: the Hellinger integral . Jointly with Hilbert he produced an important theory of forms.
+: Hellinger introduced a new type of integral: the Hellinger integral. Jointly with <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hilbert/">Hilbert</a>, he produced an important theory of forms.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Terradas/">Esteban Terradas</a>
 

@@ -5,18 +5,18 @@ License | Abbreviation  | Reference
 :------------- | :------------- | :-------------
 bookofproofs$6925 | bookofproofs$626 | **Callahan, Daniel**: "Euclid’s 'Elements' Redux", http://starrhorse.com/euclid/, 2014
 bookofproofs$6920 | bookofproofs$627 | **Multiple Authors**: "Wikipedia", https://en.wikipedia.org/wiki/Main_Page, 2008
-bookofproofs$6921 | bookofproofs$628 | **Casey, John**: "The First Six Books of the Elements of Euclid", http://www.gutenberg.org/ebooks/21076, 2007
-bookofproofs$6921 | bookofproofs$691 | **Hilbert, David**: "The Foundations of Geometry", http://www.gutenberg.org/ebooks/17384, 1899, Reprint Edition
+bookofproofs$6921 | bookofproofs$628 | **Casey, John**: "The First Six Books of the Elements of Euclid", https://www.gutenberg.org/ebooks/21076, 2007
+bookofproofs$6921 | bookofproofs$691 | **Hilbert, David**: "The Foundations of Geometry", https://www.gutenberg.org/ebooks/17384, 1899, Reprint Edition
 bookofproofs$6921 | bookofproofs$6573 | **Heiberg, I.L, Menge H**: "Euclidis Opera Omnia", https://archive.org/details/euclidisoperaomn01eucluoft, 1883
-bookofproofs$6923 | bookofproofs$6419 | **Fitzpatrick, Richard**: "Euclid's Elements of Geometry", http://farside.ph.utexas.edu/Books/Euclid/Euclid.html, 2007
+bookofproofs$6923 | bookofproofs$6419 | **Fitzpatrick, Richard**: "Euclid's Elements of Geometry", https://farside.ph.utexas.edu/Books/Euclid/Euclid.html, 2007
 bookofproofs$6923 | bookofproofs$6909 | **O’Connor, John J; Robertson, Edmund F**: "MacTutor History  of Mathematics Archive", https://www-history.mcs.st-and.ac.uk/, 2014
 bookofproofs$6923 | bookofproofs$6910 | **Pattis, Richard**: "ICS-33: Intermediate Programming", https://www.ics.uci.edu/~pattis/ICS-33/lectures/complexitypython.txt, 2014
-bookofproofs$6923 | bookofproofs$6915 | **Huylebrouck, D.**: "Mathematics in (central) Africa before colonization", http://etopia.sintlucas.be/3.14/Ishango_meeting/Mathematics_Africa.pdf, 2006 
+bookofproofs$6923 | bookofproofs$6915 | **Huylebrouck, D.**: "Mathematics in (central) Africa before colonization", https://etopia.sintlucas.be/3.14/Ishango_meeting/Mathematics_Africa.pdf, 2006 
 bookofproofs$6923 | bookofproofs$6911 | **Burali-Forti, C.**: "Una questione sui numeri transfiniti", https://doi.org/10.1007/BF03015911, 1897, Rend. Circ. Matem. (1897) 11: 15
 bookofproofs$6923 | bookofproofs$6912 | **@pickover**: "Pizza Lovers", Twitter, 2017
 bookofproofs$6923 | bookofproofs$6914 | **Kauffman, L.**: "Virtual Knot Theory", https://sites.math.washington.edu/~reu/papers/2011/allison/VKT.pdf, 1999
-bookofproofs$6923 | bookofproofs$6917 | **Lawrence Lo.**: "Ancient Scripts", http://www.ancientscripts.com/sumerian.html, 1996
-bookofproofs$6923 | bookofproofs$6918 | **Einstein, A.**: "On the Electrodynamics of Moving Bodies", http://www.fourmilab.ch/etexts/einstein/specrel/specrel.pdf, 1905 
+bookofproofs$6923 | bookofproofs$6917 | **Lawrence Lo.**: "Ancient Scripts", https://www.ancientscripts.com/sumerian.html, 1996
+bookofproofs$6923 | bookofproofs$6918 | **Einstein, A.**: "On the Electrodynamics of Moving Bodies", https://www.fourmilab.ch/etexts/einstein/specrel/specrel.pdf, 1905 
 bookofproofs$6924 | bookofproofs$6907 | **Brenner, Prof. Dr. rer. nat., Holger**: "Various courses at the University of Osnabrück", https://de.wikiversity.org/wiki/Wikiversity:Hochschulprogramm, 2014 
 bookofproofs$6924 | bookofproofs$6908 | **Prime.mover and others**: "Pr∞fWiki", https://proofwiki.org/wiki/Main_Page, 2016
 bookofproofs$6926 | bookofproofs$6927 | **Carmichael, Robert**: "Diophantine Analysis", Jon Wiley 	&#38; Sons, Inc., 1915, 1st Edition

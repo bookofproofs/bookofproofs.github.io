@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\((R, + ,\cdot)\)` be a [ring][bookofproofs$683] A [subset][bookofproofs$552]  `\(S\subseteq R\)` is called a **subring**, if `\((S, + ,\cdot)\)` itself is a ring; or, equivalently[^1], if and only if for all `\(a,b\in S\)` the following conditions are fulfilled:
+Let `\((R, + ,\cdot)\)` be a [ring][bookofproofs$683]. A [subset][bookofproofs$552]  `\(S\subseteq R\)` is called a **subring**, if `\((S, + ,\cdot)\)` itself is a ring; or, equivalently[^1], if and only if for all `\(a,b\in S\)` the following conditions are fulfilled:
 
 * (S1) `\(a-b\in S\)`.
 * (S2) `\(a \cdot b\in S\)`.

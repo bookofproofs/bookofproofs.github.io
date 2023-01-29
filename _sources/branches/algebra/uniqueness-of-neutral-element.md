@@ -19,4 +19,4 @@ Let `$(X,\ast)$` be an [algebraic structure][bookofproofs$342] with at least one
 ### Notes
 
 * This proposition holds in all algebraic structures having a neutral element.
-* Thus, the proof is the same for [groups][bookofproofs$671], [unit rings][bookofproofs$683], and [fields][bookofproofs$557]
+* Thus, the proof is the same for [groups][bookofproofs$671], [unit rings][bookofproofs$683], and [fields][bookofproofs$557].

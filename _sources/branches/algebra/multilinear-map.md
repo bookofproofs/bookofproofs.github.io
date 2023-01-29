@@ -14,8 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\(F\)` be a [field][bookofproofs$557] and let `\(V_{1},\ldots ,V_{n}\)` and `\(W\)` be [vector spaces][bookofproofs$560] over `\(F\)`. A [map][bookofproofs$592]
-
+Let `\(F\)` be a [field][bookofproofs$557] and let `\(V_{1},\ldots ,V_{n}\)` and `\(W\)` be [vector spaces][bookofproofs$560] over `\(F\)`. A [map][bookofproofs$592].
 `\[\Phi \colon V_{1}\times \cdots \times V_{n}\longrightarrow W\,\]`
 
 is called a **multilinear map**, if for each `\(i\in \{1,\ldots ,n\}\)` and each `\((n-1)\)`-tuple `\((v_{1},\ldots ,v_{i-1},v_{i+1},\ldots ,v_{n})\)` with `\(v_{j}\in V_{j}\)`, the induced map

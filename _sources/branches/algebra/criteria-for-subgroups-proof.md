@@ -24,7 +24,7 @@ contributors: bookofproofs
 "`\(\Leftarrow\)`"
 
 * Assume `\(a\ast b^{-1}\in H\)` for all `\(a,b\in H\)`. 
-* If `\(a=b\)`, we have `\(b\ast b^{-1}=e\)`, which means `$e\in H$`, i.e. `$H$` contains the [neutral element][bookofproofs$669]
+* If `\(a=b\)`, we have `\(b\ast b^{-1}=e\)`, which means `$e\in H$`, i.e. `$H$` contains the [neutral element][bookofproofs$669].
 * If `\(a=e\)`, we have `\(e\ast b^{-1}=b^{-1}\)`, which means if `$b\in H$` then `$b^{-1}\in H$`, i.e. `$H$` contains with `$b$` also its [unique inverse element][bookofproofs$359]  `$b^{-1}.$`
 * If `\(a,b\in H\)`, then according to the above result, also `\(b^{-1}\in H\)`.
 * By assumption, `$a\ast(b^{-1})^{-1}=a\ast b\in H$`. 

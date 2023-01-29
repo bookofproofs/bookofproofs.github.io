@@ -14,7 +14,7 @@ contributors:
 
 ---
 
-Let `\((G,\circ)\)` be a [group][bookofproofs$671] and  let `\(M\)` be a [set][bookofproofs$550] A [function][bookofproofs$592] `\[\circ:\cases{G\times M\longrightarrow M,\cr (g,x)\longmapsto g\circ x},\]`
+Let `\((G,\circ)\)` be a [group][bookofproofs$671] and  let `\(M\)` be a [set][bookofproofs$550]. A [function][bookofproofs$592] `\[\circ:\cases{G\times M\longrightarrow M,\cr (g,x)\longmapsto g\circ x},\]`
 
 is called a *group operation (of `\(G\)` on `\(M\)`)*, if the following properties are fulfilled:
 

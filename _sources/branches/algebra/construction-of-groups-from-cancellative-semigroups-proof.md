@@ -25,7 +25,7 @@ contributors: bookofproofs
 Our proof will be comprised of 4 steps:
 
 * Step 1: Construct `\((G,\ast)\)` as a non-empty set with a binary operation "`\(\ast\)`"
-   * By assumption, `\((H,\circ)\)` is a [commutative][bookofproofs$672] and [cancellative][bookofproofs$837] [semigroup][bookofproofs$660] 
+   * By assumption, `\((H,\circ)\)` is a [commutative][bookofproofs$672] and [cancellative][bookofproofs$837] [semigroup][bookofproofs$660].
    * As a first step, we define an [equivalence relation][bookofproofs$574] on the [cartesian product][bookofproofs$748] `\(H\times H=\{(a,b)~|~a,b\in H\}\)` as follows:
 `\[(a,b)\sim (c,d)\Leftrightarrow a\circ d=b\circ c~~~(a,b,c,d\in H).\]`
    * Please note that this is indeed an equivalence relation, since it is reflexive, symmetric and transitive:
@@ -54,7 +54,7 @@ a\circ d\circ c\circ f&=&b\circ c\circ d\circ e\\
    * Therefore, we can define the operation `\(\ast\)` on `\(G\)` using _any_ representatives, e.g. the representatives `\((a,b)\)` and `\((c,d)\)` as we do in the following `$[a,b]\ast[c,d]:=[a\circ c,b\circ d].$`
    * Please note that `\(G\)` does contain equivalence classes suitable to define the above binary operation `$\ast,$` since `\(H\)` is not empty and so `\(G\)` is. 
    * Therefore, we have succeeded to define a non-empty set with a binary operation `\((G,\ast)\)`.
-* Step 2: Demonstrate that `\((G,\ast)\)` is a [commutative group][bookofproofs$553]
+* Step 2: Demonstrate that `\((G,\ast)\)` is a [commutative group][bookofproofs$553].
    * We will show that the operation `\(\ast\)` is associative and commutative and that `\(G\)` contains a unique identity as well as each of its elements has a unique inverse. 
    * By construction, the operation `\(\ast\)` is associative:
 `\[\begin{array}{rcl}([a,b]\ast[c,d])\ast[e,f]&=&([a\circ c,b\circ d])\ast[e,f]\\
@@ -87,7 +87,7 @@ f(a)=f(b)&\Leftrightarrow&[a\circ h,h]=[b\circ h,h]\\
 &\Rightarrow&a\circ \cancel{h^2}=b\circ \cancel{h^2}\\
 &\Rightarrow&a=b\\
 \end{array}.\]`
-Since `\(f\)` is both, surjective and injective, it is [bijective][bookofproofs$771]
+Since `\(f\)` is both, surjective and injective, it is [bijective][bookofproofs$771].
    * `\(f\)` is also a [homomorphism][bookofproofs$401], since we have
 `\[\begin{array}{ccl}
 f(a\circ b)&=&[(a\circ b)\circ h,h]\\

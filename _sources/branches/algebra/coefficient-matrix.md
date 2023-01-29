@@ -23,8 +23,7 @@ Let `\(F\)` be a [field][bookofproofs$557] and let
 \alpha_{m1}x_1+\ldots+\alpha_{mn}x_n&=&\beta_m\\
 \end{array}\quad\quad( * )\]`
 
-be an [SLE (system of linear equations) ][bookofproofs$1044]
-
+be an [SLE (system of linear equations) ][bookofproofs$1044].
 The can write the coefficients `\(\alpha_{ij}\in F\)`, `\(i=1,\ldots,n\)`, `\(j=1,\ldots,m\)` as a [matrix][bookofproofs$1048] and call it the **coefficient matrix** `$A$` of the SLE `$( * ):$`
 
 `$$A:=\pmatrix{\alpha_{11}& \ldots&\alpha_{1n}\\

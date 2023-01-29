@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\(f:(G,\ast)\mapsto (H,\cdot)\)` a [group homomorphism][bookofproofs$679] Then it follows that 
+Let `\(f:(G,\ast)\mapsto (H,\cdot)\)` a [group homomorphism][bookofproofs$679]. Then it follows that 
 
 1. The [kernel][bookofproofs$809] `\(\ker(f)\)` is a [subgroup][bookofproofs$554] of `\(G\)`.
 1. The [kernel][bookofproofs$809] `\(\ker(f)\)` is a [subgroup][bookofproofs$554] of `\(G\)`.

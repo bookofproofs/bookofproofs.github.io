@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -47,12 +46,12 @@
 <hr>
 
 <h1>Proposition: Properties of a Complex Scalar Product</h1>
-<p>Let \(V\) be a <a href="https://bookofproofs.github.io/branches/algebra/vector-space.html">vector space</a> over the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-complex-numbers-together-with-addition-and-multiplication.html">field of complex numbers</a> \(\mathbb C\). It follows immediately from the definition of <a href="https://bookofproofs.github.io/branches/algebra/dot-product-inner-product-scalar-product.html">scalar product</a> \(\langle \cdot,\cdot\rangle\) on \(V\) that it is <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html">function</a></p>
-<p>\[V\times V\longrightarrow \mathbb {C} ,\,(v,w)\longmapsto \left\langle v,w\right\rangle \,,\]</p>
+<p>Let \(V\) be a <a href="https://bookofproofs.github.io/branches/algebra/vector-space.html" title="Definition: Vector Space">vector space</a> over the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-complex-numbers-together-with-addition-and-multiplication.html" title="Proposition: Algebraic Structure of Complex Numbers Together with Addition and Multiplication">field of complex numbers</a> \(\mathbb C\). It follows immediately from the definition of <a href="https://bookofproofs.github.io/branches/algebra/dot-product-inner-product-scalar-product.html" title="Definition: Dot Product, Inner Product, Scalar Product (General Field Case)">scalar product</a> \(\langle \cdot,\cdot\rangle\) on \(V\) that it is <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Definition: Partial and Total Maps (Functions)">function</a>.
+\[V\times V\longrightarrow \mathbb {C} ,\,(v,w)\longmapsto \left\langle v,w\right\rangle \,,\]</p>
 <p>with the following properties:</p>
 <ol>
 <li>\(\left\langle \lambda _{1}x_{1}+\lambda _{2}x_{2},y\right\rangle =\lambda _{1}\left\langle x_{1},y\right\rangle +\lambda _{2}\left\langle x_{2},y\right\rangle \,\) for all \(\lambda_{1},\lambda _{2}\in \mathbb {C} \), \(x_{1},x_{2},y\in V\),</li>
-<li>\(\left\langle x, \lambda _{1}y_{1}+\lambda _{2}y_{2}\right\rangle = \lambda_{1}^*\left\langle x, y_{1}\right\rangle + \lambda_{2}^*\left\langle x, y_{2}\right\rangle \,\) for all \(\lambda _{1},\lambda _{2}\in \mathbb {C} \), \(x, y_{1},y_{2}\in V\), where  \(\lambda_i^*\) is the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/complex-conjugate.html">complex conjugate</a> of \(\lambda_i\) </li>
+<li>\(\left\langle x, \lambda _{1}y_{1}+\lambda _{2}y_{2}\right\rangle = \lambda_{1}^*\left\langle x, y_{1}\right\rangle + \lambda_{2}^*\left\langle x, y_{2}\right\rangle \,\) for all \(\lambda _{1},\lambda _{2}\in \mathbb {C} \), \(x, y_{1},y_{2}\in V\), where  \(\lambda_i^*\) is the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/complex-conjugate.html" title="Definition: Complex Conjugate">complex conjugate</a> of \(\lambda_i\) </li>
 <li>\(\left\langle v,w\right\rangle =\left\langle w,v\right\rangle^* \,\) for all \(v,w\in V\).</li>
 <li>\(\left\langle v,v\right\rangle \geq 0\) for all \(v\in V\) and \(\left\langle v,v\right\rangle =0\) if and only if \(v=0\).</li>
 </ol>
@@ -68,15 +67,14 @@
 <ol>
 <li><strong>Brenner, Prof. Dr. rer. nat., Holger</strong>: "Various courses at the University of Osnabrück", <a href="https://de.wikiversity.org/wiki/Wikiversity:Hochschulprogramm">https://de.wikiversity.org/wiki/Wikiversity:Hochschulprogramm</a>, 2014</li>
 </ol>
-<h4>Footnotes</h4>
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

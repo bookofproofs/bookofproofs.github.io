@@ -22,5 +22,5 @@ If `$y$` is both, left-inverse and right-inverse, it is called an **inverse** el
 
 ### Notes
 
-* If `$"\ast"$` is interpreted as a *multiplication* operation then we write `$x^{-1}$` or `$\frac 1x$` instead of `$y$` and call `$x^{-1}$` the **multiplicative inverse** of `$x.$`
-* If `$"\ast"$` is interpreted as an *addition* operation then we write `$-x$` instead of `$y$`  and call `$-x$` the **additive inverse** of `$x.$`
+* If "`$\ast$`" is interpreted as a *multiplication* operation then we write `$x^{-1}$` or `$\frac 1x$` instead of `$y$` and call `$x^{-1}$` the **multiplicative inverse** of `$x$`.
+* If "`$\ast$`" is interpreted as an *addition* operation then we write `$-x$` instead of `$y$`  and call `$-x$` the **additive inverse** of `$x$`.

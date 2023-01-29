@@ -16,12 +16,10 @@ contributors: bookofproofs
 
 ### Ad `$(1)$` 
 
-* The rule follows immediately from the definition of [exponentiation in a group][bookofproofs$401], the [associativity][bookofproofs$668] of the operation `$[\ast"$` and the "associativity of adding integers][bookofproofs$1443]
-
+* The rule follows immediately from the definition of [exponentiation in a group][bookofproofs$401], the [associativity][bookofproofs$668] of the operation "`$\ast$`" and the [associativity of adding integers][bookofproofs$1443].
 ### Ad `$(2)$` and `$(3)$` 
 
-* These rules require in addition the [commutativity][bookofproofs$672] of the operation `$[\ast"$` and follow from the "commutativity of adding integers][bookofproofs$1460]
-
+* These rules require in addition the [commutativity][bookofproofs$672] of the operation "`$\ast$`" and follow from the [commutativity of adding integers][bookofproofs$1460].
 ### Ad `$(4)$` 
 
 * The rule is only a special notation for the rule `$(3)$`, since `$$\frac{x^n}{y^n}=x^n\ast y^{-n}=x^n\ast (y^{-1})^n=\left(x\ast y^{-1}\right)^n.$$`

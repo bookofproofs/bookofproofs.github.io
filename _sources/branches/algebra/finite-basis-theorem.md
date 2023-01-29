@@ -16,6 +16,6 @@ contributors: bookofproofs
 
 If `\(V\)` is a vector space over a field `\(F\)` with a finite [dimension][bookofproofs$1041] `\(dim(V) < \infty\)`, then:
 
-1. `\(V\)` has a [finite][bookofproofs$985] [basis][bookofproofs$299]
+1. `\(V\)` has a [finite][bookofproofs$985] [basis][bookofproofs$299].
 1. Two different bases of `\(V\)` have the same number of elements, and this number equals `\(n=dim(V)\)`.
 1. Two different bases of `\(V\)` have the same number of elements, and this number equals `\(n=dim(V)\)`.

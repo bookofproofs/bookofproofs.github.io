@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-The proof is very easy but long since it only requires the verification of the rules for the [matrices][bookofproofs$1048] `$M_{m\times n}(F)$` over a [field][bookofproofs$557] `$F$` component by component. We will use two different symbols to distinguish between the addition of the components `$"+"$` in the field `$F$` and the addition of matrices `$\oplus$` in `$M_{m\times n}(F)$`. 
+The proof is very easy but long since it only requires the verification of the rules for the [matrices][bookofproofs$1048] `$M_{m\times n}(F)$` over a [field][bookofproofs$557] `$F$` component by component. We will use two different symbols to distinguish between the addition of the components "`$+$`" in the field `$F$` and the addition of matrices `$\oplus$` in `$M_{m\times n}(F)$`. 
 
 ### Ad `$(1)$`
 

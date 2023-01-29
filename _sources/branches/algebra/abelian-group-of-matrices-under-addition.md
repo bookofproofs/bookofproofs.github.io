@@ -14,7 +14,7 @@ The [addition][bookofproofs$8657] of [matrices][bookofproofs$1048] is an operati
 
 ---
 
-Let `$F$` be a [field][bookofproofs$557] The set of all `$m\times n$` [matrices][bookofproofs$1048] `$M_{m\times n}(F)$` together with the [matrix addition][bookofproofs$8657] `$"+"$` constitutes an "Abelian group][bookofproofs$553], i.e. the set `$(M_{m\times n}(F), +)$` fulfills the following laws:
+Let `$F$` be a [field][bookofproofs$557]. The set of all `$m\times n$` [matrices][bookofproofs$1048] `$M_{m\times n}(F)$` together with the [matrix addition][bookofproofs$8657] "`$+$`" constitutes an [Abelian group][bookofproofs$553], i.e. the set `$(M_{m\times n}(F), +)$` fulfills the following laws:
 
 1. Associativity `$A+(B+C)=(A+B)+C$` for all matrices `$A,B,C\in M_{m\times n}(F)$`.
 1. Commutativity `$A+B=B+A$` for all matrices `$A,B\in M_{m\times n}(F)$`.

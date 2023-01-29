@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\(\mathcal A=(A,V_A,v)\)` be an [affine space][bookofproofs$6277] with `\(V_A\)` as the associated [vector space over a field `\(F\)` ][bookofproofs$560] Let `\[P_0,P_1,P_2\ldots,P_n\]`
+Let `\(\mathcal A=(A,V_A,v)\)` be an [affine space][bookofproofs$6277] with `\(V_A\)` as the associated [vector space over a field `\(F\)` ][bookofproofs$560]. Let `\[P_0,P_1,P_2\ldots,P_n\]`
 be an [affine basis][bookofproofs$434] of `\(\mathcal A\)`. Then every point `\(Q\in\mathcal A\)` can be uniquely represented by the `\((n+1)\)`-tuple of field elements `\(\lambda_0, \ldots, \lambda_n\in F \)`  such that
 `\[\lambda_0+ \cdots +\lambda_n=1\]`
 and

@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-The three cases of the corollary follow immediately from the [field properties][bookofproofs$557] and the [definition of a linear equation][bookofproofs$1043]
+The three cases of the corollary follow immediately from the [field properties][bookofproofs$557] and the [definition of a linear equation][bookofproofs$1043].

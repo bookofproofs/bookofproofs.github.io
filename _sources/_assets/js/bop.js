@@ -1,20 +1,18 @@
-/* Treeview (thanks to https://www.w3schools.com/howto/howto_js_treeview.asp) */
-
 var $j = jQuery.noConflict();
 
 MathJax.Hub.Config({
-    tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']], processEscapes: true},
+    tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']], processEscapes: false},
     extensions: ["tex2jax.js"],
     jax: ["input/TeX","output/HTML-CSS"],
 	'fast-preview': {disabled: true},
     TeX: {extensions: ["cancel.js", "noErrors.js", "AMSmath.js","AMSsymbols.js"], equationNumbers: { autoNumber: "AMS" } }
 });
 
-
 $j(document).ready(function() {
 
     $j( document ).tooltip();
 
+    /* Treeview (thanks to https://www.w3schools.com/howto/howto_js_treeview.asp) */
     var toggler = document.getElementsByClassName("caret");
     var i;
     for (i = 0; i < toggler.length; i++) {

@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\((R, + , \cdot)\)` be a [ring][bookofproofs$683] An **left (right) ideal** is a subset of `\(R\)` a with the following properties:
+Let `\((R, + , \cdot)\)` be a [ring][bookofproofs$683]. An **left (right) ideal** is a subset of `\(R\)` a with the following properties:
 
 1. `\((I, +)\)` is a [subgroup][bookofproofs$554] of `\((R, +)\)`; equivalently, `\(I\)` is not empty and for `\(a,b\in I\)` we have `\(a - b\in I\)`.
 1. `\(\forall i \in I, \forall r \in R: \quad r \cdot i \in I\)` (for a **right ideal**)

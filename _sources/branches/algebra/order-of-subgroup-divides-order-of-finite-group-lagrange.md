@@ -14,6 +14,6 @@ contributors: bookofproofs
 
 ---
 
-Let `\((G,\ast)\)` be a [group][bookofproofs$671] with a [finite][bookofproofs$985] [order][bookofproofs$8071] `\(|G| < \infty\)` and `\(H\subseteq G\)` its [subgroup][bookofproofs$554] Then the order `\(|H|\)` is a [divisor][bookofproofs$700] of the order `\(|G|\)`. More precisely, with the [equivalence relations][bookofproofs$574] defined for the [cosets][bookofproofs$827] `\(a\sim_l b:=a\in bH\)` (respectively `\(a\sim_r b:=a\in Hb\)`) we have  
+Let `\((G,\ast)\)` be a [group][bookofproofs$671] with a [finite][bookofproofs$985] [order][bookofproofs$8071] `\(|G| < \infty\)` and `\(H\subseteq G\)` its [subgroup][bookofproofs$554]. Then the order `\(|H|\)` is a [divisor][bookofproofs$700] of the order `\(|G|\)`. More precisely, with the [equivalence relations][bookofproofs$574] defined for the [cosets][bookofproofs$827] `\(a\sim_l b:=a\in bH\)` (respectively `\(a\sim_r b:=a\in Hb\)`) we have  
 
 `\[|G|=|H|\cdot |G/\sim_l|=|H|\cdot |G/\sim_r|.\]`

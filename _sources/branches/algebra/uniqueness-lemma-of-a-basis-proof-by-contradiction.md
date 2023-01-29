@@ -25,4 +25,4 @@ Then we have
 `\[\begin{array}{ccl}
 0&=&(\alpha_1-\beta_1)b_1+\ldots+(\alpha_n-\beta_n)b_n,
 \end{array}\]` 
-Because the representations `\( ( * ) \)` are different by assumption, there is at least one `\(i\)` for which `\(\alpha_i\neq \beta_i\)`. But this would mean that `\(\{b_1,\ldots, b_n\}\)` are [linearly dependent][bookofproofs$1036], in [contradiction][bookofproofs$744] to the [definition of a basis][bookofproofs$299]
+Because the representations `\( ( * ) \)` are different by assumption, there is at least one `\(i\)` for which `\(\alpha_i\neq \beta_i\)`. But this would mean that `\(\{b_1,\ldots, b_n\}\)` are [linearly dependent][bookofproofs$1036], in [contradiction][bookofproofs$744] to the [definition of a basis][bookofproofs$299].

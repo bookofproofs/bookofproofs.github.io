@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -49,18 +48,18 @@
 <h1>Proof</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/finite-integral-domains-are-fields.html'>Theorem: Finite Integral Domains are Fields</a>)</p>
 <ul>
-<li>By hypothesis, \((R, + ,\cdot)\) is an <a href="https://bookofproofs.github.io/branches/algebra/zero-divisor-and-integral-domain.html">integral domain</a>, which is <a href="https://bookofproofs.github.io/branches/set-theory/finite-set-infinite-set.html">finite</a></li>
+<li>By hypothesis, \((R, + ,\cdot)\) is an <a href="https://bookofproofs.github.io/branches/algebra/zero-divisor-and-integral-domain.html" title="Definition: Zero Divisor and Integral Domain">integral domain</a>, which is <a href="https://bookofproofs.github.io/branches/set-theory/finite-set-infinite-set.html" title="Definition: Finite Set, Infinite Set">finite</a>.</li>
 <li>Let $R := \{0,a_1:=1,a_2, a_3, \ldots, a_n\}$ be the $n+1 &lt; \infty$ elements of $R.$</li>
-<li>We will show that every nonzero element of $R$ is a <a href="https://bookofproofs.github.io/branches/algebra/zero-divisor-and-integral-domain.html">unit</a>, i.e. has a multiplicative <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html">inverse</a><ul>
+<li>We will show that every nonzero element of $R$ is a <a href="https://bookofproofs.github.io/branches/algebra/zero-divisor-and-integral-domain.html" title="Definition: Zero Divisor and Integral Domain">unit</a>, i.e. has a multiplicative <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html" title="Definition: Inverse Element">inverse</a>.<ul>
 <li>Let $r \in R$ be given with $r\neq 0.$</li>
 <li>We build the set $R' = \{r \cdot 1, ra_2, ra_3, \ldots, ra_n\}.$</li>
-<li>Because $R$ is closed under multiplication $"\cdot"$, we have $R'\subseteq R.$</li>
-<li>Since $R$ is an integral domain, $R'$ contains no <a href="https://bookofproofs.github.io/branches/algebra/zero-divisor-and-integral-domain.html">zero divisors</a>, i.e. for all elements of $r'\in R'$  we have $r'\neq 0.$</li>
+<li>Because $R$ is closed under multiplication "$\cdot$", we have $R'\subseteq R$.</li>
+<li>Since $R$ is an integral domain, $R'$ contains no <a href="https://bookofproofs.github.io/branches/algebra/zero-divisor-and-integral-domain.html" title="Definition: Zero Divisor and Integral Domain">zero divisors</a>, i.e. for all elements of $r'\in R'$  we have $r'\neq 0.$</li>
 <li>Moreover, all elements $r'\in R'$  are distinct, because from $ra_i = ra_j$  for some $i \neq j,$  it follows $a_i = a_j$ from the cancelation law in integral domains.</li>
 <li>In particular $ra_i = 1$ for some $i \in \{1, \ldots, n\},$ so $r$ has an inverse.</li>
 </ul>
 </li>
-<li>Altogether, it follows that every nonzero element $r\in R$  is a unit, thus $R$  is a <a href="https://bookofproofs.github.io/branches/algebra/field.html">field</a></li>
+<li>Altogether, it follows that every nonzero element $r\in R$  is a unit, thus $R$  is a <a href="https://bookofproofs.github.io/branches/algebra/field.html" title="Definition: Field">field</a>.</li>
 </ul>
 <hr>
 <p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/finite-integral-domains-are-fields-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
@@ -71,15 +70,14 @@
 <li><strong>Modler, Florian; Kreh, Martin</strong>: "Tutorium Algebra", Springer Spektrum, 2013</li>
 <li><strong>Lang, Serge</strong>: "Algebra - Graduate Texts in Mathematics", Springer, 2002, 3rd Edition</li>
 </ol>
-<h4>Footnotes</h4>
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

@@ -23,7 +23,7 @@ Unfortunately, the knowledge of mathematics of this time is very limited, becaus
 
 ## Chronology
 ### about 2050 BC
-[Sumerian][bookofproofs$1637]
+[Sumerian][bookofproofs$1637].
 : Place-value sexagesimal system, numerical notation 
 
 ### about 2000 BC
@@ -31,7 +31,7 @@ Megalithic stone and wood settings
 : (found mainly on the British Isles); following astronomic and geometric principles. The most famous example is Stonehenge. The settings form circles, ellipses, egg-shaped rings or more complicated figures.
 
 ### ca. 1850 BC
-[Babylonian Mathematics][bookofproofs$6311]
+[Babylonian Mathematics][bookofproofs$6311].
 : Solving linear, quadratic and some cubic equations, square roots, interpolation of logarithms
 : First occurrence of theorem, later known as _Pythagoras' theorem_
 : All theorems without proofs
@@ -41,7 +41,7 @@ Megalithic stone and wood settings
 : Egyptian scribe who wrote the Rhind Papyrus - one of the oldest known mathematical documents.
 
 ### ca. 1400 BC
-[Chinese Mathematics][bookofproofs$6312]
+[Chinese Mathematics][bookofproofs$6312].
 : Decimal numeration carved on oracle bones
 
 ### 800 BC
@@ -154,7 +154,7 @@ Hippasus of Metapontum
 
 ### 408 BC
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Eudoxus/">Eudoxus of Cnidus</a>
-: A Greek mathematician and astronomer who contributed to [Euclid's Elements][bookofproofs$621]. He mapped the stars and compiled a map of the known world. His philosophy influenced Aristotle. 
+: A Greek mathematician and astronomer who contributed to [Euclid's Elements][bookofproofs$621]. He mapped the stars and compiled a map of the known world. His philosophy influenced <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Aristotle/">Aristotle</a>. 
 : Theory of proportion, astronomy, exhaustion method
 
 ### 400 BC
@@ -210,7 +210,7 @@ Hippasus of Metapontum
 
 ### 287 BC
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Archimedes/">Archimedes of Syracuse</a>
-: Archimedes was the greatest mathematician of his age. His contributions in geometry revolutionised the subject and his methods anticipated the integral calculus 2,000 years before Newton and Leibniz. He was also a thoroughly practical man who invented a wide variety of machines including pulleys and the Archimidean screw pumping device.
+: Archimedes was the greatest mathematician of his age. His contributions in geometry revolutionised the subject and his methods anticipated the integral calculus 2,000 years before Newton and <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Leibniz/">Gottfried Wilhelm von Leibniz</a>. He was also a thoroughly practical man who invented a wide variety of machines including pulleys and the Archimidean screw pumping device.
 
 ### 280 BC
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Chrysippus/">Chrysippus of Soli</a>

@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -49,43 +48,43 @@
 <h1>Proof</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/first-isomorphism-theorem-for-groups.html'>Theorem: First Isomorphism Theorem for Groups</a>)</p>
 <ul>
-<li>By hypothesis, $(G,\ast)$, $(H,\cdot)$ are <a href="https://bookofproofs.github.io/branches/algebra/group.html">groups</a> and $f:G\to N$ is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a> with the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html">kernel</a> $\ker(f).$ </li>
-<li>We demonstrate that $(G/\ker(f),\circ)$ is a <a href="https://bookofproofs.github.io/branches/algebra/factor-groups.html">factor group</a> $(G/\ker(f),\circ).$<ul>
-<li>First of all, $\ker(f)=\{g\in G\mid f(g)=e_H\}$ is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> of $G$ according to the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-a-group-homomorphism-are-subgroups.html">corresponding lemma</a></li>
-<li>Moreover, it is even a <a href="https://bookofproofs.github.io/branches/algebra/normal-subgroups.html">normal subgroup</a> of $G,$ according to <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphisms-and-normal-subgroups.html">another previous lemma</a></li>
-<li>By definition of <a href="https://bookofproofs.github.io/branches/algebra/factor-groups.html">factor groups</a>, $(G/\ker(f),\circ)$ is a factor group with the group operation $"\circ"$ defined by $$(a_1 \ker(f))\circ(a_2\ker(f)):=(a_1\ast a_2)\ker(f)$$ for all $a_1,a_2\in G.$ </li>
+<li>By hypothesis, $(G,\ast)$, $(H,\cdot)$ are <a href="https://bookofproofs.github.io/branches/algebra/group.html" title="Definition: Group">groups</a> and $f:G\to N$ is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html" title="Definition: Group Homomorphism">group homomorphism</a> with the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html" title="Lemma: Kernel and Image of Group Homomorphism">kernel</a> $\ker(f).$ </li>
+<li>We demonstrate that $(G/\ker(f),\circ)$ is a <a href="https://bookofproofs.github.io/branches/algebra/factor-groups.html" title="Lemma: Factor Groups">factor group</a> $(G/\ker(f),\circ).$<ul>
+<li>First of all, $\ker(f)=\{g\in G\mid f(g)=e_H\}$ is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html" title="Definition: Subgroup">subgroup</a> of $G$ according to the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-a-group-homomorphism-are-subgroups.html" title="Lemma: Kernel and Image of a Group Homomorphism are Subgroups">corresponding lemma</a>.</li>
+<li>Moreover, it is even a <a href="https://bookofproofs.github.io/branches/algebra/normal-subgroups.html" title="Definition: Normal Subgroups">normal subgroup</a> of $G,$ according to <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphisms-and-normal-subgroups.html" title="Lemma: Group Homomorphisms and Normal Subgroups">another previous lemma</a>.</li>
+<li>By definition of <a href="https://bookofproofs.github.io/branches/algebra/factor-groups.html" title="Lemma: Factor Groups">factor groups</a>, $(G/\ker(f),\circ)$ is a factor group with the group operation "$\circ$" defined by $$(a_1 \ker(f))\circ(a_2\ker(f)):=(a_1\ast a_2)\ker(f)$$ for all $a_1,a_2\in G.$ </li>
 </ul>
 </li>
-<li>Moreover, the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html">image</a> $\operatorname{im}(f)=\{f(g)\in H\mid g\in G\}$ is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> of $(H,\cdot)$ according to the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-a-group-homomorphism-are-subgroups.html">corresponding lemma</a>, and in particular a <a href="https://bookofproofs.github.io/branches/algebra/group.html">group</a> itself.</li>
-<li>Thus, the <a href="https://bookofproofs.github.io/branches/algebra/algebraic-structure-algebra.html">algebraic structures</a> $(\operatorname{im}(f),\cdot)$ and $(G/\ker(f),\circ)$ are <a href="https://bookofproofs.github.io/branches/algebra/group.html">groups</a>.</li>
-<li>The <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html">function</a> $\phi:G/\ker(f)\to \operatorname{im}(f),$ $\phi(a\ker(f))=f(a)$ is <a href="https://bookofproofs.github.io/branches/logic/when-is-something-well-defined-in-mathematics.html">well-defined</a>:<ul>
+<li>Moreover, the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html" title="Lemma: Kernel and Image of Group Homomorphism">image</a> $\operatorname{im}(f)=\{f(g)\in H\mid g\in G\}$ is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html" title="Definition: Subgroup">subgroup</a> of $(H,\cdot)$ according to the <a href="https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-a-group-homomorphism-are-subgroups.html" title="Lemma: Kernel and Image of a Group Homomorphism are Subgroups">corresponding lemma</a>, and in particular a <a href="https://bookofproofs.github.io/branches/algebra/group.html" title="Definition: Group">group</a> itself.</li>
+<li>Thus, the <a href="https://bookofproofs.github.io/branches/algebra/algebraic-structure-algebra.html" title="Definition: Algebraic Structure (Algebra)">algebraic structures</a> $(\operatorname{im}(f),\cdot)$ and $(G/\ker(f),\circ)$ are <a href="https://bookofproofs.github.io/branches/algebra/group.html" title="Definition: Group">groups</a>.</li>
+<li>The <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Definition: Partial and Total Maps (Functions)">function</a> $\phi:G/\ker(f)\to \operatorname{im}(f),$ $\phi(a\ker(f))=f(a)$ is <a href="https://bookofproofs.github.io/branches/logic/when-is-something-well-defined-in-mathematics.html" title="Explanation: When is something &amp;quot;well-defined&amp;quot; in mathematics?">well-defined</a>:<ul>
 <li>Assume, $a,b\in G$ with $a\ker(f)=b\ker(f).$</li>
 <li>Therefore $a\ast b^{-1}\in \ker(f).$ </li>
-<li>Since $f$ is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a>, it follows from the <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html">properties of group homomorphism</a> that $$\begin{array}{rcl}f(a\ast b^{-1})&amp;=&amp;f(a)\cdot f(b^{-1})\\&amp;=&amp;f(e_G)\\&amp;=&amp;e_H.\end{array}$$</li>
+<li>Since $f$ is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html" title="Definition: Group Homomorphism">group homomorphism</a>, it follows from the <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html" title="Proposition: Properties of a Group Homomorphism">properties of group homomorphism</a> that $$\begin{array}{rcl}f(a\ast b^{-1})&amp;=&amp;f(a)\cdot f(b^{-1})\\&amp;=&amp;f(e_G)\\&amp;=&amp;e_H.\end{array}$$</li>
 <li>Thus, $f(a)=f(b).$</li>
 </ul>
 </li>
-<li>Moreover, $\phi$ is itself a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a>.<ul>
+<li>Moreover, $\phi$ is itself a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html" title="Definition: Group Homomorphism">group homomorphism</a>.<ul>
 <li>Since for all $a,b\in G$ we have $$\begin{array}{rcl}\phi(a\ker(f)\circ b\ker (f))&amp;=&amp;\phi((a\ast b)\ker(f))\\
 &amp;=&amp;f(a\ast b)\\
 &amp;=&amp;f(a)\cdot f(b)\\
 &amp;=&amp;\phi(a\ker(f))\circ \phi(b\ker(f)).\end{array}$$</li>
 </ul>
 </li>
-<li>$\phi$ is <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html">injective</a><ul>
+<li>$\phi$ is <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html" title="Definition: Injective Function">injective</a>.<ul>
 <li>Let $a\in G$ with $\phi(a\ker(f))=f(a)=e_H$ be given.</li>
 <li>Then $a\in\ker(f).$</li>
 <li>Therefore, $a\ker(f)=e_G\ker(f).$</li>
 <li>It follows $\ker(\phi)=\{e_G\ker(f)\}.$</li>
 </ul>
 </li>
-<li>$\phi$ is <a href="https://bookofproofs.github.io/branches/set-theory/surjective-function.html">surjective</a><ul>
+<li>$\phi$ is <a href="https://bookofproofs.github.io/branches/set-theory/surjective-function.html" title="Definition: Surjective Function">surjective</a>.<ul>
 <li>Let $b\in \operatorname{im}(f).$ </li>
 <li>Then there is an $a\in G$ with $f(a)=b.$</li>
 <li>It follows $\phi(a\ker(f))=b.$</li>
 </ul>
 </li>
-<li>Altogether, we have shown that $\phi$ is a <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html">bijective</a> group homomorphism, in other words $\phi$ is an <a href="https://bookofproofs.github.io/branches/algebra/isomorphism.html">isomorphism</a></li>
+<li>Altogether, we have shown that $\phi$ is a <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html" title="Definition: Bijective Function">bijective</a> group homomorphism, in other words $\phi$ is an <a href="https://bookofproofs.github.io/branches/algebra/isomorphism.html" title="Definition: Isomorphism">isomorphism</a>.</li>
 </ul>
 <hr>
 <p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/first-isomorphism-theorem-for-groups-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
@@ -95,15 +94,14 @@
 <ol>
 <li><strong>Modler, Florian; Kreh, Martin</strong>: "Tutorium Algebra", Springer Spektrum, 2013</li>
 </ol>
-<h4>Footnotes</h4>
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

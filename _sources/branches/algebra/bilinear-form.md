@@ -14,8 +14,7 @@ contributors:
 
 ---
 
-Let `\(F\)` be a [field][bookofproofs$557] and `\(V\)` be a [vector space][bookofproofs$560] over `\(F\)`. A [function][bookofproofs$592]
-
+Let `\(F\)` be a [field][bookofproofs$557] and `\(V\)` be a [vector space][bookofproofs$560] over `\(F\)`. A [function][bookofproofs$592].
 `\[B:\cases{V\times V\longrightarrow F,\cr(v,w)\longmapsto \left\langle v,w\right\rangle,}\]`
 
 (i.e. a function mapping all pairs of vectors `\((v,w)\)` to their respective [dot products][bookofproofs$1049]) `\(\langle v,w\rangle\)`) is called a **bilinear form**, if it is [linear][bookofproofs$403] over `\(F\)` in each argument separately, i.e.:

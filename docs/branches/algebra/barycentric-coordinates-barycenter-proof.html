@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -48,9 +47,9 @@
 
 <h1>Proof</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/barycentric-coordinates-barycenter.html'>Corollary: Barycentric Coordinates, Barycenter</a>)</p>
-<p>Let \(\mathcal A=(A,V_A,v)\) be an affine space with \(V_A\) as the associated <a href="https://bookofproofs.github.io/branches/algebra/vector-space.html">vector space over a field \(F\) </a> </p>
-<p>Take any \(Q\in \mathcal A\). By <a href="https://bookofproofs.github.io/branches/algebra/affine-space.html">definition of an affine space</a> there is a unique vector \(q\in V_A\) defined by \(q:=\overrightarrow{QP_0}\), which is equivalent to \(Q=P_0 + q\).</p>
-<p>By hypothesis, \(P_0,P_1,P_2\ldots,P_n\) is an affine basis of \(\mathcal A\), which by <a href="https://bookofproofs.github.io/branches/algebra/affine-basis-affine-coordinate-system.html">definition</a> means that the vectors \(x_1=\overrightarrow{P_0P_1},\,x_2=\overrightarrow{P_0P_2},\,\ldots,\,x_n=\overrightarrow{P_0P_n}\) form a <a href="https://bookofproofs.github.io/branches/algebra/basis-coordinate-system.html">basis of the corresponding vector space</a> \(V_A\). </p>
+<p>Let \(\mathcal A=(A,V_A,v)\) be an affine space with \(V_A\) as the associated <a href="https://bookofproofs.github.io/branches/algebra/vector-space.html" title="Definition: Vector Space">vector space over a field \(F\) </a>.
+Take any \(Q\in \mathcal A\). By <a href="https://bookofproofs.github.io/branches/algebra/affine-space.html" title="Definition: Affine Space">definition of an affine space</a> there is a unique vector \(q\in V_A\) defined by \(q:=\overrightarrow{QP_0}\), which is equivalent to \(Q=P_0 + q\).</p>
+<p>By hypothesis, \(P_0,P_1,P_2\ldots,P_n\) is an affine basis of \(\mathcal A\), which by <a href="https://bookofproofs.github.io/branches/algebra/affine-basis-affine-coordinate-system.html" title="Definition: Affine Basis, Affine Coordinate System">definition</a> means that the vectors \(x_1=\overrightarrow{P_0P_1},\,x_2=\overrightarrow{P_0P_2},\,\ldots,\,x_n=\overrightarrow{P_0P_n}\) form a <a href="https://bookofproofs.github.io/branches/algebra/basis-coordinate-system.html" title="Definition: Basis, Coordinate System">basis of the corresponding vector space</a> \(V_A\). </p>
 <p>By definition of a basis of a vector space it means that there exist unique elements \(\lambda_1, \ldots, \lambda_n\in F \)  such that
 \[q=\lambda_1x_1+ \cdots +\lambda_nx_n.\]</p>
 <p>Then it follows</p>
@@ -67,8 +66,8 @@ with \(\lambda_0:=1-(\lambda_1+\cdots+\lambda_n)\in F\).</p>
 <p>Because all \(\lambda_0, \ldots, \lambda_n\in F \) form a unique \((n+1)\)-tuple, it follows</p>
 <p>\[Q=\lambda _{0}P_{0}+\cdots +\lambda_{n}P_{n},\quad\quad\lambda_0+\cdots+\lambda_n=1.\]</p>
 <p>The following figure demonstrates the ideas of this proof for the special case of an affine plane, in which any point \(Q\) can be represented in barycentric coordinates using the affine basis of points of a triangle.</p>
-<p><img alt="barycentric" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/barycentric.png?raw=true" />
-(c) bookofproofs own work</p>
+<p><img alt="barycentric" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/barycentric.png?raw=true" /></p>
+<p>(c) bookofproofs own work</p>
 <hr>
 <p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/barycentric-coordinates-barycenter-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
 <hr>
@@ -77,15 +76,14 @@ with \(\lambda_0:=1-(\lambda_1+\cdots+\lambda_n)\in F\).</p>
 <ol>
 <li><strong>Wille, D; Holz, M </strong>: "Repetitorium der Linearen Algebra", Binomi Verlag, 1994</li>
 </ol>
-<h4>Footnotes</h4>
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

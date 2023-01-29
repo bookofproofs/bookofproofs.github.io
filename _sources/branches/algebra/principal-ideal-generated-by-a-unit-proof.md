@@ -14,14 +14,14 @@ contributors: bookofproofs
 
 ---
 
-### `$"\Rightarrow"$`
+### "`$\Rightarrow$`"
 
 * Let `$c$` is a [unit][bookofproofs$8259] of an  [integral domain][bookofproofs$821] `$(R, + ,\cdot).$`
 * This means, there is a [multiplicative inverse][bookofproofs$670] `$b\in R$` with `$bc=1.$`
 * Since `$bc\in ( c ),$` we have `$1\in ( c ).$` 
 * Therefore `$( c )=R.$`
 
-### `$"\Leftarrow"$`
+### "`$\Leftarrow$`"
 
 * Let `$( c )=R.$`
 * In particular, `$1\in ( c ).$`

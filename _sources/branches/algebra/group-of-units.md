@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-The [units][bookofproofs$8259] of an [integral domain][bookofproofs$821] `$(R, + ,\cdot)$` form with respect to the multiplication operation `$[\cdot"$` a "group][bookofproofs$671], called the **group of units** of `$R,$` and denoted by `$(R^\ast,\cdot).$`
+The [units][bookofproofs$8259] of an [integral domain][bookofproofs$821] `$(R, + ,\cdot)$` form with respect to the multiplication operation "`$\cdot$`" a [group][bookofproofs$671], called the **group of units** of `$R,$` and denoted by `$(R^\ast,\cdot).$`
 
 ### Examples
 

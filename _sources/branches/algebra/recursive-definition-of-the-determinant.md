@@ -14,7 +14,7 @@ contributors:
 
 ---
 
-Let `\(F\)` be a [field][bookofproofs$557] and let `\(A\in M_{n\times n}(F)\)` be a [square matrix][bookofproofs$1056] For `\(i\in \{1,\ldots ,n\}\)` let `\(A_{i}\in M_{(n-1)\times (n-1)}(F)\)` be a square matrix gained by deleting the first column and the `\(i\)`-th row of `\(A\)`. 
+Let `\(F\)` be a [field][bookofproofs$557] and let `\(A\in M_{n\times n}(F)\)` be a [square matrix][bookofproofs$1056]. For `\(i\in \{1,\ldots ,n\}\)` let `\(A_{i}\in M_{(n-1)\times (n-1)}(F)\)` be a square matrix gained by deleting the first column and the `\(i\)`-th row of `\(A\)`. 
 
 The **determinant** `\(|A|\)` is defined recursively by 
 `\[|M|={\begin{cases}a_{11}\,,&{\text{if }}n=1\,,\\\sum _{i=1}^{n}(-1)^{i+1}a_{i1}|A_{i}|&{\text{ for }}n\geq 2\,.\end{cases}}\]`

@@ -16,4 +16,4 @@ contributors: bookofproofs
 
 Let `$(R, + ,\cdot)$` be an [integral domain][bookofproofs$821], `$a\in R$` with `$a\neq 0.$` A [principal ideal][bookofproofs$1063] `$(a)\lhd R$` is a [maximal ideal][bookofproofs$6243] among all principal ideals, if and only if `$a$` is [irreducible][bookofproofs$822] in `$R.$` 
 
-This holds especially, if `$R$` is a [principal ideal ring][bookofproofs$1064]
+This holds especially, if `$R$` is a [principal ideal ring][bookofproofs$1064].

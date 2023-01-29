@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -48,17 +47,17 @@
 
 <h1>Motivation: Calculations in a Group</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/groups-overview.html'>Chapter: Groups (Overview)</a>)</p>
-<p>Before we dive deeper into the group theory, let us take a break from introducing new theoretical concepts. Instead, let us take a closer look at the algebraic structure in a group. If you are new to group theory but are familiar with <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html">arithmetics</a>, you will recognize some parallels between the calculations which are possible in a group and calculations which are possible in a number system, for instance, the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-integers-together-with-addition.html">integers together with the addition</a>  $(\mathbb Z, + ).$ This is not a coincidence since number systems are groups. </p>
+<p>Before we dive deeper into the group theory, let us take a break from introducing new theoretical concepts. Instead, let us take a closer look at the algebraic structure in a group. If you are new to group theory but are familiar with <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html" title="Branch: Number Systems and Arithmetics">arithmetics</a>, you will recognize some parallels between the calculations which are possible in a group and calculations which are possible in a number system, for instance, the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-integers-together-with-addition.html" title="Proposition: Algebraic Structure of Integers Together with Addition">integers together with the addition</a>  $(\mathbb Z, + ).$ This is not a coincidence since number systems are groups. </p>
 <p>We want to demonstrate this by the exampe of the number system of integers:</p>
 <ol>
-<li>Adding two integers, e.g. $2 + 3$ will produce again an integer - here the result is $5.$ Therefore, $(\mathbb Z, + )$ is <a href="https://bookofproofs.github.io/branches/algebra/closure.html">closed</a> under the operation $"+".$</li>
-<li>The <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-integers-is-associative.html">addition of integers is associative</a></li>
-<li><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/existence-of-integer-zero-neutral-element-of-addition-of-integers.html">Integer Zero</a> $0$ is the <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">neutral element</a> of addition in $\mathbb Z$. For instance, $2+0=0+2=2.$</li>
-<li>Moreover, every integer has an <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html">inverse</a> In our integer case, the inverse of $2$ is $-2$ and vice versa, since $2 + (-2)=(-2)+2=0.$ Therefore, <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/order-relation-for-integers-positive-and-negative-integers.html">negative and positive integers</a>  are inverse to each other and $0$ is inverse to itself.</li>
+<li>Adding two integers, e.g. $2 + 3$ will produce again an integer - here the result is $5.$ Therefore, $(\mathbb Z, + )$ is <a href="https://bookofproofs.github.io/branches/algebra/closure.html" title="Definition: Closure">closed</a> under the operation $"+".$</li>
+<li>The <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-integers-is-associative.html" title="Proposition: Addition of Integers Is Associative">addition of integers is associative</a>.</li>
+<li><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/existence-of-integer-zero-neutral-element-of-addition-of-integers.html" title="Proposition: Existence of Integer Zero (Neutral Element of Addition of Integers)">Integer Zero</a> $0$ is the <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html" title="Definition: Existence of a Neutral Element">neutral element</a> of addition in $\mathbb Z$. For instance, $2+0=0+2=2.$</li>
+<li>Moreover, every integer has an <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html" title="Definition: Inverse Element">inverse</a>. In our integer case, the inverse of $2$ is $-2$ and vice versa, since $2 + (-2)=(-2)+2=0.$ Therefore, <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/order-relation-for-integers-positive-and-negative-integers.html" title="Definition: Order Relation for Integers - Positive and Negative Integers">negative and positive integers</a>  are inverse to each other and $0$ is inverse to itself.</li>
 </ol>
-<p>These are exactly the properties required in a <a href="https://bookofproofs.github.io/branches/algebra/group.html">group</a> Therefore, $(\mathbb Z, + )$ is a group. It is even a <a href="https://bookofproofs.github.io/branches/algebra/abelian-group.html">commutative group</a>, since the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-integers-is-commutative.html">addition of integers is commutative</a></p>
-<p>So far, so good. But if you are new to group theory, you will have to become aware of something else. Groups are algebraic structures, which can be arbitrary mathematical objects, not only numbers. In the general sense, groups might occur in sets which have nothing to do with numbers. The surprising fact is that also in these groups we can "calculate" with their elements <em>as if</em> they were numbers.</p>
-<p>As an example, consider the set \(S,\ast\) of symmetries of an <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/equilateral-triangle-isosceles-triangle-scalene-triangle.html">equilateral triangle</a>, shown in the following figure:</p>
+<p>These are exactly the properties required in a <a href="https://bookofproofs.github.io/branches/algebra/group.html" title="Definition: Group">group</a>. Therefore, $(\mathbb Z, + )$ is a group. It is even a <a href="https://bookofproofs.github.io/branches/algebra/abelian-group.html" title="Definition: Commutative (Abelian) Group">commutative group</a>, since the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-integers-is-commutative.html" title="Proposition: Addition of Integers Is Commutative">addition of integers is commutative</a>.
+So far, so good. But if you are new to group theory, you will have to become aware of something else. Groups are algebraic structures, which can be arbitrary mathematical objects, not only numbers. In the general sense, groups might occur in sets which have nothing to do with numbers. The surprising fact is that also in these groups we can "calculate" with their elements <em>as if</em> they were numbers.</p>
+<p>As an example, consider the set \(S,\ast\) of symmetries of an <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--1-plane-geometry/equilateral-triangle-isosceles-triangle-scalene-triangle.html" title="Definition: 1.20: Equilateral Triangle, Isosceles Triangle, Scalene Triangle">equilateral triangle</a>, shown in the following figure:</p>
 <p><img alt="symmetrygroupequilateraltriangle1" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/symmetrygroupequilateraltriangle1.png?raw=true" /></p>
 <ul>
 <li>The element $a\in S$ can be interpreted as the identity symmetry (i.e. the neutral element of $S$) - we leave the triangle as it is.</li>
@@ -67,7 +66,7 @@
 <li>The symmetries $d,e,f$ are not rotations but reflections. In the figure, the symmetry axis is drawn by a dotted line. We have $a=d^2=e^2=f^2.$</li>
 <li>On the other hand, all elements have also "inverse" elements, just like in the example of positive and negative integers above. For instance, the inverse reflections of \(d,e,f\) are inverse to themselves - i.e. composing one such reflection twice will result in the unchanged triangle (i.e. the symmetry \(a\)):</li>
 </ul>
-<p>We can combine any of the six elements in an <a href="https://bookofproofs.github.io/branches/algebra/operation-table.html">operation table</a> of the group $(S,\ast)$ and you are invited to complete the table as an exercise:</p>
+<p>We can combine any of the six elements in an <a href="https://bookofproofs.github.io/branches/algebra/operation-table.html" title="Explanation: Operation Table">operation table</a> of the group $(S,\ast)$ and you are invited to complete the table as an exercise:</p>
 <p>$$\begin{array}{c|cccccc}
 \ast&amp;a&amp;b&amp;c&amp;d&amp;e&amp;f\\
 \hline
@@ -91,11 +90,11 @@ f&amp;f&amp;\text{(exercise)}&amp;\text{(exercise)}&amp;\text{(exercise)}&amp;\t
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

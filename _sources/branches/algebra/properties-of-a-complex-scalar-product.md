@@ -14,8 +14,7 @@ contributors:
 
 ---
 
-Let `\(V\)` be a [vector space][bookofproofs$560] over the [field of complex numbers][bookofproofs$1690] `\(\mathbb C\)`. It follows immediately from the definition of [scalar product][bookofproofs$1049] `\(\langle \cdot,\cdot\rangle\)` on `\(V\)` that it is [function][bookofproofs$592]
-
+Let `\(V\)` be a [vector space][bookofproofs$560] over the [field of complex numbers][bookofproofs$1690] `\(\mathbb C\)`. It follows immediately from the definition of [scalar product][bookofproofs$1049] `\(\langle \cdot,\cdot\rangle\)` on `\(V\)` that it is [function][bookofproofs$592].
 `\[V\times V\longrightarrow \mathbb {C} ,\,(v,w)\longmapsto \left\langle v,w\right\rangle \,,\]`
 
 with the following properties:

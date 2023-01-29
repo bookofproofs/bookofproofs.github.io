@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -50,13 +49,13 @@
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/algebraic-structures-overview.html'>Part: Algebraic Structures - Overview</a>)</p>
 <p>Before we proceed with more complex algebraic structures, let us pause for a while and introduce some very common concepts of algebra: <em>substructures</em>, <em>homomorphisms</em> and <em>isomorphisms</em>.  </p>
 <h3>What are substructures?</h3>
-<p>A <strong>substructure</strong> of a given <a href="https://bookofproofs.github.io/branches/algebra/algebraic-structures-overview.html">algebraic structure</a> $(X,\ast)$ is simply a <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html">proper subset</a> $S\subset X,$ which is <a href="https://bookofproofs.github.io/branches/algebra/closure.html">closed under</a> the operation $\ast$. This way, it is itself a new algebraic structure $(S,\ast)$ which "inherits" the structure of $(X,\ast).$   </p>
+<p>A <strong>substructure</strong> of a given <a href="https://bookofproofs.github.io/branches/algebra/algebraic-structures-overview.html" title="Part: Algebraic Structures - Overview">algebraic structure</a> $(X,\ast)$ is simply a <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Definition: Subset and Superset">proper subset</a> $S\subset X,$ which is <a href="https://bookofproofs.github.io/branches/algebra/closure.html" title="Definition: Closure">closed under</a> the operation $\ast$. This way, it is itself a new algebraic structure $(S,\ast)$ which "inherits" the structure of $(X,\ast).$   </p>
 <h3>Why are substructures so common in algebra?</h3>
 <p>We encounter very often the substructures of a given algebraic structure. The reason why it is the case is simply that it is almost always possible to construct a substructure out of a given structure. For instance, for magmas, we can talk about submagmas, for semigroups ... about subsemigroups, and for monoids ... about submonoids.</p>
 <h3>Why is the study of substructures so important in algebra?</h3>
-<p>Algebra is the <em>study of the structure</em> of algebraic structures. Therefore, it is important to know which (if any) substructures exist for a given algebraic structure. Moreover, if they exist, they frequently reveal surprising properties, which would not be revealed, if we only studied the original algebraic structure $(X,\ast).$ An example of such surprising property is that the number of elements of a finite subgroup<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> is always a <a href="https://bookofproofs.github.io/branches/number-theory/divisor-complementary-divisor-multiple.html">divisor</a> of the number of elements of the original group. </p>
+<p>Algebra is the <em>study of the structure</em> of algebraic structures. Therefore, it is important to know which (if any) substructures exist for a given algebraic structure. Moreover, if they exist, they frequently reveal surprising properties, which would not be revealed, if we only studied the original algebraic structure $(X,\ast).$ An example of such surprising property is that the number of elements of a finite subgroup<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> is always a <a href="https://bookofproofs.github.io/branches/number-theory/divisor-complementary-divisor-multiple.html" title="Definition: Divisor, Complementary Divisor, Multiple">divisor</a> of the number of elements of the original group. </p>
 <h3>What are homomorphisms, why are they so common and so important in algebra?</h3>
-<p>A <strong>homomorphism</strong> (Greek "homos"=similar, "morphe"=shape) is <em>structure-preserving</em> function necessary for the comparison of two given algebraic structures. We will define soon exactly what is meant by that. For the time being it is sufficient for the reader to understand that whenever we have to do with two algebraic structures $(G,\ast)$ and $(H,\cdot),$ with two different binary operations $"\ast"$ and $"\cdot"$, a homomorphism is a technical tool of mathematicians to decide whether or not combining two elements of $G$ using the operation $"\ast"$ is like combining two elements of $H$ using the operation $"\cdot".$ This is what "structure-preserving" is all about and that is the reason why homomorphisms are so common and important in algebra.</p>
+<p>A <strong>homomorphism</strong> (Greek "homos"=similar, "morphe"=shape) is <em>structure-preserving</em> function necessary for the comparison of two given algebraic structures. We will define soon exactly what is meant by that. For the time being it is sufficient for the reader to understand that whenever we have to do with two algebraic structures $(G,\ast)$ and $(H,\cdot),$ with two different binary operations "$\ast$" and "$\cdot$", a homomorphism is a technical tool of mathematicians to decide whether or not combining two elements of $G$ using the operation "$\ast$" is like combining two elements of $H$ using the operation $"\cdot".$ This is what "structure-preserving" is all about and that is the reason why homomorphisms are so common and important in algebra.</p>
 <h3>What are isomorphisms, why they are so common and so important in algebra?</h3>
 <p>We will define soon exactly what is meant by an <em>isomorphism.</em> For the time being it is sufficient for the reader to understand that isomorphisms (Greek "isos"=equal, "morphe"=shape) is a tool of mathematicians to <em>unmusk</em> seemingly different algebraic structures as having not only similar but even equal algebraic structure. Whenever mathematicians succeed to find an isomorphism between two given algebraic structures, they reduce the complexity of the theory. The equality of algebraic structures believed to date to be different is always a great discovery and help mathematicians to explain specific examples of algebraic structures by known prototypes.</p>
 <h3 class='navigation'>Table of Contents</h3>
@@ -91,11 +90,11 @@
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

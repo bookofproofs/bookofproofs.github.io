@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-Every [finite][bookofproofs$985] [integral domain][bookofproofs$821] is a [field][bookofproofs$557]
+Every [finite][bookofproofs$985] [integral domain][bookofproofs$821] is a [field][bookofproofs$557].

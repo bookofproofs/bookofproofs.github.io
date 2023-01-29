@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-The **order** of a [group][bookofproofs$671] `$(G,\ast)$` is the [cardinality][bookofproofs$980] of the set `$G.$` It is denoted by `$|G|.$` We call `$G$` a **finite group**, if `$|G|$` is [finite][bookofproofs$985] Otherwise we call `$G$` an **infinite group**.
+The **order** of a [group][bookofproofs$671] `$(G,\ast)$` is the [cardinality][bookofproofs$980] of the set `$G.$` It is denoted by `$|G|.$` We call `$G$` a **finite group**, if `$|G|$` is [finite][bookofproofs$985]. Otherwise we call `$G$` an **infinite group**.

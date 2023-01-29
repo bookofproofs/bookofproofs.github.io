@@ -14,9 +14,10 @@ contributors: bookofproofs
 
 ---
 
-Let `$(X,\ast)$` be an [algebraic structure][bookofproofs$342] with an associative binary operation `$[\ast".$` Let `$x\in X.$` If an "inverse element][bookofproofs$670] of `$x$` exists, then it is unique.
+Let `$(X,\ast)$` be an [algebraic structure][bookofproofs$342] with an associative binary operation `$[\ast".$` Let `$x\in X$`. 
+If an [inverse element][bookofproofs$670] of `$x$` exists then it is unique.
 
 ### Notes
 
 * This proposition holds in all algebraic structures, in which the existence of inverse elements is postulated.
-* Thus, the proof is the same for [groups][bookofproofs$671], [unit rings][bookofproofs$683], and [fields][bookofproofs$557]
+* Thus, the proof is the same for [groups][bookofproofs$671], [unit rings][bookofproofs$683], and [fields][bookofproofs$557].

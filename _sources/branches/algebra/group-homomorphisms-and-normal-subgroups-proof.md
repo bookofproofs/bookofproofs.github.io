@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-* By hypothesis, `\(f:(G,\ast)\mapsto (H,\cdot)\)` is a [group homomorphism][bookofproofs$679]  
+* By hypothesis, `\(f:(G,\ast)\mapsto (H,\cdot)\)` is a [group homomorphism][bookofproofs$679].
 * Due to the [corresponding lemma][bookofproofs$833], the [kernel][bookofproofs$809] `\(\ker(f)\)` is a [subgroup][bookofproofs$554] of `\(G\)`. 
 * It remains to be shown that it is a [normal subgroup][bookofproofs$273] of `$G.$`
    * Let `$g\in G$` and `\(h\in \ker(f)\)`, i.e. `$f(h)=e_H.$` 

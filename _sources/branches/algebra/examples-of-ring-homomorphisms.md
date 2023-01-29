@@ -16,7 +16,7 @@ contributors: bookofproofs
 
 ### Example 1
 
-We look for all [endomorphisms][bookofproofs$6235] (i.e. self-homomorphisms) of the ring `$(\mathbb Z,+,\cdot)$` of all integers with addition and multiplication. Let `$f:\mathbb Z\to\mathbb Z$` be a [ring homomorphism][bookofproofs$885] This means that it has to fulfill the properties `$$\begin{array}{rcl}
+We look for all [endomorphisms][bookofproofs$6235] (i.e. self-homomorphisms) of the ring `$(\mathbb Z,+,\cdot)$` of all integers with addition and multiplication. Let `$f:\mathbb Z\to\mathbb Z$` be a [ring homomorphism][bookofproofs$885]. This means that it has to fulfill the properties `$$\begin{array}{rcl}
 f(x + y)&=&f(x) + f(y),\\
 f(x \cdot y)&=&f(x)\cdot f(y)\\
 f(1)&=&1.
@@ -34,4 +34,4 @@ The [complex conjugation][bookofproofs$1245] `$f:\mathbb C\to\mathbb C$` is a ri
 
 ### Example 3
 
-For any integer `$m\ge 2,$` the function `$f:\mathbb Z\to \mathbb Z_m$` sith `$f(a)=a(m)$` of the [commutative ring of integers][bookofproofs$892] `$(\mathbb Z,+,\cdot)$` to the commutative ring of congruences `$\mathbb Z_m$` is a ring homomorphism which is partially [shown here][bookofproofs$8156] It remains to note that `$$1\equiv 1(m)$$` for all `$m\ge 2.$`
+For any integer `$m\ge 2,$` the function `$f:\mathbb Z\to \mathbb Z_m$` sith `$f(a)=a(m)$` of the [commutative ring of integers][bookofproofs$892] `$(\mathbb Z,+,\cdot)$` to the commutative ring of congruences `$\mathbb Z_m$` is a ring homomorphism which is partially [shown here][bookofproofs$8156]. It remains to note that `$$1\equiv 1(m)$$` for all `$m\ge 2.$`

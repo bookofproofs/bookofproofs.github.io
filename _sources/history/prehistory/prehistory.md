@@ -20,8 +20,6 @@ Important inventions were made, for instance, the art to produce bronze as an al
 
 ## Chronology
 From 35,000 BC to 22,000 BC
-: Counting [Ishango Bone][bookofproofs$1634]
-
+: Counting [Ishango Bone][bookofproofs$1634].
 from 9,000 BC to 4,000 BC
-: Counting [Clay Accounting Tokens][bookofproofs$1633]
-
+: Counting [Clay Accounting Tokens][bookofproofs$1633].

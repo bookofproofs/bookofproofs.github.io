@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-Let `\(R\)` and `\(S\)` be [commutative rings][bookofproofs$880] and let `\(\varphi :R\rightarrow S\)` be a [ring homomorphism][bookofproofs$885] Further, let `\(I\subseteq S\)` be a  [maximal ideal][bookofproofs$6243] in `\(S\)`. Then the fiber `\(\varphi ^{-1}(I)\subseteq R\)` is not necessarily a maximal ideal.
+Let `\(R\)` and `\(S\)` be [commutative rings][bookofproofs$880] and let `\(\varphi :R\rightarrow S\)` be a [ring homomorphism][bookofproofs$885]. Further, let `\(I\subseteq S\)` be a  [maximal ideal][bookofproofs$6243] in `\(S\)`. Then the fiber `\(\varphi ^{-1}(I)\subseteq R\)` is not necessarily a maximal ideal.

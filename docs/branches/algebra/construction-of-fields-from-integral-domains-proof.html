@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -49,11 +48,11 @@
 <h1>Proof</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/construction-of-fields-from-integral-domains.html'>Theorem: Construction of Fields from Integral Domains</a>)</p>
 <h4>Uniqueness</h4>
-<p>If \((F_1, + , \cdot)\) and \((F_2,\ast, \circ)\) where two different <a href="https://bookofproofs.github.io/branches/algebra/field.html">fields</a> fulfilling both properties (1) and (2), then because of the property (2), \((F_1,+, \cdot)\) would be a <a href="https://bookofproofs.github.io/branches/algebra/subfield.html">subfield</a> of \((F_2,\ast, \circ)\) and vice versa. Therefore, both fields must be the same.</p>
+<p>If \((F_1, + , \cdot)\) and \((F_2,\ast, \circ)\) where two different <a href="https://bookofproofs.github.io/branches/algebra/field.html" title="Definition: Field">fields</a> fulfilling both properties (1) and (2), then because of the property (2), \((F_1,+, \cdot)\) would be a <a href="https://bookofproofs.github.io/branches/algebra/subfield.html" title="Definition: Subfield">subfield</a> of \((F_2,\ast, \circ)\) and vice versa. Therefore, both fields must be the same.</p>
 <h4>Existence</h4>
 <p>To improve the readability, in our proof we write \(ab\) instead of \(a\cdot b\). Our proof will be comprised of 4 steps:</p>
 <h3>Step 1: Construct \((F, \ast , \circ)\) as a non-empty set with two binary operations: addition "\( \ast \)" and multiplication "\( \circ \)"</h3>
-<p>By assumption, \((R, +, \cdot)\) is an <a href="https://bookofproofs.github.io/branches/algebra/zero-divisor-and-integral-domain.html">integral domain</a> As a first step, we define an <a href="https://bookofproofs.github.io/branches/set-theory/equivalence-relation.html">equivalence relation</a> on the <a href="https://bookofproofs.github.io/branches/set-theory/cartesian-product.html">cartesian product</a> \(R\times (R\setminus\{0\})=\{(a,b)~|~a\in R,b\in R\setminus\{0\}\}\) as follows:</p>
+<p>By assumption, \((R, +, \cdot)\) is an <a href="https://bookofproofs.github.io/branches/algebra/zero-divisor-and-integral-domain.html" title="Definition: Zero Divisor and Integral Domain">integral domain</a>. As a first step, we define an <a href="https://bookofproofs.github.io/branches/set-theory/equivalence-relation.html" title="Definition: Equivalence Relation">equivalence relation</a> on the <a href="https://bookofproofs.github.io/branches/set-theory/cartesian-product.html" title="Definition: Cartesian Product">cartesian product</a> \(R\times (R\setminus\{0\})=\{(a,b)~|~a\in R,b\in R\setminus\{0\}\}\) as follows:</p>
 <p>$$(a,b)\sim (c,d)\Leftrightarrow ad=bc,~~~~~~(a,c\in R;~b,d\in R\setminus\{0\}).$$</p>
 <p>Please note that this is indeed an equivalence relation, since it is reflexive, symmetric and transitive:
 * The <strong>reflexivity</strong> of "\(\sim\)" follows from the commutativity of multiplication in the integral domain \((R, + , \cdot)\): $$(a,b)\sim(a,b)\Leftrightarrow ab=ba,~~~~~~(a\in R;~b\in R\setminus\{0\}).$$
@@ -91,7 +90,7 @@ $$\begin{array}{ccl}
 \end{array}$$</p>
 <p>Please note that \(F\) does contain equivalence classes suitable to define the above binary operations \(\ast\), \(\circ\). Because \((R, + ,\cdot)\) is an integral domain, it contains the element \(0\), but also at least one other element \(x\in R\) with \(x\neq 0\). Therefore, \(F\) is also not empty (i.e. it contains at least the two equivalence classes \(\lbrack 0,x\rbrack \) and \(\lbrack x,x\rbrack \) represented by \((0,x)\) and \((x,x)\)). Thus, we have succeeded to define a non-empty set with two binary operations \((F,\ast,\circ)\).</p>
 <h3>Step 2: Demonstrate that \((F,\ast,\circ)\) is a field</h3>
-<p>We will show the <a href="https://bookofproofs.github.io/branches/algebra/field.html">defining properties of a field</a>, namely: 
+<p>We will show the <a href="https://bookofproofs.github.io/branches/algebra/field.html" title="Definition: Field">defining properties of a field</a>, namely: 
 1. \((F,\ast)\) is a commutative group with \(\lbrack 0,x\rbrack \) as neutral element (of addition "\(\ast\)")
 1. \(F^*:=(F \setminus \{\lbrack 0,x\rbrack \},\circ)\) is a commutative group with \(\lbrack x,x\rbrack \) as neutral element (identity of multiplication "\(\circ\)")
 1. The distributivity law holds for all \(\lbrack a,b\rbrack ,\lbrack c,d\rbrack ,\lbrack e,f\rbrack \in F\).</p>
@@ -170,7 +169,7 @@ $$
 &amp;=&amp;(\lbrack a,b\rbrack \circ\lbrack c,d\rbrack )\ast(\lbrack a,b\rbrack \circ\lbrack e,f\rbrack ).
 \end{array}$$</p>
 <h3>Step 3: Demonstrate that \((F,\ast,\circ)\) fulfills property (1)</h3>
-<p>We shall show that there is a subset \(S\subseteq F\), which is a <a href="https://bookofproofs.github.io/branches/algebra/ring-homomorphism.html">ring isomorphic</a> to \(R\), i.e. where \((S, \ast, \circ)\simeq (R, +, \cdot)\). We will do so by constructing the subset \(S\subseteq F\) and finding a bijective homomorphism \(f:R\mapsto S\).
+<p>We shall show that there is a subset \(S\subseteq F\), which is a <a href="https://bookofproofs.github.io/branches/algebra/ring-homomorphism.html" title="Definition: Ring Homomorphism">ring isomorphic</a> to \(R\), i.e. where \((S, \ast, \circ)\simeq (R, +, \cdot)\). We will do so by constructing the subset \(S\subseteq F\) and finding a bijective homomorphism \(f:R\mapsto S\).
 * For the multiplicative identity element \(\lbrack x,x\rbrack \in F\), consider the subset 
 $$S:=\{\lbrack ax,x\rbrack ~|~a\in R\},$$
 and set $$f:\begin{cases}R&amp;\mapsto S\\a&amp;\mapsto \lbrack ax,x\rbrack .\end{cases}$$
@@ -182,8 +181,8 @@ f(a)=f(b)&amp;\Leftrightarrow&amp;\lbrack ax,x\rbrack =\lbrack bx,x\rbrack \\
 &amp;\Rightarrow&amp;a\cancel{x^2}=b\cancel{x^2}~~~~~~~~~\text{ note that we can cancel by }x\neq 0!\\
 &amp;\Rightarrow&amp;a=b\\
 \end{array}.$$
-Since \(f\) is both, surjective and injective, it is <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html">bijective</a>
-* \(f\) is also a <a href="https://bookofproofs.github.io/branches/algebra/ring-homomorphism.html">ring homomorphism</a>, since we have
+Since \(f\) is both, surjective and injective, it is <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html" title="Definition: Bijective Function">bijective</a>.
+* \(f\) is also a <a href="https://bookofproofs.github.io/branches/algebra/ring-homomorphism.html" title="Definition: Ring Homomorphism">ring homomorphism</a>, since we have
 $$\begin{array}{ccl}
 f(a+b)&amp;=&amp;\lbrack (a + b)x,x\rbrack \\
 &amp;=&amp;\lbrack (ax + bx),x\rbrack \\
@@ -212,15 +211,14 @@ This demonstrates that we cannot reduce \(F\) further more, e.g. by taking away 
 <ol>
 <li><strong>Kramer Jürg, von Pippich, Anna-Maria</strong>: "Von den natürlichen Zahlen zu den Quaternionen", Springer-Spektrum, 2013</li>
 </ol>
-<h4>Footnotes</h4>
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

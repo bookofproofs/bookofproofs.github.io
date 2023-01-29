@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\((H,\circ)\)` be a [semigroup][bookofproofs$660], which is [commutative][bookofproofs$672] and [cancellative][bookofproofs$837] Then there exists a unique [group][bookofproofs$671] `\((G,\ast)\)` with the following properties:
+Let `\((H,\circ)\)` be a [semigroup][bookofproofs$660], which is [commutative][bookofproofs$672] and [cancellative][bookofproofs$837]. Then there exists a unique [group][bookofproofs$671] `\((G,\ast)\)` with the following properties:
 
 1. There is a subset `\(S\subset G\)`, which is a [semigroup isomorphic][bookofproofs$838] to `\(H\)`, i.e. where `\((S,\ast)\simeq (H,\circ)\)`.
 1. There is a subset `\(S\subset G\)`, which is a [semigroup isomorphic][bookofproofs$838] to `\(H\)`, i.e. where `\((S,\ast)\simeq (H,\circ)\)`.

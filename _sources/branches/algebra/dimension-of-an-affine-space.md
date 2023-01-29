@@ -18,6 +18,6 @@ The **dimension** `\(\operatorname {dim}(\mathcal A)\)` of an [affine space][boo
 
 `\[\operatorname {dim}(\mathcal A):=\operatorname {dim}(V_A)\]`
 
-Note: If `\(\operatorname {dim}(V_A)\)` is finite, say `\(n\)`, then this means that we need `\(n+1\)` [affinely independent points][bookofproofs$6280]
+Note: If `\(\operatorname {dim}(V_A)\)` is finite, say `\(n\)`, then this means that we need `\(n+1\)` [affinely independent points][bookofproofs$6280].
 `\[P_0,P_1,P_2\ldots,P_n\]`
 to form an [affine basis][bookofproofs$434] of `\(\mathcal A\)`.

@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\((G,\ast)\)` and `\((H,\cdot)\)` be two [groups][bookofproofs$671] with the respective [identities][bookofproofs$661] `\(e_G\)` and `\(e_H\)` and `\(f:G\rightarrow H\)` be a [group homomorphism][bookofproofs$679] Then it has the following properties:
+Let `\((G,\ast)\)` and `\((H,\cdot)\)` be two [groups][bookofproofs$671] with the respective [identities][bookofproofs$661] `\(e_G\)` and `\(e_H\)` and `\(f:G\rightarrow H\)` be a [group homomorphism][bookofproofs$679]. Then it has the following properties:
 
 `\[\begin{array}{cl}
 (1)&f(e_G)=e_H,\\

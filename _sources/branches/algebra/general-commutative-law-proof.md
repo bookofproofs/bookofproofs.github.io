@@ -15,4 +15,4 @@ contributors: bookofproofs
 ---
 
 * The general commutative law follows immediately from the [commutativity][bookofproofs$672] property, using it repeatedly.
-* This holds only if the number of elements is [finite][bookofproofs$985] For a counterexample see for instance [rearrangement of convergent series][bookofproofs$1366]
+* This holds only if the number of elements is [finite][bookofproofs$985]. For a counterexample see for instance [rearrangement of convergent series][bookofproofs$1366].

@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-There are two possibilities to show that a non-empty [subset][bookofproofs$552] `$H$` of a [group][bookofproofs$671] `$(G,\ast)$` is its [subgroup][bookofproofs$554] Both possibilities are equivalent. Which possibility you choose is more or less a matter of taste and of simplicity.
+There are two possibilities to show that a non-empty [subset][bookofproofs$552] `$H$` of a [group][bookofproofs$671] `$(G,\ast)$` is its [subgroup][bookofproofs$554]. Both possibilities are equivalent. Which possibility you choose is more or less a matter of taste and of simplicity.
 
 ### `$(1)$` Verify the subgroup properties
 
@@ -22,6 +22,5 @@ There are two possibilities to show that a non-empty [subset][bookofproofs$552] 
 * Demonstrate that if `$a\in H,$` then also its [inverse][bookofproofs$670] `$a^{-1}\in H.$`
 * Demonstrate that `$H$` is closed under the operation `$"\ast",$` i.e. `$a\ast b\in H$` for all `$a,b\in H.$`
 
-### `$(2)$` Verify the [subgroup criterion][bookofproofs$811]
-
+### `$(2)$` Verify the [subgroup criterion][bookofproofs$811].
 I.e. show that `$a\ast b^{-1}\in H$` for all `$a,b\in H.$`

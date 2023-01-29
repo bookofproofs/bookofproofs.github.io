@@ -31,4 +31,4 @@ Therefore, we can put the ratios in each other and get the following representat
 
 `$$\frac{a}b=q_0+\cfrac{1}{q_1+\cfrac{1}{q_2+\cfrac{1}{\ddots+\cfrac{1}{q_{n-2}+\cfrac{1}{q_{n-1}+\cfrac{1}{q_n}}}}}}$$`
 
-Please note that because `$r_{n} < r_{n-1}$`, we have `$q_n > 1$` and thus `$q_n\neq 0.$` Thus, this representation is well-defined. It is possible to represent any positive rational number this way. But how about [irrational numbers][bookofproofs$6663] In order to answer this question, we will introduce a new concept, the concept of _continued fractions_.
+Please note that because `$r_{n} < r_{n-1}$`, we have `$q_n > 1$` and thus `$q_n\neq 0.$` Thus, this representation is well-defined. It is possible to represent any positive rational number this way. But how about [irrational numbers][bookofproofs$6663]. In order to answer this question, we will introduce a new concept, the concept of _continued fractions_.

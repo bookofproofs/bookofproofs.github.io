@@ -14,8 +14,7 @@ The following lemma ensures that the elementary Gaussian operations indeed do no
 
 ---
 
-Let an [SLE][bookofproofs$1044] be given in the form of an [extended coefficient matrix][bookofproofs$7941] `$A|\gamma$` and let `$S$` be the [set][bookofproofs$550] of its solutions. Then `$S$` is an invariant of the [elementary Gaussian operations][bookofproofs$7952]
-
+Let an [SLE][bookofproofs$1044] be given in the form of an [extended coefficient matrix][bookofproofs$7941] `$A|\gamma$` and let `$S$` be the [set][bookofproofs$550] of its solutions. Then `$S$` is an invariant of the [elementary Gaussian operations][bookofproofs$7952].
 In other words, if we apply any finite series of these operations `$o_1,o_2,\ldots,o_k$` to `$A|\gamma$`, leading to the new SLEs
 
 * SLE$_1:=A^{(1)}|\gamma^{(1)}:=o_1(A|\gamma)$ after the first opertion `$o_1,$`

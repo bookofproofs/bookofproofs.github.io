@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -49,11 +48,11 @@
 <h1>Proof</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-group-homomorphism.html'>Lemma: Kernel and Image of Group Homomorphism</a>)</p>
 <ul>
-<li>By hypothesis, \((G,\ast)\) and \((H,\cdot)\) are <a href="https://bookofproofs.github.io/branches/algebra/group.html">groups</a> with the respective <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">identities</a> \(e_G\) and \(e_H\) and \(f:G\rightarrow H\) is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html">group homomorphism</a> </li>
-<li>We first show that \(ker(f)=\{e_G\}\) \(\Longleftrightarrow f\) is <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html">injective</a><ul>
-<li>$"\Rightarrow"$<ul>
+<li>By hypothesis, \((G,\ast)\) and \((H,\cdot)\) are <a href="https://bookofproofs.github.io/branches/algebra/group.html" title="Definition: Group">groups</a> with the respective <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html" title="Definition: Existence of a Neutral Element">identities</a> \(e_G\) and \(e_H\) and \(f:G\rightarrow H\) is a <a href="https://bookofproofs.github.io/branches/algebra/group-homomorphism.html" title="Definition: Group Homomorphism">group homomorphism</a>.</li>
+<li>We first show that \(ker(f)=\{e_G\}\) \(\Longleftrightarrow f\) is <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html" title="Definition: Injective Function">injective</a>.<ul>
+<li>"$\Rightarrow$"<ul>
 <li>Assume \(\ker(f)=\{e_G\}\). </li>
-<li>This means that the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html">fiber of \(e_H\) under \(f\) </a> equals \(\{e_G\}\), i.e. \(f^{-1}(e_H)=e_G\). </li>
+<li>This means that the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Definition: Partial and Total Maps (Functions)">fiber of \(e_H\) under \(f\) </a> equals \(\{e_G\}\), i.e. \(f^{-1}(e_H)=e_G\). </li>
 <li>This means that \(f(e_G)=e_H\). </li>
 <li>Because \(f\) is a group homomorphism, it follows that 
 \[\begin{array}{cl}
@@ -61,13 +60,13 @@ f(x)=f(x\ast e_G)=e_H\cdot x=x\\
 f(y)=f(y\ast e_G)=e_H\cdot y=y\\
 \end{array}\]
 for any two elements \(x,y\in H\). </li>
-<li>Therefore, from \(f(x)=f(y)\) it follows that \(x=y\), so \(f\) is <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html">injective</a></li>
+<li>Therefore, from \(f(x)=f(y)\) it follows that \(x=y\), so \(f\) is <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html" title="Definition: Injective Function">injective</a>.</li>
 </ul>
 </li>
-<li>$"\Leftarrow"$<ul>
+<li>"$\Leftarrow$"<ul>
 <li>Assume \(f\) is injective. </li>
 <li>This means that from \(f(x)=f(y)\) it follows that \(x=y\). </li>
-<li>Because \(f\) is a group homomorphism, we have \(f(x)\cdot(f(y))^{-1}=e_H\) and it follows further from its <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html">properties</a> that \(f(x)\cdot f(y^{-1})=e_H\). </li>
+<li>Because \(f\) is a group homomorphism, we have \(f(x)\cdot(f(y))^{-1}=e_H\) and it follows further from its <a href="https://bookofproofs.github.io/branches/algebra/properties-of-a-group-homomorphism.html" title="Proposition: Properties of a Group Homomorphism">properties</a> that \(f(x)\cdot f(y^{-1})=e_H\). </li>
 <li>Applying the homomorphism property again, we get \(f(x\ast y^{-1})=e_H\). </li>
 <li>Now, because \(x=y\), we have \(f(e_G)=e_H\), i.e. \(f^{-1}(e_H)=e_G\), thus \(ker(f)=\{e_G\}\).</li>
 </ul>
@@ -75,7 +74,7 @@ for any two elements \(x,y\in H\). </li>
 </ul>
 </li>
 <li>We now show that \(\operatorname{im}(f)=H\) \(\Longleftrightarrow f\) is surjective. <ul>
-<li>We just have to apply the <a href="https://bookofproofs.github.io/branches/set-theory/surjective-function.html">definition of surjectivity</a></li>
+<li>We just have to apply the <a href="https://bookofproofs.github.io/branches/set-theory/surjective-function.html" title="Definition: Surjective Function">definition of surjectivity</a>.</li>
 </ul>
 </li>
 </ul>
@@ -87,15 +86,14 @@ for any two elements \(x,y\in H\). </li>
 <ol>
 <li><strong>Kramer Jürg, von Pippich, Anna-Maria</strong>: "Von den natürlichen Zahlen zu den Quaternionen", Springer-Spektrum, 2013</li>
 </ol>
-<h4>Footnotes</h4>
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

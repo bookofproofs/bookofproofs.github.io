@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-Let `$(F,+,\cdot)$` be a field with an [absolute value][bookofproofs$8659] `$|\dot|$` define on it. Then the function `$d:F\times F\to\mathbb R$` defined by `$$d(x,y):=|x-y|$$` defines a [metric][bookofproofs$614], making `$(F,d)$` a [metric space][bookofproofs$617]
+Let `$(F,+,\cdot)$` be a field with an [absolute value][bookofproofs$8659] `$|\dot|$` define on it. Then the function `$d:F\times F\to\mathbb R$` defined by `$$d(x,y):=|x-y|$$` defines a [metric][bookofproofs$614], making `$(F,d)$` a [metric space][bookofproofs$617].

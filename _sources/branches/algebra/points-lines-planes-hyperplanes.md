@@ -14,8 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\(\mathcal A=(A,V_A,v)\)` be an [`\(n\)`-dimensional][bookofproofs$6281] [affine space][bookofproofs$6277] for a [natural number][bookofproofs$718] `\(n\ge 0\)`. Let `\(U\subseteq \mathcal A\)` be an [affine subspace][bookofproofs$414]
-
+Let `\(\mathcal A=(A,V_A,v)\)` be an [`\(n\)`-dimensional][bookofproofs$6281] [affine space][bookofproofs$6277] for a [natural number][bookofproofs$718] `\(n\ge 0\)`. Let `\(U\subseteq \mathcal A\)` be an [affine subspace][bookofproofs$414].
 * If `\(\operatorname{dim}(U)=-1\)`, then `\(U=\emptyset\)`.
 * If `\(\operatorname{dim}(U)=0\)`, then `\(U\)` is called a **point**.
 * If `\(\operatorname{dim}(U)=1\)`, then `\(U\)` is called a **line**.

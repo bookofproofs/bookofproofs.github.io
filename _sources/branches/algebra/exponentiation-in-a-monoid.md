@@ -14,7 +14,7 @@ Because a monoid `$(X,\ast)$` ensures by definition the existence of a neutral e
 
 ---
 
-Let `\((X,\ast)\)` be a [monoid][bookofproofs$659], `\(x\in X\)`, and `\(n\)` a [natural number][bookofproofs$718] We define the *exponentiation to the `\(n\)`-th power* as the [binary operation][bookofproofs$6188] `$"\ast"$` applied `\(n\)` times to the element `\(x\)`. For `\(n=0\)`, we set `\(x^0:=e\)`. Formally:
+Let `\((X,\ast)\)` be a [monoid][bookofproofs$659], `\(x\in X\)`, and `\(n\)` a [natural number][bookofproofs$718]. We define the *exponentiation to the `\(n\)`-th power* as the [binary operation][bookofproofs$6188] "`$\ast$`" applied `\(n\)` times to the element `\(x\)`. For `\(n=0\)`, we set `\(x^0:=e\)`. Formally:
 
 `\[x^n :=
 \begin{cases}

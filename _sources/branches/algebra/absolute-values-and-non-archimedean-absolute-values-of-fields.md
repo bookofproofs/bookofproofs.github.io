@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `$(F,\oplus,\odot)$` be a [field][bookofproofs$557] An **absolute value** `$|\cdot|:F\to \mathbb R$` is a [real-valued][bookofproofs$1105] [function][bookofproofs$592] fulfilling the following properties:
+Let `$(F,\oplus,\odot)$` be a [field][bookofproofs$557]. An **absolute value** `$|\cdot|:F\to \mathbb R$` is a [real-valued][bookofproofs$1105] [function][bookofproofs$592] fulfilling the following properties:
 
 1. `$|x|\ge 0$` for all `$x\in F.$`
 1. `$|x|=0$` if and only if `$x=0\in F.$`

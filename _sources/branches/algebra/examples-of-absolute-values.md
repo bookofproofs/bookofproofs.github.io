@@ -16,7 +16,7 @@ contributors: bookofproofs
 
 ### Trivial Absolute Value
 
-Let `$F$` be a [field][bookofproofs$557] The [constant function][bookofproofs$6342]":https://www.bookofproofs.org/branches/partial-total-maps/ `$|\cdot|:F\to\mathbb R$` with `$|x|=1$` for all `$x\neq 0$` is an absolute value and a valuation on `$F$`. It is called the **trivial absolute value**.
+Let `$F$` be a [field][bookofproofs$557]. The [constant function][bookofproofs$6342]":https://www.bookofproofs.org/branches/partial-total-maps/ `$|\cdot|:F\to\mathbb R$` with `$|x|=1$` for all `$x\neq 0$` is an absolute value and a valuation on `$F$`. It is called the **trivial absolute value**.
 
 ### P-adic Absolute Value
 
@@ -25,12 +25,10 @@ Let `$m,n$` be integers `$\neq 0$` and let `$r,s$` be the highest powers of a [p
 
 ### Absolute Value of Rational Numbers
 
-see [absolute value of rational numbers][bookofproofs$1081]
-
+see [absolute value of rational numbers][bookofproofs$1081].
 ### Absolute Value of Real Numbers
 
-see [absolute value of real numbers][bookofproofs$583]
-
+see [absolute value of real numbers][bookofproofs$583].
 ### Absolute Value of Complex Numbers
 
-see [absolute value of complex numbers][bookofproofs$1247]
+see [absolute value of complex numbers][bookofproofs$1247].

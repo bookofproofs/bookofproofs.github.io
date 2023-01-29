@@ -14,10 +14,10 @@ contributors: bookofproofs
 
 ---
 
-Let `$F$` be a [field][bookofproofs$557] The set `$F^n$` of all [vectors][bookofproofs$7943] with `$n$`
+Let `$F$` be a [field][bookofproofs$557]. The set `$F^n$` of all [vectors][bookofproofs$7943] with `$n$`
 coordinates (which we are going to identify with the set `$M_{n\times 1}(F)$` of all 
 single-column matrices with `$n$` rows over the field `$F$`)
-together with the [matrix addition][bookofproofs$8657] `$"+"$` constitutes an [Abelian group][bookofproofs$553], i.e.  `$(F_n, +)$` follows the rules:
+together with the [matrix addition][bookofproofs$8657] "`$+$`" constitutes an [Abelian group][bookofproofs$553], i.e.  `$(F_n, +)$` follows the rules:
 
 1. Associativity `$u+(v+w)=(u+v)+w$` for all vectors `$u,v,w\in F^n$`.
 1. Commutativity `$v+u=u+v$` for all vectors `$u,v\in F^n$`.

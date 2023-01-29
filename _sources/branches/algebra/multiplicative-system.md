@@ -14,7 +14,7 @@ contributors:
 
 ---
 
-Let `\((R, +, \cdot)\)` be a [commutative unit ring][bookofproofs$880] A [subset][bookofproofs$552] `\(S\subseteq R\)` is called a **multiplicative system**, if it fulfills the following properties:
+Let `\((R, +, \cdot)\)` be a [commutative unit ring][bookofproofs$880]. A [subset][bookofproofs$552] `\(S\subseteq R\)` is called a **multiplicative system**, if it fulfills the following properties:
 
 * `\(1\in S\)`,
 * `\(fg\in S\)` for all `\(f,g\in S\)` (i.e. `\(S\)` is closed under the multiplication)

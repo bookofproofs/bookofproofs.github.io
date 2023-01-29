@@ -14,8 +14,7 @@ contributors: bookofproofs
 
 ---
 
-The [set][bookofproofs$550] of all [polynomials][bookofproofs$487] 
-
+The [set][bookofproofs$550] of all [polynomials][bookofproofs$487].
 `\[p=a_{0}+a_{1}x+a_{2}x^{2}+\cdots +a_{n}x^{n}\]`
 
 over the [commutative ring][bookofproofs$880]  `\(R\)` (i.e. with `\(a_{i}\in R,\,i=0,\ldots ,n,\,n\in \mathbb {N} \)`), together with the component-wise addition and multiplication follow the usual rules of [exponentiation][bookofproofs$673] `\(X^{n}\cdot X^{m}:=X^{n+m}\)` is called **polynomial ring** and denoted by `\(R[X]\)`. Specifically, if `\(p,q\in R[X]\)` with

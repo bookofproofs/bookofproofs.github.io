@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -48,23 +47,23 @@
 
 <h1>Example: Examples of Magmas, Semigroups, and Monoids</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/magmas-semigroups-monoids.html'>Chapter: Magmas, Semigroups, Monoids (Overview)</a>)</p>
-<h3>Examples of <a href="https://bookofproofs.github.io/branches/algebra/magma.html">magmas</a></h3>
+<h3>Examples of <a href="https://bookofproofs.github.io/branches/algebra/magma.html" title="Definition: Magma">magmas</a>.</h3>
 <ul>
-<li>The set $\mathbb N$ together with the power operation $(n,m)\to n^m$ is not associative and it has only a <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">left-neutral</a> element.</li>
-<li>The set of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-rational-numbers.html">rational numbers</a> with the operation of building arithmetic mean $(p,q)\to \frac 12(p+q)$ is not associative and it has no neutral element.</li>
+<li>The set $\mathbb N$ together with the power operation $(n,m)\to n^m$ is not associative and it has only a <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html" title="Definition: Existence of a Neutral Element">left-neutral</a> element.</li>
+<li>The set of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-rational-numbers.html" title="Proposition: Definition of Rational Numbers">rational numbers</a> with the operation of building arithmetic mean $(p,q)\to \frac 12(p+q)$ is not associative and it has no neutral element.</li>
 <li>All of the below examples (a magma is more general than a semigroup).</li>
 </ul>
-<h3>Examples of <a href="https://bookofproofs.github.io/branches/algebra/semigroup.html">semigroups</a></h3>
+<h3>Examples of <a href="https://bookofproofs.github.io/branches/algebra/semigroup.html" title="Definition: Semigroup">semigroups</a>.</h3>
 <ul>
-<li>On the set $M_{n\times n}(\mathbb R)$ of $n\times n$ <a href="https://bookofproofs.github.io/branches/algebra/matrix-set-of-matrices-over-a-field.html">square matrices</a> with <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html">real</a> coefficients, we can define a binary operation $\ast$ by $(A,B)\to A\ast B:=AB + BA$, where $A$ and $B$ are matrices in $M_{n\times n}(\mathbb R)$ and $AB$ and $BA$ denote the "matrix multiplication":<a href="https://www.bookofproofs.org/branches/matrix-multiplication/">https://www.bookofproofs.org/branches/matrix-multiplication/</a><sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>. The operation $[\ast"$ is not "associative]<a href="https://bookofproofs.github.io/branches/algebra/associativity.html">bookofproofs$668</a> for $n\ge 2$ and the semigroup has no neutral element.</li>
+<li>On the set $M_{n\times n}(\mathbb R)$ of $n\times n$ <a href="https://bookofproofs.github.io/branches/algebra/matrix-set-of-matrices-over-a-field.html" title="Definition: Matrix, Set of Matrices over a Field">square matrices</a> with <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html" title="Proposition: Definition of Real Numbers">real</a> coefficients, we can define a binary operation $\ast$ by $(A,B)\to A\ast B:=AB + BA$, where $A$ and $B$ are matrices in $M_{n\times n}(\mathbb R)$ and $AB$ and $BA$ denote the "matrix multiplication":<a href="https://www.bookofproofs.org/branches/matrix-multiplication/">https://www.bookofproofs.org/branches/matrix-multiplication/</a><sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>. The operation "$\ast$" is not <a href="https://bookofproofs.github.io/branches/algebra/associativity.html" title="Definition: Associativity">associative</a> for $n\ge 2$ and the semigroup has no neutral element.</li>
 <li>All of the below examples (a semigroup is more general than a monoid).  </li>
 </ul>
-<h3>Examples of <a href="https://bookofproofs.github.io/branches/algebra/monoid.html">monoids</a></h3>
+<h3>Examples of <a href="https://bookofproofs.github.io/branches/algebra/monoid.html" title="Definition: Monoid">monoids</a>.</h3>
 <ul>
-<li>In the set $(\mathbb N, + )$ of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-natural-numbers.html">natural numbers together with addition</a> the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-natural-numbers-is-associative.html">addition of natural numbers is associative</a> with $0$ as a <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">neutral element</a>. Therefore it is a monoid. In addition, the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-natural-numbers-is-commutative.html">addition of natuaral numbers is commutative</a></li>
-<li>If $X$ is a non-empty <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html">set</a>, then the set $(\mathcal F(X,X),\circ)$ of all <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html">functions</a> $f:X\to X$ with the <a href="https://bookofproofs.github.io/branches/set-theory/composition-of-functions.html">composition of functions</a> $[\circ"$ an an operation is a monoid, since the "composition of functions is associative]<a href="https://bookofproofs.github.io/branches/set-theory/composition-of-functions-is-associative.html">bookofproofs$8005</a> and the identity function $f(x)=x$ for all $x\in X$ is its <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">neutral element</a>. </li>
-<li>The set $(\mathbb Z\times \mathbb Z,\ast) of pairs of [integers][bookofproofs$844] with the operation $(a,b)\ast(c,d):=(ac,bd)$ is a monoid (the reader might verify the <a href="https://bookofproofs.github.io/branches/algebra/associativity.html">associativity</a> property with the neutral element $(1,1).$</li>
-<li>The set $(\Sigma^*,\cdot)$ of <a href="https://bookofproofs.github.io/branches/logic/algebraic-structure-of-strings-over-an-alphabet.html">strings</a> is a monoid.</li>
+<li>In the set $(\mathbb N, + )$ of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-natural-numbers.html" title="Proposition: Algebraic Structure Of Natural Numbers Together With Addition">natural numbers together with addition</a> the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-natural-numbers-is-associative.html" title="Proposition: Addition Of Natural Numbers Is Associative">addition of natural numbers is associative</a> with $0$ as a <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html" title="Definition: Existence of a Neutral Element">neutral element</a>. Therefore it is a monoid. In addition, the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-natural-numbers-is-commutative.html" title="Proposition: Addition of Natural Numbers Is Commutative">addition of natuaral numbers is commutative</a>.</li>
+<li>If $X$ is a non-empty <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Definition: Set, Set Element, Empty Set">set</a>, then the set $(\mathcal F(X,X),\circ)$ of all <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Definition: Partial and Total Maps (Functions)">functions</a> $f:X\to X$ with the <a href="https://bookofproofs.github.io/branches/set-theory/composition-of-functions.html" title="Lemma: Composition of Functions">composition of functions</a> "$\circ$" an an operation is a monoid, since the <a href="https://bookofproofs.github.io/branches/set-theory/composition-of-functions-is-associative.html" title="Proposition: Composition of Functions is Associative">composition of functions is associative</a> and the identity function $f(x)=x$ for all $x\in X$ is its <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html" title="Definition: Existence of a Neutral Element">neutral element</a>. </li>
+<li>The set $(\mathbb Z\times \mathbb Z,\ast) of pairs of [integers][bookofproofs$844] with the operation $(a,b)\ast(c,d):=(ac,bd)$ is a monoid (the reader might verify the <a href="https://bookofproofs.github.io/branches/algebra/associativity.html" title="Definition: Associativity">associativity</a> property with the neutral element $(1,1).$</li>
+<li>The set $(\Sigma^*,\cdot)$ of <a href="https://bookofproofs.github.io/branches/logic/algebraic-structure-of-strings-over-an-alphabet.html" title="Corollary: Algebraic Structure of Strings over an Alphabet">strings</a> is a monoid.</li>
 </ul>
 <hr>
 <p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/algebra/examples-of-magmas-semigroups-and-monoids.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
@@ -87,11 +86,11 @@
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

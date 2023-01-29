@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-Let `\((G,\ast)\)` be a [group][bookofproofs$671], `\(H\subseteq G\)` its [subgroup][bookofproofs$554] Then, for all `$a\in G$`, the [left cosets][bookofproofs$827] `$aH$` and the [right cosets][bookofproofs$827] `$Ha$` are [equipotent][bookofproofs$978] to `$H.$`
+Let `\((G,\ast)\)` be a [group][bookofproofs$671], `\(H\subseteq G\)` its [subgroup][bookofproofs$554]. Then, for all `$a\in G$`, the [left cosets][bookofproofs$827] `$aH$` and the [right cosets][bookofproofs$827] `$Ha$` are [equipotent][bookofproofs$978] to `$H.$`

@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-A **principal ideal ring** is a [ring][bookofproofs$683] in which every [ideal][bookofproofs$1062][ is a "principal ideal][bookofproofs$1063]
+A **principal ideal ring** is a [ring][bookofproofs$683] in which every [ideal][bookofproofs$1062] is a [principal ideal][bookofproofs$1063].

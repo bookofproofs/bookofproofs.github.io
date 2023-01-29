@@ -10,7 +10,7 @@ keywords: powers,submonoid,subset
 contributors: bookofproofs
 
 ---
-As an example of a substructure, we show that the consecutive performance of the binary operation `$"\ast"$` on the same element creates a substructure in a monoid.
+As an example of a substructure, we show that the consecutive performance of the binary operation "`$\ast$`" on the same element creates a substructure in a monoid.
 
 ---
 

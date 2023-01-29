@@ -14,8 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\(\mathcal A=(A,V_A,v)\)` be an [affine space][bookofproofs$6277] Any `\(n+1\)` [affinely independent points][bookofproofs$6280]
-
+Let `\(\mathcal A=(A,V_A,v)\)` be an [affine space][bookofproofs$6277]. Any `\(n+1\)` [affinely independent points][bookofproofs$6280].
 `\[P_0,P_1,P_2\ldots,P_n\quad\quad ( * )\]`
 
 are called an **affine basis** (or an **affine coordinate system**) of `\(\mathcal A\)`. 

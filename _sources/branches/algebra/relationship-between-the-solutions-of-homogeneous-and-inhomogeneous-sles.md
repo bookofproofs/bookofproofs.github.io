@@ -14,8 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `$u_1,\ldots,u_n$` be a solution of an [inhomogeneous system of linear equations][bookofproofs$1044] 
-
+Let `$u_1,\ldots,u_n$` be a solution of an [inhomogeneous system of linear equations][bookofproofs$1044].
 `$$\begin{array}{ccl} 
 \alpha_{11}x_1+\ldots+\alpha_{1n}x_n&=&\beta_1\\\ 
 \alpha_{21}x_1+\ldots+\alpha_{2n}x_n&=&\beta_2\\ 
@@ -27,8 +26,7 @@ Then all other solutions `$w_1,\ldots,w_n$` of `$( * )$` are given by
 
 `$$w_\nu:=u_\nu\pm h_\nu\quad\quad\text{ for all }\,\mu=1,\ldots,m,$$`  
 
-where  `$h_1,\ldots,h_n$` is a solution of the corresponding [homogeneous system of linear equations][bookofproofs$1044] 
-
+where  `$h_1,\ldots,h_n$` is a solution of the corresponding [homogeneous system of linear equations][bookofproofs$1044].
 `$$\begin{array}{ccl} 
 \alpha_{11}x_1+\ldots+\alpha_{1n}x_n&=&0\\\ 
 \alpha_{21}x_1+\ldots+\alpha_{2n}x_n&=&0\\ 

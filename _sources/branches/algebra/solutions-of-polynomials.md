@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-In this section, we will give closed formulas for polynomials with a given [degree][bookofproofs$199] Such closed formulas exist only up to the degree of `$4$` (due to the Abel-Ruffini theorem.)
+In this section, we will give closed formulas for polynomials with a given [degree][bookofproofs$199]. Such closed formulas exist only up to the degree of `$4$` (due to the Abel-Ruffini theorem.)

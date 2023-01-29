@@ -14,4 +14,4 @@ contributors:
 
 ---
 
-Let `\(R\)` be a [commutative ring][bookofproofs$880] and let `\(I\)` be an ideal of the ring `\(S=R/I\)` being the resulting [factor ring][bookofproofs$274] Then there is a one-to-one correspondence of ideals of `\(S\)` and those of `\(R\)`, which contain `\(I\)`.
+Let `\(R\)` be a [commutative ring][bookofproofs$880] and let `\(I\)` be an ideal of the ring `\(S=R/I\)` being the resulting [factor ring][bookofproofs$274]. Then there is a one-to-one correspondence of ideals of `\(S\)` and those of `\(R\)`, which contain `\(I\)`.

@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\(F\)` be a [field][bookofproofs$557] A **system of linear equations** (SLE) with `\(n\)` **unknowns** `\(x_1,\ldots,x_n\)` and (`\(m\ge 1\)`) [linear equations][bookofproofs$1043] is given by 
+Let `\(F\)` be a [field][bookofproofs$557]. A **system of linear equations** (SLE) with `\(n\)` **unknowns** `\(x_1,\ldots,x_n\)` and (`\(m\ge 1\)`) [linear equations][bookofproofs$1043] is given by 
 
 `\[\begin{array}{ccl}
 \alpha_{11}x_1+\ldots+\alpha_{1n}x_n&=&\beta_1\\\

@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-Let `\((F, + ,\cdot)\)` be a [field][bookofproofs$683] A [subset][bookofproofs$552]  `\(S\subseteq R\)` is called a **subfield** of `\(F\)`, if `\((S, + ,\cdot)\)` itself is a field.
+Let `\((F, + ,\cdot)\)` be a [field][bookofproofs$683]. A [subset][bookofproofs$552]  `\(S\subseteq R\)` is called a **subfield** of `\(F\)`, if `\((S, + ,\cdot)\)` itself is a field.

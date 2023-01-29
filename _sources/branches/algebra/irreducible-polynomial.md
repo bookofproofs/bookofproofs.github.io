@@ -14,4 +14,4 @@ Following the definition of [irreducible][bookofproofs$822] elements of a genera
 
 ---
 
-Let `$(R, + ,\cdot)$` be an [integral domain][bookofproofs$821] An **irreducible polynomial** `$p\in R[X]$` is a [polynomial][bookofproofs$6323] of [degree][bookofproofs$487] `$\deg(p)\ge 1$` such that if `$p=gh$` is [factorization][bookofproofs$8262] with polynomials `$g,h\in R[X],$` then either `$g$` or `$h$` is a [unit][bookofproofs$8259] In other words, either `$g\in R^\ast$` or `$h\in R^\ast,$` where `$R^\ast$` is the [group of units][bookofproofs$8283]
+Let `$(R, + ,\cdot)$` be an [integral domain][bookofproofs$821]. An **irreducible polynomial** `$p\in R[X]$` is a [polynomial][bookofproofs$6323] of [degree][bookofproofs$487] `$\deg(p)\ge 1$` such that if `$p=gh$` is [factorization][bookofproofs$8262] with polynomials `$g,h\in R[X],$` then either `$g$` or `$h$` is a [unit][bookofproofs$8259]. In other words, either `$g\in R^\ast$` or `$h\in R^\ast,$` where `$R^\ast$` is the [group of units][bookofproofs$8283].

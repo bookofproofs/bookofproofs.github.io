@@ -14,8 +14,7 @@ contributors: bookofproofs
 
 ---
 
-We will now build the respective [group homomorphisms][bookofproofs$680] for the [examples given for group homomorphisms][bookofproofs$8651]
-
+We will now build the respective [group homomorphisms][bookofproofs$680] for the [examples given for group homomorphisms][bookofproofs$8651].
 ### Ad Example 1 
 
 * Kernel `$\operatorname{ker}(f):= \{g\in G\mid f(g)=e_H\}$`:
@@ -33,6 +32,6 @@ We will now build the respective [group homomorphisms][bookofproofs$680] for the
 ### Ad Example 3
 
 * Kernel `$\operatorname{ker}(f):= \{g\in G\mid f(g)=e_H\}$`:
-   * The [neutral element][bookofproofs$661] of `$H$` is `$$e_H=\pmatrix{1&0\\0&1}.$$` The elements of `$x\in (\mathbb R,+)$` for which `$\rho(x)=e_H$` are all integer multiples of `$2\pi k,$` `$k\in\mathbb Z.$` This follows from [special values of cosine and sine][bookofproofs$6739] and their [periodicity][bookofproofs$6740] Thus `$\{2\pi k\mid k\in\mathbb Z\}$` is the kernel of `$\rho.$` 
+   * The [neutral element][bookofproofs$661] of `$H$` is `$$e_H=\pmatrix{1&0\\0&1}.$$` The elements of `$x\in (\mathbb R,+)$` for which `$\rho(x)=e_H$` are all integer multiples of `$2\pi k,$` `$k\in\mathbb Z.$` This follows from [special values of cosine and sine][bookofproofs$6739] and their [periodicity][bookofproofs$6740]. Thus `$\{2\pi k\mid k\in\mathbb Z\}$` is the kernel of `$\rho.$` 
 * Image `$\operatorname{im}(\exp):=f[G]=\{f(g)\in H\mid g\in G\}$`: 
    * The image `$\rho[\mathbb R]=\mathbb R^+$` are all matrices of `$H=(\operatorname{GL}(2,\mathbb R),\cdot).$`

@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\((G,\ast)\)` be a [group][bookofproofs$671] and `\(H\subseteq G\)` its [subgroup][bookofproofs$554] Then the following properties hold for cosets:
+Let `\((G,\ast)\)` be a [group][bookofproofs$671] and `\(H\subseteq G\)` its [subgroup][bookofproofs$554]. Then the following properties hold for cosets:
 
 > (1) If `\(|H|=n\)`, then `\(|aH|=n\)` (respectively `\(|Ha|=n\)`), i.e. cosets of a finite subgroup have the same order as this subgroup.
 

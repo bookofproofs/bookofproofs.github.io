@@ -73,6 +73,7 @@ class BopCompiler:
     def _render_references(self, bop_source: BopSource):
         references_md = "<hr>\n"
         has_references = False
+        has_footnotes = False
         licenses = self.references.get_licenses_for_bop_source(bop_source)
         if len(licenses) > 0:
             references_md += "### References\n"
@@ -85,9 +86,12 @@ class BopCompiler:
             body_of_reference = bop_license.license_source.get_body()
             if body_of_reference != "":
                 references_md += "\n" + body_of_reference + "\n"
+
         if re.search(r"\[\^.*?\]", bop_source.get_pre_body() + "\n" + bop_source.get_body()):
             has_references = True
-        references_md += "\n#### Footnotes\n"
+            has_footnotes = True
+        if has_footnotes:
+            references_md += "\n#### Footnotes\n"
         if has_references:
             return references_md
         else:

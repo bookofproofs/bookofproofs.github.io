@@ -18,6 +18,6 @@ Let `\(V\)` be a [vector space][bookofproofs$560] over a  [field][bookofproofs$5
 
 `\[\varphi \colon V\longrightarrow V\,\]`
 
-be a [linear map][bookofproofs$403] A vector `\(v\in V\)`, `\(v\neq 0\)`, is called an **eigenvector** of `\(\varphi \)` associated with the [eigenvalue][bookofproofs$6250] `\(\lambda \in F\)`, if
+be a [linear map][bookofproofs$403]. A vector `\(v\in V\)`, `\(v\neq 0\)`, is called an **eigenvector** of `\(\varphi \)` associated with the [eigenvalue][bookofproofs$6250] `\(\lambda \in F\)`, if
 
 `\[\varphi (v)=\lambda v.\]`

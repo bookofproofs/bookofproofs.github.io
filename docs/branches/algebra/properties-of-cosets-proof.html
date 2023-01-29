@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -48,13 +47,13 @@
 
 <h1>Proof</h1>
 <p>(related to <a href='https://bookofproofs.github.io/branches/algebra/properties-of-cosets.html'>Proposition: Properties of Cosets</a>)</p>
-<p>In the following let \((G,\ast)\) be a <a href="https://bookofproofs.github.io/branches/algebra/group.html">group</a> and \(H\subseteq G\) its <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> </p>
+<p>In the following let \((G,\ast)\) be a <a href="https://bookofproofs.github.io/branches/algebra/group.html" title="Definition: Group">group</a> and \(H\subseteq G\) its <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html" title="Definition: Subgroup">subgroup</a>.</p>
 <h4>Proof of (1)</h4>
-<p>If \(|H|=n\), then \(|Ha|\le n\), which follows from the <a href="https://bookofproofs.github.io/branches/algebra/cosets.html">definition of a coset</a> But \(|Ha| \not &lt;  n\). For if \(|Ha| &lt;  n\), then there would be at least two different elements \(g,h\in H\), \(g\neq h\) and \(g\ast a=h\ast a\). This is equivalent to \(g=h\), which is a <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html">contradiction</a> to \(g\neq h\). Thus it must be \(|Ha|=|H|\). Analogously, we can prove \(|aH|=|H|\).</p>
+<p>If \(|H|=n\), then \(|Ha|\le n\), which follows from the <a href="https://bookofproofs.github.io/branches/algebra/cosets.html" title="Definition: Cosets">definition of a coset</a>. But \(|Ha| \not &lt;  n\). For if \(|Ha| &lt;  n\), then there would be at least two different elements \(g,h\in H\), \(g\neq h\) and \(g\ast a=h\ast a\). This is equivalent to \(g=h\), which is a <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Lemma: The Proving Principle by Contradiction">contradiction</a> to \(g\neq h\). Thus it must be \(|Ha|=|H|\). Analogously, we can prove \(|aH|=|H|\).</p>
 <h4>Proof of (2)</h4>
-<p>We have to prove that \(a\sim_l b:=a\in bH\) (respectively \(a\sim_r b:=a\in Hb\)) define <a href="https://bookofproofs.github.io/branches/set-theory/equivalence-relation.html">equivalence relations</a>, by proving their reflexivity, symmetry and transitivity.</p>
+<p>We have to prove that \(a\sim_l b:=a\in bH\) (respectively \(a\sim_r b:=a\in Hb\)) define <a href="https://bookofproofs.github.io/branches/set-theory/equivalence-relation.html" title="Definition: Equivalence Relation">equivalence relations</a>, by proving their reflexivity, symmetry and transitivity.</p>
 <h3>Reflexivity</h3>
-<p>Because \(H\subset G\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html">subgroup</a> of \(G\), the neutral element of \(G\) is also the neutral element of \(H\). Therefore, following the <a href="https://bookofproofs.github.io/branches/algebra/cosets.html">definition of cosets</a>, \(a\in aH\) and \(a\in Ha\). So \(a\sim_l a\) (respectively \(a\sim_r a\)) are reflexive. </p>
+<p>Because \(H\subset G\) is a <a href="https://bookofproofs.github.io/branches/algebra/subgroup.html" title="Definition: Subgroup">subgroup</a> of \(G\), the neutral element of \(G\) is also the neutral element of \(H\). Therefore, following the <a href="https://bookofproofs.github.io/branches/algebra/cosets.html" title="Definition: Cosets">definition of cosets</a>, \(a\in aH\) and \(a\in Ha\). So \(a\sim_l a\) (respectively \(a\sim_r a\)) are reflexive. </p>
 <h3>Symmetry</h3>
 <p>Assume \(a\sim_l b\). From \(a\in bH\) it follows that there exists \(x\in H\) with \(a=b\ast x\), which is equivalent to \(a\ast x^{-1}=b\). Because also \(x^{-1}\in H\), it follows that \(b\in aH\), so \(b\sim_l a\) is symmetric. Respectively, assume \(a\sim_r b\). From \(a\in Hb\) it follows that there exists \(x\in H\) with \(a=x\ast b\), which is equivalent to \(x^{-1}a=b\). Because also \(x^{-1}\in H\), it follows that \(b\in Ha\), so \(b\sim_r a\) is symmetric.</p>
 <h3>Transitivity</h3>
@@ -68,15 +67,14 @@ Respectively, assume \(a\sim_r b\) and \(b\sim_r c\). From \(a\in Hb\) it follow
 <ol>
 <li><strong>Ayres jr. Frank</strong>: "Theory and Problems of Modern Algebra", McGraw-Hill Book Company Europe, 1978</li>
 </ol>
-<h4>Footnotes</h4>
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

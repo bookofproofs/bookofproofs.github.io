@@ -14,11 +14,8 @@ contributors: bookofproofs
 
 ---
 
-Let `\((R, + ,\cdot)\)` be a [ring with identity][bookofproofs$683] `\(1_R\)` and let `\(M=(M,+)\)` be a [commutative group][bookofproofs$553] 
-
-
-We call `\(_RM\)` a **left module**, if there is a [binary operation][bookofproofs$6188]
-
+Let `\((R, + ,\cdot)\)` be a [ring with identity][bookofproofs$683] `\(1_R\)` and let `\(M=(M,+)\)` be a [commutative group][bookofproofs$553].
+We call `\(_RM\)` a **left module**, if there is a [binary operation][bookofproofs$6188].
 `\[\odot:\cases{R\times M\longrightarrow M,\cr(r,v)\longmapsto r\odot v,}\]`
 
 with the following properties:
@@ -29,8 +26,7 @@ with the following properties:
 
 for all `\(r,s\in R\)` and all `\(u,v\in M\)`.
 
-Analogously, we call `\(M_R\)` a **right module**, if there is a [binary operation][bookofproofs$6188]
-
+Analogously, we call `\(M_R\)` a **right module**, if there is a [binary operation][bookofproofs$6188].
 `\[\odot:\cases{M\times R\longrightarrow M,\cr(v,r)\longmapsto v\odot r,}\]`
 
 with the following properties:

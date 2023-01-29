@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-Let `\(F\)` be a [field][bookofproofs$557] and let `\(L/F\)` be its [field extension][bookofproofs$6213] An element `\(x\in L\)` is called *algebraic over `\(F\)`*, if there is a non-zero [polynomial][bookofproofs$487] `\(p\in F[X]\)` with `\(p(x)=0\)`.
+Let `\(F\)` be a [field][bookofproofs$557] and let `\(L/F\)` be its [field extension][bookofproofs$6213]. An element `\(x\in L\)` is called *algebraic over `\(F\)`*, if there is a non-zero [polynomial][bookofproofs$487] `\(p\in F[X]\)` with `\(p(x)=0\)`.

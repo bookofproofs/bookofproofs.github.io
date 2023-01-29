@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-Let `\({\mathbb {Q} }\subseteq L\)` be a finite [field extention][bookofproofs$6211] The [integral closure][bookofproofs$6322] of `\(\mathbb {Z} \)` in `\(L\)` is called the **ring of integers** in `\(L\)`. Thereby, `\(\mathbb Q\)` denotes the [field of rational numbers][bookofproofs$1647] and `\(\mathbb Z\)` denotes the [integral domain of integers][bookofproofs$892]
+Let `\({\mathbb {Q} }\subseteq L\)` be a finite [field extention][bookofproofs$6211]. The [integral closure][bookofproofs$6322] of `\(\mathbb {Z} \)` in `\(L\)` is called the **ring of integers** in `\(L\)`. Thereby, `\(\mathbb Q\)` denotes the [field of rational numbers][bookofproofs$1647] and `\(\mathbb Z\)` denotes the [integral domain of integers][bookofproofs$892].

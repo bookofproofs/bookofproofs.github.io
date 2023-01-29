@@ -544,7 +544,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Smith_John/">John Smith</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Godel/">Kurt Gödel</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Godel/">Gödel, Kurt</a>
+: Gödel proved fundamental results about axiomatic systems showing in any axiomatic mathematical system there are propositions that cannot be proved or disproved within the axioms of the system.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hirsch/">Kurt Hirsch</a>
 : Kurt Hirsch worked in various areas of Group Theory.
@@ -726,8 +727,7 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Quine/">Willard Van Orman Quine</a>
 
-[Spacetime diagrams][bookofproofs$6307]
-
+[Spacetime diagrams][bookofproofs$6307].
 ### 1909 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Malcev/">Anatoly Ivanovich Malcev</a>
 : A Russian mathematician noted for his work on the decidability of various algebraic structures.
@@ -755,7 +755,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Walker_Arthur/">Geoffrey Walker</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Gentzen/">Gerhard Gentzen</a>
-: Gentzen invented a 'natural deduction' which provided a logic closer to mathematical reasoning than the systems proposed by Frege, Russell and Hilbert.
+: Gentzen invented a 'natural deduction' which provided a logic closer to mathematical reasoning than the systems proposed by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Frege/">Frege</a>, <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Russell/">Russell</a> and <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hilbert/">Hilbert</a>.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Nakano/">Hidegorô Nakano</a>
 

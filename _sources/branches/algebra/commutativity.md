@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-Let `$(X,\ast)$` be an [algebraic structure][bookofproofs$85] The [binary operation][bookofproofs$6188] `$"\ast"$` is called **commutative** if `$x\ast y=y\ast y$` holds for any two elements `\(x,y\in X\)`.
+Let `$(X,\ast)$` be an [algebraic structure][bookofproofs$85]. The [binary operation][bookofproofs$6188] "`$\ast$`" is called **commutative** if `$x\ast y=y\ast y$` holds for any two elements `\(x,y\in X\)`.

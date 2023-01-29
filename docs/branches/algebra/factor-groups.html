@@ -13,7 +13,7 @@
 <link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
 <script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
 <link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
 <link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
 <script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
@@ -26,18 +26,17 @@
 <div class="w3-top">
     <div class="w3-bar w3-white w3-wide w3-padding w3-card">
         <a href="https://bookofproofs.github.io/" class="w3-bar-item">
-            <img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true' alt='' width='200' id='logo'>
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
         </a>
-        <!-- Float links to the right. Hide them on small screens -->
         <div class="w3-right">
             <div class="w3-hideorientation">
                 <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
                 <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
                 <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
-                <div style='clear:both'></div>
+                <div style="clear:both"></div>
             </div>
         </div>
-        <div style='clear:both'></div>
+        <div style="clear:both"></div>
         <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
     </div>
 </div>
@@ -47,15 +46,15 @@
 <hr>
 
 <h1>Lemma: Factor Groups</h1>
-<p>Let \( ( G ,\ast) \) be a <a href="https://bookofproofs.github.io/branches/algebra/group.html">group</a> and let \(N\unlhd G\) be its <a href="https://bookofproofs.github.io/branches/algebra/normal-subgroups.html">normal subgroup</a> The <a href="https://bookofproofs.github.io/branches/algebra/properties-of-cosets.html">quotient set</a> \(G/N:=\{aN: a\in G\}\) of all <a href="https://bookofproofs.github.io/branches/algebra/cosets.html"> (left) cosets</a>, together with the binary operation "\(\circ\)":</p>
+<p>Let \( ( G ,\ast) \) be a <a href="https://bookofproofs.github.io/branches/algebra/group.html" title="Definition: Group">group</a> and let \(N\unlhd G\) be its <a href="https://bookofproofs.github.io/branches/algebra/normal-subgroups.html" title="Definition: Normal Subgroups">normal subgroup</a>. The <a href="https://bookofproofs.github.io/branches/algebra/properties-of-cosets.html" title="Proposition: Properties of Cosets">quotient set</a> \(G/N:=\{aN: a\in G\}\) of all <a href="https://bookofproofs.github.io/branches/algebra/cosets.html" title="Definition: Cosets"> (left) cosets</a>, together with the binary operation "\(\circ\)":</p>
 <p>\[(a_1 N)\circ(a_2N):=(a_1\ast a_2)N\quad\quad(a_1,a_2\in G)\]</p>
 <p>forms a group \((G/N,\circ )\), called the <strong>factor group</strong> of \(G\) with respect to the normal subgroup \(N\), (also pronounced as "G modulo N"). In particular: </p>
 <ol>
-<li>The operation <a href="https://bookofproofs.github.io/branches/logic/when-is-something-well-defined-in-mathematics.html">\(\circ\)" is "well-defined</a>, (i.e. it does not depend on the particular choice of representatives \(a_1,a_2\)). </li>
-<li>The operation <a href="https://bookofproofs.github.io/branches/algebra/associativity.html">\(\circ\)" is "associative</a> </li>
-<li>\((G/N,\circ )\) is not <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html">empty</a> and contains at least the <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html">neutral element</a> of \((G/N,\circ )\) is \(N\). </li>
-<li>The <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html">inverse element</a> of an element \(aN\) of \((G/N,\circ )\) is \(a^{-1}N\).</li>
-<li>The <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html">inverse element</a> of an element \(aN\) of \((G/N,\circ )\) is \(a^{-1}N\).</li>
+<li>The operation "\(\circ\)" is <a href="https://bookofproofs.github.io/branches/logic/when-is-something-well-defined-in-mathematics.html" title="Explanation: When is something &amp;quot;well-defined&amp;quot; in mathematics?">well-defined</a>, (i.e. it does not depend on the particular choice of representatives \(a_1,a_2\)). </li>
+<li>The operation "\(\circ\)" is <a href="https://bookofproofs.github.io/branches/algebra/associativity.html" title="Definition: Associativity">associative</a>.</li>
+<li>\((G/N,\circ )\) is not <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Definition: Set, Set Element, Empty Set">empty</a> and contains at least the <a href="https://bookofproofs.github.io/branches/algebra/existence-of-a-neutral-element.html" title="Definition: Existence of a Neutral Element">neutral element</a> of \((G/N,\circ )\) is \(N\). </li>
+<li>The <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html" title="Definition: Inverse Element">inverse element</a> of an element \(aN\) of \((G/N,\circ )\) is \(a^{-1}N\).</li>
+<li>The <a href="https://bookofproofs.github.io/branches/algebra/existence-of-inverse-element.html" title="Definition: Inverse Element">inverse element</a> of an element \(aN\) of \((G/N,\circ )\) is \(a^{-1}N\).</li>
 </ol>
 <h3 class='navigation'>Table of Contents</h3>
 
@@ -68,15 +67,14 @@
 <ol>
 <li><strong>Kramer Jürg, von Pippich, Anna-Maria</strong>: "Von den natürlichen Zahlen zu den Quaternionen", Springer-Spektrum, 2013</li>
 </ol>
-<h4>Footnotes</h4>
 </div>
 <hr>
 <footer class="w3-center w3-black w3-padding-16">
-    <a href='https://bookofproofs.github.io/feeds/feeds.html' class="w3-hover-text-green w3-margin-right">Feeds</a>
-    <a href='https://bookofproofs.github.io/ack/ack.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
-    <a href='https://bookofproofs.github.io/termsofuse/termsofuse.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
-    <a href='https://bookofproofs.github.io/privacy/privacy.html' class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
-    <a href='https://bookofproofs.github.io/disclaimer/disclaimer.html' class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
     <br>
     <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
 </footer>

@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-To show that a non-empty [subset][bookofproofs$552] of a [group][bookofproofs$671] is a [subgroup][bookofproofs$554]
+To show that a non-empty [subset][bookofproofs$552] of a [group][bookofproofs$671] is a [subgroup][bookofproofs$554].

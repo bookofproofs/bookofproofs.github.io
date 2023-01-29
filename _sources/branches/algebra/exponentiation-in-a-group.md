@@ -14,7 +14,7 @@ The ensured existence of the inverse elements in a group allows us to extend the
 
 ---
 
-Let `\((G,\ast)\)` be a [group][bookofproofs$671], `\(x\in G\)`, and `\(n\)` an [integer][bookofproofs$844] We define the *exponentiation to the `\(n\)`-th power* as the [binary operation][bookofproofs$6188] `$[\ast"$` applied `\(n\)` times to the element `\(x\)`. Like in "exponentiation in a monoid][bookofproofs$673], we set for all `$x\in G$`:
+Let `\((G,\ast)\)` be a [group][bookofproofs$671], `\(x\in G\)`, and `\(n\)` an [integer][bookofproofs$844]. We define the *exponentiation to the `\(n\)`-th power* as the [binary operation][bookofproofs$6188] "`$\ast$`" applied `\(n\)` times to the element `\(x\)`. Like in [exponentiation in a monoid][bookofproofs$673], we set for all `$x\in G$`:
 
 `\[x^n :=
 \begin{cases}

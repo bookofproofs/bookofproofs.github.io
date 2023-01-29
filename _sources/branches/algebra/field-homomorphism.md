@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\((F,+,\cdot)\)` and `\((F^\prime,\oplus,\odot)\)` be two [fields][bookofproofs$557] The map `\(f:F\mapsto F^\prime\)` is called a **field homomorphism**, if for all `\(a,b\in F\)`: `$$\begin{array}{rcl}f(a+b)&=&f(a)\oplus f(b),\\f(a\cdot b)&=&f(a)\odot f(b),\\f(1_{F})&=&f(1_{F^\prime}),\end{array}$$`
+Let `\((F,+,\cdot)\)` and `\((F^\prime,\oplus,\odot)\)` be two [fields][bookofproofs$557]. The map `\(f:F\mapsto F^\prime\)` is called a **field homomorphism**, if for all `\(a,b\in F\)`: `$$\begin{array}{rcl}f(a+b)&=&f(a)\oplus f(b),\\f(a\cdot b)&=&f(a)\odot f(b),\\f(1_{F})&=&f(1_{F^\prime}),\end{array}$$`
 where `$1_{F}$` and `$1_{F^\prime}$` denote the respective [multiplicative neutral elements][bookofproofs$661] of the respective two fields.
 
 ### Example

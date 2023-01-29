@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-In this part, we dive deeper into the theory of [groups][bookofproofs$212]
+In this part, we dive deeper into the theory of [groups][bookofproofs$212].

@@ -14,8 +14,7 @@ contributors: bookofproofs
 
 ---
 
-The next example is a more interesting SLE. While it is quite simple, it has [non-trivial][bookofproofs$1044] solutions. Its [extended coefficient matrix][bookofproofs$7941] contains a [diagonal matrix][bookofproofs$7944]
-
+The next example is a more interesting SLE. While it is quite simple, it has [non-trivial][bookofproofs$1044] solutions. Its [extended coefficient matrix][bookofproofs$7941] contains a [diagonal matrix][bookofproofs$7944].
 `$$\left(\begin{array}{cccc|c}\alpha_{11}& 0&\ldots&0&\beta_1\\
 0& \alpha_{22}&\ldots&0&\beta_2\\
 \vdots&\vdots&\ddots&\vdots\\

@@ -15,7 +15,7 @@ contributors: bookofproofs
 ---
 
 * By hypothesis, `$(F,+,\cdot)$` is a [field][bookofproofs$557] with two [absolute values][bookofproofs$8659] `$|\cdot|_1$` and `$|\cdot|_2$` defined on it. 
-* Assume, `$|\cdot|_1$` and `$|\cdot|_2$` are [dependent][bookofproofs$8664] 
+* Assume, `$|\cdot|_1$` and `$|\cdot|_2$` are [dependent][bookofproofs$8664].
 * Then for `$x\in F$` we have `$|x|_1 < 1\Longleftrightarrow |x|_2 < 1.$` 
 * Let `$x_0\in F$` with `$|x_0|_1 > 1,$` then `$|x_0|_2 > 1.$`
 * For an arbitrary `$x\in F$` with `$x\neq 0$`, we have for some [positive real number][bookofproofs$1107] `$\lambda > 0$` `$$|x|_1=|x_0|_1^\lambda.$$`

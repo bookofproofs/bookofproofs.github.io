@@ -14,5 +14,5 @@ contributors: bookofproofs
 
 ---
 
-Let `$(X,\ast)$` be an [algebraic structure][bookofproofs$342] with a [commutative][bookofproofs$672] [binary operation][bookofproofs$6188] `$[\ast"$` and let `\(x_{1},x_{2},\ldots,x_{n}\in X\)` be "finitely many][bookofproofs$985] many elements of `$X$`. Let `\((k_1,\ldots,k_n)\)` be an arbitrary [permutation][bookofproofs$188] of the consecutive indices `\(1,\ldots,n\)`. Then it follows
+Let `$(X,\ast)$` be an [algebraic structure][bookofproofs$342] with a [commutative][bookofproofs$672] [binary operation][bookofproofs$6188] "`$\ast$`" and let `\(x_{1},x_{2},\ldots,x_{n}\in X\)` be [finitely many][bookofproofs$985] many elements of `$X$`. Let `\((k_1,\ldots,k_n)\)` be an arbitrary [permutation][bookofproofs$188] of the consecutive indices `\(1,\ldots,n\)`. Then it follows
 `\[x_{k_1}\ast x_{k_2}\ast \ldots\ast x_{k_n}=x_{1}\ast x_{2}\ast \ldots\ast x_{n}.\]`

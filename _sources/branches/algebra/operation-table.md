@@ -26,9 +26,9 @@ x_i&x_i\ast x_1&\ldots&x_i\ast x_j&\ldots& x_i\ast x_n\\
 x_n&x_n\ast x_1&\ldots&x_n\ast x_j&\ldots& x_n\ast x_n\\
 \end{array}$$`
 
-In some cases it is possible to recognize the properties of the binary operation `$"\ast"$` looking at the operation table:
+In some cases it is possible to recognize the properties of the binary operation "`$\ast$`" looking at the operation table:
 
-* The operation table is symmetric, if `$"\ast"$` is "commutative][bookofproofs$672],
+* The operation table is symmetric, if "`$\ast$`" is [commutative][bookofproofs$672],
 * The element `$x_i$` is [left-neutral][bookofproofs$661], if the `$i$`-th row corresponds to the column headers of the operation table.
 * The element `$x_j$` is [right-neutral][bookofproofs$661], if the `$j$`-th column corresponds to the row headers of the operation table.
 * If a neutral element exist and has been identified, whenever it occures as an entry in the operation table, the corresponding row and column headers are [inverse][bookofproofs$670] to each other.

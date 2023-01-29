@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-Let `\(V\)` be a [vector space][bookofproofs$560] over a  [field][bookofproofs$557]  `\(F\)` and let `\(U\subseteq V\)` be its [subspace][bookofproofs$562] Then the [relation][bookofproofs$571] defined by `$v\sim w \Longleftrightarrow v-w\in U$` is an [equivalence relation][bookofproofs$574] on `\(V\)`.
+Let `\(V\)` be a [vector space][bookofproofs$560] over a  [field][bookofproofs$557]  `\(F\)` and let `\(U\subseteq V\)` be its [subspace][bookofproofs$562]. Then the [relation][bookofproofs$571] defined by `$v\sim w \Longleftrightarrow v-w\in U$` is an [equivalence relation][bookofproofs$574] on `\(V\)`.

@@ -267,7 +267,7 @@ _(no contents provided yet)_
 ### 1646 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Choi_Seok-jeong/">Choi Seok-jeong</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Leibniz/">Gottfried Wilhelm von Leibniz</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Leibniz/">von Leibniz, Gottfried Wilhelm</a>
 : A German mathematician who developed the present day notation for the differential and integral calculus though he never thought of the derivative as a limit. His philosophy is also important and he invented an early calculating machine.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Flamsteed/">John Flamsteed</a>

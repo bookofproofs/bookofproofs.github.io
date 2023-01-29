@@ -14,11 +14,10 @@ contributors: bookofproofs
 
 ---
 
-In the following let `\((G,\ast)\)` be a [group][bookofproofs$671] and `\(H\subseteq G\)` its [subgroup][bookofproofs$554] 
-
+In the following let `\((G,\ast)\)` be a [group][bookofproofs$671] and `\(H\subseteq G\)` its [subgroup][bookofproofs$554].
 #### Proof of (1)
 
-If `\(|H|=n\)`, then `\(|Ha|\le n\)`, which follows from the [definition of a coset][bookofproofs$827] But `\(|Ha| \not <  n\)`. For if `\(|Ha| <  n\)`, then there would be at least two different elements `\(g,h\in H\)`, `\(g\neq h\)` and `\(g\ast a=h\ast a\)`. This is equivalent to `\(g=h\)`, which is a [contradiction][bookofproofs$744] to `\(g\neq h\)`. Thus it must be `\(|Ha|=|H|\)`. Analogously, we can prove `\(|aH|=|H|\)`.
+If `\(|H|=n\)`, then `\(|Ha|\le n\)`, which follows from the [definition of a coset][bookofproofs$827]. But `\(|Ha| \not <  n\)`. For if `\(|Ha| <  n\)`, then there would be at least two different elements `\(g,h\in H\)`, `\(g\neq h\)` and `\(g\ast a=h\ast a\)`. This is equivalent to `\(g=h\)`, which is a [contradiction][bookofproofs$744] to `\(g\neq h\)`. Thus it must be `\(|Ha|=|H|\)`. Analogously, we can prove `\(|aH|=|H|\)`.
 
 #### Proof of (2)
 

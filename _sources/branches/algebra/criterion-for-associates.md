@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-Let `$(R, + , \cdot)$` be an [integral domain][bookofproofs$821] Two elements `$a,b$` are [associates][bookofproofs$8260] `$a\sim b$` if and only if `$a=cb$` for an element `$c\in R^\ast$`, where `$(R^\ast,\cdot)$` is the [group of units][bookofproofs$8283]
+Let `$(R, + , \cdot)$` be an [integral domain][bookofproofs$821]. Two elements `$a,b$` are [associates][bookofproofs$8260] `$a\sim b$` if and only if `$a=cb$` for an element `$c\in R^\ast$`, where `$(R^\ast,\cdot)$` is the [group of units][bookofproofs$8283].

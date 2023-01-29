@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\((G,\ast)\)` be an [group][bookofproofs$671], `\(x,y\in G\)`, and `\(n,m\in\mathbb Z\)` two [integers][bookofproofs$844] Then the calculation rules for [exponentiation][bookofproofs$401] are:
+Let `\((G,\ast)\)` be an [group][bookofproofs$671], `\(x,y\in G\)`, and `\(n,m\in\mathbb Z\)` two [integers][bookofproofs$844]. Then the calculation rules for [exponentiation][bookofproofs$401] are:
 
 `\[\begin{array}{cl}
 (1)&x^nx^m=x^{n+m},\\
