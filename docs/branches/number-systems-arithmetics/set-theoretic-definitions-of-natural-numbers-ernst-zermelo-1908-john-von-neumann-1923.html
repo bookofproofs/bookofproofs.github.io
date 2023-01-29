@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="SET-THEORETIC DEFINITIONS OF NATURAL NUMBERS ERNST ZERMELO 1908, JOHN VON NEUMANN 1923 &amp;#9733; master graduate maths &amp;#10004; visit BookOfProofs now!">
+<meta name="keywords" content="1908,1923,definitions,ernst,john,natural,natural numbers,neumann,numbers,set,theoretic,von,zermelo,definition of natural numbers,von neumann natural numbers,construction of natural numbers,set of natural numbers,von neumann ordinals,natural numbers definition,natural number definition,set theoretic definition of natural numbers,zermelo ordinals">
+<title>Set-theoretic Definitions of Natural Numbers</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/natural-numbers.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/natural-numbers.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-natural-numbers.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html'>Number-systems-arithmetics</a> / Definition: Set-theoretic Definitions of Natural Numbers</h3>
+
+<hr>
+
+<h1>Definition: Set-theoretic Definitions of Natural Numbers</h1>
+<p>The set of <strong>natural numbers</strong> \(\mathbb N\) is defined using the concept <a href="https://bookofproofs.github.io/branches/set-theory/ordinal-number.html" title="Set Theory / Definition: Ordinal Number">ordinals</a>, as follows:</p>
+<h3>Definition due to von Neumann (1923)</h3>
+<p>(1) The empty set (as the first ordinal)<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> represents the first natural number:</p>
+<p>\[0:=\{\emptyset\}.\]</p>
+<p><img alt="axiom2" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/axiom2.jpg?raw=true" /></p>
+<p>(2) Once we have the ordinal \(n=\alpha\), we can construct a bigger ordinal<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup> using recursively the <a href="https://bookofproofs.github.io/branches/set-theory/successor-of-ordinal.html" title="Set Theory / Lemma: Successor of Ordinal">formula for constructing successors of ordinals</a>, denoting the successor \(n^+\) of the natural number \(n\):
+\[n^+:=s(\alpha):=\alpha\cup\{\alpha\}=n\cup \{n\}.\]
+Applying the set axioms and this construction systematically, it gives us a chain of ordered ordinals </p>
+<p>\[\begin{array}{rcl}0&amp;:=&amp;\emptyset,\\1&amp;:=&amp;0\cup\{0\}=\emptyset\cup\{\emptyset\}=\{\emptyset\},\\2&amp;:=&amp;1\cup\{1\}=\{\emptyset\}\cup\{\{\emptyset\}\}=\{\emptyset,\{\emptyset\}\},\\3&amp;:=&amp;2\cup\{2\}=\{\emptyset,\{\emptyset\}\}\cup\{\{\emptyset,\{\emptyset\}\}\}=\{\emptyset,\{\emptyset\},\{\emptyset,\{\emptyset\}\}\},\\&amp;\vdots&amp;\\n^+&amp;:=&amp;n\cup\{n\},\\&amp;\vdots&amp;\end{array}\]</p>
+<p>which can be visualized in the following figure</p>
+<p><img alt="axiom8" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/axiom8.jpg?raw=true" /></p>
+<p>and for which we introduce the notation \(0,1,2,3,\ldots\):</p>
+<p>\[0 &lt; 1 &lt; 2 &lt; 3 &lt; \ldots\]</p>
+<p>Due to the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-infinity.html" title="Set Theory / Axiom: Axiom of Infinity">axiom of infinity</a> we can postulate the existence of an infinite set, which is "contains" all such sets.<sup id="fnref:3"><a class="footnote-ref" href="#fn:3">3</a></sup> </p>
+<p>\[\mathbb N:=\bigcup n=\{0,1,2,3,\ldots.\}\]</p>
+<h3>Definition due to Ernst Zermelo (1908)</h3>
+<p>The <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">set</a> \(\mathbb N\) of natural numbers is defined recursively by: \[\begin{array}{rcl}0&amp;:=&amp;\emptyset,\\1&amp;:=&amp;\{0\}=\{\emptyset\},\\2&amp;:=&amp;\{1\}=\{\{\emptyset\}\},\\3&amp;:=&amp;\{2\}=\{\{\{\emptyset\}\}\},\\&amp;\vdots&amp;\\n^+&amp;:=&amp;\{n\}=\underbrace{\{\ldots\{ }_{n+1\text{ times}}\emptyset\underbrace{\}\ldots\} }_{n+1\text{ times}},\\&amp;\vdots&amp;\\\end{array}\]</p>
+<p>This definition can be visualized as follows:</p>
+<p><img alt="axiom8_1" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/axiom8_1.jpg?raw=true" /></p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-natural-numbers.html'>Proposition: Addition Of Natural Numbers</a></li>
+<li><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-natural-numbers.html'>Definition: Multiplication of Natural Numbers</a></li>
+<li><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/uniqueness-of-predecessors-of-natural-numbers.html'>Proposition: Uniqueness Of Predecessors Of Natural Numbers</a></li>
+<li><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/inequality-of-natural-numbers-and-their-successors.html'>Proposition: Inequality of Natural Numbers and Their Successors</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-systems-arithmetics/set-theoretic-definitions-of-natural-numbers-ernst-zermelo-1908-john-von-neumann-1923.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Hoffmann, Dirk W.</strong>: "Grenzen der Mathematik - Eine Reise durch die Kerngebiete der mathematischen Logik", Spektrum Akademischer Verlag, 2011</li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Please note that it is well defined due to the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-empty-set.html" title="Set Theory / Axiom: Axiom of Empty Set">axiom of existence of empty set</a>.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:2">
+<p><a href="https://bookofproofs.github.io/branches/set-theory/ordinal-number.html" title="Set Theory / Definition: Ordinal Number">Ordinals</a> are sets with some <a href="https://bookofproofs.github.io/branches/set-theory/properties-of-ordinal-numbers.html" title="Set Theory / Lemma: Properties of Ordinal Numbers">interesting properties</a>, including "trichotomy":<a href="https://www.bookofproofs.org/branches/trichotomy-of-ordinals-cantor/">https://www.bookofproofs.org/branches/trichotomy-of-ordinals-cantor/</a>, ensuring that all ordinals <strong>can be compared with each other</strong> by the relation 
+\[\alpha &lt; \beta:\Leftrightarrow \alpha\in\beta.\]
+For any two ordinals, and in particular for natural numbers, we can therefore always decide which one is "bigger", "smaller", or whether they are equal to each other.&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+<li id="fn:3">
+<p>Please note that this infinite set is an <a href="https://bookofproofs.github.io/branches/set-theory/ordinal-number.html" title="Set Theory / Definition: Ordinal Number">ordinal by definition</a>. However, we have not built by the above construction formula, i.e. it is not a successor of any <a href="https://bookofproofs.github.io/branches/set-theory/limit-ordinal.html" title="Set Theory / Definition: Limit Ordinal">previous" ordinal. In other words, \(\mathbb N\) is the first "limit ordinal</a>.&#160;<a class="footnote-backref" href="#fnref:3" title="Jump back to footnote 3 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

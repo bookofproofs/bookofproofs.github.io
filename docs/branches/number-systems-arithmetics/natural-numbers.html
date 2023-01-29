@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="NATURAL NUMBERS &amp;#9733; bring your math skills to the graduate level &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="natural,numbers">
+<title>Natural Numbers</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/set-theoretic-definitions-of-natural-numbers-ernst-zermelo-1908-john-von-neumann-1923.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html'>Number-systems-arithmetics</a> / Part: Natural Numbers</h3>
+
+<hr>
+
+<h1>Part: Natural Numbers</h1>
+<p>p. The natural numbers \(0,~1,~2,~3,\ldots\), otherwise known as the <em>non-negative integers</em><sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>, are the numbers familiar even to young children. It is the natural numbers that we use for the very basic mathematical purpose of counting things (see <a href="https://bookofproofs.github.io/branches/set-theory/cardinal-numbers.html" title="Set Theory / Part: Cardinal Numbers">cardinal numbers</a>). We also can use them to order things (see <a href="https://bookofproofs.github.io/branches/set-theory/ordinal-numbers.html" title="Set Theory / Part: Ordinal Numbers">ordinal numbers</a>). </p>
+<p>p. From the formal point of view, natural numbers can be <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/set-theoretic-definitions-of-natural-numbers-ernst-zermelo-1908-john-von-neumann-1923.html" title="Number Systems Arithmetics / Definition: Set-theoretic Definitions of Natural Numbers">constructed using sets</a>. In particular, we can use the concept of the empty set \(\emptyset\) and call it \(0\), then construct a set containing this empty set and call it \(1\), then construct a set containing the empty set and also the previous set and call it \(2\), etc.:</p>
+<p>\[\begin{array}{cclcl}0&amp;:=&amp;\emptyset&amp;=&amp;\emptyset\\1&amp;:=&amp;\left\{0\right\}&amp;=&amp;\left\{\emptyset\right\}\\2&amp;:=&amp;\left\{0,~1\right\}&amp;=&amp;\left\{\emptyset,~\left\{\emptyset\right\}\right\}\\3&amp;:=&amp;\left\{0,~1,~2\right\}&amp;=&amp;\left\{\emptyset,~\left\{\emptyset,~\left\{\emptyset\right\}\right\}\right\}\\\vdots&amp;&amp;\vdots&amp;&amp;\vdots\\\end{array}\]</p>
+<p>p. Another way to define natural numbers is to use a suitable axiomatic system. One of such axiomatic systems are the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/peano-axioms.html" title="Number Systems Arithmetics / Axiom: Peano Axioms">Peano Axioms</a>.</p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/set-theoretic-definitions-of-natural-numbers-ernst-zermelo-1908-john-von-neumann-1923.html'>Definition: Set-theoretic Definitions of Natural Numbers</a></li>
+<li><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/peano-axioms.html'>Axiom: Peano Axioms</a></li>
+<li><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-natural-numbers.html'>Proposition: Algebraic Structure Of Natural Numbers Together With Addition</a></li>
+<li><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-natural-numbers-together-with-multiplication.html'>Proposition: Algebraic Structure Of Natural Numbers Together With Multiplication</a></li>
+<li><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/distributivity-law-for-natural-numbers.html'>Proposition: Distributivity Law For Natural Numbers</a></li>
+<li><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/order.html'>Chapter: Order</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-systems-arithmetics/natural-numbers.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Please note: Another common way is to understand the set of natural numbers is as <strong>positive integers</strong>, excluding the number 0. In bookofproofs.org, natural numbers are always including 0, by convention.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="DEFINITION OF INTEGERS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="definition,integers">
+<title>Definition of Integers</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/integers.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/integers.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers-proof.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html'>Number-systems-arithmetics</a> / Proposition: Definition of Integers</h3>
+
+<hr>
+
+<h1>Proposition: Definition of Integers</h1>
+<p>Let \((a,b),(c,d)\) be <a href="https://bookofproofs.github.io/branches/set-theory/ordered-pair-n-tuple.html" title="Set Theory / Definition: Ordered Pair, n-Tuple">ordered pairs</a> of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/set-theoretic-definitions-of-natural-numbers-ernst-zermelo-1908-john-von-neumann-1923.html" title="Number Systems Arithmetics / Definition: Set-theoretic Definitions of Natural Numbers">natural numbers</a>. We consider them equivalent, if there exist a natural number \(h\) such that one ordered pair can be obtained from the other ordered pair <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-natural-numbers.html" title="Number Systems Arithmetics / Proposition: Addition Of Natural Numbers">by adding</a>  \(h\) to both natural numbers of that pair, formally </p>
+<p>\[(a,b)\sim (c,d)\quad\Longleftrightarrow\quad\begin{cases}(a+h,b+h)=(c,d)&amp; or\</code>(a,b)=(c+h,d+h).\end{cases}]`</p>
+<p>The relation [(\sim)<code>" defined above is an "equivalence relation][bookofproofs$574], i.e. for a given ordered pair</code>((a,b)\in\mathbb N\times\mathbb N)<code>, we can consider a whole set of ordered pairs</code>((c,d)\in\mathbb N\times\mathbb N)<code>equivalent to</code>((a,b))`:</p>
+<p><code>\[x:=\{(c,d)\in\mathbb N\times\mathbb N:\quad( c, d )\sim ( a, b )\}.\]</p>
+<p>The set \(x\) is called an <strong>integer</strong><sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>. We say that the ordered pair \((a,b)\in\mathbb N\times\mathbb N\) is <strong>representing</strong> the integer \(x\). The <strong>set of all integers</strong> is denoted by \(\mathbb Z\).</p>
+<h3>Notation</h3>
+<p>In order to make a difference in notation, we write \([a,b]\), instead of \((a,b)\), if we mean the integer represented by the ordered pair \((a,b)\) rather than the concrete ordered pair \((a,b)\). A more common (e.g. taught in the elementary school) notation is the notation of integers retrieved from the difference \(a-b\), however, the concept of building a difference is not introduced yet (in fact, we have not introduced the concept of negative integers yet<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup>). For the time being, we give a comparison of the different notations to make more clear:  </p>
+<div style='overflow-x:auto;'><table>
+<thead>
+<tr>
+<th style="text-align: left;">Common integer notation</th>
+<th style="text-align: left;">Alternative integer notations</th>
+<th style="text-align: left;">Set of ordered pairs of natural numbers, each notation stands for</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">\(\vdots\)</td>
+<td style="text-align: left;">\(\vdots\)</td>
+<td style="text-align: left;">\(\vdots\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(-3\)</td>
+<td style="text-align: left;">e.g. \([0,3],[1,4],\ldots\)</td>
+<td style="text-align: left;">\(\begin{array}{llllll}\{(0,3),&amp;(1,4),&amp;(2,5),&amp;\ldots,&amp;(h,3+h),&amp;~h\in\mathbb N\}\end{array}\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(-2\)</td>
+<td style="text-align: left;">e.g. \([0,2],[1,3],\ldots\)</td>
+<td style="text-align: left;">\(\begin{array}{llllll}\{(0,2),&amp;(1,3),&amp;(2,4),&amp;\ldots,&amp;(h,2+h),&amp;~h\in\mathbb N\}\end{array}\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(-1\)</td>
+<td style="text-align: left;">e.g. \([0,1],[1,2],\ldots\)</td>
+<td style="text-align: left;">\(\begin{array}{llllll}\{(0,1),&amp;(1,2),&amp;(2,3),&amp;\ldots,&amp;(h,1+h),&amp;~h\in\mathbb N\}\end{array}\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(0\)</td>
+<td style="text-align: left;">e.g. \([0,0],[1,1],\ldots\)</td>
+<td style="text-align: left;">\(\begin{array}{llllll}\{(0,0),&amp;(1,1),&amp;(2,2),&amp;\ldots,&amp;(h,h),&amp;~h\in\mathbb N\}\end{array}\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(1\)</td>
+<td style="text-align: left;">e.g. \([1,0],[2,1],\ldots\)</td>
+<td style="text-align: left;">\(\begin{array}{llllll}\{(1,0),&amp;(2,1),&amp;(3,2),&amp;\ldots,&amp;(1+h,h),&amp;~h\in\mathbb N\}\end{array}\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(2\)</td>
+<td style="text-align: left;">e.g. \([1,0],[3,1],\ldots\)</td>
+<td style="text-align: left;">\(\begin{array}{llllll}\{(2,0),&amp;(3,1),&amp;(4,2),&amp;\ldots,&amp;(2+h,h),&amp;~h\in\mathbb N\}\end{array}\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(3\)</td>
+<td style="text-align: left;">e.g. \([1,0],[4,1],\ldots\)</td>
+<td style="text-align: left;">\(\begin{array}{llllll}\{(3,0),&amp;(4,1),&amp;(5,2),&amp;\ldots,&amp;(3+h,h),&amp;~h\in\mathbb N\}\end{array}\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(\vdots\)</td>
+<td style="text-align: left;">\(\vdots\)</td>
+<td style="text-align: left;">\(\vdots\)</td>
+</tr>
+</tbody>
+</table></div>
+<h3 class='navigation'>Table of Contents</h3>
+
+<p>Proofs: <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers-proof.html'>1</a> </p>
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-integers.html'>Proposition: Addition of Integers</a></li>
+<li><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/subtraction-of-integers.html'>Definition: Subtraction of Integers</a></li>
+<li><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-integers.html'>Proposition: Multiplication of Integers</a></li>
+<li><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/distributivity-law-for-integers.html'>Proposition: Distributivity Law For Integers</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-systems-arithmetics/definition-of-integers.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Kramer Jürg, von Pippich, Anna-Maria</strong>: "Von den natürlichen Zahlen zu den Quaternionen", Springer-Spektrum, 2013</li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Please note that integers are in fact sets.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:2">
+<p>The concept of negative integers will be introduced in the discussion of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/order-relation-for-integers-positive-and-negative-integers.html" title="Number Systems Arithmetics / Definition: Order Relation for Integers - Positive and Negative Integers">order relation for integers</a>.&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

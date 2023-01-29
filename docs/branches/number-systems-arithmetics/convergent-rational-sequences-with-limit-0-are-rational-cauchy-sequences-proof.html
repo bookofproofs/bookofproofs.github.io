@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of CONVERGENT RATIONAL SEQUENCES WITH LIMIT \0\ ARE RATIONAL CAUCHY SEQUENCES &amp;#9733; master graduate maths &amp;#10004; visit BookOfProofs now!">
+<meta name="keywords" content="are,cauchy,convergent,limit,rational,sequences,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/convergent-rational-sequences-with-limit-0-are-rational-cauchy-sequences.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/convergent-rational-sequences-with-limit-0-are-rational-cauchy-sequences.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/convergent-rational-sequences-with-limit-0-are-a-subgroup-of-rational-cauchy-sequences-with-respect-to-addition.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html'>Number-systems-arithmetics</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/convergent-rational-sequences-with-limit-0-are-rational-cauchy-sequences.html'>Lemma: Convergent Rational Sequences With Limit \(0\) Are Rational Cauchy Sequences</a>)</p>
+<p>Let \((M , + , \cdot)\) be the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/the-unit-ring-of-all-rational-cauchy-sequences.html" title="Number Systems Arithmetics / Lemma: Unit Ring of All Rational Cauchy Sequences">unit ring of all rational Cauchy sequences</a>. We want to show that the set \(I:=\{(a_n)_{n\in\mathbb N}~|~a_n\in\mathbb Q,\lim a_n=0\}\), i.e. the set of all <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/convergent-rational-sequence.html" title="Number Systems Arithmetics / Definition: Convergent Rational Sequence">rational sequences convergent</a> to \(0\) is a <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Set Theory / Definition: Subset and Superset">subset</a> of \(M\), formally \(I\subseteq R\). We will demonstrate that any rational sequence \((a_n)_{n\in\mathbb N}\) with \(\lim a_n=0\) is also a rational Cauchy sequence, formally \[(a_n)_{n\in\mathbb N}\in I\Longrightarrow (a_n)_{n\in\mathbb N}\in M.\]</p>
+<p>Following the <a href="https://bookofproofs.github.io/branches/topology/convergent-sequences.html" title="Topology / Definition: Convergent Sequences and Limits">definition of convergence</a> in the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/the-absolute-value-makes-the-set-of-rational-numbers-a-metric-space.html" title="Number Systems Arithmetics / Corollary: The absolute value makes the set of rational numbers a metric space.">metric space</a> \((\mathbb Q,|~|)\), for any arbitrarily small \(\epsilon/2\), \(\epsilon\in\mathbb Q\), there exists an \(N(\epsilon/2)\in\mathbb N\) such that for all \(n , m &gt; N(\epsilon/2)\),  we have \[|a_n| &lt; \frac \epsilon2\quad\text{and}\quad|a_m| &lt; \frac \epsilon2.\]
+Thus, we can estimate (using the triangle inequality, see <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/the-absolute-value-makes-the-set-of-rational-numbers-a-metric-space.html" title="Number Systems Arithmetics / Corollary: The absolute value makes the set of rational numbers a metric space.">third property of the metric</a>  \(|\cdot|\)), <br />
+\[|a_n-a_m|\le |a_n|+|a_m| &lt; \frac\epsilon2 + \frac\epsilon2 = \epsilon.\]
+This demonstrates, that \((a_n)_{n\in\mathbb N}\) with \(\lim a_n=0\) is also a rational Cauchy sequence, or that \(I\subseteq M\), as required.</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-systems-arithmetics/convergent-rational-sequences-with-limit-0-are-rational-cauchy-sequences-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Kramer Jürg, von Pippich, Anna-Maria</strong>: "Von den natürlichen Zahlen zu den Quaternionen", Springer-Spektrum, 2013</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of MULTIPLICATION OF INTEGERS IS ASSOCIATIVE &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="integers,multiplication,multiplication of integers,proof,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-integers-is-associative.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-integers-is-associative.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-integers-is-commutative.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html'>Number-systems-arithmetics</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-integers-is-associative.html'>Proposition: Multiplication of Integers Is Associative</a>)</p>
+<p>By the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Number Systems Arithmetics / Proposition: Definition of Integers">definition of integers</a>, the integers \(x,y,z \in \mathbb Z\) are identified by pairs \(x:=[a,b]\), \(y:=[c,d]\) and \(z:=[e,f]\) of natural numbers \(a,b,c,d,e,f\in\mathbb N\). </p>
+<p>We have to show that \((x\cdot y)\cdot z=x\cdot (y\cdot z)\) is valid for all \(x,y,z\in\mathbb Z\). Multiplying the integers \(x\cdot y\), respectively \(y\cdot z\) means <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-integers.html" title="Number Systems Arithmetics / Proposition: Multiplication of Integers">by definition</a>.
+\[\begin{array}{ccl}
+x\cdot y:=[a,b] \cdot [c,d] &amp;:=&amp; [a\cdot c + b\cdot d,~ a\cdot d + c\cdot b]=[ac + bd,~ ad + bc],\\
+y\cdot z:=[c,d] \cdot [e,f] &amp;:=&amp; [c\cdot e + d\cdot f,~ c\cdot f + d\cdot e]=[ce+df,~cf+de],
+\end{array}
+\]
+with some new integers \([ac + bd,~ ad + bc]\) and \([ce+df,~cf+de]\). Because <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-natural-numbers-is-commutative.html" title="Number Systems Arithmetics / Proposition: Addition of Natural Numbers Is Commutative">adding natural numbers is commutative</a> and <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-natural-numbers-is-associative.html" title="Number Systems Arithmetics / Proposition: Addition Of Natural Numbers Is Associative">associative</a>, and due to the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/distributivity-law-for-natural-numbers.html" title="Number Systems Arithmetics / Proposition: Distributivity Law For Natural Numbers">distributivity law for natural numbers</a>, we get:
+\[\begin{array}{cclcl}
+(x\cdot y)\cdot z&amp;=&amp;([a,b]\cdot [c,d])\cdot [e,f]&amp;&amp;\text{by definition of integers}\\
+&amp;=&amp;([ac+bd,~ad+bc])\cdot [e,f]&amp;&amp;\text{by definition of multiplication of integers}\\
+&amp;=&amp;[(ac+bd) e+(ad+bc) f,~(ac+bd) f+(ad+bc) e]&amp;&amp;\text{by definition of multiplication of integers}\\
+&amp;=&amp;[(ace+bde)+(adf+bcf),~(acf+bdf)+(ade+bce)]&amp;&amp;\text{by distributivity law for natural numbers}\\
+&amp;=&amp;[ace+bde+adf+bcf,~acf+bdf+ade+bce]&amp;&amp;\text{by associativity of adding natural numbers}\\
+&amp;=&amp;[(ace+adf)+(bcf+bde),~(acf+ade)+(bce+bdf)]&amp;&amp;\text{by commutativity of adding natural numbers}\\
+&amp;=&amp;[a(ce+df)+b(cf+de),~a(cf+de)+b(cd+df)]&amp;&amp;\text{by distributivity law for natural numbers}\\
+&amp;=&amp;[a,b]\cdot[ce+df,~cf+de]&amp;&amp;\text{by definition of multiplication of integers}\\
+&amp;=&amp;[a,b]\cdot([c,d)\cdot[e,f])&amp;&amp;\text{by definition of multiplication of integers}\\
+&amp;=&amp;x\cdot (y\cdot z)&amp;&amp;\text{by definition of integers}
+\end{array}
+\]</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-systems-arithmetics/multiplication-of-integers-is-associative-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

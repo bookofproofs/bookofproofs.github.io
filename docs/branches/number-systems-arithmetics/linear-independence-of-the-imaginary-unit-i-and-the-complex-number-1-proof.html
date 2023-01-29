@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of LINEAR INDEPENDENCE OF THE IMAGINARY UNIT \I\ AND THE COMPLEX NUMBER \1\ &amp;#9733; master graduate maths &amp;#10004; visit BookOfProofs now!">
+<meta name="keywords" content="complex,imaginary,independence,linear,number,unit,linear independence complex vectors,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/linear-independence-of-the-imaginary-unit-i-and-the-complex-number-1.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/linear-independence-of-the-imaginary-unit-i-and-the-complex-number-1.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/complex-numbers-are-two-dimensional-and-the-complex-numbers-1-and-imaginary-unit-i-form-their-basis.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html'>Number-systems-arithmetics</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/linear-independence-of-the-imaginary-unit-i-and-the-complex-number-1.html'>Lemma: Linear Independence of the Imaginary Unit \(i\) and the Complex Number \(1\)</a>)</p>
+<p>Because we have already shown that the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/complex-numbers-as-a-vector-space-over-the-field-of-real-numbers.html" title="Number Systems Arithmetics / Proposition: Complex Numbers as a Vector Space Over the Field of Real Numbers">complex numbers form a vector space over the field of real numbers</a>, we will now prove that the vectors <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/existence-of-complex-one-neutral-element-of-multiplication-of-complex-numbers.html" title="Number Systems Arithmetics / Proposition: Existence of Complex One (Neutral Element of Multiplication of Complex Numbers)">complex number one</a> \(1\) and the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/imaginary-unit.html" title="Number Systems Arithmetics / Proposition: Imaginary Unit">imaginary unit</a> \(i\) are <a href="https://bookofproofs.github.io/branches/algebra/linearly-dependent-and-linearly-independent-vectors-zero-vector.html" title="Algebra / Definition: Linearly Dependent and Linearly Independent Vectors, Zero Vector">linearly independent</a>. Let \(\alpha,\beta\in\mathbb R\) be some real numbers and consider the equation
+\[\alpha\cdot 1 + \beta \cdot i=0.\]
+We have to prove that this equation has only the trivial solution \(\alpha=\beta=0\). For the purpose of a better understanding of the prove, we will use the notation 
+\[\alpha\cdot (1) + \beta \cdot (i)=0,\]
+to indicate that \((1)\) and \((i)\) are vectors and not simply numbers.</p>
+<p>By definition, the complex vector \(1:=(1,0)\), i.e. the complex number \(1\) is identical with the <a href="https://bookofproofs.github.io/branches/set-theory/ordered-pair-n-tuple.html" title="Set Theory / Definition: Ordered Pair, n-Tuple">ordered pair</a> of real numbers \((1,0)\). Analogously,  the complex vector \(i:=(0,1)\), i.e. the complex number \(i\) is identical with the ordered pair of real numbers  \((0,1)\). Therefore, the above equation is equivalent to
+\[\begin{array}{rcl}
+\alpha\cdot (1) + \beta \cdot (i)=0&amp;\Longleftrightarrow&amp;\beta\cdot (i)=-\alpha\cdot (1)\\
+&amp;\Longleftrightarrow&amp;\beta\cdot (0,1)=-\alpha\cdot (1,0)
+\end{array}\]
+From the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/complex-numbers-as-a-vector-space-over-the-field-of-real-numbers.html" title="Number Systems Arithmetics / Proposition: Complex Numbers as a Vector Space Over the Field of Real Numbers">definition of the scalar multiplication</a>, it follows
+\[ (0,\beta)=(-\alpha,0)\Longleftrightarrow -\alpha=0\text{ and }\beta=0.\]</p>
+<p>Because \(-\alpha=-1\cdot \alpha\) (i.e the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-real-numbers.html" title="Number Systems Arithmetics / Proposition: Multiplication of Real Numbers">product of the real numbers</a> \(-1\) and \(\alpha\)) and because <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/a-product-of-two-real-numbers-is-zero-if-and-only-if-at-least-one-of-these-numbers-is-zero.html" title="Number Systems Arithmetics / Corollary: A product of two real numbers is zero if and only if at least one of these numbers is zero.">the product of two real numbers is only zero, if at least one of them is zero</a>, it follows \(\alpha=0\).</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-systems-arithmetics/linear-independence-of-the-imaginary-unit-i-and-the-complex-number-1-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Forster Otto</strong>: "Analysis 1, Differential- und Integralrechnung einer Veränderlichen", Vieweg Studium, 1983</li>
+<li><strong>Wille, D; Holz, M </strong>: "Repetitorium der Linearen Algebra", Binomi Verlag, 1994</li>
+<li><strong>Timmann, Steffen</strong>: "Repetitorium der Funktionentheorie", Binomi-Verlag, 2003</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

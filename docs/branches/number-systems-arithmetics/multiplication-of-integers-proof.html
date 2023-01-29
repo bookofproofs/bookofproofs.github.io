@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of MULTIPLICATION OF INTEGERS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="integers,multiplication,multiplication of integers,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-integers.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-integers.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-integers-is-associative.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html'>Number-systems-arithmetics</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-integers.html'>Proposition: Multiplication of Integers</a>)</p>
+<p>Let \(x\) and \(y\) be <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Number Systems Arithmetics / Proposition: Definition of Integers">integers</a>. By definition, it means that they are equivalence classes represented by some natural numbers \(x=\lbrack a,b\rbrack \), \(y=\lbrack c,d\rbrack \), \(a,b,c,d\in \mathbb N\).</p>
+<p>Note that \(ac\), \(bd\), \(ad\) and \(cb\) are all natural numbers, since they are the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-natural-numbers.html" title="Number Systems Arithmetics / Definition: Multiplication of Natural Numbers">products of the respective natural numbers</a> \(a,b,c,d\in \mathbb N\). Also, \(ac + bd\) and \(ad + cb\) are natural numbers, since they are the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-natural-numbers.html" title="Number Systems Arithmetics / Proposition: Addition Of Natural Numbers">sums of the respective natural numbers</a> \(ac ,bd\) and \(ad ,cb\). Therefore, the product 
+$$\begin{array}{ccl}
+x\cdot y:=\lbrack ac + bd,~ ad + bc\rbrack 
+\end{array} $$
+exists, because it denotes some new integer, as it is represented by the natural numbers \(ac + bd\) and \(ad + cb\).</p>
+<p>It remains to be shown that the multiplication of integers does not depend on the specific representatives of the numbers \(x\) and \(y\). Suppose, we have different representatives 
+$$\begin{array}{rcl}
+x=\lbrack a_1,b_1\rbrack =\lbrack a_2,b_2\rbrack ,~y=\lbrack c_1,d_1\rbrack  =\lbrack c_2,d_2\rbrack .&amp;&amp;(*)
+\end{array}$$
+Without loss of generality, we can assume \(a_1\ge a_2\) and \(c_1\ge c_2\). It follows from the definition of integers that there exist some natural numbers \(i,j\) with 
+$$\begin{array}{rl}
+a_1=a_2+i,&amp;c_1=c_2+j,\\
+b_1=b_2+i,&amp;d_1=d_2+j.\\
+\end{array}\quad (*)$$</p>
+<p>We have to show that 
+$$x\cdot y=\lbrack a_1c_1 + b_1d_1,~ a_1d_1 + b_1c_1\rbrack =\lbrack a_2c_2 + b_2d_2,~ a_2d_2 + b_2c_2\rbrack .$$ </p>
+<p>In the following, we will use the following mathematical definitions and concepts:
+* <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Number Systems Arithmetics / Proposition: Definition of Integers">definition of integers</a>,
+* <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-integers.html" title="Number Systems Arithmetics / Proposition: Addition of Integers">definition of adding integers</a> (hypothesis),
+* <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-natural-numbers-is-associative.html" title="Number Systems Arithmetics / Proposition: Addition Of Natural Numbers Is Associative">associativity law of adding natural numbers</a>,
+* <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/distributivity-law-for-natural-numbers.html" title="Number Systems Arithmetics / Proposition: Distributivity Law For Natural Numbers">distributivity law for adding natural numbers</a>,
+* <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-natural-numbers-is-commutative.html" title="Number Systems Arithmetics / Proposition: Addition of Natural Numbers Is Commutative">commutativity law of adding natural numbers</a>, and
+* <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-natural-numbers-is-cancellative.html" title="Number Systems Arithmetics / Proposition: Addition of Natural Numbers Is Cancellative">cancellation law of adding natural numbers</a>:</p>
+<p>$$\begin{array}{rcll}
+x\cdot y&amp;=&amp;\lbrack a_1,b_1\rbrack \cdot \lbrack c_1,d_1\rbrack &amp;\text{by definition of integers}\\
+&amp;=&amp;\lbrack a_1c_1 + b_1d_1,~ a_1d_1 + b_1c_1\rbrack &amp;\text{by hypothesis}\\
+&amp;=&amp;\lbrack (a_2+i)\cdot (c_2+j)+(b_2+i)\cdot (d_2+j),\\
+&amp;&amp;~(a_2+i)\cdot (d_2+j) + (b_2+i)\cdot (c_2+j)\rbrack &amp;\text{according to }(*)\\
+&amp;=&amp;\lbrack a_2c_2+a_2j+ic_2+ij+b_2d_2+b_2j+id_2+ij,\\
+&amp;&amp;~a_2d_2+a_2j+id_2+ij+b_2c_2+b_2j+ic_2+ij\rbrack &amp;\text{by associativity and distributivity law for adding natural numbers}\\
+&amp;=&amp;\lbrack a_2c_2+b_2d_2+a_2j+ic_2+ij+b_2j+id_2+ij,\\
+&amp;&amp;~a_2d_2+b_2c_2+a_2j+ic_2+ij+b_2j+id_2+ij\rbrack &amp;\text{by commutativity law for adding natural numbers}\\
+&amp;=&amp;\lbrack a_2c_2+b_2d_2+(a_2j+ic_2+ij+b_2j+id_2+ij),\\
+&amp;&amp;~a_2d_2+b_2c_2+(a_2j+ic_2+ij+b_2j+id_2+ij)\rbrack &amp;\text{by associativity law for adding natural numbers}\\
+&amp;=&amp;\lbrack a_2c_2+b_2d_2+\cancel{(a_2j+ic_2+ij+b_2j+id_2+ij)},\\
+&amp;&amp;~a_2d_2+b_2c_2+\cancel{(a_2j+ic_2+ij+b_2j+id_2+ij)}\rbrack &amp;\text{by cancellation law for adding natural numbers}\\
+&amp;=&amp;\lbrack a_2c_2+b_2d_2,a_2d_2+b_2c_2\rbrack &amp;\text{by definition of integers}\\
+&amp;=&amp;\lbrack a_2,b_2\rbrack \cdot \lbrack c_2,d_2\rbrack &amp;\text{by hypothesis}\\
+\end{array}$$</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-systems-arithmetics/multiplication-of-integers-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Kramer Jürg, von Pippich, Anna-Maria</strong>: "Von den natürlichen Zahlen zu den Quaternionen", Springer-Spektrum, 2013</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

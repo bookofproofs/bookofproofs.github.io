@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of MULTIPLICATION OF RATIONAL NUMBERS IS CANCELLATIVE ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!">
+<meta name="keywords" content="cancellative,left cancellation property,multiplication,numbers,rational,right cancellation property,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-rational-numbers-is-cancellative.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-rational-numbers-is-cancellative.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/contraposition-of-cancellative-law-for-multiplying-rational-numbers.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html'>Number-systems-arithmetics</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-rational-numbers-is-cancellative.html'>Proposition: Multiplication Of Rational Numbers Is Cancellative</a>)</p>
+<ul>
+<li>Assume the equation \(x\cdot z=y\cdot z\) holds and that \(z\neq 0\)<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>. </li>
+<li>By <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-rational-numbers.html" title="Number Systems Arithmetics / Proposition: Definition of Rational Numbers">definition of rational numbers</a>, each rational number $x,y,z\in\mathbb Q$ is an <a href="https://bookofproofs.github.io/branches/set-theory/equivalence-class.html" title="Set Theory / Definition: Equivalence Class">equivalence class</a> of <a href="https://bookofproofs.github.io/branches/set-theory/ordered-pair-n-tuple.html" title="Set Theory / Definition: Ordered Pair, n-Tuple">ordered pairs</a> of some <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Number Systems Arithmetics / Proposition: Definition of Integers">integers</a> \(a,b,c,d,e,f\in\mathbb Z\), with \(b\neq 0,d\neq 0,f\neq 0\)<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup> and $x=\frac ab,$ $y=\frac cd,$ and $z=\frac ef.$</li>
+<li>It follows by <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-rational-numbers.html" title="Number Systems Arithmetics / Proposition: Multiplication Of Rational Numbers">definition of multiplying rational numbers</a> $$x\cdot z=y\cdot z \Leftrightarrow \frac {ae}{bf}=\frac {ce}{df}.$$</li>
+<li>Again, by definition of rational numbers $$\Leftrightarrow (ae)(df)=(ce)(bf).$$  </li>
+<li>By <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-integers-is-associative.html" title="Number Systems Arithmetics / Proposition: Multiplication of Integers Is Associative">associativity law for multiplying integers</a> $$\Leftrightarrow aedf=cebf.$$ </li>
+<li>By <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-integers-is-commutative.html" title="Number Systems Arithmetics / Proposition: Multiplication of Integers Is Commutative">commutativity law for multiplying integers</a> $$\Leftrightarrow adef=cbef.$$ </li>
+<li>By <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-integers-is-cancellative.html" title="Number Systems Arithmetics / Proposition: Multiplication of Integers Is Cancellative">cancellation law for multiplying integers</a>, where $ef\neq 0$, since $z\neq 0$, by hypothesis, $$\Leftrightarrow ad=cb.$$ </li>
+<li>By definition of rational numbers $$\Leftrightarrow \frac ab=\frac cd\Leftrightarrow x=y.$$ </li>
+<li>The above arguments show the right cancellation property.</li>
+<li>Because the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-rational-numbers-is-commutative.html" title="Number Systems Arithmetics / Proposition: Multiplication Of Rational Numbers Is Commutative">multiplication of rational numbers is commutative</a>, the left cancellation property follows immediately. </li>
+<li>Altogether, we have shown that the multiplication of rational numbers is <a href="https://bookofproofs.github.io/branches/algebra/cancellation-property.html" title="Algebra / Definition: Cancellation Property">cancellative</a>: $$x\cdot z=y\cdot z\Longleftrightarrow x=y,$$ for all $x,y,z\in\mathbb Q$ with $z\neq 0.$</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-systems-arithmetics/multiplication-of-rational-numbers-is-cancellative-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Kramer Jürg, von Pippich, Anna-Maria</strong>: "Von den natürlichen Zahlen zu den Quaternionen", Springer-Spektrum, 2013</li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Here, the symbol "$0$" denotes the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/uniqueness-of-rational-zero.html" title="Number Systems Arithmetics / Proposition: Uniqueness of Rational Zero">zero</a> defined for for rational numbers.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:2">
+<p>Here, the symbol "$0$" denotes the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/uniqueness-of-integer-zero.html" title="Number Systems Arithmetics / Proposition: Uniqueness of Integer Zero">zero</a> defined for integers.&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

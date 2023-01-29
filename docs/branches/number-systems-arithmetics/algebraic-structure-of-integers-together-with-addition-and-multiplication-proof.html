@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of ALGEBRAIC STRUCTURE OF INTEGERS TOGETHER WITH ADDITION AND MULTIPLICATION &amp;#9733; master graduate maths &amp;#10004; visit BookOfProofs now!">
+<meta name="keywords" content="ring of integers,commutative ring of integers,integral domain of integers,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-integers-together-with-addition-and-multiplication.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-integers-together-with-addition-and-multiplication.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/order-relation-for-integers-positive-and-negative-integers.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html'>Number-systems-arithmetics</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-integers-together-with-addition-and-multiplication.html'>Proposition: Algebraic Structure of Integers Together with Addition and Multiplication</a>)</p>
+<p>We have to show that \((\mathbb Z, +, \cdot)\), i.e. the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Number Systems Arithmetics / Proposition: Definition of Integers">set of integers</a> \(\mathbb Z\), together with the operations <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-integers.html" title="Number Systems Arithmetics / Proposition: Addition of Integers">addition</a> "\(+\)" and <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-integers.html" title="Number Systems Arithmetics / Proposition: Multiplication of Integers">multiplication</a> 
+"\(\cdot\)" forms an <a href="https://bookofproofs.github.io/branches/algebra/zero-divisor-and-integral-domain.html" title="Algebra / Definition: Zero Divisor and Integral Domain">integral domain</a>. We will do so by demonstrating, that \((\mathbb Z, +, \cdot)\) is a <a href="https://bookofproofs.github.io/branches/algebra/commutative-unit-ring.html" title="Algebra / Definition: Commutative (Unit) Ring">commutative ring</a>, which is not the <a href="https://bookofproofs.github.io/branches/algebra/zero-ring.html" title="Algebra / Definition: Zero Ring">zero ring</a> and in which the integer \(0\) is the only zero divisor.</p>
+<p>In order to show that \((\mathbb Z, +,\cdot)\) is a <a href="https://bookofproofs.github.io/branches/algebra/commutative-unit-ring.html" title="Algebra / Definition: Commutative (Unit) Ring">commutative ring</a>, we check the following properties:</p>
+<ul>
+<li>\((\mathbb Z, + )\) is a commutative group. This has been shown in <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Number Systems Arithmetics / Proposition: Definition of Integers">a corresponding proposition</a>. </li>
+<li>\((\mathbb Z, \cdot )\) is a commutative monoid. This requires the following (sub)properties:<ul>
+<li>We have already shown that the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-integers-is-commutative.html" title="Number Systems Arithmetics / Proposition: Multiplication of Integers Is Commutative">multiplication of integers is commutative</a>, thus \((\mathbb Z,\cdot)\) is commutative.</li>
+<li>We have already shown that the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-integers-is-associative.html" title="Number Systems Arithmetics / Proposition: Multiplication of Integers Is Associative">multiplication of integers is associative</a>, thus \((\mathbb Z,\cdot)\) is associative.</li>
+<li>\((\mathbb Z,\cdot)\) includes the identity \(1_{\in\mathbb Z}:=[1_{\in\mathbb N},0_{\in\mathbb N}]\), which have been shown in the proposition <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/existence-of-integer-one-neutral-element-of-multiplication-of-integers.html" title="Number Systems Arithmetics / Proposition: Existence of Integer One (Neutral Element of Multiplication of Integers)">integers one is neutral with respect to the multiplication of integers</a>.</li>
+</ul>
+</li>
+<li>\((\mathbb Z, +, \cdot)\) is distributive, which has been shown in the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/distributivity-law-for-integers.html" title="Number Systems Arithmetics / Proposition: Distributivity Law For Integers">corresponding proposition</a>.
+We have just shown that \((\mathbb Z, + ,\cdot)\) is a commutative ring with \(1:=[1,0]\) as the identity of the commutative monoid \((\mathbb Z,\cdot)\). Obviously, \((\mathbb Z, + ,\cdot)\) is not the <a href="https://bookofproofs.github.io/branches/algebra/zero-ring.html" title="Algebra / Definition: Zero Ring">zero ring</a>, because \(1\in\mathbb Z\). It remains to be shown that \(0_{\in\mathbb Z}:=[0_{\in\mathbb N},0_{\in\mathbb N}]\) is the only zero divisor. </li>
+</ul>
+<p>Suppose, there would be other (but \(0\)) zero divisors, say \(x,y\in\mathbb Z\) with \(x\neq 0\), \(y\neq 0\), and still \(x\cdot y=0\). By definition of integers, suppose \(x=[a,b],y=[c,d]\) for some natural numbers \(a,b,c,d\in\mathbb N\). By definition of multiplying integers, we also have that
+\[\begin{array}{ccl}
+x\cdot y=[a,b] \cdot [c,d] := [ac + bd, ad + bc].
+\end{array}
+\]</p>
+<p>Because both \(x\) and \(y\) are not equal \(0\), we have that \([a,b]\neq[0,0]\) and \([c,d]\neq[0,0]\), which means that \(a\) and \(b\) are not simultaneously equal \(0\), and that \(c\) and \(d\) are not simultaneously equal \(0\). There are \(7\) possibilities for this and we have to check, in which cases the natural numbers \(ac + bd\) and \(ad + bc\) both equal zero:</p>
+<div style='overflow-x:auto;'><table>
+<thead>
+<tr>
+<th style="text-align: left;">\(a\)</th>
+<th style="text-align: left;">\(b\)</th>
+<th style="text-align: left;">\(c\)</th>
+<th style="text-align: left;">\(d\)</th>
+<th style="text-align: left;">\(ac\)</th>
+<th style="text-align: left;">\(bd\)</th>
+<th style="text-align: left;">\(ad\)</th>
+<th style="text-align: left;">\(bc\)</th>
+<th style="text-align: left;">\(ac+bd\)</th>
+<th style="text-align: left;">\(ad+bc\)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(= 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(=0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(= 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(=0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(=0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(= 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(= 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(= 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(=0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(= 0\)</td>
+<td style="text-align: left;">\(=0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(= 0\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(= 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(= 0\)</td>
+<td style="text-align: left;">\(=0\)</td>
+<td style="text-align: left;">\(= 0\)</td>
+<td style="text-align: left;">\(= 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(= 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(= 0\)</td>
+<td style="text-align: left;">\(= 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(=0\)</td>
+<td style="text-align: left;">\(=0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(=0\)</td>
+<td style="text-align: left;">\(= 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+</tr>
+<tr>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(= 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(= 0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(=0\)</td>
+<td style="text-align: left;">\(=0\)</td>
+<td style="text-align: left;">\(=0\)</td>
+<td style="text-align: left;">\(\neq 0\)</td>
+<td style="text-align: left;">\(= 0\)</td>
+</tr>
+</tbody>
+</table></div>
+<p>We have seen that in all \(7\) cases
+\[\begin{array}{ccl}
+[ac + bd, ad + bc]\neq[0,0],
+\end{array}
+\]
+which demonstrates that the product of integers \(x\cdot y\) is never equal (integer) zero. This is a <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">contradiction</a> to our hypothesis \(x\cdot y=0\). This completes the proof.</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-systems-arithmetics/algebraic-structure-of-integers-together-with-addition-and-multiplication-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Kramer Jürg, von Pippich, Anna-Maria</strong>: "Von den natürlichen Zahlen zu den Quaternionen", Springer-Spektrum, 2013</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

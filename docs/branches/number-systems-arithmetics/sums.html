@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="SUMS ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="sum,summands,sums,iverson notation">
+<title>Sums</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/sum-manipulation-methods.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/sum-manipulation-methods.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/basic-rules-of-manipulating-finite-sums.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html'>Number-systems-arithmetics</a> / Definition: Sums</h3>
+
+<hr>
+
+<p>The \(\Sigma\)-notation was introduced in 1870 by Joseph Fourier.</p>
+<h1>Definition: Sums</h1>
+<p>A general <strong>sum</strong> is an expression of the form<br />
+\[a_1+a_2+\cdots+a_n\]</p>
+<p>where the elements \(a_k\) are called the <strong>summands</strong> of the sum. If not stated otherwise, it is assumed, that the terms are elements of a <a href="https://bookofproofs.github.io/branches/algebra/field.html" title="Algebra / Definition: Field">field</a>. This could, for instance, be:</p>
+<ul>
+<li>the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-rational-numbers-together-with-addition-and-multiplication.html" title="Number Systems Arithmetics / Proposition: Algebraic Structure of Rational Numbers Together with Addition and Multiplication">field of rational numbers</a> \(\mathbb Q\),</li>
+<li>the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-real-numbers-together-with-addition-and-multiplication.html" title="Number Systems Arithmetics / Proposition: Algebraic Structure of Real Numbers Together with Addition and Multiplication">field of real numbers</a> \(\mathbb R\), or </li>
+<li>the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-complex-numbers-together-with-addition-and-multiplication.html" title="Number Systems Arithmetics / Proposition: Algebraic Structure of Complex Numbers Together with Addition and Multiplication">field of complex numbers</a> \(\mathbb C\).</li>
+</ul>
+<p>The <a href="https://bookofproofs.github.io/branches/algebra/associativity.html" title="Algebra / Definition: Associativity">axiom of associativity</a>, which holds in any field, makes sure that the sum is well-defined, i.e. that it does not depend on the order, in which we <strong>add</strong> the respective <strong>summands</strong>. </p>
+<p>But the concept of sums can also be successfully used for all other algebraic structures, in which the axiom of associativity also holds, for instance, rings, groups or even monoids.</p>
+<h3>The "Three-Dot" Notation</h3>
+<p>The three dots "\(\cdots\)" in the sum indicate that we have to complete the pattern established by the surrounding terms. For instance, if we write</p>
+<p>\[1 + 2 + \cdots + n\]</p>
+<p>then it means that we sum over all integers from \(1\) to \(n\). Sometimes, this notation is ambiguous. For example, if we write</p>
+<p>\[1 + 2 + \cdots + 2^n\]</p>
+<p>this could mean that the sum goes over all integers from \(1\) to \(2^n\) or that it goes over all powers of \(2\), from \(2^0\) to \(2^n\). To avoid such ambiguities, we should then write explicitly</p>
+<p>\[2^0 + 2^1 + \cdots + 2^n\]</p>
+<h3>The Delimited \(\Sigma\)-Notation ("Sigma"-Notation)</h3>
+<p>The Greek letter \(\Sigma\) (upper case sigma) is used to write a delimited form of sums. This notation was introduced in 1870 by "Joseph Fourier":<a href="https://www.bookofproofs.org/history/jean-baptiste-joseph-fourier/">https://www.bookofproofs.org/history/jean-baptiste-joseph-fourier/</a>. The sum \(a_1+a_2+\cdots+a_n\) can be written as 
+\[\sum_{k=1}^n a_k\quad\quad ( * )\]
+and read "sum over \(k\), from \(1\) to \(n\)". The terms after  \(\Sigma\)  (here \(a_k\)) are called the <strong>summands</strong>. The index \(k\) is said to be <strong>bound</strong> to the \(\Sigma\)  sign, since any other letter could be substituted for \(k\) without changing the meaning of \(( * )\):</p>
+<p>\[\sum_{k=1}^n a_k=\sum_{j=1}^n a_j=\sum_{m=1}^n a_m=\cdots.\]</p>
+<h3>The Generalized \(\Sigma\)-Notation</h3>
+<p>The generalized \(\Sigma\)-notation is characterized by writing one or more conditions under the \(\Sigma\) sign for the index. For instance, the sum \( ( * ) \) can be also written as</p>
+<p>\[\sum_{1\le k\le n} a_k\]</p>
+<p>The generalized  \(\Sigma\)-notation is even more useful than the delimited \(\Sigma\) notation since it allows to work with sums over index sets that aren't restricted to consecutive integers. For example, the sum</p>
+<p>\[\sum_{
+\substack{
+1\le k\le 1000 \\
+k \text{ odd}
+}}k^2\quad\quad( * * )\]</p>
+<p>would be a short-form notation of the sum of all squares of odd positive integers from \(1\) to \(999\):
+\[1^2 + 3^2+ 5^2 + \cdots + 997^2 + 999^2 \]
+The equivalent of \( ( * * )\) in the delimited notation would be</p>
+<p>\[\sum_k^{499}(2k +1)^2 \]
+which is less clear and more cumbersome. Another advantage of the general notation is that it allows using separate indices running through different domains or with different limits. For example, the sum</p>
+<p>\[\sum_{
+\substack{
+1\le k\le n \\
+0\le j\le m}} a_kb_j\]
+is a sum, the summands of which consist of the terms \(a_k\) and \(b_j\) depending on the independent indices \(k\) and \(j\). </p>
+<p>The probably biggest advantage of the general \(\Sigma\)-notation is that it is more easy to manipulate than the delimited form. Consider for example changing the index from \(k\) to \((k+1)\) in both notations, as shown in the below table:</p>
+<div style='overflow-x:auto;'><table>
+<thead>
+<tr>
+<th style="text-align: left;">General Sum Notation</th>
+<th style="text-align: left;">Delimited Sum Notation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">$\sum_{1\le k\le n} a_k=\sum_{1\le k+1\le n} a_{k+1}$</td>
+<td style="text-align: left;">$\sum_1^n a_k=\sum_0^{n-1}a_{k+1}$</td>
+</tr>
+</tbody>
+</table></div>
+<blockquote>
+<p>Comparison of manipulating the index (here shifting the index from \(k\) to \((k+1\)) in general and delimited sum notations.</p>
+</blockquote>
+<p>The manipulation in the general notation is more simply done than in the delimited form. In the latter, it is harder to see what happened and it is more likely to make a mistake.</p>
+<h3>The Iverson-Notation</h3>
+<p>Kenneth I. Iverson introduced in his "APL programming language":<a href="http://www.jsoftware.com/papers/APL.htm">http://www.jsoftware.com/papers/APL.htm</a> a very useful concept of a <strong>relational statement</strong> \([\alpha~R~\beta]\), which is a <strong>logical variable</strong> defined by:</p>
+<p>\[[\alpha~R~\beta]:=\cases{1,\quad \alpha R \beta\\0\quad\text{else}}\]</p>
+<p>This concept can be adapted to write sums in the form</p>
+<p>\[\sum_{k}a_k[P(k)],\]</p>
+<p>which allows creating any constraints whatsoever on the index of summation. The attached variable in brackets \([P(k)]\) is a logical true-or-false variable and the summands equal</p>
+<p>\[a_k[P(k)]:=\cases{a_k,\text{ if }P(k)\text{ is true for the index }k\\0\quad\text{else}}\]</p>
+<p>This notation is very powerful since it significantly simplifies the manipulation of sums by allowing logical and set operations inside the summation terms. In this notation, the sum \( ( * * )\) above would have the form</p>
+<p>\[\sum_{k}k\cdot[(1\le k \le 1000)\wedge (k\text{ odd})]=\sum_{k}k\cdot[1\le k \le 1000]\cdot[k\text{ odd}],\]</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-systems-arithmetics/sums.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Graham L. Ronald, Knuth E. Donald, Patashnik Oren</strong>: "Concrete Mathematics", Addison-Wesley, 1994, 2nd Edition</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>
