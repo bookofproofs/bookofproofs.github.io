@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="SOLUTION OF THE SIX PAWNS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="pawns solution,six">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/fun/dudeney/chessboard-problems/various-chess-puzzles/the-six-pawns.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/fun/dudeney/chessboard-problems/various-chess-puzzles/the-six-pawns.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/fun/dudeney/chessboard-problems/various-chess-puzzles/counter-solitaire.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/fun/fun.html'>Fun</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/dudeney.html'>Dudeney</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/chessboard-problems/chessboard-problems.html'>Chessboard-problems</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/chessboard-problems/various-chess-puzzles/various-chess-puzzles.html'>Various-chess-puzzles</a> / Solution</h3>
+
+<hr>
+
+<h1>Solution</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/fun/dudeney/chessboard-problems/various-chess-puzzles/the-six-pawns.html'>Problem: The Six Pawns</a>)</p>
+<p>The general formula for six pawns on all squares greater than $22$ is this: Six times the square of the number of combinations of $n$ things taken three at a time, where $n$ represents the number of squares on the side of the board.</p>
+<p>Of course, where $n$ is <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--7-elementary-number-theory/even-number.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  7 Elementary Number Theory / Definition: 7.06: Even Number">even</a>, the unoccupied squares in the rows and columns will be even, and where n is <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--7-elementary-number-theory/odd-number.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  7 Elementary Number Theory / Definition: 7.07: Odd Number">odd</a>, the number of squares will be odd.</p>
+<p>Here $n$ is $8,$ so the answer is $18,816$ different ways. This is "The Dyer's Puzzle" (<strong>Canterbury Puzzles</strong>, No. 27) in another form. I repeat it here in order to explain a method of solving that will be readily grasped by the novice. First of all, it is evident that if we put a pawn on any line, we must put a second one in that line in order that the remainder may be even in number. We cannot put four or six in any row without making it impossible to get an even number in all the columns interfered with. We have, therefore, to put two pawns in each of three rows and in each of three columns. Now, there are just six schemes or arrangements that fulfill these conditions, and these are shown in Diagrams A to F, inclusive.</p>
+<p><img alt="a358" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/dudeney/a358.png?raw=true" /></p>
+<p>I will just remark in passing that $A$ and $B$ are the only distinctive arrangements, because, if you give $A$ a quarter-turn, you get $F;$ and if you give $B$ three quarter-turns in the direction that a clock hand moves, you will get successively $C, D,$ and $E.$ No matter how you may place your six pawns, if you have complied with the conditions of the puzzle they will fall under one of these arrangements. Of course, it will be understood that mere expansions do not destroy the essential character of the arrangements. Thus $G$ is only an expansion of form $A.$</p>
+<p>The solution, therefore, consists in finding the number of these expansions. Supposing we confine our operations to the first three rows, as in $G,$ then with the pairs $a$ and $b$ placed in the first and second columns, the pair $c$ may be disposed in any one of the remaining six columns, and so give six solutions. Now slide pair $b$ into the third column, and there are five possible positions for $c.$ Slide $b$ into the fourth column and $c$ may produce four new solutions. And so on, until (still leaving $a$ in the first column) you have $b$ in the seventh column, and there is only one place for $c$ — in the eighth column. Then you may put $a$ in the second column, $b$ in the third, and $c$ in the fourth, and start sliding $c$ and $b$ as before for another series of solutions.</p>
+<p>We find thus that, by using form $A$ alone and confining our operations to the three top rows, we get as many answers as there are combinations of $8$ things taken $3$ at a time. This is $$\frac{8 \times 7 \times 6}{1 \times 2 \times 3} = 56.$$ And it will at once strike the reader that if there are $56$ different ways of electing the columns, there must be for each of these ways just $56$ ways of selecting the rows, for we may simultaneously work that "sliding" process downwards to the very bottom in exactly the same way as we have worked from left to right. Therefore the total number of ways in which form $A$ may be applied is $56^2 = 3,136.$ But there are, as we have seen, six arrangements, and we have only dealt with one of these, A. We must, therefore, multiply this result by $6,$ which gives us $3,136 \times 6 = 18,816,$ which is the total number of ways, as we have already stated.</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/fun/dudeney/chessboard-problems/various-chess-puzzles/the-six-pawns-solution.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Project Gutenberg</h4>
+<ol>
+<li><strong>Dudeney, H. E.</strong>: "Amusements in Mathematics", The Authors' Club, 1917</li>
+</ol>
+<p>This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this edition or online at <a href="http://www.gutenberg.org">http://www.gutenberg.org</a>. If you are not located in the United States, you'll have to check the laws of the country where you are located before using this ebook.</p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

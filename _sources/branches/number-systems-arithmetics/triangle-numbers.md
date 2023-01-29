@@ -47,4 +47,5 @@ The general formula for the `\(n\)`-th triangle number is
 `\[\Delta_n=\sum_{k=1}^n n=1+2+\cdots+n=\frac {(n+1)n}{2},\]`
 
 which can easily be proven as a special case of the [sum of arithmetic progression][bookofproofs$1117].
-p. The sequence of triangle numbers begins with `\(1\)`, `\(3\)`, `\(6\)`, `\(10\)`, `\(15\)`, `\(21\)`, `\(28\)`, `\(36\)`, ...
+
+The sequence of triangle numbers begins with `\(1\)`, `\(3\)`, `\(6\)`, `\(10\)`, `\(15\)`, `\(21\)`, `\(28\)`, `\(36\)`, ...

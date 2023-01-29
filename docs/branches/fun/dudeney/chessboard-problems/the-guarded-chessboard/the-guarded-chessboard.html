@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="THE GUARDED CHESSBOARD &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="chessboard,guarded">
+<title>The Guarded Chessboard</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/fun/dudeney/chessboard-problems/statical-chess-puzzles/the-knight-guards-solution.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/fun/dudeney/chessboard-problems/chessboard-problems.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/fun/dudeney/chessboard-problems/dynamical-chess-puzzles/dynamical-chess-puzzles.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/fun/fun.html'>Fun</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/dudeney.html'>Dudeney</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/chessboard-problems/chessboard-problems.html'>Chessboard-problems</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/chessboard-problems/the-guarded-chessboard/the-guarded-chessboard.html'>The-guarded-chessboard</a> / Section: The Guarded Chessboard</h3>
+
+<hr>
+
+<h1>Section: The Guarded Chessboard</h1>
+<p>On an ordinary chessboard, $8$ by $8$, every square can be guarded—that is, either occupied or attacked—by $5$ queens, the fewest possible. There are exactly $91$ fundamentally different arrangements in which no queen attacks another queen. If every queen must attack (or be protected by) another queen, there are at fewest $41$ arrangements, and I have recorded some $150$ ways in which some of the queens are attacked and some not, but this last case is very difficult to enumerate exactly.</p>
+<p>On an ordinary chessboard, every square can be guarded by $8$ rooks (the fewest possible) in $40,320$ ways, if no rook may attack another rook, but it is not known how many of these are fundamentally different. (See solution to No. 295, "The Eight Rooks.") I have not enumerated the ways in which every rook shall be protected by another rook.</p>
+<p>On an ordinary chessboard, every square can be guarded by $8$ bishops (the fewest possible), if no bishop may attack another bishop. Ten bishops are necessary if every bishop is to be protected. (See Nos. 297 and 298, "Bishops unguarded" and "Bishops guarded.")</p>
+<p>On an ordinary chessboard, every square can be guarded by $12$ knights if all but $4$ are unprotected. But if every knight must be protected, $14$ are necessary. (See No. 319, "The Knight-Guards.")</p>
+<p>Dealing with the queen on $n^2$ boards generally, where n is less than $8$, the following results will be of interest:—</p>
+<ul>
+<li>$1$ queen guards $2^2$ board in $1$ fundamental way.</li>
+<li>$1$ queen guards $3^2$ board in $1$ fundamental way.</li>
+<li>$2$ queens guard $4^2$ board in $3$ fundamental ways (protected).</li>
+<li>$3$ queens guard $4^2$ board in $2$ fundamental ways (not protected).</li>
+<li>$3$ queens guard $5^2$ board in $37$ fundamental ways (protected).</li>
+<li>$3$ queens guard $5^2$ board in $2$ fundamental ways (not protected).</li>
+<li>$3$ queens guard $6^2$ board in $1$ fundamental way (protected).</li>
+<li>$4$ queens guard $6^2$ board in $17$ fundamental ways (not protected).</li>
+<li>$4$ queens guard $7^2$ board in $5$ fundamental ways (protected).</li>
+<li>$4$ queens guard $7^2$ board in $1$ fundamental way (not protected).</li>
+</ul>
+<h3>Non-Attacking Chessboard Arrangements</h3>
+<p>We know that n queens may always be placed on a square board of $n^2$ squares (if $n$ be greater than $3$) without any queen attacking another queen. But no general formula for enumerating the number of different ways in which it may be done has yet been discovered; probably it is undiscoverable. The known results are as follows:—</p>
+<ul>
+<li>Where $n = 4$ there is $1$ fundamental solution and $2$ in all.</li>
+<li>Where $n = 5$ there are $2$ fundamental solutions and $10$ in all.</li>
+<li>Where $n = 6$ there is $1$ fundamental solution and $4$ in all.</li>
+<li>Where $n = 7$ there are $6$ fundamental solutions and $40$ in all.</li>
+<li>Where $n = 8$ there are $12$ fundamental solutions and $92$ in all.</li>
+<li>Where $n = 9$ there are $46$ fundamental solutions.</li>
+<li>Where $n = 10$ there are $92$ fundamental solutions.</li>
+<li>Where $n = 11$ there are $341$ fundamental solutions.</li>
+</ul>
+<p>Obviously, $n$ rooks may be placed without an attack on an $n^2$  board in $n!$ ways, but how many of these are fundamentally different I have only worked out in the four cases where $n$ equals $2$, $3$, $4$, and $5.$ The answers here are respectively $1$, $2$, $7,$ and $23.$ (See <a href="https://bookofproofs.github.io/branches/fun/dudeney/chessboard-problems/statical-chess-puzzles/the-four-lions.html" title="Fun / Dudeney / Chessboard Problems / Statical Chess Puzzles / Problem: The Four Lions">The Four Lions</a>)</p>
+<p>We can place $2n-2$ bishops on an $n^2$ board in $2^n$ ways. (See No. 299, <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--7-elementary-number-theory/odd-number.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  7 Elementary Number Theory / Definition: 7.07: Odd Number">Bishops in Convocation.") For boards containing $2,$ $3,$ $4,$ $5,$ $6,$ $7,$ $8$ squares, on a side there are respectively $1,$ $2,$ $3,$ $6,$ $10,$ $20,$ $36$ fundamentally different arrangements. Where $n$ is "odd</a> there are $2^{\sqrt{n-1}}$ such arrangements, each giving $4$ by reversals and reflections, and $2^{n-3} - 2^{\sqrt{n-3}}$ giving $8$. Where $n$ is <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--7-elementary-number-theory/even-number.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  7 Elementary Number Theory / Definition: 7.06: Even Number">even</a> there are $2^{\sqrt{n-2}}$, each giving $4$ by reversals and reflections, and $2^{n-3} - 2^{\sqrt{n-4}}$, each giving $8.$</p>
+<p>We can place $\frac 12(n^2+1)$ knights on an $n^2$ board without attack, when $n$ is odd, in $1$ fundamental way; and $\frac {n^2}2$ knights on an $n^2$ board, when $n$ is even, in $1$ fundamental way. In the first case we place all the knights in the same color as the central square; in the second case, we place them all on black, or all on white, squares.</p>
+<h3>The Two Pieces Problem</h3>
+<p>On a board of $n^2$ squares, two queens, two rooks, two bishops, or two knights can always be placed, irrespective of attack or not, in $\frac 12(n^4 - n^2)$ ways. The following formulæ will show in how many of these ways the two pieces may be placed under attack and without:—</p>
+<p>| With Attack | Without Attack
+:------------- |:------------- |:-------------
+&lt;. $2$ Queens| $\frac{5n^3 - 6n^2 + n}3$| $\frac{3n^4 - 10n^3 + 9n^2 - 2n}6$
+&lt;. $2$ Rooks| $n^3 - n^2$| $\frac{n^4 - 2n^3 + n^2}2$
+&lt;. $2$ Bishops|  $\frac{4n^3 - 6n^2 + 2n}6$| $\frac{3n^4 - 4n^3 + 3n^2 - 2n}6$
+&lt;. $2$ Knights| $4n^2 - 12n + 8$| $\frac{n^4 - 9n^2 + 24n}2$</p>
+<p>(See <a href="https://bookofproofs.github.io/branches/fun/dudeney/chessboard-problems/statical-chess-puzzles/lion-hunting.html" title="Fun / Dudeney / Chessboard Problems / Statical Chess Puzzles / Problem: Lion-hunting">Lion-Hunting</a>)</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/fun/dudeney/chessboard-problems/the-guarded-chessboard/the-guarded-chessboard.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Project Gutenberg</h4>
+<ol>
+<li><strong>Dudeney, H. E.</strong>: "Amusements in Mathematics", The Authors' Club, 1917</li>
+</ol>
+<p>This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this edition or online at <a href="http://www.gutenberg.org">http://www.gutenberg.org</a>. If you are not located in the United States, you'll have to check the laws of the country where you are located before using this ebook.</p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

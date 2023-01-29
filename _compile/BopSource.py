@@ -134,6 +134,8 @@ class BopSource:
                     self.parentid = prop_split[1].strip()
                 elif prop_split[0] == "references":
                     self.references = prop_split[1].split(",")
+                elif prop_split[0] == "issues":
+                    self.issues = prop_split[1].split(",")
                 else:
                     raise NotImplementedError("Unknown property " + prop_split[0] + " found in " + self._file_name)
 
@@ -141,6 +143,7 @@ class BopSource:
         self.references = self._sanitize_list(self.references)
         self.contributors = self._sanitize_list(self.contributors)
         self.categories = self._sanitize_list(self.categories)
+        self.issues = self._sanitize_list(self.issues)
 
     def _sanitize_list(self, l: list):
         new_list = list()

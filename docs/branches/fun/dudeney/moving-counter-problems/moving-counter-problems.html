@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="MOVING COUNTER PROBLEMS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="counter,moving,problems">
+<title>Moving Counter Problems</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/fun/dudeney/points-and-lines-problems/turks-and-russians-solution.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/fun/dudeney/dudeney.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/the-six-frogs.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/fun/fun.html'>Fun</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/dudeney.html'>Dudeney</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/moving-counter-problems.html'>Moving-counter-problems</a> / Chapter: Moving Counter Problems</h3>
+
+<hr>
+
+<h1>Chapter: Moving Counter Problems</h1>
+<blockquote>
+<p>"I cannot do't without counters."
+Winter's Tale, iv. 3.</p>
+</blockquote>
+<p>Puzzles of this class, except so far as they occur in connection with actual games, such as chess, seem to be a comparatively modern introduction. Mathematicians in recent times, notably Vandermonde and Reiss, have devoted some attention to them, but they do not appear to have been considered by the old writers. So far as games with counters are concerned, perhaps the most ancient and widely known in old times is "Nine Men's Morris" (known also, as I shall show, under a great many other names), unless the simpler game, distinctly mentioned in the works of Ovid (No. 110, "Ovid's Game," in <strong>The Canterbury Puzzles</strong>), from which "Noughts and Crosses" seems to be derived, is still more ancient.</p>
+<p>In France the game is called Marelle, in Poland Siegen Wulf Myll (She-goat Wolf Mill, or Fight), in Germany and Austria it is called Muhle (the Mill), in Iceland it goes by the name of Mylla, while the Bogas (or native bargees) of South America are said to play it, and on the Amazon it is called Trique, and held to be of Indian origin. In our own country, it has different names in different districts, such as Meg Merrylegs, Peg Meryll, Nine Peg o'Merryal, Nine-Pin Miracle, Merry Peg, and Merry Hole. Shakespeare refers to it in "Midsummer Night's Dream" (Act ii., scene 1):—</p>
+<blockquote>
+<p>"The nine-men's morris is filled up with mud;
+And the quaint mazes in the wanton green,
+For lack of tread, are undistinguishable."</p>
+</blockquote>
+<p>It was played by the shepherds with stones in holes cut in the turf. John Clare, the peasant poet of Northamptonshire, in "The Shepherd Boy" (1835) says:—"Oft we track his haunts .... By nine-peg-morris nicked upon the green." It is also mentioned by Drayton in his "Polyolbion."</p>
+<p>It was found on an old Roman tile discovered during the excavations at Silchester and cut upon the steps of the Acropolis at Athens. When visiting the Christiania Museum a few years ago I was shown the great Viking ship that was discovered at Gokstad in 1880. On the oak planks forming the deck of the vessel were found boles and lines marking out the game, the holes being made to receive pegs. While inspecting the ancient oak furniture in the Rijks Museum at Amsterdam I became interested in an old catechumen's settle and was surprised to find the game diagram cut in the center of the seat—quite conveniently for surreptitious play. It has been discovered cut in the choir stalls of several of our English cathedrals. In the early eighties, it was found scratched upon a stone built into a wall (probably about the date 1200), during the restoration of Hargrave church in Northamptonshire. This stone is now in the Northampton Museum. A similar stone has since been found at Sempringham, Lincolnshire. It is to be seen on an ancient tombstone in the Isle of Man and painted on old Dutch tiles. And in 1901 a stone was dug out of a gravel pit near Oswestry bearing an undoubted diagram of the game.</p>
+<p><img alt="counter" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/dudeney/counter.png?raw=true" /></p>
+<p>The game has been played with different rules at different periods and places. I give a copy of the board. Sometimes the diagonal lines are omitted, but this evidently was not intended to affect the play: it simply meant that the angles alone were thought sufficient to indicate the points. This is how Strutt, in Sports and Pastimes, describes the game, and it agrees with the way I played it as a boy:—"Two persons, having each of the nine pieces, or men, lay them down alternately, one by one, upon the spots; and the business of either party is to prevent his antagonist from placing three of his pieces so as to form a row of three, without the intervention of an opponent piece. If a row be formed, he that made it is at liberty to take up one of his competitor's pieces from any part he thinks most of his advantage; excepting he has made a row, which must not be touched if he has another piece on the board that is not a component part of that row. When all the pieces are laid down, they are played backward and forwards, in any direction that the lines run, but only can move from one spot to another (next to it) at one time. He that takes off all his antagonist's pieces is the conqueror."</p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/the-six-frogs.html'>Problem: The Six Frogs</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/the-grasshopper-puzzle.html'>Problem: The Grasshopper Puzzle</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/the-educated-frogs.html'>Problem: The Educated Frogs</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/the-twickenham-puzzle.html'>Problem: The Twickenham Puzzle</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/the-victoria-cross-puzzle.html'>Problem: The Victoria Cross Puzzle</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/the-letter-block-puzzle.html'>Problem: The Letter Block Puzzle</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/a-lodging-house-difficulty.html'>Problem: A Lodging-house Difficulty</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/the-eight-engines.html'>Problem: The Eight Engines</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/a-railway-puzzle.html'>Problem: A Railway Puzzle</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/a-railway-muddle.html'>Problem: A Railway Muddle</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/the-motor-garage-puzzle.html'>Problem: The Motor-garage Puzzle</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/the-ten-prisoners.html'>Problem: The Ten Prisoners</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/round-the-coast.html'>Problem: Round The Coast</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/central-solitaire.html'>Problem: Central Solitaire</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/the-ten-apples.html'>Problem: The Ten Apples</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/the-twelve-pennies.html'>Problem: The Twelve Pennies</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/the-nine-almonds.html'>Problem: The Nine Almonds</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/plates-and-coins.html'>Problem: Plates And Coins</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/catching-the-mice.html'>Problem: Catching The Mice</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/the-eccentric-cheesemonger.html'>Problem: The Eccentric Cheesemonger</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/the-exchange-puzzle.html'>Problem: The Exchange Puzzle</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/torpedo-practice.html'>Problem: Torpedo Practice</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/the-hat-puzzle.html'>Problem: The Hat Puzzle</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/boys-and-girls.html'>Problem: Boys And Girls</a></li>
+<li><a href='https://bookofproofs.github.io/branches/fun/dudeney/moving-counter-problems/arranging-the-jampots.html'>Problem: Arranging The Jampots</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/fun/dudeney/moving-counter-problems/moving-counter-problems.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Project Gutenberg</h4>
+<ol>
+<li><strong>Dudeney, H. E.</strong>: "Amusements in Mathematics", The Authors' Club, 1917</li>
+</ol>
+<p>This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this edition or online at <a href="http://www.gutenberg.org">http://www.gutenberg.org</a>. If you are not located in the United States, you'll have to check the laws of the country where you are located before using this ebook.</p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

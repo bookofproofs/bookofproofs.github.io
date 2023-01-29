@@ -14,14 +14,10 @@ contributors: bookofproofs
 
 ---
 
-p. *1.* If `\(X\)` is a [transitive set][bookofproofs$720], so is:
+1. If `\(X\)` is a [transitive set][bookofproofs$720], so is:
+   1. the set `\(X\cup\{X\}\)`, and 
+   2. the [power set][bookofproofs$552] `\(\mathcal P(X)\)`.
 
-p(. **1a)** the set `\(X\cup\{X\}\)`, and 
-
-p(. **1b)** the [power set][bookofproofs$552] `\(\mathcal P(X)\)`.
-
-p. *2.* If `\(X\)` is a set of [transitive sets][bookofproofs$720], so is:
-
-p(. **2a)** the [union][bookofproofs$552] of its elements `\(\bigcup X\)`, and
-
-p(. **2b)** the [intersection][bookofproofs$552] of its elements `\(\bigcap X\)`.
+2. If `\(X\)` is a set of [transitive sets][bookofproofs$720], so is:
+   1. the [union][bookofproofs$552] of its elements `\(\bigcup X\)`, and 
+   2. the [intersection][bookofproofs$552] of its elements `\(\bigcap X\)`.

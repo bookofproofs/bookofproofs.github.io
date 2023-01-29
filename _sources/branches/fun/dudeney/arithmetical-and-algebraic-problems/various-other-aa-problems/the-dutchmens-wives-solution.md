@@ -1,0 +1,22 @@
+layout: solution
+categories: branches,fun,dudeney,arithmetical-and-algebraic-problems,various-other-aa-problems
+nodeid: bookofproofs$7521
+orderid: 0
+parentid: bookofproofs$7054
+title: 
+description: SOLUTION OF THE DUTCHMEN'S WIVES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
+references: bookofproofs$6929
+keywords: dutchmens,wives solution
+contributors: bookofproofs
+issues: broken-links
+
+---
+
+
+---
+
+The money paid in every case was a square number of shillings because they bought `$1$` at `$1$`s., `$2$` at `$2$`s., `$3$` at `$3$`s., and so on. But every husband pays altogether `$63$`s. more than his wife, so we have to find in how many ways `$63$` may be the difference between two square numbers. These are the three only possible ways: the square of `$8$` less the square of `$1,$` the square of `$12$` less the square of `$9,$` and the square of `$32$` less the square of `$31.$` Here `$1,$` `$9,$` and `$31$` represent the number of pigs bought and the number of shillings per pig paid by each woman, and `$8,$` `$12,$` and `$32$` the same in the case of their respective husbands. From the further information given as to their purchases, we can now pair them off as follows: Cornelius and Gurtrün bought `$8$` and `$1;$` Elas and Katrün bought `$12$` and `$9;$` Hendrick and Anna bought `$32$` and `$31.$` And these pairs represent correctly the three married couples.
+
+The reader may here desire to know how we may determine the maximum number of ways in which a number may be expressed as the difference between two squares, and how we are to find the actual squares. Any integer except `$1,$` `$4,$` and twice any odd number, may be expressed as the difference of two integral squares in as many ways as it can be split up into pairs of factors, counting `$1$` as a factor. Suppose the number to be `$5,940.$` The factors are `$2^2.3^3.5.11.$` Here the exponents are `$2,$` `$3,$` `$1,$` `$1.$` Always deduct `$1$` from the exponents of `$2$` and add `$1$` to all the other exponents; then we get `$1,$` 4, `$2,$` 2, and half the product of these four numbers will be the required number of ways in which `$5,940$` may be the difference of two squares — that is, `$8.$` To find these eight squares, as it is an even number, we first divide by `$4$` and get `$1485,$` the eight pairs of factors of which are `$1 \times 1485,$` `$3 \times 495,$` `$5 \times 297,$` `$9 \times 165,$` `$11 \times 135,$` `$15 \times 99,$` `$27 \times 55,$` and `$33 \times 45.$` The sum and difference of any one of these pairs will give the required numbers. Thus, the square of `$1,486$` less the square of `$1,484$` is `$5,940,$` the square of `$498$` less the square of `$492$` is the same, and so on. In the case of `$63$` above, the number is odd; so we factorize at once, `$1 \times 63,$` `$3 \times 21,$` `$7 \times 9.$` Then we find that __half__ the sum and difference will give us the numbers `$32$` and `$31,$` `$12$` and `$9,$` and `$8$` and `$1,$` as shown in the solution to the puzzle.
+
+The reverse problem, to find the factors of a number when you have expressed it as the difference of two squares, is obvious. For example, the sum and difference of any pair of numbers in the last sentence will give us the factors of `$63.$` Every [prime number][bookofproofs$704] (except `$1$` and `$2$`) may be expressed as the difference of two [squares][bookofproofs$2326] in one way, and in one way only. If a number can be expressed as the difference of two squares in more than one way, it is composite; and having so expressed it, we may at once obtain the factors, as we have seen. "Fermat":https://www.bookofproofs.org/history/pierre-de-fermat/ showed in a letter to "Mersenne":https://www.bookofproofs.org/history/marin-mersenne/ or "Frénicle":https://www.bookofproofs.org/history/bernard-frenicle-de-bessy/, in `$1643,$` how we may discover whether a number may be expressed as the difference of two squares in more than one way, or proved to be a prime. But the method, when dealing with large numbers, is necessarily tedious, though in practice it may be considerably shortened. In many cases, it is the shortest method known for factorizing large numbers, and I have always held the opinion that Fermat used it in performing a certain feat in factorizing that is historical and wrapped in mystery.

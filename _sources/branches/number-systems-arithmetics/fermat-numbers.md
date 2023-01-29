@@ -18,7 +18,7 @@ contributors: bookofproofs
 The Fermat numbers are defined by 
 `\[F_n:=2^{2^n}+1,\hspace{4em}(\text{for }n\ge 0)\]`
 
-p. The sequence of Fermat numbers begins with `\(3\)`, `\(5\)`, `\(17\)`, `\(257\)`, `\(65537\)`, `\(4294967297\)`, ...
+The sequence of Fermat numbers begins with `\(3\)`, `\(5\)`, `\(17\)`, `\(257\)`, `\(65537\)`, `\(4294967297\)`, ...
 
 ### Historical Notes
 

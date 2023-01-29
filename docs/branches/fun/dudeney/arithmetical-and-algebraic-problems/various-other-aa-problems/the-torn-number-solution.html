@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="SOLUTION OF THE TORN NUMBER &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="number solution,torn">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/fun/dudeney/arithmetical-and-algebraic-problems/various-other-aa-problems/the-torn-number.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/fun/dudeney/arithmetical-and-algebraic-problems/various-other-aa-problems/the-torn-number.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/fun/dudeney/arithmetical-and-algebraic-problems/various-other-aa-problems/curious-numbers.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/fun/fun.html'>Fun</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/dudeney.html'>Dudeney</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/arithmetical-and-algebraic-problems/arithmetical-and-algebraic-problems.html'>Arithmetical-and-algebraic-problems</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/arithmetical-and-algebraic-problems/various-other-aa-problems/various-other-aa-problems.html'>Various-other-aa-problems</a> / Solution</h3>
+
+<hr>
+
+<h1>Solution</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/fun/dudeney/arithmetical-and-algebraic-problems/various-other-aa-problems/the-torn-number.html'>Problem: The Torn Number</a>)</p>
+<p>The other number that answers all the requirements of the puzzle is $9,801.$ If we divide this in the middle into two numbers and add them together we get $99,$ which, multiplied by itself, produces $9,801.$ It is true that $2,025$ may be treated in the same way, only this number is excluded by the condition which requires that no two figures should be alike.</p>
+<p>The general solution is curious. Call the number of figures in each half of the torn label $n.$ Then, if we add $1$ to each of the exponents of the prime factors (other than $3$) of $10^n - 1$ ($1$ being regarded as a factor with the constant exponent, $1$), their product will be the number of solutions. Thus, for a label of six figures, $n = 3.$ The factors of $10^n - 1$ are $11 \times 371$ (not considering the $33$), and the product of $2 \times 2= 4,$ the number of solutions. This always includes the special cases $98 - 01,$ $00 - 01,$ $998 - 01,$ $000 - 001,$ etc. The solutions are obtained as follows:— 
+1. Factorize $103$ - $1$ in all possible ways, always keeping the powers of $3$ together, thus, $37 \times 27,$ $999 \times 1.$ 
+1. Then solve the equation $37x = 27y + 1.$ Here $x = 19$ and $y = 26.$ </p>
+<p>Therefore, $19 \times 37 = 703,$ the square of which gives one label, $494,209.$ A complementary solution (through $27y = 37x + 1$) can at once be found by $10^n - 703 = 297,$ the square of which gives $088,209$ for second label. (These non-significant noughts to the left must be included, though they lead to peculiar cases like $00238 - 04641 = 4879^2,$ where $0238 - 4641$ would not work.) The special case $999 \times 1$ we can write at once $998,001,$ according to the law shown above, by adding nines on one half and noughts on the other, and its complementary will be $1$ preceded by five noughts, or $000001.$ Thus we get the squares of $999$ and $1.$ These are the four solutions.</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/fun/dudeney/arithmetical-and-algebraic-problems/various-other-aa-problems/the-torn-number-solution.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Project Gutenberg</h4>
+<ol>
+<li><strong>Dudeney, H. E.</strong>: "Amusements in Mathematics", The Authors' Club, 1917</li>
+</ol>
+<p>This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this edition or online at <a href="http://www.gutenberg.org">http://www.gutenberg.org</a>. If you are not located in the United States, you'll have to check the laws of the country where you are located before using this ebook.</p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

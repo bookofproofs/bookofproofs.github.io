@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="THE NINE TREASURE BOXES &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="algebraic,arithmetical,problems,various,solution">
+<title>The Nine Treasure Boxes</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/fun/dudeney/arithmetical-and-algebraic-problems/various-other-aa-problems/the-spanish-miser-solution.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/fun/dudeney/arithmetical-and-algebraic-problems/various-other-aa-problems/various-other-aa-problems.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/fun/dudeney/arithmetical-and-algebraic-problems/various-other-aa-problems/the-nine-treasure-boxes-solution.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/fun/fun.html'>Fun</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/dudeney.html'>Dudeney</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/arithmetical-and-algebraic-problems/arithmetical-and-algebraic-problems.html'>Arithmetical-and-algebraic-problems</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/arithmetical-and-algebraic-problems/various-other-aa-problems/various-other-aa-problems.html'>Various-other-aa-problems</a> / Problem: The Nine Treasure Boxes</h3>
+
+<hr>
+
+<h1>Problem: The Nine Treasure Boxes</h1>
+<p>The following puzzle will illustrate the importance on occasions of being able to fix the minimum and maximum limits of a required number. This can very frequently be done. </p>
+<p>For example, it has not yet been ascertained in how many different ways the knight's tour can be performed on the chess board; but we know that it is fewer than the number of combinations of $168$ things taken $63$ at a time and is greater than $31,054,144$—for the latter is the number of routes of a particular type. </p>
+<p>Or, to take a more familiar case, if you ask a man how many coins he has in his pocket, he may tell you that he has not the slightest idea. But on further questioning, you will get out of him some such statement as the following: "Yes, I am positive that I have more than three coins and equally certain that there are not so many as twenty-five." Now, the knowledge that a certain number lies between $2$ and $12$ in my puzzle will enable the solver to find the exact answer; without that information, there would be an infinite number of answers, from which it would be impossible to select the correct one.</p>
+<p>This is another puzzle received from my friend <a href="https://bookofproofs.github.io/branches/fun/dudeney/arithmetical-and-algebraic-problems/various-other-aa-problems/the-spanish-miser.html" title="Fun / Dudeney / Arithmetical And Algebraic Problems / Various Other Aa Problems / Problem: The Spanish Miser">Don Manuel Rodriguez</a>, the cranky miser of New Castile. On New Year's Eve in 1879 he showed me nine treasure boxes, and after informing me that every box contained a square number of golden doubloons, and that the difference between the contents of $A$ and $B$ was the same as between $B$ and $C,$ $D$ and $E,$ $E$ and $F,$ $G$ and $H,$ or $H$ and $I,$ he requested me to tell him the number of coins in every one of the boxes. At first, I thought this was impossible, as there would be an infinite number of different answers, but on consideration, I found that this was not the case. I discovered that while every box contained coins, the contents of $A,$ $B,$ $C$ increased in weight in alphabetical order; so did $D,$ $E,$ $F;$ and so did $G,$ $H,$ $I;$ but $D$ or $E$ need not be heavier than $C,$ nor $G$ or $H$ heavier than $F.$ It was also perfectly certain that box $A$ could not contain more than a dozen coins at the outside; there might not be half that number, but I was positive that there were not more than twelve. With this knowledge, I was able to arrive at the correct answer.</p>
+<p>In short, we have to discover nine square numbers such that $A,$ $B,$ $C;$ and $D,$ $E,$ $F;$ and $G,$ $H,$ I are three groups in arithmetical progression, the common difference being the same in each group, and $A$ being less than $12.$ How many doubloons were there in every one of the nine boxes?</p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<p>Solutions: <a href='https://bookofproofs.github.io/branches/fun/dudeney/arithmetical-and-algebraic-problems/various-other-aa-problems/the-nine-treasure-boxes-solution.html'>1</a> </p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/fun/dudeney/arithmetical-and-algebraic-problems/various-other-aa-problems/the-nine-treasure-boxes.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Project Gutenberg</h4>
+<ol>
+<li><strong>Dudeney, H. E.</strong>: "Amusements in Mathematics", The Authors' Club, 1917</li>
+</ol>
+<p>This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this edition or online at <a href="http://www.gutenberg.org">http://www.gutenberg.org</a>. If you are not located in the United States, you'll have to check the laws of the country where you are located before using this ebook.</p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

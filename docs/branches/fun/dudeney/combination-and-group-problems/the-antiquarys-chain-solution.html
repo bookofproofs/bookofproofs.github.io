@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="SOLUTION OF THE ANTIQUARY&#x27;S CHAIN &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="antiquarys,chain solution">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/fun/dudeney/combination-and-group-problems/the-antiquarys-chain.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/fun/dudeney/combination-and-group-problems/the-antiquarys-chain.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/fun/dudeney/combination-and-group-problems/the-fifteen-dominoes.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/fun/fun.html'>Fun</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/dudeney.html'>Dudeney</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/combination-and-group-problems/combination-and-group-problems.html'>Combination-and-group-problems</a> / Solution</h3>
+
+<hr>
+
+<h1>Solution</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/fun/dudeney/combination-and-group-problems/the-antiquarys-chain.html'>Problem: The Antiquary&#x27;s Chain</a>)</p>
+<p>The number of ways in which nine things may be arranged in a row without any restrictions is $$1 \times 2 \times 3 \times 4 \times 5 \times 6 \times 7 \times 8 \times 9 = 362,880.$$ But we are told that the two circular rings must never be together; therefore we must deduct the number of times that this would occur. The number is $$1 \times 2 \times 3 \times 4 \times 5 \times 6 \times 7 \times 8 = 40,320 \times 2 = 80,640,$$ because if we consider the two circular links to be inseparably joined together they become as one link, and eight links are capable of $40,320$ arrangements; but as these two links may always be put on in the orders $AB$ or $BA,$ we have to double this number, it being a question of arrangement and not of design. The deduction required reduces our total to $282,240.$ Then one of our links is of a peculiar form, like an $8.$ We have therefore the option of joining on either one end or the other on every occasion, so we must double the last result. This brings up our total to $564,480.$</p>
+<p><img alt="a282" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/dudeney/a282.png?raw=true" /></p>
+<p>We now come to the point to which I directed the reader's attention — that every link may be put on in one of two ways. If we join the first finger and thumb of our left hand horizontally and then link the first finger and thumb of the right hand, we see that the right thumb may be either above or below. But in the case of our chain we must remember that although that 8-shaped link has two independent ends it is like every other link in having only two sides — that is, you cannot turn over one end without turning the other at the same time.</p>
+<p>We will, for convenience, assume that each link has a black side and a side painted white. Now, if it was stipulated that (with the chain lying on the table, and every successive link falling over its predecessor in the same way, as in the diagram) only the white sides should be uppermost as in $A,$ then the answer would be $564,480,,$ as above — ignoring for the present all reversals of the completed chain. If, however, the first link were allowed to be placed either side up, then we could have either $A$ or $B,$ and the answer would be $2 \times 564,480 = 1,128,960;$ if two links might be placed either way up, the answer would be $4 \times 564,480;$ if three links, then $8 \times 564,480,$ and so on. Since, therefore, every link may be placed either side up, the number will be $564,480$ multiplied by $29,$ or by $512.$ This raises our total to $289,013,760.$</p>
+<p>But there is still one more point to be considered. We have not yet allowed for the fact that with any given arrangement three of the other arrangements may be obtained by simply turning the chain over through its entire length and by reversing the ends. Thus $C$ is really the same as $A,$ and if we turn this page upside down, then $A$ and $C$ give two other arrangements that are still really identical. Thus to get the correct answer to the puzzle we must divide our last total by $4,$ when we find that there are just $72,253,440$ different ways in which the smith might have put those links together. In other words, if the nine links had originally formed a piece of chain, and it was known that the two circular links were separated, then it would be $72,253,439$ chances to $1$ that the smith would not have put the links together again precisely as they were arranged before!</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/fun/dudeney/combination-and-group-problems/the-antiquarys-chain-solution.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Project Gutenberg</h4>
+<ol>
+<li><strong>Dudeney, H. E.</strong>: "Amusements in Mathematics", The Authors' Club, 1917</li>
+</ol>
+<p>This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this edition or online at <a href="http://www.gutenberg.org">http://www.gutenberg.org</a>. If you are not located in the United States, you'll have to check the laws of the country where you are located before using this ebook.</p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

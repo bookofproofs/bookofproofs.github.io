@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="SOLUTION OF THE EIGHT VILLAS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="eight,villas solution">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/fun/dudeney/combination-and-group-problems/the-eight-villas.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/fun/dudeney/combination-and-group-problems/the-eight-villas.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/fun/dudeney/combination-and-group-problems/counter-crosses.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/fun/fun.html'>Fun</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/dudeney.html'>Dudeney</a> / <a href='https://bookofproofs.github.io/branches/fun/dudeney/combination-and-group-problems/combination-and-group-problems.html'>Combination-and-group-problems</a> / Solution</h3>
+
+<hr>
+
+<h1>Solution</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/fun/dudeney/combination-and-group-problems/the-eight-villas.html'>Problem: The Eight Villas</a>)</p>
+<p>There are several ways of solving the puzzle, but there is very little difference between them. The solver should, however, first of all bear in mind that in making his calculations he need only consider the four villas that stand at the corners, because the intermediate villas can never vary when the corners are known. One way is to place the numbers nought to $9$ one at a time in the top left-hand corner, and then consider each case in turn.</p>
+<p><img alt="a276" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/dudeney/a276.png?raw=true" /></p>
+<p>Now, if we place $9$ in the corner as shown in the Diagram A, two of the corners cannot be occupied, while the corner that is diagonally opposite may be filled by $0,$ $1,$ $2,$ $3,$ $4,$ $5,$ $6,$ $7,$ $8,$ or $9$ persons. We thus see that there are $10$ solutions with a $9$ in the corner. If, however, we substitute $8,$ the two corners in the same row and column may contain $0,$ $0,$ or $1,$ $1,$ or $0,$ $1,$ or $1,$ $0.$ In the case of $B,$ ten different selections may be made for the fourth corner; but in each of the cases $C, D,$ and $E,$ only nine selections are possible, because we cannot use the $9.$ Therefore with $8$ in the top left-hand corner there are $10 + (3 \times 9) = 37$ different solutions. If we then try $7$ in the corner, the result will be $10 + 27 + 40,$ or $77$ solutions. With $6$ we get $10 + 27 + 40 + 49 = 126;$ with $5,$ $10 + 27 + 40 + 49 + 54 = 180;$ with $4,$ the same as with $5, + 55 = 235$ ; with $3,$ the same as with $4, + 52 = 287;$ with $2,$ the same as with $3, + 45 = 332;$ with $1,$ the same as with $2, + 34 = 366,$ and with nought in the top left-hand corner the number of solutions will be found to be $$10 + 27 + 40 + 49 + 54 + 55 + 52 + 45 + 34 + 19 = 385.$$ As there is no other number to be placed in the top left-hand corner, we have now only to add these totals together thus, $$10 + 37 + 77 + 126 + 180 + 235 + 287 + 332 + 366 + 385 = 2,035.$$ We therefore find that the total number of ways in which tenants may occupy some or all of the eight villas so that there shall be always nine persons living along each side of the square is $2,035.$ Of course, this method must obviously cover all the reversals and reflections, since each corner in turn is occupied by every number in all possible combinations with the other two corners that are in line with it.</p>
+<p>Here is a general formula for solving the puzzle: $$\frac{(n^2 + 3n + 2)(n^2 + 3n + 3)}6.$$ Whatever may be the stipulated number of residents along each of the sides (which number is represented by n), the total number of different arrangements may be thus ascertained. In our particular case the number of residents was nine. Therefore $(81 + 27 + 2) \times (81 + 27 + 3)$ and the product, divided by $6,$ gives $2,035.$ If the number of residents had been $0,$ $1,$ $2,$ $3,$ $4,$ $5,$ $6,$ $7,$ or $8,$ the total arrangements would be $1,$ $7,$ $26,$ $70,$ $155,$ $301,$ $532,$ $876,$ or $1,365$ respectively.</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/fun/dudeney/combination-and-group-problems/the-eight-villas-solution.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Project Gutenberg</h4>
+<ol>
+<li><strong>Dudeney, H. E.</strong>: "Amusements in Mathematics", The Authors' Club, 1917</li>
+</ol>
+<p>This eBook is for the use of anyone anywhere in the United States and most other parts of the world at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this edition or online at <a href="http://www.gutenberg.org">http://www.gutenberg.org</a>. If you are not located in the United States, you'll have to check the laws of the country where you are located before using this ebook.</p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>
