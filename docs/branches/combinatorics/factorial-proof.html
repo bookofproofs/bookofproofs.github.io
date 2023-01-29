@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of FACTORIAL &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="factorial,factorials,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/combinatorics/factorial.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/combinatorics/factorial.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/combinatorics/stirling-numbers.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/combinatorics/combinatorics.html'>Combinatorics</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/combinatorics/factorial.html'>Proposition: Factorial</a>)</p>
+<p>Let \(V\) be a finite set with \(|V|=n\).</p>
+<p>If \(n \ge 1\), then without loss of generality let \(V=\{a_1,a_2,\ldots,a_n\}\). We want to count the different <a href="https://bookofproofs.github.io/branches/combinatorics/permutations.html" title="Combinatorics / Definition: Permutations">permutations</a> of \(V\), which according to their definition are bijective maps on the <a href="https://bookofproofs.github.io/branches/set-theory/index-set-and-set-family.html" title="Set Theory / Definition: Index Set and Set Family">index set</a> \(I=\{1,2,\ldots,n\}\): \(\pi:I\mapsto I\). More precisely, instead of counting different bijective maps, we will find the cardinal number of the set \(\Pi=\{\pi:I\mapsto I\}\) of all possible bijective maps.</p>
+<p>In order to define one element of \(\pi\in\Pi\), we have do define \(\pi\) for all \(i\in I\), using the following procedure:</p>
+<blockquote>
+<p>To define \(\pi(1)=i_1\), all values from  \(I\) are possible, and we choose  \(i_1\in I_1:=I\).</p>
+<p>We have to define \(\pi(2)=i_2\) in such a way that \(\pi\) remains bijective. For that, only the values from \(I_2:=I\setminus\{i_1\}\) are possible, and we choose \(i_2\in I_2\).</p>
+<p>Similarly, to define \(\pi(3)=i_3\), only the values from  \(I_3:=I\setminus\{i_1,i_2\}\) are possible, and we choose \(i_3\in I_3\).</p>
+<p>Similarly, to define \(\pi(4)=i_4\), only the values of \(I_4:=I\setminus\{i_1,i_2,i_3\}\) are possible, and we choose \(i_4\in I_4\).</p>
+<p>\(\vdots\)</p>
+<p>We repeat this procedure until we define \(\pi(n)=i_n\), for which only one value from \(I_n:=I\setminus\{i_1,i_2,i_3,\ldots,i_{n-1}\}\) is possible, and we choose \(i_n\in I_n\).</p>
+</blockquote>
+<p>Following the <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Set Theory / Definition: Subset and Superset">definition of set difference</a> and the <a href="https://bookofproofs.github.io/branches/combinatorics/the-fundamental-counting-principle.html" title="Combinatorics / Proposition: Fundamental Counting Principle">fundamental counting principle</a> we have that</p>
+<p>\[\begin{array}{ccl}
+|\Pi|&amp;=&amp;|I_1|\cdot|I_2|\cdot|I_3|\cdot\ldots\cdot|I_{n-1}|\cdot|I_n|\\
+&amp;=&amp;n\cdot(n-1)\cdot(n-2)\cdot\ldots\cdot 2\cdot 1\\
+&amp;=&amp;n!
+\end{array}
+\]</p>
+<p>If \(n = 0\), then \(V\) is empty and the existence of only one bijective map \(\pi:\emptyset\mapsto\emptyset\) is <a href="https://bookofproofs.github.io/branches/logic/what-does-not-have-to-be-proved-in-mathematics.html" title="Logic / Motivation: What does not have to be proved in mathematics?">vacuously true</a>. Therefore, we set </p>
+<p>\[0!:=1.\]</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/combinatorics/factorial-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Aigner, Martin</strong>: "Diskrete Mathematik", vieweg studium, 1993</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

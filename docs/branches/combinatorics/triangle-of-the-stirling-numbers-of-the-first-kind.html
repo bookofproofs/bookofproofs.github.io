@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="TRIANGLE OF THE STIRLING NUMBERS OF THE FIRST KIND ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!">
+<meta name="keywords" content="triangle of the stirling numbers of the first kind">
+<title>Triangle of the Stirling Numbers of the First Kind</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/combinatorics/recursive-formula-for-the-stirling-numbers-of-the-first-kind-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/combinatorics/stirling-numbers.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/combinatorics/triangle-of-the-stirling-numbers-of-the-second-kind.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/combinatorics/combinatorics.html'>Combinatorics</a> / Chapter: Triangle of the Stirling Numbers of the First Kind</h3>
+
+<hr>
+
+<h1>Chapter: Triangle of the Stirling Numbers of the First Kind</h1>
+<p>The <a href="https://bookofproofs.github.io/branches/combinatorics/stirling-numbers-of-first-and-second-kind.html" title="Combinatorics / Definition: Stirling Numbers of First and Second Kind">Stirling numbers of the first kind</a> $\left[\begin{array}{c}n\\r\end{array}\right],$ where $n$ and $r$ are <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/set-theoretic-definitions-of-natural-numbers-ernst-zermelo-1908-john-von-neumann-1923.html" title="Number Systems Arithmetics / Definition: Set-theoretic Definitions of Natural Numbers">natural numbers</a>, are named after "James Stirling":<a href="https://www.bookofproofs.org/history/james-stirling">https://www.bookofproofs.org/history/james-stirling</a> (1692 - 1770). According to the "corresponding recursive formula":<a href="https://www.bookofproofs.org/branches/recursive-formula-for-the-stirling-number-of-the-first-kind/">https://www.bookofproofs.org/branches/recursive-formula-for-the-stirling-number-of-the-first-kind/</a>, they form a triangular scheme, in analogy to the <a href="https://bookofproofs.github.io/branches/combinatorics/pascals-triangle.html" title="Combinatorics / Explanation: Pascal&amp;#x27;s Triangle (Triangle of Binomial Coefficients)">Pascal's triangle</a> for binomial coefficients. For the first $10$ values of $n$ this scheme is</p>
+<p>\[\begin{array}{r|rrrrrrrrrr}
+n&amp;\left[\begin{array}{c}n\\0\end{array}\right]&amp;\left[\begin{array}{c}n\\1\end{array}\right]&amp;\left[\begin{array}{c}n\\2\end{array}\right]&amp;\left[\begin{array}{c}n\\3\end{array}\right]&amp;\left[\begin{array}{c}n\\4\end{array}\right]&amp;\left[\begin{array}{c}n\\5\end{array}\right]&amp;\left[\begin{array}{c}n\\6\end{array}\right]&amp;\left[\begin{array}{c}n\\7\end{array}\right]&amp;\left[\begin{array}{c}n\\8\end{array}\right]&amp;\left[\begin{array}{c}n\\9\end{array}\right]&amp;\left[\begin{array}{c}n\\10\end{array}\right]\\
+\hline
+0&amp;1\\
+1&amp;&amp;1\\
+2&amp;&amp;1&amp;1\\
+3&amp;&amp;2&amp;3&amp;1\\
+4&amp;&amp;6&amp;11&amp;6&amp;1\\
+5&amp;&amp;24&amp;50&amp;35&amp;10&amp;1\\
+6&amp;&amp;120&amp;274&amp;225&amp;85&amp;15&amp;1\\
+7&amp;&amp;720&amp;1764&amp;1624&amp;735&amp;175&amp;21&amp;1\\
+8&amp;&amp;5040&amp;13068&amp;13132&amp;6769&amp;1960&amp;322&amp;28&amp;1\\
+9&amp;&amp;40320&amp;109584&amp;118124&amp;67284&amp;22449&amp;4536&amp;546&amp;36&amp;1\\
+10&amp;&amp;362880&amp;1026576&amp;1172700&amp;723680&amp;269325&amp;63273&amp;9450&amp;870&amp;45&amp;1\\
+\end{array}\]</p>
+<p>Note that empty entries in this table are actually \(0\)'s.</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/combinatorics/triangle-of-the-stirling-numbers-of-the-first-kind.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Miller, Kenneth S.</strong>: "An Introduction to the Calculus of Finite Differences And Difference Equations", Dover Publications, Inc, 1960</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

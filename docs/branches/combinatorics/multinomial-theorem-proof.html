@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="PROOF BY INDUCTION Proof of MULTINOMIAL THEOREM &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="multinomial coefficient,multinomial coefficients,multinomial coefficient proof,multinomial theorem example,proof,proof">
+<title>By Induction</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/combinatorics/multinomial-theorem.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/combinatorics/multinomial-theorem.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/probability-theory-and-statistics/probability-theory-and-statistics.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/combinatorics/combinatorics.html'>Combinatorics</a> / Proof: By Induction</h3>
+
+<hr>
+
+<h1>Proof: By Induction</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/combinatorics/multinomial-theorem.html'>Theorem: Multinomial Theorem</a>)</p>
+<p>We want to prove that the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/sums.html" title="Number Systems Arithmetics / Definition: Sums">sum</a> of \(r\) <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-complex-numbers.html" title="Number Systems Arithmetics / Definition: Definition of Complex Numbers">complex</a> or <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html" title="Number Systems Arithmetics / Proposition: Definition of Real Numbers">real numbers</a> \(x_1,x_2,\ldots,x_n\) raised to the <a href="https://bookofproofs.github.io/branches/analysis/nth-powers.html" title="Analysis / Proposition: Nth Powers">\(n\)-th power</a> of will expand as follows:</p>
+<p>\[(x_1 + x_2 + \ldots + x_r)^n=\sum_{\substack{k_1+\ldots+k_r=n \\ k_1,\ldots,k_r}}\binom{n}{k_1,k_2\ldots,k_r}x_1^{k_1} x_2^{k_2}\ldots x_r^{k_r}.\]</p>
+<p>We will prove the theorem <a href="https://bookofproofs.github.io/branches/logic/proving-principle-by-complete-induction.html" title="Logic / Lemma: The Proving Principle by Complete Induction">by induction</a> on \(r\).</p>
+<h3>\(1)\) Base case \(r=1\)</h3>
+<p>The multinomial theorem takes the form</p>
+<p>\[x_1^n=\binom{n}{n}x_1^{n}=x_1^n.\]</p>
+<h3>\(2)\) Induction step \(r\to r+1\)</h3>
+<p>Let the multinomial theorem be proved for an \(r\). From the associativity law for complex numbers and by hypothesis, it follows</p>
+<p>\[\begin{array}{l}(x_1 + x_2 + \ldots + x_r+ x_{r+1})^n=\\(x_1 + x_2 + \ldots + x_{r-1}+(x_r+ x_{r+1}))^n\\
+=\sum_{\substack{k_1+\ldots+k_{r-1}+K=n \\ k_1,\ldots,k_{r-1},K}}\binom{n}{k_1,k_2\ldots,k_{r-1},K}x_1^{k_1} x_2^{k_2}\ldots x_{r-1}^{k_{r-1}}\cdot(x_r+x_{r+1})^K.\end{array}\]</p>
+<p>Applying the <a href="https://bookofproofs.github.io/branches/combinatorics/binomial-theorem.html" title="Combinatorics / Theorem: Binomial Theorem">binomial theorem</a> to the last term in each sum, we get</p>
+<p>\[\begin{array}{l}\sum_{\substack{k_1+\ldots+k_{r-1}+K=n \\ k_1,\ldots,k_{r-1},K}}\binom{n}{k_1,k_2\ldots,k_{r-1},K}x_1^{k_1} x_2^{k_2}\ldots x_{r-1}^{k_{r-1}}\cdot(x_r+x_{r+1})^K=\\\sum_{\substack{k_1+\ldots+k_{r-1}+K=n \\ k_1,\ldots,k_{r-1},K}}\binom{n}{k_1,k_2\ldots,k_{r-1},K}x_1^{k_1} x_2^{k_2}\ldots x_{r-1}^{k_{r-1}}\cdot\sum_{k_r}^K\binom K{k_r}x_r^{k_r}x_{r+1}^{K-k_{r}}.\end{array}\]</p>
+<p>Note that the following <a href="https://bookofproofs.github.io/branches/combinatorics/multinomial-coefficient.html" title="Combinatorics / Proposition: Multinomial Coefficient">multinomial</a> and the <a href="https://bookofproofs.github.io/branches/combinatorics/closed-formula-for-binomial-coefficients.html" title="Combinatorics / Proposition: Closed Formula For Binomial Coefficients">binomial coefficients</a> are equal:
+\[\binom K{k_r,k_{r+1}}=\binom K{k_r}\quad\quad\text{for }k_r=0,1,\ldots,K\text{ and for }k_{r+1}=K-k_r.\] </p>
+<p>Therefore, we can write the last equation also this way:</p>
+<p>\[\begin{array}{l}\sum_{\substack{k_1+\ldots+k_{r-1}+K=n \\ k_1,\ldots,k_{r-1},K}}\binom{n}{k_1,k_2\ldots,k_{r-1},K}x_1^{k_1} x_2^{k_2}\ldots x_{r-1}^{k_{r-1}}\cdot(x_r+x_{r+1})^K=\\\sum_{\substack{k_1+\ldots+k_{r-1}+K=n \\ k_1,\ldots,k_{r-1},K}}\binom{n}{k_1,k_2\ldots,k_{r-1},K}x_1^{k_1} x_2^{k_2}\ldots x_{r-1}^{k_{r-1}}\cdot\sum_{k_r+k_{r+1}=K}\binom K{k_r,k_{r+1}}x_r^{k_r}x_{r+1}^{k_{r+1}}.\end{array}\quad\quad ( * )\]</p>
+<p>Since, by definition,</p>
+<p>\[\binom{n}{k_1,k_2\ldots,k_{r-1},K}\cdot\binom K{k_r,k_{r+1}}=\frac{n ! }{k_1 ! k_2 ! \ldots k_{r-1} ! K ! }\cdot\frac{K ! }{k_r ! k_{r+1} ! }=\frac{n ! }{k_1 ! k_2 ! \ldots k_{r+1} ! }=\binom{n}{k_1,k_2\ldots,k_{r+1}}\]</p>
+<p>we get
+\[( * ) = \sum_{\substack{k_1+\ldots+k_{r+1}=n \\ k_1,\ldots,k_r}}\binom{n}{k_1,k_2\ldots,k_{r+1}}x_1^{k_1} x_2^{k_2}\ldots x_{r+1}^{k_{r+1}}\]</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/combinatorics/multinomial-theorem-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Matou&#353;ek, J; Ne&#353;et&#351;il, J</strong>: "Invitation to Discrete Mathematics", Oxford University Press, 1998</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

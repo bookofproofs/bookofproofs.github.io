@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="PROOF OF ANTIDIFFERENCES OF SOME FUNCTIONS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="antidifferences of some functions,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/combinatorics/antidifferences-of-some-functions.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/combinatorics/antidifferences-of-some-functions.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/combinatorics/falling-and-rising-factorial-powers.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/combinatorics/combinatorics.html'>Combinatorics</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/combinatorics/antidifferences-of-some-functions.html'>Proposition: Antidifferences of Some Functions</a>)</p>
+<h3>Ad $(1)$</h3>
+<ul>
+<li>In <a href="https://bookofproofs.github.io/branches/combinatorics/difference-operators-of-some-functions.html" title="Combinatorics / Example: Difference Operators of Some Functions">difference operators of some functions</a>, we saw that $\Delta x^{\underline {n+1}}=(n+1)x^{\underline n}$.</li>
+<li>For $n\neq -1$, we get $x^{\underline n}=1/(n+1)\cdot \Delta x^{\underline {n+1}}.$</li>
+<li>Summing both sides yields with <a href="https://bookofproofs.github.io/branches/combinatorics/basic-calculations-involving-indefinite-sums.html" title="Combinatorics / Proposition: Basic Calculations Involving Indefinite Sums">the linearity of indefinite sums</a> to the formula $$\sum x^{\underline{n}}=\frac{x^{\underline{n+1}}}{n+1}.$$</li>
+</ul>
+<h3>Ad $(2)$</h3>
+<ul>
+<li>Again, <a href="https://bookofproofs.github.io/branches/combinatorics/difference-operators-of-some-functions.html" title="Combinatorics / Example: Difference Operators of Some Functions">difference operators of some functions</a> show that $\Delta a^x=a^x(a-1).$ </li>
+<li>For $a\neq 1$, we get $a^x=1/(a-1)\cdot\Delta a^x.$</li>
+<li>Summing both sides yields with <a href="https://bookofproofs.github.io/branches/combinatorics/basic-calculations-involving-indefinite-sums.html" title="Combinatorics / Proposition: Basic Calculations Involving Indefinite Sums">the linearity of indefinite sums</a> to the formula $$\sum a^x=\frac{a^x}{a-1}.$$</li>
+</ul>
+<h3>Ad $(3)$</h3>
+<ul>
+<li>Similarly, summing both sides of the result $\Delta 2^x=2^x$ yields $$\sum 2^x=2^x.$$</li>
+</ul>
+<h3>Ad $(4)$</h3>
+<ul>
+<li>We calculate the <a href="https://bookofproofs.github.io/branches/combinatorics/difference-operator.html" title="Combinatorics / Definition: Difference Operator">difference operator</a> $\Delta\cos(ax+b)=-2\sin(a/2)\sin(ax+b+a/2).$</li>
+<li>Set $b=-a/2.$</li>
+<li>It follows $\cos(ax-a/2)=-2\sin(a/2)\sin(ax).$</li>
+<li>Thus, for $a\neq 2n\pi$: $$\sum\sin(ax)=-\frac{\cos(a(x-1/2))}{2\sin(a/2)}.$$</li>
+</ul>
+<h3>Ad $(5)$</h3>
+<ul>
+<li>Similarly, from $\Delta\sin(ax+b)=-2\sin(a/2)\cos(ax+b+a/2),$ we deduce for $a\neq 2n\pi$: $$\sum\cos(ax)=\frac{\sin(a(x-1/2))}{2\sin(a/2)}.$$</li>
+</ul>
+<h3>Ad $(6)$</h3>
+<ul>
+<li>In <a href="https://bookofproofs.github.io/branches/combinatorics/difference-operators-of-some-functions.html" title="Combinatorics / Example: Difference Operators of Some Functions">difference operators of some functions</a>, we saw that $\Delta(a+bx)^{\underline {n+1}}=b(n+1)$.</li>
+<li>For $n\neq -1$, we get $(a+bx)^\underline{n}=1/(b(n+1))\cdot \Delta(a+bx)^{\underline {n+1}}.$</li>
+<li>Summing both sides yields with <a href="https://bookofproofs.github.io/branches/combinatorics/basic-calculations-involving-indefinite-sums.html" title="Combinatorics / Proposition: Basic Calculations Involving Indefinite Sums">the linearity of indefinite sums</a> to the formula $$\sum(a+bx)^{\underline{n}}=\frac{(a+bx)^{\underline{n+1}}}{b(n+1)}.$$</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/combinatorics/antidifferences-of-some-functions-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Miller, Kenneth S.</strong>: "An Introduction to the Calculus of Finite Differences And Difference Equations", Dover Publications, Inc, 1960</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

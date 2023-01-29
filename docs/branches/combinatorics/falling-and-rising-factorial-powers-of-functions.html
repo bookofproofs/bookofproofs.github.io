@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="FALLING AND RISING FACTORIAL POWERS OF FUNCTIONS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="falling and rising factorial powers of functions,rising factorial">
+<title>Falling and Rising Factorial Powers of Functions</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/combinatorics/factorial-polynomials-vs-polynomials-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/combinatorics/discrete-calculus-and-difference-equations.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/combinatorics/difference-operators-of-some-functions.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/combinatorics/combinatorics.html'>Combinatorics</a> / Definition: Falling and Rising Factorial Powers of Functions</h3>
+
+<hr>
+
+<p>It is useful to define a generalization of the <a href="https://bookofproofs.github.io/branches/combinatorics/falling-and-rising-factorial-powers.html" title="Combinatorics / Definition: Falling And Rising Factorial Powers">falling and rising factorials</a> as follows:</p>
+<h1>Definition: Falling and Rising Factorial Powers of Functions</h1>
+<p>Obviously, the <a href="https://bookofproofs.github.io/branches/combinatorics/falling-and-rising-factorial-powers.html" title="Combinatorics / Definition: Falling And Rising Factorial Powers">falling and rising factorials</a> $x^\underline{n}$ and $x^\overline{n}$ equal $g^\underline{n}(x)$ and $g^\overline{n}(x)$ for the complex identity function $g(x):=x$ for all $x\in\mathbb C.$ If $f:D\to\mathbb C$ is a <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">function</a> with a suitable domain<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> $D\subseteq\mathbb C$, then the <em>falling $f^\underline{n}$</em> (and respectively) the <em>rising factorials $f^\overline{n}$</em> are defined as the <a href="https://bookofproofs.github.io/branches/set-theory/composition-of-functions.html" title="Set Theory / Lemma: Composition of Functions">compositions</a> of $$(g\circ f)(x)=f^\underline{n}(x),\quad f^\overline{n}(x).$$</p>
+<h3>Examples (for a positive $n$)</h3>
+<ul>
+<li>$f(x)=a+bx,$ $$\begin{align}f^{\underline{n}}(x)&amp;=(a+bx)(a+b(x-1))\cdots(a+b(x-n+1))\nonumber\\f^{\underline{-n}}(x)&amp;=\frac 1{(a+b(x+1))(a+b(x+2))\cdots(a+b(x+n))}\nonumber\end{align}$$</li>
+<li>$f(x)=a^x,$ $$\begin{align}f^{\underline{n}}(x)&amp;=a^x\cdot a^{x-1}\cdots a^{x-n+1}=a^{x^{\underline n}}\nonumber\\f^{\underline{-n}}(x)&amp;=\frac 1{a^{x+1}a^{x+2}\cdots a^{x+n}}=\frac 1{a^{(x+1)^{\underline n}}}\nonumber\end{align}$$</li>
+<li>$f(x)=\sin(x),$ $$\begin{align}f^{\overline{n}}(x)&amp;=\sin(x)\sin(x+1)\cdots\sin(x+n-1))\nonumber\\f^{\overline{-n}}(x)&amp;=\frac 1{\sin(x-n)\sin(x-2)\cdots\sin(x-n)}\nonumber\end{align}$$</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/combinatorics/falling-and-rising-factorial-powers-of-functions.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Graham L. Ronald, Knuth E. Donald, Patashnik Oren</strong>: "Concrete Mathematics", Addison-Wesley, 1994, 2nd Edition</li>
+<li><strong>Miller, Kenneth S.</strong>: "An Introduction to the Calculus of Finite Differences And Difference Equations", Dover Publications, Inc, 1960</li>
+<li><strong>Bool, George</strong>: "A Treatise on the Calculus of Finite Differences", Dover Publications, Inc., 1960</li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>For a given $x\in D,$ also $x\pm i+1\in D$ for all integers $i=0,\ldots,n$&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>
