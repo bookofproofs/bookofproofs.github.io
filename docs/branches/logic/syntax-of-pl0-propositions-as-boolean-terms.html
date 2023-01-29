@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="SYNTAX OF PL0 - PROPOSITIONS AS BOOLEAN TERMS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="boolean,boolean constants,boolean term,boolean variables,pl0,proposition,propositions,syntax,terms">
+<title>Syntax of PL0 - Propositions as Boolean Terms</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/logic/signature-of-propositional-logic-pl0.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/logic/propositional-logic.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/logic/interpretation-of-propositions-the-law-the-excluded-middle.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/logic/logic.html'>Logic</a> / Definition: Syntax of PL0 - Propositions as Boolean Terms</h3>
+
+<hr>
+
+<h1>Definition: Syntax of PL0 - Propositions as Boolean Terms</h1>
+<p>The variables and functions defined in <a href="https://bookofproofs.github.io/branches/logic/signature-of-propositional-logic-pl0.html" title="Logic / Definition: Signature of Propositional Logic - PL0">signature of propositional logic $PL0$</a> are called <strong>Boolean</strong>, named after the English mathematician <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Boole/">George Bool</a>. </p>
+<p>First, we agree that the <a href="https://bookofproofs.github.io/branches/logic/formal-language-generated-from-a-grammar.html" title="Logic / Definition: Formal Languages Generated From a Grammar">formal language</a> \(L\subseteq \Sigma^* \) of $PL0$ is defined over an <a href="https://bookofproofs.github.io/branches/logic/strings-words-over-an-alphabet.html" title="Logic / Definition: Strings (words) over an Alphabet">alphabet</a> \(\Sigma\) containing the following letters:</p>
+<ul>
+<li>space character " ",</li>
+<li><strong>Boolean constants</strong>: the characters "$1$" and "$0$",</li>
+<li><strong>Boolean variables</strong>: small Latin letters \("a","b","c",\ldots,"x","y","z"\), and letters indexed with natural numbers, e.g. \("a_0","a_1","a_2",\ldots,"b_0","b_1","b_2",\ldots,\), </li>
+<li>the parentheses "$($" and "$)$", and</li>
+<li>the following additional letters "\(\neg\)", "\(\wedge\)", "\(\vee\)", "\(\Rightarrow\)", "\(\Leftrightarrow\)".</li>
+</ul>
+<p>We will now specify the <a href="https://bookofproofs.github.io/branches/logic/grammar-syntax.html" title="Logic / Definition: Grammar (Syntax)">syntax</a> of $PL0$: </p>
+<ul>
+<li>A Boolean constant is a <strong>proposition</strong> (we also will use the notion <strong>Boolean term</strong> synonymously for "proposition").</li>
+<li>Boolean variables are propositions.</li>
+<li>If "$\phi$" and "$\psi$" are propositions, then "$\neg \phi$," "$\phi\wedge\psi$", "$\phi\vee\psi$", "$\phi\Rightarrow\psi$", "$\phi\Leftrightarrow\psi$" are propositions.</li>
+<li>If <a href="https://bookofproofs.github.io/branches/logic/strings-words-over-an-alphabet.html" title="Logic / Definition: Strings (words) over an Alphabet">$\phi$" is a proposition, then the "concatenation</a>  "$(\phi)$" is a proposition.</li>
+</ul>
+<h3>Examples</h3>
+<p>This syntax enables us to construct propositions (Boolean terms): 
+* $x$,
+* $(x)$,
+* $\neg a$,
+* \((\neg(\neg y))\),
+* \(((x\Rightarrow(y\vee(1\wedge(\neg w))))\wedge 0)\), 
+* \(((a\Leftrightarrow b)\vee(0\Rightarrow y))\).</p>
+<p>Please note that we did not yet define any meaning (semantics) of propositions. We will catch up on this now.</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/logic/syntax-of-pl0-propositions-as-boolean-terms.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Hoffmann, Dirk W.</strong>: "Grenzen der Mathematik - Eine Reise durch die Kerngebiete der mathematischen Logik", Spektrum Akademischer Verlag, 2011</li>
+<li><strong>Mendelson Elliott</strong>: "Theory and Problems of Boolean Algebra and Switching Circuits", McGraw-Hill Book Company, 1982</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

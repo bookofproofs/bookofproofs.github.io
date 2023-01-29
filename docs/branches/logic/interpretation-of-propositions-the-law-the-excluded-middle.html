@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="INTERPRETATION OF PROPOSITIONS - THE LAW OF THE EXCLUDED MIDDLE ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!">
+<meta name="keywords" content="law of the excluded middle">
+<title>Interpretation of Propositions - the Law of the Excluded Middle</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/logic/syntax-of-pl0-propositions-as-boolean-terms.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/logic/propositional-logic.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/logic/examples-of-propositions-with-a-more-complex-syntax.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/logic/logic.html'>Logic</a> / Definition: Interpretation of Propositions - the Law of the Excluded Middle</h3>
+
+<hr>
+
+<p>As <a href="https://bookofproofs.github.io/branches/logic/from-the-syntax-to-the-semantics-of-formal-languages.html" title="Logic / Chapter: From the Syntax to the Semantics of Formal Languages">mentioned above</a>, the German mathematician <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Leibniz/">Gottfried Wilhelm von Leibniz</a> (1646 - 1716) postulated that <em>Every judgment is either true or false.</em> This became known as the <strong>Law of Excluded Middle</strong>. The law of excluded middle only holds in propositional logic $PL0$ because of its special semantics. We are now able to formally restate the Law of Excluded Middle and define the semantics of $PL0$.</p>
+<h1>Definition: Interpretation of Propositions - the Law of the Excluded Middle</h1>
+<p>Let \(L\) be a <a href="https://bookofproofs.github.io/branches/logic/formal-language-generated-from-a-grammar.html" title="Logic / Definition: Formal Languages Generated From a Grammar">formal language</a> with the <a href="https://bookofproofs.github.io/branches/logic/syntax-of-pl0-propositions-as-boolean-terms.html" title="Logic / Definition: Syntax of PL0 - Propositions as Boolean Terms">syntax of propositional logic</a>.</p>
+<h3>Law of Excluded Middle (modern formulation)</h3>
+<p>For every <a href="https://bookofproofs.github.io/branches/logic/interpretation-of-strings-of-a-formal-language-and-their-truth-function.html" title="Logic / Definition: Interpretation of Strings of a Formal Language and Their Truth Function">interpretation</a> $I(U,L)$ in any <a href="https://bookofproofs.github.io/branches/logic/domain-of-discourse.html" title="Logic / Definition: Domain of Discourse">domain of discourse</a> $U$, the  <a href="https://bookofproofs.github.io/branches/logic/interpretation-of-strings-of-a-formal-language-and-their-truth-function.html" title="Logic / Definition: Interpretation of Strings of a Formal Language and Their Truth Function">valuation function</a> of any string $s\in L$ is a <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">partial function</a>.
+\[
+[[s]]_I:=\begin{cases}
+\in\mathbb B,&amp;\text{ if }s\text{ is a proposition} \\
+undefined,&amp;\text{otherwise}
+\end{cases}
+\]</p>
+<p>Remember that we denote by $\mathbb B=\{1,0\}$ the <a href="https://bookofproofs.github.io/branches/logic/set-of-truth-values-true-and-false.html" title="Logic / Definition: Set of Truth Values (True and False)">set of truth values</a>.</p>
+<h3>An equivalent formulation</h3>
+<p>If $s\in L$ is a proposition, then either $I\models s$  or $I\not{\models} s$ for all <a href="https://bookofproofs.github.io/branches/logic/satisfaction-relation-model-tautology-contradiction.html" title="Logic / Definition: Satisfaction Relation, Model, Tautology, Contradiction">models</a> $I$, shortly $$\models s\text{ or }\not {\models} s,$$ where <a href="https://bookofproofs.github.io/branches/logic/satisfaction-relation-model-tautology-contradiction.html" title="Logic / Definition: Satisfaction Relation, Model, Tautology, Contradiction">$\models$" is the "satisfaction relation</a>.</p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<p>Examples: <a href='https://bookofproofs.github.io/branches/logic/examples-of-propositions-with-a-more-complex-syntax.html'>1</a> </p>
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/logic/paradox.html'>Definition: Paradox</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/logic/interpretation-of-propositions-the-law-the-excluded-middle.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Hoffmann, Dirk W.</strong>: "Grenzen der Mathematik - Eine Reise durch die Kerngebiete der mathematischen Logik", Spektrum Akademischer Verlag, 2011</li>
+<li><strong>Beierle, C.; Kern-Isberner, G.</strong>: "Methoden wissensbasierter Systeme", Vieweg, 2000</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

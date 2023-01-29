@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of BOOLEAN ALGEBRA OF PROPOSITIONAL LOGIC &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="algebra,boolean,logic,propositional,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/logic/boolean-algebra-of-propositional-logic.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/logic/boolean-algebra-of-propositional-logic.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/logic/pl1-first-order-predicate-logic.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/logic/logic.html'>Logic</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/logic/boolean-algebra-of-propositional-logic.html'>Lemma: Boolean Algebra of Propositional Logic</a>)</p>
+<p>Let $B$ be the set of <a href="https://bookofproofs.github.io/branches/logic/syntax-of-pl0-propositions-as-boolean-terms.html" title="Logic / Definition: Syntax of PL0 - Propositions as Boolean Terms">Boolean terms</a>. We want to show that $(B,\wedge,\vee,1,0)$ is a <a href="https://bookofproofs.github.io/branches/logic/boolean-algebra.html" title="Logic / Definition: Boolean Algebra">Boolean algebra</a> with respect to the <a href="https://bookofproofs.github.io/branches/logic/conjunction.html" title="Logic / Definition: Conjunction">conjunction</a> <a href="https://bookofproofs.github.io/branches/logic/disjunction.html" title="Logic / Definition: Disjunction">$\wedge$", the "disjunction</a> "$\vee$":
+* It follows from the syntax of <a href="https://bookofproofs.github.io/branches/logic/syntax-of-pl0-propositions-as-boolean-terms.html" title="Logic / Definition: Syntax of PL0 - Propositions as Boolean Terms">Boolean terms</a> that $B$ contains the Boolean constants $1$ and $0$ and is closed under the operations "$\wedge$" and "$\vee$".
+* It is, therefore, sufficient to demonstrate that $(B,\wedge,\vee,1,0)$ is a Boolean algebra by verifying all required properties:
+1. The <a href="https://bookofproofs.github.io/branches/logic/associativity-of-conjunction.html" title="Logic / Proposition: Associativity of Conjunction">conjunction $\wedge$ is associative</a> as well as the <a href="https://bookofproofs.github.io/branches/logic/associativity-of-disjunction.html" title="Logic / Proposition: Associativity of Disjunction">disjunction $\vee$ is associative</a>, i.e. for all \(x,y,z\in B\) $$\begin{array}{c}x\wedge(y\wedge z)=(x\wedge y)\wedge z,\\x\vee (y\vee z)=(x\vee y)\vee z.\end{array}$$
+1. The <a href="https://bookofproofs.github.io/branches/logic/commutativity-of-conjunction.html" title="Logic / Corollary: Commutativity of Conjunction">conjunction $\wedge$ is commutative</a> and the <a href="https://bookofproofs.github.io/branches/logic/commutativity-of-disjunction.html" title="Logic / Corollary: Commutativity of Disjunction">disjunction $\vee$ is commutative</a>,  i.e. for all \(x,y \in B\) $$\begin{array}{c}x\wedge y=y \wedge x,\\x\vee y=y\vee x.\end{array}$$ 
+1. "\(\wedge \)" and "\(\vee \)" are <a href="https://bookofproofs.github.io/branches/logic/distributivity-of-conjunction-and-disjunction.html" title="Logic / Lemma: Distributivity of Conjunction and Disjunction">distributive over each other</a>, i.e. for all \(x,y,z\in B\) $$\begin{array}{c}x\wedge (y\vee z)=(x\wedge y)\vee (x\wedge z),\\x\vee (y\wedge z)=(x\vee y)\wedge (x\vee z).\end{array}$$
+1. The <a href="https://bookofproofs.github.io/branches/logic/syntax-of-pl0-propositions-as-boolean-terms.html" title="Logic / Definition: Syntax of PL0 - Propositions as Boolean Terms">Boolean constants</a> $1$ and $0$ have with respect to the conjunction and the disjunction the following properties:
+   * $0\in B$ is the "smallest" element: $0\wedge x=0$ and $x\vee 0=x$ for all Boolean terms $x.$
+   * $1\in B$ is the "greatest" element: $1\wedge x=x$ and $x\vee 1=1$ for all Boolean terms $x.$
+1. Finally, the <a href="https://bookofproofs.github.io/branches/logic/negation.html" title="Logic / Definition: Negation">negation</a> $\neg x$ is the "complent element": $x\wedge \neg x=0$ and $x\vee \neg x=1$  for all Boolean terms $x.$</p>
+<ul>
+<li>It follows that $B$ is a <a href="https://bookofproofs.github.io/branches/logic/boolean-algebra.html" title="Logic / Definition: Boolean Algebra">Boolean algebra</a> $(B,\wedge,\vee,1,0).$</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/logic/boolean-algebra-of-propositional-logic-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Knauer Ulrich</strong>: "Diskrete Strukturen - kurz gefasst", Spektrum Akademischer Verlag, 2001</li>
+<li><strong>Mendelson Elliott</strong>: "Theory and Problems of Boolean Algebra and Switching Circuits", McGraw-Hill Book Company, 1982</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

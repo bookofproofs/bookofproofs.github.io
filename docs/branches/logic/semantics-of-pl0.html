@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="SEMANTICS OF PL0 ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="semantics of pl0,pl0">
+<title>Semantics of PL0</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/logic/examples-of-paradoxes.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/logic/propositional-logic.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/logic/k-nary-connectives-prime-and-compound-propositions.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/logic/logic.html'>Logic</a> / Definition: Semantics of PL0</h3>
+
+<hr>
+
+<p>The <a href="https://bookofproofs.github.io/branches/logic/interpretation-of-propositions-the-law-the-excluded-middle.html" title="Logic / Definition: Interpretation of Propositions - the Law of the Excluded Middle">Law of Excluded Middle</a> tells us that if a string of a formal language $s\in L$ is a <a href="https://bookofproofs.github.io/branches/logic/syntax-of-pl0-propositions-as-boolean-terms.html" title="Logic / Definition: Syntax of PL0 - Propositions as Boolean Terms">proposition</a>, then the valuation function can take only two values - either the proposition is true or false: $[[s]]_I\in \mathbb B$ for all interpretations. This can also be expressed using the <a href="https://bookofproofs.github.io/branches/logic/satisfaction-relation-model-tautology-contradiction.html" title="Logic / Definition: Satisfaction Relation, Model, Tautology, Contradiction">satisfaction relation</a>: either we have $\models s$ or $\not{\models}s$. </p>
+<p>However, we still do not know, how the satisfaction relation changes when we use the  <a href="https://bookofproofs.github.io/branches/logic/syntax-of-pl0-propositions-as-boolean-terms.html" title="Logic / Definition: Syntax of PL0 - Propositions as Boolean Terms">syntactical rules for building propositions</a>. The following definition closes the gaps by defining the <strong>semantics of the propositional logic</strong>.</p>
+<h1>Definition: Semantics of PL0</h1>
+<p>Let $L$ be a f<a href="https://bookofproofs.github.io/branches/logic/formal-language-generated-from-a-grammar.html" title="Logic / Definition: Formal Languages Generated From a Grammar">ormal language</a> with the <a href="https://bookofproofs.github.io/branches/logic/syntax-of-pl0-propositions-as-boolean-terms.html" title="Logic / Definition: Syntax of PL0 - Propositions as Boolean Terms">syntax of propositional logic</a> $PL0$ and let $L'\subset L$ be the subset of $L$ which consists of propositions (i.e. Boolean constants, Boolean variables, and Boolean terms). The <a href="https://bookofproofs.github.io/branches/logic/semantics-of-a-formal-language.html" title="Logic / Definition: Semantics of a Formal Language">semantics</a> of $PL0$* is defined recursively as <a href="https://bookofproofs.github.io/branches/logic/syntax-of-pl0-propositions-as-boolean-terms.html" title="Logic / Definition: Syntax of PL0 - Propositions as Boolean Terms">its syntax</a> was. We provide two equivalent definitions - one using <a href="https://bookofproofs.github.io/branches/logic/interpretation-of-propositions-the-law-the-excluded-middle.html" title="Logic / Definition: Interpretation of Propositions - the Law of the Excluded Middle">interpretations</a> "$I$" with the corresponding valuation functions $[[]]_I$, another using the <a href="https://bookofproofs.github.io/branches/logic/interpretation-of-propositions-the-law-the-excluded-middle.html" title="Logic / Definition: Interpretation of Propositions - the Law of the Excluded Middle">satisfaction relation</a> "$\models$" of $PL0$:</p>
+<h3>Definition I</h3>
+<p>For all <a href="https://bookofproofs.github.io/branches/logic/interpretation-of-propositions-the-law-the-excluded-middle.html" title="Logic / Definition: Interpretation of Propositions - the Law of the Excluded Middle">interpretations of $PL0$</a> "$I$" of propositions, the corresponding valuation functions "$[[]]_I$" are defined as follows:
+* Boolean constants: 
+   * $[[ 1 ]]_I=1.$
+   * $[[ 0 ]]_I=0.$
+* Boolean variables $x$: 
+   * $[[ x ]]_I=1$ if and only if $x=1.$ 
+* Boolean terms $\phi,\psi$ under special symbols "$\neg\phi,$” “$\phi\vee\psi,$” “$\phi\wedge\psi,$” “$\phi\Rightarrow\psi,$” “$\phi\Leftrightarrow \psi$”:
+   * <strong>Negation</strong>: $[[ \neg\phi ]]_I=1$ if and only if $[[\phi ]]_I=0.$
+   * <strong>Disjunction</strong>: $[[\phi \vee \psi]]_I=1$ if and only if $[[\phi ]]_I=1$ or $[[\psi ]]_I=1.$
+   * <strong>Conjunction</strong>: $[[\phi \wedge\psi]]_I=1$ if and only if $[[\phi ]]_I=1$ and $[[\psi ]]_I=1.$
+   * <strong>Implication</strong>: $[[\phi \Rightarrow\psi]]_I=1$ if and only if $[[\phi ]]_I=0$ or $[[\psi ]]_I=1.$
+   * <strong>Equivalence</strong>: $[[\phi \Leftrightarrow \psi]]_I=1$ if and only if $[[\phi \Rightarrow\psi]]_I=1$ and $[[\psi \Rightarrow\phi]]_I=1.$</p>
+<h3>Equivalent Definition II</h3>
+<p>The <a href="https://bookofproofs.github.io/branches/logic/interpretation-of-propositions-the-law-the-excluded-middle.html" title="Logic / Definition: Interpretation of Propositions - the Law of the Excluded Middle">satisfaction relation of $PL0$</a> "$\models$" is given by:
+* Boolean Constants: 
+   * $\;\models 1.$
+   * $\not{\models}\; 0.$
+* Boolean variables $x$: 
+   * $\models x$ if and only if $x=1.$ 
+* Boolean terms $\phi,\psi$ under special symbols "$\neg\phi,$” “$\phi\vee\psi,$” “$\phi\wedge\psi,$” “$\phi\Rightarrow\psi,$” “$\phi\Longleftrightarrow \psi$”: 
+   * <strong>Negation</strong>: $\models \neg(\phi)$ if and only if $\not{\models}(\phi).$
+   * <strong>Disjunction</strong>: $\models (\phi \vee \psi)$ if and only if $\models (\phi)$ or $\models (\psi).$
+   * <strong>Conjunction</strong>: $\models (\phi \wedge\psi)$ if and only if $\models (\phi)$ and $\models (\psi).$
+   * <strong>Implication</strong>: $\models (\phi \Rightarrow\psi)$ if and only if $\not{\models} (\phi)$ or $\models (\psi).$
+   * <strong>Equivalence</strong>: $\models (\phi \Leftrightarrow \psi)$ if and only if $\models (\phi \Rightarrow\psi)$ and $\models (\psi \Rightarrow\phi).$</p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/logic/k-nary-connectives-prime-and-compound-propositions.html'>Definition: $k$-nary Connectives, Prime and Compound Propositions</a></li>
+<li><a href='https://bookofproofs.github.io/branches/logic/boolean-function.html'>Lemma: Boolean Function</a></li>
+<li><a href='https://bookofproofs.github.io/branches/logic/truth-table.html'>Definition: Truth Table</a></li>
+<li><a href='https://bookofproofs.github.io/branches/logic/negation.html'>Definition: Negation</a></li>
+<li><a href='https://bookofproofs.github.io/branches/logic/conjunction.html'>Definition: Conjunction</a></li>
+<li><a href='https://bookofproofs.github.io/branches/logic/disjunction.html'>Definition: Disjunction</a></li>
+<li><a href='https://bookofproofs.github.io/branches/logic/implication.html'>Definition: Implication</a></li>
+<li><a href='https://bookofproofs.github.io/branches/logic/equivalence.html'>Definition: Equivalence</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/logic/semantics-of-pl0.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

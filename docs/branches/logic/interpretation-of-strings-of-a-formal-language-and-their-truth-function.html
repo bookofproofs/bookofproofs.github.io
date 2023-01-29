@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="INTERPRETATION OF STRINGS OF A FORMAL LANGUAGE AND THEIR TRUTH FUNCTION &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="interpretation,truth function,interpretations,truth functions,interpret">
+<title>Interpretation of Strings of a Formal Language and Their Truth Function</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/logic/domain-of-discourse.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/logic/from-the-syntax-to-the-semantics-of-formal-languages.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/logic/satisfaction-relation-model-tautology-contradiction.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/logic/logic.html'>Logic</a> / Definition: Interpretation of Strings of a Formal Language and Their Truth Function</h3>
+
+<hr>
+
+<p>Now, we are ready to explain, what it means to logically <em>interpret</em> a <a href="https://bookofproofs.github.io/branches/logic/strings-words-over-an-alphabet.html" title="Logic / Definition: Strings (words) over an Alphabet">word</a> of a <a href="https://bookofproofs.github.io/branches/logic/formal-language-generated-from-a-grammar.html" title="Logic / Definition: Formal Languages Generated From a Grammar">formal language</a>. We are able to provide a first strict definition of the concept of logical <em>interpretation</em>. Later, when we will be discussing special types of logic, including the <a href="https://bookofproofs.github.io/branches/logic/propositional-logic.html" title="Logic / Part: Propositional Logic">propositional logic</a>, the <a href="https://bookofproofs.github.io/branches/logic/pl1-first-order-predicate-logic.html" title="Logic / Part: PL1 - First Order Predicate Logic">first-order</a> and <a href="https://bookofproofs.github.io/branches/logic/higher-order-logics.html" title="Logic / Part: Higher-Order Logics">higher-order predicate logics</a>, we will need some customized definitions of <em>interpretations</em>, more precisely serving specific purposes of each case.</p>
+<p>For the time being, it is sufficient to understand that an <em>interpretation</em> inside a logical system is a rule assigning truth values to the strings of the underlying formal language.</p>
+<h1>Definition: Interpretation of Strings of a Formal Language and Their Truth Function</h1>
+<p>Let \(L\subseteq (\Sigma^*,\cdot) \) be a <a href="https://bookofproofs.github.io/branches/logic/formal-language-generated-from-a-grammar.html" title="Logic / Definition: Formal Languages Generated From a Grammar">formal language</a> in a given <a href="https://bookofproofs.github.io/branches/logic/domain-of-discourse.html" title="Logic / Definition: Domain of Discourse">domain of discourse</a> $U$. The <strong>interpretation</strong> $I$ is an appropriate <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">partial function</a>  $I: L\subset \to \mathbb B$, $s\to I(s)$,  depending on $L$ and $U$. </p>
+<p>In other words, given such an appropriate $I$, for any string $s\in L$, the value of the function $I(s)$ can take one of three values:</p>
+<p>$$I(s):=\cases{1,&amp;\text{if }s\text{ is interpreted as being “true”,}\\ 
+0,&amp;\text{if }s\text{ is interpreted as being “false”,}\\ 
+undefined,&amp;\text{if }s\text{ neither can be interpreted as being “true” or “false”.}}$$</p>
+<h3>Insights worth mentioning</h3>
+<ul>
+<li>Please note that, in general, not all strings $s\in L$ can be interpreted, even though they are syntactically correct. In this case, they either have no meaning or do have a meaning but no truth value can be assigned to them. We will learn examples of such strings later on.</li>
+<li>Note also that the <strong>truth</strong> of strings is always a matter of the choice of the specific function $I$. It means that logical systems do not support any kind of "absolute, objective interpretation". For instance, the same string $s$ can be true in one interpretation, false in another or no interpretation might be possible in yet another interpretation.</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/logic/interpretation-of-strings-of-a-formal-language-and-their-truth-function.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>
