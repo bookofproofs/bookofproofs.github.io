@@ -14,7 +14,10 @@ contributors: bookofproofs
 
 ---
 
-In the [Introduction][bookofproofs$7078] of <strong><span style='color:orange'>Bookof</span><span style='color:lightblue'>Proofs</span></strong>, we have learned about the  [axiomatic method][bookofproofs$7079], how it shaped mathematics over centuries and why it is important for education. In this part of <strong><span style='color:orange'>Bo</span><span style='color:lightblue'>P</span></strong> we will provide all tools necessary to provide a strict mathematical foundation of the axiomatic method itself. 
+In the [Introduction][bookofproofs$7081] of <strong><span style='color:orange'>Bookof</span><span style='color:lightblue'>Proofs</span></strong>, 
+we have learned about the _axiomatic method_, how it shaped mathematics over centuries and why it is important for education. 
+In this part of <strong><span style='color:orange'>Bo</span><span style='color:lightblue'>P</span></strong> we will provide all 
+tools necessary to provide a strict mathematical foundation of the axiomatic method itself. 
 
 It is important to notice, that we will be using two different levels of reasoning in order to do so: 
 * the object level of the concepts we will introduce, and 

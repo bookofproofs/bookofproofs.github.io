@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="PROOF OF RATIONAL NUMBERS ARE DENSE IN REAL NUMBERS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!">
+<meta name="keywords" content="rational numbers are dense,density of rational numbers,dense,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/analysis/rational-numbers-are-dense-in-real-numbers.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/analysis/rational-numbers-are-dense-in-real-numbers.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/analysis/open-intervals-contain-uncountably-many-irrational-numbers.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/analysis/analysis.html'>Analysis</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/analysis/rational-numbers-are-dense-in-real-numbers.html'>Proposition: Rational Numbers are Dense in Real Numbers</a>)</p>
+<ul>
+<li>By hypothesis, $x\in\mathbb R$ is a <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html" title="Number Systems Arithmetics / Proposition: Definition of Real Numbers">real number</a> and $\epsilon &gt; 0$ any (arbitrarily small) <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/order-relation-of-real-numbers.html" title="Number Systems Arithmetics / Definition: Order Relation of Real Numbers">positive real number</a>.</li>
+<li>We are going to find a <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-rational-numbers.html" title="Number Systems Arithmetics / Proposition: Definition of Rational Numbers">rational number</a> $q\in\mathbb Q$ with $q\in(x-\epsilon, x+\epsilon)$ using a constructed <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/convergent-rational-sequence.html" title="Number Systems Arithmetics / Definition: Convergent Rational Sequence">convergent rational sequence</a>.<ul>
+<li>First, we choose two <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Number Systems Arithmetics / Proposition: Definition of Integers">rational numbers</a> $\frac {a_0}1,\frac{b_0}1\in\mathbb Q$ with some <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Number Systems Arithmetics / Proposition: Definition of Integers">integers</a> $a_0 &lt; x &lt; b_0.$ This is possible because of the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/archimedean-axiom.html" title="Number Systems Arithmetics / Axiom: Archimedean Axiom">Archimedean axiom</a>.</li>
+<li>Note that $x\in [a_0,b_0],$ where $[a_0,b_0]$ is a <a href="https://bookofproofs.github.io/branches/analysis/real-intervals.html" title="Analysis / Definition: Real Intervals">closed interval</a>.</li>
+<li>Now, we construct for $n=1,2,\ldots$ new closed intervals by the following rule:<ul>
+<li>if $\frac{a_n+b_n}2 &gt; x$, we set $a_{n+1}:=a_n$ and $b_{n+1}=\frac{a_n+b_n}2,$</li>
+<li>otherwise, we set $a_{n+1}:=\frac{a_n+b_n}2,$ and $b_{n+1}:=b_n.$ </li>
+</ul>
+</li>
+<li>By construction, the sequences $(a_n)_{n\in\mathbb N}$ and $(b_n)_{n\in\mathbb N}$ are <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/rational-sequence.html" title="Number Systems Arithmetics / Definition: Rational Sequence">rational sequences</a> with $x\in [a_{n},b_{n}]$ for all $n:=1,2,\ldots.$</li>
+<li>Since the length of the $n$th interval is $(b_0-a_0)/2^n,$ the sequences are also <a href="https://bookofproofs.github.io/branches/analysis/convergent-real-series.html" title="Analysis / Definition: Convergent Real Series">real convergent sequences</a> with the limit $$x=\lim_{n\to\infty} a_n=\lim_{n\to\infty} b_n.$$ </li>
+<li>Although the limit $x$ does not have to be a rational number<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> itself, all sequence members $a_n,b_n$ are, by construction, rational numbers for all $n\in\mathbb N.$</li>
+<li>From the <a href="https://bookofproofs.github.io/branches/analysis/convergent-real-series.html" title="Analysis / Definition: Convergent Real Series">definition of convergence</a>, it follows that, taking $(a_n)_{n\in\mathbb N}$ as an example, there is an index $N\in\mathbb N$ such that $|a_n-x| &lt; \epsilon$ for all $n &gt; N.$</li>
+</ul>
+</li>
+<li>By setting $q:=a_N\in (x-\epsilon, x+\epsilon),$ we have found a rational number that lies arbitrarily <a href="https://bookofproofs.github.io/branches/topology/dense-sets-nowhere-dense-sets.html" title="Topology / Definition: Dense Sets, Nowhere Dense Sets">dense</a> with the real number $x.$</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/analysis/rational-numbers-are-dense-in-the-real-numbers-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Modler, F.; Kreh, M.</strong>: "Tutorium Analysis 1 und Lineare Algebra 1", Springer Spektrum, 2018, 4th Edition</li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Take $x=\sqrt{2}$ as an example.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

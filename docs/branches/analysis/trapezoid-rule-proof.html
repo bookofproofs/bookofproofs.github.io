@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="TRAPEZOID RULE Proof ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="trapezoid rule,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/analysis/trapezoid-rule.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/analysis/trapezoid-rule.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/analysis/extended-concept-of-the-riemann-integral-the-improper-integral.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/analysis/analysis.html'>Analysis</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/analysis/trapezoid-rule.html'>Lemma: Trapezoid Rule</a>)</p>
+<ul>
+<li>By hypothesis, the function $f$ is a <a href="https://bookofproofs.github.io/branches/analysis/continuously-differentiable-functions.html" title="Analysis / Definition: Continuously Differentiable Functions">twice continuously differentiable function</a>.</li>
+<li>First of all we will show that there is a mean value $\xi\in[0,1]$ such that $$\int_0^1f(x)dx=\frac{f(0)+f(1)}{2}-\frac{1}{12}f^{\prime\prime}(\xi).\label{eq:E20226}\tag{1}$$<ul>
+<li>For let $\phi(x):=\frac{1}{2}x(1-x).$</li>
+<li>Since we have the <a href="https://bookofproofs.github.io/branches/analysis/derivative-differentiable-functions.html" title="Analysis / Definition: Derivative, Differentiable Functions">derivatives</a> $\phi^{\prime}(x):=\frac{1}{2}-x$ and $\phi^{\prime\prime}(x):=-1,$ we have with <a href="https://bookofproofs.github.io/branches/analysis/partial-integration.html" title="Analysis / Theorem: Partial Integration">partial integration</a> $$\int_0^1f(x)dx=-\int_0^1f(x)\phi^{\prime\prime}(x)dx=\underbrace{-f(x)\phi^{\prime}(x)\;\Rule{2px}{4ex}{2ex}^1_0}_{=:A}+\underbrace{\int_{0}^{1}\phi^{\prime}(x)f’(x)dx}_{=:B}.$$</li>
+<li>The term $A$ evaluates to $$A=-f(1)(\frac 12-1)+f(0)(\frac 12-0)=\frac 12f(1)+\frac 12f(0)=\frac 12(f(1)+f(0)).\label{eq:E20226a}\tag{2}$$</li>
+<li>The term $B$ evaluates with yet another partial integration to $$B=\underbrace{f'(x)\phi(x)\;\Rule{2px}{4ex}{2ex}^1_0}_{=0}-\int_0^1\phi(x)f^{\prime\prime}(x)dx=-\int_0^1\phi(x)f^{\prime\prime}(x)dx.$$</li>
+<li>Since $\phi(x)\ge 0$ for all $x\in[0,1],$ we can apply the <a href="https://bookofproofs.github.io/branches/analysis/mean-value-theorem-for-riemann-integrals.html" title="Analysis / Theorem: Mean Value Theorem For Riemann Integrals">mean value theorem for Riemann integrals</a> and conclude that there exists a mean value $\xi\in[0,1]$ such that $$B=-f^{\prime\prime}(\xi)\cdot\int_0^1\phi(x)dx.$$</li>
+<li>Thus, there exists a mean value $\xi\in[0,1]$ such that $$B=-f^{\prime\prime}(\xi)\cdot\int_0^1\frac{1}{2}(x(1-x))dx=-f^{\prime\prime}(\xi)\frac 12\left(\int_0^1 xdx-\int_0^1 x^2dx\right)$$ $$=-f^{\prime\prime}(\xi)\frac 12\left(\frac 12-\frac 13\right)=-f^{\prime\prime}(\xi)\frac 1{12}.\label{eq:E20226b}\tag{3}$$</li>
+<li>$(\ref{eq:E20226})$ follows now immediately from $(\ref{eq:E20226a})$ and $(\ref{eq:E20226b}).$</li>
+</ul>
+</li>
+<li>Now, let $n\ge 1$ be a <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/set-theoretic-definitions-of-natural-numbers-ernst-zermelo-1908-john-von-neumann-1923.html" title="Number Systems Arithmetics / Definition: Set-theoretic Definitions of Natural Numbers">natural number</a> and let $h:=\frac{b-a}n.$</li>
+<li>We define the values $x_\nu:=a+h\nu$ for $\nu=0,1,\ldots,n.$</li>
+<li>By <a href="https://bookofproofs.github.io/branches/analysis/integration-by-substitution.html" title="Analysis / Theorem: Integration by Substitution">integration by substitution</a> in $(\ref{eq:E20226}),$ we get the result that there is a mean value $\xi_\nu\in[x_{\nu-1},x_{\nu}]$ such that we can find the <a href="https://bookofproofs.github.io/branches/analysis/riemann-integrable-functions.html" title="Analysis / Definition: Riemann-Integrable Functions">Riemann integral</a> for $\nu=1,\ldots,n$ $$\int_{a+(\nu-1)h}^{a+\nu h} f(\eta)d\eta=h\cdot \frac{f(x_{\nu-1})+f(x_\nu)}{2}-\frac{h^3}{12}f^{\prime\prime}(\xi_\nu).\label{eq:E20226c}\tag{4}$$</li>
+<li>Summing $(\ref{eq:E20226c})$ over all values of $\nu=1,\ldots,n$ gives us $$\int_{a}^{b} f(x)dx=\left(\frac{f(a)}{2}+\sum_{\nu=1}^{n-1}f(x_\nu)+\frac{f(b)}{2}\right)h+R \label{eq:E20226d}\tag{5}$$ with an <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/absolute-value-of-real-numbers-modulus.html" title="Number Systems Arithmetics / Definition: Absolute Value of Real Numbers (Modulus)">absolute</a> error term $$|R|=\frac{h^3}{12}\sum_{\nu=1}^n f^{\prime\prime}(\xi_\nu).$$</li>
+<li>Replacing the summands $f^{\prime\prime}(\xi_\nu)$ by the <a href="https://bookofproofs.github.io/branches/analysis/supremum-least-upper-bound.html" title="Analysis / Definition: Supremum, Least Upper Bound">supremum</a> $$K:=\sup\{|f^{\prime\prime}(x)|\mid\text{for all } x\in[a,b]\}$$ we get the approximation of the error term:
+$$|R|\le \frac{h^3}{12}\sum_{\nu=1}^n K=\frac{h^3}{12}nK=\frac{(b-a)^3}{n^3}\frac{1}{12}nK=\frac{(b-a)^3}{n^2}\frac{1}{12}K=\frac{(b-a)h^2}{12}K.$$</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/analysis/trapezoid-rule-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Forster Otto</strong>: "Analysis 1, Differential- und Integralrechnung einer Veränderlichen", Vieweg Studium, 1983</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

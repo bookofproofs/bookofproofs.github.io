@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="PROOF OF ONLY THE UNIFORM CONVERGENCE PRESERVES CONTINUITY ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!">
+<meta name="keywords" content="uniform convergence preserves continuity,uniform convergence continuity,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/analysis/only-the-uniform-convergence-preserves-continuity.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/analysis/only-the-uniform-convergence-preserves-continuity.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/analysis/supremum-norm-for-functions.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/analysis/analysis.html'>Analysis</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/analysis/only-the-uniform-convergence-preserves-continuity.html'>Proposition: Only the Uniform Convergence Preserves Continuity</a>)</p>
+<ul>
+<li>By hypothesis, $D\subset\mathbb R$ and let $f_n:D\to\mathbb R$ are <a href="https://bookofproofs.github.io/branches/analysis/continuous-real-functions.html" title="Analysis / Definition: Continuous Real Functions">continuous functions</a> on $D.$ </li>
+<li>Assume, the sequence $(f_n)_{n\to\mathbb N}$ is <a href="https://bookofproofs.github.io/branches/analysis/pointwise-and-uniformly-convergent-sequences-of-functions.html" title="Analysis / Definition: Pointwise and Uniformly Convergent Sequences of Functions">uniformly convergent</a> to a limit function $f:D\to\mathbb R.$ <ul>
+<li>By definition of uniformly convergent, there is an index $N\in\mathbb N$ such that $|f_N(x)-f(x)| &lt; \frac {\epsilon}{3}$ for all $x\in D.$ </li>
+<li>Since all $f_n:D\to\mathbb R$ are <a href="https://bookofproofs.github.io/branches/analysis/continuous-real-functions.html" title="Analysis / Definition: Continuous Real Functions">continuous</a> on $D,$ so is $f_N.$ </li>
+<li>By definition of continuous, there is a $\delta &gt; 0$ such that $|f_N(x)-f_N(x^\prime)|&lt;\frac {\epsilon}{3}$ for all $x^\prime\in D$ with $|x-x^\prime| &lt; \delta.$</li>
+<li>By the <a href="https://bookofproofs.github.io/branches/analysis/triangle-inequality.html" title="Analysis / Theorem: Triangle Inequality">triangle inequality</a>, for all $x^\prime\in D$ with $|x-x^\prime| &lt; \delta$: $$|f(x)-f(x^\prime)|\le |f(x)-f_N(x)|+|f_N(x)-f_N(x^\prime)|+|f_N(x^\prime)-f(x^\prime)| &lt; \frac {\epsilon}{3}+\frac {\epsilon}{3}+\frac {\epsilon}{3}=\epsilon.$$</li>
+<li>It follows by definition of continous, that $f:D\to\mathbb R$ is continous. </li>
+</ul>
+</li>
+<li>Now, assume the sequence $(f_n)_{n\to\mathbb N}$ is only <a href="https://bookofproofs.github.io/branches/analysis/pointwise-and-uniformly-convergent-sequences-of-functions.html" title="Analysis / Definition: Pointwise and Uniformly Convergent Sequences of Functions">pointwise convergent</a> to a limit function $f:D\to\mathbb R.$<ul>
+<li>As an example, consider $f_n(x):=x^n$ on the <a href="https://bookofproofs.github.io/branches/analysis/real-intervals.html" title="Analysis / Definition: Real Intervals">closed real interval</a> $[0,1].$ </li>
+<li>Clearly, the functions $x^n$ are <a href="https://bookofproofs.github.io/branches/analysis/continuous-real-functions.html" title="Analysis / Definition: Continuous Real Functions">continuous</a> on $[0,1].$ </li>
+<li>Moreover, for all $x\in[0,1)$, $\lim_{n\to\infty} x^n=0,$ while for $x=1$, $\lim_{n\to\infty} x^n=1.$</li>
+<li>The function $f$ is therefore not continous at $x=1\in[0,1].$</li>
+<li>Dispite the fact that for every $x\in[0,1]$, $\lim_{n\to\infty} f_n=f,$ i.e. the continous functions $f_n$ <a href="https://bookofproofs.github.io/branches/analysis/pointwise-and-uniformly-convergent-sequences-of-functions.html" title="Analysis / Definition: Pointwise and Uniformly Convergent Sequences of Functions">converge only pointwise</a> to $f.$</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/analysis/only-the-uniform-convergence-preserves-continuity-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Forster Otto</strong>: "Analysis 1, Differential- und Integralrechnung einer Veränderlichen", Vieweg Studium, 1983</li>
+<li><strong>Heuser Harro</strong>: "Lehrbuch der Analysis, Teil 1", B.G. Teubner Stuttgart, 1994, 11th Edition</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

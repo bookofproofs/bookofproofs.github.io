@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of EVERY BOUNDED REAL SEQUENCE HAS A CONVERGENT SUBSEQUENCE &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="bolzano-weierstrass,bounded sequence,convergent subsequence,proof">
+<title>By Induction</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/analysis/every-bounded-real-sequence-has-a-convergent-subsequence-bolzano-weierstrass.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/analysis/every-bounded-real-sequence-has-a-convergent-subsequence-bolzano-weierstrass.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/analysis/accumulation-point-real-numbers.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/analysis/analysis.html'>Analysis</a> / Proof: By Induction</h3>
+
+<hr>
+
+<h1>Proof: By Induction</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/analysis/every-bounded-real-sequence-has-a-convergent-subsequence-bolzano-weierstrass.html'>Theorem: Every Bounded Real Sequence has a Convergent Subsequence</a>)</p>
+<p>Since the real sequence \((a_n)_{n\in\mathbb N}\) is <a href="https://bookofproofs.github.io/branches/analysis/bounded-real-sequences-upper-and-lower-bounds-for-a-real-sequence.html" title="Analysis / Definition: Bounded Real Sequences, Upper and Lower Bounds for a Real Sequence">bounded</a>, there are real numbers \(A,B\in\mathbb R\) with</p>
+<p>\[A\le a_n \le B\quad\quad\forall n\in\mathbb N.\]</p>
+<p>We will prove the theorem in three steps:</p>
+<h4>Step \(1\) - We construct intervals \([A_k,B_k]\) fulfilling certain properties</h4>
+<p>We will prove <a href="https://bookofproofs.github.io/branches/logic/proving-principle-by-complete-induction.html" title="Logic / Lemma: The Proving Principle by Complete Induction">by induction</a> that there exists a sequence \((I_k)_{k\in\mathbb N}\) of <a href="https://bookofproofs.github.io/branches/analysis/real-intervals.html" title="Analysis / Definition: Real Intervals">closed real intervals</a> \(I_k:=[A_k,B_k]\) with the following properties:</p>
+<ol>
+<li>\([A_k,B_k]\) contains infinitely many sequence members of the sequence \((a_n)_{n\in\mathbb N}\), i.e. \(a_n\in I_k\) for infinitely many \(n\in\mathbb N\).</li>
+<li>\([A_k,B_k]\subseteq [A_{k-1},B_{k-1}]\).</li>
+<li>\(B_k - A_k = 2^{-k}(B-A)\).</li>
+</ol>
+<h3>Base case \(k=0\)</h3>
+<p>For \([A_0,B_0]:=[A,B]\) the properties are obviously fulfilled.</p>
+<h3>Induction step \(k\rightarrow k + 1\).</h3>
+<p>Let \([A_k,B_k]\) be an interval, for which the properties are fulfilled. Set \(M:=(A_k + B_k)/2\). \(M\) is the "middle" of the interval  \([A_k,B_k]\). Since \([A_k,B_k]\) contains infinitely many members of the sequence \((a_n)_{n\in\mathbb N}\), at least one of the intervals \([A_k,M]\) and \([M, B_k]\) must also contain infinitely many members of this sequence. We set</p>
+<p>\[[A_{k+1},B_{k+1}]:=\cases{[A_k,M],\quad\text{ if }[A_k,M]\text{ contains infinitely many sequence members of }(a_n)_{n\in\mathbb N},\\
+[M, B_k],\quad\text{ else.}
+}\]</p>
+<p>By construction, \([A_{k+1},B_{k+1}]\) fulfills the properties mentioned above.</p>
+<h4>Step \(2\) - We construct a subsequence \((a_{n_k})_{k\in\mathbb N}\) with \(a_{n_k}\in[A_k,B_k]\) for all \(k\in\mathbb N\)</h4>
+<p>Now, again by induction, we define the members of the <a href="https://bookofproofs.github.io/branches/analysis/real-subsequence.html" title="Analysis / Definition: Real Subsequence">subsequence</a> \((a_{n_k})_{k\in\mathbb N}\) with \(a_{n_k}\in[A_k,B_k]\) for all \(k\in\mathbb N\) as follows:</p>
+<h3>Base case \(k=0\)</h3>
+<p>We set \(a_{n_0}:=a_0\).</p>
+<h3>Induction step \(k\rightarrow k + 1\).</h3>
+<p>Let the sequence members \(a_{n_0}, a_{n_1},\ldots,a_{n_k}\) be already defined. Because the interval \([A_{k+1},B_{k+1}]\) contains infinitely many sequence members, there exists an \(a_{n_{k+1}}\in[A_{k+1},B_{k+1}]\) with \(n_{k+1} &gt; n_k\). Thus we can include \(a_{n_{k+1}}\) to the sequence \(a_{n_0}, a_{n_1},\ldots,a_{n_k},a_{n_{k+1}}\).</p>
+<h4>Step \(3\) - We prove that the subsequence \((a_{n_k})_{k\in\mathbb N}\) is convergent.</h4>
+<p>Let \(\epsilon &gt; 0\) be an arbitrarily small (but fixed) real number. Since the length of the \(k\)-th interval is \(B_k - A_k=2^{-k}(B-A)\), there is an \(N(\epsilon)\in\mathbb N\), for which the length the \(N(\epsilon)\)-th interval is </p>
+<p>\[B_{N(\epsilon)} - A_{N(\epsilon)}=2^{-{N(\epsilon)}}(B-A) &lt; \epsilon.\]</p>
+<p>By construction of the intervals, for all \(k,j &gt; N(\epsilon)\) will have 
+\[\begin{array}{rcl}
+a_{n_k}\in[A_{n_k},B_{n_k}]\subseteq [A_{N(\epsilon)},B_{N(\epsilon)}],\\
+a_{n_j}\in[A_{n_j},B_{n_j}]\subseteq [A_{N(\epsilon)},B_{N(\epsilon)}].
+\end{array}
+\]
+Thus, for all \(k,j &gt; N(\epsilon)\) we have
+\[|a_{n_k} - a_{n_j}| \le B_{N(\epsilon)} - A_{N(\epsilon)}=2^{-{N(\epsilon)}}(B-A) &lt; \epsilon,\]
+which means that the subsequence \((a_{n_k})_{k\in\mathbb N}\) is a <a href="https://bookofproofs.github.io/branches/topology/cauchy-sequence.html" title="Topology / Definition: Cauchy Sequence">Cauchy sequence</a>. By the <a href="https://bookofproofs.github.io/branches/analysis/completeness-principle-for-real-numbers.html" title="Analysis / Theorem: Completeness Principle for Real Numbers">completeness principle</a>, it is <a href="https://bookofproofs.github.io/branches/analysis/convergent-real-sequence.html" title="Analysis / Definition: Convergent Real Sequence">convergent</a> in \(\mathbb R\).</p>
+<p>Therefore, the limit of this convergent sequence is an <a href="https://bookofproofs.github.io/branches/analysis/accumulation-point-real-numbers.html" title="Analysis / Definition: Accumulation Point (Real Numbers)">accumulation point</a> of the sequence.</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/analysis/every-bounded-real-sequence-has-a-convergent-subsequence-bolzano-weierstrass-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Forster Otto</strong>: "Analysis 1, Differential- und Integralrechnung einer Veränderlichen", Vieweg Studium, 1983</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

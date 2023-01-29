@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of A NECESSARY AND A SUFFICIENT CONDITION FOR RIEMANN INTEGRABLE FUNCTIONS &amp;#9733; master graduate maths &amp;#10004; visit BookOfProofs now!">
+<meta name="keywords" content="condition,functions,integrable,necessary,riemann,sufficient,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/analysis/a-necessary-and-a-sufficient-condition-for-riemann-integrable-functions.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/analysis/a-necessary-and-a-sufficient-condition-for-riemann-integrable-functions.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/analysis/riemann-upper-and-riemann-lower-integrals-for-bounded-real-functions.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/analysis/analysis.html'>Analysis</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/analysis/a-necessary-and-a-sufficient-condition-for-riemann-integrable-functions.html'>Proposition: A Necessary and a Sufficient Condition for Riemann Integrable Functions</a>)</p>
+<p>We prove both implications:</p>
+<h3>"\(\Rightarrow\)"</h3>
+<ul>
+<li>Assume, \(f\) is <a href="https://bookofproofs.github.io/branches/analysis/riemann-integrable-functions.html" title="Analysis / Definition: Riemann-Integrable Functions">Riemann integrable</a>.</li>
+<li>Then, by definition, its <a href="https://bookofproofs.github.io/branches/analysis/riemann-upper-and-riemann-lower-integrals-for-bounded-real-functions.html" title="Analysis / Proposition: Riemann Upper and Riemann Lower Integrals for Bounded Real Functions">Riemann upper and lower integrals</a> exist and are equal. </li>
+<li>Therefore, \(f\) is <a href="https://bookofproofs.github.io/branches/analysis/bounded-and-unbounded-functions.html" title="Analysis / Definition: Bounded and Unbounded Functions">bounded</a> by some <a href="https://bookofproofs.github.io/branches/analysis/step-functions.html" title="Analysis / Definition: Step Functions">step functions</a> \(\phi:[a,b]\mapsto\mathbb R\) and \(\psi:[a,b]\mapsto\mathbb R\) with \[\phi\le f\le \psi.\]</li>
+<li>From the <a href="https://bookofproofs.github.io/branches/analysis/supremum-least-upper-bound.html" title="Analysis / Definition: Supremum, Least Upper Bound">definition of supremum</a> and <a href="https://bookofproofs.github.io/branches/analysis/infimum-greatest-lower-bound.html" title="Analysis / Definition: Infimum, Greatest Lower Bound">infimum</a> it follows for every \(\epsilon &gt; 0\): \[\int_a^b\psi(x)dx-\int_a^b\phi(x)dx\le \epsilon.\]</li>
+</ul>
+<h3>"\(\Leftarrow\)"</h3>
+<ul>
+<li>Now, assume that \(f\) is <a href="https://bookofproofs.github.io/branches/analysis/bounded-and-unbounded-functions.html" title="Analysis / Definition: Bounded and Unbounded Functions">bounded</a> and that for every \(\epsilon &gt; 0\) there exist some <a href="https://bookofproofs.github.io/branches/analysis/step-functions.html" title="Analysis / Definition: Step Functions">step functions</a> \(\phi:[a,b]\mapsto\mathbb R\) and \(\psi:[a,b]\mapsto\mathbb R\) with \[\phi\le f\le \psi\quad\quad( * )\] and \[\int_a^b\psi(x)dx-\int_a^b\phi(x)dx\le \epsilon.\]</li>
+<li>This means that, as \(\epsilon\) tends to \(0\), the <a href="https://bookofproofs.github.io/branches/analysis/riemann-upper-and-riemann-lower-integrals-for-bounded-real-functions.html" title="Analysis / Proposition: Riemann Upper and Riemann Lower Integrals for Bounded Real Functions">Riemann lower integral</a> of the step function \(\phi\) and the <a href="https://bookofproofs.github.io/branches/analysis/riemann-upper-and-riemann-lower-integrals-for-bounded-real-functions.html" title="Analysis / Proposition: Riemann Upper and Riemann Lower Integrals for Bounded Real Functions">Riemann upper integral</a> of the step function \(\psi\) tend to each other:
+\[\lim_{\epsilon\to 0}\int_{a~*}^{b}\phi(x)dx=\lim_{\epsilon\to 0}\int_{a}^{b~*}\psi(x)dx.\quad\quad ( * * )\]</li>
+<li>On the other hand, from \(( * )\), from the <a href="https://bookofproofs.github.io/branches/analysis/linearity-and-monotony-of-the-riemann-integral-for-step-functions.html" title="Analysis / Proposition: Linearity and Monotony of the Riemann Integral for Step Functions">monotony of Riemann integrals for step functions</a>, and from the <a href="https://bookofproofs.github.io/branches/analysis/how-convergence-preserves-upper-and-lower-bounds-for-sequence-members.html" title="Analysis / Proposition: How Convergence Preserves Upper and Lower Bounds For Sequence Members">fact that convergence preserves lower and upper bounds, it follows</a>.
+\[\lim_{\epsilon\to 0}\int_{a~*}^{b}\phi(x)dx\le \int_{a~*}^{b}f(x)dx \le \int_{a}^{b}f(x)dx\le \int_{a}^{b~*}f(x)dx \le \lim_{\epsilon\to 0}\int_{a}^{b~*}\psi(x)dx.\]</li>
+<li>Together with \(( * * )\), this means that \(f\) is <a href="https://bookofproofs.github.io/branches/analysis/riemann-integrable-functions.html" title="Analysis / Definition: Riemann-Integrable Functions">Riemann integrable</a>, because in fact, 
+\[ \int_{a~*}^{b}f(x)dx = \int_{a}^{b}f(x)dx= \int_{a}^{b~*}f(x)dx.\]</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/analysis/a-necessary-and-a-sufficient-condition-for-riemann-integrable-functions-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Forster Otto</strong>: "Analysis 1, Differential- und Integralrechnung einer Veränderlichen", Vieweg Studium, 1983</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

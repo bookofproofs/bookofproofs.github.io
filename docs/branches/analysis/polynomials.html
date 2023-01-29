@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="POLYNOMIALS &amp;#9733; bring your math skills to the graduate level &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="degree,polynomial,polynomials,real polynomial,x + a3.value(),x + a4.value()">
+<title>Polynomials</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/analysis/integral-of-general-powers-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/analysis/types-of-real-functions.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/analysis/limits-of-polynomials-at-infinity.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/analysis/analysis.html'>Analysis</a> / Definition: Polynomials</h3>
+
+<hr>
+
+<h1>Definition: Polynomials</h1>
+<p>Let \(a_0,a_1,\ldots,a_n\) be <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html" title="Number Systems Arithmetics / Proposition: Definition of Real Numbers">real numbers</a> with \(a_n\neq 0\). A <strong>real polynomial</strong> (or just a <strong>polynomial</strong>) is a <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">function</a>.
+\[p:=\begin{cases}
+\mathbb R&amp;\to\mathbb R\\
+x&amp;\to p(x):=a_nx^n + \ldots + a_1x + a_0\\
+\end{cases}\]</p>
+<p>The numbers \(a_0,a_1,\ldots,a_n\) are called the <strong>coefficients</strong> of the polynomial. The highest number \(n\), for which the coefficient \(a_n\neq 0\), is called the <strong>degree</strong> of the polynomial.</p>
+<p>In the following interactive figure, you can drag the sliders to manipulate the values of the coefficients \(a_0,a_1,\ldots,a_5\) and see the behavior of resulting polynomials of the degree up to \(5\). The initial polynomial (when the Reset button is pressed) is of degree \(0\). </p>
+
+<div id="box199_1" class="jxgbox centered" style="max-width:400px; height:250px;"></div>
+<div id="box199" class="jxgbox centered" style="max-width:500px; height:500px;"></div>
+ 
+<script type="text/javascript">
+var brd1 = JXG.JSXGraph.initBoard('box199_1', {boundingbox: [2, 0, 20, -20], showNavigation:false, showCopyright: false, axis:false});
+var a5 = brd1.create('slider',[[3,-2],[11,-2],[-5,0,5]], {name:'a_5'});
+var a4 = brd1.create('slider',[[3,-4],[11,-4],[-5,0,5]], {name:'a_4'});
+var a3 = brd1.create('slider',[[3,-6],[11,-6],[-5,0,5]], {name:'a_3'});
+var a2 = brd1.create('slider',[[3,-8],[11,-8],[-5,0,5]], {name:'a_2'});
+var a1 = brd1.create('slider',[[3,-10],[11,-10],[-5,0,5]], {name:'a_1'});
+var a0 = brd1.create('slider',[[3,-12],[11,-12],[-5,0,5]], {name:'a_0'});
+var button1 = brd1.create('button', [3, -15, 'Reset', function() {
+	a5.moveTo([7,-2]); 
+	a4.moveTo([7,-4]);
+	a3.moveTo([7,-6]);
+	a2.moveTo([7,-8]);
+	a1.moveTo([7,-10]);
+	a0.moveTo([7,-12]);
+	brd.update();
+}], {});
+
+var brd = JXG.JSXGraph.initBoard('box199', {boundingbox: [-10, 20, 10, -20], axis:true});
+
+var f = brd.create('functiongraph',[function(x){ 
+	return a5.Value()*x*x*x*x*x + a4.Value()*x*x*x*x + a3.Value()*x*x*x + a2.Value()*x*x + a1.Value()*x + a0.Value(); 
+}]);
+    
+a5.on('drag',function(){ brd.update();});
+a4.on('drag',function(){ brd.update();});
+a3.on('drag',function(){ brd.update();});
+a2.on('drag',function(){ brd.update();});
+a1.on('drag',function(){ brd.update();});
+a0.on('drag',function(){ brd.update();});
+</script>
+
+<h3 class='navigation'>Table of Contents</h3>
+
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/analysis/limits-of-polynomials-at-infinity.html'>Proposition: Limits of Polynomials at Infinity</a></li>
+<li><a href='https://bookofproofs.github.io/branches/analysis/eveness-oddness-of-polynomials.html'>Proposition: Eveness (Oddness) of Polynomials</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/analysis/polynomials.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

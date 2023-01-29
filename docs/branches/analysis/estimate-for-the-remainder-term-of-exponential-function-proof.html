@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of ESTIMATE FOR THE REMAINDER TERM OF EXPONENTIAL FUNCTION &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="exponential series,exponential function,proof,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/analysis/estimate-for-the-remainder-term-of-exponential-function.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/analysis/estimate-for-the-remainder-term-of-exponential-function.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/analysis/functional-equation-of-the-exponential-function.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/analysis/analysis.html'>Analysis</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/analysis/estimate-for-the-remainder-term-of-exponential-function.html'>Proposition: Estimate for the Remainder Term of Exponential Function</a>)</p>
+<p>Using the the definition of the <a href="https://bookofproofs.github.io/branches/analysis/exponential-function.html" title="Analysis / Proposition: Exponential Function">exponential series</a>, the <a href="https://bookofproofs.github.io/branches/analysis/the-distance-of-real-numbers-makes-real-numbers-a-metric-space.html" title="Analysis / Proposition: The distance of real numbers makes real numbers a metric space.">triangle inequality</a>, the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/distributivity-law-for-real-numbers.html" title="Number Systems Arithmetics / Proposition: Distributivity Law For Real Numbers">distributivity law for real numbers</a>, the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/properties-of-the-absolute-value.html" title="Number Systems Arithmetics / Corollary: Properties of the Absolute Value">properties of the absolute value for real numbers</a>, and the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/rules-of-calculations-with-inequalities.html" title="Number Systems Arithmetics / Corollary: Rules of Calculations with Inequalities">rules for calculating with inequalities or real numbers</a> we can estimate the remainder term of the exponential series as follows</p>
+<p>\[\begin{array}{rcll}
+|r_{N + 1}(x)|&amp;=&amp; \sum_{n=N+1}^\infty\frac{x^n}{n! }&amp;\text{definition of the exponential series}\\
+&amp;\le &amp;\sum_{n=N+1}^\infty\frac{|x|^n}{n! }&amp;\text{triangle inequality}\\
+&amp;=&amp;\frac{|x|^{N+1}}{(N+1)!}\left(1 + \frac{|x|}{N+2} + \frac{|x|^2}{(N+2)(N+3)} + \ldots + \frac{|x|^k}{(N+2)\cdot\ldots\cdot(N+k+1)} + \ldots \right)&amp;\text{properties of absolute value and distributivity law}\\
+&amp;\le&amp;\frac{|x|^{N+1}}{(N+1)!}\left(1 + \frac{|x|}{N+2} + \left(\frac{|x|}{(N+2)}\right)^2 + \ldots + \left(\frac{|x|}{(N+2)}\right)^k + \ldots \right)&amp;\text{rules for calculating with inequalities}\\
+\end{array}\]</p>
+<p>If we require that \(|x|\le\frac{N+2}{2}\) then we have 
+\[\frac{|x|}{N+2}\le \frac{\frac{N+2}{2}}{N+2}=\frac 12.\]</p>
+<p>Therefore, for \(|x|\le\frac{N+2}{2}\) it follows with the formula for the <a href="https://bookofproofs.github.io/branches/analysis/infinite-geometric-series.html" title="Analysis / Proposition: Infinite Geometric Series">infinite geometric series</a>.
+\[\begin{array}{rcl}
+|r_{N + 1}(x)|&amp;\le &amp; \frac{|x|^{N+1}}{(N+1)!}\left(1 + \frac{1}{2} + \frac{1}{4} + \ldots + \frac{1}{2^k}  + \ldots \right)\\
+&amp;=&amp;2\frac{|x|^{N+1}}{(N+1)!}.
+\end{array}\]</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/analysis/estimate-for-the-remainder-term-of-exponential-function-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Forster Otto</strong>: "Analysis 1, Differential- und Integralrechnung einer Veränderlichen", Vieweg Studium, 1983</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

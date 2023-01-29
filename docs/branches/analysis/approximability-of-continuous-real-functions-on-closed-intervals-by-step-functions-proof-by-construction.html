@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="PROOF BY CONSTRUCTION Proof of APPROXIMABILITY OF CONTINUOUS REAL FUNCTIONS ON CLOSED INTERVALS BY STEP FUNCTIONS &amp;#9733; master maths &amp;#10004; visit BookOfProofs!">
+<meta name="keywords" content="approximability,closed,continuous,functions,intervals,real,step,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/analysis/approximability-of-continuous-real-functions-on-closed-intervals-by-step-functions.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/analysis/approximability-of-continuous-real-functions-on-closed-intervals-by-step-functions.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/analysis/continuous-real-functions-on-closed-intervals-are-uniformly-continuous.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/analysis/analysis.html'>Analysis</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/analysis/approximability-of-continuous-real-functions-on-closed-intervals-by-step-functions.html'>Lemma: Approximability of Continuous Real Functions On Closed Intervals By Step Functions</a>)</p>
+<ul>
+<li>Let $[a,b]$ be a <a href="https://bookofproofs.github.io/branches/analysis/real-intervals.html" title="Analysis / Definition: Real Intervals">closed real interval</a>.</li>
+<li>Let $\mathbb R$ be the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html" title="Number Systems Arithmetics / Proposition: Definition of Real Numbers">set of real numbers</a>.</li>
+<li>Let \(f:[a,b]\mapsto \mathbb R\) a <a href="https://bookofproofs.github.io/branches/analysis/continuous-functions-at-single-real-numbers.html" title="Analysis / Definition: Continuous Functions at Single Real Numbers">continuous function</a>.</li>
+<li>It is to be shown that for every \(\epsilon &gt; 0\) there exist some <a href="https://bookofproofs.github.io/branches/analysis/step-functions.html" title="Analysis / Definition: Step Functions">step functions</a> \(\phi:[a,b]\mapsto\mathbb R\) and \(\psi:[a,b]\mapsto\mathbb R\) with $(i)$ $\phi(x) \le f(x)\le \psi(x)$ and $(ii)$ $|\phi(x)-\psi(x)|\le\epsilon$ for all $x\in[a,b].$ This will be shown by construction.<ul>
+<li>Because all <a href="https://bookofproofs.github.io/branches/analysis/continuous-real-functions-on-closed-intervals-are-uniformly-continuous.html" title="Analysis / Theorem: Continuous Real Functions on Closed Intervals are Uniformly Continuous">continuous real functions on closed intervals are uniformly continuous</a>, so is $f$.</li>
+<li>This means that for every $\epsilon &gt; 0$ there is a $\delta &gt; 0$ such that $|f(x)-f(y)| &lt; \frac\epsilon2$ for all $x,y\in D$ with $|x-y| &lt; \delta.$</li>
+<li>Because of the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/existence-of-arbitrarily-small-positive-rational-numbers.html" title="Number Systems Arithmetics / Corollary: Existence of Arbitrarily Small Positive Rational Numbers">existence of arbitrarily small positive rational numbers</a>, we can choose a <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/set-theoretic-definitions-of-natural-numbers-ernst-zermelo-1908-john-von-neumann-1923.html" title="Number Systems Arithmetics / Definition: Set-theoretic Definitions of Natural Numbers">natural number</a> \(n\) big enough such that $\frac 1n &lt; \delta/(b-a)$, or, equivalently $\frac {b-a}n &lt; \delta$.</li>
+<li>By setting $$t_k:=a+k\frac{b-a}n,\quad k=0,1,\ldots, n,$$ we get an equidistant partition of the closed interval $[a,b]$ with $a=t_0 &lt; t_1 &lt; \ldots &lt; t_n=b.$</li>
+<li>Set $\phi(a):=\psi(a):=f(a)$, and for $k=1,\ldots,n$ and $t_{k-1} &lt; x\le t_k$ set $$\phi(x):=f(t_k)-\frac\epsilon2,\quad \psi(x):=f(t_k)+\frac\epsilon2.$$</li>
+<li>By construction, it follows that $|\phi(x)-\psi(x)|\le\epsilon$ for all $x\in[a,b],$ thus $(2)$ is proven.</li>
+<li>For all \(x\in ]t_{k-1},t_k]\) we have by construction $$-\frac \epsilon2 &lt; f(x)-f(t_k) &lt; \frac \epsilon2,$$ thus $$\phi(x) = f(t_k)-\frac \epsilon2 &lt; f(x) &lt; f(t_k) + \frac \epsilon2=\psi(x),$$ therefore  $\phi(x) \le f(x)\le \psi(x)$  for all $x\in[a,b],$ thus $(1)$ is proven.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/analysis/approximability-of-continuous-real-functions-on-closed-intervals-by-step-functions-proof-by-construction.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Forster Otto</strong>: "Analysis 1, Differential- und Integralrechnung einer Veränderlichen", Vieweg Studium, 1983</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of DISTANCE OF COMPLEX NUMBERS MAKES COMPLEX NUMBERS A METRIC SPACE. ★ master graduate maths ✔ visit BookOfProofs now!">
+<meta name="keywords" content="distance of complex numbers,complex metric space,triangle inequality,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/analysis/distance-of-complex-numbers-makes-complex-numbers-a-metric-space.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/analysis/distance-of-complex-numbers-makes-complex-numbers-a-metric-space.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/analysis/complex-convergent-sequences-are-bounded.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/analysis/analysis.html'>Analysis</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/analysis/distance-of-complex-numbers-makes-complex-numbers-a-metric-space.html'>Proposition: The distance of complex numbers makes complex numbers a metric space.</a>)</p>
+<p>For any elements $z,z_1,z_2\in\mathbb C$ of the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-complex-numbers-together-with-addition-and-multiplication.html" title="Number Systems Arithmetics / Proposition: Algebraic Structure of Complex Numbers Together with Addition and Multiplication">field of complex numbers</a> $(\mathbb C, + ,\cdot)$ with $z=z_1=:(a,b)$ and $z_2=(c,d)$ ($a,b,c,d\in\mathbb R$):</p>
+<h3>Ad $(1)$</h3>
+<ul>
+<li>By the definition of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/absolute-value-of-complex-numbers.html" title="Number Systems Arithmetics / Definition: Absolute Value of Complex Numbers">absolute value of complex numbers</a>, $|z|=\sqrt{a^2+b^2}=0$ </li>
+<li>if and only if $\sqrt{a^2+b^2}=0,$ </li>
+<li>if and only if $a=0$ and $b=0,$</li>
+<li>if and only if $x=(0,0).$</li>
+</ul>
+<h3>Ad $(2)$</h3>
+<ul>
+<li>By the definition of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/subtraction-of-complex-numbers.html" title="Number Systems Arithmetics / Definition: Subtraction of Complex Numbers">subtraction of complex numbers</a>, we get $|z_1-z_2|=\sqrt{(a-c)^2+(b-d)^2}$</li>
+<li>$=\sqrt{(c-a)^2+(d-b)^2}$ because $x^2=(-x)^2$ for all real numbers,</li>
+<li>$=|z_2-z_1|$ by definition.</li>
+</ul>
+<h3>Ad $(3)$</h3>
+<ul>
+<li>Note that for every complex number $z$ we have that its <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-complex-numbers.html" title="Number Systems Arithmetics / Definition: Definition of Complex Numbers">real part</a> is smaller or equal<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup> than its absolute value $\Re(z)\le |z|.$</li>
+<li>Given the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/complex-conjugate.html" title="Number Systems Arithmetics / Definition: Complex Conjugate">complex conjugate</a> $z_2^*$, we get therefore the inequality $$\Re(z_1z_2^*)\le |z_1z_2^*|=|z_1||z_2^*|=|z_1||z_2|.$$</li>
+<li>Therefore, $$\begin{array}{rcl}|z_1+z_2|^2&amp;=&amp;(z_1+z_2)(z_1^*+z_2^*)\\&amp;=&amp;z_1z_1^*+z_1z_2^*+z_2z_2^*+z_2z_2^*\\&amp;=&amp;|z_1|^2+2\Re(z_1z_2^*)+|z_2|^2\\&amp;\le&amp;|z_1|^2+2|z_1||z_2|+|z_2|^2\\&amp;=&amp;(|z_1|+|z_2|)^2\end{array}$$</li>
+<li>Taking the <a href="https://bookofproofs.github.io/branches/analysis/square-roots.html" title="Analysis / Proposition: Square Roots">square root</a> on both sides of the inequality yields the <em>triangle inequality</em> $$|z_1+z_2|\le |z_1|+|z_2|.$$</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/analysis/distance-of-complex-numbers-makes-complex-numbers-a-metric-space-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Forster Otto</strong>: "Analysis 1, Differential- und Integralrechnung einer Veränderlichen", Vieweg Studium, 1983</li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>This is not only algebraically, but also geometrically clear if you think of a complex number as a point in the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-complex-numbers.html" title="Number Systems Arithmetics / Definition: Definition of Complex Numbers">complex plane</a> with two coordinates - the real part, and the imaginary part.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="IMPROPER INTEGRAL ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="improper integral,improper integrals,converge,converges,convergent">
+<title>Improper Integral</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/analysis/extended-concept-of-the-riemann-integral-the-improper-integral.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/analysis/extended-concept-of-the-riemann-integral-the-improper-integral.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/analysis/riemann-stieltjes-integral.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/analysis/analysis.html'>Analysis</a> / Definition: Improper Integral</h3>
+
+<hr>
+
+<h1>Definition: Improper Integral</h1>
+<p>The <strong>improper integral</strong> is defined as the limit of a <a href="https://bookofproofs.github.io/branches/analysis/convergent-real-sequence.html" title="Analysis / Definition: Convergent Real Sequence">convergent sequence</a> of <a href="https://bookofproofs.github.io/branches/analysis/riemann-integrable-functions.html" title="Analysis / Definition: Riemann-Integrable Functions">Riemann integrals</a> for the following three cases. We also say that the improper integral <strong>converges</strong> (or is <strong>convergent</strong>).</p>
+<h3>Case 1: Unbounded Intervals</h3>
+<p>Let $f:[a,\infty)$ be a <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html" title="Number Systems Arithmetics / Proposition: Definition of Real Numbers">real-valued</a> <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">function</a> such that </p>
+<ul>
+<li>$f$ is <a href="https://bookofproofs.github.io/branches/analysis/riemann-integrable-functions.html" title="Analysis / Definition: Riemann-Integrable Functions">Riemann-integrable</a> for all <a href="https://bookofproofs.github.io/branches/analysis/real-intervals.html" title="Analysis / Definition: Real Intervals">closed intervals</a> $[a,b]$ for $a &lt; b &lt; \infty$ and</li>
+<li>the <a href="https://bookofproofs.github.io/branches/analysis/limits-of-real-functions.html" title="Analysis / Definition: Limits of Real Functions">limit</a>  $\lim_{b\to\infty}\int_a^bf(x)dx$ exists.</li>
+</ul>
+<p>Then we set the improper interval to this limit:</p>
+<p>$$\int_a^\infty f(x)dx:=\lim_{b\to\infty}\int_a^bf(x)dx$$ </p>
+<p>Analogously, if $f:(\infty,b]$ is a real-valued function such that </p>
+<ul>
+<li>$f$ is Riemann-integrable for all closed intervals $[a,b]$ for $-\infty &lt; a &lt; b$ and</li>
+<li>the limit $\lim_{a\to-\infty}\int_a^bf(x)dx$ exists,</li>
+</ul>
+<p>then we set </p>
+<p>$$\int_{-\infty}^b f(x)dx:=\lim_{a\to-\infty}\int_a^bf(x)dx.$$ </p>
+<h3>Case 2: The Riemann integral is undefined on one or even two integration endpoints</h3>
+<p>If $f:[a,b)\to\mathbb R$ is a function such that </p>
+<ul>
+<li>$f$ is Riemann-integrable for all closed intervals $[a,b-\epsilon]$ for all $\epsilon &gt; 0$ and</li>
+<li>the limit $\lim_{\epsilon\searrow 0}\int_a^{b-\epsilon}f(x)dx$ exists,</li>
+</ul>
+<p>then we set </p>
+<p>$$\int_a^b f(x)dx:=\lim_{\epsilon\searrow 0}\int_a^{b-\epsilon}f(x)dx.$$ </p>
+<p>Analogously, if $f:(a,b]\to\mathbb R$</p>
+<ul>
+<li>is Riemann-integrable for all closed intervals $[a+\epsilon,b]$ for all $\epsilon &gt; 0$ and</li>
+<li>the limit $\lim_{\epsilon\searrow 0}\int_{a+\epsilon}^{b}f(x)dx$ exists,</li>
+</ul>
+<p>then we set </p>
+<p>$$\int_a^b f(x)dx:=\lim_{\epsilon\searrow 0}\int_{a+\epsilon}^bf(x)dx.$$ </p>
+<h3>Case 3: Mixed case, both endpoints of the improper integral are critical</h3>
+<p>Let $f:(a,b)\to\mathbb R$ for $a\in\mathbb R\cup \{-\infty\}$ and $b\in\mathbb R\cup \{+\infty\}$ ($a,b$ being elements of the <a href="https://bookofproofs.github.io/branches/analysis/extended-real-numbers.html" title="Analysis / Definition: Extended Real Numbers">extended real numbers</a>) is a function and let $c\in(a,b)$ be given<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>. If</p>
+<ul>
+<li>$f$ is Riemann-integrable for all closed intervals $[\alpha,\beta]\subset (a,b)$ and</li>
+<li>the limits $\lim_{\alpha\searrow a}\int_\alpha^{c}f(x)dx$ and $\lim_{\beta\nearrow b}\int_c^{\beta}f(x)dx$ both exist,</li>
+</ul>
+<p>then we set </p>
+<p>$$\int_a^b f(x)dx:=\lim_{\alpha\searrow a}\int_\alpha^{c}f(x)dx+\lim_{\beta\nearrow b}\int_c^{\beta}f(x)dx.$$</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/analysis/improper-integral.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Forster Otto</strong>: "Analysis 1, Differential- und Integralrechnung einer Veränderlichen", Vieweg Studium, 1983</li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Note that this definition is independent of the specific choice of $c\in(a,b).$ This is because by hypothesis, $f$ is Riemann-integrable for all closed intervals $[\alpha,\beta]\subset (a,b)$ and the <a href="https://bookofproofs.github.io/branches/analysis/integrals-on-adjacent-intervals.html" title="Analysis / Proposition: Integrals on Adjacent Intervals">integrals can be summed to the same value on any adjacent intervals</a>.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

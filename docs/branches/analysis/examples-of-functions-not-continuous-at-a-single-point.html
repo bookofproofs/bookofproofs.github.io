@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="EXAMPLES OF FUNCTIONS NOT CONTINUOUS AT A SINGLE POINT &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="continuous,examples,functions,not,point,proof,single">
+<title>Examples of Functions Not Continuous at a Single Point</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/analysis/examples-of-functions-continuous-at-a-single-point.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/analysis/continuous-functions-at-single-real-numbers.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/analysis/compositions-of-continuous-functions-on-a-whole-domain.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/analysis/analysis.html'>Analysis</a> / Example: Examples of Functions Not Continuous at a Single Point</h3>
+
+<hr>
+
+<h1>Example: Examples of Functions Not Continuous at a Single Point</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/analysis/continuous-functions-at-single-real-numbers.html'>Definition: Continuous Functions at Single Real Numbers</a>)</p>
+<p>The following are examples of real functions, which are <a href="https://bookofproofs.github.io/branches/analysis/continuous-functions-at-single-real-numbers.html" title="Analysis / Definition: Continuous Functions at Single Real Numbers">not continuous at single points</a>.</p>
+<h3>Example 1:</h3>
+<p>The function $f:\mathbb R\to \mathbb R$, 
+$$f(x):= \begin{cases}
+-1&amp;\text{if }x &lt; 0\\
+1&amp;\text{if }x \ge 0
+\end{cases}$$ is not continuous at the point $x=0$.</p>
+<div id="box68791a" class="jxgbox centered" style="width:500px; max-width:100%; height:500px;"></div>
+
+
+<script type="text/javascript">
+var brd1 = JXG.JSXGraph.initBoard('box68791a', {boundingbox: [-1, 1.5, 1, -1.5], axis:true});
+var f = brd1.create('functiongraph',[function(x){ 
+	if (lt(x,0)) {
+		return -1;
+	} else {
+		return 1;
+	}
+}]);
+
+</script>
+
+<p><em>Proof</em>: 
+* Let $f(x):=-1$, if $x &lt; 0$ and $f(x)=1$ else. 
+* Assume $f$ is continuous at $0$ and its limit equals $L\in\mathbb R$, i.e. $\lim_{x\to 0}f(x)=L.$
+* This means by definition that for all $\epsilon &gt; 0$ there is a $\delta &gt; 0$ such that for all $x$ satisfying $0 &lt; |x| &lt; \delta$ we have $|f(x)-L| &lt; \epsilon.$ 
+* Now, we will find an $\epsilon &gt; 0$, for which this condition does not hold. We will show that $\epsilon = 1$ will do. Let $\delta &gt; 0$ be given.
+* Let $x_1:=\frac\delta2$ and $x_2:=-\frac\delta2.$ 
+* Note that $0 &lt; |x_1|,|x_2| = \frac\delta2 &lt; \delta.$
+* Also note that $f(x_1)=1$ and $f(x_2)=-1.$ 
+* Now, if $|f(x_1) - L| &lt; \epsilon=1$ and $|f(x_2) - L| &lt; \epsilon=1$, it would follow that $2=\epsilon + \epsilon  &gt; |f(x_1) - L| + |f(x_2) - L| = |f(x_1) - L| + |L - f(x_2)| \ge |f(x_1) - L + L - f(x_2)|=|f(x_1) - f(x_2)|=2$, i.e. that $2 &gt; 2.$
+* Since $2 &gt; 2$ is a contradition, the assumption must be wrong and $f$ has no limit at $x=0$.</p>
+<h3>Example 2:</h3>
+<p>The function $f:\mathbb R\to \mathbb R$, $f(x):=\sin\left(\frac 1x\right)$ is not continuous at the point $x=0$.</p>
+<div id="box6879a" class="jxgbox centered" style="width:500px; max-width:100%; height:500px;"></div>
+
+
+<script type="text/javascript">
+
+var brd = JXG.JSXGraph.initBoard('box6879a', {boundingbox: [-1, 1.5, 1, -1.5], axis:true});
+
+var f = brd.create('functiongraph',[function(x){ 
+	return Math.sin(1/x); 
+}]);
+</script>
+
+<p><em>Proof</em>: 
+* Let $f(x)=\sin\left(\frac 1x\right).$
+* Assume $f$ is continuous at $0$ and its limit equals $L\in\mathbb R$, i.e. $\lim_{x\to 0}f(x)=L.$
+* This means by definition that for all $\epsilon &gt; 0$ there is a $\delta &gt; 0$ such that for all $x$ satisfying $0 &lt; |x| &lt; \delta$ we have $|f(x)-L| &lt; \epsilon.$ 
+* Now, we will find an $\epsilon &gt; 0$, for which this condition does not hold. We will show that $\epsilon = 1$ will do. Let $\delta &gt; 0$ be given.
+* Select an integer $k &gt; \frac{1}{2\pi\delta}.$ Let $x_1:=\frac{2}{(4k+1)\pi}$ and $x_2:=\frac{2}{(4k+3)\pi}.$ 
+* Note that $0 &lt; |x_1|,|x_2| &lt; \frac{2}{4k\pi} &lt; \delta.$
+* Also note that $f(x_1)=\sin\left(\left(2k+\frac 12\right)\pi\right)=1$ and $f(x_2)=\sin\left(\left(2k+\frac 32\right)\pi\right)=-1.$ 
+* Now, if $|f(x_1) - L| &lt; \epsilon=1$ and $|f(x_2) - L| &lt; \epsilon=1$, it would follow that $2=\epsilon + \epsilon  &gt; |f(x_1) - L| + |f(x_2) - L| = |f(x_1) - L| + |L - f(x_2)| \ge |f(x_1) - L + L - f(x_2)|=|f(x_1) - f(x_2)|=2$, i.e. that $2 &gt; 2.$
+* Since $2 &gt; 2$ is a contradition, the assumption must be wrong and $f$ has no limit at $x=0$.</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/analysis/examples-of-functions-not-continuous-at-a-single-point.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Kane, Jonathan</strong>: "Writing Proofs in Analysis", Springer, 2016</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

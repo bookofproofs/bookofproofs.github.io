@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="COMPLEX EXPONENTIAL FUNCTION &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="(p4.x()-p3.x()),p3.y()+t,complex,complex exponential series,exponential,function">
+<title>Complex Exponential Function</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/analysis/types-of-complex-functions.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/analysis/types-of-complex-functions.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/analysis/complex-exponential-function-proof.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/analysis/analysis.html'>Analysis</a> / Proposition: Complex Exponential Function</h3>
+
+<hr>
+
+<h1>Proposition: Complex Exponential Function</h1>
+<p>The <strong>complex exponential series</strong> </p>
+<p>\[\sum_{n=0}^\infty\frac{z^n}{n!}\]</p>
+<p>is an <a href="https://bookofproofs.github.io/branches/analysis/absolutely-convergent-complex-series.html" title="Analysis / Definition: Absolutely Convergent Complex Series">absolutely convergent complex series</a> for every <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/complex-numbers-are-two-dimensional-and-the-complex-numbers-1-and-imaginary-unit-i-form-their-basis.html" title="Number Systems Arithmetics / Lemma: Complex Numbers are Two-Dimensional and the Complex Numbers `\(1\)` and Imaginary Unit `\(i\)` Form Their Basis">complex number</a> \(z\in\mathbb C\). It defines a <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">function</a> \(\exp:\mathbb C\mapsto \mathbb C\), called the <strong>complex exponential function</strong> for all \(z\in\mathbb C\).</p>
+<p>\[\exp(x):=\sum_{n=0}^\infty\frac{z^n}{n!},\quad\quad z\in\mathbb R.\]</p>
+<p>In the following interactive figure, in the "\(z\)-plane", you can drag the circle's midpoint, drag the segment's endpoints or change the radius of the circle and get a feeling of how the complex exponential function deforms their images    in the "\(w\)-plane".</p>
+<p>\(z\)-Plane</p>
+<div><div id="boxZ312" class="jxgbox centered" style="max-width:400px; height:400px;"></div></div>
+
+<p>\(w\)-Plane</p>
+<div><div id="boxW312" class="jxgbox centered" style="max-width:400px; height:400px;"></div></div>
+
+
+<script type="text/javascript">
+ var boardZ = JXG.JSXGraph.initBoard('boxZ312', {boundingbox: [-10, 10, 10, -10], showCopyright: false, axis:true, grid:false});
+ var p1 = boardZ.create('point',[-1,0], {name:'A',size: 2, face: 'o'});
+ var p2 = boardZ.create('point',[1.5,-1], {name:'B',size: 2, face: 'o'});
+ var ci = boardZ.create('circle',["A","B"], {strokeColor:'#0000ff', strokeWidth:1, fillColor:'#00ff00', fillOpacity:0.5});
+ ci.on('drag', function(){ transform();});
+ p1.on('drag', function(){ transform();});
+ p2.on('drag', function(){ transform();});
+ var p3 = boardZ.create('point',[1.5,-6.3], {name:'C',size: 2, face: 'o'});
+ var p4 = boardZ.create('point',[0.5,2], {name:'D',size: 2, face: 'o'});
+ var li2 = boardZ.create('line',[p3,p4], {straightFirst:false, straightLast:false, strokeWidth:2, strokeColor:"#ff00ff"});
+ p3.on('drag', function(){ transform();});
+ p4.on('drag', function(){ transform();});
+ li2.on('drag', function(){ transform();});
+ 
+
+
+ 
+var boardW = JXG.JSXGraph.initBoard('boxW312', {boundingbox: [-10, 10, 10, -10], showCopyright: false, axis:true, grid:false});
+
+ // image of circle's mid point
+ var compc=complexFunction (p1.X(),p1.Y());
+ var p1w=boardW.create('point',[compc.real,compc.imaginary], {size:2, name:'exp(A)', fixed:true});
+ 
+// image of segment's ends
+ var compc=complexFunction (p3.X(),p3.Y());
+ var p3w=boardW.create('point',[compc.real,compc.imaginary], {size:2, name:'exp(C)', fixed:true});
+ var compc=complexFunction (p4.X(),p4.Y());
+ var p4w=boardW.create('point',[compc.real,compc.imaginary], {size:2, name:'exp(D)', fixed:true});
+
+ 
+ // image of circle
+ var pArrW = [];
+
+ var N=160;
+ var indexOfPointB=0;
+ var rad=ci.Radius();
+ for (var i=0; lt(i,N); i++) {
+	 var t=i/N;
+	 if (lt(Math.abs(ci.X(t)-p2.X())+Math.abs(ci.Y(t)-p2.Y()),0.05) ) {
+		 indexOfPointB=i; // calculate, which one is the image point of point B and remember it for transform()
+		 var compc=complexFunction (ci.X(t),ci.Y(t));
+		 pArrW[i] = boardW.create('point',[compc.real,compc.imaginary], {size:2, name:'exp(B)', fixed:true});
+	 } else {
+		 var compc=complexFunction (ci.X(t),ci.Y(t));
+		 pArrW[i] = boardW.create('point',[compc.real,compc.imaginary], {size:1, name:'', fixed:true,visible:false});
+	 }
+ }
+ var polW = boardW.create('polygon',pArrW, {fillOpacity:0.5});
+ 
+ // image of segment
+ var x=[];
+ var y=[];
+ for (var i=0; le(i,N); i++) {
+	 var t=i/N;
+	 var compc=complexFunction (p3.X()+t*(p4.X()-p3.X()),p3.Y()+t*(p4.Y()-p3.Y()));
+	 x[i]=compc.real;
+	 y[i]=compc.imaginary;
+ }
+ var segment = boardW.create('curve', [x,y], {strokeWidth:2, strokeColor:"#ff00ff", fixed:true});
+ 
+
+
+ var offset=0;
+ 
+
+ 
+ function transform() {
+	 // update circle
+	 for (var i=0; lt(i,N); i++) {
+		 var t=i/N;
+		 if (lt(Math.abs(ci.X(t)-p2.X())+Math.abs(ci.Y(t)-p2.Y()),0.1) ) {
+			 offset=i; break; // calculate, which point is the image of point B this time.
+		 }
+	 }
+	 var j=0;
+	 do {
+		 var t=(offset+j)/N;
+		 var compc=complexFunction (ci.X(t),ci.Y(t)); // when j==0, the image of point B is computed
+		 pArrW[(indexOfPointB+j) % N].setPosition(JXG.COORDS_BY_USER,[compc.real,compc.imaginary]);
+		 j=j+1
+	 } while (lt(j,N));
+
+	 
+	 // update circle's mid point
+	 var compc=complexFunction (p1.X(),p1.Y()); 
+	 p1w.setPosition(JXG.COORDS_BY_USER,[compc.real,compc.imaginary]);
+
+	 // update segment's ends
+	 compc=complexFunction (p3.X(),p3.Y()); 
+	 p3w.setPosition(JXG.COORDS_BY_USER,[compc.real,compc.imaginary]);
+	 compc=complexFunction (p4.X(),p4.Y()); 
+	 p4w.setPosition(JXG.COORDS_BY_USER,[compc.real,compc.imaginary]);
+
+	 // update segment
+	 var x=[];
+	 var y=[];
+	 for (var i=0; lt(i,N); i++) {
+		 var t=i/N;
+		 compc=complexFunction (p3.X()+t*(p4.X()-p3.X()),p3.Y()+t*(p4.Y()-p3.Y()));
+		 x[i]=compc.real;
+		 y[i]=compc.imaginary;
+	 }
+	 segment.dataX=x;
+	 segment.dataY=y;
+	 boardW.update();
+ }  
+
+ function complexFunction(x,y) {
+         var w=new JXG.Complex(Math.exp(x),0); // exp(x)
+         var w1=new JXG.Complex(Math.cos(y),0); // cos(y)
+         var w2=new JXG.Complex(0,Math.sin(y)); // i*sin(y)
+         w1.add(w2); // exp(iy) Euler's Formula
+         w.mult(w1); // exp(z)
+	 return w;
+
+ }
+
+</script>
+
+<h3 class='navigation'>Table of Contents</h3>
+
+<p>Proofs: <a href='https://bookofproofs.github.io/branches/analysis/complex-exponential-function-proof.html'>1</a> </p>
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/analysis/estimate-for-the-remainder-term-of-complex-exponential-function.html'>Proposition: Estimate for the Remainder Term of Complex Exponential Function</a></li>
+<li><a href='https://bookofproofs.github.io/branches/analysis/functional-equation-of-the-complex-exponential-function.html'>Proposition: Functional Equation of the Complex Exponential Function</a></li>
+<li><a href='https://bookofproofs.github.io/branches/analysis/exp-of-0-equals-1-complex-case.html'>Proposition: \(\exp(0)=1\) (Complex Case)</a></li>
+<li><a href='https://bookofproofs.github.io/branches/analysis/continuity-of-complex-exponential-function.html'>Proposition: Continuity of Complex Exponential Function</a></li>
+<li><a href='https://bookofproofs.github.io/branches/analysis/complex-conjugate-of-complex-exponential-function.html'>Proposition: Complex Conjugate of Complex Exponential Function</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/analysis/complex-exponential-function.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

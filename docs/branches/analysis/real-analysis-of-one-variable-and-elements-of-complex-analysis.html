@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="REAL ANALYSIS OF ONE VARIABLE AND ELEMENTS OF COMPLEX ANALYSIS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!">
+<meta name="keywords" content="real analysis of one variable,elements of complex analysis">
+<title>Real Analysis of One Variable and Elements of Complex Analysis</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/analysis/avoidance-of-negative-solutions-descartes-analysis-and-synthesis.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/analysis/analysis.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/analysis/basics-of-real-analysis-of-one-variable.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/analysis/analysis.html'>Analysis</a> / Part: Real Analysis of One Variable and Elements of Complex Analysis</h3>
+
+<hr>
+
+<h1>Part: Real Analysis of One Variable and Elements of Complex Analysis</h1>
+<p>This part of <strong><span style='color:orange'>Bookof</span><span style='color:lightblue'>Proofs</span></strong> deals with the analysis of real-valued (and whenever applicable also complex-valued) functions with one variable, i.e. the functions of the form $f:\mathbb R\mapsto \mathbb R$ or $f:\mathbb C\mapsto \mathbb C,$ $x\mapsto f(x)$. 
+Using the <a href="https://bookofproofs.github.io/branches/introduction.html" title="Branches / Branch: Introduction to the Axiomatic Method">axiomatic method</a>, it systematically derives some basic concepts like <a href="https://bookofproofs.github.io/branches/topology/sequences-and-limits.html" title="Topology / Chapter: Sequences and Limits">sequences and limits</a>, <a href="https://bookofproofs.github.io/branches/analysis/infinite-series-overview.html" title="Analysis / Chapter: Infinite Series - Overview">infinite series</a>, and basic properties of functions. </p>
+<p>Although there is another part dedicated solely to complex analysis, in which you can find deeper results applicable for complex numbers only, there are lots of concepts that are applicable for both, <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html" title="Number Systems Arithmetics / Proposition: Definition of Real Numbers">real</a> ($\mathbb R$) and <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-complex-numbers.html" title="Number Systems Arithmetics / Definition: Definition of Complex Numbers">complex</a> ($\mathbb C$) numbers, or even <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-rational-numbers.html" title="Number Systems Arithmetics / Proposition: Definition of Rational Numbers">rational numbers</a> ($\mathbb Q$), <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Number Systems Arithmetics / Proposition: Definition of Integers">integers</a> ($\mathbb Z$) or <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/set-theoretic-definitions-of-natural-numbers-ernst-zermelo-1908-john-von-neumann-1923.html" title="Number Systems Arithmetics / Definition: Set-theoretic Definitions of Natural Numbers">natural numbers</a> ($\mathbb N$). In order to avoid unnecessary repetition of basic concepts, we will introduce them only once in this part. Whenever a theorem or definition can be used in the domain of the respective number system, we will use a marker </p>
+<blockquote>
+<p>applicability: $\mathbb {N, Z, Q, R , C}$</p>
+</blockquote>
+<p>listing all number system, it s applicable to.</p>
+<h3>Prerequisites to start learning calculus of one variable</h3>
+<p>Before you start further reading, you should be familiar / revise your knowledge about the following areas:</p>
+<ul>
+<li><a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">Sets</a> and their properties, including set manipulation (e.g. <a href="https://bookofproofs.github.io/branches/set-theory/set-union.html" title="Set Theory / Definition: Set Union">union</a>, <a href="https://bookofproofs.github.io/branches/set-theory/set-intersection.html" title="Set Theory / Definition: Set Intersection">intersection</a>, <a href="https://bookofproofs.github.io/branches/set-theory/set-difference.html" title="Set Theory / Definition: Set Difference">difference</a>),</li>
+<li><a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">Functions</a> and their <a href="https://bookofproofs.github.io/branches/set-theory/composition-of-functions.html" title="Set Theory / Lemma: Composition of Functions">composition</a>,</li>
+<li><a href="https://bookofproofs.github.io/branches/logic/methods-of-mathematical-proving.html" title="Logic / Part: Methods of Mathematical Proving">Methods of mathematical proving</a>, in particular, the <a href="https://bookofproofs.github.io/branches/logic/proving-principle-by-complete-induction.html" title="Logic / Lemma: The Proving Principle by Complete Induction">proving principle of induction</a>,</li>
+<li><a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/sums.html" title="Number Systems Arithmetics / Definition: Sums">Sums</a> and <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/sum-manipulation-methods.html" title="Number Systems Arithmetics / Chapter: Sum Manipulation Methods">methods of their manipulation</a>,</li>
+<li>The sets of different <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html" title="Number Systems Arithmetics / Branch: Number Systems and Arithmetics">number systems</a>, including <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/set-theoretic-definitions-of-natural-numbers-ernst-zermelo-1908-john-von-neumann-1923.html" title="Number Systems Arithmetics / Definition: Set-theoretic Definitions of Natural Numbers">natural numbers</a>, $\mathbb N$,  <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Number Systems Arithmetics / Proposition: Definition of Integers">integers</a> $\mathbb Z$, <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-rational-numbers.html" title="Number Systems Arithmetics / Proposition: Definition of Rational Numbers">rational numbers</a> $\mathbb Q$, and, last but not least, <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-real-numbers.html" title="Number Systems Arithmetics / Proposition: Definition of Real Numbers">real numbers</a> $\mathbb R$, which are the most important mathematical objects we will be dealing with in this part of <strong><span style='color:orange'>Bookof</span><span style='color:lightblue'>Proofs</span></strong>. </li>
+</ul>
+<h3>Theoretical minimum (in a nutshell)</h3>
+<p>Ideally, you should be already acquainted with the following facts:</p>
+<ul>
+<li>There are two basic operations defined for the real numbers $\mathbb R$, i.e. the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-real-numbers.html" title="Number Systems Arithmetics / Proposition: Addition of Real Numbers">addition</a> "$+$" and the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-real-numbers.html" title="Number Systems Arithmetics / Proposition: Multiplication of Real Numbers">multiplication</a> "$\cdot$". </li>
+<li>Together with these two operations, the real numbers form an algebraic structure $(\mathbb R, +,\cdot)$, called the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/algebraic-structure-of-real-numbers-together-with-addition-and-multiplication.html" title="Number Systems Arithmetics / Proposition: Algebraic Structure of Real Numbers Together with Addition and Multiplication">field of real numbers</a>. In a nutshell, this means that all calculations involving real numbers, let's call them $x,y,z\in\mathbb R$, obey the following rules:<ul>
+<li>The addition is <em>associative</em> $(x+y)+z=x+(y+z)$ and <em>commutative</em> $x+y=y+x$.</li>
+<li>The multiplication is <em>associative</em> $(x\cdot y)\cdot z=x\cdot (y\cdot z)$ and <em>commutative</em> $x\cdot y=y\cdot x$.</li>
+<li>There is a unique real number, called <em>zero</em> and denoted by $0$, which is neutral with respect to addition: $x+0=0+x=x$ for all $x\in\mathbb R$. </li>
+<li>There is a unique real number, called <em>one</em> and denoted by $1$, which is neutral with respect to multiplication: $x\cdot 1=1\cdot x=x$ for all $x\in\mathbb R$.</li>
+<li>Each real number $x$ has a unique <em>additive inverse</em> $-x$, also called its <em>negative</em>, for which we have that $x-x:=x+(-x)=0$. In fact, this is how the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/subtraction-of-real-numbers.html" title="Number Systems Arithmetics / Definition: Subtraction of Real Numbers">subtraction of real numbers</a> "$-$" is defined.</li>
+<li>Each real number $x\neq 0$ has a unique <em>multiplicative inverse</em> $x^{-1}=\frac 1x$, also called its <em>reciprocal</em>, for which we have that $x\div x:=x\cdot \frac 1x=1$. In fact, this is how the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/division-of-real-numbers.html" title="Number Systems Arithmetics / Definition: Division of Real Numbers">division of real numbers</a> "$\div `$"is defined.</li>
+<li>When calculations involve both, the multiplication and addition, then the <em>distributivity laws</em> hold: $x(y+z)=xy+xz$ and $(x+y)z=xz+yz.$<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup></li>
+</ul>
+</li>
+<li>You should know some basic results following from the field properties of real numbers, including:<ul>
+<li>$-0=0$ (<a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/minus-zero-equals-zero-proof.html" title="Number Systems Arithmetics / Proof: (related to Corollary: `\(-0=0\)`)">proof</a>).</li>
+<li>$-(-x)=x$ for all $x\in\mathbb R$ (<a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/minus-minus-equals-plus-proof.html" title="Number Systems Arithmetics / Proof: (related to Corollary: `\(-(-x)=x\)`)">proof</a>), and other <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplying-negative-and-positive-real-numbers.html" title="Number Systems Arithmetics / Proposition: Multiplying Negative and Positive Real Numbers">rules for the multiplication of positive and negative numbers</a>.</li>
+<li>$x\cdot 0=0\cdot x=0$ for all  $x\in\mathbb R$ (<a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/zero-times-x-equals-zero-proof.html" title="Number Systems Arithmetics / Proof: (related to Corollary: `\(0x=0\)`)">proof</a>).</li>
+<li>$xy=0$ holds if and only if $x=0$ or $y=0$ (or both, <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/a-product-of-two-real-numbers-is-zero-if-and-only-if-at-least-one-of-these-numbers-is-zero-proof.html" title="Number Systems Arithmetics / Proof: (related to Corollary: A product of two real numbers is zero if and only if at least one of these numbers is zero.)">proof</a>).</li>
+<li>$-(x+y)=-x-y$ (<a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/distributivity-of-minus-before-brackets-proof.html" title="Number Systems Arithmetics / Proof: (related to Proposition: `\(-(x+y)=-x-y\)`)">proof</a>).</li>
+<li>The equality $a+x = b$ with the variable $x$ has exatly one solution: $b-a$ (<a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/unique-solvability-of-a-plus-x-equals-b-proof.html" title="Number Systems Arithmetics / Proof: (related to Proposition: Unique Solvability of `\(a+x=b\)`)">proof</a>).</li>
+<li>The equality $ax = b$ with the variable $x$ and $a\neq 0$ has exatly one solution: $\frac ba$ (<a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/unique-solvability-of-a-times-x-equals-b-proof.html" title="Number Systems Arithmetics / Proof: (related to Proposition: Unique Solvability of `$ax=b$`)">proof</a>).</li>
+<li>$\frac 1{xy}=\frac 1x\cdot \frac 1y$ for all  $x,y\in\mathbb R$ (<a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/reciprocal-of-product-equals-product-of-reciprocals-proof.html" title="Number Systems Arithmetics / Proof: (related to Proposition: `\((xy)^{-1}=x^{-1}y^{-1}\)`)">proof</a>)</li>
+</ul>
+</li>
+<li>Basically, the same rules apply for <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/complex-numbers.html" title="Number Systems Arithmetics / Part: Complex Numbers">complex numbers</a> $\mathbb C$ with the operations <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/addition-of-complex-numbers.html" title="Number Systems Arithmetics / Definition: Addition of Complex Numbers">addition</a> "$+$" and the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/multiplication-of-complex-numbers.html" title="Number Systems Arithmetics / Definition: Multiplication of Complex Numbers">multiplication</a> "$\cdot$". </li>
+<li>Any two real numbers $x,y\in\mathbb R$ can be ordered using the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/order-relation-of-real-numbers.html" title="Number Systems Arithmetics / Definition: Order Relation of Real Numbers">order relation</a> "$\le$" . This relation is <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/order-relation-for-real-numbers-is-strict-and-total.html" title="Number Systems Arithmetics / Proposition: Order Relation for Real Numbers is Strict and Total">strict and total</a>, i.e. only one of the following situations can be true (this is known as the <em>trichotomy property</em>): Either $x &lt; y$, or $x=y$, or $x &gt; y$. </li>
+<li>The above order relation is transitive, i.e. if $x \le y$ and $y \le z$, then $x \le z$.</li>
+<li>You should know some basic results for the "calculation of inequalities":<a href="https://www.bookofproofs.org/branches/rules-of-calculation-with-inequalities/">https://www.bookofproofs.org/branches/rules-of-calculation-with-inequalities/</a>.</li>
+<li>You should know that complex numbers cannot be ordered. </li>
+</ul>
+<h3>Concepts you will learn in this part of <strong><span style='color:orange'>Bookof</span><span style='color:lightblue'>Proofs</span></strong></h3>
+<ul>
+<li>Why are real numbers not <em>countable</em> while rational numbers are?</li>
+<li>What are real intervals and is the difference between open and closed intervals?</li>
+<li>Why we need yet another axiom (the <em>Archimedean axiom</em>) to fully describe the set $\mathbb R$ of real numbers? </li>
+<li>Absolute values of real and complex numbers and their properties</li>
+<li>What are <em>sequences of numbers</em> and what does it mean to <em>converge</em> and to <em>absolutely converge</em> against a <em>limit</em>?</li>
+<li>What are <em>Cauchy sequences</em> and why the sets of real numbers $\mathbb R$ and complex numbers $\mathbb C$ are said to <em>be complete</em>?</li>
+<li>You will learn about different types of real (and sometimes also complex) functions, e.g. including <em>polynomials</em>, <em>rational functions</em>, <em>nth powers</em>, the <em>logarithm</em>, and the <em>exponential</em> function,  <em>trigonometric functions</em></li>
+<li>You will learn which properties real functions might have, including being <em>bounded</em>, <em>continuous</em>, <em>monotonic</em>,  <em>differentiable</em>, <em>integrable</em>, etc.</li>
+<li>What are the different types of real infinite series and their properties, including their <em>convergence behaviour</em>, the <em>power</em>, <em>Taylor</em>, and <em>Fourier</em> series</li>
+<li>You will learn the <em>fundamental theorem of calculus</em> and its various applications.</li>
+</ul>
+<h3 class='navigation'>Table of Contents</h3>
+
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/analysis/basics-of-real-analysis-of-one-variable.html'>Chapter: Basics of Real Analysis of One Variable</a></li>
+<li><a href='https://bookofproofs.github.io/branches/analysis/real-valued-sequences-and-limits-of-sequences-and-functions.html'>Chapter: Real-valued Sequences and Limits of Sequences and Functions</a></li>
+<li><a href='https://bookofproofs.github.io/branches/analysis/completeness-of-real-numbers.html'>Chapter: Completeness of Real Numbers</a></li>
+<li><a href='https://bookofproofs.github.io/branches/analysis/criteria-for-convergence-of-sequences.html'>Chapter: Criteria for Convergence of Sequences</a></li>
+<li><a href='https://bookofproofs.github.io/branches/analysis/defining-properties-of-the-field-of-real-numbers.html'>Theorem: Defining Properties of the Field of Real Numbers</a></li>
+<li><a href='https://bookofproofs.github.io/branches/analysis/useful-inequalities.html'>Chapter: Useful Inequalities</a></li>
+<li><a href='https://bookofproofs.github.io/branches/analysis/properties-of-real-functions.html'>Chapter: Properties of Real Functions</a></li>
+<li><a href='https://bookofproofs.github.io/branches/analysis/types-of-real-functions.html'>Chapter: Types of Real Functions</a></li>
+<li><a href='https://bookofproofs.github.io/branches/analysis/infinite-series-overview.html'>Chapter: Infinite Series - Overview</a></li>
+<li><a href='https://bookofproofs.github.io/branches/analysis/infinite-products-overview.html'>Chapter: Infinite Products - Overview</a></li>
+<li><a href='https://bookofproofs.github.io/branches/analysis/representation-of-functions-as-taylor-series.html'>Chapter: Representation of Functions as Taylor Series</a></li>
+<li><a href='https://bookofproofs.github.io/branches/analysis/power-series-overview.html'>Chapter: Power Series Introduction</a></li>
+<li><a href='https://bookofproofs.github.io/branches/analysis/fourier-series.html'>Chapter: Fourier Series</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/analysis/real-analysis-of-one-variable-and-elements-of-complex-analysis.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Here, we have used a short notation for multiplication, omitting the dot "$\cdot$". Note that the distributity laws cover subtraction as a special case of addition: $x(y-z)=xy-xz$ and $(x-y)z=xz-yz$. However, they only sometimes cover division as a special case of multiplication: Although we have $(x+y)\div z=x\div z+y\div z$, for $z\neq 0$, in general we have  $x\div (y+z)\neq x\div y+x\div z$ for $(y+z)\neq 0$. This is because the multiplicative inverse element of $(y+z)$ equals $\frac 1{y+z}$, and does not equal $\frac 1 y+\frac 1z$ (which is $\frac{z+y}{yz}$ rather than $\frac 1{y+z}$).&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>
