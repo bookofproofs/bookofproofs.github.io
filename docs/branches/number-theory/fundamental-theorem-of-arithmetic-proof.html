@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of FUNDAMENTAL THEOREM OF ARITHMETIC &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="arithmetic,factorized,fundamental,theorem,fundamental theorem of arithmetic,the fundamental theorem of arithmetic,arithmetic fundamental theorem,fundamental theorem of arithmetics,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-theory/fundamental-theorem-of-arithmetic.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/number-theory/fundamental-theorem-of-arithmetic.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-theory/canonical-representation-of-natural-numbers-factorization.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-theory/number-theory.html'>Number-theory</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/number-theory/fundamental-theorem-of-arithmetic.html'>Theorem: Fundamental Theorem of Arithmetic</a>)</p>
+<h4>Proof of existence</h4>
+<ul>
+<li>Let \(n &gt; 1\). </li>
+<li>According <a href="https://bookofproofs.github.io/branches/number-theory/existence-of-prime-divisors.html" title="Number Theory / Proposition: Existence of Prime Divisors">existence of prime divisors</a>, we can find a prime divisor \(p\mid n\). </li>
+<li>In the series of consecutive <a href="https://bookofproofs.github.io/branches/number-theory/prime-numbers.html" title="Number Theory / Definition: Prime Numbers">prime numbers</a>, \(p_1=2, p_2=3, \ldots\), we also can find an index \(i\), for which we can write $n=p_{i}^1\cdot n_1,$ with \(p_i=p\) and some \(n_1 &lt; n\). </li>
+<li>Since \(n\) was either <a href="https://bookofproofs.github.io/branches/number-theory/composite-number.html" title="Number Theory / Definition: Composite Number">composite</a> or <a href="https://bookofproofs.github.io/branches/number-theory/prime-numbers.html" title="Number Theory / Definition: Prime Numbers">prime</a>, we have that \(n_1 &gt; 1\) or \(n_1=1\). * In the latter case, we are done. </li>
+<li>In the first case, \(n_1\) is another, non-trivial divisor of \(n\). </li>
+<li>Repeating the same argument for \(n_1\) we will find other prime \(q\) and a new divisor \(n_2 &lt; n_1\), whereby we have 
+\[\begin{array}{ccl}
+n&amp;=&amp;p_i^2\cdot n_2,\text{ if }q=p_i\text{ or }\\
+n&amp;=&amp;p_i\cdot p_j\cdot n_2 \text{ else.}
+\end{array}
+\]</li>
+<li>Since \(n_1\) was either composite or prime, we have again that \(n_2 &gt; 1\) or \(n_2=1\), so we can repeat the above argument. </li>
+<li>By doing so, we will possibly find even further divisors \(n_2, n_3,\ldots\) of \(n\) and the corresponding primes \(p_k\mid n\), grouping them by the corresponding powers \(p_k^{e_k}\).</li>
+<li>Obviously, the set of these numbers is a <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">non-empty</a> <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Set Theory / Definition: Subset and Superset">subset</a> of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/set-theoretic-definitions-of-natural-numbers-ernst-zermelo-1908-john-von-neumann-1923.html" title="Number Systems Arithmetics / Definition: Set-theoretic Definitions of Natural Numbers">natural numbers</a>.</li>
+<li>Following the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/well-ordering-principle-of-natural-numbers.html" title="Number Systems Arithmetics / Proposition: Well-Ordering Principle of Natural Numbers">well-ordering principle</a>, the set of all \(\{n_k\}\), \(k=1,2,\ldots\), with all \(n &gt; n_1 &gt; n_2 &gt;\ldots &gt; 1 \), for which we repeat the argument, must have a <a href="https://bookofproofs.github.io/branches/set-theory/special-elements-of-ordered-sets.html" title="Set Theory / Definition: Special Elements of Ordered Sets">minimum</a> \(n_{p} &gt; 1 \). </li>
+<li>By the <a href="https://bookofproofs.github.io/branches/number-theory/primality-of-the-smallest-non-trivial-divisor.html" title="Number Theory / Corollary: Primality of the Smallest Non-Trivial Divisor">corresponding corollary</a>, \(n_p\) must be a prime number. </li>
+<li>Thus, the repetition of the above steps will finally end and we will find a factorization of the form 
+\[n = p_1^{e_1}\cdot p_2^{e_2}\cdot\ldots\cdot p_r^{e_r},\]
+where \(p_r\) denotes the biggest prime we have found, the \(p_1,\ldots p_r\) denote consecutive primes (i.e. starting with \(p_1=2, p_2=3,\ldots\) and ending at \(p_r\)), and \(e_i\) denote the number of times we have found the prime \(p_i\) in the procedure.</li>
+</ul>
+<h4>Proof of Uniqueness</h4>
+<ul>
+<li>Assume that, applying the above procedure more then once, we can find two different factorizations of \(n\):
+\[\begin{array}{cclr} 
+n&amp;=&amp;p_1^{e_1}\cdot p_2^{e_2}\cdot\ldots\cdot p_r^{e_r},&amp;~~~~~~~~~~(1)\\
+n&amp;=&amp;p_1^{f_1}\cdot p_2^{f_2}\cdot\ldots\cdot p_s^{f_s}.&amp;~~~~~~~~~~(2)
+\end{array}
+\]</li>
+<li>Without loss of generality, assume \(r\ge s\). </li>
+<li>If \(r &gt; s\), then it follows from \((1)\) that \(p_r\mid n\) and from \((2)\) that \(p_r\not\mid n\), which is a <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">contradiction</a>, because a divisor of \(n\) cannot be mutually not a divisor of \(n\).</li>
+<li>By construction, our two factorizations list all consecutive primes, \(p_1 &lt; p_2 &lt; \ldots &lt; p_r\). </li>
+<li>Thus, it must be \(r=s\). </li>
+<li>Now, if \((1)\) and \((2)\) are two different factorizations by hypothesis, then it must be \(f_i\neq e_i\) for at least one \(i\). </li>
+<li>Let, without loss of generality, assume \(f_i &lt; e_i\). </li>
+<li>Then, from \((1)\) it follows that \(p_i^{e_i}\mid n\) and from \((2)\) that \(p_r^{e_i}\not\mid n\), which is again is a <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">contradiction</a>, by the same argument. </li>
+<li>Thus, the two factorizations must be in fact identical.</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-theory/fundamental-theorem-of-arithmetic-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

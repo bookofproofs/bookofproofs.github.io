@@ -17,7 +17,7 @@ The above [examples][bookofproofs$7844] motivate the following definition:
 Let `$\Sigma$` be an [alphabet][bookofproofs$708]. A **grammar** (or **syntax** ) is a [tuple][bookofproofs$747] `$G=(V,T,R,S)$` consisting of
 
 * `$V\subset\Sigma^*$` a finite set of **variables**,
-* `$T\subset\Sigma $` a finite set of **terminal symbols** (or **terminals**), i.e. some special characters from the [alphabet][bookofproofs$708] `$\Sigma$` such that `$V\cap T=\emptyset$`.
+* `$T\subset\Sigma$` a finite set of **terminal symbols** (or **terminals**), i.e. some special characters from the [alphabet][bookofproofs$708] `$\Sigma$` such that `$V\cap T=\emptyset$`.
 * A non-empty, finite set of rules `$R$`, i.e. pairs `$(P,C)\in R$` of **premises** `$P$` and **conclusions** `$C$` such that `$P\in (V\cup T)^*V (V\cup T)^*$` is a [string][bookofproofs$708] _containing at least one_ variable and `$C\in(V\cup T)^*$` is a [string][bookofproofs$708].
 * `$S\in V$` as a **starting symbol** (a first to be replaced terminal symbol)
 

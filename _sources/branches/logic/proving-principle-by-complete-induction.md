@@ -31,7 +31,7 @@ p(n)\Rightarrow p(n+1)&\text{induction step premise}&\text{e.g. if } 1 + 3 + \ld
 \forall n\ge m: p(n)&\text{conclusion}&1 + 3 + \ldots + (2n-1)= n^2\text{ for all }n\ge 1.\\ 
 \end{array} $$`
 
-This logical argument is called "complete" since it includes __all__ (infinitely many) premises for the values `$n=m, n+1, n+2\ldots, $` and it is called "induction" since it derives the conclusion from the __special cases__ `$n=m, n+1, n+2\ldots, $` to the __general case__ `$n\ge m.$`
+This logical argument is called "complete" since it includes __all__ (infinitely many) premises for the values `$n=m, n+1, n+2\ldots$`, and it is called "induction" since it derives the conclusion from the __special cases__ `$n=m, n+1, n+2\ldots,$` to the __general case__ `$n\ge m.$`
 
 
 [^1]: This is because it requires the [quantifier][bookofproofs$186] "for all: `$\forall$`."

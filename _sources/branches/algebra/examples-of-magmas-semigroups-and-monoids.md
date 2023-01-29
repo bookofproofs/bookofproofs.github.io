@@ -26,8 +26,8 @@ contributors: bookofproofs
 
 ### Examples of [monoids][bookofproofs$659].
 * In the set `$(\mathbb N, + )$` of [natural numbers together with addition][bookofproofs$841] the [addition of natural numbers is associative][bookofproofs$1428] with `$0$` as a [neutral element][bookofproofs$661]. Therefore it is a monoid. In addition, the [addition of natuaral numbers is commutative][bookofproofs$1430].
-* If `$X$` is a non-empty [set][bookofproofs$550], then the set `$(\mathcal F(X,X),\circ)$` of all [functions][bookofproofs$592] `$f:X\to X$` with the [composition of functions][bookofproofs$1314] "`$\circ$`" an an operation is a monoid, since the [composition of functions is associative][bookofproofs$8005] and the identity function `$f(x)=x$` for all `$x\in X$` is its [neutral element][bookofproofs$661]. 
-* The set `$(\mathbb Z\times \mathbb Z,\ast) of pairs of [integers][bookofproofs$844] with the operation $`(a,b)\ast(c,d):=(ac,bd)$ is a monoid (the reader might verify the [associativity][bookofproofs$668] property with the neutral element `$(1,1).$`
+* If `$X$` is a non-empty [set][bookofproofs$550], then the set `$(\mathcal F(X,X),\circ)$` of all [functions][bookofproofs$592] `$f:X\to X$` with the [composition of functions][bookofproofs$1314] "`$\circ$`" an operation is a monoid, since the [composition of functions is associative][bookofproofs$8005] and the identity function `$f(x)=x$` for all `$x\in X$` is its [neutral element][bookofproofs$661]. 
+* The set `$(\mathbb Z\times \mathbb Z,\ast)$` of pairs of [integers][bookofproofs$844] with the operation `$(a,b)\ast(c,d):=(ac,bd)$` is a monoid (the reader might verify the [associativity][bookofproofs$668] property with the neutral element `$(1,1)$`.
 * The set `$(\Sigma^*,\cdot)$` of [strings][bookofproofs$7840] is a monoid.
 
 [^1]: We will define the concept of a "matrix" and its multiplication later when we will be studying the linear algebra.

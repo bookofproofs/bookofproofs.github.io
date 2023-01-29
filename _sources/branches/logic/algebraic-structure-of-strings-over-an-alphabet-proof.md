@@ -17,5 +17,5 @@ contributors: bookofproofs
 * Let `$\Sigma^*$` be a non-empty set of all strings under the [alphabet][bookofproofs$708] `$\Sigma$`.
 * Let a [concatenation][bookofproofs$708] be defined as its binary operation `$\cdot: \Sigma^* \times \Sigma^* \mapsto \Sigma^*$`.
 * The concatenation is [associative][bookofproofs$668], i.e. for any letters `$x,y,z\in \Sigma^*$` we have that `$x(yz)=(xy)z$`.
-* Moreover, the [empty string][bookofproofs$708] `$\epsilon\in \Sigma^* $` is neutral with respect to concatenation.
+* Moreover, the [empty string][bookofproofs$708] `$\epsilon\in \Sigma^*$` is neutral with respect to concatenation.
 * Therefore, `\((\Sigma^*,\cdot)\)` fulfills all axioms of a [monoid][bookofproofs$659].

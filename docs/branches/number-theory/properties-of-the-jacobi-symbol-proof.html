@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="PROOF OF PROPERTIES OF THE JACOBI SYMBOL &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="jacobi,properties,symbol,jacobi symbol,jacobi symbol properties,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-theory/properties-of-the-jacobi-symbol.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/number-theory/properties-of-the-jacobi-symbol.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-theory/jacobi-symbol-vs-solvability-of-quadratic-congruences.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-theory/number-theory.html'>Number-theory</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/number-theory/properties-of-the-jacobi-symbol.html'>Theorem: Properties of the Jacobi Symbol</a>)</p>
+<p>By hypothesis, $n,m$ are <a href="https://bookofproofs.github.io/branches/number-theory/even-and-odd-numbers.html" title="Number Theory / Definition: Even and Odd Numbers">odd</a> <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/order-relation-for-integers-positive-and-negative-integers.html" title="Number Systems Arithmetics / Definition: Order Relation for Integers - Positive and Negative Integers">positive integers</a>, while $a,b$ are any <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Number Systems Arithmetics / Proposition: Definition of Integers">integers</a>. Moreover, in the following, we assume that $n=p_1\cdots p_r$ and $m=q_1\cdots q_s$ are the <a href="https://bookofproofs.github.io/branches/number-theory/canonical-representation-of-natural-numbers-factorization.html" title="Number Theory / Definition: Canonical Representation of Natural Numbers, Factorization">factorizations</a>  of $n$ and $m,$ in which we allow the prime numbers $p_i$ to repeat, as $i$ runs through the values $1,\ldots,r.$ The same holds for the prime numbers $q_j$ for $j=1,\ldots, s.$ This will keep the formulae below clearer and simpler, but please keep this in mind when reading the proof below.</p>
+<h3>Ad 1</h3>
+<p>(Generalization of <a href="https://bookofproofs.github.io/branches/number-theory/legendre-symbols-of-equal-residues.html" title="Number Theory / Proposition: Legendre Symbols of Equal Residues">Legendre symbols of equal residues</a>)</p>
+<ul>
+<li>Let the <a href="https://bookofproofs.github.io/branches/number-theory/congruent-residue.html" title="Number Theory / Definition: Congruent, Residue">congruence</a> $a(n)\equiv b(n)$ be fulfilled.</li>
+<li>From <a href="https://bookofproofs.github.io/branches/number-theory/congruence-modulo-a-divisor.html" title="Number Theory / Proposition: Congruence Modulo a Divisor">congruence modulo a divisor</a>, it follows that $a(p_i)\equiv b(p_i)$ for every <a href="https://bookofproofs.github.io/branches/number-theory/prime-numbers.html" title="Number Theory / Definition: Prime Numbers">prime</a> <a href="https://bookofproofs.github.io/branches/number-theory/divisor-complementary-divisor-multiple.html" title="Number Theory / Definition: Divisor, Complementary Divisor, Multiple">dividing</a> $n.$ </li>
+<li>According to <a href="https://bookofproofs.github.io/branches/number-theory/legendre-symbols-of-equal-residues.html" title="Number Theory / Proposition: Legendre Symbols of Equal Residues">Legendre symbols of equal residues</a>, it follows that $\left(\frac{a}{p_i}\right)=\left(\frac{b}{p_i}\right)$ for each <a href="https://bookofproofs.github.io/branches/number-theory/legendre-symbol.html" title="Number Theory / Definition: Legendre Symbol">Legendre symbol</a>.</li>
+<li>By the definition of the <a href="https://bookofproofs.github.io/branches/number-theory/jacobi-symbol.html" title="Number Theory / Definition: Jacobi Symbol">Jacobi symbol</a>, it follows that  $\left(\frac{a}{n}\right)=\left(\frac{b}{n}\right).$</li>
+</ul>
+<h3>Ad 2</h3>
+<p>(Generalization of the <a href="https://bookofproofs.github.io/branches/number-theory/multiplicativity-of-the-legendre-symbol.html" title="Number Theory / Proposition: Multiplicativity of the Legendre Symbol">multiplicativity of the Legendre symbol</a>)</p>
+<ul>
+<li>For every <a href="https://bookofproofs.github.io/branches/number-theory/prime-numbers.html" title="Number Theory / Definition: Prime Numbers">prime</a> $p_i$ <a href="https://bookofproofs.github.io/branches/number-theory/divisor-complementary-divisor-multiple.html" title="Number Theory / Definition: Divisor, Complementary Divisor, Multiple">dividing</a> $n$ it follows from the <a href="https://bookofproofs.github.io/branches/number-theory/multiplicativity-of-the-legendre-symbol.html" title="Number Theory / Proposition: Multiplicativity of the Legendre Symbol">multiplicativity of the Legendre symbol</a> that $\left(\frac{ab}{p_i}\right)=\left(\frac{a}{p_i}\right)\cdot \left(\frac{b}{p_i}\right).$</li>
+<li>By the definition of the <a href="https://bookofproofs.github.io/branches/number-theory/jacobi-symbol.html" title="Number Theory / Definition: Jacobi Symbol">Jacobi symbol</a>, it follows that  $\left(\frac{ab}{n}\right)=\left(\frac{a}{n}\right)\cdot \left(\frac{b}{n}\right).$</li>
+</ul>
+<h3>Ad 3</h3>
+<ul>
+<li>Case 1) $a$ is <a href="https://bookofproofs.github.io/branches/number-theory/coprime-numbers.html" title="Number Theory / Definition: Co-prime Numbers">co-prime</a> to $n$ and $m.$<ul>
+<li>By the definition of the <a href="https://bookofproofs.github.io/branches/number-theory/jacobi-symbol.html" title="Number Theory / Definition: Jacobi Symbol">Jacobi symbol</a>, it follows $$\left(\frac{a}{n}\right)\cdot \left(\frac{a}{m}\right)=\prod_{i=1}^r\left(\frac{a}{p_i}\right)\cdot \prod_{j=1}^s\left(\frac{a}{q_j}\right)=\left(\frac{a}{nm}\right),$$ since if a prime $p$ divides both numbers $n$ and $m$ at once, then its multiplicities sum up in both products, otherwise the multiplicities remain the same if a prime either divides the number $n$ or the number $m.$</li>
+</ul>
+</li>
+<li>Case 2) $a$ is not co-prime to $n$ or not co-prime to $m$.<ul>
+<li>Therefore, $a$ is not co-prime to $nm$, and we have $\left(\frac{a}{nm}\right)=0.$</li>
+<li>But then, either $\left(\frac{a}{n}\right)=0,$ or $\left(\frac{a}{m}\right)=0,$ or both. </li>
+<li>Therefore, again $\left(\frac{a}{n}\right)\cdot \left(\frac{a}{m}\right)=\left(\frac{a}{nm}\right).$</li>
+</ul>
+</li>
+</ul>
+<h3>Ad 4</h3>
+<p>(Generalization of the <a href="https://bookofproofs.github.io/branches/number-theory/quadratic-reciprocity-law.html" title="Number Theory / Theorem: Quadratic Reciprocity Law">quadratic reciprocity law</a>)</p>
+<ul>
+<li>By hypothesis, $n$, and $m$ are <a href="https://bookofproofs.github.io/branches/number-theory/coprime-numbers.html" title="Number Theory / Definition: Co-prime Numbers">co-prime</a>.</li>
+<li>Therefore, all prime numbers $p_i$ are distinct from the prime numbers $q_j.$</li>
+<li>By the definition of the <a href="https://bookofproofs.github.io/branches/number-theory/jacobi-symbol.html" title="Number Theory / Definition: Jacobi Symbol">Jacobi symbol</a>, we have $$\left(\frac{n}{m}\right)\cdot \left(\frac{m}{n}\right)=\prod_{j=1}^s\left(\frac{n}{q_j}\right)\cdot \prod_{i=1}^r \left(\frac{m}{p_i}\right)=\prod_{i=1}^r\prod_{j=1}^s\left(\frac{p_i}{q_j}\right)\cdot \left(\frac{q_j}{p_i}\right).$$</li>
+<li>Applying the <a href="https://bookofproofs.github.io/branches/number-theory/quadratic-reciprocity-law.html" title="Number Theory / Theorem: Quadratic Reciprocity Law">quadratic reciprocity law</a> to the right side of the equation, we get $\left(\frac{n}{m}\right)\cdot \left(\frac{m}{n}\right)=(-1)^U$ with a sum $$U=\sum_{i=1}^r\sum_{j=1}^s\frac{p_i-1}{2}\frac{q_j-1}{2}.$$</li>
+<li>By the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/product-of-two-sums-generalized-distributivity-rule.html" title="Number Systems Arithmetics / Proposition: Product of Two Sums (Generalized Distributivity Rule)">generalized distributivity rule</a>, we get $$U=\left(\sum_{i=1}^r\frac{p_i-1}{2}\right)\cdot\left(\sum_{j=1}^s\frac{q_j-1}{2}\right).$$</li>
+<li>For the theorem, it is sufficient to show that $U\equiv\frac{n-1}2 \frac{m-1}2\mod 2.$</li>
+<li>We get this result by applying a general rule repeatedly to all primes $p_i$ and $q_j$ which are all <a href="https://bookofproofs.github.io/branches/number-theory/even-and-odd-numbers.html" title="Number Theory / Definition: Even and Odd Numbers">odd</a>. The rule states that for arbitrary two odd integers $a,b$ we have $$\frac{a-1}2 +\frac{b-1}2\equiv \frac{ab-1}2\mod 2.\label{eq:E18802}\tag{1}$$ </li>
+<li>To complete the proof, we note that $$ 0\equiv\frac{(a-1)(b-1)}2\equiv \frac{ab-a-b+1}2\equiv\frac{ab-1}2-\left(\frac{a-1}2+\frac{b-1}2\right) \mod 2.$$</li>
+</ul>
+<h3>Ad 5</h3>
+<p>(Generalization of the <a href="https://bookofproofs.github.io/branches/number-theory/first-supplementary-law-to-the-quadratic-reciprocity-law.html" title="Number Theory / Theorem: First Supplementary Law to the Quadratic Reciprocity Law">first supplementary law to the quadratic reciprocity law</a>)</p>
+<ul>
+<li>By the definition of the <a href="https://bookofproofs.github.io/branches/number-theory/jacobi-symbol.html" title="Number Theory / Definition: Jacobi Symbol">Jacobi symbol</a>, and applying the <a href="https://bookofproofs.github.io/branches/number-theory/first-supplementary-law-to-the-quadratic-reciprocity-law.html" title="Number Theory / Theorem: First Supplementary Law to the Quadratic Reciprocity Law">first supplementary law to the quadratic reciprocity law</a>, we get $$\left(\frac{-1}{n}\right)=\prod_{i=1}^r\left(\frac{-1}{p_i}\right)=\prod_{i=1}^r(-1)^{\frac{p_i-1}{2}}=(-1)^{V},$$ with $$V:=\sum_{i=1}^r\frac{p_i-1}{2}.$$</li>
+<li>Since $n$ is <a href="https://bookofproofs.github.io/branches/number-theory/even-and-odd-numbers.html" title="Number Theory / Definition: Even and Odd Numbers">odd</a>, we can apply  $(\ref{eq:E18802})$ repeatedly, and get $$V\equiv \frac{n-1}{2}\mod 2.$$</li>
+</ul>
+<h3>Ad 6</h3>
+<p>(Generalization of the <a href="https://bookofproofs.github.io/branches/number-theory/second-supplementary-law-to-the-quadratic-reciprocity-law.html" title="Number Theory / Theorem: Second Supplementary Law to the Quadratic Reciprocity Law">second supplementary law to the quadratic reciprocity law</a>)</p>
+<ul>
+<li>By the definition of the <a href="https://bookofproofs.github.io/branches/number-theory/jacobi-symbol.html" title="Number Theory / Definition: Jacobi Symbol">Jacobi symbol</a>, and applying the <a href="https://bookofproofs.github.io/branches/number-theory/second-supplementary-law-to-the-quadratic-reciprocity-law.html" title="Number Theory / Theorem: Second Supplementary Law to the Quadratic Reciprocity Law">second supplementary law to the quadratic reciprocity law</a>, we get $$\left(\frac{2}{n}\right)=\prod_{i=1}^r\left(\frac{2}{p_i}\right)=\prod_{i=1}^r(-1)^{\frac{p_i^2-1}{8}}=(-1)^{W},$$ with $$W:=\sum_{i=1}^r\frac{p_i^2-1}{8}.$$</li>
+<li>For the theorem, it is sufficient to show that $W\equiv\frac{n^2-1}8 \mod 2.$</li>
+<li>We get this result by applying a general rule repeatedly to all primes $p_i$ which are all <a href="https://bookofproofs.github.io/branches/number-theory/even-and-odd-numbers.html" title="Number Theory / Definition: Even and Odd Numbers">odd</a>. The rule states that for arbitrary two odd integers $a,b$ we have $$\frac{a^2-1}8 +\frac{b^2-1}8\equiv \frac{(ab)^2-1}8\mod 2.$$ </li>
+<li>To complete the proof, we note that $$ 0\equiv\frac{(a^2-1)(b^2-1)}8\equiv \frac{(ab)^2-a^2-b^2+1}8\equiv\frac{(ab)^2-1}8-\left(\frac{a^2-1}8+\frac{b^2-1}8\right) \mod 2.$$</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-theory/properties-of-the-jacobi-symbol-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Landau, Edmund</strong>: "Vorlesungen über Zahlentheorie, Aus der Elementaren Zahlentheorie", S. Hirzel, Leipzig, 1927</li>
+<li><strong>Blömer, J.</strong>: "Lecture Notes Algorithmen in der Zahlentheorie", Goethe University Frankfurt, 1997</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

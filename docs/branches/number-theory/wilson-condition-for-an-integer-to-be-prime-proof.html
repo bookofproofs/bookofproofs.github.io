@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="PROOF OF WILSON&#x27;S CONDITION FOR AN INTEGER TO BE PRIME &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="condition,integer,prime,wilson,wilson&#x27;s theorem,proof">
+<title>By Induction</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-theory/wilson-condition-for-an-integer-to-be-prime.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/number-theory/wilson-condition-for-an-integer-to-be-prime.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-theory/complete-residuo-system-revised.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-theory/number-theory.html'>Number-theory</a> / Proof: By Induction</h3>
+
+<hr>
+
+<h1>Proof: By Induction</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/number-theory/wilson-condition-for-an-integer-to-be-prime.html'>Proposition: Wilson&#x27;s Condition for an Integer to be Prime</a>)</p>
+<ul>
+<li>Let $n &gt; 1$ be an <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Number Systems Arithmetics / Proposition: Definition of Integers">integer</a>, and let $(n-1)!$ be the <a href="https://bookofproofs.github.io/branches/combinatorics/factorial.html" title="Combinatorics / Proposition: Factorial">factorial</a> of $n-1.$ </li>
+</ul>
+<h3>"$\Rightarrow$"</h3>
+<ul>
+<li>Assume $n:=p$ is a <a href="https://bookofproofs.github.io/branches/number-theory/prime-numbers.html" title="Number Theory / Definition: Prime Numbers">prime number</a>.</li>
+<li>Obviously, for $p=2$, we have $1!=-1\mod 2.$ Therefore, assume $p &gt; 2$ is <a href="https://bookofproofs.github.io/branches/number-theory/even-and-odd-numbers.html" title="Number Theory / Definition: Even and Odd Numbers">odd</a>.</li>
+<li>The <a href="https://bookofproofs.github.io/branches/algebra/polynomial-over-a-ring-degree-variable.html" title="Algebra / Definition: Polynomial over a Ring, Degree, Variable">polynomial</a> $$f(x)=x^{p-1}-1-\prod_{m=1}^{p-1}(x-m)\label{eq:E18657a}\tag{1}$$ has the degree $p-2$, since the two terms in $f(x)$ involving $x^{p-1}$ cancel. </li>
+<li>Therefore, the polynomial (we look at it modulo $p$) can be written as $$f(x)\equiv c_0+c_1x+\cdots+c_{p-2}x^{p-2}\mod p,\label{eq:E18657b}\tag{2}$$ with some integers $c_0,c_1,\ldots,c_{p-2}\in\mathbb Z.$</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/number-theory/a-necessary-condition-for-an-integer-to-be-prime.html" title="Number Theory / Proposition: A Necessary Condition for an Integer to be Prime">necessary condition for an integer to be prime</a>, we have that $(x^{p-1}-1)(p)\equiv 0(p)$ for $x\equiv 1,2,\ldots,p-1\mod p.$ </li>
+<li>Moreover, the product $\prod_{m=1}^{p-1}(x-m)$ vanishes, since it has a factor equal to the congruence $0(p).$</li>
+<li>Therefore, the polynomial $(\ref{eq:E18657a})$ is constructed in such a way that it has the roots $x\equiv 1,2,\ldots,p-1\mod p.$ </li>
+<li>But according to <a href="https://bookofproofs.github.io/branches/number-theory/counting-the-roots-of-a-diophantine-polynomial-modulo-a-prime-number.html" title="Number Theory / Proposition: Counting the Roots of a Diophantine Polynomial Modulo a Prime Number">counting the roots of a diophantine polynomial modulo a prime number</a>, $f(x)(p)\equiv 0(p)$ has <em>at most</em> $p-2$ roots, since it is of the degree $p-2.$</li>
+<li>Thus, since $p$ divides both sides of the equation $(\ref{eq:E18657b})$, the coefficients $c_0,c_1,\ldots,c_{p-2}$ must all be divisible by $p$, according to the <a href="https://bookofproofs.github.io/branches/number-theory/divisibility-laws.html" title="Number Theory / Proposition: Divisibility Laws">divisibility law no. 6</a>.</li>
+<li>In particular, $p$ divides $c_0=-1-(-1)^{p-1}(p-1)!.$ </li>
+<li>This means that $(-1)^{p-1}(p-1)!\equiv -1\mod p,$ or $(p-1)!(p)\equiv -1(p),$ since $p$ is odd.</li>
+</ul>
+<h3>"$\Leftarrow$"</h3>
+<ul>
+<li>Let $(n-1)!(n)\equiv -1(n).$</li>
+<li>According to <a href="https://bookofproofs.github.io/branches/number-theory/congruence-modulo-a-divisor.html" title="Number Theory / Proposition: Congruence Modulo a Divisor">congruence modulo a divisor</a>, we have $(n-1)!(m)\equiv -1(m)$ for any <a href="https://bookofproofs.github.io/branches/number-theory/divisor-complementary-divisor-multiple.html" title="Number Theory / Definition: Divisor, Complementary Divisor, Multiple">divisor</a> $m\mid n.$</li>
+<li>But if $m &lt; n,$ then $m$ appears as a factor of $(n-1)!.$ </li>
+<li>So $(n-1)!(m)\equiv 0(m),$ and hence $-1(m)\equiv 0(m).$</li>
+<li>By definition of <a href="https://bookofproofs.github.io/branches/number-theory/congruent-residue.html" title="Number Theory / Definition: Congruent, Residue">congruence</a>, this implies $m\mid -1,$ or $m=1.$</li>
+<li>Therefore, $n$ has only the trivial divisors $n$ and $1.$</li>
+<li>By definition of <a href="https://bookofproofs.github.io/branches/number-theory/prime-numbers.html" title="Number Theory / Definition: Prime Numbers">prime numbers</a>, $n$ is prime.</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-theory/wilson-condition-for-an-integer-to-be-prime-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Landau, Edmund</strong>: "Vorlesungen über Zahlentheorie, Aus der Elementaren Zahlentheorie", S. Hirzel, Leipzig, 1927</li>
+<li><strong>Jones G., Jones M.</strong>: "Elementary Number Theory (Undergraduate Series)", Springer, 1998</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

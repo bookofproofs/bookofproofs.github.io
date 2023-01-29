@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of QUADRATIC RECIPROCITY LAW &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="law,quadratic,reciprocity,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-theory/quadratic-reciprocity-law.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/number-theory/quadratic-reciprocity-law.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-theory/first-supplementary-law-to-the-quadratic-reciprocity-law.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-theory/number-theory.html'>Number-theory</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/number-theory/quadratic-reciprocity-law.html'>Theorem: Quadratic Reciprocity Law</a>)</p>
+<ul>
+<li>By hypothesis, $p &gt; 2$ and $q &gt; 2$ are <a href="https://bookofproofs.github.io/branches/number-theory/even-and-odd-numbers.html" title="Number Theory / Definition: Even and Odd Numbers">odd</a> and distinct <a href="https://bookofproofs.github.io/branches/number-theory/prime-numbers.html" title="Number Theory / Definition: Prime Numbers">prime numbers</a>.</li>
+<li>If $q\ge 2,$ then we can set according to <a href="https://bookofproofs.github.io/branches/number-theory/division-with-quotient-and-remainder-euclid.html" title="Number Theory / Lemma: Division with Quotient and Remainder">division with quotient and remainder</a> for $1\le k\le \frac{p-1}2$ $$\label{eq:E18755a}\tag{1}kq=q_kp+r_k,\quad 0 &lt; r_k &lt; p.$$ Note that $r_k\neq 0,$ since $q$ and $p$ are distinct.</li>
+<li>Moreover, we have $q_k=\left\lfloor\frac{kq}p\right\rfloor$ due to the <a href="https://bookofproofs.github.io/branches/number-theory/connection-between-quotient-remainder-modulo-and-floor-function.html" title="Number Theory / Proposition: Connection between Quotient, Remainder, Modulo and Floor Function">connection between quotient, remainder, modulo and floor function</a>.</li>
+<li>In the proof of the <a href="https://bookofproofs.github.io/branches/number-theory/gaussian-lemma-number-theory.html" title="Number Theory / Lemma: Gaussian Lemma (Number Theory)">Gaussian lemma</a>, we have seen (with the same notation as there) that the remainders $a_s$, $p-b_t$ the same numbers as the numbers $$1,2,\ldots,\frac{p-1}2,$$ apart from the order.</li>
+<li>Therefore, with $a:=\sum_{s=1}^l a_s$ and $b:=\sum_{t=1}^m b_t$, we have the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/sums.html" title="Number Systems Arithmetics / Definition: Sums">sum</a> $$\sum_{k=1}^{\frac{p-1}2}r_k=a+b.$$</li>
+<li>On the other hand, the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/sum-of-arithmetic-progression.html" title="Number Systems Arithmetics / Proposition: Sum of Arithmetic Progression">sum of arithmetic progression</a> gives us $$\label{eq:E18755b}\tag{2}\frac{p^2-1}8=\frac{\frac{p-1}{2}\cdot \frac{p+1}{2}}{2}=\sum_{k=1}^{\frac{p-1}{2}}k=a+mp-b.$$</li>
+<li>Adding the equations $(\ref{eq:E18755a}),$ we get $$\label{eq:E18755c}\tag{3}\frac{p^2-1}8q=p\sum_{k=1}^{\frac{p-1}{2}}q_k+\sum_{k=1}^{\frac{p-1}{2}}r_k=p\sum_{k=1}^{\frac{p-1}{2}}q_k+a+b.$$ </li>
+<li>From  $(\ref{eq:E18755b})$ and $(\ref{eq:E18755c}),$ we get 
+$$\frac{p^2-1}8(q-1)=p\sum_{k=1}^{\frac{p-1}{2}}q_k-mp+2b,$$ 
+and the <a href="https://bookofproofs.github.io/branches/number-theory/congruent-residue.html" title="Number Theory / Definition: Congruent, Residue">congruence</a>.
+$$\label{eq:E18755d}\tag{4}\frac{p^2-1}8(q-1)\equiv \sum_{k=1}^{\frac{p-1}{2}}q_k+m\mod 2.$$ </li>
+<li>For $q=2$, all $q_k=0,$ and we have $\frac{p^2-1}8\equiv m\mod 2$ and therefore according to the <a href="https://bookofproofs.github.io/branches/number-theory/gaussian-lemma-number-theory.html" title="Number Theory / Lemma: Gaussian Lemma (Number Theory)">Gaussian lemma</a>, the formula for the <a href="https://bookofproofs.github.io/branches/number-theory/legendre-symbol.html" title="Number Theory / Definition: Legendre Symbol">Legendre symbol</a>.
+ $$\left(\frac 2p\right)=(-1)^m=(-1)^{\frac{p^2-1}8}.$$</li>
+<li>Let $q &gt; 2.$ Then $q-1$ is <a href="https://bookofproofs.github.io/branches/number-theory/even-and-odd-numbers.html" title="Number Theory / Definition: Even and Odd Numbers">even</a>, and we have in $(\ref{eq:E18755d})$ $$\sum_{k=1}^{\frac{p-1}{2}}q_k\equiv m\mod 2.$$</li>
+<li>Therefore, applying the <a href="https://bookofproofs.github.io/branches/number-theory/gaussian-lemma-number-theory.html" title="Number Theory / Lemma: Gaussian Lemma (Number Theory)">Gaussian lemma</a> once again, we get the formula
+ $$\label{eq:E18755e}\tag{5}\left(\frac qp\right)=(-1)^m=(-1)^{\sum_{k=1}^{\frac{p-1}{2}}\left\lfloor\frac{kq}p\right\rfloor}.$$</li>
+<li>From symmetry reasons, the same holds for 
+ $$\label{eq:E18755f}\tag{6}\left(\frac pq\right)=(-1)^{\sum_{l=1}^{\frac{q-1}{2}}\left\lfloor\frac{lp}q\right\rfloor}.$$</li>
+<li>$(\ref{eq:E18755e})$ and $(\ref{eq:E18755f})$ give us together the result $$\left(\frac qp\right)\cdot \left(\frac pq\right)=(-1)^{\alpha}$$ with $$\alpha=\sum_{k=1}^{\frac{p-1}{2}}\left\lfloor\frac{kq}p\right\rfloor+\sum_{l=1}^{\frac{q-1}{2}}\left\lfloor\frac{lp}q\right\rfloor.$$</li>
+<li>It remains to be shown that $$\alpha=\frac{p-1}{2}\cdot\frac{q-1}{2},$$ but this follows from the <a href="https://bookofproofs.github.io/branches/number-theory/reciprocity-law-for-floor-functions.html" title="Number Theory / Lemma: Reciprocity Law for Floor Functions">reciprocity law for floor functions</a>.</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-theory/quadratic-reciprocity-law-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Landau, Edmund</strong>: "Vorlesungen über Zahlentheorie, Aus der Elementaren Zahlentheorie", S. Hirzel, Leipzig, 1927</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

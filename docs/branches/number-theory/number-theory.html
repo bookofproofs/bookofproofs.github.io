@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="NUMBER THEORY ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="reduction of epsilon-nfa to nfa,proof">
+<title>Number Theory</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/probability-theory-and-statistics/probability-mass-function.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/branches.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-theory/historical-development-of-number-theory.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-theory/number-theory.html'>Number-theory</a> / Branch: Number Theory</h3>
+
+<hr>
+
+<h1>Branch: Number Theory</h1>
+<p><em>Number theory</em> is a branch of mathematics dealing with the <em>divisibility properties</em> of <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/integers.html" title="Number Systems Arithmetics / Part: Integers">integers</a> and in algebraic number fields. </p>
+<p>Many problems in number theory can be easily formulated, for instance: What are the integer solutions of a given equation? How many prime numbers are less or equal a given number $n\ge 0$? How many lattice points are there inside a circle/an ellipse? Can every even number be represented as a sum of two prime numbers? </p>
+<p>These, and many other number-theoretic questions sound very elementary but turned out to be very hard to answer and many of them have resisted to be answered even until today. However, these hard problems have inspired mathematicians over centuries to develop new ideas and instruments which stimulated even other branches of mathematics. </p>
+<h3>Theoretical minimum (in a nutshell)</h3>
+<ul>
+<li>You should be acquainted with <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/number-systems-arithmetics.html" title="Number Systems Arithmetics / Branch: Number Systems and Arithmetics">arithmetics</a>.</li>
+<li>When reading about algebraic number fields, you will have to recap concepts from <a href="https://bookofproofs.github.io/branches/algebra/algebra.html" title="Algebra / Branch: Algebra">algebra</a>.</li>
+<li>When dealing with analytical number theory, you will have to use some methods from <a href="https://bookofproofs.github.io/branches/analysis/complex-analysis.html" title="Analysis / Part: Complex Analysis">complex analysis</a> and <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/sum-manipulation-methods.html" title="Number Systems Arithmetics / Chapter: Sum Manipulation Methods">sum manipulation methods</a>.</li>
+</ul>
+<h3>Concepts you will learn in this part of <strong><span style='color:orange'>Bookof</span><span style='color:lightblue'>Proofs</span></strong></h3>
+<ul>
+<li>In the <em>elementary number theory</em>, we will be dealing with <em>divisibility</em>, <em>prime numbers</em>, <em>characters</em> and methods for solving <em>Diophantine equations</em>.</li>
+<li>In the <em>analytical number theory</em> we will be dealing with the <em>distribution of prime numbers</em> and methods to quantify it, including <em>sieve methods</em> and also with the <em>Gamma function</em> and the <em>Riemann hypothesis</em>.</li>
+<li>In the <em>algebraic number theory</em>,  the concept of divisibility will be extended to general <em>algebraic number fields</em>.</li>
+<li>In the <em>additive number theory</em>, we will be dealing with the <em>additive properties</em> of prime numbers and with the progress made in solving the <em>Goldbach hypothesis</em>.</li>
+</ul>
+<h3 class='navigation'>Table of Contents</h3>
+
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/number-theory/historical-development-of-number-theory.html'>Part: Historical Development of Number Theory</a></li>
+<li><a href='https://bookofproofs.github.io/branches/number-theory/elementary-number-theory.html'>Part: Elementary Number Theory</a></li>
+<li><a href='https://bookofproofs.github.io/branches/number-theory/algebraic-number-theory-i.html'>Part: Algebraic Number Theory (Link)</a></li>
+<li><a href='https://bookofproofs.github.io/branches/number-theory/analytic-number-theory.html'>Part: Analytic Number Theory</a></li>
+<li><a href='https://bookofproofs.github.io/branches/number-theory/additive-number-theory.html'>Part: Additive Number Theory</a></li>
+<li><a href='https://bookofproofs.github.io/branches/number-theory/some-unsolved-number-theoretic-problems.html'>Part: Some Unsolved Number-Theoretic Problems</a></li>
+<li><a href='https://bookofproofs.github.io/branches/number-theory/solving-strategies-and-sample-solutions-related-to-number-theory.html'>Part: Solving Strategies and Sample Solutions Related to Number Theory</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-theory/number-theory.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

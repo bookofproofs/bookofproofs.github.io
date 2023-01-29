@@ -14,4 +14,6 @@ Obviously, "$\vdash$" defines a __relation__ on `$L$`. This relation is called t
 
 ---
 
-Let `\(L\)` be a [logical calculus][bookofproofs$7882]. We say that a string `$\phi\in L$` is **derivable** in `$L$` if there is is [proof][bookofproofs$7879] `$\phi_1,\ldots,\phi_n\vdash \phi$`. In this case, we write `$\vdash_L\phi, $` or just `$\vdash \phi.$` Otherwise, we write `$\not\vdash\phi,$` denoting that `$\phi$` has not derivable in `$L$`.
+Let `\(L\)` be a [logical calculus][bookofproofs$7882]. We say that a string `$\phi\in L$` is **derivable** in `$L$` 
+if there is is [proof][bookofproofs$7879] `$\phi_1,\ldots,\phi_n\vdash \phi$`. In this case, we write `$\vdash_L\phi$`, or just `$\vdash \phi$`. 
+Otherwise, we write `$\not\vdash\phi,$` denoting that `$\phi$` has not derivable in `$L$`.

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Solution of CALCULATING QUADRATIC RESIDUES &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="calculating,quadratic,residues solution">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-theory/calculating-quadratic-residues.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/number-theory/calculating-quadratic-residues.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-theory/applications-of-the-jacobi-symbol.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-theory/number-theory.html'>Number-theory</a> / Solution</h3>
+
+<hr>
+
+<h1>Solution</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/number-theory/calculating-quadratic-residues.html'>Problem: Calculating Quadratic Residues</a>)</p>
+<ul>
+<li>The <a href="https://bookofproofs.github.io/branches/number-theory/congruent-residue.html" title="Number Theory / Definition: Congruent, Residue">congruence</a> $x^2(p)\equiv 3\equiv(p)$ has a solution, if the <a href="https://bookofproofs.github.io/branches/number-theory/legendre-symbol.html" title="Number Theory / Definition: Legendre Symbol">Legendre symbol</a> $\left(\frac 3p\right)=1.$</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/number-theory/quadratic-reciprocity-law.html" title="Number Theory / Theorem: Quadratic Reciprocity Law">quadratic reciprocity law</a>, we have $$\left(\frac{3}{p}\right)\cdot \left(\frac{p}{3}\right)=(-1)^{\frac{p-1}{2}\frac{3-1}{2}}=(-1)^{\frac{p-1}{2}}.$$</li>
+<li>We can divide both sides by $\left(\frac{p}{3}\right)=\pm 1$ and get $$\left(\frac{3}{p}\right)=\left(\frac{p}{3}\right)\cdot (-1)^{\frac{p-1}{2}}.\label{eq:E18781a}\tag{a}$$</li>
+<li>First of all, we have $$(-1)^{\frac{p-1}{2}}=\begin{cases}1&amp;\text{if }p\equiv 1\mod 4,\\-1&amp;\text{if }p\equiv -1\mod 4.\end{cases}\label{eq:E18781b}\tag{b}$$</li>
+<li>On the other hand, we can apply the <a href="https://bookofproofs.github.io/branches/number-theory/legendre-symbols-of-equal-residues.html" title="Number Theory / Proposition: Legendre Symbols of Equal Residues">Legendre symbols of equal residues</a> rule to deduce, that if $p(3)\equiv 1(3),$ then $\left(\frac{p}{3}\right)=\left(\frac{1}{3}\right).$</li>
+<li>But $\left(\frac{1}{3}\right)=1,$ which can be verified directly.</li>
+<li>Note that if $p(3)\not\equiv 1(p)$, then otherwise we have $p(3)\equiv 2(3)\equiv-1(3).$ In this case, we can apply the <a href="https://bookofproofs.github.io/branches/number-theory/first-supplementary-law-to-the-quadratic-reciprocity-law.html" title="Number Theory / Theorem: First Supplementary Law to the Quadratic Reciprocity Law">first supplementary law to the quadratic reciprocity law</a> to deduce that $\left(\frac{-1}{3}\right)=-1.$</li>
+<li>Altogether, we have $$\left(\frac{p}{3}\right)=\begin{cases}1&amp;\text{if }p\equiv 1\mod 3,\\-1&amp;\text{if }p\equiv -1\mod 3,\; p &gt; 2.\end{cases}\label{eq:E18781c}\tag{c}$$</li>
+<li>Combining the results $(\ref{eq:E18781a}),$ $(\ref{eq:E18781b}),$ and $(\ref{eq:E18781c})$ together, we get $$\left(\frac{3}{p}\right)=\begin{cases}1&amp;\text{if }p\equiv\pm 1\mod 12,\\-1&amp;\text{if }p\equiv \pm 5\mod 12.\\\end{cases}$$</li>
+<li>Therefore, the <a href="https://bookofproofs.github.io/branches/number-theory/congruent-residue.html" title="Number Theory / Definition: Congruent, Residue">congruence</a> $x^2(p)\equiv 3\equiv(p)$ has a solution, if and only if $p\equiv\pm 1\mod 12.$</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-theory/calculating-quadratic-residues-solution.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Landau, Edmund</strong>: "Vorlesungen über Zahlentheorie, Aus der Elementaren Zahlentheorie", S. Hirzel, Leipzig, 1927</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

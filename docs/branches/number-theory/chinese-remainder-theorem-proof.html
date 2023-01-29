@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of CHINESE REMAINDER THEOREM &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="chinese,remainder,theorem,proof of chinese remainder theorem,proof">
+<title>By Induction</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-theory/chinese-remainder-theorem.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/number-theory/chinese-remainder-theorem.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-theory/a-linear-term-for-1-using-two-coprime-coefficients.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-theory/number-theory.html'>Number-theory</a> / Proof: By Induction</h3>
+
+<hr>
+
+<h1>Proof: By Induction</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/number-theory/chinese-remainder-theorem.html'>Theorem: Chinese Remainder Theorem</a>)</p>
+<p>By hypothesis, $m_1,m_2,\ldots,m_r$ are <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/order-relation-for-integers-positive-and-negative-integers.html" title="Number Systems Arithmetics / Definition: Order Relation for Integers - Positive and Negative Integers">positive integers</a> and $a_1,\ldots,a_r$ are any <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Number Systems Arithmetics / Proposition: Definition of Integers">integers</a>. We will first prove the theorem for $r=2$ and then the general case by induction. We can assume all $a_i$ are distinct, otherwise, we could replace two congruences of the system by just one and reduce the number of simultaneous congruences. For the case $r=1,$ the Chinese remainder theorem is trivial.</p>
+<h3>Base Case $r=2$</h3>
+<p>We will first show that both congruences are solvable simultaneously if and only if the <a href="https://bookofproofs.github.io/branches/number-theory/greatest-common-divisor.html" title="Number Theory / Proposition: Greatest Common Divisor">greatest common divisor</a> $d:=\gcd(m_1,m_2)$ is a <a href="https://bookofproofs.github.io/branches/number-theory/divisor-complementary-divisor-multiple.html" title="Number Theory / Definition: Divisor, Complementary Divisor, Multiple">divisor</a> of $a_1-a_2.$</p>
+<h3>"$\Rightarrow$"</h3>
+<ul>
+<li>Assume, $x(m_1)\equiv a_1(m_1)$ and $x(m_2)\equiv a_1(m_2).$ </li>
+<li>From the <a href="https://bookofproofs.github.io/branches/number-theory/congruence-modulo-a-divisor.html" title="Number Theory / Proposition: Congruence Modulo a Divisor">congruence modulo a divisor</a>, it follows that $x(d)\equiv a_1(d)$ and $x(d)\equiv a_1(d).$</li>
+<li>Thus, $a_1(d)=a_2(d).$</li>
+<li>By definition of <a href="https://bookofproofs.github.io/branches/number-theory/congruence-classes.html" title="Number Theory / Proposition: Congruence Classes">congruence</a>, it follows $d\mid (a_1-a_2).$</li>
+</ul>
+<h3>"$\Leftarrow$"</h3>
+<ul>
+<li>Assume, $d\mid (a_1-a_2).$ </li>
+<li>It follows, $d\mid (a_2-a_1).$</li>
+<li>According to <a href="https://bookofproofs.github.io/branches/number-theory/existence-and-number-of-solutions-of-congruence-with-one-variable.html" title="Number Theory / Proposition: Existence and Number of Solutions of Congruence With One Variable">existence and number of solutions of an LDE with one variable</a>, the congruence $(m_1y)(m_2)\equiv (a_2-a_1)(m_2)\label{eq:E18592a}\tag{1}$ is solvable if and only if $\gcd(m_1,m_2)=d\mid (a_2-a_1),$ and it has exactly $d$ solutions.</li>
+<li>By setting $x:=m_1y$ we have $(x+a_1)(m_2)\equiv a_2(m_2).$</li>
+<li>On the other side, the congruence class $x(m_1)\equiv a_1(m_1)\label{eq:E18592b}\tag{2}$ is equivalent to $x=a_1+m_1h$ for all $h\in\mathbb Z.$</li>
+<li>Now we can chose $h$ such that $x(m_2)\equiv(hm_1+a_1)(m_2)\equiv a_2(m_2).$</li>
+<li>Comparing both results, we have $y=h$ and $x(m_2)\equiv(x+a_1)(m_2)\equiv a_2(m_2).\label{eq:E18592c}\tag{3}$</li>
+<li>It follows from $(\ref{eq:E18592b})$ and $(\ref{eq:E18592c})$ that $x(m_1)\equiv a_1(m_1)$ and $x(m_2)\equiv a_1(m_2).$ </li>
+</ul>
+<p>Now, we will show that all simultaneous solutions belong to a single congruence class modulo the <a href="https://bookofproofs.github.io/branches/number-theory/least-common-multiple.html" title="Number Theory / Proposition: Least Common Multiple">least common multiple</a> $\operatorname{lcm}(m_1,m_2).$</p>
+<ul>
+<li>In particular, the congruence $(\ref{eq:E18592a})$ is solvable for an $y_0$ with $$\frac{m_1}{d}y_0\equiv\frac{a_2-a_1}{d}\mod \frac{m_2}{d},$$ which has exactly one solution according to the <a href="https://bookofproofs.github.io/branches/number-theory/existence-and-number-of-solutions-of-congruence-with-one-variable.html" title="Number Theory / Proposition: Existence and Number of Solutions of Congruence With One Variable">existence and number of solutions of an LDE with one variable</a>.</li>
+<li>All $x$ solving the simultaneous congruences $x(m_1)\equiv a_1(m_1)$ and $x(m_2)\equiv a_1(m_2)$ can be written (for $h\in\mathbb Z$) as $$\begin{array}{rcl}x&amp;=&amp;a_1+\left(y_0+h\frac{m_2}{d}\right)m_1\\
+&amp;=&amp;a_1+y_0m_1+h\frac{m_1m_2}{d}\\
+&amp;=&amp;a_1+y_0m_1+h\operatorname{lcm}(m_1,m_2),
+\end{array}$$ 
+because of the <a href="https://bookofproofs.github.io/branches/number-theory/relationship-between-the-greatest-common-divisor-and-the-least-common-multiple.html" title="Number Theory / Proposition: Relationship Between the Greatest Common Divisor and the Least Common Multiple">relationship between the greatest vommon divisor and the least common multiple</a>.</li>
+<li>For $h\in\mathbb Z,$ the last equation consists exactly of the congruence class modulo $\operatorname{lcm}(m_1,m_2).$</li>
+</ul>
+<h3>Induction step $r &gt; 2.$</h3>
+<ul>
+<li>Let $r &gt; 2$ and let the claim be proven for $r-1.$ </li>
+<li>This means that there is an $a\in\mathbb Z$ with $x\equiv a\mod \operatorname{lcm}(m_1,\ldots,m_{r-1})$ being a solution of the simultaneous $r-1$ congruence classes
+$$\begin{array}{rcl}
+x(m_1)&amp;\equiv&amp;a_1(m_1)\\
+x(m_2)&amp;\equiv&amp;a_2(m_2)\\
+&amp;\vdots&amp;\\
+x(m_{r-1})&amp;\equiv&amp; a_{r-1}(m_{r-1}).\\
+\end{array}\label{eq:E18598d}\tag{4}$$</li>
+<li>The the step $r-1\to r$ follows from the base case applied to the congruence system
+$$\begin{array}{rcl}
+x(\operatorname{lcm}(m_1,\ldots,m_{r-1}))&amp;\equiv&amp;a(\operatorname{lcm}(m_1,\ldots,m_{r-1}))\\
+x(m_r)&amp;\equiv&amp;a_r(m_r),\\
+\end{array}$$
+and the definition of the <a href="https://bookofproofs.github.io/branches/number-theory/least-common-multiple-of-more-than-two-numbers.html" title="Number Theory / Proposition: Least Common Multiple of More Than Two Numbers">least common multiple with more than two variables</a> $\operatorname{lcm}(m_1,\ldots,m_{r})=\operatorname{lcm}(\operatorname{lcm}(m_1,\ldots,m_{r-1}), m_r).$</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-theory/chinese-remainder-theorem-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Landau, Edmund</strong>: "Vorlesungen über Zahlentheorie, Aus der Elementaren Zahlentheorie", S. Hirzel, Leipzig, 1927</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

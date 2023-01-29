@@ -16,4 +16,4 @@ contributors: bookofproofs
 
 * Let `$L$` be a [set of propositions][bookofproofs$1307] and let  `$I$` be an [interpretation][bookofproofs$710] with the [valuation function][bookofproofs$710] `$[[]]_I$`.
 * According to the [truth table of equivalence][bookofproofs$1305], the valuation function `$[[x\Leftrightarrow y]]_I$` does not change its value if we exchange the valuations of `$[[x]]_I$` and `$[[y]]_I,$`
-* Thus, the [equivalence][bookofproofs$1305] operation [$\Leftrightarrow `$" is "commutative][bookofproofs$672], i.e. $`x \Leftrightarrow y=y \Leftrightarrow x$.
+* Thus, the [equivalence][bookofproofs$1305] operation "`$\Leftrightarrow$`" is [commutative][bookofproofs$672], i.e. `$x \Leftrightarrow y=y \Leftrightarrow x$`.

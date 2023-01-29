@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="SIEVE FOR TWIN PRIMES, TWIN PRIME SEQUENCE ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="twin primes sieve,twin primes sequence">
+<title>Sieve for Twin Primes</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/number-theory/sieve-methods/sieve-of-eratosthenes.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/number-theory/sieve-methods/sieve-methods.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/number-theory/sieve-methods/sieve-for-twin-primes-proof.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/number-theory/number-theory.html'>Number-theory</a> / <a href='https://bookofproofs.github.io/branches/number-theory/sieve-methods/sieve-methods.html'>Sieve-methods</a> / Lemma: Sieve for Twin Primes</h3>
+
+<hr>
+
+<p>It is well-known that using the <a href="https://bookofproofs.github.io/branches/number-theory/sieve-methods/sieve-of-eratosthenes.html" title="Number Theory / Sieve Methods / Definition: Sieve of Eratosthenes">sieve of Eratosthenes</a>, we can generate the sequence of primes $2,3,5,7,11,13,17,19,\ldots\), which is known to be [infinite][bookofproofs$507].
+It is a longstanding problem to prove if there are (or there are not) infinitely many [twin primes][bookofproofs$233]</code>((3,5),~(5,7),~(11,13),~(17,19),~(29,31),\ldots)`.</p>
+<p>There exists an efficient method[^6913] to sieve all twin primes of the form \((6k-1,6k+1)\), \(k=1,2,\ldots\). </p>
+<p>Note that these are all twin primes except the twin primes \((3,5)\). This is because even almost all primes (and not only twin primes) can be written in this form<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>.</p>
+<h3>A Sieve for Twin Primes and the Twin Prime Sequence</h3>
+<ol>
+<li>Start with the sequence of positive natural numbers \(1,2,3,4,\ldots\).</li>
+<li>Use the known infinite sequence of primes \(p &gt; 3\), i.e. the primes \(5, 7, 11, 13,17, 19, 23, 29,\ldots\) in the following way: </li>
+</ol>
+<h1>1. Set the number \(f_p\) to the value of the <a href="https://bookofproofs.github.io/branches/number-theory/floor-and-ceiling-functions.html" title="Number Theory / Definition: Floor and Ceiling Functions">floor function</a> \(f_p:=\lfloor (p+1)/6\rfloor\).</h1>
+<h1>1. Sieve from the above sequence of all positive natural numbers the numbers \(pk-f_p\) and \(pk+f_p\) for \(k=1,2,3,\ldots\).</h1>
+<h1>1. Repeat this procedure for all primes \(p &gt; 3\).</h1>
+<ol>
+<li>The remaining sequence starts with \(k=1, 2, 3, 5, 7, 10, 12, 17, 18, 23, 25, 30, 32, 33,\ldots\).</li>
+<li>The twin primes can be restored from this remaining sequence as follows:</li>
+</ol>
+<h1>1. Build pairs of numbers \((6k-1,6k+1)\) for \(k=1, 2, 3, 5, 7, 10, 12, 17, 18, 23, 25, 30, 32, 33,\ldots\).</h1>
+<h1>1. These pairs are all twin primes, except \((3,5)\), i.e. the twin primes \((5,7),~(11,13),~(17,19),~(29,31),~(41,43),\ldots\).</h1>
+<p>The following figure visualizes this sieve method:</p>
+<p>!{max-width:100%;}<a href="https://www.bookofproofs.org/graphics/examples/sievetwinprimes2.png">https://www.bookofproofs.org/graphics/examples/sievetwinprimes2.png</a>!</p>
+<p>With this respect, the sequence \(k=1, 2, 3, 5, 7, 10, 12, 17, 18, 23, 25, 30, 32, 33,\ldots\) can be called the <em>twin prime sequence.</em></p>
+<p>The following lemma formalizes this result.</p>
+<h1>Lemma: Sieve for Twin Primes</h1>
+<p>Let <code>$n\ge 1$ be an <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Number Systems Arithmetics / Proposition: Definition of Integers">integer</a>. The integer $a_n:=36n^2-1$ is the product of two
+<a href="https://bookofproofs.github.io/branches/number-theory/twin-prime-numbers.html" title="Number Theory / Definition: Twin Prime Numbers">twin primes</a> $p=6n-1$ and $q=6n+1$ if and only if $n\not\equiv\pm f_s\mod s$ for 
+all <a href="https://bookofproofs.github.io/branches/number-theory/prime-numbers.html" title="Number Theory / Definition: Prime Numbers">primes</a> $s$ with $5\le s\le\sqrt q,$ where, using the <a href="https://bookofproofs.github.io/branches/number-theory/floor-and-ceiling-functions.html" title="Number Theory / Definition: Floor and Ceiling Functions">floor</a> function, 
+the <a href="https://bookofproofs.github.io/branches/number-theory/congruent-residue.html" title="Number Theory / Definition: Congruent, Residue">residue classes</a> $f_s$ are defined by $$f_s:=\left\lfloor\frac {s+1}6\right\rfloor.$$</p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<p>Proofs: <a href='https://bookofproofs.github.io/branches/number-theory/sieve-methods/sieve-for-twin-primes-proof.html'>1</a> </p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/number-theory/sieve-methods/sieve-for-twin-primes.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Piotrowski, Andreas</strong>: "Anmerkungen zur Verteilung der Primzahlzwillinge", Master’s thesis, Frankfurt am Main, 1999</li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>This is because for all remaining natural numbers \(n\), there is a \(k\ge 1\) such 
+that \(n=6k-2\), or \(n=6k+2\), or \(n=6k-3\), or \(n=6k+3\), and all these numbers 
+are divisible by \(2\) and \(3\). Since they are composite (i.e. not prime), all the 
+remaining primes (and twin primes) must be of the form \(n=6k-1\) or \(n=6k+1\).&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

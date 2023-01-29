@@ -68,7 +68,7 @@ bookofproofs$6925 | bookofproofs$1086 | **Erk, Katrin; Priese, Lutz**: "Theoreti
 bookofproofs$6925 | bookofproofs$7896 | **Fischer, Gerd**: "Lehrbuch der Algebra", Springer Spektrum, 2017, 4th Edition
 bookofproofs$6925 | bookofproofs$8297 | **Flachsmeyer, Jürgen**: "Kombinatorik", VEB Deutscher Verlag der Wissenschaften, 1972, 3rd Edition
 bookofproofs$6925 | bookofproofs$581 | **Forster Otto**: "Analysis 1, Differential- und Integralrechnung einer Veränderlichen", Vieweg Studium, 1983 
-bookofproofs$6925 | bookofproofs$582 | **Forster Otto**: "Analysis 2, Differentialrechnung im \(\mathbb R^n\), Gewöhnliche Differentialgleichungen", Vieweg Studium, 1984 
+bookofproofs$6925 | bookofproofs$582 | **Forster Otto**: "Analysis 2, Differentialrechnung im `\(\mathbb R^n\)`, Gewöhnliche Differentialgleichungen", Vieweg Studium, 1984 
 bookofproofs$6925 | bookofproofs$8239 | **Fuchs, D.; Tabachnikov, S.**: "Ein Schaubild der Mathematik", Springer, 2011
 bookofproofs$6925 | bookofproofs$1632 | **Gericke, Helmuth**: "Mathematik in Antike, Orient und Abendland", fourierverlag, 2003, 6th Edition
 bookofproofs$6925 | bookofproofs$641 | **Govers, Timothy**: "The Princeton Companion to Mathematics", Princeton University Press, 2008, 

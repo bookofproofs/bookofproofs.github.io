@@ -81,7 +81,7 @@ Notation | Description  | Comment
 `$(\mathbb Q,+)$` | [commutative group of rational numbers with respect to addition][bookofproofs$1645] |
 `$(\mathbb R,+,\cdot))$` | [field of real numbers][bookofproofs$1638] |
 `$(\mathbb R, +)$` | [commutative group of real numbers with respect to addition][bookofproofs$1639] |
-`$z^* $` | [complex conjugate][bookofproofs$1245] of the complex number `$z$` |
+`$z^*$` | [complex conjugate][bookofproofs$1245] of the complex number `$z$` |
 `$\binom nk$` | [binomial coefficient][bookofproofs$993] |
 `$\operatorname{diam} (A)$` | [diameter][bookofproofs$6581] of set `$A$` |
 `$\delta X$` | [boundary][bookofproofs$1202] of `$X$` |
@@ -292,7 +292,7 @@ Notation | Description  | Comment
 `$\max(S)$` | [maximum][bookofproofs$7995] of `$S$` |
 `$\min(S)$` | [minimum][bookofproofs$7995] of `$S$` |
 `$\operatorname{Spec}(R)$` | [spectrum][bookofproofs$6245] of a commutative ring |
-`$\Sigma $` | [alphabet][bookofproofs$708] |
+`$\Sigma$` | [alphabet][bookofproofs$708] |
 `$\Sigma^*$` | [strings (set of)][bookofproofs$708] over an alphabet `$\Sigma$` |
 `$S\subseteq D$` | [subdigraph][bookofproofs$1171] `$S$` of a digraph `$D$` |
 `$D[V]$` | [induced subdigraph][bookofproofs$1171] in `$D$` spanned by vertices in `$V$` |
@@ -317,7 +317,7 @@ Notation | Description  | Comment
 `$\gamma$` | [Lorentz factor (special relativity)][bookofproofs$6297] |
 `$X,\mathcal {T}$` | [topological space][bookofproofs$6189] consisting of a set `$X$` and its topology `$\mathcal {T}$` |
 `$(V,\preccurlyeq)$` | [chain][bookofproofs$6191] `$V$` with a total order `$\preccurlyeq$` |
-`$(D\varphi)_x$` | [total derivative][bookofproofs$6215] of `$\varphi $` at the point `$x$` |
+`$(D\varphi)_x$` | [total derivative][bookofproofs$6215] of `$\varphi$` at the point `$x$` |
 `$A^T$` | [transposed matrix][bookofproofs$1054] |
 `$\Delta_n$` | [triangle number][bookofproofs$1410] ($n$'th) |
 `$G=(V,E,\gamma)$` | [undirected graph][bookofproofs$523] |

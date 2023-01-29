@@ -34,7 +34,7 @@ The method consists of the following two steps:
 \vdots& \vdots &\ldots&\vdots&\vdots&\ldots&\vdots&\vdots\\ 
 0& \ldots &\ldots&0&0&\ldots&0&b_m\\ 
 \end{array}\right)\quad \quad ( * * )$$` 
-using the [elementary Gaussian operations][bookofproofs$7952], where[^2] all the `$a_{ii}\neq 0$` for `$i=1,\ldots $` with some `$r\in\{1,\ldots,\min(m,n)\}.$` The number `$r$` is called the **rank** of the [coefficient matrix][bookofproofs$7941] `$A.$`
+using the [elementary Gaussian operations][bookofproofs$7952], where[^2] all the `$a_{ii}\neq 0$` for `$i=1,\ldots$` with some `$r\in\{1,\ldots,\min(m,n)\}.$` The number `$r$` is called the **rank** of the [coefficient matrix][bookofproofs$7941] `$A.$`
 The first step might involve the following steps:
    1. Remove all columns consisting of only zero elements.
    2. Set `$k=1$`.
