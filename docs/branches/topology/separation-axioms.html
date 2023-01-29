@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="SEPARATION AXIOMS ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="separation axiom,separation axioms,kolmogorov space,frechet space,hausdorff space,vietoris space,tietze space,kolmogorov spaces,frechet spaces,hausdorff spaces,vietoris spaces,tietze spaces,t0 space,t1 space,t2 space,t3 space">
+<title>Separation Axioms</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/topology/separation-of-topological-spaces.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/topology/separation-of-topological-spaces.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/topology/characterization-of-t1-spaces.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/topology/topology.html'>Topology</a> / Axiom: Separation Axioms</h3>
+
+<hr>
+
+<h1>Axiom: Separation Axioms</h1>
+<p>Let $(X,\mathcal O)$ be a <a href="https://bookofproofs.github.io/branches/topology/topological-space-topology.html" title="Topology / Definition: Topological Space, Topology">topological space</a> $X$ can be postulated to fulfill the following <strong>separation axioms</strong>:</p>
+<h3>Kolmogorov Space $T_0$</h3>
+<p>Among any two different points only one has an open set containing it, formally $$a,b\in X, a\neq b\Longrightarrow \exists O\in\mathcal O:\; (a\in O, b\not\in O)\vee (a\not\in O, b\in O).$$ In this case, $X$ is called a <strong>Kolmogorov space</strong> ("Andrey Kolmogorov":<a href="https://www.bookofproofs.org/history/andrey-nikolaevich-kolmogorov">https://www.bookofproofs.org/history/andrey-nikolaevich-kolmogorov</a> (1903 - 1987)).</p>
+<p><img alt="separationt0" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/separationt0.png?raw=true" /></p>
+<h3>Fréchet Space $T_1$</h3>
+<p>Among any two different points both have an open set containing only this point but not the other, formally $$a,b\in X, a\neq b\Longrightarrow \exists O_a,O_b\in\mathcal O:\; (a\in O_a, b\not\in O_a)\wedge (a\not\in O_b, b\in O_b).$$ In this case, $X$ is called a <em>Fréchet space</em> ("René Fréchet":<a href="https://www.bookofproofs.org/history/rene-maurice-frechet">https://www.bookofproofs.org/history/rene-maurice-frechet</a>" (1878 - 1973)).</p>
+<p><img alt="separationt1" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/separationt1.png?raw=true" /></p>
+<h3>Hausdorff Space $T_2$</h3>
+<p>Two distinct points have to distinct open sets containing them, formally 
+$$a,b\in X, a\neq b\Longrightarrow \exists O_a,O_b\in\mathcal O:\; (a\in O_a)\wedge (b\in O_b)\wedge (O_a\cap O_b=\emptyset).$$ In this case, $X$ is called a <strong>Hausdorff space</strong> ("Felix Hausdorff":<a href="https://www.bookofproofs.org/history/felix-hausdorff/">https://www.bookofproofs.org/history/felix-hausdorff/</a> (1868 - 1942)).</p>
+<p><img alt="separationt2" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/separationt2.png?raw=true" /></p>
+<h3>Vietoris Space $T_3$</h3>
+<p>For every <a href="https://bookofproofs.github.io/branches/topology/open-closed-clopen.html" title="Topology / Definition: Open, Closed, Clopen">closed set</a> and every point not contained in it there are open sets containing them respectively, formally 
+$$x\not\in U\subset X\Longrightarrow \exists O_U,O_x\in\mathcal O:\; (U\subset O_U)\wedge (x\in O_x).$$ 
+In this case, $X$ is called a <strong>Vietoris space</strong> ("Leopold Vietoris":<a href="https://www.bookofproofs.org/history/leopold-vietoris">https://www.bookofproofs.org/history/leopold-vietoris</a>" (1891 - 2002)).</p>
+<p><img alt="separationt3" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/separationt3.png?raw=true" /></p>
+<h3>Tietze Space $T_4$</h3>
+<p>For any two disjoint <a href="https://bookofproofs.github.io/branches/topology/open-closed-clopen.html" title="Topology / Definition: Open, Closed, Clopen">closed sets</a> there are disjoint open sets containing them, formally 
+$$U,W\subset X\text{ closed }, U\cap W=\emptyset \Longrightarrow \exists O_U,O_W\in\mathcal O:\; (U\subset O_U)\wedge (W\subset O_W)\wedge (O_U\cap O_W=\emptyset).$$ 
+In this case, $X$ is called a <strong>Tietze space</strong> ("Franz Tietze":<a href="https://www.bookofproofs.org/history/heinrich-franz-friedrich-tietze&quot;:https://www.bookofproofs.org/history/leopold-vietoris">https://www.bookofproofs.org/history/heinrich-franz-friedrich-tietze":https://www.bookofproofs.org/history/leopold-vietoris</a>" (1880 - 1964)).</p>
+<p><img alt="separationt4" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/separationt4.png?raw=true" /></p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/topology/separation-axioms.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Steen, L.A.;Seebach J.A.Jr.</strong>: "Counterexamples in Topology", Dover Publications, Inc, 1970</li>
+<li><strong>Jänich, Klaus</strong>: "Topologie", Springer, 2001, 7th Edition</li>
+<li><strong>Grotemeyer, K.P.</strong>: "Topologie", B.I.-Wissenschaftsverlag, 1969</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

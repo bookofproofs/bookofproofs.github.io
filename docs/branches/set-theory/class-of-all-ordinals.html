@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="THE CLASS OF ALL ORDINALS OMEGA ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="class of all ordinals">
+<title>The Class of all Ordinals `$\Omega$`</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/burali-forti-paradox.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/ordinal-numbers.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/cardinal-numbers.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Definition: The Class of all Ordinals `$\Omega$`</h3>
+
+<hr>
+
+<p>We have seen that <a href="https://bookofproofs.github.io/branches/set-theory/ordinals-are-downward-closed.html" title="Set Theory / Proposition: Ordinals Are Downward Closed">ordinal numbers are downward closed</a>. But does it also hold in the opposite direction? Is there a "set of all ordinals" $\Omega$?</p>
+<p>The <a href="https://bookofproofs.github.io/branches/set-theory/burali-forti-paradox.html" title="Set Theory / Motivation: Burali-Forti Paradox">Burali-Forti paradox</a> shows that such a set cannot exist. In other words, the notion of a <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">set</a> is <a href="https://bookofproofs.github.io/branches/set-theory/ordinal-number.html" title="Set Theory / Definition: Ordinal Number">too narrow" to be used for summing up all existing "ordinal numbers</a>.</p>
+<h1>Definition: The Class of all Ordinals $\Omega$</h1>
+<p>In the terms of the <a href="https://bookofproofs.github.io/branches/set-theory/historical-development-of-set-theory.html" title="Set Theory / Part: Historical Development of Set Theory">Neumann-Berneys-Gödel set theory</a> (NBG), $\Omega$ as a collection of <em>all</em> <a href="https://bookofproofs.github.io/branches/set-theory/ordinal-number.html" title="Set Theory / Definition: Ordinal Number">ordinal numbers</a> is not a <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">set</a> but a <a href="https://bookofproofs.github.io/branches/set-theory/historical-development-of-set-theory.html" title="Set Theory / Part: Historical Development of Set Theory">proper class</a>.</p>
+<h3>Notes</h3>
+<ul>
+<li>For a proper class, it is forbidden to be an element of a class (especially itself), therefore $\Omega\not\in\Omega.$</li>
+<li>Nevertheless, all ordinals $\alpha\in\Omega$ build an infinite <a href="https://bookofproofs.github.io/branches/set-theory/total-order.html" title="Set Theory / Definition: Total Order and Chain">chain</a> of being contained in each other. </li>
+<li>Remember that we have already constructed the <a href="https://bookofproofs.github.io/branches/set-theory/minimal-inductive-set.html" title="Set Theory / Definition: Minimal Inductive Set">minimal inductive set</a> $\omega$ independently from the discussion of <a href="https://bookofproofs.github.io/branches/set-theory/ordinal-number.html" title="Set Theory / Definition: Ordinal Number">ordinal numbers</a> while we were talking about the <a href="https://bookofproofs.github.io/branches/set-theory/zermelo-fraenkel-axioms.html" title="Set Theory / Axiom: Zermelo-Fraenkel Axioms">Zermelo-Fraenkel axioms</a>.</li>
+<li>$\omega$ can be visualized as follows:</li>
+</ul>
+<p><img alt="inductiveset" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/inductiveset.png?raw=true" /></p>
+<p>Please note that $\omega\neq\Omega$, i.e. the <em>set</em> $\omega$ never can equal (!) the <em>class</em> $\Omega.$ However, it was constructed using a similar, recursive principle:</p>
+<ol>
+<li>$\emptyset \in \omega$</li>
+<li>$\emptyset \in \omega$</li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/set-theory/class-of-all-ordinals.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Hoffmann, Dirk W.</strong>: "Grenzen der Mathematik - Eine Reise durch die Kerngebiete der mathematischen Logik", Spektrum Akademischer Verlag, 2011</li>
+<li><strong>Hoffmann, D.</strong>: "Forcing, Eine Einführung in die Mathematik der Unabhängigkeitsbeweise", Hoffmann, D., 2018</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

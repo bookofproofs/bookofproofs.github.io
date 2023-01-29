@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="SINGLETON &amp;#9733; bring your math skills to the graduate level &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="singleton">
+<title>Singleton</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/justification-of-power-set-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/axiom-of-power-set.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/axiom-of-foundation.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Definition: Singleton</h3>
+
+<hr>
+
+<p>We have just shown how the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-power-set.html" title="Set Theory / Axiom: Axiom of Power Set">axiom of power set</a> ensures the existence and uniqueness of the <a href="https://bookofproofs.github.io/branches/set-theory/power-set.html" title="Set Theory / Definition: Power Set">power set</a>. The following diagram illustrates the power set $\mathcal P(X)$ for a set $X$ containing three elements:</p>
+<p><img alt="singleton1" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/singleton1.png?raw=true" /></p>
+<p>Using the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-separation.html" title="Set Theory / Axiom: Schema of Separation Axioms (Restricted Principle of Comprehension)">axiom of separation</a>, we can now separate a subset of $\mathcal P(X)$ containing exactly $X$ as its single element:</p>
+<p><img alt="singleton2" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/singleton2.png?raw=true" /></p>
+<p>Moreover, the resulting set is unique by the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-extensionality.html" title="Set Theory / Axiom: Axiom of Extensionality">axiom of extensionality</a>. This motivates the following definition:</p>
+<h1>Definition: Singleton</h1>
+<p>For every set $X$ the set $\{X\}$ is well-defined and is called the <strong>singleton</strong> of $X.$ Formally, using the <a href="https://bookofproofs.github.io/branches/set-theory/power-set.html" title="Set Theory / Definition: Power Set">power set</a>, we have $$\{X\}:=\{z\in\mathcal P(X)\mid z=X\}.$$</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/set-theory/singleton.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Hoffmann, Dirk W.</strong>: "Grenzen der Mathematik - Eine Reise durch die Kerngebiete der mathematischen Logik", Spektrum Akademischer Verlag, 2011</li>
+<li><strong>Ebbinghaus, H.-D.</strong>: "Einführung in die Mengenlehre", BI Wisschenschaftsverlag, 1994, 3th Edition</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

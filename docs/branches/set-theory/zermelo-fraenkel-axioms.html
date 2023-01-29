@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="ZERMELO-FRAENKEL AXIOMS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="fraenkel,zermelo,zermelo fraenkel axioms,zermelo-fraenkel axioms,zermelo fraenkel">
+<title>Zermelo-Fraenkel Axioms</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/zermelo-fraenkel-set-theory.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/zermelo-fraenkel-set-theory.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/axiom-of-existence.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Axiom: Zermelo-Fraenkel Axioms</h3>
+
+<hr>
+
+<p>Usually, we denote sets by capital letters $X,Y,\ldots$, while writing small letters $x,y,\ldots$ for their elements. In the Zermelo-Fraenkel set theory, sets can be themselves elements of other sets. Thus, there is no reason to introduce a different notation for sets and their elements and many sources in literature do without a distinctive notation. Nevertheless, we will keep sticking to this notation, just to make it clearer which sets are meant to be <em>the elements</em> and which sets are meant to <em>contain these elements</em>. When you read small letters $x,y,\ldots$ below, please keep in mind that they denote sets again.</p>
+<h1>Axiom: Zermelo-Fraenkel Axioms</h1>
+<p>A <strong>set</strong> is a mathematical object fulfilling the following axioms:</p>
+<ul>
+<li><a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-existence.html" title="Set Theory / Axiom: Axiom of Existence">Axiom of Existence</a> - There is a universal set. Some sources mention the equivalent  <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-empty-set.html" title="Set Theory / Axiom: Axiom of Empty Set">Axiom of Empty Set</a> - There is an (improper) set, which does not contain any elements.</li>
+<li><a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-extensionality.html" title="Set Theory / Axiom: Axiom of Extensionality">Axiom of Extensionality</a> - If each element of the set \(X\) is also an element of the set \(Y\) and vice versa, then both are the same. In other words, a set is determined by its elements.</li>
+<li><a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-separation.html" title="Set Theory / Axiom: Schema of Separation Axioms (Restricted Principle of Comprehension)">Schema of Separation Axioms</a> - If \(p(z)\) is a definite property, then for all sets \(X\) there is a subset \(Y\) consisting of those elements \(x\), for which \(p(x)\) is satisfied.</li>
+<li><a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-pairing.html" title="Set Theory / Axiom: Axiom of Pairing">Axiom of Pairing</a> - For any sets \(X, Y\) there exists a set containing a collection of the two sets as its elements, i.e. the set \(\{X, Y\}.\)</li>
+<li><a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-union.html" title="Set Theory / Axiom: Axiom of Union">Axiom of Union</a> - For each set \(X\) there is a set containing all elements of the elements of $X$.</li>
+<li><a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-power-set.html" title="Set Theory / Axiom: Axiom of Power Set">Axiom of Power Set</a> - For each set \(X\) there exists a set containing all subsets of $X.$</li>
+<li><a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-foundation.html" title="Set Theory / Axiom: Axiom of Foundation">Axiom of Foundation</a> - Every non-empty set $X$ contains an element that is disjoint from $X.$</li>
+<li><a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-infinity.html" title="Set Theory / Axiom: Axiom of Infinity">Axiom of Infinity</a> - There exists a set \(X\) containing the empty set and also with every element $z$ the element $z\cup \{z\}.$</li>
+<li><a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-replacement.html" title="Set Theory / Axiom: Axiom of Replacement (Schema)">Schema of Replacement Axioms</a> - If we replace the elements of a set \(X\) with elements from another domain, then the resulting object is also a set.</li>
+<li><a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-choice.html" title="Set Theory / Axiom: Axiom of Choice">Axiom of Choice</a> - For every set $X$ of disjoint and nonempty sets there is a set $Y$ containing exactly one element from each of these sets. </li>
+</ul>
+<p>We will now explain the contents of each axiom separately and discuss how they improve the consistency of the set theory in comparison to the naive set definition.</p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/set-theory/axiom-of-existence.html'>Axiom: Axiom of Existence</a></li>
+<li><a href='https://bookofproofs.github.io/branches/set-theory/axiom-of-empty-set.html'>Axiom: Axiom of Empty Set</a></li>
+<li><a href='https://bookofproofs.github.io/branches/set-theory/axiom-of-extensionality.html'>Axiom: Axiom of Extensionality</a></li>
+<li><a href='https://bookofproofs.github.io/branches/set-theory/axiom-of-separation.html'>Axiom: Schema of Separation Axioms (Restricted Principle of Comprehension)</a></li>
+<li><a href='https://bookofproofs.github.io/branches/set-theory/axiom-of-pairing.html'>Axiom: Axiom of Pairing</a></li>
+<li><a href='https://bookofproofs.github.io/branches/set-theory/axiom-of-union.html'>Axiom: Axiom of Union</a></li>
+<li><a href='https://bookofproofs.github.io/branches/set-theory/axiom-of-power-set.html'>Axiom: Axiom of Power Set</a></li>
+<li><a href='https://bookofproofs.github.io/branches/set-theory/axiom-of-foundation.html'>Axiom: Axiom of Foundation</a></li>
+<li><a href='https://bookofproofs.github.io/branches/set-theory/axiom-of-infinity.html'>Axiom: Axiom of Infinity</a></li>
+<li><a href='https://bookofproofs.github.io/branches/set-theory/axiom-of-replacement.html'>Axiom: Axiom of Replacement (Schema)</a></li>
+<li><a href='https://bookofproofs.github.io/branches/set-theory/axiom-of-choice.html'>Axiom: Axiom of Choice</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/set-theory/zermelo-fraenkel-axioms.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Hoffmann, Dirk W.</strong>: "Grenzen der Mathematik - Eine Reise durch die Kerngebiete der mathematischen Logik", Spektrum Akademischer Verlag, 2011</li>
+<li><strong>Ebbinghaus, H.-D.</strong>: "Einführung in die Mengenlehre", BI Wisschenschaftsverlag, 1994, 3th Edition</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

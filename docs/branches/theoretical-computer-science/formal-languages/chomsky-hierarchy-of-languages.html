@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="CHOMSKY HIERARCHY OF LANGUAGES ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="distinction between language types,different types of grammars,chomsky,chomsky hierarchy,syntactic structure">
+<title>Chomsky&#x27;s Hierarchy of Languages</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/type-0-phrase-structure-grammars-and-recursively-enumerable-languages.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/classification-of-formal-languages.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/finite-automata-finite-sequential-machines.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/theoretical-computer-science.html'>Theoretical-computer-science</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/formal-languages.html'>Formal-languages</a> / Explanation: Chomsky&#x27;s Hierarchy of Languages</h3>
+
+<hr>
+
+<h1>Explanation: Chomsky&#x27;s Hierarchy of Languages</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/classification-of-formal-languages.html'>Chapter: Classification of Formal Languages</a>)</p>
+<p>The definitions of the previously introduced types of grammars get (from <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/type-3-linear-grammars-and-regular-languages.html" title="Theoretical Computer Science / Formal Languages / Definition: Type-3 (Linear) Grammars and Regular Languages">type-3</a>, over <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/type-2-cf-grammars-and-context-free-languages.html" title="Theoretical Computer Science / Formal Languages / Definition: Type-2 (cf) Grammars and Context-free Languages">type-2</a> and <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/type-1-cs-grammars-and-context-sensitive-languages.html" title="Theoretical Computer Science / Formal Languages / Definition: Type-1 (cs) Grammars and Context-sensitive Languages">type-1</a>, to <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/type-0-phrase-structure-grammars-and-recursively-enumerable-languages.html" title="Theoretical Computer Science / Formal Languages / Definition: Type-0 (Phrase Structure) Grammars and Recursively Enumerable Languages">type-0</a>) more and more general. This structure became known as the <strong>Chomsky hierarchy</strong><sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>.</p>
+<p><img alt="chomskyhierarchy1" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/chomskyhierarchy1.png?raw=true" /></p>
+<p>The question arises, whether or not these generalizations induce proper inclusions of the language classes generated by the grammars, i.e. if $$\mathcal L_3\subseteq\mathcal L_2\subseteq\mathcal L_1\subseteq\mathcal L_0,$$ or if  $$\mathcal L_3\subset\mathcal L_2\subset\mathcal L_1\subset\mathcal L_0.$$</p>
+<p>The following examples demonstrate that the inclusions are, indeed, proper. For instance, all regular languages are context-free languages but not vice-versa.</p>
+<h3>Example of a Regular Language ($\in\mathcal L_3\subset\mathcal L_2\subset\mathcal L_1\subset\mathcal L_0$)</h3>
+<ul>
+<li>The grammar $G=(\{S,B,C\},\{a,b\},R,S)$ with the rules $R$: $$\begin{array}{rcl}
+S&amp;\to&amp;aB,\\
+B&amp;\to&amp;bC,\\
+C&amp;\to&amp;\epsilon \mid aB
+\end{array}$$ is regular since it allows the replacement of only one variable and every rule ends with a single variable. </li>
+<li>Example generation of $ababab$: $$\begin{array}{rcl}
+S&amp;\to&amp;aB\\
+&amp;\to&amp;abC\\
+&amp;\to&amp;abaB\\
+&amp;\to&amp;ababC\\
+&amp;\to&amp;ababaB\\
+&amp;\to&amp;abababC\\
+&amp;\to&amp;ababab\\
+\end{array}$$</li>
+<li>The grammar <a href="https://bookofproofs.github.io/branches/logic/formal-language-generated-from-a-grammar.html" title="Logic / Definition: Formal Languages Generated From a Grammar">generates the language</a> $$L(G)=\{(ab)^n\mid n\ge 1, n\in\mathbb N\}=\{ab,abab,ababab,abababab,\ldots\}.$$</li>
+<li>The generated language $L(G)$ is (trivially and by definitions of the grammars) is also a context-free, a context-sensitive and a phrase-structure one.</li>
+</ul>
+<h3>Example of a Context-Free, Not Regular Language ($\not\in\mathcal L_3$ and $\in\mathcal L_2\subset\mathcal L_1\subset\mathcal L_0$)</h3>
+<ul>
+<li>The grammar $G=(\{S\},\{a,b\},R,S)$ with the rules $R$: $$\begin{array}{rcl}
+S&amp;\to&amp;aSb\mid ab,\\
+\end{array}$$ is context-free since it allows the replacement of only one variable. In contrast to the first example, every rule can involve more variables. </li>
+<li>Example generation of $aaabbb$: $$\begin{array}{rcl}
+S&amp;\to&amp;aSb\\
+&amp;\to&amp;aaSbb\\
+&amp;\to&amp;aaabbb
+\end{array}$$</li>
+<li>The grammar generates the language $$L(G)=\{a^nb^n\mid n\ge 1, n\in\mathbb N\}=\{ab,aabb,aaabbb,\ldots\}.$$</li>
+<li>Apparently, the language is not regular. It is not hard to see why it cannot be regular.  The reason for this is the order of the symbols $a$ and $b$. If we wanted to generate the language $\{a^nb^n\}$ by a <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/type-3-linear-grammars-and-regular-languages.html" title="Theoretical Computer Science / Formal Languages / Definition: Type-3 (Linear) Grammars and Regular Languages">type-3 grammar</a>, it would be necessary to "remember" the number $n$ of $a$'s we have generated first, before we can generate the same number of $b$'s. Because the value $n$ is not <a href="https://bookofproofs.github.io/branches/analysis/bounded-real-sequences-upper-and-lower-bounds-for-a-real-sequence.html" title="Analysis / Definition: Bounded Real Sequences, Upper and Lower Bounds for a Real Sequence">bounded from above</a>, a type-3 language would have to allow an unlimited number of variables. This is not possible, a <a href="https://bookofproofs.github.io/branches/logic/grammar-syntax.html" title="Logic / Definition: Grammar (Syntax)">grammar</a> cannot have an infinite number of variables, by definition. </li>
+<li>The generated language $L(G)$ is (trivially and by definitions of the grammars) is context-sensitive and a phrase-structure one, but not regular. </li>
+</ul>
+<h3>Example of a Context-sensitive, Not Context-free Language ($\not\in\mathcal L_3,\not\in\mathcal L_2,$ and $\in\mathcal L_1\subset\mathcal L_0$)</h3>
+<ul>
+<li>The grammar $G=(\{S,B,C,D,E\},\{a,b,c\},R,S)$ with the rules $R$: $$\begin{array}{rcl}
+S&amp;\to&amp;aBC\mid aSBC,\\
+CB&amp;\to&amp;CE,\\
+CE&amp;\to&amp;DE,\\
+DE&amp;\to&amp;DC,\\
+DC&amp;\to&amp;BC,\\
+aB&amp;\to&amp;ab,\\
+bB&amp;\to&amp;bb,\\
+bC&amp;\to&amp;bc,\\
+cC&amp;\to&amp;cc,\\
+\end{array}$$ is context-sensitive, since any rule $P\to Q\in R$ fulfills the property $|P|\le|Q|.$ Since $S\to\epsilon$ is not included, $S$ may be part of a some $Q$ of rule (as is the case in the first rule of this example). Apparently, the language is not context-free.</li>
+<li>Example generation of $aabbcc$: $$\begin{array}{rcl}
+S&amp;\to&amp;aSBC\\
+&amp;\to&amp;aaBCBC\\
+&amp;\to&amp;aaBCEC\\
+&amp;\to&amp;aaBDEC\\
+&amp;\to&amp;aaBDCC\\
+&amp;\to&amp;aaBBCC\\
+&amp;\to&amp;aabBCC\\
+&amp;\to&amp;aabbCC\\
+&amp;\to&amp;aabbcC\\
+&amp;\to&amp;aabbcc\\
+\end{array}$$</li>
+<li>The grammar generates the language $$L(G)=\{a^nb^nc^n\mid n\ge 1, n\in\mathbb N\}=\{abc,aabbcc,aaabbbccc,\ldots\}.$$</li>
+<li>It is not hard to see why it cannot be context-free. The symbol $c$ can only be generated, <em>after</em> some of the symbols $a,$ and <em>then after</em> some of the symbols $b$ have already been generated (only in this context). It is neither possible to start with a $c$ nor to continue with a $c$ after having generated only $a$'s. </li>
+</ul>
+<h3>Example of a Recursively-Enumarable, Not Context-Sensitive Language ($\not\in\mathcal L_3,\not\in\mathcal L_2,\not\in\mathcal L_1,$ and $\in\mathcal L_0$)</h3>
+<p>An example can be a language, the words of which code a <em>terminating</em> <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/computability/turing-machine.html" title="Theoretical Computer Science / Computability / Section: Turing Machine">Turing machine</a>. We will see later what it is and why this language is not context-sensitive.</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/theoretical-computer-science/formal-languages/chomsky-hierarchy-of-languages.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Erk, Katrin; Priese, Lutz</strong>: "Theoretische Informatik", Springer Verlag, 2000, 2nd Edition</li>
+<li><strong>Hoffmann, Dirk</strong>: "Theoretische Informatik, 3. Auflage", Hanser, 2015</li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>see "Noam Chomsky, 'Syntactic Structure'":<a href="https://www.academia.edu/4073170/Noam_Chomsky_Syntactic_Structure">https://www.academia.edu/4073170/Noam_Chomsky_Syntactic_Structure</a>, 1957&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

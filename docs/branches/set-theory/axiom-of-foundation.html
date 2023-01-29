@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="AXIOM OF FOUNDATION ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="axiom of foundation,foundation axiom,foundation postulate,postulate of foundation,axiom of regularity,axiom of foundation set theory">
+<title>Axiom of Foundation</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/singleton.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/zermelo-fraenkel-axioms.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/circular-references-of-self-contained-sets-are-forbidden.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Axiom: Axiom of Foundation</h3>
+
+<hr>
+
+<p>The existence of a <a href="https://bookofproofs.github.io/branches/set-theory/singleton.html" title="Set Theory / Definition: Singleton">singleton</a> $\{X\}$ for every set $X$ raises the question if both are equal. If we take the definition of <a href="https://bookofproofs.github.io/branches/set-theory/equality-of-sets.html" title="Set Theory / Corollary: Equality of Sets">set equality</a> as a basis, then we must ask ourselves if $X\subseteq \{X\}$ and if $\{X\}\subseteq X$. Certainly, $X\in \{X\}$ by definition of the singleton, and, using the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-separation.html" title="Set Theory / Axiom: Schema of Separation Axioms (Restricted Principle of Comprehension)">axiom of separation</a>, we can separate this element to get a subset <em>containing</em> the element $X$ which is a subset of the initial singleton $\{X\}.$ But this subset is again a singleton of $X$, by construction, and we get the trivial result $\{X\}\subseteq \{X\}$. By symmetry, we also get $\{X\}\supseteq \{X\}$ and we only get the trivial result $\{X\}=\{X\}.$</p>
+<p>Another approach to decide, if $X=\{X\}$ would be to assume this and check if this assumption leads to a <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">contradiction</a>. Let us try. Assume $X=\{X\}$. Since $X\in \{X\}$, we get $X\in X,$ i.e. a set containing itself. Please note that even with the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-extensionality.html" title="Set Theory / Axiom: Axiom of Extensionality">axiom of extensionality</a> we cannot decide, if such a set can exist. Obviously, if such a set existed, then we would allow never-ending chains $\ldots\in X\in X\in\ldots\in X\in\ldots$ or circular referencec, like for instance in the following chain $X\in X_1\in X_2\in X.$</p>
+<p>Therefore, we have to determine, if we want to allow such constructions in our set theory or not. The additional axiom of foundation forbids such constructions. It was added to the original set of axioms of "Zermelo":<a href="https://www.bookofproofs.org/history/ernst-friedrich-ferdinand-zermelo/">https://www.bookofproofs.org/history/ernst-friedrich-ferdinand-zermelo/</a> by "Fraenkel":<a href="https://www.bookofproofs.org/history/adolf-abraham-halevi-fraenkel/">https://www.bookofproofs.org/history/adolf-abraham-halevi-fraenkel/</a> and "von Neumann":<a href="https://www.bookofproofs.org/history/john-von-neumann/">https://www.bookofproofs.org/history/john-von-neumann/</a> and helps to avoid paradoxes mentioned in the <a href="https://bookofproofs.github.io/branches/set-theory/historical-development-of-set-theory.html" title="Set Theory / Part: Historical Development of Set Theory">historical development of the set theory</a>, which threw mathematics in a fundamental crisis at the beginning of the 20th century.</p>
+<h1>Axiom: Axiom of Foundation</h1>
+<p>Every non-empty set \(X\) contains an element that is disjoint from \(X\). This can be formalized as</p>
+<p>\[\forall X(X\neq\emptyset \Rightarrow\exists z(z\in X \wedge X\cap z=\emptyset)).\]</p>
+<p>Note: The following figure demonstrates this axiom for the singleton:</p>
+<p><img alt="axiomfoundation" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/axiomfoundation.png?raw=true" /></p>
+<p>and makes sure that $X\neq \{X\}$ for all sets $X.$</p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<p>Corollaries: <a href='https://bookofproofs.github.io/branches/set-theory/circular-references-of-self-contained-sets-are-forbidden.html'>1</a> </p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/set-theory/axiom-of-foundation.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Hoffmann, Dirk W.</strong>: "Grenzen der Mathematik - Eine Reise durch die Kerngebiete der mathematischen Logik", Spektrum Akademischer Verlag, 2011</li>
+<li><strong>Ebbinghaus, H.-D.</strong>: "Einführung in die Mengenlehre", BI Wisschenschaftsverlag, 1994, 3th Edition</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

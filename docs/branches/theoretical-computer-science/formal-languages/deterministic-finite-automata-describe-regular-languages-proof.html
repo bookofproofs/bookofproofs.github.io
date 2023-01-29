@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="PROOF OF DETERMINISTIC FINITE AUTOMATA DESCRIBE REGULAR LANGUAGES &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="deterministic finite  automata describe regular languages,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/deterministic-finite-automata-describe-regular-languages.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/deterministic-finite-automata-describe-regular-languages.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/deterministic-finite-automaton.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/theoretical-computer-science.html'>Theoretical-computer-science</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/formal-languages.html'>Formal-languages</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/deterministic-finite-automata-describe-regular-languages.html'>Theorem: Deterministic Finite Automata Describe Regular Languages</a>)</p>
+<ul>
+<li>We first show that every language $L$ accepted by a <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/deterministic-finite-automaton.html" title="Theoretical Computer Science / Formal Languages / Definition: Deterministic Finite Automaton (DFA)">deterministic finite automaton</a> $DFA$ is <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/type-3-linear-grammars-and-regular-languages.html" title="Theoretical Computer Science / Formal Languages / Definition: Type-3 (Linear) Grammars and Regular Languages">regular</a>.<ul>
+<li>Let $DFA=(C,\Sigma,\delta,F,s_0)$ be a <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/deterministic-finite-automaton.html" title="Theoretical Computer Science / Formal Languages / Definition: Deterministic Finite Automaton (DFA)">deterministic finite automaton</a>.</li>
+<li>We construct a <a href="https://bookofproofs.github.io/branches/logic/grammar-syntax.html" title="Logic / Definition: Grammar (Syntax)">grammar</a> $G=(V,T,R,S)$ corresponding to the DFA as follows: <ul>
+<li>Set $T=\Sigma$, i.e. the terminal symbols of the grammar are the alphabet $\Sigma.$  </li>
+<li>Set $A_0\in V$ to correspond to the <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/deterministic-finite-automaton.html" title="Theoretical Computer Science / Formal Languages / Definition: Deterministic Finite Automaton (DFA)">starting state</a> $s_0.$ </li>
+<li>Interprete all other states $s\in C$ of the DFA as some other variables $A_i$ of $G$ i.e. for every $s_i\in C$ there is a variable $A_i\in V$ and vice versa (and $A_0$ stands for the starting state $s_0.$) </li>
+<li>Every state transition $s_{i+1}=\delta(s_i,\sigma)$ of the DFA can be interpreted as a production rule $A_i\to \sigma A_{i+1}\in R.$</li>
+<li>If $s_{i+1}\in F$ is a <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/deterministic-finite-automaton.html" title="Theoretical Computer Science / Formal Languages / Definition: Deterministic Finite Automaton (DFA)">final state</a>, we add $A_{i+1}\to\epsilon$ to the rules, in order to stop the construction of the word in $G$ exactly at the same time when the DFA stops at a final state. </li>
+<li>By this construction, the grammar $G$ <a href="https://bookofproofs.github.io/branches/logic/formal-language-generated-from-a-grammar.html" title="Logic / Definition: Formal Languages Generated From a Grammar">generates the language</a> of the given DFA, i.e. $L(G)=L(\operatorname{DFA}).$</li>
+<li>Moreover, it is a grammar of a <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/type-3-linear-grammars-and-regular-languages.html" title="Theoretical Computer Science / Formal Languages / Definition: Type-3 (Linear) Grammars and Regular Languages">regular language</a>, since the conclusion $Q$ of every production $P\to Q\in R$ is either the empty string $\epsilon$ or it is a <a href="https://bookofproofs.github.io/branches/logic/strings-words-over-an-alphabet.html" title="Logic / Definition: Strings (words) over an Alphabet">concatenation</a> of some non-empty string of <a href="https://bookofproofs.github.io/branches/logic/grammar-syntax.html" title="Logic / Definition: Grammar (Syntax)">terminals</a> ending with a <a href="https://bookofproofs.github.io/branches/logic/grammar-syntax.html" title="Logic / Definition: Grammar (Syntax)">variable</a> $\sigma A_{i+1}$ (in other words, $G$ is <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/type-3-linear-grammars-and-regular-languages.html" title="Theoretical Computer Science / Formal Languages / Definition: Type-3 (Linear) Grammars and Regular Languages">right-linear</a>).</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Now, we show that for every regular language there is a DFA accepting it.<ul>
+<li>Let $G=(V,T,R,S)$ be a grammar of a <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/type-3-linear-grammars-and-regular-languages.html" title="Theoretical Computer Science / Formal Languages / Definition: Type-3 (Linear) Grammars and Regular Languages">regular language</a>, </li>
+<li>It suffices to find a <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/non-deterministic-finite-automaton-nfa.html" title="Theoretical Computer Science / Formal Languages / Definition: Non-deterministic Finite Automaton (NFA)">non-deterministic finite automaton</a> $NFA=(C,\Sigma,\Delta,F,s_0)$ which accepts the same language. It will then follow from <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/reduction-of-nfa-to-dfa-rabin-scott-theorem.html" title="Theoretical Computer Science / Formal Languages / Theorem: Reduction of NFA to DFA (Rabin-Scott Theorem)">Rabin-Scott theorem</a>, than there is an appropriate DFA.<ul>
+<li>Set $\Sigma=T$, i.e. the alphabet of the NFA are exactly the terminal symbols of the grammar $G$. </li>
+<li>Create a separate state $s_i\in C$ of the NFA or every variable $A_i\in V$ of the grammar $G.$</li>
+<li>Since $G$ is regular, every production rule is <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/type-3-linear-grammars-and-regular-languages.html" title="Theoretical Computer Science / Formal Languages / Definition: Type-3 (Linear) Grammars and Regular Languages">left-linear</a> or <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/type-3-linear-grammars-and-regular-languages.html" title="Theoretical Computer Science / Formal Languages / Definition: Type-3 (Linear) Grammars and Regular Languages">right-linear</a>.</li>
+<li>Without loss of generality<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>, let $G$ be right-linear, i.e. let every of its production rules be either of the form $A_i\to\epsilon$ or $A_i\to \sigma A_{i+1}.$</li>
+<li>In the case $A_i\to \sigma A_{i+1},$ we mark the transition from the state $s_i$ to the state $s_{i+1}$ of the NFA with $\sigma.$</li>
+<li>In the case $A_i\to \epsilon,$ the state $s_i$ is a <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/non-deterministic-finite-automaton-nfa.html" title="Theoretical Computer Science / Formal Languages / Definition: Non-deterministic Finite Automaton (NFA)">final state</a> of the $NFA,$ i.e. we set $F=\{s_k\mid (A_k\to\epsilon)\in R\}.$</li>
+<li>Note, that $NFA$ is in general non-deterministic since the grammar $G$ can have more than one production rule for a variable $A_i$ and an input character $\sigma.$ </li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/theoretical-computer-science/formal-languages/deterministic-finite-automata-describe-regular-languages-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Erk, Katrin; Priese, Lutz</strong>: "Theoretische Informatik", Springer Verlag, 2000, 2nd Edition</li>
+<li><strong>Hoffmann, Dirk</strong>: "Theoretische Informatik, 3. Auflage", Hanser, 2015</li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>A similar construction can be found for left-linear grammars. It is left for the reader as an exercise to recognize that the argument works also for left-linear grammars.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

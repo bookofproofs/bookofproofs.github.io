@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of FINITE CARDINAL NUMBERS AND SET OPERATIONS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="cardinal,finite,numbers,operations,set,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/finite-cardinal-numbers-and-set-operations.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/finite-cardinal-numbers-and-set-operations.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/counting-the-sets-elements-using-its-partition.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/set-theory/finite-cardinal-numbers-and-set-operations.html'>Lemma: Finite Cardinal Numbers and Set Operations</a>)</p>
+<p>Let \(X, Y, U\) and \(W\) be <a href="https://bookofproofs.github.io/branches/set-theory/finite-set-infinite-set.html" title="Set Theory / Definition: Finite Set, Infinite Set">finite sets</a>.</p>
+<h3>(1)</h3>
+<p>We want to show that from \(|X|=|Y|, |U|=|W|\) and \(X\cap U=\emptyset, Y\cap W=\emptyset\) it follows for <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Set Theory / Definition: Subset and Superset">set unions</a> that \(|X\cup U|=|Y\cup W|=|X|+|U|=|Y|+|W|\).</p>
+<ul>
+<li>From the hypothesis \(|X|=|Y|, |U|=|W|\) it follows from <a href="https://bookofproofs.github.io/branches/set-theory/comparison-of-cardinal-numbers.html" title="Set Theory / Definition: Comparison of Cardinal Numbers">rules of comparing cardinal numbers</a> that there are <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html" title="Set Theory / Definition: Bijective Function">bijective</a> maps \(f:X\mapsto Y\) and \(g:U\mapsto W\). </li>
+<li>The hypothesis \(X\cap U=\emptyset\) means that from \(a\in X\cup U\) it follows that either \(a\in X\) or \(a\in U\) (but not both). </li>
+<li>Thus, we can define a map \(h:\).
+\[h:=\begin{cases}
+X\cup U &amp; \mapsto   Y\cup W\\
+a &amp; \mapsto   f(a)   \Leftrightarrow  a\in X\\
+a &amp; \mapsto   g(a) \Leftrightarrow  a\in U\\
+\end{cases}\]</li>
+<li>The hypothesis \(Y\cap W=\emptyset\) means that from \(h(a)\in Y\cup W\) it follows that either \(h(a)\in Y\) or \(h(a)\in W\) (but not both), so \(|X\cup U|=|X|+|U|\) and \(|Y\cup W|=|Y|+|W|\). </li>
+<li>Moreover, \(h\) is bijective, because \(f\) and \(g\) are bijective. </li>
+<li>Thus, \(|X\cup U|=|Y\cup W|\). </li>
+</ul>
+<h3>(2)</h3>
+<p>We want to show that from \(|X|=|Y|\) and \(|U|=|W|\) it follows for the <a href="https://bookofproofs.github.io/branches/set-theory/cartesian-product.html" title="Set Theory / Definition: Cartesian Product">Cartesian products</a> that \(|X\times U|=|Y\times W|=|X|\cdot|U|=|Y|\cdot|W|\)
+* As in (1) from \(|X|=|Y|, |U|=|W|\) it follows that there are bijective maps \(f:X\mapsto Y\) and \(g:U\mapsto W\). 
+* We define a new map
+\[h:\begin{cases}
+X\times U&amp;\mapsto  Y\times W\\
+(a,b)&amp;\mapsto  (f(a),g(b))
+\end{cases}\]
+* For a fixed cardinal number \(|X|\) we prove <a href="https://bookofproofs.github.io/branches/logic/proving-principle-by-complete-induction.html" title="Logic / Lemma: The Proving Principle by Complete Induction">by induction</a> on the cardinal number \(|U|=n\in\mathbb N\). 
+   * For \(n=0\) we have \(U=\emptyset\) and \(W=g(U)=g(\emptyset)=\emptyset\). Therefore \(h(X\times \emptyset)=h(\emptyset)=f(\emptyset)=\emptyset\). Thus it follows trivially that \(h\) is bijective as \(f\). 
+   * Thus \(|X\times\emptyset|=|Y\times\emptyset|=|X|\cdot|\emptyset|=|Y|\cdot|\emptyset|=0\), as required.
+   * Let the claim 
+\[(|X|=|Y|\wedge |U_0|=|W_0|)\Rightarrow|X\times U_0|=|Y\times W_0|=|X|\cdot|U_0|=|Y|\cdot|W_0|\]
+ be proven for all \(U_0,W_0\) with \(|U_0|=|W_0|=n_0\ge 0\). 
+   * We observe that \(|X|=|X \times \{U_0\}|\), since the set \(\{U_0\}\) has only one element<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>.<br />
+   * For the set \(U=U_0 \cup \{U_0\}\) we have then
+\[X\times U=X\times(U_0 \cup \{U_0\})=(X\times U_0) \cup (X\times \{U_0\}).\]
+   * Taking the cardinal numbers on both sides we find
+\[|X\times U|=|(X\times U_0) \cup (X\times \{U_0\})|=|(X\times U_0)| + |(X\times \{U_0\})|,\]
+where the last equation follows from (1) and the fact that \((X\times U_0) \cap (X\times \{U_0\})=\emptyset\).<sup id="fnref:2"><a class="footnote-ref" href="#fn:2">2</a></sup> 
+   * Therefore we have
+\[|X\times U|=|X|\cdot|U_0|+|X|\cdot|\{U_0\}|=|X|\cdot n_0+|X|\cdot 1=|X|\cdot(n_0+1)=|X|\cdot(|U_0|+1)=|Y|\cdot(|W_0|+1)=|Y\times W|\]
+* The claim can analogously be proven by induction for a fixed <a href="https://bookofproofs.github.io/branches/set-theory/cardinal-number.html" title="Set Theory / Proposition: Cardinal Number">cardinal number</a> \(|U|\) on the cardinal number \(|X|=n\in\mathbb N\).</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/set-theory/finite-cardinal-numbers-and-set-operations-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Ebbinghaus, H.-D.</strong>: "Einführung in die Mengenlehre", BI Wisschenschaftsverlag, 1994, 3th Edition</li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>We also could have used \(\{\emptyset\}\) or any other set with only one element.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+<li id="fn:2">
+<p>Note: There is no pair \((a,b)\) for which both  \((a,b)\in (X\times \{U_0\})\) and \((a,b)\in (X\times U_0)\) can be true simultaneously, otherwise \(b\) would equal a set \(U_0\) which contains itself \(\{U_0\}\), which is forbidden by the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-foundation.html" title="Set Theory / Axiom: Axiom of Foundation">axiom of foundation</a>.&#160;<a class="footnote-backref" href="#fnref:2" title="Jump back to footnote 2 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

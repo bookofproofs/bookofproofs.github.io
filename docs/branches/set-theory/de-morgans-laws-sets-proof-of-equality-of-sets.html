@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="PROOF OF EQUALITY OF SETS Proof of DE MORGAN&#x27;S LAWS SETS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="de morgan laws,de morgan&#x27;s laws,de morgan rules,de morgan&#x27;s rules,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/de-morgans-laws-sets.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/de-morgans-laws-sets.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/distributivity-laws-for-sets.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/set-theory/de-morgans-laws-sets.html'>Proposition: De Morgan&#x27;s Laws (Sets)</a>)</p>
+<ul>
+<li>Suppose that $A$ and $B$ are <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">sets</a>.</li>
+<li>We want to show that for the <a href="https://bookofproofs.github.io/branches/set-theory/set-intersection.html" title="Set Theory / Definition: Set Intersection">set intersection</a> "$\cap$", <a href="https://bookofproofs.github.io/branches/set-theory/set-union.html" title="Set Theory / Definition: Set Union">set union</a> "$\cup$" and <a href="https://bookofproofs.github.io/branches/set-theory/set-complement.html" title="Set Theory / Definition: Set Complement">set complent</a> "$^C$", the laws $(A\cap B)^C=(A^C)\cup (B^C)$ and $(A\cup B)^C=(A^C)\cap (B^C)$ hold.</li>
+</ul>
+<h3>Part 1: $(A\cap B)^C=(A^C)\cup (B^C)$</h3>
+<h4>We first show $(A\cap B)^C\subseteq (A^C)\cup (B^C)$</h4>
+<ul>
+<li>Let $x\in (A\cap B)^C$. </li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/set-theory/set-complement.html" title="Set Theory / Definition: Set Complement">definition of complent</a>, we have $x\not\in (A\cap B)$.</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/set-theory/set-intersection.html" title="Set Theory / Definition: Set Intersection">definition of set intersection</a>, if $x\in (A\cap B)$, then $x\in A \wedge x\in B$, which is <a href="https://bookofproofs.github.io/branches/logic/negation.html" title="Logic / Definition: Negation">negated</a>, i.e. $\neg (x\in A \wedge x\in B).$</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/logic/de-morgans-laws-logic.html" title="Logic / Lemma: De Morgan&amp;#x27;s Laws (Logic)">De Morgan's laws for logic</a>, this means that $x\not\in A\vee x\not\in B.$</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/set-theory/set-complement.html" title="Set Theory / Definition: Set Complement">definition of complent</a>, we get $x\in A^C\vee x\in B^C.$</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/set-theory/set-union.html" title="Set Theory / Definition: Set Union">definition of union</a>, we get $x\in (A^C)\cup (B^C).$</li>
+<li>It follows from the definition of <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Set Theory / Definition: Subset and Superset">subsets</a> $(A\cap B)^C\subseteq (A^C)\cup (B^C).$</li>
+</ul>
+<h4>We now show $(A^C)\cup (B^C)\subseteq (A\cap B)^C$</h4>
+<ul>
+<li>Let $x\in (A^C)\cup (B^C)$. </li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/set-theory/set-union.html" title="Set Theory / Definition: Set Union">definition of union</a>, we get $x\in (A^C)\vee x\in (B^C).$</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/set-theory/set-complement.html" title="Set Theory / Definition: Set Complement">definition of complent</a>, we have $x\not\in A\vee x\not\in B$.</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/logic/de-morgans-laws-logic.html" title="Logic / Lemma: De Morgan&amp;#x27;s Laws (Logic)">De Morgan's laws for logic</a>, this means that $\neg(x\in A\wedge x\in B).$</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/set-theory/set-intersection.html" title="Set Theory / Definition: Set Intersection">definition of set intersection</a>, we get $\neg (x\in (A\cap B)).$</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/logic/negation.html" title="Logic / Definition: Negation">definition of negation</a>, this is equivalent to $x\not\in (A\cap B).$</li>
+<li>By the <a href="https://bookofproofs.github.io/branches/set-theory/set-complement.html" title="Set Theory / Definition: Set Complement">definition of complent</a>, we get $x\in(A\cap B)^C.$</li>
+<li>It follows from the definition of <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Set Theory / Definition: Subset and Superset">subsets</a> $(A^C)\cup (B^C)\subseteq (A\cap B)^C.$</li>
+</ul>
+<h4>Conclusion</h4>
+<ul>
+<li>From both steps of Part 1 and the <a href="https://bookofproofs.github.io/branches/set-theory/equality-of-sets.html" title="Set Theory / Corollary: Equality of Sets">equality of sets</a> it follows that $(A\cap B)^C=(A^C)\cup (B^C).$</li>
+</ul>
+<h3>Part 2: $(A\cup B)^C=(A^C)\cap (B^C)$</h3>
+<h4>We first show $(A\cup B)^C\subseteq (A^C)\cap (B^C)$</h4>
+<ul>
+<li>Let $x\in (A\cup B)^C$. </li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/set-theory/set-complement.html" title="Set Theory / Definition: Set Complement">definition of complent</a>, we have $x\not\in (A\cup B)$.</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/set-theory/set-union.html" title="Set Theory / Definition: Set Union">definition of set union</a>, if $x\in (A\cup B)$, then $x\in A \vee x\in B$, which is <a href="https://bookofproofs.github.io/branches/logic/negation.html" title="Logic / Definition: Negation">negated</a>, i.e. $\neg (x\in A \vee x\in B).$</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/logic/de-morgans-laws-logic.html" title="Logic / Lemma: De Morgan&amp;#x27;s Laws (Logic)">De Morgan's laws for logic</a>, this means that $x\not\in A\wedge x\not\in B.$</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/set-theory/set-complement.html" title="Set Theory / Definition: Set Complement">definition of complent</a>, we get $x\in A^C\wedge x\in B^C.$</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/set-theory/set-intersection.html" title="Set Theory / Definition: Set Intersection">definition of intersection</a>, we get $x\in (A^C)\cap (B^C).$</li>
+<li>It follows from the definition of <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Set Theory / Definition: Subset and Superset">subsets</a> $(A\cup B)^C\subseteq (A^C)\cap (B^C).$</li>
+</ul>
+<h4>We now show $(A^C)\cap (B^C)\subseteq (A\cup B)^C$</h4>
+<ul>
+<li>Let $x\in (A^C)\cap (B^C)$. </li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/set-theory/set-intersection.html" title="Set Theory / Definition: Set Intersection">definition of intersection</a>, we get $x\in (A^C)\wedge x\in (B^C).$</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/set-theory/set-complement.html" title="Set Theory / Definition: Set Complement">definition of complent</a>, we have $x\not\in A\wedge x\not\in B$.</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/logic/de-morgans-laws-logic.html" title="Logic / Lemma: De Morgan&amp;#x27;s Laws (Logic)">De Morgan's laws for logic</a>, this means that $\neg(x\in A\vee  x\in B).$</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/set-theory/set-union.html" title="Set Theory / Definition: Set Union">definition of set union</a>, we get $\neg (x\in (A\cup B)).$</li>
+<li>According to the <a href="https://bookofproofs.github.io/branches/logic/negation.html" title="Logic / Definition: Negation">definition of negation</a>, this is equivalent to $x\not\in (A\cup B).$</li>
+<li>By the <a href="https://bookofproofs.github.io/branches/set-theory/set-complement.html" title="Set Theory / Definition: Set Complement">definition of complent</a>, we get $x\in(A\cup B)^C.$</li>
+<li>It follows from the definition of <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Set Theory / Definition: Subset and Superset">subsets</a> $(A^C)\cap (B^C)\subseteq (A\cup B)^C.$</li>
+</ul>
+<h4>Conclusion</h4>
+<ul>
+<li>From both steps of Part 2 and the <a href="https://bookofproofs.github.io/branches/set-theory/equality-of-sets.html" title="Set Theory / Corollary: Equality of Sets">equality of sets</a> it follows that $(A\cup B)^C=(A^C)\cap (B^C).$</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/set-theory/de-morgans-laws-sets-proof-of-equality-of-sets.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Kane, Jonathan</strong>: "Writing Proofs in Analysis", Springer, 2016</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

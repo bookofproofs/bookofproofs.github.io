@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of CALCULATION RULES FOR THE BIG O NOTATION &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="big,calculation,notation,rules,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/theoretical-computer-science/complexity-theory/calculation-rules-for-the-big-o-notation.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/complexity-theory/calculation-rules-for-the-big-o-notation.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/complexity-theory/worst-case.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/theoretical-computer-science.html'>Theoretical-computer-science</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/complexity-theory/complexity-theory.html'>Complexity-theory</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/complexity-theory/calculation-rules-for-the-big-o-notation.html'>Proposition: Calculation Rules for the Big O Notation</a>)</p>
+<p>Let \(g,f\), be two functions of natural numbers to real numbers and let c be a real number, formally \(g,f:\mathbb N\mapsto\mathbb R\), \(c\in\mathbb R\). </p>
+<p>According to the <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/complexity-theory/big-o-notation.html" title="Theoretical Computer Science / Complexity Theory / Definition: Big O Notation">definition of the big \(\mathcal O\)-Notation</a>, we have \(f=\mathcal O(g)\) if and only if there is a positive constant \(c\in\mathbb R_+\) such that for all sufficiently large \(n\in\mathbb N\), i.e. all \(n \ge N( c )\) we have \(|f(n)|\le c|g(n)|\).</p>
+<h3>\((1)\) Proof of \(f=\mathcal O(f)\)</h3>
+<p>This is trivially fulfilled, since  for \(c=1\) we have \(|f(n)|\le 1|f(n)|\) for all \(n\ge N(1)\). </p>
+<h3>\((2)\) Proof of \(c\cdot \mathcal O(f)=\mathcal O(f)\) for any \(c &gt; 0\).</h3>
+<p>\(\mathcal O(f)\) denotes the class of all functions \(g:\mathbb N\mapsto\mathbb R\) such that there exist constants \(b &gt; 0\) and \(N(b)\in\mathbb N\), for which \(|g(n)|\le b\cdot|f(n)|\) for all \(n\ge N(b)\). </p>
+<p>Thus, for a fixed \(c &gt; 0\), \(c\cdot \mathcal O(f)\) denotes a class of all functions \(g:\mathbb N\mapsto\mathbb R\) such that there exist constants \(b &gt; 0\) and \(N(b)\in\mathbb N\), for which \(c\cdot |g(n)|\le c\cdot b\cdot|f(n)|\) for all \(n\ge N(b)\). </p>
+<p>In other words, \(c\cdot \mathcal O(f)\) is the class of all functions \(h(n):=c\cdot g(n)\), such that there exist the constants \(d:=c\cdot b &gt; 0\) and \(N(d)\in \mathbb N\), for which \(|h(n)|\le d\cdot|f(n)|\) for all \(n\ge N(d)\). But this means  \(c\cdot \mathcal O(f)=\mathcal O(f)\).</p>
+<h3>\((3)\) Proof of \(\mathcal O(\mathcal O(f))=\mathcal O(f)\)</h3>
+<p>We have to show: If \(g=\mathcal O(f)\), then \(\mathcal O(g)=\mathcal O(f)\). </p>
+<p>Let \(g=\mathcal O(f)\), which means that there exist constants \(b &gt; 0\) and \(N(b)\in\mathbb N\), for which \(|g(n)|\le b\cdot|f(n)|\) for all \(n\ge N(b)\).</p>
+<p>For any function \(h=\mathcal O(g)\), there exist constants \(c &gt; 0\) and \(N( c )\in\mathbb N\), for which \(|h(n)|\le c\cdot|g(n)|\) for all \(n\ge N(  c )\).</p>
+<p>Combining both results, we get for the constant \(d:=c\cdot b\) that \(|h(n)|\le c\cdot|g(n)|\le c\cdot b\cdot|f(n)|=d\cdot|f(n)|\) for all \(n\ge N(d):=\max(N( c ), N(b))\). This means that \(\mathcal O(\mathcal O(f))=\mathcal O(f)\).</p>
+<h3>\((4)\) Proof of \(\mathcal O(f)\cdot \mathcal O(g)=\mathcal O(f\cdot g)\)</h3>
+<p>We have to show that if \(h_1=\mathcal O(f)\) and \(h_2=\mathcal O(g)\), then \(h_1\cdot h_2=\mathcal O(f\cdot g)\).</p>
+<p>\(h_1=\mathcal O(f)\) means that there exist constants \(c_1 &gt; 0\) and \(N(c_1)\in\mathbb N\), for which \(|h_1(n)|\le c_1\cdot|f(n)|\) for all \(n\ge N(c_1)\).</p>
+<p>\(h_2=\mathcal O(g)\) means that there exist constants \(c_2 &gt; 0\) and \(N(c_2)\in\mathbb N\), for which \(|h_2(n)|\le c_2\cdot|g(n)|\) for all \(n\ge N(c_2)\).</p>
+<p>Combining both results, we have \(|(h_1\cdot h_2)(n)|=|h_1(n)|\cdot|h_2(n)|\le c_1|f(n)|\cdot c_2|g(n)|=c_3|(f\cdot g)(n)|\) for the constant \(c_3:=c_1\cdot c_2 &gt; 0\) and all \(n\ge N(c_3):=max (N(c_1),N(c_2))\). This means that \(\mathcal O(f)\cdot \mathcal O(g)=\mathcal O(f\cdot g)\).</p>
+<h3>\((5)\) Proof of \(\mathcal O(f\cdot g)=|f|\cdot  \mathcal O(g)\)</h3>
+<p>We have to show that if \(h_1=\mathcal O(f\cdot g)\), then there exist constants \(c &gt; 0\) and \(N( c )\in\mathbb N\) such that \(h_1(n)\le |f(n)|\cdot c\cdot |g(n)|\) for all \(n\ge N( c )\).</p>
+<p>\(h_1=\mathcal O(f\cdot g)\) means that there exist constants \(c_1 &gt; 0\) and \(N(c_1)\in\mathbb N\), for which \(|h_1(n)|\le c_1\cdot|f(n)|\cdot |g(n)|\) for all \(n\ge N(c_1)\).</p>
+<p>\(h_2=\mathcal  |f|\cdot O(g)\) means that there exist constants \(c_2 &gt; 0\) and \(N(c_2)\in\mathbb N\), for which \(|h_2(n)|\le |f(n)|\cdot c_2\cdot|g(n)|\) for all \(n\ge N(c_2)\).</p>
+<p>Both conditions are the same, considering the commutativity of multiplication and setting \(c_2:=c_1\).</p>
+<h3>\((6)\) Proof of \(|f|\le |g|\Rightarrow\mathcal O(f)= \mathcal O(g)\)</h3>
+<p>\(\mathcal O(f)\) denotes the class of all functions \(h_1:\mathbb N\mapsto\mathbb R\) such that there exist constants \(c_1 &gt; 0\) and \(N(c_1)\in\mathbb N\), for which \(|h_1(n)|\le c_1\cdot|f(n)|\) for all \(n\ge N(c_1)\). </p>
+<p>Correspondingly, \(\mathcal O(g)\) denotes the class of all functions \(h_2:\mathbb N\mapsto\mathbb R\) such that there exist constants \(c_2 &gt; 0\) and \(N(c_2)\in\mathbb N\), for which \(|h_2(n)|\le c_2\cdot|f(n)|\) for all \(n\ge N(c_2)\). </p>
+<p>If \(f(n)\le g(n)\) for all \(n\in\mathbb N\), then \(|h_2(n)|\le c_2\cdot|f(n)|\le c_2\cdot|g(n)|\) for all \(n\ge N(c_2)\). This means that \(|f|\le |g|\Rightarrow\mathcal O(f)= \mathcal O(g)\).</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/theoretical-computer-science/complexity-theory/calculation-rules-for-the-big-o-notation-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Erk, Katrin; Priese, Lutz</strong>: "Theoretische Informatik", Springer Verlag, 2000, 2nd Edition</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="AXIOM OF SEPARATION RESTRICTED PRINCIPLE OF COMPREHENSION ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!">
+<meta name="keywords" content="axiom of separation,separation axiom,separation postulate,postulate of separation,axiom of comprehension,comprehension principle,comprehension axiom">
+<title>Schema of Separation Axioms (Restricted Principle of Comprehension)</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/what-does-the-extensionality-principle-mean.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/zermelo-fraenkel-axioms.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/justification-of-the-set-builder-notation.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Axiom: Schema of Separation Axioms (Restricted Principle of Comprehension)</h3>
+
+<hr>
+
+<p>If you recall the <a href="https://bookofproofs.github.io/branches/set-theory/historical-development-of-set-theory.html" title="Set Theory / Part: Historical Development of Set Theory">historical development of set theory</a>, the general principle of comprehension led to contradictions. Zermelo restricted this principle and limited a general comprehension to the following axiom of separation:</p>
+<h1>Axiom: Schema of Separation Axioms (Restricted Principle of Comprehension)</h1>
+<p>If \(p(z)\) is a definite property, then for all sets \(X\) there is a subset \(Y\) consisting of those elements \(z\), for which \(p(z)\) is satisfied. Formally, this axiom can be written as</p>
+<p>\[\forall X~\exists Y~\forall z~(z\in Y \Leftrightarrow z\in X\wedge p(z)).\]</p>
+<p>"Albert Skolem":<a href="https://www.bookofproofs.org/history/thoralf-albert-skolem/">https://www.bookofproofs.org/history/thoralf-albert-skolem/</a> proposed to state "definite property" more precisely by replacing $p(z)$ by an <a href="https://bookofproofs.github.io/branches/logic/atomic-formulae-in-predicate-logic.html" title="Logic / Definition: Atomic Formulae in Predicate Logic">atomic formula in predicate logic</a> $p(z,x_1,\ldots,x_n).$ This makes the axiom in fact a whole <strong>schema</strong>  for infinitely many axioms, in which the placeholder $p(z,X_1,\ldots,X_n)$ stands for an arbitrary, $n+1$-ary logical formula, in which $z$ is a <a href="https://bookofproofs.github.io/branches/logic/quantifier-bound-variables-free-variables.html" title="Logic / Definition: Quantifier, Bound Variables, Free Variables">free variable</a>. With this specification, and if we abbreviate the aliteration $x_1,\ldots,x_n$ by $\overset{n}{x}$, the axiom states: For every predicate of the form $p(z,\overset{n}{x})$ the following axiom holds: For all $\overset{n}{x}$ and all sets $x$ there is a set $y$ containing exactly those elements $z$ of $x$ fulfilling $p(z,\overset{n}{x})$: $$\forall \overset{n}{x}(\forall X(\exists Y(\forall z(z\in Y\Rightarrow z\in X\wedge p(z,\overset{n}{x}))))).$$</p>
+<p>The schema justifies the <a href="https://bookofproofs.github.io/branches/set-theory/possibilities-to-describe-sets-venn-diagrams-lists-and-set-builder-notation.html" title="Set Theory / Explanation: Possibilities to Describe Sets, Venn-Diagrams, List, and Set-Builder Notations">set-builder</a> notation, since it ensures the existence (and with the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-extensionality.html" title="Set Theory / Axiom: Axiom of Extensionality">axiom of extensionality</a> the uniqueness) of a subset of elements of a set $x$ fulfilling some given property $p(z,\overset{n}{x})$:
+$$\forall \overset{n}{x} (\forall X(\exists Y(Y=\{z\in X\mid p(z,\overset{n}{x})\}))).$$ </p>
+<p><img alt="axiomseparation" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/axiomseparation.png?raw=true" /></p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<p>Corollaries: <a href='https://bookofproofs.github.io/branches/set-theory/justification-of-the-set-builder-notation.html'>1</a> <a href='https://bookofproofs.github.io/branches/set-theory/justification-of-subsets-and-supersets.html'>2</a> <a href='https://bookofproofs.github.io/branches/set-theory/equality-of-sets.html'>3</a> <a href='https://bookofproofs.github.io/branches/set-theory/there-is-no-set-of-all-sets.html'>4</a> <a href='https://bookofproofs.github.io/branches/set-theory/justification-of-the-set-intersection.html'>5</a> <a href='https://bookofproofs.github.io/branches/set-theory/justification-of-the-set-difference.html'>6</a> <a href='https://bookofproofs.github.io/branches/set-theory/set-difference-and-set-complement-are-the-same-concepts.html'>7</a> Explanations: <a href='https://bookofproofs.github.io/branches/set-theory/how-the-axiom-of-separation-avoids-russels-paradox.html'>1</a> </p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/set-theory/axiom-of-separation.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Hoffmann, Dirk W.</strong>: "Grenzen der Mathematik - Eine Reise durch die Kerngebiete der mathematischen Logik", Spektrum Akademischer Verlag, 2011</li>
+<li><strong>Ebbinghaus, H.-D.</strong>: "Einführung in die Mengenlehre", BI Wisschenschaftsverlag, 1994, 3th Edition</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

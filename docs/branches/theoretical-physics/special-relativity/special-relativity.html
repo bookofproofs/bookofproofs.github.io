@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="SPECIAL RELATIVITY &amp;#9733; bring your math skills to the graduate level &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="relativity,special,special relativity">
+<title>Special Relativity</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/theoretical-physics/classical-physics/third-law-of-planetary-motion-kepler-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/theoretical-physics/theoretical-physics.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/theoretical-physics/special-relativity/michelson-morley-experiment.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/theoretical-physics/theoretical-physics.html'>Theoretical-physics</a> / <a href='https://bookofproofs.github.io/branches/theoretical-physics/special-relativity/special-relativity.html'>Special-relativity</a> / Part: Special Relativity</h3>
+
+<hr>
+
+<h1>Part: Special Relativity</h1>
+<p>The <strong>special relativity</strong> was published 1905 by an unknown person at that time - Albert Einstein, who was a bureaucrat at the Patent Office in Bern. He published the article "Zur Elektrodynamik bewegter Körper" ("On the Electrodynamics of Moving Bodies") in the magazin "Annalen der Physik" (p. 891 to 921). The significance of this paper was not immediately recognized. However, it fundamentally changed our understanding of space and time. </p>
+<p>The theory of special relativity was only possible, because generations of philosophers and scientists before Albert Einstein prepared the scientific foundations needed for the breakthrough of special relativity. The following table summarizes how the concepts of space and time developed and changed over centuries.</p>
+<h3>Historical Notes</h3>
+<div style='overflow-x:auto;'><table>
+<thead>
+<tr>
+<th style="text-align: left;">Time frame</th>
+<th style="text-align: left;">Common Understanding of the Universe</th>
+<th style="text-align: left;">Modern Open Questions</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;"><a href="https://mathshistory.st-andrews.ac.uk/Biographies/Aristotle/">Aristotle</a> (384 – 322 b.C) until the 16th century.</td>
+<td style="text-align: left;">According to Aristotle, the Universe was a ball, in the middle of which the Earth was located (being also a ball). While the Earth did not move at all, the ball of the Universe consisted of many spheres, which rotated about the Earth and surrounded each other. All spheres consisted of a solid, crystal stuff named "ether". The inner sphere contained the Moon, outer spheres contained the Sun and the planets. The most outer sphere contained the stars. There was nothing outside the outer sphere, not even space.</td>
+<td style="text-align: left;">Aritstotle's model of the Universe was self-closed and it had been undisputable over centuries. Any little change of this picture would have led to the collapse of the whole model. Such radical changes, however. were not possible especially in the Middle Ages, in which the truth of Aristotle's system was not subject to scientific criticism but rather a matter of faith. At the end of the Middle Ages, however, it became more and more hard to explain the movements of the planets using Aritstotle's model of the universe.</td>
+</tr>
+<tr>
+<td style="text-align: left;">In 1543, "Nicolaus Copernicus":<a href="https://www.bookofproofs.org/history/copernicus-nicolaus/">https://www.bookofproofs.org/history/copernicus-nicolaus/</a> (1473-1543) published his work "De Revolutionibus Orbium Coelestium" ("On the Revolutions of the Celestial Spheres").</td>
+<td style="text-align: left;">Like it was the case in the <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Aristotle/">Aristotle</a>'s model, according to Copernicus, the Universe still consisted of solid spheres consisting of the mysterious solid substance called "ether". However, Copernicus discovered that the movements of all planets could be described (and predicted) much more reliably, if it was assumed that the Sun rather (and not the Earth) was the middle of all spheres.</td>
+<td style="text-align: left;">For Copernicus, the Sun, sitting in the middle of all spheres, did not move at all, and everything else orbited the Sun.</td>
+</tr>
+<tr>
+<td style="text-align: left;">About 1600, the first telescope is invented, by means of which "Galileo Galilei":<a href="https://www.bookofproofs.org/history/galilei-galileo">https://www.bookofproofs.org/history/galilei-galileo</a> (1564, 1642) discovered 4 moons orbiting the planet Jupiter.</td>
+<td style="text-align: left;">50 years after Copernicus' publication, when the first telescopes were invented, it became more and more unclear why just the Sun should be the middle of the Universe. A glimpse through the telescopes revealed thousands and thousands of new stars, each of which being a sun of its own. All this was very confusing to the contemporaries and seemed to contradict the Bible. Which was the remaining meaning of the life, death and the raising of Jesus Christ, if the Earth was just one small, insignificant planet in the Universe? The theories of Copernicus and Galileo Galilei were abandoned.</td>
+<td style="text-align: left;">Galilei also believed that the speed of light is finite. To prove it, he asked two persons to take lanterns with them at night and stand far apart each other. As soon as one person hid the latern, the other person should uncover it and vice versa. Taking into account the reaction times of both person, Galileo supposed that this experiment would prove the finite speed of light. However, the experiment showed that the speed of light was not measurable.</td>
+</tr>
+<tr>
+<td style="text-align: left;">In 1644, "René Descartes":<a href="https://www.bookofproofs.org/history/ren%C3%A9-descartes/">https://www.bookofproofs.org/history/ren%C3%A9-descartes/</a> published his "Principia Philosophiae"</td>
+<td style="text-align: left;">According to Descartes, the Sun was still the middle of Universe. However, the movements of all planets were no more explained by the rotation of solid spheres, on which the planets were located. According to Descartes, all planets moved, because each of them sit inside an own swirl, a kind of turbulence of a fluid called "ether". Thus, while the ether was a solid substance in previous models, now it became a fluid. In his model, Descartes avoided any problems with the Church, since he put the Earth from its insignificance back to the the middle of something – at least the middle of a "swirl of ether".</td>
+<td style="text-align: left;">Descartes did not provide any mathematical descriptions of his model, making it impossible to verify his hypotheses by calculation or by experiment. He also assumed that the speed of light is infinite (at least in a vacuum).</td>
+</tr>
+<tr>
+<td style="text-align: left;">Astronomical observations between 1676 and 1678</td>
+<td style="text-align: left;">Between 1676 and 1678, the Danish astronomer Ole Rømer and the Dutch astronomer "Christiaan Huygens":<a href="https://www.bookofproofs.org/history/christiaan-huygens/">https://www.bookofproofs.org/history/christiaan-huygens/</a> observed different periods of the moon's orbital period of the Jupiter's moon Io, when observed from Earth at a shorter and at a longer distance to Jupiter. They concluded that the speed of light must be finite.</td>
+<td style="text-align: left;">Rømer and Huygens estimated the speed of light to be about 213,000 kilometers per second.</td>
+</tr>
+<tr>
+<td style="text-align: left;">In 1687, "Sir Isaac Newton":<a href="https://www.bookofproofs.org/history/sir-isaac-newton/">https://www.bookofproofs.org/history/sir-isaac-newton/</a> published his "Philosophiae Naturalis Principia Mathematica"; In 1690, "Christiaan Huygens":<a href="https://www.bookofproofs.org/history/huygens-christiaan/">https://www.bookofproofs.org/history/huygens-christiaan/</a> proposed a theory of light being a wave and published it in "Traité de la lumière"; in 1704 Sir Isaac Newton published in his book "Opticks" a competing theory and argued that the perfectly straight lines of reflection demonstrated light's particle nature.</td>
+<td style="text-align: left;">According to Newton, all movements of the planets could be explained by an attracting force he called the "gravity". Newton was the first scientist who succeeded to properly define the term "movement". According to Newton, a "movement" was a change of position related to a space, in which it takes place. Newton called this space the "inertial system", and discovered that there are many independent inertial systems and that the rules of movement (i.e. the rules of mechanics) could be described in any of them. However, according to Newton, there was one particular inertial system, related to which all other inertial systems moved and which consequently did not move at all. This was the inertial system of the Universe itself, which did not move. As for his forerunners, also for Newton the Universe was filled with "ether". According to him, ether did not move and so could be used to describe the movement of any inertial system in the Universe. The notion of "absolute space" was born.</td>
+<td style="text-align: left;">Contemporaries and critics of Newton argued why planets and stars could move through the stationary ether without any friction. A dense medium like the ether would have created sufficient friction to cause the planets to decay in their orbits and fall into the Sun. Newton explained that the ether was an "exceedingly rare" medium.  Newton argued "If this ether should be supposed 700,000 times more elastic than our air, and above 700,000 times more rare; its resistance would be above 600,000,000 times less than that of water. And so small a resistance would scarce make any sensible alteration in the motions of the planets in ten thousand years." During Newton's lifetime it was not known yet that the age of the Universe was billions of years rather then thousands.</td>
+</tr>
+<tr>
+<td style="text-align: left;">18th century</td>
+<td style="text-align: left;">Scientists try to work out the details of physical rules discovered by Sir Isaac Newton.</td>
+<td style="text-align: left;">The success of Newtons theory in predicting the movements of planets maked his concept of an "absolute space" filled with a "resting ether" almost indisputable. However, Newton could not explain the nature of the force he called "gravity" and how it was "transported" from one body to another. Another great unanswered question of his time was the true nature of light, i.e. whether light was "a wave" or whether it "consisted of particles".</td>
+</tr>
+<tr>
+<td style="text-align: left;">In 1801, the physicist "Thomas Young":<a href="https://www.bookofproofs.org/history/thomas-young/">https://www.bookofproofs.org/history/thomas-young/</a> discovered the interference of light.</td>
+<td style="text-align: left;">According to Young's discovery, light rays could strengthen and annihilate each other. The discovery supported a separate hypothesis formulated at the same time that "light was a wave". In addition, like sound, waves needed a medium, in which they could spread in (e.g. the air).</td>
+<td style="text-align: left;">It was considered necessary for the light waves to have their own medium they could spread in, and a good candidate for this medium was the "ether". The nature of the ether, however, in which light waves could spread, remained unexplained.</td>
+</tr>
+<tr>
+<td style="text-align: left;">1849 - measurement of the speed of light</td>
+<td style="text-align: left;">The French physicist "Armand Hippolyte Fizeau":<a href="https://www.bookofproofs.org/history/armand-hippolyte-louis-fizeau/">https://www.bookofproofs.org/history/armand-hippolyte-louis-fizeau/</a> was able to measure the speed of light using cogwheels.</td>
+<td style="text-align: left;">The speed of light was measured to be about 315,000 kilometers per second.</td>
+</tr>
+<tr>
+<td style="text-align: left;">In 1873, "James Clerk Maxwell":<a href="https://www.bookofproofs.org/history/james-clerk-maxwell/">https://www.bookofproofs.org/history/james-clerk-maxwell/</a> published "A Treatise on Electricity and Magnetism", which contained a full mathematical description of the behavior of electric and magnetic fields, known as Maxwell's equations.</td>
+<td style="text-align: left;">In 1846, Michael Faraday speculated that magnetic lines (e.g. of iron filings sprinkled on paper placed above a bar magnet) would be a kind of tension in the ether. This inspired James C. Maxwell's discovery of electromagnetic waves, since he thought that if the ether could be under tension, then it would also be able to swing like as spring (and propagate waves he called "electromagnetic"). Maxwell discovered that electromagnetic waves would travel through space at a constant speed equal to the previously measured speed of light. From this, he concluded in 1862 that light was a form of electromagnetic wave. This was confirmed experimentally by "Heinrich Hertz":<a href="https://www.bookofproofs.org/history/heinrich-rudolf-hertz/">https://www.bookofproofs.org/history/heinrich-rudolf-hertz/</a>.</td>
+<td style="text-align: left;">Maxwell's theory and Hertz's experiments led directly to the development of modern radio, radar, television, electromagnetic imaging, and wireless communications. The nature of the ether - the mysterious medium, in which all electromagnetic waves could spread, remained unexplained.</td>
+</tr>
+<tr>
+<td style="text-align: left;">In 1900, "Max Planck":<a href="https://www.bookofproofs.org/history/max-karl-ernst-ludwig-planck/">https://www.bookofproofs.org/history/max-karl-ernst-ludwig-planck/</a> attempted to explain black body radiation.</td>
+<td style="text-align: left;">Max Planck discovers that light gained or loosed energy only in finite amounts related to their frequency.</td>
+<td style="text-align: left;">Planck's discovery supported the particle theory of light and provided a foundation to quantum mechanics.</td>
+</tr>
+<tr>
+<td style="text-align: left;">Michelson-Morley experiment (1881 and 1887).</td>
+<td style="text-align: left;">The work of Maxwell became the impetus to the experiment conducted by Edward Morley and Albert A. Michelson to confirm the existence of the ether. The experiment was conducted in 1881 in Potsdam (Germany) and then repeated in 1887 in Cleveland (Ohio, USA). Both experiments failed to confirm the existence of the "ether".</td>
+<td style="text-align: left;">At the end of the 19th century, the classical physics was able to explain almost every observed phenomenon and as such was believed to be the "theory of everything". The failure of the Michelson-Morley experiment  proved that this belief was a fallacy.</td>
+</tr>
+<tr>
+<td style="text-align: left;">1889 - First interpretations of the outcome of the Michelson-Morley experiment</td>
+<td style="text-align: left;">Woldemar Voigt and "George Francic FitzGerald":<a href="https://www.bookofproofs.org/history/george-francis-fitzgerald/">https://www.bookofproofs.org/history/george-francis-fitzgerald/</a> provided the first attempts going into the right direction to interpret the Michelson-Morley experiment, which failed to confirm the existence of the "ether", which became known as the "FitzGerald Contraction".</td>
+<td style="text-align: left;">The FitzGerald Contraction was a conjecture stating that the curious null-results of the Michelson–Morley experiment would mean that all moving objects were foreshortened in the direction of their motion.</td>
+</tr>
+<tr>
+<td style="text-align: left;">1892 - First formulation of the special relativity</td>
+<td style="text-align: left;">"Hendrik Antoon Lorentz":<a href="https://www.bookofproofs.org/history/hendrik-antoon-lorentz/">https://www.bookofproofs.org/history/hendrik-antoon-lorentz/</a> published his famous Lorentz transformation as a hypothesis explaining the outcome of the Michelson-Morley experiment.</td>
+<td style="text-align: left;">Although Lorentz invented the mathematical formulation capable to explain the Michelson-Morley experiment, he did not recognize its full consequences.</td>
+</tr>
+<tr>
+<td style="text-align: left;">1905 - Full formulation of the special relativity</td>
+<td style="text-align: left;">"Albert Einstein":<a href="https://www.bookofproofs.org/history/albert-einstein/">https://www.bookofproofs.org/history/albert-einstein/</a> published his paper [Zur Elektrodynamik bewegter Körper" (Annalen der Physik 1905, p. 891 to 921).</td>
+<td style="text-align: left;">The special relativity did not treat the influence of the acceleration and gravity on moved bodies. This generalization of the special relativity was to be provided in the "general relativity]<a href="https://bookofproofs.github.io/branches/theoretical-physics/general-relativity/general-relativity.html" title="Theoretical Physics / General Relativity / Part: General Relativity">bookofproofs$643</a> published by Einstein 11 years later.</td>
+</tr>
+</tbody>
+</table></div>
+<h3 class='navigation'>Table of Contents</h3>
+
+<p>Motivations: <a href='https://bookofproofs.github.io/branches/theoretical-physics/special-relativity/michelson-morley-experiment.html'>1</a> <a href='https://bookofproofs.github.io/branches/theoretical-physics/special-relativity/measurement-of-the-speed-of-light-first-experimental-proof-that-the-speed-of-light-is-finite.html'>2</a> </p>
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/theoretical-physics/special-relativity/principle-of-relativity-einstein.html'>Axiom: Principle of Relativity</a></li>
+<li><a href='https://bookofproofs.github.io/branches/theoretical-physics/special-relativity/principle-of-the-constancy-of-light-speed-einstein.html'>Axiom: Principle of the Constancy of Light Speed</a></li>
+<li><a href='https://bookofproofs.github.io/branches/theoretical-physics/special-relativity/frame-of-reference.html'>Definition: Frame of Reference</a></li>
+<li><a href='https://bookofproofs.github.io/branches/theoretical-physics/special-relativity/spacetime-diagram-minkowski.html'>Definition: Spacetime Diagram</a></li>
+<li><a href='https://bookofproofs.github.io/branches/theoretical-physics/special-relativity/construction-of-a-light-clock.html'>Proposition: Construction of a Light Clock</a></li>
+<li><a href='https://bookofproofs.github.io/branches/theoretical-physics/special-relativity/time-dilation-lorentz-factor.html'>Proposition: Time Dilation, Lorentz Factor</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/theoretical-physics/special-relativity/special-relativity.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Sexl, Roman, Schmidt, Herbert K.</strong>: "Raum, Zeit, Relativität", vieweg Studium, 1991, 3rd Edition</li>
+<li><strong>Deming David</strong>: "Science and Technology in World History", McFarland, 2012, Vol. 3</li>
+<li><strong>Weingärtner, Andreas</strong>: "Spezielle Relativitätstheorie - ganz einfach", Books On Demand, 2016</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

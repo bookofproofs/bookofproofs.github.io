@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="CANTOR&#x27;S ASTONISHING DISCOVERIES REGARDING THE CARDINALS OF INFINITE SETS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="astonishing,cantor,cardinals,discoveries,infinite,regarding,sets">
+<title>Cantor&#x27;s Astonishing Discoveries Regarding the Cardinals of Infinite Sets</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/counting-the-sets-elements-using-its-partition-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/cardinal-numbers.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/transitive-set-and-countability-natural-numbers-have-the-smallest-infinite-cardinality.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Motivation: Cantor&#x27;s Astonishing Discoveries Regarding the Cardinals of Infinite Sets</h3>
+
+<hr>
+
+<h1>Motivation: Cantor&#x27;s Astonishing Discoveries Regarding the Cardinals of Infinite Sets</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/set-theory/cardinal-numbers.html'>Part: Cardinal Numbers</a>)</p>
+<p>It is intuitively clear that it is possible to compare the cardinals of <a href="https://bookofproofs.github.io/branches/set-theory/finite-set-infinite-set.html" title="Set Theory / Definition: Finite Set, Infinite Set">finite sets</a>. For instance, a <a href="https://bookofproofs.github.io/branches/set-theory/subsets-of-finite-sets.html" title="Set Theory / Proposition: Subsets of Finite Sets">subset of a finite set is again finite</a>. In particular a proper subset $S$ of a set $X$ with $|X|=|n|$ for some <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/set-theoretic-definitions-of-natural-numbers-ernst-zermelo-1908-john-von-neumann-1923.html" title="Number Systems Arithmetics / Definition: Set-theoretic Definitions of Natural Numbers">natural number</a> $n\in\mathbb N$ will have a smaller cardinality $|S|&lt;|n|.$ This relation holds for instance for the sets
+$$X=\{1,2,3,4,5,6,7,8,9,10\},\quad S=\{2,4,6,8,10\}.$$</p>
+<p>In the course of his research, <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cantor/">Georg Cantor</a> (1845 - 1918) realized that it is also possible to <a href="https://bookofproofs.github.io/branches/set-theory/comparison-of-cardinal-numbers.html" title="Set Theory / Definition: Comparison of Cardinal Numbers">compare the cardinal numbers</a> of <a href="https://bookofproofs.github.io/branches/set-theory/finite-set-infinite-set.html" title="Set Theory / Definition: Finite Set, Infinite Set">infinite sets</a>. He was very surprised when he discovered that a proper subset $S$ of an infinite set can have <em>the same</em> cardinality, in contrary to the finite case. All that is needed is to find a <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html" title="Set Theory / Definition: Bijective Function">bijective function</a> between the two.</p>
+<p>For instance, take the set $S\subset\mathbb N$ of all <a href="https://bookofproofs.github.io/branches/geometry/euclidean-geometry/elements-euclid/book--7-elementary-number-theory/even-number.html" title="Geometry / Euclidean Geometry / Elements Euclid / Book  7 Elementary Number Theory / Definition: 7.06: Even Number">even</a> <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/set-theoretic-definitions-of-natural-numbers-ernst-zermelo-1908-john-von-neumann-1923.html" title="Number Systems Arithmetics / Definition: Set-theoretic Definitions of Natural Numbers">natural numbers</a>. It has the same cardinality as $\mathbb N,$ i.e. $|\mathbb N|=|S|,$ although $S\subset \mathbb N.$ A bijective function is indicated by the following table:</p>
+<p>$$\begin{array} {rcl}
+1&amp;\leftrightarrow&amp;2\\
+2&amp;\leftrightarrow&amp;4\\
+&amp;\vdots\\
+n&amp;\leftrightarrow&amp;2n\\
+&amp;\vdots\\
+\end{array}$$</p>
+<p>Cantor then found a bijective function between the (infinite) set of natural numbers $\mathbb N$ and the <a href="https://bookofproofs.github.io/branches/set-theory/cartesian-product.html" title="Set Theory / Definition: Cartesian Product">Cartesian product</a> $\mathbb N\times \mathbb N.$ The function shown below does the trick: </p>
+<p><img alt="cantordiagonal" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/cantordiagonal.png?raw=true" /></p>
+<p>This function $f:\mathbb N\times \mathbb N\to\mathbb N$ maps every <a href="https://bookofproofs.github.io/branches/set-theory/ordered-pair-n-tuple.html" title="Set Theory / Definition: Ordered Pair, n-Tuple">ordered pair</a> of natural numbers $(x,y)$ uniquely to the single natural number $f((x,y))$ and this shows that $\mathbb N^2$ and $\mathbb N$ have the same <a href="https://bookofproofs.github.io/branches/set-theory/cardinal-number.html" title="Set Theory / Proposition: Cardinal Number">cardinalities</a>. But in addition to this, it is even possible to <a href="https://bookofproofs.github.io/branches/set-theory/composition-of-bijective-functions-is-bijective.html" title="Set Theory / Proposition: Composition of Bijective Functions is Bijective">compose</a> the function $f$ with itself requiring $f(f(x,y),z).$ This leads to the fascinating result $$|\mathbb N|=|\mathbb N^n|,\quad n\in \mathbb N$$ i.e. that the natural numbers $\mathbb N$ and the multidimensional number space $\mathbb N^n$ have still the same cardinalities, no matter how big we choose the dimension $n.$</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/set-theory/cantors-astonishing-discoveries-regarding-the-cardinals-of-infinite-sets.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Wille, D; Holz, M </strong>: "Repetitorium der Linearen Algebra", Binomi Verlag, 1994</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

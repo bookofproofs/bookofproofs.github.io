@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="BINOMIAL DISTRIBUTION &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="binomial,binomial distribution,distribution">
+<title>Binomial Distribution</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/probability-theory-and-statistics/geometric-distribution-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/probability-theory-and-statistics/discrete-distributions.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/probability-theory-and-statistics/binomial-distribution-proof.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/probability-theory-and-statistics/probability-theory-and-statistics.html'>Probability-theory-and-statistics</a> / Proposition: Binomial Distribution</h3>
+
+<hr>
+
+<h1>Proposition: Binomial Distribution</h1>
+<p>We repeat a <a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/bernoulli-experiment.html" title="Probability Theory And Statistics / Definition: Bernoulli Experiment">Bernoulli experiment</a> \(n\) times. Each time, we observe, if an <a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/random-experiments-and-random-events.html" title="Probability Theory And Statistics / Definition: Random Experiments and Random Events">event</a> \(A\) occurred or not. Let the probability of \(A\) to occur be constantly \(p:=p(A)\) during each repetition of the experiment. Let \(X\) be the <a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/random-variable-realization-population-and-sample.html" title="Probability Theory And Statistics / Definition: Random Variable, Realization, Population and Sample">random variable</a> counting the number \(k\) of the realizations of \(A\). Clearly, \(A\) can occur for \(k\) times with \(0\le k\le n\). The <a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/probability-mass-function.html" title="Probability Theory And Statistics / Definition: Probability Mass Function">probability mass function</a> of \(A\) occurring exactly \(k\) times is given by </p>
+<p>\[p(X = k)=\begin{cases}
+\binom nk p^k(1-p)^{n-k}&amp;\text{for }k=0,1,\ldots n\\\\
+0&amp;\text{else.}\end{cases}\]</p>
+<p>The <strong>binomial distribution</strong> (i.e. the <a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/probability-distribution.html" title="Probability Theory And Statistics / Definition: Probability Distribution">probability distribution</a> of the random variable \(X\)) is given by</p>
+<p>$$\begin{array}{rcll}
+p(X \le x)&amp;=&amp;0&amp;\text{for }x &lt; 0\\
+p(X \le x)&amp;=&amp;\sum_{k=0}^{k=x}\binom nk p^k(1-p)^{n-k}&amp;\text{for }0\le x &lt; n\\
+p(X \le x)&amp;=&amp;1&amp;\text{for }x \ge n\\
+\end{array}$$</p>
+<p>In the following interactive you can change the probability  \(p\) of observing an event \(A\) in a Bernoulli experiment repeated \(20\) times. Changing this probability will change the probability mass function for different values of \(X\) (red) of observing \(A\) from \(0\) to \(20\) times and the probability distribution (blue):</p>
+<div id="box15329" class="jxgbox centered" style="max-width:500px; width:100%; height:500px;"></div>
+<div id="box15329a" class="jxgbox centered" style="max-width:500px; width:100%; height:100px;"></div>
+
+
+<script type="text/javascript">
+try{
+var brd1 = JXG.JSXGraph.initBoard('box15329a', {boundingbox: [-0.1, 0, 1.5, -4], showNavigation:false, showCopyright: false, axis:false});
+var prob = brd1.create('slider',[[0,-2],[1,-2],[0,.5,1]], {name:'p'});
+
+var brd = JXG.JSXGraph.initBoard('box15329', {boundingbox: [-1, 1.1, 21, -.1], axis:true, showCopyright:false});
+
+brd1.addChild(brd);
+
+var p0 = brd.create('point', [0, function() {return binomial(20, 0, prob.Value());}], {name:''});
+var p1 = brd.create('point', [1, function() {return binomial(20, 1, prob.Value());}], {name:''});
+var p2 = brd.create('point', [2, function() {return binomial(20, 2, prob.Value());}], {name:''});
+var p3 = brd.create('point', [3, function() {return binomial(20, 3, prob.Value());}], {name:''});
+var p4 = brd.create('point', [4, function() {return binomial(20, 4, prob.Value());}], {name:''});
+var p5 = brd.create('point', [5, function() {return binomial(20, 5, prob.Value());}], {name:''});
+var p6 = brd.create('point', [6, function() {return binomial(20, 6, prob.Value());}], {name:''});
+var p7 = brd.create('point', [7, function() {return binomial(20, 7, prob.Value());}], {name:''});
+var p8 = brd.create('point', [8, function() {return binomial(20, 8, prob.Value());}], {name:''});
+var p9 = brd.create('point', [9, function() {return binomial(20, 9, prob.Value());}], {name:''});
+var p10 = brd.create('point', [10, function() {return binomial(20, 10, prob.Value());}], {name:''});
+var p11 = brd.create('point', [11, function() {return binomial(20, 11, prob.Value());}], {name:''});
+var p12 = brd.create('point', [12, function() {return binomial(20, 12, prob.Value());}], {name:''});
+var p13 = brd.create('point', [13, function() {return binomial(20, 13, prob.Value());}], {name:''});
+var p14 = brd.create('point', [14, function() {return binomial(20, 14, prob.Value());}], {name:''});
+var p15 = brd.create('point', [15, function() {return binomial(20, 15, prob.Value());}], {name:''});
+var p16 = brd.create('point', [16, function() {return binomial(20, 16, prob.Value());}], {name:''});
+var p17 = brd.create('point', [17, function() {return binomial(20, 17, prob.Value());}], {name:''});
+var p18 = brd.create('point', [18, function() {return binomial(20, 18, prob.Value());}], {name:''});
+var p19 = brd.create('point', [19, function() {return binomial(20, 19, prob.Value());}], {name:''});
+var p20 = brd.create('point', [20, function() {return binomial(20, 20, prob.Value());}], {name:''});
+
+
+var f = brd.create('functiongraph',[function(x){ 
+  var dist=0;
+  for (n=1;  lt(n , 21); n++) {
+    if (lt(x,n)) {
+      return dist;
+   } 
+    dist=dist+binomial(20, n, prob.Value());
+  }
+ return dist; 
+}]);
+
+} catch(err) {
+
+}
+
+function binomial(n, k, p) {
+var p1=1;
+var p2=1;
+
+var logf = [0, 0, 0.693147180559945,1.79175946922806,3.17805383034795,4.78749174278205,6.5792512120101,8.52516136106541,10.6046029027453,12.8018274800815,15.1044125730755,17.5023078458739,19.9872144956619,22.5521638531234,25.1912211827387,27.8992713838409,30.6718601060807,33.5050734501369,36.3954452080331,39.3398841871995,42.3356164607535,45.3801388984769,48.4711813518352,51.6066755677644,54.7847293981123,
+58.0036052229805,61.261701761002,64.5575386270063,67.8897431371815,71.257038967168,74.6582363488302,78.0922235533153,81.5579594561151,85.0544670175815,88.5808275421977,92.1361756036871,95.7196945421432,99.3306124547874,102.968198614514,106.631760260643];
+
+coeff= Math.exp(logf[n] - logf[n-k] - logf[k]);
+
+    for (x=0; lt(x,k); x++) {
+       coeff*=p;
+    }
+    for (x=0; lt(x,n-k); x++) {
+       coeff*=(1-p);
+    }
+    return coeff;
+}
+
+</script>
+
+<h3 class='navigation'>Table of Contents</h3>
+
+<p>Proofs: <a href='https://bookofproofs.github.io/branches/probability-theory-and-statistics/binomial-distribution-proof.html'>1</a> </p>
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/probability-theory-and-statistics/bernoulli-experiment.html'>Definition: Bernoulli Experiment</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/probability-theory-and-statistics/binomial-distribution.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Bosch, Karl</strong>: "Elementare Einführung in die Wahrscheinlichkeitsrechnung", vieweg Studium, 1995, 6th Edition</li>
+<li><strong>Hedderich, J.;Sachs, L.</strong>: "Angewandte Statistik", Springer Gabler, 2012, Vol .14</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

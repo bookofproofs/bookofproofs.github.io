@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="BUILDING THE SUCCESSORS OF ORDINAL NUMBERS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="building the successors of ordinal numbers">
+<title>Building the Successors of Ordinal Numbers</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/limit-ordinal.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/ordinal-numbers.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/burali-forti-paradox.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Explanation: Building the Successors of Ordinal Numbers</h3>
+
+<hr>
+
+<h1>Explanation: Building the Successors of Ordinal Numbers</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/set-theory/ordinal-numbers.html'>Part: Ordinal Numbers</a>)</p>
+<h3>Finite Ordinal Numbers</h3>
+<p>Given an ordinal $\alpha$, we can use the formula to build the <a href="https://bookofproofs.github.io/branches/set-theory/successor-of-ordinal.html" title="Set Theory / Lemma: Successor of Ordinal">successor of an ordinal number</a> to create a fascinating <a href="https://bookofproofs.github.io/branches/set-theory/well-ordered-sets-are-chains.html" title="Set Theory / Proposition: Well-ordered Sets are Chains">chain</a> of ordered ordinals.</p>
+<p>We start with finite ordinals, i.e. the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/set-theoretic-definitions-of-natural-numbers-ernst-zermelo-1908-john-von-neumann-1923.html" title="Number Systems Arithmetics / Definition: Set-theoretic Definitions of Natural Numbers">natural numbers</a>.
+$$\begin{array}{rcl}0&amp;:=&amp;\{\emptyset\}\\
+1&amp;:=&amp;0\cup\{0\}\\
+2&amp;:=&amp;1\cup\{1\}\\
+&amp;\vdots&amp;\\
+\end{array}$$</p>
+<p>This way, we will come up with the set of all finite ordinals (i.e. natural numbers), which we want to denote by $$\omega=\{0,1,2,\ldots\}.$$ </p>
+<p><img alt="ordinal1" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/ordinal1.png?raw=true" /></p>
+<h3>Countably Infinite Ordinal Numbers</h3>
+<p>$\omega$ can be perceived as the <a href="https://bookofproofs.github.io/branches/set-theory/special-elements-of-ordered-sets.html" title="Set Theory / Definition: Special Elements of Ordered Sets">supremum</a> of all finite natural numbers $$\omega=\sup\{k\mid k\in\mathbb N\}.$$ $\omega$ has <a href="https://bookofproofs.github.io/branches/set-theory/finite-set-infinite-set.html" title="Set Theory / Definition: Finite Set, Infinite Set">infinitely many</a> elements, however only <a href="https://bookofproofs.github.io/branches/set-theory/countable-set-uncountable-set.html" title="Set Theory / Definition: Countable Set, Uncountable Set">countably many</a> infinitely many. Moreover, $\omega$ is the first <a href="https://bookofproofs.github.io/branches/set-theory/limit-ordinal.html" title="Set Theory / Definition: Limit Ordinal">limit ordinal</a>, since it has no direct predecessor, although it is greater than all of its predecessors. </p>
+<p>Now, we can continue to create the successor of $\omega$ by setting </p>
+<p>$$\begin{array}{rcl}\omega+1&amp;:=&amp;\omega\cup\{\omega\}\\
+\omega+2&amp;:=&amp;\omega+1\cup\{\omega+1\}\\
+&amp;\vdots&amp;\\
+\end{array}$$</p>
+<p>We can continue this process to create again an <a href="https://bookofproofs.github.io/branches/set-theory/finite-set-infinite-set.html" title="Set Theory / Definition: Finite Set, Infinite Set">infinite</a>, but <a href="https://bookofproofs.github.io/branches/set-theory/countable-set-uncountable-set.html" title="Set Theory / Definition: Countable Set, Uncountable Set">countable</a> number of consecutive successors, until we reach the set $$\omega+\omega=2\omega:=\{0,1,2,3,4,\ldots,\omega,\omega+1,\omega+2,\omega+3,\omega+4,\ldots\},$$ which is the second <a href="https://bookofproofs.github.io/branches/set-theory/limit-ordinal.html" title="Set Theory / Definition: Limit Ordinal">limit ordinal</a> without a direct predecessor. </p>
+<p><img alt="ordinal1" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/ordinal1.png?raw=true" /></p>
+<p><img alt="ordinal2" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/ordinal2.png?raw=true" /></p>
+<p>But wait, we can continue the process of finding new limit ordinals $k\omega$, $k\in\mathbb \omega$ infinitely (but only countably many) times once again to get a new limit ordinal, for which there is no direct predecessor, </p>
+<p>$$\omega\cdot\omega=\omega^2:=\sup\{k\omega\mid k\in\omega\}$$ </p>
+<p><img alt="ordinal1" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/ordinal1.png?raw=true" /></p>
+<p><img alt="ordinal2" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/ordinal2.png?raw=true" /></p>
+<p><img alt="ordinal3" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/ordinal3.png?raw=true" /></p>
+<p>We can continue the process of building consecutive ordinal numbers even further. Now, starting with $\omega^2+1:=\omega^2\cup\{\omega^2\},$ leading to the limit ordinals $\omega+k\omega$, for all $k\in\omega.$ It is now clear that the supremum of all theses sets is the set $2\omega^2.$ It should be also clear, how this process can be continued until we reach further limit ordinals $$\begin{array}{rcl}\omega\omega^2&amp;=&amp;\omega^3,\\ \omega\omega^3&amp;=&amp;\omega^4,\\\omega\omega^4&amp;=&amp;\omega^5,\\ &amp;\vdots\end{array}.$$ </p>
+<h3>Uncountably Infinite Ordinal Numbers</h3>
+<p>Now, we have to hold on. The new limit ordinal would be $\omega ^\omega,$ which is defined as the following <a href="https://bookofproofs.github.io/branches/set-theory/special-elements-of-ordered-sets.html" title="Set Theory / Definition: Special Elements of Ordered Sets">supremum</a>: </p>
+<p>$$\omega^\omega=\sup\{\omega^k\mid k\in\omega\}.$$ </p>
+<p>The special thing about this $\omega ^\omega$ is that it is the first limit ordinal which has <a href="https://bookofproofs.github.io/branches/set-theory/countable-set-uncountable-set.html" title="Set Theory / Definition: Countable Set, Uncountable Set">uncountably many</a> elements, although all of its predecessors have only countably many elements! The proof of this claim is similar to the proof that the <a href="https://bookofproofs.github.io/branches/set-theory/real-numbers-are-uncountable.html" title="Set Theory / Proposition: Real Numbers are Uncountable">set of real numbers is uncountable</a>, using a diagonal argument. </p>
+<p>The counting of ordinals we have done so far up to $\omega^\omega$ was a <strong>transfinite</strong> one. Each time we have created a new limit ordinal, we have conducted mentally a transition to a new infinite limit. It is, however hard to imagine and even to visualize the transfinite counting process up to $\omega^\omega.$ Note that above we only provided figures up to $\omega^2.$ The unimaginable transfinite counting process up to $\omega^\omega$ can be formulated as follows:</p>
+<blockquote>
+<p>In each of the countably infinitely many steps, we have counted a countably infinite set countably infinitely many times.</p>
+</blockquote>
+<p>But this process can be continued even further, ad infinitum. The next limit numbers are (these are just a few examples) $$\begin{align}
+\omega^\omega +1, \ldots, \omega^\omega +k,\ldots, \omega^\omega +k\omega,\ldots,\nonumber\\
+\omega^\omega +k\omega^2,\ldots,k\omega^\omega,\ldots,\omega^{\omega +k},\ldots,\nonumber\\
+\omega^{k\omega},\ldots,\omega^{\omega^{\omega}},\ldots,\omega^{\omega^{\omega^{\omega}}},\ldots,\omega^{\omega^{\omega^{\omega^{\omega}}}},\ldots\nonumber\\
+\end{align}$$</p>
+<p>Now, let us denote by $\omega^{\uparrow k}$ the ordinal number, in which $k$ times we reach a new exponent power, i.e. $\omega^\omega=\omega^{\uparrow 1},$ $\omega^{\omega^{\omega}}=\omega^{\uparrow 2},$ $\omega^{\omega^{\omega^{\omega}}}=\omega^{\uparrow 3},$ etc.  These all are only countably many new limit numbers with uncountably many elements.  Therefore, a new interesting question arises: Is there a transfinite number such that it is the limit number $$\Omega:=\sup\{\omega^{\uparrow k}\mid k\in\omega\}?$$</p>
+<p>It turns out that there is no such ordinal number $\Omega,$ its existence would cause a <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">contradiction</a>, which became known as the <a href="https://bookofproofs.github.io/branches/set-theory/burali-forti-paradox.html" title="Set Theory / Motivation: Burali-Forti Paradox">Burali-Forti paradox</a>.</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/set-theory/building-the-successors-of-ordinal-numbers.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Hoffmann, Dirk W.</strong>: "Grenzen der Mathematik - Eine Reise durch die Kerngebiete der mathematischen Logik", Spektrum Akademischer Verlag, 2011</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

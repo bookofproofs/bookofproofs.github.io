@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="GENERALIZED UNION OF SETS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="union of sets">
+<title>Generalized Union of Sets</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/set-partition.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/basics-about-sets.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/russell-paradox.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Definition: Generalized Union of Sets</h3>
+
+<hr>
+
+<p>The <a href="https://bookofproofs.github.io/branches/set-theory/set-union.html" title="Set Theory / Definition: Set Union">set union</a> is defined for only two sets. Sometimes, it is convenient to have a more general definition involving an arbitrary number of sets.</p>
+<h1>Definition: Generalized Union of Sets</h1>
+<p>Let $X_i\text{ , }i\in I$ be a <a href="https://bookofproofs.github.io/branches/set-theory/index-set-and-set-family.html" title="Set Theory / Definition: Index Set and Set Family">family of sets</a> over the <a href="https://bookofproofs.github.io/branches/set-theory/index-set-and-set-family.html" title="Set Theory / Definition: Index Set and Set Family">index set</a> $I$. A <strong>union of sets</strong> of $X_i\text{ , }i\in I$ is denoted and defined by $$\bigcup_{i\in I}X_i:=\{x\in X\mid \exists i\in I\text{, }x\in X_i\}.$$</p>
+<h3>Notes</h3>
+<ul>
+<li>The union of sets is a generalized case of the <a href="https://bookofproofs.github.io/branches/set-theory/set-union.html" title="Set Theory / Definition: Set Union">set union</a> $A\cup B,$ since if $U$ is a <a href="https://bookofproofs.github.io/branches/set-theory/universal-set.html" title="Set Theory / Definition: Universal Set">universal set</a> of $A$ and $B,$ then the index set consists only of two elements, e.g. $I=\{1,2\},$ $A=U_1$, $B=U_2$ and $$A\cup B=\{x\in U\mid \exists i\in \{1,2\}\text{, }x\in U_i\}=\{x\in U\mid x\in A\vee x\in B\}.$$</li>
+<li>The only thing which is required for the index set $I$ of an index family is that it is <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">non-empty</a>. It can be <em>any</em> set, in particular, it does not have to consist of the commonly used positive integers. You can have any kind of indices, even indices which are uncountable<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>.</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/set-theory/generalized-union-of-sets.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Flachsmeyer, Jürgen</strong>: "Kombinatorik", VEB Deutscher Verlag der Wissenschaften, 1972, 3rd Edition</li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>The concept of countable/uncountable will be introduced, when we will be studying cardinal numbers.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

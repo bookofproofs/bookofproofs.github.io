@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="MULTIPLICATION OF TWO REGISTERS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="multiplication,registers,two">
+<title>Multiplication of Two Registers</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/theoretical-computer-science/computability/addition-or-subtraction-of-two-registers.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/computability/simulating-more-complex-commands-using-basic-l-o-o-p-commands.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/computability/no-operation-command-nop.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/theoretical-computer-science.html'>Theoretical-computer-science</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/computability/computability.html'>Computability</a> / Algorithm: Multiplication of Two Registers</h3>
+
+<hr>
+
+<p>In a <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/computability/unit-cost-random-access-machine.html" title="Theoretical Computer Science / Computability / Definition: Unit-Cost Random Access Machine">unit-cost random access machine</a>, the value of a register \(r_i\) can be set to the product of other two registers \(r_j\) and \(r_n\) using <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/computability/loop-command-loop-program.html" title="Theoretical Computer Science / Computability / Definition: LOOP Command, LOOP Program">basic \(L O O P\) commands</a> as well as the <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/computability/assignment-of-a-constant-c-to-the-register-ri-with-a-l-o-o-p-program.html" title="Theoretical Computer Science / Computability / Algorithm: Assignment of a Constant `\(c\)` to the Register `\(r_i\)` with a `\(L O O P\)`-Program">algorithm for \(r_i:=0\) </a>, and the <a href="https://bookofproofs.github.io/branches/theoretical-computer-science/computability/addition-or-subtraction-of-two-registers.html" title="Theoretical Computer Science / Computability / Algorithm: Addition (or Subtraction) of Two Registers">algorithm for \(r_i:=r_j\pm r_n\) </a>.</p>
+<h3>Implementing a unit-cost random access machine capable to represent negative numbers</h3>
+<p>Although the unit-cost random access machine is not able to store negative numbers in its registers, it is not much more complicated to calculate the difference of two registers \(r_j\) and \(r_n\), because negative integers can be represented by pairs of natural numbers, as shown in the <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Number Systems Arithmetics / Proposition: Definition of Integers">definition of integers</a>. Thus, it is possible to build a unit-cost random access machine, which is able to store negative numbers using more auxiliary registers representing integers as pairs of natural numbers and implementing an appropriate <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/subtraction-of-integers.html" title="Number Systems Arithmetics / Definition: Subtraction of Integers">subtraction operation</a> on these pairs.</p>
+<h1>Algorithm: Multiplication of Two Registers</h1>
+<p>class UCRAM():
+    # unit-cost random access machine with 3 registers
+    r_i = 0
+    r_j = 0
+    r_n = 0</p>
+<div class="codehilite"><pre><span></span><code><span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">set_ri_to_0</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
+<span class="w">     </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
+<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">&amp;</span><span class="n">gt</span><span class="p">;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
+<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">i</span>
+<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">NOP</span><span class="p">()</span><span class="w">  </span><span class="p">#</span><span class="w">  </span><span class="n">DO</span><span class="w"> </span><span class="n">nothing</span>
+<span class="w">         </span><span class="k">else</span><span class="o">:</span>
+<span class="w">             </span><span class="k">break</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">set_rn_to_11</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
+<span class="w">     </span><span class="p">#</span><span class="w"> </span><span class="n">reset</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">n</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="mh">0</span>
+<span class="w">     </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
+<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">&amp;</span><span class="n">gt</span><span class="p">;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
+<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">n</span>
+<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">NOP</span><span class="p">()</span><span class="w">  </span><span class="p">#</span><span class="w">  </span><span class="n">DO</span><span class="w"> </span><span class="n">nothing</span>
+<span class="w">         </span><span class="k">else</span><span class="o">:</span>
+<span class="w">             </span><span class="k">break</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="n">set</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">n</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">value</span><span class="w"> </span><span class="mh">11</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">set_rj_to_7</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
+<span class="w">     </span><span class="p">#</span><span class="w"> </span><span class="n">reset</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">j</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="mh">0</span>
+<span class="w">     </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
+<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">&amp;</span><span class="n">gt</span><span class="p">;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
+<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">n</span>
+<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">NOP</span><span class="p">()</span><span class="w">  </span><span class="p">#</span><span class="w">  </span><span class="n">DO</span><span class="w"> </span><span class="n">nothing</span>
+<span class="w">         </span><span class="k">else</span><span class="o">:</span>
+<span class="w">             </span><span class="k">break</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="n">set</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">j</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">value</span><span class="w"> </span><span class="mh">7</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">LOOP_rj_DO_increment_ri</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
+<span class="w">     </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
+<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">&amp;</span><span class="n">gt</span><span class="p">;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
+<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">j</span>
+<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">DO</span><span class="w"> </span><span class="n">increment</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">i</span>
+<span class="w">         </span><span class="k">else</span><span class="o">:</span>
+<span class="w">             </span><span class="k">break</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">add_rj_to_ri</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">LOOP_rj_DO_increment_ri</span><span class="p">()</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">NOP</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">i</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">i</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">multiply_rj_times_rn_and_store_result_in_ri</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
+<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">set_ri_to_0</span><span class="p">()</span>
+<span class="w">     </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
+<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">&amp;</span><span class="n">gt</span><span class="p">;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
+<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">n</span>
+<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">set_rj_to_7</span><span class="p">()</span>
+<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">add_rj_to_ri</span><span class="p">()</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="n">DO</span><span class="w"> </span><span class="n">add</span><span class="w"> </span><span class="n">registers</span><span class="w"> </span><span class="n">r_i</span><span class="w"> </span><span class="k">and</span><span class="w"> </span><span class="n">r_j</span>
+<span class="w">         </span><span class="k">else</span><span class="o">:</span>
+<span class="w">             </span><span class="k">break</span>
+</code></pre></div>
+
+<ol>
+<li>Usage for adding the r_i = r_j * r_n</li>
+<li>
+<p>creating a unit-cost access machine with registers initially set
+ucram = UCRAM()
+ucram.set_rj_to_7()
+ucram.set_rn_to_11()
+print(ucram.r_i, ucram.r_j, ucram.r_n)
+ucram.multiply_rj_times_rn_and_store_result_in_ri()
+print(ucram.r_i, ucram.r_j, ucram.r_n)</p>
+</li>
+<li>
+<p>will output</p>
+</li>
+<li>0 7 11</li>
+<li>0 7 11</li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/theoretical-computer-science/computability/multiplication-of-two-registers.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Erk, Katrin; Priese, Lutz</strong>: "Theoretische Informatik", Springer Verlag, 2000, 2nd Edition</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

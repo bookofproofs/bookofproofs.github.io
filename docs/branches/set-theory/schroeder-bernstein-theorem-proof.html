@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of SCHRöDER-BERNSTEIN THEOREM &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="bernstein,schroeder,theorem,schröder bernstein theorem,schroeder bernstein theorem,schroeder bernstein theorem proof,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/schroeder-bernstein-theorem.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/schroeder-bernstein-theorem.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/simple-facts-about-cardinals.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/set-theory/schroeder-bernstein-theorem.html'>Theorem: Schröder-Bernstein Theorem</a>)</p>
+<p>The following proof is a <em>special case</em> of a more general fixpoint theorem formulated by "Tarski":<a href="https://www.bookofproofs.org/history/alfred-tarski/">https://www.bookofproofs.org/history/alfred-tarski/</a> for lattices, which we will be studying later in more detail.</p>
+<ul>
+<li>Let $A$ and $B$ be <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">sets</a> with the <a href="https://bookofproofs.github.io/branches/set-theory/cardinal-number.html" title="Set Theory / Proposition: Cardinal Number">cardinalities</a>  $|A|$ and $|B|$.</li>
+<li>By hypothesis, $|A|\le |B|$ and $|B|\le |A|.$ </li>
+<li>By the definition of <a href="https://bookofproofs.github.io/branches/set-theory/comparison-of-cardinal-numbers.html" title="Set Theory / Definition: Comparison of Cardinal Numbers">comparing cardinal numbers</a> this means that there are <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html" title="Set Theory / Definition: Injective Function">injective functions</a> $f:A\to B$ and $g:B\to A.$</li>
+<li>On the <a href="https://bookofproofs.github.io/branches/set-theory/power-set.html" title="Set Theory / Definition: Power Set">power sets</a> $\mathcal P(A)$ and $\mathcal P(B),$ we define a function $\Phi:\mathcal P(A)\to \mathcal P(B)$ such that for every subset $X\subseteq A$ $$\Phi(X):=A\setminus g[B\setminus f[X]],$$
+here we use the <a href="https://bookofproofs.github.io/branches/set-theory/set-difference.html" title="Set Theory / Definition: Set Difference">set differences</a> "$\setminus$" and denote by $f[X]$ and $g[B\setminus f[X]]$ the respective <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">ranges</a> of the functions $f$ and $g.$</li>
+<li>$f$ is injective by hypothesis, therefore 
+$$(\forall X,Y\in A):X\subseteq Y\Rightarrow f(X)\subseteq f(Y).$$</li>
+<li>By analogy, since $g$ is injective by hypothesis,
+$$(\forall X,Y\in B):X\subseteq Y\Rightarrow g(X)\subseteq g(Y).$$</li>
+<li>Because the <a href="https://bookofproofs.github.io/branches/set-theory/composition-of-injective-functions-is-injective.html" title="Set Theory / Proposition: Composition of Injective Functions is Injective">composition of two injective functions is again injective</a>, by analogy:
+$$(\forall X,Y\in \mathcal P(A)):X\subseteq Y\Rightarrow \Phi(X)\subseteq \Phi(Y).\quad\quad( * )$$</li>
+<li>We will now show that $\Phi$ has a <strong>fixed point</strong>, i.e. that there exists a subset $U\in \mathcal P(A)$ with $\Phi(U)=U.$ <ul>
+<li>We set $U:=\bigcap_{Z\in \mathcal U}$, where the set $\mathcal U$ is defined by 
+$$\mathcal U:=\{Z\in\mathcal P(A)\mid \Phi(Z)\subseteq Z\}.$$</li>
+<li>By definition of the <a href="https://bookofproofs.github.io/branches/set-theory/set-intersection.html" title="Set Theory / Definition: Set Intersection">set intersection</a>, for every $Z\in\mathcal U$ we have $U\subseteq Z$, which leads to $\Phi(U)\subseteq\Phi(Z)\subseteq Z,$ by $( * )$ and the definition of $\mathcal U.$ </li>
+<li>By the <a href="https://bookofproofs.github.io/branches/set-theory/functions-vs-set-operations.html" title="Set Theory / Lemma: Behavior of Functions with Set Operations">behaviour of functions with set intersection </a> we also have $\Phi(U)\subseteq \bigcap_{Z\in \mathcal U}=U.$</li>
+<li>Therefore, $U$ is a fixed point of $\Phi.$</li>
+</ul>
+</li>
+<li>Now, we are able to study what happens if we build the value $\Phi(U).$ By definition, $U=\Phi(U)=A\setminus g[B\setminus f[U]],$ or in other words $g[B\setminus f[U]]=A\setminus U$ and we have the situation illustrated in the below <a href="https://bookofproofs.github.io/branches/set-theory/possibilities-to-describe-sets-venn-diagrams-lists-and-set-builder-notation.html" title="Set Theory / Explanation: Possibilities to Describe Sets, Venn-Diagrams, List, and Set-Builder Notations">Venn-diagram</a>:</li>
+</ul>
+<p><img alt="schroederbernstein" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/schroederbernstein.png?raw=true" /></p>
+<ul>
+<li>The diagram shows that all elements of the fixed point $U$ are mapped by the composition $g\circ f$ of the injective functions $f$ and $g$ exactly to the elements of the <a href="https://bookofproofs.github.io/branches/set-theory/set-complement.html" title="Set Theory / Definition: Set Complement">set complement</a> $A\setminus U.$ By symmetry, the same can be said of mapping all elements of $f[U]$ by the composition $f\circ g$ to the set complement $B\setminus f[U].$</li>
+<li>Now we define a new function $h:A\to B$ as follows:
+$$h(a):\begin{cases}
+f(a)&amp;\text{ for }a\in U\\
+g^{-1}(a)&amp;\text{ for }a\in A\setminus U
+\end{cases}$$</li>
+<li>Obviously, the function $h:A\to B$ is <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html" title="Set Theory / Definition: Bijective Function">bijective</a>.</li>
+<li>Therefore, $|A|=|B|.$</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/set-theory/schroeder-bernstein-theorem-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

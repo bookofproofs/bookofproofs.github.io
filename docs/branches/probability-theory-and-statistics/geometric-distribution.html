@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="GEOMETRIC DISTRIBUTION &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="distribution,geometric,geometric distribution">
+<title>Geometric Distribution</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/probability-theory-and-statistics/uniform-distribution.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/probability-theory-and-statistics/discrete-distributions.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/probability-theory-and-statistics/geometric-distribution-proof.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/probability-theory-and-statistics/probability-theory-and-statistics.html'>Probability-theory-and-statistics</a> / Proposition: Geometric Distribution</h3>
+
+<hr>
+
+<h1>Proposition: Geometric Distribution</h1>
+<p>We repeat a <a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/bernoulli-experiment.html" title="Probability Theory And Statistics / Definition: Bernoulli Experiment">Bernoulli experiment</a> (if necessary, infinitely many times). Each time, we observe, if an <a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/random-experiments-and-random-events.html" title="Probability Theory And Statistics / Definition: Random Experiments and Random Events">event</a> \(A\) occurred or not. Let the probability of \(A\) to occur be constantly \(p:=p(A)\) during each repetition of the experiment. Let \(X\) be the <a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/random-variable-realization-population-and-sample.html" title="Probability Theory And Statistics / Definition: Random Variable, Realization, Population and Sample">random variable</a> having the realization \(k\), if and only if we observe \(A\) for the first time at \(k\)-th repetition of the experiment. Then, the <a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/probability-mass-function.html" title="Probability Theory And Statistics / Definition: Probability Mass Function">probability mass function</a> is given by </p>
+<p>\[p(X = k)=\begin{cases}
+p(1-p)^{k-1}&amp;\text{for }k=1,2,3,\ldots \\\\
+0&amp;\text{else.}\end{cases}\]</p>
+<p>The <strong>geometric distribution</strong> (i.e. the <a href="https://bookofproofs.github.io/branches/probability-theory-and-statistics/probability-distribution.html" title="Probability Theory And Statistics / Definition: Probability Distribution">probability distribution</a> of the random variable \(X\)) is given by</p>
+<p>\[\begin{array}{rcll}
+p(X \le x)&amp;=&amp;0&amp;\text{for }x &lt; 1\\
+p(X \le x)&amp;=&amp;\sum_{k=1}^{k=x}p(1-p)^{k-1}&amp;\text{for }1\le x 
+\end{array}\]</p>
+<p>In the following interactive you can change the probability  \(p\) of observing an event \(A\) in a Bernoulli experiment repeated up to \(30\) times. Changing this probability will change the probability mass function for different values of \(X\) (red) of observing \(A\) exactly in the \(k\)-th repetition, and the probability distribution (blue):</p>
+<div id="box15328" class="jxgbox centered" style="max-width:500px; width:100%; height:500px;"></div>
+
+<div id="box15328a" class="jxgbox centered" style="max-width:500px; width:100%;  height:100px;"></div>
+
+
+<script type="text/javascript">
+var brd1 = JXG.JSXGraph.initBoard('box15328a', {boundingbox: [-0.1, 0, 1.5, -4], showNavigation:false, showCopyright: false, axis:false});
+var prob = brd1.create('slider',[[0,-2],[1,-2],[0,.5,1]], {name:'p'});
+
+
+var brd = JXG.JSXGraph.initBoard('box15328', {boundingbox: [-1.5, 1.1, 31, -.1], axis:true, showCopyright:false});
+
+brd1.addChild(brd);
+
+var p1 = brd.create('point', [1, function() {return geometric(1, prob.Value());}], {name:''});
+var p2 = brd.create('point', [2, function() {return geometric(2, prob.Value());}], {name:''});
+var p3 = brd.create('point', [3, function() {return geometric(3, prob.Value());}], {name:''});
+var p4 = brd.create('point', [4, function() {return geometric(4, prob.Value());}], {name:''});
+var p5 = brd.create('point', [5, function() {return geometric(5, prob.Value());}], {name:''});
+var p6 = brd.create('point', [6, function() {return geometric(6, prob.Value());}], {name:''});
+var p7 = brd.create('point', [7, function() {return geometric(7, prob.Value());}], {name:''});
+var p8 = brd.create('point', [8, function() {return geometric(8, prob.Value());}], {name:''});
+var p9 = brd.create('point', [9, function() {return geometric(9, prob.Value());}], {name:''});
+var p10 = brd.create('point', [10, function() {return geometric(10, prob.Value());}], {name:''});
+var p11 = brd.create('point', [11, function() {return geometric(11, prob.Value());}], {name:''});
+var p12 = brd.create('point', [12, function() {return geometric(12, prob.Value());}], {name:''});
+var p13 = brd.create('point', [13, function() {return geometric(13, prob.Value());}], {name:''});
+var p14 = brd.create('point', [14, function() {return geometric(14, prob.Value());}], {name:''});
+var p15 = brd.create('point', [15, function() {return geometric(15, prob.Value());}], {name:''});
+var p16 = brd.create('point', [16, function() {return geometric(16, prob.Value());}], {name:''});
+var p17 = brd.create('point', [17, function() {return geometric(17, prob.Value());}], {name:''});
+var p18 = brd.create('point', [18, function() {return geometric(18, prob.Value());}], {name:''});
+var p19 = brd.create('point', [19, function() {return geometric(19, prob.Value());}], {name:''});
+var p20 = brd.create('point', [20, function() {return geometric(20, prob.Value());}], {name:''});
+var p21 = brd.create('point', [21, function() {return geometric(21, prob.Value());}], {name:''});
+var p22 = brd.create('point', [22, function() {return geometric(22, prob.Value());}], {name:''});
+var p23 = brd.create('point', [23, function() {return geometric(23, prob.Value());}], {name:''});
+var p24 = brd.create('point', [24, function() {return geometric(24, prob.Value());}], {name:''});
+var p25 = brd.create('point', [25, function() {return geometric(25, prob.Value());}], {name:''});
+var p26 = brd.create('point', [26, function() {return geometric(26, prob.Value());}], {name:''});
+var p27 = brd.create('point', [27, function() {return geometric(27, prob.Value());}], {name:''});
+var p28 = brd.create('point', [28, function() {return geometric(28, prob.Value());}], {name:''});
+var p29 = brd.create('point', [29, function() {return geometric(29, prob.Value());}], {name:''});
+var p30 = brd.create('point', [30, function() {return geometric(30, prob.Value());}], {name:''});
+
+
+var f = brd.create('functiongraph',[function(x){ 
+  var dist=0;
+  
+  for (n=1; lt(n, 30 + 1); n++) {
+    if (lt(x , n)) {
+      return dist;
+    } 
+    dist=dist+geometric(n, prob.Value());
+  }
+  return dist; 
+}]);
+
+
+function geometric(k, p) {
+    var coeff = p
+    for (var x = 1; lt(x,k); x++) {
+      coeff *= (1-p);
+    }
+    return coeff;
+}
+
+
+
+</script>
+
+<h3 class='navigation'>Table of Contents</h3>
+
+<p>Proofs: <a href='https://bookofproofs.github.io/branches/probability-theory-and-statistics/geometric-distribution-proof.html'>1</a> </p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/probability-theory-and-statistics/geometric-distribution.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

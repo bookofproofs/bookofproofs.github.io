@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="GETSUBGRAPH &amp;#9733; bring your math skills to the graduate level &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="getsubgraph">
+<title>getSubgraph</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/theoretical-computer-science/data-structures/graph-class-python.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/data-structures/graphs-1.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/basic-algorithms/basic-algorithms.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/theoretical-computer-science.html'>Theoretical-computer-science</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/data-structures/data-structures.html'>Data-structures</a> / Algorithm: getSubgraph</h3>
+
+<hr>
+
+<p>Making use of the "graph.py module":<a href="https://www.bookofproofs.org/branches/graph/">https://www.bookofproofs.org/branches/graph/</a>, the following algorithm calculates </p>
+<ul>
+<li>for a given <a href="https://bookofproofs.github.io/branches/graph-theory/undirected-graph.html" title="Graph Theory / Definition: Undirected Graph, Vertices, Edges, Simple Graph">undirected graph</a> \(G(V,E,\gamma)\) and a given list of vertices \(v_1,\ldots,v_k\in V\) the <a href="https://bookofproofs.github.io/branches/graph-theory/subgraphs-and-supergraphs.html" title="Graph Theory / Definition: Subgraphs and Supergraphs; Induced Subgraph">subgraph induced</a> by the vertices  \(G[v_1,\ldots,v_k]\), or</li>
+<li>for a given <a href="https://bookofproofs.github.io/branches/graph-theory/digraph-initial-and-terminal-vertices-loops-parallel-and-inverse-edges-simple-digraph.html" title="Graph Theory / Definition: Digraph, Initial and Terminal Vertices, Loops, Parallel and Inverse Edges, Simple Digraph">digraph</a> \(D=(V,E,\alpha,\omega)\) and a given list of vertices \(v_1,\ldots,v_k\in V\) the <a href="https://bookofproofs.github.io/branches/graph-theory/subdigraphs-and-superdigraphs-induced-subdigraph.html" title="Graph Theory / Definition: Subdigraphs and Superdigraphs; Induced Subdigraph">subdigraph induced</a> by the vertices  \(D[v_1,\ldots,v_k]\).</li>
+</ul>
+<h1>Algorithm: getSubgraph</h1>
+<p>from graph import *</p>
+<p>def getSubgraph(graph, vertexIDs):
+    '''
+    Creates a subgraph of graph spanned by the vertices with IDs listed in vertexIDs</p>
+<div class="codehilite"><pre><span></span><code><span class="w"> </span><span class="ow">IN</span><span class="err">:</span><span class="w"> </span><span class="n">graph</span><span class="o">=</span><span class="n">Graph</span><span class="w"> </span><span class="k">object</span><span class="p">,</span><span class="w"> </span><span class="n">vertexIDs</span><span class="o">=</span><span class="n">list</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="n">vertex</span><span class="w"> </span><span class="n">IDs</span><span class="w"> </span><span class="p">(</span><span class="n">integers</span><span class="p">)</span>
+<span class="w"> </span><span class="k">OUT</span><span class="err">:</span><span class="w"> </span><span class="n">proper</span><span class="w"> </span><span class="n">subgraph</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="n">graph</span><span class="w"> </span><span class="n">consisting</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="n">vertices</span><span class="w"> </span><span class="p">(</span><span class="k">new</span><span class="w"> </span><span class="n">copy</span><span class="w"> </span><span class="n">Objects</span><span class="w"> </span><span class="n">will</span><span class="w"> </span><span class="n">be</span><span class="w"> </span><span class="n">returned</span><span class="p">)</span>
+<span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="n">verticesIDs</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="ow">not</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="n">proper</span><span class="w"> </span><span class="n">subset</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="n">graph</span><span class="p">.</span><span class="n">getVertexIDs</span><span class="p">(),</span><span class="w"> </span><span class="k">then</span><span class="w"> </span><span class="n">additional</span><span class="w"> </span><span class="n">vertices</span><span class="w"> </span><span class="n">will</span><span class="w"> </span><span class="n">be</span><span class="w"> </span><span class="n">added</span><span class="w"> </span><span class="k">to</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">subgraph</span><span class="p">.</span>
+<span class="w"> </span><span class="s1">&#39;&#39;</span><span class="err">&#39;</span>
+
+<span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="ow">not</span><span class="w"> </span><span class="p">(</span><span class="n">type</span><span class="p">(</span><span class="n">graph</span><span class="p">)</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="n">Graph</span><span class="p">)</span><span class="err">:</span>
+<span class="w">     </span><span class="n">raise</span><span class="w"> </span><span class="n">TypeError</span><span class="p">(</span><span class="ss">&quot;g must be a Graph object&quot;</span><span class="p">)</span>
+<span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="ow">not</span><span class="w"> </span><span class="p">(</span><span class="n">type</span><span class="p">(</span><span class="n">vertexIDs</span><span class="p">)</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="n">list</span><span class="p">)</span><span class="err">:</span>
+<span class="w">     </span><span class="n">raise</span><span class="w"> </span><span class="n">TypeError</span><span class="p">(</span><span class="ss">&quot;vertexIDs must be a list of vertex IDs (integers)&quot;</span><span class="p">)</span>
+
+<span class="w"> </span><span class="err">#</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">subgraph</span><span class="w"> </span><span class="n">will</span><span class="w"> </span><span class="n">gain</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">same</span><span class="w"> </span><span class="n">properties</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">supergraph</span>
+<span class="w"> </span><span class="n">subgraph</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Graph</span><span class="p">(</span><span class="n">graph</span><span class="p">.</span><span class="n">isDirected</span><span class="p">,</span><span class="w"> </span><span class="n">graph</span><span class="p">.</span><span class="n">isSimple</span><span class="p">,</span><span class="w"> </span><span class="n">graph</span><span class="p">.</span><span class="n">raisesErrors</span><span class="p">)</span>
+
+<span class="w"> </span><span class="err">#</span><span class="w"> </span><span class="k">add</span><span class="w"> </span><span class="ow">all</span><span class="w"> </span><span class="n">vertices</span><span class="w"> </span><span class="k">to</span><span class="w"> </span><span class="n">subgraph</span>
+<span class="w"> </span><span class="n">graphvertexIDs</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">graph</span><span class="p">.</span><span class="n">listVertexIDs</span><span class="p">()</span>
+<span class="w"> </span><span class="k">for</span><span class="w"> </span><span class="n">vID</span><span class="w"> </span><span class="ow">in</span><span class="w"> </span><span class="nl">vertexIDs</span><span class="p">:</span>
+<span class="w">     </span><span class="n">vertex</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">subgraph</span><span class="p">.</span><span class="n">addVertexByID</span><span class="p">(</span><span class="n">vID</span><span class="p">)</span>
+<span class="w">     </span><span class="k">if</span><span class="w"> </span><span class="n">vID</span><span class="w"> </span><span class="ow">in</span><span class="w"> </span><span class="nl">graphvertexIDs</span><span class="p">:</span>
+<span class="w">         </span><span class="err">#</span><span class="w"> </span><span class="n">iv</span><span class="w"> </span><span class="n">vID</span><span class="w"> </span><span class="ow">exists</span><span class="w"> </span><span class="ow">in</span><span class="w"> </span><span class="n">original</span><span class="w"> </span><span class="n">graph</span><span class="p">,</span><span class="w"> </span><span class="n">copy</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">properties</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">vertex</span><span class="w"> </span><span class="k">from</span><span class="w"> </span><span class="n">graph</span><span class="w"> </span><span class="k">into</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">subgraph</span>
+<span class="w">         </span><span class="n">vertex</span><span class="p">.</span><span class="n">setProperties</span><span class="p">(</span><span class="n">graph</span><span class="p">.</span><span class="n">getVertexByID</span><span class="p">(</span><span class="n">vID</span><span class="p">).</span><span class="n">getProperties</span><span class="p">())</span>
+
+<span class="w"> </span><span class="err">#</span><span class="w"> </span><span class="k">create</span><span class="w"> </span><span class="n">edges</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="n">subgraph</span><span class="w"> </span><span class="n">according</span><span class="w"> </span><span class="k">to</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">existing</span><span class="w"> </span><span class="n">edges</span><span class="w"> </span><span class="ow">in</span><span class="w"> </span><span class="n">graph</span>
+<span class="w"> </span><span class="k">for</span><span class="w"> </span><span class="n">vID</span><span class="w"> </span><span class="ow">in</span><span class="w"> </span><span class="nl">vertexIDs</span><span class="p">:</span>
+<span class="w">     </span><span class="n">currentVertex</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">subgraph</span><span class="p">.</span><span class="n">getVertexByID</span><span class="p">(</span><span class="n">vID</span><span class="p">)</span>
+<span class="w">     </span><span class="err">#</span><span class="w"> </span><span class="k">check</span><span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="n">vID</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="n">vertex</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="n">graph</span>
+<span class="w">     </span><span class="k">if</span><span class="w"> </span><span class="n">vID</span><span class="w"> </span><span class="ow">in</span><span class="w"> </span><span class="nl">graphvertexIDs</span><span class="p">:</span>
+<span class="w">         </span><span class="err">#</span><span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="n">yes</span><span class="p">,</span><span class="w"> </span><span class="n">take</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">list</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="ow">all</span><span class="w"> </span><span class="n">neighbours</span><span class="w"> </span><span class="ow">in</span><span class="w"> </span><span class="n">graph</span>
+<span class="w">         </span><span class="n">neighbours</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">graph</span><span class="p">.</span><span class="n">getVertices</span><span class="p">()</span><span class="o">[</span><span class="n">vID</span><span class="o">]</span><span class="p">.</span><span class="n">getNeighbours</span><span class="p">()</span>
+<span class="w">         </span><span class="k">for</span><span class="w"> </span><span class="n">n</span><span class="w"> </span><span class="ow">in</span><span class="w"> </span><span class="nl">neighbours</span><span class="p">:</span>
+<span class="w">             </span><span class="err">#</span><span class="w"> </span><span class="ow">and</span><span class="w"> </span><span class="n">also</span><span class="w"> </span><span class="k">check</span><span class="w"> </span><span class="k">for</span><span class="w"> </span><span class="k">each</span><span class="w"> </span><span class="n">neighbour</span><span class="p">,</span><span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="n">it</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="ow">in</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">list</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="n">vertexIDs</span><span class="w"> </span><span class="k">of</span><span class="w"> </span><span class="n">subgraph</span>
+<span class="w">             </span><span class="k">if</span><span class="w"> </span><span class="n">n</span><span class="p">.</span><span class="n">getNeighboursVertexID</span><span class="p">()</span><span class="w"> </span><span class="ow">in</span><span class="w"> </span><span class="nl">vertexIDs</span><span class="p">:</span>
+<span class="w">                 </span><span class="err">#</span><span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="n">so</span><span class="p">,</span><span class="w"> </span><span class="k">create</span><span class="w"> </span><span class="n">edge</span><span class="w"> </span><span class="ow">in</span><span class="w"> </span><span class="n">subgraph</span><span class="w"> </span><span class="ow">between</span><span class="w"> </span><span class="n">vertex</span><span class="w"> </span><span class="n">vID</span><span class="w"> </span><span class="ow">and</span><span class="w"> </span><span class="n">neighbour</span><span class="p">,</span><span class="w"> </span><span class="n">according</span><span class="w"> </span><span class="k">to</span><span class="w"> </span><span class="n">its</span><span class="w"> </span><span class="n">multiplicitity</span><span class="w"> </span><span class="ow">in</span><span class="w"> </span><span class="n">graph</span>
+<span class="w">                 </span><span class="n">neighbour</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">currentVertex</span><span class="p">.</span><span class="n">addNeighbour</span><span class="p">(</span><span class="n">subgraph</span><span class="p">.</span><span class="n">getVertexByID</span><span class="p">(</span><span class="n">n</span><span class="p">.</span><span class="n">getNeighboursVertexID</span><span class="p">()),</span><span class="w"> </span><span class="n">graph</span><span class="p">.</span><span class="n">isSimple</span><span class="p">,</span><span class="w"> </span><span class="n">graph</span><span class="p">.</span><span class="n">raisesErrors</span><span class="p">)</span>
+<span class="w">                 </span><span class="err">#</span><span class="w"> </span><span class="ow">and</span><span class="w"> </span><span class="n">correct</span><span class="w"> </span><span class="n">its</span><span class="w"> </span><span class="n">multiplicity</span>
+<span class="w">                 </span><span class="n">neighbour</span><span class="p">.</span><span class="n">setMultiplicity</span><span class="p">(</span><span class="n">n</span><span class="p">.</span><span class="n">getMultiplicity</span><span class="p">())</span>
+
+<span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="n">subgraph</span>
+</code></pre></div>
+
+<ol>
+<li>usage of getSubgraph() :</li>
+<li>create digraph
+graph = Graph(DIRECTEDGRAPH, MULTIGRAPH, GRAPHRAISEERRORS, {1: [2, 4], 2: [^3], 3: [1, 4, 4], 4: [3, 4]})
+print(graph)</li>
+</ol>
+<h1>create 3 subgraphs of the digraph</h1>
+<p>subgraph1 = getSubgraph(graph, [1, 2, 3])
+subgraph2 = getSubgraph(graph, [3, 4])
+subgraph3 = getSubgraph(graph, [1, 3, 4])
+print(subgraph1)
+print(subgraph2)
+print(subgraph3)
+''' will output
+Graph: isDirected=True, isSimple=False
+1: properties={}, neighbours=[2(#1), 4(#1)]
+2: properties={}, neighbours=[3(#1)]
+3: properties={}, neighbours=[1(#1), 4(#2)]
+4: properties={}, neighbours=[3(#1), 4(#1)]
+Graph: isDirected=True, isSimple=False
+1: properties={}, neighbours=[2(#1)]
+2: properties={}, neighbours=[3(#1)]
+3: properties={}, neighbours=[1(#1)]
+Graph: isDirected=True, isSimple=False
+3: properties={}, neighbours=[4(#2)]
+4: properties={}, neighbours=[3(#1), 4(#1)]
+Graph: isDirected=True, isSimple=False
+1: properties={}, neighbours=[4(#1)]
+3: properties={}, neighbours=[1(#1), 4(#2)]
+4: properties={}, neighbours=[3(#1), 4(#1)]
+'''</p>
+<p>print()</p>
+<h1>create undirected multigraph</h1>
+<p>graph = Graph(UNDIRECTEDGRAPH, MULTIGRAPH, GRAPHRAISEERRORS, {1: [2, 4], 2: [^3], 3: [1, 4, 4], 4: [3, 4]})
+print(graph)</p>
+<h1>create 4 subgraphs of the multigraph</h1>
+<p>subgraph1 = getSubgraph(graph, [1, 2, 3])
+subgraph2 = getSubgraph(graph, [3, 4])
+subgraph3 = getSubgraph(graph, [3, 4, 5]) # note that intentionally 5 is not a vertex of graph for demo purposes
+subgraph4 = getSubgraph(graph, [1, 3, 4])
+print(subgraph1)
+print(subgraph2)
+print(subgraph3)
+print(subgraph4)
+''' will output
+Graph: isDirected=False, isSimple=False
+1: properties={}, neighbours=[2(#1), 4(#1), 3(#1)]
+2: properties={}, neighbours=[1(#1), 3(#1)]
+3: properties={}, neighbours=[2(#1), 1(#1), 4(#3)]
+4: properties={}, neighbours=[1(#1), 3(#3), 4(#2)]
+Graph: isDirected=False, isSimple=False
+1: properties={}, neighbours=[2(#1), 3(#1)]
+2: properties={}, neighbours=[1(#1), 3(#1)]
+3: properties={}, neighbours=[2(#1), 1(#1)]
+Graph: isDirected=False, isSimple=False
+3: properties={}, neighbours=[4(#3)]
+4: properties={}, neighbours=[3(#3), 4(#2)]
+Graph: isDirected=False, isSimple=False
+3: properties={}, neighbours=[4(#3)]
+4: properties={}, neighbours=[3(#3), 4(#2)]
+5: properties={}, neighbours=[]
+Graph: isDirected=False, isSimple=False
+1: properties={}, neighbours=[4(#1), 3(#1)]
+3: properties={}, neighbours=[1(#1), 4(#3)]
+4: properties={}, neighbours=[1(#1), 3(#3), 4(#2)]
+'''</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/theoretical-computer-science/data-structures/getsubgraph.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Piotrowski, Andreas</strong>: "bookofproofs.org", Own Work, 2014</li>
+</ol>
+<h4>Footnotes</h4>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="OBSERVATION 2: THE MOSTOWSKI FUNCTION SOMETIMES PRODUCES RELATION EMBEDDINGS &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; visit BookOfProofs now!">
+<meta name="keywords" content="embeddings,function,mostowski,produces,relation,sometimes">
+<title>Observation 2: The Mostowski Function (Sometimes) Produces Relation Embeddings</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/mostowski-function-produces-transitive-sets.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/mostowski-function-and-collapse.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/mostowskis-theorem.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Motivation: Observation 2: The Mostowski Function (Sometimes) Produces Relation Embeddings</h3>
+
+<hr>
+
+<h1>Motivation: Observation 2: The Mostowski Function (Sometimes) Produces Relation Embeddings</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/set-theory/mostowski-function-and-collapse.html'>Definition: Mostowski Function and Collapse</a>)</p>
+<p>We now take again the <a href="https://bookofproofs.github.io/branches/set-theory/working-with-mostowski-functions-and-collapses.html" title="Set Theory / Example: Working with Mostowski Functions and Collapses">initial example</a> and the <a href="https://bookofproofs.github.io/branches/set-theory/some-other-examples-of-mostowski-functions-and-collapses.html" title="Set Theory / Example: Some Other Examples Of Mostowski Functions and Collapses">other examples</a> to make another observation. Remember that we can treat the <a href="https://bookofproofs.github.io/branches/set-theory/contained-relation.html" title="Set Theory / Definition: Contained Relation &amp;quot;`$\in_X$`&amp;quot;">contained relation</a> $\in_X$ as a real <a href="https://bookofproofs.github.io/branches/set-theory/relation.html" title="Set Theory / Definition: Relation">relation</a> between the elements of some given set $X.$ Moreover, please recall the introduced concept of an <a href="https://bookofproofs.github.io/branches/set-theory/order-embedding.html" title="Set Theory / Definition: Order Embedding">order embedding</a>, in the case $X$ is ordered. Now, the relation $R$ used to define a <a href="https://bookofproofs.github.io/branches/set-theory/mostowski-function-and-collapse.html" title="Set Theory / Definition: Mostowski Function and Collapse">Mostowski function</a> $$\pi(x):=\{\pi(y)\mid y\in V\wedge yRx\}$$ 
+has not necessarily to be an order relation, but it must be a <a href="https://bookofproofs.github.io/branches/set-theory/well-founded-relation.html" title="Set Theory / Definition: Well-founded Relation">well-founded</a> relation. We want to observe, if $\pi$ is capable to produce <strong>embeddings</strong> of $R$ in the sense, that the following <a href="https://bookofproofs.github.io/branches/logic/equivalence.html" title="Logic / Definition: Equivalence">equivalence</a> is fulfilled:</p>
+<p>$$nRm\Longleftrightarrow \pi(n)\in_X\pi(m).\quad ( * )$$ </p>
+<p>Please note that the Mostowski function $\pi$ is <a href="https://bookofproofs.github.io/branches/set-theory/total-and-unique-binary-relations.html" title="Set Theory / Definition: Total and Unique Binary Relations">right-unique</a>, as every <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">function</a> is. The above equivalence is fulfilled in the cases, in which $\pi$ is, in addition, <a href="https://bookofproofs.github.io/branches/set-theory/total-and-unique-binary-relations.html" title="Set Theory / Definition: Total and Unique Binary Relations">left-unique</a> (i.e. injective). </p>
+<p>After these preliminary considerations, we can now start to make our observations. In our case, the set $X,$ in which the contained relation $\in_X$ is defined, is the <a href="https://bookofproofs.github.io/branches/set-theory/mostowski-function-and-collapse.html" title="Set Theory / Definition: Mostowski Function and Collapse">Mostowski collapse</a> $X:=\pi([V]).$ The first two examples seem to fulfill the property $( * ),$ and we write below $\in$ instead of $\in_{\pi([V])}$ for readability reasons, but the reader should be aware that we mean the <a href="https://bookofproofs.github.io/branches/set-theory/contained-relation.html" title="Set Theory / Definition: Contained Relation &amp;quot;`$\in_X$`&amp;quot;">contained relation</a> defined on the corresponding Mostowski collapse.</p>
+<h3>Ad Example 1</h3>
+<p>Two natural numbers $n$ and $m$ are in the strict order $n &lt; m$ if and only if the corresponding image of the Mostowski function $\pi(n)$ is an element of the image $\pi(m).$ In other words, we have for all $n,m\in\mathbb N$ the relation embedding</p>
+<p>$$n &lt; m\Longleftrightarrow \pi(n)\in \pi(m).$$ </p>
+<p>It is left for the reader as an exercise to verify it for some special cases, for instance $n=1, m=2$ or $n=1, m=3.$ </p>
+<h3>Ad Example 2</h3>
+<p>The natural number $m$ is the successor of the natural number $n$, if and only if the corresponding image of the Mostowski function $\pi(n)$ is an element of the image $\pi(m).$ In other words, we have for all $n,m\in\mathbb N$ the relation embedding</p>
+<p>$$n+1=m\Longleftrightarrow \pi(n)\in \pi(m).$$</p>
+<p>It is left for the reader as an exercise to verify it for some special cases, for instance $n=1, m=2$ or $n=2, m=3.$ </p>
+<h3>Ad Examples 3 and 4</h3>
+<p>In theses examples, there is no embedding possible and the property $( * )$ is only fulfilled in one direction $nRm\Longrightarrow \pi(n)\in_X\pi(m).$ The opposite direction is broken. For instance:</p>
+<ul>
+<li>In the example 3: $\pi(\{b\})\in\pi(\{a,c\})$ but $\{b\}\not\in \{a,c\}.$</li>
+<li>In the example 4: $\pi(2)\in\pi(9)$ but $2$ does not divide $9.$</li>
+</ul>
+<p>In the above examples, the new question arises, why $\pi$ in some cases does produce an embedding $( * )$ and why it does not in other cases. [Mostowski][mo] discovered that this has to do with the question, whether the underlying relation $R$ is <a href="https://bookofproofs.github.io/branches/set-theory/extensional-relation.html" title="Set Theory / Definition: Extensional Relation">extensional</a> or not. </p>
+<p>[mo][<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Mostowski/">https://mathshistory.st-andrews.ac.uk/Biographies/Mostowski/</a>]</p>
+<ul>
+<li>We have seen that <a href="https://bookofproofs.github.io/branches/set-theory/strict-orders-are-extensional.html" title="Set Theory / Proposition: Strict Orders are Extensional">strict orders are extensional</a>, therefore, in example 1 there is an embedding possible.</li>
+<li>In example 2, the successor relation $nRm:\Leftrightarrow n+1=m$ is also extensional, since from $\{n\in\mathbb N\mid n+1=m_1\}=\{n\in\mathbb N\mid n+1=m_2\}$ it follows that $m_1=m_2.$ </li>
+<li>It is left for the reader as an exercise to verify that the relations in the examples 3 and 4 are not extensional.</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/set-theory/mostowski-function-sometimes-produces-relation-embeddings.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Hoffmann, D.</strong>: "Forcing, Eine Einführung in die Mathematik der Unabhängigkeitsbeweise", Hoffmann, D., 2018</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

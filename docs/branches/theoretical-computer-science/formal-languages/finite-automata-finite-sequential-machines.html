@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="FINITE AUTOMATA FINITE SEQUENTIAL MACHINES ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="finite automata,finite sequential machine,finite sequential machines,fsm,fa">
+<title>Finite Automata (Finite Sequential Machines)</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/chomsky-hierarchy-of-languages.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/formal-languages.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/application-of-the-rabin-scott-theorem.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/theoretical-computer-science.html'>Theoretical-computer-science</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/formal-languages.html'>Formal-languages</a> / Chapter: Finite Automata (Finite Sequential Machines)</h3>
+
+<hr>
+
+<h1>Chapter: Finite Automata (Finite Sequential Machines)</h1>
+<p>Many technical machines (for instance an ATM) have a different number of states (e.g. off, idle, customer authentication, selecting transaction, transaction, out of service, etc.) and their complexity grows with the growing number of states. <em>Finite automata</em> are models helping to systematically describe such systems. These can be technical systems and machines (like an ATM), but, surprisingly, we can also use finite automata to solve theoretical problems in conjunction with <a href="https://bookofproofs.github.io/branches/logic/formal-language-generated-from-a-grammar.html" title="Logic / Definition: Formal Languages Generated From a Grammar">formal languages</a>, which will be shown to be very good models of computation.</p>
+<p>The following example illustrates the concept of a finite automaton. The example has two states $a$ and $b$. The state $a$ is the starting state (denoted by an incoming arrow $\downarrow$). At the same time, the states $a$ and $b$ are end states (denoted by double circles). The automaton accepts <a href="https://bookofproofs.github.io/branches/logic/strings-words-over-an-alphabet.html" title="Logic / Definition: Strings (words) over an Alphabet">strings</a> which are decimal numbers, reads them digit by digit from left to right and ends at the state $a$ if and only if the number is divisible by $5$, otherwise the end state will be $b$.</p>
+<p><img alt="dfa1" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/dfa1.png?raw=true" /></p>
+<p>In this section, we will learn about different types of finite automata (FA), including:
+* FA without an output (so-called <em>acceptors</em>):
+   * DFA - deterministic finite automata
+   * NFA - non-deterministic finite automata
+   * $\epsilon$-NFA - $\epsilon$ non-deterministic automata
+* FA with output (so-called <em>transducers</em>):
+   * Moore Machine
+   * Mealy Machine</p>
+<h3 class='navigation'>Table of Contents</h3>
+
+<p>Applications: <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/application-of-the-rabin-scott-theorem.html'>1</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/application-of-the-theorem-to-reduce-epsilon-nfa-to-nfa.html'>2</a> Examples: <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/examples-of-dfa.html'>1</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/examples-of-epsilon-nfa.html'>2</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/examples-of-nfa.html'>3</a> </p>
+<ol>
+<li><a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/deterministic-finite-automata-describe-regular-languages.html'>Theorem: Deterministic Finite Automata Describe Regular Languages</a></li>
+<li><a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/deterministic-finite-automaton.html'>Definition: Deterministic Finite Automaton (DFA)</a></li>
+<li><a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/epsilon-non-deterministic-finite-automaton.html'>Definition: Epsilon Non-Deteriministic Finite Automaton ($\epsilon$-NFA)</a></li>
+<li><a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/non-deterministic-finite-automaton-nfa.html'>Definition: Non-deterministic Finite Automaton (NFA)</a></li>
+<li><a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/reduction-of-epsilon-nfa-to-nfa.html'>Theorem: Reduction of $\epsilon$-NFA to NFA</a></li>
+<li><a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/reduction-of-nfa-to-dfa-rabin-scott-theorem.html'>Theorem: Reduction of NFA to DFA (Rabin-Scott Theorem)</a></li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/theoretical-computer-science/formal-languages/finite-automata-finite-sequential-machines.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Erk, Katrin; Priese, Lutz</strong>: "Theoretische Informatik", Springer Verlag, 2000, 2nd Edition</li>
+<li><strong>Hoffmann, Dirk</strong>: "Theoretische Informatik, 3. Auflage", Hanser, 2015</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

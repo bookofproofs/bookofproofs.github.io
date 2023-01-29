@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="GRAPH ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="graph,python,class">
+<title>Graph (Python)</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/theoretical-computer-science/data-structures/graphs-1.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/data-structures/graphs-1.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/data-structures/getsubgraph.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/theoretical-computer-science.html'>Theoretical-computer-science</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/data-structures/data-structures.html'>Data-structures</a> / Algorithm: Graph (Python)</h3>
+
+<hr>
+
+<p>If \(n = |V|\) is the number of vertices of the initial graph, the running times of the algorithms are the following:</p>
+<div style='overflow-x:auto;'><table>
+<thead>
+<tr>
+<th style="text-align: left;">Graph Class Algorithm</th>
+<th style="text-align: left;">Average Case</th>
+<th style="text-align: left;">Worst Case</th>
+<th style="text-align: left;">Remark</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Constructor</td>
+<td style="text-align: left;">\(\mathcal{O(k\cdot n^2)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(n^3)}\)</td>
+<td style="text-align: left;">\(k=\) average number of neighbours to be added for all vertices in the graph</td>
+</tr>
+<tr>
+<td style="text-align: left;">Conversion to String</td>
+<td style="text-align: left;">\(\mathcal{O(n^2)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(n^2)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">getVertices</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">listVertexIDs</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">addVertex</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">addVertexByID</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">getVertexByID</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">addNeighboursToVertex</td>
+<td style="text-align: left;">\(\mathcal{O(k\cdot n^2)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(k\cdot n^2)}\)</td>
+<td style="text-align: left;">\(k=\) number of neighbours to be added</td>
+</tr>
+<tr>
+<td style="text-align: left;">setProperties</td>
+<td style="text-align: left;">\(\mathcal{O(n)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(n)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">getOrder</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">getNumbOfEdges</td>
+<td style="text-align: left;">\(\mathcal{O(n^2)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(n^2)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Vertex Class Algorithm</td>
+<td style="text-align: left;">Average Case</td>
+<td style="text-align: left;">Worst Case</td>
+<td style="text-align: left;">Remark</td>
+</tr>
+<tr>
+<td style="text-align: left;">Constructor</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">getNumbOfNeighbours</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">getDegree</td>
+<td style="text-align: left;">\(\mathcal{O(n)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(n)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">getID</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">getProperties</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">setProperties</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">getNeighbours</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">listNeighbourIDs</td>
+<td style="text-align: left;">\(\mathcal{O(n)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(n)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">neighbourIndex</td>
+<td style="text-align: left;">\(\mathcal{O(n)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(n)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">addNeighbour</td>
+<td style="text-align: left;">\(\mathcal{O(n)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(n)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">Neighbour Class Algorithm</td>
+<td style="text-align: left;">Average Case</td>
+<td style="text-align: left;">Worst Case</td>
+<td style="text-align: left;">Remark</td>
+</tr>
+<tr>
+<td style="text-align: left;">Constructor</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">getNeighboursVertexID</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">getMultiplicity</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">setMultiplicity</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">increaseMultiplicity</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">decreaseMultiplicity</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;">\(\mathcal{O(1)}\)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;"># Algorithm: Graph (Python)</td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table></div>
+<p>DIRECTED_GRAPH = True  # can be passed in the constructor as the first argument
+UNDIRECTED_GRAPH = False  # can be passed in the constructor as the first argument
+SIMPLE_GRAPH = True  # can be passed in the constructor as the second argument
+MULTI_GRAPH = False  # can be passed in the constructor as the second argument
+GRAPH_RAISE_ERRORS = True  # can be passed in the constructor as the third argument
+GRAPH_IGNORE_ERRORS = False  # can be passed in the constructor as the third argument</p>
+<p>class Graph:
+    """ class Graph: Version 1.03, Licence CC BY-SA 3.0 by bookofproofs.org """
+    vertices = None  # implemented as a Python dictionary
+    isDirected = False
+    isSimple = True
+    raisesErrors = False</p>
+<div class="codehilite"><pre><span></span><code> <span class="s s-Atom">def</span> <span class="k">__</span><span class="nf">init__</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">,</span> <span class="s s-Atom">is_directed</span><span class="o">=</span><span class="nv">False</span><span class="p">,</span> <span class="s s-Atom">is_simple</span><span class="o">=</span><span class="nv">True</span><span class="p">,</span> <span class="s s-Atom">raises_errors</span><span class="o">=</span><span class="nv">False</span><span class="p">,</span> <span class="s s-Atom">graph_definition</span><span class="o">=</span><span class="nv">None</span><span class="p">)</span><span class="o">:</span>
+     <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">isDirected</span> <span class="o">=</span> <span class="s s-Atom">is_directed</span>  <span class="s s-Atom">#</span> <span class="s s-Atom">if</span> <span class="nv">False</span><span class="p">,</span> <span class="s s-Atom">all</span> <span class="s s-Atom">functions</span> <span class="s s-Atom">make</span> <span class="s s-Atom">sure</span> <span class="s s-Atom">that</span> <span class="s s-Atom">each</span> <span class="nf">edge</span> <span class="p">(</span><span class="s s-Atom">a-&gt;b</span><span class="p">)</span>
+     <span class="s s-Atom">#</span> <span class="o">is</span> <span class="s s-Atom">also</span> <span class="s s-Atom">contained</span> <span class="s s-Atom">in</span> <span class="s s-Atom">the</span> <span class="nv">Graph</span> <span class="nf">as</span> <span class="p">(</span><span class="s s-Atom">b-&gt;a</span><span class="p">)</span>
+     <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">isSimple</span> <span class="o">=</span> <span class="s s-Atom">is_simple</span>  <span class="s s-Atom">#</span> <span class="s s-Atom">if</span> <span class="nv">True</span><span class="p">,</span> <span class="s s-Atom">all</span> <span class="s s-Atom">functions</span> <span class="s s-Atom">make</span> <span class="s s-Atom">sure</span> <span class="s s-Atom">this</span> <span class="nv">Graph</span> <span class="s s-Atom">will</span> <span class="s s-Atom">have</span> <span class="s s-Atom">no</span> <span class="s s-Atom">loops</span>
+     <span class="s s-Atom">#</span> <span class="s s-Atom">and</span> <span class="s s-Atom">no</span> <span class="s s-Atom">multiple</span> <span class="s s-Atom">edges</span>
+     <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">raisesErrors</span> <span class="o">=</span> <span class="s s-Atom">raises_errors</span>  <span class="s s-Atom">#</span> <span class="s s-Atom">if</span> <span class="nv">True</span><span class="p">,</span> <span class="s s-Atom">all</span> <span class="s s-Atom">functions</span> <span class="s s-Atom">will</span> <span class="s s-Atom">raise</span> <span class="s s-Atom">errors</span> <span class="s s-Atom">if</span> <span class="s s-Atom">trying</span> <span class="s s-Atom">to</span> <span class="s s-Atom">change</span>
+     <span class="s s-Atom">#</span> <span class="s s-Atom">the</span> <span class="s s-Atom">structure</span> <span class="s s-Atom">of</span> <span class="nv">Graph</span> <span class="s s-Atom">against</span> <span class="s s-Atom">constraints</span> <span class="s s-Atom">given</span> <span class="s s-Atom">by</span> <span class="s s-Atom">isDirected</span> <span class="s s-Atom">and</span> <span class="s s-Atom">isSimple</span>
+     <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span> <span class="o">=</span> <span class="p">{}</span>
+     <span class="s s-Atom">#</span> <span class="s s-Atom">graph_definition</span> <span class="o">is</span> <span class="s s-Atom">a</span> <span class="s s-Atom">python</span> <span class="s s-Atom">dictionary</span>
+     <span class="s s-Atom">if</span> <span class="s s-Atom">graph_definition</span> <span class="o">is</span> <span class="nv">None</span><span class="o">:</span>
+         <span class="s s-Atom">graph_definition</span> <span class="o">=</span> <span class="p">{}</span>
+     <span class="s s-Atom">if</span> <span class="nf">type</span><span class="p">(</span><span class="s s-Atom">graph_definition</span><span class="p">)</span> <span class="o">is</span> <span class="s s-Atom">dict</span><span class="p">:</span>
+         <span class="s s-Atom">for</span> <span class="s s-Atom">vertex_id</span> <span class="s s-Atom">in</span> <span class="s s-Atom">graph_definition</span><span class="p">.</span><span class="nf">keys</span><span class="p">()</span><span class="o">:</span>
+             <span class="s s-Atom">self</span><span class="p">.</span><span class="nf">add_vertex_by_id</span><span class="p">(</span><span class="s s-Atom">vertex_id</span><span class="p">)</span>  <span class="s s-Atom">#</span> <span class="s s-Atom">register</span> <span class="s s-Atom">all</span> <span class="s s-Atom">ids</span>
+         <span class="s s-Atom">for</span> <span class="s s-Atom">vertex_id</span><span class="p">,</span> <span class="s s-Atom">neighbours</span> <span class="s s-Atom">in</span> <span class="s s-Atom">graph_definition</span><span class="p">.</span><span class="nf">items</span><span class="p">()</span><span class="o">:</span>
+             <span class="s s-Atom">self</span><span class="p">.</span><span class="nf">add_neighbours_to_vertex</span><span class="p">(</span><span class="s s-Atom">vertex_id</span><span class="p">,</span> <span class="s s-Atom">neighbours</span><span class="p">)</span>  <span class="s s-Atom">#</span> <span class="s s-Atom">add</span> <span class="s s-Atom">all</span> <span class="s s-Atom">neighbours</span>
+     <span class="s s-Atom">else</span><span class="p">:</span>
+         <span class="s s-Atom">raise</span> <span class="nv">ValueError</span><span class="p">(</span>
+             <span class="s s-Atom">&#39;if you provide a graph_definition, it must be a dictionary of the form {vertexid1: &#39;</span>
+             <span class="s s-Atom">&#39;listofneibourIDs1, ..., vertextidN:listofneibourIDs}&#39;</span><span class="p">)</span>
+
+ <span class="s s-Atom">def</span> <span class="nf">get_vertices</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">)</span><span class="o">:</span>
+     <span class="s2">&quot;&quot;&quot; return vertex dictionary &quot;&quot;&quot;</span>
+     <span class="s s-Atom">return</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span>
+
+ <span class="s s-Atom">def</span> <span class="nf">list_vertex_ids</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">)</span><span class="o">:</span>
+     <span class="s2">&quot;&quot;&quot; return only a list of vertex IDs&quot;&quot;&quot;</span>
+     <span class="s s-Atom">return</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">.</span><span class="nf">keys</span><span class="p">()</span>
+
+ <span class="s s-Atom">def</span> <span class="nf">add_vertex</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">,</span> <span class="s s-Atom">vertex</span><span class="p">)</span><span class="o">:</span>
+     <span class="s2">&quot;&quot;&quot; adds a Vertex object to this Graph and raises an error if Vertex already exists by id &quot;&quot;&quot;</span>
+     <span class="s s-Atom">if</span> <span class="nf">type</span><span class="p">(</span><span class="s s-Atom">vertex</span><span class="p">)</span> <span class="o">is</span> <span class="nv">Vertex</span><span class="o">:</span>
+         <span class="s s-Atom">if</span> <span class="s s-Atom">vertex</span><span class="p">.</span><span class="nf">get_id</span><span class="p">()</span> <span class="s s-Atom">in</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">.</span><span class="nf">keys</span><span class="p">()</span><span class="o">:</span>
+             <span class="s s-Atom">raise</span> <span class="nv">RuntimeError</span><span class="p">(</span>
+                 <span class="s2">&quot;a Vertex object with the ID &quot;</span> <span class="o">+</span> <span class="nf">str</span><span class="p">(</span><span class="s s-Atom">vertex</span><span class="p">.</span><span class="nf">get_id</span><span class="p">())</span> <span class="o">+</span> <span class="s2">&quot; already exists in this Graph object&quot;</span><span class="p">)</span>
+         <span class="s s-Atom">else</span><span class="p">:</span>
+             <span class="s s-Atom">#</span> <span class="s s-Atom">add</span> <span class="s s-Atom">vertex</span> <span class="s s-Atom">only</span><span class="p">,</span> <span class="s s-Atom">if</span> <span class="s s-Atom">it</span> <span class="s s-Atom">does</span> <span class="o">not</span> <span class="s s-Atom">exist</span>
+             <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">[</span><span class="s s-Atom">vertex</span><span class="p">.</span><span class="nf">get_id</span><span class="p">()]</span> <span class="o">=</span> <span class="s s-Atom">vertex</span>
+     <span class="s s-Atom">else</span><span class="p">:</span>
+         <span class="s s-Atom">raise</span> <span class="nv">ValueError</span><span class="p">(</span><span class="s s-Atom">&#39;Vertex object required&#39;</span><span class="p">)</span>
+     <span class="s s-Atom">return</span> <span class="s s-Atom">vertex</span>
+
+ <span class="s s-Atom">def</span> <span class="nf">add_vertex_by_id</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">,</span> <span class="s s-Atom">vertex_id</span><span class="p">)</span><span class="o">:</span>
+     <span class="s2">&quot;&quot;&quot; creates a Vertex with id and properties and adds it to this Graph, raises an error if id already exists&quot;&quot;&quot;</span>
+     <span class="s s-Atom">v</span> <span class="o">=</span> <span class="nv">Vertex</span><span class="p">(</span><span class="s s-Atom">vertex_id</span><span class="p">)</span>
+     <span class="s s-Atom">return</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="nf">add_vertex</span><span class="p">(</span><span class="s s-Atom">v</span><span class="p">)</span>
+
+ <span class="s s-Atom">def</span> <span class="nf">get_vertex_by_id</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">,</span> <span class="s s-Atom">vertex_id</span><span class="p">)</span><span class="o">:</span>
+     <span class="s2">&quot;&quot;&quot; returns the Vertex by vertexid &quot;&quot;&quot;</span>
+     <span class="s s-Atom">return</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">[</span><span class="s s-Atom">vertex_id</span><span class="p">]</span>
+
+ <span class="s s-Atom">def</span> <span class="nf">add_neighbours_to_vertex</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">,</span> <span class="s s-Atom">vertex_id</span><span class="p">,</span> <span class="s s-Atom">list_of_neighbour_ids</span><span class="p">)</span><span class="o">:</span>
+     <span class="s2">&quot;&quot;&quot; adds a list of neighbours to a Vertex by increasing their mulitiplicities &quot;&quot;&quot;</span>
+     <span class="s s-Atom">if</span> <span class="s s-Atom">vertex_id</span> <span class="s s-Atom">in</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">.</span><span class="nf">keys</span><span class="p">()</span><span class="o">:</span>
+         <span class="s s-Atom">for</span> <span class="s s-Atom">neighbour_id</span> <span class="s s-Atom">in</span> <span class="s s-Atom">list_of_neighbour_ids</span><span class="o">:</span>
+             <span class="s s-Atom">if</span> <span class="s s-Atom">neighbour_id</span> <span class="s s-Atom">in</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">.</span><span class="nf">keys</span><span class="p">()</span><span class="o">:</span>
+                 <span class="s s-Atom">#</span> <span class="s s-Atom">if</span> <span class="s s-Atom">neighbour</span> <span class="s s-Atom">to</span> <span class="s s-Atom">be</span> <span class="s s-Atom">added</span> <span class="s s-Atom">to</span> <span class="s s-Atom">the</span> <span class="s s-Atom">vertex</span> <span class="s s-Atom">exists</span> <span class="s s-Atom">itself</span> <span class="s s-Atom">as</span> <span class="s s-Atom">a</span> <span class="s s-Atom">vertex</span> <span class="s s-Atom">then</span>
+                 <span class="s s-Atom">#</span> <span class="s s-Atom">add</span> <span class="s s-Atom">it</span> <span class="s s-Atom">to</span> <span class="s s-Atom">the</span> <span class="s s-Atom">neighbors</span> <span class="s s-Atom">if</span> <span class="s s-Atom">the</span> <span class="s s-Atom">vertex</span>
+                 <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">[</span><span class="s s-Atom">vertex_id</span><span class="p">].</span><span class="nf">add_neighbour</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">[</span><span class="s s-Atom">neighbour_id</span><span class="p">],</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">isSimple</span><span class="p">,</span>
+                                                        <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">raisesErrors</span><span class="p">)</span>
+                 <span class="s s-Atom">if</span> <span class="o">not</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">isDirected</span><span class="o">:</span>
+                     <span class="s s-Atom">#</span> <span class="s s-Atom">if</span> <span class="s s-Atom">this</span> <span class="nv">Graph</span> <span class="o">is</span> <span class="s s-Atom">undirected</span><span class="p">,</span> <span class="s s-Atom">then</span> <span class="s s-Atom">make</span> <span class="s s-Atom">sure</span> <span class="s s-Atom">that</span> <span class="s s-Atom">each</span> <span class="nf">edge</span> <span class="p">(</span><span class="s s-Atom">a-&gt;b</span><span class="p">)</span> <span class="s s-Atom">will</span> <span class="s s-Atom">be</span> <span class="s s-Atom">also</span> <span class="s s-Atom">added</span> <span class="nf">as</span> <span class="p">(</span><span class="s s-Atom">b-&gt;a</span><span class="p">)</span>
+                     <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">[</span><span class="s s-Atom">neighbour_id</span><span class="p">].</span><span class="nf">add_neighbour</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">[</span><span class="s s-Atom">vertex_id</span><span class="p">],</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">isSimple</span><span class="p">,</span>
+                                                               <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">raisesErrors</span><span class="p">)</span>
+             <span class="s s-Atom">else</span><span class="p">:</span>
+                 <span class="s s-Atom">if</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">raisesErrors</span><span class="o">:</span>
+                     <span class="s s-Atom">raise</span> <span class="nv">IndexError</span><span class="p">(</span><span class="s2">&quot;Cannot add a non-existing vertex &quot;</span> <span class="o">+</span> <span class="nf">str</span><span class="p">(</span>
+                         <span class="s s-Atom">neighbour_id</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot; as a neighbour of the vertex &quot;</span> <span class="o">+</span> <span class="nf">str</span><span class="p">(</span><span class="s s-Atom">vertex_id</span><span class="p">))</span>
+                 <span class="s s-Atom">else</span><span class="p">:</span>
+                     <span class="s s-Atom">#</span> <span class="s s-Atom">register</span> <span class="s s-Atom">missing</span> <span class="s s-Atom">vertices</span> <span class="s s-Atom">first</span> <span class="s s-Atom">before</span> <span class="s s-Atom">adding</span> <span class="s s-Atom">new</span> <span class="s s-Atom">neighbours</span>
+                     <span class="s s-Atom">self</span><span class="p">.</span><span class="nf">add_vertex_by_id</span><span class="p">(</span><span class="s s-Atom">neighbour_id</span><span class="p">)</span>
+                     <span class="s s-Atom">#</span> <span class="s s-Atom">now</span> <span class="s s-Atom">add</span> <span class="s s-Atom">the</span> <span class="s s-Atom">neighbor</span> <span class="s s-Atom">to</span> <span class="s s-Atom">the</span> <span class="s s-Atom">neighbors</span> <span class="s s-Atom">if</span> <span class="s s-Atom">the</span> <span class="s s-Atom">vertex</span>
+                     <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">[</span><span class="s s-Atom">vertex_id</span><span class="p">].</span><span class="nf">add_neighbour</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">[</span><span class="s s-Atom">neighbour_id</span><span class="p">],</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">isSimple</span><span class="p">,</span>
+                                                            <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">raisesErrors</span><span class="p">)</span>
+                     <span class="s s-Atom">if</span> <span class="o">not</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">isDirected</span><span class="o">:</span>
+                         <span class="s s-Atom">#</span> <span class="s s-Atom">if</span> <span class="s s-Atom">this</span> <span class="nv">Graph</span> <span class="o">is</span> <span class="s s-Atom">undirected</span><span class="p">,</span> <span class="s s-Atom">then</span> <span class="s s-Atom">make</span> <span class="s s-Atom">sure</span> <span class="s s-Atom">that</span> <span class="s s-Atom">each</span> <span class="s s-Atom">edge</span>
+                         <span class="s s-Atom">#</span> <span class="p">(</span><span class="s s-Atom">a-&gt;b</span><span class="p">)</span> <span class="s s-Atom">will</span> <span class="s s-Atom">be</span> <span class="s s-Atom">also</span> <span class="s s-Atom">added</span> <span class="nf">as</span> <span class="p">(</span><span class="s s-Atom">b-&gt;a</span><span class="p">)</span>
+                         <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">[</span><span class="s s-Atom">neighbour_id</span><span class="p">].</span><span class="nf">add_neighbour</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">[</span><span class="s s-Atom">vertex_id</span><span class="p">],</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">isSimple</span><span class="p">,</span>
+                                                                   <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">raisesErrors</span><span class="p">)</span>
+     <span class="s s-Atom">else</span><span class="p">:</span>
+         <span class="s s-Atom">raise</span> <span class="nv">IndexError</span><span class="p">(</span><span class="s2">&quot;Vertex &quot;</span> <span class="o">+</span> <span class="nf">str</span><span class="p">(</span><span class="s s-Atom">vertex_id</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot; does not exist&quot;</span><span class="p">)</span>
+
+ <span class="s s-Atom">def</span> <span class="k">__</span><span class="nf">str__</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">)</span><span class="o">:</span>
+     <span class="s2">&quot;&quot;&quot; generate string representation of Graph</span>
+<span class="s2">         Each row defines one vertex, its properties (if any) and its neighbours (if any).</span>
+<span class="s2">         The properties of each vertex are a user-defined dictionary.</span>
+<span class="s2">         The neighbours of each vertex is a list of strings of the following kind</span>
+<span class="s2">             vertexid +&quot;</span><span class="p">(</span><span class="s2">&quot; + multiplicity of vertex +&quot;</span><span class="p">)</span><span class="s2">&quot;.</span>
+<span class="s2">     &quot;&quot;&quot;</span>
+
+     <span class="s s-Atom">s</span> <span class="o">=</span> <span class="s2">&quot;Graph: isDirected=&quot;</span> <span class="o">+</span> <span class="nf">str</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">isDirected</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;, isSimple=&quot;</span> <span class="o">+</span> <span class="nf">str</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">isSimple</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;\n&quot;</span>
+     <span class="s s-Atom">for</span> <span class="s s-Atom">vertexid</span><span class="p">,</span> <span class="s s-Atom">vertex</span> <span class="s s-Atom">in</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">.</span><span class="nf">items</span><span class="p">()</span><span class="o">:</span>
+         <span class="s s-Atom">s</span> <span class="s s-Atom">+=</span> <span class="nf">str</span><span class="p">(</span><span class="s s-Atom">vertexid</span><span class="p">)</span> <span class="o">+</span> <span class="s2">&quot;: properties=&quot;</span> <span class="o">+</span> <span class="nf">str</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">[</span><span class="s s-Atom">vertexid</span><span class="p">].</span><span class="nf">get_properties</span><span class="p">())</span> <span class="o">+</span> <span class="s2">&quot;, neighbours=[&quot;</span>
+         <span class="s s-Atom">neighbours</span> <span class="o">=</span> <span class="s s-Atom">vertex</span><span class="p">.</span><span class="nf">get_neighbours</span><span class="p">()</span>
+         <span class="s s-Atom">for</span> <span class="s s-Atom">n</span> <span class="s s-Atom">in</span> <span class="s s-Atom">neighbours</span><span class="p">:</span>
+             <span class="s s-Atom">s</span> <span class="s s-Atom">+=</span> <span class="nf">str</span><span class="p">(</span><span class="s s-Atom">n</span><span class="p">.</span><span class="nf">get_neighbours_vertex_id</span><span class="p">())</span> <span class="o">+</span> <span class="s2">&quot;(#&quot;</span> <span class="o">+</span> <span class="nf">str</span><span class="p">(</span><span class="s s-Atom">n</span><span class="p">.</span><span class="nf">get_multiplicity</span><span class="p">())</span> <span class="o">+</span> <span class="s2">&quot;), &quot;</span>
+         <span class="s s-Atom">if</span> <span class="nf">len</span><span class="p">(</span><span class="s s-Atom">neighbours</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="o">:</span>
+             <span class="s s-Atom">s</span> <span class="o">=</span> <span class="s s-Atom">s</span><span class="p">[</span><span class="mi">0</span><span class="o">:-</span><span class="mi">2</span><span class="p">]</span> <span class="o">+</span> <span class="s2">&quot;]\n&quot;</span>
+         <span class="s s-Atom">else</span><span class="p">:</span>
+             <span class="s s-Atom">s</span> <span class="s s-Atom">+=</span> <span class="s2">&quot;]\n&quot;</span>
+     <span class="s s-Atom">return</span> <span class="s s-Atom">s</span><span class="p">[</span><span class="mi">0</span><span class="o">:-</span><span class="mi">1</span><span class="p">]</span>
+
+ <span class="s s-Atom">def</span> <span class="nf">set_properties</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">,</span> <span class="s s-Atom">vertex_properties</span><span class="p">)</span><span class="o">:</span>
+     <span class="s2">&quot;&quot;&quot; set the properties for vertices specified in the dictionary vertex_properties consisting of pairs</span>
+<span class="s2">     of vertex ids and property dictionaries</span>
+<span class="s2">     &quot;&quot;&quot;</span>
+     <span class="s s-Atom">if</span> <span class="nf">type</span><span class="p">(</span><span class="s s-Atom">vertex_properties</span><span class="p">)</span> <span class="o">is</span> <span class="s s-Atom">dict</span><span class="p">:</span>
+         <span class="s s-Atom">for</span> <span class="s s-Atom">vertex_id</span><span class="p">,</span> <span class="s s-Atom">props</span> <span class="s s-Atom">in</span> <span class="s s-Atom">vertex_properties</span><span class="p">.</span><span class="nf">items</span><span class="p">()</span><span class="o">:</span>
+             <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">[</span><span class="s s-Atom">vertex_id</span><span class="p">].</span><span class="nf">set_properties</span><span class="p">(</span><span class="s s-Atom">props</span><span class="p">)</span>
+     <span class="s s-Atom">else</span><span class="p">:</span>
+         <span class="s s-Atom">if</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">raisesErrors</span><span class="o">:</span>
+             <span class="s s-Atom">raise</span> <span class="nv">RuntimeError</span><span class="p">(</span><span class="s2">&quot;vertex_properties must be a dictionary&quot;</span><span class="p">)</span>
+
+ <span class="s s-Atom">def</span> <span class="nf">get_order</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">)</span><span class="o">:</span>
+     <span class="s2">&quot;&quot;&quot; return the order of this Graph &quot;&quot;&quot;</span>
+     <span class="s s-Atom">return</span> <span class="nf">len</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">)</span>
+
+ <span class="s s-Atom">def</span> <span class="nf">get_numb_of_edges</span><span class="p">(</span><span class="s s-Atom">self</span><span class="p">)</span><span class="o">:</span>
+     <span class="s s-Atom">numb_of_edges</span> <span class="o">=</span> <span class="mi">0</span>
+     <span class="s s-Atom">for</span> <span class="s s-Atom">var</span> <span class="s s-Atom">in</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">:</span>
+         <span class="s s-Atom">numb_of_edges</span> <span class="s s-Atom">+=</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">vertices</span><span class="p">[</span><span class="s s-Atom">var</span><span class="p">].</span><span class="nf">get_degree</span><span class="p">()</span>
+     <span class="s s-Atom">if</span> <span class="o">not</span> <span class="s s-Atom">self</span><span class="p">.</span><span class="s s-Atom">isDirected</span><span class="o">:</span>
+         <span class="s s-Atom">numb_of_edges</span> <span class="o">=</span> <span class="s s-Atom">numb_of_edges</span> <span class="o">//</span> <span class="mi">2</span>
+     <span class="s s-Atom">return</span> <span class="s s-Atom">numb_of_edges</span>
+</code></pre></div>
+
+<p>class Vertex:
+    vertex_id = 0  # each vertex has a unique id. The uniqueness will be ensured in the class Graph
+    vertex_properties = {}  # each vertex can have a user-defined list of properties
+    neighbours = []  # each vertex can have a user-defined list of neighbours</p>
+<div class="codehilite"><pre><span></span><code><span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">__init__</span><span class="p">(</span><span class="n">self</span><span class="p">,</span><span class="w"> </span><span class="n">vertex_id</span><span class="p">)</span><span class="err">:</span>
+<span class="w">     </span><span class="k">if</span><span class="w"> </span><span class="n">type</span><span class="p">(</span><span class="n">vertex_id</span><span class="p">)</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="nc">int</span><span class="err">:</span>
+<span class="w">         </span><span class="n">self</span><span class="p">.</span><span class="n">vertex_id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">vertex_id</span>
+<span class="w">         </span><span class="n">self</span><span class="p">.</span><span class="n">neighbours</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="err">[]</span>
+<span class="w">         </span><span class="n">self</span><span class="p">.</span><span class="n">vertex_properties</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="err">{}</span>
+<span class="w">     </span><span class="k">else</span><span class="err">:</span>
+<span class="w">         </span><span class="n">raise</span><span class="w"> </span><span class="n">ValueError</span><span class="p">(</span><span class="s1">&#39;Vertex id must be an integer&#39;</span><span class="p">)</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">get_numb_of_neighbours</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="err">:</span>
+<span class="w">     </span><span class="ss">&quot;&quot;&quot; return number of vertex neighbors &quot;&quot;&quot;</span>
+<span class="w">     </span><span class="k">return</span><span class="w"> </span><span class="nf">len</span><span class="p">(</span><span class="n">self</span><span class="p">.</span><span class="n">neighbours</span><span class="p">)</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">get_degree</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="err">:</span>
+<span class="w">     </span><span class="ss">&quot;&quot;&quot; return the degree of the Vertex &quot;&quot;&quot;</span>
+<span class="w">     </span><span class="n">deg</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span>
+<span class="w">     </span><span class="k">for</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="ow">in</span><span class="w"> </span><span class="k">range</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="nf">len</span><span class="p">(</span><span class="n">self</span><span class="p">.</span><span class="n">neighbours</span><span class="p">))</span><span class="err">:</span>
+<span class="w">         </span><span class="n">deg</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">neighbours</span><span class="o">[</span><span class="n">i</span><span class="o">]</span><span class="p">.</span><span class="n">get_multiplicity</span><span class="p">()</span>
+<span class="w">     </span><span class="k">return</span><span class="w"> </span><span class="n">deg</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">get_id</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="err">:</span>
+<span class="w">     </span><span class="ss">&quot;&quot;&quot; return the id of the vertex &quot;&quot;&quot;</span>
+<span class="w">     </span><span class="k">return</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">vertex_id</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">get_properties</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="err">:</span>
+<span class="w">     </span><span class="ss">&quot;&quot;&quot; return the properties of the vertex &quot;&quot;&quot;</span>
+<span class="w">     </span><span class="k">return</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">vertex_properties</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">set_properties</span><span class="p">(</span><span class="n">self</span><span class="p">,</span><span class="w"> </span><span class="n">props</span><span class="p">)</span><span class="err">:</span>
+<span class="w">     </span><span class="k">if</span><span class="w"> </span><span class="n">type</span><span class="p">(</span><span class="n">props</span><span class="p">)</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="nl">dict</span><span class="p">:</span>
+<span class="w">         </span><span class="n">self</span><span class="p">.</span><span class="n">vertex_properties</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">props</span>
+<span class="w">     </span><span class="k">else</span><span class="err">:</span>
+<span class="w">         </span><span class="n">raise</span><span class="w"> </span><span class="n">ValueError</span><span class="p">(</span><span class="s1">&#39;Vertex properties must be a dictionary&#39;</span><span class="p">)</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">get_neighbours</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="err">:</span>
+<span class="w">     </span><span class="ss">&quot;&quot;&quot; return the list of neighbors of the vertex &quot;&quot;&quot;</span>
+<span class="w">     </span><span class="k">return</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">neighbours</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">list_neighbour_ids</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="err">:</span>
+<span class="w">     </span><span class="ss">&quot;&quot;&quot; return the list of neighbours of the vertex &quot;&quot;&quot;</span>
+<span class="w">     </span><span class="n">keys</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="err">[]</span>
+<span class="w">     </span><span class="k">for</span><span class="w"> </span><span class="n">i</span><span class="w"> </span><span class="ow">in</span><span class="w"> </span><span class="k">range</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="nf">len</span><span class="p">(</span><span class="n">self</span><span class="p">.</span><span class="n">neighbours</span><span class="p">))</span><span class="err">:</span>
+<span class="w">         </span><span class="n">keys</span><span class="p">.</span><span class="n">append</span><span class="p">(</span><span class="n">self</span><span class="p">.</span><span class="n">neighbours</span><span class="o">[</span><span class="n">i</span><span class="o">]</span><span class="p">.</span><span class="n">get_id</span><span class="p">())</span>
+<span class="w">     </span><span class="k">return</span><span class="w"> </span><span class="n">keys</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">neighbour_index</span><span class="p">(</span><span class="n">self</span><span class="p">,</span><span class="w"> </span><span class="n">neighbour_vertex</span><span class="p">)</span><span class="err">:</span>
+<span class="w">     </span><span class="ss">&quot;&quot;&quot; returns None, if this vertex does not has v as a neighbour vertex</span>
+<span class="ss">         otherwise returns the index of the neighbour in the list neighbours</span>
+<span class="ss">     &quot;&quot;&quot;</span>
+<span class="w">     </span><span class="k">found</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">False</span>
+<span class="w">     </span><span class="n">i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">0</span>
+<span class="w">     </span><span class="k">for</span><span class="w"> </span><span class="n">i</span><span class="p">,</span><span class="w"> </span><span class="n">n</span><span class="w"> </span><span class="ow">in</span><span class="w"> </span><span class="n">enumerate</span><span class="p">(</span><span class="n">self</span><span class="p">.</span><span class="n">neighbours</span><span class="p">)</span><span class="err">:</span>
+<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">n</span><span class="p">.</span><span class="n">get_neighbours_vertex_id</span><span class="p">()</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">neighbour_vertex</span><span class="p">.</span><span class="n">get_id</span><span class="p">()</span><span class="err">:</span>
+<span class="w">             </span><span class="k">found</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="k">True</span>
+<span class="w">             </span><span class="k">break</span>
+<span class="w">     </span><span class="k">if</span><span class="w"> </span><span class="k">found</span><span class="err">:</span>
+<span class="w">         </span><span class="k">return</span><span class="w"> </span><span class="n">i</span>
+<span class="w">     </span><span class="k">else</span><span class="err">:</span>
+<span class="w">         </span><span class="k">return</span><span class="w"> </span><span class="k">None</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">add_neighbour</span><span class="p">(</span><span class="n">self</span><span class="p">,</span><span class="w"> </span><span class="n">neighbour_vertex</span><span class="p">,</span><span class="w"> </span><span class="n">is_simple</span><span class="p">,</span><span class="w"> </span><span class="n">raise_errors</span><span class="p">)</span><span class="err">:</span>
+<span class="w">     </span><span class="ss">&quot;&quot;&quot; adds as new neighbour v to self vertex</span>
+<span class="ss">         if isSimple = True, then multiplicities will never exceed 1 and no loops will be allowed &quot;&quot;&quot;</span>
+<span class="w">     </span><span class="n">n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">neighbour_index</span><span class="p">(</span><span class="n">neighbour_vertex</span><span class="p">)</span>
+<span class="w">     </span><span class="k">if</span><span class="w"> </span><span class="n">n</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="ow">not</span><span class="w"> </span><span class="k">None</span><span class="err">:</span>
+<span class="w">         </span><span class="err">#</span><span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="n">vertex</span><span class="w"> </span><span class="n">already</span><span class="w"> </span><span class="ow">in</span><span class="w"> </span><span class="n">neighbours</span><span class="w"> </span><span class="k">than</span><span class="w"> </span><span class="k">only</span><span class="w"> </span><span class="n">increase</span><span class="w"> </span><span class="n">its</span><span class="w"> </span><span class="n">multiplicity</span><span class="p">,</span><span class="w"> </span><span class="n">unless</span><span class="w"> </span><span class="n">isSimple</span><span class="o">=</span><span class="k">True</span>
+<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">is_simple</span><span class="w"> </span><span class="ow">and</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">neighbours</span><span class="o">[</span><span class="n">n</span><span class="o">]</span><span class="p">.</span><span class="n">get_multiplicity</span><span class="p">()</span><span class="w"> </span><span class="o">&gt;=</span><span class="w"> </span><span class="mi">1</span><span class="err">:</span>
+<span class="w">             </span><span class="k">if</span><span class="w"> </span><span class="nl">raise_errors</span><span class="p">:</span>
+<span class="w">                 </span><span class="n">raise</span><span class="w"> </span><span class="n">RuntimeError</span><span class="p">(</span><span class="ss">&quot;Cannot add multiple edge &quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="nf">str</span><span class="p">(</span><span class="n">self</span><span class="p">.</span><span class="n">get_id</span><span class="p">())</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="ss">&quot;-&gt;&quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="nf">str</span><span class="p">(</span>
+<span class="w">                     </span><span class="n">neighbour_vertex</span><span class="p">.</span><span class="n">get_id</span><span class="p">())</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="ss">&quot; to a simple Graph&quot;</span><span class="p">)</span>
+<span class="w">         </span><span class="k">else</span><span class="err">:</span>
+<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">neighbours</span><span class="o">[</span><span class="n">n</span><span class="o">]</span><span class="p">.</span><span class="n">increase_multiplicity</span><span class="p">()</span>
+<span class="w">         </span><span class="k">return</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">neighbours</span><span class="o">[</span><span class="n">n</span><span class="o">]</span><span class="w">  </span><span class="err">#</span><span class="w"> </span><span class="ow">and</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="k">found</span><span class="w"> </span><span class="n">neighbour</span><span class="w"> </span><span class="k">object</span>
+<span class="w">     </span><span class="k">else</span><span class="err">:</span>
+<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">is_simple</span><span class="w"> </span><span class="ow">and</span><span class="w"> </span><span class="n">neighbour_vertex</span><span class="p">.</span><span class="n">get_id</span><span class="p">()</span><span class="w"> </span><span class="o">==</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">get_id</span><span class="p">()</span><span class="err">:</span>
+<span class="w">             </span><span class="k">if</span><span class="w"> </span><span class="nl">raise_errors</span><span class="p">:</span>
+<span class="w">                 </span><span class="n">raise</span><span class="w"> </span><span class="n">RuntimeError</span><span class="p">(</span><span class="ss">&quot;Cannot add loop &quot;</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="nf">str</span><span class="p">(</span><span class="n">neighbour_vertex</span><span class="p">.</span><span class="n">get_id</span><span class="p">())</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="ss">&quot; to a simple Graph&quot;</span><span class="p">)</span>
+<span class="w">         </span><span class="k">else</span><span class="err">:</span>
+<span class="w">             </span><span class="n">neighbour</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">Neighbour</span><span class="p">(</span><span class="n">neighbour_vertex</span><span class="p">.</span><span class="n">get_id</span><span class="p">())</span><span class="w">  </span><span class="err">#</span><span class="w"> </span><span class="k">create</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="n">Neighbour</span><span class="w"> </span><span class="k">object</span>
+<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">neighbours</span><span class="p">.</span><span class="n">append</span><span class="p">(</span><span class="n">neighbour</span><span class="p">)</span>
+<span class="w">             </span><span class="k">return</span><span class="w"> </span><span class="n">neighbour</span><span class="w">  </span><span class="err">#</span><span class="w"> </span><span class="ow">and</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="n">the</span><span class="w"> </span><span class="n">created</span><span class="w"> </span><span class="n">neighbour</span><span class="w"> </span><span class="k">object</span>
+</code></pre></div>
+
+<p>class Neighbour:
+    """ Neighbour is a class adding the multiplicity functionality to a Vertex """
+    vertex_id = None
+    multiplicity = 0</p>
+<div class="codehilite"><pre><span></span><code><span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span><span class="w"> </span><span class="n">vertex_id</span><span class="p">):</span>
+<span class="w">     </span><span class="k">if</span><span class="w"> </span><span class="n">type</span><span class="p">(</span><span class="n">vertex_id</span><span class="p">)</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="nb nb-Type">int</span><span class="p">:</span>
+<span class="w">         </span><span class="bp">self</span><span class="o">.</span><span class="n">vertex_id</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">vertex_id</span>
+<span class="w">         </span><span class="bp">self</span><span class="o">.</span><span class="n">multiplicity</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="mi">1</span><span class="w">  </span><span class="c1"># equals 1 at minimum. If the neighbour</span>
+<span class="w">         </span><span class="c1"># vertex is added multiple times, then only its multiplicity increases</span>
+<span class="w">     </span><span class="k">else</span><span class="p">:</span>
+<span class="w">         </span><span class="n">raise</span><span class="w"> </span><span class="n">ValueError</span><span class="p">(</span><span class="s1">&#39;vertex id (int) required to construct a neighbour&#39;</span><span class="p">)</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">get_neighbours_vertex_id</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<span class="w">     </span><span class="k">return</span><span class="w"> </span><span class="bp">self</span><span class="o">.</span><span class="n">vertex_id</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">get_multiplicity</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<span class="w">     </span><span class="k">return</span><span class="w"> </span><span class="bp">self</span><span class="o">.</span><span class="n">multiplicity</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">set_multiplicity</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span><span class="w"> </span><span class="n">mulitiplicity</span><span class="p">):</span>
+<span class="w">     </span><span class="k">if</span><span class="w"> </span><span class="n">mulitiplicity</span><span class="w"> </span><span class="o">&gt;=</span><span class="w"> </span><span class="mi">1</span><span class="p">:</span>
+<span class="w">         </span><span class="bp">self</span><span class="o">.</span><span class="n">multiplicity</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">mulitiplicity</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">increase_multiplicity</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<span class="w">     </span><span class="bp">self</span><span class="o">.</span><span class="n">multiplicity</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="mi">1</span>
+
+<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">decrease_multiplicity</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<span class="w">     </span><span class="k">if</span><span class="w"> </span><span class="bp">self</span><span class="o">.</span><span class="n">multiplicity</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">1</span><span class="p">:</span>
+<span class="w">         </span><span class="bp">self</span><span class="o">.</span><span class="n">multiplicity</span><span class="w"> </span><span class="o">-=</span><span class="w"> </span><span class="mi">1</span>
+</code></pre></div>
+
+<h1>creating an undirected simple graph</h1>
+<p>g = Graph(UNDIRECTED_GRAPH, SIMPLE_GRAPH, GRAPH_RAISE_ERRORS, {0: [1, 2], 1: [^2], 2: []})
+print(g)
+1. will output
+1. Graph: isDirected=False, isSimple=True
+1. 0: properties={}, neighbours=[1(#1), 2(#1)]
+1. 1: properties={}, neighbours=[0(#1), 2(#1)]
+1. 2: properties={}, neighbours=[0(#1), 1(#1)]</p>
+<h1>creating a directed simple graph</h1>
+<p>g = Graph(DIRECTED_GRAPH, SIMPLE_GRAPH, GRAPH_RAISE_ERRORS, {0: [1, 2], 1: [^2], 2: []})
+print(g)
+1. will output
+1. Graph: isDirected=True, isSimple=True
+1. 0: properties={}, neighbours=[1(#1), 2(#1)]
+1. 1: properties={}, neighbours=[2(#1)]
+1. 2: properties={}, neighbours=[]</p>
+<h1>creating an undirected multigraph with loops and parallel edges</h1>
+<p>g = Graph(UNDIRECTED_GRAPH, MULTI_GRAPH, GRAPH_RAISE_ERRORS, {0: [1, 2], 1: [2, 1], 2: [2, 0, 1]})
+print(g)
+1. will output
+1. Graph: isDirected=False, isSimple=False
+1. 0: properties={}, neighbours=[1(#1), 2(#2)]
+1. 1: properties={}, neighbours=[0(#1), 2(#2), 1(#2)]
+1. 2: properties={}, neighbours=[0(#2), 1(#2), 2(#2)]</p>
+<h1>creating a directed simple graph with loops, ignoring errors (e.g. ignoring creating loops)</h1>
+<p>g = Graph(DIRECTED_GRAPH, SIMPLE_GRAPH, GRAPH_IGNORE_ERRORS, {0: [1, 2], 1: [2, 1], 2: [^2]})
+print(g)
+1. will output
+1. Graph: isDirected=True, isSimple=True
+1. 0: properties={}, neighbours=[1(#1), 2(#1)]
+1. 1: properties={}, neighbours=[2(#1)]
+1. 2: properties={}, neighbours=[]</p>
+<h1>setting properties of all vertices the existing graph</h1>
+<p>properties = {0: {"visited": False, "color": "black"}, 1: {"visited": True, "color": "white"},
+              2: {"visited": False, "color": "red"}}
+g.set_properties(properties)
+print(g)
+1. will output
+1. Graph: isDirected=True, isSimple=True
+1. 0: properties={'visited': False, 'color': 'black'}, neighbours=[1(#1), 2(#1)]
+1. 1: properties={'visited': True, 'color': 'white'}, neighbours=[2(#1)]
+1. 1: properties={'visited': True, 'color': 'white'}, neighbours=[2(#1)]</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/theoretical-computer-science/data-structures/graph-class-python.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+
+<h4>Footnotes</h4>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

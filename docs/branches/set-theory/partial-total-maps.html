@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="PARTIAL AND TOTAL MAPS, FUNCTION, FIBER, DOMAIN AND CODOMAIN, MAPPINGS  ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="function,functions,image,images,map,maps,range,ranges,mapping,mappings,partial map,partial and total functions,domain,domains,fiber,fibers,partial mapping,undefined,inverse image,inverse images">
+<title>Partial and Total Maps (Functions)</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/functions.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/functions.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/some-remarks-on-functions.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Definition: Partial and Total Maps (Functions)</h3>
+
+<hr>
+
+<h1>Definition: Partial and Total Maps (Functions)</h1>
+<p>Let \(A\) and \(B\) be two (not necessarily different) <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">sets</a> and let \(f \subseteq A \times B\) be a binary <a href="https://bookofproofs.github.io/branches/set-theory/relation.html" title="Set Theory / Definition: Relation">relation</a>.
+* a  <strong>total</strong>) <strong>function</strong> (or a <strong>map</strong>), if it is <a href="https://bookofproofs.github.io/branches/set-theory/total-and-unique-binary-relations.html" title="Set Theory / Definition: Total and Unique Binary Relations">left-total</a> and <a href="https://bookofproofs.github.io/branches/set-theory/total-and-unique-binary-relations.html" title="Set Theory / Definition: Total and Unique Binary Relations">right-unique</a>. This is equivalant to saying that for every element \(x\in A\) there is exactly one element \(y\in B\) with \((x,y)\in f\). To express this, we write $f(x)=y$ for functions instead of writing $(x,y)\in f$ as we wrote for general relations.
+* a  <strong>partial</strong>) <strong>function</strong> (or a <strong>map</strong>), if it is <a href="https://bookofproofs.github.io/branches/set-theory/total-and-unique-binary-relations.html" title="Set Theory / Definition: Total and Unique Binary Relations">right-unique</a>, but not left-total.</p>
+<p>The following terms are strongly related to functions:
+* $A$ is called the <strong>domain</strong> of $f$.
+* $B$ is called the <strong>codomain</strong> of $f$. 
+* The element \(f(x)=y\) for some $x\in A$ and $b\in B$ is called the <em>value of $f$ at the point $x$</em>.
+* The set \(f[A]:=\{y\in B:f(x)=y\;\text{ for all }x\in A\}\) is called the <em>range:</em> (or <strong>image</strong>) of $f$.
+* For some $y\in B$, the set $f^{-1}(y):=\{x\in A:f(x)=y\}$ is called the <em>fiber of $y$ under $f$</em>.
+* The set $f^{-1}[B]:=\{x\in A:f(x)=y\text{ for all }y\in B\}$ is called the <strong>inverse image</strong> of $f$.
+* If a partial function $f$ is <strong>undefined</strong> for an $a\in A$, i.e. $\not\exists b\in B:f(a)=b,$ then we write $f(a)=\perp.$</p>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/set-theory/partial-total-maps.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Knauer Ulrich</strong>: "Diskrete Strukturen - kurz gefasst", Spektrum Akademischer Verlag, 2001</li>
+<li><strong>Reinhardt F., Soeder H.</strong>: "dtv-Atlas zur Mathematik", Deutsche Taschenbuch Verlag, 1994, 10th Edition</li>
+<li><strong>Kane, Jonathan</strong>: "Writing Proofs in Analysis", Springer, 2016</li>
+</ol>
+<h4>CC BY-SA 3.0</h4>
+<ol>
+<li><strong>Brenner, Prof. Dr. rer. nat., Holger</strong>: "Various courses at the University of Osnabrück", <a href="https://de.wikiversity.org/wiki/Wikiversity:Hochschulprogramm">https://de.wikiversity.org/wiki/Wikiversity:Hochschulprogramm</a>, 2014</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

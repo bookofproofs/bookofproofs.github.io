@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="Proof of DISTINCTION BETWEEN FINITE AND INFINITE SETS USING SUBSETS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!">
+<meta name="keywords" content="distinction between finite and infinite,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/distinction-between-finite-and-infinite-sets-using-subsets.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/distinction-between-finite-and-infinite-sets-using-subsets.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/more-characterizations-of-finite-sets.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/set-theory/distinction-between-finite-and-infinite-sets-using-subsets.html'>Theorem: Distinction Between Finite and Infinite Sets Using Subsets</a>)</p>
+<ul>
+<li>By hypothesis, $X$ is a <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">non-empty set</a> with a <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Set Theory / Definition: Subset and Superset">proper subset</a> $S\subset X.$</li>
+</ul>
+<h3>Finite case "$\Rightarrow$"</h3>
+<ul>
+<li>Let $X$ be <a href="https://bookofproofs.github.io/branches/set-theory/finite-set-infinite-set.html" title="Set Theory / Definition: Finite Set, Infinite Set">finite</a>.</li>
+<li>By <a href="https://bookofproofs.github.io/branches/set-theory/subsets-of-finite-sets.html" title="Set Theory / Proposition: Subsets of Finite Sets">subsets of finite sets</a>, $S$ is finite with $|S| \le |X|.$</li>
+<li>Since $S$ is a proper subset, we have even $|S| \neq |X|.$ </li>
+<li>Therefore, $|S| &lt; |X|.$ </li>
+<li>By <a href="https://bookofproofs.github.io/branches/set-theory/more-characterizations-of-finite-sets.html" title="Set Theory / Proposition: More Characterizations of Finite Sets">characterization of finite sets</a> (no. $3$), there is no <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html" title="Set Theory / Definition: Injective Function">injective function</a>n $f:X\to S.$</li>
+</ul>
+<h3>Infinite case "$\Rightarrow$"</h3>
+<ul>
+<li>Assume, $X$ is <a href="https://bookofproofs.github.io/branches/set-theory/finite-set-infinite-set.html" title="Set Theory / Definition: Finite Set, Infinite Set">infinite</a>.</li>
+<li>Choose $x_1\in X,$ $x_2\in X\setminus\{x_1\},$ $x_3\in X\setminus\{x_1,x_2\},$ etc.  </li>
+<li>Since $X$ is infinite, we can continue this process for all indices $i\in\mathbb N$ be <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">mapping</a> $f:\mathbb N\to X,$ $f(i):=x_i.$</li>
+<li>By construction, this is an <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html" title="Set Theory / Definition: Injective Function">injective function</a> $f:\mathbb N\to X.$</li>
+<li>Now, define the function $g:X\to S$ ($S$ being a proper subset of $X$) as follows:
+$$g(x):=\begin{cases}x&amp;\text{if }x\in X\setminus \{x_i\mid i\in\mathbb N\}\\x_{i+1}&amp;\text{if }x=x_i\end{cases}$$</li>
+<li>By construction, the function $g$ is injective as well.</li>
+</ul>
+<h3>Infinite case "$\Leftarrow$"</h3>
+<ul>
+<li>By <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contraposition-contrapositive.html" title="Logic / Lemma: The Proving Principle By Contraposition, Contrapositive">contraposition</a> to finite case $"\Rightarrow",$ if there <em>is</em> an injective function $f:X\to S,$ then $X$ is not finite, therefore $X$ is infinite.</li>
+</ul>
+<h3>Finite case "$\Leftarrow$"</h3>
+<ul>
+<li>By <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contraposition-contrapositive.html" title="Logic / Lemma: The Proving Principle By Contraposition, Contrapositive">contraposition</a> to the infinite case $"\Rightarrow",$ if there <em>is no</em> injective function $g:X\to S,$ then $X$ is not infinite, therefore $X$ is finite.</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/set-theory/distinction-between-finite-and-infinite-sets-using-subsets-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Flachsmeyer, Jürgen</strong>: "Kombinatorik", VEB Deutscher Verlag der Wissenschaften, 1972, 3rd Edition</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

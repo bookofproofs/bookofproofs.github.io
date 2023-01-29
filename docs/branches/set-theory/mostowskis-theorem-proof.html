@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="PROOF OF MOSTOWSKI&#x27;S THEOREM &amp;#9733; graduate maths &amp;#10004; step by step &amp;#10010; by the axiomatic method &amp;#10140; visit BookOfProofs now!">
+<meta name="keywords" content="mostowskis,theorem,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/mostowskis-theorem.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/mostowskis-theorem.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/strictly-well-ordered-sets-and-transitive-sets.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/set-theory/mostowskis-theorem.html'>Theorem: Mostowski&#x27;s Theorem</a>)</p>
+<ul>
+<li>Let $U$ be a <a href="https://bookofproofs.github.io/branches/set-theory/universal-set.html" title="Set Theory / Definition: Universal Set">universal set</a> and $(V,\prec)$ with a <a href="https://bookofproofs.github.io/branches/set-theory/well-founded-relation.html" title="Set Theory / Definition: Well-founded Relation">well-founded</a> relation "$\prec$" and with the corresponding <a href="https://bookofproofs.github.io/branches/set-theory/mostowski-function-and-collapse.html" title="Set Theory / Definition: Mostowski Function and Collapse">Mostowski function</a> $\pi:V\to U$ with $\pi(x):=\{\pi(y)\mid y\in V\wedge y\prec x\},$ and $\pi[V]\subseteq U$ is the <a href="https://bookofproofs.github.io/branches/set-theory/mostowski-function-and-collapse.html" title="Set Theory / Definition: Mostowski Function and Collapse">Mostowski collapse</a>.</li>
+<li>Assume that $x\in y$ and $y\in \pi[V].$ <ul>
+<li>Since $y\in \pi[V]$, there is an $u\in V$ with $y=\pi(u).$</li>
+<li>By definition of the Mostowski function, $y=\pi(u)=\{\pi(v)\mid v\in V\wedge v\prec u\}$ for an $u\in V.$</li>
+<li>By assumption, $x\in y.$ Therefore $x=\pi(v)$ for some $v\in V$ with $v\prec u.$</li>
+<li>By definition of the Mostowski function, from $v\prec u$ it follows that $\pi(v)\in \pi[V].$</li>
+<li>Therefore, $x\in \pi[V]$. </li>
+<li>Altogether, we have shown that if $x\in y$ and $y\in \pi[V]$ then $x\in\pi[V]$ which means that the Mostowski collapse $\pi[V]$ is a <a href="https://bookofproofs.github.io/branches/set-theory/transitive-set.html" title="Set Theory / Definition: Transitive Set">transitive set</a>.</li>
+</ul>
+</li>
+<li>Now, assume that "$\prec$" is well-founded and, in addition, <a href="https://bookofproofs.github.io/branches/set-theory/extensional-relation.html" title="Set Theory / Definition: Extensional Relation">extensional</a>. We want to show that $\pi$ is an <a href="https://bookofproofs.github.io/branches/set-theory/order-embedding.html" title="Set Theory / Definition: Order Embedding">order embedding</a>, i.e. fulfills the property $v_1\prec v_2\Longleftrightarrow \pi(v_1)\in\pi(v_2)$ for $v_1,v_2\in V.$ It suffices to show that $\pi$ is <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html" title="Set Theory / Definition: Injective Function">injective</a>. We will assume that $\pi$ is not injective and conclude a <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">contradiction</a>.<ul>
+<li>If $\pi$ is not injective, then the values $\pi(v_1)=\pi(v_2)$ are equal for some two different elements $v_1,v_2\in V$ with $v_1\neq v_2.$ </li>
+<li>Since "$\prec$" is <a href="https://bookofproofs.github.io/branches/set-theory/well-founded-relation.html" title="Set Theory / Definition: Well-founded Relation">well-founded</a>, every non-empty subset $S\subseteq V$ contains a <a href="https://bookofproofs.github.io/branches/set-theory/special-elements-of-ordered-sets.html" title="Set Theory / Definition: Special Elements of Ordered Sets">minimal</a> element. </li>
+<li>In particular, the subset $S:=\{v_1,v_2\}$ contains a minimal element. </li>
+<li>Without loss of generalization, assume $v_1$ is minimal, which means that there is no $x\in S$ with $x\prec v_1.$</li>
+<li>Since $v_2\neq v_1$ and $v_1$ is minimal in $S$, we must have $v_1\prec v_2.$ </li>
+<li>Since "$\prec$" is <a href="https://bookofproofs.github.io/branches/set-theory/extensional-relation.html" title="Set Theory / Definition: Extensional Relation">extensional</a>, and since $v_1\neq v_2,$ we have  $V_1\neq V_2$ with $V_1:=\{z\in V\mid z\prec v_1\}$ and $V_2:=\{z\in V\mid z\prec v_2\}.$</li>
+<li>In particular, since $v_1\prec v_2$ we must have $V_1\subset V_2,$ $u\not\in V_1,$ $u\in V_2.$ </li>
+<li>Thus, $v_1\preceq u\prec v_2.$ </li>
+<li>If $u\prec v_2,$ then $\pi(u)\in\{\pi(z)\mid z\prec v_2\},$ which by definition of the <a href="https://bookofproofs.github.io/branches/set-theory/mostowski-function-and-collapse.html" title="Set Theory / Definition: Mostowski Function and Collapse">Mostowski function</a> means $\pi(u)\in\pi(v_2).$</li>
+<li>By assumption, $\pi(v_2)=\pi(v_1),$ thus $\pi(u)\in \pi(v_1).$</li>
+<li>If $v_1=u$, then $\pi(u)\in \pi(u)$, in contradiction to the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-foundation.html" title="Set Theory / Axiom: Axiom of Foundation">axiom of foundation</a>.</li>
+<li>But then $v_1\prec u$ and we have both, $\pi(u)\in \pi(v_1)$ and $\pi(v_1)\in \pi(u)$, which is again a contradiction.</li>
+<li>Altogether, we have shown that $\pi$ is injective.</li>
+<li>By definition, $\pi$ is an <a href="https://bookofproofs.github.io/branches/set-theory/order-embedding.html" title="Set Theory / Definition: Order Embedding">order embedding</a>. </li>
+</ul>
+</li>
+</ul>
+<p>The following calculation is not needed for the proof, but we want to verify that, indeed, the property $v_1\prec v_2\Longleftrightarrow \pi(x)\in\pi(y)$ is fulfilled in the case "$\prec$" is well-founded and, in addition, <a href="https://bookofproofs.github.io/branches/set-theory/extensional-relation.html" title="Set Theory / Definition: Extensional Relation">extensional</a>:</p>
+<h3>"$\Rightarrow$"</h3>
+<ul>
+<li>If $v_1\prec v_2,$ then $\pi(v_1)\in\{\pi(z)\mid z\prec v_2\}.$ </li>
+<li>This means $\pi(v_1)\in\pi(v_2)$ by the definition of the <a href="https://bookofproofs.github.io/branches/set-theory/mostowski-function-and-collapse.html" title="Set Theory / Definition: Mostowski Function and Collapse">Mostowski function</a>. </li>
+</ul>
+<h3>"$\Leftarrow$"</h3>
+<ul>
+<li>If $\pi(v_1)\in\pi(v_2),$ then by the definition of the <a href="https://bookofproofs.github.io/branches/set-theory/mostowski-function-and-collapse.html" title="Set Theory / Definition: Mostowski Function and Collapse">Mostowski function</a> $\pi(v_1)\in\{\pi(z)\mid z\prec v_2\}.$</li>
+<li>This means $\pi(v_1)=\pi(z)$ for some $z\in V$ with $z\prec u_2.$ </li>
+<li>Since $\pi$ is <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html" title="Set Theory / Definition: Injective Function">injective</a>, this means  $v_1=z$ for some $z\in V$ with $z\prec u_2.$ </li>
+<li>This means $v_1\prec u_2.$</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/set-theory/mostowskis-theorem-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Hoffmann, D.</strong>: "Forcing, Eine Einführung in die Mathematik der Unabhängigkeitsbeweise", Hoffmann, D., 2018</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

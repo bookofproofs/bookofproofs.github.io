@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="PROOF OF ZORN&#x27;S LEMMA IS EQUIVALENT TO THE AXIOM OF CHOICE ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!">
+<meta name="keywords" content="zorn&#x27;s lemma is equivalent to the axiom of choice,proof">
+<title></title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/set-theory/zorn-lemma-is-equivalent-to-the-axiom-of-choice.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/set-theory/zorn-lemma-is-equivalent-to-the-axiom-of-choice.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/set-theory/well-order-well-ordered-set.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/set-theory/set-theory.html'>Set-theory</a> / Proof</h3>
+
+<hr>
+
+<h1>Proof</h1>
+<p>(related to <a href='https://bookofproofs.github.io/branches/set-theory/zorn-lemma-is-equivalent-to-the-axiom-of-choice.html'>Proposition: Zorn&#x27;s Lemma is Equivalent To the Axiom of Choice</a>)</p>
+<h3>"$\Rightarrow$"</h3>
+<ul>
+<li>Assume, the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-choice.html" title="Set Theory / Axiom: Axiom of Choice">axiom of choice</a> holds.</li>
+<li>See the proof of <a href="https://bookofproofs.github.io/branches/set-theory/zorns-lemma.html" title="Set Theory / Lemma: Zorn&amp;#x27;s Lemma">Zorn's Lemma</a>, how it follows.</li>
+</ul>
+<h3>"$\Leftarrow$"</h3>
+<ul>
+<li>Assume <a href="https://bookofproofs.github.io/branches/set-theory/zorns-lemma.html" title="Set Theory / Lemma: Zorn&amp;#x27;s Lemma">Zorn's Lemma</a> is true.</li>
+<li>Let $X$ be a <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">set</a> of disjoint and non-empty sets $X=\{V_i\mid i\in I,i\neq j\Longleftrightarrow V_i\cap V_j=\emptyset\}$ for some <a href="https://bookofproofs.github.io/branches/set-theory/index-set-and-set-family.html" title="Set Theory / Definition: Index Set and Set Family">index set</a> $i\in I$. We want to construct a set $Y$ containing exactly one element from each of these sets, i.e. we want to derive the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-choice.html" title="Set Theory / Axiom: Axiom of Choice">axiom of choice</a>.<ul>
+<li>We define $\mathcal F$ as the set of all non-empty <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Set Theory / Definition: Subset and Superset">subsets</a> of the respective disjoint sets $V_i$: $$\mathcal F:=\{T_i\subseteq V_i\mid i\in I,\; T_i\neq\emptyset\}.$$</li>
+<li>Obviously, $(\mathcal F,\preceq)$ is a <a href="https://bookofproofs.github.io/branches/set-theory/preorder-partial-order-and-poset.html" title="Set Theory / Definition: Preorder, Partial Order and Poset">poset</a> if and only if we set $$T\preceq T^\prime\Longleftrightarrow T^\prime\subseteq T,$$ i.e. we consider $T^\prime$ greater or equal $T$ if $T^\prime$ is a (non-empty) <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Set Theory / Definition: Subset and Superset">subset</a> of $T.$ </li>
+<li>Note that $T,T^\prime\in\mathcal F$ are only comparable by "$\preceq$" if they are subsets of the same original set $V_i$ for some $i\in I$ and one is contained in the other. This is because all $V_i$ are disjoint.</li>
+<li>By assumption, the Zorn's lemma is correct, i.e. if every <a href="https://bookofproofs.github.io/branches/set-theory/total-order.html" title="Set Theory / Definition: Total Order and Chain">chain</a> $C\subseteq \mathcal F$ that has an <a href="https://bookofproofs.github.io/branches/set-theory/special-elements-of-ordered-sets.html" title="Set Theory / Definition: Special Elements of Ordered Sets">upper bound</a>, then $\mathcal F$ contains at least one <a href="https://bookofproofs.github.io/branches/set-theory/special-elements-of-ordered-sets.html" title="Set Theory / Definition: Special Elements of Ordered Sets">maximal</a> element.</li>
+<li>We have therefore first to check if every chain in $\mathcal F$ has an upper bound.<ul>
+<li>Let $C\subseteq\mathcal F$ be a chain, i.e. for all $T,T^\prime\in C$ we have $T^\prime\preceq T$ or $T\preceq T^\prime.$</li>
+<li>By construction, since all pairs $T$ and $T^\prime$ in the chain $C$ are only comparable, if they are subsets of the same original set $V_i$ for some $i\in I$ and one is contained in the other, we can identify exactly one $V_i\in\mathcal F$ for which $C$ is a chain. Therefore, can we write $C_i$ for each chain $C\in\mathcal F.$ </li>
+<li>In other words, in $F$, there exist only chains $C_i$ that can be built from the subsets of the respective $V_i,$ which are contained in each other.</li>
+<li>Since all subsets are non-empty, by construction, for each chain $C_i$ we can build the <a href="https://bookofproofs.github.io/branches/set-theory/set-intersection.html" title="Set Theory / Definition: Set Intersection">set intersection</a> $B_i:=\bigcap_{T\in C_i} T.$</li>
+<li>$B_i$ is both, non-empty and, by construction, an element of each $C_i$ for all $i\in I.$</li>
+<li>Thus, for all $i\in I,$ $B_i$ is an <a href="https://bookofproofs.github.io/branches/set-theory/special-elements-of-ordered-sets.html" title="Set Theory / Definition: Special Elements of Ordered Sets">upper bound</a> of $C_i$ since $B_i\subseteq T$ for all $T\in C_i.$ </li>
+<li>Thus, every chain in $\mathcal F$ has an upper bound. </li>
+</ul>
+</li>
+<li>It follows now from Zorn's lemma that $\mathcal F$ has at least one <a href="https://bookofproofs.github.io/branches/set-theory/special-elements-of-ordered-sets.html" title="Set Theory / Definition: Special Elements of Ordered Sets">maximal</a> element.</li>
+<li>In particular, it has at least one maximal element for each $i\in I,$ namely a $B_i,$ since only the subsets inside a single $V_i$ are comparable.</li>
+<li>Now, for all $i\in I$, the found example of a maximal element $B_i$ must be a <a href="https://bookofproofs.github.io/branches/set-theory/singleton.html" title="Set Theory / Definition: Singleton">singleton</a>, i.e. containing exactly one element of $V_i,$ otherwise it would either be empty (which it is not by construction) or not maximal with respect to the <a href="https://bookofproofs.github.io/branches/set-theory/preorder-partial-order-and-poset.html" title="Set Theory / Definition: Preorder, Partial Order and Poset">partial order</a> $\preceq.$</li>
+</ul>
+</li>
+<li>Set $Y:=\bigcup_{i\in I} B_i.$ We have constructed a set $Y$ that contains exactly one element from the original disjoint sets $V_i,$ $i\in I.$</li>
+<li>It follows the <a href="https://bookofproofs.github.io/branches/set-theory/axiom-of-choice.html" title="Set Theory / Axiom: Axiom of Choice">axiom of choice</a>.</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/set-theory/zorn-lemma-is-equivalent-to-the-axiom-of-choice-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Piotrowski, Andreas</strong>: "bookofproofs.org", Own Work, 2014</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

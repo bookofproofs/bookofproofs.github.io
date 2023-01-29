@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="ABSTRACT SYNTAX TREE ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="abstract syntax tree,abstract syntax trees,ast,asts">
+<title>Abstract Syntax Tree</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/equivalent-grammars.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/formal-languages.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/ambiguous-and-unambiguous-grammars.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/theoretical-computer-science.html'>Theoretical-computer-science</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/formal-languages.html'>Formal-languages</a> / Definition: Abstract Syntax Tree</h3>
+
+<hr>
+
+<h1>Definition: Abstract Syntax Tree</h1>
+<p>Let $G=(V,T,R,S)$ be a <a href="https://bookofproofs.github.io/branches/logic/grammar-syntax.html" title="Logic / Definition: Grammar (Syntax)">grammar</a>, let $L(G)$ be a <a href="https://bookofproofs.github.io/branches/logic/formal-language-generated-from-a-grammar.html" title="Logic / Definition: Formal Languages Generated From a Grammar">language generated from the grammar</a>, and let $\omega\in L$ be a <a href="https://bookofproofs.github.io/branches/logic/strings-words-over-an-alphabet.html" title="Logic / Definition: Strings (words) over an Alphabet">string</a> of the language. An <strong>abstract syntax tree</strong> of the string $\omega$ with respect to the grammar $G$ (denoted by $\operatorname {AST}_G(\omega)$) is a <a href="https://bookofproofs.github.io/branches/graph-theory/trees-and-forests.html" title="Graph Theory / Definition: Trees and Forests">tree</a> with
+* the <a href="https://bookofproofs.github.io/branches/logic/grammar-syntax.html" title="Logic / Definition: Grammar (Syntax)">starting symbol</a> $S$ as the <a href="https://bookofproofs.github.io/branches/graph-theory/root-degree-of-a-tree-subtree-height.html" title="Graph Theory / Definition: Root, Degree of a Tree, Subtree, Height">tree root</a>,
+* all <a href="https://bookofproofs.github.io/branches/graph-theory/leaf.html" title="Graph Theory / Definition: Leaf">non-leave</a> vertices consisting of <a href="https://bookofproofs.github.io/branches/logic/grammar-syntax.html" title="Logic / Definition: Grammar (Syntax)">non-terminal symbols</a> (elements of $V$ in $G$), and
+* all <a href="https://bookofproofs.github.io/branches/graph-theory/leaf.html" title="Graph Theory / Definition: Leaf">leave</a> vertices consisting of the characters of the string $\omega.$</p>
+<h3>Construction of $\operatorname {AST}_G(\omega)$</h3>
+<ol>
+<li>Start with the starting symbol $S$ as a tree root.</li>
+<li>Apply a rule $r\in R$ and expand the tree root<sup id="fnref:1"><a class="footnote-ref" href="#fn:1">1</a></sup>. </li>
+<li>In case of the rule $S\to\epsilon$ ($\epsilon$ being the <a href="https://bookofproofs.github.io/branches/logic/strings-words-over-an-alphabet.html" title="Logic / Definition: Strings (words) over an Alphabet">empty string</a>), remove the expanded leaf.</li>
+<li>Check if all leaves of $\operatorname {AST}_G(\omega)$ are already non-terminal symbols.</li>
+<li>If yes, each leaf corresponds to the terminal symbols (characters of the string $\omega$).</li>
+<li>If not, repeat the procedure from the step $2$ for each non-terminal symbol as a new root of another <a href="https://bookofproofs.github.io/branches/graph-theory/root-degree-of-a-tree-subtree-height.html" title="Graph Theory / Definition: Root, Degree of a Tree, Subtree, Height">subtree</a> of $\operatorname {AST}_G(\omega).$</li>
+</ol>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/theoretical-computer-science/formal-languages/abstract-syntax-tree.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Erk, Katrin; Priese, Lutz</strong>: "Theoretische Informatik", Springer Verlag, 2000, 2nd Edition</li>
+<li><strong>Hoffmann, Dirk</strong>: "Theoretische Informatik, 3. Auflage", Hanser, 2015</li>
+</ol>
+<h4>Footnotes</h4>
+<div class="footnote">
+<hr />
+<ol>
+<li id="fn:1">
+<p>Note that we still do not know, which rule has to be applied - this will be clarified later when we will be talking about <em>parsers</em>.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>

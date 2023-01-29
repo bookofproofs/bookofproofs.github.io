@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="description" content="DETERMINISTIC FINITE AUTOMATON (DFA) ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!">
+<meta name="keywords" content="deterministic finite automaton,dfa,condition,state,conditions,states,final state,final states,starting state,starting states,final condition,final conditions,starting condition,starting conditions,accepts,accept,accepting,deterministic finite automata">
+<title>Deterministic Finite Automaton (DFA)</title>
+<script src="https://sagecell.sagemath.org/static/embedded_sagecell.js"></script>
+<script>sagecell.makeSagecell({"inputLocation": ".sage"});</script>
+<link rel="stylesheet" href="https://sagecell.sagemath.org/static/sagecell_embed.css">
+<link rel="stylesheet" href="https://jsxgraph.org/distrib/jsxgraph.css">
+<script src="https://jsxgraph.org/distrib/jsxgraphcore.js"></script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js"></script>
+<link rel="icon" type="image/x-icon" href="https://bookofproofs.github.io/fav.ico">
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.css">
+<script id="jquery-script" src="https://bookofproofs.github.io/assets/jquery-ui/jquery-ui.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://bookofproofs.github.io/assets/css/bop.css">
+<script id="bop-script" src="https://bookofproofs.github.io/assets/js/bop.js"></script>
+<link rel="stylesheet" href="https://bookofproofs.github.io/assets/css/highlight.css">
+
+</head>
+<body>
+<div class="w3-top">
+    <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+        <a href="https://bookofproofs.github.io/" class="w3-bar-item">
+            <img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/logo.png?raw=true" alt="" width="200" id="logo">
+        </a>
+        <div class="w3-right">
+            <div class="w3-hideorientation">
+                <a href="https://bookofproofs.github.io/branches/branches.html" class="w3-bar-item w3-button">Branches</a>
+                <a href="https://bookofproofs.github.io/history/history.html" class="w3-bar-item w3-button">History</a>
+                <a href="https://bookofproofs.github.io/index/index.html" class="w3-bar-item w3-button">Index</a>
+                <div style="clear:both"></div>
+            </div>
+        </div>
+        <div style="clear:both"></div>
+        <input class="w3-input w3-border ui-corner-all ui-autocomplete-input" id="autocomplete" placeholder="Search... " autocomplete="off">
+    </div>
+</div>
+<div class="w3-content w3-margin-190" style="max-width:1205px">
+<h3 class='navigation'><a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/deterministic-finite-automata-describe-regular-languages-proof.html'>&#x25C0;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/finite-automata-finite-sequential-machines.html'>&#x25B2;</a> <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/epsilon-non-deterministic-finite-automaton.html'>&#x25B6;</a><a href='https://bookofproofs.github.io/branches/branches.html'>Branches</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/theoretical-computer-science.html'>Theoretical-computer-science</a> / <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/formal-languages/formal-languages.html'>Formal-languages</a> / Definition: Deterministic Finite Automaton (DFA)</h3>
+
+<hr>
+
+<p>We start with a formal definition of a <em>deterministic finite automaton</em>.</p>
+<h1>Definition: Deterministic Finite Automaton (DFA)</h1>
+<p>A <strong>deterministic finite automaton</strong>  <strong>DFA</strong>) is a <a href="https://bookofproofs.github.io/branches/set-theory/ordered-pair-n-tuple.html" title="Set Theory / Definition: Ordered Pair, n-Tuple">tuple</a> $A=(C,\Sigma,\delta,F,s_0)$, containing</p>
+<ul>
+<li>a <a href="https://bookofproofs.github.io/branches/set-theory/finite-set-infinite-set.html" title="Set Theory / Definition: Finite Set, Infinite Set">finite set</a> $C$ of conditions (or states),</li>
+<li>a finite input <a href="https://bookofproofs.github.io/branches/logic/strings-words-over-an-alphabet.html" title="Logic / Definition: Strings (words) over an Alphabet">alphabet</a> $\Sigma$,</li>
+<li>the state transition <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">function</a> $\delta:C\times\Sigma\to C$,</li>
+<li>the set of <strong>final states</strong> $F\subseteq C$, and</li>
+<li>the <strong>starting condition</strong> $s_0.$</li>
+</ul>
+<p>We say that the DFA <strong>accepts</strong> an input <a href="https://bookofproofs.github.io/branches/logic/strings-words-over-an-alphabet.html" title="Logic / Definition: Strings (words) over an Alphabet">word</a> $\omega$ if and only if the DFA reaches a final condition $f\in F$ after consuming $\omega.$</p>
+<p>The <a href="https://bookofproofs.github.io/branches/logic/formal-language-generated-from-a-grammar.html" title="Logic / Definition: Formal Languages Generated From a Grammar">formal language</a> $L(\operatorname{DFA})$ <strong>accepted by</strong> the DFA can be defined as a set of all <a href="https://bookofproofs.github.io/branches/logic/strings-words-over-an-alphabet.html" title="Logic / Definition: Strings (words) over an Alphabet">words over the alphabe</a>t $\Sigma$, for which the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">image</a> of <a href="https://bookofproofs.github.io/branches/set-theory/composition-of-functions.html" title="Set Theory / Lemma: Composition of Functions">function compositions</a> of $\delta$ is contained in $F,$ formally: $$L(\operatorname{DFA}):=\{\sigma_0\sigma_1\ldots\sigma_n\in\Sigma^*\mid \delta(\ldots\delta(\delta(s_0,\sigma_0),\sigma_1),\ldots,\sigma_n)\in F\}.$$</p>
+<p>The <strong>class of all languages accepted by a DFA</strong> is denoted by $\mathcal L(\operatorname{DFA})$.</p>
+<h3>Notes</h3>
+<ul>
+<li>The DFA is an acceptor since it has no output, only input.</li>
+<li>It starts at the starting condition $s_0.$</li>
+<li>An input <a href="https://bookofproofs.github.io/branches/logic/strings-words-over-an-alphabet.html" title="Logic / Definition: Strings (words) over an Alphabet">word</a> $\omega=\sigma_0\sigma_1\ldots\sigma_n$ changes the states of the DFA by the formula $s_{i+1}:=\delta(s_i,\sigma_i)$. In other words, the transition function $\delta$ calculates for each symbol $\sigma_i$, given the current state $s_i$, the new state $s_{i+1}.$ </li>
+<li>The DFA is always deterministic, since $\delta$ is a <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">function</a> (it is <a href="https://bookofproofs.github.io/branches/set-theory/total-and-unique-binary-relations.html" title="Set Theory / Definition: Total and Unique Binary Relations">right-unique</a>, the new state $s_{i+1}$ is always completely determined by the current state $s_i$ and the current symbol $\sigma_i.$) </li>
+<li>Whether or not the DFA accepts the <a href="https://bookofproofs.github.io/branches/logic/strings-words-over-an-alphabet.html" title="Logic / Definition: Strings (words) over an Alphabet">empty word</a> $\epsilon\in\Sigma^*$ can be read immediately from the definition of the DFA. This is the case if and only if $s_0\in F$, i.e. the starting condition is also one of its final states.</li>
+</ul>
+<hr>
+<p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/theoretical-computer-science/formal-languages/deterministic-finite-automaton.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>
+<hr>
+<h3>References</h3>
+<h4>Bibliography</h4>
+<ol>
+<li><strong>Erk, Katrin; Priese, Lutz</strong>: "Theoretische Informatik", Springer Verlag, 2000, 2nd Edition</li>
+<li><strong>Hoffmann, Dirk</strong>: "Theoretische Informatik, 3. Auflage", Hanser, 2015</li>
+</ol>
+</div>
+<hr>
+<footer class="w3-center w3-black w3-padding-16">
+    <a href="https://bookofproofs.github.io/feeds/feeds.html" class="w3-hover-text-green w3-margin-right">Feeds</a>
+    <a href="https://bookofproofs.github.io/ack/ack.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Acknowledgments</a>
+    <a href="https://bookofproofs.github.io/termsofuse/termsofuse.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Terms of Use</a>
+    <a href="https://bookofproofs.github.io/privacy/privacy.html" class="w3-hover-text-green w3-margin-right w3-animate-zoom">Privacy Policy</a>
+    <a href="https://bookofproofs.github.io/disclaimer/disclaimer.html" class="w3-hover-text-green w3-animate-zoom">Disclaimer</a>
+    <br>
+    <span style="font-size:0.7em">&copy; 2014+ Powered by bookofproofs, All rights reserved.</span>
+</footer>
+
+</body>
+</html>
