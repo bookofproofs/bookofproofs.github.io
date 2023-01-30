@@ -267,6 +267,8 @@ class BopCompiler:
         self.fm.copy_file("../_sources/_assets/images/fav.ico", "../docs/fav.ico")
         # google site verification
         self.fm.copy_file("../_sources/_assets/google5e9ab19be7343012.html", "../docs/google5e9ab19be7343012.html")
+        # fpl syntax diagrams
+        self.fm.copy_file("../_sources/_assets/other/FPLSyntaxDiagrams.xhtml", "../docs/FPLSyntaxDiagrams.xhtml")
 
     def _compile_sub_assets(self, sub):
         sub_contents = self.fm.get_folder_content("_sources/_assets/" + sub)
