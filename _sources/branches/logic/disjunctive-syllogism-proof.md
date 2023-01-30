@@ -16,7 +16,7 @@ contributors: bookofproofs
 
 We want to prove that the [disjunctive syllogism][bookofproofs$7920] is a [valid logical argument][bookofproofs$7913].
 * The disjunctive  syllogism can be formulated in [propositional logic][bookofproofs$1307] as `$((p\vee q)\wedge (\neg p))\Rightarrow q.$`
-* On the left side of the disjunctive syllogism we have only the operations [$\wedge$" and "$\vee$", we can use the fact that "propositional logic is a Boolean algebra][bookofproofs$187] `$(B,\wedge,\vee,1,0)$`. Applying the properties of this [Boolean algebra][bookofproofs$7872] `$B$` we can conclude that:
+* On the left side of the disjunctive syllogism we have only the operations "`$\wedge$`" and "`$\vee$`", we can use the fact that [propositional logic is a Boolean algebra][bookofproofs$187] `$(B,\wedge,\vee,1,0)$`. Applying the properties of this [Boolean algebra][bookofproofs$7872] `$B$` we can conclude that:
 `$$\begin{array}{rl}
 (p\vee q)\wedge (\neg p)&\\
 (p \wedge(\neg p))\vee (q\wedge (\neg p))&(\text{distributivity of }"\wedge"\text{ and }"\vee")\\

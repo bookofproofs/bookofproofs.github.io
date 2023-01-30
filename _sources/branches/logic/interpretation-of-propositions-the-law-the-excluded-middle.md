@@ -29,4 +29,5 @@ undefined,&\text{otherwise}
 Remember that we denote by `$\mathbb B=\{1,0\}$` the [set of truth values][bookofproofs$707].
 ### An equivalent formulation 
 
-If `$s\in L$` is a proposition, then either `$I\models s$`  or `$I\not{\models} s$` for all [models][bookofproofs$7880] `$I$`, shortly `$$\models s\text{ or }\not {\models} s,$$` where [$\models$" is the "satisfaction relation][bookofproofs$7880].
+If `$s\in L$` is a proposition, then either `$I\models s$`  or `$I\not{\models} s$` for all [models][bookofproofs$7880] `$I$`, 
+shortly `$$\models s\text{ or }\not {\models} s,$$` where "`$\models$`" is the [satisfaction relation][bookofproofs$7880].

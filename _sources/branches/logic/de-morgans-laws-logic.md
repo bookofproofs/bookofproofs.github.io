@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-Let `$x,y$` be two [propositions][bookofproofs$710]. In the [semantics of propositional logic][bookofproofs$7871], the following laws hold for the [conjunction][bookofproofs$712] [$\wedge$", "disjunction][bookofproofs$713] [$\vee$" and "negation][bookofproofs$714] "$\neg$":
+Let `$x,y$` be two [propositions][bookofproofs$710]. In the [semantics of propositional logic][bookofproofs$7871], the following laws hold for the [conjunction][bookofproofs$712] "`$\wedge$`", [disjunction][bookofproofs$713] "`$\vee$`" and [negation][bookofproofs$714] "$`\neg$`":
 
 
 `$$\begin{array}{c}\neg(x\vee y)=(\neg x)\wedge (\neg y),\\\neg(x\wedge y)=(\neg x)\vee (\neg y).\end{array}$$`

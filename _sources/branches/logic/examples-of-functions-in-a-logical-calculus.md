@@ -16,7 +16,7 @@ contributors: bookofproofs
 
 ### Example 1
 
-Let `$s$` be the [string][bookofproofs$708] [$\exists x:x+2=5$", let `$U$` be the "domain of discourse][bookofproofs$6219] of [natural numbers][bookofproofs$718] `$0,1,2,\ldots,$` and let `$I(s)$` be the interpretation of `$s$` assigning it a meaning of [adding natural numbers][bookofproofs$842] in `$U$`. Then the string `$s$` means the following:
+Let `$s$` be the [string][bookofproofs$708] "`$\exists x:x+2=5$`", let `$U$` be the [domain of discourse][bookofproofs$6219] of [natural numbers][bookofproofs$718] `$0,1,2,\ldots,$` and let `$I(s)$` be the interpretation of `$s$` assigning it a meaning of [adding natural numbers][bookofproofs$842] in `$U$`. Then the string `$s$` means the following:
 
 > `$s$`: "There exists a natural number `$x$` such that the equation `$x+2=5$` holds."
 

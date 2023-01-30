@@ -21,45 +21,32 @@ Mathematical proofs are the strength of mathematics. In the following statements
 
 Axioms are small, well-understood set of sentences, which are used to axiomatize a given mathematical branch, i.e. to show that its claims can be derived from these axioms. Typically, there are two types of axioms:
 
-# **Logical axioms**
+1. _Logical axioms_
 Logical axioms are usually statements that are taken to be true within the system of logic they define (e.g. the [a straight line is determined by two distinct points][bookofproofs$692]), 
 
-# *Non-logical axioms* 
+2. _Non-logical axioms_ 
 Non-logical axioms are actually defining properties for the domain of a specific mathematical theory (e.g. the [commutativity law][bookofproofs$672]).
 
-Modern mathematics admits multiple, equally "true" systems of logic, based on distinct systems of axioms. The system of axioms used in BookOfProofs (work in progress) can be found "here":https://www.bookofproofs.org/branches/coreresults.php.
-
+Modern mathematics admits multiple, equally "true" systems of logic, based on distinct systems of axioms. The system of axioms used in BookOfProofs (work in progress) can be found in the [Building Block Index][bookofproofs$bbi].
 
 ### Vacuously True Statements
 
-A [proposition][bookofproofs$710]: `\(S\)` is *"vacuously true"*, if it resembles statements, which can be reduced to the following basic forms:
+A [proposition][bookofproofs$710]: `\(S\)` is **"vacuously true"**, if it resembles statements, which can be reduced to the following basic forms:
 
-1. `\(\forall x: P(x) \Rightarrow Q(x)\)`, where it is the case that `\(\forall x: \neg P(x)\)`.
+1. `\(\forall x: P(x) \Rightarrow Q(x)\)`, where it is the case that `\(\forall x: \neg P(x)\)`.<br>
+As examples, consider the following statements (all being vacuously true):
+   * "If the Sun is not a star, then it doesn't shine."
+   * "If the Earth is a disk, then our ship going to the west is lost!"
+   * "If `\(2\times 2 \neq 4\)` then `\(2\times 2 +1\neq 5\)`." 
 
-p(. As examples, consider the following statements (all being vacuously true):
+2. `\(\forall x \in \emptyset: Q(x)\)`, where the set `\(\emptyset\)` is empty.<br>
+As examples, consider the following statements (all being vacuously true):
+   * "All cell phones in an empty box are turned off."
+   * "All cell phones in an empty box are turned on."
+   * "Since all elements `\(\alpha\in\emptyset\)` are transitive sets, so `\(\emptyset\)` is an [ordinal number][bookofproofs$723]."
+   * "There is only one way to permute `\(0\)` objects. So, `\(0!=1\)`."
 
-p((.  "If the Sun is not a star, then it doesn't shine."
-
-p((. "If the Earth is a disk, then our ship going to the west is lost!"
-
-p((.  "If `\(2\times 2 \neq 4\)` then `\(2\times 2 +1\neq 5\)`. "
-
-2. `\(\forall x \in \emptyset: Q(x)\)`, where the set `\(\emptyset\)` is empty.
-
-p(. As examples, consider the following statements (all being vacuously true):
-
-p((.  "All cell phones in an empty box are turned off."
-
-p((.  "All cell phones in an empty box are turned on."
-
-p((.  [Since all elements `\(\alpha\in\emptyset\)` are transitive sets, so `\(\emptyset\)` is an "ordinal number][bookofproofs$723]".
-
-p((.  "There is only one way to permute `\(0\)` objects. So, `\(0!=1\)`.
-
-3. `\(\forall \xi: Q(\xi)\)`, where the symbol `\(\xi\)` is restricted to a type that has no representatives.
-
-p(. As examples, consider the following statements (all being vacuously true):
-
-p((. "Our services cover all adult persons under the age of 18."
-
-p((. "Let `\(X\)` be the set of integers `\(x\)` such that `\(x^2 < 0\)`. All such `\(x\)` are even, i.e. divisible by `\(2\)`."
+3. `\(\forall \xi: Q(\xi)\)`, where the symbol `\(\xi\)` is restricted to a type that has no representatives.<br>
+As examples, consider the following statements (all being vacuously true):
+   * "Our services cover all adult persons under the age of 18."
+   * "Let `\(X\)` be the set of integers `\(x\)` such that `\(x^2 < 0\)`. All such `\(x\)` are even, i.e. divisible by `\(2\)`."

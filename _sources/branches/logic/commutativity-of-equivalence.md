@@ -14,4 +14,6 @@ contributors: bookofproofs
 
 ---
 
-The [equivalence operation][bookofproofs$1305] [$\Leftrightarrow$" is "commutative][bookofproofs$672], i.e. `$x \Leftrightarrow y=y \Leftrightarrow x$` for all possible [interpretations][bookofproofs$710] `$I$` and [valuation functions][bookofproofs$710] `$[[]]_I$` of [propositions][bookofproofs$1307] `\(x,y.\)`
+The [equivalence operation][bookofproofs$1305] "`$\Leftrightarrow$`" is [commutative][bookofproofs$672], 
+i.e. `$x \Leftrightarrow y=y \Leftrightarrow x$` for all possible [interpretations][bookofproofs$710] `$I$` 
+and [valuation functions][bookofproofs$710] `$[[]]_I$` of [propositions][bookofproofs$1307] `\(x,y.\)`.

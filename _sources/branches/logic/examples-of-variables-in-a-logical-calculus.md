@@ -16,7 +16,11 @@ contributors: bookofproofs
 
 ### Example 1
 
-Let `$s$` be the [string][bookofproofs$708] [$x+2=5$", let `$U$` be the "domain of discourse][bookofproofs$6219] of [natural numbers][bookofproofs$718] `$0,1,2,\ldots$` and let `$I(s)$` be the [interpretation][bookofproofs$7874] of `$s$` assigning it a meaning of [adding natural numbers][bookofproofs$842] in `$U$`. Clearly, [$x$" is a substring of `$s$`. Also "$2$", "$5$" and "$+$" are substrings of `$s$` but the interpretation `$I$` means that only `$x$` is a "variable][bookofproofs$6220], since `$2,5$` are interpreted as constant natural numbers and "$+$" is interpreted as the addition sign. Then the variable `$x$` represents any of the (infinitely) many natural numbers `$0,1,2,\ldots$`. But only for one of these infinitely many possible meanings of `$x$` the string `$s$` will be valued as true: `$[[s]]_I=1$` only for `$x=3$`.
+Let `$s$` be the [string][bookofproofs$708] "`$x+2=5$`", let `$U$` be the [domain of discourse][bookofproofs$6219] of 
+[natural numbers][bookofproofs$718] `$0,1,2,\ldots$` and let `$I(s)$` be the [interpretation][bookofproofs$7874] of `$s$` 
+assigning it a meaning of [adding natural numbers][bookofproofs$842] in `$U$`. 
+Clearly, "`$x$`" is a substring of `$s$`. Also "`$2$`", "`$5$`" and "`$+$`" are substrings of ``$s$``, but the interpretation `$I$` means that only `$x$` is a 
+[variable][bookofproofs$6220], since `$2,5$` are interpreted as constant natural numbers and "$+$" is interpreted as the addition sign. Then the variable `$x$` represents any of the (infinitely) many natural numbers `$0,1,2,\ldots$`. But only for one of these infinitely many possible meanings of `$x$` the string `$s$` will be valued as true: `$[[s]]_I=1$` only for `$x=3$`.
 
 ### Example 2
 

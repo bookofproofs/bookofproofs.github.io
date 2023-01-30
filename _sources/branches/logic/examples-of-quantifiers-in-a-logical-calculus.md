@@ -16,7 +16,9 @@ contributors: bookofproofs
 
 ### Example 1
 
-Let `$s_1$` be the [string][bookofproofs$708] [$\forall x:x+2=5$", let `$s_2$` be the string "$\exists x:x+2=5$", let `$U$` be the "domain of discourse][bookofproofs$6219] of [natural numbers][bookofproofs$718] `$0,1,2,\ldots,$` and let `$I(s)$` be the interpretation of `$s$` assigning it a meaning of [adding natural numbers][bookofproofs$842] in `$U$`. Then the strings mean the following:
+Let `$s_1$` be the [string][bookofproofs$708] "`$\forall x:x+2=5$`", let `$s_2$` be the string "`$\exists x:x+2=5$`", 
+let `$U$` be the [domain of discourse][bookofproofs$6219] of [natural numbers][bookofproofs$718] `$0,1,2,\ldots,$` and 
+let `$I(s)$` be the interpretation of `$s$` assigning it a meaning of [adding natural numbers][bookofproofs$842] in `$U$`. Then the strings mean the following:
 
 > `$s_1$`: "For all natural numbers `$x=0,1,2,\ldots$` the equation `$x+2=5$` holds." `$s_2$`: "There exists a natural number `$x$` such that the equation `$x+2=5$` holds."
 
@@ -24,7 +26,8 @@ Clearly, only `$s_2$` is true. Thus the valuation function gives us `$[[s_1]]_I=
 
 ### Example 2
 
-For the same domain of discourse and the same interpretation as in example 1, let `$s$` be the string [$\exists x: x+2=y$." In this case, `$x$` is a "bound variable][bookofproofs$6221] and `$y$` is a [free variable][bookofproofs$6221]. The string means the following:
+For the same domain of discourse and the same interpretation as in example 1, let `$s$` be the string "`$\exists x: x+2=y$`". 
+In this case, `$x$` is a [bound variable][bookofproofs$6221] and `$y$` is a [free variable][bookofproofs$6221]. The string means the following:
 
 > `$s$`: "There exists a natural number `$x$` such that the equation `$x+2=y$` holds."
 

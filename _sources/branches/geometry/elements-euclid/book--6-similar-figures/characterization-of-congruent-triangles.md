@@ -32,4 +32,4 @@ Two [triangles][bookofproofs$6432] are [congruent][bookofproofs$2781] if and onl
 &&(|\overline{CA}|\cdot|\overline{AB}|=|\overline{EA}|\cdot|\overline{AD}|).
 \end{array}$$`  
 
-[^1]: The product is equivalent to Euclid's [reciprocal proportion" `$$\frac{|\overline{CA}|}{|\overline{AD}|}=\frac{|\overline{EA}|}{|\overline{AB}|},$$` which is not to be confused with the concept of "reciprocal ratio][bookofproofs$1952].
+[^1]: The product is equivalent to Euclid's "reciprocal proportion" `$$\frac{|\overline{CA}|}{|\overline{AD}|}=\frac{|\overline{EA}|}{|\overline{AB}|},$$` which is not to be confused with the concept of [reciprocal ratio][bookofproofs$1952].

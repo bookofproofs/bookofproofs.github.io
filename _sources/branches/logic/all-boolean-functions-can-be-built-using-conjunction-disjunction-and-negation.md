@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-Every [Boolean function][bookofproofs$1316] can be represented by  [Boolean variables or constants][bookofproofs$1307] connected by the [conjunction][bookofproofs$712] [$\wedge$", the "disjunction][bookofproofs$713] [$\vee$", and the "negation][bookofproofs$714] [$\neg$" as the only "connectives][bookofproofs$7867].
+Every [Boolean function][bookofproofs$1316] can be represented by  [Boolean variables or constants][bookofproofs$1307] connected by the [conjunction][bookofproofs$712] "`$\wedge$"`, the [disjunction][bookofproofs$713] "`$\vee$`", and the [negation][bookofproofs$714] "`$\neg$`" as the only [connectives][bookofproofs$7867].

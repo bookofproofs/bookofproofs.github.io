@@ -14,6 +14,7 @@ In a [poset][bookofproofs$576], it is not required that _all_ elements are compa
 
 ---
 
-The [partial order][bookofproofs$576] "`$\preceq$`" of a [poset][bookofproofs$576] `$(V,\preceq )$` is called a **total order** (or **linear order**), if [$\preceq$" is "connex][bookofproofs$1308], i.e. if all pairs of elements `$(a,b)\in V\times V$` can be ordered by `$"\preceq".$` 
+The [partial order][bookofproofs$576] "`$\preceq$`" of a [poset][bookofproofs$576] `$(V,\preceq )$` is 
+called a **total order** (or **linear order**), if "`$\preceq$`" is [connex][bookofproofs$1308], i.e. if all pairs of elements `$(a,b)\in V\times V$` can be ordered by "`$\preceq$`". 
 
 A poset `$(V,\preceq )$` with a total order "`$\preceq$`" is called a **chain**.

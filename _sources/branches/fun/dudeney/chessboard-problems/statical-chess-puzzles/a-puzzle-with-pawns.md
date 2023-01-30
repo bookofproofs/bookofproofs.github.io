@@ -16,4 +16,4 @@ contributors: bookofproofs
 
 Place two pawns in the middle of the chessboard, one at `$Q 4$` and the other at `$K 5.$` Now, place the remaining fourteen pawns (sixteen in all) so that no three shall be in a straight line in any possible direction.
 
-Note that I purposely do not say queens, because by the words [any possible direction" I go beyond attacks on diagonals. The pawns must be regarded as mere points in space — at the centers of the squares. See dotted lines in the case of "The Eight Queens][bookofproofs$7232]
+Note that I purposely do not say queens, because by the words "any possible direction" I go beyond attacks on diagonals. The pawns must be regarded as mere points in space — at the centers of the squares. See dotted lines in the case of [The Eight Queens][bookofproofs$7232]

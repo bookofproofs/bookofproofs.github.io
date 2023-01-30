@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\(V\)` be a [set][bookofproofs$550] and let `\([\preceq"\subseteq V\times V\)` be a binary "relation][bookofproofs$571]. We call `\("\preceq "\)` 
+Let `\(V\)` be a [set][bookofproofs$550] and let `\([\preceq"\subseteq V\times V\)` be a binary [relation][bookofproofs$571]. We call `\("\preceq "\)` 
 
 * a **preorder**  **quasiorder**), if "`$\preceq$`" is [reflexive][bookofproofs$572] and [transitive][bookofproofs$572],
 * a  **partial order** if "`$\preceq$`" is, in addition, [antisymmetric][bookofproofs$575].

@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-In projective geometry, a **projectivity** [$\overline\wedge$" is a "bijection][bookofproofs$771] (one-to-one-relationship) of [collinear points][bookofproofs$7968] on a [straight line][bookofproofs$645] `$o$` to [concurrent straight lines][bookofproofs$7970] passing through a [point][bookofproofs$631] `$O$` (and vice versa). It is required that `$o$` and `$O$` are not [incident][bookofproofs$7969] and that each of the collinear points lies on the concurrent line it has a bijection with.
+In projective geometry, a **projectivity** "`$\overline\wedge$`" is a [bijection][bookofproofs$771] of [collinear points][bookofproofs$7968] on a [straight line][bookofproofs$645] `$o$` to [concurrent straight lines][bookofproofs$7970] passing through a [point][bookofproofs$631] `$O$` (and vice versa). It is required that `$o$` and `$O$` are not [incident][bookofproofs$7969] and that each of the collinear points lies on the concurrent line it has a bijection with.
 
 If there is a projectivity of the point `$P$` to the straight line `$p$`, then we write `$P\overline\wedge p$` (or `$p\overline\wedge P$`).
 

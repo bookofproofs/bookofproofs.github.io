@@ -16,7 +16,7 @@ contributors: bookofproofs
 
 The [second example of convergent sequences in topological spaces][bookofproofs$8618] demonstrates that the terms [topological space][bookofproofs$6189] and [convergence][bookofproofs$306] are so generally defined that a [sequence][bookofproofs$874] can have more than one limit point.
 
-If there are not [enough" "open sets][bookofproofs$853] in a [topology][bookofproofs$6189] `$\mathcal O$` of a [topological space][bookofproofs$6189] `$(X,\mathcal O),$` for instance, `$X$` has more points than `$\mathcal O$` has open sets, then limits of sequences in such a space `$X$` will be ambiguous. 
+If there are not "enough" [open sets][bookofproofs$853] in a [topology][bookofproofs$6189] `$\mathcal O$` of a [topological space][bookofproofs$6189] `$(X,\mathcal O),$` for instance, `$X$` has more points than `$\mathcal O$` has open sets, then limits of sequences in such a space `$X$` will be ambiguous. 
 
 On the other hand, the [first example of convergent sequences in topological spaces][bookofproofs$8618] shows that "to many" open sets in a topology make the study of convergent sequences trivial and therefore too obvious to be interesting. 
 

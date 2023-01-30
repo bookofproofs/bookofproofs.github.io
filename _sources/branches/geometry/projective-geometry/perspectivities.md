@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-In projective geometry, a **perspectivity** [$\overline{\overline\wedge}$" is a "composition][bookofproofs$1314] of two [projectivities][bookofproofs$7973]. A perspectivity establishes a [bijection][bookofproofs$771] (one-to-one-relationship) between two [ranges][bookofproofs$7973] of two distinct [straight lines][bookofproofs$645] `$p_1$` and `$p_2$` in relation to a [pencil][bookofproofs$7973] of a [point][bookofproofs$631] `$O,$` called the **projective center** of the projectivity. We write in this case
+In projective geometry, a **perspectivity** "`$\overline{\overline\wedge}$`" is a [composition][bookofproofs$1314] of two [projectivities][bookofproofs$7973]. A perspectivity establishes a [bijection][bookofproofs$771] (one-to-one-relationship) between two [ranges][bookofproofs$7973] of two distinct [straight lines][bookofproofs$645] `$p_1$` and `$p_2$` in relation to a [pencil][bookofproofs$7973] of a [point][bookofproofs$631] `$O,$` called the **projective center** of the projectivity. We write in this case
 `$$p_1\overline{\overline\wedge}p_2.$$`
 
 In its dual formulation, a perspectivity establishes a bijection between two [pencils][bookofproofs$7973] of two distinct [points][bookofproofs$631] `$P_1$` and `$P_2$` in relation to a [range][bookofproofs$7973] of a [straight line][bookofproofs$645] `$o,$` called the **projective axis**. We write in this case

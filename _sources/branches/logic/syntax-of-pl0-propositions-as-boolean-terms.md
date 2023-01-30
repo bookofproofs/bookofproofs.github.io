@@ -29,8 +29,8 @@ We will now specify the [syntax][bookofproofs$709] of `$PL0$`:
 
 * A Boolean constant is a **proposition** (we also will use the notion **Boolean term** synonymously for "proposition").
 * Boolean variables are propositions.
-* If "$\phi$" and "$\psi$" are propositions, then "$\neg \phi$," "$\phi\wedge\psi$", "$\phi\vee\psi$", "$\phi\Rightarrow\psi$", "$\phi\Leftrightarrow\psi$" are propositions.
-* If [$\phi$" is a proposition, then the "concatenation][bookofproofs$708]  "$(\phi)$" is a proposition.
+* If "`$\phi$`" and "`$\psi$`" are propositions, then "`$\neg \phi$`," "`$\phi\wedge\psi$`", "`$\phi\vee\psi$`", "`$\phi\Rightarrow\psi$`", "`$\phi\Leftrightarrow\psi$`" are propositions.
+* If "`$\phi$`" is a proposition, then the [concatenation][bookofproofs$708]  "`$(\phi)$`" is a proposition.
 
 
 ### Examples 

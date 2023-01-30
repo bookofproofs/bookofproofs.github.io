@@ -14,4 +14,5 @@ contributors: bookofproofs
 
 ---
 
-The set `\((\mathbb N, + )\)`, i.e. the set of [natural numbers][bookofproofs$664], together with the [addition][bookofproofs$842] "`\( + \)`" as a binary operation, forms a "cancellative][bookofproofs$837] [commutative monoid][bookofproofs$706].
+The set `\((\mathbb N, + )\)`, i.e. the set of [natural numbers][bookofproofs$664], together with the [addition][bookofproofs$842] "`\( + \)`" as a binary operation, forms a 
+[cancellative][bookofproofs$837] [commutative monoid][bookofproofs$706].

@@ -16,7 +16,8 @@ contributors: bookofproofs
 
 Different [straight lines][bookofproofs$645] which [passes through][bookofproofs$7969] the same [point][bookofproofs$631] are said to be **concurrent**. We also say that concurrent straight lines `$l_1,l_2,\ldots$` **meet at** the point `$A$` and write `$$P=l_1\cdot l_2\cdot\ldots.$$` 
 
-We agree that the order of the lines in this dot [$\cdot$" notation does not play any role, e.g. `$m\cdot l$` and `$l\cdot m$` for two straight lines `$m$` and `$l$` denote the same point. Please note the difference of notation of concurrent lines and "collinear points][bookofproofs$7968], where we do not use the dot "$\cdot$".
+We agree that the order of the lines in this dot "`$\cdot$`" notation does not play any role, e.g. `$m\cdot l$` and `$l\cdot m$` for two straight lines `$m$` and `$l$` denote the same point. 
+Please note the difference of notation of concurrent lines and [collinear points][bookofproofs$7968], where we do not use the dot "`$\cdot$`".
 
 ### Example
 

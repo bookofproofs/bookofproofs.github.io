@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-The [conjunction operation][bookofproofs$712] [$\wedge$" is "associative][bookofproofs$668], i.e. `$(x \wedge y)\wedge z=x\wedge (y \wedge z)$` for for all possible [interpretations][bookofproofs$710] `$I$` and [valuation functions][bookofproofs$710] `$[[]]_I$` of [propositions][bookofproofs$1307] `\(x,y,z.\)`
+The [conjunction operation][bookofproofs$712] "`$\wedge$`" is [associative][bookofproofs$668], i.e. `$(x \wedge y)\wedge z=x\wedge (y \wedge z)$` for all possible [interpretations][bookofproofs$710] `$I$` and [valuation functions][bookofproofs$710] `$[[]]_I$` of [propositions][bookofproofs$1307] `\(x,y,z.\)`

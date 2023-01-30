@@ -16,11 +16,11 @@ contributors: bookofproofs
 
 ### Example 1
 
-Let `$s$` be the [string][bookofproofs$708] [$x\in\mathbb N: x+2=5$", let `$U$` be the "domain of discourse][bookofproofs$6219] of [natural numbers][bookofproofs$718] `$\mathbb N:=\{0,1,2,\ldots,\}$` and let `$I(s)$` be the interpretation of `$s$` assigning it a meaning in `$U$`. Then the string `$s$` has the meaning:
+Let `$s$` be the [string][bookofproofs$708] "`$x\in\mathbb N: x+2=5$`", let `$U$` be the [domain of discourse][bookofproofs$6219] of [natural numbers][bookofproofs$718] `$\mathbb N:=\{0,1,2,\ldots,\}$` and let `$I(s)$` be the interpretation of `$s$` assigning it a meaning in `$U$`. Then the string `$s$` has the meaning:
 
 > `$s$`: "an element `$x$` of the set of natural numbers `$\mathbb N$` such that `$x+2=5$`"
 
-In this string, [$x\in N$" is a "unary predicate][bookofproofs$6223], since it takes only one argument `$x$` as input.
+In this string, `"$x\in N$`" is a [unary predicate][bookofproofs$6223], since it takes only one argument `$x$` as input.
 
 ### Example 2
 

@@ -51,4 +51,4 @@ Might you find this definition quite simple and thus to fulfill already one of t
 
 Whenever you try to define mathematical objects, watch out for terms, which might be misunderstood by some readers. If you find such terms, your definition is not good enough!
 
-A [well-defined" concept of "continuous functions" can be found "here][bookofproofs$219]. Try to find out by yourself, why and by which means this definition is better than our first attempt above!
+A "well-defined" concept of "continuous functions" can be found [here][bookofproofs$219]. Try to find out by yourself, why and by which means this definition is better than our first attempt above!

@@ -22,4 +22,4 @@ contributors: bookofproofs
       * If `$a\equiv b(m)$` and `$b\equiv c(m)$`, then `$m\mid(a-b)$` and `$m\mid(b-c).$`
       * But then `$m\mid (a-b)+(b-c)=(a-c)$`
       * It follows `$a\equiv c(m).$`  
-* Altogether, it follows that that the [relation][bookofproofs$571] `$[\equiv(m)"\subset \mathbb Z\times\mathbb Z$` is an "equivalence relation][bookofproofs$574].
+* Altogether, it follows that the [relation][bookofproofs$571] `$[\equiv(m)\subset \mathbb Z\times\mathbb Z$` is an [equivalence relation][bookofproofs$574].

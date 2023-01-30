@@ -27,4 +27,4 @@ F C D K M B Q R H A A B M K S N\\
 
 Now, if the sailor takes the first route he will make `$C$` his 12th island (counting `$A$` as `$1$`); by the second route he will make `$C$` his 13th island; by the third route, his 16th island; and by the fourth route, his 17th island. If he goes the reverse way, `$C$` will be respectively his 10th, 9th, 6th, and 5th island. As these are the only possible routes, it is evident that if the sailor puts off his visit to `$C$` as long as possible, he must take the last route reading from left to right. This route I show by the dark lines in the diagram, and it is the correct answer to the puzzle.
 
-The map may be greatly simplified by the [buttons and string" method, explained in the solution to "The Four Frogs][bookofproofs$7322]
+The map may be greatly simplified by the "buttons and string" method, explained in the solution to [The Four Frogs][bookofproofs$7322]

@@ -19,7 +19,7 @@ Let `\((a,b),(c,d)\)` be [ordered pairs][bookofproofs$747] of [natural numbers][
 
 `\[(a,b)\sim (c,d)\quad\Longleftrightarrow\quad\begin{cases}(a+h,b+h)=(c,d)& or\`\(a,b)=(c+h,d+h).\end{cases}\]`
 
-The relation [\(\sim\)`" defined above is an "equivalence relation][bookofproofs$574], i.e. for a given ordered pair `\((a,b)\in\mathbb N\times\mathbb N\)`, we can consider a whole set of ordered pairs `\((c,d)\in\mathbb N\times\mathbb N\)` equivalent to `\((a,b)\)`:
+The relation "`\(\sim\)`" defined above an [equivalence relation][bookofproofs$574], i.e. for a given ordered pair `\((a,b)\in\mathbb N\times\mathbb N\)`, we can consider a whole set of ordered pairs `\((c,d)\in\mathbb N\times\mathbb N\)` equivalent to `\((a,b)\)`:
 
 `\[x:=\{(c,d)\in\mathbb N\times\mathbb N:\quad( c, d )\sim ( a, b )\}.\]`
 

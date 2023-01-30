@@ -14,8 +14,8 @@ contributors: bookofproofs
 
 ---
 
-Let `$B$` be the set of [Boolean terms][bookofproofs$1307]. We want to show that `$(B,\wedge,\vee,1,0)$` is a [Boolean algebra][bookofproofs$7872] with respect to the [conjunction][bookofproofs$712] [$\wedge$", the "disjunction][bookofproofs$713] "$\vee$":
-* It follows from the syntax of [Boolean terms][bookofproofs$1307] that `$B$` contains the Boolean constants `$1$` and `$0$` and is closed under the operations "$\wedge$" and "$\vee$".
+Let `$B$` be the set of [Boolean terms][bookofproofs$1307]. We want to show that `$(B,\wedge,\vee,1,0)$` is a [Boolean algebra][bookofproofs$7872] with respect to the [conjunction][bookofproofs$712] "`$\wedge$`", the [disjunction][bookofproofs$713] "`$\vee$`":
+* It follows from the syntax of [Boolean terms][bookofproofs$1307] that `$B$` contains the Boolean constants `$1$` and `$0$` and is closed under the operations "`$\wedge$`" and "`$\vee$`".
 * It is, therefore, sufficient to demonstrate that `$(B,\wedge,\vee,1,0)$` is a Boolean algebra by verifying all required properties:
 1. The [conjunction `$\wedge$` is associative][bookofproofs$6844] as well as the [disjunction `$\vee$` is associative][bookofproofs$6846], i.e. for all `\(x,y,z\in B\)` `$$\begin{array}{c}x\wedge(y\wedge z)=(x\wedge y)\wedge z,\\x\vee (y\vee z)=(x\vee y)\vee z.\end{array}$$`
 1. The [conjunction `$\wedge$` is commutative][bookofproofs$1834] and the [disjunction `$\vee$` is commutative][bookofproofs$1835],  i.e. for all `\(x,y \in B\)` `$$\begin{array}{c}x\wedge y=y \wedge x,\\x\vee y=y\vee x.\end{array}$$` 

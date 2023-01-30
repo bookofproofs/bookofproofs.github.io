@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-[If and only if" means that we have to show both implications "$\Rightarrow$" and "$\Leftarrow$" of the above lemma. Assume, our "logical argument][bookofproofs$7913], which we will call "$\phi$" below, consist of the premises `$p_1,\ldots,p_n$` and the conclusion `$q$`.
+"If and only if" means that we have to show both implications "$\Rightarrow$" and "$\Leftarrow$" of the above lemma. Assume, our [logical argument][bookofproofs$7913], which we will call "$\phi$" below, consist of the premises `$p_1,\ldots,p_n$` and the conclusion `$q$`.
 
 
 ### "$\Rightarrow$"

@@ -15,7 +15,7 @@ contributors: bookofproofs
 ---
 
 Let `\(X\)` be a [random variable][bookofproofs$1813] of a [given random experiment][bookofproofs$857]. Assume, we have a random experiment, for which the [probability of the event][bookofproofs$858].
-> [`\(X\)` has a "realization][bookofproofs$1813] [equal][bookofproofs$1107] a given real number `\(x\)`", 
+> "`\(X\)` has a [realization][bookofproofs$1813] [equal][bookofproofs$1107] a given real number `\(x\)`", 
 
 i.e. the probability `\(p(X = x)\)` exists for all [real numbers][bookofproofs$1105] `\(x\in\mathbb R\)`. 
 

@@ -15,7 +15,7 @@ contributors: bookofproofs
 ---
 
 The [set of complex numbers][bookofproofs$216] with the [number zero][bookofproofs$1662] `\(0\)` excluded, denoted by `\(\mathbb C^*\)`, together with the [specific multiplication operation][bookofproofs$1668] 
-"`\(\cdot\)`" is a "commutative group][bookofproofs$553]. This is because:
+"`\(\cdot\)`" is a [commutative group][bookofproofs$553]. This is because:
 
 1. The [multiplication operation is associative][bookofproofs$1669], i.e. `\((x\cdot y)\cdot z=x\cdot (y\cdot z)\)` is valid for all `\(x,y,z\in\mathbb C^*\)`.
 1. We have [shown the existence of a neutral element of multiplication][bookofproofs$1673] - the number `\(1\in\mathbb C^*\)`, i.e. such that `\(1\cdot x=x\)` for all `\(x\in\mathbb C^*\)`.

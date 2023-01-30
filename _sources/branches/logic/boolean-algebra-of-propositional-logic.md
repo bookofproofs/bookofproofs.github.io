@@ -10,8 +10,12 @@ keywords: algebra,boolean,logic,propositional
 contributors: bookofproofs
 
 ---
-We have seen that [all Boolean functions can be built][bookofproofs$7907] using only the [conjunction][bookofproofs$712] [$\wedge$", the "disjunction][bookofproofs$713] [$\vee$", and the "negation][bookofproofs$714] [$\neg$" as the only "connectives][bookofproofs$7867]. This motivates the following lemma:
+We have seen that [all Boolean functions can be built][bookofproofs$7907] 
+using only the [conjunction][bookofproofs$712] "`$\wedge$`", the [disjunction][bookofproofs$713] "`$\vee$`", 
+and the [negation][bookofproofs$714] "`$\neg$`" as the only [connectives][bookofproofs$7867]. 
+This motivates the following lemma:
 
 ---
 
-The set `$B$` of all [Boolean terms][bookofproofs$1307] is a [Boolean algebra][bookofproofs$7872] `$(B,\wedge,\vee,1,0)$` with respect to the [conjunction][bookofproofs$712] [$\wedge$" and the "disjunction][bookofproofs$713] "$\vee$".
+The set `$B$` of all [Boolean terms][bookofproofs$1307] is a [Boolean algebra][bookofproofs$7872] `$(B,\wedge,\vee,1,0)$` 
+with respect to the [conjunction][bookofproofs$712] "`$\wedge$`" and the [disjunction][bookofproofs$713] "`$\vee$`".

@@ -14,6 +14,6 @@ The third important type of order relation is the so-called _strict total order_
 
 ---
 
-A [total order][bookofproofs$6191] [$\preceq$", in which the property of being "reflexive][bookofproofs$572] is replaced by the property of being [irreflexive][bookofproofs$575] and the property of being [antisymmetric][bookofproofs$575] is replaced by the property of being [asymmetric][bookofproofs$575] is called a **strict total order**.
+A [total order][bookofproofs$6191] "`$\preceq$`", in which the property of being [reflexive][bookofproofs$572] is replaced by the property of being [irreflexive][bookofproofs$575] and the property of being [antisymmetric][bookofproofs$575] is replaced by the property of being [asymmetric][bookofproofs$575] is called a **strict total order**.
 
 A chain `$(V,\preceq )$` with a strict total order "`$\preceq$`$ is called a **strictly-ordered** set. We will change the notation to `$(V,\prec)$`, whenever we want to indicate that we deal with a strictly-ordered set and not with a chain.

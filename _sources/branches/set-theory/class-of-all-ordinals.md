@@ -12,7 +12,9 @@ contributors: bookofproofs
 ---
 We have seen that [ordinal numbers are downward closed][bookofproofs$727]. But does it also hold in the opposite direction? Is there a "set of all ordinals" `$\Omega$`?
 
-The [Burali-Forti paradox][bookofproofs$779] shows that such a set cannot exist. In other words, the notion of a [set][bookofproofs$550] is [too narrow" to be used for summing up all existing "ordinal numbers][bookofproofs$723].
+The [Burali-Forti paradox][bookofproofs$779] shows that such a set cannot exist. In other words, the notion of a [set][bookofproofs$550] is "too narrow" 
+to be used for summing up all existing [ordinal numbers][bookofproofs$723].
+
 ---
 
 In the terms of the [Neumann-Berneys-Gödel set theory][bookofproofs$8012] (NBG), `$\Omega$` as a collection of _all_ [ordinal numbers][bookofproofs$723] is not a [set][bookofproofs$550] but a [proper class][bookofproofs$8012].

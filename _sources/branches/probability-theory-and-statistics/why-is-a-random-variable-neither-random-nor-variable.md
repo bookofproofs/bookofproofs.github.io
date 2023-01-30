@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-The nomenclature [random variable" is very common in stochastics and statistics. However it is somehow misleading, since a "random variable][bookofproofs$1813] `\(X\)` is neither random, nor it is variable. Why? Because it is a [function][bookofproofs$592]. A function has always to be very deterministic, and well-defined. For instance, if we get the same outcome `\(A\)` of a [random experiment][bookofproofs$857] twice, we can be sure that the real value of our random variable `\(X(A)\)` will be twice **the same**! 
+The term "random variable" is very common in stochastic and statistics. However, it is somehow misleading, since a [random variable][bookofproofs$1813] `\(X\)` is neither random, nor it is variable. Why? Because it is a [function][bookofproofs$592]. A function has always to be very deterministic, and well-defined. For instance, if we get the same outcome `\(A\)` of a [random experiment][bookofproofs$857] twice, we can be sure that the real value of our random variable `\(X(A)\)` will be twice **the same**! 
 
 Thus, is is important to understand that random variables are deterministic, but their realizations (i.e. their possible values depending on the random outcomes of an experiment) are random.
 

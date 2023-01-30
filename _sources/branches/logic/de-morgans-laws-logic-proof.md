@@ -16,7 +16,7 @@ contributors: bookofproofs
 ---
 
 * Let `$x,y$` be [propositions][bookofproofs$710].
-* In the following, we will use the [semantics of propositional logic][bookofproofs$7871], and the definitions of the [conjunction][bookofproofs$712] [$\wedge$", the "disjunction][bookofproofs$713] [$\vee$", and the "negation][bookofproofs$714] "$\neg$".
+* In the following, we will use the [semantics of propositional logic][bookofproofs$7871], and the definitions of the [conjunction][bookofproofs$712] "`$\wedge$`", the [disjunction][bookofproofs$713] "`$\vee$`", and the [negation][bookofproofs$714] "`$\neg$`".
 * We can construct a [truth table][bookofproofs$7868] for `$\neg(x\wedge y)$` and  `$(\neg x)\vee(\neg y)$` respectively:
 
 `$[[x]]_I$` | `$[[y]]_I$` | `$[[\neg x]]_I$` | `$[[\neg y]]_I$` | `$[[x\wedge y]]_I$` | `$[[\neg(x\wedge y)]]_I$` | `$[[(\neg x)\vee (\neg y)]]_I$`

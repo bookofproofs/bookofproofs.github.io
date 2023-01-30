@@ -173,7 +173,11 @@ class BopSource:
         return ret
 
     def url(self):
-        return BopSource.url_root + "/" + self.get_file_destination() + "/" + self.name + ".html"
+        destination = self.get_file_destination()
+        if destination == "":
+            return BopSource.url_root + "/" + self.name + ".html"
+        else:
+            return BopSource.url_root + "/" + destination + "/" + self.name + ".html"
 
     def get_contributors(self):
         ret = ""

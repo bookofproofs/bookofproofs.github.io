@@ -17,7 +17,7 @@ contributors: bookofproofs
 
 We want to prove that the [mixing-up the sufficient and necessary conditions][bookofproofs$7928] is a [fallacy][bookofproofs$7913].
 * The fallacy can be formulated in [propositional logic][bookofproofs$1307] as `$(p\Rightarrow q)\Rightarrow (q\Rightarrow p).$`
-* The [definition of implication][bookofproofs$1304] [$\Rightarrow$" gives us the following "truth table][bookofproofs$7868] of the function:
+* The [definition of implication][bookofproofs$1304] "`$\Rightarrow$`" gives us the following [truth table][bookofproofs$7868] of the function:
 
 
 `$[[p]]_I$` | `$[[q]]_I$` | `$[[p\Rightarrow q]]_I$` | `$[[(q\Rightarrow p)]]_I$`

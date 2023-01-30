@@ -18,4 +18,4 @@ For all [propositions][bookofproofs$710] `\(x,y,z\)` the following rules are [ta
 
 `$$\begin{array}{c}x\wedge (y\vee z)\Longleftrightarrow(x\wedge y)\vee (x\wedge z),\\x\vee (y\wedge z)\Longleftrightarrow(x\vee y)\wedge (x\vee z).\end{array}$$`
 
-In other words, the [conjunction][bookofproofs$712] [$\wedge$" and the "disjunction][bookofproofs$713] [$\vee$" are "distributive][bookofproofs$682] over each other.
+In other words, the [conjunction][bookofproofs$712] "`$\wedge$`" and the [disjunction][bookofproofs$713] "`$\vee$`" are [distributive][bookofproofs$682] over each other.

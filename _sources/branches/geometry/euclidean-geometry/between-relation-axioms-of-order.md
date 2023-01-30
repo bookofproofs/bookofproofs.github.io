@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `$\mathcal P_l$` be a [set][bookofproofs$550] of [points" that "lie on][bookofproofs$8323] a given [straight line][bookofproofs$8322] `$l$`. The **between** relation is a [relation][bookofproofs$571] `$R\subseteq \mathcal P_l\times \mathcal P_l\times \mathcal P_l$` fulfilling the following axioms:
+Let `$\mathcal P_l$` be a [set][bookofproofs$550] of points that [lie on][bookofproofs$8323] a given [straight line][bookofproofs$8322] `$l$`. The **between** relation is a [relation][bookofproofs$571] `$R\subseteq \mathcal P_l\times \mathcal P_l\times \mathcal P_l$` fulfilling the following axioms:
 
 ### Linear Axioms
 

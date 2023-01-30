@@ -35,4 +35,4 @@ Two [parallelograms][bookofproofs$909] are [congruent][bookofproofs$2781] if and
 &&(|\overline{DB}|\cdot|\overline{BF}|=|\overline{BE}|\cdot|\overline{GB}|).
 \end{array}$$`  
 
-[^1]: The product is equivalent to Euclid's [reciprocal proportion" `$$\frac{|\overline{DB}|}{|\overline{BE}|}=\frac{|\overline{GB}|}{|\overline{BF}|},$$` which is not to be confused with the concept of "reciprocal ratio][bookofproofs$1952].
+[^1]: The product is equivalent to Euclid's "reciprocal proportion" `$$\frac{|\overline{DB}|}{|\overline{BE}|}=\frac{|\overline{GB}|}{|\overline{BF}|},$$` which is not to be confused with the concept of [reciprocal ratio][bookofproofs$1952].

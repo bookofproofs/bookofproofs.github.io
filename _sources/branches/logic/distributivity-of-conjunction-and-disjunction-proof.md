@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-We want to show that the [conjunction][bookofproofs$712] [$\wedge$" and the "disjunction][bookofproofs$713] [$\vee$" are "distributive][bookofproofs$682] over each other.
+We want to show that the [conjunction][bookofproofs$712] "`$\wedge$`" and the [disjunction][bookofproofs$713] "`$\vee$`" are [distributive][bookofproofs$682] over each other.
 * It is sufficient to show the following [equivalences][bookofproofs$1305].
 `$$\begin{array}{rcl}
 x\wedge (y\vee z)&\Longleftrightarrow&(x\wedge y)\vee (x\wedge z),\\

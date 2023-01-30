@@ -17,7 +17,7 @@ contributors: bookofproofs
 
 We want to prove that the [hypothetical syllogism][bookofproofs$7921] is a [valid logical argument][bookofproofs$7913].
 * The hypothetical syllogism can be formulated in [propositional logic][bookofproofs$1307] as `$((p\Rightarrow q)\wedge (q\Rightarrow r))\Rightarrow (p\Rightarrow r).$`
-* Using the definition of [implication][bookofproofs$1304] [$\Rightarrow `$", we can construct the  following "truth table][bookofproofs$7868]:
+* Using the definition of [implication][bookofproofs$1304] "`$\Rightarrow$`", we can construct the  following [truth table][bookofproofs$7868]:
 
 
 $`[[p]]_I$ | `$[[q]]_I$` | `$[[r]]_I$` | `$[[p\Rightarrow q]]_I$` | `$[[q\Rightarrow r]]_I$` | `$[[p\Rightarrow r]]_I$`

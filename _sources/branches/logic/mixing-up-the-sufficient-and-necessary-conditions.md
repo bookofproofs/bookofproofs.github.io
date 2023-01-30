@@ -14,7 +14,8 @@ contributors: bookofproofs
 
 ---
 
-Another common [fallacy][bookofproofs$7913] is mixing up the sufficient and necessary conditions of an [implication][bookofproofs$1304] [$\Rightarrow$". Given two "propositions][bookofproofs$1307] `$p$` and `$q$`, this fallacy takes the following form:
+Another common [fallacy][bookofproofs$7913] is mixing up the sufficient and necessary conditions of an [implication][bookofproofs$1304] 
+"`$\Rightarrow$`". Given two [propositions][bookofproofs$1307] `$p$` and `$q$`, this fallacy takes the following form:
 
 `$$\begin{array}{rll}
 p\Rightarrow q&\text{premise}&\text{e.g. Any square is a rectangle.}\\

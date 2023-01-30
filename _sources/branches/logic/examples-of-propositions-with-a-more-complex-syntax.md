@@ -27,7 +27,7 @@ However, the [Law of Excluded Middle][bookofproofs$710] also holds for any kind 
 
 Let us first discuss some less formal example - the example of spoken human language (like English).
 
-* Interrogative statements like [Are you his uncle?" or imperative statements like "Report to the colonel's office!" are syntactically correct statements of English language but are not "propositions][bookofproofs$710], because no truth value can be assigned to them. 
+* Interrogative statements like "Are you his uncle?" or imperative statements like "Report to the colonel's office!" are syntactically correct statements of English language but are not [propositions][bookofproofs$710], because no truth value can be assigned to them. 
 * The truth value of a proposition can depend on the person making the judgment or on the time and circumstances in which the statement was made. For instance, "I'm cold" would mean something completely different when a child in winter says it, or when Socrates (who drank a poison by his hand) says it in the moment of his death. 
 * "He enjoys mathematics." is not a proposition, since the pronoun "he" prevents us from being able to decide whether the sentence is true or false.
 * "Socrates was a man" is a proposition, since we can decide that the sentence is true.

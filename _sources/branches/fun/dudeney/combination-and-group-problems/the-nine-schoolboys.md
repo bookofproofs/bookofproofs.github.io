@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-This is a new and interesting companion puzzle to the [Fifteen Schoolgirls" (see the solution of "Three Men in a Boat][bookofproofs$7195]), and even in the simplest possible form in which I present it, there are unquestionable difficulties. Nine schoolboys walk out in triplets on the six weekdays so that no boy ever walks side by side with any other boy more than once. How would you arrange them?
+This is a new and interesting companion puzzle to the "Fifteen Schoolgirls" (see the solution of [Three Men in a Boat][bookofproofs$7195]), and even in the simplest possible form in which I present it, there are unquestionable difficulties. Nine schoolboys walk out in triplets on the six weekdays so that no boy ever walks side by side with any other boy more than once. How would you arrange them?
 
 If we represent them by the first nine letters of the alphabet, they might be grouped on the first day as follows:—
 `\[\begin{array}{ccc}

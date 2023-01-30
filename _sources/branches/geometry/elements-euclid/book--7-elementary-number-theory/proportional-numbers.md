@@ -24,7 +24,7 @@ See [rational numbers][bookofproofs$1033].
 ### Notes
 
 * Euclid introduced [proportionality][bookofproofs$6442] for [positive real numbers][bookofproofs$1107] already in Book 5 ([Def. 5.06][bookofproofs$6442]).
-* However, now he restricts this definition to [positive integers][bookofproofs$1075]: Euclid calls the positive integers `$a,b,c$` and `$d$` [proportional" if the "rectangular numbers][bookofproofs$2324] `\(a\cdot d\)` and `\(b\cdot c\)` are equal, formally
+* However, now he restricts this definition to [positive integers][bookofproofs$1075]: Euclid calls the positive integers `$a,b,c$` and `$d$` "proportional" if the [rectangular numbers][bookofproofs$2324] `\(a\cdot d\)` and `\(b\cdot c\)` are equal, formally
 
 `\[a\cdot d = b\cdot c.\]`
 

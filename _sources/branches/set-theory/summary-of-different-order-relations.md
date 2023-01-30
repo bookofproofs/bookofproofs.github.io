@@ -55,4 +55,4 @@ Please note that since a [total order][bookofproofs$6191] of a set `$V$` is refl
 * We can transform a given [chain][bookofproofs$6191]  `$(V,\preceq )$` to a [strictly ordered set][bookofproofs$7993]  `$(V,\prec)$` by the [set difference][bookofproofs$6830] of the total order "`$\preceq$`" and `$D$`, i.e. the strict order is defined by `$\prec := \preceq\setminus D.$`
 * On the other hand, if we change a given strictly ordered set `$(V,\prec)$` into a chain `$(V,\preceq )$` by the [union][bookofproofs$6827] of its strict order "`$\prec$`" and `$D$`, i.e. the total order is defined by `$\preceq:=\prec\cup D.$`
 
-[^1]: The word [diagonal" is chosen reflecting that the pairs elements `$(x,x)\in \preceq$` are exactly the diagonal elements of the "matrix representation][bookofproofs$579] of the reflexive relation "`$\preceq$`".
+[^1]: The word "diagonal" is chosen reflecting that the pairs elements `$(x,x)\in \preceq$` are exactly the diagonal elements of the [matrix representation][bookofproofs$579] of the reflexive relation "`$\preceq$`".

@@ -16,4 +16,4 @@ contributors: bookofproofs
 
 * Let `$L$` be a [set of propositions][bookofproofs$1307] and let  `$I$` be an [interpretation][bookofproofs$710] with the [valuation function][bookofproofs$710] `$[[]]_I$`.
 * According to the [truth table of disjunction][bookofproofs$713], the valuation function `$[[x\vee y]]_I$` does not change its value if we exchange the valuations of `$[[x]]_I$` and `$[[y]]_I,$`
-* Thus, the [disjunction][bookofproofs$713] operation [$\vee$" is "commutative][bookofproofs$672], i.e. `$x \vee y=y \vee x$`.
+* Thus, the [disjunction][bookofproofs$713] operation "`$\vee$`" is [commutative][bookofproofs$672], i.e. `$x \vee y=y \vee x$`.

@@ -68,7 +68,7 @@
 <ol>
 <li>Set the context of the proof.</li>
 <li>Provide the hypothesis which will lead to a contrapositive of an original conditional statement.</li>
-<li>Provide the implication, e.g. <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contraposition-contrapositive.html" title="Logic / Lemma: The Proving Principle By Contraposition, Contrapositive">Since (refer here to the original conditional statement), it follows from the hypothesis by "contraposition</a> that (provide here the implication)."</li>
+<li>Provide the implication, e.g. "Since (refer here to the original conditional statement), it follows from the hypothesis by <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contraposition-contrapositive.html" title="Logic / Lemma: The Proving Principle By Contraposition, Contrapositive">contraposition</a> that (provide here the implication)."</li>
 <li>As a conclusion, restate the main implication.</li>
 </ol>
 <h3>Proof by Contradiction:</h3>
@@ -76,59 +76,57 @@
 <li>Set the context of the proof.</li>
 <li>Assert the hypothesis that will lead to a contradiction.</li>
 <li>List implications, leading to that contradiction</li>
-<li>State the conclusion, e.g. <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">This is a "contradiction</a> to the hypothesis."</li>
+<li>State the conclusion, e.g. "This is a <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">contradiction</a> to the hypothesis."</li>
 </ol>
 <h3>Proof of an implication</h3>
 <ol>
 <li>Set the context of the proof, i.e. state that you want to prove the implication $P\Rightarrow Q$, in which you replace $P,Q$ by two statements, for which you want to show the implication. </li>
 <li>You have now two possibilities to continue the proof: <ul>
 <li>Possibility 1: Direct Proof:</li>
+<li>Assert the hypothesis, i.e. take $y$ and assume that $P(y)$ is true.</li>
+<li>List implications, showing that then $Q(y)$ must also be true.</li>
+<li>State the conclusion, e.g. "Therefore, it follows that $P\Rightarrow Q.$"</li>
+<li>Possibility 2: Proof by contradiction: </li>
+<li>Assert the hypothesis, i.e. take $y$ and assume that both: $P(y)$ is true and $Q(y)$ is false.</li>
+<li>List implications, leading to that contradiction.</li>
+<li>State the conclusion, e.g. "This is a <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">contradiction</a> to the hypothesis. Thus, it follows that $P\Rightarrow Q$".</li>
 </ul>
 </li>
 </ol>
-<h2>1. Assert the hypothesis, i.e. take $y$ and assume that $P(y)$ is true.</h2>
-<h2>1. List implications, showing that then $Q(y)$ must also be true.</h2>
-<h2>1. State the conclusion, e.g. "Therefore, it follows that $P\Rightarrow Q.$"</h2>
-<div class="codehilite"><pre><span></span><code>* Possibility 2: Proof by contradiction:
-</code></pre></div>
-
-<h2>1. Assert the hypothesis, i.e. take $y$ and assume that both: $P(y)$ is true and $Q(y)$ is false.</h2>
-<h2>1. List implications, leading to that contradiction.</h2>
-<h2>1. State the conclusion, e.g. <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">This is a "contradiction</a> to the hypothesis. Thus, it follows that $P\Rightarrow Q.$"</h2>
 <h3>Proof of Equality of Sets</h3>
 <ol>
 <li>State the assumption that e.g. $A$ and $B$ are <a href="https://bookofproofs.github.io/branches/set-theory/set-set-element-empty-set-cantor.html" title="Set Theory / Definition: Set, Set Element, Empty Set">sets</a>.</li>
 <li>Part 1: Provide a proof of $A\subseteq B$, e.g. using one of the other proof templates.</li>
 <li>Part 2: Provide a proof of $B\subseteq A$, e.g. using one of the other proof templates.</li>
-<li>State the conclusion, e.g. <a href="https://bookofproofs.github.io/branches/set-theory/equality-of-sets.html" title="Set Theory / Corollary: Equality of Sets">It follows from the "equality of sets</a> that $A = B.$"</li>
+<li>State the conclusion, e.g. "It follows from the <a href="https://bookofproofs.github.io/branches/set-theory/equality-of-sets.html" title="Set Theory / Corollary: Equality of Sets">equality of sets</a> that $A = B$".</li>
 </ol>
 <h3>Proof of Inclusion of two Sets $A\subseteq B$</h3>
 <ol>
-<li>Set the context of the proof, i.e. what is being assumed about the sets $A$ and $B.$</li>
+<li>Set the context of the proof, i.e. what is being assumed about the sets $A$ and $B$.</li>
 <li>Assert the hypothesis, e.g. "let $x\in A$". </li>
-<li>List implications, in particular, use the properties of the set $A$ and $B$ to show $x$ belongs to the set $B.$</li>
-<li>State the conclusion, e.g. <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Set Theory / Definition: Subset and Superset">It follows that $x\in B.$ Thus, by the "definition of subset</a>, $A\subset B.$</li>
+<li>List implications, in particular, use the properties of the set $A$ and $B$ to show $x$ belongs to the set $B$.</li>
+<li>State the conclusion, e.g. "It follows that $x\in B$. Thus, by the <a href="https://bookofproofs.github.io/branches/set-theory/subset-superset.html" title="Set Theory / Definition: Subset and Superset">definition of subset</a>, $A\subset B$.</li>
 </ol>
 <h3>Proof of a function $f$ being surjective</h3>
 <ol>
-<li>Set the context of the proof, i.e. introduce the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">function</a> $f: A\to B$, its domain $A$ and its domain $B.$</li>
+<li>Set the context of the proof, i.e. introduce the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">function</a> $f: A\to B$, its domain $A$ and its domain $B$.</li>
 <li>Assert the hypothesis, i.e. select an arbitrary element of the codomain, e.g. "let $y\in B$". </li>
 <li>List implications, i.e. exhibit a value $x\in A$ with $f(x)=y.$</li>
-<li>State the conclusion, e.g. <a href="https://bookofproofs.github.io/branches/set-theory/surjective-function.html" title="Set Theory / Definition: Surjective Function">It follows by the "definition of surjective functions</a> that $f$ is surjective.</li>
+<li>State the conclusion, e.g. "It follows by the <a href="https://bookofproofs.github.io/branches/set-theory/surjective-function.html" title="Set Theory / Definition: Surjective Function">definition of surjective functions</a> that $f$ is surjective".</li>
 </ol>
 <h3>Proof of a function $f$ being injective</h3>
 <ol>
-<li>Set the context of the proof, i.e. introduce the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">function</a> $f: A\to B$, its domain $A$ and its domain $B.$</li>
-<li>Assert the hypothesis, i.e. select two values $x_1,x_2\in A$ and assume that $f(x_1)=f(x_2).$</li>
+<li>Set the context of the proof, i.e. introduce the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">function</a> $f: A\to B$, its domain $A$ and its domain $B$.</li>
+<li>Assert the hypothesis, i.e. select two values $x_1,x_2\in A$ and assume that $f(x_1)=f(x_2)$.</li>
 <li>List implications, i.e. show that $x_1=x_2.$</li>
-<li>State the conclusion, e.g. <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html" title="Set Theory / Definition: Injective Function">It follows by the "definition of injective functions</a> that $f$ is injective.</li>
+<li>State the conclusion, e.g. "It follows by the <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html" title="Set Theory / Definition: Injective Function">definition of injective functions</a> that $f$ is injective".</li>
 </ol>
 <h3>Proof of a function $f$ being bijective</h3>
 <ol>
-<li>Set the context of the proof, i.e. introduce the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">function</a> $f: A\to B$, its domain $A$ and its domain $B.$</li>
+<li>Set the context of the proof, i.e. introduce the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">function</a> $f: A\to B$, its domain $A$ and its domain $B$.</li>
 <li>Prove that $f$ is <a href="https://bookofproofs.github.io/branches/set-theory/injective-function.html" title="Set Theory / Definition: Injective Function">injective</a> (you might use the template listed above for injective functions).</li>
 <li>Prove that $f$ is <a href="https://bookofproofs.github.io/branches/set-theory/surjective-function.html" title="Set Theory / Definition: Surjective Function">surjective</a> (you might use the template listed above for surjective functions).</li>
-<li>State the conclusion, e.g. <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html" title="Set Theory / Definition: Bijective Function">It follows by the "definition of bijective functions</a> that $f$ is bijective.</li>
+<li>State the conclusion, e.g. "It follows by the <a href="https://bookofproofs.github.io/branches/set-theory/bijective-function.html" title="Set Theory / Definition: Bijective Function">definition of bijective functions</a> that $f$ is bijective".</li>
 </ol>
 <h3>Proof that a number $L$ is the limit of a function $f(x)$, as $x$ tends to a value $a.$</h3>
 <ol>
@@ -140,19 +138,19 @@
 </ul>
 </li>
 <li>List implications, i.e. show that $|f(x)-L| &lt; \epsilon.$</li>
-<li>State the conclusion, e.g. <a href="https://bookofproofs.github.io/branches/analysis/limits-of-real-functions.html" title="Analysis / Definition: Limits of Real Functions">It follows by the "definition of function limit</a> that $\lim_{x\to a}f(x)=L.$</li>
+<li>State the conclusion, e.g. "It follows by the <a href="https://bookofproofs.github.io/branches/analysis/limits-of-real-functions.html" title="Analysis / Definition: Limits of Real Functions">definition of function limit</a> that $\lim_{x\to a}f(x)=L$".</li>
 </ol>
 <h3>Proof that a number $L$ is the limit of a function $f(x)$, as $x$ tends to infinity $\infty.$</h3>
 <ol>
-<li>Set the context of the proof, i.e. introduce the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">function</a> $f: A\to B$, its domain $A$ and its domain $B$ and say what is known about the number $L.$</li>
+<li>Set the context of the proof, i.e. introduce the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">function</a> $f: A\to B$, its domain $A$ and its domain $B$ and say what is known about the number $L$.</li>
 <li>Assert the hypothesis, i.e.:<ul>
-<li>Select an arbitrary positive number $\epsilon$, e.g. "Given $\epsilon &gt; 0.$"</li>
-<li>Propose an appropriate value for a natural number $N.$</li>
+<li>Select an arbitrary positive number $\epsilon$, e.g. "Given $\epsilon &gt; 0$."</li>
+<li>Propose an appropriate value for a natural number $N$.</li>
 <li>Select $x &gt; N$</li>
 </ul>
 </li>
-<li>List implications, i.e. show that $|f(x)-L| &lt; \epsilon.$</li>
-<li>State the conclusion, e.g. <a href="https://bookofproofs.github.io/branches/analysis/limits-of-real-functions.html" title="Analysis / Definition: Limits of Real Functions">It follows by the "definition of function limit</a> that $\lim_{x\to a}f(x)=L.$</li>
+<li>List implications, i.e. show that $|f(x)-L| &lt; \epsilon$.</li>
+<li>State the conclusion, e.g. "It follows by the <a href="https://bookofproofs.github.io/branches/analysis/limits-of-real-functions.html" title="Analysis / Definition: Limits of Real Functions">definition of function limit</a> that $\lim_{x\to a}f(x)=L$."</li>
 </ol>
 <h3>Proof that the limit of a function $f(x)$ does not exist, as $x$ tends to a value $a.$</h3>
 <ol>
@@ -167,16 +165,16 @@
 <li>List implications, i.e. <ul>
 <li>Assume that $|f(x_1)-L| &lt; \epsilon$ and that $|f(x_2)-L| &lt; \epsilon.$ </li>
 <li>Using <a href="https://bookofproofs.github.io/branches/analysis/triangle-inequality.html" title="Analysis / Theorem: Triangle Inequality">triangle inequality</a>, show that $2\epsilon =\epsilon + \epsilon &gt; |f(x_1)-L|+|f(x_2)-L|=|f(x_1)-L|+|L-f(x_2)|\ge |f(x_1)-L+L-f(x_2)|=|f(x_1)-f(x_2)|.$</li>
-<li>State the contradiction, e.g. <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">This shows that $2\epsilon &gt; |f(x_1)-f(x_2)|,$ which is a "contradiction</a>.</li>
+<li>State the contradiction, e.g. "This shows that $2\epsilon &gt; |f(x_1)-f(x_2)|,$ which is a <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">contradiction</a>.</li>
 </ul>
 </li>
 <li>State the conclusion, e.g. "Thus, it cannot hold that both $|f(x_1)-L| &lt; \epsilon$ and that $|f(x_2)-L| &lt; \epsilon.$ Therefore, the limit $L$ does not exist.</li>
 </ol>
 <h3>Proof that the limit of a function $f(x)$ does not exist, if $f$ is unbounded as $x$ tends to a value $a.$</h3>
 <ol>
-<li>Set the context of the proof, i.e. introduce the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">function</a> $f: A\to B$, its domain $A$ and its domain $B$  and say what is known about the number $a.$</li>
+<li>Set the context of the proof, i.e. introduce the <a href="https://bookofproofs.github.io/branches/set-theory/partial-total-maps.html" title="Set Theory / Definition: Partial and Total Maps (Functions)">function</a> $f: A\to B$, its domain $A$ and its domain $B$  and say what is known about the number $a$.</li>
 <li>Assert the hypothesis, i.e.:<ul>
-<li>Assume that $L$ is the limit, i.e. $\lim_{x\to a}f(x)=L.$</li>
+<li>Assume that $L$ is the limit, i.e. $\lim_{x\to a}f(x)=L$.</li>
 <li>Propose "Let $\epsilon:=1$ and let $\delta &gt; 0$ be given."</li>
 <li>Select an appropriate number $x$ such that $0 &lt; |x-a| &lt; \delta$ (but suitable for implications to follow).</li>
 </ul>
@@ -184,8 +182,8 @@
 <li>List implications, i.e. <ul>
 <li>Show that $f(x) &gt; |L| + 1.$ </li>
 <li>Conclude that $|f(x)-L| &gt; |L|+1-L \ge 1.$</li>
-<li>State the contradiction, e.g. <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">This is a "contradiction</a> to $|f(x)-L| &lt; \epsilon=1$."</li>
-<li>State the contradiction, e.g. <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">This is a "contradiction</a> to $|f(x)-L| &lt; \epsilon=1$."</li>
+<li>State the contradiction, e.g. "This is a <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">contradiction</a> to $|f(x)-L| &lt; \epsilon=1$".</li>
+<li>State the contradiction, e.g. "This is a <a href="https://bookofproofs.github.io/branches/logic/the-proving-principle-by-contradiction.html" title="Logic / Lemma: The Proving Principle by Contradiction">contradiction</a> to $|f(x)-L| &lt; \epsilon=1$".</li>
 </ul>
 </li>
 </ol>

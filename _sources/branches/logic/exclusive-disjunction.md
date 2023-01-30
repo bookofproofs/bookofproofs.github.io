@@ -15,7 +15,8 @@ contributors: bookofproofs
 
 ---
 
-In order to reflect the more natural meaning of `$x$` __or__ `$y$`, which is [either `$x$` or `$y$`, but not both", we introduce another "Boolean function][bookofproofs$1316], called the **exclusive disjunction** "$\oplus$", 
+In order to reflect the more natural meaning of `$x$` __or__ `$y$`, which is "either `$x$` or `$y$`, but not both", 
+we introduce another [Boolean function][bookofproofs$1316], called the **exclusive disjunction** "`$\oplus$`", 
  (sometimes also called the "exclusive or"). 
 
 For any given [propositions][bookofproofs$1307] `$x$` and `$y$`, the exclusive disjunction `$x\oplus y$` is defined using the [conjunction][bookofproofs$712], [disjunction][bookofproofs$713] and [negation][bookofproofs$714]:

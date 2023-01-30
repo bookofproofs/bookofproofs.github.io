@@ -17,7 +17,7 @@ contributors: bookofproofs,@fitzpatrick
 
 The theory of proportion set out in this book is generally attributed to "Eudoxus of Cnidus":https://www.bookofproofs.org/history/eudoxus-of-cnidus/. The novel feature of this theory is its ability to deal with irrational magnitudes, which had hitherto been a major stumbling block for Greek mathematicians. 
 
-This book contains `$25$` propositions and one corollary, and unlike other books of Euclid's [Elements", no compass and ruler constructions. Throughout the book, `$\alpha$`, `$\beta$`, `$\gamma$`, etc., denote general "positive real numbers][bookofproofs$1107] (possibly irrational magnitudes), whereas `\(m\)`, `\(n\)`, `\(l\)`, etc., denote positive integers. Euclid limits himself to positive real numbers in order to preserve the visual aid of geometry - his "magnitudes" always mean "lengths" or "volumes". Nevertheless, most of his results hold also for the general case, when the magnitudes become negative. 
+This book contains `$25$` propositions and one corollary, and unlike other books of Euclid's "Elements", no compass and ruler constructions. Throughout the book, `$\alpha$`, `$\beta$`, `$\gamma$`, etc., denote general [positive real numbers][bookofproofs$1107] (possibly irrational magnitudes), whereas `\(m\)`, `\(n\)`, `\(l\)`, etc., denote positive integers. Euclid limits himself to positive real numbers in order to preserve the visual aid of geometry - his "magnitudes" always mean "lengths" or "volumes". Nevertheless, most of his results hold also for the general case, when the magnitudes become negative. 
 
 The following table lists results from this book which are also known in modern mathematics, but which were proven by Euclid purely geometrically about 2500 years ago:
 

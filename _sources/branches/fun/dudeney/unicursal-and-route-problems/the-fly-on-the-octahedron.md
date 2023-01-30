@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-[Look here," said the professor to his colleague, "I have been watching that fly on the "octahedron][bookofproofs$2235], and it confines its walks entirely to the edges. What can be its reason for avoiding the sides?"
+"Look here," said the professor to his colleague, "I have been watching that fly on the [octahedron][bookofproofs$2235], and it confines its walks entirely to the edges. What can be its reason for avoiding the sides?"
 
 "Perhaps it is trying to solve some routing problem," suggested the other. "Supposing it to start from the top point, how many different routes are there by which it may walk over all the edges, without ever going twice along the same edge in any route?"
 

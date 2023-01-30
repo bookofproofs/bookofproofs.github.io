@@ -42,6 +42,15 @@ Historically, this series of sets was used by "von Neumann":https://www.bookofpr
 
 
 
-Loosely speaking, as [$n$ tends to infinity", for the strictly ordered set `$(\mathbb N, <)$` the Mostowski function `$\pi$` "tends" to a set we have already learned about as the "minimal inductive set][bookofproofs$8038] `$\omega.$` But what is the Mostowski collapse `$(N, <)$` then? By definition, the Mostowski collapse of `$(N, <)$` is the [image][bookofproofs$592] of `$\pi[\mathbb N],$` i.e. the set `$W:=\{\pi(n)\mid n\in\mathbb N\}.$` If `$x\in W,$` then there is an `$n\in\mathbb N$` with `$x=\pi(n).$` But note that then `$x\cup \{x\}\in W.$` Therefore, `$W$` is fulfilling the [axiom of infinity][bookofproofs$678] and by definition, it is an [inductive set][bookofproofs$8037]. Since there are no other elements of `$W$` than those produced by the Mostowski function `$\pi$`, `$W$` _corresponds_ exactly to the minimal inductive set `$\omega$`, i.e. we have `$W=\omega.$` In other words, `$\omega$` is the Mostowski collapse of the function `$\pi$`. It is the "limit" of `$\pi(n)$` as "$n$ tends to infinity."[^1]
+Loosely speaking, as "`$n$` tends to infinity", for the strictly ordered set `$(\mathbb N, <)$` the Mostowski 
+function `$\pi$` "tends" to a set we have already learned about as the [minimal inductive set][bookofproofs$8038] `$\omega$`. 
+But what is the Mostowski collapse `$(N, <)$` then? By definition, the Mostowski collapse of `$(N, <)$` is the [image][bookofproofs$592] 
+of `$\pi[\mathbb N],$` i.e. the set `$W:=\{\pi(n)\mid n\in\mathbb N\}$`. 
+If `$x\in W,$` then there is an `$n\in\mathbb N$` with `$x=\pi(n)$`. 
 
-[^1]: Of course, the notions "limit" and "to tend to infinity" are not defined here strictly and they are mathematical concepts which are known more from analysis rather than set theory. But we use them in this explanation anyway to help you to better understand the effect of the Mostowski function and collapse, if you rely on only an intuitive idea of limits and processes of "tending to."
+But note that then `$x\cup \{x\}\in W.$` Therefore, `$W$` is fulfilling the [axiom of infinity][bookofproofs$678] and by definition, it is an [inductive set][bookofproofs$8037]. 
+Since there are no other elements of `$W$` than those produced by the Mostowski function `$\pi$`, `$W$` _corresponds_ exactly to the minimal inductive set `$\omega$`, i.e. we have `$W=\omega$`. 
+In other words, `$\omega$` is the Mostowski collapse of the function `$\pi$`. It is the "limit" of `$\pi(n)$` as "`$n$` tends to infinity."[^1]
+
+[^1]: Of course, the notions "limit" and "to tend to infinity" are not defined here strict, and they are mathematical concepts known from analysis rather than from set theory. 
+But we use them in this explanation anyway to help you to better understand the effect of the Mostowski function and collapse, using a wake idea of limit processes of "tending to".

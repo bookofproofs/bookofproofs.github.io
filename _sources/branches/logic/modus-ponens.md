@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-*Modus ponens* (lat. [the way that affirms by affirming") is a "valid logical argument][bookofproofs$7913] consisting of two premises and a conclusion, which altogether are constructed from two [propositions][bookofproofs$1307] `$p$` and `$q$` as follows:
+*Modus ponens* (lat. "the way that affirms by affirming") is a [valid logical argument][bookofproofs$7913] consisting of two premises and a conclusion, which altogether are constructed from two [propositions][bookofproofs$1307] `$p$` and `$q$` as follows:
 
 * The first premise (called the **major premise**) is the [implication][bookofproofs$1304] `$p\Rightarrow q$`.
 * The second premise (called the **minor premise**) is the proposition `$p$`.

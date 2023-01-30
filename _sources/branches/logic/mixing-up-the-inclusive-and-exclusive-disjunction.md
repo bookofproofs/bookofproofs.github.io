@@ -14,7 +14,8 @@ contributors: bookofproofs
 
 ---
 
-A common [fallacy][bookofproofs$7913] is mixing up the [inclusive disjunction][bookofproofs$713] [$\vee$" and the "exclusive disjunction][bookofproofs$7869] [$\oplus$". For two "propositions][bookofproofs$1307] `$p$` and `$q$`, this fallacy takes the following form:
+A common [fallacy][bookofproofs$7913] is mixing up the [inclusive disjunction][bookofproofs$713] "`$\vee$`" and the [exclusive disjunction][bookofproofs$7869] 
+"`$\oplus$`". For two [propositions][bookofproofs$1307] `$p$` and `$q$`, this fallacy takes the following form:
 
 `$$\begin{array}{rll}
 p\vee q&\text{major premise}&\text{e.g. I'll listen to music or I'll learn maths.}\\

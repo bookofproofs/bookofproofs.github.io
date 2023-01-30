@@ -50,6 +50,7 @@ class BopCompiler:
         if BopCompiler.local:
             self._make_local()
         self._write_compiled_sources()
+        self._write_sitemap()
 
     def _make_local(self):
         print("   Making sources local...")
@@ -304,3 +305,19 @@ class BopCompiler:
         for match in pattern.finditer(content):
             new_content = new_content.replace("<code>" + match.group(1) + "</code>", match.group(1))
         return new_content
+
+    def _write_sitemap(self):
+        sitemaps = list()
+        for source in self.sources:
+            bop_source = self.sources[source]
+            if bop_source.layout not in [BopLayouts.hidden, BopLayouts.index, BopLayouts]:
+                url = bop_source.url()
+                if url == "https://bookofproofs.github.io/index.html":
+                    url = "https://bookofproofs.github.io/"
+                    sitemaps.append(url)
+                elif "https://bookofproofs.github.io/branches/" in url or \
+                        "https://bookofproofs.github.io/history/" in url:
+                    sitemaps.append(url)
+        sitemaps.sort(key=lambda x: len(x))
+        sitemap = "\n".join(sitemaps)
+        self.fm.write_file("", "sitemap.txt", sitemap)

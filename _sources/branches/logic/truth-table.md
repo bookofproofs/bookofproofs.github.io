@@ -16,7 +16,8 @@ The most convenient way to study Boolean functions is writing them in the form o
 
 ---
 
-Let `$p_1,\ldots,p_n$` be `$n\ge 1$` [propositions][bookofproofs$1307] and let [$\circ$" be a "$k$-nary connective][bookofproofs$7867] such that `$\phi=p_1\circ \ldots \circ p_n$` is also a proposition. We have seen [in the corresponding lemma][bookofproofs$1316] that [$\circ$" induces a Boolean function `$f_\phi:\mathbb B^n\to\mathbb B$` defined on the "set of truth values][bookofproofs$707] `$\mathbb B=\{1,0\}=\{true, false\}:$` 
+Let `$p_1,\ldots,p_n$` be `$n\ge 1$` [propositions][bookofproofs$1307] and let [$\circ$" be a "$k$-nary connective][bookofproofs$7867] such that `$\phi=p_1\circ \ldots \circ p_n$` is also a proposition. We have seen [in the corresponding lemma][bookofproofs$1316] that "`$\circ$`" 
+induces a Boolean function `$f_\phi:\mathbb B^n\to\mathbb B$` defined on the [set of truth values][bookofproofs$707] `$\mathbb B=\{1,0\}=\{true, false\}$`: 
 
 A **truth table** of the [Boolean function][bookofproofs$1316] `$f_\phi$` is a table listing all the possible [valuations][bookofproofs$710] `$[[]]_I$` of the `$n$` propositions `$p_1,\ldots,p_n$` and the resulting value of the boolean function `$f_\phi$`.
 

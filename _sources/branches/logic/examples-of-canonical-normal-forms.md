@@ -55,4 +55,6 @@ Now, we connect the minterms and maxterms by disjunction and conjunction, respec
 \operatorname{ccnm}(\psi)&=&(a\vee \neg b\vee c) \wedge (a\vee \neg b\vee \neg c)  \wedge(\neg a\vee b\vee c) \wedge (\neg a\vee b\vee \neg c).\end{array}$$`
 
 
-This example also demonstrates that the [connectives][bookofproofs$7867] [implication][bookofproofs$1304] [$\Rightarrow$" and "equivalence][bookofproofs$1305] [$\Leftrightarrow$" which were contained in `$\psi$` could be replaced by the three "standard" connectives "conjunction][bookofproofs$712] "$\wedge$", [disjunction][bookofproofs$713] [$\vee$", and "negation][bookofproofs$714] "$\neg$" without changing the corresponding Boolean function.
+This example also demonstrates that the [connectives][bookofproofs$7867] [implication][bookofproofs$1304] "`$\Rightarrow$`" and [equivalence][bookofproofs$1305] 
+"`$\Leftrightarrow$`" which were contained in `$\psi$` could be replaced by the three "standard" connectives [conjunction][bookofproofs$712] "`$\wedge$`", 
+[disjunction][bookofproofs$713] "`$\vee$`", and [negation][bookofproofs$714] "`$\neg$`", without changing the corresponding Boolean function.

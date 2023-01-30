@@ -27,5 +27,5 @@ The above means the result of the [addition][bookofproofs$890] `$n$` times, `$n 
 
 ### Notes
 
-* Euclid uses in his [Elements" also another notion of a number - a "magnitude][bookofproofs$2316], which means a positive real number.
+* Euclid uses in his "Elements" also another notion of a number - a [magnitude][bookofproofs$2316], which means a positive real number.
 * Neither negative numbers nor the number `\(0\)` are defined in Euclid's “Elements”.

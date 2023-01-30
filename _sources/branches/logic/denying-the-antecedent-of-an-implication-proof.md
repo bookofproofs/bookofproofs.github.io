@@ -17,7 +17,7 @@ contributors: bookofproofs
 
 We want to prove that the [mixing-up the sufficient and necessary conditions][bookofproofs$7928] is a [fallacy][bookofproofs$7913].
 * The fallacy can be formulated in [propositional logic][bookofproofs$1307] as `$(p\Rightarrow q)\wedge \neg p\Rightarrow \neg q.$`
-* The definitions of the [implication][bookofproofs$1304] [$\Rightarrow$" and the "negation][bookofproofs$714] [$\neg$" give us the following "truth table][bookofproofs$7868] of the function:
+* The definitions of the [implication][bookofproofs$1304] "$`\Rightarrow$`" and the [negation][bookofproofs$714] "`$\neg$`" give us the following [truth table][bookofproofs$7868] of the function:
 
 
 `$[[p]]_I$` | `$[[q]]_I$` | `$[[p\Rightarrow q]]_I$` | `$[[\neg p]]_I$` | `$[[\neg q]]_I$`

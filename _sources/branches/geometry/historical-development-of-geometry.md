@@ -37,7 +37,7 @@ The solution to the problem whether the Fifth Postulate is needed or not was fou
 
 In a sense, these thee mathematicians achieved no new results. Also before them, Khayyam and Saccheri managed to find valid geometrical theories based on the assumption the Fifth Postulate was not true. But their new achievement was to recognize these theories as such. 
 
-Still, the question, whether these [non-Euclidean" geometries are "consistent][bookofproofs$7887], i.e. it one could never prove a contradiction inside these theories, remained unproven. The proof was worked out by "Beltrami":https://www.bookofproofs.org/history/eugenio-beltrami (1835 - 1900) in 1868.  
+Still, the question, whether these "non-Euclidean" geometries are [consistent][bookofproofs$7887], i.e. it one could never prove a contradiction inside these theories, remained unproven. The proof was worked out by "Beltrami":https://www.bookofproofs.org/history/eugenio-beltrami (1835 - 1900) in 1868.  
 
 The old question of the Firth Postulate was now solved. It meant that proving the Fifth Postulate from the other four postulates is a logical impossibility, since both, its truth _and_ its falseness led to consistent theories.
 

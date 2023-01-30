@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-The [conjunction operation][bookofproofs$712] [$\wedge$" is "commutative][bookofproofs$672], i.e. `$x \wedge y=y \wedge x$` for all possible [interpretations][bookofproofs$710] `$I$` and [valuation functions][bookofproofs$710] `$[[]]_I$` of [propositions][bookofproofs$1307] `\(x,y.\)`
+The [conjunction operation][bookofproofs$712] "`$\wedge$`" is [commutative][bookofproofs$672], i.e. `$x \wedge y=y \wedge x$` for all possible [interpretations][bookofproofs$710] `$I$` and [valuation functions][bookofproofs$710] `$[[]]_I$` of [propositions][bookofproofs$1307] `\(x,y.\)`

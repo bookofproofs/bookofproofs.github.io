@@ -54,7 +54,8 @@ Due to the [axiom of infinity][bookofproofs$678] we can postulate the existence 
 For any two ordinals, and in particular for natural numbers, we can therefore always decide which one is "bigger", "smaller", or whether they are equal to each other.
 
 
-[^3]: Please note that this infinite set is an [ordinal by definition][bookofproofs$723]. However, we have not built by the above construction formula, i.e. it is not a successor of any [previous" ordinal. In other words, `\(\mathbb N\)` is the first "limit ordinal][bookofproofs$780].
+[^3]: Please note that this infinite set is an [ordinal by definition][bookofproofs$723]. However, we have not built by the above construction formula, i.e. it is not a successor of any "previous" ordinal. 
+In other words, `\(\mathbb N\)` is the first [limit ordinal][bookofproofs$780].
 ### Definition due to Ernst Zermelo (1908)
 
 The [set][bookofproofs$550] `\(\mathbb N\)` of natural numbers is defined recursively by: `\[\begin{array}{rcl}0&:=&\emptyset,\\1&:=&\{0\}=\{\emptyset\},\\2&:=&\{1\}=\{\{\emptyset\}\},\\3&:=&\{2\}=\{\{\{\emptyset\}\}\},\\&\vdots&\\n^+&:=&\{n\}=\underbrace{\{\ldots\{ }_{n+1\text{ times}}\emptyset\underbrace{\}\ldots\} }_{n+1\text{ times}},\\&\vdots&\\\end{array}\]`
