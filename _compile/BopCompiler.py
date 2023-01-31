@@ -119,7 +119,7 @@ class BopCompiler:
                 bop_source = BopSource(file)
                 self._source_licenses.append(bop_source)
                 if bop_source.nodeid in self._source_licenses_ids:
-                    raise Bop("Duplicate license " + bop_source.nodeid + " in " + bop_source.get_file_name())
+                    raise B ("Duplicate license " + bop_source.nodeid + " in " + bop_source.get_file_name())
                 else:
                     self._source_licenses_ids.add(bop_source.nodeid)
             else:

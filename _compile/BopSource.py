@@ -46,7 +46,7 @@ class BopSource:
         source = self.fm.get_file_content("_sources", file_name)
         contents = re.split("^---$", source, flags=re.M)
         if len(contents) != 3 and len(contents) != 4:
-            raise BopValidationError("E01", "Malformed front matter found in " + file_name)
+            raise BopValidationError("STRUCTURE", "02", "Malformed front matter found in " + file_name)
         if len(contents) == 3:
             self._pre_body = contents[1].strip()
             self._body = contents[2].strip()

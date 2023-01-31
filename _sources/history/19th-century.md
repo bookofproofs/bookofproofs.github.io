@@ -99,7 +99,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Sang/">Edward Sang</a>
 : A Scottish mathematician who wrote extensively on mathematical, mechanical, optical and actuarial topics as well as publishing astronomical and logarithmic tables.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Dirichlet/">Johann Peter Gustav Lejeune Dirichlet</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Dirichlet/">Dirichlet, Johann Peter Gustav Lejeune</a>
 : Lejeune Dirichlet is best known for his proof that in any arithmetic progression with first term co-prime to the difference there are infinitely many primes.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hamilton/">Sir William Rowan Hamilton</a>

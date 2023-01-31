@@ -45,10 +45,10 @@ Property | Meaning | Possible values | Example
 `description`|Content if the `description` attribute of the HTML `meta` tag of the site|| 
 `keywords`|Comma-separated list of keywords for the become the `keywords` attribute of the HTML `meta` tag of the site||
 `title`|Title of the site||
-`nodeid`|A unique, filename-independent ID of the site|The name of the creator, followed by `$` and an alphanumeric identifier|`nodeid: bookofproofs$392`|  
+`nodeid`|A unique, filename-independent ID of the site|see [cheat_sheet_naming_identifying_ordering][csnio]|`nodeid: bookofproofs$392`|  
 `url`|Link to a license (relevant only for the layout: `layout: license`) 
-`parentid`|Reference to a parent `nodeid`|same as `nodeid`|`parentid: bookofproofs$0`
-`orderid`|Relative order between the children nodes of the same `parentid`|whole number|`orderid: 420`
+`parentid`|Reference to a parent `nodeid`|see [cheat_sheet_naming_identifying_ordering][csnio]|`parentid: bookofproofs$0`
+`orderid`|Relative order between the children nodes of the same `parentid`|see [cheat_sheet_naming_identifying_ordering][csnio]|`orderid: 420`
 `references`|References (bibliography) of the site|comma-separated list of `nodeid`|`references: bookofproofs$626,bookofproofs$628, bookofproofs$6419`
 `issues`|Issues related to the site (kind of to-do list)|comma-separated list|`issues: broken-links`
 
@@ -56,3 +56,4 @@ Property | Meaning | Possible values | Example
 [csl]:https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_layouts.md
 [csa]:https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_attributing.md
 [csc]:https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_categories.md
+[csnio]:https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_naming_identifying_ordering.md

@@ -60,7 +60,7 @@ class BopValidator:
         self._category_graph = dict()
         self._all_categories = dict()
         self._validate_nodeids("IDENTIFIER")
-        self._validate_names("NAME")
+        self._validate_names("NAMING")
         self._validate_orderids("ORDER")
         self._validate_parentids("PARENT")
         self._validate_tree("STRUCTURE")
@@ -105,16 +105,20 @@ class BopValidator:
         :return: None, or raises an Error
         """
         print("   Validating " + err_type)
+        pattern = re.compile(r"^[a-z0-9\-]+$")
         for nodeid in self._unique_nodeids:
             bop_source = self._unique_nodeids[nodeid]
             base_name = FileMgr.get_base_name(bop_source.get_file_name())
             base_name_without_ext = base_name.split(".")[0]
             if base_name_without_ext not in self._unique_file_names:
+                if not re.match(pattern, base_name_without_ext):
+                    msg = "Illegal characters found in filename {0}".format(bop_source.get_file_name())
+                    raise BopValidationError(err_type, "01", msg)
                 self._unique_file_names[base_name_without_ext] = bop_source
             else:
                 duplicate = self._unique_file_names[base_name_without_ext]
-                raise BopValidationError(err_type, "01",
-                                         "Duplicate filename in {0} and {1}".format(duplicate.get_file_name(),
+                raise BopValidationError(err_type, "02",
+                                         "Duplicate filename in\n{0} and\n{1}".format(duplicate.get_file_name(),
                                                                                     bop_source.get_file_name()))
 
     def _validate_orderids(self, err_type: str):

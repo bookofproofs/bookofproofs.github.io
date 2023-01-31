@@ -1071,6 +1071,7 @@ https://bookofproofs.github.io/branches/analysis/complex-exponential-function-pr
 https://bookofproofs.github.io/branches/analysis/continuity-of-exponential-function.html
 https://bookofproofs.github.io/branches/analysis/convergent-sequences-are-bounded-1.html
 https://bookofproofs.github.io/branches/analysis/criteria-for-holomorphic-functions.html
+https://bookofproofs.github.io/branches/analysis/de-moivres-identity-complex-powers.html
 https://bookofproofs.github.io/branches/analysis/general-powers-of-positive-numbers.html
 https://bookofproofs.github.io/branches/analysis/historical-development-of-analysis.html
 https://bookofproofs.github.io/branches/analysis/indefinite-integral-antiderivative.html
@@ -1120,7 +1121,6 @@ https://bookofproofs.github.io/branches/analysis/accumulation-points-complex-num
 https://bookofproofs.github.io/branches/analysis/additivity-theorem-of-tangent-proof.html
 https://bookofproofs.github.io/branches/analysis/cauchy-condensation-criterion-proof.html
 https://bookofproofs.github.io/branches/analysis/continuity-of-cosine-and-sine-proof.html
-https://bookofproofs.github.io/branches/analysis/de-moivres-identity,-complex-powers.html
 https://bookofproofs.github.io/branches/analysis/derivative-differentiable-functions.html
 https://bookofproofs.github.io/branches/analysis/derivative-of-the-natural-logarithm.html
 https://bookofproofs.github.io/branches/analysis/finite-and-sigma-finite-pre-measure.html
@@ -1401,6 +1401,7 @@ https://bookofproofs.github.io/branches/analysis/complex-convergent-sequences-ar
 https://bookofproofs.github.io/branches/analysis/continuity-of-exponential-function-proof.html
 https://bookofproofs.github.io/branches/analysis/convergent-complex-sequences-are-bounded.html
 https://bookofproofs.github.io/branches/analysis/convergent-sequences-are-bounded-1-proof.html
+https://bookofproofs.github.io/branches/analysis/de-moivres-identity-complex-powers-proof.html
 https://bookofproofs.github.io/branches/analysis/differential-operations-on-vector-fields.html
 https://bookofproofs.github.io/branches/analysis/eveness-of-the-cosine-of-a-real-variable.html
 https://bookofproofs.github.io/branches/analysis/general-powers-of-positive-numbers-proof.html
@@ -1457,7 +1458,6 @@ https://bookofproofs.github.io/branches/algebra/first-isomorphism-theorem-for-gr
 https://bookofproofs.github.io/branches/algebra/sles-revised-in-the-light-of-vector-spaces.html
 https://bookofproofs.github.io/branches/algebra/solving-simple-systems-of-linear-equations.html
 https://bookofproofs.github.io/branches/analysis/convergence-of-complex-conjugate-sequence.html
-https://bookofproofs.github.io/branches/analysis/de-moivres-identity,-complex-powers-proof.html
 https://bookofproofs.github.io/branches/analysis/derivative-of-a-linear-function-ax-plus-b.html
 https://bookofproofs.github.io/branches/analysis/derivative-of-the-natural-logarithm-proof.html
 https://bookofproofs.github.io/branches/analysis/gamma-function-interpolates-the-factorial.html
@@ -2010,6 +2010,7 @@ https://bookofproofs.github.io/branches/set-theory/set-theoretical-meaning-of-or
 https://bookofproofs.github.io/branches/set-theory/zorn-lemma-is-equivalent-to-the-axiom-of-choice.html
 https://bookofproofs.github.io/branches/theoretical-computer-science/basic-algorithms/and-or-trees.html
 https://bookofproofs.github.io/branches/topology/modulus-of-continuity-is-monotonically-increasing.html
+https://bookofproofs.github.io/branches/topology/topological-continuous-open-and-closed-invariants.html
 https://bookofproofs.github.io/branches/algebra/calculation-rules-in-a-group-with-additive-notation.html
 https://bookofproofs.github.io/branches/algebra/characterization-of-dependent-absolute-values-proof.html
 https://bookofproofs.github.io/branches/algebra/characterization-of-non-archimedean-absolute-values.html
@@ -2200,7 +2201,6 @@ https://bookofproofs.github.io/branches/theoretical-computer-science/numerical-a
 https://bookofproofs.github.io/branches/theoretical-computer-science/optimization-methods/fuzzy-logic.html
 https://bookofproofs.github.io/branches/theoretical-physics/quantum-field-theory/quantum-field-theory.html
 https://bookofproofs.github.io/branches/topology/metric-spaces-are-hausdorff-spaces-topological-proof.html
-https://bookofproofs.github.io/branches/topology/topological,-continuous,-open,-and-closed-invariants.html
 https://bookofproofs.github.io/branches/algebra/a-field-with-an-absolute-value-is-a-metric-space-proof.html
 https://bookofproofs.github.io/branches/algebra/characteristic-zero-instead-of-characteristic-infinite.html
 https://bookofproofs.github.io/branches/algebra/kernel-and-image-of-a-group-homomorphism-are-subgroups.html

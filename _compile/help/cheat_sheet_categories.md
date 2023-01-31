@@ -11,14 +11,16 @@ its categories are comma-separated like
 
     categories: branches,algebra,group-theory
 
-the resulting **target file** will become  
+the resulting **target file** (permalink) will be  
 
     https://bookofproofs.github.io/branches/algebra/group-theory/example.html
 
-It is important to know that the location of the **source file** `example.md` in the repository can be anywhere (!) inside 
-the folder `_sources` or one of its subfolders. 
-This location does not (!) influence the location of the target file, only the categories do. Nevertheless, the 
-folder structure below `_sources` may be useful to sort all source files by subject.   
+It is important to know that you can locate the **source file** `example.md` anywhere (!) in the repository inside 
+the folder `_sources` or one of its subfolders. This location does not (!) influence the location of the permalink, 
+only the categories and the name of the source file do. 
+
+Nevertheless, the folder structure below `_sources` will often follow the structure of the published permalinks
+as to simplify finding the corresponding source files by their location.   
 
 ## Exceptions 
 
