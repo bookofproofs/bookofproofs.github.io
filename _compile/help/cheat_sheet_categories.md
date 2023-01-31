@@ -7,7 +7,7 @@ Use the (mandatory) property
     categories: 
 
 in the front matter to influence the url of the resulting page. For instance, if your markdown file's name is `example.md` and 
-its categories are 
+its categories are comma-separated like 
 
     categories: branches,algebra,group-theory
 

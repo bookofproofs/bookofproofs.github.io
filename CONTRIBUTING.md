@@ -45,11 +45,13 @@ Once you are ready with your editions:
 Please check out our cheat sheets
 
 1. [cheat_sheet_source_files.md][cssf]
-2. [cheat_sheet_layouts][csl]
-3. [cheat_sheet_categories][csc]
-4. (more cheat sheets to come)
+1. [cheat_sheet_attributing][csa]
+1. [cheat_sheet_layouts][csl]
+1. [cheat_sheet_categories][csc]
+1. (more cheat sheets to come)
 
 [cssf]:https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_source_files.md
+[csa]:https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_attributing.md
 [csl]:https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_layouts.md
 [csc]:https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_categories.md
 
