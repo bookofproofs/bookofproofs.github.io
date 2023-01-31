@@ -31,7 +31,22 @@ solution| |Solution to the problem or riddle
 epoch|Historical epoch|Lists chronologically the events related to mathematics
 topic|Historical development of a topic|Unstructured article  
 
-### "Common Thread" - the Structure of layouts 
+The layout property will influence the title of your page. For instance, the front matter
+
+    layout: definition
+    ...
+    title: Order Of Natural Numbers 
+
+would result in the following title of the published page: 
+
+> "Definition: Order Of Natural Numbers"
+
+Moreover, the layout will influence the building block, under which users will find your page in the published
+[building blocks index][bbi]. 
+
+[bbi]:https://bookofproofs.github.io/index/bb-index.html
+
+### "Common Thread" - the Structure of Layouts 
 
 <strong><span style='color:orange'>Bo</span><span style='color:lightblue'>P</span></strong> facilitates mathematical education. Contributors and authors can organize their posts from "easy" to "more difficult" mathematical concepts.
 Unlike wiki pages in which each article is self-contained and widely independent from other articles,

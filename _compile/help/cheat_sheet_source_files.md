@@ -32,12 +32,10 @@ In some cases you might need a 4th section separated from the other three by ano
 
 ## Properties in Front Matter - Overview
 
-The first section is the so-called **front matter**. Here you put a list of properties of your template. 
-These properties tell the compiler to process your markdown file specifically. Some properties are optional, 
-some mandatory, depending on the property `layout`. 
+The first section is the so-called **front matter**. It contains a list of properties influencing the way your page 
+will look like.  
 
-The following table explains which properties are where possible
-and what they mean:
+The following table provides an overview of the available front matter properties.
 
 Property | Meaning | Possible values | Example 
 :-----|:------ |:------ |:------ 
