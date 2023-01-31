@@ -3,6 +3,7 @@ import re
 import html
 
 from FileMgr import FileMgr
+from BopValidationError import BopValidationError
 
 
 class BopLayouts:
@@ -45,7 +46,7 @@ class BopSource:
         source = self.fm.get_file_content("_sources", file_name)
         contents = re.split("^---$", source, flags=re.M)
         if len(contents) != 3 and len(contents) != 4:
-            raise AssertionError("Malformed front matter found in " + file_name)
+            raise BopValidationError("E01", "Malformed front matter found in " + file_name)
         if len(contents) == 3:
             self._pre_body = contents[1].strip()
             self._body = contents[2].strip()
@@ -102,7 +103,7 @@ class BopSource:
             if prop != "":
                 property_name = re.search("\w+:", prop)
                 if property_name is None:
-                    raise AssertionError("Malformed property " + properties + " in " + self._file_name)
+                    raise BopValidationError("E02", "Malformed property " + properties + " in " + self._file_name)
                 else:
                     prop_split = list()
                     prop_split.append(property_name.string[0:property_name.span()[1] - 1])

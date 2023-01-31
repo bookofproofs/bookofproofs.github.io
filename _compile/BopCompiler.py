@@ -119,7 +119,7 @@ class BopCompiler:
                 bop_source = BopSource(file)
                 self._source_licenses.append(bop_source)
                 if bop_source.nodeid in self._source_licenses_ids:
-                    raise AssertionError("Duplicate license " + bop_source.nodeid + " in " + bop_source.get_file_name())
+                    raise Bop("Duplicate license " + bop_source.nodeid + " in " + bop_source.get_file_name())
                 else:
                     self._source_licenses_ids.add(bop_source.nodeid)
             else:
@@ -266,9 +266,9 @@ class BopCompiler:
         # self.fm.copy_folder("../_sources/_assets/images", "../docs/assets/images")
         self.fm.copy_file("../_sources/_assets/images/fav.ico", "../docs/fav.ico")
         # google site verification
-        self.fm.copy_file("../_sources/_assets/google5e9ab19be7343012.html", "../docs/google5e9ab19be7343012.html")
+        self.fm.copy_file("../_sources/_assets/other/google5e9ab19be7343012.html", "../docs/google5e9ab19be7343012.html")
         # fpl syntax diagrams
-        self.fm.copy_file("../_sources/_assets/other/FPLSyntaxDiagrams.xhtml", "../docs/FPLSyntaxDiagrams.xhtml")
+        self.fm.copy_file("../_sources/_assets/other/FPLSyntaxDiagrams.xhtml", "../docs/FPLSyntaxDiagrams.html")
 
     def _compile_sub_assets(self, sub):
         sub_contents = self.fm.get_folder_content("_sources/_assets/" + sub)

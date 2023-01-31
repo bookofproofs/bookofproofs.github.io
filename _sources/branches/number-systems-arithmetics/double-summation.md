@@ -14,6 +14,7 @@ contributors: bookofproofs
 
 ---
 
-A series `\(a_{ij}\in S\)` of a given [commutative semigroup][bookofproofs$1103] `\(a_i,a_j\in(S, +)\)`, can be summed in two different ways, giving the same result.
+A series `\(a_{ij}\in S\)` of a given  [commutative][bookofproofs$672] 
+[semigroup][bookofproofs$660] `\(a_i,a_j\in(S, +)\)`, can be summed in two different ways, giving the same result.
 
-`\[\sum_{i=1}^n\sum_{j=1}^m a_{ij}=\sum_{j=1}^m\sum_{i=1}^n a_{ij}\]`
+`\[\sum_{i=1}^n\sum_{j=1}^m a_{ij}=\sum_{j=1}^m\sum_{i=1}^n a_{ij}.\]`

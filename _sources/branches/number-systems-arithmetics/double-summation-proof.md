@@ -16,4 +16,5 @@ contributors: bookofproofs
 
 The rule of double summation
 `\[\sum_{i=1}^n\sum_{j=1}^m a_{ij}=\sum_{j=1}^m\sum_{i=1}^n a_{ij}\]`
-is a direct corollary from the [general associativity law][bookofproofs$540] and is valid for summing of elements of any [commutative semigroup][bookofproofs$1103] `\(a_i,a_j\in(S, +)\)`.
+is a direct corollary from the [general associativity law][bookofproofs$540] and is valid for summing of elements of 
+any [commutative][bookofproofs$672] [semigroup][bookofproofs$660] `\(a_i,a_j\in(S, +)\)`.
