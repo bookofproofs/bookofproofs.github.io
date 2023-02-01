@@ -1853,7 +1853,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Moser_William/">William Moser</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Taniyama/">Yutaka Taniyama</a>
-: A Japanese mathematician best known for the Tanayama-Shimura conjecture, whose proof led to a proof of Fermat's Last Theorem.
+: A Japanese mathematician best known for the Tanayama-Shimura conjecture, whose proof led to a proof of <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fermat/">Fermat</a>'s Last Theorem.
 
 ### 1928 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Grothendieck/">Alexander Grothendieck</a>

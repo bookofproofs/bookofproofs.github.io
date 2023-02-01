@@ -15,4 +15,4 @@ issues: broken-links
 
 ---
 
-Rover's present age is ten years and Mildred's thirty years. Five years ago their respective ages were five and twenty-five. Remember that we said "four times older than the dog," which is the same as "five times as old." (See "answer to 'A Census Puzzle' ":https://www.bookofproofs.org/branches/a-census-puzzle/solution/.)
+Rover's present age is ten years and Mildred's thirty years. Five years ago their respective ages were five and twenty-five. Remember that we said "four times older than the dog," which is the same as "five times as old." (See [answer to 'A Census Puzzle'][bookofproofs$7426].)

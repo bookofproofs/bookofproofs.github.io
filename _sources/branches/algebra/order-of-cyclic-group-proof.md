@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-By hypothesis, `\((G,\ast)\)` is a "cyclic group":https://www.bookofproofs.org/branches/cyclic-group/ with a [finite][bookofproofs$985] [group order][bookofproofs$8071] i.e. `\(|G|=n < \infty,\)`, `\(e\in G\)` the [neutral element][bookofproofs$661] and `$a\in G.$` 
+By hypothesis, `\((G,\ast)\)` is a [cyclic group][bookofproofs$807] with a [finite][bookofproofs$985] [group order][bookofproofs$8071] i.e. `\(|G|=n < \infty,\)`, `\(e\in G\)` the [neutral element][bookofproofs$661] and `$a\in G.$` 
 
 ### Proof of (1)
 

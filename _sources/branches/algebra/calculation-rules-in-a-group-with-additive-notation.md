@@ -28,7 +28,7 @@ For instance, in the additive notation, the above [calculation rules in a group]
 1. `\(x_1 + x_2 + x_3 + \ldots + x_n:=(\ldots((x_1 + x_2) + x_3) + \ldots + x_n\)` holds for all `\(x_i\in G\)`.
 1. `\(x_{k_1} + x_{k_2} + \ldots + x_{k_n}=x_{1} + x_{2} + \ldots + x_{n}\)`
 
-The "corresponding proof":[bookofproofs$555]proof/ of these (seemingly different) rules is exactly the same except for the notation. Please try to write down the proof in the additive notation it as an exercise!
+The [corresponding proof][bookofproofs$555] of these (seemingly different) rules is exactly the same except for the notation. Please try to write down the proof in the additive notation it as an exercise!
 
 Similarly, while the [exponentiation in a group][bookofproofs$401] is a new operation, which can be defined, if you use the multiplicative notation `$(G,\ast)$`, the same can be done in the additive case `$(G, + ).$` Here, instead of an "exponentiation", we can define a "multiplication" as a new operation and explain it in terms of addition. To be more concrete, for an integer `$n\in \mathbb Z$`, we can define:
 
@@ -60,7 +60,7 @@ If the group is [Abelian][bookofproofs$553], then
 \end{array}
 \]`
 
-Again, the "proof":[bookofproofs$676]proof/ would be exactly the same (try it as an exercise!).
+Again, the [proof][bookofproofs$676] would be exactly the same (try it as an exercise!).
 
 Please note that the exponentiation rules - written down in the additive notation - are strongly reminiscent of a kind of a "distributivity rule" for groups. 
 

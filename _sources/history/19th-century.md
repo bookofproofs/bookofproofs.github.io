@@ -2461,7 +2461,7 @@ _(no contents provided yet)_
 : A French mathematician who was a pioneer of mathematical economics.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Mordell/">Louis Joel Mordell</a>
-: Mordell is best known for his investigations of equations of the form of y2 = x3 + k which had been studied by Fermat.
+: Mordell is best known for his investigations of equations of the form of y2 = x3 + k which had been studied by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fermat/">Fermat</a>.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bernays/">Paul Isaac Bernays</a>
 : A Swiss mathematician, who made important contributions to mathematical logic, axiomatic set theory, and the philosophy of mathematics. He is the B in the NBG axiom system.

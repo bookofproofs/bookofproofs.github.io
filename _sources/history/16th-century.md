@@ -22,12 +22,12 @@ _(no contents provided yet)_
 ### 1500 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Jyesthadeva/">Jyesthadeva</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Tartaglia/">Nicolo Tartaglia</a>
-: An Italian mathematician who was famed for his algebraic solution of cubic equations which was eventually published in Cardan's Ars Magna.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Tartaglia/">Niccolò Tartaglia</a>
+: An Italian mathematician who was famed for his algebraic solution of cubic equations which was eventually published in Cardan's "Ars Magna".
 
 ### 1501 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cardan/">Girolamo Cardan</a>
-: An Italian doctor and mathematician who is famed for his work Ars Magna which was the first Latin treatise devoted solely to algebra. In it he gave the methods of solution of the cubic and quartic equations which he had learnt from Tartaglia.
+: An Italian doctor and mathematician who is famed for his work Ars Magna which was the first Latin treatise devoted solely to algebra. In it he gave the methods of solution of the cubic and quartic equations which he had learnt from <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Tartaglia/">Tartaglia</a>.
 
 ### 1502 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Nunes/">Pedro Nunes Salaciense</a>

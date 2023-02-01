@@ -32,7 +32,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/De_Beaune/">Florimond de Beaune</a>
 : A French jurist and amateur mathematician who produced the first important introduction to Descartes' cartesian geometry.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fermat/">Pierre de Fermat</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fermat/">de Fermat, Pierre</a>
 : A French lawyer and government official most remembered for his work in number theory; in particular for Fermat's Last Theorem. He is also important in the foundations of the calculus.
 
 ### 1602 
@@ -44,7 +44,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Greaves_John/">John Greaves</a>
 
 ### 1604 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Frenicle_de_Bessy/">Bernard Frenicle de Bessy</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Frenicle_de_Bessy/">Bernard Frénicle de Bessy</a>
 : A French amateur mathematician who is best known for his contributions to number theory.
 
 ### 1605 
@@ -78,7 +78,7 @@ _(no contents provided yet)_
 ### 1611 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hevelius_Johannes/">Johannes Hevelius</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Pell/">John Pell</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Pell/">Pell, John</a>
 : An English mathematician best known for Pell's equation which in fact he had little to do with.
 
 ### 1612 

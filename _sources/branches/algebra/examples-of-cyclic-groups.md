@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-The following are examples of "cyclic groups":https://www.bookofproofs.org/branches/cyclic-group/:
+The following are examples of [cyclic groups][bookofproofs$807]:
 
 * The integers under addition `$(\mathbb Z, + )$` form a cyclic group with the generator `$1$` and the generator `$-1$`. There are no other generators. 
 * Given a positive integer `$n$`, the `$n$`-th roots of unity in the complex numbers form a cyclic group of order `$n$`, i.e. the complex exponential function `$\exp(2\pi i/n)$` is a generator of this group. Also, if `$r$` is relatively prime to `$n$`, then `$\exp(2\pi ir/n)$` is a generator of this group.

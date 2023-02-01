@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-The following theorem was stated by "Pierre de Fermat":https://www.bookofproofs.org/history/pierre-de-fermat/ in 1630 when he first studied "Diophantus's":https://www.bookofproofs.org/history/diophantos-of-alexandria// _Arithmetica._ He wrote: 
+The following theorem was stated by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fermat/">Pierre de Fermat</a> in 1630 when he first studied "Diophantus's":https://www.bookofproofs.org/history/diophantos-of-alexandria// _Arithmetica._ He wrote: 
 
 > _I have discovered a truly remarkable proof which this margin is too small to contain._
 

@@ -10,7 +10,7 @@ keywords: twin primes sieve,twin primes sequence
 contributors: bookofproofs
 
 ---
-It is well-known that using the [sieve of Eratosthenes][bookofproofs$6402], we can generate the sequence of primes `$2,3,5,7,11,13,17,19,\ldots\), which is known to be [infinite][bookofproofs$507].
+It is well-known that using the [sieve of Eratosthenes][bookofproofs$6402], we can generate the sequence of primes `$2,3,5,7,11,13,17,19,\ldots\)`, which is known to be [infinite][bookofproofs$507].
 It is a longstanding problem to prove if there are (or there are not) infinitely many [twin primes][bookofproofs$233] `\((3,5),~(5,7),~(11,13),~(17,19),~(29,31),\ldots\)`.
 
 There exists an efficient method[^6913] to sieve all twin primes of the form `\((6k-1,6k+1)\)`, `\(k=1,2,\ldots\)`. 

@@ -15,4 +15,4 @@ contributors: bookofproofs
 
 ---
 
-Let `\((G,\ast)\)` be a finite "cyclic":https://www.bookofproofs.org/branches/cyclic-group/ group, i.e. `\(|G|=n < \infty\)` and let `\(d\mid n\)` be a divisor of `\(n\)`. Then there exists exactly one [subgroup][bookofproofs$554] `\(H\subseteq G\)` with `\(|H|=d\)`.
+Let `\((G,\ast)\)` be a finite [cyclic group][bookofproofs$807], i.e. `\(|G|=n < \infty\)` and let `\(d\mid n\)` be a divisor of `\(n\)`. Then there exists exactly one [subgroup][bookofproofs$554] `\(H\subseteq G\)` with `\(|H|=d\)`.
