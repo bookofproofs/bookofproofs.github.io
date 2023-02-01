@@ -59,7 +59,7 @@ _(no contents provided yet)_
 
 ### 200 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Diophantus/">Diophantus of Alexandria</a>
-: A Greek mathematician, sometimes known as "the father of algebra", who is best known for his _Arithmetica_. This had an enormous influence on the development of [number theory][bookofproofs$62].
+: A Greek mathematician, sometimes known as "the father of algebra", who is best known for his "Arithmetica". This had an enormous influence on the development of [number theory][bookofproofs$62].
 
 ### 220 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Liu_Hui/">Liu Hui</a>

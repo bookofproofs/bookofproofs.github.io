@@ -53,6 +53,7 @@ _(no contents provided yet)_
 
 ### 790 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Al-Khwarizmi/">Abu Ja'far Muhammad ibn Musa Al-Khwarizmi</a>
+: An Islamic mathematician who wrote on Hindu-Arabic numerals. The word algorithm derives from his name. His algebra treatise "Hisab al-jabr w'al-muqabala" gives us the word algebra and can be considered as the first book to be written on algebra.
 
 ### 800 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Al-Jawhari/">al-Abbas ibn Said Al-Jawhari</a>
@@ -73,7 +74,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Banu_Musa_Ahmad/">Ahmad Banu Musa</a>
 : One of the three Bana Musa brothers. He wrote about mechanics. 
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Al-Kindi/">Al-Kindi, Abu Yusuf Yaqub ibn Ishaq al-Sabbah</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Al-Kindi/">Abu Yusuf Yaqub ibn Ishaq al-Sabbah Al-Kindi</a>
 : Al-Kindi was an Islamic mathematician who wrote on the Indian mumber system as well as geometry and optics. 
 
 ### 808 

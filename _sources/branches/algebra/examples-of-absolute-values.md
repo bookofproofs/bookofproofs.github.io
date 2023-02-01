@@ -16,7 +16,7 @@ contributors: bookofproofs
 
 ### Trivial Absolute Value
 
-Let `$F$` be a [field][bookofproofs$557]. The [constant function][bookofproofs$6342]":https://www.bookofproofs.org/branches/partial-total-maps/ `$|\cdot|:F\to\mathbb R$` with `$|x|=1$` for all `$x\neq 0$` is an absolute value and a valuation on `$F$`. It is called the **trivial absolute value**.
+Let `$F$` be a [field][bookofproofs$557]. The [constant function][bookofproofs$6342] `$|\cdot|:F\to\mathbb R$` with `$|x|=1$` for all `$x\neq 0$` is an absolute value and a valuation on `$F$`. It is called the **trivial absolute value**.
 
 ### P-adic Absolute Value
 

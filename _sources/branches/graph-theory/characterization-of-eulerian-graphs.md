@@ -16,4 +16,4 @@ contributors: bookofproofs
 ---
 
 A [simple graph][bookofproofs$523] `\(G(V,E)\)` is [Eulerian][bookofproofs$6348], if and only if it is [connected][bookofproofs$1166] and every vertex has an [even][bookofproofs$8130] [degree][bookofproofs$362].
-This theorem is due to the Swiss mathematician "Leonhard Euler":https://www.bookofproofs.org/history/leonhard-euler/.
+This theorem is due to the Swiss mathematician<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Euler/">Leonhard Euler</a> (1707 - 1783).

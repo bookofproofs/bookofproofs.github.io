@@ -8,7 +8,6 @@ description: PAPA'S PUZZLE &#9733; bring your math skills to the graduate level 
 references: bookofproofs$6929
 keywords: geometrical,puzzles,various,solution
 contributors: bookofproofs
-issues: broken-links
 
 ---
 

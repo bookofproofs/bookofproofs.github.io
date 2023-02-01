@@ -15,4 +15,4 @@ contributors: bookofproofs
 
 ---
 
-Let `\((G,\ast)\)` be a [cyclic group][bookofproofs$807] and `\(H\subseteq G\)` its [subgroup][bookofproofs$554]. Then `\(H\)` is again "cyclic":https://www.bookofproofs.org/branches/cyclic-group/. In other words, each subgroup of a cyclic group is a cyclic group.
+Let `\((G,\ast)\)` be a [cyclic group][bookofproofs$807] and `\(H\subseteq G\)` its [subgroup][bookofproofs$554]. Then `\(H\)` is again [cyclic][bookofproofs$807]. In other words, each subgroup of a cyclic group is a cyclic group.

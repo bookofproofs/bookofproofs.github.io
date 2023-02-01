@@ -120,7 +120,7 @@ bookofproofs$6925 | bookofproofs$8234 | **Neunhäuserer, Jörg**: "Mathematisch 
 bookofproofs$6925 | bookofproofs$6259 | **Pade, Jochen**: "Quantenmechanik zu Fuß", Springer Spectrum, 2012, Band 1, 2nd Edition
 bookofproofs$6925 | bookofproofs$8233 | **Pickover, Clifford**: "Das Mathebuch", Libero, 2009
 bookofproofs$6925 | bookofproofs$6913 | **Piotrowski, Andreas**: "Anmerkungen zur Verteilung der Primzahlzwillinge", Master’s thesis, Frankfurt am Main, 1999 
-bookofproofs$6925 | bookofproofs$1591 | **Piotrowski, Andreas**: "bookofproofs.org", Own Work, 2014
+bookofproofs$6925 | bookofproofs$1591 | **Piotrowski, Andreas**: Own Research, 2014
 bookofproofs$6925 | bookofproofs$1258 | **Reingold, E.M; Nievergelt, J;Deo, N.**: "Combinatorial Algorithms - Theory and Practice", Prentice-Hall, 1977 
 bookofproofs$6925 | bookofproofs$979 | **Reinhardt F., Soeder H.**: "dtv-Atlas zur Mathematik", Deutsche Taschenbuch Verlag, 1994, 10th Edition
 bookofproofs$6925 | bookofproofs$512 | **Ribenboim Paolo**: "The Little Book of Bigger Primes", Springer New York, 2004, 2nd Edition
@@ -142,7 +142,7 @@ bookofproofs$6925 | bookofproofs$8255 | **Trachtenbrot, B.A.**: "Algorithmen und
 bookofproofs$6925 | bookofproofs$886 | **Tuschik, H.P., Wolter, H.**: "Mathematische Logik - kurzgefasst", Bibliograpfisches Institut &#38; F.A. Brockhaus AG, Mannheim, 1994
 bookofproofs$6925 | bookofproofs$8253 | **Tutschke, W.**: "Grundlagen der reellen Analysis, II Integralrechnung", VEB Deutscher Verlag der Wissenschaften, 1972
 bookofproofs$6925 | bookofproofs$6267 | **Weingärtner, Andreas**: "Spezielle Relativitätstheorie - ganz einfach", Books On Demand, 2016
-bookofproofs$6925 | bookofproofs$1038 | **Wille, D; Holz, M **: "Repetitorium der Linearen Algebra", Binomi Verlag, 1994
+bookofproofs$6925 | bookofproofs$1038 | **Wille, D; Holz, M**: "Repetitorium der Linearen Algebra", Binomi Verlag, 1994
 bookofproofs$6925 | bookofproofs$8235 | **Wüstholz, Gisbert**: "Algebra, für Studierende der Mathematik, Physik, Informatik", Springer Spektrum, 2013, 2nd Edition
 bookofproofs$6925 | bookofproofs$8245 | **Wußing, H.**: "Vorlesungen zur Geschichte der Mathematik", Studienbücherei, 1979
 bookofproofs$6925 | bookofproofs$6288 | **Ziegler, Günter M.**: "Lectures on Polytopes", Springer Verlag, 1994

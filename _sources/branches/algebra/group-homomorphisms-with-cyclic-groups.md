@@ -15,4 +15,4 @@ contributors: bookofproofs
 
 ---
 
-Let `\((G,\ast)\)` be any group under the operation "`\(\ast\)`" and let `\((\mathbb Z,+)\)` be the group of all integers under the operation "`\(+\)`" (addition). `\(G\)` is "cyclic":https://www.bookofproofs.org/branches/cyclic-group/, if and only if there is a [surjective][bookofproofs$770] [group homomorphism][bookofproofs$679] `\(f:\mathbb Z\mapsto G\)`.
+Let `\((G,\ast)\)` be any group under the operation "`\(\ast\)`" and let `\((\mathbb Z,+)\)` be the group of all integers under the operation "`\(+\)`" (addition). `\(G\)` is [cyclic][bookofproofs$807], if and only if there is a [surjective][bookofproofs$770] [group homomorphism][bookofproofs$679] `\(f:\mathbb Z\mapsto G\)`.

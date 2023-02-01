@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-This law conjectured by "Leonhard Euler":https://www.bookofproofs.org/history/leonhard-euler/ (1707 – 1783) and first proven by "Carl Friedrich Gauss":https://www.bookofproofs.org/history/johann-carl-friedrich-gauss/ (1777 - 1855).
+This law conjectured by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Euler/">Leonhard Euler</a> (1707 – 1783) and first proven by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Gauss/">Carl Friedrich Gauss</a> (1777 - 1855).
 
 ---
 

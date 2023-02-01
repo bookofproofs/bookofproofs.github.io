@@ -26,6 +26,6 @@ contributors: bookofproofs
 * Because the [multiplication of rational numbers is commutative][bookofproofs$1478], the left cancellation property follows immediately. 
 * Altogether, we have shown that the multiplication of rational numbers is [cancellative][bookofproofs$837]: `$$x\cdot z=y\cdot z\Longleftrightarrow x=y,$$` for all `$x,y,z\in\mathbb Q$` with `$z\neq 0.$`
 
-[^1]: Here, the symbol "`$0$`" denotes the [zero][bookofproofs$1684] defined for for rational numbers.
+[^1]: Here, the symbol "`$0$`" denotes the [zero][bookofproofs$1684] defined for rational numbers.
 
 [^2]: Here, the symbol "`$0$`" denotes the [zero][bookofproofs$1682] defined for integers.

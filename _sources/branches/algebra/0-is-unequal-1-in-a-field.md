@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-In any [field][bookofproofs$557] `$(F,+,\cdot)$`, the elements `$0\in F$` and `$1\in F$` are not equal, formally `$0\neq 1.$`
+In any [field][bookofproofs$557] `$(F,+,\cdot)$`, the elements `$0\in F$` and `$1\in F$` are not equal, formally `$0\neq 1$`.

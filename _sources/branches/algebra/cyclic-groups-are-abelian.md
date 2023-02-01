@@ -15,4 +15,4 @@ contributors: bookofproofs
 
 ---
 
-Every "cyclic":https://www.bookofproofs.org/branches/cyclic-group/ group is also [Abelian][bookofproofs$553].
+Every [cyclic group][bookofproofs$807] is also [Abelian][bookofproofs$553].

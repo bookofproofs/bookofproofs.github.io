@@ -19,7 +19,7 @@ contributors: bookofproofs,@fitzpatrick
 * Let `$ABC$`, `$DEF$`, and `$GHK$` be three [rectilinear angles][bookofproofs$650], of which the sum of any) two is greater than the remaining (one), (the [angles][bookofproofs$650]) being taken up in any (possible way) - (that is), `$ABC$` and `$DEF$` (greater) than `$GHK$`, `$DEF$` and `$GHK$` (greater) than `$ABC$`, and, further, `$GHK$` and `$ABC$` (greater) than `$DEF$`.
 * And let `$AB$`, `$BC$`, `$DE$`, `$EF$`, `$GH$`, and `$HK$` be equal [straight lines][bookofproofs$645].
 * And let `$AC$`, `$DF$`, and `$GK$` have been joined.
-* I say that that it is possible to construct a [triangle][bookofproofs$6432] out of ([straight lines][bookofproofs$645]) equal to `$AC$`, `$DF$`, and `$GK$` - that is to say, that (the sum of) any two of `$AC$`, `$DF$`, and `$GK$` is greater than the remaining (one).
+* I say that it is possible to construct a [triangle][bookofproofs$6432] out of ([straight lines][bookofproofs$645]) equal to `$AC$`, `$DF$`, and `$GK$` - that is to say, that (the sum of) any two of `$AC$`, `$DF$`, and `$GK$` is greater than the remaining (one).
 
 ![fig22e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book11/fig22e.png?raw=true)
 

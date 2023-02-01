@@ -18,7 +18,7 @@ contributors: bookofproofs,@fitzpatrick
 
 
 * For let the two [incommensurable][bookofproofs$1095] magnitudes `$AB$` and `$BC$` be laid down together.
-* I say that that the whole `$AC$` is also [incommensurable][bookofproofs$1095] with each of `$AB$` and `$BC$`.
+* I say that the whole `$AC$` is also [incommensurable][bookofproofs$1095] with each of `$AB$` and `$BC$`.
 
 ![fig015e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book10/fig015e.png?raw=true)
 

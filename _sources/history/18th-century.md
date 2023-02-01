@@ -710,7 +710,7 @@ a theorem named after the death of Bayes the [Bayes' theorem][bookofproofs$464].
 : A French mathematician best known for his formula for the Legendre polynomials.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Carlyle/">Thomas Carlyle</a>
-: A Scottish writer who was also interested in mathematics. He translated Legendre's work Ééments de géométrie.
+: A Scottish writer who was also interested in mathematics. He translated Legendre's work "Éléments de géométrie".
 
 ### 1796 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Quetelet/">Lambert Adolphe Jacques Quetelet</a>

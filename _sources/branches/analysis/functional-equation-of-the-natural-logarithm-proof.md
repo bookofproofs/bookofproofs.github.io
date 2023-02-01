@@ -25,4 +25,4 @@ With these substitutions and the equation `\( ( * ) \)`, we get:
 \xi+\eta&=&\ln(x\cdot y)\\
 \ln (x)+\ln (y)&=&\ln(x\cdot y)
 \end{array}\]`
-for for all [positive real numbers][bookofproofs$1107] `\(x,y\in\mathbb R_+^*\)`. It follows that the [natural logarithm][bookofproofs$1421] fulfills the [functional equation][bookofproofs$6726] `$\ln(xy)=\ln(x) + \ln(y).$`
+for all [positive real numbers][bookofproofs$1107] `\(x,y\in\mathbb R_+^*\)`. It follows that the [natural logarithm][bookofproofs$1421] fulfills the [functional equation][bookofproofs$6726] `$\ln(xy)=\ln(x) + \ln(y).$`

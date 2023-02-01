@@ -16,6 +16,6 @@ contributors: bookofproofs
 
 This part is dedicated to *"basic algorithms"*. The notion "basic algorithm" is quite artificial. However, it is used here to differentiate from algorithms applying numerical or number-theoretical methods. 
 
-As such, a basic algorithm in terms of this part of bookofproofs.org will be any algorithm dealing with searching, hashing, sorting, matching, traversing graphs, finding graphs, rather then with solving numerical problems. 
+As such, a basic algorithm in terms of this part of <strong><span style='color:orange'>BookOf</span><span style='color:lightblue'>Proofs</span></strong> will be any algorithm dealing with searching, hashing, sorting, matching, traversing graphs, finding graphs, rather then with solving numerical problems. 
 
 Another distinction used here to distinguish a "basic algorithm" from other types of algorithms will be that the objects they operate on are [data-structures][bookofproofs$106] rather than mathematical objects like numbers or equations.

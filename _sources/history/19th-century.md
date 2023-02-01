@@ -288,7 +288,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Foucault/">Jean Bernard Léon Foucault</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bonnet/">Pierre Ossian Bonnet</a>
-: A French mathematician who worked in the differential geometry of surfaces. He proved the Gauss Bonnet theorem.
+: A French mathematician who worked in the differential geometry of surfaces. He proved the Gauss-Bonnet theorem.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Aronhold/">Siegfried Heinrich Aronhold</a>
 : Siegfried Aronhold made important contributions to the theory of invariants.

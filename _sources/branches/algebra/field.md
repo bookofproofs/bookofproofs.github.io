@@ -31,4 +31,4 @@ A [commutative unit ring][bookofproofs$880] `$R$` (with the [multiplicative neut
 
 ### Notes
 
-* In some books, you will also encounter the axiom `$1\neq 0.$` This axiom will be proven later from the remaining axioms given above and the requirement that `$R$` must not be the [zero ring][bookofproofs$879].
+* In some books, you will also encounter the axiom `$1\neq 0$`. This axiom [will be proven later][bookofproofs$6858] from the remaining axioms given above and the requirement that `$R$` must not be the [zero ring][bookofproofs$879].

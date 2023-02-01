@@ -20,7 +20,7 @@ contributors: bookofproofs,@fitzpatrick
 * And let a ([rectangle][bookofproofs$909]) equal to the fourth [part] of the [ (square) ][bookofproofs$909] on the lesser, `$A$`, falling short by a [square][bookofproofs$909] figure, have been applied to `$BC$`.
 * And let it be the ([rectangle][bookofproofs$909] [contained][bookofproofs$1014]) by `$BDC$`.
 * And let `$BD$` be [incommensurable in length][bookofproofs$1095] with `$DC$`.
-* I say that that the [square][bookofproofs$909] on `$BC$` is greater than the (square on) `$A$` by the [ (square) ][bookofproofs$909] on (some [straight line][bookofproofs$645]) [incommensurable (in length) ][bookofproofs$1095] with ($BC$).
+* I say that the [square][bookofproofs$909] on `$BC$` is greater than the (square on) `$A$` by the [ (square) ][bookofproofs$909] on (some [straight line][bookofproofs$645]) [incommensurable (in length) ][bookofproofs$1095] with ($BC$).
 
 ![fig018e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book10/fig018e.png?raw=true)
 

@@ -97,6 +97,7 @@ _(no contents provided yet)_
 
 ### 1540 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Viete/">François Viète</a>
+: A French amateur mathematician and astronomer who introduced the first systematic algebraic notation in his book In artem analyticam isagoge . He was also involved in deciphering codes.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Van_Ceulen/">Ludolph Van Ceulen</a>
 : A German mathematician who is famed for his calculation of $\pi$ to 35 places. In Germany, $\pi$ used to be called the Ludolphine number.

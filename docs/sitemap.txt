@@ -588,6 +588,7 @@ https://bookofproofs.github.io/branches/set-theory/examples-of-relations.html
 https://bookofproofs.github.io/branches/set-theory/minimal-inductive-set.html
 https://bookofproofs.github.io/branches/set-theory/well-founded-relation.html
 https://bookofproofs.github.io/history/ancient-world/chinese-mathematics.html
+https://bookofproofs.github.io/branches/algebra/0-is-unequal-1-in-a-field.html
 https://bookofproofs.github.io/branches/algebra/characteristic-of-a-field.html
 https://bookofproofs.github.io/branches/algebra/cyclic-groups-are-abelian.html
 https://bookofproofs.github.io/branches/algebra/examples-of-cyclic-groups.html
@@ -869,10 +870,10 @@ https://bookofproofs.github.io/branches/topology/dense-sets-nowhere-dense-sets.h
 https://bookofproofs.github.io/branches/topology/differentiable-manifold-atlas.html
 https://bookofproofs.github.io/branches/topology/differential-form-of-degree-k.html
 https://bookofproofs.github.io/branches/topology/open-function-closed-function.html
+https://bookofproofs.github.io/branches/algebra/0-is-unequal-1-in-a-field-proof.html
 https://bookofproofs.github.io/branches/algebra/classification-of-cyclic-groups.html
 https://bookofproofs.github.io/branches/algebra/cyclic-groups-are-abelian-proof.html
 https://bookofproofs.github.io/branches/algebra/examples-of-group-homomorphisms.html
-https://bookofproofs.github.io/branches/algebra/in-a-field-0-is-unequal-1-proof.html
 https://bookofproofs.github.io/branches/algebra/points-lines-planes-hyperplanes.html
 https://bookofproofs.github.io/branches/algebra/subset-of-powers-is-a-submonoid.html
 https://bookofproofs.github.io/branches/algebra/the-gaussian-method-in-practice.html
@@ -1114,7 +1115,6 @@ https://bookofproofs.github.io/history/prehistory/ca-35-000-22-000-bce-ishango-b
 https://bookofproofs.github.io/branches/algebra/additive-subgroups-of-integers-proof.html
 https://bookofproofs.github.io/branches/algebra/constructions-with-ruler-and-compass.html
 https://bookofproofs.github.io/branches/algebra/first-isomorphism-theorem-for-groups.html
-https://bookofproofs.github.io/branches/algebra/in-a-field-0-is-unequal-1-in-a-field.html
 https://bookofproofs.github.io/branches/algebra/introduction-to-matrices-and-vectors.html
 https://bookofproofs.github.io/branches/algebra/uniqueness-of-inverse-elements-proof.html
 https://bookofproofs.github.io/branches/analysis/accumulation-points-complex-numbers.html
