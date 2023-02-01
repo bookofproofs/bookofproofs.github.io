@@ -20,7 +20,7 @@ It is easy to verify the [reflexivity, symmetry and transitivity][bookofproofs$5
 1. Sets having the same [cardinality][bookofproofs$980].
 1. [Similarity][bookofproofs$2782] of shapes in the plane. Two shapes in a plane are said to be **similar** if one can be transformed into another by a combination of enlargements, reflections, translations or rotations. The similarity of shapes is an equivalence class. The following figure shows two similar shapes.
 
-!=. https://www.bookofproofs.org/graphics/examples/similarshapes1.png!
+![similarshapes1](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/similarshapes1.png?raw=true)
 
 #5. Some cleverly chosen equivalence relations can be used to define [integers][bookofproofs$844], [rational numbers][bookofproofs$1033], and [real numbers][bookofproofs$1105].
 1. Integers having the same [modulus][bookofproofs$1283].

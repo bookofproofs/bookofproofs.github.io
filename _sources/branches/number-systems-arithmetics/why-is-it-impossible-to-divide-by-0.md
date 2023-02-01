@@ -27,16 +27,16 @@ The pragmatism of this argument (i.e. the avoidance of contradictions) might be 
 Imagine that you want to divide a circle (e.g. your pizza) into sectors with an angle `\(\alpha=\frac \Pi 2, \frac \Pi 8, \frac \Pi {32}, \frac \Pi {128}, ...\)`, resulting in the following sectors:
 
 `\(\alpha=\Pi/2\approx 1.5708796...\)`
-!{width:200px;height:200px}https://www.bookofproofs.org/graphics/examples/sectors1.png!
+![sectors1](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/sectors1.png?raw=true)
 
 `\(\alpha=\Pi/8\approx 0.3926990...\)`
-!{width:200px;height:200px}https://www.bookofproofs.org/graphics/examples/sectors2.png!
+![sectors2](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/sectors2.png?raw=true)
 
 `\(\alpha=\Pi/32\approx 0.0981748...\)`
-!{width:200px;height:200px}https://www.bookofproofs.org/graphics/examples/sectors3.png!
+![sectors3](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/sectors3.png?raw=true)
 
 `\(\alpha=\Pi/128\approx 0.0245437...\)`
-!{width:200px;height:200px}https://www.bookofproofs.org/graphics/examples/sectors4.png!
+![sectors1](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/sectors4.png?raw=true)
 
 As `\(\alpha\)` gets smaller (i.e. closer to `\(0\)`), there are more and more pieces you will get. For a very small `\(\alpha\)`, say `\(\alpha=\Pi/100000000000000000\)`, the pieces will get so thin that you won't probably be able to see them (if this is your pizza), and the number of them will get astronomically high. Finally, as `\(\alpha\)` "__almost reaches__" `\(0\)`, the number of pieces will "__almost reach__" infinity. You will probably complain, why do we say "__almost reach__", but not just "__reach__"? At least, we wanted to try out, what happens, if we throw away all bans we learned in the school, and divide our pizza by `\(0\)`, after all?
 

@@ -8,7 +8,6 @@ description: THE CUBIC KNIGHT'S TOUR &#9733; graduate maths &#10004; step by ste
 references: bookofproofs$6929
 keywords: chess,dynamical,puzzles,solution
 contributors: bookofproofs
-issues: broken-links
 
 ---
 

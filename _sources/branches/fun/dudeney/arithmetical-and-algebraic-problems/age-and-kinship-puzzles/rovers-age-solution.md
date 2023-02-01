@@ -8,7 +8,6 @@ description: SOLUTION OF ROVER'S AGE &#9733; graduate maths &#10004; step by ste
 references: bookofproofs$6929
 keywords: age solution,rovers
 contributors: bookofproofs
-issues: broken-links
 
 ---
 

@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-*Quantum mechanics* is, together with Einstein's relativity theory, one of the greatest intellectual achievements in physics of the last century. It is said to be the __best explaining__ model of the reality physicists developed so far, sometimes quantum mechanics is postulated to __be the reality__, not just a model of it. Almost (if not) everything that surrounds us - a table, the Earth, the Sun, light, our bodies, aggregate states (like ice, liquid water, steam) is a manifestation of quantum mechanics.
+*Quantum mechanics* is, together with <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Einstein/">Einstein</a>'s relativity theory, one of the greatest intellectual achievements in physics of the last century. It is said to be the __best explaining__ model of the reality physicists developed so far, sometimes quantum mechanics is postulated to __be the reality__, not just a model of it. Almost (if not) everything that surrounds us - a table, the Earth, the Sun, light, our bodies, aggregate states (like ice, liquid water, steam) is a manifestation of quantum mechanics.
 
 Remarkably, the postulate that quantum mechanics is the reality (and not a just a model of it) stems from the fact that quantum mechanics predicts that the outcome of experiments will follow some strict rules, as strict as the mathematics behind. Another reason for this postulate is that these predictions were made long before they could be experimentally confirmed. The success of the predictions also created the question, why theoretical rules of mathematics are so successful in describing the world around us - in small and in macro scales. 
 

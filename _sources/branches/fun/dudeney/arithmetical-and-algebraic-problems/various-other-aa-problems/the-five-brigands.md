@@ -8,7 +8,6 @@ description: THE FIVE BRIGANDS &#9733; bring your math skills to the graduate le
 references: bookofproofs$6929
 keywords: algebraic,arithmetical,problems,various,solution
 contributors: bookofproofs
-issues: broken-links
 
 ---
 

@@ -8,7 +8,6 @@ description: SOLUTION OF THE DUTCHMEN'S WIVES &#9733; graduate maths &#10004; st
 references: bookofproofs$6929
 keywords: dutchmens,wives solution
 contributors: bookofproofs
-issues: broken-links
 
 ---
 

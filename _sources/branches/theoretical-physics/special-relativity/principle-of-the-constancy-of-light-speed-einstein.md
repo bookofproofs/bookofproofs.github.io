@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-Motivated by the result of the [Michelson-Morley experiment][bookofproofs$6270], "Albert Einstein":https://www.bookofproofs.org/history/albert-einstein/ formulated the following **principle of the constancy of light speed**:
+Motivated by the result of the [Michelson-Morley experiment][bookofproofs$6270], <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Einstein/">Albert Einstein</a> formulated the following **principle of the constancy of light speed**:
 
 > Any ray of light moves in the “stationary” system of co-ordinates with the determined velocity `\(c\)`, whether the ray be emitted by a stationary or by a moving body.
 

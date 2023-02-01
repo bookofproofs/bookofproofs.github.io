@@ -8,7 +8,6 @@ description: MEASURING, WEIGHING, AND PACKING PROBLEMS &#9733; graduate maths &#
 references: bookofproofs$6929
 keywords: measuring,packing,problems,weighing
 contributors: bookofproofs
-issues: broken-links
 
 ---
 

@@ -8,7 +8,6 @@ description: GREEK CROSS PUZZLES &#9733; bring your math skills to the graduate 
 references: bookofproofs$6929
 keywords: cross,greek,puzzles,greek cross puzzle,greek cross
 contributors: bookofproofs
-issues: broken-links
 
 ---
 

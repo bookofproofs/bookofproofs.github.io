@@ -16,7 +16,11 @@ contributors: bookofproofs
 
 _Analysis_ is a broad area of mathematics studying the special properties of real-valued or complex-valued functions under the basic ideas of calculus like _limits_, _continuity_, _differentiation_, _integration_, or _holomorphy_. The key common feature of calculus is to combine __infinitely many infinitely small__ (i.e. **infinitesimal**) quantities to get a finite answer. As an example, suppose we want to calculate the area of a circle. Doing it using analytical techniques, we might divide the circle into segments and approximate the area of each segment with the area of a triangle. As the number of segments gets higher and higher, the sum of the areas of all triangles will approximate the area of the circle. The following figures demonstrate the idea of creating infinitely many vanishingly small triangles to get the (finite) total area of a circle.
 
-!{width:200px;height:200px}https://www.bookofproofs.org/graphics/examples/sectors1.png! !{width:200px;height:200px}https://www.bookofproofs.org/graphics/examples/sectors2.png! !{width:200px;height:200px}https://www.bookofproofs.org/graphics/examples/sectors3.png! !{width:200px;height:200px}https://www.bookofproofs.org/graphics/examples/sectors4.png!
+<img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/sectors1.png?raw=true" alt="sectors1" style="width:200px;height:200px"/>
+<img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/sectors2.png?raw=true" alt="sectors2" style="width:200px;height:200px"/>
+<img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/sectors3.png?raw=true" alt="sectors3" style="width:200px;height:200px"/>
+<img src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/sectors4.png?raw=true" alt="sectors4" style="width:200px;height:200px"/>
+
 
 ### Theoretical minimum (in a nutshell)
 

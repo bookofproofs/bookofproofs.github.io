@@ -31,7 +31,7 @@ Note that these are all twin primes except the twin primes `\((3,5)\)`. This is 
 
 The following figure visualizes this sieve method:
 
-!{max-width:100%;}https://www.bookofproofs.org/graphics/examples/sievetwinprimes2.png!
+![sievetwinprimes2](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/sievetwinprimes2.png?raw=true)
 
 
 With this respect, the sequence `\(k=1, 2, 3, 5, 7, 10, 12, 17, 18, 23, 25, 30, 32, 33,\ldots\)` can be called the *twin prime sequence.*

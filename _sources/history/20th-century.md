@@ -1307,7 +1307,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Herivel/">John William Jamieson Herivel</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Schwinger/">Julian Seymour Schwinger</a>
-: Schwinger formulated quantum electrodynamics and thus reconciled quantum mechanics with Einstein's special theory of relativity.
+: Schwinger formulated quantum electrodynamics and thus reconciled quantum mechanics with <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Einstein/">Einstein</a>'s special theory of relativity.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Johnson_Katherine/">Katherine Johnson</a>
 

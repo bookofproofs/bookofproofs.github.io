@@ -8,7 +8,6 @@ description: SOLUTION OF THE BATTLE OF HASTINGS &#9733; graduate maths &#10004; 
 references: bookofproofs$6929
 keywords: battle,hastings solution
 contributors: bookofproofs
-issues: broken-links
 
 ---
 

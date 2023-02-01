@@ -30,7 +30,7 @@ The idea for this equivalence is illustrated in the following example:
 * The theorem states for this example that the dodecahedron graph is Hamiltonian if and only if the minimum decomposition of its dual icosahedron graph leads to exactly two trees (but not more and not less than two trees).  
 * The constructive nature of the proof makes use of the fact that a Hamiltonian cycle of a planar graph (if it is Hamiltonian) can be constructed from the edges dual to exactly those edges of the dual graph, which are not part of the decomposition trees (in the example below those are the thin blue edges crossing the bold orange edges), or by removing the edges crossed by the dual edges of the decomposition trees (in the example below those are the thin orange edges crossed by the bold black edges).  
 
-!{max-width:100%;}https://www.bookofproofs.org/graphics/examples/dualplanarhamiltonian1.png!
+![dualplanarhamiltonian1](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/dualplanarhamiltonian1.png?raw=true)
 
 new:branchcorollary:The 4-colors Problem and Planar Hamiltonian Graphs
 

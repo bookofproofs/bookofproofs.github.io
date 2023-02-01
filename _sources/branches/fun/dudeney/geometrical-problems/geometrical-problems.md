@@ -8,7 +8,6 @@ description: GEOMETRICAL PROBLEMS &#9733; graduate maths &#10004; step by step &
 references: bookofproofs$6929
 keywords: geometrical,problems
 contributors: bookofproofs
-issues: broken-links
 
 ---
 

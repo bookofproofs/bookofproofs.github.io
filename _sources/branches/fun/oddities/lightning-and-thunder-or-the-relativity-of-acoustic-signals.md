@@ -7,7 +7,7 @@ title: Lightning and Thunder or the Relativity of Acoustic Signals
 description: LIGHTNING AND THUNDER OR THE RELATIVITY OF ACOUSTIC SIGNALS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6267
 keywords: acoustic,lightning,relativity,signals,thunder
-contributors: bookofproofs,@Daniel Calahan
+contributors: bookofproofs,@calahan
 
 ---
 
