@@ -16,7 +16,7 @@ contributors: bookofproofs
 
 The answers are:
 
-#{list-style-type:upper-roman;} £$13.$
-1. £$23,$ `$19$`s. `$11$`d.
+1. £`$13$`.
+1. £`$23$` `$19$`s. `$11$`d.
 
-The words "the number of pounds exceeds that of the pence" exclude such sums of money as £$2,$ `$16$`s. `$2$`d. and all sums under £$1.$
+The words "the number of pounds exceeds that of the pence" exclude such sums of money as £`$2$`, `$16$`s. `$2$`d. and all sums under £`$1$`.

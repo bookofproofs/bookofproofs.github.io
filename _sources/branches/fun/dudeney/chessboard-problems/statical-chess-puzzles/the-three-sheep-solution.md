@@ -8,7 +8,6 @@ description: SOLUTION OF THE THREE SHEEP &#9733; graduate maths &#10004; step by
 references: bookofproofs$6929
 keywords: sheep solution,three
 contributors: bookofproofs
-issues: malformed-tables
 
 ---
 

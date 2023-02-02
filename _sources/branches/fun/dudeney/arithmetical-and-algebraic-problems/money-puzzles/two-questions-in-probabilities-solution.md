@@ -16,12 +16,12 @@ contributors: bookofproofs
 
 In tossing with the five pennies all at the same time, it is obvious that there are `$32$` different ways in which the coins may fall, because the first coin may fall in either of two ways, then the second coin may also fall in either of two ways and so on. Therefore five `$2$`'s multiplied together make `$32.$` Now, how are these `$32$` ways made up? Here they are:—
 
-#{list-style-type:lower-alpha;} `$5$`	heads `$1$`	way
-1. `$5$`	tails `$1$`	way
-1. `$4$`	heads and `$1$` tail `$5$`	ways
-1. `$4$`	tails and `$1$` head `$5$`	ways
-1. `$3$`	heads and `$2$` tails `$10$`	ways
-1. `$3$`	tails and `$2$` heads `$10$`	ways
+1. `$5$`	heads `$1$`	way
+2. `$5$`	tails `$1$`	way
+3. `$4$`	heads and `$1$` tail `$5$`	ways
+4. `$4$`	tails and `$1$` head `$5$`	ways
+5. `$3$`	heads and `$2$` tails `$10$`	ways
+6. `$3$`	tails and `$2$` heads `$10$`	ways
 
 Now, it will be seen that the only favorable cases are a, b, c, and d — `$12$` cases. The remaining `$20$` cases are unfavorable because they do not give at least four heads or four tails. Therefore the chances are only `$12$` to `$20$` in your favor, or (which is the same thing) `$3$` to `$5.$` Put another way, you have only `$3$` chances out of `$8.$`
 

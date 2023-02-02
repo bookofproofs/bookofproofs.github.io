@@ -8,7 +8,6 @@ description: MAGIC SQUARES OF PRIMES &#9733; graduate maths &#10004; step by ste
 references: bookofproofs$6929
 keywords: magic,primes,squares
 contributors: bookofproofs
-issues: malformed-tables
 
 ---
 

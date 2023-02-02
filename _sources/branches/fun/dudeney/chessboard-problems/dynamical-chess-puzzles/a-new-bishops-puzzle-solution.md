@@ -8,7 +8,6 @@ description: SOLUTION OF A NEW BISHOP'S PUZZLE &#9733; graduate maths &#10004; s
 references: bookofproofs$6929
 keywords: bishops,new,puzzle solution
 contributors: bookofproofs
-issues: malformed-tables
 
 ---
 

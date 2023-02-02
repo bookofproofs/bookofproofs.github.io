@@ -24,14 +24,14 @@ with elements `$\beta_i,a_ij\in F$` of a [field][bookofproofs$557] `$F.$` The fo
 
 ### Row operations
 
-#{list-style-type:upper-roman;} Exchanging two rows of `$A|\beta:$`
+1. Exchanging two rows of `$A|\beta:$`
 `$$R_j\leftrightarrow R_i.$$`
-1. Multiplying a row of `$A|\beta$` by a number `$c\in F$` with `$c\neq 0$`: `$$c R_i\rightarrow R_i.$$`
-1. Adding a multiple of one row `$R_i$` to another row `$R_j:$`
+2. Multiplying a row of `$A|\beta$` by a number `$c\in F$` with `$c\neq 0$`: `$$c R_i\rightarrow R_i.$$`
+3. Adding a multiple of one row `$R_i$` to another row `$R_j:$`
 `$$R_i+cR_j\rightarrow R_i.$$`
 
 ### Column operation
 
-#4{list-style-type:upper-roman;} Exchanging two columns of `$A:$`
+4. Exchanging two columns of `$A:$`
 
 `$$C_j\leftrightarrow C_i.$$`

@@ -8,7 +8,6 @@ description: SOLUTION OF A TENNIS TOURNAMENT &#9733; graduate maths &#10004; ste
 references: bookofproofs$6929
 keywords: tennis,tournament solution
 contributors: bookofproofs
-issues: malformed-tables
 
 ---
 
@@ -18,7 +17,7 @@ issues: malformed-tables
 Call the men `$A, B, D, E,$` and their wives `$a, b, d, e.$` Then they may play as follows without any person ever playing twice with or against any other person:—
 
 
- | First Court | Second Court
+Day | First Court | Second Court
 :------------- |:------------- |:-------------
  1st Day| `$A d$` against `$B e$`| `$D a$` against `$E b$`
  2nd Day| `$A e$` against `$D b$`| `$E a$` against `$B d$`

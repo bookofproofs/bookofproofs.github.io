@@ -8,7 +8,6 @@ description: SOLUTION OF THE BARRELS OF HONEY &#9733; graduate maths &#10004; st
 references: bookofproofs$6929
 keywords: barrels,honey solution
 contributors: bookofproofs
-issues: malformed-tables
 
 ---
 
@@ -18,9 +17,9 @@ issues: malformed-tables
 The only way in which the barrels could be equally divided among the three brothers so that each should receive his `$3.5$` barrels of honey and his `$7$` barrels is as follows:—
 
 
- | Full | Half-full | Empty
-:------------- |:------------- |:------------- |:-------------
- A| 3| 1| 3
+| Full | Half-full | Empty
+:------------- |:------------- |:------------- 
+ A| 3| 1| 3 
  B| 2| 3| 2
  C| 2| 3| 2
 

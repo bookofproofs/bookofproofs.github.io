@@ -8,7 +8,6 @@ description: Solution of THE CRUSADER &#9733; graduate maths &#10004; step by st
 references: bookofproofs$6929
 keywords: crusader solution
 contributors: bookofproofs
-issues: malformed-tables
 
 ---
 
@@ -36,11 +35,17 @@ Move  | White | Black
  16|  Kt takes Kt| K to R 5th
 
  White now mates in three moves.
+
+Move  | White | Black
+:------------- |:------------- |:-------------
  17|  P to Q 4th|  K to R 4th
  18|  Q to Q 3rd| K moves
  19 |  Q to KR 3rd (mate)|
 
  If 17. K to Kt 5th
+
+Move  | White | Black
+:------------- |:------------- |:-------------
  18 |  P to K 4th (dis. ch)| K moves
  19 |  P to KKt 3rd (mate)| 
 
