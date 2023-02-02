@@ -15,5 +15,5 @@ contributors: bookofproofs
 ---
 
 * We [have already shown][bookofproofs$1328], that every contraposition of an implication is [equivalent][bookofproofs$1305] that [implication][bookofproofs$1304] , formally `$$(\neg p\Rightarrow \neg q)\Longrightarrow (p\Rightarrow q).$$`
-* In particular, the the proving principle follows: `$$(\neg p\Rightarrow \neg q)\Rightarrow(p\Rightarrow q).$$` 
+* In particular, the proving principle follows: `$$(\neg p\Rightarrow \neg q)\Rightarrow(p\Rightarrow q).$$` 
 * Since the right side is true if the left side is true, the proving principle `$(\neg p\rightarrow \neg q)\Longrightarrow (p\Rightarrow q)$` is by definition a [valid logical argument][bookofproofs$7915].

@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Using the the definition of the [exponential series][bookofproofs$281], the [triangle inequality][bookofproofs$618], the [distributivity law for real numbers][bookofproofs$520], the [properties of the absolute value for real numbers][bookofproofs$619], and the [rules for calculating with inequalities or real numbers][bookofproofs$594] we can estimate the remainder term of the exponential series as follows
+Using the definition of the [exponential series][bookofproofs$281], the [triangle inequality][bookofproofs$618], the [distributivity law for real numbers][bookofproofs$520], the [properties of the absolute value for real numbers][bookofproofs$619], and the [rules for calculating with inequalities or real numbers][bookofproofs$594] we can estimate the remainder term of the exponential series as follows
 
 `\[\begin{array}{rcll}
 |r_{N + 1}(x)|&=& \sum_{n=N+1}^\infty\frac{x^n}{n! }&\text{definition of the exponential series}\\

@@ -30,7 +30,7 @@ bookofproofs$6925 | bookofproofs$8406 | **Young, H. D.; Freedman, R. A. **: "Uni
 bookofproofs$6925 | bookofproofs$8480 | **Reus, Bernhard**: "Limits of Computation", Springer, 2016
 bookofproofs$6925 | bookofproofs$8526 | **Halberstam, H; Roth, K.F.**: "Sequences", Oxford at the Claredon Press, 1966 
 bookofproofs$6925 | bookofproofs$8548 | **Kneser, Hellmuth**: "Mathematische Lehrbücher - Funktionentheorie", Vanderhoeck & Ruprecht, 1958 
-bookofproofs$6925 | bookofproofs$8550 | **Lang, Serge**: "Complex_Analysis", Springer, 1999, Forth Edition
+bookofproofs$6925 | bookofproofs$8550 | **Lang, Serge**: "Complex Analysis", Springer, 1999, Forth Edition
 bookofproofs$6925 | bookofproofs$8560 | **Jänich, Klaus**: "Topologie", Springer, 2001, 7th Edition
 bookofproofs$6925 | bookofproofs$8613 | **Grotemeyer, K.P.**: "Topologie", B.I.-Wissenschaftsverlag, 1969
 bookofproofs$6925 | bookofproofs$8635 | **Toenniessen, Fridtjof**: "Topologie", Springer, 2017

@@ -30,7 +30,7 @@ The **Riemann lower integral** of `\(f\)` over the interval `\([a,b]\)` is the [
 `\[\int_{a~*}^bf(x)dx:=\sup\left\{\int_{a}^b\phi(x)dx:~~\phi(x)\le f(x)\text{ for all }x\in[a,b]\text{ and }\phi\text{ is a step function over }[a,b]\right\}.\]`
 
 
-In the following interactive figure, an example bounded function on the closed interval `\([-3,3]\)` is generated. You can drag the red points to change the function. The slider to the right changes the step functions of the upper (red) and lower (green) Riemann integrals of the corresponding step functions. The infimum and supremum of the upper and lower integrals of step functions are reached, if the the step length goes to zero (i.e. number of steps in the closed interval goes to infinity).
+In the following interactive figure, an example bounded function on the closed interval `\([-3,3]\)` is generated. You can drag the red points to change the function. The slider to the right changes the step functions of the upper (red) and lower (green) Riemann integrals of the corresponding step functions. The infimum and supremum of the upper and lower integrals of step functions are reached, if the step length goes to zero (i.e. number of steps in the closed interval goes to infinity).
 
 <div id="E20174box" class="jxgbox centered" style="max-width:500px; height:500px;"></div>
 <div id="E20174box1" class="jxgbox centered" style="max-width:400px; height:100px;"></div>

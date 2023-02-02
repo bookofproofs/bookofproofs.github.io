@@ -19,5 +19,5 @@ Let `$D\subseteq\mathbb R$` ($D$ being a [subset][bookofproofs$552] of [real num
 1. `$\Delta (\lambda f)(x)=\lambda \Delta f(x),$`
 1. `$\Delta(f\pm g)(x)=\Delta f(x)\pm \Delta g(x),$`
 1. `$\Delta (fg)(x)=g(x)\Delta f(x) + f(x+1)\Delta g(x)$` (also known as the **product rule**).
-1. If `$g(x+1)g(x)\neq 0$` for all `\(x\in D\)`, then (also known as the the **quotient rule**):
+1. If `$g(x+1)g(x)\neq 0$` for all `\(x\in D\)`, then (also known as the **quotient rule**):
 `$$\Delta\left(\frac fg\right)(x)=\frac{g(x)\Delta f(x) - f(x)\Delta g(x)}{g(x+1)g(x)}.$$`

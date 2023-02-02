@@ -21,7 +21,7 @@ Let `\(\alpha_{ij}\in F\)` and `\(F\)` be an [field][bookofproofs$557], and let
 \vdots&\vdots&\vdots\\
 \alpha_{m1}X_1+\ldots+\alpha_{mn}X_n&=&0\\
 \end{array}~~~~~~~~~~~~~~~~ ( * ) \]`
-be a [homogeneous system of linear equations][bookofproofs$1044] with  `\(n\)` unknowns `\(X_1,\ldots,X_n\)` and (`\(1\le m < n\)`) equations. We have to show that the the equation system `\( ( * ) \)` has a non-trivial solution.
+be a [homogeneous system of linear equations][bookofproofs$1044] with  `\(n\)` unknowns `\(X_1,\ldots,X_n\)` and (`\(1\le m < n\)`) equations. We have to show that the equation system `\( ( * ) \)` has a non-trivial solution.
 
 First, we observe the following:
 

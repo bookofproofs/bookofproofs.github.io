@@ -10,7 +10,7 @@ keywords: empty,set,uniqueness
 contributors: bookofproofs
 
 ---
-The [extensionality principle][bookofproofs$551] and the a [axiom of empty set][bookofproofs$666] have the the following consequence:
+The [extensionality principle][bookofproofs$551] and the a [axiom of empty set][bookofproofs$666] have the following consequence:
 
 ---
 

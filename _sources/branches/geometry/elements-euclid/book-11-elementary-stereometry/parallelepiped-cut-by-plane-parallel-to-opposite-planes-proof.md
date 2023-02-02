@@ -32,7 +32,7 @@ contributors: bookofproofs,@fitzpatrick
 * But, the three [planes][bookofproofs$647] (in one of the soilds) are equal to the three opposite [planes][bookofproofs$647] [[Prop. 11.24]][bookofproofs$2261].
 * Thus, the three solids `$LQ$`, `$KR$`, and `$AU$` are equal to one another [ [Def. 11.10] ][bookofproofs$2219].
 * So, for the same (reasons), the three solids `$ED$`, `$DM$`, and `$MT$` are also equal to one another.
-* Thus, as many [multiples][bookofproofs$6440] as the base `$LF$` is of the base `$AF$`, so many [multiples][bookofproofs$6440] is the [solid][bookofproofs$2210] `$LU$` also of the the [solid][bookofproofs$2210] `$AU$`.
+* Thus, as many [multiples][bookofproofs$6440] as the base `$LF$` is of the base `$AF$`, so many [multiples][bookofproofs$6440] is the [solid][bookofproofs$2210] `$LU$` also of the [solid][bookofproofs$2210] `$AU$`.
 * So, for the same (reasons), as many [multiples][bookofproofs$6440] as the base `$NF$` is of the base `$FH$`, so many [multiples][bookofproofs$6440] is the [solid][bookofproofs$2210] `$NU$` also of the [solid][bookofproofs$2210] `$HU$`.
 * And if the base `$LF$` is equal to the base `$NF$` then the [solid][bookofproofs$2210] `$LU$` is also equal to the [solid][bookofproofs$2210] `$NU$`.[^1] 
 * And if the base `$LF$` exceeds the base `$NF$` then the [solid][bookofproofs$2210] `$LU$` also exceeds the [solid][bookofproofs$2210] `$NU$`.

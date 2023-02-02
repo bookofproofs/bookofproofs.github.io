@@ -26,5 +26,5 @@ It is the set of all elements contained in `\(A\)` and not contained in `\(B\)`.
 
 ### Examples:
 
-1. The set difference `$A\setminus B$` of the the set `$A=\{2,3,4,7,8,9\}$` and `$B=\{1,2,3\}$` equals `$\{4,5,6,9\}.$` 
-1. The set difference `$A\setminus B$` of the the set `$A=\{2,3,4,7,8,9\}$` and `$B=\{1,2,3\}$` equals `$\{4,5,6,9\}.$` 
+1. The set difference `$A\setminus B$` of the set `$A=\{2,3,4,7,8,9\}$` and `$B=\{1,2,3\}$` equals `$\{4,5,6,9\}.$` 
+1. The set difference `$A\setminus B$` of the set `$A=\{2,3,4,7,8,9\}$` and `$B=\{1,2,3\}$` equals `$\{4,5,6,9\}.$` 

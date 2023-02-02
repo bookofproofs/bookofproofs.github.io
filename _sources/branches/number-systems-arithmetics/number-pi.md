@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-The number `$\pi$` (read **pi**) is defined as twice the the [uniquely defined zero of the cosine function][bookofproofs$6737] in the closed interval `$[0,2].$`
+The number `$\pi$` (read **pi**) is defined as twice the [uniquely defined zero of the cosine function][bookofproofs$6737] in the closed interval `$[0,2].$`
 
 `$$\cos\left(\frac\pi2\right)=0\quad\Longleftrightarrow\quad\frac\pi2=1.570796326\pm 10^{-9}\quad\Longleftrightarrow\quad\pi\approx 3.141592653\pm 10^{-9}.$$`
 

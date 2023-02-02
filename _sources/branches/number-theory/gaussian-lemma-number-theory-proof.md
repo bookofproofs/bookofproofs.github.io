@@ -34,4 +34,4 @@ contributors: bookofproofs
 * The [Euler's criterion for quadratic residues][bookofproofs$8201] gives us `$\left(\frac np\right)\equiv(-1)^m\mod p.$`
 * Therefore, `$\left(\frac np\right)=(-1)^m,$` for the [Legendre symbol][bookofproofs$8198] `$\left(\frac np\right),$` as required.
 
-[^1]: In this congruence, `$\left(\frac{p-1}2\right)!$` denotes the the [factorial][bookofproofs$1005] of `$\left(\frac{p-1}2\right).$`
+[^1]: In this congruence, `$\left(\frac{p-1}2\right)!$` denotes the [factorial][bookofproofs$1005] of `$\left(\frac{p-1}2\right).$`

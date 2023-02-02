@@ -58,7 +58,7 @@ contributors: bookofproofs,@fitzpatrick
 * And they enclose [right angles][bookofproofs$653].
 * Thus, base `$AK$` is equal to base `$DN$` [[Prop. 1.4]][bookofproofs$738].
 * And since `$AH$` is equal to `$DM$`, the [ (square) ][bookofproofs$909] on `$AH$` is also equal to the [ (square) ][bookofproofs$909] on `$DM$`.
-* But, the the (sum of the [squares][bookofproofs$909]) on `$AK$` and `$KH$` is equal to the [ (square) ][bookofproofs$909] on `$AH$`.
+* But, the (sum of the [squares][bookofproofs$909]) on `$AK$` and `$KH$` is equal to the [ (square) ][bookofproofs$909] on `$AH$`.
 * For angle `$AKH$` (is) a [right angle][bookofproofs$653] [[Prop. 1.47]][bookofproofs$968].
 * And the (sum of the [squares][bookofproofs$909]) on `$DN$` and `$NM$` (is) equal to the [square][bookofproofs$909] on `$DM$`.
 * For angle `$DNM$` (is) a [right angle][bookofproofs$653] [[Prop. 1.47]][bookofproofs$968].

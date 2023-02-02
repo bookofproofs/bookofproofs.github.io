@@ -5,7 +5,7 @@ orderid: 1000
 parentid: bookofproofs$2
 title: 17th Century
 description: 17TH CENTURY (FROM 1600 TO 1699) ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
-references: bookofproofs$6909
+references: bookofproofs$6909, bookofproofs$8285
 keywords: 17th,century
 contributors: bookofproofs,@MacTutor
 
@@ -155,8 +155,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Verbiest/">Ferdinand Verbiest</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Angeli/">Evangelista Torricelli</a>
-: An Italian scientist who was the first man to create a sustained vacuum and to discover the principle of a barometer. He also achieved some important results in the development of the calculus.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Angeli/">Stefano degli Angeli</a>
+: An Italian Italian mathematician who worked on infinitesimals and used them to study spirals, parabolas and hyperbolas.
 
 ### 1624 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Guarini/">Guarino Guarini</a>
@@ -229,6 +229,11 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Neile/">William Neile</a>
 : An English mathematician who was the first to calculate the arc-length of the cubical parabola.
+
+Descartes publishes "La Géometrie"
+: Continuing the work of François Viète, Descartes solves geometrical problems using algebraic means. In this epochal work, he also abolishes the dogma
+that lasted in mathematics for millennia, prohibiting mathematicians from calculating with lengths and volumes at once
+(which, they thought, was impossible because of the danger to mix up incompatible geometrical concepts).
 
 ### 1638
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Gregory/">James Gregory</a>

@@ -14,4 +14,4 @@ contributors: bookofproofs
 
 ---
 
-Let `$f:A\mapsto B$` be a [function][bookofproofs$592]. The set of [ordered pairs][bookofproofs$747] `\((x,y)\in A\times B\)` is with `$f(x)=y$` is called the the **graph** `$\Gamma_f$` of the function `$f.$`
+Let `$f:A\mapsto B$` be a [function][bookofproofs$592]. The set of [ordered pairs][bookofproofs$747] `\((x,y)\in A\times B\)` is with `$f(x)=y$` is called the **graph** `$\Gamma_f$` of the function `$f.$`

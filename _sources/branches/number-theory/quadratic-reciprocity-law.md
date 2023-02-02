@@ -15,7 +15,7 @@ This law conjectured by <a href="https://mathshistory.st-andrews.ac.uk/Biographi
 
 ---
 
-Let `$p > 2$` and `$q > 2$` be [odd][bookofproofs$8130] and distinct [prime numbers][bookofproofs$473]. Then the the product of the [Legendre symbols][bookofproofs$8198] has the following explicit formula:
+Let `$p > 2$` and `$q > 2$` be [odd][bookofproofs$8130] and distinct [prime numbers][bookofproofs$473]. Then the product of the [Legendre symbols][bookofproofs$8198] has the following explicit formula:
 
 `$$\left(\frac{q}{p}\right)\cdot \left(\frac{p}{q}\right)=(-1)^{\frac{p-1}{2}\frac{q-1}{2}}.$$`
 

@@ -16,7 +16,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ### (Definition 23 from Book 11 of Euclid's “Elements”)
 
-> And the **bases (of the cylinder** are) the [circles][bookofproofs$690] described by the two opposite sides (of the the [rectangle][bookofproofs$909] constructing the [cylinder][bookofproofs$2230], which are) carried around.
+> And the **bases (of the cylinder** are) the [circles][bookofproofs$690] described by the two opposite sides (of the [rectangle][bookofproofs$909] constructing the [cylinder][bookofproofs$2230], which are) carried around.
 
 ### Modern Formulation
 

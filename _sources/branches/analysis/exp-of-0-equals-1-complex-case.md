@@ -15,5 +15,5 @@ contributors: bookofproofs
 ---
 
 For any [convergent complex sequence][bookofproofs$1700] `\((x_n)_{n\in\mathbb N}\)` with `\(\lim_{n\to\infty} x_n=0\)` we have `\[\lim_{x\to\infty}\exp(x_n)=1.\]`
-In other words, `\[\lim_{x\to 0}\exp(x)=1\]` or the the [complex exponential function][bookofproofs$312] of `\(0\)` is `\(1\)`:
+In other words, `\[\lim_{x\to 0}\exp(x)=1\]` or the [complex exponential function][bookofproofs$312] of `\(0\)` is `\(1\)`:
 `\[\exp(0)=1.\]`

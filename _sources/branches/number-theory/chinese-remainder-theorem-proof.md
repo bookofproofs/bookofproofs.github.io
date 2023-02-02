@@ -58,7 +58,7 @@ x(m_2)&\equiv&a_2(m_2)\\
 &\vdots&\\
 x(m_{r-1})&\equiv& a_{r-1}(m_{r-1}).\\
 \end{array}\label{eq:E18598d}\tag{4}$$`
-* The the step `$r-1\to r$` follows from the base case applied to the congruence system
+* The step `$r-1\to r$` follows from the base case applied to the congruence system
 `$$\begin{array}{rcl}
 x(\operatorname{lcm}(m_1,\ldots,m_{r-1}))&\equiv&a(\operatorname{lcm}(m_1,\ldots,m_{r-1}))\\
 x(m_r)&\equiv&a_r(m_r),\\

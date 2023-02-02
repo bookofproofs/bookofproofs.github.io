@@ -23,6 +23,7 @@ _(no contents provided yet)_
 : A pioneer English photographer who also did work on elliptic functions.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lloyd_Humphrey/">Humphrey Lloyd</a>
+: An Irish applied mathematician who worked on conical refraction and geomagnetism.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Feuerbach/">Karl Wilhelm Feuerbach</a>
 : A geometer who discovered the nine point circle of a triangle.
@@ -139,9 +140,10 @@ _(no contents provided yet)_
 : Johann Listing wrote one of the earliest texts on Topology.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Russell_Scott/">John Scott Russell</a>
+: A Scottish engineer and naval architect best known for his identification of a solitary wave: a precursor of today's solitons.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kelland/">Philip Kelland</a>
-: Philip Kelland became professor of mathematics at Edinburgh and worked on heat, light and water waves.
+: Became professor of mathematics at Edinburgh and worked on heat, light and water waves.
 
 ### 1809 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Peirce_Benjamin/">Benjamin Peirce</a>
@@ -212,6 +214,7 @@ _(no contents provided yet)_
 : J J Sylvester did important work on matrix theory. He discovered the discriminant of a cubic equation and first used the name 'discriminant' for equations of higher order.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Colenso/">John William Colenso</a>
+: An English mathematician, theologian, Biblical scholar and social activist, who was the first Church of England Bishop of Natal.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Schlafli/">Ludwig Schläfli</a>
 
@@ -222,7 +225,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Donkin/">William Donkin</a>
 
 ### 1815 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lovelace/">Ada Lovelace</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lovelace/">Augusta Ada King, countess of Lovelace</a>
+: A daughter of Lord Byron who became interested in Babbage's analytic engine and described how it could be programmed.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Boole/">Boole, George</a>
 : George Boole approached logic in a new way reducing it to a simple algebra, incorporating logic into mathematics. He also worked on differential equations, the calculus of finite differences and general methods in probability.
@@ -260,6 +264,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Joachimsthal/">Ferdinand Joachimsthal</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hendricks/">Joel Evans Hendricks</a>
+: An American mathematician important as the founder of "The Analyst" journal.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Broch/">Ole Jacob Broch</a>
 
@@ -297,7 +302,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Jonquieres/">Ernest de Jonquières</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Nightingale/">Florence Nightingale</a>
-: Also a pioneering statistician.
+: Best known for her work as a nurse, but she was also a pioneering statistician.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Todhunter/">Isaac Todhunter</a>
 : Isaac Todhunter is best known for his textbooks and his writing on the history of mathematics.
@@ -315,7 +320,7 @@ _(no contents provided yet)_
 
 ### 1821 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cayley/">Arthur Cayley</a>
-: In developing the algebra of matrices and work in non-euclidean and n-dimensional geometry.
+: His most important work was in developing the algebra of matrices and work in non-euclidean and n-dimensional geometry.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Heine/">Heinrich Eduard Heine</a>
 : Eduard Heine is best remembered for the Heine-Borel theorem. He was responsible for the introduction of the idea of uniform continuity. He was also a co-author of the [Heine-Borel Theorem][bookofproofs$6596].
@@ -352,6 +357,7 @@ _(no contents provided yet)_
 
 ### 1823 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Davidov/">August Yulevich Davidov</a>
+: A Russian mathematician and engineer who worked on differential equations, partial derivatives, definite integrals and the application of probability theory to statistics.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Betti/">Enrico Betti</a>
 : Enrico Betti is noted for his contributions to algebra and topology. Betti also did important work in theoretical physics, in particular in potential theory and elasticity.
@@ -388,6 +394,7 @@ _(no contents provided yet)_
 : Appointed Professor of Mathematics at Victoria College Stellenbosch in South Africa and went on to become Principal of the University of South Africa in Pretoria.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Dase/">Johann Martin Zacharias Dase</a>
+: A German mental calculator.
 
 ### 1825 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bjerknes_Carl/">Carl Bjerknes</a>
@@ -402,9 +409,10 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Walker_John/">John James Walker</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Vashchenko/">Mikhail Egorovich Vashchenko-Zakharchenko</a>
-: Mikhail Vashchenko-Zakharchenko worked on the theory of linear differential equations, the theory of probability and non-euclidean geometry.
+: Worked on the theory of linear differential equations, the theory of probability and non-euclidean geometry.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Spottiswoode/">William Spottiswoode</a>
+: An English mathematician, physicist and publisher.
 
 ### 1826 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Riemann/">Georg Friedrich Bernhard Riemann</a>
@@ -433,8 +441,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Roberts/">Samuel Roberts</a>
 
 ### 1828 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bruno/">Francesco da Paola Virgilio Secondo Maria Faà di Bruno</a>
-: Faa di Bruno is best known for his formula for the nth derivative of a composition of functions.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bruno/">Giuseppe Bruno</a>
+: An Italian mathematician who worked in geometry.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Peterson/">Karl Mikhailovich Peterson</a>
 : A Latvian mathematician worked in differential geometry and partial differential equations.
@@ -536,7 +544,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Jack_William/">William Jack</a>
 
 ### 1835 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Martin/">Johann Martin Zacharias Dase</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Martin/">Artemas Martin</a>
+: A self-taught mathematician and book-collector whose output covered a wide range of mathematical problems.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Meray/">Charles Méray</a>
 
@@ -595,6 +604,7 @@ _(no contents provided yet)_
 : An English schoolmaster who wrote the popular book Flatland as an introduction to higher dimensions.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Baldwin/">Frank Stephen Baldwin</a>
+: An American who invented a pinwheel calculator.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hill/">George William Hill</a>
 
@@ -625,7 +635,7 @@ _(no contents provided yet)_
 : A Danish mathematician who worked on the geometry of conic sections, algebraic surfaces and the history of mathematics.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Gibbs/">Josiah Willard Gibbs</a>
-: An American mathematician best-known for the Gibbs effect seen when Fourier-analysing a discontinuous function.
+: An American mathematician best-known for the **Gibbs effect** seen when Fourier-analysing a discontinuous function.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bolam/">James Bolam</a>
 : An English mathematician who became head of the Government Navigation School (later the Leith Nautical College).
@@ -666,8 +676,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Sturm_Rudolf/">Rudolf Sturm</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Loyd/">Humphrey Lloyd</a>
-: An Irish applied mathematician who worked on conical refraction and geomagnetism.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Loyd/">Samuel Loyd</a>
+: An American amateur mathematician best known for his invention of puzzles as well as chess problems.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Johnson_Woolsey/">Woolsey Johnson</a>
 
@@ -703,8 +713,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Stolz/">Otto Stolz</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lie/">Guglielmo Libri Carucci dalla Sommaja</a>
-: An Italian mathematician who worked on mathematical physics, number theory and the theory of equations. He also published works on the history of mathematics.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lie/">Marius Sophus Lie</a>
+: A Norwegian mathematician who made major advances in the theory of continuous groups of transformations and differential equations. Lie groups and Lie algebras are named after him.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Niven/">William Davidson Niven</a>
 : A Scottish mathematician who was a friend of Maxwell and worked on electricity, magnetism and harmonic functions.
@@ -814,11 +824,13 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Arzela/">Cesare Arzelà</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Ladd-Franklin/">Christine Ladd-Franklin</a>
+: An American psychologist, logician and mathematician who was one of the earliest women to work in American universities.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Zolotarev/">Egor Ivanovich Zolotarev</a>
 : A Russian mathematician who produced fundamental work on analysis and number theory.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Floquet/">Achille Marie Gaston Floquet</a>
+: A French mathematician who worked on mathematical analysis, especially in the theory of differential equations.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Greenhill/">Alfred George Greenhill</a>
 : George Greenhill became Professor of Mathematics at the Royal Military Academy at Woolwich. His main work was on Elliptic Functions but he published widely on applications of mathematics to practical problems.
@@ -827,7 +839,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Stringham/">Washington Irving Stringham</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Wilson_John_2/">John Wilson</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Wilson_John_2/">John Wilson (2)</a>
+: A Scottish mathematician who took over the Rectorship of his father's Academy in Bannockburn and later moved to Edinburgh as a tutor in mathematics and physics.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Zhukovsky/">Nikolai Egorovich Zhukovsky</a>
 : A Russian scientist who did pioneering work on aerodynamics. He is best known for the so-called Joukowski aerofoil.
@@ -878,9 +891,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Frobenius/">Ferdinand Georg Frobenius</a>
 : Georg Frobenius combined results from the theory of algebraic equations, geometry, and number theory, which led him to the study of abstract groups, the representation theory of groups and the character theory of groups.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Esterich/">Gustav von Escherich</a>
-
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Escherich/">Gustav von Escherich</a>
+: An Italian mathematician who was one of the founders of the Mathematical Society of Vienna.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lamb/">Horace Lamb</a>
 : Horace Lamb wrote important texts and made important contributions to applied mathematics, in particular to acoustics and fluid dynamics.
@@ -917,6 +929,7 @@ _(no contents provided yet)_
 : A Russian born mathematician who made valuable contributions to the theory of differential equations.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bryant/">Sophie Willock Bryant</a>
+: An Irish mathematician who also published on many other topics: Irish history, religion, education, women's rights, and philosophy.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Ball/">Robert Stawell Ball</a>
 
@@ -929,7 +942,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Harnack/">Axel Harnack</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Langley/">Joseph Langley Burchnall</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Langley/">Edward Mann Langley</a>
+: An English mathematical schoolteacher who was a founder and editor of The Mathematical Gazette.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Elliott/">Edwin Bailey Elliott</a>
 
@@ -962,11 +976,13 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Haret/">Spiru Haret</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Macdonald_William/">William James Macdonald</a>
+: A Scottish school teacher who was a pioneer of the introduction of modern geometry to the mathematical curriculum.
 
 ### 1852 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Herzog/">Albin Herzog</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kiselev/">Andrei Petrovich Kiselev</a>
+: A Russian mathematician known mainly for his textbooks.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Le_Paige/">Constantin Marie Michel Hubert Jérôme Le Paige</a>
 
@@ -1019,6 +1035,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lodge/">Alfred Lodge</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Peirce_B_O/">Benjamin Osgood Peirce</a>
+: An American mathematician who became an important figure in applied mathematics in the United States.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Beyel/">Christian Beyel</a>
 
@@ -1043,8 +1060,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/MacMahon/">Percy Alexander MacMahon</a>
 : A Matese-born mathematician who worked in number theory and combinatorics.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Philip/">Philip Kelland</a>
-: Philip Kelland became professor of mathematics at Edinburgh and worked on heat, light and water waves.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Philip/">Robert Philip</a>
+: Graduated from St Andrews and became a teacher at Madras College St Andrews. He moved to Hutcheon's School Glasgow and eventually became headmaster there.
 
 ### 1855 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Capelli/">Alfredo Capelli</a>
@@ -1144,14 +1161,14 @@ _(no contents provided yet)_
 : Oskar Bolza worked on function theory, integral equations and the calculus of variations.
 
 ### 1858 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lee/">James Whitbread Lee Glaisher</a>
-: An English mathematician and astronomer who wrote over 400 articles on astronomy, special functions, calculation of numerical tables, number theory and the history of mathematics.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lee/">Alice Elizabeth Lee</a>
+: Was awarded a D.Sc. in 1899, and had an outstanding career as a statistician working in both Bedford College and University College in London. Her work was important in disproving the belief that skull size was related to intelligence, the argument that was being used at that time to "prove" women were intellectually inferior to men.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Forsyth/">Robert Forsyth Scott</a>
 : Robert Scott spent most of his career as Bursar and Master of St John's College Cambridge. He published a book on Determinants.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Scott/">John Scott Russell</a>
-: A Scottish engineer and naval architect best known for his identification of a solitary wave: a precursor of today's solitons.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Scott/">Charlotte Angas Scott</a>
+: Studied at Cambridge but was not allowed to take her degree. After graduate work at Cambridge she became the first Head of Mathematics at Bryn Mawr College in Pennsylvania USA.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Goursat/">Édouard Jean-Baptiste Goursat</a>
 : A French mathematician who is best known for his version of the Cauchy-Goursat theorem stating that the integral of a function round a simple closed contour is zero if the function is analytic inside the contour.
@@ -1171,8 +1188,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Planck/">Max Karl Ernst Ludwig Planck</a>
 : Max Planck initiated the study of quantum mechanics when he announced in 1900 his theoretical research into the radiation and absorption of heat/light by a black body.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Johnson/">Alexander Johnson Merriles</a>
-: Alexander Merriles graduated from Edinburgh University and afterwards taught at Edinburgh Provincial Training College and George Watson's Ladies' College in Edinburgh.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Johnson/">William Ernest Johnson</a>
+: An English mathematician, logician and economist.
 
 ### 1859 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hurwitz/">Adolf Hurwitz</a>
@@ -1186,7 +1203,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cesaro/">Ernesto Cesàro</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cajori/">Florian Cajori</a>
-: A Swiss mathematician best known for his influential History of Mathematics.
+: A Swiss mathematician best known for his influential "History of Mathematics".
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Pick/">Georg Alexander Pick</a>
 : An Austrian mathematician best known for his formula on the area of a polygon in a lattice of points.
@@ -1259,7 +1276,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fiedler_Ernst/">Ernst Fiedler</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cole/">John William Colenso</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cole/">Frank Nelson Cole</a>
+: An American mathematician whose main research contributions are to number theory, in particular to prime numbers, and to group theory.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Engel/">Friedrich Engel</a>
 : Friedrich Engel worked on Lie algebras as well as continuous groups and partial differential equations.
@@ -1321,15 +1339,16 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Butzberger/">Fritz (Friedrich Bützberger</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Loria/">Florian Cajori</a>
-: A Swiss mathematician best known for his influential History of Mathematics.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Loria/">Gino Benedetto Loria</a>
+: An Italian mathematician and historian of mathematics who worked on projective geometry, special curves, algebraic geometry and elliptic functions.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Andoyer/">Henri Andoyer</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Archibald_James/">James Archibald</a>
+: Graduated from Edinburgh University and eventually became headmaster of Dalry School Edinburgh.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Wattie/">James MacPherson Wattie</a>
-: James Wattie studied at Aberdeen and Oxford. He taught for a while at George Watson's College in Edinburgh and the Church of Scotland Training College in Aberdeen before becoming a Schools Inspector.
+: Studied at Aberdeen and Oxford. He taught for a while at George Watson's College in Edinburgh and the Church of Scotland Training College in Aberdeen before becoming a Schools Inspector.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Campbell/">John Edward Campbell</a>
 : Campbell is remembered for the Campbell-Baker-Hausdorff theorem which gives a formula for multiplication of exponentials in Lie algebras.
@@ -1363,12 +1382,14 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Adler/">August Adler</a>
 : Born in what was then Austria and who worked on geometric constructions using compasses only.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Love/">Ada Lovelace</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Love/">Augustus Edward Hough Love</a>
+: An English mathematician known for his work on the theory of elasticity. He also worked on wave propagation and the structure of the Earth.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Thue/">Axel Thue</a>
 : Thue studied Diophantine equations, showing that, for example, y3 - 2x2 = 1 cannot be satisfied by infinitely many pairs of integers.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Segre_Corrado/">Corrado Segre</a>
+: An Italian mathematician who was responsible for important early work in algebraic geometry.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Barlow_Crossley/">Crossley Barlow</a>
 
@@ -1393,8 +1414,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Butters/">John Watt Butters</a>
 : J Watt Butters graduated from Edinburgh and taught at George Heriot's School and James Gillespie's School in Edinburgh. He became Rector of Ardrossan Academy.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Watt/">James MacPherson Wattie</a>
-: James Wattie studied at Aberdeen and Oxford. He taught for a while at George Watson's College in Edinburgh and the Church of Scotland Training College in Aberdeen before becoming a Schools Inspector.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Watt/">James Watt</a>
+: An Edinburgh lawyer and actuary. He was interested in science, being a member of the Scottish Meteorological Society and the Royal Scottish Geographical Society.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Le_Roux/">Jean-Marie Le Roux</a>
 
@@ -1404,8 +1425,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/McCowan/">John McCowan</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Morrison/">John Todd Morrison</a>
-: Appointed Professor of Physics at Victoria College Stellenbosch in South Africa. He did important work on the magnetic survey of South Africa.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Orr/">William McFadden Orr</a>
+: An Irish mathematician who worked on thermodynamics and fluid flow.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Miller_Kelly/">Kelly Miller</a>
 
@@ -1413,7 +1434,7 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Berzolari/">Luigi Berzolari</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fry/">Lewis Fry Richardson</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fry/">Matthew Wyatt Joseph Fry</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Painleve/">Paul Painlevé</a>
 
@@ -1434,11 +1455,13 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Alasia/">Cristoforo Alasia</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bryan/">Sophie Willock Bryant</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bryan/">George Hartley Bryan</a>
+: Made important contributions to kinematics, thermodynamics and the mathematical theory of flight. He wrote two important monographs and a whole series of undergraduate texts intended for private study.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Minkowski/">Hermann Minkowski</a>
 : Minkowski developed a new view of space and time and laid the mathematical foundation of the theory of relativity.
 : develops [Spacetime diagrams][bookofproofs$6307].
+
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kurschak/">József Kürschák</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Schlesinger/">Ludwig Schlesinger</a>
@@ -1450,7 +1473,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Wien/">Ludwig Christian Wiener</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Osgood/">Benjamin Osgood Peirce</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Osgood/">William Fogg Osgood</a>
+: Was important in bringing the latest ideas of mathematical research to the United States.
 
 ### 1865 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kotelnikov/">Aleksandr Petrovich Kotelnikov</a>
@@ -1467,6 +1491,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cailler/">Charles Cailler</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Tweedie_David/">David Tweedie</a>
+: Graduated from Edinburgh University and taught at George Watson's College in Edinburgh. He spent more than 30 years teaching in various institutions in Egypt.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Vessiot/">Ernest-Paulin-Joseph Vessiot</a>
 
@@ -1481,8 +1506,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Castelnuovo/">Guido Castelnuovo</a>
 : An Italian mathematician who worked in algebraic geometry. He also worked in probabiity and relativity.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Macdonald/">William James Macdonald</a>
-: A Scottish school teacher who was a pioneer of the introduction of modern geometry to the mathematical curriculum.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Macdonald/">Hector Munro Macdonald</a>
+: Graduated from Aberdeen and Cambridge Universities. He stayed on at Cambridge and won the Adams prize. He returned to Aberdeen as Professor. He did important work on electromagnetic waves.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Third/">John Alexander Third</a>
 : J A Third became Director of Education for Ayrshire. A prize at the University of Aberdeen is named after him.
@@ -1546,9 +1571,10 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Sampson/">Ralph Allen Sampson</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/See/">Konstantin Alekseevich Andreev</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/See/">Thomas Jefferson Jackson See</a>
+: An American astronomer who studied in the University of Missouri and in Berlin. He fell out with his astronomical colleagues and was eventually banned from publishing. He spend the last part of his life arguing against Einstein's Theory of Relativity.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Orr/">John Todd Morrison</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Morrison/">John Todd Morrison</a>
 : Appointed Professor of Physics at Victoria College Stellenbosch in South Africa. He did important work on the magnetic survey of South Africa.
 
 ### 1867 
@@ -1582,6 +1608,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Gould/">Alice Bache Gould</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bosworth/">Anne Lucy Bosworth Focke</a>
+: An American mathematician who became the first female doctoral student of David Hilbert. She was a professor of mathematics and physics at what is now the University of Rhode Island.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/MacKinnon/">Annie Fitch MacKinnon</a>
 
@@ -1592,8 +1619,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Dougall_Charles/">Charles Shirra Dougall</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Tweedie/">David Tweedie</a>
-: David Tweedie graduated from Edinburgh University and taught at George Watson's College in Edinburgh. He spent more than 30 years teaching in various institutions in Egypt.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Tweedie/">Charles Tweedie</a>
+: Studied at Edinburgh, Göttingen and Berlin. He returned to Edinburgh as assistant to Chrystal. He served as a Schools Inspector and published works on the History of Mathematics.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/McIntosh/">Donald Cameron McIntosh</a>
 : Donald McIntosh graduated from the University of Aberdeen and taught at George Watson's Ladies College in Edinburgh. He was appointed a Director of Education.
@@ -1629,7 +1656,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Couturat/">Louis Couturat</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Petrovic/">Andrei Petrovich Kiselev</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Petrovic/">Mihailo Petrović</a>
+: A Serbian mathematician and inventor who worked in differential equations and phenomenology.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Comrie/">Peter Comrie</a>
 : Peter Comrie graduated from St Andrews and after a series of teaching posts became Rector of Leith Academy.
@@ -1645,8 +1673,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kagan/">Benjamin Fedorovich Kagan</a>
 : On Lobachevsky's geometry. In 1902 he proposed axioms and definitions very different from <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hilbert/">Hilbert</a>. Kagan studied tensor differential geometry after going to Moscow because of an interest in relativity. He wrote a history of non-euclidean geometry and also a detailed biography of Lobachevsky. He edited Lobachevsky's complete works which appeared in five volumes between 1946 and 1951.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Egorov/">Mikhail Egorovich Vashchenko-Zakharchenko</a>
-: Mikhail Vashchenko-Zakharchenko worked on the theory of linear differential equations, the theory of probability and non-euclidean geometry.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Egorov/">Dimitri Fedorovich Egorov</a>
+: A Russian mathematician who worked in differential geometry and mathematical analysis.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cartan/">Élie Joseph Cartan</a>
 : Cartan worked on continuous groups, Lie algebras, differential equations and geometry. His work achieves a synthesis between these areas. He is one of the most important mathematicians of the first half of the 20C.
@@ -1668,6 +1696,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Baxter/">Agnes Sime Baxter</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Tweedie_D_J/">David J Tweedie</a>
+: Graduated with an Ordinary degree from Edinburgh University and then taught at George Heriot's Hospital School in Edinburgh. He became headmaster of the school at Kilconquhar in Fife.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Horsburgh/">Ellice Martin Horsburgh</a>
 : Ellice Horsburgh graduated from Edinburgh and became a lecturer in Technical Mathematics at the University.
@@ -1716,7 +1745,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Enriques/">Abramo Giulio Umberto Federigo Enriques</a>
 : An Italian mathematician who made important contributions to geometry and to the history and philosophy of mathematics.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Yule/">August Yulevich Davidov</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Yule/">George Udny Yule</a>
+: An English mathematician who is best known for his book: "Introduction to the Theory of Statistics".
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fano/">Gino Fano</a>
 : An Italian mathematician whose work was mainly on projective and algebraic geometry. He is best known as the founder of the finite geometry.
@@ -1840,6 +1870,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cholesky/">Andre-Louis Cholesky</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Milne_Archibald/">Archibald Milne</a>
+: Graduated from Edinburgh University and taught at the Church of Scotland Training College in Edinburgh.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Conway_Arthur/">Arthur Conway</a>
 
@@ -1873,8 +1904,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/De_Franchis/">Michele de Franchis</a>
 : An Italian mathematician who worked in algebraic geometry.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Archibald/">James Archibald</a>
-: James Archibald graduated from Edinburgh University and eventually became headmaster of Dalry School Edinburgh.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Archibald/">Raymond Clare Archibald</a>
+: Studied in Canada, at Harvard and at Strasbourg. He spent most of his career at Brown University in Rhode Island. His main interests were in the History of Mathematics.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Takagi/">Teiji Takagi</a>
 : Takagi worked on class field theory, building on Heinrich Weber's work.
@@ -1885,7 +1916,7 @@ _(no contents provided yet)_
 
 ### 1876 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/McKendrick/">Anderson Gray McKendrick</a>
-: Anderson McKendrick trained as a medical doctor in Glasgow and came to Edinburgh as Superintendent of the College of Physicians Laboratory. He made some significant mathematical contributions to biology.
+: He trained as a medical doctor in Glasgow and came to Edinburgh as Superintendent of the College of Physicians Laboratory. He made some significant mathematical contributions to biology.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Davidoglu/">Anton Davidoglu</a>
 
@@ -1999,7 +2030,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Karpinski/">Louis Charles Karpinski</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Grossmann/">Marcel Grossmann</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Grossmann/">Edward Burns Ross</a>
+: Studied at Edinburgh and Cambridge universities. After working with Karl Pearson in London he was appointed Professor of Mathematics at the Christian College in Madras India. Ill health forced him to retire back to Scotland.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bottasso/">Matteo Bottasso</a>
 : An Italian mathematician who used the vector calculus in studying problems in geometry, mechanics and physics.
@@ -2091,14 +2123,16 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bernstein_Sergi/">Sergei Bernstein</a>
 
 ### 1881 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Richardson_Archibald/">Archibald Richardson</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Richardson_Archibald/">Archibald Read Richardson</a>
+: Graduated from Imperial College London and then taught at the college. He was badly wounded in World War I. He became Professor of Mathematics at Swansea. His main interests were in algebra.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Woodard/">Raymond Woodard Brink</a>
-: An American mathematician who studied at Kansas State University, Harvard and Paris. He taught at the University of Minnesota though he spent a year in Edinburgh in 1919. He worked on the convergence of series.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Woodard/">Dudley Weldon Woodard</a>
+: An American mathematician and educator who was the second African-American to earn a PhD in Mathematics.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cunningham/">Ebenezer Cunningham</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Ross/">Marcel Grossmann</a>
+: A Swiss mathematician and a friend and collaborator of Einstein.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Snedecor/">George Waddel Snedecor</a>
 
@@ -2114,8 +2148,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/David_Lajos/">Lajos Dávid</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Richardson/">Archibald Read Richardson</a>
-: Archibald Richardson graduated from Imperial College London and then taught at the college. He was badly wounded in World War I. He became Professor of Mathematics at Swansea. His main interests were in algebra.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Richardson/">Lewis Fry Richardson</a>
+: An English mathematician, physicist and meteorologist who pioneered modern mathematical techniques of weather forecasting.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Toeplitz/">Otto Toeplitz</a>
 : Toeplitz worked on infinite linear and quadratic forms. In the 1930's he developed a general theory of infinite dimensional spaces and criticised Banach's work as being too abstract.
@@ -2159,8 +2193,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Knopp/">Konrad Hermann Theodor Knopp</a>
 : A German mathematician who worked on generalised limits and complex functions. He was the co-founder of Mathematische Zeitschrift in 1918.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Born/">Osborne Reynolds</a>
-: An Irish mathematician and physicist best known for introducing the Reynolds number classifying fluid flow.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Born/">Max Born</a>
+: A Polish-born mathematician who worked in Cambridge and received the Nobel Prize for Physics in 1954 for his work on Quantum Mechanics.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Dienes_Paul/">Paul Dienes</a>
 
@@ -2184,13 +2218,14 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Wheeler/">Anna Johnson Pell Wheeler</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lewis/">Lewis Fry Richardson</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lewis/">Clarence Irving Lewis</a>
+: An American philosopher and logician.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Gibb/">Josiah Willard Gibbs</a>
-: An American mathematician best-known for the Gibbs effect seen when Fourier-analysing a discontinuous function.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Gibb/">David Gibb</a>
+: Graduated from Edinburgh University and went on to become a lecturer and reader there.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bell/">Giusto Bellavitis</a>
-: An Italian mathematician who worked on a large range of mathematical topics.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bell/">Eric Temple Bell</a>
+: A Scottish-born mathematician best known for his history of mathematics book: "Men of Mathematics".
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hellinger/">Ernst David Hellinger</a>
 : Hellinger introduced a new type of integral: the Hellinger integral. Jointly with <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hilbert/">Hilbert</a>, he produced an important theory of forms.
@@ -2199,7 +2234,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Levi_Eugenio/">Eugenio Levi</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Wood/">William Spottiswoode</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Wood/">Frances Chick Wood</a>
+: An English chemist and statistician who became a fellow of the Royal Statistical Society in 1913. She was awarded the Order of the British Empire in 1917, and an officer in the order in 1918.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Duarte/">Francisco José Duarte</a>
 
@@ -2264,7 +2300,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Szasz/">Otto Szász</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Frank/">Frank Stephen Baldwin</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Frank/">Philipp Frank</a>
+: An Austrian-born physicist, mathematician and philosopher who moved to America.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lefschetz/">Solomon Lefschetz</a>
 : The main source of the algebraic aspects of topology.
@@ -2330,8 +2367,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kaluza/">Theodor Franz Eduard Kaluza</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Brun/">Francesco da Paola Virgilio Secondo Maria Faà di Bruno</a>
-: Faa di Bruno is best known for his formula for the nth derivative of a composition of functions.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Brun/">Viggo Brun</a>
+: A Norwegian mathematician and number theorist.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Blaschke/">Wilhelm Johann Eugen Blaschke</a>
 : An Austrian mathematician whose research was on various aspects of geometry. He also initiated the study of topological differential geometry.
@@ -2352,8 +2389,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Taylor_Geoffrey/">Geoffrey Taylor</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Ford/">William Kingdon Clifford</a>
-: An English mathematician who studied non-euclidean geometry arguing that energy and matter are simply different types of curvature of space. He introduced what is now called a Clifford algebra which generalises Grassmann's exterior algebra.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Ford/">Lester Randolph Ford</a>
+: An American mathematician who lectured for several years in Edinburgh before moving back to the USA. He wrote some important text-books and is best known for his contributions to the "Mathematical Association of America" and the "American Mathematical Monthly".
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bieberbach/">Ludwig Georg Elias Moses Bieberbach</a>
 : A German mathematician best known for his conjecture on holomorphic functions. He was an enthusuastic supporter of the Nazis.
@@ -2388,7 +2425,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Polya/">George Pólya</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Evans/">Joel Evans Hendricks</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Evans/">Griffith Conrad Evans</a>
+: An American mathematician whose work dealt with potential theory, functional analysis, integral equations and minimal surfaces. He was head of mathematics at Berkeley for many years.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Ascoli/">Guido Ascoli</a>
 
@@ -2402,11 +2440,11 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Radon/">Johann Radon</a>
 : Johann Radon worked on the calculus of variations, differential geometry and measure theory.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Jackson/">Thomas Jefferson Jackson See</a>
-: An American astronomer who studied in the University of Missouri and in Berlin. He fell out with his astronomical colleagues and was eventually banned from publishing. He spend the last part of his life arguing against Einstein's Theory of Relativity.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Jackson/">John Jackson</a>
+: Graduated from Glasgow and Cambridge. He went to the Royal Observatory at Greenwich but his career there was interrupted by World War I. He was then appointed HM Astronomer at the University of Cape Town.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Anderson/">Anderson Gray McKendrick</a>
-: Anderson McKendrick trained as a medical doctor in Glasgow and came to Edinburgh as Superintendent of the College of Physicians Laboratory. He made some significant mathematical contributions to biology.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Anderson/">Oskar Johann Viktor Anderson</a>
+: A Ukranian-born German mathematician who was known for his work on mathematical statistics and econometrics.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Haupt/">Otto Haupt</a>
 
@@ -2445,8 +2483,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kober/">Hermann Kober</a>
 : A Polish-born mathematician who spent much of his life as a school teacher in England but published many papers on analysis.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Alexander/">Alexander Wilhelm von Brill</a>
-: A German mathematician who worked in algebraic geometry. He also made mathematical models and was interested in the history of mathematics.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Alexander/">James Waddell Alexander</a>
+: An American mathematician who worked in topology. He is best known for the knot-theory invariant known as the Alexander polynomial.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Mackie/">John Mackie</a>
 : John Mackie graduated from Edinburgh University and went on too teach at Leith Academy eventually becoming Rector.
@@ -2457,8 +2495,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Williams/">William Lloyd Garrison Williams</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Antoine/">Antoine Augustin Cournot</a>
-: A French mathematician who was a pioneer of mathematical economics.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Antoine/">Louis Auguste Antoine</a>
+: A French mathematician famous for his invention of _Antoine's necklace_.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Mordell/">Louis Joel Mordell</a>
 : Mordell is best known for his investigations of equations of the form of y2 = x3 + k which had been studied by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fermat/">Fermat</a>.
@@ -2644,6 +2682,7 @@ _(no contents provided yet)_
 : A German-born mathematician who worked in analytic number theory, mathematical genetics, the theory of functions of a real variable and quantum theory.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Burchnall/">Joseph Langley Burchnall</a>
+: An English mathematician who worked in the theory of differential operators.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Broglie/">Louis Victor Pierre Raymond duc de Broglie</a>
 : A French mathematician best known for his description of the dual particle-wave properties of the electron.
@@ -2689,8 +2728,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Murnaghan/">Francis Dominic Murnaghan</a>
 : Tyrone, Ireland.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Julia/">Julian Lowell Coolidge</a>
-: An American mathematician best known for his texts on geometry and on the history of mathematics.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Julia/">Gaston Maurice Julia</a>
+: One of the forefathers of modern dynamical systems theory and is best remembered for what is now called the Julia set.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cramer_Harald/">Harald Cramér</a>
 
@@ -2733,8 +2772,9 @@ _(no contents provided yet)_
 : A Dutch mathematician who is mainly known for his work in the history of mathematics.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Wrinch/">Dorothy Maud Wrinch</a>
+: An American mathematician who worked on analysis and functional analysis.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hille/">Achille Marie Gaston Floquet</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hille/">Einar Carl Hille</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lemaitre/">Georges Lemaître</a>
 
@@ -2769,8 +2809,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Rogosinski/">Werner Wolfgang Rogosinski</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Arthur/">Arthur Cayley</a>
-: In developing the algebra of matrices and work in non-euclidean and n-dimensional geometry.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Arthur/">William Arthur</a>
+: Graduated from the University of Glasgow and after serving in World War I became a lecturer at Glasgow.
 
 ### 1895 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Aitken/">Alexander Craig Aitken</a>
@@ -2820,14 +2860,14 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lumsden/">Thomas Arnot Lumsden</a>
 : Thomas Lumsden graduated from Edinburgh University. He became a lecturer in Mathematics at Birmingham University. He was killed in action in World War II.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Rado/">Corrado Segre</a>
-: An Italian mathematician who was responsible for important early work in algebraic geometry.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Rado/">Tibor Radó</a>
+: A Hungarian mathematician best known for his solution to the Plateau Problem.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Suss/">Wilhelm Süss</a>
 
 ### 1896 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Milne/">Archibald Milne</a>
-: Archibald Milne graduated from Edinburgh University and taught at the Church of Scotland Training College in Edinburgh.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Milne/">Edward Arthur Milne</a>
+: An English mathematician and astrophysicist who worked on the structure of stars and developed an alternative to the theory of relativity.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Wilson_Bertram/">Bertram Wilson</a>
 
@@ -2836,8 +2876,8 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/OConnell/">Daniel O&#39;Connell</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Jack/">Thomas Jefferson Jackson See</a>
-: An American astronomer who studied in the University of Missouri and in Berlin. He fell out with his astronomical colleagues and was eventually banned from publishing. He spend the last part of his life arguing against Einstein's Theory of Relativity.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Jack/">David Jack</a>
+: Studied at Edinburgh though his studies were interrupted by war service. He took up a post teaching Physics at St Andrews.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Pairman/">Eleanor Pairman</a>
 : Eleanor Pairman graduated from Edinburgh. She went to London where she worked with Karl Pearson and then went to the USA where she gained a doctorate from Radcliffe College.
@@ -2886,8 +2926,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Numbers/">Annie Hutton Numbers</a>
 : Annie Hutton Numbers graduated from Edinburgh University and worked in the Chemistry department in Edinburgh. She taught in schools in Ipswich and High Wycombe.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fox/">William Henry Fox Talbot</a>
-: A pioneer English photographer who also did work on elliptic functions.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fox/">Charles Fox</a>
+: An English mathematician who worked on hypergeometric functions, integral transforms, integral equations, the theory of statistical distributions, and the mathematics of navigation.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hartree/">Douglas Rayner Hartree</a>
 
@@ -2939,10 +2979,11 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Widder/">David Widder</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Olds/">Osborne Reynolds</a>
-: An Irish mathematician and physicist best known for introducing the Reynolds number classifying fluid flow.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Olds/">Edwin Glenn Olds</a>
+: An American mathematician and statistician. He was mainly interested in probability and was regarded as an outstanding teacher.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Artin/">Johann Martin Zacharias Dase</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Artin/">Emil Artin</a>
+: Made a major contribution to the theory of noncommutative rings and later worked on rings with the minimum condition on right ideals, now called Artinian rings.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bessel-Hagen/">Erich Bessel-Hagen</a>
 
@@ -2974,14 +3015,16 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Urysohn/">Pavel Samuilovich Urysohn</a>
 : A Ukranian mathematician who proved important results in general topology and dimension theory.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Franklin/">Christine Ladd-Franklin</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Franklin/">Philip Franklin</a>
+: An American mathematician who worked in analysis and graph theory.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Salem/">Raphaël Salem</a>
 : A Greek mathematician who is best known for his methods of applying probability to Fourier series.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cherry/">Thomas Macfarland Cherry</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fock/">Anne Lucy Bosworth Focke</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fock/">Vladimir Aleksandrovich Fock</a>
+: A Russian physicist who worked on quantum mechanics and quantum electrodynamics.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kermack/">William Kermack</a>
 
@@ -3014,8 +3057,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Neugebauer/">Otto Neugebauer</a>
 : An Austrian mathematician who made important contributions to the history of ancient mathematics and astronomy.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Ore/">Florence Nightingale</a>
-: Also a pioneering statistician.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Ore/">Øystein Ore</a>
+: A Norwegian mathematician who worked in ring theory, Galois theory and graph theory.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kochina/">Pelageia Yakovlevna Polubarinova Kochina</a>
 

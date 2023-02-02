@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-We want to show that the set `$\mathbb R$` of [real numbers][bookofproofs$1105] is [uncountable][bookofproofs$772]. We will show that this is true even for the the [real interval][bookofproofs$1153] `$[0,1]\subset\mathbb R.$` 
+We want to show that the set `$\mathbb R$` of [real numbers][bookofproofs$1105] is [uncountable][bookofproofs$772]. We will show that this is true even for the [real interval][bookofproofs$1153] `$[0,1]\subset\mathbb R.$` 
 * Suppose, `$[0,1]$` is [countable][bookofproofs$772].
 * Therefore, by [definition of countability][bookofproofs$772], there is an [injective function][bookofproofs$769] `$f:[0,1]\to\mathbb N$`. 
 * Suppose that we can list the values of this function in some hypothetical way:

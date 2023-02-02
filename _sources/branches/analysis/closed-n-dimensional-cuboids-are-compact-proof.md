@@ -16,7 +16,7 @@ contributors: bookofproofs
 
 * Let `\(a_\nu,b_\nu\in\mathbb R\)` be [real numbers][bookofproofs$1105] with `\(a_\nu \le b_\nu\)` for `\(\nu=1,\ldots,n\)`. 
 * Consider the [closed][bookofproofs$852] `$n$`-dimensional cuboid `\(Q:=\{(x_1,\ldots,x_n)\in\mathbb R^n:\quad a_\nu \le x_\nu \le b_\nu\}\)`.
-* It has to be shown that `\(Q\)` is a [compact][bookofproofs$6575] [subset][bookofproofs$552] of the the [`\(n\)`-dimensional metric space of real numbers][bookofproofs$1206] `\(\mathbb R^n\)`.
+* It has to be shown that `\(Q\)` is a [compact][bookofproofs$6575] [subset][bookofproofs$552] of the [`\(n\)`-dimensional metric space of real numbers][bookofproofs$1206] `\(\mathbb R^n\)`.
    * Take any [open cover][bookofproofs$150] of `\((U_i)_{i\in I}\)` of `\(Q\)`.
    * Assume, there is no finite subcover `\(U_{i_k}\)` of `\(Q\)`.
       * Set `\(Q_0:=Q\)`, and `$I_{0,\nu}=[a_\nu,b_\nu]$`, where `$I_{0,\nu}$` are [closed real intervals][bookofproofs$1153] for `\(\nu=1,\ldots,n\)`. Note that `$Q_0=I_{0,1}\times\ldots\times I_{0,n}$`.
@@ -38,4 +38,4 @@ contributors: bookofproofs
       * This [contradicts][bookofproofs$744] that `$Q_m$` has no finite subcover.
       * This contradicts, that `$Q$` has no finite subcover.
    * Thus, `$Q$` has a finite subcover for any given [open cover][bookofproofs$150] of `\((U_i)_{i\in I}\)` of `\(Q\)`.
-   * Thus, `\(Q\)` is a [compact][bookofproofs$6575] [subset][bookofproofs$552] of the the [`\(n\)`-dimensional metric space of real numbers][bookofproofs$1206] `\(\mathbb R^n\)`.
+   * Thus, `\(Q\)` is a [compact][bookofproofs$6575] [subset][bookofproofs$552] of the [`\(n\)`-dimensional metric space of real numbers][bookofproofs$1206] `\(\mathbb R^n\)`.

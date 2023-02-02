@@ -16,7 +16,7 @@ contributors: bookofproofs,@fitzpatrick
 
 
 
-* Let the the [isosceles triangle][bookofproofs$688] `$FGH$` be set up having each of the [angles][bookofproofs$650] at `$G$` and `$H$` double the (angle) at `$F$` [[Prop. 4.10]][bookofproofs$1934].
+* Let the [isosceles triangle][bookofproofs$688] `$FGH$` be set up having each of the [angles][bookofproofs$650] at `$G$` and `$H$` double the (angle) at `$F$` [[Prop. 4.10]][bookofproofs$1934].
 * And let triangle `$ACD$`, equiangular to `$FGH$`, have been [inscribed in circle][bookofproofs$1920] `$ABCDE$`, such that `$CAD$` is equal to the [angle][bookofproofs$650] at `$F$`, and the ([angles][bookofproofs$650]) at `$G$` and `$H$` (are) equal to `$ACD$` and `$CDA$`, respectively [[Prop. 4.2]][bookofproofs$1926].
 * Thus, `$ACD$` and `$CDA$` are each double `$CAD$`.
 * So let `$ACD$` and `$CDA$` have been cut in half by the [straight lines][bookofproofs$645] `$CE$` and `$DB$`, respectively [[Prop. 1.9]][bookofproofs$755].

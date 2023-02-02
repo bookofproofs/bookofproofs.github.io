@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\(X, Y, U\)` and `\(W\)` be [finite sets][bookofproofs$985]. The the following properties of [cardinal numbers][bookofproofs$980] are fulfilled:
+Let `\(X, Y, U\)` and `\(W\)` be [finite sets][bookofproofs$985]. The following properties of [cardinal numbers][bookofproofs$980] are fulfilled:
 
 > (1) From `\(|X|=|Y|, |U|=|W|\)` and `\(X\cap U=\emptyset, Y\cap W=\emptyset\)` it follows that `\(|X\cup U|=|Y\cup W|=|X| + |U|=|Y| + |W|\)`.
 

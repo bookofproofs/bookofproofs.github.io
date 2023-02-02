@@ -14,4 +14,4 @@ The following corollary demonstrates that in order to calculate the value `$\bet
 
 ---
 
-For all [multiplicative functions][bookofproofs$505] `$\beta:\mathbb N\to\mathbb C$` we have `$\beta(1)=1$` and `$$\beta(n)=\prod_{i=1}^\infty{\beta(p_i^{e_i})}$$` for the the [factorization][bookofproofs$803] of `$n=\prod_{i=1}^\infty p_i^{e_i}.$`
+For all [multiplicative functions][bookofproofs$505] `$\beta:\mathbb N\to\mathbb C$` we have `$\beta(1)=1$` and `$$\beta(n)=\prod_{i=1}^\infty{\beta(p_i^{e_i})}$$` for the [factorization][bookofproofs$803] of `$n=\prod_{i=1}^\infty p_i^{e_i}.$`

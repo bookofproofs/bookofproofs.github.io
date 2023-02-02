@@ -44,17 +44,15 @@ Once you are ready with your editions:
 
 Please check out our cheat sheets
 
-1. [cheat_sheet_source_files.md][cssf]
-1. [cheat_sheet_attributing][csa]
-1. [cheat_sheet_layouts][csl]
-1. [cheat_sheet_naming_identifying_ordering][csnio]
-1. [cheat_sheet_categories][csc]
-1. (more cheat sheets to come)
+1. [cheat_sheet_source_files.md](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_source_files.md)
+2. [cheat_sheet_attributing](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_attributing.md)
+3. [cheat_sheet_layouts](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_layouts.md)
+4. [cheat_sheet_naming_identifying_ordering](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_naming_identifying_ordering.md)
+5. [cheat_sheet_categories](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_categories.md)
+6. [cheat_sheet_layout_epoch](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_layout_epoch.md)
+7. [cheat_sheet_layout_topic](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_layout_topic.md)
+7. [cheat_sheet_bibliography](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_bibliography.md)
+8. (more cheat sheets to come)
 
-[cssf]:https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_source_files.md
-[csa]:https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_attributing.md
-[csl]:https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_layouts.md
-[csc]:https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_categories.md
-[csnio]:https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_naming_identifying_ordering.md
 
 ``` { .python linenos=true linenostart=42 hl_lines="1-2 10" }

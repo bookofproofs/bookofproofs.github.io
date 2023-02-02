@@ -39,7 +39,7 @@ contributors: bookofproofs,@fitzpatrick
 * Thus, `$BG$` is [incommensurable in length][bookofproofs$1095] with `$H$` [[Prop. 10.9]][bookofproofs$2103].
 * And the [square][bookofproofs$909] on `$BG$` is greater than (the [square][bookofproofs$909] on) `$GC$` by the [ (square) ][bookofproofs$909] on `$H$`.
 * Thus, the [square][bookofproofs$909] on `$BG$` is greater than (the square) on `$GC$` by the [ (square) ][bookofproofs$909] on (some [straight line][bookofproofs$645]) [incommensurable (in length) ][bookofproofs$1095] with ($BG$).
-* And the whole, `$BG$`, is [commensurable in length][bookofproofs$1095] with the the (previously) laid down [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$A$`.
+* And the whole, `$BG$`, is [commensurable in length][bookofproofs$1095] with the (previously) laid down [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$A$`.
 * Thus, `$BC$` is a [fourth apotome][bookofproofs$2094] [ [Def. 10.14] ][bookofproofs$2094].
 * Thus, a [fourth apotome][bookofproofs$2094] has been found.
 * (Which is) the very thing it was required to show.

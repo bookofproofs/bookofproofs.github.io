@@ -70,6 +70,7 @@ class BopValidator:
         self._validate_categories("CATEGORY")
         self._validate_issues("ISSUE")
         self._validate_layouts("LAYOUT")
+        self._validate_persons("PERSON")
 
     def _validate_nodeids(self, err_type: str):
         """
@@ -119,7 +120,7 @@ class BopValidator:
                 duplicate = self._unique_file_names[base_name_without_ext]
                 raise BopValidationError(err_type, "02",
                                          "Duplicate filename in\n{0} and\n{1}".format(duplicate.get_file_name(),
-                                                                                    bop_source.get_file_name()))
+                                                                                      bop_source.get_file_name()))
 
     def _validate_orderids(self, err_type: str):
         """
@@ -236,9 +237,9 @@ class BopValidator:
                     search_key = match.group(2)
                     if "[" + search_key + "]:http" not in content_with_possible_hyperlinks:
                         if search_key not in self._unique_nodeids:
-                            raise AssertionError(
-                                "Cannot resolve hyperlink reference [{0}] detected in ".format(
-                                    search_key) + bop_source.get_file_name())
+                            raise BopValidationError(err_type, "01",
+                                                     "Cannot resolve hyperlink reference [{0}] detected in ".format(
+                                                         search_key) + bop_source.get_file_name())
                         elif search_key not in bop_source.links:
                             cats = self._unique_nodeids[search_key].categories.copy()
                             if len(cats) > 1:
@@ -273,12 +274,14 @@ class BopValidator:
                         else:
                             values.append(match)
                 if len(keys) != len(values):
-                    raise AssertionError(
-                        "Script keys {0} and corresponding scripts do not match in {1}".format(str(keys),
-                                                                                               bop_source.get_file_name()))
+                    raise BopValidationError(err_type, "01",
+                                             "Script keys {0} and corresponding scripts do not match in {1}".format(
+                                                 str(keys),
+                                                 bop_source.get_file_name()))
                 if len(set(keys)) != len(keys):
-                    raise AssertionError(
-                        "Script Keys {0} are not unique in {1}".format(str(keys), bop_source.get_file_name()))
+                    raise BopValidationError(err_type, "02",
+                                             "Script Keys {0} are not unique in {1}".format(str(keys),
+                                                                                            bop_source.get_file_name()))
                 # create the script dictionary for this bop_source
                 counter = 0
                 while counter < len(keys):
@@ -401,7 +404,7 @@ class BopValidator:
 
     def _validate_layouts(self, err_type: str):
         """
-        Check if the the layout of each node is is allowed inside the layout of its parent
+        Check if the layout of each node is is allowed inside the layout of its parent
         :param err_type: error domain
         :return: None, or raises an Error
         """
@@ -431,7 +434,7 @@ class BopValidator:
 
     def _validate_notation(self, err_type: str):
         """
-        Check if the the notation of each node is is allowed inside the layout of its parent
+        Check if the notation of each node is is allowed inside the layout of its parent
         :param err_type: error domain
         :return: None, or raises an Error
         """
@@ -447,7 +450,8 @@ class BopValidator:
                 if match.group(2) not in unique_references_per_notation:
                     unique_references_per_notation.add(match.group(2))
                 if match.group(2) not in self._unique_nodeids:
-                    raise AssertionError("Unknown id '{0}' found in {1}".format(match.group(2), notation_file))
+                    raise BopValidationError(err_type, "01",
+                                             "Unknown id '{0}' found in {1}".format(match.group(2), notation_file))
                 else:
                     referenced_node = self._unique_nodeids[match.group(2)]
                     cat_id = ",".join(referenced_node.categories)
@@ -456,21 +460,22 @@ class BopValidator:
                     unique_categories[cat_id].append(line)
             if "Notation" not in line and "Description not in line" and ":---" not in line:
                 if len(unique_references_per_notation) > 1:
-                    raise AssertionError("Multiple references '{0}' found in line {1} in {2}".format(
-                        str(unique_references_per_notation),
-                        line,
-                        notation_file)
-                    )
+                    raise BopValidationError(err_type, "02",
+                                             "Multiple references '{0}' found in line {1} in {2}".format(
+                                                 str(unique_references_per_notation),
+                                                 line,
+                                                 notation_file)
+                                             )
                 if len(unique_references_per_notation) == 0:
-                    raise AssertionError("Missing references in line {0} found in {1}".format(
+                    raise BopValidationError(err_type, "03", "Missing references in line {0} found in {1}".format(
                         line,
                         notation_file)
-                    )
+                                             )
                 if len(line.split("|")) != 3:
-                    raise AssertionError("Notation line {0} does not have 3 columns {1}".format(
+                    raise BopValidationError(err_type, "04", "Notation line {0} does not have 3 columns {1}".format(
                         line,
                         notation_file)
-                    )
+                                             )
         print("   Making symbolic notation index")
         keys = list(unique_categories.keys())
         keys.sort()
@@ -485,6 +490,42 @@ class BopValidator:
         replaced = self.sources[index_file].get_body()
         replaced = replaced.replace("{{ n-index }}", index)
         self.sources[index_file].set_body(replaced)
+
+    def _validate_persons(self, err_type: str):
+        """
+        Check if the person names or hyperlinks to person biographies listed in the epoch layout are unique.
+        :param err_type: error domain
+        :return: None, or raises an Error
+        """
+        print("   Validating " + err_type)
+        unique_names = dict()
+        unique_links = dict()
+        pattern_name = re.compile(r"^\<a href\=[\"\'](.*?)[\"\']\>(.*?)\<\/a", flags=re.M)
+        pattern_link = re.compile(r"^\<a href\=[\"\'](.*?)[\"\']\>", flags=re.M)
+        error_msgs = list()
+        for bop_source in self._unique_nodeids.values():
+            if bop_source.layout == BopLayouts.epoch:
+                for match in pattern_name.finditer(bop_source.get_body()):
+                    if match.group(2) not in unique_names:
+                        unique_names[match.group(2)] = bop_source.get_file_name() + " " + match.group(1)
+                    else:
+                        error_msgs.append("Duplicate person '{0}'\nin {1}\nand {2}".format(
+                            match.group(2),
+                            bop_source.get_file_name() + " " + match.group(1),
+                            unique_names[match.group(2)]
+                        ))
+                for match in pattern_link.finditer(bop_source.get_body()):
+                    if match.group(1) not in unique_links:
+                        unique_links[match.group(1)] = bop_source.get_file_name()
+                    else:
+                        error_msgs.append("Duplicate reference {0}\nin {1}\nand {2}".format(
+                            match.group(1),
+                            bop_source.get_file_name(),
+                            unique_links[match.group(1)]
+                        ))
+        if len(error_msgs) > 0:
+            raise BopValidationError(err_type, "01", "Person errors found:\n\n".format(len(error_msgs))
+                                     + "\n\n".join(error_msgs) + "\n\n{0} errors total".format(len(error_msgs)))
 
     def get_parent_child_graph(self):
         return self._parent_child_graph

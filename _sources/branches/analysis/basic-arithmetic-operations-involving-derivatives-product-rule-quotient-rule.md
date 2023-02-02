@@ -25,6 +25,6 @@ are also differentiable at `\(x\)` and the following calculation rules apply:
 1. `\((fg)'(x)=f'(x)g(x) + f(x)g'(x)\)` (also known as the **product rule**).
 1. If `\(g(\xi)\neq 0\)` for all `\(\xi\in D\)`, then also the function 
 `\[\frac fg:D\to\mathbb R\]`
-is differentiable at `\(x\)` and the following formula (also known as the the **quotient rule**) holds:
+is differentiable at `\(x\)` and the following formula (also known as the **quotient rule**) holds:
 
 `\[\left(\frac fg\right)'(x)=\frac{f'(x)g(x) - f(x)g'(x)}{g(x)^2}.\]`

@@ -15,7 +15,7 @@ contributors: bookofproofs
 ---
 
 * Let `$x$` be an element of a [monoid][bookofproofs$659] `$(X,\ast)$`.
-* Consider the the [subset][bookofproofs$552] `$T$` of powers `$x^n$`, `$(n=0,1,2,\ldots)$`.
+* Consider the [subset][bookofproofs$552] `$T$` of powers `$x^n$`, `$(n=0,1,2,\ldots)$`.
 * According to the [rules of exponentiation][bookofproofs$673], since `$x^0\in T$` and `$x^0=e$` is the [identity element][bookofproofs$661], we have `$e\in T$`.
 * For `$x^n\in T$` and `$x^m\in T$` we have that `$(x^n)\ast(x^m)=x^{n+m}\in T$`. Therefore, `$T$` is closed under the [binary operation][bookofproofs$6188] `$\ast$`.
 * By [definition of a substructure][bookofproofs$6210], `$T$` is a submonoid of `$X$`.

@@ -68,6 +68,7 @@ _(no contents provided yet)_
 : One of the most versatile mathematicians of all time. He made enormous contibutions to a wide range of mathematics and physics and left extensive works on curves, series, variation calculus, calculus, geometry, algebra, and on diverse topics of technology, mechanics, optics, and astronomy.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Riccati_Vincenzo/">Vincenzo Riccati</a>
+: An Italian Jesuit who worked on hyperbolic functions.
 
 ### 1709 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Riccati_Giordano/">Giordano Riccati</a>
@@ -152,6 +153,7 @@ _(no contents provided yet)_
 
 ### 1726 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hutton_James/">James Hutton</a>
+: A Scottish chemist and geologist best known for his theory of the age of the Earth. He was greatly influenced by Newton's work.
 
 ### 1728 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lambert/">Johann Heinrich Lambert</a>
@@ -233,8 +235,8 @@ _(no contents provided yet)_
 : An Italian-born French mathematician who excelled in all fields of analysis and number theory and analytical and celestial mechanics.
 
 ### 1737 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hutton/">James Hutton</a>
-: A Scottish chemist and geologist best known for his theory of the age of the Earth. He was greatly influenced by Newton's work.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hutton/">Charles Hutton</a>
+: An English mathematician who wrote arithmetic textbooks.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Vilant/">Nicolas Vilant</a>
 
@@ -255,6 +257,7 @@ _(no contents provided yet)_
 : Carl Friedrich Hindenburg published a series of works on combinatorial mathematics.
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Wilson_John/">John Wilson</a>
+: Best known for [Wilson's theorem][bookofproofs$8193]: If `$p$` is prime then `$1 + (p - 1)!$` is divisible by `$p$`.
 
 ### 1743 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Condorcet/">Marquis de Condorcet</a>
@@ -305,8 +308,8 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Laplace/">Pierre-Simon Laplace</a>
 : Pierre-Simon Laplace proved the stability of the solar system. In analysis Laplace introduced the potential function and Laplace coefficients. He also put the theory of mathematical probability on a sound footing.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Vince/">Vincenzo Riccati</a>
-: An Italian Jesuit who worked on hyperbolic functions.
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Vince/">Samuel Vince</a>
+: Samuel Vince came from a working class family but, with the support of several priests, was able to study the mathematical tripos at Cambridge and he was Senior Wrangler in 1775. He wrote many works on mathematics, physics and astronomy. He was Plumian professor of astronomy and experimental philosophy at Cambridge for 25 years.
 
 ### 1750 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Herschel_Caroline/">Caroline Herschel</a>

@@ -23,7 +23,7 @@ Formally, `\(G_1\equiv G_2\)` if and only if there exist two [bijective function
 
 This is equivalent to a transformation, in which the number of edges joining each pair of vertices in `\(G_1\)` is equal to the number of edges joining the corresponding pair of vertices in `\(G_2\)`. 
 
-Note: In the left side of the equation, `\(\rho(\gamma_1(e))\)` means that we relabel the end vertices `\(\gamma_1(e)\)` of given edge `\(e\)` in the the first graph `\(G_1\)`, obtaining in the right side of the equation the corresponding end vertices `\(\gamma_2(\epsilon(e))\)` of an edge `\(\epsilon(e)\)` of the second graph `\(G_2\)`.
+Note: In the left side of the equation, `\(\rho(\gamma_1(e))\)` means that we relabel the end vertices `\(\gamma_1(e)\)` of given edge `\(e\)` in the first graph `\(G_1\)`, obtaining in the right side of the equation the corresponding end vertices `\(\gamma_2(\epsilon(e))\)` of an edge `\(\epsilon(e)\)` of the second graph `\(G_2\)`.
 
 #### Example:
 

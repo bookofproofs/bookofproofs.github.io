@@ -23,7 +23,7 @@ Formally, `\(D_1\equiv D_2\)` if and only if there exist two [bijective function
 
 > `\((ii)\)` `\(\rho(\omega_1(e))=\omega_2(\epsilon(e))\)` for all `\(e\in E_1.\)`
  
-Note: In the left side of the two equations `\((i)\)` and `\((ii)\)`, `\(\rho(\alpha_1(e))\)` and `\(\rho(\omega_1(e))\)` mean that we relabel the initial and terminal vertices `\(\alpha_1(e)\)` and `\(\omega_1(e)\)` of given edge `\(e\)` in the the first digraph `\(D_1\)`, obtaining (in the right side of the two equations) the corresponding initial and terminal vertices `\(\alpha_2(\epsilon(e))\)` and `\(\omega_2(\epsilon(e))\)` of an edge `\(\epsilon(e)\)` in the second digraph `\(D_2\)`.
+Note: In the left side of the two equations `\((i)\)` and `\((ii)\)`, `\(\rho(\alpha_1(e))\)` and `\(\rho(\omega_1(e))\)` mean that we relabel the initial and terminal vertices `\(\alpha_1(e)\)` and `\(\omega_1(e)\)` of given edge `\(e\)` in the first digraph `\(D_1\)`, obtaining (in the right side of the two equations) the corresponding initial and terminal vertices `\(\alpha_2(\epsilon(e))\)` and `\(\omega_2(\epsilon(e))\)` of an edge `\(\epsilon(e)\)` in the second digraph `\(D_2\)`.
 
 #### Example:
 

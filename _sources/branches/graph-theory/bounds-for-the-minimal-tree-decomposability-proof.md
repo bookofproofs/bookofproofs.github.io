@@ -21,7 +21,7 @@ By hypothesis, `\(G(V,E,\gamma)\)` is a [finite][bookofproofs$6354] [undirected 
    * Assume, `\(G\)` has no loops.
    * If `\(G\)` has `\(l\)` [components][bookofproofs$1221], let `\(m_i\)` denote the number of vertices in the `\(i\)`-th component, `\(i=1,\ldots, l\)` with multiedges. 
    * If the `\(i\)`-th component contains vertices `\(v\)` and `\(w\)` connected by multiedges, the induced graph `\(G[v,w]\)` is not a tree. Note that `\(m_i\)` equals either `\(0\)` or is an even number `\(\ge 2\)`.
-   * Therefore, the `\(i\)`-th component can be decomposed into at least `\(k_i\)` trees, where `\(k_i\)` equals at least `\(1\)` or the the even number `\(m_l\ge 2\)` of vertices connected by multiedges.
+   * Therefore, the `\(i\)`-th component can be decomposed into at least `\(k_i\)` trees, where `\(k_i\)` equals at least `\(1\)` or the even number `\(m_l\ge 2\)` of vertices connected by multiedges.
    * It follows that `\(\tau(G)\ge\sum_{i=1}^l\max(1,m_i)\)`. 
 * **Lower and upper bounds for forests**:
    * If `\(G\)` is a [forest][bookofproofs$96] with `\(l\)` trees, each of its components is a tree, and each tree has the minimal tree decomposition of `\(1\)`. 

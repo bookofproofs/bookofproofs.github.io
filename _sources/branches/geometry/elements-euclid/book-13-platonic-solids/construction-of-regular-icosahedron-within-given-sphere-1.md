@@ -16,7 +16,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ### (Corollary to Proposition 16 from Book 13 of Euclid's “Elements”)
 
-> So, (it is) clear, from this, that the [square][bookofproofs$909] on the [diameter of the sphere][bookofproofs$2226] is five times the [square][bookofproofs$909] on the [radius][bookofproofs$690] of the [circle][bookofproofs$690] from which the [icosahedron][bookofproofs$2236] has been described, and that the the [diameter of the sphere][bookofproofs$2226] is the sum of (the side) of the [hexagon][bookofproofs$6448], and two of (the sides) of the [decagon][bookofproofs$6571], inscribed in the same [circle][bookofproofs$690].
+> So, (it is) clear, from this, that the [square][bookofproofs$909] on the [diameter of the sphere][bookofproofs$2226] is five times the [square][bookofproofs$909] on the [radius][bookofproofs$690] of the [circle][bookofproofs$690] from which the [icosahedron][bookofproofs$2236] has been described, and that the [diameter of the sphere][bookofproofs$2226] is the sum of (the side) of the [hexagon][bookofproofs$6448], and two of (the sides) of the [decagon][bookofproofs$6571], inscribed in the same [circle][bookofproofs$690].
 
 ![fig16ae](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book13/fig16ae.png?raw=true)
 

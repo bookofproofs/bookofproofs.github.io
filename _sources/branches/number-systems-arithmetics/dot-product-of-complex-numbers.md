@@ -29,7 +29,7 @@ be two complex numbers, i.e. [vectors represented by linear combinations][bookof
 &=&ac+bd
 \end{array}\]`
 
-where  `\(y^*\)` is the [complex conjugate][bookofproofs$1245] of `\(y\)` and `\(\Re(x\cdot y^*)\)` denotes the [real part][bookofproofs$216] of the the complex number `\(x\cdot y^*\)`. Please note that the dot product of complex numbers is always a [real number][bookofproofs$1105].
+where  `\(y^*\)` is the [complex conjugate][bookofproofs$1245] of `\(y\)` and `\(\Re(x\cdot y^*)\)` denotes the [real part][bookofproofs$216] of the complex number `\(x\cdot y^*\)`. Please note that the dot product of complex numbers is always a [real number][bookofproofs$1105].
 The following interactive figure shows two complex numbers (blue), which you can drag to see how their position influences the dot product (red).
 
 
