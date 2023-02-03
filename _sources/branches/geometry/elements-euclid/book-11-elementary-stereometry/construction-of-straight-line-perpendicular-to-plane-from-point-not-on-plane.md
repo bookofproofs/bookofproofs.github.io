@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 11 from Book 11 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > To draw a [perpendicular][bookofproofs$653] [straight line][bookofproofs$645] from a given raised [point][bookofproofs$631] to a given [plane][bookofproofs$657].
 * Let `$A$` be the given raised [point][bookofproofs$631], and the given plane the reference (plane).

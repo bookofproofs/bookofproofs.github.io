@@ -13,7 +13,8 @@ contributors: bookofproofs
 ---
 The [examples of nfa][bookofproofs$8502]":[bookofproofs$8502] give rise to the question, whether the class `$\mathcal L(\operatorname{NFA})$` of all languages accepted by any NFA is bigger than the class `$\mathcal L(\operatorname{DFA})$` of all languages accepted by any DFA, due to the non-determinism of the NFA, as compared to the determinism of the DFA.
 
-This question has been answered by Michael Rabin (1931 - ) and Dana S. Scott (1932 - ) in 1959 in "Finite Automata and Their Decision Problems":http://www.cse.chalmers.se/~coquand/AUTOMATA/rs.pdf.
+This question has been answered by Michael Rabin (1931 - ) and Dana S. Scott (1932 - ) in 1959 in 
+[Finite Automata and Their Decision Problems](https://www.cse.chalmers.se/~coquand/AUTOMATA/rs.pdf).
 
 ---
 

@@ -17,4 +17,4 @@ contributors: bookofproofs
 
 In a [complete graph][bookofproofs$6343] `\(K_n\)` with `\(n\ge 2\)` labeled vertices, the number of different [spanning trees][bookofproofs$6365] is `\(n^{n-2}\)`.
 
-This theorem was discovered by "Arthur Cayley":https://www.bookofproofs.org/history/arthur-cayley/.
+This theorem was discovered by [Arthur Cayley](https://mathshistory.st-andrews.ac.uk/Biographies/Cayley/) (1821 - 1895).

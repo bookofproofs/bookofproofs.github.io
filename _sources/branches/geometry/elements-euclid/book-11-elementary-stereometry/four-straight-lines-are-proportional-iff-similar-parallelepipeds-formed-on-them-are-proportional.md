@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 37 from Book 1 of Euclid's “Elements”)[^1]
+### Euclid's Formulation
 
 > If four [straight lines][bookofproofs$645] are [proportional][bookofproofs$2328] then the [similar][bookofproofs$2218], and similarly described, [parallelepiped solids][bookofproofs$2222] on them will also be [proportional][bookofproofs$2328]. And if the [similar][bookofproofs$2218], and similarly described, [parallelepiped solids][bookofproofs$2222] on them are [proportional][bookofproofs$2328] then the [straight lines][bookofproofs$645] themselves will be [proportional][bookofproofs$2328].
 * Let `$AB$`, `$CD$`, `$EF$`, and `$GH$`, be four [proportional][bookofproofs$2328] [straight lines][bookofproofs$645], (such that) as `$AB$` (is) to `$CD$`, so `$EF$` (is) to `$GH$`.

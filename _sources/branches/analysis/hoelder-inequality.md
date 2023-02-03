@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-The following inequality is named after "Ludwig Otto Hölder":https://www.bookofproofs.org/history/ludwig-otto-hoelder/.
+The following inequality is named after [Otto Hölder](https://mathshistory.st-andrews.ac.uk/Biographies/Holder/) (1859 - 1937).
 
 ---
 

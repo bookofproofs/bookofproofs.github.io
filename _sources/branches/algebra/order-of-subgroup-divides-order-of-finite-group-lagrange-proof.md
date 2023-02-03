@@ -16,4 +16,4 @@ contributors: bookofproofs
 
 * By hypothesis, `\((G,\ast)\)` is a [group][bookofproofs$671] with a [finite][bookofproofs$985] [order][bookofproofs$8071] `\(|G| < \infty\)` and `\(H\subseteq G\)` is its [subgroup][bookofproofs$554].
 * All [left cosets][bookofproofs$827] of `$G$` are disjoint and `$G$` is the [set union][bookofproofs$6827] of them.
-* Since the "subgroups and their cosets are equipotent:"https://www.bookofproofs.org/branches/subgroups-and-their-cosets-are-equipotent/, their order is `$|H|$` and there are exactly `$|G/H|$` of them.
+* Since the [subgroups and their cosets are equipotent][bookofproofs$8269], their order is `$|H|$` and there are exactly `$|G/H|$` of them.

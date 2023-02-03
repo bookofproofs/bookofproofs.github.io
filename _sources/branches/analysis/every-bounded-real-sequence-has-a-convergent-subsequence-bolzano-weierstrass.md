@@ -19,5 +19,5 @@ Every [bounded real sequence][bookofproofs$1136] `\((a_n)_{n\in\mathbb N}\)` has
 
 ### Notes
 
-* The theorem is named after "Bernard Bolzano":https://www.bookofproofs.org/history/bernard-placidus-johann-nepomuk-bolzano/ and "Karl-Theodor Weierstrass":https://www.bookofproofs.org/history/karl-theodor-wilhelm-weierstrass/.
+* The theorem is named after <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bolzano/">Bernard Bolzano</a> and <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Weierstrass/">Karl-Theodor Weierstrass</a>.
 * The theorem [can be also formulated for general metric spaces][bookofproofs$6608].

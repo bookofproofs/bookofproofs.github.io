@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 15 from Book 12 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > The bases of equal [cones][bookofproofs$2227] and [cylinders][bookofproofs$2230] are [reciprocally][bookofproofs$1952] [proportional][bookofproofs$2328] to their heights. And, those [cones][bookofproofs$2227] and [cylinders][bookofproofs$2230] whose bases (are) [reciprocally][bookofproofs$1952] [proportional][bookofproofs$2328] to their heights are equal.
 * Let there be equal [cones][bookofproofs$2227] and [cylinders][bookofproofs$2230] whose bases are the [circles][bookofproofs$690] `$ABCD$` and `$EFGH$`, and the [diameters][bookofproofs$6429] of (the bases) `$AC$` and `$EG$`, and (whose) axes (are) `$KL$` and `$MN$`, which are also the heights of the [cones][bookofproofs$2227] and [cylinders][bookofproofs$2230] (respectively).

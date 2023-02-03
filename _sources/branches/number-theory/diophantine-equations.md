@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-A **Diophantine equation** (named after "Diophantos of Alexandria":https://www.bookofproofs.org/history/diophantos-of-alexandria/) is an equation with one or more [integer][bookofproofs$844] variables `$x,y,z,\ldots$` (often involving also their [powers][bookofproofs$673]) and with integer coefficients `$a,b,c,\ldots$`
+A **Diophantine equation** (named after [Diophantos of Alexandria](https://mathshistory.st-andrews.ac.uk/Biographies/Diophantus/)) is an equation with one or more [integer][bookofproofs$844] variables `$x,y,z,\ldots$` (often involving also their [powers][bookofproofs$673]) and with integer coefficients `$a,b,c,\ldots$`
 
 A Diophantine equation is called **linear**  **quadratic**, **cubic**, etc. or, in general, *$n$th order*) if all variables have at most the power of `$1$` ($2$, `$3$`, etc. `$n$`).
 

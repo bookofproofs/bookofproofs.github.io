@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 28 from Book 9 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If an [odd number][bookofproofs$2318] makes some (number by) multiplying an [even (number) ][bookofproofs$2317] then the created (number) will be even.
 * For let the [odd number][bookofproofs$2318] `$A$` make `$C$` [ (by) multiplying][bookofproofs$6437] the [even (number) ][bookofproofs$2317] `$B$`.

@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-This inequality is named after "Hermann Minkowski":https://www.bookofproofs.org/history/hermann-minkowski/ (1864 - 1909). It is a generalization of the [triangle inequality][bookofproofs$588] for `$p=1.$`
+This inequality is named after [Hermann Minkowski](https://mathshistory.st-andrews.ac.uk/Biographies/Minkowski/) (1864 - 1909). It is a generalization of the [triangle inequality][bookofproofs$588] for `$p=1.$`
 
 ---
 

@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 25 from Book 7 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If two [numbers][bookofproofs$2315] are [prime to one another][bookofproofs$1288] then the number created from (squaring) one of them will be [prime to][bookofproofs$1288] the remaining (number).
 * Let `$A$` and `$B$` be two [numbers][bookofproofs$2315] (which are) [prime to one another][bookofproofs$1288].

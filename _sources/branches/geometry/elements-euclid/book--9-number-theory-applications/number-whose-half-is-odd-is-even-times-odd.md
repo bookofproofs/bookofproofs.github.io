@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 33 from Book 9 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If a [number][bookofproofs$2315] has an [odd][bookofproofs$2318] half then it is an [even-times-odd (number) ][bookofproofs$2320] only.
 * For let the number `$A$` have an [odd][bookofproofs$2318] half.

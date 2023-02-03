@@ -25,4 +25,4 @@ is called the **Lorentz factor**[^2].
 
 [^1]: If both inertial frames of reference are in a vacuum, this speed equals `\(c=299\,792\,458~m/s.\)`
 
-[^2]: Named so after "Hendrik Antoon Lorentz":https://www.bookofproofs.org/history/hendrik-antoon-lorentz/.
+[^2]: Named so after <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lorentz/">Hendrik Antoon Lorentz</a> (1853 - 1928).

@@ -80,7 +80,7 @@ f_{20}&v_{2}&v_{9}&v_{11}\\
 \end{array}\]`
 
 
-[^1]: This will be proven in the "Proposition 18 of Book 13 of Euclid's Elements":https://www.bookofproofs.org/branches/comparison-of-sides-of-platonic-solids-there-are-only-five-platonic-solids/, thus the icosahedron is well-defined.
+[^1]: This will be proven in the [Prop. 18 of Book 13][bookofproofs$2312], thus the icosahedron is well-defined.
 
 
 §§§1

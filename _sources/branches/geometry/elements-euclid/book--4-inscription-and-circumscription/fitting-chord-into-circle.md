@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 1 from Book 4 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > To [insert][bookofproofs$1012] a [straight line][bookofproofs$645] equal to a given [straight line][bookofproofs$645] into a [circle][bookofproofs$690], (the latter [straight line][bookofproofs$645]) not being greater than the [diameter][bookofproofs$6429] of the [circle][bookofproofs$690].
 * Let `$ABC$` be the given [circle][bookofproofs$690], and `$D$` the given [straight line][bookofproofs$645] (which is) not greater than the [diameter][bookofproofs$6429] of the [circle][bookofproofs$690].

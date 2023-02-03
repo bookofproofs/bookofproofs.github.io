@@ -18,7 +18,7 @@ contributors: bookofproofs
 Searching is a basic operation used in many calculation problems, wherever an element or information has to be found in a big number of items stored before. In general, searching involves **datasets**, each having a **key**. The goal of a search operation is to find a dataset having a specific key. 
 
 The most common data structures used in searching are:
-* "tables":https://www.bookofproofs.org/branches/tables,
+* tables,
 * [trees][bookofproofs$154] and
 * [files][bookofproofs$386].
 The obvious application of a search operation is to be used with some different other operations like:

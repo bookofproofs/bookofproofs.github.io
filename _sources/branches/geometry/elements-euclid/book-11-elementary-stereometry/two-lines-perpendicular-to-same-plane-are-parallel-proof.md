@@ -26,7 +26,7 @@ contributors: bookofproofs,@fitzpatrick
 * And let `$DE$` have been drawn at [right angles][bookofproofs$653] to `$BD$` in the reference [plane][bookofproofs$647].
 * And let `$DE$` be made equal to `$AB$`.
 * And let `$BE$`, `$AE$`, and `$AD$` have been joined.
-* And since `$AB$` is at "right angles to the reference [plane][bookofproofs$647]":https://www.bookofproofs.org/branches/straight-line-at-right-angles-to-a-plane/, it will [thus] also make [right angles][bookofproofs$653] with all [straight lines][bookofproofs$645] joined to it which are in the reference [plane][bookofproofs$647] [ [Def. 11.3] ][bookofproofs$2212].
+* And since `$AB$` is at [right angles to the reference plane][bookofproofs$2212], it will [thus] also make [right angles][bookofproofs$653] with all [straight lines][bookofproofs$645] joined to it which are in the reference [plane][bookofproofs$647] [ [Def. 11.3] ][bookofproofs$2212].
 * And `$BD$` and `$BE$`, which are in the reference [plane][bookofproofs$647], are each joined to `$AB$`.
 * Thus, each of the [angles][bookofproofs$650] `$ABD$` and `$ABE$` are [right angles][bookofproofs$653].
 * So, for the same (reasons), each of the [angles][bookofproofs$650] `$CDB$` and `$CDE$` are also [right angles][bookofproofs$653].

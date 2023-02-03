@@ -14,7 +14,7 @@ contributors: bookofproofs,@calahan,@casey,@fitzpatrick
 
 ---
 
-
+### Euclid's Formulation
 
 > A **circle** is a [plane figure][bookofproofs$6427] contained by a single [line][bookofproofs$636] [which is called a **circumference**], (such that) all of the [straight lines][bookofproofs$645]  **radiating** towards [the circumference] from one [point][bookofproofs$631] amongst those lying inside the figure are [congruent][bookofproofs$2781] to one another.
 

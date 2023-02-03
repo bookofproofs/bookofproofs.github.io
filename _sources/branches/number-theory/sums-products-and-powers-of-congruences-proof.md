@@ -15,7 +15,9 @@ contributors: bookofproofs
 
 ---
 
-* The [sum][bookofproofs$261] and product formulae follow by [induction][bookofproofs$657] from the proposition about "addition, subtraction and multiplication of Congruences":https://www.bookofproofs.org/branches/addition-subtraction-and-multiplication-of-congruences-commutative-ring/.[^1]
+* The [sum][bookofproofs$261] and product formulae follow by [induction][bookofproofs$657] from the proposition about 
+[addition, subtraction and multiplication of congruences][bookofproofs$8156][^1].
+
 * The power formula follows from the product formula by setting `$a:=a_1=\ldots=a_r.$`
 
 

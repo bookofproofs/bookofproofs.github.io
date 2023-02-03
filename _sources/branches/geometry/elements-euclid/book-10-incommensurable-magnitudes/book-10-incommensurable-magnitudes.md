@@ -15,4 +15,4 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-The theory of incommensurable magnitudes set out in this book is generally attributed to "Theaetetus of Athens":https://www.bookofproofs.org/history/theaetetus-of-athens/.
+The theory of incommensurable magnitudes set out in this book is generally attributed to [Theaetetus of Athens](https://mathshistory.st-andrews.ac.uk/Biographies/Theaetetus/).

@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-The following theorem is known as the _Chinese remainder theorem_ because it was discovered by "Qin Jiushao":https://www.bookofproofs.org/history/qin-jiushao/ (1202 - 1261).
+The following theorem is known as the _Chinese remainder theorem_ because it was discovered by [Qin Jiushao](https://mathshistory.st-andrews.ac.uk/Biographies/Qin_Jiushao/) (1202 - 1261).
 
 ---
 

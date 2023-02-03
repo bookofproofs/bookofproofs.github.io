@@ -22,4 +22,4 @@ An [integer][bookofproofs$844] `$n > 1$` is a [prime number][bookofproofs$473] i
 ### Notes
 
 * In this equation, `$(n-1)!$` denotes the [factorial][bookofproofs$1005] of `$(n-1).$` 
-* This proposition is also known as *Wilson's theorem*, called after its discoverer "John Wilson":https://www.bookofproofs.org/history/john-wilson/ (1741 - 1793).
+* This proposition is also known as *Wilson's theorem*, called after its discoverer, [John Wilson](https://mathshistory.st-andrews.ac.uk/Biographies/Wilson_John/) (1741 - 1793).

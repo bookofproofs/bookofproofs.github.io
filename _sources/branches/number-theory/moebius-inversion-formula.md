@@ -11,7 +11,8 @@ contributors: bookofproofs
 
 
 ---
-The _Möbius inversion formula_ is a useful tool allowing to calculate sums of [arithmetic functions][bookofproofs$232]. It was developed by "August Ferdinand Möbius":https://www.bookofproofs.org/history/august-ferdinand-moebius/ (1790 – 1868).
+The _Möbius inversion formula_ is a useful tool allowing to calculate sums of [arithmetic functions][bookofproofs$232]. 
+It was developed by [August Möbius](https://mathshistory.st-andrews.ac.uk/Biographies/Mobius/) (1790 – 1868).
 
 ---
 

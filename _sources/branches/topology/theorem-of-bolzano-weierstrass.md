@@ -20,4 +20,4 @@ Let `$X$` be a [metric space][bookofproofs$617] and let `\(A\subset X\)` be a [c
 ### Notes
 
 * This theorem is a generalization of the corresponding theorem for [real sequences][bookofproofs$1152].
-* The theorem is named after "Bernard Bolzano":https://www.bookofproofs.org/history/bernard-placidus-johann-nepomuk-bolzano/ and "Karl-Theodor Weierstrass":https://www.bookofproofs.org/history/karl-theodor-wilhelm-weierstrass/.
+* The theorem is named after <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bolzano/">Bernard Bolzano</a> and <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Weierstrass/">Karl-Theodor Weierstrass</a>.

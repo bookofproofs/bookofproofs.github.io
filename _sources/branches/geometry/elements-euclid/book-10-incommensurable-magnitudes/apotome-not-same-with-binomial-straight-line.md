@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 111 from Book 10 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > An [apotome][bookofproofs$2167] is not the same as a [binomial][bookofproofs$2130].
 * Let `$AB$` be an [apotome][bookofproofs$2167].

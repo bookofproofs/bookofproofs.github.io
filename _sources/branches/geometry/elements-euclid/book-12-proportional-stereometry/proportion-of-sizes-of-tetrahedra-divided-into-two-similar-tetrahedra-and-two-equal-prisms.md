@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 4 from Book 12 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If there are two [pyramids][bookofproofs$2221] with the same [height][bookofproofs$1986], having trianglular bases, and each of them is divided into two [pyramids][bookofproofs$2221] equal to one another, and [similar][bookofproofs$2218] to the whole, and into two equal [prisms][bookofproofs$2222] then as the base of one [pyramid][bookofproofs$2221] (is) to the base of the other [pyramid][bookofproofs$2221], so (the sum of) all the [prisms][bookofproofs$2222] in one [pyramid][bookofproofs$2221] will be to (the sum of all) the equal number of [prisms][bookofproofs$2222] in the other [pyramid][bookofproofs$2221].
 * Let there be two [pyramids][bookofproofs$2221] with the same [height][bookofproofs$1986], having the [triangular][bookofproofs$6432] bases `$ABC$` and `$DEF$`, (with) apexes the [points][bookofproofs$631] `$G$` and `$H$` (respectively).

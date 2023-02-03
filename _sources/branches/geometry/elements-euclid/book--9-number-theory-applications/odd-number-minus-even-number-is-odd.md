@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 27 from Book 9 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If an [even (number) ][bookofproofs$2317] is subtracted from an [odd number][bookofproofs$2318] then the remainder will be odd.
 * For let the [even (number) ][bookofproofs$2317] `$BC$` have been subtracted from the [odd (number) ][bookofproofs$2318] `$AB$`.

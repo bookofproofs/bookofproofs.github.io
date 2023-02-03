@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 50 from Book 10 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > To find a [third binomial][bookofproofs$2087] ([straight line][bookofproofs$645]).
 * Let the two [numbers][bookofproofs$2315] `$AC$` and `$CB$` be laid down such that their sum `$AB$` has to `$BC$` the [ratio][bookofproofs$1948] which (some) [square number][bookofproofs$2326] (has) to (some) [square number][bookofproofs$2326], and does not have to `$AC$` the [ratio][bookofproofs$1948] which (some) [square number][bookofproofs$2326] (has) to (some) [square number][bookofproofs$2326].

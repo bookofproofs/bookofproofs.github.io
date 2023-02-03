@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 57 from Book 10 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If an area is [contained][bookofproofs$1014] by a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) and a [fourth binomial][bookofproofs$2088] ([straight line][bookofproofs$645]) then the [square root][bookofproofs$46] of the area is the irrational ([straight line][bookofproofs$645] which is) called [major][bookofproofs$2133].
 * For let the area `$AC$` be contained by the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$AB$` and the [fourth binomial][bookofproofs$2088] ([straight line][bookofproofs$645]) `$AD$`, which has been divided into its (component) terms at `$E$`, of which let `$AE$` be the greater.

@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-This convergence test is due to "Joseph Raabe":https://www.bookofproofs.org/history/joseph-ludwig-raabe (1801 - 1859).
+This convergence test is due to [Joseph Raabe](https://mathshistory.st-andrews.ac.uk/Biographies/Raabe/) (1801 - 1859).
 
 ---
 

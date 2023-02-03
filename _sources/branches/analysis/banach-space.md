@@ -16,4 +16,4 @@ contributors:
 ---
 
 A [normed vector space][bookofproofs$846] `\((V,||~||)\)` is called a **Banach space**, if it is [complete][bookofproofs$377].
-The Banach space is named after the Polish mathematician, "Stefan Banach":https://www.bookofproofs.org/history/stefan-banach/.
+The Banach space is named after the Polish mathematician, [Stefan Banach](https://mathshistory.st-andrews.ac.uk/Biographies/Banach/).

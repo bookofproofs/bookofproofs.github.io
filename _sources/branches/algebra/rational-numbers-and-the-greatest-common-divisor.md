@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-Let `$\frac{a}b\in\mathbb Q$` be a [rational number][bookofproofs$1033] with `$0 < a$` and `$0 < b.$` In the "proof of the greatest common divisor":https://www.bookofproofs.org/branches/greatest-common-divisor-python/proof/ for the calculation of the [greatest common divisor][bookofproofs$1280] `$\gcd(a,b)$`, the Euclidean algorithm can be written with a sequence of rational numbers defined as follows:
+Let `$\frac{a}b\in\mathbb Q$` be a [rational number][bookofproofs$1033] with `$0 < a$` and `$0 < b.$` In the [proof of the greatest common divisor][bookofproofs$1286] for the calculation of the [greatest common divisor][bookofproofs$1280] `$\gcd(a,b)$`, the Euclidean algorithm can be written with a sequence of rational numbers defined as follows:
 
 `$$\begin{array}{rclclcl}
 \frac{a}{b} & = & q_0 & + & \frac{r_1}{b} & \text{with} & q_0\in\mathbb N,\; 0 < r_1 < b\\

@@ -17,7 +17,8 @@ We will prove later a result of <a href="https://mathshistory.st-andrews.ac.uk/B
 
 will create a never-ending hierarchy of infinite sets which become greater and greater. Moreover, this hierarchy is the starting point of the so-called [continuum hypothesis][bookofproofs$268] - a fascinating hypothesis formulated by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cantor/">Georg Cantor</a> (1845 - 1918) which he could not prove for the rest of his life. Thousands of mathematicians failed to prove it either until the continuum hypothesis was shown decades later to be undecidable in the set theory based only on the Zermelo-Fraenkel axioms. This means that it is not provable in contemporary mathematics, because the set theory is a basis of today's mathematics. But we will be talking about these fascinating topics in more detail later.
 
-For the time being, we introduce another axiom established by "Zermelo":https://www.bookofproofs.org/history/ernst-friedrich-ferdinand-zermelo/ and "Skolem":https://www.bookofproofs.org/history/thoralf-albert-skolem/ independently from each other when they studied the above hierarchy of cardinals. They noticed that all axioms we have introduced so far are not sufficient to ensure the existence of a chain `$X\rightarrow \mathcal P(X)\rightarrow \mathcal P(\mathcal P(X))\rightarrow\ldots$` This axiom is called the axiom of replacement.
+For the time being, we introduce another axiom established by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Zermelo/">Zermelo</a> and 
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Skolem/">Skolem</a> independently of each other when they studied the above hierarchy of cardinals. They noticed that all axioms we have introduced so far are not sufficient to ensure the existence of a chain `$X\rightarrow \mathcal P(X)\rightarrow \mathcal P(\mathcal P(X))\rightarrow\ldots$` This axiom is called the axiom of replacement.
 
 ---
 

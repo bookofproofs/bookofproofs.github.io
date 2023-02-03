@@ -44,4 +44,4 @@ The following figure demonstrates the interlacement graph of our example:
 
 [^2]: Please note that every cycle has a planar drawing. The condition requiring `\(C\)` to have a planar drawing is made in this definition only for the reason to make sure that an interior and exterior of the drawing of `\(C\)` exists.
 
-[^3]: The existence of an interior and an exterior region follows from the Jordan Curve Theorem (still to be done at bookofproofs.org).
+[^3]: The existence of an interior and an exterior region follows from the Jordan Curve Theorem (still to be done at <strong><span style='color:orange'>BookOf</span><span style='color:lightblue'>Proofs</span></strong>).

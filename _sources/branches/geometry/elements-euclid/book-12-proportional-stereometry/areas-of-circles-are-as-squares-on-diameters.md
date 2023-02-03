@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 2 from Book 12 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > [Circles][bookofproofs$690] are to one another as the [squares][bookofproofs$909] on (their) [diameters][bookofproofs$6429].
 * Let `$ABCD$` and `$EFGH$` be [circles][bookofproofs$690], and [let] `$BD$` and `$FH$` [be] their [diameters][bookofproofs$6429].

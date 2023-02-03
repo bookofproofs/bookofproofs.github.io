@@ -16,8 +16,6 @@ contributors: bookofproofs
 
 Many proofs can be written by following some standard guidelines or good practices to write a proof. 
 
-bookofproofs.org will automatically suggest you the right proof template when you select a proof type, before posting a proof.
-
 ### Basic Template for Proofs
 
 1. Set the context of the proof.

@@ -17,7 +17,7 @@ contributors: bookofproofs,@fitzpatrick
 
 
 
-* Let there be "Similar cones and cylinders":https://www.bookofproofs.org/branches/similar-cones,-similar-cylinders/ of which the bases (are) the [circles][bookofproofs$690] `$ABCD$` and `$EFGH$`, the [diameters][bookofproofs$6429] of the bases (are) `$BD$` and `$FH$`, and the axes of the [cones][bookofproofs$2227] and [cylinders][bookofproofs$2230] (are) `$KL$` and `$MN$` (respectively).
+* Let there be [similar cones and cylinders][bookofproofs$2233] of which the bases (are) the [circles][bookofproofs$690] `$ABCD$` and `$EFGH$`, the [diameters][bookofproofs$6429] of the bases (are) `$BD$` and `$FH$`, and the axes of the [cones][bookofproofs$2227] and [cylinders][bookofproofs$2230] (are) `$KL$` and `$MN$` (respectively).
 * I say that the [cone][bookofproofs$2227] whose [base][bookofproofs$2229] [is] [circle][bookofproofs$690] `$ABCD$`, and apex the [point][bookofproofs$631] `$L$`, has to the [cone][bookofproofs$2227] whose [base][bookofproofs$2229] [is] [circle][bookofproofs$690] `$EFGH$`, and apex the [point][bookofproofs$631] `$N$`, the [cubed ratio][bookofproofs$1949] that `$BD$` (has) to `$FH$`.
 
 ![fig12e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book12/fig12e.png?raw=true)
@@ -41,7 +41,7 @@ contributors: bookofproofs,@fitzpatrick
 * And let `$LBT$` be one of the [triangles][bookofproofs$6432] containing the [pyramid][bookofproofs$2221] whose base is [polygon][bookofproofs$687] `$ATBUCVDW$`, and apex the [point][bookofproofs$631] `$L$`.
 * And let `$NFP$` be one of the [triangles][bookofproofs$6432] containing the [pyramid][bookofproofs$2221] whose base is [triangle][bookofproofs$6432] `$EPFQGRHS$`, and apex the [point][bookofproofs$631] `$N$`.
 * And let `$KT$` and `$MP$` have been joined.
-* And since [cone][bookofproofs$2227] `$ABCDL$` is [similar][bookofproofs$2218] to [cone][bookofproofs$2227] `$EFGHN$`, thus as `$BD$` is to `$FH$`, so axis `$KL$` (is) to axis `$MN$` " [Def. 11.24] ":https://www.bookofproofs.org/branches/similar-cones,-similar-cylinders/.
+* And since [cone][bookofproofs$2227] `$ABCDL$` is [similar][bookofproofs$2218] to [cone][bookofproofs$2227] `$EFGHN$`, thus as `$BD$` is to `$FH$`, so axis `$KL$` (is) to axis `$MN$` [[Def. 11.24]][bookofproofs$2233].
 * And as `$BD$` (is) to `$FH$`, so `$BK$` (is) to `$FM$`.
 * And, thus, as `$BK$` (is) to `$FM$`, so `$KL$` (is) to `$MN$`.
 * And, alternately, as `$BK$` (is) to `$KL$`, so `$FM$` (is) to `$MN$` [[Prop. 5.16]][bookofproofs$1973].
@@ -89,5 +89,5 @@ contributors: bookofproofs,@fitzpatrick
 * And as the [cone][bookofproofs$2227] (is) to the [cone][bookofproofs$2227], so the [cylinder][bookofproofs$2230] (is) to the [cylinder][bookofproofs$2230].
 * For a [cylinder][bookofproofs$2230] is three times a [cone][bookofproofs$2227] on the same base as the [cone][bookofproofs$2227], and of the same [height][bookofproofs$1986] as it [[Prop. 12.10]][bookofproofs$2286].
 * Thus, the [cylinder][bookofproofs$2230] also has to the [cylinder][bookofproofs$2230] the [cubed ratio][bookofproofs$1949] that `$BD$` (has) to `$FH$`.
-* Thus, "Similar cones and cylinders":https://www.bookofproofs.org/branches/similar-cones,-similar-cylinders/ are in the [cubed ratio][bookofproofs$1949] of the [diameters][bookofproofs$6429] of their bases.
+* Thus, [similar cones and cylinders][bookofproofs$2233] are in the [cubed ratio][bookofproofs$1949] of the [diameters][bookofproofs$6429] of their bases.
 * (Which is) the very thing it was required to show.

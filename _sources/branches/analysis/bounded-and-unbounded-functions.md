@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-Let `\(X\)` be a "set":https://www.bookofproofs.org/branches/set-set-element-empty-set-cantor/[^1]. A [function][bookofproofs$592]  `\(f:X\to \mathbb R\)`, i.e. a function mapping this set to the set of [real numbers][bookofproofs$1105]  is called 
+Let `\(X\)` be a [set][bookofproofs$550][^1]. A [function][bookofproofs$592]  `\(f:X\to \mathbb R\)`, i.e. a function mapping this set to the set of [real numbers][bookofproofs$1105]  is called 
 
 1. **bounded above**, if `\(f(X)\)` is [bounded above][bookofproofs$584].
 1. **bounded below**, if `\(f(X)\)` is [bounded below][bookofproofs$584].

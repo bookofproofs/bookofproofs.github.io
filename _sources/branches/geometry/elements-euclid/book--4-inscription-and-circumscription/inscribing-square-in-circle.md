@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 6 from Book 4 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > To [inscribe][bookofproofs$1920] a [square][bookofproofs$909] in a given [circle][bookofproofs$690].
 * Let `$ABCD$` be the given [circle][bookofproofs$690].

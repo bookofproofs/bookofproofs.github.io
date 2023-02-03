@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-From a [necessary condition for an integer to be prime][bookofproofs$8191] it follows that `$n^{\frac{p-1}{2}}(p)\equiv\pm 1(p),$` since `$n^{p-1}(p)\equiv 1(p)$` if `$p\not\mid n$` and `$p$` is a [prime number][bookofproofs$473]. This motivates the following criterion, found by "Leonhard Euler":https://www.bookofproofs.org/history/leonhard-euler/.
+From a [necessary condition for an integer to be prime][bookofproofs$8191] it follows that `$n^{\frac{p-1}{2}}(p)\equiv\pm 1(p),$` since `$n^{p-1}(p)\equiv 1(p)$` if `$p\not\mid n$` and `$p$` is a [prime number][bookofproofs$473]. This motivates the following criterion, found by [Leonhard Euler](https://mathshistory.st-andrews.ac.uk/Biographies/Euler/).
 
 ---
 

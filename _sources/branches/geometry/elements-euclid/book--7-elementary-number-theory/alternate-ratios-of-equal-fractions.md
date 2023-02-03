@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 9 from Book 7 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If a number is [part][bookofproofs$703] of a number, and another (number) is the same [part][bookofproofs$703] of another, also, alternately, which(ever) [part][bookofproofs$703], or [parts][bookofproofs$2323], the first (number) is of the third, the second (number) will also be the same [part][bookofproofs$703], or the same [parts][bookofproofs$2323], of the fourth.
 * For let a number `$A$` be [part][bookofproofs$703] of a number `$BC$`, and another (number) `$D$` (be) the same [part][bookofproofs$703] of another `$EF$` that `$A$` (is) of `$BC$`.

@@ -15,7 +15,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 17 from Book 12 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > There being two [spheres][bookofproofs$2223] about the same [center][bookofproofs$6428], to inscribe a polyhedral [solid][bookofproofs$2210] in the greater [sphere][bookofproofs$2223], not touching the lesser [sphere][bookofproofs$2223] on its surface.
 * Let two [spheres][bookofproofs$2223] have been conceived about the same [center][bookofproofs$6428], `$A$`.

@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 31 from Book 9 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If an [odd number][bookofproofs$2318] is [prime to][bookofproofs$1288] some number then it will also be [prime to][bookofproofs$1288] its double.
 * For let the [odd number][bookofproofs$2318] `$A$` be [prime to][bookofproofs$1288] some number `$B$`.

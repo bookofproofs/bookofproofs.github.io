@@ -20,7 +20,9 @@ One of the big problems of this approach was the so-called _homogeneity principl
 
 `$$b\text { times }a +  2\text{ times } a \text{ be equal }10.$$`
 
-The first philosopher and mathematician who broke with the homogeneity principle and simplified the notation - in other words, the inventor of the "mathematical formula" - was "René Descartes":https://www.bookofproofs.org/history/rene-descartes (1596 - 1650). Like contemporary mathematicians, he also considered numbers as valid only, if they could be interpreted as lengths, areas, and volumes. Therefore, he had to somehow bypass the homogeneity principle. Surprisingly, he found a solution in the [Prop 6.02][bookofproofs$1988] in the ancient [Elements][bookofproofs$621] of "Euclid":https://www.bookofproofs.org/history/euclid-of-alexandria, also known as the **intercept theorem**, but nobody was able to discover this solution before Descartes. The intercept theorem states that in a geometrical arrangement like this,
+The first philosopher and mathematician who broke with the homogeneity principle and simplified the notation - in other words, the inventor of the "mathematical formula" - 
+was <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Descartes/">René Descartes</a> (1596 - 1650). Like contemporary mathematicians, he also considered numbers as valid only, if they could be interpreted as lengths, areas, and volumes. Therefore, he had to somehow bypass the homogeneity principle. Surprisingly, he found a solution in the [Prop 6.02][bookofproofs$1988] in the ancient [Elements][bookofproofs$621] of 
+[Euclid](https://mathshistory.st-andrews.ac.uk/Biographies/Euclid/), also known as the **intercept theorem**, but nobody was able to discover this solution before Descartes. The intercept theorem states that in a geometrical arrangement like this,
 
 
 ![intercept1](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/intercept1.png?raw=true)

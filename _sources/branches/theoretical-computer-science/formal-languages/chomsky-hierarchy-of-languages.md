@@ -91,4 +91,4 @@ S&\to&aSBC\\
 An example can be a language, the words of which code a _terminating_ [Turing machine][bookofproofs$297]. We will see later what it is and why this language is not context-sensitive.
 
 
-[^1]: see "Noam Chomsky, 'Syntactic Structure'":https://www.academia.edu/4073170/Noam_Chomsky_Syntactic_Structure, 1957
+[^1]: see [Noam Chomsky, 'Syntactic Structure'](https://www.academia.edu/4073170/Noam_Chomsky_Syntactic_Structure), 1957

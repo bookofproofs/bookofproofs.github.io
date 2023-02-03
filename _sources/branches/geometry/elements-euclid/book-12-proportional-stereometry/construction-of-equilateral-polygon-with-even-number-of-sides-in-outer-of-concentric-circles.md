@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 16 from Book 12 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > There being two [circles][bookofproofs$690] about the same [center][bookofproofs$6428], to inscribe an equilateral and even-sided [polygon][bookofproofs$687] in the greater [circle][bookofproofs$690], not touching the lesser [circle][bookofproofs$690].
 * Let `$ABCD$` and `$EFGH$` be the given two [circles][bookofproofs$690], about the same [center][bookofproofs$6428], `$K$`.

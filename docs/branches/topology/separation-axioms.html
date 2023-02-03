@@ -48,24 +48,25 @@
 <h1>Axiom: Separation Axioms</h1>
 <p>Let $(X,\mathcal O)$ be a <a href="https://bookofproofs.github.io/branches/topology/topological-space-topology.html" title="Topology / Definition: Topological Space, Topology">topological space</a> $X$ can be postulated to fulfill the following <strong>separation axioms</strong>:</p>
 <h3>Kolmogorov Space $T_0$</h3>
-<p>Among any two different points only one has an open set containing it, formally $$a,b\in X, a\neq b\Longrightarrow \exists O\in\mathcal O:\; (a\in O, b\not\in O)\vee (a\not\in O, b\in O).$$ In this case, $X$ is called a <strong>Kolmogorov space</strong> ("Andrey Kolmogorov":<a href="https://www.bookofproofs.org/history/andrey-nikolaevich-kolmogorov">https://www.bookofproofs.org/history/andrey-nikolaevich-kolmogorov</a> (1903 - 1987)).</p>
+<p>Among any two different points only one has an open set containing it, formally $$a,b\in X, a\neq b\Longrightarrow \exists O\in\mathcal O:\; (a\in O, b\not\in O)\vee (a\not\in O, b\in O).$$ In this case, $X$ is called a <strong>Kolmogorov space</strong> (<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kolmogorov/">Andrey Kolmogorov</a> (1903 - 1987)).</p>
 <p><img alt="separationt0" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/separationt0.png?raw=true" /></p>
 <h3>Fréchet Space $T_1$</h3>
-<p>Among any two different points both have an open set containing only this point but not the other, formally $$a,b\in X, a\neq b\Longrightarrow \exists O_a,O_b\in\mathcal O:\; (a\in O_a, b\not\in O_a)\wedge (a\not\in O_b, b\in O_b).$$ In this case, $X$ is called a <em>Fréchet space</em> ("René Fréchet":<a href="https://www.bookofproofs.org/history/rene-maurice-frechet">https://www.bookofproofs.org/history/rene-maurice-frechet</a>" (1878 - 1973)).</p>
+<p>Among any two different points both have an open set containing only this point but not the other, formally $$a,b\in X, a\neq b\Longrightarrow \exists O_a,O_b\in\mathcal O:\; (a\in O_a, b\not\in O_a)\wedge (a\not\in O_b, b\in O_b).$$ In this case, $X$ is called a <em>Fréchet space</em> (<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Frechet/">René Maurice Fréchet</a> (1878 - 1973)).</p>
 <p><img alt="separationt1" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/separationt1.png?raw=true" /></p>
 <h3>Hausdorff Space $T_2$</h3>
 <p>Two distinct points have to distinct open sets containing them, formally 
-$$a,b\in X, a\neq b\Longrightarrow \exists O_a,O_b\in\mathcal O:\; (a\in O_a)\wedge (b\in O_b)\wedge (O_a\cap O_b=\emptyset).$$ In this case, $X$ is called a <strong>Hausdorff space</strong> ("Felix Hausdorff":<a href="https://www.bookofproofs.org/history/felix-hausdorff/">https://www.bookofproofs.org/history/felix-hausdorff/</a> (1868 - 1942)).</p>
+$$a,b\in X, a\neq b\Longrightarrow \exists O_a,O_b\in\mathcal O:\; (a\in O_a)\wedge (b\in O_b)\wedge (O_a\cap O_b=\emptyset).$$ In this case, $X$ is called a <strong>Hausdorff space</strong> 
+(<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hausdorff/">Felix Hausdorff</a> (1868 - 1942)).</p>
 <p><img alt="separationt2" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/separationt2.png?raw=true" /></p>
 <h3>Vietoris Space $T_3$</h3>
 <p>For every <a href="https://bookofproofs.github.io/branches/topology/open-closed-clopen.html" title="Topology / Definition: Open, Closed, Clopen">closed set</a> and every point not contained in it there are open sets containing them respectively, formally 
 $$x\not\in U\subset X\Longrightarrow \exists O_U,O_x\in\mathcal O:\; (U\subset O_U)\wedge (x\in O_x).$$ 
-In this case, $X$ is called a <strong>Vietoris space</strong> ("Leopold Vietoris":<a href="https://www.bookofproofs.org/history/leopold-vietoris">https://www.bookofproofs.org/history/leopold-vietoris</a>" (1891 - 2002)).</p>
+In this case, $X$ is called a <strong>Vietoris space</strong> (<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Vietoris/">Leopold Vietoris</a> (1891 - 2002)).</p>
 <p><img alt="separationt3" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/separationt3.png?raw=true" /></p>
 <h3>Tietze Space $T_4$</h3>
 <p>For any two disjoint <a href="https://bookofproofs.github.io/branches/topology/open-closed-clopen.html" title="Topology / Definition: Open, Closed, Clopen">closed sets</a> there are disjoint open sets containing them, formally 
 $$U,W\subset X\text{ closed }, U\cap W=\emptyset \Longrightarrow \exists O_U,O_W\in\mathcal O:\; (U\subset O_U)\wedge (W\subset O_W)\wedge (O_U\cap O_W=\emptyset).$$ 
-In this case, $X$ is called a <strong>Tietze space</strong> ("Franz Tietze":<a href="https://www.bookofproofs.org/history/heinrich-franz-friedrich-tietze&quot;:https://www.bookofproofs.org/history/leopold-vietoris">https://www.bookofproofs.org/history/heinrich-franz-friedrich-tietze":https://www.bookofproofs.org/history/leopold-vietoris</a>" (1880 - 1964)).</p>
+In this case, $X$ is called a <strong>Tietze space</strong> (<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Tietze/">Franz Tietze</a> (1880 - 1964)).</p>
 <p><img alt="separationt4" src="https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/separationt4.png?raw=true" /></p>
 <hr>
 <p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span><br><a href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a> <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/topology/separation-axioms.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a><br><br></p>

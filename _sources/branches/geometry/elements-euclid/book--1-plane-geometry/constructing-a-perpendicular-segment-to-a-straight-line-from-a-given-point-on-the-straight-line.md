@@ -14,7 +14,7 @@ contributors: bookofproofs,@calahan,@casey,@fitzpatrick
 
 ---
 
-### (Proposition 11 from Book 1 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > To draw a [straight line][bookofproofs$645] at [right angles][bookofproofs$653] to a given [straight line][bookofproofs$645] from a given [point][bookofproofs$631] on it.
 * Let `$AB$` be the given [straight line][bookofproofs$645], and `$C$` the given [point][bookofproofs$631] on it.

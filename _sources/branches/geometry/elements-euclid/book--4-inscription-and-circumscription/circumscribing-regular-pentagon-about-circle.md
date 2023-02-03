@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 12 from Book 4 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > To [circumscribe][bookofproofs$1921] an [equilateral and equiangular pentagon][bookofproofs$6447] about a given [circle][bookofproofs$690].
 * Let `$ABCDE$` be the given [circle][bookofproofs$690].

@@ -27,7 +27,7 @@ all exponents `$e_i$` are less or equal `$1.$` More precisely, the Möbius funct
 0 & \text{else}
 \end{cases}\quad\quad\forall n > 0.$$`
 
-It was introduced by "August Ferdinand Möbius":https://www.bookofproofs.org/history/august-ferdinand-moebius/ (1790 - 1868) and plays a prominent role in number theory, as we will see later.
+It was introduced by [August Möbius](https://mathshistory.st-andrews.ac.uk/Biographies/Mobius/) (1790 - 1868) and plays a prominent role in number theory, as we will see later.
 
 ### Example.
 

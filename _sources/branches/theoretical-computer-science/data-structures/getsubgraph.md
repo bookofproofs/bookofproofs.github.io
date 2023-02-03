@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-Making use of the "graph.py module":https://www.bookofproofs.org/branches/graph/, the following algorithm calculates 
+Making use of the "graph.py module*, the following algorithm calculates 
 
 * for a given [undirected graph][bookofproofs$523] `\(G(V,E,\gamma)\)` and a given list of vertices `\(v_1,\ldots,v_k\in V\)` the [subgraph induced][bookofproofs$390] by the vertices  `\(G[v_1,\ldots,v_k]\)`, or
 * for a given [digraph][bookofproofs$524] `\(D=(V,E,\alpha,\omega)\)` and a given list of vertices `\(v_1,\ldots,v_k\in V\)` the [subdigraph induced][bookofproofs$1171] by the vertices  `\(D[v_1,\ldots,v_k]\)`.

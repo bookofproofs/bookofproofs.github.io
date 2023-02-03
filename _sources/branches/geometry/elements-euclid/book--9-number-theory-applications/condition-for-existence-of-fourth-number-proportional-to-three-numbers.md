@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 9 from Book 9 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > For three given [numbers][bookofproofs$2315], to investigate when it is possible to find a fourth (number) [proportional][bookofproofs$2328] to them.
 * Let `$A$`, `$B$`, `$C$` be the three given [numbers][bookofproofs$2315].

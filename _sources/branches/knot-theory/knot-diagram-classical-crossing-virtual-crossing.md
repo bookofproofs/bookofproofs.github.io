@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-Accoding to "Peter Guthrie Tait":https://www.bookofproofs.org/history/peter-guthrie-tait/, a **knot diagram** is a projection of a [closed curve][bookofproofs$1211] in three-dimensional space `\(\mathbb R^3\)` onto a plane. For instance, projecting the following curve onto a plane
+According to [Peter Guthrie Tait](https://mathshistory.st-andrews.ac.uk/Biographies/Tait/) (1831 - 1901), a **knot diagram** is a projection of a [closed curve][bookofproofs$1211] in three-dimensional space `\(\mathbb R^3\)` onto a plane. For instance, projecting the following curve onto a plane
 
 
 ![knotprojection](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/knotprojection.jpg?raw=true)

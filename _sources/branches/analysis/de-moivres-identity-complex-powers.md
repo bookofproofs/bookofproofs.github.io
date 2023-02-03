@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-The following identity is a formula found by "Abraham De Moivre ":https://www.bookofproofs.org/history/abraham-de-moivre (1667 - 1754).
+The following identity is a formula found by [Abraham De Moivre](https://mathshistory.st-andrews.ac.uk/Biographies/De_Moivre/) (1667 - 1754).
 
 ---
 

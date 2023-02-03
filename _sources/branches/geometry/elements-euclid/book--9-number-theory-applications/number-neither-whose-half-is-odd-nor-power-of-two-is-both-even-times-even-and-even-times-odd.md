@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 34 from Book 9 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If a [number][bookofproofs$2315] is neither (one) of the ([numbers][bookofproofs$2315]) doubled from a dyad, nor has an [odd][bookofproofs$2318] half, then it is (both) an [even-times-even][bookofproofs$2319] and an [even-times-odd][bookofproofs$2320] (number).
 * For let the number `$A$` neither be (one) of the ([numbers][bookofproofs$2315]) doubled from a dyad, nor let it have an [odd][bookofproofs$2318] half.

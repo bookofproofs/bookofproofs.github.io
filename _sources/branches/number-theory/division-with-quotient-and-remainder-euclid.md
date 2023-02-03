@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-The following proposition was already proven by "Euclid":https://www.bookofproofs.org/history/euclid-of-alexandria/ about 300 B.C. and is therefore also called a **Euclidian** division.
+The following proposition was already proven by [Euclid](https://mathshistory.st-andrews.ac.uk/Biographies/Euclid/) about 300 B.C. and is therefore also called a **Euclidian** division.
 
 ---
 

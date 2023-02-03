@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 73 from Book 10 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]), which is [commensurable in square][bookofproofs$2082] only with the whole, is subtracted from a(nother) [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) then the remainder is an irrational ([straight line][bookofproofs$645]). Let it be called an **apotome**.
 * For let the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$BC$`, which [commensurable in square][bookofproofs$2082] only with the whole, have been subtracted from the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$AB$`.

@@ -15,7 +15,7 @@ The following theorem was stated by <a href="https://mathshistory.st-andrews.ac.
 
 > _I have discovered a truly remarkable proof which this margin is too small to contain._
 
-Since he did not provide his proof, the theorem remained a conjecture for a long time and stimulated the research in number theory for decades and centuries. The conjecture was proven by "Andrew Wiles":https://www.bookofproofs.org/history/andrew-john-wiles/ only in the year 1995, using very complicated and sophisticated methods. It remains a mystery if Fermat really found a correct proof which was more simple.
+Since he did not provide his proof, the theorem remained a conjecture for a long time and stimulated the research in number theory for decades and centuries. The conjecture was proven by [Andrew Wiles](https://mathshistory.st-andrews.ac.uk/Biographies/Wiles/) only in the year 1995, using very complicated and sophisticated methods. It remains a mystery if Fermat really found a correct proof which was more simple.
 
 ---
 

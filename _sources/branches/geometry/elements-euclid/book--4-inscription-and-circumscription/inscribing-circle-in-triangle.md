@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 4 from Book 4 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > To [inscribe a circle][bookofproofs$6439] in a given [triangle][bookofproofs$6432].
 * Let `$ABC$` be the given [triangle][bookofproofs$6432].

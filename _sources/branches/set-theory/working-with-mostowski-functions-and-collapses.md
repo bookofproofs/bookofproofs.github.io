@@ -35,7 +35,7 @@ By definition, `$\pi(0)=\{\pi(m)\mid m\in\mathbb N\wedge m < 0\}=\emptyset.$` Le
 &\vdots&
 \end{array}$$`
 
-Historically, this series of sets was used by "von Neumann":https://www.bookofproofs.org/history/john-von-neumann/ to define the [natural numbers][bookofproofs$718] `$\mathbb N$` and can be visualized as follows:
+Historically, this series of sets was used by [von Neumann](https://mathshistory.st-andrews.ac.uk/Biographies/Von_Neumann/) to define the [natural numbers][bookofproofs$718] `$\mathbb N$` and can be visualized as follows:
 
 
 ![axiom8](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/axiom8.jpg?raw=true)

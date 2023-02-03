@@ -57,7 +57,7 @@ f_{8}&v_{4}&v_{5}&v_{6}\\
 \end{array}\]`
 
 
-[^1]: This will be proven in the "Proposition 18 of Book 13 of Euclid's Elements":https://www.bookofproofs.org/branches/comparison-of-sides-of-platonic-solids-there-are-only-five-platonic-solids/, thus the octahedron is well-defined.
+[^1]: This will be proven in the [Prop. 18 of Book 13][bookofproofs$2312], thus the octahedron is well-defined.
 
 
 §§§1

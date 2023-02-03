@@ -19,4 +19,4 @@ Let `$a < b,$` `$[a,b]$` be a [closed real interval][bookofproofs$1153], and `$f
 
 In particular, between any two [roots][bookofproofs$6736] of `$f$` there is a root of `$f'$`.
 
-This theorem is named after "Michael Rolle":https://www.bookofproofs.org/history/michel-rolle/.
+This theorem is named after [Michel Rolle](https://mathshistory.st-andrews.ac.uk/Biographies/Rolle/) (1652 - 1719).

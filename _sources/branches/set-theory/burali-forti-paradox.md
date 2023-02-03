@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-Historically, the Italian "Cesare Burali-Forti":https://www.bookofproofs.org/history/cesare-burali-forti/ (1861 - 1931) discovered that using the  [Cantor's definition of a set][bookofproofs$550], we could build the set `$\Omega$` of all [ordinal numbers][bookofproofs$723]. However, this set would lead to the following [paradox][bookofproofs$7847]:
+Historically, the Italian [Cesare Burali-Forti](https://mathshistory.st-andrews.ac.uk/Biographies/Burali-Forti/) (1861 - 1931) discovered that using the  [Cantor's definition of a set][bookofproofs$550], we could build the set `$\Omega$` of all [ordinal numbers][bookofproofs$723]. However, this set would lead to the following [paradox][bookofproofs$7847]:
 
 * Since all elements `\(\alpha\in\Omega\)` are ordinals, they are also [transitive sets][bookofproofs$720].
 * Therefore it follows `\(\alpha\subseteq \Omega\)`. 

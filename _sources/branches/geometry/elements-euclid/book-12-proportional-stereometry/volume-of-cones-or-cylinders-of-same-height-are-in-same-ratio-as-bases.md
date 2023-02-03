@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 11 from Book 12 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > [Cones][bookofproofs$2227] and [cylinders][bookofproofs$2230] having the same [height][bookofproofs$1986] are to one another as their bases.
 * Let there be [cones][bookofproofs$2227] and [cylinders][bookofproofs$2230] of the same [height][bookofproofs$1986] whose bases [are] the [circles][bookofproofs$690] `$ABCD$` and `$EFGH$`, axes `$KL$` and `$MN$`, and [diameters][bookofproofs$6429] of the bases `$AC$` and `$EG$` (respectively).

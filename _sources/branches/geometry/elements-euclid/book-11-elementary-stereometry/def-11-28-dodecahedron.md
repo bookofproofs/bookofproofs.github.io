@@ -76,7 +76,7 @@ f_{12}&v_{16}&v_8&v_{20}&v_{19}&v_7
 \end{array}\]`
 
 
-[^1]: This will be proven in the "Proposition 18 of Book 13 of Euclid's Elements":https://www.bookofproofs.org/branches/comparison-of-sides-of-platonic-solids-there-are-only-five-platonic-solids/, thus the dodecahedron is well-defined.
+[^1]: This will be proven in the [Prop. 18 of Book 13][bookofproofs$2312], thus the dodecahedron is well-defined.
 
 
 §§§1

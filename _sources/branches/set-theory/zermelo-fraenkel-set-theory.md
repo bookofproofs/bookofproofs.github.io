@@ -15,7 +15,8 @@ contributors: bookofproofs
 
 ---
 
-In the midst of the crisis the [Russel's paradox][bookofproofs$7987] caused, "Ferdinand Zermelo":https://www.bookofproofs.org/history/ernst-friedrich-ferdinand-zermelo and "Adolf Fraenkel":https://www.bookofproofs.org/history/adolf-abraham-halevi-fraenkel created a much more simple, as compared to Russel's and Whitehead's _Principia Mathematica_, set of __axioms__, also avoiding this paradox. 
+In the midst of the crisis the [Russel's paradox][bookofproofs$7987] caused, <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Zermelo/">Ernst Zermelo</a> and <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fraenkel/">Abraham Fraenkel</a> created a much more simple, as compared to 
+[Russell](https://mathshistory.st-andrews.ac.uk/Biographies/Russell/)'s and [Whitehead](https://mathshistory.st-andrews.ac.uk/Biographies/Whitehead/)'s "Principia Mathematica", set of __axioms__, also avoiding this paradox. 
 At least until now, nobody was able to discover any other contradictions and paradoxes resulting from their axioms. Therefore, [Zermelo-Fraenkel Axioms][bookofproofs$1427] are today a standard form of axiomatic set theory. 
 
 It is now time to revise our [first definition of the set][bookofproofs$550] and provide a more thorough fundament of the set theory, based on these axioms.

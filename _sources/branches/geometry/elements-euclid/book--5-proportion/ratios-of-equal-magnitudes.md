@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 7 from Book 5 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > Equal (magnitudes) have the [same ratio][bookofproofs$1945] to the same (magnitude), and the latter (magnitude has the [same ratio][bookofproofs$1945]) to the equal (magnitudes).
 * Let `$A$` and `$B$` be equal magnitudes, and `$C$` some other random magnitude.

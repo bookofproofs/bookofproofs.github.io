@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 15 from Book 7 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If a [unit][bookofproofs$2314] measures some number, and another number measures some other number as many times, then, also, alternately, the [unit][bookofproofs$2314] will measure the third number as many times as the second (number measures) the fourth.
 * For let a [unit][bookofproofs$2314] `$A$` measure some number `$BC$`, and let another number `$D$` measure some other number `$EF$` as many times.

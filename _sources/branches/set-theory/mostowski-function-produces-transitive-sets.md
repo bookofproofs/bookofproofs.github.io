@@ -21,7 +21,7 @@ Please note that in all four examples, the resulting Mostowski collapse `$\pi([X
 
 ### Ad Example 1  
 
-The Mostowski collapse was here the "von Neumann":https://www.bookofproofs.org/history/john-von-neumann/ set 
+The Mostowski collapse was here the [von Neumann](https://mathshistory.st-andrews.ac.uk/Biographies/Von_Neumann/) set 
 
 `$$\pi[\mathbb N]=\{\emptyset,\{\emptyset\},\{\emptyset,\{\emptyset\}\},\{\emptyset,\{\emptyset\},\{\emptyset,\{\emptyset\}\}\},\ldots \}.\quad ( * )$$`
  

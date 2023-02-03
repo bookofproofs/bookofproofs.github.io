@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 27 from Book 11 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > To describe a [parallelepipedal solid][bookofproofs$2222] similar, and similarly laid out, to a given [parallelepipedal solid][bookofproofs$2222] on a given [straight line][bookofproofs$645].
 * Let the given [straight line][bookofproofs$645] be `$AB$`, and the given [parallelepipedal solid][bookofproofs$2222] `$CD$`.

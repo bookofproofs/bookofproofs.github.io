@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 19 from Book 10 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > The [rectangle][bookofproofs$909] [contained][bookofproofs$1014] by [rational][bookofproofs$2083] [straight lines][bookofproofs$645] (which are) [commensurable in length][bookofproofs$1095] is [rational][bookofproofs$2083].
 * For let the [rectangle][bookofproofs$909] `$AC$` have been enclosed by the [rational][bookofproofs$2083] [straight lines][bookofproofs$645] `$AB$` and `$BC$` (which are) [commensurable in length][bookofproofs$1095].

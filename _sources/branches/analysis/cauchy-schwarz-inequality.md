@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-The following inequality is named after "Augustin Louis Cauchy":https://www.bookofproofs.org/history/augustin-louis-cauchy/ and "Hermann Amandus Schwarz":https://www.bookofproofs.org/history/hermann-amandus-schwarz/.
+The following inequality is named after [Augustin Louis Cauchy](https://mathshistory.st-andrews.ac.uk/Biographies/Cauchy/) (1789 - 1857) and [Hermann Amandus Schwarz](https://mathshistory.st-andrews.ac.uk/Biographies/Schwarz/) (1843 - 1921).
 
 ---
 

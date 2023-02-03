@@ -44,7 +44,7 @@ this could mean that the sum goes over all integers from `\(1\)` to `\(2^n\)` or
 
 ### The Delimited `\(\Sigma\)`-Notation ("Sigma"-Notation)
 
-The Greek letter `\(\Sigma\)` (upper case sigma) is used to write a delimited form of sums. This notation was introduced in 1870 by "Joseph Fourier":https://www.bookofproofs.org/history/jean-baptiste-joseph-fourier/. The sum `\(a_1+a_2+\cdots+a_n\)` can be written as 
+The Greek letter `\(\Sigma\)` (upper case sigma) is used to write a delimited form of sums. This notation was introduced in 1870 by [Joseph Fourier](https://mathshistory.st-andrews.ac.uk/Biographies/Fourier/). The sum `\(a_1+a_2+\cdots+a_n\)` can be written as 
 `\[\sum_{k=1}^n a_k\quad\quad ( * )\]`
 and read "sum over `\(k\)`, from `\(1\)` to `\(n\)`". The terms after  `\(\Sigma\)`  (here `\(a_k\)`) are called the **summands**. The index `\(k\)` is said to be **bound** to the `\(\Sigma\)`  sign, since any other letter could be substituted for `\(k\)` without changing the meaning of `\(( * )\)`:
 
@@ -90,7 +90,7 @@ The manipulation in the general notation is more simply done than in the delimit
 
 ### The Iverson-Notation 
 
-Kenneth I. Iverson introduced in his "APL programming language":http://www.jsoftware.com/papers/APL.htm a very useful concept of a **relational statement** `\([\alpha~R~\beta]\)`, which is a __logical variable__ defined by:
+Kenneth I. Iverson introduced in his [APL programming language](https://www.jsoftware.com/papers/APL.htm) a very useful concept of a **relational statement** `\([\alpha~R~\beta]\)`, which is a __logical variable__ defined by:
 
 `\[[\alpha~R~\beta]:=\cases{1,\quad \alpha R \beta\\0\quad\text{else}}\]`
 

@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 18 from Book 12 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > [Spheres][bookofproofs$2223] are to one another in the [cubed ratio][bookofproofs$1949] of their respective [diameters][bookofproofs$6429].
 * Let the [spheres][bookofproofs$2223] `$ABC$` and `$DEF$` have been conceived, and (let) their [diameters][bookofproofs$6429] (be) `$BC$` and `$EF$` (respectively).

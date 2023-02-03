@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 27 from Book 8 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > [Similar solid numbers][bookofproofs$2329] have to one another the [ratio][bookofproofs$1943] which (some) [cube number][bookofproofs$2327] (has) to a(nother) [cube number][bookofproofs$2327].
 * Let `$A$` and `$B$` be [similar solid numbers][bookofproofs$2329].

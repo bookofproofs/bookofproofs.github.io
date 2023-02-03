@@ -14,7 +14,7 @@ contributors: bookofproofs,@calahan,@casey,@fitzpatrick
 
 ---
 
-### (Proposition 12 from Book 1 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > To draw a [straight line][bookofproofs$645] perpendicular to a given infinite [straight line][bookofproofs$645] from a given [point][bookofproofs$631] which is not on it.
 * Let `$AB$` be the given infinite [straight line][bookofproofs$645] and `$C$` the given [point][bookofproofs$631], which is not on ($AB$).

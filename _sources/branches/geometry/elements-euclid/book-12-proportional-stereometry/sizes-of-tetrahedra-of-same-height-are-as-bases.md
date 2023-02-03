@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 5 from Book 12 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > [Pyramids][bookofproofs$2221] which are of the same [height][bookofproofs$1986], and have [triangular][bookofproofs$6432] bases, are to one another as their bases.
 * Let there be [pyramids][bookofproofs$2221] of the same [height][bookofproofs$1986] whose bases (are) the [triangles][bookofproofs$6432] `$ABC$` and `$DEF$`, and apexes the [points][bookofproofs$631] `$G$` and `$H$` (respectively).

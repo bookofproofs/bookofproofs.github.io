@@ -17,7 +17,7 @@ An important subtype of groups are _commutative_ groups. Therefore, they deserve
 
 A **commutative group** `\((G,\ast)\)` is a [group][bookofproofs$671], in which the [binary operation][bookofproofs$6188] `\(\ast\)` is [commutative][bookofproofs$672], i.e. `\(x\ast y=y\ast x\)` for all `\(x,y\in G\)`. 
 
-A commutative group is also called **Abelian**, named after "Niels Hendrik Abel":https://www.bookofproofs.org/history/niels-henrik-abel (1802 - 1829).
+A commutative group is also called **Abelian**, named after <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Abel/">Niels Henrik Abel</a> (1802 - 1829).
 
 "Unfolding" all definitions, an _Abelian group_ fulfills the following axioms:
 

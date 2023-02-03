@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-The following formula is due to "James Sylvester":https://www.bookofproofs.org/history/james-joseph-sylvester (1814 - 1897).
+The following formula is due to [James Sylvester](https://mathshistory.st-andrews.ac.uk/Biographies/Sylvester/) (1814 - 1897).
 
 ---
 

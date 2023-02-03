@@ -15,4 +15,4 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-The Book 12 of Euclid's “Elements” is dedicated to the proportional stereometry, dealing with foundations of cones, pyramids and cylinders. The novel feature of this book is the use of the so-called __method of exhaustion__ (see [Prop. 10.1][bookofproofs$2095]), a precursor to integration which is generally attributed to "Eudoxus of Cnidus":https://www.bookofproofs.org/history/eudoxus-of-cnidus/.
+The Book 12 of Euclid's “Elements” is dedicated to the proportional stereometry, dealing with foundations of cones, pyramids and cylinders. The novel feature of this book is the use of the so-called __method of exhaustion__ (see [Prop. 10.1][bookofproofs$2095]), a precursor to integration which is generally attributed to [Eudoxus of Cnidus][https://mathshistory.st-andrews.ac.uk/Biographies/Eudoxus/].

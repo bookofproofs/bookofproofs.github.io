@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 15 from Book 9 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If three [numbers][bookofproofs$2315] in [continued proportion][bookofproofs$6552] are the least of those ([numbers][bookofproofs$2315]) having the [same ratio][bookofproofs$1945] as them then two (of them) added together in any way are [prime to][bookofproofs$1288] the remaining (one).
 * Let `$A$`, `$B$`, `$C$` be three [numbers][bookofproofs$2315] in [continued proportion][bookofproofs$6552] (which are) the least of those ([numbers][bookofproofs$2315]) having the [same ratio][bookofproofs$1945] as them.

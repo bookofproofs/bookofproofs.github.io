@@ -11,7 +11,8 @@ contributors: bookofproofs
 
 
 ---
-The calculation of factorials `$n!$` can be quite difficult when `$n$` is large. "James Stirling":https://www.bookofproofs.org/history/james-stirling (1692 - 1770) developed a formula which helps to approximate the factorial. The approximation is quite good - for `$n=10$` the formula generates a value differing from the correct one only by `$1$`%, for `$n=100,$` the error is even `$0.1$`%.
+The calculation of factorials `$n!$` can be quite difficult when `$n$` is large. 
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Stirling/">James Stirling</a> (1692 - 1770) developed a formula which helps to approximate the factorial. The approximation is quite good - for `$n=10$` the formula generates a value differing from the correct one only by `$1$`%, for `$n=100,$` the error is even `$0.1$`%.
 
 ---
 

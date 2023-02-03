@@ -57,7 +57,7 @@ GRAPH_IGNORE_ERRORS = False  # can be passed in the constructor as the third arg
 
 
 class Graph:
-    """ class Graph: Version 1.03, Licence CC BY-SA 3.0 by bookofproofs.org """
+    """ class Graph: Version 1.03, Licence CC BY-SA 4.0 by bookofproofs """
     vertices = None  # implemented as a Python dictionary
     isDirected = False
     isSimple = True

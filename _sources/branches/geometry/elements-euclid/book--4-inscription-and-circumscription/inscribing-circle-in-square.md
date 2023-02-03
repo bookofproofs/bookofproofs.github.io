@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 8 from Book 4 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > To [inscribe a circle][bookofproofs$6439] in a given [square][bookofproofs$909].
 * Let the given [square][bookofproofs$909] be `$ABCD$`.

@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 20 from Book 7 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > The least [numbers][bookofproofs$2315] of those ([numbers][bookofproofs$2315]) having the [same ratio][bookofproofs$1945] measure those ([numbers][bookofproofs$2315]) having the [same ratio][bookofproofs$1945] as them an equal number of times, the greater (measuring) the greater, and the lesser the lesser.
 * For let `$CD$` and `$EF$` be the least [numbers][bookofproofs$2315] having the [same ratio][bookofproofs$1945] as `$A$` and `$B$` (respectively).

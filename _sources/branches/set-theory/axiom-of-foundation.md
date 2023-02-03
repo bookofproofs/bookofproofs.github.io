@@ -15,7 +15,10 @@ The existence of a [singleton][bookofproofs$8034] `$\{X\}$` for every set `$X$` 
 
 Another approach to decide, if `$X=\{X\}$` would be to assume this and check if this assumption leads to a [contradiction][bookofproofs$744]. Let us try. Assume `$X=\{X\}$`. Since `$X\in \{X\}$`, we get `$X\in X,$` i.e. a set containing itself. Please note that even with the [axiom of extensionality][bookofproofs$551] we cannot decide, if such a set can exist. Obviously, if such a set existed, then we would allow never-ending chains `$\ldots\in X\in X\in\ldots\in X\in\ldots$` or circular referencec, like for instance in the following chain `$X\in X_1\in X_2\in X.$`
 
-Therefore, we have to determine, if we want to allow such constructions in our set theory or not. The additional axiom of foundation forbids such constructions. It was added to the original set of axioms of "Zermelo":https://www.bookofproofs.org/history/ernst-friedrich-ferdinand-zermelo/ by "Fraenkel":https://www.bookofproofs.org/history/adolf-abraham-halevi-fraenkel/ and "von Neumann":https://www.bookofproofs.org/history/john-von-neumann/ and helps to avoid paradoxes mentioned in the [historical development of the set theory][bookofproofs$8012], which threw mathematics in a fundamental crisis at the beginning of the 20th century.
+Therefore, we have to determine, if we want to allow such constructions in our set theory or not. 
+The additional axiom of foundation forbids such constructions. It was added to the original 
+set of axioms of <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Zermelo/">Zermelo</a> by 
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fraenkel/">Fraenkel</a> and [von Neumann](https://mathshistory.st-andrews.ac.uk/Biographies/Von_Neumann/) and helps to avoid paradoxes mentioned in the [historical development of the set theory][bookofproofs$8012], which threw mathematics in a fundamental crisis at the beginning of the 20th century.
 
 ---
 

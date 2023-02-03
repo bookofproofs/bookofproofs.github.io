@@ -15,7 +15,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 1 from Book 0 of Euclid's “Elements”)[^1]
+### Euclid's Formulation
 
 > If, from the greater of two unequal magnitudes (which are) laid out, (a part) greater than half is subtracted, and (if from) the remainder (a part) greater than half (is subtracted), and (if) this happens continually, then some magnitude will (eventually) be left which will be less than the lesser laid out magnitude.
 * Let `$AB$` and `$C$` be two unequal magnitudes, of which (let) `$AB$` (be) the greater.
@@ -29,4 +29,4 @@ contributors: bookofproofs,@fitzpatrick
 
 (not yet contributed)
 
-[^1]: This theorem is the basis of the so-called {\em method of exhaustion}, and is generally attributed to "Eudoxus of Cnidus":https://www.bookofproofs.org/history/eudoxus-of-cnidus/ (translator's note).
+[^1]: This theorem is the basis of the so-called {\em method of exhaustion}, and is generally attributed to [Eudoxus of Cnidus](https://mathshistory.st-andrews.ac.uk/Biographies/Eudoxus/) (translator's note).

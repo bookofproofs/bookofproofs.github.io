@@ -19,7 +19,7 @@ The **Euler** function `$\phi:\mathbb N\to\mathbb N$` is an [arithmetic function
 
 ### Example.
 
-The `$\phi$` function was first described by "Leonhard Euler":https://www.bookofproofs.org/history/leonhard-euler/ (1707 - 1783). It can be visualized using SageMath. If you click on the evaluate button, you will see the values of `$\tau(n)$` for `$n=1,\ldots,100.$` 
+The `$\phi$` function was first described by [Leonhard Euler](https://mathshistory.st-andrews.ac.uk/Biographies/Euler/) (1707 - 1783). It can be visualized using SageMath. If you click on the evaluate button, you will see the values of `$\tau(n)$` for `$n=1,\ldots,100.$` 
 
 §§§1
 

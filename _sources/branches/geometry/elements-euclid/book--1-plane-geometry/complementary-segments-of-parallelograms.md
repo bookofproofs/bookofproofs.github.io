@@ -14,7 +14,7 @@ contributors: bookofproofs,@calahan,@casey,@fitzpatrick
 
 ---
 
-### (Proposition 43 from Book 1 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > For any [parallelogram][bookofproofs$909], the complements of the [parallelograms][bookofproofs$909] about the diagonal are equal to one another.
 * Let `$ABCD$` be a [parallelogram][bookofproofs$909], and `$AC$` its diagonal.

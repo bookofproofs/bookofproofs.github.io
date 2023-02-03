@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 4 from Book 9 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If a [cube number][bookofproofs$2327] makes some (number by) multiplying a(nother) [cube number][bookofproofs$2327] then the created (number) will be [cube][bookofproofs$2327].
 * For let the [cube number][bookofproofs$2327] `$A$` make `$C$` [ (by) multiplying][bookofproofs$6437] the [cube number][bookofproofs$2327] `$B$`.

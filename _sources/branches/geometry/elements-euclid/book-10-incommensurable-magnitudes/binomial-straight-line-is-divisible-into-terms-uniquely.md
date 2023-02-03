@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 42 from Book 10 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > A [binomial][bookofproofs$2130] ([straight line][bookofproofs$645]) can be divided into its (component) terms at one [point][bookofproofs$631] only.
 * Let `$AB$` be a [binomial][bookofproofs$2130] ([straight line][bookofproofs$645]) which has been divided into its (component) terms at `$C$`.

@@ -22,4 +22,4 @@ From the formal point of view, natural numbers can be [constructed using sets][b
 
 Another way to define natural numbers is to use a suitable axiomatic system. One of such axiomatic systems are the [Peano Axioms][bookofproofs$504].
 
-[^1]: Please note: Another common way is to understand the set of natural numbers is as __positive integers__, excluding the number 0. In bookofproofs.org, natural numbers are always including 0, by convention.
+[^1]: Please note: Another common way is to understand the set of natural numbers is as __positive integers__, excluding the number 0. In <strong><span style='color:orange'>BookOf</span><span style='color:lightblue'>Proofs</span></strong>, natural numbers are always including 0, by convention.

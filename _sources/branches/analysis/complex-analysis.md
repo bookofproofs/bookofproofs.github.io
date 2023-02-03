@@ -23,7 +23,7 @@ Function theory is a self-closed theory with a kind of mathematical beauty, not 
    * If all the infinitely many derivatives of two holomorphic functions are equal at just a single point, then they must be identical everywhere in their domains.
    * If you integrate a holomorphic function along a closed curve, no matter how "wild" this closed curve might look like - the integral will be always `$0$`. 
    * A holomorphic function, which is constant in a small neighborhood of a point, is constant everywhere.
-   * If a holomorphic function is bounded everywhere, then it must be constant everywhere ("Liouville's":https://www.bookofproofs.org/history/joseph-liouville theorem).
+   * If a holomorphic function is bounded everywhere, then it must be constant everywhere ([Liouville](https://mathshistory.st-andrews.ac.uk/Biographies/Liouville/)'s theorem).
    * A holomorphic function maps open sets into open sets and connected regions into connected regions,
    * and many more,...
 

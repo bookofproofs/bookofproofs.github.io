@@ -15,4 +15,4 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-The propositions contained in Books 7 to 9 are generally attributed to the school of "Pythagoras":https://www.bookofproofs.org/history/pythagoras-of-samos/.
+The propositions contained in Books 7 to 9 are generally attributed to the school of <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Pythagoras/">Pythagoras</a>.

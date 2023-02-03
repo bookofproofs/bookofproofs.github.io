@@ -14,7 +14,7 @@ contributors: bookofproofs,@calahan,@casey,@fitzpatrick
 
 ---
 
-### (Proposition 31 from Book 1 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > To draw a [straight line][bookofproofs$645] [parallel][bookofproofs$788] to a given [straight line][bookofproofs$645], through a given [point][bookofproofs$631].
 * Let `$A$` be the given [point][bookofproofs$631], and `$BC$` the given [straight line][bookofproofs$645].

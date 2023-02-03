@@ -385,7 +385,7 @@ class BopValidator:
                 if self._has_proof(bop_source):
                     bop_source.issues.append("misplaced-proof")
             content = bop_source.get_pre_body() + "\n" + bop_source.get_body()
-            if "www.bookofproofs.org" in content:
+            if "bookofproofs.org" in content or "\":http" in content:
                 bop_source.issues.append("non-migrated-link")
             if bop_source.keywords == "":
                 bop_source.issues.append("seo-missing-keywords")

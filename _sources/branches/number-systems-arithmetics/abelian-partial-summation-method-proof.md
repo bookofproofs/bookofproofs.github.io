@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-* By hypothesis, `$a_1,\ldots,a_n$` and `$b_1,\ldots,b_n,b_{n+1}$` are given elements of a [unit ring][bookofproofs$683]":https://www.bookofproofs.org/branches/field/ `$(R,+,\cdot).$` 
+* By hypothesis, `$a_1,\ldots,a_n$` and `$b_1,\ldots,b_n,b_{n+1}$` are given elements of a [unit ring][bookofproofs$683] `$(R,+,\cdot).$` 
 * By setting `$A_0:=0$` and `$A_k:=\sum_{i=1}^k a_i,$` we get `$a_k=A_k-A_{k-1}$` for `$k=1,\ldots,n.$`
 * Thus, it follows 
    * `$\sum_{k=1}^n a_kb_k=\sum_{k=1}^n(A_k-A_{k-1})b_k$` by definition of `$A_k,$`

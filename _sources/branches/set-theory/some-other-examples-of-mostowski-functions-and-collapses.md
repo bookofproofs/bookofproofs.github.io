@@ -29,7 +29,7 @@ The relation `$R\subset \mathbb N\times \mathbb N$`  defined by  `$nRm:\Leftrigh
 &\vdots&
 \end{array}$$`
 
-Historically, this series of sets was used by "Zermelo":https://www.bookofproofs.org/history/ernst-friedrich-ferdinand-zermelo/ to define the [natural numbers][bookofproofs$718] `$\mathbb N$` and can be visualized as follows:
+Historically, this series of sets was used by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Zermelo/">Zermelo</a> to define the [natural numbers][bookofproofs$718] `$\mathbb N$` and can be visualized as follows:
 
 
 ![axiom8_1](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/axiom8_1.jpg?raw=true)

@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-The introduced set-theoretical concepts allow us to formulate a famous lemma which was stated by "Max Zorn":https://www.bookofproofs.org/history/max-august-zorn/ (1906 - 1993).
+The introduced set-theoretical concepts allow us to formulate a famous lemma which was stated by [Max Zorn](https://mathshistory.st-andrews.ac.uk/Biographies/Zorn/) (1906 - 1993).
 
 ---
 

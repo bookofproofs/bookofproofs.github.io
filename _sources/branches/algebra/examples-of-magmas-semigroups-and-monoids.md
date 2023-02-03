@@ -21,7 +21,7 @@ contributors: bookofproofs
 * All of the below examples (a magma is more general than a semigroup).
 
 ### Examples of [semigroups][bookofproofs$660].
-* On the set `$M_{n\times n}(\mathbb R)$` of `$n\times n$` [square matrices][bookofproofs$1048] with [real][bookofproofs$1105] coefficients, we can define a binary operation `$\ast$` by `$(A,B)\to A\ast B:=AB + BA$`, where `$A$` and `$B$` are matrices in `$M_{n\times n}(\mathbb R)$` and `$AB$` and `$BA$` denote the "matrix multiplication":https://www.bookofproofs.org/branches/matrix-multiplication/[^1]. The operation "`$\ast$`" is not [associative][bookofproofs$668] for `$n\ge 2$` and the semigroup has no neutral element.
+* On the set `$M_{n\times n}(\mathbb R)$` of `$n\times n$` [square matrices][bookofproofs$1048] with [real][bookofproofs$1105] coefficients, we can define a binary operation `$\ast$` by `$(A,B)\to A\ast B:=AB + BA$`, where `$A$` and `$B$` are matrices in `$M_{n\times n}(\mathbb R)$` and `$AB$` and `$BA$` denote the [matrix multiplication][bookofproofs$1050].[^1] The operation "`$\ast$`" is not [associative][bookofproofs$668] for `$n\ge 2$` and the semigroup has no neutral element.
 * All of the below examples (a semigroup is more general than a monoid).  
 
 ### Examples of [monoids][bookofproofs$659].

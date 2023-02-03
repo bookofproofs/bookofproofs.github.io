@@ -14,7 +14,7 @@ contributors: bookofproofs,@calahan,@casey,@fitzpatrick
 
 ---
 
-### (Proposition 32 from Book 1 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > In any [triangle][bookofproofs$6432], (if) one of the sides (is) produced (then) the external angle is equal to the (sum of the) two internal and opposite ([angles][bookofproofs$650]), and the (sum of the) three internal [angles][bookofproofs$650] of the triangle is equal to two [right angles][bookofproofs$653].
 * Let `$ABC$` be a [triangle][bookofproofs$6432], and let one of its sides `$BC$` have been produced to `$D$`.

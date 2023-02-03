@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 22 from Book 11 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If there are three [rectilinear angles][bookofproofs$650], of which (the sum of any) two is greater than the remaining (one), (the [angles][bookofproofs$650]) being taken up in any (possible way), and if equal [straight lines][bookofproofs$645] contain them, then it is possible to construct a [triangle][bookofproofs$6432] from (the [straight lines][bookofproofs$645] created by) joining the (ends of the) equal [straight lines][bookofproofs$645].
 * Let `$ABC$`, `$DEF$`, and `$GHK$` be three [rectilinear angles][bookofproofs$650], of which the sum of any) two is greater than the remaining (one), (the [angles][bookofproofs$650]) being taken up in any (possible way) - (that is), `$ABC$` and `$DEF$` (greater) than `$GHK$`, `$DEF$` and `$GHK$` (greater) than `$ABC$`, and, further, `$GHK$` and `$ABC$` (greater) than `$DEF$`.

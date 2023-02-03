@@ -16,4 +16,4 @@ contributors: bookofproofs
 
 A **model of computation** is the definition of a set of operations allowed to compute a given algorithm (like a calculation, sorting, searching) and its respective costs. By assuming a certain model of computation, it is possible to measure the cost of computing the algorithm - its **complexity**. This cost is measured in the execution time and / memory space used to compute the algorithm. Models of computation are also used to analyze the limitations (if any) to compute some algorithms.
 
-There are many models of computation, differing in the set of admissible operations and their computations cost. This chapter of bookofproofs.org is used to introduce such models.
+There are many models of computation, differing in the set of admissible operations and their computations cost. This chapter of <strong><span style='color:orange'>BookOf</span><span style='color:lightblue'>Proofs</span></strong> is used to introduce such models.

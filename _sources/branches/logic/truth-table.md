@@ -12,7 +12,8 @@ contributors: bookofproofs
 
 ---
 
-The most convenient way to study Boolean functions is writing them in the form of tables called the __truth tables__. They were invented by "Charles Sanders Peirce":https://www.bookofproofs.org/history/charles-sanders-peirce/ in 1893. Truth tables have a great practical use in propositional logic since they allow to learn important examples of [connectives][bookofproofs$7867] as special [Boolean functions][bookofproofs$1316].
+The most convenient way to study Boolean functions is writing them in the form of tables called the __truth tables__. 
+They were invented by [Charles Peirce](https://mathshistory.st-andrews.ac.uk/Biographies/Peirce_Charles/) in 1893. Truth tables have a great practical use in propositional logic since they allow to learn important examples of [connectives][bookofproofs$7867] as special [Boolean functions][bookofproofs$1316].
 
 ---
 

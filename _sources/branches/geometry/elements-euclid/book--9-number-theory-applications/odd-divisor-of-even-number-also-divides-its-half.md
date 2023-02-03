@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 30 from Book 9 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If an [odd number][bookofproofs$2318] measures an [even number][bookofproofs$2317] then it will also measure (one) half of it.
 

@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 10 from Book 9 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If any multitude whatsoever of [numbers][bookofproofs$2315] is in [continued proportion][bookofproofs$6552], (starting) from a [unit][bookofproofs$2314], and the (number) after the [unit][bookofproofs$2314] is not [square][bookofproofs$2326], then no other (number) will be [square][bookofproofs$2326] either, apart from the third from the [unit][bookofproofs$2314], and all those ([numbers][bookofproofs$2315] after that) which leave an interval of one (number). And if the (number) after the [unit][bookofproofs$2314] is not [cube][bookofproofs$2327], then no other (number) will be [cube][bookofproofs$2327] either, apart from the fourth from the [unit][bookofproofs$2314], and all those ([numbers][bookofproofs$2315] after that) which leave an interval of two ([numbers][bookofproofs$2315]).
 * Let any multitude whatsoever of [numbers][bookofproofs$2315], `$A$`, `$B$`, `$C$`, `$D$`, `$E$`, `$F$`, be in [continued proportion][bookofproofs$6552], (starting) from a [unit][bookofproofs$2314].

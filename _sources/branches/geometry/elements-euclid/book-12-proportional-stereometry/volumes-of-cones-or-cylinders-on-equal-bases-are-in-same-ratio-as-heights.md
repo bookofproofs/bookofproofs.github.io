@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 14 from Book 12 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > [Cones][bookofproofs$2227] and [cylinders][bookofproofs$2230] which are on equal bases are to one another as their heights.
 

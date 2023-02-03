@@ -14,7 +14,7 @@ contributors: bookofproofs
 
 ---
 
-This mathematical "branch" is dedicated to the community of www.bookofproofs.org as a kind of cultural corner for all of you having fun with mathematics. Feel free to add puzzles, mathematical problems you find interesting or your favorite (mathematician) jokes :-)
+This mathematical "branch" is dedicated to the community of <strong><span style='color:orange'>BookOf</span><span style='color:lightblue'>Proofs</span></strong> as a kind of cultural corner for all of you having fun with mathematics. Feel free to add puzzles, mathematical problems you find interesting or your favorite (mathematician) jokes :-)
 
 ![figure-3277570_960_720](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_assets/images/examples/figure-3277570_960_720.jpg?raw=true)
 

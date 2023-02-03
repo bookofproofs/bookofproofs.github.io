@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 13 from Book 4 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > To [inscribe a circle][bookofproofs$6439] in a given [pentagon][bookofproofs$6447], which is equilateral and equiangular.
 * Let `$ABCDE$` be the given [equilateral and equiangular pentagon][bookofproofs$6447].

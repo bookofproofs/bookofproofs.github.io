@@ -14,7 +14,7 @@ contributors: bookofproofs,@calahan,@casey,@fitzpatrick
 
 ---
 
-### (Proposition 35 from Book 1 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > [Parallelograms][bookofproofs$909] which are on the same base and between the same [parallels][bookofproofs$788] are equal[^1] to one another.
 * Let `$ABCD$` and `$EBCF$` be [parallelograms][bookofproofs$909] on the same base `$BC$`, and between the same parallels `$AF$` and `$BC$`.

@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 6 from Book 9 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If a [number][bookofproofs$2315] makes a cube (number by) multiplying itself then it itself will also be [cube][bookofproofs$2327].
 * For let the number `$A$` make the [cube (number) ][bookofproofs$2327] `$B$` [ (by) multiplying][bookofproofs$6437] itself.

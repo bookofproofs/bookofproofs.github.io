@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-In 1849, the French physicist "Armand Hippolyte Fizeau":https://www.bookofproofs.org/history/armand-hippolyte-louis-fizeau/ showed that the speed of light is finite by measuring its speed. He let the light of a strong lantern pass trough two cogwheels, one of which was fixed and one of which could be rotated. The light passed the gaps between the teeth of the cogwheels exactly at the time, when they aligned each other. Otherwise, the light ray was interrupted by the teeth of the rotatable cogwheel. Whenever the light ray passed the cogwheels, it traversed the distance to a mirror placed about 8.6 kilometers away, then it returned and passed the cogwheels again to be observed by Fizeau. In sum, the light had to traverse the distance of about 17.2 kilometers.  
+In 1849, the French physicist [Hippolyte Fizeau](https://mathshistory.st-andrews.ac.uk/Biographies/Fizeau/) (1819 - 1896) showed that the speed of light is finite by measuring its speed. He let the light of a strong lantern pass trough two cogwheels, one of which was fixed and one of which could be rotated. The light passed the gaps between the teeth of the cogwheels exactly at the time, when they aligned each other. Otherwise, the light ray was interrupted by the teeth of the rotatable cogwheel. Whenever the light ray passed the cogwheels, it traversed the distance to a mirror placed about 8.6 kilometers away, then it returned and passed the cogwheels again to be observed by Fizeau. In sum, the light had to traverse the distance of about 17.2 kilometers.  
 
 
 ![fizeau](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/fizeau.png?raw=true)

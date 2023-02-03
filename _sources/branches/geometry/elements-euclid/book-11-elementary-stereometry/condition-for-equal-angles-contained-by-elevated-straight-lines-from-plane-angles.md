@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 35 from Book 11 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If there are two equal [rectilinear angles][bookofproofs$650], and raised [straight lines][bookofproofs$645] are stood on the apexes of them, containing equal [angles][bookofproofs$650] respectively with the original [straight lines][bookofproofs$645] (forming the [angles][bookofproofs$650]), and random [points][bookofproofs$631] are taken on the raised ([straight lines][bookofproofs$645]), and [perpendiculars][bookofproofs$653] are drawn from them to the [planes][bookofproofs$647] in which the original [angles][bookofproofs$650] are, and [straight lines][bookofproofs$645] are joined from the [points][bookofproofs$631] created in the [planes][bookofproofs$647] to the (vertices of the) original [angles][bookofproofs$650], then they will enclose equal [angles][bookofproofs$650] with the raised ([straight lines][bookofproofs$645]).
 * Let `$BAC$` and `$EDF$` be two equal rectilinear [angles][bookofproofs$650].

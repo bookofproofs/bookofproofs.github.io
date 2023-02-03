@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 10 from Book 4 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > To construct an [isosceles triangle][bookofproofs$688] having each of the [angles][bookofproofs$650] at the base double the remaining (angle).
 

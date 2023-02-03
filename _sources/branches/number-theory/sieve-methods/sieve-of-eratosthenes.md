@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-It is well-known that there are [infinitely many prime numbers][bookofproofs$8099]. Due to "Eratosthenes of Cyrene":https://www.bookofproofs.org/history/eratosthenes-of-cyrene/, the following efficient method, called the **sieve of Eratosthenes**, can be used to find [prime numbers][bookofproofs$473]:
+It is well-known that there are [infinitely many prime numbers][bookofproofs$8099]. Due to [Eratosthenes of Cyrene](https://mathshistory.st-andrews.ac.uk/Biographies/Eratosthenes/), the following efficient method, called the **sieve of Eratosthenes**, can be used to find [prime numbers][bookofproofs$473]:
 
 1. Start with the sequence of numbers `\(2,3,4,\ldots\)`.
 1. The first number, which is not "sieved", is `\(2\)`. This is the first prime number.

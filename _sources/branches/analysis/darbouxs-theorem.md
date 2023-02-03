@@ -19,4 +19,4 @@ Let `$a < b,$` `$[a,b]$` be a [closed real interval][bookofproofs$1153], and `$f
 
 From the geometrical point of view, this intermediate value theorem states that the gradient of the secant through the points `$(a,f(a))$` and `$(b,f(b))$` equals the gradient of the tangent of the graph of `$f$` on some intermediate point `$(\xi,f(\xi))$`.
 
-This theorem is named after "Jean Gaston Darboux":https://www.bookofproofs.org/history/jean-gaston-darboux/.
+This theorem is named after [Gaston Darboux](https://mathshistory.st-andrews.ac.uk/Biographies/Darboux/) (1842 - 1917).

@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 16 from Book 11 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If two [parallel planes][bookofproofs$2217] are cut by some [plane][bookofproofs$657] then their common sections are [parallel][bookofproofs$788].
 * For let the two [parallel planes][bookofproofs$2217] `$AB$` and `$CD$` have been cut by the [plane][bookofproofs$647] `$EFGH$`.

@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 3 from Book 11 of Euclid's “Elements”)[^1]
+### Euclid's Formulation
 
 > If two [planes][bookofproofs$647] cut one another then their common section is a [straight line][bookofproofs$645].
 * For let the two [planes][bookofproofs$647] `$AB$` and `$BC$` cut one another, and let their common section be the line `$DB$`.

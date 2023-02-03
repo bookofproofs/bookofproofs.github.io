@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 58 from Book 10 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If an area is [contained][bookofproofs$1014] by a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) and a [fifth binomial][bookofproofs$2089] ([straight line][bookofproofs$645]) then the [square root][bookofproofs$46] of the area is the irrational ([straight line][bookofproofs$645] which is) called the [square root][bookofproofs$46] of a [rational][bookofproofs$2083] plus a [medial (area) ][bookofproofs$6462].
 * For let the area `$AC$` be contained by the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$AB$` and the [fifth binomial][bookofproofs$2089] ([straight line][bookofproofs$645]) `$AD$`, which has been divided into its (component) terms at `$E$`, such that `$AE$` is the greater term.

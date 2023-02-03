@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 19 from Book 11 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If two [planes][bookofproofs$647] cutting one another are at [right angles to some plane][bookofproofs$2212] then their common section will also be at [right angles][bookofproofs$653] to the same [plane][bookofproofs$657].
 * For let the two [planes][bookofproofs$647] `$AB$` and `$BC$` be at [right angles][bookofproofs$653] to a reference [plane][bookofproofs$647], and let their common section be `$BD$`.

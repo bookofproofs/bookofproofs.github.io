@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 3 from Book 12 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > Any [pyramid][bookofproofs$2221] having a [triangular][bookofproofs$6432] base is divided into two [pyramids][bookofproofs$2221] having [triangular][bookofproofs$6432] bases (which are) equal, [similar][bookofproofs$2218] to one another, and [[similar][bookofproofs$2218]] to the whole, and into two equal [prisms][bookofproofs$2222]. And the (sum of the) two [prisms][bookofproofs$2222] is greater than half of the whole [pyramid][bookofproofs$2221].
 * Let there be a [pyramid][bookofproofs$2221] whose base is [triangle][bookofproofs$6432] `$ABC$`, and (whose) apex (is) [point][bookofproofs$631] `$D$`.

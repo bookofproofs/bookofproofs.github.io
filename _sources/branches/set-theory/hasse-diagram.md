@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-A **Hasse diagram** is a method named after "Helmut Hasse":https://www.bookofproofs.org/history/helmut-hasse, who used it to visualize a [poset][bookofproofs$576] `$(V,\preceq )$`, which has only a finite number[^1] of elements. A Hasse diagram of a set `$V$` can be drawn by applying the following rules:
+A **Hasse diagram** is a method named after [Helmut Hasse](https://mathshistory.st-andrews.ac.uk/Biographies/Hasse/) (1898 - 1979), who used it to visualize a [poset][bookofproofs$576] `$(V,\preceq )$`, which has only a finite number[^1] of elements. A Hasse diagram of a set `$V$` can be drawn by applying the following rules:
 
 * Draw the elements of `$V$` as points in the plane and label them.
 * If `$a\preceq b$` for some two elements `$a$` and `$b$`, then draw `$b$` "above" `$a$` and connect both by an arrow or line `$ab$`.

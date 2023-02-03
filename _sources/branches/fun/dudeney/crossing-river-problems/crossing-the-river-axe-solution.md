@@ -32,7 +32,10 @@ Person | `$\{J 5)$` | G T8 3
  JT8| `$\{G 3)$`| 5
  G T8 3| `$( J \}$`| 5
  G T8 3| `$\{J 5)$`|
- `$G, J,$` and `$T$` stand for Giles, Jasper, and Timothy; and `$8$`, `$5$`, `$3$`, for `$£800`, `$£500$` 
- and `$£300$` respectively. The two side columns represent the left bank and the right bank, and the middle column the river. Thirteen crossings are necessary, and each line shows the position when the boat is in mid-stream during a crossing, the point of the bracket indicating the direction.
+
+ `$G, J,$` and `$T$` stand for Giles, Jasper, and Timothy; and `$8$`, `$5$`, `$3$`, for `$£800$`, `$£500$` 
+ and `$£300$` respectively. The two side columns represent the left bank and the right bank, and the middle
+ column the river. Thirteen crossings are necessary, and each line shows the position when the boat 
+ is in mid-stream during a crossing, the point of the bracket indicating the direction.
 
 It will be found that not only is no person left alone on the land or in the boat with more than his share of the spoil, but that also no two persons are left with more than their joint shares, though this last point was not insisted upon in the conditions.

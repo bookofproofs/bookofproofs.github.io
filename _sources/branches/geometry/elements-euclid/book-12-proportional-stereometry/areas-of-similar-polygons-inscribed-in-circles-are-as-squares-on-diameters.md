@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 1 from Book 12 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > [Similar][bookofproofs$1983] [polygons][bookofproofs$687] (inscribed) in [circles][bookofproofs$690] are to one another as the [squares][bookofproofs$909] on the [diameters][bookofproofs$6429] (of the [circles][bookofproofs$690]).
 * Let `$ABC$` and `$FGH$` be [circles][bookofproofs$690], and let `$ABCDE$` and `$FGHKL$` be [similar][bookofproofs$1983] [polygons][bookofproofs$687] (inscribed) in them (respectively), and let `$BM$` and `$GN$` be the [diameters][bookofproofs$6429] of the [circles][bookofproofs$690] (respectively).

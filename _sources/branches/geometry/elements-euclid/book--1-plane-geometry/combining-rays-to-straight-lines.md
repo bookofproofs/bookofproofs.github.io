@@ -14,7 +14,7 @@ contributors: bookofproofs,@calahan,@casey,@fitzpatrick
 
 ---
 
-### (Proposition 14 from Book 1 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If two [straight lines][bookofproofs$645], not lying on the same side, make adjacent [angles][bookofproofs$650] (whose sum is) equal to two [right angles][bookofproofs$653] with some [straight line][bookofproofs$645], at a [point][bookofproofs$631] on it, then the two [straight lines][bookofproofs$645] will be [straight-on][bookofproofs$649] (with respect) to one another.
 * For let two [straight lines][bookofproofs$645] `$BC$` and `$BD$`, not lying on the same side, make adjacent [angles][bookofproofs$650] `$ABC$` and `$ABD$` (whose sum is) equal to two [right angles][bookofproofs$653] with some [straight line][bookofproofs$645] `$AB$`, at the [point][bookofproofs$631] `$B$` on it.

@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 18 from Book 9 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > For two given [numbers][bookofproofs$2315], to investigate whether it is possible to find a third (number) [proportional][bookofproofs$2328] to them.
 * Let `$A$` and `$B$` be the two given [numbers][bookofproofs$2315].

@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 4 from Book 7 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > Any number is either [part][bookofproofs$703] or [parts][bookofproofs$2323] of any (other) number, the lesser of the greater.
 * Let `$A$` and `$BC$` be two [numbers][bookofproofs$2315], and let `$BC$` be the lesser.

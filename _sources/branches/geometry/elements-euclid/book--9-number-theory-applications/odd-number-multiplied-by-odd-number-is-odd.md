@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 29 from Book 9 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If an [odd number][bookofproofs$2318] makes some (number by) multiplying an [odd (number) ][bookofproofs$2318] then the created (number) will be odd.
 * For let the [odd number][bookofproofs$2318] `$A$` make `$C$` [ (by) multiplying][bookofproofs$6437] the [odd (number) ][bookofproofs$2318] `$B$`.

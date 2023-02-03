@@ -15,4 +15,5 @@ contributors: bookofproofs
 
 ---
 
-Let `\(X\)` be a [finite set][bookofproofs$985] with `\(|X|=n\)`. Then the number of [subsets][bookofproofs$552] of `\(X\)`, i.e. the "cardinality":https://www.bookofproofs.org/branches/cardinal-number/of the [power set][bookofproofs$6831] `$\mathcal P(X),$` equals `\(2^{n}.\)`
+Let `\(X\)` be a [finite set][bookofproofs$985] with `\(|X|=n\)`. Then the number of [subsets][bookofproofs$552] of `\(X\)`, 
+i.e. the [cardinality][bookofproofs$980] of the [power set][bookofproofs$6831] `$\mathcal P(X),$` equals `\(2^{n}.\)`

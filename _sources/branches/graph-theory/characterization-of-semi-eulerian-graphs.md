@@ -16,4 +16,4 @@ contributors: bookofproofs
 ---
 
 A [simple graph][bookofproofs$523] `\(G(V,E)\)` is [semi-Eulerian][bookofproofs$6387], if and only if it is [connected][bookofproofs$1166] and it has exactly two vertices with an [odd][bookofproofs$8130] [degree][bookofproofs$362].
-This theorem is due to the Swiss mathematician "Leonhard Euler":https://www.bookofproofs.org/history/leonhard-euler/.
+This theorem is due to the Swiss mathematician [Leonhard Euler](https://mathshistory.st-andrews.ac.uk/Biographies/Euler/) (1707 - 1783).

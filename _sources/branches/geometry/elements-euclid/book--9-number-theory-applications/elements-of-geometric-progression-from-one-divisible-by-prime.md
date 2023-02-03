@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 12 from Book 9 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If any multitude whatsoever of [numbers][bookofproofs$2315] is in [continued proportion][bookofproofs$6552], (starting) from a [unit][bookofproofs$2314], then however many [prime numbers][bookofproofs$704] the last (number) is measured by, the (number) next to the [unit][bookofproofs$2314] will also be measured by the same ([prime numbers][bookofproofs$704]).
 * Let any multitude whatsoever of [numbers][bookofproofs$2315], `$A$`, `$B$`, `$C$`, `$D$`, be in [ (continued) proportion][bookofproofs$6552], (starting) from a [unit][bookofproofs$2314].

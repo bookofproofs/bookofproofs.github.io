@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 21 from Book 7 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > [Numbers][bookofproofs$2315] [prime to one another][bookofproofs$1288] are the least of those ([numbers][bookofproofs$2315]) having the [same ratio][bookofproofs$1945] as them.
 * Let `$A$` and `$B$` be [numbers][bookofproofs$2315] [prime to one another][bookofproofs$1288].

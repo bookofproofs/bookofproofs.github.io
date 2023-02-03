@@ -16,7 +16,7 @@ contributors: bookofproofs,@fitzpatrick
 
 
 
-* For, if possible, let the two [straight lines][bookofproofs$645] `$AB$` and `$AC$` have been set up at the same [point][bookofproofs$631] `$A$` at "right angles" to the reference [plane][bookofproofs$647]":https://www.bookofproofs.org/branches/straight-line-at-right-angles-to-a-plane/, on the same side.
+* For, if possible, let the two [straight lines][bookofproofs$645] `$AB$` and `$AC$` have been set up at the same [point][bookofproofs$631] `$A$` at [right angles to the reference plane][bookofproofs$2212], on the same side.
 * And let the plane through `$BA$` and `$AC$` have been drawn.
 
 ![fig13e](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/euclid/Book11/fig13e.png?raw=true)

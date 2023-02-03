@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 11 from Book 4 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > To [inscribe][bookofproofs$1920] an [equilateral and equiangular pentagon][bookofproofs$6447] in a given [circle][bookofproofs$690].
 * Let `$ABCDE$` be the given [circle][bookofproofs$690].

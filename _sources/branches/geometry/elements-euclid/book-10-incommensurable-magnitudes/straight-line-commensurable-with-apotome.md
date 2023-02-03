@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 103 from Book 10 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > A ([straight line][bookofproofs$645]) [commensurable in length][bookofproofs$1095] with an [apotome][bookofproofs$2167] is an [apotome][bookofproofs$2167], and (is) the same in order.
 * Let `$AB$` be an [apotome][bookofproofs$2167], and let `$CD$` be [commensurable in length][bookofproofs$1095] with `$AB$`.

@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 4 from Book 11 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If a [straight line][bookofproofs$645] is set up at [right angles][bookofproofs$653] to two [straight lines][bookofproofs$645] cutting one another, at the common [point][bookofproofs$631] of section, then it will also be at [right angles to the plane][bookofproofs$2212] (passing) through them (both).
 * For let some [straight line][bookofproofs$645] `$EF$` have (been) set up at [right angles][bookofproofs$653] to two [straight lines][bookofproofs$645], `$AB$` and `$CD$`, cutting one another at [point][bookofproofs$631] `$E$`, at `$E$`.

@@ -65,7 +65,7 @@
 <p>this could mean that the sum goes over all integers from \(1\) to \(2^n\) or that it goes over all powers of \(2\), from \(2^0\) to \(2^n\). To avoid such ambiguities, we should then write explicitly</p>
 <p>\[2^0 + 2^1 + \cdots + 2^n\]</p>
 <h3>The Delimited \(\Sigma\)-Notation ("Sigma"-Notation)</h3>
-<p>The Greek letter \(\Sigma\) (upper case sigma) is used to write a delimited form of sums. This notation was introduced in 1870 by "Joseph Fourier":<a href="https://www.bookofproofs.org/history/jean-baptiste-joseph-fourier/">https://www.bookofproofs.org/history/jean-baptiste-joseph-fourier/</a>. The sum \(a_1+a_2+\cdots+a_n\) can be written as 
+<p>The Greek letter \(\Sigma\) (upper case sigma) is used to write a delimited form of sums. This notation was introduced in 1870 by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fourier/">Joseph Fourier</a>. The sum \(a_1+a_2+\cdots+a_n\) can be written as 
 \[\sum_{k=1}^n a_k\quad\quad ( * )\]
 and read "sum over \(k\), from \(1\) to \(n\)". The terms after  \(\Sigma\)  (here \(a_k\)) are called the <strong>summands</strong>. The index \(k\) is said to be <strong>bound</strong> to the \(\Sigma\)  sign, since any other letter could be substituted for \(k\) without changing the meaning of \(( * )\):</p>
 <p>\[\sum_{k=1}^n a_k=\sum_{j=1}^n a_j=\sum_{m=1}^n a_m=\cdots.\]</p>
@@ -108,7 +108,7 @@ is a sum, the summands of which consist of the terms \(a_k\) and \(b_j\) dependi
 </blockquote>
 <p>The manipulation in the general notation is more simply done than in the delimited form. In the latter, it is harder to see what happened and it is more likely to make a mistake.</p>
 <h3>The Iverson-Notation</h3>
-<p>Kenneth I. Iverson introduced in his "APL programming language":<a href="http://www.jsoftware.com/papers/APL.htm">http://www.jsoftware.com/papers/APL.htm</a> a very useful concept of a <strong>relational statement</strong> \([\alpha~R~\beta]\), which is a <strong>logical variable</strong> defined by:</p>
+<p>Kenneth I. Iverson introduced in his <a href="https://www.jsoftware.com/papers/APL.htm">APL programming language</a> a very useful concept of a <strong>relational statement</strong> \([\alpha~R~\beta]\), which is a <strong>logical variable</strong> defined by:</p>
 <p>\[[\alpha~R~\beta]:=\cases{1,\quad \alpha R \beta\\0\quad\text{else}}\]</p>
 <p>This concept can be adapted to write sums in the form</p>
 <p>\[\sum_{k}a_k[P(k)],\]</p>

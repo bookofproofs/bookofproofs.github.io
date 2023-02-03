@@ -11,7 +11,11 @@ contributors: bookofproofs
 
 
 ---
-We have used already the symbol `$\Sigma^*$` to denote all words over an [alphabet][bookofproofs$708] `$\Sigma$`. The following symbols, proposed by "Stephen Cole Kleene":https://www.bookofproofs.org/history/stephen-cole-kleene (1909 - 1994) prove very useful in theoretical computer science and are generalizations of this concept for any [languages][bookofproofs$7842].
+
+We have used already the symbol `$\Sigma^*$` to denote all words over an [alphabet][bookofproofs$708] `$\Sigma$`. 
+The following symbols, proposed by [Stephen C. Kleene](https://mathshistory.st-andrews.ac.uk/Biographies/Kleene/) (1909 - 1994) prove very useful in theoretical computer 
+science and are generalizations of this concept for any [languages][bookofproofs$7842].
+
 ---
 
 Let `$L$` be a [languages][bookofproofs$7842] over an [alphabets][bookofproofs$708] with the [empty word][bookofproofs$708] `$\epsilon$`. The **iteration** `$L^n$` of `$L$` is a repeated [concatenation][bookofproofs$8492] of itself, defined recursively by `$$L^0:=\{\epsilon\}\quad L^{n+1}:=LL^n.$$`

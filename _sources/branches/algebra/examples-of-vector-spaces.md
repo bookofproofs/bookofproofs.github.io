@@ -29,7 +29,7 @@ The number line has a designated vector, the zero vector `$(0)$`, and each point
 
 ### Example `$\mathbb R^2$`
 
-"Descartes":https://www.bookofproofs.org/history/rene-descartes/ was the first to identify the points of a [plane][bookofproofs$647] with pairs of two real numbers. As in the case of a number line, this requires the choice of a special vector, which is the zero vector `$(0,0)$`. Then, each point in the plane with the coordinates `$x$` and `$y$` can be identified with a vector pointing to the point, which has the same coordinates, i.e. the vector `$(x,y).$`
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Descartes/">René Descartes</a> was the first to identify the points of a [plane][bookofproofs$647] with pairs of two real numbers. As in the case of a number line, this requires the choice of a special vector, which is the zero vector `$(0,0)$`. Then, each point in the plane with the coordinates `$x$` and `$y$` can be identified with a vector pointing to the point, which has the same coordinates, i.e. the vector `$(x,y).$`
 
 
 ![carthesian](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/carthesian.png?raw=true)

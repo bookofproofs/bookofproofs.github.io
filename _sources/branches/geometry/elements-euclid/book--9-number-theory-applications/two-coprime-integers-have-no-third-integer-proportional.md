@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 16 from Book 9 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If two [numbers][bookofproofs$2315] are [prime to one another][bookofproofs$1288] then as the first is to the second, so the second (will) not (be) to some other (number).
 * For let the two [numbers][bookofproofs$2315] `$A$` and `$B$` be [prime to one another][bookofproofs$1288].

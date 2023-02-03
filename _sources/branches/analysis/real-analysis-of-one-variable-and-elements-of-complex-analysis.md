@@ -59,7 +59,7 @@ Ideally, you should be already acquainted with the following facts:
 * Basically, the same rules apply for [complex numbers][bookofproofs$6788] `$\mathbb C$` with the operations [addition][bookofproofs$1657] "`$+$`" and the [multiplication][bookofproofs$1668] "`$\cdot$`". 
 * Any two real numbers `$x,y\in\mathbb R$` can be ordered using the [order relation][bookofproofs$1107] "`$\le$`" . This relation is [strict and total][bookofproofs$7834], i.e. only one of the following situations can be true (this is known as the _trichotomy property_): Either `$x < y$`, or `$x=y$`, or `$x > y$`. 
 * The above order relation is transitive, i.e. if `$x \le y$` and `$y \le z$`, then `$x \le z$`.
-* You should know some basic results for the "calculation of inequalities":https://www.bookofproofs.org/branches/rules-of-calculation-with-inequalities/.
+* You should know some basic results for the [calculation with inequalities][bookofproofs$594].
 * You should know that complex numbers cannot be ordered. 
 
 ### Concepts you will learn in this part of <strong><span style='color:orange'>Bookof</span><span style='color:lightblue'>Proofs</span></strong>

@@ -31,4 +31,4 @@ k\alpha < \beta&\Rightarrow&k\gamma < \delta&\wedge\\
 
 then `$$\frac\alpha\beta=\frac\gamma\delta.$$`
 
-This definition is the kernel of "Eudoxus'":https://www.bookofproofs.org/history/eudoxus-of-cnidus/ theory of proportion, and is valid even if `$\alpha$`, `$\beta$`, etc., are [irrational][bookofproofs$6663].
+This definition is the kernel of [Eudoxus](https://mathshistory.st-andrews.ac.uk/Biographies/Eudoxus/)'s theory of proportion, and is valid even if `$\alpha$`, `$\beta$`, etc., are [irrational][bookofproofs$6663].

@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 54 from Book 10 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If an area is [contained][bookofproofs$1014] by a [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) and a [first binomial][bookofproofs$2085] ([straight line][bookofproofs$645]) then the [square root][bookofproofs$46] of the area is the irrational ([straight line][bookofproofs$645] which is) called [binomial][bookofproofs$2130].
 * For let the area `$AC$` be contained by the [rational][bookofproofs$2083] ([straight line][bookofproofs$645]) `$AB$` and by the [first binomial][bookofproofs$2085] ([straight line][bookofproofs$645]) `$AD$`.

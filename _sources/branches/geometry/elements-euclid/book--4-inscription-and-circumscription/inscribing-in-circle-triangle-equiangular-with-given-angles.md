@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 2 from Book 4 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > To [inscribe][bookofproofs$1920] a [triangle][bookofproofs$6432], equiangular with a given [triangle][bookofproofs$6432], in a given [circle][bookofproofs$690].
 * Let `$ABC$` be the given [circle][bookofproofs$690], and `$DEF$` the given [triangle][bookofproofs$6432].

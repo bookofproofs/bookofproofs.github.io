@@ -15,7 +15,8 @@ contributors: bookofproofs
 
 ---
 
-The following proof is a _special case_ of a more general fixpoint theorem formulated by "Tarski":https://www.bookofproofs.org/history/alfred-tarski/ for lattices, which we will be studying later in more detail.
+The following proof is a _special case_ of a more general fixpoint theorem formulated by 
+[Alfred Tarski](https://mathshistory.st-andrews.ac.uk/Biographies/Tarski/) for lattices, which we will be studying later in more detail.
 
 * Let `$A$` and `$B$` be [sets][bookofproofs$550] with the [cardinalities][bookofproofs$980]  `$|A|$` and `$|B|$`.
 * By hypothesis, `$|A|\le |B|$` and `$|B|\le |A|.$` 

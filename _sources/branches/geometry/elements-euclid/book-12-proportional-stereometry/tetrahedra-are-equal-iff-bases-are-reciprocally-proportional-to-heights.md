@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 9 from Book 12 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > The bases of equal [pyramids][bookofproofs$2221] which also have [triangular][bookofproofs$6432] bases are [reciprocally][bookofproofs$1952] [proportional][bookofproofs$2328] to their heights. And those [pyramids][bookofproofs$2221] which have [triangular][bookofproofs$6432] bases whose bases are [reciprocally][bookofproofs$1952] [proportional][bookofproofs$2328] to their heights are equal.
 * For let there be (two) equal [pyramids][bookofproofs$2221] having the [triangular][bookofproofs$6432] bases `$ABC$` and `$DEF$`, and apexes the [points][bookofproofs$631] `$G$` and `$H$` (respectively).

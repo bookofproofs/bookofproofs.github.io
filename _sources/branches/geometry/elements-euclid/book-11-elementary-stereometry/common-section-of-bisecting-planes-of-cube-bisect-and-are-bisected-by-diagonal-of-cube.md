@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 38 from Book 11 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > If the sides of the opposite [planes][bookofproofs$647] of a [cube][bookofproofs$2234] are cut in half, and [planes][bookofproofs$647] are produced through the pieces, then the common section of the (latter) [planes][bookofproofs$647] and the [diameter][bookofproofs$6429] of the [cube][bookofproofs$2234] cut one another in half.
 * For let the opposite [planes][bookofproofs$647] `$CF$` and `$AH$` of the [cube][bookofproofs$2234] `$AF$` have been cut in half at the [points][bookofproofs$631] `$K$`, `$L$`, `$M$`, `$N$`, `$O$`, `$Q$`, `$P$`, and `$R$`.

@@ -15,7 +15,8 @@ contributors: bookofproofs
 
 ---
 
-As introduced in [Historical Development of Geometry][bookofproofs$8320], the work [Elements][bookofproofs$621] of "Euclid":https://www.bookofproofs.org/history/euclid-of-alexandria (about 0325 BC - about 0265 BC) was a milestone in the development of the axiomatic method and mathematics as a whole, but Euclid's axiomatic system was very vague with respect to the definitions of the mathematical objects “points”, “lines” and “planes”. It depended on the intuitive understanding of these objects. 
+As introduced in [Historical Development of Geometry][bookofproofs$8320], the work [Elements][bookofproofs$621] of 
+[Euclid](https://mathshistory.st-andrews.ac.uk/Biographies/Euclid/) (about 325 BC to 265 BC) was a milestone in the development of the axiomatic method and mathematics as a whole, but Euclid's axiomatic system was very vague with respect to the definitions of the mathematical objects “points”, “lines” and “planes”. It depended on the intuitive understanding of these objects. 
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hilbert/">David Hilbert</a> (1862 - 1943) developed a more modern axiomatic system, and his key idea was to detach "points", "lines" and "planes" from real-world objects. He did so at the cost of the relatively high number of `$21$` axioms as compared to only `$5$` axioms in the "Elements".
 

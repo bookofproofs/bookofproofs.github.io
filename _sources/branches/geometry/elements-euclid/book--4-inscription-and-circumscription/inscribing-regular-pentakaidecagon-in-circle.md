@@ -14,7 +14,7 @@ contributors: bookofproofs,@fitzpatrick
 
 ---
 
-### (Proposition 16 from Book 4 of Euclid's “Elements”)
+### Euclid's Formulation
 
 > To [inscribe][bookofproofs$6439] an equilateral and equiangular fifteen-sided figure in a given [circle][bookofproofs$690].
 * Let `$ABCD$` be the given [circle][bookofproofs$690].

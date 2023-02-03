@@ -14,9 +14,11 @@ contributors: bookofproofs
 
 ---
 
-Assume that `\(f:\mathbb R\to \mathbb R\)` obeys the functional equation `\(f(x+y)=f(x)\cdot f(y)\)` for all `\(x,y\in\mathbb R\)`. Because of the functional equation, we must have `\[f(1)=f\left(\frac 12\right)^2.\]` Therefore, in any case `\(f(1)\ge 0\)`. 
-https://www.bookofproofs.org/branches/functional-equation-of-the-exponential-function-of-general-base-revised/proof/#
-Suppose `\(f(1)=0\)`. Then, `\(f\)` is a [constant function][bookofproofs$1371] and equals `\(0\)`, since:
+* Assume that `\(f:\mathbb R\to \mathbb R\)` obeys the functional equation `\(f(x+y)=f(x)\cdot f(y)\)` for all `\(x,y\in\mathbb R\)`. 
+* Because of the [functional equation][bookofproofs$1630], we must have `\[f(1)=f\left(\frac 12\right)^2.\]` 
+* Therefore, in any case `\(f(1)\ge 0\)`. 
+* Suppose `\(f(1)=0\)`. 
+* Then, `\(f\)` is a [constant function][bookofproofs$1371] and equals `\(0\)`, since:
 
 `\[\begin{array}{rcll}
 f(x)&=&f(x+0)&\text{existence of real zero}\\

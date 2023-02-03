@@ -53,7 +53,7 @@ f_{3}&v_{1}&v_{3}&v_{4}\\
 f_{4}&v_{2}&v_{3}&v_{4}\\
 \end{array}\]`
 
-[^1]: This will be proven in the "Proposition 18 of Book 13 of Euclid's Elements":https://www.bookofproofs.org/branches/comparison-of-sides-of-platonic-solids-there-are-only-five-platonic-solids/, thus the tetrahedron is well-defined.
+[^1]: This will be proven in the [Prop. 18 of Book 13][bookofproofs$2312], thus the tetrahedron is well-defined.
 
 §§§1
 
