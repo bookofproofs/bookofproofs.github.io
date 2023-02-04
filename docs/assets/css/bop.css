@@ -5,7 +5,6 @@ html{-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}
 article,aside,details,figcaption,figure,footer,header,main,menu,nav,section{display:block}summary{display:list-item}
 audio,canvas,progress,video{display:inline-block}progress{vertical-align:baseline}
 audio:not([controls]){display:none;height:0}[hidden],template{display:none}
-a{background-color:transparent}a:active,a:hover{outline-width:0}
 abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}
 b,strong{font-weight:bolder}dfn{font-style:italic}mark{background:#ff0;color:#000}
 small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}
@@ -485,7 +484,7 @@ ul#topTab li a.current {
 
 textarea {width:100%}
 input {width:100%;margin-bottom:5px; line-height:35px;}
-a {text-decoration:none;color:#7B68EE;font-weight:700}
+a{color:#7B68EE; text-decoration:none; background-color:transparent;font-weight:bold;}a:active{background-color:red; color: white},a:hover{outline-width:0; color:orange; }a:visited{color: orange;}
 .collapsiblecontent {display:none; background:#F8F8FF;padding:10px 5px 5px 10px;}
 .ui-body-a {background:white;}
 .ui-body-b, .ui-dialog {background:#FFFAF0;}
@@ -493,8 +492,6 @@ a {text-decoration:none;color:#7B68EE;font-weight:700}
 .ui-body-d {background:#FAEBD7;}
 button, a.ui-button {margin-left:5px;}
 #linkproposals{display:none; font-size:0.9em;}
-#showlink {display:none}
-#showlink a {text-decoration:none;color:#7B68EE;font-weight:700}
 #modifybibliography{display:none;}
 #sortable { list-style-type: none; margin: 0; padding: 0; width: 100%; max-height: 500px; overflow-y: auto; overflow-x: hidden;}
 #sortable li { padding: 3px 3px 3px 1.5em; font-size: 0.8em; min-width:400px; max-width:600px;}

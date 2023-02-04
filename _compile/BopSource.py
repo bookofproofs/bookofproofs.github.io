@@ -345,6 +345,38 @@ class BopSource:
     def get_toc(self):
         return self._toc
 
+    def get_title_for_anchor(self):
+        cats = self.categories.copy()
+        if len(cats) > 1:
+            cats = cats[1:]
+        for i in range(0, len(cats)):
+            cats[i] = cats[i].replace("-", " ").title()
+        return html.escape(" / ".join(cats) + " / " + self.get_plane_long_title())
+
+    def get_titled_anchor(self, count, level):
+        outline = BopSource.get_layout_title(self.layout)
+        if outline == ".":
+            outline = ""
+        else:
+            outline += ": "
+
+        if count > 0:
+            ret = "<span class='caret'>{0}</span><a href='{1}' title='{2}'>{3}</a> ({4}) \n".format(
+                outline,
+                self.url(),
+                self.get_title_for_anchor(),
+                self.get_long_title(),
+                count
+            )
+        else:
+            ret = " " * level + "<li><span>{0}</span><a href='{1}' title='{2}'>{3}</a></li>\n".format(
+                outline,
+                self.url(),
+                self.get_title_for_anchor(),
+                self.get_long_title()
+            )
+        return ret
+
     def get_categories_links(self):
         ret = "<h3 class='navigation'>"
         if self.layout != BopLayouts.default:

@@ -26,17 +26,7 @@ class BopIndexCompiler:
         if len(node.children) > 0:
             index += " " * level + "<li>"
             if node.bop_source is not None:
-                outline = BopSource.get_layout_title(node.bop_source.layout)
-                if outline == ".":
-                    outline = ""
-                else:
-                    outline += ": "
-                index += "<span class='caret'>{0}</span><a href='{1}'>{2}</a> ({3}) \n".format(
-                    outline,
-                    node.bop_source.url(),
-                    node.bop_source.get_long_title(),
-                    node.count
-                )
+                index += node.bop_source.get_titled_anchor(node.count, level)
             else:
                 index += "<span class='caret'></span> {0} ({1}) \n".format(node.label, node.count)
             level += 1
@@ -48,16 +38,7 @@ class BopIndexCompiler:
             index += " " * level + "</li>\n"
         else:
             if node.bop_source is not None:
-                outline = BopSource.get_layout_title(node.bop_source.layout)
-                if outline == ".":
-                    outline = ""
-                else:
-                    outline += ": "
-                index += " " * level + "<li><span>{0}</span><a href='{1}'>{2}</a></li>\n".format(
-                    outline,
-                    node.bop_source.url(),
-                    node.bop_source.get_long_title()
-                )
+                index += node.bop_source.get_titled_anchor(0, level)
             else:
                 index += " " * level + "<li>{0}</li>\n".format(node.label)
         level -= 1

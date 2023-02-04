@@ -241,15 +241,9 @@ class BopValidator:
                                                      "Cannot resolve hyperlink reference [{0}] detected in ".format(
                                                          search_key) + bop_source.get_file_name())
                         elif search_key not in bop_source.links:
-                            cats = self._unique_nodeids[search_key].categories.copy()
-                            if len(cats) > 1:
-                                cats = cats[1:]
-                            for i in range(0, len(cats)):
-                                cats[i] = cats[i].replace("-", " ").title()
-                            bop_source.links[search_key] = \
-                                self._unique_nodeids[search_key].url() + " \"" + \
-                                html.escape(" / ".join(cats) + " / " +
-                                            self._unique_nodeids[search_key].get_plane_long_title()) + "\""
+                            other_node = self._unique_nodeids[search_key]
+                            bop_source.links[
+                                search_key] = other_node.url() + " \"" + other_node.get_title_for_anchor() + "\""
 
     def _validate_scripts(self, err_type: str):
         """
@@ -377,22 +371,23 @@ class BopValidator:
         """
         print("   Validating " + err_type)
         for bop_source in self._unique_nodeids.values():
-            if bop_source.layout in [BopLayouts.theorem, BopLayouts.corollary, BopLayouts.proposition,
-                                     BopLayouts.lemma]:
-                if not self._has_proof(bop_source):
-                    bop_source.issues.append("missing-proof")
-            else:
-                if self._has_proof(bop_source):
-                    bop_source.issues.append("misplaced-proof")
-            content = bop_source.get_pre_body() + "\n" + bop_source.get_body()
-            if "bookofproofs.org" in content or "\":http" in content:
-                bop_source.issues.append("non-migrated-link")
-            if bop_source.keywords == "":
-                bop_source.issues.append("seo-missing-keywords")
-            if bop_source.description == "":
-                bop_source.issues.append("seo-missing-description")
-            if bop_source.orderid == 0:
-                bop_source.issues.append("missing-order-id")
+            if bop_source.layout != BopLayouts.hidden:
+                if bop_source.layout in [BopLayouts.theorem, BopLayouts.corollary, BopLayouts.proposition,
+                                         BopLayouts.lemma]:
+                    if not self._has_proof(bop_source):
+                        bop_source.issues.append("missing-proof")
+                else:
+                    if self._has_proof(bop_source):
+                        bop_source.issues.append("misplaced-proof")
+                content = bop_source.get_pre_body() + "\n" + bop_source.get_body()
+                if "bookofproofs.org" in content or "\":http" in content:
+                    bop_source.issues.append("non-migrated-link")
+                if bop_source.keywords == "":
+                    bop_source.issues.append("seo-missing-keywords")
+                if bop_source.description == "":
+                    bop_source.issues.append("seo-missing-description")
+                if bop_source.orderid == 0:
+                    bop_source.issues.append("missing-order-id")
 
     def _has_proof(self, bop_source):
         for possible_proof in self._unique_nodeids.values():
