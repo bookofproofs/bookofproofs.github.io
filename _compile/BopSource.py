@@ -71,6 +71,7 @@ class BopSource:
         self.categories = list()
         self.contributors = list()
         self.links = dict()
+        self.referencing_nodes = dict()
         self.scripts = dict()
         self.issues = list()
         self._init_properties(contents[0])
@@ -211,6 +212,8 @@ class BopSource:
             ret += "_(no contents provided yet)_"
         else:
             ret += self._body
+            if self.layout == BopLayouts.proof:
+                ret += "<div class='qed'>&#8718;</div>"
         return ret
 
     def _get_content_node(self):
@@ -345,6 +348,27 @@ class BopSource:
     def get_toc(self):
         return self._toc
 
+    def get_referencing_nodes_html(self):
+        ret = ""
+        if len(self.referencing_nodes) != 0:
+            ret += "<h3 class='navigation'>Mentioned in:</h3>\n\n"
+            internal_references = list(self.referencing_nodes.values())
+            internal_references.sort(key=lambda x: x.layout + " " + ", ".join(x.categories) + ", " + x.get_sort_title())
+            counter = 0
+            current_layout = ""
+            for bop_source in internal_references:
+                counter += 1
+                if current_layout != bop_source.layout:
+                    if current_layout != "":
+                        ret += "<br>"
+                    ret += BopSource.get_plural_layout_title(bop_source.layout) + ": "
+                    current_layout = bop_source.layout
+                ret += "<a href='{0}' title='{1}'>{2}</a> ".format(bop_source.url(),
+                                                                   bop_source.get_title_for_anchor(),
+                                                                   counter)
+            ret += "<br>"
+        return ret
+
     def get_title_for_anchor(self):
         cats = self.categories.copy()
         if len(cats) > 1:
@@ -376,7 +400,7 @@ class BopSource:
                 self.get_long_title()
             )
         else:
-            ret = " " * level + "<a href='{1}' title='{2}'>{3}</a>\n".format(
+            ret = " " * level + "<span>{0}</span><a href='{1}' title='{2}'>{3}</a>\n".format(
                 outline,
                 self.url(),
                 self.get_title_for_anchor(),

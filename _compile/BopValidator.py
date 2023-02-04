@@ -1,4 +1,3 @@
-import html
 import re
 from BopSource import BopLayouts, BopSource
 from FileMgr import FileMgr
@@ -40,7 +39,7 @@ class BopValidator:
                                BopLayouts.motivation, BopLayouts.application, BopLayouts.problem],
         BopLayouts.definition: [BopLayouts.example, BopLayouts.explanation, BopLayouts.motivation,
                                 BopLayouts.application, BopLayouts.problem],
-        BopLayouts.axiom: [BopLayouts.explanation],
+        BopLayouts.axiom: [BopLayouts.explanation, BopLayouts.corollary, BopLayouts.axiom],
         BopLayouts.algorithm: [BopLayouts.proof, BopLayouts.example, BopLayouts.explanation, BopLayouts.motivation,
                                BopLayouts.application, BopLayouts.problem],
         BopLayouts.problem: [BopLayouts.solution],
@@ -242,6 +241,9 @@ class BopValidator:
                                                          search_key) + bop_source.get_file_name())
                         elif search_key not in bop_source.links:
                             other_node = self._unique_nodeids[search_key]
+                            if bop_source.nodeid not in other_node.referencing_nodes and \
+                                    bop_source.layout not in [BopLayouts.index, BopLayouts.hidden]:
+                                other_node.referencing_nodes[bop_source.nodeid] = bop_source
                             bop_source.links[
                                 search_key] = other_node.url() + " \"" + other_node.get_title_for_anchor() + "\""
 
@@ -389,9 +391,8 @@ class BopValidator:
                 if bop_source.orderid == 0:
                     bop_source.issues.append("missing-order-id")
                 if bop_source.layout == BopLayouts.algorithm and not \
-                    bop_source.script_has_python(str(bop_source.scripts)):
+                        bop_source.script_has_python(str(bop_source.scripts)):
                     bop_source.issues.append("sourcecode-markdown-broken")
-
 
     def _has_proof(self, bop_source):
         for possible_proof in self._unique_nodeids.values():

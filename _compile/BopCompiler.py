@@ -193,7 +193,7 @@ class BopCompiler:
     def __create_toc(self, parentid: str, distinct_related_tocs: dict, nodes: dict):
         toc = ""
         bop_source = nodes[parentid]
-        if bop_source.layout not in [BopLayouts.default]:
+        if bop_source.layout not in [BopLayouts.default, BopLayouts.index, BopLayouts.hidden]:
             toc += "<h3 class='navigation'>Table of Contents</h3>\n\n"
             # first, create a toc of related nodes
             for title in distinct_related_tocs:
@@ -247,6 +247,7 @@ class BopCompiler:
             body += bop_source.get_categories_links() + "\n"
         body += bop_source.get_content_of_node() + "\n"
         body += bop_source.get_toc() + "\n"
+        body += bop_source.get_referencing_nodes_html() + "\n"
         body += bop_source.get_references_md()
         body += bop_source.get_link_references()
 

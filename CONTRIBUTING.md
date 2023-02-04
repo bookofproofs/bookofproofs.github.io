@@ -11,7 +11,7 @@ include, but are not limited to:
 * [Mathjax][mj] 
 * [JSXGraph][jx]
 * [Sagecell][sc]
-* Dynamic sites containing indices of the contents
+* Dynamic indices and tables of contents
 * Dynamic RSS feeds
 * Dynamic search with autocomplete
 
