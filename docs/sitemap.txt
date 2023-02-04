@@ -1,4 +1,3 @@
-https://bookofproofs.github.io/
 https://bookofproofs.github.io/history/history.html
 https://bookofproofs.github.io/branches/fun/fun.html
 https://bookofproofs.github.io/branches/branches.html

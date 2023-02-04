@@ -150,6 +150,24 @@ class BopIndexCompiler:
         self._calculate_counts(self._index_tree)
         return self._get_index_to_html()
 
+    def get_widgets_index(self):
+        BopIndexNode.clear(self._index_tree)
+        sage_cell_node = BopIndexNode()
+        sage_cell_node.label = "SageCell"
+        sage_cell_node.parent = self._index_tree
+        sage_cell_sources = self._filter_nodes_by_lambda(lambda x: "<div class='sage'>" in str(x.scripts))
+        self._add_to_index_tree_by_category(sage_cell_node, sage_cell_sources)
+        jsx_graph_node = BopIndexNode()
+        jsx_graph_node.label = "JsxGraph"
+        jsx_graph_node.parent = self._index_tree
+        jsx_graph_sources = self._filter_nodes_by_lambda(lambda x: "JXG.JSXGraph" in str(x.scripts))
+        self._add_to_index_tree_by_category(jsx_graph_node, jsx_graph_sources)
+        self._calculate_counts(self._index_tree)
+        return self._get_index_to_html()
+
+    def get_person_index(self):
+        return "Index is not yet available, please try again later."
+
     def get_keywords_index(self):
         # gather all keyword-defining nodes
         keyword_defining_nodes = dict()
@@ -195,17 +213,23 @@ class BopIndexCompiler:
             for bop_source in keyword_defining_nodes[keyword]:
                 link_counter += 1
                 if link_counter <= 100:
-                    index += "<a href='{0}'>[{1}]</a> ".format(bop_source.url(), link_counter)
+                    index += "<a href='{0}' title='{1}'>[{2}]</a> ".format(bop_source.url(),
+                                                                           bop_source.get_title_for_anchor(),
+                                                                           link_counter)
             for bop_source in keyword_referencing_nodes[keyword]:
                 link_counter += 1
                 if link_counter <= 100:
-                    index += "<a href='{0}'>({1})</a> ".format(bop_source.url(), link_counter)
+                    index += "<a href='{0}' title='{1}'>({2})</a> ".format(bop_source.url(),
+                                                                           bop_source.get_title_for_anchor(),
+                                                                           link_counter)
             for bop_source in keyword_containing_nodes[keyword]:
                 link_counter += 1
                 if link_counter <= 100:
-                    index += "<a href='{0}'>{1}</a> ".format(bop_source.url(), link_counter)
+                    index += "<a href='{0}' title='{1}'>{2}</a> ".format(bop_source.url(),
+                                                                         bop_source.get_title_for_anchor(),
+                                                                         link_counter)
             if link_counter > 100:
-                index += "... (" + str(link_counter-100) + " more)"
+                index += "... (" + str(link_counter - 100) + " more)"
             index += "</dd>\n"
         index += "</dl>\n"
         return index
@@ -247,13 +271,17 @@ class BopIndexCompiler:
             for bop_source in keyword_defining_nodes[keyword]:
                 link_counter += 1
                 if link_counter <= 100:
-                    index += "<a href='{0}'>[{1}]</a> ".format(bop_source.url(), link_counter)
+                    index += "<a href='{0}' title='{1}'>[{2}]</a> ".format(bop_source.url(),
+                                                                           bop_source.get_title_for_anchor(),
+                                                                           link_counter)
             for bop_source in keyword_containing_nodes[keyword]:
                 link_counter += 1
                 if link_counter <= 100:
-                    index += "<a href='{0}'>{1}</a> ".format(bop_source.url(), link_counter)
+                    index += "<a href='{0}' title='{1}'>{2}</a> ".format(bop_source.url(),
+                                                                         bop_source.get_title_for_anchor(),
+                                                                         link_counter)
             if link_counter > 100:
-                index += "... (" + str(link_counter-100) + " more)"
+                index += "... (" + str(link_counter - 100) + " more)"
             index += "</dd>\n"
         index += "</dl>\n"
         return index

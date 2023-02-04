@@ -368,8 +368,15 @@ class BopSource:
                 self.get_long_title(),
                 count
             )
-        else:
+        elif count == 0:
             ret = " " * level + "<li><span>{0}</span><a href='{1}' title='{2}'>{3}</a></li>\n".format(
+                outline,
+                self.url(),
+                self.get_title_for_anchor(),
+                self.get_long_title()
+            )
+        else:
+            ret = " " * level + "<a href='{1}' title='{2}'>{3}</a>\n".format(
                 outline,
                 self.url(),
                 self.get_title_for_anchor(),

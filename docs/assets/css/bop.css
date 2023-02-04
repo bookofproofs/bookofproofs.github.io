@@ -484,7 +484,14 @@ ul#topTab li a.current {
 
 textarea {width:100%}
 input {width:100%;margin-bottom:5px; line-height:35px;}
-a{color:#7B68EE; text-decoration:none; background-color:transparent;font-weight:bold;}a:active{background-color:red; color: white},a:hover{outline-width:0; color:orange; }a:visited{color: orange;}
+a {color:#7B68EE; text-decoration:none; background-color:transparent;font-weight:bold;}
+a:active{background-color:red; color: white},a:hover{outline-width:0; color:orange; }
+a:visited {color: orange;}
+
+footer a:visited {color:#7B68EE;}
+.w3-top a {color:black;} a:visited {color:#7B68EE;}
+
+
 .collapsiblecontent {display:none; background:#F8F8FF;padding:10px 5px 5px 10px;}
 .ui-body-a {background:white;}
 .ui-body-b, .ui-dialog {background:#FFFAF0;}

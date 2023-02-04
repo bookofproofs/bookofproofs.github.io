@@ -7,6 +7,7 @@ from BopSource import BopSource, BopLayouts
 from BopReferences import BopReferences
 from BopValidator import BopValidator
 from BopIndexCompiler import BopIndexCompiler
+from BopValidationError import BopValidationError
 
 
 class BopCompiler:
@@ -119,7 +120,9 @@ class BopCompiler:
                 bop_source = BopSource(file)
                 self._source_licenses.append(bop_source)
                 if bop_source.nodeid in self._source_licenses_ids:
-                    raise B ("Duplicate license " + bop_source.nodeid + " in " + bop_source.get_file_name())
+                    raise BopValidationError("LICENSE", "01",
+                                             "Duplicate license " + bop_source.nodeid + " in " +
+                                             bop_source.get_file_name())
                 else:
                     self._source_licenses_ids.add(bop_source.nodeid)
             else:
@@ -142,6 +145,10 @@ class BopCompiler:
         self.indices["{{ q-index }}"] = self._index_compiler.get_issue_index()
         print("   Making contributors index")
         self.indices["{{ c-index }}"] = self._index_compiler.get_contributors_index()
+        print("   Making interactive widgets index")
+        self.indices["{{ w-index }}"] = self._index_compiler.get_widgets_index()
+        print("   Making person index")
+        self.indices["{{ p-index }}"] = self._index_compiler.get_person_index()
         print("   Making keywords index")
         self.indices["{{ ii-index }}"] = self._index_compiler.get_keywords_index()
         print("   Making SEO keywords index")
@@ -266,7 +273,8 @@ class BopCompiler:
         # self.fm.copy_folder("../_sources/_assets/images", "../docs/assets/images")
         self.fm.copy_file("../_sources/_assets/images/fav.ico", "../docs/fav.ico")
         # google site verification
-        self.fm.copy_file("../_sources/_assets/other/google5e9ab19be7343012.html", "../docs/google5e9ab19be7343012.html")
+        self.fm.copy_file("../_sources/_assets/other/google5e9ab19be7343012.html",
+                          "../docs/google5e9ab19be7343012.html")
         # fpl syntax diagrams
         self.fm.copy_file("../_sources/_assets/other/FPLSyntaxDiagrams.xhtml", "../docs/FPLSyntaxDiagrams.html")
 
@@ -312,7 +320,7 @@ class BopCompiler:
         sitemaps = list()
         for source in self.sources:
             bop_source = self.sources[source]
-            if bop_source.layout not in [BopLayouts.hidden, BopLayouts.index, BopLayouts]:
+            if bop_source.layout not in [BopLayouts.hidden, BopLayouts.default]:
                 url = bop_source.url()
                 if url == "https://bookofproofs.github.io/index.html":
                     url = "https://bookofproofs.github.io/"
