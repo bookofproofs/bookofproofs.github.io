@@ -54,40 +54,39 @@
     r_i = 0
     r_j = 0
     r_n = 0</p>
-<div class="codehilite"><pre><span></span><code><span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">set_ri_to_0</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
-<span class="w">     </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
-<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">&amp;</span><span class="n">gt</span><span class="p">;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">i</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">NOP</span><span class="p">()</span><span class="w">  </span><span class="p">#</span><span class="w">  </span><span class="n">DO</span><span class="w"> </span><span class="n">nothing</span>
-<span class="w">         </span><span class="k">else</span><span class="o">:</span>
-<span class="w">             </span><span class="k">break</span>
+<pre><code> def set_ri_to_0(self):
+     while True:
+         if self.r_i &amp;gt; 0:
+             self.r_i = self.r_i - 1 #  LOOP register i
+             self.NOP()  #  DO nothing
+         else:
+             break
 
-<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">LOOP_rj_DO_increment_r_i</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
-<span class="w">     </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
-<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">&amp;</span><span class="n">gt</span><span class="p">;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">j</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">DO</span><span class="w"> </span><span class="n">increment</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">i</span>
-<span class="w">         </span><span class="k">else</span><span class="o">:</span>
-<span class="w">             </span><span class="k">break</span>
+ def LOOP_rj_DO_increment_r_i(self):
+     while True:
+         if self.r_j &amp;gt; 0:
+             self.r_j = self.r_j - 1 #  LOOP register j
+             self.r_i = self.r_i + 1 #  DO increment register i
+         else:
+             break
 
-<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">LOOP_rn_DO_increment_ri</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
-<span class="w">     </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
-<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">&amp;</span><span class="n">gt</span><span class="p">;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">n</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">DO</span><span class="w"> </span><span class="n">increment</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">i</span>
-<span class="w">         </span><span class="k">else</span><span class="o">:</span>
-<span class="w">             </span><span class="k">break</span>
+ def LOOP_rn_DO_increment_ri(self):
+     while True:
+         if self.r_n &amp;gt; 0:
+             self.r_n = self.r_n - 1 #  LOOP register n
+             self.r_i = self.r_i + 1 #  DO increment register i
+         else:
+             break
 
-<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">add_rn_rj_and_store_result_to_ri</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">set_ri_to_0</span><span class="p">()</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">LOOP_rj_DO_increment_r_i</span><span class="p">()</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">LOOP_rn_DO_increment_ri</span><span class="p">()</span>
+ def add_rn_rj_and_store_result_to_ri(self):
+     self.set_ri_to_0()
+     self.LOOP_rj_DO_increment_r_i()
+     self.LOOP_rn_DO_increment_ri()
 
-<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">NOP</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">i</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">i</span>
-</code></pre></div>
-
+ def NOP(self):
+     self.r_i = self.r_i + 1 #  LOOP register i
+     self.r_i = self.r_i - 1  # LOOP register i
+</code></pre>
 <ol>
 <li>Usage for adding the r_i = r_j + r_n</li>
 <li>creating a unit-cost access machine with registers initially set

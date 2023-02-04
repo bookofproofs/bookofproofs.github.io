@@ -420,3 +420,7 @@ class BopSource:
         pattern = re.compile(r"(\d+)")
         title = re.sub(pattern, r"\1".zfill(leading_zeros), title)
         return title
+
+    @staticmethod
+    def script_has_python(script: str):
+        return "```" in script and ".python" in script

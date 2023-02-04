@@ -50,11 +50,10 @@
 <p>class UCRAM():
     # unit-cost random access machine with 3 registers
     r_i = 0</p>
-<div class="codehilite"><pre><span></span><code><span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">NOP</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">i</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">i</span>
-</code></pre></div>
-
+<pre><code> def NOP(self):
+     self.r_i = self.r_i + 1 #  LOOP register i
+     self.r_i = self.r_i - 1  # LOOP register i
+</code></pre>
 <ol>
 <li>Usage for NOP</li>
 <li>creating a unit-cost access machine with registers initially set

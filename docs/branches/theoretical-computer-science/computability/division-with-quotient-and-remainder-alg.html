@@ -55,99 +55,98 @@
     r_r = 0
     r_m = 0
     r_c = 0</p>
-<div class="codehilite"><pre><span></span><code><span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">set_rc_to_0</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
-<span class="w">     </span><span class="p">#</span><span class="w"> </span><span class="n">set</span><span class="w"> </span><span class="n">r_c</span><span class="o">=</span><span class="mh">0</span><span class="w"> </span><span class="n">with</span><span class="w"> </span><span class="n">loop</span><span class="w"> </span><span class="n">r_q</span><span class="w"> </span><span class="k">do</span>
-<span class="w">     </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
-<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_c</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_c</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_c</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">c</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">NOP</span><span class="p">()</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">DO</span><span class="w"> </span><span class="n">nothing</span>
-<span class="w">         </span><span class="k">else</span><span class="o">:</span>
-<span class="w">             </span><span class="k">break</span>
+<pre><code> def set_rc_to_0(self):
+     # set r_c=0 with loop r_q do
+     while True:
+         if self.r_c &gt; 0:
+             self.r_c = self.r_c - 1 #  LOOP register c
+             self.NOP() #  DO nothing
+         else:
+             break
 
-<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">set_rc_to_1</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">set_rc_to_0</span><span class="p">()</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_c</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_c</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="n">increment</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">c</span>
+ def set_rc_to_1(self):
+     self.set_rc_to_0()
+     self.r_c = self.r_c + 1  # increment register c
 
-<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">set_rq_to_0</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
-<span class="w">     </span><span class="p">#</span><span class="w"> </span><span class="n">set</span><span class="w"> </span><span class="n">r_q</span><span class="o">=</span><span class="mh">0</span><span class="w"> </span><span class="n">with</span><span class="w"> </span><span class="n">loop</span><span class="w"> </span><span class="n">r_q</span><span class="w"> </span><span class="k">do</span>
-<span class="w">     </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
-<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_q</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_q</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_q</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">q</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">NOP</span><span class="p">()</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">DO</span><span class="w"> </span><span class="n">nothing</span>
-<span class="w">         </span><span class="k">else</span><span class="o">:</span>
-<span class="w">             </span><span class="k">break</span>
+ def set_rq_to_0(self):
+     # set r_q=0 with loop r_q do
+     while True:
+         if self.r_q &gt; 0:
+             self.r_q = self.r_q - 1 #  LOOP register q
+             self.NOP() #  DO nothing
+         else:
+             break
 
-<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">set_rr_to_0</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
-<span class="w">     </span><span class="p">#</span><span class="w"> </span><span class="n">set</span><span class="w"> </span><span class="n">r_r</span><span class="o">=</span><span class="mh">0</span><span class="w"> </span><span class="n">with</span><span class="w"> </span><span class="n">loop</span><span class="w"> </span><span class="n">r_r</span><span class="w"> </span><span class="k">do</span>
-<span class="w">     </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
-<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_r</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_r</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_r</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">n</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">NOP</span><span class="p">()</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">DO</span><span class="w"> </span><span class="n">nothing</span>
-<span class="w">         </span><span class="k">else</span><span class="o">:</span>
-<span class="w">             </span><span class="k">break</span>
+ def set_rr_to_0(self):
+     # set r_r=0 with loop r_r do
+     while True:
+         if self.r_r &gt; 0:
+             self.r_r = self.r_r - 1 #  LOOP register n
+             self.NOP() #  DO nothing
+         else:
+             break
 
-<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">set_rm_to_0</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
-<span class="w">     </span><span class="p">#</span><span class="w"> </span><span class="n">set</span><span class="w"> </span><span class="n">r_m</span><span class="o">=</span><span class="mh">0</span><span class="w"> </span><span class="n">with</span><span class="w"> </span><span class="n">loop</span><span class="w"> </span><span class="n">r_m</span><span class="w"> </span><span class="k">do</span>
-<span class="w">     </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
-<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_m</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_m</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_m</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">m</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">NOP</span><span class="p">()</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">DO</span><span class="w"> </span><span class="n">nothing</span>
-<span class="w">         </span><span class="k">else</span><span class="o">:</span>
-<span class="w">             </span><span class="k">break</span>
+ def set_rm_to_0(self):
+     # set r_m=0 with loop r_m do
+     while True:
+         if self.r_m &gt; 0:
+             self.r_m = self.r_m - 1 #  LOOP register m
+             self.NOP() #  DO nothing
+         else:
+             break
 
-<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">NOP</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_q</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_q</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_q</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_q</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span>
+ def NOP(self):
+     self.r_q = self.r_q + 1
+     self.r_q = self.r_q - 1
 
-<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">check_if_rr_minus_rk_equals_0_and_flag_this_in_rc</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
-<span class="w">     </span><span class="n">saved_rr</span><span class="o">=</span><span class="n">self</span><span class="p">.</span><span class="n">r_r</span>
-<span class="w">     </span><span class="n">saved_rk</span><span class="o">=</span><span class="n">self</span><span class="p">.</span><span class="n">r_k</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">set_rm_to_0</span><span class="p">()</span>
-<span class="w">     </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
-<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_k</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_k</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_k</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">k</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_m</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_m</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="k">do</span><span class="w"> </span><span class="n">increment</span><span class="w"> </span><span class="n">r_m</span>
-<span class="w">         </span><span class="k">else</span><span class="o">:</span>
-<span class="w">             </span><span class="k">break</span>
-<span class="w">     </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
-<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_r</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_r</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_r</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">n</span>
-<span class="w">             </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_m</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
-<span class="w">                 </span><span class="n">self</span><span class="p">.</span><span class="n">r_m</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_m</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="k">do</span><span class="w"> </span><span class="n">decrement</span><span class="w"> </span><span class="n">r_m</span>
-<span class="w">         </span><span class="k">else</span><span class="o">:</span>
-<span class="w">             </span><span class="k">break</span>
-<span class="w">     </span><span class="p">#</span><span class="w"> </span><span class="n">add</span><span class="w"> </span><span class="n">r_k</span><span class="w"> </span><span class="k">and</span><span class="w"> </span><span class="n">r_r</span><span class="w"> </span><span class="n">were</span><span class="w"> </span><span class="n">equal</span><span class="p">,</span><span class="w"> </span><span class="n">then</span><span class="w"> </span><span class="n">r_m</span><span class="w"> </span><span class="n">is</span><span class="w"> </span><span class="mh">0</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">set_rc_to_1</span><span class="p">()</span><span class="w"> </span><span class="p">#</span><span class="w"> </span><span class="n">assume</span><span class="w"> </span><span class="n">equality</span>
-<span class="w">     </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
-<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_m</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_m</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_m</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">r_m</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">set_rc_to_0</span><span class="p">()</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="n">unequal</span>
-<span class="w">         </span><span class="k">else</span><span class="o">:</span>
-<span class="w">             </span><span class="k">break</span>
-<span class="w">     </span><span class="p">#</span><span class="w"> </span><span class="n">restore</span><span class="w"> </span><span class="n">compared</span><span class="w"> </span><span class="n">registers</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_r</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">saved_rr</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_k</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">saved_rk</span>
+ def check_if_rr_minus_rk_equals_0_and_flag_this_in_rc(self):
+     saved_rr=self.r_r
+     saved_rk=self.r_k
+     self.set_rm_to_0()
+     while True:
+         if self.r_k &gt; 0:
+             self.r_k = self.r_k - 1  # LOOP register k
+             self.r_m = self.r_m + 1  # do increment r_m
+         else:
+             break
+     while True:
+         if self.r_r &gt; 0:
+             self.r_r = self.r_r - 1  # LOOP register n
+             if self.r_m &gt; 0:
+                 self.r_m = self.r_m - 1  # do decrement r_m
+         else:
+             break
+     # add r_k and r_r were equal, then r_m is 0
+     self.set_rc_to_1() # assume equality
+     while True:
+         if self.r_m &gt; 0:
+             self.r_m = self.r_m - 1  # LOOP register r_m
+             self.set_rc_to_0()  # unequal
+         else:
+             break
+     # restore compared registers
+     self.r_r = saved_rr
+     self.r_k = saved_rk
 
-<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">DIV_MOD</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">set_rq_to_0</span><span class="p">()</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">set_rr_to_0</span><span class="p">()</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">set_rm_to_0</span><span class="p">()</span>
-<span class="w">     </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
-<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_j</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">j</span><span class="w"> </span><span class="p">(</span><span class="n">dividend</span><span class="p">)</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_r</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_r</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w"> </span><span class="n">increment</span><span class="w"> </span><span class="n">auxiliary</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">n</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">check_if_rr_minus_rk_equals_0_and_flag_this_in_rc</span><span class="p">()</span>
-<span class="w">             </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
-<span class="w">                 </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_c</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span><span class="w"> </span><span class="p">#</span><span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="n">rr</span><span class="w"> </span><span class="n">was</span><span class="w"> </span><span class="n">equal</span><span class="w"> </span><span class="n">than</span><span class="w"> </span><span class="n">rk</span>
-<span class="w">                     </span><span class="n">self</span><span class="p">.</span><span class="n">r_c</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_c</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">j</span><span class="w"> </span><span class="p">(</span><span class="n">dividend</span><span class="p">)</span>
-<span class="w">                     </span><span class="n">self</span><span class="p">.</span><span class="n">r_q</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_q</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="n">increase</span><span class="w"> </span><span class="n">quotient</span>
-<span class="w">                     </span><span class="n">self</span><span class="p">.</span><span class="n">set_rr_to_0</span><span class="p">()</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">set</span><span class="w"> </span><span class="n">auxiliary</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">n</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="mh">0</span>
-<span class="w">                 </span><span class="k">else</span><span class="o">:</span>
-<span class="w">                     </span><span class="k">break</span>
-<span class="w">         </span><span class="k">else</span><span class="o">:</span>
-<span class="w">             </span><span class="k">break</span>
-</code></pre></div>
-
+ def DIV_MOD(self):
+     self.set_rq_to_0()
+     self.set_rr_to_0()
+     self.set_rm_to_0()
+     while True:
+         if self.r_j &gt; 0:
+             self.r_j = self.r_j - 1 #  LOOP register j (dividend)
+             self.r_r = self.r_r + 1 # increment auxiliary register n
+             self.check_if_rr_minus_rk_equals_0_and_flag_this_in_rc()
+             while True:
+                 if self.r_c &gt; 0: # if rr was equal than rk
+                     self.r_c = self.r_c - 1  # LOOP register j (dividend)
+                     self.r_q = self.r_q + 1  # increase quotient
+                     self.set_rr_to_0() #  set auxiliary register n to 0
+                 else:
+                     break
+         else:
+             break
+</code></pre>
 <ol>
 <li>Usage of r_j DIV r_k</li>
 <li>

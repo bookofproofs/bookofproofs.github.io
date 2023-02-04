@@ -489,7 +489,8 @@ a:active{background-color:red; color: white},a:hover{outline-width:0; color:oran
 a:visited {color: orange;}
 
 footer a:visited {color:#7B68EE;}
-.w3-top a {color:black;} a:visited {color:#7B68EE;}
+.w3-top a {color:black;}
+.w3-top a:visited {color:#7B68EE;}
 
 
 .collapsiblecontent {display:none; background:#F8F8FF;padding:10px 5px 5px 10px;}

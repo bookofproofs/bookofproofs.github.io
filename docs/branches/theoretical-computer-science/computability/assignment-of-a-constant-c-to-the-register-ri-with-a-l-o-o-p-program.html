@@ -52,26 +52,25 @@
     r_i = 0
     r_j = 0
     r_n = 0</p>
-<div class="codehilite"><pre><span></span><code><span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">set_r_n_to_5</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
-<span class="w">     </span><span class="p">#</span><span class="w"> </span><span class="n">set</span><span class="w"> </span><span class="n">r_n</span><span class="o">=</span><span class="mh">0</span><span class="w"> </span><span class="n">with</span><span class="w"> </span><span class="n">loop</span><span class="w"> </span><span class="n">r_n</span><span class="w"> </span><span class="k">do</span>
-<span class="w">     </span><span class="k">while</span><span class="w"> </span><span class="nl">True:</span>
-<span class="w">         </span><span class="k">if</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">&amp;</span><span class="n">gt</span><span class="p">;</span><span class="w"> </span><span class="mh">0</span><span class="o">:</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w"> </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">n</span>
-<span class="w">             </span><span class="n">self</span><span class="p">.</span><span class="n">NOP</span><span class="p">()</span><span class="w"> </span><span class="p">#</span><span class="w"> </span><span class="n">DO</span><span class="w"> </span><span class="n">nothing</span>
-<span class="w">         </span><span class="k">else</span><span class="o">:</span>
-<span class="w">             </span><span class="k">break</span>
-<span class="w">     </span><span class="p">#</span><span class="w"> </span><span class="n">set</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">to</span><span class="w"> </span><span class="mh">5</span><span class="w"> </span><span class="n">by</span><span class="w"> </span><span class="n">incrementing</span><span class="w"> </span><span class="n">it</span><span class="w"> </span><span class="mh">5</span><span class="w"> </span><span class="n">times</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_n</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span>
+<pre><code> def set_r_n_to_5(self):
+     # set r_n=0 with loop r_n do
+     while True:
+         if self.r_n &amp;gt; 0:
+             self.r_n = self.r_n - 1 # LOOP register n
+             self.NOP() # DO nothing
+         else:
+             break
+     # set register to 5 by incrementing it 5 times
+     self.r_n = self.r_n + 1
+     self.r_n = self.r_n + 1
+     self.r_n = self.r_n + 1
+     self.r_n = self.r_n + 1
+     self.r_n = self.r_n + 1
 
-<span class="w"> </span><span class="n">def</span><span class="w"> </span><span class="n">NOP</span><span class="p">(</span><span class="n">self</span><span class="p">)</span><span class="o">:</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">+</span><span class="w"> </span><span class="mh">1</span><span class="w"> </span><span class="p">#</span><span class="w">  </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">i</span>
-<span class="w">     </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">self</span><span class="p">.</span><span class="n">r_i</span><span class="w"> </span><span class="o">-</span><span class="w"> </span><span class="mh">1</span><span class="w">  </span><span class="p">#</span><span class="w"> </span><span class="n">LOOP</span><span class="w"> </span><span class="n">register</span><span class="w"> </span><span class="n">i</span>
-</code></pre></div>
-
+ def NOP(self):
+     self.r_i = self.r_i + 1 #  LOOP register i
+     self.r_i = self.r_i - 1  # LOOP register i
+</code></pre>
 <ol>
 <li>Usage for adding the r_i = const</li>
 <li>creating a unit-cost access machine with registers initially set

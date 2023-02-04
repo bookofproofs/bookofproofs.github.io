@@ -54,5 +54,3 @@ Please check out our cheat sheets
 7. [cheat_sheet_bibliography](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_bibliography.md)
 8. (more cheat sheets to come)
 
-
-``` { .python linenos=true linenostart=42 hl_lines="1-2 10" }

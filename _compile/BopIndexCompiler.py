@@ -165,6 +165,16 @@ class BopIndexCompiler:
         self._calculate_counts(self._index_tree)
         return self._get_index_to_html()
 
+    def get_sourcecode_index(self):
+        BopIndexNode.clear(self._index_tree)
+        sourcecode_node = BopIndexNode()
+        sourcecode_node.label = "Sourcecode"
+        sourcecode_node.parent = self._index_tree
+        sourcecode_sources = self._filter_nodes_by_lambda(lambda x: x.script_has_python(str(x.scripts)))
+        self._add_to_index_tree_by_category(sourcecode_node, sourcecode_sources)
+        self._calculate_counts(self._index_tree)
+        return self._get_index_to_html()
+
     def get_person_index(self):
         return "Index is not yet available, please try again later."
 

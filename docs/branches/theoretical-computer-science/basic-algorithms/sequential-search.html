@@ -58,12 +58,11 @@
         if v == searchitem:
             found = True
             break</p>
-<div class="codehilite"><pre><span></span><code><span class="w"> </span><span class="k">if</span><span class="w"> </span><span class="nv">found</span>:
-<span class="w">     </span><span class="k">return</span><span class="w"> </span><span class="nv">k</span>
-<span class="w"> </span><span class="k">else</span>:
-<span class="w">     </span><span class="k">return</span><span class="w"> </span><span class="nv">False</span>
-</code></pre></div>
-
+<pre><code> if found:
+     return k
+ else:
+     return False
+</code></pre>
 <h1>Usage</h1>
 <p>dictionary = {1: "Zara", 2: "Tess", 3: "Bott", 4: "Dial"}
 print(seqSearch("Bott", dictionary))

@@ -14,11 +14,17 @@ Let `\(a,b\in\mathbb{Z}\)` be [positive integers][bookofproofs$1075] `$a,b\in\ma
 
 ---
 
+§§§1
+
+---
+
+§§§1
+``` { .python linenos=true linenostart=1 }
 def gcdext(a, b):
     if a <= 0:
-        NotPositiveException(a)
+        raise TypeError("a <= 0")
     if b <= 0:
-        NotPositiveException(b)
+        raise TypeError("b <= 0")
     x = 0
     y = 1
     u = 1
@@ -40,9 +46,10 @@ def gcdext(a, b):
     d = b
     return [d, x, y]
 
+
 # Usage
 print(gcdext(5159, 4823))
 
-
-1. will output
-1. will output
+# will output
+# [7, -244, 261], because 7 = -244*5159 + 261*4823
+```

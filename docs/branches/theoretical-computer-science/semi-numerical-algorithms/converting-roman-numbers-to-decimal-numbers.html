@@ -69,17 +69,16 @@
             nextD = 1
         else:
            raise Exception("Wrong roman digit: "+digit)</p>
-<div class="codehilite"><pre><span></span><code><span class="w">     </span><span class="k">if</span><span class="w"> </span><span class="nv">lastD</span><span class="w"> </span><span class="o">&amp;</span><span class="nv">lt</span><span class="c1">; nextD:</span>
-<span class="w">         </span><span class="nv">value</span><span class="w"> </span><span class="o">-=</span><span class="w"> </span><span class="nv">lastD</span>
-<span class="w">     </span><span class="k">else</span>:
-<span class="w">         </span><span class="nv">value</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="nv">lastD</span>
+<pre><code>     if lastD &amp;lt; nextD:
+         value -= lastD
+     else:
+         value += lastD
 
-<span class="w">     </span><span class="nv">lastD</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="nv">nextD</span>
+     lastD = nextD
 
-<span class="w"> </span><span class="nv">value</span><span class="w"> </span><span class="o">+=</span><span class="w"> </span><span class="nv">lastD</span>
-<span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="nv">value</span>
-</code></pre></div>
-
+ value += lastD
+ return value
+</code></pre>
 <p>x = "DCCXLIX"
 r = roman2dec(x)
 print(x + " = " + str(r))</p>

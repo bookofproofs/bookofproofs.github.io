@@ -147,6 +147,8 @@ class BopCompiler:
         self.indices["{{ c-index }}"] = self._index_compiler.get_contributors_index()
         print("   Making interactive widgets index")
         self.indices["{{ w-index }}"] = self._index_compiler.get_widgets_index()
+        print("   Making sourcecode index")
+        self.indices["{{ sc-index }}"] = self._index_compiler.get_sourcecode_index()
         print("   Making person index")
         self.indices["{{ p-index }}"] = self._index_compiler.get_person_index()
         print("   Making keywords index")
@@ -251,7 +253,7 @@ class BopCompiler:
         content_replaced = content.replace("{{ body }}",
                                            markdown.markdown(body, tab_length=3,
                                                              extensions=['pymdownx.magiclink', 'tables', 'footnotes',
-                                                                         'codehilite', 'fenced_code', 'def_list']))
+                                                                         'def_list']))
         content_replaced = self._make_tables_responsive(content_replaced)
         content_replaced = content_replaced.replace("{{ keywords }}", bop_source.keywords)
         content_replaced = content_replaced.replace("{{ description }}", bop_source.description)
@@ -303,7 +305,11 @@ class BopCompiler:
             key = match.group(1)
             if key in bop_source.scripts:
                 script = bop_source.scripts[key]
-                script = re.sub(r"(^```[a-z]*$)", r"", script, flags=re.M)
+                if bop_source.script_has_python(script):
+                    script = markdown.markdown(script, tab_length=3,
+                                      extensions=['codehilite', 'fenced_code'])
+                else:
+                    script = re.sub(r"(^```[a-z]*$)", r"", script, flags=re.M)
                 content = content.replace("<p>" + key + "</p>", "\n" + script + "\n")
             else:
                 AssertionError("Script key {0} not found in {1}".format(key, bop_source.get_file_name()))

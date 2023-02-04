@@ -158,20 +158,20 @@ z\to p(z):=a_nz^n + \ldots + a_1z + a_0\\
  
  function complexFunction(x,y) {
 	 var complcoeff=[];
-	 complcoeff[^0]=new JXG.Complex(ca0.Value(), cb0.Value());
-	 complcoeff[^1]=new JXG.Complex(ca1.Value(), cb1.Value());
-	 complcoeff[^2]=new JXG.Complex(ca2.Value(), cb2.Value());
-	 complcoeff[^3]=new JXG.Complex(ca3.Value(), cb3.Value()); 
+	 complcoeff[0]=new JXG.Complex(ca0.Value(), cb0.Value());
+	 complcoeff[1]=new JXG.Complex(ca1.Value(), cb1.Value());
+	 complcoeff[2]=new JXG.Complex(ca2.Value(), cb2.Value());
+	 complcoeff[3]=new JXG.Complex(ca3.Value(), cb3.Value()); 
 	 
 	 var z=new JXG.Complex(x, y);
 	 
 	 // insert the complex function here
 	 // begin of function 
 	 var w=new JXG.Complex(0, 0);
-	 w.add(complcoeff[^0]);
-	 w.add(complcoeff[^1].mult(z));
-	 z=z.mult(z); w.add(complcoeff[^2].mult(z));
-	 z=z.mult(z); w.add(complcoeff[^3].mult(z));
+	 w.add(complcoeff[0]);
+	 w.add(complcoeff[1].mult(z));
+	 z=z.mult(z); w.add(complcoeff[2].mult(z));
+	 z=z.mult(z); w.add(complcoeff[3].mult(z));
 	 // end of function  
 
 	 return w;

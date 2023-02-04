@@ -388,6 +388,10 @@ class BopValidator:
                     bop_source.issues.append("seo-missing-description")
                 if bop_source.orderid == 0:
                     bop_source.issues.append("missing-order-id")
+                if bop_source.layout == BopLayouts.algorithm and not \
+                    bop_source.script_has_python(str(bop_source.scripts)):
+                    bop_source.issues.append("sourcecode-markdown-broken")
+
 
     def _has_proof(self, bop_source):
         for possible_proof in self._unique_nodeids.values():

@@ -47,37 +47,72 @@
 
 <p>Let \(a,b\in\mathbb{Z}\) be <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/order-relation-for-integers-positive-and-negative-integers.html" title="Number Systems Arithmetics / Definition: Order Relation for Integers - Positive and Negative Integers">positive integers</a> $a,b\in\mathbb Z$ with \(a\le b\). The algorithm \(\operatorname{gcdext}(a,b)\) calculates correctly the <a href="https://bookofproofs.github.io/branches/number-theory/greatest-common-divisor.html" title="Number Theory / Proposition: Greatest Common Divisor">greatest common divisor</a> $d$ of \(a\) and \(b\) and <a href="https://bookofproofs.github.io/branches/number-systems-arithmetics/definition-of-integers.html" title="Number Systems Arithmetics / Proposition: Definition of Integers">integers</a> $x,y\in\mathbb Z$  $x,y\in\mathbb Z$ such that $$d=ax+by.$$ It requires \(\mathcal O(\log |b|)\) (worst case and average case) division operations, which corresponds to \(\mathcal O(\log^2 |b|)\) bit operations.</p>
 <h1>Algorithm: Extended Greatest Common Divisor (Python)</h1>
-<p>def gcdext(a, b):
-    if a &lt;= 0:
-        NotPositiveException(a)
-    if b &lt;= 0:
-        NotPositiveException(b)
-    x = 0
-    y = 1
-    u = 1
-    v = 0
-    q = a // b
-    r = a % b
-    while r != 0:
-        a = b
-        b = r
-        t = u
-        u = x
-        x = t - q * x
-        t = v
-        v = y
-        y = t - q * y
-        if b != 0:
-            q = a // b
-            r = a % b
-    d = b
-    return [d, x, y]</p>
-<h1>Usage</h1>
-<p>print(gcdext(5159, 4823))</p>
-<ol>
-<li>will output</li>
-<li>will output</li>
-</ol>
+
+<div class="codehilite"><table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre><span class="normal"> 1</span>
+<span class="normal"> 2</span>
+<span class="normal"> 3</span>
+<span class="normal"> 4</span>
+<span class="normal"> 5</span>
+<span class="normal"> 6</span>
+<span class="normal"> 7</span>
+<span class="normal"> 8</span>
+<span class="normal"> 9</span>
+<span class="normal">10</span>
+<span class="normal">11</span>
+<span class="normal">12</span>
+<span class="normal">13</span>
+<span class="normal">14</span>
+<span class="normal">15</span>
+<span class="normal">16</span>
+<span class="normal">17</span>
+<span class="normal">18</span>
+<span class="normal">19</span>
+<span class="normal">20</span>
+<span class="normal">21</span>
+<span class="normal">22</span>
+<span class="normal">23</span>
+<span class="normal">24</span>
+<span class="normal">25</span>
+<span class="normal">26</span>
+<span class="normal">27</span>
+<span class="normal">28</span>
+<span class="normal">29</span>
+<span class="normal">30</span>
+<span class="normal">31</span>
+<span class="normal">32</span></pre></div></td><td class="code"><div><pre><span></span><code><span class="k">def</span> <span class="nf">gcdext</span><span class="p">(</span><span class="n">a</span><span class="p">,</span> <span class="n">b</span><span class="p">):</span>
+    <span class="k">if</span> <span class="n">a</span> <span class="o">&lt;=</span> <span class="mi">0</span><span class="p">:</span>
+        <span class="k">raise</span> <span class="ne">TypeError</span><span class="p">(</span><span class="s2">&quot;a &lt;= 0&quot;</span><span class="p">)</span>
+    <span class="k">if</span> <span class="n">b</span> <span class="o">&lt;=</span> <span class="mi">0</span><span class="p">:</span>
+        <span class="k">raise</span> <span class="ne">TypeError</span><span class="p">(</span><span class="s2">&quot;b &lt;= 0&quot;</span><span class="p">)</span>
+    <span class="n">x</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="n">y</span> <span class="o">=</span> <span class="mi">1</span>
+    <span class="n">u</span> <span class="o">=</span> <span class="mi">1</span>
+    <span class="n">v</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="n">q</span> <span class="o">=</span> <span class="n">a</span> <span class="o">//</span> <span class="n">b</span>
+    <span class="n">r</span> <span class="o">=</span> <span class="n">a</span> <span class="o">%</span> <span class="n">b</span>
+    <span class="k">while</span> <span class="n">r</span> <span class="o">!=</span> <span class="mi">0</span><span class="p">:</span>
+        <span class="n">a</span> <span class="o">=</span> <span class="n">b</span>
+        <span class="n">b</span> <span class="o">=</span> <span class="n">r</span>
+        <span class="n">t</span> <span class="o">=</span> <span class="n">u</span>
+        <span class="n">u</span> <span class="o">=</span> <span class="n">x</span>
+        <span class="n">x</span> <span class="o">=</span> <span class="n">t</span> <span class="o">-</span> <span class="n">q</span> <span class="o">*</span> <span class="n">x</span>
+        <span class="n">t</span> <span class="o">=</span> <span class="n">v</span>
+        <span class="n">v</span> <span class="o">=</span> <span class="n">y</span>
+        <span class="n">y</span> <span class="o">=</span> <span class="n">t</span> <span class="o">-</span> <span class="n">q</span> <span class="o">*</span> <span class="n">y</span>
+        <span class="k">if</span> <span class="n">b</span> <span class="o">!=</span> <span class="mi">0</span><span class="p">:</span>
+            <span class="n">q</span> <span class="o">=</span> <span class="n">a</span> <span class="o">//</span> <span class="n">b</span>
+            <span class="n">r</span> <span class="o">=</span> <span class="n">a</span> <span class="o">%</span> <span class="n">b</span>
+    <span class="n">d</span> <span class="o">=</span> <span class="n">b</span>
+    <span class="k">return</span> <span class="p">[</span><span class="n">d</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">]</span>
+
+
+<span class="c1"># Usage</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">gcdext</span><span class="p">(</span><span class="mi">5159</span><span class="p">,</span> <span class="mi">4823</span><span class="p">))</span>
+
+<span class="c1"># will output</span>
+<span class="c1"># [7, -244, 261], because 7 = -244*5159 + 261*4823</span>
+</code></pre></div></td></tr></table></div>
+
 <h3 class='navigation'>Table of Contents</h3>
 
 <p>Proofs: <a href='https://bookofproofs.github.io/branches/theoretical-computer-science/semi-numerical-algorithms/extended-greatest-common-divisor-python-proof.html'>1</a> </p>
