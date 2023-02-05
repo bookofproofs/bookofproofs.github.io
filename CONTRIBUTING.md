@@ -4,9 +4,9 @@
 templates in `_sources` for each site published at https://bookofproofs.github.io/. The templates work similarly 
 to JeKyll (if you are already familiar with it). 
 
-However, we compile the markdown files into html using PYTHON scripts in the `_compile` folder. The reason why we do not use JeKill and 're-invent' the wheel is more flexibility to incorporate some features 
-to improve user experience to read and/or contribute new mathematical content. Features improving the user-experience 
-include, but are not limited to:
+However, we compile the markdown files into html using PYTHON scripts in the `_compile` folder. 
+The reason why we do not use JeKyll and _'re-invent'_ the wheel is more flexibility. We incorporate some features 
+improving user experience, e.g.:
 
 * [Mathjax][mj] 
 * [JSXGraph][jx]

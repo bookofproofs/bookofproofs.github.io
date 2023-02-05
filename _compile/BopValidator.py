@@ -47,7 +47,8 @@ class BopValidator:
         BopLayouts.motivation: [],
         BopLayouts.explanation: [],
         BopLayouts.solution: [],
-        BopLayouts.epoch: [BopLayouts.epoch, BopLayouts.topic],
+        BopLayouts.person: [],
+        BopLayouts.epoch: [BopLayouts.epoch, BopLayouts.topic, BopLayouts.person],
         BopLayouts.topic: [BopLayouts.topic]
     }
 
@@ -58,6 +59,7 @@ class BopValidator:
         self._unique_file_names = dict()
         self._category_graph = dict()
         self._all_categories = dict()
+        self._all_persons = dict()
         self._validate_nodeids("IDENTIFIER")
         self._validate_names("NAMING")
         self._validate_orderids("ORDER")
@@ -508,6 +510,16 @@ class BopValidator:
                 for match in pattern_name.finditer(bop_source.get_body()):
                     if match.group(2) not in unique_names:
                         unique_names[match.group(2)] = bop_source.get_file_name() + " " + match.group(1)
+                        if match.group(1).startswith("https://mathshistory.st-andrews.ac.uk/Biographies/"):
+                            sp = list(match.span(2))
+                            info = bop_source.get_body()[sp[1]:].split("\n\n")
+                            if info[0] != "</a>":
+                                info = info[0][6:].strip().replace("\n", " ")
+                            else:
+                                info = ""
+                            link = match.group(1)
+                            self._all_persons[self._prettify_person_name(match.group(2))] = info + "|" + link
+                            pass
                     else:
                         error_msgs.append("Duplicate person '{0}'\nin {1}\nand {2}".format(
                             match.group(2),
@@ -527,6 +539,22 @@ class BopValidator:
             raise BopValidationError(err_type, "01", "Person errors found:\n\n".format(len(error_msgs))
                                      + "\n\n".join(error_msgs) + "\n\n{0} errors total".format(len(error_msgs)))
 
+    def _prettify_person_name(self, name: str):
+        name = name.strip()
+        old_name = ""
+        while old_name != name:
+            old_name = name
+            name = name.replace("  ", " ")
+        name_sp = name.split(",")
+        if len(name_sp) == 1:
+            name_sp = name.split(" ")
+        if len(name_sp) > 2 and name_sp[-2].lower() in ["ibn", "de", "of", "al", "von", "da"]:
+            return name_sp[-2] + " " + name_sp[-1] + ", " + " ".join(name_sp[0:-2])
+        elif len(name_sp) == 1:
+            return name_sp[-1]
+        else:
+            return name_sp[-1] + ", " + " ".join(name_sp[0:-1])
+
     def get_parent_child_graph(self):
         return self._parent_child_graph
 
@@ -541,3 +569,6 @@ class BopValidator:
 
     def get_notation(self):
         return self._notation
+
+    def get_all_persons(self):
+        return self._all_persons

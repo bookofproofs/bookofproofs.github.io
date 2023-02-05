@@ -22,7 +22,9 @@ class BopLayouts:
     index = "index"
     lemma = "lemma"
     motivation = "motivation"
+    notation = "notation"
     part = "part"
+    person = "person"
     proof = "proof"
     problem = "problem"
     proposition = "proposition"
@@ -74,6 +76,9 @@ class BopSource:
         self.referencing_nodes = dict()
         self.scripts = dict()
         self.issues = list()
+        self.tags = list()
+        self.born = "0"
+        self.died = "0"
         self._init_properties(contents[0])
         self._sanitize_lists()
         self._content = ""
@@ -136,6 +141,12 @@ class BopSource:
                     self.parentid = prop_split[1].strip()
                 elif prop_split[0] == "references":
                     self.references = prop_split[1].split(",")
+                elif prop_split[0] == "tags":
+                    self.tags = prop_split[1].split(",")
+                elif prop_split[0] == "born":
+                    self.tags = prop_split[1].split(",")
+                elif prop_split[0] == "died":
+                    self.tags = prop_split[1].split(",")
                 elif prop_split[0] == "issues":
                     self.issues = prop_split[1].split(",")
                 else:
@@ -146,6 +157,7 @@ class BopSource:
         self.contributors = self._sanitize_list(self.contributors)
         self.categories = self._sanitize_list(self.categories)
         self.issues = self._sanitize_list(self.issues)
+        self.tags = self._sanitize_list(self.tags)
 
     def _sanitize_list(self, l: list):
         new_list = list()
@@ -297,6 +309,8 @@ class BopSource:
             return "."
         elif layout == BopLayouts.notation:
             return "."
+        elif layout == BopLayouts.person:
+            return "Person"
         else:
             raise NotImplementedError(layout)
 
@@ -347,6 +361,9 @@ class BopSource:
 
     def get_toc(self):
         return self._toc
+
+    def content_contains(self, search_str: str):
+        return search_str in self._body + " " + self._pre_body
 
     def get_referencing_nodes_html(self):
         ret = ""

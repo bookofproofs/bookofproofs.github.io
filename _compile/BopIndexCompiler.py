@@ -115,6 +115,7 @@ class BopIndexCompiler:
         BopIndexNode.clear(self._index_tree)
         self._filter_nodes_by_layout(BopLayouts.epoch)
         self._filter_nodes_by_layout(BopLayouts.topic)
+        self._filter_nodes_by_layout(BopLayouts.person)
         self._calculate_counts(self._index_tree)
         return self._get_index_to_html()
 
@@ -176,7 +177,42 @@ class BopIndexCompiler:
         return self._get_index_to_html()
 
     def get_person_index(self):
-        return "Index is not yet available, please try again later."
+        all_persons = self._validator.get_all_persons()
+        index = "This index is not available yet. Please try again later"
+        """
+        content = ""
+        for person in all_persons:
+            content += all_persons[person] + "|" + person + "\n"
+            if not all_persons[person].endswith("/"):
+                raise AssertionError(all_persons[person])
+        with open("../scrap/names.txt", "w", encoding="utf8") as fp:
+            fp.write(content)
+        all_persons_names = list(all_persons.keys())
+        all_persons_names.sort()
+        index = "<dl>"
+        for person in all_persons_names:
+            relevant_nodes = self._filter_nodes_by_lambda(lambda x: x.content_contains(all_persons[person]))
+            person_hyperlink = all_persons[person]
+            if person_hyperlink.endswith("/"):
+                person_hyperlink = person_hyperlink[0:-1]
+            jpeg_name = person_hyperlink.split("/")[-1] + ".jpeg"
+            index += "<dt><img src='{0}' alt='' width='50'> ".format(all_persons[person] + jpeg_name)
+            index += person + "</dt>"
+            link_counter = 0
+            if len(relevant_nodes) > 0:
+                index += "<dd>"
+                for bop_source in relevant_nodes:
+                    link_counter += 1
+                    if link_counter <= 100:
+                        index += "<a href='{0}' title='{1}'>{2}</a> ".format(bop_source.url(),
+                                                                             bop_source.get_title_for_anchor(),
+                                                                             link_counter)
+                if link_counter > 100:
+                    index += "... (" + str(link_counter - 100) + " more)"
+                index += "</dd>\n"
+        index += "</dl>\n"
+        """
+        return index
 
     def get_keywords_index(self):
         # gather all keyword-defining nodes
