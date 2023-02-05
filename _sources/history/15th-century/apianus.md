@@ -6,8 +6,8 @@ tags: astronomy,nationality-germany
 title: Apianus, Petrus
 born: 1495
 died: 1552
-description: apianus, petrus summary
-keywords: apianus, petrus,astronomy,nationality-germany
+description: Some facts about Petrus Apianus
+keywords: apianus, petrus,astronomy,nationality germany
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![Apianus.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/Apianus.jpg?raw=true)
+![Apianus.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Apianus.jpg?raw=true)
 
-Apianus was a German mathematician who published important popular works on astronomy and geography.
+**Apianus** was a German mathematician who published important popular works on astronomy and geography.
 
 Born 16 April 1495 Leisnig, Saxony (now Germany). Died 21 April 1552 Ingolstadt, Bavaria, Germany.
 

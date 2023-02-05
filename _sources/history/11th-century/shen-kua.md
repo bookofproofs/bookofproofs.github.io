@@ -6,8 +6,8 @@ tags: ancient-chinese,astronomy,chinese,nationality-china
 title: Kua, Shen
 born: 1031
 died: 1095
-description: kua, shen summary
-keywords: kua, shen,ancient-chinese,astronomy,chinese,nationality-china
+description: Some facts about Shen Kua
+keywords: kua, shen,ancient chinese,astronomy,chinese,nationality china
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![Shen_Kua.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/Shen_Kua.jpg?raw=true)
+![Shen_Kua.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Shen_Kua.jpg?raw=true)
 
-Kua was a Chinese scholar who wrote on a wide variety of topics including mathematics, music, astronomy, calendars, cartography, geology, optics and medicine.
+**Kua** was a Chinese scholar who wrote on a wide variety of topics including mathematics, music, astronomy, calendars, cartography, geology, optics and medicine.
 
 Born 1031 Hangzhou, Zhejiang province, China. Died 1095 Ching-k'ou, China.
 

@@ -218,7 +218,7 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Schlafli/">Ludwig Schläfli</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/OBrien/">Matthew O&#39;Brien</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/OBrien/">Matthew O'Brien</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Wantzel/">Pierre Laurent Wantzel</a>
 
@@ -722,7 +722,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Sokhotsky/">Yulian-Karl Vasilievich Sokhotsky</a>
 
 ### 1843 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/DOvidio/">Enrico D&#39;Ovidio</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/DOvidio/">Enrico D'Ovidio</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Tarry/">Gaston Tarry</a>
 : A French combinatorialist whose best-known work is a method for solving mazes.
@@ -1234,7 +1234,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Chree/">Charles Chree</a>
 : Charles Chree studied in Aberdeen and Cambridge. He became Superintendent of Kew Observatory and worked on terrestrial magnetism.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Thompson_DArcy/">D&#39;Arcy Thompson</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Thompson_DArcy/">D'Arcy Thompson</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Smith_David/">David Eugene Smith</a>
 
@@ -1359,7 +1359,7 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lacombe/">Marius Lacombe</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/DOcagne/">Maurice d&#39;Ocagne</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/DOcagne/">Maurice d'Ocagne</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Stackel/">Paul Stäckel</a>
 
@@ -1864,7 +1864,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Baire/">René-Louis Baire</a>
 : René Baire worked on the theory of functions and the concept of a limit.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/DAdhemar/">Robert d&#39;Adhémar</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/DAdhemar/">Robert d'Adhémar</a>
 
 ### 1875 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cholesky/">Andre-Louis Cholesky</a>
@@ -2874,7 +2874,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Siegel/">Carl Ludwig Siegel</a>
 : A German mathematician who worked in algebraic number theory and also on celestial mechanics.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/OConnell/">Daniel O&#39;Connell</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/OConnell/">Daniel O'Connell</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Jack/">David Jack</a>
 : Studied at Edinburgh though his studies were interrupted by war service. He took up a post teaching Physics at St Andrews.
@@ -2905,7 +2905,7 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Wavre/">Rolin Wavre</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Janovskaja/">Sof&#39;ja Aleksandrovna Janovskaja</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Janovskaja/">Sof'ja Aleksandrovna Janovskaja</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Wazewski/">Wazewski, Tadeusz</a>
 : A Polish mathematician who contributed to the theory of differential equations, control theory and the theory of analytic spaces.

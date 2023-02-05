@@ -6,8 +6,8 @@ tags: nationality-italy
 title: Borgi, Piero
 born: 1424
 died: 1494
-description: borgi, piero summary
-keywords: borgi, piero,nationality-italy
+description: Some facts about Piero Borgi
+keywords: borgi, piero,nationality italy
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,7 +16,7 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/avatar.png?raw=true)
+![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
 The author of the best known 15th Century Italian arithmetic books.
 

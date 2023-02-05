@@ -6,8 +6,8 @@ tags: ancient-chinese,astronomy,chinese,nationality-china
 title: Shoujing, Guo
 born: 1231
 died: 1316
-description: shoujing, guo summary
-keywords: shoujing, guo,ancient-chinese,astronomy,chinese,nationality-china
+description: Some facts about Guo Shoujing
+keywords: shoujing, guo,ancient chinese,astronomy,chinese,nationality china
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![Guo_Shoujing.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/Guo_Shoujing.jpg?raw=true)
+![Guo_Shoujing.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Guo_Shoujing.jpg?raw=true)
 
-Shoujing was a Chinese astronomer who worked on spherical trigonometry and the calendar.
+**Shoujing** was a Chinese astronomer who worked on spherical trigonometry and the calendar.
 
 Born 1231 Xingtai, Hebei province, China. Died 1316 China.
 

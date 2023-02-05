@@ -37,7 +37,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Campanus/">Campanus of Novara</a>
 : An Italian mathematician who published a Latin edition of Euclid's Elements. He also wrote on astronomy.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Al-Maghribi/">Muhyi l&#39;din al-Maghribi</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Al-Maghribi/">Muhyi l'din al-Maghribi</a>
 
 ### 1225
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Jordanus/">Jordanus Nemorarius</a>

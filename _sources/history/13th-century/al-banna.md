@@ -3,11 +3,11 @@ nodeid: bookofproofs$Al-Banna
 categories: history,13th-century
 parentid: bookofproofs$606
 tags: african,ancient-arab,astronomy,nationality-morocco,special-numbers-and-numerals
-title: Al-Banna, Ibn
+title: Al-Banna
 born: 1256
 died: 1321
-description: al-banna, ibn summary
-keywords: al-banna, ibn,african,ancient-arab,astronomy,nationality-morocco,special-numbers-and-numerals
+description: Some facts about  Al-Banna
+keywords: al-banna,african,ancient arab,astronomy,nationality morocco,special numbers and numerals
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,7 +16,7 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/avatar.png?raw=true)
+![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
 Ibn al-Banna was an Islamic mathematician who wrote a large number of works including an introduction to Euclid's Elements, an algebra text and various works on astronomy.
 

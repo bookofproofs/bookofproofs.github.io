@@ -6,8 +6,8 @@ tags: analysis,astronomy,geometry,nationality-austria
 title: Rheticus, Georg Joachim von Lauchen
 born: 1514
 died: 1574
-description: rheticus, georg joachim von lauchen summary
-keywords: rheticus, georg joachim von lauchen,analysis,astronomy,geometry,nationality-austria
+description: Some facts about Georg Joachim von Lauchen Rheticus
+keywords: rheticus, georg joachim von lauchen,analysis,astronomy,geometry,nationality austria
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![Rheticus.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/Rheticus.jpg?raw=true)
+![Rheticus.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Rheticus.jpg?raw=true)
 
-Rheticus was an Austrian mathematician and astronomer who published the trigonometrical sections of Copernicus's De Revolutionibus.
+**Rheticus** was an Austrian mathematician and astronomer who published the trigonometrical sections of Copernicus's De Revolutionibus.
 
 Born 16 February 1514 Feldkirch, Austria. Died 4 December 1574 Kassa, Hungary (now Kosice).
 

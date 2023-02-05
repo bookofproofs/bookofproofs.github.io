@@ -6,8 +6,8 @@ tags: ancient-indian,nationality-india
 title: Hemchandra, Acharya
 born: 1089
 died: 1173
-description: hemchandra, acharya summary
-keywords: hemchandra, acharya,ancient-indian,nationality-india
+description: Some facts about Acharya Hemchandra
+keywords: hemchandra, acharya,ancient indian,nationality india
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/avatar.png?raw=true)
+![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Hemchandra was a Sanskrit scholar who published works on science, languages and philosophy.
+**Hemchandra** was a Sanskrit scholar who published works on science, languages and philosophy.
 
 Born 1089 Dhandhuka, Gujarat, India. Died 1173 Gujarat, India.
 

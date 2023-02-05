@@ -3,11 +3,11 @@ nodeid: bookofproofs$Reinher
 categories: history,12th-century
 parentid: bookofproofs$607
 tags: astronomy,nationality-germany
-title: Of Paderborn, Reinher
+title: Reinher Of Paderborn
 born: 1140
 died: 1190
-description: of paderborn, reinher summary
-keywords: of paderborn, reinher,astronomy,nationality-germany
+description: Some facts about  Reinher Of Paderborn
+keywords: reinher of paderborn,astronomy,nationality germany
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/avatar.png?raw=true)
+![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Of Paderborn was a German mathematician who worked on the mathematics of the calendar and in particular on the calculation of Easter.
+**Reinher Of Paderborn** was a German mathematician who worked on the mathematics of the calendar and in particular on the calculation of Easter.
 
 Born about 1140 Paderborn, Roman Empire, now Germany. Died about 1190 Paderborn, Roman Empire, now Germany.
 

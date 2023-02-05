@@ -6,8 +6,8 @@ tags: nationality-belgium
 title: Mercator, Gerard
 born: 1512
 died: 1594
-description: mercator, gerard summary
-keywords: mercator, gerard,nationality-belgium
+description: Some facts about Gerard Mercator
+keywords: mercator, gerard,nationality belgium
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,7 +16,7 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![Mercator_Gerardus.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/Mercator_Gerardus.jpg?raw=true)
+![Mercator_Gerardus.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Mercator_Gerardus.jpg?raw=true)
 
 Gerardus Mercator was a Flemish map-maker and geographer who is best known for the map projection which bears his name.
 

@@ -120,7 +120,7 @@ _(no contents provided yet)_
 : A Danish astronomer who is best known for the astronomical observations which led Kepler to his theories of the Solar system.
 
 ### 1547 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Al-Amili/">Baha&#39; al-Din al-Amili</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Al-Amili/">Baha' al-Din al-Amili</a>
 
 ### 1548 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bruno_Giordano/">Giordano Bruno</a>

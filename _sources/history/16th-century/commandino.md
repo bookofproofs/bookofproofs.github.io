@@ -6,8 +6,8 @@ tags: geometry,nationality-italy
 title: Commandino, Frederico
 born: 1506
 died: 1575
-description: commandino, frederico summary
-keywords: commandino, frederico,geometry,nationality-italy
+description: Some facts about Frederico Commandino
+keywords: commandino, frederico,geometry,nationality italy
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![Commandino.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/Commandino.jpg?raw=true)
+![Commandino.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Commandino.jpg?raw=true)
 
-Commandino was an Italian mathematician who published important translations of works of the Ancient Greek mathematicians.
+**Commandino** was an Italian mathematician who published important translations of works of the Ancient Greek mathematicians.
 
 Born 1506 Urbino (now Italy). Died 5 September 1575 Urbino (now Italy).
 

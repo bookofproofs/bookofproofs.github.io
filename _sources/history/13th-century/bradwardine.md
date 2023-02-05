@@ -6,8 +6,8 @@ tags: nationality-england
 title: Bradwardine, Thomas
 born: 1295
 died: 1349
-description: bradwardine, thomas summary
-keywords: bradwardine, thomas,nationality-england
+description: Some facts about Thomas Bradwardine
+keywords: bradwardine, thomas,nationality england
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/avatar.png?raw=true)
+![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Bradwardine was an English mathematician and theologian who examined <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Aristotle/">Aristotle</a>'s theories of dynamics.
+**Bradwardine** was an English mathematician and theologian who examined <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Aristotle/">Aristotle</a>'s theories of dynamics.
 
 Born about 1295 Chichester, England. Died 26 August 1349 Lambeth, London, England.
 

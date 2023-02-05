@@ -6,8 +6,8 @@ tags: algebra,ancient-babylonian,architecture,nationality-italy,puzzles-and-prob
 title: Cardan, Girolamo
 born: 1501
 died: 1576
-description: cardan, girolamo summary
-keywords: cardan, girolamo,algebra,ancient-babylonian,architecture,nationality-italy,puzzles-and-problems,special-numbers-and-numerals
+description: Some facts about Girolamo Cardan
+keywords: cardan, girolamo,algebra,ancient babylonian,architecture,nationality italy,puzzles and problems,special numbers and numerals
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![Cardan.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/Cardan.jpg?raw=true)
+![Cardan.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Cardan.jpg?raw=true)
 
-Cardan was an Italian doctor and mathematician who is famed for his work Ars Magna which was the first Latin treatise devoted solely to algebra. In it he gave the methods of solution of the cubic and quartic equations which he had learnt from <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Tartaglia/">Tartaglia</a>.
+**Cardan** was an Italian doctor and mathematician who is famed for his work Ars Magna which was the first Latin treatise devoted solely to algebra. In it he gave the methods of solution of the cubic and quartic equations which he had learnt from <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Tartaglia/">Tartaglia</a>.
 
 Born 24 September 1501 Pavia, Duchy of Milan (now Italy). Died 21 September 1576 Rome (now Italy).
 

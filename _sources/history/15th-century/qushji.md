@@ -6,8 +6,8 @@ tags: nationality-uzbekistan
 title: Qushji, Ali
 born: 1403
 died: 1474
-description: qushji, ali summary
-keywords: qushji, ali,nationality-uzbekistan
+description: Some facts about Ali Qushji
+keywords: qushji, ali,nationality uzbekistan
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/avatar.png?raw=true)
+![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Ali Qushji was an Islamic astronomer and mathematician, born in what is now Uzbekistan, who worked at observatories in Samarkand and Constantinople and whose results influenced Copernicus to produce his heliocentric system.
+**Ali Qushji** was an Islamic astronomer and mathematician, born in what is now Uzbekistan, who worked at observatories in Samarkand and Constantinople and whose results influenced Copernicus to produce his heliocentric system.
 
 Born 1403 Samarkand, Timurid Empire, now Uzbekistan. Died 16 December 1474 Constantinople, now Istanbul, Turkey.
 

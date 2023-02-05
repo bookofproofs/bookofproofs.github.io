@@ -6,8 +6,8 @@ tags: ancient-babylonian,ancient-chinese,chinese,nationality-china,puzzles-and-p
 title: Jiushao, Qin
 born: 1202
 died: 1261
-description: jiushao, qin summary
-keywords: jiushao, qin,ancient-babylonian,ancient-chinese,chinese,nationality-china,puzzles-and-problems,special-numbers-and-numerals
+description: Some facts about Qin Jiushao
+keywords: jiushao, qin,ancient babylonian,ancient chinese,chinese,nationality china,puzzles and problems,special numbers and numerals
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/avatar.png?raw=true)
+![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Jiushao was a Chinese mathematician who wrote an important study Shushu Jiuzang on equations, including the [Chinese Remainder Theorem][bookofproofs$8182].
+**Jiushao** was a Chinese mathematician who wrote an important study Shushu Jiuzang on equations, including the [Chinese Remainder Theorem][bookofproofs$8182].
 
 Born 1202 Puzhou (Anyue), Szechwan province, China. Died 1261 Meizhou (now Meixian), Guangtong province, China.
 

@@ -6,8 +6,8 @@ tags: nationality-germany,special-numbers-and-numerals
 title: Stifel, Michael
 born: 1487
 died: 1567
-description: stifel, michael summary
-keywords: stifel, michael,nationality-germany,special-numbers-and-numerals
+description: Some facts about Michael Stifel
+keywords: stifel, michael,nationality germany,special numbers and numerals
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![Stifel.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/Stifel.jpg?raw=true)
+![Stifel.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Stifel.jpg?raw=true)
 
-Stifel was a German mathematician who invented logarithms independently of Napier using a totally different approach.
+**Stifel** was a German mathematician who invented logarithms independently of Napier using a totally different approach.
 
 Born 1487 Esslingen, Germany. Died 19 April 1567 Jena, Germany.
 

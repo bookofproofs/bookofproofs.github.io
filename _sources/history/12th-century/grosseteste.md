@@ -6,8 +6,8 @@ tags: astronomy,nationality-england,physics
 title: Grosseteste, Robert
 born: 1168
 died: 1253
-description: grosseteste, robert summary
-keywords: grosseteste, robert,astronomy,nationality-england,physics
+description: Some facts about Robert Grosseteste
+keywords: grosseteste, robert,astronomy,nationality england,physics
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![Grosseteste.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/Grosseteste.jpg?raw=true)
+![Grosseteste.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Grosseteste.jpg?raw=true)
 
-Grosseteste was an English bishop who worked on geometry, optics and astronomy and made Latin translations of many Greek and Arabic scientific writings.
+**Grosseteste** was an English bishop who worked on geometry, optics and astronomy and made Latin translations of many Greek and Arabic scientific writings.
 
 Born 1168 Stradbroke, Suffolk, England. Died 9 October 1253 Buckden, Buckinghamshire, England.
 

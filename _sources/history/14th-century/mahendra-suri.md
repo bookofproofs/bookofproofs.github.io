@@ -6,8 +6,8 @@ tags: ancient-indian,nationality-india
 title: Suri, Mahendra
 born: 1340
 died: 1410
-description: suri, mahendra summary
-keywords: suri, mahendra,ancient-indian,nationality-india
+description: Some facts about Mahendra Suri
+keywords: suri, mahendra,ancient indian,nationality india
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/avatar.png?raw=true)
+![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Suri was an Indian mathematician and follower of Jain. He was the first to write a Sanskrit treatise on the astrolabe.
+**Suri** was an Indian mathematician and follower of Jain. He was the first to write a Sanskrit treatise on the astrolabe.
 
 Born about 1340 Western India. Died about 1410 India.
 

@@ -6,8 +6,8 @@ tags: nationality-czech-republic
 title: Widman, Johannes
 born: 1462
 died: 1498
-description: widman, johannes summary
-keywords: widman, johannes,nationality-czech-republic
+description: Some facts about Johannes Widman
+keywords: widman, johannes,nationality czech republic
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/avatar.png?raw=true)
+![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Widman was a German mathematician who is best remembered for an early arithmetic book which contains the first appearance of + and - signs.
+**Widman** was a German mathematician who is best remembered for an early arithmetic book which contains the first appearance of + and - signs.
 
 Born 1462 Eger, Bohemia (now Cheb, Czech Republic). Died 1498 Leipzig, Germany.
 

@@ -6,8 +6,8 @@ tags: ancient-babylonian,ancient-chinese,chinese,nationality-china,puzzles-and-p
 title: Shijie, Zhu
 born: 1260
 died: 1320
-description: shijie, zhu summary
-keywords: shijie, zhu,ancient-babylonian,ancient-chinese,chinese,nationality-china,puzzles-and-problems,special-numbers-and-numerals
+description: Some facts about Zhu Shijie
+keywords: shijie, zhu,ancient babylonian,ancient chinese,chinese,nationality china,puzzles and problems,special numbers and numerals
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/avatar.png?raw=true)
+![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Shijie was a Chinese mathematician who developed methods for handling simultaneous equations.
+**Shijie** was a Chinese mathematician who developed methods for handling simultaneous equations.
 
 Born about 1260 Yan-shan, near Peking (now Beijing) China. Died about 1320 Not known.
 

@@ -6,8 +6,8 @@ tags: astronomy,nationality-syria
 title: Al-Khalili
 born: 1320
 died: 1380
-description: al-khalili summary
-keywords: al-khalili,astronomy,nationality-syria
+description: Some facts about  Al-Khalili
+keywords: al-khalili,astronomy,nationality syria
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/avatar.png?raw=true)
+![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-He was an Islamic astronomer who compiled extensive tables for astronomical use.
+**Al-Khalili** was an Islamic astronomer who compiled extensive tables for astronomical use.
 
 Born about 1320, possibly in Damascus, Syria. Died about 1380, possibly in Damascus, Syria.
 

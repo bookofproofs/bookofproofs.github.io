@@ -111,7 +111,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fagnano_Giovanni/">Giovanni Fagnano</a>
 
 ### 1717 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/DAlembert/">Jean d&#39;Alembert</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/DAlembert/">Jean d'Alembert</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Stewart/">Matthew Stewart</a>
 : A Scottish geometer who wrote on geometry and planetary motion.
@@ -149,7 +149,7 @@ _(no contents provided yet)_
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Montucla/">Jean Étienne Montucla</a>
 : A French historian of mathematics who wrote in 1754 a history of the problem of squaring the circle.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/DArcy/">Patrick d&#39;Arcy</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/DArcy/">Patrick d'Arcy</a>
 
 ### 1726 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hutton_James/">James Hutton</a>

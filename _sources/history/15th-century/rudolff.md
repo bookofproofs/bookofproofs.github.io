@@ -6,8 +6,8 @@ tags: nationality-poland
 title: Rudolff, Christoff
 born: 1499
 died: 1543
-description: rudolff, christoff summary
-keywords: rudolff, christoff,nationality-poland
+description: Some facts about Christoff Rudolff
+keywords: rudolff, christoff,nationality poland
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![Rudolff.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/Rudolff.jpg?raw=true)
+![Rudolff.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Rudolff.jpg?raw=true)
 
-Rudolff was a German mathematician whose book "Coss" is the first German algebra book.
+**Rudolff** was a German mathematician whose book "Coss" is the first German algebra book.
 
 Born 1499 Jauer, Silesia (now Jawor, Poland). Died 1543 Vienna, Austria.
 

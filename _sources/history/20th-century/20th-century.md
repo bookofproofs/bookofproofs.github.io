@@ -1462,7 +1462,7 @@ _(no contents provided yet)_
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Schutzenberger/">Marcel-Paul Schützenberger</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Krasnoselskii/">Mark Krasnosel&#39;skii</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Krasnoselskii/">Mark Krasnosel'skii</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Kuiper/">Nicolaas Hendrik Kuiper</a>
 
@@ -2196,7 +2196,7 @@ A: An American mathematician who worked in numerical analysis and linear algebra
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Leslie_Joshua/">Joshua Leslie</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/ORaifeartaigh/">Lochlainn O&#39;Raifeartaigh</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/ORaifeartaigh/">Lochlainn O'Raifeartaigh</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lesokhin/">Mikhail Moiseevich Lesokhin</a>
 
@@ -2345,7 +2345,7 @@ A: An American mathematician who worked in numerical analysis and linear algebra
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Arnold/">Vladimir Igorevich Arnold</a>
 : A Ukrainian-born mathematician who won a Wolf prize for his work on dynamical systems, differential equations and singularity theory.
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Mazya/">Vladimir Maz&#39;ya</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Mazya/">Vladimir Maz'ya</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Manin/">Yuri Ivanovich Manin</a>
 
@@ -2507,7 +2507,7 @@ A: An American mathematician who worked in numerical analysis and linear algebra
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Coates/">John Henry Coates</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/OConnor/">John O&#39;Connor</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/OConnor/">John O'Connor</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Guidy-Wandja/">Joséphine Guidy-Wandja</a>
 
@@ -2703,7 +2703,7 @@ A: An American mathematician who worked in numerical analysis and linear algebra
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Borcherds/">Richard Ewen Borcherds</a>
 
 ### 1960 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Khaketla/">&#39;Mamphono Khaketla</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Khaketla/">'Mamphono Khaketla</a>
 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Heinonen/">Juha Heinonen</a>
 

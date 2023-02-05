@@ -6,8 +6,8 @@ tags: ancient-arab,astronomy,nationality-uzbekistan
 title: Al-Samarqandi, Shams al-Din
 born: 1250
 died: 1310
-description: al-samarqandi, shams al-din summary
-keywords: al-samarqandi, shams al-din,ancient-arab,astronomy,nationality-uzbekistan
+description: Some facts about Shams al-Din Al-Samarqandi
+keywords: al-samarqandi, shams al-din,ancient arab,astronomy,nationality uzbekistan
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/avatar.png?raw=true)
+![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Shams al-Samarqandi was an Islamic mathematician who wrote works on theology, logic, philosophy, mathematics and astronomy.
+**Shams al-Samarqandi** was an Islamic mathematician who wrote works on theology, logic, philosophy, mathematics and astronomy.
 
 Born about 1250 Samarkand, Uzbekistan. Died about 1310.
 

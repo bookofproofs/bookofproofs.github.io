@@ -5,7 +5,7 @@ parentid: bookofproofs$601
 title: Chuquet, Nicolas
 born: 1445
 died: 1488
-description: chuquet, nicolas summary
+description: Some facts about Nicolas Chuquet
 keywords: chuquet, nicolas
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
@@ -15,9 +15,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/avatar.png?raw=true)
+![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Nicolas Chuquet was a French mathematician who wrote the earliest French algebra book.
+**Nicolas Chuquet** was a French mathematician who wrote the earliest French algebra book.
 
 Born 1445 Paris, France. Died 1488 Lyon, France.
 

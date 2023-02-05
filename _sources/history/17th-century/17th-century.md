@@ -337,7 +337,7 @@ that lasted in mathematics for millennia, prohibiting mathematicians from calcul
 : A French mathematician who is well known for his contributions to computational mathematics, calculating $\pi$ to 120 places.
 
 ### 1661 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/De_LHopital/">Guillaume de l&#39;Hôpital</a>
+<a href="https://mathshistory.st-andrews.ac.uk/Biographies/De_LHopital/">Guillaume de l'Hôpital</a>
 
 ### 1663 
 <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Craig/">John Craig</a>

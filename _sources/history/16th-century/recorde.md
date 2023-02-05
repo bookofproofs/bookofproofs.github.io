@@ -6,8 +6,8 @@ tags: nationality-wales,puzzles-and-problems
 title: Recorde, Robert
 born: 1510
 died: 1558
-description: recorde, robert summary
-keywords: recorde, robert,nationality-wales,puzzles-and-problems
+description: Some facts about Robert Recorde
+keywords: recorde, robert,nationality wales,puzzles and problems
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![Recorde.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/Recorde.jpg?raw=true)
+![Recorde.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Recorde.jpg?raw=true)
 
-Recorde was a Welsh doctor and mathematician who invented the "equals" symbol '=' which appears in his book The Whetstone of Witte (1557).
+**Recorde** was a Welsh doctor and mathematician who invented the "equals" symbol '=' which appears in his book The Whetstone of Witte (1557).
 
 Born 1510 Tenby, Wales. Died 1558 London, England.
 

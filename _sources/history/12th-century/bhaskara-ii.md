@@ -6,8 +6,8 @@ tags: algebra,analysis,ancient-babylonian,ancient-indian,astronomy,geometry,nati
 title: Ii, Bhaskara
 born: 1114
 died: 1185
-description: ii, bhaskara summary
-keywords: ii, bhaskara,algebra,analysis,ancient-babylonian,ancient-indian,astronomy,geometry,nationality-india,number-theory,special-numbers-and-numerals
+description: Some facts about Bhaskara Ii
+keywords: ii, bhaskara,algebra,analysis,ancient babylonian,ancient indian,astronomy,geometry,nationality india,number theory,special numbers and numerals
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/avatar.png?raw=true)
+![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Bhaskara II or Bhaskaracharya was an Indian mathematician and astronomer who extended Brahmagupta's work on number systems.
+**Bhaskara II** or Bhaskaracharya was an Indian mathematician and astronomer who extended Brahmagupta's work on number systems.
 
 Born 1114 Vijayapura, India. Died 1185 Ujjain, India.
 

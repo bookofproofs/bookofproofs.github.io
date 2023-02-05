@@ -6,8 +6,8 @@ tags: ancient-arab,astronomy,nationality-iran
 title: Beg, Ulugh
 born: 1393
 died: 1449
-description: beg, ulugh summary
-keywords: beg, ulugh,ancient-arab,astronomy,nationality-iran
+description: Some facts about Ulugh Beg
+keywords: beg, ulugh,ancient arab,astronomy,nationality iran
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,7 +16,7 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![Ulugh_Beg.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/Ulugh_Beg.jpg?raw=true)
+![Ulugh_Beg.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Ulugh_Beg.jpg?raw=true)
 
 The grandson of the conqueror Tamerlane and was a mathematician and astronomer. He founded an important centre for study at Samarkand staffed with the best scientists of the time. He did important early work on trigonometry.
 

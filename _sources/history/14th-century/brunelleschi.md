@@ -6,8 +6,8 @@ tags: architecture,geometry,nationality-italy
 title: Brunelleschi, Filippo
 born: 1377
 died: 1446
-description: brunelleschi, filippo summary
-keywords: brunelleschi, filippo,architecture,geometry,nationality-italy
+description: Some facts about Filippo Brunelleschi
+keywords: brunelleschi, filippo,architecture,geometry,nationality italy
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 
@@ -16,9 +16,9 @@ contributors: bookofproofs,@MacTutor
 
 ---
 
-![Brunelleschi.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/images/portraits/Brunelleschi.jpg?raw=true)
+![Brunelleschi.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Brunelleschi.jpg?raw=true)
 
-Brunelleschi was a Florentine artist and architect best known for the dome of Florence's cathedral.
+**Brunelleschi** was a Florentine artist and architect best known for the dome of Florence's cathedral.
 
 Born 1377 Florence (now Italy). Died 15 April 1446 Florence (now Italy).
 
