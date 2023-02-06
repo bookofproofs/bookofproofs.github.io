@@ -3,7 +3,7 @@ nodeid: bookofproofs$Pascal
 categories: history,17th-century
 parentid: bookofproofs$339
 tags: algebra,analysis,ancient-chinese,ancient-indian,chinese,geometry,physics,special-numbers-and-numerals
-title: Pascal, Blaise
+title: Pascal (2), Blaise
 born: 1623
 died: 1662
 description: Some facts about Blaise Pascal

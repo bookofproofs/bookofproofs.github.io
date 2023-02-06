@@ -3,7 +3,7 @@ nodeid: bookofproofs$Cartan_Henri
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: bourbaki,wolf-prize
-title: Cartan, Henri
+title: Cartan (2), Henri
 born: 1904
 died: 2008
 description: Some facts about Henri Cartan

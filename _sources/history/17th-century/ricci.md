@@ -3,7 +3,7 @@ nodeid: bookofproofs$Ricci
 categories: history,17th-century
 parentid: bookofproofs$339
 tags: nationality-italy
-title: Ricci, Michelangelo
+title: Ricci (2), Michelangelo
 born: 1619
 died: 1682
 description: Some facts about Michelangelo Ricci

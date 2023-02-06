@@ -3,7 +3,7 @@ nodeid: bookofproofs$Franklin
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: analysis,nationality-usa,puzzles-and-problems,topology
-title: Franklin, Philip
+title: Franklin (3), Philip
 born: 1898
 died: 1965
 description: Some facts about Philip Franklin

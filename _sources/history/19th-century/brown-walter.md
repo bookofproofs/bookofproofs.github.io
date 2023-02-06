@@ -3,7 +3,7 @@ nodeid: bookofproofs$Brown_Walter
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-scotland
-title: Brown, Walter
+title: Brown (2), Walter
 born: 1886
 died: 1957
 description: Some facts about Walter Brown

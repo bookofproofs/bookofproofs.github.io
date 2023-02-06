@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Al-Battani.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Al-Battani.jpg?raw=true)
 
-Al-Battani or Albategnius was an Islamic astronomer and mathematician. He made important accurate measurements of the stars, moon and planets. His measurements and methods were used by later astronomers.
+**Al-Battani** or **Albategnius** was an Islamic astronomer and mathematician. He made important accurate measurements of the stars, moon and planets. His measurements and methods were used by later astronomers.
 
 Born about 850 Harran (near Urfa), Mesopotamia (now Turkey). Died 929 Qasr al-Jiss, Iraq.
 

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Robertson_Edmund
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: group-theory
-title: Robertson, Edmund
+title: Robertson (2), Edmund
 born: 1942
 died: 2012
 description: Some facts about Edmund Robertson

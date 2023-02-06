@@ -3,7 +3,7 @@ nodeid: bookofproofs$Craig_Thomas
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-usa
-title: Craig, Thomas
+title: Craig (2), Thomas
 born: 1855
 died: 1900
 description: Some facts about Thomas Craig

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Philip_Flora
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-scotland,women
-title: Philip, Flora
+title: Philip (2), Flora
 born: 1865
 died: 1943
 description: Some facts about Flora Philip

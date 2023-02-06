@@ -3,7 +3,7 @@ nodeid: bookofproofs$Fuchs_Klaus
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-germany
-title: Fuchs, Klaus
+title: Fuchs (3), Klaus
 born: 1911
 died: 1988
 description: Some facts about Klaus Fuchs

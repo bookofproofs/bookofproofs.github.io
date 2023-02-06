@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Muhyi l'din al-Maghribi was a Spanish-born Islamic astronomer who is most famous for his work on trigonometry.
+**Muhyi l'din al-Maghribi** was a Spanish-born Islamic astronomer who is most famous for his work on trigonometry.
 
 Born about 1220 Spain. Died about 1283 Maragha, Iran.
 

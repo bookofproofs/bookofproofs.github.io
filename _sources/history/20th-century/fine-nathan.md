@@ -3,7 +3,7 @@ nodeid: bookofproofs$Fine_Nathan
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-usa
-title: Fine, Nathan
+title: Fine (3), Nathan
 born: 1916
 died: 1994
 description: Some facts about Nathan Fine

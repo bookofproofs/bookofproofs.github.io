@@ -3,7 +3,7 @@ nodeid: bookofproofs$MacMillan_Chrystal
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-scotland,women
-title: Macmillan, Chrystal
+title: Macmillan (2), Chrystal
 born: 1872
 died: 1937
 description: Some facts about Chrystal Macmillan

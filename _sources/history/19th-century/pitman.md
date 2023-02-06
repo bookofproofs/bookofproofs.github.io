@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Pitman.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Pitman.jpg?raw=true)
 
-Edwin  Pitman  was an Australian mathematician who made contributions to statistics and probability theory.
+**Edwin Pitman** was an Australian mathematician who made contributions to statistics and probability theory.
 
 Born 29 October 1897 Melbourne, Victoria, Australia. Died 21 July 1993 Kingston, Tasmania, Australia.
 

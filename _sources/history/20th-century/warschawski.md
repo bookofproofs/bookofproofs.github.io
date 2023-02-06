@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Warschawski.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Warschawski.jpg?raw=true)
 
-Stefan E Warschawski was a Belarussian-born American mathematician who was known for his research on complex analysis and in particular on conformal maps.
+**Stefan E Warschawski** was a Belarussian-born American mathematician who was known for his research on complex analysis and in particular on conformal maps.
 
 Born 18 April 1904 Lida, Russia (now Belarus). Died 5 May 1989 San Diego, California, USA.
 

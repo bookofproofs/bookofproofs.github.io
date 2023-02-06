@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Girard_Pierre
 categories: history,18th-century
 parentid: bookofproofs$52
-title: Girard, Pierre-Simon
+title: Girard (2), Pierre-Simon
 born: 1765
 died: 1836
 description: Some facts about Pierre-Simon Girard

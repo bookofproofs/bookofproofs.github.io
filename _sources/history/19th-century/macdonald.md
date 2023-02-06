@@ -3,7 +3,7 @@ nodeid: bookofproofs$Macdonald
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-scotland
-title: Macdonald, Hector Munro
+title: Macdonald (2), Hector Munro
 born: 1865
 died: 1935
 description: Some facts about Hector Munro Macdonald

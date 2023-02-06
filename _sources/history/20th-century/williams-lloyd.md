@@ -3,7 +3,7 @@ nodeid: bookofproofs$Williams_Lloyd
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: african-american,nationality-usa
-title: Williams, Lloyd
+title: Williams (3), Lloyd
 born: 1925
 died: 2001
 description: Some facts about Lloyd Williams

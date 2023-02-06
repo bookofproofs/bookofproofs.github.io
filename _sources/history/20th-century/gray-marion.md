@@ -3,7 +3,7 @@ nodeid: bookofproofs$Gray_Marion
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-scotland,women
-title: Gray, Marion
+title: Gray (3), Marion
 born: 1902
 died: 1979
 description: Some facts about Marion Gray

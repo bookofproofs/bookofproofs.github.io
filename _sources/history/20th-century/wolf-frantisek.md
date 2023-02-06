@@ -3,7 +3,7 @@ nodeid: bookofproofs$Wolf_Frantisek
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-czech-republic
-title: Wolf, František
+title: Wolf (2), František
 born: 1904
 died: 1989
 description: Some facts about František Wolf

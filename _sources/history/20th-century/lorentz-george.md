@@ -3,7 +3,7 @@ nodeid: bookofproofs$Lorentz_George
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-russia
-title: Lorentz, George G
+title: Lorentz (2), George G.
 born: 1910
 died: 2006
 description: Some facts about George G Lorentz

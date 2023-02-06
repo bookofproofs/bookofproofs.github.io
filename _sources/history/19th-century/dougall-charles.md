@@ -3,7 +3,7 @@ nodeid: bookofproofs$Dougall_Charles
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-scotland
-title: Dougall, Charles Shirra
+title: Dougall (2), Charles Shirra
 born: 1868
 died: 1930
 description: Some facts about Charles Shirra Dougall

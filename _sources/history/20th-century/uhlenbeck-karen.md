@@ -3,7 +3,7 @@ nodeid: bookofproofs$Uhlenbeck_Karen
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: abel-prize,nationality-usa,women
-title: Uhlenbeck, Karen
+title: Uhlenbeck (2), Karen
 born: 1942
 died: 2010
 description: Some facts about Karen Uhlenbeck

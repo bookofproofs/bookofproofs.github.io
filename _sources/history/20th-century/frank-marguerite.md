@@ -3,7 +3,7 @@ nodeid: bookofproofs$Frank_Marguerite
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: women
-title: Frank, Marguerite Straus
+title: Frank (2), Marguerite Straus
 born: 1927
 died: 1994
 description: Some facts about Marguerite Straus Frank

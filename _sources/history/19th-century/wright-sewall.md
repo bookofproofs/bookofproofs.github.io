@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Wright_Sewall.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Wright_Sewall.jpg?raw=true)
 
-Sewall Green Wright  was an American geneticist who worked on on evolutionary theory.
+**Sewall Green Wright** was an American geneticist who worked on on evolutionary theory.
 
 Born 21 December 1889 Melrose, Massachusetts, USA. Died 3 March 1988 Madison, Wisconsin, USA.
 

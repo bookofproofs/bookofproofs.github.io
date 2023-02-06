@@ -3,7 +3,7 @@ nodeid: bookofproofs$Darwin_C_G
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-england
-title: Darwin, Charles Galton
+title: Darwin (2), Charles Galton
 born: 1887
 died: 1962
 description: Some facts about Charles Galton Darwin

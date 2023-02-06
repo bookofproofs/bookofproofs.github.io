@@ -3,11 +3,11 @@ nodeid: bookofproofs$Bernoulli_NicolausI
 categories: history,17th-century
 parentid: bookofproofs$339
 tags: nationality-switzerland
-title: Bernoulli, Nicolaus (I)
+title: Bernoulli (3), Nicolaus
 born: 1687
 died: 1759
-description: bernoulli, nicolaus (i) summary
-keywords: bernoulli, nicolaus (i),nationality switzerland
+description: Some facts about Nicolaus Bernoulli
+keywords: bernoulli, nicolaus,nationality switzerland
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Yang_Hui
 categories: history,13th-century
 parentid: bookofproofs$606
 tags: ancient-chinese,chinese,nationality-china,puzzles-and-problems
-title: Hui, Yang
+title: Hui (2), Yang
 born: 1238
 died: 1298
 description: Some facts about Yang Hui

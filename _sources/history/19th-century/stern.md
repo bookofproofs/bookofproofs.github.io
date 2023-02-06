@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Stern.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Stern.jpg?raw=true)
 
-Moritz Abraham Stern was a German mathematician who worked in number theory.
+**Moritz Abraham Stern** was a German mathematician who worked in number theory.
 
 Born 29 June 1807 Frankfurt am Main, Germany. Died 30 January 1894 Zürich, Switzerland.
 

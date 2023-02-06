@@ -3,7 +3,7 @@ nodeid: bookofproofs$Konig_Denes
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-hungary,topology
-title: König, Dénes
+title: König (3), Dénes
 born: 1884
 died: 1944
 description: Some facts about Dénes König

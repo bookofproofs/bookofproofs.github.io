@@ -3,7 +3,7 @@ nodeid: bookofproofs$Fuller
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: architecture,nationality-usa
-title: Fuller, Richard Buckminster
+title: Fuller (2), Richard Buckminster
 born: 1895
 died: 1983
 description: Some facts about Richard Buckminster Fuller

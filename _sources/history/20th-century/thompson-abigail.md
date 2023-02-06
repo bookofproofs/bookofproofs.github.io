@@ -3,7 +3,7 @@ nodeid: bookofproofs$Thompson_Abigail
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-usa,women
-title: Thompson, Abigail
+title: Thompson (4), Abigail
 born: 1957
 died: 2016
 description: Some facts about Abigail Thompson

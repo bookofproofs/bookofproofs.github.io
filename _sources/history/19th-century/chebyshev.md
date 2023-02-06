@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Chebyshev.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Chebyshev.jpg?raw=true)
 
-Pafnuty Chebyshev is largely remembered for his investigations in number theory. Chebyshev was also interested in mechanics and is famous for the orthogonal polynomials he invented.
+**Pafnuty Chebyshev** is largely remembered for his investigations in number theory. Chebyshev was also interested in mechanics and is famous for the orthogonal polynomials he invented.
 
 Born 16 May 1821 Okatovo, Kaluga Region, Russia. Died 8 December 1894 St Petersburg, Russia.
 

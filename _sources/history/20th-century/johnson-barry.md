@@ -3,7 +3,7 @@ nodeid: bookofproofs$Johnson_Barry
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-england
-title: Johnson, Barry
+title: Johnson (5), Barry
 born: 1937
 died: 2002
 description: Some facts about Barry Johnson

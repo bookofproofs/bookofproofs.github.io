@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Wall_Hubert.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Wall_Hubert.jpg?raw=true)
 
-Hubert Stanley Wall was an American mathematician who worked in the field of continued fractions.
+**Hubert Stanley** Wall was an American mathematician who worked in the field of continued fractions.
 
 Born 2 December 1902 Rockwell City, Calhoun County, Iowa, USA. Died 12 September 1971 Austin, Travis County, Texas, USA.
 

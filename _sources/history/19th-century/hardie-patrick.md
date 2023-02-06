@@ -3,7 +3,7 @@ nodeid: bookofproofs$Hardie_Patrick
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-scotland
-title: Hardie, Patrick
+title: Hardie (2), Patrick
 born: 1873
 died: 1943
 description: Some facts about Patrick Hardie

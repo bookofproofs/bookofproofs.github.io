@@ -3,7 +3,7 @@ nodeid: bookofproofs$Banu_Musa_Ahmad
 categories: history,early-middle-ages
 parentid: bookofproofs$608
 tags: ancient-arab,nationality-iraq
-title: Musa, Ahmad Banu
+title: Musa (2), Ahmad Banu
 born: 805
 died: 873
 description: Some facts about Ahmad Banu Musa

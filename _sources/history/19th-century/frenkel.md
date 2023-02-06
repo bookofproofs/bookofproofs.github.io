@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Frenkel.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Frenkel.jpg?raw=true)
 
-Jakov Il'ich Frenkel was a Russian physicist who worked in the field of condensed matter physics.
+**Jakov Il'ich Frenkel** was a Russian physicist who worked in the field of condensed matter physics.
 
 Born 10 February 1894 Rostov-on-Don, Russia. Died 23 January 1952 Leningrad, USSR (now St Petersburg, Russia).
 

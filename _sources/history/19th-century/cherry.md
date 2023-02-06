@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Cherry.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Cherry.jpg?raw=true)
 
-Thomas MacFarland Cherry was an Australian mathematician who was Professor of Mathematics  at the University of Melbourne for many years.
+**Thomas MacFarland Cherry** was an Australian mathematician who was Professor of Mathematics  at the University of Melbourne for many years.
 
 Born 21 May 1898 Glen Iris, Melbourne, Australia. Died 21 November 1966 Melbourne, Australia.
 

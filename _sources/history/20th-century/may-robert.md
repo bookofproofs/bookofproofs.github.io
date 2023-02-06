@@ -3,7 +3,7 @@ nodeid: bookofproofs$May_Robert
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-australia
-title: May, Robert
+title: May (2), Robert
 born: 1936
 died: 2020
 description: Some facts about Robert May

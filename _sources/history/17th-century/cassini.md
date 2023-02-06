@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Cassini.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Cassini.jpg?raw=true)
 
-**Cassini** was an Italian mathematician and astronomer who studied the curve which is the locus of a point the product of whose distances from two fixed foci is constant.
+**Giovanni Cassini** was an Italian mathematician and astronomer who studied the curve which is the locus of a point the product of whose distances from two fixed foci is constant.
 
 Born 8 June 1625 Perinaldo, Republic of Genoa (now Italy). Died 14 September 1712 Paris, France.
 

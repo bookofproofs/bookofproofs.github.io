@@ -3,7 +3,7 @@ nodeid: bookofproofs$Barlow_Crossley
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-england
-title: Barlow, Crossley
+title: Barlow (2), Crossley
 born: 1863
 died: 1924
 description: Some facts about Crossley Barlow

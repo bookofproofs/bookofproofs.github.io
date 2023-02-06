@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Kloosterman.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Kloosterman.jpg?raw=true)
 
-Hendrik Douwe Kloosterman  was a Dutch mathematician, known for his work in number theory and representation theory.
+**Hendrik Douwe Kloosterman** was a Dutch mathematician, known for his work in number theory and representation theory.
 
 Born 9 April 1900 Rottevalle, The Netherlands. Died 6 May 1968 Leiden, The Netherlands.
 

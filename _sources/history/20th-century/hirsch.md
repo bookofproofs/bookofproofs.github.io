@@ -3,7 +3,7 @@ nodeid: bookofproofs$Hirsch
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: group-theory,nationality-germany
-title: Hirsch, Kurt
+title: Hirsch (2), Kurt
 born: 1906
 died: 1986
 description: Some facts about Kurt Hirsch

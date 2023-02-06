@@ -3,7 +3,7 @@ nodeid: bookofproofs$Keldysh_Mstislav
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-latvia
-title: Keldysh, Mstislav Vsevolodovich
+title: Keldysh (2), Mstislav Vsevolodovich
 born: 1911
 died: 1978
 description: Some facts about Mstislav Vsevolodovich Keldysh

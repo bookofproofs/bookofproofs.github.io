@@ -3,7 +3,7 @@ nodeid: bookofproofs$Greaves
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: astronomy,nationality-barbados
-title: Greaves, William Michael Herbert
+title: Greaves (2), William Michael Herbert
 born: 1897
 died: 1955
 description: Some facts about William Michael Herbert Greaves

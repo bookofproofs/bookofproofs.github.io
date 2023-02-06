@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Day.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Day.jpg?raw=true)
 
-Alan Day was a Canadian mathematician who worked in lattice theory and universal algebra.
+**Alan Day** was a Canadian mathematician who worked in lattice theory and universal algebra.
 
 Born 9 October 1941 Sault Ste Marie, Ontario, Canada. Died 26 November 1990 Thunder Bay, Ontario, Canada.
 

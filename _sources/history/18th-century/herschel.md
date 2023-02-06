@@ -3,7 +3,7 @@ nodeid: bookofproofs$Herschel
 categories: history,18th-century
 parentid: bookofproofs$52
 tags: astronomy,geography,nationality-england,physics
-title: Herschel, Caroline Lucretia
+title: Herschel (3), Caroline Lucretia
 born: 1792
 died: 1871
 description: Some facts about Caroline Lucretia Herschel

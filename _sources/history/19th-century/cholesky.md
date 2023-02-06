@@ -17,7 +17,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Cholesky.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Cholesky.jpg?raw=true)
 
-André-Louis Cholesky was a French military officer and mathematician who devised a clever method of dealing with geodesic measurements.
+**André-Louis Cholesky** was a French military officer and mathematician who devised a clever method of dealing with geodesic measurements.
 
 Born 15 October 1875 Montguyon, Charentes Maritime, France. Died 31 August 1918 North France.
 

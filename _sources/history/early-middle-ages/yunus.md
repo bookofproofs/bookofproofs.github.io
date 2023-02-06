@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Ibn Yunus was an Islamic mathematician known for his astronomical observations and for his many trigonometrical and astronomical tables.
+**Ibn Yunus** was an Islamic mathematician known for his astronomical observations and for his many trigonometrical and astronomical tables.
 
 Born 950 Egypt. Died 1009 Fustat, Egypt.
 

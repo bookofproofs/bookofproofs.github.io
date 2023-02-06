@@ -3,7 +3,7 @@ nodeid: bookofproofs$Briggs_William
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-england
-title: Briggs, William
+title: Briggs (2), William
 born: 1861
 died: 1932
 description: Some facts about William Briggs

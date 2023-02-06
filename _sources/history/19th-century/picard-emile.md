@@ -3,7 +3,7 @@ nodeid: bookofproofs$Picard_Emile
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: astronomy
-title: Picard, Émile
+title: Picard (2), Émile
 born: 1856
 died: 1941
 description: Some facts about Émile Picard

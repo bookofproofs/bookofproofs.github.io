@@ -3,7 +3,7 @@ nodeid: bookofproofs$Graves_Charles
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-ireland
-title: Graves, Charles
+title: Graves (2), Charles
 born: 1812
 died: 1899
 description: Some facts about Charles Graves

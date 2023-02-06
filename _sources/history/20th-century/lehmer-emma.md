@@ -3,7 +3,7 @@ nodeid: bookofproofs$Lehmer_Emma
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-russia,women
-title: Lehmer, Emma
+title: Lehmer (3), Emma
 born: 1906
 died: 2007
 description: Some facts about Emma Lehmer

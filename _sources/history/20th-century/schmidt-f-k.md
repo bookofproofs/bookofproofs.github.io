@@ -3,7 +3,7 @@ nodeid: bookofproofs$Schmidt_F-K
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-germany
-title: Schmidt, Friedrich Karl
+title: Schmidt (4), Friedrich Karl
 born: 1901
 died: 1977
 description: Some facts about Friedrich Karl Schmidt

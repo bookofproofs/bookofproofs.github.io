@@ -3,7 +3,7 @@ nodeid: bookofproofs$Hutton
 categories: history,18th-century
 parentid: bookofproofs$52
 tags: nationality-england
-title: Hutton, Charles
+title: Hutton (2), Charles
 born: 1737
 died: 1823
 description: Some facts about Charles Hutton

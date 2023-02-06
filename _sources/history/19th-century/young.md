@@ -3,7 +3,7 @@ nodeid: bookofproofs$Young
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-england
-title: Young, William Henry
+title: Young (2), William Henry
 born: 1863
 died: 1942
 description: Some facts about William Henry Young

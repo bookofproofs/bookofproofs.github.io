@@ -3,7 +3,7 @@ nodeid: bookofproofs$Bell_Robert
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-scotland
-title: Bell, Robert J T
+title: Bell, Robert J. T.
 born: 1876
 died: 1963
 description: Some facts about Robert J T Bell

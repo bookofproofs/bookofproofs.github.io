@@ -3,7 +3,7 @@ nodeid: bookofproofs$Novikov_Sergi
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: fields-medal,nationality-russia,topology,wolf-prize
-title: Novikov, Sergei
+title: Novikov (2), Sergei
 born: 1938
 died: 2017
 description: Some facts about Sergei Novikov

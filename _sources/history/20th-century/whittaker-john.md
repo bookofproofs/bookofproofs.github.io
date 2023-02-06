@@ -3,7 +3,7 @@ nodeid: bookofproofs$Whittaker_John
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-england
-title: Whittaker, John
+title: Whittaker (2), John
 born: 1905
 died: 1984
 description: Some facts about John Whittaker

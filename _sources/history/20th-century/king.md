@@ -3,7 +3,7 @@ nodeid: bookofproofs$King
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: african-american,nationality-usa
-title: King, John Quill Taylor
+title: King (2), John Quill Taylor
 born: 1921
 died: 2011
 description: Some facts about John Quill Taylor King

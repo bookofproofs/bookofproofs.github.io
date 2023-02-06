@@ -3,7 +3,7 @@ nodeid: bookofproofs$Moore_Eliakim
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-usa
-title: Moore, Eliakim
+title: Moore (2), Eliakim
 born: 1862
 died: 1932
 description: Some facts about Eliakim Moore

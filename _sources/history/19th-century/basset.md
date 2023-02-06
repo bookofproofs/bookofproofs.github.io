@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Basset.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Basset.jpg?raw=true)
 
-Alfred Barnard Basset was an English mathematician who worked on algebraic geometry, electrodynamics and hydrodynamics.
+**Alfred Barnard Basset** was an English mathematician who worked on algebraic geometry, electrodynamics and hydrodynamics.
 
 Born 25 July 1854 London, England. Died 5 December 1930 Fledborough Hall, Holyport, Berkshire, England.
 

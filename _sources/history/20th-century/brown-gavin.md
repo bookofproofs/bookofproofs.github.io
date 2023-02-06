@@ -3,7 +3,7 @@ nodeid: bookofproofs$Brown_Gavin
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-scotland
-title: Brown, Gavin
+title: Brown (4), Gavin
 born: 1942
 died: 2010
 description: Some facts about Gavin Brown

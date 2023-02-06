@@ -3,7 +3,7 @@ nodeid: bookofproofs$Niven_Charles
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-scotland
-title: Niven, Charles
+title: Niven (2), Charles
 born: 1845
 died: 1923
 description: Some facts about Charles Niven

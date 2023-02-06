@@ -3,7 +3,7 @@ nodeid: bookofproofs$Weber_Heinrich
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: algebra,group-theory,nationality-germany
-title: Weber, Heinrich
+title: Weber (2), Heinrich
 born: 1842
 died: 1913
 description: Some facts about Heinrich Weber

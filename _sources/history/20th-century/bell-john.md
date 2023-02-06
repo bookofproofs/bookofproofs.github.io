@@ -3,7 +3,7 @@ nodeid: bookofproofs$Bell_John
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-ireland,physics
-title: Bell, John
+title: Bell (3), John
 born: 1928
 died: 1990
 description: Some facts about John Bell

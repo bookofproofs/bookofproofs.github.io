@@ -3,7 +3,7 @@ nodeid: bookofproofs$Mercer_Alan
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-england
-title: Mercer, Alan
+title: Mercer (2), Alan
 born: 1931
 died: 2014
 description: Some facts about Alan Mercer

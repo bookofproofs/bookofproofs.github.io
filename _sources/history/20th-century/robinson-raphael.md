@@ -3,7 +3,7 @@ nodeid: bookofproofs$Robinson_Raphael
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-usa
-title: Robinson, Raphael
+title: Robinson (2), Raphael
 born: 1911
 died: 1995
 description: Some facts about Raphael Robinson

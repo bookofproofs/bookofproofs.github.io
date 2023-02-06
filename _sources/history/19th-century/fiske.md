@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Fiske.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Fiske.jpg?raw=true)
 
-Thomas Scott Fiske  was an American mathematician who was the founder of the American Mathematical Society.
+**Thomas Scott Fiske** was an American mathematician who was the founder of the American Mathematical Society.
 
 Born 12 May 1865 New York, USA. Died 10 January 1944 Poughkeepsie, New York, USA.
 

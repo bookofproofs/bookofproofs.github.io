@@ -3,7 +3,7 @@ nodeid: bookofproofs$Rogers
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-england
-title: Rogers, Claude Ambrose
+title: Rogers (2), Claude Ambrose
 born: 1920
 died: 2005
 description: Some facts about Claude Ambrose Rogers

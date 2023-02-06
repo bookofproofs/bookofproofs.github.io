@@ -3,7 +3,7 @@ nodeid: bookofproofs$Peixoto
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-brazil
-title: Peixoto, Maurício
+title: Peixoto (2), Maurício
 born: 1921
 died: 2019
 description: Some facts about Maurício Peixoto

@@ -17,7 +17,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Boussinesq.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Boussinesq.jpg?raw=true)
 
-Joseph  Boussinesq  was a French mathematician and physicist who made contributions to the theory of hydrodynamics, vibration, light, and heat.
+**Joseph  Boussinesq** was a French mathematician and physicist who made contributions to the theory of hydrodynamics, vibration, light, and heat.
 
 Born 13 March 1842 Saint-André de Sangonis, Hérault, France. Died 19 February 1929 Paris, France.
 

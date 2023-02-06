@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Welchman.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Welchman.jpg?raw=true)
 
-William Gordon Welchman was an English mathematician who played an important part in the World War II codebreaking at Bletchley Park.
+**William Gordon Welchman** was an English mathematician who played an important part in the World War II codebreaking at Bletchley Park.
 
 Born 15 June 1906 Fishponds, near Bristol, England. Died 8 October 1985 Newburyport, Massachusetts, USA.
 

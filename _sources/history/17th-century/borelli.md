@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Borelli.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Borelli.jpg?raw=true)
 
-Giovanni Alfonso Borelli  was an Italian Italian physiologist and physicist who was the first to explain muscular movement and other body functions according to the laws of statics and dynamics.
+**Giovanni Alfonso Borelli** was an Italian Italian physiologist and physicist who was the first to explain muscular movement and other body functions according to the laws of statics and dynamics.
 
 Born 28 January 1608 Naples, Kingdom of Naples (now Italy). Died 31 December 1679 Rome, Papal States (now Italy).
 

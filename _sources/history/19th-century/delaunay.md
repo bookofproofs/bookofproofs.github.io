@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Delaunay.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Delaunay.jpg?raw=true)
 
-Charles-Eugène Delaunay was a French mathematician and astronomer whose theory of lunar motion advanced the development of planetary-motion theories.
+**Charles-Eugène Delaunay** was a French mathematician and astronomer whose theory of lunar motion advanced the development of planetary-motion theories.
 
 Born 9 April 1816 Lusigny-sur-Barse, France. Died 5 August 1872 At sea (near Cherbourg, France).
 

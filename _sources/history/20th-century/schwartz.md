@@ -3,7 +3,7 @@ nodeid: bookofproofs$Schwartz
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: bourbaki,fields-medal
-title: Schwartz, Laurent Moise
+title: Schwartz (2), Laurent Moise
 born: 1915
 died: 2002
 description: Some facts about Laurent Moise Schwartz

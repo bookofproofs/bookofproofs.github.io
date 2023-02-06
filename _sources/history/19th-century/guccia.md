@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Guccia.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Guccia.jpg?raw=true)
 
-Giovanni Battista Guccia was an Italian mathematician who worked in algebraic geometry.
+**Giovanni Battista Guccia** was an Italian mathematician who worked in algebraic geometry.
 
 Born 21 October 1855 Palermo, Kingdom of the Two Sicilies (now Italy). Died 29 October 1914 Palermo, Italy.
 

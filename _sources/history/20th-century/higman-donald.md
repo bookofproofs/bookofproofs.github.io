@@ -3,7 +3,7 @@ nodeid: bookofproofs$Higman_Donald
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: group-theory,nationality-canada
-title: Higman, Donald
+title: Higman (2), Donald
 born: 1928
 died: 2006
 description: Some facts about Donald Higman

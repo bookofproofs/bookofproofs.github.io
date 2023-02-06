@@ -3,7 +3,7 @@ nodeid: bookofproofs$Neumann_Bernhard
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: algebra,group-theory,nationality-germany
-title: Neumann, Bernhard
+title: Neumann (3), Bernhard
 born: 1909
 died: 2002
 description: Some facts about Bernhard Neumann

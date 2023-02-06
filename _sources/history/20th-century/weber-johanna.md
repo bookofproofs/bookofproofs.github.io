@@ -3,7 +3,7 @@ nodeid: bookofproofs$Weber_Johanna
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-germany,women
-title: Weber, Johanna
+title: Weber (4), Johanna
 born: 1910
 died: 2014
 description: Some facts about Johanna Weber

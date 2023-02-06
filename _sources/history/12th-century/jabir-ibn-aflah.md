@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Jabir_ibn_Aflah.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Jabir_ibn_Aflah.jpg?raw=true)
 
-Jabir ibn Aflah or Geber was an Spanish Islamic mathematician whose works were translated into Latin and so became available to European mathematicians.
+**Jabir ibn Aflah** or **Geber** was an Spanish Islamic mathematician whose works were translated into Latin and so became available to European mathematicians.
 
 Born about 1100, possibly in Seville (now Spain). Died about 1160.
 

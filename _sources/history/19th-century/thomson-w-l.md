@@ -3,7 +3,7 @@ nodeid: bookofproofs$Thomson_W_L
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-scotland
-title: Thomson, William Leslie
+title: Thomson (3), William Leslie
 born: 1868
 died: 1951
 description: Some facts about William Leslie Thomson

@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Bugaev.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Bugaev.jpg?raw=true)
 
-Nicolai Vasilievich Bugaev was a Russian mathematician, born in Georgia, who worked mainly on analysis and number theory.
+**Nicolai Vasilievich Bugaev** was a Russian mathematician, born in Georgia, who worked mainly on analysis and number theory.
 
 Born 14 September 1837 Dusheti (near Tiflis, now Tbilisi), Georgia. Died 11 June 1903 Moscow, Russia.
 

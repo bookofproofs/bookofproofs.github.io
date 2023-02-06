@@ -3,7 +3,7 @@ nodeid: bookofproofs$Davies_Paul
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: astronomy,nationality-england
-title: Davies, Paul
+title: Davies (4), Paul
 born: 1946
 died: 2015
 description: Some facts about Paul Davies

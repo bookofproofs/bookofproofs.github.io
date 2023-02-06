@@ -3,7 +3,7 @@ nodeid: bookofproofs$Smith_John
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-scotland
-title: Smith, John
+title: Smith (3), John
 born: 1905
 died: 1962
 description: Some facts about John Smith

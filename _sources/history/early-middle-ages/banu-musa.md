@@ -5,7 +5,6 @@ parentid: bookofproofs$608
 tags: ancient-arab,astronomy,nationality-iraq
 title: Banu Musa Brothers
 born: 800
-died: 0
 description: Some facts about  Banu Musa Brothers
 keywords: banu musa brothers,ancient arab,astronomy,nationality iraq
 references: bookofproofs$6909

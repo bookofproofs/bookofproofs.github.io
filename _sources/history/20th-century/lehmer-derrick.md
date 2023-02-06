@@ -3,7 +3,7 @@ nodeid: bookofproofs$Lehmer_Derrick
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-usa
-title: Lehmer, Derrick Henry
+title: Lehmer (2), Derrick Henry
 born: 1905
 died: 1991
 description: Some facts about Derrick Henry Lehmer

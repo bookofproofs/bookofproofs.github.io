@@ -3,7 +3,7 @@ nodeid: bookofproofs$Tweedie_D_J
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-scotland
-title: Tweedie, David J
+title: Tweedie (3), David J.
 born: 1870
 died: 1926
 description: Some facts about David J Tweedie

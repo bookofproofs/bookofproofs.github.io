@@ -3,7 +3,7 @@ nodeid: bookofproofs$Martin
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-usa
-title: Martin, Artemas
+title: Martin (2), Artemas
 born: 1835
 died: 1918
 description: Some facts about Artemas Martin

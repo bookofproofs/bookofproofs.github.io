@@ -3,7 +3,7 @@ nodeid: bookofproofs$Milne
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: astronomy,nationality-england,physics
-title: Milne, Edward Arthur
+title: Milne (3), Edward Arthur
 born: 1896
 died: 1950
 description: Some facts about Edward Arthur Milne

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Krylov_Nikolai_S
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-russia
-title: Krylov, Nikolai Sergeevitch
+title: Krylov (3), Nikolai Sergeevitch
 born: 1917
 died: 1947
 description: Some facts about Nikolai Sergeevitch Krylov

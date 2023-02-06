@@ -3,7 +3,7 @@ nodeid: bookofproofs$Hopf_Eberhard
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-austria,topology
-title: Hopf, Eberhard
+title: Hopf (2), Eberhard
 born: 1902
 died: 1983
 description: Some facts about Eberhard Hopf

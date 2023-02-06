@@ -3,7 +3,7 @@ nodeid: bookofproofs$Boole_Mary
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-england,women
-title: Boole, Mary Everest
+title: Boole (2), Mary Everest
 born: 1832
 died: 1916
 description: Some facts about Mary Everest Boole

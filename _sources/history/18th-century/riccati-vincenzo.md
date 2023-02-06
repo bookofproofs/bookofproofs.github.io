@@ -3,7 +3,7 @@ nodeid: bookofproofs$Riccati_Vincenzo
 categories: history,18th-century
 parentid: bookofproofs$52
 tags: nationality-italy
-title: Riccati, Vincenzo
+title: Riccati (2), Vincenzo
 born: 1707
 died: 1775
 description: Some facts about Vincenzo Riccati

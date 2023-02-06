@@ -3,7 +3,7 @@ nodeid: bookofproofs$Watson_William
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-scotland
-title: Watson, William
+title: Watson (2), William
 born: 1884
 died: 1952
 description: Some facts about William Watson

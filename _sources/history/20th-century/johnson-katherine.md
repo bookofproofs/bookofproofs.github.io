@@ -3,7 +3,7 @@ nodeid: bookofproofs$Johnson_Katherine
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: african-american,astronomy,nationality-usa,women
-title: Johnson, Katherine
+title: Johnson (4), Katherine
 born: 1918
 died: 2020
 description: Some facts about Katherine Johnson

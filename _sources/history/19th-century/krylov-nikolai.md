@@ -3,7 +3,7 @@ nodeid: bookofproofs$Krylov_Nikolai
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-russia
-title: Krylov, Nikolai Mitrofanovich
+title: Krylov (2), Nikolai Mitrofanovich
 born: 1879
 died: 1955
 description: Some facts about Nikolai Mitrofanovich Krylov

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Bernoulli_Daniel
 categories: history,18th-century
 parentid: bookofproofs$52
 tags: analysis,astronomy,nationality-netherlands
-title: Bernoulli, Daniel
+title: Bernoulli (5), Daniel
 born: 1700
 died: 1782
 description: Some facts about Daniel Bernoulli

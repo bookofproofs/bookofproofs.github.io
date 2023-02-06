@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Al-Jawhari was an Islamic mathematician whose main work was a commentary on [Euclid's Elements][bookofproofs$621].
+**Al-Jawhari** was an Islamic mathematician whose main work was a commentary on [Euclid's Elements][bookofproofs$621].
 
 Born about 800, possibly in Baghdad, Iraq. Died about 860, possibly in Baghdad, Iraq.
 

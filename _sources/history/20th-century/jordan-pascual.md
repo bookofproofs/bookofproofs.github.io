@@ -3,7 +3,7 @@ nodeid: bookofproofs$Jordan_Pascual
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-germany
-title: Jordan, Pascual
+title: Jordan (2), Pascual
 born: 1902
 died: 1980
 description: Some facts about Pascual Jordan

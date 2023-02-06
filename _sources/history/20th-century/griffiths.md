@@ -3,7 +3,7 @@ nodeid: bookofproofs$Griffiths
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-usa,wolf-prize
-title: Griffiths, Phillip Augustus
+title: Griffiths (3), Phillip Augustus
 born: 1938
 died: 2017
 description: Some facts about Phillip Augustus Griffiths

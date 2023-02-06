@@ -225,13 +225,12 @@ _(no contents provided yet)_
 : An English scientist who made contributions to many different fields including mathematics, optics, mechanics, architecture and astronomy. He had a famous quarrel with Newton.
 
 ### 1637 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Heins/">Valentin Heins</a>
 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Neile/">William Neile</a>
-: An English mathematician who was the first to calculate the arc-length of the cubical parabola.
+Birth of: 
+: [Valentin Heins][bookofproofs$Heins], [William Neile][bookofproofs$Neile]
 
-Descartes publishes "La Géometrie"
-: Continuing the work of François Viète, Descartes solves geometrical problems using algebraic means. In this epochal work, he also abolishes the dogma
+[Descartes][bookofproofs$Descartes] publishes "La Géometrie"
+: Continuing the work of [François Viète][bookofproofs$Viete], Descartes solves geometrical problems using algebraic means. In this epochal work, he also abolishes the dogma
 that lasted in mathematics for millennia, prohibiting mathematicians from calculating with lengths and volumes at once
 (which, they thought, was impossible because of the danger to mix up incompatible geometrical concepts).
 

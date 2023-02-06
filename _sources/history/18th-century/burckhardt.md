@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Burckhardt.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Burckhardt.jpg?raw=true)
 
-Johann Karl Burckhardt was a German-born astronomer and mathematician who is remembered for his work in fundamental astronomy and for his lunar theory.
+**Johann Karl Burckhardt** was a German-born astronomer and mathematician who is remembered for his work in fundamental astronomy and for his lunar theory.
 
 Born 30 April 1773 Leipzig, Saxony, now Germany. Died 22 June 1825 Paris, France.
 

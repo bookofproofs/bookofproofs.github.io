@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Suschkevich.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Suschkevich.jpg?raw=true)
 
-Anton Sushkevich  was a Russian mathematician who worked on  group theory and semigroups.
+**Anton Sushkevich** was a Russian mathematician who worked on  group theory and semigroups.
 
 Born 23 January 1889 Borisoglebsk, Russia. Died 30 August 1961 Kharkov, Ukraine.
 

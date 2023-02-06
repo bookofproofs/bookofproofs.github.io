@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Somov.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Somov.jpg?raw=true)
 
-Osip  Somov  was a Russian mathematician who was the first in Russia to deal with the solution of kinematic problems.
+**Osip Somov** was a Russian mathematician who was the first in Russia to deal with the solution of kinematic problems.
 
 Born 1 June 1815 Otrada, Moscow gubernia (now oblast), Russia. Died 26 April 1876 St Petersburg, Russia.
 

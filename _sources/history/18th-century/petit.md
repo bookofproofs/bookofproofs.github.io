@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Petit
 categories: history,18th-century
 parentid: bookofproofs$52
-title: Petit, Aléxis Thérèse
+title: Petit (2), Aléxis Thérèse
 born: 1791
 died: 1820
 description: Some facts about Aléxis Thérèse Petit

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Brown_Thomas
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-scotland
-title: Brown, Thomas Arnold
+title: Brown (3), Thomas Arnold
 born: 1893
 died: 1965
 description: Some facts about Thomas Arnold Brown

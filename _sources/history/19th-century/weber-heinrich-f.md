@@ -3,7 +3,7 @@ nodeid: bookofproofs$Weber_Heinrich_F
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-germany
-title: Weber, Heinrich Friedrich
+title: Weber (3), Heinrich Friedrich
 born: 1843
 died: 1912
 description: Some facts about Heinrich Friedrich Weber

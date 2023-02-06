@@ -3,7 +3,7 @@ nodeid: bookofproofs$Eckert_John
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-usa
-title: Eckert, J Presper
+title: Eckert (2), J. Presper
 born: 1919
 died: 1995
 description: Some facts about J Presper Eckert

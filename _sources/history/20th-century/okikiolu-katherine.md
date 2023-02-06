@@ -3,7 +3,7 @@ nodeid: bookofproofs$Okikiolu_Katherine
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-england,women
-title: Okikiolu, Katherine
+title: Okikiolu (2), Katherine
 born: 1964
 died: 1994
 description: Some facts about Katherine Okikiolu

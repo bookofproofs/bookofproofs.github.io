@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-**Al-Tusi** was an Islamic mathematician who wrote a treatise on cubic equations.
+**Sharaf Al-Tusi** was an Islamic mathematician who wrote a treatise on cubic equations.
 
 Born about 1135 Tus, Khorasan (now Iran). Died 1213 Iran.
 

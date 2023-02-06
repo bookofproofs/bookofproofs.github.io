@@ -3,7 +3,7 @@ nodeid: bookofproofs$Ohm_Martin
 categories: history,18th-century
 parentid: bookofproofs$52
 tags: nationality-germany,special-numbers-and-numerals
-title: Ohm, Martin
+title: Ohm (2), Martin
 born: 1792
 died: 1872
 description: Some facts about Martin Ohm

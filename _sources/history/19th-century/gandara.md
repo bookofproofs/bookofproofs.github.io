@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Alfonso Nápoles Gándara was a Mexican mathematician who was one of the founders of the Mexican Mathematical Society.
+**Alfonso Nápoles Gándara** was a Mexican mathematician who was one of the founders of the Mexican Mathematical Society.
 
 Born 14 October 1897 Cuernavaca, Mexico. Died 11 November 1992.
 

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Jackson_Dunham
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-usa
-title: Jackson, Dunham
+title: Jackson (3), Dunham
 born: 1888
 died: 1946
 description: Some facts about Dunham Jackson

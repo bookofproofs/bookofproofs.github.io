@@ -3,7 +3,7 @@ nodeid: bookofproofs$Wilson_Edwin
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: astronomy,nationality-usa
-title: Wilson, Edwin
+title: Wilson (3), Edwin
 born: 1879
 died: 1964
 description: Some facts about Edwin Wilson

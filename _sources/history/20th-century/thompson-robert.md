@@ -3,7 +3,7 @@ nodeid: bookofproofs$Thompson_Robert
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-canada
-title: Thompson, Robert C
+title: Thompson (2), Robert C
 born: 1931
 died: 1995
 description: Some facts about Robert C Thompson

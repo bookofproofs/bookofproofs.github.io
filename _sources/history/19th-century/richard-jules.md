@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Richard_Jules
 categories: history,19th-century
 parentid: bookofproofs$603
-title: Richard, Jules
+title: Richard (2), Jules
 born: 1862
 died: 1956
 description: Some facts about Jules Richard

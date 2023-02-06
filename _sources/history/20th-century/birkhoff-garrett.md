@@ -3,7 +3,7 @@ nodeid: bookofproofs$Birkhoff_Garrett
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: group-theory,nationality-usa
-title: Birkhoff, Garrett
+title: Birkhoff (2), Garrett
 born: 1911
 died: 1996
 description: Some facts about Garrett Birkhoff

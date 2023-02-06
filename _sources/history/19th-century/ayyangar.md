@@ -3,7 +3,7 @@ nodeid: bookofproofs$Ayyangar
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: astronomy,nationality-india
-title: Ayyangar, A A Krishnaswami
+title: Ayyangar, A. A. Krishnaswami
 born: 1892
 died: 1953
 description: Some facts about A A Krishnaswami Ayyangar

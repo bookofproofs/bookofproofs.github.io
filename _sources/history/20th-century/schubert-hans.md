@@ -3,7 +3,7 @@ nodeid: bookofproofs$Schubert_Hans
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-germany
-title: Schubert, Hans
+title: Schubert (2), Hans
 born: 1908
 died: 1987
 description: Some facts about Hans Schubert

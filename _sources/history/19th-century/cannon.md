@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Cannon.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Cannon.jpg?raw=true)
 
-Annie Jump Cannon was an American astronomer whose work led to the Harvard Stellar Classification Scheme.
+**Annie Jump Cannon** was an American astronomer whose work led to the Harvard Stellar Classification Scheme.
 
 Born 11 December 1863 Dover, Delaware, USA. Died 13 April 1941 Cambridge, Massachusetts, USA.
 

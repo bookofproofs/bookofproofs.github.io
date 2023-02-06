@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Wilkinson.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Wilkinson.jpg?raw=true)
 
-Jim Wilkinson was an English mathematician who worked in numerical analysis.
+**Jim Wilkinson** was an English mathematician who worked in numerical analysis.
 
 Born 27 September 1919 Strood, Kent, England. Died 5 October 1986 Teddington, Middlesex, England.
 

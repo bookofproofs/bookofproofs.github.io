@@ -3,7 +3,7 @@ nodeid: bookofproofs$Young_Lai-Sang
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-china,women
-title: Young, Lai-Sang
+title: Young (7), Lai-Sang
 born: 1952
 died: 2015
 description: Some facts about Lai-Sang Young

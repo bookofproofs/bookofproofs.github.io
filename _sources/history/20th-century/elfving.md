@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Elfving.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Elfving.jpg?raw=true)
 
-Erik Gustav Elfving  was a Finnish mathematician and statistician who worked in the optimal design of experiments.
+**Erik Gustav Elfving** was a Finnish mathematician and statistician who worked in the optimal design of experiments.
 
 Born 25 June 1908 Helsinki, Finland. Died 25 March 1984 Helsinki, Finland.
 

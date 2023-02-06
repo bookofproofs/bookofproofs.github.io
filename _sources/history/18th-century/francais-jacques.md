@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Francais_Jacques
 categories: history,18th-century
 parentid: bookofproofs$52
-title: Français, Jacques
+title: Français (2), Jacques
 born: 1775
 died: 1833
 description: Some facts about Jacques Français

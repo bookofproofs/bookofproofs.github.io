@@ -3,7 +3,7 @@ nodeid: bookofproofs$Conway
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: group-theory,nationality-england
-title: Conway, John Horton
+title: Conway (2), John Horton
 born: 1937
 died: 2020
 description: Some facts about John Horton Conway

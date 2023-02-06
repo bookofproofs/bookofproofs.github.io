@@ -3,7 +3,7 @@ nodeid: bookofproofs$Peirce_Charles
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: astronomy,nationality-usa,puzzles-and-problems,topology
-title: Peirce, Charles S
+title: Peirce (2), Charles S.
 born: 1839
 died: 1914
 description: Some facts about Charles S Peirce

@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Offord.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Offord.jpg?raw=true)
 
-Albert Cyril Offord  was an English mathematician who was the first professor of mathematics at the London School of Economics.
+**Albert Cyril Offord** was an English mathematician who was the first professor of mathematics at the London School of Economics.
 
 Born 9 June 1906 London, England. Died 4 June 2000 Oxford, England.
 

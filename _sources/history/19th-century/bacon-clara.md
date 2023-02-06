@@ -3,7 +3,7 @@ nodeid: bookofproofs$Bacon_Clara
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-usa,women
-title: Bacon, Clara
+title: Bacon (2), Clara
 born: 1866
 died: 1948
 description: Some facts about Clara Bacon

@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Moisil.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Moisil.jpg?raw=true)
 
-Grigore Constantin Moisil  was a Romanian mathematician and computer scientist who worked in the fields of mathematical logic and differential equations.
+**Grigore Constantin Moisil** was a Romanian mathematician and computer scientist who worked in the fields of mathematical logic and differential equations.
 
 Born 10 January 1906 Tulcea, Romania. Died 21 May 1973 Ottawa, Canada.
 

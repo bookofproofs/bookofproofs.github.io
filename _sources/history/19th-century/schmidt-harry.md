@@ -3,7 +3,7 @@ nodeid: bookofproofs$Schmidt_Harry
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-germany
-title: Schmidt, Harry
+title: Schmidt (3), Harry
 born: 1894
 died: 1951
 description: Some facts about Harry Schmidt

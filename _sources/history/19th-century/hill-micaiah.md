@@ -3,7 +3,7 @@ nodeid: bookofproofs$Hill_Micaiah
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-india
-title: Hill, Micaiah
+title: Hill (2), Micaiah
 born: 1856
 died: 1929
 description: Some facts about Micaiah Hill

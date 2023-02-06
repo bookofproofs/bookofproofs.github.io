@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lang
 categories: history,20th-century
 parentid: bookofproofs$604
-title: Lang, Serge
+title: Lang (2), Serge
 born: 1927
 died: 2005
 description: Some facts about Serge Lang

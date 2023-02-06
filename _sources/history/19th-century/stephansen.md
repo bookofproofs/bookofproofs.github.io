@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Stephansen.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Stephansen.jpg?raw=true)
 
-Elizabeth Stephansen  was a Norwegian mathematician and educator who was the first Norwegian woman to be awarded a doctoral degree in science.
+**Elizabeth Stephansen** was a Norwegian mathematician and educator who was the first Norwegian woman to be awarded a doctoral degree in science.
 
 Born 10 March 1872 Bergen, Norway. Died 23 February 1961 Espeland, Norway.
 

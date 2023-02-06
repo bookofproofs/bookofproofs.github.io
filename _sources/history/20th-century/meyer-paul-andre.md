@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Meyer_Paul-Andre
 categories: history,20th-century
 parentid: bookofproofs$604
-title: Meyer, Paul-André
+title: Meyer (2), Paul-André
 born: 1934
 died: 2003
 description: Some facts about Paul-André Meyer

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Mitchell
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-scotland
-title: Mitchell, Andrew Ronald
+title: Mitchell (2), Andrew Ronald
 born: 1921
 died: 2007
 description: Some facts about Andrew Ronald Mitchell

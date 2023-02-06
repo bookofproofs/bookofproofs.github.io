@@ -3,7 +3,7 @@ nodeid: bookofproofs$Fuchs_Richard
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-germany
-title: Fuchs, Richard
+title: Fuchs (2), Richard
 born: 1873
 died: 1944
 description: Some facts about Richard Fuchs

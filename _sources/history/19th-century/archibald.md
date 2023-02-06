@@ -3,7 +3,7 @@ nodeid: bookofproofs$Archibald
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-canada
-title: Archibald, Raymond Clare
+title: Archibald (2), Raymond Clare
 born: 1875
 died: 1955
 description: Some facts about Raymond Clare Archibald

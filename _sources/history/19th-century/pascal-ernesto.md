@@ -3,7 +3,7 @@ nodeid: bookofproofs$Pascal_Ernesto
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-italy
-title: Pascal, Ernesto
+title: Pascal (3), Ernesto
 born: 1865
 died: 1940
 description: Some facts about Ernesto Pascal

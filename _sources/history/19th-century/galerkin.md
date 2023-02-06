@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Galerkin.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Galerkin.jpg?raw=true)
 
-Boris Grigorievich Galerkin was a  Soviet mathematician and engineer best known for his method of approximate integration.
+**Boris Grigorievich Galerkin** was a  Soviet mathematician and engineer best known for his method of approximate integration.
 
 Born 4 March 1871 Polotsk, Belarus. Died 12 June 1945 Moscow, USSR.
 

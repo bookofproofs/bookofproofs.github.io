@@ -5,7 +5,6 @@ parentid: bookofproofs$604
 tags: nationality-czech-republic
 title: Tichy, Pavel
 born: 1936
-died: 0
 description: Some facts about Pavel Tichy
 keywords: tichy, pavel,nationality czech republic
 references: bookofproofs$6909

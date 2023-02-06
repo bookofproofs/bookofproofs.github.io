@@ -3,7 +3,7 @@ nodeid: bookofproofs$Taylor_Mary
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-england,women
-title: Taylor, Mary
+title: Taylor (5), Mary
 born: 1898
 died: 1984
 description: Some facts about Mary Taylor

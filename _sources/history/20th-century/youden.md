@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Youden.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Youden.jpg?raw=true)
 
-William John Youden  was an Australian born American statistician who formulated new statistical techniques in statistical analysis and in the design of experiments.
+**William John Youden** was an Australian born American statistician who formulated new statistical techniques in statistical analysis and in the design of experiments.
 
 Born 12 April 1900 Townsville, Australia. Died 31 March 1971 Washington, D.C., USA.
 

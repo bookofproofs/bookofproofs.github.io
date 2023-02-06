@@ -3,7 +3,7 @@ nodeid: bookofproofs$Artin_Michael
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-germany,wolf-prize
-title: Artin, Michael
+title: Artin (2), Michael
 born: 1934
 died: 2017
 description: Some facts about Michael Artin

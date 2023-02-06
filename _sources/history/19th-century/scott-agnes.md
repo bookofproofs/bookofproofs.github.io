@@ -3,9 +3,8 @@ nodeid: bookofproofs$Scott_Agnes
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-channel-islands,women
-title: Scott, Agnes
+title: Scott (4), Agnes
 born: 1894
-died: 0
 description: Some facts about Agnes Scott
 keywords: scott, agnes,nationality channel islands,women
 references: bookofproofs$6909

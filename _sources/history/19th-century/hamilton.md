@@ -3,7 +3,7 @@ nodeid: bookofproofs$Hamilton
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: algebra,analysis,ancient-greek,astronomy,geometry,knot-theory,nationality-ireland,physics,puzzles-and-problems,topology
-title: Hamilton, Sir William Rowan
+title: Hamilton (2), Sir William Rowan
 born: 1805
 died: 1865
 description: Some facts about Sir William Rowan Hamilton

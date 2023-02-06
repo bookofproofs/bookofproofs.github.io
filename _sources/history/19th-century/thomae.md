@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Thomae.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Thomae.jpg?raw=true)
 
-Carl Johannes Thomae was a German mathematician who worked in function theory.
+**Carl Johannes Thomae** was a German mathematician who worked in function theory.
 
 Born 11 December 1840 Laucha (Unstrut), Germany. Died 1 April 1921 Jena, Germany.
 

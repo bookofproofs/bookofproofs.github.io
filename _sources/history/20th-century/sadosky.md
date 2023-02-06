@@ -3,7 +3,7 @@ nodeid: bookofproofs$Sadosky
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-argentina,women
-title: Sadosky, Cora
+title: Sadosky (2), Cora
 born: 1940
 died: 2010
 description: Some facts about Cora Sadosky

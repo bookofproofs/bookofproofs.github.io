@@ -3,7 +3,7 @@ nodeid: bookofproofs$Lloyd_Humphrey
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-ireland
-title: Lloyd, Humphrey
+title: Lloyd (2), Humphrey
 born: 1800
 died: 1881
 description: Some facts about Humphrey Lloyd

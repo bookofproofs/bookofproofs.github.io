@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Lorna Mary Swain  was a British mathematician who was one of few early female lecturers at the University of Cambridge.
+**Lorna Mary Swain** was a British mathematician who was one of few early female lecturers at the University of Cambridge.
 
 Born 22 March 1891 Hampstead, London, England. Died 8 May 1936 Cambridge, England.
 

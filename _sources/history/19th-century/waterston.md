@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Waterston.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Waterston.jpg?raw=true)
 
-John James Waterston  was a Scottish physicist who worked in the kinetic theory of gases.
+**John James Waterston** was a Scottish physicist who worked in the kinetic theory of gases.
 
 Born 1811 Edinburgh, Scotland. Died 18 June 1883 Edinburgh, Scotland.
 

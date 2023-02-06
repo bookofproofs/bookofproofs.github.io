@@ -3,7 +3,7 @@ nodeid: bookofproofs$Calderon_Calixto
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-argentina
-title: Calderón, Calixto
+title: Calderón (2), Calixto
 born: 1939
 died: 2021
 description: Some facts about Calixto Calderón

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Humbert_Pierre
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: astronomy
-title: Humbert, Pierre
+title: Humbert (2), Pierre
 born: 1891
 died: 1953
 description: Some facts about Pierre Humbert

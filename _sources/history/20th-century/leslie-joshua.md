@@ -3,7 +3,7 @@ nodeid: bookofproofs$Leslie_Joshua
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: african-american,nationality-jamaica
-title: Leslie, Joshua
+title: Leslie (2), Joshua
 born: 1933
 died: 2014
 description: Some facts about Joshua Leslie

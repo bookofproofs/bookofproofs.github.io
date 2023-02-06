@@ -3,7 +3,7 @@ nodeid: bookofproofs$Jack_Henry
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-scotland
-title: Jack, Henry
+title: Jack (3), Henry
 born: 1917
 died: 1978
 description: Some facts about Henry Jack

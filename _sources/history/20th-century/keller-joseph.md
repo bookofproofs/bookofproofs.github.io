@@ -3,7 +3,7 @@ nodeid: bookofproofs$Keller_Joseph
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-usa,wolf-prize
-title: Keller, Joseph
+title: Keller (2), Joseph
 born: 1923
 died: 2016
 description: Some facts about Joseph Keller

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Levi_Eugenio
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-italy
-title: Levi, Eugenio
+title: Levi (2), Eugenio
 born: 1883
 died: 1917
 description: Some facts about Eugenio Levi

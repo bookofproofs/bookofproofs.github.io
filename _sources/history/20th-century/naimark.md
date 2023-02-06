@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Naimark.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Naimark.jpg?raw=true)
 
-Mark Aronovich Naimark  was a Ukranian mathematician who worked in functional analysis and mathematical physics.
+**Mark Aronovich Naimark** was a Ukranian mathematician who worked in functional analysis and mathematical physics.
 
 Born 5 December 1909 Odessa, Ukraine. Died 30 December 1978 Moscow, USSR.
 

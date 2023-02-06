@@ -3,7 +3,7 @@ nodeid: bookofproofs$Bliss
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-usa
-title: Bliss, Gilbert Ames
+title: Bliss (2), Gilbert Ames
 born: 1876
 died: 1951
 description: Some facts about Gilbert Ames Bliss

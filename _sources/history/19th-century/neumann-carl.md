@@ -3,7 +3,7 @@ nodeid: bookofproofs$Neumann_Carl
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: astronomy,nationality-russia,physics
-title: Neumann, Carl
+title: Neumann (2), Carl
 born: 1832
 died: 1925
 description: Some facts about Carl Neumann

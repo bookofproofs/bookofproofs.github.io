@@ -3,7 +3,7 @@ nodeid: bookofproofs$Spencer_Tony
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-england
-title: Spencer, Anthony
+title: Spencer (2), Anthony
 born: 1929
 died: 2008
 description: Some facts about Anthony Spencer

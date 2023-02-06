@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Amsler.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Amsler.jpg?raw=true)
 
-Jakob Amsler-Laffon  was a Swiss mathematician, physicist, engineer and inventor.
+**Jakob Amsler-Laffon** was a Swiss mathematician, physicist, engineer and inventor.
 
 Born 16 November 1823 Stalden bei Brugg, Switzerland. Died 3 January 1912 Schaffhausen, Switzerland.
 

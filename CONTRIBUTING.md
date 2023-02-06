@@ -51,6 +51,7 @@ Please check out our cheat sheets
 5. [cheat_sheet_categories](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_categories.md)
 6. [cheat_sheet_layout_epoch](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_layout_epoch.md)
 7. [cheat_sheet_layout_topic](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_layout_topic.md)
-7. [cheat_sheet_bibliography](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_bibliography.md)
-8. (more cheat sheets to come)
+8. [cheat_sheet_bibliography](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_bibliography.md)
+9. [cheat_sheet_layout_person](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_layout_person.md)
+10. (more cheat sheets to come)
 

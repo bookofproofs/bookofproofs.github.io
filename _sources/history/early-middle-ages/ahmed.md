@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-**Ahmed** ibn Yusuf was an Islamic mathematician who wrote a commentary on Euclid's Elements which influenced later European mathematicians.
+**Ahmed ibn Yusuf**  was an Islamic mathematician who wrote a commentary on Euclid's Elements which influenced later European mathematicians.
 
 Born 835 Baghdad (now in Iraq). Died 912 Cairo, Egypt.
 

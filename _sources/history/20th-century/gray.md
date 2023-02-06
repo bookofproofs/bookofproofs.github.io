@@ -3,7 +3,7 @@ nodeid: bookofproofs$Gray
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-usa,women
-title: Gray, Marion Cameron
+title: Gray (4), Marion Cameron
 born: 1939
 died: 2012
 description: Some facts about Marion Cameron Gray

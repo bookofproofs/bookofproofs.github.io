@@ -3,7 +3,7 @@ nodeid: bookofproofs$Laurent_Hermann
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-luxembourg
-title: Laurent, Hermann
+title: Laurent (2), Hermann
 born: 1841
 died: 1908
 description: Some facts about Hermann Laurent

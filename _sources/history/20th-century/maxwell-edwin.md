@@ -3,7 +3,7 @@ nodeid: bookofproofs$Maxwell_Edwin
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-scotland
-title: Maxwell, Edwin
+title: Maxwell (2), Edwin
 born: 1907
 died: 1987
 description: Some facts about Edwin Maxwell

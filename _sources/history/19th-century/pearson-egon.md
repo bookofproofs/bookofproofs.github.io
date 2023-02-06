@@ -3,7 +3,7 @@ nodeid: bookofproofs$Pearson_Egon
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-england,statistics
-title: Pearson, Egon
+title: Pearson (2), Egon
 born: 1895
 died: 1980
 description: Some facts about Egon Pearson

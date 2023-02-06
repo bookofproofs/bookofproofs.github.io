@@ -5,7 +5,6 @@ parentid: bookofproofs$610
 tags: ancient-greek,geometry,nationality-italy,puzzles-and-problems
 title: Bryson Of Heraclea
 born: -450
-died: 0
 description: Some facts about  Bryson Of Heraclea
 keywords: bryson of heraclea,ancient greek,geometry,nationality italy,puzzles and problems
 references: bookofproofs$6909

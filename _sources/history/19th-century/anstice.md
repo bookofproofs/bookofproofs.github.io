@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Anstice.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Anstice.jpg?raw=true)
 
-Robert Richard Anstice  was an English clergyman and mathematician who wrote two remarkable papers on combinatorics.
+**Robert Richard Anstice** was an English clergyman and mathematician who wrote two remarkable papers on combinatorics.
 
 Born 9 April 1813 Madeley, Shropshire, England. Died 17 December 1853 Wigginton (near Tring), Hertfordshire, England.
 

@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Henrici.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Henrici.jpg?raw=true)
 
-Olaus  Henrici was a German mathematician who became a professor in London.
+**Olaus Henrici** was a German mathematician who became a professor in London.
 
 Born 9 March 1840 Meldorf, Holstein (now Germany). Died 10 August 1918 Chandler's Ford, Hampshire, England.
 

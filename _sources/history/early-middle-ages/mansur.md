@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Abu Nasr Mansur was an Islamic prince and mathematician who collaborated with al-Biruni on astronomy and mathematics. He discovered the sine rule for triangles.
+**Abu Nasr Mansur** was an Islamic prince and mathematician who collaborated with al-Biruni on astronomy and mathematics. He discovered the sine rule for triangles.
 
 Born 970 (possibly) Khwarazm (now Kara-Kalpakskaya, Uzbekistan). Died 1036 (probably) Ghazna (now Ghazni, Afganistan).
 

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Browder_William
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-usa,topology
-title: Browder, William
+title: Browder (2), William
 born: 1934
 died: 2003
 description: Some facts about William Browder

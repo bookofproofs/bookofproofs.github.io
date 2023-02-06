@@ -3,7 +3,7 @@ nodeid: bookofproofs$Mohr_Ernst
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-germany
-title: Mohr, Ernst
+title: Mohr (2), Ernst
 born: 1910
 died: 1989
 description: Some facts about Ernst Mohr

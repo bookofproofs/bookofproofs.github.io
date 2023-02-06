@@ -3,7 +3,7 @@ nodeid: bookofproofs$Rado_Ferenc
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-romania
-title: Radó, Ferenc
+title: Radó (2), Ferenc
 born: 1921
 died: 1990
 description: Some facts about Ferenc Radó

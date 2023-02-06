@@ -26,6 +26,7 @@ application| |Application examples related to another node
 example| |Generic examples related to another node
 explanation| |Explanation of another node
 motivation| |Motivates a mathematical concept
+person| |Person of some significance for mathematics, physics, or computer science
 problem| |Mathematical problem or riddle
 solution| |Solution to the problem or riddle
 epoch|Historical epoch|Lists chronologically the events related to mathematics

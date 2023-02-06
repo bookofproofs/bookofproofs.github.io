@@ -3,7 +3,7 @@ nodeid: bookofproofs$Fiedler
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-czech-republic
-title: Fiedler, Miroslav
+title: Fiedler (3), Miroslav
 born: 1926
 died: 2015
 description: Some facts about Miroslav Fiedler

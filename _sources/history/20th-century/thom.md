@@ -3,7 +3,7 @@ nodeid: bookofproofs$Thom
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: fields-medal
-title: Thom, René
+title: Thom (2), René
 born: 1923
 died: 2002
 description: Some facts about René Thom

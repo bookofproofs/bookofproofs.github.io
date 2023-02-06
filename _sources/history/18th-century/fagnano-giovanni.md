@@ -3,7 +3,7 @@ nodeid: bookofproofs$Fagnano_Giovanni
 categories: history,18th-century
 parentid: bookofproofs$52
 tags: nationality-italy
-title: Fagnano, Giovanni
+title: Fagnano (2), Giovanni
 born: 1715
 died: 1797
 description: Some facts about Giovanni Fagnano

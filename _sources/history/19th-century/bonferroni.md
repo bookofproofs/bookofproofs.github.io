@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Bonferroni.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Bonferroni.jpg?raw=true)
 
-Carlo Emilio Bonferroni was an Italian mathematician who worked on probability theory.
+**Carlo Emilio Bonferroni** was an Italian mathematician who worked on probability theory.
 
 Born 28 January 1892 Bergamo, Italy. Died 18 August 1960 Florence, Italy.
 

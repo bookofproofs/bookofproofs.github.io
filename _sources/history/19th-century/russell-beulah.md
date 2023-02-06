@@ -3,7 +3,7 @@ nodeid: bookofproofs$Russell_Beulah
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-usa,women
-title: Russell, Beulah
+title: Russell (4), Beulah
 born: 1878
 died: 1940
 description: Some facts about Beulah Russell

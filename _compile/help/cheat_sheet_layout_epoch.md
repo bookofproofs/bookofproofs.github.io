@@ -49,6 +49,21 @@ separate page dedicated to this event, in which you use the `topic` layout inste
 
 ## Famous Personalities
 
-The epoch's years contain also the dates of births of more or less famous personalities related to mathematics, physics, and computer science.
-There is only a short summary per person, because there are better source on the internet containing much more information about the life and achievements of these persons.
-Please stick to this convention and add only a summary with a link to more external info, if you are missing a person in the list. 
+In the `epoch` layout, we only add persons under the `Birth of:` markdown like this: 
+
+    ### 1637 
+    
+    Birth of: 
+    : [Valentin Heins][bookofproofs$Heins], [William Neile][bookofproofs$Neile]
+    
+    [Descartes][bookofproofs$Descartes] publishes "La Géometrie"
+    : Continuing the work of [François Viète][bookofproofs$Viete], Descartes solves geometrical problems using algebraic means. In this epochal work, he also abolishes the dogma
+    that lasted in mathematics for millennia, prohibiting mathematicians from calculating with lengths and volumes at once
+    (which, they thought, was impossible because of the danger to mix up incompatible geometrical concepts).
+
+
+Please do not provide any further person-specific information in the `Birth of:`.
+The internal references `[Valentin Heins][bookofproofs$Heins], [William Neile][bookofproofs$Neile]`
+are examples of references to pages with the `person` layout. 
+
+For using the `person` layout, see [cheat_sheet_layout_person](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_layout_person.md). 

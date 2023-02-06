@@ -3,7 +3,7 @@ nodeid: bookofproofs$Scholz_Arnold
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-germany
-title: Scholz, Arnold
+title: Scholz (2), Arnold
 born: 1904
 died: 1942
 description: Some facts about Arnold Scholz

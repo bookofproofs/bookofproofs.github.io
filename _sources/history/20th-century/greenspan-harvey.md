@@ -3,7 +3,7 @@ nodeid: bookofproofs$Greenspan_Harvey
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-usa
-title: Greenspan, Harvey
+title: Greenspan (2), Harvey
 born: 1933
 died: 2012
 description: Some facts about Harvey Greenspan

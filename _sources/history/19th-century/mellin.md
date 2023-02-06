@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Mellin.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Mellin.jpg?raw=true)
 
-Hjalmar Mellin  was a Finnish mathematician and functional theorist.
+**Hjalmar Mellin** was a Finnish mathematician and functional theorist.
 
 Born 19 June 1854 Liminka, Northern Ostrobothnia, Finland. Died 5 April 1933 Helsinki, Finland.
 

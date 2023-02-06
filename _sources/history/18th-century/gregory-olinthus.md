@@ -3,7 +3,7 @@ nodeid: bookofproofs$Gregory_Olinthus
 categories: history,18th-century
 parentid: bookofproofs$52
 tags: astronomy,nationality-england
-title: Gregory, Olinthus
+title: Gregory (4), Olinthus
 born: 1774
 died: 1841
 description: Some facts about Olinthus Gregory

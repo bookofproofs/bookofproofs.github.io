@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Remez.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Remez.jpg?raw=true)
 
-Evgeny Yakovlevich Remez was a Belarus mathematician. He is known for his work in the constructive function theory.
+**Evgeny Yakovlevich Remez** was a Belarus mathematician. He is known for his work in the constructive function theory.
 
 Born 17 February 1896 Mstsislau, Mahiliou gubernia, Belarus. Died 31 August 1975 Kiev, Ukranian SSR (now Kyiv, Ukraine).
 

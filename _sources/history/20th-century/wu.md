@@ -3,7 +3,7 @@ nodeid: bookofproofs$Wu
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-china,women
-title: Wu, Sijue
+title: Wu (2), Sijue
 born: 1964
 died: 1994
 description: Some facts about Sijue Wu

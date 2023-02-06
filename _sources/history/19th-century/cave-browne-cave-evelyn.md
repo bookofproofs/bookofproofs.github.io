@@ -3,7 +3,7 @@ nodeid: bookofproofs$Cave-Browne-Cave_Evelyn
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-england,women
-title: Cave-Browne-Cave, Evelyn
+title: Cave-Browne-Cave (2), Evelyn
 born: 1876
 died: 1965
 description: Some facts about Evelyn Cave-Browne-Cave

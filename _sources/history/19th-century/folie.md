@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Folie.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Folie.jpg?raw=true)
 
-François Folie  was a Belgian mathematician and astronomer.
+**François Folie** was a Belgian mathematician and astronomer.
 
 Born 11 December 1833 Venlo, Belgium (now Netherlands). Died 29 January 1905 Liège, Belgium.
 

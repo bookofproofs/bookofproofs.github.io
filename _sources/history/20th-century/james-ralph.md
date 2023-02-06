@@ -3,7 +3,7 @@ nodeid: bookofproofs$James_Ralph
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-england
-title: James, Ralph
+title: James (2), Ralph
 born: 1909
 died: 1979
 description: Some facts about Ralph James

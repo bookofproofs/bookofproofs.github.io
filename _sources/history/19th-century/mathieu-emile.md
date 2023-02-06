@@ -3,7 +3,7 @@ nodeid: bookofproofs$Mathieu_Emile
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: algebra,group-theory
-title: Mathieu, Émile
+title: Mathieu (2), Émile
 born: 1835
 died: 1890
 description: Some facts about Émile Mathieu

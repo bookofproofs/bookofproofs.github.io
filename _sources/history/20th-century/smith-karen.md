@@ -3,7 +3,7 @@ nodeid: bookofproofs$Smith_Karen
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-usa,women
-title: Smith, Karen
+title: Smith (4), Karen
 born: 1964
 died: 1994
 description: Some facts about Karen Smith

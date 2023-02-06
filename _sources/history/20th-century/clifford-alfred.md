@@ -3,7 +3,7 @@ nodeid: bookofproofs$Clifford_Alfred
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: group-theory,nationality-usa
-title: Clifford, Alfred Hoblitzelle
+title: Clifford (2), Alfred Hoblitzelle
 born: 1908
 died: 1992
 description: Some facts about Alfred Hoblitzelle Clifford

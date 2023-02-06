@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Júlio César de Mello e Souza was a Brazilian mathematician who wrote very popular texts such as The man who counted under the pseudonym Malba Tahan. Brazil's National Day of Mathematics was instituted in 2013 to be on 6 May, Mello e Souza's birthday.
+**Júlio César** de Mello e Souza was a Brazilian mathematician who wrote very popular texts such as The man who counted under the pseudonym Malba Tahan. Brazil's National Day of Mathematics was instituted in 2013 to be on 6 May, Mello e Souza's birthday.
 
 Born 6 May 1895 Rio de Janeiro, Brazil. Died 18 June 1974 Recife, Brazil.
 

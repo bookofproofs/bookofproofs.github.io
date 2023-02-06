@@ -3,7 +3,7 @@ nodeid: bookofproofs$Moser_William
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: group-theory,nationality-canada
-title: Moser, William
+title: Moser (2), William
 born: 1927
 died: 2009
 description: Some facts about William Moser

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Grave
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-russia
-title: Graves, John Thomas
+title: Graves (3), John Thomas
 born: 1863
 died: 1939
 description: Some facts about John Thomas Graves

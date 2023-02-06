@@ -3,7 +3,7 @@ nodeid: bookofproofs$Kennedy-Fraser
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-scotland
-title: Fraser, David Kennedy
+title: Fraser (2), David Kennedy
 born: 1888
 died: 1962
 description: Some facts about David Kennedy Fraser

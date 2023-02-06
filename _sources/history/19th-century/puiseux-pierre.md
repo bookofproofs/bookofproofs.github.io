@@ -3,7 +3,7 @@ nodeid: bookofproofs$Puiseux_Pierre
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: astronomy
-title: Puiseux, Pierre
+title: Puiseux (2), Pierre
 born: 1855
 died: 1928
 description: Some facts about Pierre Puiseux

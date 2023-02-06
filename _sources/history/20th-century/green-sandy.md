@@ -3,7 +3,7 @@ nodeid: bookofproofs$Green_Sandy
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: group-theory,nationality-usa
-title: Green, J A
+title: Green (2), J. A.
 born: 1926
 died: 2014
 description: Some facts about J A Green

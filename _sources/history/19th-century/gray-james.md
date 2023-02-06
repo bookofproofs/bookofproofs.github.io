@@ -3,7 +3,7 @@ nodeid: bookofproofs$Gray_James
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-scotland
-title: Gray, James
+title: Gray (2), James
 born: 1876
 died: 1934
 description: Some facts about James Gray

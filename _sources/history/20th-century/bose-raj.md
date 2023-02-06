@@ -3,7 +3,7 @@ nodeid: bookofproofs$Bose_Raj
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-india
-title: Bose, Raj Chandra
+title: Bose (2), Raj Chandra
 born: 1901
 died: 1987
 description: Some facts about Raj Chandra Bose

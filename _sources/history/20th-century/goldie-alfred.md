@@ -3,7 +3,7 @@ nodeid: bookofproofs$Goldie_Alfred
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-england
-title: Goldie, Alfred
+title: Goldie (2), Alfred
 born: 1920
 died: 2005
 description: Some facts about Alfred Goldie

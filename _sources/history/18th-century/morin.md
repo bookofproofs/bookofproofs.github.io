@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Morin
 categories: history,18th-century
 parentid: bookofproofs$52
-title: Morin, Arthur Jules
+title: Morin (2), Arthur Jules
 born: 1795
 died: 1880
 description: Some facts about Arthur Jules Morin

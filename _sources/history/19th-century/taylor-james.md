@@ -3,7 +3,7 @@ nodeid: bookofproofs$Taylor_James
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-scotland
-title: Taylor, James
+title: Taylor (3), James
 born: 1851
 died: 1910
 description: Some facts about James Taylor

@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Wolf.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Wolf.jpg?raw=true)
 
-Rudolf Wolf  was a Swiss astronomer and mathematician best known for his research on sunspots.
+**Rudolf Wolf** was a Swiss astronomer and mathematician best known for his research on sunspots.
 
 Born 7 July 1816 Fällanden (near Zürich), Switzerland. Died 6 December 1893 Zürich, Switzerland.
 

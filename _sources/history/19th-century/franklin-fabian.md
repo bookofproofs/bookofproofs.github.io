@@ -3,7 +3,7 @@ nodeid: bookofproofs$Franklin_Fabian
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-hungary
-title: Franklin, Fabian
+title: Franklin (2), Fabian
 born: 1853
 died: 1939
 description: Some facts about Fabian Franklin

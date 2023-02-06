@@ -3,7 +3,7 @@ nodeid: bookofproofs$Lions
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: fields-medal
-title: Lions, Pierre-Louis
+title: Lions (2), Pierre-Louis
 born: 1956
 died: 1991
 description: Some facts about Pierre-Louis Lions

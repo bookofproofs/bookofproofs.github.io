@@ -3,7 +3,7 @@ nodeid: bookofproofs$Lebesgue
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: analysis,geometry,set-theory
-title: Lebesgue, Henri Léon
+title: Lebesgue (2), Henri Léon
 born: 1875
 died: 1941
 description: Some facts about Henri Léon Lebesgue

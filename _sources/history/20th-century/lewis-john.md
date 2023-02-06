@@ -3,7 +3,7 @@ nodeid: bookofproofs$Lewis_John
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-wales
-title: Lewis, John
+title: Lewis (2), John
 born: 1932
 died: 2004
 description: Some facts about John Lewis

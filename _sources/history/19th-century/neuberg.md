@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Neuberg.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Neuberg.jpg?raw=true)
 
-Joseph  Neuberg  was a Luxembourg mathematician who worked primarily in geometry.
+**Joseph Neuberg** was a Luxembourg mathematician who worked primarily in geometry.
 
 Born 30 October 1840 Luxembourg City, Luxembourg. Died 22 March 1926 Liège, Belgium.
 

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Nielsen_Jakob
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: algebra,group-theory,nationality-denmark
-title: Nielsen, Jakob
+title: Nielsen (2), Jakob
 born: 1890
 died: 1959
 description: Some facts about Jakob Nielsen

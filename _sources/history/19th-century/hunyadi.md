@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Hunyadi.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Hunyadi.jpg?raw=true)
 
-Jenő Hunyady was a Hungarian mathematician noted for his work on conic sections and linear algebra, specifically on determinants.
+**Jenő Hunyady** was a Hungarian mathematician noted for his work on conic sections and linear algebra, specifically on determinants.
 
 Born 28 April 1838 Pest, Hungary. Died 26 December 1889 Budapest, Hungary.
 

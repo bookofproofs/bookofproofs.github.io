@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Carver.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Carver.jpg?raw=true)
 
-Harry  Carver  was an American mathematician who worked in mathematical statistics.
+**Harry Carver** was an American mathematician who worked in mathematical statistics.
 
 Born 4 December 1890 Waterbury, Connecticut, USA. Died 30 January 1977 Ann Arbor, Michigan, USA.
 

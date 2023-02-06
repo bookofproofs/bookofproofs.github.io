@@ -3,7 +3,7 @@ nodeid: bookofproofs$Chisholm_Young
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-england,women
-title: Young, Grace Chisholm
+title: Young (3), Grace Chisholm
 born: 1868
 died: 1944
 description: Some facts about Grace Chisholm Young

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Rudin
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-usa,topology,women
-title: Rudin, Mary Ellen
+title: Rudin (2), Mary Ellen
 born: 1924
 died: 2013
 description: Some facts about Mary Ellen Rudin

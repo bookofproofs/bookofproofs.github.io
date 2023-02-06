@@ -3,7 +3,7 @@ nodeid: bookofproofs$Riccati_Giordano
 categories: history,18th-century
 parentid: bookofproofs$52
 tags: nationality-italy
-title: Riccati, Giordano
+title: Riccati (3), Giordano
 born: 1709
 died: 1790
 description: Some facts about Giordano Riccati

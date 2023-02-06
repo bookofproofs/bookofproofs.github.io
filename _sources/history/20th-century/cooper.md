@@ -3,7 +3,7 @@ nodeid: bookofproofs$Cooper
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: african,nationality-south-africa
-title: Cooper, William Wager
+title: Cooper (2), William Wager
 born: 1915
 died: 1977
 description: Some facts about William Wager Cooper

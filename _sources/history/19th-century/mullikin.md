@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Mullikin.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Mullikin.jpg?raw=true)
 
-Anna Margaret Mullikin  was an American mathematician who was one of the early investigators of point set theory.
+**Anna Margaret Mullikin** was an American mathematician who was one of the early investigators of point set theory.
 
 Born 7 March 1893 Baltimore, Maryland, USA. Died 24 August 1975 Philadelphia, USA.
 

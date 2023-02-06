@@ -3,7 +3,7 @@ nodeid: bookofproofs$Kendall
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-england,statistics
-title: Kendall, Maurice George
+title: Kendall (2), Maurice George
 born: 1918
 died: 2007
 description: Some facts about Maurice George Kendall

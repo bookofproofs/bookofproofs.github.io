@@ -5,7 +5,6 @@ parentid: bookofproofs$52
 tags: nationality-england,physics
 title: Hopkins, William
 born: 1793
-died: 0
 description: Some facts about William Hopkins
 keywords: hopkins, william,nationality england,physics
 references: bookofproofs$6909

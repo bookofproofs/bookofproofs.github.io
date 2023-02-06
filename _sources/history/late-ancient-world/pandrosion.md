@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-**Pandrosion** of Alexandria was a Greek mathematician of the 4th century A.D. She developed an approximate method for doubling the cube. She lived earlier than Hypatia.
+**Pandrosion of Alexandria** was a Greek mathematician of the 4th century A.D. She developed an approximate method for doubling the cube. She lived earlier than Hypatia.
 
 Born about 300, possibly in Alexandria, Egypt. Died about 360, possibly in Alexandria, Egypt.
 

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Fowler_David
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-england
-title: Fowler, David
+title: Fowler (2), David
 born: 1937
 died: 2004
 description: Some facts about David Fowler

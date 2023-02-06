@@ -3,7 +3,7 @@ nodeid: bookofproofs$Black_Fischer
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-usa
-title: Black, Fischer Sheffey
+title: Black (2), Fischer Sheffey
 born: 1938
 died: 1995
 description: Some facts about Fischer Sheffey Black

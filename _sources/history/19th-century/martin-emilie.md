@@ -3,7 +3,7 @@ nodeid: bookofproofs$Martin_Emilie
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-usa,women
-title: Martin, Emilie
+title: Martin (3), Emilie
 born: 1869
 died: 1936
 description: Some facts about Emilie Martin

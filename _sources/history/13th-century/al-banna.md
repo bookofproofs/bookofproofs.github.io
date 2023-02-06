@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Ibn al-Banna was an Islamic mathematician who wrote a large number of works including an introduction to Euclid's Elements, an algebra text and various works on astronomy.
+**Ibn al-Banna** was an Islamic mathematician who wrote a large number of works including an introduction to Euclid's Elements, an algebra text and various works on astronomy.
 
 Born 29 December 1256 Marrakesh, Morocco. Died 13 July 1321 Marrakesh, Morocco.
 

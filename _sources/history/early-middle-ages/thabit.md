@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Thabit.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Thabit.jpg?raw=true)
 
-Thabit ibn Qurra was an important Islamic mathematician who worked on number theory, astronomy and statics.
+**Thabit ibn Qurra** was an important Islamic mathematician who worked on number theory, astronomy and statics.
 
 Born 836 Harran, Mesopotamia (now Turkey). Died 18 February 0901 Baghdad, (now in Iraq).
 

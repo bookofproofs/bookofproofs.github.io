@@ -3,7 +3,7 @@ nodeid: bookofproofs$Pell_Alexander
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-russia
-title: Pell, Alexander
+title: Pell (2), Alexander
 born: 1857
 died: 1921
 description: Some facts about Alexander Pell

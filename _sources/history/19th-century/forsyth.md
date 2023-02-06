@@ -3,7 +3,7 @@ nodeid: bookofproofs$Forsyth
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-scotland
-title: Scott, Robert Forsyth
+title: Scott (3), Robert Forsyth
 born: 1858
 died: 1942
 description: Some facts about Robert Forsyth Scott

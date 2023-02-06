@@ -3,7 +3,7 @@ nodeid: bookofproofs$Moore_Robert
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-usa,topology
-title: Moore, Robert Lee
+title: Moore (3), Robert Lee
 born: 1882
 died: 1974
 description: Some facts about Robert Lee Moore

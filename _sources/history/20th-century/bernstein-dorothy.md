@@ -3,7 +3,7 @@ nodeid: bookofproofs$Bernstein_Dorothy
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-usa,women
-title: Bernstein, Dorothy
+title: Bernstein (3), Dorothy
 born: 1914
 died: 1988
 description: Some facts about Dorothy Bernstein

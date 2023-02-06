@@ -3,7 +3,7 @@ nodeid: bookofproofs$Bruno
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-italy,special-numbers-and-numerals
-title: Bruno, Giuseppe
+title: Bruno (3), Giuseppe
 born: 1828
 died: 1893
 description: Some facts about Giuseppe Bruno

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Roth_Klaus
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: fields-medal,nationality-poland
-title: Roth, Klaus
+title: Roth (2), Klaus
 born: 1925
 died: 2015
 description: Some facts about Klaus Roth

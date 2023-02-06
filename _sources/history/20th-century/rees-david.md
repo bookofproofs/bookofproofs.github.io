@@ -3,7 +3,7 @@ nodeid: bookofproofs$Rees_David
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-wales
-title: Rees, David
+title: Rees (2), David
 born: 1918
 died: 2013
 description: Some facts about David Rees

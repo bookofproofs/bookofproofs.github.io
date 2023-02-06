@@ -3,7 +3,7 @@ nodeid: bookofproofs$Borel_Armand
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: bourbaki,nationality-switzerland
-title: Borel, Armand
+title: Borel (2), Armand
 born: 1923
 died: 2003
 description: Some facts about Armand Borel

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Olubummo
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: african,nationality-nigeria,women
-title: Olubummo, Yewande
+title: Olubummo (2), Yewande
 born: 1960
 died: 2007
 description: Some facts about Yewande Olubummo

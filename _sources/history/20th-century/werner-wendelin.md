@@ -3,7 +3,7 @@ nodeid: bookofproofs$Werner_Wendelin
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: fields-medal,nationality-germany
-title: Werner, Wendelin
+title: Werner (2), Wendelin
 born: 1967
 died: 2000
 description: Some facts about Wendelin Werner

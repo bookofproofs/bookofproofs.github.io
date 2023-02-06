@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Abu'l-Wafa was an Islamic astronomer and mathematician who wrote commentaries on the works of earlier mathematicians. He made astronomical observations and constructed accurate trigonometric tables.
+**Abu'l-Wafa** was an Islamic astronomer and mathematician who wrote commentaries on the works of earlier mathematicians. He made astronomical observations and constructed accurate trigonometric tables.
 
 Born 10 June 0940 Buzjan (near Jam), Khorasan region (now in Iran). Died 15 July 998 Baghdad (now in Iraq).
 

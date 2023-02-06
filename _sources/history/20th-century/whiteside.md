@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Whiteside.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Whiteside.jpg?raw=true)
 
-Tom Whiteside was an English historian of mathematics who specialised in Isaac Newton.
+**Tom Whiteside** was an English historian of mathematics who specialised in Isaac Newton.
 
 Born 23 July 1932 Blackpool, England. Died 22 April 2008 Wokingham, Berkshire, England.
 

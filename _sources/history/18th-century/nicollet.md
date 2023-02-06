@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Nicollet.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Nicollet.jpg?raw=true)
 
-Joseph Nicolas Nicollet was a French cartographer, astronomer and mathematician known for his expeditions to map the USA.
+**Joseph Nicolas Nicollet** was a French cartographer, astronomer and mathematician known for his expeditions to map the USA.
 
 Born 29 July 1786 Cluses, Savoy, France. Died 11 September 1843 Washington, D.C., USA.
 

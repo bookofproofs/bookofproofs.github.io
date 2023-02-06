@@ -3,7 +3,7 @@ nodeid: bookofproofs$Stefan_Peter
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-slovakia
-title: Stefan, Peter
+title: Stefan (2), Peter
 born: 1941
 died: 1978
 description: Some facts about Peter Stefan

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Baker_Alan
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: fields-medal,nationality-england
-title: Baker, Alan
+title: Baker (3), Alan
 born: 1939
 died: 2018
 description: Some facts about Alan Baker

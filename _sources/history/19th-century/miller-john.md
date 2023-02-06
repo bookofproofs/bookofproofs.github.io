@@ -3,7 +3,7 @@ nodeid: bookofproofs$Miller_John
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-scotland
-title: Miller, John
+title: Miller (3), John
 born: 1871
 died: 1956
 description: Some facts about John Miller

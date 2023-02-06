@@ -3,7 +3,7 @@ nodeid: bookofproofs$Konig_Julius
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-hungary
-title: König, Julius
+title: König (2), Julius
 born: 1849
 died: 1913
 description: Some facts about Julius König

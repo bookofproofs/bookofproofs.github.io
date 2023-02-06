@@ -3,7 +3,7 @@ nodeid: bookofproofs$Fiedler_Ernst
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-germany
-title: Fiedler, Ernst
+title: Fiedler (2), Ernst
 born: 1861
 died: 1954
 description: Some facts about Ernst Fiedler

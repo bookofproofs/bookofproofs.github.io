@@ -3,7 +3,7 @@ nodeid: bookofproofs$Davies_Donald
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-wales
-title: Davies, Donald
+title: Davies (3), Donald
 born: 1924
 died: 2000
 description: Some facts about Donald Davies

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Cosserat
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: astronomy
-title: Cosserat, François Nicolas
+title: Cosserat (2), François Nicolas
 born: 1866
 died: 1931
 description: Some facts about François Nicolas Cosserat

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Adams_Edwin
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-czech-republic
-title: Adams, Edwin P
+title: Adams (2), Edwin P.
 born: 1878
 died: 1956
 description: Some facts about Edwin P Adams

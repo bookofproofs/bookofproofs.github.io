@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Gibson.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Gibson.jpg?raw=true)
 
-George Gibson graduated from Glasgow University and went on to become Professor there. He published several important textbooks and was an enthusiast for the History of Mathematics.
+**George Gibson** graduated from Glasgow University and went on to become Professor there. He published several important textbooks and was an enthusiast for the History of Mathematics.
 
 Born 19 April 1858 Greenlaw, Berwickshire, Scotland. Died 1 April 1930 Glasgow, Scotland.
 

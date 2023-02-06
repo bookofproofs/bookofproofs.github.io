@@ -3,7 +3,7 @@ nodeid: bookofproofs$Robinson_G_de_B
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: group-theory,nationality-canada
-title: Robinson, G de B
+title: Robinson, G. de B.
 born: 1906
 died: 1992
 description: Some facts about G de B Robinson
@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Robinson_G_de_B.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Robinson_G_de_B.jpg?raw=true)
 
-G de B Robinson was a Canadian mathematician best known for his work on combinatorics and the representation theory of the symmetric groups.
+G. de B. Robinson was a Canadian mathematician best known for his work on combinatorics and the representation theory of the symmetric groups.
 
 Born 3 June 1906 Toronto, Ontario, Canada. Died 8 April 1992 Toronto, Ontario, Canada.
 

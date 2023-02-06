@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Samarskii.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Samarskii.jpg?raw=true)
 
-Alexander Andreevich Samarskii  was a Ukranian-born mathematician who worked in mathematical physics, applied mathematics, numerical analysis and mathematical modelling.
+**Alexander Andreevich Samarskii** was a Ukranian-born mathematician who worked in mathematical physics, applied mathematics, numerical analysis and mathematical modelling.
 
 Born 19 February 1919 Amvrosiivka, Donetsk, Ukraine. Died 11 February 2008 Moscow, Russia.
 

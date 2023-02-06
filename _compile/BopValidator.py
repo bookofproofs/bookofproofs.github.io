@@ -62,6 +62,7 @@ class BopValidator:
         self._all_persons = dict()
         self._validate_nodeids("IDENTIFIER")
         self._validate_names("NAMING")
+        self._validate_persons("PERSON")
         self._validate_orderids("ORDER")
         self._validate_parentids("PARENT")
         self._validate_tree("STRUCTURE")
@@ -71,7 +72,6 @@ class BopValidator:
         self._validate_categories("CATEGORY")
         self._validate_issues("ISSUE")
         self._validate_layouts("LAYOUT")
-        self._validate_persons("PERSON")
 
     def _validate_nodeids(self, err_type: str):
         """
@@ -500,60 +500,61 @@ class BopValidator:
         :return: None, or raises an Error
         """
         print("   Validating " + err_type)
-        unique_names = dict()
-        unique_links = dict()
-        pattern_name = re.compile(r"^\<a href\=[\"\'](.*?)[\"\']\>(.*?)\<\/a", flags=re.M)
-        pattern_link = re.compile(r"^\<a href\=[\"\'](.*?)[\"\']\>", flags=re.M)
-        error_msgs = list()
+        pattern = re.compile(r'[a-z0-9\-]+')
         for bop_source in self._unique_nodeids.values():
-            if bop_source.layout == BopLayouts.epoch:
-                for match in pattern_name.finditer(bop_source.get_body()):
-                    if match.group(2) not in unique_names:
-                        unique_names[match.group(2)] = bop_source.get_file_name() + " " + match.group(1)
-                        if match.group(1).startswith("https://mathshistory.st-andrews.ac.uk/Biographies/"):
-                            sp = list(match.span(2))
-                            info = bop_source.get_body()[sp[1]:].split("\n\n")
-                            if info[0] != "</a>":
-                                info = info[0][6:].strip().replace("\n", " ")
-                            else:
-                                info = ""
-                            link = match.group(1)
-                            self._all_persons[self._prettify_person_name(match.group(2))] = info + "|" + link
-                            pass
-                    else:
-                        error_msgs.append("Duplicate person '{0}'\nin {1}\nand {2}".format(
-                            match.group(2),
-                            bop_source.get_file_name() + " " + match.group(1),
-                            unique_names[match.group(2)]
-                        ))
-                for match in pattern_link.finditer(bop_source.get_body()):
-                    if match.group(1) not in unique_links:
-                        unique_links[match.group(1)] = bop_source.get_file_name()
-                    else:
-                        error_msgs.append("Duplicate reference {0}\nin {1}\nand {2}".format(
-                            match.group(1),
-                            bop_source.get_file_name(),
-                            unique_links[match.group(1)]
-                        ))
-        if len(error_msgs) > 0:
-            raise BopValidationError(err_type, "01", "Person errors found:\n\n".format(len(error_msgs))
-                                     + "\n\n".join(error_msgs) + "\n\n{0} errors total".format(len(error_msgs)))
-
-    def _prettify_person_name(self, name: str):
-        name = name.strip()
-        old_name = ""
-        while old_name != name:
-            old_name = name
-            name = name.replace("  ", " ")
-        name_sp = name.split(",")
-        if len(name_sp) == 1:
-            name_sp = name.split(" ")
-        if len(name_sp) > 2 and name_sp[-2].lower() in ["ibn", "de", "of", "al", "von", "da"]:
-            return name_sp[-2] + " " + name_sp[-1] + ", " + " ".join(name_sp[0:-2])
-        elif len(name_sp) == 1:
-            return name_sp[-1]
-        else:
-            return name_sp[-1] + ", " + " ".join(name_sp[0:-1])
+            if bop_source.layout == BopLayouts.person:
+                last_name = bop_source.title.split(",")[0].strip()
+                if last_name == "":
+                    raise BopValidationError(err_type, "01",
+                                             "No lastname provided in title of {0}".format(bop_source.get_file_name())
+                                             )
+                if last_name not in self._all_persons:
+                    self._all_persons[last_name] = bop_source
+                else:
+                    raise BopValidationError(err_type, "02",
+                                             "Duplicate lastname '{0}' found twice in".format(last_name) +
+                                             "\n{0}".format(self._all_persons[last_name].get_file_name()) + " and " +
+                                             "\n{0}".format(bop_source.get_file_name()) +
+                                             "\nConsider renaming '{0}' to '{0} (2)'.".format(last_name)
+                                             )
+                if not bop_source.born.isnumeric():
+                    raise BopValidationError(err_type, "02",
+                                             "Birthyear '{0}' must be integer in {1}".format(
+                                                 bop_source.born,
+                                                 bop_source.get_file_name())
+                                             )
+                elif int(bop_source.born) != int(float(bop_source.born)):
+                    raise BopValidationError(err_type, "02",
+                                             "Birthyear '{0}' must be integer in {1}".format(
+                                                 bop_source.born,
+                                                 bop_source.get_file_name())
+                                             )
+                if not bop_source.died.isnumeric():
+                    raise BopValidationError(err_type, "02",
+                                             "Born '{0}' must be integer in {1}".format(
+                                                 bop_source.died,
+                                                 bop_source.get_file_name())
+                                             )
+                elif int(bop_source.died) != int(float(bop_source.died)):
+                    raise BopValidationError(err_type, "02",
+                                             "Died '{0}' must be integer in {1}".format(
+                                                 bop_source.died,
+                                                 bop_source.get_file_name())
+                                             )
+                if bop_source.died < bop_source.born:
+                    raise BopValidationError(err_type, "03",
+                                             "Died '{0}'<= Born '{1}' in {2}".format(
+                                                 bop_source.died,
+                                                 bop_source.born,
+                                                 bop_source.get_file_name()
+                                             )
+                                             )
+                for tag in bop_source.tags:
+                    if not re.match(pattern, tag):
+                        raise BopValidationError(err_type, "04",
+                                                 "Malformed tag '{0}' ".format(tag) +
+                                                 "found in {0}".format(bop_source.get_file_name()) +
+                                                 " (must match '[a-z0-0\\-]+')")
 
     def get_parent_child_graph(self):
         return self._parent_child_graph

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Cassini_Dominique
 categories: history,18th-century
 parentid: bookofproofs$52
 tags: astronomy
-title: Cassini, Dominique
+title: Cassini (3), Dominique
 born: 1748
 died: 1845
 description: Some facts about Dominique Cassini

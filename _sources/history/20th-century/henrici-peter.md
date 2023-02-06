@@ -3,7 +3,7 @@ nodeid: bookofproofs$Henrici_Peter
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-switzerland
-title: Henrici, Peter
+title: Henrici (2), Peter
 born: 1923
 died: 1987
 description: Some facts about Peter Henrici

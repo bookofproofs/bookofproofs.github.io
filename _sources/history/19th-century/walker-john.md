@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Walker_John.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Walker_John.jpg?raw=true)
 
-John James Walker was an English mathematician whose work was mainly in analysis of plane curves and in quaternions.
+**John James Walker** was an English mathematician whose work was mainly in analysis of plane curves and in quaternions.
 
 Born 2 October 1825 Kennington, Surrey, England. Died 15 February 1900 Hampstead, England.
 

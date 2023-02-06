@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Dijkstra.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Dijkstra.jpg?raw=true)
 
-Edsger Wybe Dijkstra was a Dutch mathematician and computer scientist best known for his shortest-path algorithm in graph theory.
+**Edsger Wybe Dijkstra** was a Dutch mathematician and computer scientist best known for his shortest-path algorithm in graph theory.
 
 Born 11 May 1930 Rotterdam, The Netherlands. Died 6 August 2002 Nuenen, The Netherlands.
 

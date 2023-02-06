@@ -3,7 +3,7 @@ nodeid: bookofproofs$Hilb
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-germany
-title: D'Ocagne, Philbert Maurice
+title: D'Ocagne (2), Philbert Maurice
 born: 1882
 died: 1929
 description: Some facts about Philbert Maurice D'Ocagne

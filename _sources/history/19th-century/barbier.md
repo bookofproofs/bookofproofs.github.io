@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Joseph-Émile Barbier was a French astronomer and mathematician.
+**oseph-Émile Barbier** was a French astronomer and mathematician.
 
 Born 18 March 1839 St Hilaire-Cottes, Pas-de-Calais, France. Died 28 January 1889 St Genest, Loire, France.
 

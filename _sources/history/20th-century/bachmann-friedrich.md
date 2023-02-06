@@ -3,7 +3,7 @@ nodeid: bookofproofs$Bachmann_Friedrich
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-germany
-title: Bachmann, Friedrich
+title: Bachmann (2), Friedrich
 born: 1909
 died: 1982
 description: Some facts about Friedrich Bachmann

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Smith_David
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-usa
-title: Smith, David Eugene
+title: Smith (2), David Eugene
 born: 1860
 died: 1944
 description: Some facts about David Eugene Smith

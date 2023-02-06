@@ -3,7 +3,7 @@ nodeid: bookofproofs$Stone
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-usa
-title: Stone, Marshall Harvey
+title: Stone (2), Marshall Harvey
 born: 1903
 died: 1989
 description: Some facts about Marshall Harvey Stone

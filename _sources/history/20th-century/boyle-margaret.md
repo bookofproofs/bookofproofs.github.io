@@ -3,7 +3,7 @@ nodeid: bookofproofs$Boyle_Margaret
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-scotland,women
-title: Boyle, Margaret E
+title: Boyle (2), Margaret E
 born: 1905
 died: 1995
 description: Some facts about Margaret E Boyle

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Varga
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-usa
-title: Varga, Richard Steven
+title: Varga (2), Richard Steven
 born: 1928
 died: 2022
 description: Some facts about Richard Steven Varga

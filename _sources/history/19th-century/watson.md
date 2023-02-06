@@ -3,7 +3,7 @@ nodeid: bookofproofs$Watson
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-england
-title: Watson, Henry William
+title: Watson (3), Henry William
 born: 1886
 died: 1965
 description: Some facts about Henry William Watson

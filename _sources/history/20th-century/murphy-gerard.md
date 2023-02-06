@@ -3,7 +3,7 @@ nodeid: bookofproofs$Murphy_Gerard
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-ireland,topology
-title: Murphy, Gerard
+title: Murphy (2), Gerard
 born: 1948
 died: 2006
 description: Some facts about Gerard Murphy

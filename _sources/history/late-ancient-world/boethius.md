@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Boethius.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Boethius.jpg?raw=true)
 
-Boethius was a Roman mathematician and philosopher who wrote texts on geometry and arithmetic which were used for many centuries during a time when mathematical achievement in Europe was at a remarkable low.
+**Boethius** was a Roman mathematician and philosopher who wrote texts on geometry and arithmetic which were used for many centuries during a time when mathematical achievement in Europe was at a remarkable low.
 
 Born about 480 in or near Rome, Byzantine Empire (now Italy). Died 524 Pavia, Gothic Empire (now Italy).
 

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Mercator_Nicolaus
 categories: history,17th-century
 parentid: bookofproofs$339
 tags: astronomy,nationality-germany,number-theory,special-numbers-and-numerals
-title: Mercator, Nicolaus
+title: Mercator (2), Nicolaus
 born: 1620
 died: 1687
 description: Some facts about Nicolaus Mercator

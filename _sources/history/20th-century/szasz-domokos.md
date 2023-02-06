@@ -3,7 +3,7 @@ nodeid: bookofproofs$Szasz_Domokos
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-hungary
-title: Szász, Domokos
+title: Szász (2), Domokos
 born: 1941
 died: 1978
 description: Some facts about Domokos Szász

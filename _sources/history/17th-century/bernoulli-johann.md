@@ -3,7 +3,7 @@ nodeid: bookofproofs$Bernoulli_Johann
 categories: history,17th-century
 parentid: bookofproofs$339
 tags: analysis,ancient-greek,geometry,nationality-switzerland,number-theory,puzzles-and-problems,special-numbers-and-numerals,topology
-title: Bernoulli, Johann
+title: Bernoulli (2), Johann
 born: 1667
 died: 1748
 description: Some facts about Johann Bernoulli
@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Bernoulli_Johann.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Bernoulli_Johann.jpg?raw=true)
 
-**Johann Bernoulli** was a Swiss mathematician who studied reflection and refraction of light, orthogonal trajectories of families of curves, quadrature of areas by series and the brachistochrone.
+**Johann Bernoulli (2)** was a Swiss mathematician who studied reflection and refraction of light, orthogonal trajectories of families of curves, quadrature of areas by series and the brachistochrone.
 
 Born 27 July 1667 Basel, Switzerland. Died 1 January 1748 Basel, Switzerland.
 

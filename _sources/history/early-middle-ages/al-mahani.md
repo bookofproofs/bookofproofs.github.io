@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-Al-Mahani was an Islamic mathematician who tried to solve some of Archimedes' problems on cutting up spheres.
+**Al-Mahani** was an Islamic mathematician who tried to solve some of Archimedes' problems on cutting up spheres.
 
 Born about 820 Mahan, Kerman, Persia (now Iran). Died 880 Baghdad, Iraq.
 

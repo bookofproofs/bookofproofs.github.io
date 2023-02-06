@@ -3,7 +3,7 @@ nodeid: bookofproofs$Wallace_Alexander
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-usa,topology
-title: Wallace, Alexander Doniphan
+title: Wallace (2), Alexander Doniphan
 born: 1905
 died: 1985
 description: Some facts about Alexander Doniphan Wallace

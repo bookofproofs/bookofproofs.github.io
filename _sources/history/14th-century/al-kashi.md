@@ -18,7 +18,7 @@ contributors: bookofproofs,@MacTutor
 
 ![Al-Kashi.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Al-Kashi.jpg?raw=true)
 
-Jamshid al-Kashi was an Islamic mathematician who published some important teaching works and anticipated Stevin's work on decimals.
+**Jamshid al-Kashi** was an Islamic mathematician who published some important teaching works and anticipated Stevin's work on decimals.
 
 Born about 1380 Kashan, Iran. Died 22 June 1429 Samarkand, Transoxania (now Uzbek).
 

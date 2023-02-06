@@ -3,7 +3,7 @@ nodeid: bookofproofs$Stein
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: nationality-belgium,wolf-prize
-title: Stein, Elias Menachem
+title: Stein (2), Elias Menachem
 born: 1931
 died: 2018
 description: Some facts about Elias Menachem Stein

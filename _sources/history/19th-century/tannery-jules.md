@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tannery_Jules
 categories: history,19th-century
 parentid: bookofproofs$603
-title: Tannery, Jules
+title: Tannery (2), Jules
 born: 1848
 died: 1910
 description: Some facts about Jules Tannery

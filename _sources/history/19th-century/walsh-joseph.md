@@ -3,7 +3,7 @@ nodeid: bookofproofs$Walsh_Joseph
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-usa
-title: Walsh, Joseph
+title: Walsh (2), Joseph
 born: 1895
 died: 1973
 description: Some facts about Joseph Walsh

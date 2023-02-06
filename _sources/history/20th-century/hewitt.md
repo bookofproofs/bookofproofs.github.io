@@ -3,7 +3,7 @@ nodeid: bookofproofs$Hewitt
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: african-american,nationality-usa,women
-title: Hewitt, Gloria
+title: Hewitt (2), Gloria
 born: 1935
 died: 2014
 description: Some facts about Gloria Hewitt

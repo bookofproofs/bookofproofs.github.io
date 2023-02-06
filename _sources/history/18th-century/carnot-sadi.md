@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Carnot_Sadi
 categories: history,18th-century
 parentid: bookofproofs$52
-title: Carnot, Sadi
+title: Carnot (2), Sadi
 born: 1796
 died: 1832
 description: Some facts about Sadi Carnot

@@ -3,7 +3,7 @@ nodeid: bookofproofs$Walker_Gilbert
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: nationality-england
-title: Walker, Gilbert
+title: Walker (2), Gilbert
 born: 1868
 died: 1958
 description: Some facts about Gilbert Walker
