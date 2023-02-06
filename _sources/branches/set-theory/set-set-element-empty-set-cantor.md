@@ -11,11 +11,11 @@ contributors: bookofproofs
 
 
 ---
-In the [historical development of set theory][bookofproofs$8012], it was mentioned that <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Russell/">Russell</a> demonstrated, the following classical definition is not sufficient since it leads to paradoxical constructs. If you are a beginning student of the set theory, the classical definition of <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cantor/">Georg Cantor</a> (1845 - 1918) is a good starting point, because it is highly intuitive.
+In the [historical development of set theory][bookofproofs$8012], it was mentioned that [Russell][bookofproofs$Russell] demonstrated, the following classical definition is not sufficient since it leads to paradoxical constructs. If you are a beginning student of the set theory, the classical definition of [Georg Cantor][bookofproofs$Cantor] (1845 - 1918) is a good starting point, because it is highly intuitive.
 
 ---
 
-(Original, naive set definition of <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cantor/">Georg Cantor</a> (1895))[^1]
+(Original, naive set definition of [Georg Cantor][bookofproofs$Cantor] (1895))[^1]
 
 A **set** is a combination of well-distinguishable, mathematical objects. Let `\(X\)` be a set. 
 * If an object `\(x\)` belongs to the set `\(X\)`, it is called ist **element** and written as `\(x\in X\)`. 

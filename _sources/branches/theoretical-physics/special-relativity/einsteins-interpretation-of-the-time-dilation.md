@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-Imagine, Alice and Bob have two metronomes ticking at a constant rate of one second. We assume that the metronomes are perfectly constructed to measure the duration of a second. They are both traveling in two separate vehicles moving relatively to each other at a constant speed `\(v\)`. The [time dilation][bookofproofs$6297] was formulated by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Einstein/">Albert Einstein</a> (1879 - 1955) in the formula 
+Imagine, Alice and Bob have two metronomes ticking at a constant rate of one second. We assume that the metronomes are perfectly constructed to measure the duration of a second. They are both traveling in two separate vehicles moving relatively to each other at a constant speed `\(v\)`. The [time dilation][bookofproofs$6297] was formulated by [Albert Einstein][bookofproofs$Einstein] (1879 - 1955) in the formula 
 `\[t_A=t_B\frac 1{\sqrt{1-\frac {v^2}{c^2}}},\quad\quad (0\le v < c)\]`
 where 
 * `\(t_A\)` denotes the duration of one tick of the metronome as measured by Alice in her vehicle, which is one second `\(1s\)`,

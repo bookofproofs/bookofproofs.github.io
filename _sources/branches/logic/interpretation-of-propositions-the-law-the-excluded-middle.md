@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-As [mentioned above][bookofproofs$7873], the German mathematician <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Leibniz/">Gottfried Wilhelm von Leibniz</a> (1646 - 1716) postulated that _Every judgment is either true or false._ This became known as the **Law of Excluded Middle**. The law of excluded middle only holds in propositional logic `$PL0$` because of its special semantics. We are now able to formally restate the Law of Excluded Middle and define the semantics of `$PL0$`.
+As [mentioned above][bookofproofs$7873], the German mathematician [Gottfried Wilhelm von Leibniz][bookofproofs$Leibniz] (1646 - 1716) postulated that _Every judgment is either true or false._ This became known as the **Law of Excluded Middle**. The law of excluded middle only holds in propositional logic `$PL0$` because of its special semantics. We are now able to formally restate the Law of Excluded Middle and define the semantics of `$PL0$`.
 
 ---
 

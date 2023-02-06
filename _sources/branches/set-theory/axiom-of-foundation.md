@@ -17,8 +17,8 @@ Another approach to decide, if `$X=\{X\}$` would be to assume this and check if 
 
 Therefore, we have to determine, if we want to allow such constructions in our set theory or not. 
 The additional axiom of foundation forbids such constructions. It was added to the original 
-set of axioms of <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Zermelo/">Zermelo</a> by 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fraenkel/">Fraenkel</a> and [von Neumann](https://mathshistory.st-andrews.ac.uk/Biographies/Von_Neumann/) and helps to avoid paradoxes mentioned in the [historical development of the set theory][bookofproofs$8012], which threw mathematics in a fundamental crisis at the beginning of the 20th century.
+set of axioms of [Zermelo][bookofproofs$Zermelo] by 
+[Fraenkel][bookofproofs$Fraenkel] and [von Neumann](https://mathshistory.st-andrews.ac.uk/Biographies/Von_Neumann/) and helps to avoid paradoxes mentioned in the [historical development of the set theory][bookofproofs$8012], which threw mathematics in a fundamental crisis at the beginning of the 20th century.
 
 ---
 

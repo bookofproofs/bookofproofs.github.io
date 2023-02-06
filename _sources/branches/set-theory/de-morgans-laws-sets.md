@@ -20,4 +20,4 @@ Let `$A,B$` be two [sets][bookofproofs$550]. The following laws hold for the [se
 `$$\begin{array}{rcl}(A\cap B)^C&=&(A^C)\cup (B^C),\\(A\cup B)^C&=&(A^C)\cap (B^C).\end{array}$$`
 
 
-This law is named after <a href="https://mathshistory.st-andrews.ac.uk/Biographies/De_Morgan/">Augustus De Morgan</a> (1806 - 1871).
+This law is named after [Augustus De Morgan][bookofproofs$De_Morgan] (1806 - 1871).

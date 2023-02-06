@@ -15,4 +15,4 @@ contributors: bookofproofs
 
 ---
 
-We start the study of set theory with the naive, historical set definition of <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cantor/">Georg Cantor</a> (1845 - 1918) as well as with some basic set operations.
+We start the study of set theory with the naive, historical set definition of [Georg Cantor][bookofproofs$Cantor] (1845 - 1918) as well as with some basic set operations.

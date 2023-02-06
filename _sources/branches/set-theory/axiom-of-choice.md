@@ -11,9 +11,9 @@ contributors: bookofproofs
 
 
 ---
-The last axiom of the Zermelo-Frankel axioms is an axiom developed by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Zermelo/">Zermelo</a>. The axiom ensures the possibility of selecting elements from sets and forming a completely new set out of these elements. This axiom is needed to ensure the existence of a [quotient set][bookofproofs$7991] of a given [equivalence class][bookofproofs$7990] - a very important concept in mathematics.
+The last axiom of the Zermelo-Frankel axioms is an axiom developed by [Zermelo][bookofproofs$Zermelo]. The axiom ensures the possibility of selecting elements from sets and forming a completely new set out of these elements. This axiom is needed to ensure the existence of a [quotient set][bookofproofs$7991] of a given [equivalence class][bookofproofs$7990] - a very important concept in mathematics.
 
-The assumption that we can always choose elements from sets is an idealization, and it had been controversially discussed whether the axiom is really independent of the other Zermelo-Fraenkel (ZF) axioms or can be somehow derived from them. In 1938, <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Godel/">Kurt Gödel</a> (1906 - 1978) proved that this assumption is [consistent][bookofproofs$7887] with the remaining ZF axioms. A quarter of a century later, 
+The assumption that we can always choose elements from sets is an idealization, and it had been controversially discussed whether the axiom is really independent of the other Zermelo-Fraenkel (ZF) axioms or can be somehow derived from them. In 1938, [Kurt Gödel][bookofproofs$Godel] (1906 - 1978) proved that this assumption is [consistent][bookofproofs$7887] with the remaining ZF axioms. A quarter of a century later, 
 [Paul Cohen](https://mathshistory.st-andrews.ac.uk/Biographies/Cohen/) (1934 - 2007) proved that also its negation is consistent with the remaining ZF axioms. In other words, the axiom of choice is undecidable among the other ZF axioms and it is natural to add it to the system ZF. This extended system of axioms is usually abbreviated by **ZFC**.
 
 ---

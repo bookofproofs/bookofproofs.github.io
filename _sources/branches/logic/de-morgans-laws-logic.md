@@ -20,4 +20,4 @@ Let `$x,y$` be two [propositions][bookofproofs$710]. In the [semantics of propos
 
 `$$\begin{array}{c}\neg(x\vee y)=(\neg x)\wedge (\neg y),\\\neg(x\wedge y)=(\neg x)\vee (\neg y).\end{array}$$`
 
-This law is named after <a href="https://mathshistory.st-andrews.ac.uk/Biographies/De_Morgan/">Augustus De Morgan</a> (1806 - 1871).
+This law is named after [Augustus De Morgan][bookofproofs$De_Morgan] (1806 - 1871).

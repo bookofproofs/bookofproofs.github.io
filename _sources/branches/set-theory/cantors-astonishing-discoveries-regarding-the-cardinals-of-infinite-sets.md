@@ -18,7 +18,7 @@ contributors: bookofproofs
 It is intuitively clear that it is possible to compare the cardinals of [finite sets][bookofproofs$985]. For instance, a [subset of a finite set is again finite][bookofproofs$986]. In particular a proper subset `$S$` of a set `$X$` with `$|X|=|n|$` for some [natural number][bookofproofs$718] `$n\in\mathbb N$` will have a smaller cardinality `$|S|<|n|.$` This relation holds for instance for the sets
 `$$X=\{1,2,3,4,5,6,7,8,9,10\},\quad S=\{2,4,6,8,10\}.$$`
 
-In the course of his research, <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cantor/">Georg Cantor</a> (1845 - 1918) realized that it is also possible to [compare the cardinal numbers][bookofproofs$984] of [infinite sets][bookofproofs$985]. He was very surprised when he discovered that a proper subset `$S$` of an infinite set can have _the same_ cardinality, in contrary to the finite case. All that is needed is to find a [bijective function][bookofproofs$771] between the two.
+In the course of his research, [Georg Cantor][bookofproofs$Cantor] (1845 - 1918) realized that it is also possible to [compare the cardinal numbers][bookofproofs$984] of [infinite sets][bookofproofs$985]. He was very surprised when he discovered that a proper subset `$S$` of an infinite set can have _the same_ cardinality, in contrary to the finite case. All that is needed is to find a [bijective function][bookofproofs$771] between the two.
 
 For instance, take the set `$S\subset\mathbb N$` of all [even][bookofproofs$2317] [natural numbers][bookofproofs$718]. It has the same cardinality as `$\mathbb N,$` i.e. `$|\mathbb N|=|S|,$` although `$S\subset \mathbb N.$` A bijective function is indicated by the following table:
 

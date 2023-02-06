@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-In [comparing cardinal numbers][bookofproofs$984] we have set `$|A| < |B|,$` if there is an injective, but no surjective function `$f:A\to B$`. This is motivated by a result by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cantor/">Georg Cantor</a> (1845 - 1918) who realized that there is no surjective function between any set and its power set:
+In [comparing cardinal numbers][bookofproofs$984] we have set `$|A| < |B|,$` if there is an injective, but no surjective function `$f:A\to B$`. This is motivated by a result by [Georg Cantor][bookofproofs$Cantor] (1845 - 1918) who realized that there is no surjective function between any set and its power set:
 
 ---
 

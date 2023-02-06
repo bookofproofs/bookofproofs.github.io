@@ -20,7 +20,7 @@ There are two different types of **diagrammatic moves**, i.e. moves of a [knot d
 * **Reidemeister moves** and
 * **planar isotopy moves**.
 
-Named after the German mathematician <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Reidemeister/">Kurt Reidemeister</a> (1893 - 1971), the following **Reidemeister moves** are moves of any [knot diagram][bookofproofs$6358], which interact with the crossings of the underlying curve, but still do not change the information of how the curve is knotted. This lack of changing the knotting information is denoted by the equivalence sign "`\(\sim\)`".
+Named after the German mathematician [Kurt Reidemeister][bookofproofs$Reidemeister] (1893 - 1971), the following **Reidemeister moves** are moves of any [knot diagram][bookofproofs$6358], which interact with the crossings of the underlying curve, but still do not change the information of how the curve is knotted. This lack of changing the knotting information is denoted by the equivalence sign "`\(\sim\)`".
 
 Reidemeister defined the following three moves for classical crossings: 
 

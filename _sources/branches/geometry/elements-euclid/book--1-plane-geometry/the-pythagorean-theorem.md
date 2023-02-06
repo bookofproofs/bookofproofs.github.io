@@ -29,4 +29,4 @@ contributors: bookofproofs,@calahan,@casey,@fitzpatrick
 
 In a right triangle (`\(\triangle{ABC}\)`), the square on the hypotenuse (`\(\overline{BC}\)`) is equal to the sum of the squares on the other two sides (`\(\overline{AB}\)`, `\(\overline{CA}\)`).
 
-This theorem is also known as the theorem of <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Pythagoras/">Pythagoras</a>.
+This theorem is also known as the theorem of [Pythagoras][bookofproofs$Pythagoras].

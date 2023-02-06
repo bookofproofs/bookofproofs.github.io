@@ -12,7 +12,7 @@ contributors: bookofproofs
 
 ---
 The [set-theoretical meaning of ordered tuples][bookofproofs$8042] shows that being an `$n$`-tuple is a [predicate of a logical calculus][bookofproofs$6226]. Therefore, we can use the [axiom of separation][bookofproofs$675] to define what today's mathematicians call the _Cartesian product._ 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Descartes/">René Descartes</a> (1596 - 1650) invented this concept in the 17th century, long before the set theory was born in its strict form but with our new set-theoretical tools we can provide a foundation for this concept:
+[René Descartes][bookofproofs$Descartes] (1596 - 1650) invented this concept in the 17th century, long before the set theory was born in its strict form but with our new set-theoretical tools we can provide a foundation for this concept:
 
 ---
 

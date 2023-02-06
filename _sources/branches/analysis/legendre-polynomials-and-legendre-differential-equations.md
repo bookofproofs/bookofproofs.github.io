@@ -21,4 +21,4 @@ It is the solution of the following ordinary **Legendre differential equations**
 
 `$$(1-x^2)P_n^{\prime\prime}(x)-2xP_n^\prime(x)+n(n+1)P_{n}(x)=0.$$`
 
-The equations are named after <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Legendre/">Adrien-Marie Legendre</a> (1752 - 1833).
+The equations are named after [Adrien-Marie Legendre][bookofproofs$Legendre] (1752 - 1833).

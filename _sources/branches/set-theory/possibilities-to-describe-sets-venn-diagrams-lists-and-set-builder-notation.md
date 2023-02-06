@@ -16,7 +16,7 @@ contributors: bookofproofs
 
 There are at least three ways we can describe sets:
 
-1. Using a **Venn diagram**, (named after <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Venn/">John Venn</a> (1834-1923)), we can represent a set with as a circle and its elements as dots, for example:
+1. Using a **Venn diagram**, (named after [John Venn][bookofproofs$Venn] (1834-1923)), we can represent a set with as a circle and its elements as dots, for example:
 
 
 ![venn0](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/examples/venn0.png?raw=true)

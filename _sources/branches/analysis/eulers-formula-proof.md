@@ -15,4 +15,4 @@ contributors: bookofproofs
 
 ---
 
-The famous formula of <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Euler/">Euler</a> follows immediately from the definitions of the [unit circle in the complex plane][bookofproofs$1749] and the real functions [cosine][bookofproofs$1745] `\(\cos:\mathbb R\mapsto \mathbb R\)` and [sine][bookofproofs$1746] `\(\sin:\mathbb R\mapsto \mathbb R\)`.
+The famous formula of [Euler][bookofproofs$Euler] follows immediately from the definitions of the [unit circle in the complex plane][bookofproofs$1749] and the real functions [cosine][bookofproofs$1745] `\(\cos:\mathbb R\mapsto \mathbb R\)` and [sine][bookofproofs$1746] `\(\sin:\mathbb R\mapsto \mathbb R\)`.

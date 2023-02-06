@@ -22,4 +22,4 @@ The sequence of Fermat numbers begins with `\(3\)`, `\(5\)`, `\(17\)`, `\(257\)`
 
 ### Historical Notes
 
-1640, <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fermat/">Fermat</a> wrote a letter to <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Frenicle_de_Bessy/">Frénicle de Bessy</a> and stated in it a conjecture that `\(F_n\)` is prime for each `\(n\)`, which is true for `\(n\le 4\)`. 1732, Euler showed that `\(F_5=4294967297\)` is not prime since `\(641\mid F_5\)`.
+1640, [Fermat][bookofproofs$Fermat] wrote a letter to [Frénicle de Bessy][bookofproofs$Frenicle_de_Bessy] and stated in it a conjecture that `\(F_n\)` is prime for each `\(n\)`, which is true for `\(n\le 4\)`. 1732, Euler showed that `\(F_5=4294967297\)` is not prime since `\(641\mid F_5\)`.

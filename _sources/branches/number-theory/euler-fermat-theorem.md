@@ -11,8 +11,8 @@ contributors: bookofproofs
 
 
 ---
-The following theorem was first proven by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fermat/">Pierre de Fermat</a> (1601 - 1665). He proved it for [prime numbers][bookofproofs$473] `$p$` `$$a^{p-1}(p)\equiv 1(p).$$` It is called *Fermat's little theorem* to distinguish it from [Fermat's last theorem][bookofproofs$8192].
-Later, this result was generalized by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Euler/">Euler</a>, therefore, it is now called the Euler-Fermat theorem.
+The following theorem was first proven by [Pierre de Fermat][bookofproofs$Fermat] (1601 - 1665). He proved it for [prime numbers][bookofproofs$473] `$p$` `$$a^{p-1}(p)\equiv 1(p).$$` It is called *Fermat's little theorem* to distinguish it from [Fermat's last theorem][bookofproofs$8192].
+Later, this result was generalized by [Euler][bookofproofs$Euler], therefore, it is now called the Euler-Fermat theorem.
 
 ---
 

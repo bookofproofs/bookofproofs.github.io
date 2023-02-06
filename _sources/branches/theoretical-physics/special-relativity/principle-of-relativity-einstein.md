@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-Motivated by the result of the [Michelson-Morley experiment][bookofproofs$6270], <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Einstein/">Albert Einstein</a> formulated the following **principle of relativity**:
+Motivated by the result of the [Michelson-Morley experiment][bookofproofs$6270], [Albert Einstein][bookofproofs$Einstein] formulated the following **principle of relativity**:
 
 > The laws by which the states of physical systems undergo change are not affected, whether these changes of state be referred to the one or the other of two systems of co-ordinates in uniform translatory motion.
 

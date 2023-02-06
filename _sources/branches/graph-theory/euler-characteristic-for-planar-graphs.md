@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-This theorem was discovered by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Euler/">Leonhard Euler</a> (1707 - 1783).
+This theorem was discovered by [Leonhard Euler][bookofproofs$Euler] (1707 - 1783).
 
 ---
 

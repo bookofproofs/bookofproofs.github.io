@@ -29,4 +29,4 @@ E&45&\times&\frac 13&=&15\\
 
 The puzzle is to discover exactly how many different answers there are, it is understood that every man had something and that there is to be no fractional money—only doubloons in every case.
 
-This problem, worded somewhat differently, was propounded by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Tartaglia/">Tartaglia</a> (died 1557), and he flattered himself that he had found one solution; but a French mathematician of note (M.A. Labosne), in a recent work, says that his readers will be astonished when he assures them that there are `$6,639$` different correct answers to the question. Is this so? How many answers are there?
+This problem, worded somewhat differently, was propounded by [Tartaglia][bookofproofs$Tartaglia] (died 1557), and he flattered himself that he had found one solution; but a French mathematician of note (M.A. Labosne), in a recent work, says that his readers will be astonished when he assures them that there are `$6,639$` different correct answers to the question. Is this so? How many answers are there?

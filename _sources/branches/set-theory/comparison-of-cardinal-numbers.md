@@ -10,7 +10,7 @@ keywords: compare cardinals,comparison of cardinals,compare cardinal numbers,com
 contributors: bookofproofs
 
 ---
-The power of <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cantor/">Cantor</a>'s idea of a [cardinal number][bookofproofs$980] lies in the fact that it is good for classifying and comparing not only finite but also infinite sets with respect to the number of their elements.
+The power of [Cantor][bookofproofs$Cantor]'s idea of a [cardinal number][bookofproofs$980] lies in the fact that it is good for classifying and comparing not only finite but also infinite sets with respect to the number of their elements.
 
 ---
 

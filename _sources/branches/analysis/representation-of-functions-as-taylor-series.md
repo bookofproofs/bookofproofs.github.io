@@ -16,4 +16,4 @@ contributors: bookofproofs
 ---
 
 Many functions, for example, the [exponential function][bookofproofs$281], [sine and cosine][bookofproofs$6731] can be expressed as [infinite series][bookofproofs$1109]. This chapter explores the expressibility of functions as infinite series in a systematic way, 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Taylor/">Brook Taylor</a> (1685 - 1731).
+[Brook Taylor][bookofproofs$Taylor] (1685 - 1731).

@@ -15,4 +15,4 @@ contributors:
 
 ---
 
-A [Banach space][bookofproofs$6264] `\((V,||~||)\)`, in which the norm `\([||~||"\)` is given by the [square root][bookofproofs$1161] `\[||~||:=\sqrt{\langle\cdot,\cdot\rangle},\]` where `\(\langle\cdot,\cdot\rangle\)` is a [positive definite dot product][bookofproofs$1049] is called a **Hilbert space**, named after the German mathematician <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Hilbert/">David Hilbert</a> (1862 - 1943).
+A [Banach space][bookofproofs$6264] `\((V,||~||)\)`, in which the norm `\([||~||"\)` is given by the [square root][bookofproofs$1161] `\[||~||:=\sqrt{\langle\cdot,\cdot\rangle},\]` where `\(\langle\cdot,\cdot\rangle\)` is a [positive definite dot product][bookofproofs$1049] is called a **Hilbert space**, named after the German mathematician [David Hilbert][bookofproofs$Hilbert] (1862 - 1943).

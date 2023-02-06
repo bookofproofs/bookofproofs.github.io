@@ -21,4 +21,4 @@ The **modulus of continuity** of `$f$`, is the [function][bookofproofs$592] `$\o
 
 `$$\omega_f(\delta):=\sup\{d_y(f(a),f(b)):~a,b\in X,~d_x(a,b)\le\delta\}.$$`
 
-Roughly speaking, the modulus of continuity can be interpreted as the greatest positive number `$\epsilon$` on whole `$X$`, for which for a given `$\delta$` the [$\epsilon-\delta$-property of continuity][bookofproofs$1254] still holds for the function `$f$`. The concept was invented by <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lebesgue/">Henri Lebesgue</a> in 1910.
+Roughly speaking, the modulus of continuity can be interpreted as the greatest positive number `$\epsilon$` on whole `$X$`, for which for a given `$\delta$` the [$\epsilon-\delta$-property of continuity][bookofproofs$1254] still holds for the function `$f$`. The concept was invented by [Henri Lebesgue][bookofproofs$Lebesgue] in 1910.

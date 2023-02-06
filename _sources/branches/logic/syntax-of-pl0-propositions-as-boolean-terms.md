@@ -15,7 +15,7 @@ contributors: bookofproofs
 
 ---
 
-The variables and functions defined in [signature of propositional logic `$PL0$`][bookofproofs$7893] are called **Boolean**, named after the English mathematician <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Boole/">George Bool</a>. 
+The variables and functions defined in [signature of propositional logic `$PL0$`][bookofproofs$7893] are called **Boolean**, named after the English mathematician [George Bool][bookofproofs$Boole]. 
 
 First, we agree that the [formal language][bookofproofs$94] `\(L\subseteq \Sigma^* \)` of `$PL0$` is defined over an [alphabet][bookofproofs$708] `\(\Sigma\)` containing the following letters:
 

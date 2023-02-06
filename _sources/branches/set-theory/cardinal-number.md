@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-The next key idea of <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cantor/">Georg Cantor</a> (1845 - 1918) was to use a given set `$A$` as a representative for all sets, which are equipotent to it. In order to be able to do so, Cantor realized that any given set can be selected as a representative of a whole class of sets which are equipotent to it. This abstraction process allowed Cantor to ignore _which_ elements a set has and to concentrate on _how many_ elements it has.
+The next key idea of [Georg Cantor][bookofproofs$Cantor] (1845 - 1918) was to use a given set `$A$` as a representative for all sets, which are equipotent to it. In order to be able to do so, Cantor realized that any given set can be selected as a representative of a whole class of sets which are equipotent to it. This abstraction process allowed Cantor to ignore _which_ elements a set has and to concentrate on _how many_ elements it has.
 
 ---
 

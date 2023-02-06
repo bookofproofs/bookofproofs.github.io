@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-This lemma and the following proposition are due to <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Abel/">Niels Henrik Abel</a> (1802 - 1829).
+This lemma and the following proposition are due to [Niels Henrik Abel][bookofproofs$Abel] (1802 - 1829).
 
 ---
 

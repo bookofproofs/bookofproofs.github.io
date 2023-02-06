@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cantor/">Cantor</a>'s proof is as brilliant as it is simple.
+[Cantor][bookofproofs$Cantor]'s proof is as brilliant as it is simple.
 
 ---
 

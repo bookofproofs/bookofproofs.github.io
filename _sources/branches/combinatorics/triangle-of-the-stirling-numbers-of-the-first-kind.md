@@ -16,7 +16,7 @@ contributors: bookofproofs
 ---
 
 The [Stirling numbers of the first kind][bookofproofs$8425] `$\left[\begin{array}{c}n\\r\end{array}\right],$` where `$n$` and `$r$` are [natural numbers][bookofproofs$718], are named after 
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Stirling/">James Stirling</a> (1692 - 1770). According to the [corresponding recursive formula][bookofproofs$8426], they form a triangular scheme, in analogy to the [Pascal's triangle][bookofproofs$1409] for binomial coefficients. For the first `$10$` values of `$n$` this scheme is
+[James Stirling][bookofproofs$Stirling] (1692 - 1770). According to the [corresponding recursive formula][bookofproofs$8426], they form a triangular scheme, in analogy to the [Pascal's triangle][bookofproofs$1409] for binomial coefficients. For the first `$10$` values of `$n$` this scheme is
 
 `\[\begin{array}{r|rrrrrrrrrr}
 n&\left[\begin{array}{c}n\\0\end{array}\right]&\left[\begin{array}{c}n\\1\end{array}\right]&\left[\begin{array}{c}n\\2\end{array}\right]&\left[\begin{array}{c}n\\3\end{array}\right]&\left[\begin{array}{c}n\\4\end{array}\right]&\left[\begin{array}{c}n\\5\end{array}\right]&\left[\begin{array}{c}n\\6\end{array}\right]&\left[\begin{array}{c}n\\7\end{array}\right]&\left[\begin{array}{c}n\\8\end{array}\right]&\left[\begin{array}{c}n\\9\end{array}\right]&\left[\begin{array}{c}n\\10\end{array}\right]\\

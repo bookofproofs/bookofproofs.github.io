@@ -11,7 +11,7 @@ contributors: bookofproofs
 
 
 ---
-When <a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cantor/">Georg Cantor</a> studied sets at the end of the 19th century, he searched for a way to compare the number of elements between sets, which would fit for both, finite and infinite sets. He was the first to realize that the existence of a bijective map between the elements would do the trick. This motivates the following definition:
+When [Georg Cantor][bookofproofs$Cantor] studied sets at the end of the 19th century, he searched for a way to compare the number of elements between sets, which would fit for both, finite and infinite sets. He was the first to realize that the existence of a bijective map between the elements would do the trick. This motivates the following definition:
 
 ---
 
