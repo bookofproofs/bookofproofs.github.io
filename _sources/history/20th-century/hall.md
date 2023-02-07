@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hall
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-england,physics,puzzles-and-problems
+tags: algebra,group-theory,origin-england,physics,puzzles-and-problems
 title: Hall, Philip
 born: 1904
 died: 1982

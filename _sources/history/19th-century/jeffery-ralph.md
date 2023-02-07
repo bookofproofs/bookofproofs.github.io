@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jeffery_Ralph
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-canada
+tags: origin-canada
 title: Jeffery, Ralph
 born: 1889
 died: 1975

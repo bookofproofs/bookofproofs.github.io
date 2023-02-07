@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Arnold
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine,shaw-prize,wolf-prize
+tags: origin-ukraine,shaw-prize,wolf-prize
 title: Arnold, Vladimir Igorevich
 born: 1937
 died: 2010

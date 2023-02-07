@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ehrenfest-Afanassjewa
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine,women
+tags: origin-ukraine,women
 title: Afanassjewa, Tatiana Alexeyevna
 born: 1876
 died: 1964

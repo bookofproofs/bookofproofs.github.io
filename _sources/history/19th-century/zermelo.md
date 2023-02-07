@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zermelo
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany,puzzles-and-problems,set-theory
+tags: origin-germany,puzzles-and-problems,set-theory
 title: Zermelo, Ernst Friedrich Ferdinand
 born: 1871
 died: 1953

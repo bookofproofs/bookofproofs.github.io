@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sverdrup
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-norway
+tags: origin-norway
 title: Sverdrup, Erling
 born: 1917
 died: 1994

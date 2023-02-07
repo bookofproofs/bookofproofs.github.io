@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$FitzGerald
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland,physics
+tags: origin-ireland,physics
 title: Fitzgerald, George Francis
 born: 1851
 died: 1901

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Slebarski
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-poland
+tags: astronomy,origin-poland
 title: Ślebarski, Tadeusz Boleslaw
 born: 1914
 died: 2003

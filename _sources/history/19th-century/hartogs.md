@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hartogs
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-belgium
+tags: origin-belgium
 title: Hartogs, Friedrich Moritz
 born: 1874
 died: 1943

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Beltrami
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: geometry,nationality-italy
+tags: geometry,origin-italy
 title: Beltrami, Eugenio
 born: 1835
 died: 1900

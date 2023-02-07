@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pratt
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Pratt, John Henry
 born: 1809
 died: 1871

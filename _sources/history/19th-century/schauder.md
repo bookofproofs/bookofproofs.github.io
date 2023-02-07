@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schauder
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine,topology
+tags: origin-ukraine,topology
 title: Schauder, Juliusz Pawel
 born: 1899
 died: 1943

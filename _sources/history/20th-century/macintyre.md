@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Macintyre
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland,women
+tags: origin-scotland,women
 title: Macintyre (2), Archibald James
 born: 1910
 died: 1960

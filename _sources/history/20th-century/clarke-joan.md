@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Clarke_Joan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,women
+tags: origin-england,women
 title: Clarke (2), Joan
 born: 1917
 died: 1996

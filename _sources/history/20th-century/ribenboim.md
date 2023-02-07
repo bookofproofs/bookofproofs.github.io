@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ribenboim
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-brazil
+tags: origin-brazil
 title: Ribenboim, Paulo
 born: 1928
 died: 2013

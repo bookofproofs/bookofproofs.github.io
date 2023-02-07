@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Faddeeva
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia,women
+tags: origin-russia,women
 title: Faddeeva, Vera Nikolaevna
 born: 1906
 died: 1983

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Smoluchowski
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-austria
+tags: origin-austria
 title: Smoluchowski, Marian
 born: 1872
 died: 1917

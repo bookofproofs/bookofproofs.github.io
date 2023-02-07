@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Browder_Felix
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Browder, Felix
 born: 1927
 died: 2016

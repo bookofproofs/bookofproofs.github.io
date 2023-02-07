@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Helmholtz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: knot-theory,nationality-germany,physics
+tags: knot-theory,origin-germany,physics
 title: Von Helmholtz, Hermann Ludwig Ferdinand
 born: 1821
 died: 1894

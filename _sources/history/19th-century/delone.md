@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Delone
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Delone, Boris Nikolaevich
 born: 1890
 died: 1980

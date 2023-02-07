@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ljunggren
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-norway
+tags: origin-norway
 title: Ljunggren, Wilhelm
 born: 1905
 died: 1973

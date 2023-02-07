@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Turan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-hungary
+tags: group-theory,origin-hungary
 title: Turán, Paul
 born: 1910
 died: 1976

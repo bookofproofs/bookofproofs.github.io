@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bourgain
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-belgium,shaw-prize
+tags: fields-medal,origin-belgium,shaw-prize
 title: Bourgain, Jean
 born: 1954
 died: 2018

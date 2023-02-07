@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hunt
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Hunt, Gilbert Agnew
 born: 1916
 died: 2008

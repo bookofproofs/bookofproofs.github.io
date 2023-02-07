@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Donaldson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-england,shaw-prize,topology
+tags: fields-medal,origin-england,shaw-prize,topology
 title: Donaldson, Simon Kirwan
 born: 1957
 died: 2016

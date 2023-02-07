@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kalman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Kalman, Rudolf Emil
 born: 1930
 died: 2016

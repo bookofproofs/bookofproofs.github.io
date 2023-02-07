@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kotelnikov
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Kotelnikov, Aleksandr Petrovich
 born: 1865
 died: 1944

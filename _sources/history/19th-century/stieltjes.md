@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stieltjes
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-netherlands
+tags: astronomy,origin-netherlands
 title: Stieltjes, Thomas Jan
 born: 1856
 died: 1894

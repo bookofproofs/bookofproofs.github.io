@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hirsch_Arthur
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Hirsch, Arthur
 born: 1866
 died: 1948

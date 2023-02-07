@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kirby
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,topology
+tags: origin-usa,topology
 title: Kirby, Robion Cromwell
 born: 1938
 died: 2017

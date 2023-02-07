@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kubilius
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-lithuania
+tags: origin-lithuania
 title: Kubilius, Jonas
 born: 1921
 died: 2011

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Koksma
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Koksma, Jurjen Ferdinand
 born: 1904
 died: 1964

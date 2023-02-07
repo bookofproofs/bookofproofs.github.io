@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bradwardine
 categories: history,13th-century
 parentid: bookofproofs$606
-tags: nationality-england
+tags: origin-england
 title: Bradwardine, Thomas
 born: 1295
 died: 1349

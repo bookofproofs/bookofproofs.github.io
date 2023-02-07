@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Eilenberg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: bourbaki,nationality-poland,topology,wolf-prize
+tags: bourbaki,origin-poland,topology,wolf-prize
 title: Eilenberg, Samuel
 born: 1913
 died: 1998

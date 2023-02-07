@@ -2,10 +2,10 @@ layout: person
 nodeid: bookofproofs$Cleomedes
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-greek,astronomy,nationality-turkey
+tags: ancient-greek,astronomy,origin-turkey
 title: Cleomedes
 born: 1
-died: 1
+died: 50
 description: Some facts about  Cleomedes
 keywords: cleomedes,ancient greek,astronomy,nationality turkey
 references: bookofproofs$6909

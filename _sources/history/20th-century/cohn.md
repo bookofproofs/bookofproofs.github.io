@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cohn
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Cohn-Vossen (2), Stefan Emmanuilovich
 born: 1924
 died: 2006

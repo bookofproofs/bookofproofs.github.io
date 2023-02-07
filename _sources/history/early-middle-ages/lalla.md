@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lalla
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-indian,astronomy,nationality-india
+tags: ancient-indian,astronomy,origin-india
 title: Lalla
 born: 720
 died: 790

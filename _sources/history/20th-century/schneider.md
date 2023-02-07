@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schneider
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Schneider, Theodor
 born: 1911
 died: 1988

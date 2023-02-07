@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Petrovsky
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Petrovsky, Ivan Georgievich
 born: 1901
 died: 1973

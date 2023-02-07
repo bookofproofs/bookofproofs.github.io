@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bowditch
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: Bowditch, Nathaniel
 born: 1773
 died: 1838

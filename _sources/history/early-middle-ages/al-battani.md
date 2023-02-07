@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Battani
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,astronomy,nationality-turkey
+tags: ancient-arab,astronomy,origin-turkey
 title: Al-Battani, Abu Abdallah Mohammad ibn Jabir
 born: 850
 died: 929

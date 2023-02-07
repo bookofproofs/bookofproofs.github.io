@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Somerville
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-scotland,women
+tags: astronomy,origin-scotland,women
 title: Somerville, Mary Fairfax Greig
 born: 1780
 died: 1872

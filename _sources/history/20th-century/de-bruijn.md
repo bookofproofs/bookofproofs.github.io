@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$De_Bruijn
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands
+tags: origin-netherlands
 title: De Bruijn, Nicolaas Govert
 born: 1918
 died: 2012

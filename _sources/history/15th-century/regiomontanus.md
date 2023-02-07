@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Regiomontanus
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: analysis,ancient-greek,astronomy,geometry,nationality-germany,number-theory,puzzles-and-problems,special-numbers-and-numerals
+tags: analysis,ancient-greek,astronomy,geometry,origin-germany,number-theory,puzzles-and-problems,special-numbers-and-numerals
 title: Regiomontanus, Johann Müller
 born: 1436
 died: 1476

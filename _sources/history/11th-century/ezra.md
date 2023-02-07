@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ezra
 categories: history,11th-century
 parentid: bookofproofs$612
-tags: ancient-babylonian,astronomy,nationality-spain,special-numbers-and-numerals
+tags: ancient-babylonian,astronomy,origin-spain,special-numbers-and-numerals
 title: Abraham Ibn Ezra, ben Meir
 born: 1092
 died: 1167

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bowen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Bowen, Robert Edward
 born: 1947
 died: 1978

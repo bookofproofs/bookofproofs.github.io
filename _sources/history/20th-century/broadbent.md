@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Broadbent
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Broadbent, Thomas Arthur Alan
 born: 1903
 died: 1973

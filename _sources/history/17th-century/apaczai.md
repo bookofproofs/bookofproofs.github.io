@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Apaczai
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-romania
+tags: origin-romania
 title: Apáczai, János
 born: 1625
 died: 1659

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Terradas
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-spain
+tags: origin-spain
 title: Terradas, Esteban
 born: 1883
 died: 1950

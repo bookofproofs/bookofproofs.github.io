@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cavalieri
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: analysis,ancient-chinese,astronomy,chinese,geometry,nationality-italy,physics,special-numbers-and-numerals
+tags: analysis,ancient-chinese,astronomy,chinese,geometry,origin-italy,physics,special-numbers-and-numerals
 title: Cavalieri, Bonaventura Francesco
 born: 1598
 died: 1647

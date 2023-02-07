@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Porta
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: ancient-greek,geometry,nationality-italy,puzzles-and-problems
+tags: ancient-greek,geometry,origin-italy,puzzles-and-problems
 title: Della Porta, Giambattista
 born: 1535
 died: 1615

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Korteweg
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-netherlands
+tags: astronomy,origin-netherlands
 title: Korteweg, Diederik Johannes
 born: 1848
 died: 1941

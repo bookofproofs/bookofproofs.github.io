@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Abraham
 categories: history,11th-century
 parentid: bookofproofs$612
-tags: algebra,astronomy,nationality-spain
+tags: algebra,astronomy,origin-spain
 title: Ha-Nasi, Abraham bar Hiyya
 born: 1070
 died: 1136

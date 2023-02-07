@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Calderwood
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland,women
+tags: origin-scotland,women
 title: Calderwood, Nora Isobel
 born: 1896
 died: 1985

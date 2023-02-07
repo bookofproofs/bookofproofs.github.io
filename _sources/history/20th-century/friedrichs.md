@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Friedrichs
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Friedrichs, Kurt Otto
 born: 1901
 died: 1982

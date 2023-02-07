@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Von_Dyck
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,nationality-germany
+tags: algebra,group-theory,origin-germany
 title: Von Dyck, Walther Franz Anton
 born: 1856
 died: 1934

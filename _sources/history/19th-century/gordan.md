@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gordan
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-poland
+tags: algebra,origin-poland
 title: Gordan, Paul Albert
 born: 1837
 died: 1912

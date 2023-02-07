@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zelmanov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,fields-medal,group-theory,nationality-russia,puzzles-and-problems
+tags: algebra,fields-medal,group-theory,origin-russia,puzzles-and-problems
 title: Zelmanov, Efim Isaakovich
 born: 1954
 died: 2004

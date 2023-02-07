@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Loyd
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa,puzzles-and-problems
+tags: origin-usa,puzzles-and-problems
 title: Loyd, Samuel
 born: 1841
 died: 1911

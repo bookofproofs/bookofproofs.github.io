@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Theilheimer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Theilheimer, Feodor
 born: 1909
 died: 2000

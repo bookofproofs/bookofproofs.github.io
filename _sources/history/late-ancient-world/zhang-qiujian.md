@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zhang_Qiujian
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-chinese,chinese,nationality-china,puzzles-and-problems
+tags: ancient-chinese,chinese,origin-china,puzzles-and-problems
 title: Qiujian, Zhang
 born: 430
 died: 490

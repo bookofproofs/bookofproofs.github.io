@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hypsicles
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: african,ancient-arab,ancient-greek,nationality-egypt,special-numbers-and-numerals
+tags: african,ancient-arab,ancient-greek,origin-egypt,special-numbers-and-numerals
 title: Hypsicles Of Alexandria
 born: -190
 died: -120

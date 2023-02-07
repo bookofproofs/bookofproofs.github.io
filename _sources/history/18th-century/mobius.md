@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mobius
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: algebra,astronomy,group-theory,nationality-germany,topology
+tags: algebra,astronomy,group-theory,origin-germany,topology
 title: Möbius, August
 born: 1790
 died: 1868

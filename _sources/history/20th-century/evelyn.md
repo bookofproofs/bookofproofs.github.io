@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Evelyn
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Evelyn, Cecil John Alvin
 born: 1904
 died: 1976

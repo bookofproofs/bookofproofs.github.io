@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Haxhibeqiri
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-kosovo
+tags: origin-kosovo
 title: Haxhibeqiri, Qamil
 born: 1949
 died: 2011

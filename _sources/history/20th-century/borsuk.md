@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Borsuk
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland,topology
+tags: origin-poland,topology
 title: Borsuk, Karol
 born: 1905
 died: 1982

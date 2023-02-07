@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Del_Re
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Del Re, Alfonso
 born: 1859
 died: 1921

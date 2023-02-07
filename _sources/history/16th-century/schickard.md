@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schickard
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Schickard, Wilhelm
 born: 1592
 died: 1635

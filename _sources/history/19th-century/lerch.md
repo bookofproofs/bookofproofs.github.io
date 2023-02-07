@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lerch
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Lerch, Mathias
 born: 1860
 died: 1922

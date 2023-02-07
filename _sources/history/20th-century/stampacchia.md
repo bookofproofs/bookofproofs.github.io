@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stampacchia
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Stampacchia, Guido
 born: 1922
 died: 1978

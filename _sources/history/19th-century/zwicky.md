@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zwicky
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-bulgaria
+tags: astronomy,origin-bulgaria
 title: Zwicky, Fritz
 born: 1898
 died: 1974

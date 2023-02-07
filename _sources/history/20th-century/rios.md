@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rios
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-spain
+tags: origin-spain
 title: García, Sixto Ríos
 born: 1913
 died: 2008

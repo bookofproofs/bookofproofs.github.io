@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Courant
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Courant, Richard
 born: 1888
 died: 1972

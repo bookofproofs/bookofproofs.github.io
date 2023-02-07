@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Castelnuovo
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Castelnuovo, Guido
 born: 1865
 died: 1952

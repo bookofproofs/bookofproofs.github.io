@@ -326,6 +326,7 @@ https://bookofproofs.github.io/history/18th-century/malus.html
 https://bookofproofs.github.io/history/18th-century/monge.html
 https://bookofproofs.github.io/history/18th-century/morin.html
 https://bookofproofs.github.io/history/18th-century/mutis.html
+https://bookofproofs.github.io/history/18th-century/paman.html
 https://bookofproofs.github.io/history/18th-century/paoli.html
 https://bookofproofs.github.io/history/18th-century/petit.html
 https://bookofproofs.github.io/history/18th-century/pfaff.html
@@ -1482,6 +1483,7 @@ https://bookofproofs.github.io/history/19th-century/smirnov.html
 https://bookofproofs.github.io/history/19th-century/sokolov.html
 https://bookofproofs.github.io/history/19th-century/sprague.html
 https://bookofproofs.github.io/history/19th-century/stackel.html
+https://bookofproofs.github.io/history/19th-century/steklov.html
 https://bookofproofs.github.io/history/19th-century/stoilow.html
 https://bookofproofs.github.io/history/19th-century/stormer.html
 https://bookofproofs.github.io/history/19th-century/suetuna.html
@@ -1689,7 +1691,6 @@ https://bookofproofs.github.io/history/20th-century/speiser.html
 https://bookofproofs.github.io/history/20th-century/spencer.html
 https://bookofproofs.github.io/history/20th-century/sperner.html
 https://bookofproofs.github.io/history/20th-century/spitzer.html
-https://bookofproofs.github.io/history/20th-century/steklov.html
 https://bookofproofs.github.io/history/20th-century/stiefel.html
 https://bookofproofs.github.io/history/20th-century/stromme.html
 https://bookofproofs.github.io/history/20th-century/suvorov.html
@@ -2427,6 +2428,7 @@ https://bookofproofs.github.io/history/20th-century/womersley.html
 https://bookofproofs.github.io/history/20th-century/zhautykov.html
 https://bookofproofs.github.io/history/ancient-world/antiphon.html
 https://bookofproofs.github.io/history/ancient-world/archytas.html
+https://bookofproofs.github.io/history/ancient-world/hippasus.html
 https://bookofproofs.github.io/branches/algebra/group-of-units.html
 https://bookofproofs.github.io/branches/algebra/linear-algebra.html
 https://bookofproofs.github.io/branches/algebra/quotient-space.html
@@ -2705,6 +2707,7 @@ https://bookofproofs.github.io/history/18th-century/carnot-sadi.html
 https://bookofproofs.github.io/history/18th-century/champollion.html
 https://bookofproofs.github.io/history/18th-century/cruickshank.html
 https://bookofproofs.github.io/history/18th-century/hallerstein.html
+https://bookofproofs.github.io/history/18th-century/lobachevsky.html
 https://bookofproofs.github.io/history/18th-century/rittenhouse.html
 https://bookofproofs.github.io/history/18th-century/vandermonde.html
 https://bookofproofs.github.io/history/18th-century/wilson-john.html
@@ -2795,7 +2798,6 @@ https://bookofproofs.github.io/history/20th-century/kloosterman.html
 https://bookofproofs.github.io/history/20th-century/knopfmacher.html
 https://bookofproofs.github.io/history/20th-century/lehmer-emma.html
 https://bookofproofs.github.io/history/20th-century/levin-frank.html
-https://bookofproofs.github.io/history/20th-century/lobachevsky.html
 https://bookofproofs.github.io/history/20th-century/mazur-barry.html
 https://bookofproofs.github.io/history/20th-century/mercer-alan.html
 https://bookofproofs.github.io/history/20th-century/mytropolsky.html
@@ -2839,7 +2841,6 @@ https://bookofproofs.github.io/history/early-middle-ages/hunayn.html
 https://bookofproofs.github.io/history/early-middle-ages/mansur.html
 https://bookofproofs.github.io/history/early-middle-ages/thabit.html
 https://bookofproofs.github.io/history/late-ancient-world/heron.html
-https://bookofproofs.github.io/history/late-ancient-world/paman.html
 https://bookofproofs.github.io/history/late-ancient-world/theon.html
 https://bookofproofs.github.io/branches/algebra/cancellation-law.html
 https://bookofproofs.github.io/branches/algebra/integral-closure.html

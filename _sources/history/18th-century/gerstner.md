@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gerstner
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Gerstner, František Josef
 born: 1756
 died: 1832

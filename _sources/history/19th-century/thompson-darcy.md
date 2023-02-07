@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Thompson_DArcy
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: applied-maths,nationality-scotland
+tags: applied-maths,origin-scotland
 title: Thompson, D'Arcy
 born: 1860
 died: 1948

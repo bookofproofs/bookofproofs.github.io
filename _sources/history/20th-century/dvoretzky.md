@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dvoretzky
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Dvoretzky, Aryeh
 born: 1916
 died: 2008

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Reinhold
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Reinhold, Erasmus
 born: 1511
 died: 1553

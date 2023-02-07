@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Drysdale
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Drysdale, David
 born: 1877
 died: 1946

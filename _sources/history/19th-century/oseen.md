@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Oseen
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-sweden
+tags: origin-sweden
 title: Oseen, C. Wilhelm
 born: 1879
 died: 1944

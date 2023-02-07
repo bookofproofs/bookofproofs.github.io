@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tricomi
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Tricomi, Francesco Giacomo
 born: 1897
 died: 1978

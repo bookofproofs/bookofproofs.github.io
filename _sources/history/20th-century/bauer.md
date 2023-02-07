@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bauer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Bauer (2), Heinz
 born: 1928
 died: 2002

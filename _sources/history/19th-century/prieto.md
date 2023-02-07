@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Prieto
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-mexico
+tags: origin-mexico
 title: Prieto, Sotero
 born: 1884
 died: 1935

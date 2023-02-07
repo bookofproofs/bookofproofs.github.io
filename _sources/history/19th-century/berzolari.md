@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Berzolari
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Berzolari, Luigi
 born: 1863
 died: 1949

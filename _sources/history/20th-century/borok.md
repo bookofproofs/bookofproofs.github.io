@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Borok
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine,women
+tags: origin-ukraine,women
 title: Borok, Valentina Mikhailovna
 born: 1931
 died: 2004

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lorentz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-netherlands,nobel-prize,physics
+tags: astronomy,origin-netherlands,nobel-prize,physics
 title: Lorentz, Hendrik Antoon
 born: 1853
 died: 1928

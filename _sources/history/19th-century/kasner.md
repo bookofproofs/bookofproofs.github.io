@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kasner
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Kasner, Edward
 born: 1878
 died: 1955

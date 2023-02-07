@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pompilj
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Pompilj, Giuseppe
 born: 1913
 died: 1968

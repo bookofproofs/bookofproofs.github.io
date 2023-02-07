@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Herschel_William
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-germany,physics
+tags: astronomy,origin-germany,physics
 title: Herschel, William
 born: 1738
 died: 1822

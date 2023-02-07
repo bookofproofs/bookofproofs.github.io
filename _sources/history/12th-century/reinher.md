@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Reinher
 categories: history,12th-century
 parentid: bookofproofs$607
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Reinher Of Paderborn
 born: 1140
 died: 1190

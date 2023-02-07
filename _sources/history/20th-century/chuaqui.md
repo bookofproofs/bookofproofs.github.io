@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chuaqui
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-chile
+tags: origin-chile
 title: Chuaqui, Rolando
 born: 1935
 died: 1994

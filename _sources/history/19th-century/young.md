@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Young
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Young (2), William Henry
 born: 1863
 died: 1942

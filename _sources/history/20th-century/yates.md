@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Yates
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,statistics
+tags: origin-england,statistics
 title: Yates, Frank
 born: 1902
 died: 1994

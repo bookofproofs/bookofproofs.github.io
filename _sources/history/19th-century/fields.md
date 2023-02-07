@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fields
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: fields-medal,nationality-canada,wolf-prize
+tags: fields-medal,origin-canada,wolf-prize
 title: Fields, John Charles
 born: 1863
 died: 1932

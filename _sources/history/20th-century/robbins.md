@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Robbins
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Robbins, Herbert Ellis
 born: 1915
 died: 2001

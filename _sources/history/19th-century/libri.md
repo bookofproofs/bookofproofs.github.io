@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Libri
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Libri, dalla Sommaja
 born: 1803
 died: 1869

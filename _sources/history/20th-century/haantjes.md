@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Haantjes
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Haantjes, Johannes
 born: 1909
 died: 1956

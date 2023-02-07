@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Katyayana
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-indian,nationality-india
+tags: ancient-indian,origin-india
 title: Katyayana
 born: -200
 died: -200

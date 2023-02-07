@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ries
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: nationality-germany
+tags: origin-germany
 title: Ries, Adam
 born: 1492
 died: 1559

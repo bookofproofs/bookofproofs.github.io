@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Laguardia
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-uruguay
+tags: origin-uruguay
 title: Laguardia, Rafael
 born: 1906
 died: 1980

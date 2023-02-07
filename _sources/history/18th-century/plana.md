@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Plana
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-italy
+tags: astronomy,origin-italy
 title: Plana, Giovanni Antonio Amedeo
 born: 1781
 died: 1864

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Widder
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Widder, David
 born: 1898
 died: 1990

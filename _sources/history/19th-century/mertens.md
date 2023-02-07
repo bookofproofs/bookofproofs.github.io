@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mertens
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Mertens, Franz Carl Joseph
 born: 1840
 died: 1927

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Conway_Arthur
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland
+tags: origin-ireland
 title: Conway, Arthur
 born: 1875
 died: 1950

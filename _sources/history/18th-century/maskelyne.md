@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Maskelyne
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,geography,nationality-england,physics
+tags: astronomy,geography,origin-england,physics
 title: Maskelyne, Nevil
 born: 1732
 died: 1811

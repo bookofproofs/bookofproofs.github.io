@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Black
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-azerbaijan
+tags: origin-azerbaijan
 title: Black, Max
 born: 1909
 died: 1988

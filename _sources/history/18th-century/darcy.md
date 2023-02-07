@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$DArcy
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-ireland
+tags: origin-ireland
 title: D'Arcy, Patrick
 born: 1725
 died: 1779

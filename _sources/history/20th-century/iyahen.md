@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Iyahen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-nigeria,topology
+tags: african,origin-nigeria,topology
 title: Iyahen, Sunday
 born: 1937
 died: 2018

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Napier
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-scotland,number-theory,physics,special-numbers-and-numerals
+tags: astronomy,origin-scotland,number-theory,physics,special-numbers-and-numerals
 title: Napier, John
 born: 1550
 died: 1617

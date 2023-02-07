@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rosenhain
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Rosenhain, Johann Georg
 born: 1816
 died: 1887

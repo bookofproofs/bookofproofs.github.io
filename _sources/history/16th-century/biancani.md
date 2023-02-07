@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Biancani
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-italy
+tags: astronomy,origin-italy
 title: Biancani, Giuseppe
 born: 1566
 died: 1624

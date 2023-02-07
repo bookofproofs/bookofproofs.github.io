@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Haytham
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,ancient-greek,astronomy,geometry,nationality-iraq,number-theory,physics,puzzles-and-problems,special-numbers-and-numerals
+tags: ancient-arab,ancient-greek,astronomy,geometry,origin-iraq,number-theory,physics,puzzles-and-problems,special-numbers-and-numerals
 title: Alhazen, Abu Ali Al-Hasan ibn Al-Haytham
 born: 965
 died: 1040

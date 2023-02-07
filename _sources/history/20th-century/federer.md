@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Federer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-austria
+tags: origin-austria
 title: Federer, Herbert
 born: 1920
 died: 2010

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pollaczek
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-austria
+tags: origin-austria
 title: Pollaczek, Leo Félix
 born: 1892
 died: 1981

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Arbuthnot
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-scotland
+tags: origin-scotland
 title: Arbuthnot, John
 born: 1667
 died: 1735

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kronrod
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Kronrod, Alexander
 born: 1921
 died: 1986

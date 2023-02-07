@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cremona
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,geometry,nationality-italy
+tags: algebra,geometry,origin-italy
 title: Cremona, Antonio Luigi Gaudenzio Giuseppe
 born: 1830
 died: 1903

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Darwin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Darwin, George Howard
 born: 1845
 died: 1912

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fejer
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-hungary
+tags: origin-hungary
 title: Fejér, Lipót
 born: 1880
 died: 1959

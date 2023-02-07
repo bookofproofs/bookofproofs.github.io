@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Aldrich
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-england
+tags: origin-england
 title: Aldrich, Henry
 born: 1648
 died: 1710

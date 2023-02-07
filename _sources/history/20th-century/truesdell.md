@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Truesdell
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Iii, Clifford Ambrose Truesdell
 born: 1919
 died: 2000

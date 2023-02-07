@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Righini
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-italy
+tags: astronomy,origin-italy
 title: Righini, Guglielmo
 born: 1908
 died: 1978

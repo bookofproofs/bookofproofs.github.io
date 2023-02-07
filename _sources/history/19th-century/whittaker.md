@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Whittaker
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: applied-maths,astronomy,nationality-england
+tags: applied-maths,astronomy,origin-england
 title: Whittaker, Edmund Taylor
 born: 1873
 died: 1956

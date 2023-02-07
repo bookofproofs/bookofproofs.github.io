@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bernoulli_NicolausII
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: algebra,nationality-switzerland
+tags: algebra,origin-switzerland
 title: Bernoulli (4), Nicolaus
 born: 1695
 died: 1726

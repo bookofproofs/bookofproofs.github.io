@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Giannini
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-italy
+tags: origin-italy
 title: Giannini, Pietro
 born: 1740
 died: 1810

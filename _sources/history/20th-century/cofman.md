@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cofman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-serbia,women
+tags: origin-serbia,women
 title: Cofman, Judita
 born: 1936
 died: 2001

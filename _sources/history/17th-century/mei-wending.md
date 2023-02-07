@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mei_Wending
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-china
+tags: astronomy,origin-china
 title: Wending, Mei
 born: 1633
 died: 1721

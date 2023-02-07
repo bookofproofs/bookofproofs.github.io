@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Burkill
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Burkill, John Charles
 born: 1900
 died: 1993

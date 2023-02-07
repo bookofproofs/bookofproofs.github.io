@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Eddington
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-england,physics
+tags: astronomy,origin-england,physics
 title: Eddington, Arthur Stanley
 born: 1882
 died: 1944

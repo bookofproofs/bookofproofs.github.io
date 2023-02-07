@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pejovic
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-serbia
+tags: origin-serbia
 title: Pejovic, Tadija
 born: 1892
 died: 1982

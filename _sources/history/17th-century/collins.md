@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Collins
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-england
+tags: origin-england
 title: Collins, John
 born: 1624
 died: 1683

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Eckmann
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Eckmann, Beno
 born: 1917
 died: 2008

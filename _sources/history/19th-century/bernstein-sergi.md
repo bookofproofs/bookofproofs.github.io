@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bernstein_Sergi
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Bernstein (2), Sergei
 born: 1880
 died: 1968

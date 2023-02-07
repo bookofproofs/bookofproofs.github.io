@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fedorchuk
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia,topology
+tags: origin-russia,topology
 title: Fedorchuk, Vitaly Vitalievich
 born: 1942
 died: 2012

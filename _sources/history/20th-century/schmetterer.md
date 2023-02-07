@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schmetterer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-austria
+tags: origin-austria
 title: Schmetterer, Leopold
 born: 1919
 died: 2004

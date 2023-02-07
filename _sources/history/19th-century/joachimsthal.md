@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Joachimsthal
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Joachimsthal, Ferdinand
 born: 1818
 died: 1861

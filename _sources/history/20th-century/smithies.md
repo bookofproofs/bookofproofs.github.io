@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Smithies
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Smithies, Frank
 born: 1912
 died: 2002

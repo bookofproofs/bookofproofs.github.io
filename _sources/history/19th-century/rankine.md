@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rankine
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,geography,nationality-scotland,physics
+tags: astronomy,geography,origin-scotland,physics
 title: Rankine, William John Macquorn
 born: 1820
 died: 1872

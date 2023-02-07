@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Macbeath
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Macbeath, Alexander Murray
 born: 1923
 died: 2014

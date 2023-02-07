@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Popoviciu_Elena
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-romania,women
+tags: origin-romania,women
 title: Popoviciu (2), Elena Moldovan
 born: 1924
 died: 2009

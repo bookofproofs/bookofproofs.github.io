@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Euwe
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Euwe, Machgielis
 born: 1901
 died: 1981

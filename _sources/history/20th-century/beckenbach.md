@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Beckenbach
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Beckenbach, Edwin Ford
 born: 1906
 died: 1982

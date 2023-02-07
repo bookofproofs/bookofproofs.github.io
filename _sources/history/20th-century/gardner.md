@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gardner
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,puzzles-and-problems
+tags: origin-usa,puzzles-and-problems
 title: Gardner, Martin
 born: 1914
 died: 2010

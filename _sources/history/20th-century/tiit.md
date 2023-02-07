@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tiit
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-estonia,women
+tags: origin-estonia,women
 title: Tiit, Ene-Margit
 born: 1933
 died: 2019

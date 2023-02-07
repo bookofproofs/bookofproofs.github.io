@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Glaisher
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-england,number-theory,puzzles-and-problems,special-numbers-and-numerals
+tags: astronomy,origin-england,number-theory,puzzles-and-problems,special-numbers-and-numerals
 title: Glaisher, James Whitbread Lee
 born: 1848
 died: 1928

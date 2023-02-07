@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Krejci
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Krejčí, Pavel
 born: 1954
 died: 2004

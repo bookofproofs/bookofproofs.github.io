@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Razmadze
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-georgia
+tags: origin-georgia
 title: Razmadze, Andrei Mikhailovich
 born: 1889
 died: 1929

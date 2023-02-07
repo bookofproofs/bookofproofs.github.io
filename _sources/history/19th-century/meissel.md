@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Meissel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Meissel, Daniel Friedrich Ernst
 born: 1826
 died: 1895

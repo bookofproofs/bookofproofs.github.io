@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Geocze
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-hungary
+tags: origin-hungary
 title: Geöcze, Zoárd
 born: 1873
 died: 1916

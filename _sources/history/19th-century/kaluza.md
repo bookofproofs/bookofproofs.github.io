@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kaluza
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Kaluza, Theodor Franz Eduard
 born: 1885
 died: 1954

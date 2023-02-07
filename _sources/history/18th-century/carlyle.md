@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Carlyle
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-scotland
+tags: origin-scotland
 title: Carlyle, Thomas
 born: 1795
 died: 1881

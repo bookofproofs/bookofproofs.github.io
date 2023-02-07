@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Thomson_James
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-ireland
+tags: astronomy,origin-ireland
 title: Thomson, James
 born: 1786
 died: 1849

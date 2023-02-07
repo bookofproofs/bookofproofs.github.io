@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Weyr_Eduard
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Weyr (2), Eduard
 born: 1852
 died: 1903

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Britton
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-england,puzzles-and-problems
+tags: algebra,group-theory,origin-england,puzzles-and-problems
 title: Britton, John Leslie
 born: 1927
 died: 1994

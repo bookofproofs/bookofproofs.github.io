@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Noether_Max
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Noether, Max
 born: 1844
 died: 1921

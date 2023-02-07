@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Severi
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Severi, Francesco
 born: 1879
 died: 1961

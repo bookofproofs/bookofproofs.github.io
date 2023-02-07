@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tweedie_David
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Tweedie, David
 born: 1865
 died: 1934

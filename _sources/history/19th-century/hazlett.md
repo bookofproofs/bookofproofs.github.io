@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hazlett
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Hazlett, Olive Clio
 born: 1890
 died: 1974

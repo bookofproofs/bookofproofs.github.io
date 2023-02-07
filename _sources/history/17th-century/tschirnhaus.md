@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tschirnhaus
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: algebra,geography,nationality-poland
+tags: algebra,geography,origin-poland
 title: Von Tschirnhaus, Ehrenfried Walter
 born: 1651
 died: 1708

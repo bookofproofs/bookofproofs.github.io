@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Verblunsky
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Verblunsky, Samuel
 born: 1906
 died: 1996

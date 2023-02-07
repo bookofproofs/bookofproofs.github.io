@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jungius
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Jungius, Joachim
 born: 1587
 died: 1657

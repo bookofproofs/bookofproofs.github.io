@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Butzberger
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Bützberger, Fritz (Friedrich
 born: 1862
 died: 1922

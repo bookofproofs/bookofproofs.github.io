@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wolfowitz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland,statistics
+tags: origin-poland,statistics
 title: Wolfowitz, Jacob
 born: 1910
 died: 1981

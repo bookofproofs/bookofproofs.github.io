@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lorenz_Edward
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: analysis,nationality-usa
+tags: analysis,origin-usa
 title: Lorenz, Edward
 born: 1917
 died: 2008

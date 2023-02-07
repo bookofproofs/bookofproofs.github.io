@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zorn
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Zorn, Max August
 born: 1906
 died: 1993

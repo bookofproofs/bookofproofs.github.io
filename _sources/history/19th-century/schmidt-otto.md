@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schmidt_Otto
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,group-theory,nationality-belarus
+tags: astronomy,group-theory,origin-belarus
 title: Schmidt (2), Otto Yulyevich
 born: 1891
 died: 1956

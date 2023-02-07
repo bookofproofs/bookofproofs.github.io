@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zylinski
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Żyliński, Eustachy
 born: 1889
 died: 1954

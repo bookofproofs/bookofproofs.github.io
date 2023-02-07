@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Guinand
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-australia
+tags: origin-australia
 title: Guinand, Andrew Paul
 born: 1912
 died: 1987

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bolzano
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: algebra,analysis,nationality-czech-republic,set-theory,special-numbers-and-numerals,topology
+tags: algebra,analysis,origin-czech-republic,set-theory,special-numbers-and-numerals,topology
 title: Bolzano, Bernard Placidus Johann Nepomuk
 born: 1781
 died: 1848

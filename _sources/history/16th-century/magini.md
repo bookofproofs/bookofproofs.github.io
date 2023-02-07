@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Magini
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-italy
+tags: astronomy,origin-italy
 title: Magini, Giovanni Antonio
 born: 1555
 died: 1617

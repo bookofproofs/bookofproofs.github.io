@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Szafraniec
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Szafraniec, Franciszek Hugon
 born: 1940
 died: 2011

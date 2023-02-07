@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jeffery
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Jeffery (2), George
 born: 1891
 died: 1957

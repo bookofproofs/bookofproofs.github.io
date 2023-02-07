@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Angheluta
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-romania
+tags: origin-romania
 title: Angheluta, Theodor
 born: 1882
 died: 1964

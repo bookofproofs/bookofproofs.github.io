@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Casorati
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Casorati, Felice
 born: 1835
 died: 1890

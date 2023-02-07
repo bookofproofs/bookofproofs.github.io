@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Foster_Dorothy
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,women
+tags: origin-england,women
 title: Foster (2), Dorothy
 born: 1933
 died: 2021

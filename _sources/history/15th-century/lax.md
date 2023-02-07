@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lax
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: nationality-spain
+tags: origin-spain
 title: Lax, Gaspar
 born: 1487
 died: 1560

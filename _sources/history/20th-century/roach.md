@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Roach
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-wales
+tags: astronomy,origin-wales
 title: Roach, Gary
 born: 1933
 died: 2012

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Reidemeister
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,knot-theory,nationality-germany,physics,topology
+tags: algebra,group-theory,knot-theory,origin-germany,physics,topology
 title: Reidemeister, Kurt Werner Friedrich
 born: 1893
 died: 1971

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Varopoulos
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-greece
+tags: origin-greece
 title: Varopoulos, Theodoros
 born: 1894
 died: 1957

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Playfair
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,geometry,nationality-scotland
+tags: astronomy,geometry,origin-scotland
 title: Playfair, John
 born: 1748
 died: 1819

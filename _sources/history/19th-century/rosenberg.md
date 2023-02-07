@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rosenberg
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Rosenberg, Fabian
 born: 1865
 died: 1921

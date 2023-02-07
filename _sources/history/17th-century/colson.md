@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Colson
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-england
+tags: origin-england
 title: Colson, John
 born: 1680
 died: 1760

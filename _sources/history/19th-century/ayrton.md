@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ayrton
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,women
+tags: origin-england,women
 title: Ayrton, Phoebe Sarah Hertha Marks
 born: 1854
 died: 1923

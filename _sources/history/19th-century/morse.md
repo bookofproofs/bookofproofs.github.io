@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Morse
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa,topology
+tags: origin-usa,topology
 title: Morse, Harold Calvin Marston
 born: 1892
 died: 1977

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kadison
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Kadison, Richard
 born: 1925
 died: 2018

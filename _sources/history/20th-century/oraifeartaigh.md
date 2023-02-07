@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$ORaifeartaigh
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-ireland
+tags: astronomy,origin-ireland
 title: O'Raifeartaigh, Lochlainn
 born: 1933
 died: 2000

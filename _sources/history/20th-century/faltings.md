@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Faltings
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-germany,number-theory,shaw-prize
+tags: fields-medal,origin-germany,number-theory,shaw-prize
 title: Faltings, Gerd
 born: 1953
 died: 2002

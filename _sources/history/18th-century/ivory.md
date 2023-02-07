@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ivory
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-scotland
+tags: astronomy,origin-scotland
 title: Ivory, James
 born: 1765
 died: 1842

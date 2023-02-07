@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Verhulst
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-belgium
+tags: astronomy,origin-belgium
 title: Verhulst, Pierre François
 born: 1804
 died: 1849

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Popken
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Popken, Jan
 born: 1905
 died: 1970

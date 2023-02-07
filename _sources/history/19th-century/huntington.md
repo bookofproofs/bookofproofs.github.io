@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Huntington
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Huntington, Edward Vermilye
 born: 1874
 died: 1952

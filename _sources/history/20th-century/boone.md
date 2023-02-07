@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Boone
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-usa
+tags: algebra,group-theory,origin-usa
 title: Boone, William Werner
 born: 1920
 died: 1983

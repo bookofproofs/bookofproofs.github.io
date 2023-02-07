@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ricci
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-italy
+tags: origin-italy
 title: Ricci (2), Michelangelo
 born: 1619
 died: 1682

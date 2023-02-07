@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gleason
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Gleason, Andrew Mattei
 born: 1921
 died: 2008

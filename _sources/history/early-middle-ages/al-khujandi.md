@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Khujandi
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,astronomy,nationality-tajikistan
+tags: ancient-arab,astronomy,origin-tajikistan
 title: Al-Khujandi, Abu Mahmud Hamid ibn al-Khidr
 born: 940
 died: 1000

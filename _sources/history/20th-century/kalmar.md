@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kalmar
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Kalmár, László
 born: 1905
 died: 1976

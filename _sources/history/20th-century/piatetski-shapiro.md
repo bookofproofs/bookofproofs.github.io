@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Piatetski-Shapiro
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia,wolf-prize
+tags: origin-russia,wolf-prize
 title: Piatetski-Shapiro, Ilya Iosifovich
 born: 1929
 died: 2009

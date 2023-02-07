@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mocnik
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-slovenia
+tags: origin-slovenia
 title: Mocnik, Franc
 born: 1814
 died: 1892

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lumsden
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Lumsden, Thomas Arnot
 born: 1895
 died: 1944

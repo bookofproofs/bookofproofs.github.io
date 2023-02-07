@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zaanen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Zaanen, Adriaan Cornelis
 born: 1913
 died: 2003

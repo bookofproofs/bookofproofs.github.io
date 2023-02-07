@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Feuerbach
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Feuerbach, Karl Wilhelm
 born: 1800
 died: 1834

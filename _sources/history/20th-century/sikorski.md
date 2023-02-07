@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sikorski
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Sikorski, Roman
 born: 1920
 died: 1983

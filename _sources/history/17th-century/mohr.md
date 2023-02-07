@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mohr
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-denmark
+tags: origin-denmark
 title: Mohr, Georg
 born: 1640
 died: 1697

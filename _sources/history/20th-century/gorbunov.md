@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gorbunov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Gorbunov, Viktor Aleksandrovich
 born: 1950
 died: 1999

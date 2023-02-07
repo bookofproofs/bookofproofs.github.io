@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kochina
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia,women
+tags: origin-russia,women
 title: Kochina, Pelageia Yakovlevna Polubarinova
 born: 1899
 died: 1999

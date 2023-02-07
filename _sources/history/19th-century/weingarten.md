@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Weingarten
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Weingarten, Julius
 born: 1836
 died: 1910

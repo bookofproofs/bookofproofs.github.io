@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hatzidakis
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Hatzidakis, Nikolaos
 born: 1872
 died: 1942

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Atiyah
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,fields-medal,nationality-england,topology
+tags: abel-prize,fields-medal,origin-england,topology
 title: Atiyah, Michael Francis
 born: 1929
 died: 2019

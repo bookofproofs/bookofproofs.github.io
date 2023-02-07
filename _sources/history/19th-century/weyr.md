@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Weyr
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Weyr, Emil
 born: 1848
 died: 1894

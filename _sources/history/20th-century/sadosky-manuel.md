@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sadosky_Manuel
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-argentina
+tags: origin-argentina
 title: Sadosky, Manuel
 born: 1914
 died: 2005

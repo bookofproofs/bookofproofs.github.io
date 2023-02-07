@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Davies
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-wales
+tags: origin-wales
 title: Davies (2), Evan Tom
 born: 1904
 died: 1973

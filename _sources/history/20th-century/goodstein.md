@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Goodstein
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Goodstein, Reuben Louis
 born: 1912
 died: 1985

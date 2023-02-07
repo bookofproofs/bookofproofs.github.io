@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Evans
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Evans, Griffith Conrad
 born: 1887
 died: 1973

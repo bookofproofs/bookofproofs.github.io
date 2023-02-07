@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zervos
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-greece
+tags: origin-greece
 title: Zervos, Panagiotis
 born: 1878
 died: 1952

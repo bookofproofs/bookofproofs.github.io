@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Leucippus
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: analysis,ancient-greek,nationality-turkey
+tags: analysis,ancient-greek,origin-turkey
 title: Leucippus Of Miletus
 born: -480
 died: -420

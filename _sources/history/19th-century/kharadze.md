@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kharadze
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-georgia
+tags: origin-georgia
 title: Kharadze, Archil Kirillovich
 born: 1895
 died: 1976

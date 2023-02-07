@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mandelbrojt
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,bourbaki,geometry,nationality-poland
+tags: analysis,bourbaki,geometry,origin-poland
 title: Mandelbrojt, Szolem
 born: 1899
 died: 1983

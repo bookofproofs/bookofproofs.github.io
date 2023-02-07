@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Feigenbaum
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Feigenbaum, Mitchell Jay
 born: 1944
 died: 2019

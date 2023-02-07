@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Plucker
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Plücker, Julius
 born: 1801
 died: 1868

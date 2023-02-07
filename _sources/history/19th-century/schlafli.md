@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schlafli
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Schläfli, Ludwig
 born: 1814
 died: 1895

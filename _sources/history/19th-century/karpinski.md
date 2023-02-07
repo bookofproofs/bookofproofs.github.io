@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Karpinski
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: Karpinski, Louis Charles
 born: 1878
 died: 1956

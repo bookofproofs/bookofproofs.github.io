@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bessel-Hagen
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Bessel-Hagen, Erich
 born: 1898
 died: 1946

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wiegold
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-wales
+tags: group-theory,origin-wales
 title: Wiegold, James
 born: 1934
 died: 2009

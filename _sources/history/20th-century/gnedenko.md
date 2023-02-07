@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gnedenko
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia,statistics
+tags: origin-russia,statistics
 title: Gnedenko, Boris Vladimirovich
 born: 1912
 died: 1995

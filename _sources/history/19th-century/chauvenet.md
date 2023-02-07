@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chauvenet
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: Chauvenet, William
 born: 1820
 died: 1870

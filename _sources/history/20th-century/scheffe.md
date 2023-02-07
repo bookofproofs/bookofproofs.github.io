@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Scheffe
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,statistics
+tags: origin-usa,statistics
 title: Scheffé, Henry
 born: 1907
 died: 1977

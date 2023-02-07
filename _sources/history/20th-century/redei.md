@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Redei
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-hungary
+tags: group-theory,origin-hungary
 title: Rédei, László
 born: 1900
 died: 1980

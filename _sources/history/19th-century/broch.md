@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Broch
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-norway
+tags: origin-norway
 title: Broch, Ole Jacob
 born: 1818
 died: 1889

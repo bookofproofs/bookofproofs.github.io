@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lindenstrauss
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-israel
+tags: origin-israel
 title: Lindenstrauss, Joram
 born: 1936
 died: 2012

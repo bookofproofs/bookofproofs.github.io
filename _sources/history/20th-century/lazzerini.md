@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lazzerini
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-chile,women
+tags: origin-chile,women
 title: Lazzerini, Guacolda
 born: 1908
 died: 2015

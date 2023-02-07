@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ostrogradski
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: geometry,nationality-ukraine
+tags: geometry,origin-ukraine
 title: Ostrogradski, Mikhail Vasilevich
 born: 1801
 died: 1862

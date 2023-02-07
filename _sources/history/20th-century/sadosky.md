@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sadosky
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-argentina,women
+tags: origin-argentina,women
 title: Sadosky (2), Cora
 born: 1940
 died: 2010

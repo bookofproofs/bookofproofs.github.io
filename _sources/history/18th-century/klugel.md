@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Klugel
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-germany
+tags: origin-germany
 title: Klügel, Georg
 born: 1739
 died: 1812

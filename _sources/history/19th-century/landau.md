@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Landau
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany,number-theory,special-numbers-and-numerals
+tags: origin-germany,number-theory,special-numbers-and-numerals
 title: Landau, Edmund Georg Hermann
 born: 1877
 died: 1938

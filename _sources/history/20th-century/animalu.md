@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Animalu
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-nigeria
+tags: african,origin-nigeria
 title: Animalu, Alexander
 born: 1938
 died: 2019

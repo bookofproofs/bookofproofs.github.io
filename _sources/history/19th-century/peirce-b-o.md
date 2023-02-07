@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Peirce_B_O
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Peirce (3), Benjamin Osgood
 born: 1854
 died: 1914

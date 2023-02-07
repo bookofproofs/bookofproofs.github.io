@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fine_Henry
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Fine (2), Henry
 born: 1858
 died: 1928

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Budan_de_Boislaurent
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-haiti
+tags: origin-haiti
 title: De Boislaurent, Ferdinand François Désiré Budan
 born: 1761
 died: 1840

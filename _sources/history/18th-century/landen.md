@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Landen
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-england
+tags: origin-england
 title: Landen, John
 born: 1719
 died: 1790

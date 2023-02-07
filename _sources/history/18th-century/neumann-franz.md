@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Neumann_Franz
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Neumann, Franz
 born: 1798
 died: 1895

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bashforth
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Bashforth, Francis
 born: 1819
 died: 1912

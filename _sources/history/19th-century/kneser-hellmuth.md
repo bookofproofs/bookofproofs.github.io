@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kneser_Hellmuth
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-estonia
+tags: algebra,origin-estonia
 title: Kneser (2), Hellmuth
 born: 1898
 died: 1973

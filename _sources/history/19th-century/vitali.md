@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vitali
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-italy
+tags: astronomy,origin-italy
 title: Vitali, Giuseppe
 born: 1875
 died: 1932

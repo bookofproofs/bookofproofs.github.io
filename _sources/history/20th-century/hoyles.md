@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hoyles
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,women
+tags: origin-england,women
 title: Hoyles, Celia
 born: 1946
 died: 2012

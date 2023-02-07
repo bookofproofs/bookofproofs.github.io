@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kepler
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: analysis,astronomy,geometry,nationality-germany,physics,special-numbers-and-numerals
+tags: analysis,astronomy,geometry,origin-germany,physics,special-numbers-and-numerals
 title: Kepler, Johannes
 born: 1571
 died: 1630

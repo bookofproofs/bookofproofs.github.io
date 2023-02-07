@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dingle
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Dingle, Herbert
 born: 1890
 died: 1978

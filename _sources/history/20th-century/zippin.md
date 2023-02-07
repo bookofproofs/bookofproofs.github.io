@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zippin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,topology
+tags: origin-usa,topology
 title: Zippin, Leo
 born: 1905
 died: 1995

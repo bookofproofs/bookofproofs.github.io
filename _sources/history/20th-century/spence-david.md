@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Spence_David
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-new-zealand
+tags: origin-new-zealand
 title: Spence (2), David
 born: 1926
 died: 2003

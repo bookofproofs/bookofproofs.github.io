@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Aristotle
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: analysis,ancient-greek,applied-maths,astronomy,geography,geometry,nationality-greece,physics,puzzles-and-problems,set-theory,special-numbers-and-numerals
+tags: analysis,ancient-greek,applied-maths,astronomy,geography,geometry,origin-greece,physics,puzzles-and-problems,set-theory,special-numbers-and-numerals
 title: Aristotle
 born: -384
 died: -322

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Siegel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany,wolf-prize
+tags: origin-germany,wolf-prize
 title: Siegel, Carl Ludwig
 born: 1896
 died: 1981

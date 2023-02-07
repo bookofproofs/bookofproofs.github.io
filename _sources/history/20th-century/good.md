@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Good
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Good, Irving John
 born: 1916
 died: 2009

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Diophantus
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: african,algebra,ancient-arab,ancient-greek,ancient-indian,nationality-egypt,number-theory,puzzles-and-problems
+tags: african,algebra,ancient-arab,ancient-greek,ancient-indian,origin-egypt,number-theory,puzzles-and-problems
 title: Diophantus Of Alexandria
 born: 200
 died: 284

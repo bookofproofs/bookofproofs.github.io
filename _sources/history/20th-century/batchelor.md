@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Batchelor
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-australia
+tags: origin-australia
 title: Batchelor, George Keith
 born: 1920
 died: 2000

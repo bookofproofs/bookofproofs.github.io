@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Adelard
 categories: history,11th-century
 parentid: bookofproofs$612
-tags: ancient-greek,astronomy,nationality-england
+tags: ancient-greek,astronomy,origin-england
 title: Adelard Of Bath
 born: 1075
 died: 1160

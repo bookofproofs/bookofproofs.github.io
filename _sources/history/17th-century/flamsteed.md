@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Flamsteed
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,geography,nationality-england
+tags: astronomy,geography,origin-england
 title: Flamsteed, John
 born: 1646
 died: 1719

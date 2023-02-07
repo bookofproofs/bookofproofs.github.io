@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Khruslov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Khruslov, Evgenii Yakovlevich
 born: 1937
 died: 2011

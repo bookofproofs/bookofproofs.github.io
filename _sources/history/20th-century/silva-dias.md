@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Silva_Dias
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-brazil
+tags: origin-brazil
 title: Dias, Cândido Silva
 born: 1913
 died: 1998

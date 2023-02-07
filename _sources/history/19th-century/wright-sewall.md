@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wright_Sewall
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Wright, Sewall Green
 born: 1889
 died: 1988

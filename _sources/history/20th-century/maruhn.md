@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Maruhn
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Maruhn, Karl Peter Heinrich
 born: 1904
 died: 1976

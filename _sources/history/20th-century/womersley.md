@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Womersley
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Womersley, John
 born: 1907
 died: 1958

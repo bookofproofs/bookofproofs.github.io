@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Combridge
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Combridge, Theodore
 born: 1897
 died: 1986

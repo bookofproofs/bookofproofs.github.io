@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wilton
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-australia
+tags: origin-australia
 title: Wilton, John Raymond
 born: 1884
 died: 1944

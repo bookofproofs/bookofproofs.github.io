@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Aristarchus
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,applied-maths,astronomy,geography,nationality-greece,physics,special-numbers-and-numerals
+tags: ancient-greek,applied-maths,astronomy,geography,origin-greece,physics,special-numbers-and-numerals
 title: Aristarchus Of Samos
 born: -310
 died: -230

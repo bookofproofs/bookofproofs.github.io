@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ribeiro
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-portugal,women
+tags: origin-portugal,women
 title: Ribeiro, Pilar
 born: 1911
 died: 2011

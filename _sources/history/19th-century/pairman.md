@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pairman
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland,women
+tags: origin-scotland,women
 title: Pairman, Eleanor
 born: 1896
 died: 1973

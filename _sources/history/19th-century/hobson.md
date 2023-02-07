@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hobson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Hobson, Ernest William
 born: 1856
 died: 1933

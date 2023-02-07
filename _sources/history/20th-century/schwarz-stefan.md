@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schwarz_Stefan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-slovakia
+tags: origin-slovakia
 title: Schwarz (2), Stefan
 born: 1914
 died: 1996

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bartel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Bartel, Kazimierz Władysław
 born: 1882
 died: 1941

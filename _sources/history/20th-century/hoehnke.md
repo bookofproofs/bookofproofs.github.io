@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hoehnke
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Hoehnke, Hans-Jürgen
 born: 1925
 died: 2007

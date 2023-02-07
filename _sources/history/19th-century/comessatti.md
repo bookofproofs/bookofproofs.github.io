@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Comessatti
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Comessatti, Annibale
 born: 1886
 died: 1945

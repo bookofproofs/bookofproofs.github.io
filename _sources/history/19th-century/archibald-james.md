@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Archibald_James
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Archibald, James
 born: 1862
 died: 1925

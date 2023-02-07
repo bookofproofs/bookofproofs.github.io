@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Thymaridas
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,nationality-greece
+tags: ancient-greek,origin-greece
 title: Thymaridas Of Paros
 born: -400
 died: -350

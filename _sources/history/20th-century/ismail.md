@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ismail
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-egypt,women
+tags: african,origin-egypt,women
 title: Ismail, Gamal
 born: 1950
 died: 2014

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hedrick
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Hedrick, Earle Raymond
 born: 1876
 died: 1943

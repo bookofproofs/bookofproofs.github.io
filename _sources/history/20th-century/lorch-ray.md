@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lorch_Ray
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Lorch, Edgar Raymond
 born: 1907
 died: 1990

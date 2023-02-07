@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Graham_Eugene
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Graham (2), Eugene
 born: 1925
 died: 1997

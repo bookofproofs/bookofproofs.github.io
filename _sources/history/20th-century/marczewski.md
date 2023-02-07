@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Marczewski
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Marczewski, Edward
 born: 1907
 died: 1976

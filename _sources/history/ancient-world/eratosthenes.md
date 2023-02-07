@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Eratosthenes
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: african,ancient-greek,astronomy,geography,geometry,nationality-libya,number-theory,physics,special-numbers-and-numerals
+tags: african,ancient-greek,astronomy,geography,geometry,origin-libya,number-theory,physics,special-numbers-and-numerals
 title: Eratosthenes Of Cyrene
 born: -276
 died: -194

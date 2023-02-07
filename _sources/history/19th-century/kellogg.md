@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kellogg
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Kellogg, Oliver Dimon
 born: 1878
 died: 1932

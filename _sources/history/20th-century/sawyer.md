@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sawyer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Sawyer, Warwick
 born: 1911
 died: 2008

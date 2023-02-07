@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wilson_Bertram
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Wilson (4), Bertram
 born: 1896
 died: 1935

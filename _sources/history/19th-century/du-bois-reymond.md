@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Du_Bois-Reymond
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,nationality-germany
+tags: analysis,origin-germany
 title: Du Bois-Reymond, Paul
 born: 1831
 died: 1889

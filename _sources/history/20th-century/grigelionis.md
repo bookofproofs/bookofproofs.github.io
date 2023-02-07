@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Grigelionis
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-lithuania
+tags: origin-lithuania
 title: Grigelionis, Bronius
 born: 1935
 died: 2014

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Aida
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-japan
+tags: origin-japan
 title: Yasuaki, Aida
 born: 1747
 died: 1817

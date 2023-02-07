@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Robinson_G_de_B
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-canada
+tags: group-theory,origin-canada
 title: Robinson, G. de B.
 born: 1906
 died: 1992

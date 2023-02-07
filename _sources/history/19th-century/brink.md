@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brink
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Brink, Raymond Woodard
 born: 1890
 died: 1973

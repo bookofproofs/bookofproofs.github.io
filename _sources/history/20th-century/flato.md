@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Flato
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-israel
+tags: origin-israel
 title: Flato, Moshé
 born: 1937
 died: 1998

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hormander
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-sweden,wolf-prize
+tags: fields-medal,origin-sweden,wolf-prize
 title: Hörmander, Lars
 born: 1931
 died: 2012

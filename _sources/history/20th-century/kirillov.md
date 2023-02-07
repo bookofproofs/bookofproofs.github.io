@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kirillov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Kirillov, Alexandre Aleksandrovich
 born: 1935
 died: 2020

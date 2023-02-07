@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Burgess
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Burgess, Alexander George
 born: 1872
 died: 1932

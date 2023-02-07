@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Poleni
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: architecture,astronomy,nationality-italy
+tags: architecture,astronomy,origin-italy
 title: Poleni, Giovanni
 born: 1683
 died: 1761

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lakatos
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Lakatos, Imre
 born: 1922
 died: 1974

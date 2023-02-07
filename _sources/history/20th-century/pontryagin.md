@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pontryagin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia,topology
+tags: origin-russia,topology
 title: Pontryagin, Lev Semenovich
 born: 1908
 died: 1988

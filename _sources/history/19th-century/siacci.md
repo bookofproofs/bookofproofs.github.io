@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Siacci
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Siacci, Francesco
 born: 1839
 died: 1907

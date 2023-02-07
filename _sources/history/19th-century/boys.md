@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Boys
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Boys, Sir Charles Vernon
 born: 1855
 died: 1944

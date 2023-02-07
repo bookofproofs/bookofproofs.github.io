@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chevalley
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,bourbaki,group-theory,nationality-south-africa
+tags: african,bourbaki,group-theory,origin-south-africa
 title: Chevalley, Claude
 born: 1909
 died: 1984

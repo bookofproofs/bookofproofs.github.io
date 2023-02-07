@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vajda
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Vajda, Steven
 born: 1901
 died: 1995

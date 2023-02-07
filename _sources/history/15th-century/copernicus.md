@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Copernicus
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: analysis,ancient-arab,ancient-greek,astronomy,geography,geometry,nationality-poland,physics
+tags: analysis,ancient-arab,ancient-greek,astronomy,geography,geometry,origin-poland,physics
 title: Copernicus, Nicolaus
 born: 1473
 died: 1543

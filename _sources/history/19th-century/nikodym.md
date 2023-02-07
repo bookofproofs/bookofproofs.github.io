@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nikodym
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Nikodym, Otton Marcin
 born: 1887
 died: 1974

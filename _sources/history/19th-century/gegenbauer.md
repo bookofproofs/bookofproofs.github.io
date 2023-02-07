@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gegenbauer
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-austria
+tags: origin-austria
 title: Gegenbauer, Leopold Bernhard
 born: 1849
 died: 1903

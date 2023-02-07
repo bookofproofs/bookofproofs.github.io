@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mason
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Mason, Charles Max
 born: 1877
 died: 1961

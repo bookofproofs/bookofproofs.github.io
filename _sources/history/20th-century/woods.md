@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Woods
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-new-zealand
+tags: origin-new-zealand
 title: Woods, Leslie Colin
 born: 1922
 died: 2007

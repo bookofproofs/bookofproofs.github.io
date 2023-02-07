@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pierpont
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Pierpont, James P
 born: 1866
 died: 1938

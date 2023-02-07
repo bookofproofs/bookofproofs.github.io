@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bolza
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-germany
+tags: algebra,origin-germany
 title: Bolza, Oskar
 born: 1857
 died: 1942

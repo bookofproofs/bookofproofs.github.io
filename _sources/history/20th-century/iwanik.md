@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Iwanik
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Iwanik, Anzelm
 born: 1946
 died: 1998

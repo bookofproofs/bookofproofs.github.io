@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bradley
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-england,physics
+tags: astronomy,origin-england,physics
 title: Bradley, James
 born: 1693
 died: 1762

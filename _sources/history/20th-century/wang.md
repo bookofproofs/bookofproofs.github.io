@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wang
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-china
+tags: origin-china
 title: Wang, Hsien Chung
 born: 1918
 died: 1978

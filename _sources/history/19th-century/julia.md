@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Julia
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: african,analysis,geometry,nationality-algeria
+tags: african,analysis,geometry,origin-algeria
 title: Julia, Gaston Maurice
 born: 1893
 died: 1978

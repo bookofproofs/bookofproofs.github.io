@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Trudinger
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-australia
+tags: origin-australia
 title: Trudinger, Neil Sidney
 born: 1942
 died: 2010

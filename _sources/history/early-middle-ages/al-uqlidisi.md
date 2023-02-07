@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Uqlidisi
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,nationality-syria,special-numbers-and-numerals
+tags: ancient-arab,origin-syria,special-numbers-and-numerals
 title: Al-Uqlidisi, Abu'l Hasan Ahmad ibn Ibrahim
 born: 920
 died: 980

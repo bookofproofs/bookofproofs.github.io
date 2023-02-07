@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Birnbaum
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Birnbaum, Zygmunt William
 born: 1903
 died: 2000

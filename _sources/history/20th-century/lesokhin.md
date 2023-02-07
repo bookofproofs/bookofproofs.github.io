@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lesokhin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Lesokhin, Mikhail Moiseevich
 born: 1933
 died: 1998

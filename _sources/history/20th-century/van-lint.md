@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Van_Lint
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-indonesia
+tags: origin-indonesia
 title: Van Lint, Jacobus Hendricus
 born: 1932
 died: 2004

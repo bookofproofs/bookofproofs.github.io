@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bass
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Bass, Hyman
 born: 1932
 died: 2022

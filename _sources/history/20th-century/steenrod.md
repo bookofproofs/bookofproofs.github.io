@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Steenrod
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Steenrod, Norman Earl
 born: 1910
 died: 1971

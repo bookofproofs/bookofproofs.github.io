@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Yavanesvara
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-indian,astronomy,nationality-india
+tags: ancient-indian,astronomy,origin-india
 title: Yavanesvara
 born: 120
 died: 180

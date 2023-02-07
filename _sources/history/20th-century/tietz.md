@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tietz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Tietz, Horst
 born: 1921
 died: 2012

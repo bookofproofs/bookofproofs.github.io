@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Weldon
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,statistics
+tags: origin-england,statistics
 title: Weldon, Walter Frank Raphael
 born: 1860
 died: 1906

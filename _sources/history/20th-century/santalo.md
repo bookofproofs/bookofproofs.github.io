@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Santalo
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-spain
+tags: origin-spain
 title: Santaló, Luís Antoni
 born: 1911
 died: 2001

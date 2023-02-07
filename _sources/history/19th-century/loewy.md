@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Loewy
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Loewy, Alfred
 born: 1873
 died: 1935

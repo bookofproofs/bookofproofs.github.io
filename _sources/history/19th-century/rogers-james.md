@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rogers_James
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Rogers, Leonard
 born: 1862
 died: 1933

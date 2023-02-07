@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Khazin
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,astronomy,nationality-iran
+tags: ancient-arab,astronomy,origin-iran
 title: Al-Khazin, Abu Jafar Muhammad ibn Al-Hasan
 born: 900
 died: 971

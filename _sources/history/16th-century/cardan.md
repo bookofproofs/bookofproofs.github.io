@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cardan
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: algebra,ancient-babylonian,architecture,nationality-italy,puzzles-and-problems,special-numbers-and-numerals
+tags: algebra,ancient-babylonian,architecture,origin-italy,puzzles-and-problems,special-numbers-and-numerals
 title: Cardan, Girolamo
 born: 1501
 died: 1576

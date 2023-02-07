@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fantappie
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Fantappiè, Luigi
 born: 1901
 died: 1956

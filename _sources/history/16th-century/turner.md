@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Turner
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: nationality-england
+tags: origin-england
 title: Turner, Peter
 born: 1586
 died: 1652

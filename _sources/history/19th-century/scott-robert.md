@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Scott_Robert
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Scott, Robert
 born: 1849
 died: 1933

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Golub
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Golub, Gene Howard
 born: 1932
 died: 2007

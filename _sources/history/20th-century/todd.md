@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Todd
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-england
+tags: algebra,group-theory,origin-england
 title: Todd, John Arthur
 born: 1908
 died: 1994

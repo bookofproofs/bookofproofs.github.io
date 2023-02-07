@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Van_der_Pol
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Pol, Balthasar van der
 born: 1889
 died: 1959

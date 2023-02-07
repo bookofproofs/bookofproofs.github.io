@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Riccioli
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-italy
+tags: astronomy,origin-italy
 title: Riccioli, Giovanni Battista
 born: 1598
 died: 1671

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Los
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Łoś, Jerzy Maria Michał
 born: 1920
 died: 1998

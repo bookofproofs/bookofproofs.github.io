@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Aryabhata_II
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-indian,astronomy,nationality-india
+tags: ancient-indian,astronomy,origin-india
 title: Aryabhata The Ii
 born: 920
 died: 1000

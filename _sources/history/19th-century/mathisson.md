@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mathisson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Mathisson, Myron
 born: 1897
 died: 1940

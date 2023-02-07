@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ruse
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Ruse, Harold Stanley
 born: 1905
 died: 1974

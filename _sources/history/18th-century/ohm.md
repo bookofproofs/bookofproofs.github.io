@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ohm
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-germany,special-numbers-and-numerals
+tags: origin-germany,special-numbers-and-numerals
 title: Ohm, Georg Simon
 born: 1789
 died: 1854

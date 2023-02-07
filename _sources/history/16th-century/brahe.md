@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brahe
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-denmark,physics
+tags: astronomy,origin-denmark,physics
 title: Brahe, Tycho
 born: 1546
 died: 1601

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Panini
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-indian,nationality-pakistan
+tags: ancient-indian,origin-pakistan
 title: Panini
 born: -520
 died: -460

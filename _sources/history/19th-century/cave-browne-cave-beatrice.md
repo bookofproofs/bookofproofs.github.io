@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cave-Browne-Cave_Beatrice
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,women
+tags: origin-england,women
 title: Cave-Browne-Cave, Beatrice Mabel
 born: 1874
 died: 1947

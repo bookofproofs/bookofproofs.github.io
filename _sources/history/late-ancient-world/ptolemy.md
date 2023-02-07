@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ptolemy
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: african,analysis,ancient-arab,ancient-babylonian,ancient-greek,ancient-indian,applied-maths,astronomy,geography,geometry,nationality-egypt,number-theory,physics,special-numbers-and-numerals
+tags: african,analysis,ancient-arab,ancient-babylonian,ancient-greek,ancient-indian,applied-maths,astronomy,geography,geometry,origin-egypt,number-theory,physics,special-numbers-and-numerals
 title: Ptolemy, Claudius
 born: 85
 died: 165

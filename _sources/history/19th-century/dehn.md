@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dehn
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,nationality-germany,topology
+tags: algebra,group-theory,origin-germany,topology
 title: Dehn, Max Wilhelm
 born: 1878
 died: 1952

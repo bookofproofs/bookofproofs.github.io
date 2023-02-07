@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sneddon
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Sneddon, Ian Naismith
 born: 1919
 died: 2000

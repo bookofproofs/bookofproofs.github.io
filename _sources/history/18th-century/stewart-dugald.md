@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stewart_Dugald
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-scotland
+tags: origin-scotland
 title: Stewart (2), Dugald
 born: 1753
 died: 1823

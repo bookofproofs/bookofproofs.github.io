@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Takebe
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-japan,special-numbers-and-numerals
+tags: astronomy,origin-japan,special-numbers-and-numerals
 title: Katahiro, Takebe
 born: 1664
 died: 1739

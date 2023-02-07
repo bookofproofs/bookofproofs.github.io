@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Teichmuller
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Teichmüller, Oswald
 born: 1913
 died: 1943

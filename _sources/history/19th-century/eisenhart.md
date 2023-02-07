@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Eisenhart
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Eisenhart, Luther Pfahler
 born: 1876
 died: 1965

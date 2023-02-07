@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hevelius_Koopman
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-poland,women
+tags: astronomy,origin-poland,women
 title: Koopman, Elisabetha
 born: 1647
 died: 1693

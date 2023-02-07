@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Baxter
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-canada,women
+tags: origin-canada,women
 title: Baxter, Agnes Sime
 born: 1870
 died: 1917

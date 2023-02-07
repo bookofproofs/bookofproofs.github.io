@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bishop
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Keller (3), Joseph Bishop
 born: 1928
 died: 1983

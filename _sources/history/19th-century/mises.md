@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mises
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-ukraine
+tags: astronomy,origin-ukraine
 title: Von Mises, Richard
 born: 1883
 died: 1953

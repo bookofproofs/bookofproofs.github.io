@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ulam
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Ulam, Stanislaw Marcin
 born: 1909
 died: 1984

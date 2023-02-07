@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Amoroso
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Amoroso, Luigi
 born: 1886
 died: 1965

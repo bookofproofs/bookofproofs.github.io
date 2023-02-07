@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Molin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: group-theory,nationality-latvia
+tags: group-theory,origin-latvia
 title: Molien, Theodor
 born: 1861
 died: 1941

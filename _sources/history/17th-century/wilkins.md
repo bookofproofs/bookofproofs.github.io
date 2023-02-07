@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wilkins
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: geography,nationality-england
+tags: geography,origin-england
 title: Wilkins, John
 born: 1614
 died: 1672

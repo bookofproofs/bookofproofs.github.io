@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Duarte
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-venezuela
+tags: astronomy,origin-venezuela
 title: Duarte, Francisco José
 born: 1883
 died: 1972

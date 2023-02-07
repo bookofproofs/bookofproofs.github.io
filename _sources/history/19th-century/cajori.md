@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cajori
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: ancient-indian,nationality-switzerland
+tags: ancient-indian,origin-switzerland
 title: Cajori, Florian
 born: 1859
 died: 1930

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kermack
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Kermack, William
 born: 1898
 died: 1970

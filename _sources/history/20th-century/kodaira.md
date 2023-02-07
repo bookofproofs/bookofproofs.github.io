@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kodaira
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-japan,wolf-prize
+tags: fields-medal,origin-japan,wolf-prize
 title: Kodaira, Kunihiko
 born: 1915
 died: 1997

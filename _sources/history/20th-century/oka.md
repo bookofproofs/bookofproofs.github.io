@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Oka
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan
+tags: origin-japan
 title: Oka, Kiyoshi
 born: 1901
 died: 1978

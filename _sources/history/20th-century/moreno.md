@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Moreno
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-chile,women
+tags: origin-chile,women
 title: Moreno, Adelina Gutiérrez
 born: 1925
 died: 2015

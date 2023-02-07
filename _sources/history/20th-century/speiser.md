@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Speiser
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Speiser (2), Ambrosius Paul
 born: 1922
 died: 2003

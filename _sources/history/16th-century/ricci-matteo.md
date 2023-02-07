@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ricci_Matteo
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: ancient-chinese,astronomy,chinese,nationality-italy
+tags: ancient-chinese,astronomy,chinese,origin-italy
 title: Ricci, Matteo
 born: 1552
 died: 1610

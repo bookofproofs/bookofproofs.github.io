@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$David_Lajos
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-romania
+tags: origin-romania
 title: Dávid, Lajos
 born: 1881
 died: 1962

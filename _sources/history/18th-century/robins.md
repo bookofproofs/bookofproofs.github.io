@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Robins
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-england
+tags: origin-england
 title: Robins, Benjamin
 born: 1706
 died: 1751

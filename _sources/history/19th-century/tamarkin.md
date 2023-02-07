@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tamarkin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Tamarkin, Jacob David
 born: 1888
 died: 1945

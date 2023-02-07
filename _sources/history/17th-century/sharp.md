@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sharp
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-england,special-numbers-and-numerals
+tags: astronomy,origin-england,special-numbers-and-numerals
 title: Sharp, Abraham
 born: 1653
 died: 1742

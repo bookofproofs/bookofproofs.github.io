@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Offord
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Offord, Albert Cyril
 born: 1906
 died: 2000

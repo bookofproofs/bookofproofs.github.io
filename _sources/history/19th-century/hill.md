@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hill
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa,physics
+tags: astronomy,origin-usa,physics
 title: Hill, George William
 born: 1838
 died: 1914

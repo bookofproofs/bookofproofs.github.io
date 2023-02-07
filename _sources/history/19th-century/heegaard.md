@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Heegaard
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-denmark,topology
+tags: astronomy,origin-denmark,topology
 title: Heegaard, Poul
 born: 1871
 died: 1948

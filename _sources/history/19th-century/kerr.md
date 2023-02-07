@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kerr
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Kerr, John Guthrie
 born: 1853
 died: 1932

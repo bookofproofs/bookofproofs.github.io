@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cocker
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-england
+tags: origin-england
 title: Cocker, Edward
 born: 1631
 died: 1676

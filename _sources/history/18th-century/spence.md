@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Spence
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-scotland
+tags: astronomy,origin-scotland
 title: Spence, William
 born: 1777
 died: 1815

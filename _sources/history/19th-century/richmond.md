@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Richmond
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Richmond, Herbert William
 born: 1863
 died: 1948

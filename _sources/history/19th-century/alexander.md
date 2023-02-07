@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Alexander
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa,topology
+tags: origin-usa,topology
 title: Alexander (2), James Waddell
 born: 1888
 died: 1971

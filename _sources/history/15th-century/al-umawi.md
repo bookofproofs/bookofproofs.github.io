@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Umawi
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: nationality-spain
+tags: origin-spain
 title: Al-Umawi
 born: 1400
 died: 1489

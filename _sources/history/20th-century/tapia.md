@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tapia
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Tapia, Richard Alfred
 born: 1939
 died: 2012

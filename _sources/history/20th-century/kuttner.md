@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kuttner
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Kuttner, Brian
 born: 1908
 died: 1992

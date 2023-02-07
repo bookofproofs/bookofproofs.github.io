@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zassenhaus
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-germany
+tags: algebra,group-theory,origin-germany
 title: Zassenhaus, Hans Julius
 born: 1912
 died: 1991

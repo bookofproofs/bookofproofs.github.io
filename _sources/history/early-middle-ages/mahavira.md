@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mahavira
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-babylonian,ancient-indian,nationality-india,special-numbers-and-numerals
+tags: ancient-babylonian,ancient-indian,origin-india,special-numbers-and-numerals
 title: Mahāvīra
 born: 800
 died: 870

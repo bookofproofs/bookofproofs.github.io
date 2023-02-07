@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gregory_David
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-scotland,number-theory,physics,special-numbers-and-numerals
+tags: astronomy,origin-scotland,number-theory,physics,special-numbers-and-numerals
 title: Gregory (3), David
 born: 1659
 died: 1708

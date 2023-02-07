@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lovelace
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,women
+tags: origin-england,women
 title: King, Augusta Ada
 born: 1815
 died: 1852

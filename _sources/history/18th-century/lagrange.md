@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lagrange
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: algebra,analysis,ancient-arab,ancient-indian,astronomy,geography,group-theory,nationality-italy,number-theory,physics,puzzles-and-problems
+tags: algebra,analysis,ancient-arab,ancient-indian,astronomy,geography,group-theory,origin-italy,number-theory,physics,puzzles-and-problems
 title: Lagrange, Joseph-Louis
 born: 1736
 died: 1813

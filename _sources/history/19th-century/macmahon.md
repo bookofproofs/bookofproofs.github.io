@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$MacMahon
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-malta,puzzles-and-problems
+tags: origin-malta,puzzles-and-problems
 title: Macmahon, Percy Alexander
 born: 1854
 died: 1929

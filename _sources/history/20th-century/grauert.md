@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Grauert
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Grauert, Hans
 born: 1930
 died: 2011

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brill
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Von Brill, Alexander Wilhelm
 born: 1842
 died: 1935

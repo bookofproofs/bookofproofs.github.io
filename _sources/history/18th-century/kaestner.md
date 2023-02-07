@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kaestner
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Kästner, Abraham
 born: 1719
 died: 1800

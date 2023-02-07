@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lyra
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-brazil,topology
+tags: origin-brazil,topology
 title: De Lyra, Carlos Benjamin
 born: 1927
 died: 1974

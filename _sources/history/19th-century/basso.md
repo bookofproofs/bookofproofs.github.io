@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Basso
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Basso, Giuseppe
 born: 1842
 died: 1895

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Newman
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,nationality-england,topology
+tags: algebra,group-theory,origin-england,topology
 title: Newman, Maxwell Herman Alexander
 born: 1897
 died: 1984

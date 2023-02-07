@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Waller
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Waller, Derek Arthur
 born: 1941
 died: 1978

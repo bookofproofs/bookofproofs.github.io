@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cunningham
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Cunningham, Ebenezer
 born: 1881
 died: 1977

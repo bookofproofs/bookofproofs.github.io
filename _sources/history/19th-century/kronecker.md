@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kronecker
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,nationality-poland,set-theory
+tags: algebra,group-theory,origin-poland,set-theory
 title: Kronecker, Leopold
 born: 1823
 died: 1891

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Andreev
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Andreev, Konstantin Alekseevich
 born: 1848
 died: 1921

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sheffer
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Sheffer, Henry
 born: 1882
 died: 1964

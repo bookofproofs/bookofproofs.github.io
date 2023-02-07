@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hankel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,analysis,nationality-germany
+tags: algebra,analysis,origin-germany
 title: Hankel, Hermann
 born: 1839
 died: 1873

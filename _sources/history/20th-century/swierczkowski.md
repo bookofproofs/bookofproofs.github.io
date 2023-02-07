@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Swierczkowski
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Świerczkowski, Stanisław
 born: 1932
 died: 2015

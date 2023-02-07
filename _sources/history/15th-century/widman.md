@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Widman
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Widman, Johannes
 born: 1462
 died: 1498

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sankara
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-indian,astronomy,nationality-india
+tags: ancient-indian,astronomy,origin-india
 title: Narayana, Sankara
 born: 840
 died: 900

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Struik
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Struik, Dirk Jan
 born: 1894
 died: 2000

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Heaton
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Heaton, Henry C
 born: 1846
 died: 1927

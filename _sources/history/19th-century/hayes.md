@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hayes
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa,women
+tags: astronomy,origin-usa,women
 title: Hayes (2), Ellen Amanda
 born: 1851
 died: 1930

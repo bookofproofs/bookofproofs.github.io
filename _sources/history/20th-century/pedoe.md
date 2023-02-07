@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pedoe
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Pedoe, Daniel
 born: 1910
 died: 1998

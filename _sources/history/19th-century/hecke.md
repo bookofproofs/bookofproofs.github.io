@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hecke
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Hecke, Erich
 born: 1887
 died: 1947

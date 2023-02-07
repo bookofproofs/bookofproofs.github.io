@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bouchet
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Bouchet, Edward
 born: 1852
 died: 1918

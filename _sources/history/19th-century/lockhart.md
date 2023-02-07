@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lockhart
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Lockhart, James Balfour
 born: 1886
 died: 1969

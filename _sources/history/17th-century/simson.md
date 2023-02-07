@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Simson
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-scotland,special-numbers-and-numerals
+tags: origin-scotland,special-numbers-and-numerals
 title: Simson, Robert
 born: 1687
 died: 1768

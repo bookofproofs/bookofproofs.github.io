@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bessel
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-germany,physics
+tags: astronomy,origin-germany,physics
 title: Bessel, Friedrich Wilhelm
 born: 1784
 died: 1846

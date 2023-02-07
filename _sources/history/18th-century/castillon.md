@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Castillon
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-italy
+tags: astronomy,origin-italy
 title: Castillon, Johann Francesco Melchiore Salvemini
 born: 1708
 died: 1791

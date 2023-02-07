@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gowers
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-england
+tags: fields-medal,origin-england
 title: Gowers, William Timothy
 born: 1962
 died: 2009

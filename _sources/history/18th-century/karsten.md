@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Karsten
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-germany
+tags: origin-germany
 title: Karsten, Wenceslaus Johann Gustav
 born: 1732
 died: 1787

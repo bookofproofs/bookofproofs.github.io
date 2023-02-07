@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wilks
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: architecture,nationality-usa,statistics
+tags: architecture,origin-usa,statistics
 title: Wilks, Samuel Stanley
 born: 1906
 died: 1964

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vietoris
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-austria,topology
+tags: origin-austria,topology
 title: Vietoris, Leopold
 born: 1891
 died: 2002

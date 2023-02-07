@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kelly
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Kelly, Paul Joseph
 born: 1915
 died: 1995

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Menger
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-austria
+tags: origin-austria
 title: Menger, Karl
 born: 1902
 died: 1985

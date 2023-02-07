@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kline
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: Kline, Morris
 born: 1908
 died: 1992

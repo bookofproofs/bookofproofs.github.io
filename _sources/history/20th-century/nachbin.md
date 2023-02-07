@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nachbin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-brazil
+tags: origin-brazil
 title: Nachbin, Leopoldo
 born: 1922
 died: 1993

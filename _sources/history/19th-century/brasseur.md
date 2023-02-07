@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brasseur
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-luxembourg
+tags: origin-luxembourg
 title: Brasseur, Jean-Baptiste
 born: 1802
 died: 1868

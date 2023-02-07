@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sylow
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,nationality-norway
+tags: algebra,group-theory,origin-norway
 title: Sylow, Peter Ludwig Mejdell
 born: 1832
 died: 1918

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Suter
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-switzerland
+tags: astronomy,origin-switzerland
 title: Suter, Heinrich
 born: 1848
 died: 1922

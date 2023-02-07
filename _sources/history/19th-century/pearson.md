@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pearson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,statistics
+tags: origin-england,statistics
 title: Pearson, Karl
 born: 1857
 died: 1936

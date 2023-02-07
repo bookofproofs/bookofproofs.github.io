@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Meders
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-latvia
+tags: astronomy,origin-latvia
 title: Meders, Alfreds Arnolds Adolfs
 born: 1873
 died: 1944

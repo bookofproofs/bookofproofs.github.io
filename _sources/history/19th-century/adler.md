@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Adler
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-czech-republic
+tags: astronomy,origin-czech-republic
 title: Adler, August
 born: 1863
 died: 1923

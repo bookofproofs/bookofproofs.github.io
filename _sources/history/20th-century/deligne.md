@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Deligne
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,fields-medal,nationality-belgium,wolf-prize
+tags: abel-prize,fields-medal,origin-belgium,wolf-prize
 title: Deligne, Pierre René
 born: 1944
 died: 2019

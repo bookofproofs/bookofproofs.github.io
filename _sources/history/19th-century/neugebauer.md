@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Neugebauer
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: ancient-babylonian,ancient-greek,astronomy,nationality-austria,physics,special-numbers-and-numerals
+tags: ancient-babylonian,ancient-greek,astronomy,origin-austria,physics,special-numbers-and-numerals
 title: Neugebauer, Otto
 born: 1899
 died: 1990

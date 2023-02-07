@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Haynes
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: african-american,nationality-usa,women
+tags: african-american,origin-usa,women
 title: Haynes, Euphemia Lofton
 born: 1890
 died: 1980

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wilson_John
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: ancient-arab,nationality-england
+tags: ancient-arab,origin-england
 title: Wilson (2), John
 born: 1741
 died: 1793

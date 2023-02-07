@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Narayana
 categories: history,14th-century
 parentid: bookofproofs$602
-tags: algebra,ancient-indian,nationality-india,number-theory
+tags: algebra,ancient-indian,origin-india,number-theory
 title: Pandit, Narayana
 born: 1340
 died: 1400

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Roomen
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-belgium,number-theory,special-numbers-and-numerals
+tags: astronomy,origin-belgium,number-theory,special-numbers-and-numerals
 title: Van Roomen, Adriaan
 born: 1561
 died: 1615

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fomin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia,topology
+tags: origin-russia,topology
 title: Fomin, Sergei Vasilovich
 born: 1917
 died: 1975

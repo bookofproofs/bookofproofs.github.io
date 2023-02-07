@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kosambi
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-india
+tags: origin-india
 title: Kosambi, D. D.
 born: 1907
 died: 1966

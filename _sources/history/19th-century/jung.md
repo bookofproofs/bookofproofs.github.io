@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jung
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Jung, Heinrich
 born: 1876
 died: 1953

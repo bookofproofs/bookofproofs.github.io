@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Boscovich
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-croatia
+tags: astronomy,origin-croatia
 title: Boscovich, Ruggero Giuseppe
 born: 1711
 died: 1787

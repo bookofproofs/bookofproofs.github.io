@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bjerknes_Vilhelm
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,nationality-norway
+tags: analysis,origin-norway
 title: Bjerknes (2), Vilhelm
 born: 1862
 died: 1951

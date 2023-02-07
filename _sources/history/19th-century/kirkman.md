@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kirkman
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: group-theory,knot-theory,nationality-england,physics,puzzles-and-problems
+tags: group-theory,knot-theory,origin-england,physics,puzzles-and-problems
 title: Kirkman, Thomas Penyngton
 born: 1806
 died: 1895

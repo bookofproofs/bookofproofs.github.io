@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Peirce_Benjamin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa,number-theory,special-numbers-and-numerals
+tags: astronomy,origin-usa,number-theory,special-numbers-and-numerals
 title: Peirce, Benjamin
 born: 1809
 died: 1880

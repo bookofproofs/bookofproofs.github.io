@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rudolff
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: nationality-poland
+tags: origin-poland
 title: Rudolff, Christoff
 born: 1499
 died: 1543

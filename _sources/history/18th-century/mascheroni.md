@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mascheroni
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-italy
+tags: origin-italy
 title: Mascheroni, Lorenzo
 born: 1750
 died: 1800

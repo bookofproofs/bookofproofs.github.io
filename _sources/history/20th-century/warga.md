@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Warga
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Warga, Jack
 born: 1922
 died: 2011

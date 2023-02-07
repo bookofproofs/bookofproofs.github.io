@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Selten
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland,nobel-prize
+tags: origin-poland,nobel-prize
 title: Selten, Reinhard
 born: 1930
 died: 2016

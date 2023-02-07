@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mahendra_Suri
 categories: history,14th-century
 parentid: bookofproofs$602
-tags: ancient-indian,nationality-india
+tags: ancient-indian,origin-india
 title: Suri, Mahendra
 born: 1340
 died: 1410

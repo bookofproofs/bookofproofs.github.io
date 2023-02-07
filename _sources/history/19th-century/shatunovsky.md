@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shatunovsky
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Shatunovsky, Samuil Osipovich
 born: 1859
 died: 1929

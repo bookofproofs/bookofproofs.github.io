@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Johnstone
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Johnstone, David
 born: 1877
 died: 1935

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Frenkel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Frenkel, Jacov Il'ich
 born: 1894
 died: 1952

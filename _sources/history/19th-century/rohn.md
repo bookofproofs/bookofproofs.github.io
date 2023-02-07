@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rohn
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Rohn, Karl Friedrich Wilhelm
 born: 1855
 died: 1920

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rutherford
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Rutherford, Daniel Edwin
 born: 1906
 died: 1966

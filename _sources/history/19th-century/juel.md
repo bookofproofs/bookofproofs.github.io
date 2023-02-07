@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Juel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-denmark
+tags: origin-denmark
 title: Juel, Christian
 born: 1855
 died: 1935

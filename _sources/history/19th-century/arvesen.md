@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Arvesen
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-norway
+tags: origin-norway
 title: Arvesen, Ole Peder
 born: 1895
 died: 1991

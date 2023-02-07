@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Blichfeldt
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: group-theory,nationality-denmark
+tags: group-theory,origin-denmark
 title: Blichfeldt, Hans Frederick
 born: 1873
 died: 1945

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Giordano
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-italy
+tags: origin-italy
 title: Giordano, Annibale
 born: 1769
 died: 1835

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Santacilia
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-spain
+tags: origin-spain
 title: Juan, Jorge
 born: 1713
 died: 1773

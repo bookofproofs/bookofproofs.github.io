@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Amringe
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Van Amringe, John Howard
 born: 1835
 died: 1915

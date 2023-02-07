@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hoe
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-new-zealand
+tags: origin-new-zealand
 title: Hoe, Jock
 born: 1929
 died: 2016

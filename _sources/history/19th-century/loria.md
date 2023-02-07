@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Loria
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Loria, Gino Benedetto
 born: 1862
 died: 1954

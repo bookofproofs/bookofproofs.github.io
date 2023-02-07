@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hayman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Hayman, Walter Kurt
 born: 1926
 died: 2020

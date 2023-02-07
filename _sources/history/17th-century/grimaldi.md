@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Grimaldi
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-italy
+tags: astronomy,origin-italy
 title: Grimaldi, Francesco Maria
 born: 1618
 died: 1663

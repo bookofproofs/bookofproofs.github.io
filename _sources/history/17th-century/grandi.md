@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Grandi
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-italy
+tags: origin-italy
 title: Grandi, Luigi Guido
 born: 1671
 died: 1742

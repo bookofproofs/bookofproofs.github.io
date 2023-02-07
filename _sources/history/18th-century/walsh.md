@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Walsh
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-ireland
+tags: origin-ireland
 title: Walsh, John
 born: 1786
 died: 1847

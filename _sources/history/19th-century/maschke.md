@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Maschke
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: group-theory,nationality-poland
+tags: group-theory,origin-poland
 title: Maschke, Heinrich
 born: 1853
 died: 1908

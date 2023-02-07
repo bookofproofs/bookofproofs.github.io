@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pitiscus
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: analysis,astronomy,geometry,nationality-poland
+tags: analysis,astronomy,geometry,origin-poland
 title: Pitiscus, Bartholomeo
 born: 1561
 died: 1613

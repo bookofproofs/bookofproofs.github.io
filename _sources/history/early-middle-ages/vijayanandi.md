@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vijayanandi
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-indian,astronomy,nationality-india
+tags: ancient-indian,astronomy,origin-india
 title: Vijayanandi
 born: 940
 died: 1010

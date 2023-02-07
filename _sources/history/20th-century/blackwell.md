@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Blackwell
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Blackwell, David Harold
 born: 1919
 died: 2010

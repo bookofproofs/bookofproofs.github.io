@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bell_Charles
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Bell (4), Charles
 born: 1928
 died: 2010

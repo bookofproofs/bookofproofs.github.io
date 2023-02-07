@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zalts
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-latvia
+tags: origin-latvia
 title: Zalts, Karlis
 born: 1885
 died: 1953

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jerrard
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Jerrard, George
 born: 1804
 died: 1863

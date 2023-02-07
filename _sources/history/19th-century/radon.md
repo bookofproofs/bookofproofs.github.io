@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Radon
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Radon, Johann
 born: 1887
 died: 1956

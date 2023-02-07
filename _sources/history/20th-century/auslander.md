@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Auslander
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Auslander, Maurice
 born: 1926
 died: 1994

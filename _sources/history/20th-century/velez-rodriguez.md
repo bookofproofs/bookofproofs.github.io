@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Velez-Rodriguez
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-cuba,women
+tags: astronomy,origin-cuba,women
 title: Velez-Rodriguez, Argelia
 born: 1935
 died: 2020

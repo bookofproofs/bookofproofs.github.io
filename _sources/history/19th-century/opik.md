@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Opik
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-estonia
+tags: astronomy,origin-estonia
 title: Öpik, Ernst
 born: 1893
 died: 1985

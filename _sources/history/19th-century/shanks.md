@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shanks
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,number-theory,puzzles-and-problems,special-numbers-and-numerals
+tags: origin-england,number-theory,puzzles-and-problems,special-numbers-and-numerals
 title: Shanks, William
 born: 1812
 died: 1882

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Woodward
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: Woodward, Robert Simpson
 born: 1849
 died: 1924

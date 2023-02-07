@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Noether_Fritz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Noether (3), Fritz
 born: 1884
 died: 1941

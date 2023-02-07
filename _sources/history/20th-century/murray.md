@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Murray
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Murray, James Dickson
 born: 1931
 died: 1993

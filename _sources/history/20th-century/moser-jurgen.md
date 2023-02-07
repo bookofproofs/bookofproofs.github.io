@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Moser_Jurgen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-russia,wolf-prize
+tags: astronomy,origin-russia,wolf-prize
 title: Moser (3), Jürgen
 born: 1928
 died: 1999

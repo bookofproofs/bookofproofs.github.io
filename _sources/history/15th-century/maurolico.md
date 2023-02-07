@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Maurolico
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: nationality-italy,special-numbers-and-numerals
+tags: origin-italy,special-numbers-and-numerals
 title: Maurolico, Francesco
 born: 1494
 died: 1575

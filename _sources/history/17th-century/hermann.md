@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hermann
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: geometry,nationality-switzerland,physics
+tags: geometry,origin-switzerland,physics
 title: Hermann, Jakob
 born: 1678
 died: 1733

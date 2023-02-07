@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Macfarlane
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Macfarlane, Alexander
 born: 1851
 died: 1913

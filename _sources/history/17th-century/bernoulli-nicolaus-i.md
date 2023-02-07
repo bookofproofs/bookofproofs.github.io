@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bernoulli_NicolausI
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Bernoulli (3), Nicolaus
 born: 1687
 died: 1759

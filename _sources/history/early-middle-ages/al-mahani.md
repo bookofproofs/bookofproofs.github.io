@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Mahani
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,astronomy,nationality-iran
+tags: ancient-arab,astronomy,origin-iran
 title: Al-Mahani, Abu Abd Allah Muhammad ibn Isa
 born: 820
 died: 880

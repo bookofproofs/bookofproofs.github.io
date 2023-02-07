@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Petersson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Petersson, Hans
 born: 1902
 died: 1984

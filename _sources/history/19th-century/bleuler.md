@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bleuler
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Bleuler, Hermann
 born: 1837
 died: 1912

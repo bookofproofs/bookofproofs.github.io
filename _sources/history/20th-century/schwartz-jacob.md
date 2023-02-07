@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schwartz_Jacob
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Schwartz (3), Jacob T.
 born: 1930
 died: 2009

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Foulis
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Foulis, David James
 born: 1930
 died: 2018

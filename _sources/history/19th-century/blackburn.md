@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Blackburn
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-scotland
+tags: astronomy,origin-scotland
 title: Blackburn, Hugh
 born: 1823
 died: 1909

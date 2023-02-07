@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Von_Neumann
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: analysis,nationality-hungary,physics,puzzles-and-problems,set-theory,statistics
+tags: analysis,origin-hungary,physics,puzzles-and-problems,set-theory,statistics
 title: Von Neumann, John
 born: 1903
 died: 1957

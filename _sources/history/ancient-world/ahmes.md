@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ahmes
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: african,ancient-babylonian,ancient-egyptian,ancient-greek,geometry,nationality-egypt,puzzles-and-problems
+tags: african,ancient-babylonian,ancient-egyptian,ancient-greek,geometry,origin-egypt,puzzles-and-problems
 title: Ahmes
 born: -1680
 died: -1620

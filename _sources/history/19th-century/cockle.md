@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cockle
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Cockle, James
 born: 1819
 died: 1895

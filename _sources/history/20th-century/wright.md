@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wright
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Wright (2), Edward Maitland
 born: 1906
 died: 2005

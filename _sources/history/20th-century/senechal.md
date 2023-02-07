@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Senechal
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Senechal, Marjorie
 born: 1939
 died: 2012

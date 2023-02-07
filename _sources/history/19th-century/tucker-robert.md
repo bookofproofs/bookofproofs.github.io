@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tucker_Robert
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Tucker, Robert
 born: 1832
 died: 1905

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Berwald
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Berwald, Ludwig
 born: 1883
 died: 1942

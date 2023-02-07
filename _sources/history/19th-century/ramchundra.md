@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ramchundra
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-india
+tags: astronomy,origin-india
 title: Ramchundra
 born: 1821
 died: 1880

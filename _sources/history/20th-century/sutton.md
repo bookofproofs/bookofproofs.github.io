@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sutton
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-wales
+tags: origin-wales
 title: Sutton, Oliver
 born: 1903
 died: 1977

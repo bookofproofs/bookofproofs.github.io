@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Krylov_Aleksei
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Krylov, Aleksei
 born: 1863
 died: 1945

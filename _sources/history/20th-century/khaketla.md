@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Khaketla
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-lesotho,women
+tags: african,origin-lesotho,women
 title: Khaketla, 'Mamphono
 born: 1959
 died: 2012

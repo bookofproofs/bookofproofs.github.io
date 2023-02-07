@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Soueif
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-england,women
+tags: african,origin-england,women
 title: Soueif, Laila
 born: 1956
 died: 1991

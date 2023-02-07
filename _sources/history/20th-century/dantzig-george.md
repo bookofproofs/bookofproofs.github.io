@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dantzig_George
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,statistics
+tags: origin-usa,statistics
 title: Dantzig, George
 born: 1914
 died: 2005

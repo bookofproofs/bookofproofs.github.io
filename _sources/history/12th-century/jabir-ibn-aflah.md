@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jabir_ibn_Aflah
 categories: history,12th-century
 parentid: bookofproofs$607
-tags: ancient-arab,astronomy,nationality-spain
+tags: ancient-arab,astronomy,origin-spain
 title: Jabir Ibn Aflah
 born: 1100
 died: 1160

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stokes
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland,physics
+tags: origin-ireland,physics
 title: Stokes, George Gabriel
 born: 1819
 died: 1903

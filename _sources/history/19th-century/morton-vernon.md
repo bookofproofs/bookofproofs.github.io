@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Morton_Vernon
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Morton, Vernon
 born: 1896
 died: 1978

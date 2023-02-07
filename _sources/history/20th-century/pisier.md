@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pisier
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-new-caledonia
+tags: origin-new-caledonia
 title: Pisier, Jean Georges Gilles
 born: 1950
 died: 2014

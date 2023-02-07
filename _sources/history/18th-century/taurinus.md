@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Taurinus
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-germany
+tags: origin-germany
 title: Taurinus, Franz Adolph
 born: 1794
 died: 1874

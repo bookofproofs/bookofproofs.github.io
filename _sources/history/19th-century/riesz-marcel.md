@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Riesz_Marcel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-hungary
+tags: origin-hungary
 title: Riesz (2), Marcel
 born: 1886
 died: 1969

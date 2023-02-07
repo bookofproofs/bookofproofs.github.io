@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Recorde
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: nationality-wales,puzzles-and-problems
+tags: origin-wales,puzzles-and-problems
 title: Recorde, Robert
 born: 1510
 died: 1558

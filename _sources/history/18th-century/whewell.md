@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Whewell
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-england
+tags: origin-england
 title: Whewell, William
 born: 1794
 died: 1866

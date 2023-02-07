@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gupta
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-india
+tags: origin-india
 title: Gupta, Shanti Swarup
 born: 1925
 died: 2002

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bradistilov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-bulgaria
+tags: origin-bulgaria
 title: Bradistilov, Georgi
 born: 1904
 died: 1977

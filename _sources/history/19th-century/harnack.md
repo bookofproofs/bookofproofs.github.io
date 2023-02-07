@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Harnack
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-estonia
+tags: origin-estonia
 title: Harnack, Axel
 born: 1851
 died: 1888

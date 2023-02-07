@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hypatia
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: african,ancient-greek,astronomy,nationality-egypt,women
+tags: african,ancient-greek,astronomy,origin-egypt,women
 title: Hypatia Of Alexandria
 born: 370
 died: 415

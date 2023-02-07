@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mercator_Gerardus
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: nationality-belgium
+tags: origin-belgium
 title: Mercator, Gerard
 born: 1512
 died: 1594

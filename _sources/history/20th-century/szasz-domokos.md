@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Szasz_Domokos
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Szász (2), Domokos
 born: 1941
 died: 1978

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Peacock
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Peacock, George
 born: 1791
 died: 1858

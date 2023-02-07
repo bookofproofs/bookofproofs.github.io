@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Swart
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-south-africa,women
+tags: african,origin-south-africa,women
 title: Swart, Hendrika
 born: 1939
 died: 2016

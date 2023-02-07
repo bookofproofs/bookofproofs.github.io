@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hirzebruch
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany,topology,wolf-prize
+tags: origin-germany,topology,wolf-prize
 title: Hirzebruch, Friedrich Ernst Peter
 born: 1927
 died: 2012

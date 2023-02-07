@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Samoilenko
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Samoilenko, Anatoly Mykhailovych
 born: 1938
 died: 2020

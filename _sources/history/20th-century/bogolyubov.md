@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bogolyubov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Bogolyubov, Nikolai Nikolaevich
 born: 1909
 died: 1992

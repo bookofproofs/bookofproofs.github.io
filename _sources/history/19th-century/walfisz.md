@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Walfisz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Walfisz, Arnold
 born: 1892
 died: 1962

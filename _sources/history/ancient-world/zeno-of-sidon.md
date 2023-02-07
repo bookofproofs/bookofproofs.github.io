@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zeno_of_Sidon
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,nationality-lebanon
+tags: ancient-greek,origin-lebanon
 title: Zeno Of Sidon
 born: -150
 died: -70

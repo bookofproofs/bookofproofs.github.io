@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Novikov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-russia,puzzles-and-problems
+tags: algebra,group-theory,origin-russia,puzzles-and-problems
 title: Novikov, Petr Sergeevich
 born: 1901
 died: 1975

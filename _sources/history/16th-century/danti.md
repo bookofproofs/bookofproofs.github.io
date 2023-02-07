@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Danti
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,geometry,nationality-italy
+tags: astronomy,geometry,origin-italy
 title: Danti, Egnatio Pellegrino Rainaldi
 born: 1536
 died: 1586

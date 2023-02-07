@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mori
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-japan
+tags: fields-medal,origin-japan
 title: Mori, Shigefumi
 born: 1950
 died: 1999

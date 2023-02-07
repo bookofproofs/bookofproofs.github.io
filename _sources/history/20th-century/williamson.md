@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Williamson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Williamson, John
 born: 1901
 died: 1949

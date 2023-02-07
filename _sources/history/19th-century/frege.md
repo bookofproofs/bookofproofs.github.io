@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Frege
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,nationality-germany,set-theory
+tags: analysis,origin-germany,set-theory
 title: Frege, Friedrich Ludwig Gottlob
 born: 1848
 died: 1925

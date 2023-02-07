@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wishart
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland,statistics
+tags: origin-scotland,statistics
 title: Wishart, John
 born: 1898
 died: 1956

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gunter
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: analysis,astronomy,geometry,nationality-england
+tags: analysis,astronomy,geometry,origin-england
 title: Gunter, Edmund
 born: 1581
 died: 1626

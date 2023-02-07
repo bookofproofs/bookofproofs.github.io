@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Van_Vleck
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Van Vleck, Edward Burr
 born: 1863
 died: 1943

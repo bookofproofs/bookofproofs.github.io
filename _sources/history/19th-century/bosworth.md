@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bosworth
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Focke, Anne Lucy Bosworth
 born: 1868
 died: 1907

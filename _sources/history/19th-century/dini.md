@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dini
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Dini, Ulisse
 born: 1845
 died: 1918

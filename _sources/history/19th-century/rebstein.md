@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rebstein
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Rebstein, Johann Jakob
 born: 1840
 died: 1907

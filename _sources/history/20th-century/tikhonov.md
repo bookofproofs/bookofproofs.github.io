@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tikhonov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia,topology
+tags: origin-russia,topology
 title: Tikhonov, Andrei Nikolaevich
 born: 1906
 died: 1993

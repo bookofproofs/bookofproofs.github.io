@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Leibniz
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: algebra,analysis,ancient-indian,astronomy,geography,geometry,nationality-germany,number-theory,physics,set-theory,special-numbers-and-numerals
+tags: algebra,analysis,ancient-indian,astronomy,geography,geometry,origin-germany,number-theory,physics,set-theory,special-numbers-and-numerals
 title: Von Leibniz, Gottfried Wilhelm
 born: 1646
 died: 1716

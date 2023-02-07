@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Levin_Frank
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-usa
+tags: group-theory,origin-usa
 title: Levin (2), Frank
 born: 1927
 died: 2011

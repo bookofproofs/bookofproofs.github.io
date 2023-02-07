@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Prager
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Prager, William
 born: 1903
 died: 1980

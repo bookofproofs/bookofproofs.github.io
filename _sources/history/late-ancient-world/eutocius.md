@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Eutocius
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-greek,astronomy,geometry,nationality-israel
+tags: ancient-greek,astronomy,geometry,origin-israel
 title: Eutocius Of Ascalon
 born: 480
 died: 540

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dickson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: group-theory,nationality-usa
+tags: group-theory,origin-usa
 title: Dickson, Leonard Eugene
 born: 1874
 died: 1954

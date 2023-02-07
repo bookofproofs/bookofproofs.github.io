@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Abbe
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Abbe, Ernst
 born: 1840
 died: 1905

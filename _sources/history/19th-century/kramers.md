@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kramers
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Kramers, Hendrik Anthony
 born: 1894
 died: 1952

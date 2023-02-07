@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jack
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Jack (2), David
 born: 1896
 died: 1975

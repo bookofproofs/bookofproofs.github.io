@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pahlings
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-germany
+tags: group-theory,origin-germany
 title: Pahlings, Herbert
 born: 1939
 died: 2012

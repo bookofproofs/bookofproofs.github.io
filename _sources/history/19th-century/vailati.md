@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vailati
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Vailati, Giovanni
 born: 1863
 died: 1909

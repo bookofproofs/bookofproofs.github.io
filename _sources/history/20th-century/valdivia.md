@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Valdivia
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-spain
+tags: origin-spain
 title: Valdivia, Manuel
 born: 1928
 died: 2014

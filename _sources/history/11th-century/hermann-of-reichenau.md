@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hermann_of_Reichenau
 categories: history,11th-century
 parentid: bookofproofs$612
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Hermann Of Reichenau
 born: 1013
 died: 1054

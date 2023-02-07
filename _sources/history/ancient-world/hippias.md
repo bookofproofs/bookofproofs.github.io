@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hippias
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,astronomy,geometry,nationality-greece,puzzles-and-problems
+tags: ancient-greek,astronomy,geometry,origin-greece,puzzles-and-problems
 title: Hippias Of Elis
 born: -460
 died: -400

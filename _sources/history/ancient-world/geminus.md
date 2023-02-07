@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Geminus
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,astronomy,nationality-greece,physics
+tags: ancient-greek,astronomy,origin-greece,physics
 title: Geminus
 born: -10
 died: 60

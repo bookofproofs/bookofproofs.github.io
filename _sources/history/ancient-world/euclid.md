@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Euclid
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: african,algebra,analysis,ancient-arab,ancient-babylonian,ancient-chinese,ancient-greek,ancient-indian,astronomy,geometry,nationality-egypt,number-theory,physics,puzzles-and-problems,special-numbers-and-numerals
+tags: african,algebra,analysis,ancient-arab,ancient-babylonian,ancient-chinese,ancient-greek,ancient-indian,astronomy,geometry,origin-egypt,number-theory,physics,puzzles-and-problems,special-numbers-and-numerals
 title: Euclid Of Alexandria
 born: -325
 died: -265

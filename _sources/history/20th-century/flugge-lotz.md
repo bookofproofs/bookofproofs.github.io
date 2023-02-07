@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Flugge-Lotz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany,women
+tags: origin-germany,women
 title: Flügge-Lotz, Irmgard
 born: 1903
 died: 1974

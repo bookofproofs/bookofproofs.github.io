@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Grobli
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Gröbli, Walter
 born: 1852
 died: 1903

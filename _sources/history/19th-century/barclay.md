@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Barclay
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Barclay, Andrew Jeffrey Gunion
 born: 1849
 died: 1943

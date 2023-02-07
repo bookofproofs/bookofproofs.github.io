@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kiefer_Adolf
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Kiefer, Adolf
 born: 1857
 died: 1929

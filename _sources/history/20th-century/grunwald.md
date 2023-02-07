@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Grunwald
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Grünwald, Géza
 born: 1910
 died: 1942

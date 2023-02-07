@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stein_Philip
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-lithuania
+tags: origin-lithuania
 title: Stein, Philip
 born: 1890
 died: 1974

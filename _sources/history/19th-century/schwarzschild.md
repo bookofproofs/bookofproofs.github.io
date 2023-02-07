@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schwarzschild
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-germany,physics
+tags: astronomy,origin-germany,physics
 title: Schwarzschild, Karl
 born: 1873
 died: 1916

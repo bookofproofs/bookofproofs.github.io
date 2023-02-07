@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pastur
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Pastur, Leonid Andreevich
 born: 1937
 died: 1999

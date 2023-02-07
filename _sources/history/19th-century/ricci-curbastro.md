@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ricci-Curbastro
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy,physics
+tags: origin-italy,physics
 title: Ricci-Curbastro, Gregorio
 born: 1853
 died: 1925

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Archytas
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,geometry,nationality-italy
+tags: ancient-greek,geometry,origin-italy
 title: Archytas Of Tarentum
 born: -428
 died: -350

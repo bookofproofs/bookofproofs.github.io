@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mei_Juecheng
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-china
+tags: astronomy,origin-china
 title: Juecheng, Mei
 born: 1681
 died: 1763

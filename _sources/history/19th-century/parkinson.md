@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Parkinson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Parkinson, Stephen
 born: 1823
 died: 1889

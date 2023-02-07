@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$More_Henry
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-england
+tags: origin-england
 title: More, Henry
 born: 1614
 died: 1687

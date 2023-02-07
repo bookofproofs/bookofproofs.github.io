@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Maxwell
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: knot-theory,nationality-scotland,physics
+tags: knot-theory,origin-scotland,physics
 title: Maxwell, James Clerk
 born: 1831
 died: 1879

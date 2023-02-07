@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dadourian
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-turkey
+tags: origin-turkey
 title: Dadourian, Haroutune
 born: 1878
 died: 1974

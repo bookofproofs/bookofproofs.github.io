@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Edgeworth
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland,statistics
+tags: origin-ireland,statistics
 title: Edgeworth, Francis Ysidro
 born: 1845
 died: 1926

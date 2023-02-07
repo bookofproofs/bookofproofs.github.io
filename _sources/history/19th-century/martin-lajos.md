@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Martin_Lajos
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-hungary
+tags: origin-hungary
 title: Martin, Lajos
 born: 1827
 died: 1897

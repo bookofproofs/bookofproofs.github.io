@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gomide
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-brazil,women
+tags: origin-brazil,women
 title: Gomide, Elza Furtado
 born: 1925
 died: 2013

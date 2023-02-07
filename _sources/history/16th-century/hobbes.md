@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hobbes
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Hobbes, Thomas
 born: 1588
 died: 1679

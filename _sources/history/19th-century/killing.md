@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Killing
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Killing, Wilhelm Karl Joseph
 born: 1847
 died: 1923

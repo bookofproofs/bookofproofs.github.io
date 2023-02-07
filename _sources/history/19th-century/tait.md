@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tait
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,knot-theory,nationality-scotland,physics,puzzles-and-problems,topology
+tags: algebra,knot-theory,origin-scotland,physics,puzzles-and-problems,topology
 title: Tait, Peter Guthrie
 born: 1831
 died: 1901

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wilson_Alexander
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-scotland
+tags: astronomy,origin-scotland
 title: Wilson, Alexander
 born: 1714
 died: 1786

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Boas
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Boas, Ralph
 born: 1912
 died: 1992

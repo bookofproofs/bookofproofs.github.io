@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dou
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-spain
+tags: origin-spain
 title: Kloosterman (2), Hendrik Douwe
 born: 1915
 died: 2009

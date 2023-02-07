@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Peixoto_Marilia
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-brazil,women
+tags: origin-brazil,women
 title: Peixoto, Marília
 born: 1921
 died: 1961

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Talbot
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Talbot, William Henry Fox
 born: 1800
 died: 1877

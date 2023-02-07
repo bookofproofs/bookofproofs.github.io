@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Monteiro
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-brazil
+tags: origin-brazil
 title: Monteiro, Jacy
 born: 1918
 died: 1975

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Boruvka
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Boruvka, Otakar
 born: 1899
 died: 1995

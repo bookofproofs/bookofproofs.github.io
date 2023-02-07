@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Furstenberg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,nationality-germany,topology,wolf-prize
+tags: abel-prize,origin-germany,topology,wolf-prize
 title: Furstenberg, Hillel
 born: 1935
 died: 2020

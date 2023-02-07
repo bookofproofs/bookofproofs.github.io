@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dezin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Dezin, Aleksei Alekseevich
 born: 1923
 died: 2008

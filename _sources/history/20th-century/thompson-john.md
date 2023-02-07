@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Thompson_John
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,algebra,fields-medal,group-theory,nationality-usa,puzzles-and-problems,wolf-prize
+tags: abel-prize,algebra,fields-medal,group-theory,origin-usa,puzzles-and-problems,wolf-prize
 title: Thompson (3), John
 born: 1932
 died: 2004

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Thom_George
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Thom, George
 born: 1842
 died: 1916

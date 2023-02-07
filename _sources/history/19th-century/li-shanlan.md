@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Li_Shanlan
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: ancient-chinese,astronomy,chinese,nationality-china
+tags: ancient-chinese,astronomy,chinese,origin-china
 title: Shanlan, Li
 born: 1811
 died: 1882

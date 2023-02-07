@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kluvanek
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-slovakia
+tags: origin-slovakia
 title: Kluvánek, Igor
 born: 1931
 died: 1993

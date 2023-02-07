@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Clausius
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland,physics
+tags: origin-poland,physics
 title: Clausius, Rudolf Julius Emmanuel
 born: 1822
 died: 1888

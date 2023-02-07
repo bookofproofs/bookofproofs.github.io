@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Murphy
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland
+tags: origin-ireland
 title: Murphy, Robert
 born: 1806
 died: 1843

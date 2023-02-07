@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Neveu
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-belgium
+tags: origin-belgium
 title: Neveu, Jacques
 born: 1932
 died: 2016

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Engel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Engel, Friedrich
 born: 1861
 died: 1941

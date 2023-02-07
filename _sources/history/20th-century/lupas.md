@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lupas
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-romania
+tags: origin-romania
 title: Lupas, Alexandru Ioan
 born: 1942
 died: 2007

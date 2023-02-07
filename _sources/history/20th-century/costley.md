@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Costley
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-jamaica
+tags: african-american,origin-jamaica
 title: Costley, Charles
 born: 1928
 died: 1997

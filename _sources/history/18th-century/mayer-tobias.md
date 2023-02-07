@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mayer_Tobias
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,geography,nationality-germany,physics
+tags: astronomy,geography,origin-germany,physics
 title: Mayer, Tobias
 born: 1723
 died: 1762

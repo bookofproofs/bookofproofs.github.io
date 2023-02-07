@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Adamson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Adamson, Iain Thomas Arthur Carpenter
 born: 1928
 died: 2010

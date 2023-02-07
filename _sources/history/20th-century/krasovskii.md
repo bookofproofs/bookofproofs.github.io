@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Krasovskii
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Krasovskii, Nikolai Nikolaevich
 born: 1924
 died: 2012

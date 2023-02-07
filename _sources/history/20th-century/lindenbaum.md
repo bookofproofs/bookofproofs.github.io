@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lindenbaum
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Lindenbaum, Adolf
 born: 1904
 died: 1942

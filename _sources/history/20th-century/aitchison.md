@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Aitchison
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Aitchison, John
 born: 1926
 died: 2016

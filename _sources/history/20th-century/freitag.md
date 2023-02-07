@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Freitag
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-austria,women
+tags: origin-austria,women
 title: Freitag, Herta Taussig
 born: 1908
 died: 2000

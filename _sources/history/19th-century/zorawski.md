@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zorawski
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-belarus
+tags: origin-belarus
 title: Żorawski, Kazimierz
 born: 1866
 died: 1953

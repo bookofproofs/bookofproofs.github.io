@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pless
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Pless, Vera
 born: 1931
 died: 2020

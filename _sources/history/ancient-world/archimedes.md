@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Archimedes
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: algebra,analysis,ancient-arab,ancient-greek,ancient-indian,astronomy,geometry,nationality-italy,number-theory,physics,puzzles-and-problems,special-numbers-and-numerals,topology
+tags: algebra,analysis,ancient-arab,ancient-greek,ancient-indian,astronomy,geometry,origin-italy,number-theory,physics,puzzles-and-problems,special-numbers-and-numerals,topology
 title: Archimedes Of Syracuse
 born: -287
 died: -212

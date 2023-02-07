@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Yamabe
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan
+tags: origin-japan
 title: Yamabe, Hidehiko
 born: 1923
 died: 1960

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Watson_Henry
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Watson, Henry
 born: 1827
 died: 1903

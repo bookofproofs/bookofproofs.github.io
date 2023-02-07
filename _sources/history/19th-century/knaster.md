@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Knaster
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Knaster, Bronisław
 born: 1893
 died: 1980

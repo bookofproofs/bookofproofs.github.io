@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hayes_David
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Hayes (3), David
 born: 1937
 died: 2011

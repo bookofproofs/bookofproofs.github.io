@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Semple
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ireland
+tags: origin-ireland
 title: Semple, John Greenlees
 born: 1904
 died: 1985

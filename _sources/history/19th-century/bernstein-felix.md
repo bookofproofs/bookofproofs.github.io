@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bernstein_Felix
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany,set-theory
+tags: origin-germany,set-theory
 title: Bernstein, Felix
 born: 1878
 died: 1956

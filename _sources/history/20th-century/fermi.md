@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fermi
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-italy,nobel-prize
+tags: astronomy,origin-italy,nobel-prize
 title: Fermi, Enrico
 born: 1901
 died: 1954

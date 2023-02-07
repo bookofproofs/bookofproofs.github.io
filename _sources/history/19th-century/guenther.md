@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Guenther
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Günther, Adam
 born: 1848
 died: 1923

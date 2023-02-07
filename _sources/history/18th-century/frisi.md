@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Frisi
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-italy
+tags: astronomy,origin-italy
 title: Frisi, Paolo
 born: 1728
 died: 1784

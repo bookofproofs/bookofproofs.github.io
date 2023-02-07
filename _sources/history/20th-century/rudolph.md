@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rudolph
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Rudolph, Daniel Jay
 born: 1949
 died: 2010

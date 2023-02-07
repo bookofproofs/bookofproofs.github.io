@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lonie
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Lonie, William Oughter
 born: 1822
 died: 1894

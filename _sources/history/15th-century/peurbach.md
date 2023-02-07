@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Peurbach
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: astronomy,nationality-austria
+tags: astronomy,origin-austria
 title: Peurbach, Georg
 born: 1423
 died: 1461

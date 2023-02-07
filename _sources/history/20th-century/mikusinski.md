@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mikusinski
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Mikusiński, Jan Geniusz
 born: 1913
 died: 1987

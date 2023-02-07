@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Marcolongo
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Marcolongo, Roberto
 born: 1862
 died: 1943

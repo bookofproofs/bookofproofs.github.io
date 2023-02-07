@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Conon
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,astronomy,nationality-greece
+tags: ancient-greek,astronomy,origin-greece
 title: Conon Of Samos
 born: -280
 died: -220

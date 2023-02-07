@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hatvani
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-slovakia
+tags: origin-slovakia
 title: Hatvani, István
 born: 1718
 died: 1786

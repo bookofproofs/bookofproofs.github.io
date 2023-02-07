@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Moisil
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-romania
+tags: origin-romania
 title: Moisil, Grigore C
 born: 1906
 died: 1973

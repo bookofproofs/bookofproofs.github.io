@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Insolera
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Insolera, Filadelfo
 born: 1880
 died: 1955

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Magiros
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-greece
+tags: origin-greece
 title: Magiros, Demetrios G
 born: 1912
 died: 1982

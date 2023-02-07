@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Langlands
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,nationality-canada,shaw-prize,wolf-prize
+tags: abel-prize,origin-canada,shaw-prize,wolf-prize
 title: Langlands, Robert Phelan
 born: 1936
 died: 2020

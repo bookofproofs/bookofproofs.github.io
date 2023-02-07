@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mytropolsky
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Mitropolskii, Yurii Alekseevich
 born: 1917
 died: 2008

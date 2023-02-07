@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Scherk
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-poland
+tags: astronomy,origin-poland
 title: Scherk, Heinrich Ferdinand
 born: 1798
 died: 1885

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Braikenridge
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-scotland
+tags: origin-scotland
 title: Braikenridge, William
 born: 1700
 died: 1762

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bernoulli_JohannIII
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-switzerland
+tags: astronomy,origin-switzerland
 title: Bernoulli (7), Johann
 born: 1744
 died: 1807

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tinney
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ireland,women
+tags: origin-ireland,women
 title: Tinney, Sheila Christina Power
 born: 1918
 died: 2010

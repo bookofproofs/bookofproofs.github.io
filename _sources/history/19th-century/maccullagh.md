@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$MacCullagh
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland
+tags: origin-ireland
 title: Maccullagh, James
 born: 1809
 died: 1847

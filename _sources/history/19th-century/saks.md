@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Saks
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Saks, Stanisław
 born: 1897
 died: 1942

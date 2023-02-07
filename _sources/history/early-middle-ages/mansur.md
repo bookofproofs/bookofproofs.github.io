@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mansur
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,astronomy,geography,nationality-uzbekistan
+tags: ancient-arab,astronomy,geography,origin-uzbekistan
 title: Mansur, Abu Nasr ibn Ali ibn Iraq
 born: 970
 died: 1036

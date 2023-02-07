@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Levin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Levin, Boris Yakovlevich
 born: 1906
 died: 1993

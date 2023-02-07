@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bowley
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Bowley, Arthur
 born: 1869
 died: 1957

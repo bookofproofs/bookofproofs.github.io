@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bateman
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Bateman, Harry
 born: 1882
 died: 1946

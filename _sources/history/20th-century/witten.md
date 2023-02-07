@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Witten
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: clay-research-award,fields-medal,nationality-usa
+tags: clay-research-award,fields-medal,origin-usa
 title: Witten, Edward
 born: 1950
 died: 1999

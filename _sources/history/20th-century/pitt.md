@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pitt
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Pitt, Harry Raymond
 born: 1914
 died: 2005

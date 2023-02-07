@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Doppler
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-austria,physics
+tags: astronomy,origin-austria,physics
 title: Doppler, Christian Andreas
 born: 1803
 died: 1853

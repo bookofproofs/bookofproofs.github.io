@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bernoulli_Jacob
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: analysis,astronomy,nationality-switzerland,number-theory,special-numbers-and-numerals,topology
+tags: analysis,astronomy,origin-switzerland,number-theory,special-numbers-and-numerals,topology
 title: Bernoulli, Jacob
 born: 1655
 died: 1705

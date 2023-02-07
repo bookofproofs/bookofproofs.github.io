@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Klein_Oskar
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-sweden
+tags: origin-sweden
 title: Klein (2), Oskar
 born: 1894
 died: 1977

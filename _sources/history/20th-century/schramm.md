@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schramm
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-israel
+tags: origin-israel
 title: Schramm, Oded
 born: 1961
 died: 2008

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Herivel
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ireland
+tags: origin-ireland
 title: Herivel, John William Jamieson
 born: 1918
 died: 2011

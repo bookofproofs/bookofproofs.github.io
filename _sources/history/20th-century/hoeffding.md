@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hoeffding
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Hoeffding, Wassily
 born: 1914
 died: 1991

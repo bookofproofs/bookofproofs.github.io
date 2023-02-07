@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Petrovic
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-serbia
+tags: origin-serbia
 title: Petrović, Mihailo
 born: 1868
 died: 1943

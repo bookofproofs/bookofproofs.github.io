@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Frucht
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-czech-republic
+tags: group-theory,origin-czech-republic
 title: Frucht, Robert Wertheimer
 born: 1906
 died: 1997

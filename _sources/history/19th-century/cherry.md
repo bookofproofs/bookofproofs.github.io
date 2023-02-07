@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cherry
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-australia
+tags: astronomy,origin-australia
 title: Cherry, Thomas Macfarland
 born: 1898
 died: 1966

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Segre_Beniamino
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Segre (2), Beniamino
 born: 1903
 died: 1977

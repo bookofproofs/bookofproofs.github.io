@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nevanlinna
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-finland
+tags: astronomy,origin-finland
 title: Nevanlinna, Rolf Herman
 born: 1895
 died: 1980

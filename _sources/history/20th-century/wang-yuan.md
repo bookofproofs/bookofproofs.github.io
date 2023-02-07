@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wang_Yuan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-china
+tags: origin-china
 title: Yuan (2), Wang
 born: 1930
 died: 2021

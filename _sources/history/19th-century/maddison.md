@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Maddison
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,women
+tags: origin-england,women
 title: Maddison, Ada Isabel
 born: 1869
 died: 1950

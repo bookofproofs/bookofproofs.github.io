@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Baudhayana
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-indian,nationality-india
+tags: ancient-indian,origin-india
 title: Baudhayana
 born: -800
 died: -800

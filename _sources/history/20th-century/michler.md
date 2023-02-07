@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Michler
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Michler, Ruth
 born: 1967
 died: 2000

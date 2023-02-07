@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Berdichevsky
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland,women
+tags: origin-poland,women
 title: Berdichevsky, Cecilia
 born: 1925
 died: 2010

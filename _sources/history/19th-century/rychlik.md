@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rychlik
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Rychlik, Karel
 born: 1885
 died: 1968

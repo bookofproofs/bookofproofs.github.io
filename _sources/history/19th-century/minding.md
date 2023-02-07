@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Minding
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Minding, Ernst Ferdinand Adolf
 born: 1806
 died: 1885

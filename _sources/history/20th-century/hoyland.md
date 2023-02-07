@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hoyland
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-norway
+tags: origin-norway
 title: Høyland, Arnljot
 born: 1924
 died: 2002

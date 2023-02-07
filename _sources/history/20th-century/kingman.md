@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kingman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Kingman, John Frank Charles
 born: 1939
 died: 2012

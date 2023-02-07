@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stewart
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-scotland
+tags: astronomy,origin-scotland
 title: Stewart, Matthew
 born: 1717
 died: 1785

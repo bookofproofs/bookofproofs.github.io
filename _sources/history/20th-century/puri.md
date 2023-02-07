@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Puri
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-pakistan
+tags: origin-pakistan
 title: Puri, Madan Lal
 born: 1929
 died: 2002

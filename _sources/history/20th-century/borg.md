@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Borg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-sweden
+tags: origin-sweden
 title: Borg, Göran
 born: 1913
 died: 1997

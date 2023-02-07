@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Guber
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-argentina,women
+tags: origin-argentina,women
 title: De Guber, Rebeca Cherep
 born: 1926
 died: 2020

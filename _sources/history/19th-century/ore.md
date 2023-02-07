@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ore
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-norway
+tags: origin-norway
 title: Ore, Øystein
 born: 1899
 died: 1968

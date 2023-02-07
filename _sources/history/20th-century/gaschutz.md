@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gaschutz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-germany
+tags: group-theory,origin-germany
 title: Gaschütz, Wolfgang
 born: 1920
 died: 2016

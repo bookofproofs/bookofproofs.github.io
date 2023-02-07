@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Edmonds
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,women
+tags: origin-england,women
 title: Edmonds, Sheila May
 born: 1916
 died: 2002

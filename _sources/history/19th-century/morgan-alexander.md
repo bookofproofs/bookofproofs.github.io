@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Morgan_Alexander
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Morgan (2), Alexander
 born: 1860
 died: 1946

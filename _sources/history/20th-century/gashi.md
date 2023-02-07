@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gashi
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-kosovo
+tags: origin-kosovo
 title: Gashi, Qëndrim
 born: 1977
 died: 2017

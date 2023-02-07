@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Keast
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Keast, Patrick
 born: 1942
 died: 2016

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$DOvidio
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: D'Ovidio, Enrico
 born: 1843
 died: 1933

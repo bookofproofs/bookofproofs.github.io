@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Scott_Lang
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Lang, Peter Redford Scott
 born: 1850
 died: 1926

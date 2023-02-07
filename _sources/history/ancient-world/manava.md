@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Manava
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-indian,nationality-india
+tags: ancient-indian,origin-india
 title: Manava
 born: -750
 died: -750

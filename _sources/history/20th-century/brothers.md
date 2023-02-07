@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brothers
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Brothers, Warren
 born: 1915
 died: 1984

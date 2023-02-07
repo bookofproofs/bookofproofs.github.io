@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Calderon
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-argentina,wolf-prize
+tags: origin-argentina,wolf-prize
 title: Calderón, Alberto
 born: 1920
 died: 1998

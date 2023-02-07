@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rothblum
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-israel
+tags: origin-israel
 title: Rothblum, Uriel George
 born: 1947
 died: 2012

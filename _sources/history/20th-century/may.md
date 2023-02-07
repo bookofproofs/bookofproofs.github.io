@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$May
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: May, Kenneth Ownsworth
 born: 1915
 died: 1977

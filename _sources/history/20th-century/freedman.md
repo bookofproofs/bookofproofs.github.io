@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Freedman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-usa,topology
+tags: fields-medal,origin-usa,topology
 title: Freedman, Michael Hartley
 born: 1950
 died: 1999

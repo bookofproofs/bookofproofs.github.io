@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ferro
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: algebra,nationality-italy
+tags: algebra,origin-italy
 title: Ferro, del Scipione
 born: 1465
 died: 1526

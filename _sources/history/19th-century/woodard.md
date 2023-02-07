@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Woodard
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Woodard, Dudley Weldon
 born: 1881
 died: 1965

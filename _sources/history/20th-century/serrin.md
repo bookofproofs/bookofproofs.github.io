@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Serrin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Serrin, James Burton
 born: 1926
 died: 2012

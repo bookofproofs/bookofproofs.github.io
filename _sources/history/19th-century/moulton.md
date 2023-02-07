@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Moulton
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: Moulton, Forest Ray
 born: 1872
 died: 1952

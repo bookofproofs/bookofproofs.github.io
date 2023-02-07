@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Barocius
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: nationality-greece
+tags: origin-greece
 title: Barocius, Franciscus
 born: 1537
 died: 1604

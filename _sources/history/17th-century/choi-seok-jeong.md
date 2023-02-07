@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Choi_Seok-jeong
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-south-korea
+tags: origin-south-korea
 title: Seok-Jeong, Choi
 born: 1646
 died: 1715

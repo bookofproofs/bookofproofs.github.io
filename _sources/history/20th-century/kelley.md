@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kelley
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,topology
+tags: origin-usa,topology
 title: Kelley, John
 born: 1916
 died: 1999

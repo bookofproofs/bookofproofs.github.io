@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jones_Vaughan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-new-zealand
+tags: fields-medal,origin-new-zealand
 title: Jones (4), Vaughan
 born: 1952
 died: 2020

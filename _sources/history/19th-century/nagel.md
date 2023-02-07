@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nagel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Von Nagel, Christian Heinrich
 born: 1803
 died: 1882

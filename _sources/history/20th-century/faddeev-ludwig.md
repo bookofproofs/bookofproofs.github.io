@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Faddeev_Ludwig
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Faddeev (2), Ludwig
 born: 1934
 died: 2017

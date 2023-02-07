@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Oppenheim
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Oppenheim, Alexander Victor
 born: 1903
 died: 1997

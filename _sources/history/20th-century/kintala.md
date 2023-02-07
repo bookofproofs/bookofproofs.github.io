@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kintala
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-india
+tags: origin-india
 title: Kintala, Chandra Mohan Rao
 born: 1948
 died: 2009

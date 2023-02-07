@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Silva
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-portugal
+tags: astronomy,origin-portugal
 title: Silva, José Sebastião e
 born: 1914
 died: 1972

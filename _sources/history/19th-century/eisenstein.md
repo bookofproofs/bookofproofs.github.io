@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Eisenstein
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-germany
+tags: algebra,origin-germany
 title: Eisenstein, Ferdinand Gotthold Max
 born: 1823
 died: 1852

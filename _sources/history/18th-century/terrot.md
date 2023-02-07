@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Terrot
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-india,physics
+tags: origin-india,physics
 title: Terrot, Charles Hughes
 born: 1790
 died: 1872

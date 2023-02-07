@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rapcsak
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Rapcsák, András
 born: 1914
 died: 1993

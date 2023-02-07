@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Simpson
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Simpson, Thomas
 born: 1710
 died: 1761

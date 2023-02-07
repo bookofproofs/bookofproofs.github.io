@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Spitzer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: Spitzer, Lyman
 born: 1914
 died: 1997

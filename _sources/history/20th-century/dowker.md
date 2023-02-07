@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dowker
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-canada
+tags: origin-canada
 title: Dowker, Clifford Hugh
 born: 1912
 died: 1982

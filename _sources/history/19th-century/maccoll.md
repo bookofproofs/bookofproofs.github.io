@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$MacColl
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Maccoll, Hugh
 born: 1837
 died: 1909

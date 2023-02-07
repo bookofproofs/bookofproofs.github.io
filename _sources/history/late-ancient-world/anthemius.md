@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Anthemius
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-greek,architecture,nationality-turkey
+tags: ancient-greek,architecture,origin-turkey
 title: Anthemius Of Tralles
 born: 474
 died: 534

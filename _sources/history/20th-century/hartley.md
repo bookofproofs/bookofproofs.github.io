@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hartley
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-england
+tags: group-theory,origin-england
 title: Hartley, Brian
 born: 1939
 died: 1994

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Preston
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Preston, Gordon Bamford
 born: 1925
 died: 2015

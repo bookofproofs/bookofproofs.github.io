@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Crelle
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: geometry,nationality-germany,set-theory
+tags: geometry,origin-germany,set-theory
 title: Crelle, August Leopold
 born: 1780
 died: 1855

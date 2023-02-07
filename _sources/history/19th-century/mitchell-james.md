@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mitchell_James
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Mitchell, James
 born: 1871
 died: 1959

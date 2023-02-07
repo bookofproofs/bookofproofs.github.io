@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bari
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia,women
+tags: origin-russia,women
 title: Bari, Nina Karlovna
 born: 1901
 died: 1961

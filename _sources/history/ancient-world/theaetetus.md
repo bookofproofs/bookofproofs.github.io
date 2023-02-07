@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Theaetetus
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,astronomy,nationality-greece
+tags: ancient-greek,astronomy,origin-greece
 title: Theaetetus Of Athens
 born: -417
 died: -369

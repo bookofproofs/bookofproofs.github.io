@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bates
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ireland
+tags: origin-ireland
 title: Bates, David Robert
 born: 1916
 died: 1994

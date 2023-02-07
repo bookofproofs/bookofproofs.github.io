@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Miranda
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Miranda, Carlo
 born: 1912
 died: 1982

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Clerke
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-ireland,women
+tags: astronomy,origin-ireland,women
 title: Clerke, Agnes Mary
 born: 1842
 died: 1907

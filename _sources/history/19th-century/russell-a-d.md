@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Russell_A_D
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Russell (3), Alexander Durie
 born: 1872
 died: 1955

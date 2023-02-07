@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Smale
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-usa,topology,wolf-prize
+tags: fields-medal,origin-usa,topology,wolf-prize
 title: Smale, Stephen
 born: 1930
 died: 2012

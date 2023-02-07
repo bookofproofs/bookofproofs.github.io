@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bolibrukh
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Bolibrukh, Andrei Andreevich
 born: 1950
 died: 2003

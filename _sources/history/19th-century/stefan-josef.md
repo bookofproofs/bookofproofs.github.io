@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stefan_Josef
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-austria,physics
+tags: origin-austria,physics
 title: Stefan, Josef
 born: 1835
 died: 1893

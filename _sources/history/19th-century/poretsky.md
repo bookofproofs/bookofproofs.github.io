@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Poretsky
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-russia
+tags: astronomy,origin-russia
 title: Poretsky, Platon Sergeevich
 born: 1846
 died: 1907

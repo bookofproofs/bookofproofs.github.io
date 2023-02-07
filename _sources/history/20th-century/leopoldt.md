@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Leopoldt
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Leopoldt, Heinrich-Wolfgang
 born: 1927
 died: 2011

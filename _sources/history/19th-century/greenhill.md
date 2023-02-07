@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Greenhill
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: applied-maths,nationality-england
+tags: applied-maths,origin-england
 title: Greenhill, Alfred George
 born: 1847
 died: 1927

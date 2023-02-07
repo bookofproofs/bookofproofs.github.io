@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wittich
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-poland
+tags: astronomy,origin-poland
 title: Wittich, Paul
 born: 1546
 died: 1586

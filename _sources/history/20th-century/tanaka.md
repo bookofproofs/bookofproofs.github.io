@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tanaka
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan
+tags: origin-japan
 title: Tanaka, Hideo
 born: 1938
 died: 2012

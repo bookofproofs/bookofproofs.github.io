@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Seress
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-hungary
+tags: group-theory,origin-hungary
 title: Seress, Akos
 born: 1958
 died: 2013

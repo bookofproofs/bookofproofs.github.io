@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Aubert
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-norway
+tags: origin-norway
 title: Aubert, Karl
 born: 1924
 died: 1990

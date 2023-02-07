@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Anderson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-belarus,statistics
+tags: origin-belarus,statistics
 title: Anderson, Oskar Johann Viktor
 born: 1887
 died: 1960

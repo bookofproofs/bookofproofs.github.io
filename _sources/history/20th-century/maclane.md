@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$MacLane
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: bourbaki,nationality-usa
+tags: bourbaki,origin-usa
 title: Lane, Saunders Mac
 born: 1909
 died: 2005

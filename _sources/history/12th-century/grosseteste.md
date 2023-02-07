@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Grosseteste
 categories: history,12th-century
 parentid: bookofproofs$607
-tags: astronomy,nationality-england,physics
+tags: astronomy,origin-england,physics
 title: Grosseteste, Robert
 born: 1168
 died: 1253

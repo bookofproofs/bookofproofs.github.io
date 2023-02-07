@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Baghdadi
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,nationality-iraq,special-numbers-and-numerals
+tags: ancient-arab,origin-iraq,special-numbers-and-numerals
 title: Al-Baghdadi, Abu Mansur ibn Tahir
 born: 980
 died: 1037

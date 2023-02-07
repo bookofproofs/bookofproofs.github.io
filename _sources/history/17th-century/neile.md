@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Neile
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Neile, William
 born: 1637
 died: 1670

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Alexiewicz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Alexiewicz, Andrzej Tadeusz
 born: 1917
 died: 1995

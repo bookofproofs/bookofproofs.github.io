@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Davis
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Davis, Martin David
 born: 1928
 died: 2023

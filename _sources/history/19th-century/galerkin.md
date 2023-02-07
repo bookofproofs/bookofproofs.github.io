@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Galerkin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,nationality-belarus
+tags: analysis,origin-belarus
 title: Galerkin, Boris Grigorievich
 born: 1871
 died: 1945

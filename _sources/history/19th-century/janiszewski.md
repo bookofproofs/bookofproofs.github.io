@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Janiszewski
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland,topology
+tags: origin-poland,topology
 title: Janiszewski, Zygmunt
 born: 1888
 died: 1920

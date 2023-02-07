@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bombelli
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: algebra,architecture,nationality-italy,special-numbers-and-numerals
+tags: algebra,architecture,origin-italy,special-numbers-and-numerals
 title: Bombelli, Rafael
 born: 1526
 died: 1572

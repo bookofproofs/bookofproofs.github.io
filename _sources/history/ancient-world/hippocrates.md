@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hippocrates
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,geometry,nationality-greece,puzzles-and-problems
+tags: ancient-greek,geometry,origin-greece,puzzles-and-problems
 title: Hippocrates Of Chios
 born: -470
 died: -410

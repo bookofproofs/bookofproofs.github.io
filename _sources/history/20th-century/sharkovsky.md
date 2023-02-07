@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sharkovsky
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Sharkovsky, Oleksandr Mikolaiovich
 born: 1936
 died: 2022

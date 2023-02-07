@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lexell
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-finland,physics
+tags: astronomy,origin-finland,physics
 title: Lexell, Anders Johan
 born: 1740
 died: 1784

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Goldstine
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Goldstine, Herman Heine
 born: 1913
 died: 2004

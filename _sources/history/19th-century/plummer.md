@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Plummer
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Plummer, Henry
 born: 1875
 died: 1946

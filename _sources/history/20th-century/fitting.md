@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fitting
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-germany
+tags: group-theory,origin-germany
 title: Fitting, Hans
 born: 1906
 died: 1938

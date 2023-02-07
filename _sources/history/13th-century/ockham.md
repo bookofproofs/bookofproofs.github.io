@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ockham
 categories: history,13th-century
 parentid: bookofproofs$606
-tags: nationality-england
+tags: origin-england
 title: William Of Ockham
 born: 1288
 died: 1348

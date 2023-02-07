@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lopatynsky
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-georgia
+tags: origin-georgia
 title: Lopatynsky, Yaroslav Borisovich
 born: 1906
 died: 1981

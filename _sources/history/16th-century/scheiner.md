@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Scheiner
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Scheiner, Christoph
 born: 1573
 died: 1650

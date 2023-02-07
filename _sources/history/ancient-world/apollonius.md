@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Apollonius
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-arab,ancient-greek,ancient-indian,applied-maths,astronomy,geography,geometry,nationality-turkey,physics,puzzles-and-problems,special-numbers-and-numerals
+tags: ancient-arab,ancient-greek,ancient-indian,applied-maths,astronomy,geography,geometry,origin-turkey,physics,puzzles-and-problems,special-numbers-and-numerals
 title: Apollonius Of Perga
 born: -262
 died: -190

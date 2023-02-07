@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Trakhtenbrot
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-moldova
+tags: origin-moldova
 title: Trakhtenbrot, Boris
 born: 1921
 died: 2016

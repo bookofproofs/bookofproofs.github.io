@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Potapov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Potapov, Vladimir Petrovich
 born: 1914
 died: 1980

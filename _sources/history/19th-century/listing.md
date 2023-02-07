@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Listing
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: knot-theory,nationality-germany,physics,topology
+tags: knot-theory,origin-germany,physics,topology
 title: Listing, Johann Benedict
 born: 1808
 died: 1882

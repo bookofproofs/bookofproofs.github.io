@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Battaglini
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Battaglini, Giuseppe
 born: 1826
 died: 1894

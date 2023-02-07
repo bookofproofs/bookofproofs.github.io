@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Levitzki
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Levitzki, Jacob
 born: 1904
 died: 1956

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Alling
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Alling, Norman Larrabee
 born: 1930
 died: 1989

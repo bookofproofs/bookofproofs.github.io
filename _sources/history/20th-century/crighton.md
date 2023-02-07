@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Crighton
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-wales
+tags: origin-wales
 title: Crighton, David George
 born: 1942
 died: 2000

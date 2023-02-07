@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Neyman
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-moldova,statistics
+tags: origin-moldova,statistics
 title: Neyman, Jerzy
 born: 1894
 died: 1981

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Elliott
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Elliott, Edwin Bailey
 born: 1851
 died: 1937

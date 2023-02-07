@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Spottiswoode
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Spottiswoode, William
 born: 1825
 died: 1883

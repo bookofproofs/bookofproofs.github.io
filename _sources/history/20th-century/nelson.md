@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nelson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-canada,women
+tags: origin-canada,women
 title: Nelson, Evelyn Merle Roden
 born: 1943
 died: 1987

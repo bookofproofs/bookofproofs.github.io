@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hildebrant
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,topology
+tags: origin-usa,topology
 title: Hildebrant, John A
 born: 1935
 died: 2003

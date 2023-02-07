@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dahlin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-sweden
+tags: origin-sweden
 title: Dahlin, Ernst Mauritz
 born: 1843
 died: 1929

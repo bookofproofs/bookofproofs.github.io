@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fibonacci
 categories: history,12th-century
 parentid: bookofproofs$607
-tags: analysis,ancient-arab,ancient-babylonian,ancient-indian,geometry,nationality-italy,number-theory,puzzles-and-problems,special-numbers-and-numerals
+tags: analysis,ancient-arab,ancient-babylonian,ancient-indian,geometry,origin-italy,number-theory,puzzles-and-problems,special-numbers-and-numerals
 title: Fibonacci, Leonardo Pisano
 born: 1170
 died: 1250

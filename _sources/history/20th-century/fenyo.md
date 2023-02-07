@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fenyo
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Fenyő, István
 born: 1917
 died: 1987

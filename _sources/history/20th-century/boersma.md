@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Boersma
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Boersma, Johannes
 born: 1937
 died: 2004

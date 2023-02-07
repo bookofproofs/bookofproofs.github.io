@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$De_Vries
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-netherlands
+tags: origin-netherlands
 title: De Vries, Gustav
 born: 1866
 died: 1934

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Erdelyi
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Erdélyi, Arthur
 born: 1908
 died: 1977

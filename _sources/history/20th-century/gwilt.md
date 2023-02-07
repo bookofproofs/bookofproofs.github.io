@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gwilt
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Gwilt, Richard Lloyd
 born: 1901
 died: 1972

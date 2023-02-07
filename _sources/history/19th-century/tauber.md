@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tauber
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-slovakia
+tags: origin-slovakia
 title: Tauber, Alfred
 born: 1866
 died: 1942

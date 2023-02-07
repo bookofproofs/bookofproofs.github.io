@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pauli
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-austria,nobel-prize,physics
+tags: astronomy,origin-austria,nobel-prize,physics
 title: Pauli, Wolfgang Ernst
 born: 1900
 died: 1958

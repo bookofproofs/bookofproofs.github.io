@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Taylor_Richard
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: clay-research-award,nationality-england,shaw-prize
+tags: clay-research-award,origin-england,shaw-prize
 title: Taylor (6), Richard
 born: 1962
 died: 2009

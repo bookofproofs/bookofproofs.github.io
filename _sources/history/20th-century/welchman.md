@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Welchman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Welchman, William Gordon
 born: 1906
 died: 1985

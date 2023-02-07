@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Abu_Kamil
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: african,ancient-arab,nationality-egypt,special-numbers-and-numerals
+tags: african,ancient-arab,origin-egypt,special-numbers-and-numerals
 title: Abu Kamil, ibn Aslam Shuja
 born: 850
 died: 930

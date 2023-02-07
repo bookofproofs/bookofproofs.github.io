@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Toeplitz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Toeplitz, Otto
 born: 1881
 died: 1940

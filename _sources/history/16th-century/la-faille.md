@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$La_Faille
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: architecture,astronomy,nationality-belgium
+tags: architecture,astronomy,origin-belgium
 title: Faille, Jean Charles de La
 born: 1597
 died: 1652

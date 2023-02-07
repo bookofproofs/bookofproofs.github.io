@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hlawka
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-austria
+tags: origin-austria
 title: Hlawka, Edmund
 born: 1916
 died: 2009

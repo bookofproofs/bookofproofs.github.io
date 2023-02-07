@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Steiner
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: algebra,geometry,group-theory,nationality-switzerland,physics,set-theory
+tags: algebra,geometry,group-theory,origin-switzerland,physics,set-theory
 title: Steiner, Jakob
 born: 1796
 died: 1863

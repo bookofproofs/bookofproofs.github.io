@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Huhn
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Huhn, András P
 born: 1947
 died: 1985

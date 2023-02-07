@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Martinelli
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Martinelli, Enzo
 born: 1911
 died: 1999

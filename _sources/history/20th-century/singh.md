@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Singh
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-india
+tags: origin-india
 title: Singh, Udita Narayana
 born: 1920
 died: 1989

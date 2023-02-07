@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Finsler
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Finsler, Paul
 born: 1894
 died: 1970

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wallace
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-scotland
+tags: astronomy,origin-scotland
 title: Wallace, William
 born: 1768
 died: 1843

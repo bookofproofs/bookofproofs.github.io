@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Maunder
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-ireland,women
+tags: astronomy,origin-ireland,women
 title: Maunder, Annie Scott Dill
 born: 1868
 died: 1947

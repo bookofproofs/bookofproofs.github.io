@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Valerio
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: analysis,nationality-italy
+tags: analysis,origin-italy
 title: Valerio, Luca
 born: 1552
 died: 1618

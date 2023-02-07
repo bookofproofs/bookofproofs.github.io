@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Whitehead
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,set-theory
+tags: origin-england,set-theory
 title: Whitehead, Alfred North
 born: 1861
 died: 1947

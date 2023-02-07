@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Whyburn
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,topology
+tags: origin-usa,topology
 title: Whyburn (2), William Marvin
 born: 1904
 died: 1969

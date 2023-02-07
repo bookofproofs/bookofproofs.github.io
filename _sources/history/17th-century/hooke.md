@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hooke
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: analysis,architecture,astronomy,geography,nationality-england,physics
+tags: analysis,architecture,astronomy,geography,origin-england,physics
 title: Hooke, Robert
 born: 1635
 died: 1703

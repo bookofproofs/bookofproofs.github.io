@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Malcev
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-russia
+tags: group-theory,origin-russia
 title: Malcev, Anatoly Ivanovich
 born: 1909
 died: 1967

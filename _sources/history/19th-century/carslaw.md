@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Carslaw
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Carslaw, Horatio Scott
 born: 1870
 died: 1954

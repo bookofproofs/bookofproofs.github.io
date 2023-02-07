@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shelah
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-israel,wolf-prize
+tags: origin-israel,wolf-prize
 title: Shelah, Saharon
 born: 1945
 died: 2022

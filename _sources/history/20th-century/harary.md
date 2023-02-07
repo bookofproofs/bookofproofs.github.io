@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Harary
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Harary, Frank
 born: 1921
 died: 2005

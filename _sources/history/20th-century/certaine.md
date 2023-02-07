@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Certaine
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Certaine, Jeremiah
 born: 1920
 died: 1993

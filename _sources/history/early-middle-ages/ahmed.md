@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ahmed
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,astronomy,nationality-iraq
+tags: ancient-arab,astronomy,origin-iraq
 title: Ibn Yusuf, Ahmed
 born: 835
 died: 912

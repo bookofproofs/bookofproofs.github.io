@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$De_Franchis
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: De Franchis, Michele
 born: 1875
 died: 1946

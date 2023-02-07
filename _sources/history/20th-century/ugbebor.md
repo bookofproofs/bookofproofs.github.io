@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ugbebor
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-nigeria,women
+tags: african,origin-nigeria,women
 title: Ugbebor, Olabisi
 born: 1950
 died: 1999

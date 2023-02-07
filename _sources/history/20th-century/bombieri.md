@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bombieri
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-italy
+tags: fields-medal,origin-italy
 title: Bombieri, Enrico
 born: 1940
 died: 2011

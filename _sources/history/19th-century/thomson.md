@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Thomson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,knot-theory,nationality-ireland,physics
+tags: astronomy,knot-theory,origin-ireland,physics
 title: Kelvin), William Thomson (Lord
 born: 1824
 died: 1907

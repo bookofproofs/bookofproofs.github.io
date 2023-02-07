@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jia_Xian
 categories: history,11th-century
 parentid: bookofproofs$612
-tags: ancient-chinese,chinese,nationality-china
+tags: ancient-chinese,chinese,origin-china
 title: Xian, Jia
 born: 1010
 died: 1070

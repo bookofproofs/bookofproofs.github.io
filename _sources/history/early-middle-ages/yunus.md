@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Yunus
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: african,ancient-arab,astronomy,nationality-egypt
+tags: african,ancient-arab,astronomy,origin-egypt
 title: Ibn Yunus, Abu'l-Hasan Ali Ibn Abd al-Rahman
 born: 950
 died: 1009

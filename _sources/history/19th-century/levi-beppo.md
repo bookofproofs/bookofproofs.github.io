@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Levi_Beppo
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Levi, Beppo
 born: 1875
 died: 1961

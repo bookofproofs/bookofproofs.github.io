@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wilf
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Wilf, Herbert Saul
 born: 1931
 died: 2012

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ouedraogo
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-burkina-faso,women
+tags: african,origin-burkina-faso,women
 title: Ouedraogo, Marie Françoise
 born: 1966
 died: 2017

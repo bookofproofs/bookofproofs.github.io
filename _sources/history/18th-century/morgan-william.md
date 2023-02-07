@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Morgan_William
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-wales
+tags: origin-wales
 title: Morgan, William
 born: 1750
 died: 1833

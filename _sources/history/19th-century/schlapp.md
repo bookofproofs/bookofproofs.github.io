@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schlapp
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Schlapp, Robert
 born: 1899
 died: 1991

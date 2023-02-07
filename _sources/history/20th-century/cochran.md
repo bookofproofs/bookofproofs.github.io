@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cochran
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland,statistics
+tags: origin-scotland,statistics
 title: Cochran, William Gemmell
 born: 1909
 died: 1980

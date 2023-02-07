@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dorge
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Dörge, Karl
 born: 1899
 died: 1975

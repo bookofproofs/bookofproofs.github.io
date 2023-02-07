@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Knapowski
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Knapowski, Stanislaw
 born: 1931
 died: 1967

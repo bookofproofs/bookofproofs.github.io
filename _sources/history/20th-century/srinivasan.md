@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Srinivasan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-india,women
+tags: group-theory,origin-india,women
 title: Srinivasan, Bhama
 born: 1934
 died: 2006

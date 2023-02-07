@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pogorelov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Pogorelov, Aleksei Vasilevich
 born: 1919
 died: 2002

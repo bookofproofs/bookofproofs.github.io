@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Phragmen
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-sweden
+tags: origin-sweden
 title: Phragmén, Edvard
 born: 1863
 died: 1937

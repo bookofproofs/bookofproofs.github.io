@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pierce_Joseph
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Pierce, Joseph
 born: 1902
 died: 1969

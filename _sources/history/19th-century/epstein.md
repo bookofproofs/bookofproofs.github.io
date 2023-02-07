@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Epstein
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Epstein, Paul
 born: 1871
 died: 1939

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Davidov
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-latvia
+tags: origin-latvia
 title: Davidov, August Yulevich
 born: 1823
 died: 1885

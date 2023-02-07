@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$McDuff
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,topology,women
+tags: origin-england,topology,women
 title: Mcduff, Margaret Dusa Waddington
 born: 1944
 died: 2019

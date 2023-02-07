@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Szekeres
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Szekeres, George
 born: 1911
 died: 2005

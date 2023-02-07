@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gohberg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Gohberg, Israel
 born: 1928
 died: 2009

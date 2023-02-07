@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stifel
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: nationality-germany,special-numbers-and-numerals
+tags: origin-germany,special-numbers-and-numerals
 title: Stifel, Michael
 born: 1487
 died: 1567

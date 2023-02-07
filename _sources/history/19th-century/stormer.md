@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stormer
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-norway
+tags: astronomy,origin-norway
 title: Størmer, Carl
 born: 1874
 died: 1957

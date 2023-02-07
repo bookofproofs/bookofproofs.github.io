@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stepanov
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Stepanov, Vyacheslaw Vassilievich
 born: 1889
 died: 1950

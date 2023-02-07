@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Huygens
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: algebra,analysis,ancient-greek,astronomy,geography,geometry,nationality-netherlands,number-theory,physics,puzzles-and-problems,special-numbers-and-numerals
+tags: algebra,analysis,ancient-greek,astronomy,geography,geometry,origin-netherlands,number-theory,physics,puzzles-and-problems,special-numbers-and-numerals
 title: Huygens, Christiaan
 born: 1629
 died: 1695

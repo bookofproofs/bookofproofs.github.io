@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vandiver
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa,number-theory
+tags: astronomy,origin-usa,number-theory
 title: Vandiver, Harry Schultz
 born: 1882
 died: 1973

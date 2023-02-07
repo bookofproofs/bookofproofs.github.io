@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Simpson_Mary
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,women
+tags: origin-england,women
 title: Simpson (2), Mary
 born: 1901
 died: 1985

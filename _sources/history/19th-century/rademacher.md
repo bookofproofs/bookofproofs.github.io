@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rademacher
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Rademacher, Hans
 born: 1892
 died: 1969

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schur
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,nationality-belarus,puzzles-and-problems
+tags: algebra,group-theory,origin-belarus,puzzles-and-problems
 title: Schur, Issai
 born: 1875
 died: 1941

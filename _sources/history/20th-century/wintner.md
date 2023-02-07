@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wintner
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-hungary
+tags: astronomy,origin-hungary
 title: Wintner, Aurel Friedrich
 born: 1903
 died: 1958

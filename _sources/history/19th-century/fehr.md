@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fehr
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Fehr, Henri
 born: 1870
 died: 1954

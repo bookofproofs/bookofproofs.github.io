@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$McLeod
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Mcleod, John Bryce
 born: 1929
 died: 2014

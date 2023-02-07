@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mazya
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Maz'Ya, Vladimir
 born: 1937
 died: 2010

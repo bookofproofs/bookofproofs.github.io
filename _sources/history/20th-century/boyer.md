@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Boyer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Boyer, Carl Benjamin
 born: 1906
 died: 1976

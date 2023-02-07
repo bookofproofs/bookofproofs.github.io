@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Buchan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Buchan, Alexander Fairley
 born: 1904
 died: 1976

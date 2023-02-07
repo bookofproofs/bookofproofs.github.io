@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Balogh
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary,topology
+tags: origin-hungary,topology
 title: Balogh, Zoltán Tibor
 born: 1953
 died: 2002

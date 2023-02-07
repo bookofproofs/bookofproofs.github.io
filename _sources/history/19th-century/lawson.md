@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lawson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Lawson, George
 born: 1870
 died: 1941

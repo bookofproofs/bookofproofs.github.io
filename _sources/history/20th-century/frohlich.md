@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Frohlich
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Fröhlich, Albrecht
 born: 1916
 died: 2001

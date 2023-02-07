@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bugaev
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-georgia
+tags: origin-georgia
 title: Bugaev, Nicolai Vasilievich
 born: 1837
 died: 1903

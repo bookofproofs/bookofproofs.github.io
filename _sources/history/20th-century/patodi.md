@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Patodi
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-india
+tags: origin-india
 title: Patodi, Vijay Kumar
 born: 1945
 died: 1976

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Morin_Ugo
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Morin (3), Ugo
 born: 1901
 died: 1968

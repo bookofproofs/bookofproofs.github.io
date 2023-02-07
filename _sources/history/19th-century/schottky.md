@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schottky
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Schottky, Friedrich Hermann
 born: 1851
 died: 1935

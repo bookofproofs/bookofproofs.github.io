@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cotlar
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Cotlar, Mischa
 born: 1913
 died: 2007

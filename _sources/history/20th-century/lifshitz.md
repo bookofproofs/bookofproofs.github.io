@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lifshitz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Lifshitz, Evgenii Mikhailovich
 born: 1915
 died: 1985

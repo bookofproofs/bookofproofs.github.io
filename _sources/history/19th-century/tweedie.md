@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tweedie
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Tweedie (2), Charles
 born: 1868
 died: 1925

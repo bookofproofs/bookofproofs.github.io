@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schiffer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Schiffer, Menahem Max
 born: 1911
 died: 1997

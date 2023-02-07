@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wangerin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Wangerin, Friedrich Heinrich Albert
 born: 1844
 died: 1933

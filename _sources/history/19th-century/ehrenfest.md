@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ehrenfest
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-austria,physics
+tags: origin-austria,physics
 title: Ehrenfest-Afanassjewa, Tatiana
 born: 1880
 died: 1933

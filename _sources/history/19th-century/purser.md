@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Purser
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-ireland
+tags: astronomy,origin-ireland
 title: Purser, John
 born: 1835
 died: 1903

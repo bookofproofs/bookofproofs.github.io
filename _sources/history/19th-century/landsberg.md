@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Landsberg
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Landsberg, Georg
 born: 1865
 died: 1912

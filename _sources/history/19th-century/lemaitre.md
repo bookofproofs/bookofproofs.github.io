@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lemaitre
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-belgium
+tags: astronomy,origin-belgium
 title: Lemaître, Georges
 born: 1894
 died: 1966

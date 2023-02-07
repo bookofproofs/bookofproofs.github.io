@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Koebe
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Koebe, Paul
 born: 1882
 died: 1945

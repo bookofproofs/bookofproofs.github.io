@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wirtinger
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-austria
+tags: origin-austria
 title: Wirtinger, Wilhelm
 born: 1865
 died: 1945

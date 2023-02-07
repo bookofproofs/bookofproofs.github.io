@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Khayyam
 categories: history,11th-century
 parentid: bookofproofs$612
-tags: ancient-arab,astronomy,nationality-iran,special-numbers-and-numerals
+tags: ancient-arab,astronomy,origin-iran,special-numbers-and-numerals
 title: Khayyam, Omar
 born: 1048
 died: 1131

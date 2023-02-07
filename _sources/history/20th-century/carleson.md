@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Carleson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,nationality-sweden,wolf-prize
+tags: abel-prize,origin-sweden,wolf-prize
 title: Carleson, Lennart Axel Edvard
 born: 1928
 died: 2007

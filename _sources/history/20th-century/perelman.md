@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Perelman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-russia
+tags: fields-medal,origin-russia
 title: Perelman, Grigori Yakovlevich
 born: 1964
 died: 1994

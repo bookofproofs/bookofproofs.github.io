@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Teixeira
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-portugal
+tags: astronomy,origin-portugal
 title: Teixeira, Gomes
 born: 1851
 died: 1933

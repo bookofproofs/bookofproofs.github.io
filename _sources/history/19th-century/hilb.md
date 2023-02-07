@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hilb
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: D'Ocagne (2), Philbert Maurice
 born: 1882
 died: 1929

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hamel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Hamel, Georg Karl Wilhelm
 born: 1877
 died: 1954

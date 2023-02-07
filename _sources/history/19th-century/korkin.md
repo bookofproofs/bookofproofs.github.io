@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Korkin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Korkin, Aleksandr Nikolaevich
 born: 1837
 died: 1908

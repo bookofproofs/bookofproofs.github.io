@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nielsen_Jakob
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,nationality-denmark
+tags: algebra,group-theory,origin-denmark
 title: Nielsen (2), Jakob
 born: 1890
 died: 1959

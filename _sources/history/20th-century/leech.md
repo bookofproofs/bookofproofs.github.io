@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Leech
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-england
+tags: group-theory,origin-england
 title: Leech, John
 born: 1926
 died: 1992

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gutzmer
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Gutzmer, Karl Friedrich August
 born: 1860
 died: 1924

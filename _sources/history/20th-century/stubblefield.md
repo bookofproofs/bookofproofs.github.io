@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stubblefield
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Stubblefield, Beauregard
 born: 1923
 died: 2013

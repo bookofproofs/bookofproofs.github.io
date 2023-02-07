@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Barker
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Barker, Thomas
 born: 1838
 died: 1907

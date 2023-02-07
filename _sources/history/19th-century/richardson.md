@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Richardson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,nationality-england
+tags: analysis,origin-england
 title: Richardson (3), Lewis Fry
 born: 1881
 died: 1953

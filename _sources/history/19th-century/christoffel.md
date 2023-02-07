@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Christoffel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany,physics
+tags: origin-germany,physics
 title: Christoffel, Elwin Bruno
 born: 1829
 died: 1900

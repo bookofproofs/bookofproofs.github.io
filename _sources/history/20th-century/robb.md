@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Robb
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-scotland
+tags: astronomy,origin-scotland
 title: Robb, Richard Alexander
 born: 1901
 died: 1977

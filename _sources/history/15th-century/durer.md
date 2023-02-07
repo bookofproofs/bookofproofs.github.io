@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Durer
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: architecture,astronomy,geometry,nationality-germany,puzzles-and-problems
+tags: architecture,astronomy,geometry,origin-germany,puzzles-and-problems
 title: Dürer, Albrecht
 born: 1471
 died: 1528

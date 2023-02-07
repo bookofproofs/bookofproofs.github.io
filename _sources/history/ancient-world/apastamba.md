@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Apastamba
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-indian,nationality-india
+tags: ancient-indian,origin-india
 title: Apastamba
 born: -600
 died: -600

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Snyder
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Snyder, Virgil
 born: 1869
 died: 1950

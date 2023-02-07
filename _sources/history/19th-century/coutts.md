@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Coutts
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Coutts, William Barron
 born: 1885
 died: 1946

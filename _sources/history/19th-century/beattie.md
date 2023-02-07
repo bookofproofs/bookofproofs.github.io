@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Beattie
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Beattie, John Carruthers
 born: 1866
 died: 1946

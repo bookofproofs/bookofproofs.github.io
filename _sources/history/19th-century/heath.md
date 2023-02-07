@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Heath
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: ancient-greek,astronomy,geometry,nationality-england,puzzles-and-problems,special-numbers-and-numerals
+tags: ancient-greek,astronomy,geometry,origin-england,puzzles-and-problems,special-numbers-and-numerals
 title: Heath, Thomas Little
 born: 1861
 died: 1940

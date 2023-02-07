@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Feldman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Feldman, Naum Il'ich
 born: 1918
 died: 1994

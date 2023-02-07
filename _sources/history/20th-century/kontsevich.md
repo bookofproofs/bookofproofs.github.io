@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kontsevich
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-russia,shaw-prize
+tags: fields-medal,origin-russia,shaw-prize
 title: Kontsevich, Maxim Lvovich
 born: 1964
 died: 1994

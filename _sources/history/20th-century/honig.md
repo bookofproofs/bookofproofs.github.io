@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Honig
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Hönig, Chaim Samuel
 born: 1926
 died: 2018

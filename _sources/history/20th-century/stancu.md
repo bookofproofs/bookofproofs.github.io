@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stancu
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-romania
+tags: origin-romania
 title: Stancu, Dimitrie D.
 born: 1927
 died: 2014

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jeffreys_Bertha
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Jeffreys (2), Bertha Swirles
 born: 1903
 died: 1999

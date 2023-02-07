@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lewis
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Lewis, Clarence Irving
 born: 1883
 died: 1964

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ramanujan
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: ancient-greek,geometry,nationality-india,puzzles-and-problems
+tags: ancient-greek,geometry,origin-india,puzzles-and-problems
 title: Ramanujan, Srinivasa Aiyangar
 born: 1887
 died: 1920

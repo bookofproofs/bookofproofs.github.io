@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rozycki
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Różycki, Jerzy
 born: 1909
 died: 1942

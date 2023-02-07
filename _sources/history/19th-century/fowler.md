@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fowler
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-england,physics
+tags: astronomy,origin-england,physics
 title: Fowler, Ralph
 born: 1889
 died: 1944

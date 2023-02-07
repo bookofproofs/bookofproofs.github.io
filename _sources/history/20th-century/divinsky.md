@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Divinsky
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-canada
+tags: origin-canada
 title: Divinsky, Nathan Joseph Harry
 born: 1925
 died: 2006

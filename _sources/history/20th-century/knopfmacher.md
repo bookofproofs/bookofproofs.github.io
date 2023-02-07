@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Knopfmacher
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-south-africa
+tags: african,origin-south-africa
 title: Knopfmacher, John
 born: 1937
 died: 1999

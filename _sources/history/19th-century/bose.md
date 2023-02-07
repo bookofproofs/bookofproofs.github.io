@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bose
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-india,physics
+tags: origin-india,physics
 title: Bose, Satyendranath
 born: 1894
 died: 1974

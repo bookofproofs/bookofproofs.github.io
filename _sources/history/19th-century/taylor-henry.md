@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Taylor_Henry
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Taylor (2), Henry
 born: 1842
 died: 1927

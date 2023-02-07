@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Obada
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-egypt
+tags: origin-egypt
 title: Obada, Abdel-Shafy
 born: 1941
 died: 1978

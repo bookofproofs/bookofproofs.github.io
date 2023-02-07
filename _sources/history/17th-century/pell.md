@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pell
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: algebra,ancient-indian,astronomy,geography,nationality-england,number-theory
+tags: algebra,ancient-indian,astronomy,geography,origin-england,number-theory
 title: Pell, John
 born: 1611
 died: 1685

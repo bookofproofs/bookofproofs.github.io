@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chree
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Chree, Charles
 born: 1860
 died: 1928

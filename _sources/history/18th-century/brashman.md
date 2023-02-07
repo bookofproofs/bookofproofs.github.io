@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brashman
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-czech-republic
+tags: astronomy,origin-czech-republic
 title: Brashman, Nikolai Dmetrievich
 born: 1796
 died: 1866

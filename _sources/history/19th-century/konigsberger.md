@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Konigsberger
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Königsberger, Leo
 born: 1837
 died: 1921

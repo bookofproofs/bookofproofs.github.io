@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Beurling
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-sweden
+tags: origin-sweden
 title: Beurling, Arne Carl-August
 born: 1905
 died: 1986

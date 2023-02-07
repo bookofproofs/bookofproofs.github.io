@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Guthrie
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-scotland,puzzles-and-problems,topology
+tags: astronomy,origin-scotland,puzzles-and-problems,topology
 title: Guthrie, William Gilmour
 born: 1905
 died: 1978

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Turnbull
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,ancient-chinese,chinese,nationality-england
+tags: algebra,ancient-chinese,chinese,origin-england
 title: Turnbull, Herbert Westren
 born: 1885
 died: 1961

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sluze
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-belgium
+tags: astronomy,origin-belgium
 title: De Sluze, René François Walter
 born: 1622
 died: 1685

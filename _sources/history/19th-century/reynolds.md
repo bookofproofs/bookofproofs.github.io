@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Reynolds
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland
+tags: origin-ireland
 title: Reynolds, Osborne
 born: 1842
 died: 1912

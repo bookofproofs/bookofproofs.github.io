@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hecht
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-germany
+tags: origin-germany
 title: Hecht, Daniel Friedrich
 born: 1777
 died: 1833

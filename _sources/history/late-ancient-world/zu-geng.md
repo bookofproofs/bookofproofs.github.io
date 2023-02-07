@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zu_Geng
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-chinese,astronomy,chinese,nationality-china
+tags: ancient-chinese,astronomy,chinese,origin-china
 title: Geng, Zu
 born: 450
 died: 520

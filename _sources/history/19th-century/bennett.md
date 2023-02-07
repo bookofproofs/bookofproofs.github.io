@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bennett
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Bennett, Geoffrey Thomas
 born: 1868
 died: 1943

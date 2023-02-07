@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zeuthen
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-denmark,special-numbers-and-numerals
+tags: origin-denmark,special-numbers-and-numerals
 title: Zeuthen, Hieronymous Georg
 born: 1839
 died: 1920

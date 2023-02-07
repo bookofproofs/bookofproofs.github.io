@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bachmann
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-germany
+tags: algebra,origin-germany
 title: Bachmann, Paul Gustav Heinrich
 born: 1837
 died: 1920

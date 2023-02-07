@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jevons
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,statistics
+tags: origin-england,statistics
 title: Jevons, Stanley
 born: 1835
 died: 1882

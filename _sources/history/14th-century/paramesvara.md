@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Paramesvara
 categories: history,14th-century
 parentid: bookofproofs$602
-tags: ancient-indian,astronomy,nationality-india
+tags: ancient-indian,astronomy,origin-india
 title: Paramesvara
 born: 1370
 died: 1460

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hunyadi
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-hungary
+tags: origin-hungary
 title: Hunyadi, Jeno
 born: 1838
 died: 1889

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Erlang
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-denmark
+tags: astronomy,origin-denmark
 title: Erlang, Agner Krarup
 born: 1878
 died: 1929

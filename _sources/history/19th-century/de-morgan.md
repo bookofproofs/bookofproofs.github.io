@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$De_Morgan
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: ancient-greek,geometry,nationality-india,number-theory,puzzles-and-problems,special-numbers-and-numerals,topology
+tags: ancient-greek,geometry,origin-india,number-theory,puzzles-and-problems,special-numbers-and-numerals,topology
 title: Augustus, De Morgan
 born: 1806
 died: 1871

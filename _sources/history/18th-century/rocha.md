@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rocha
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-portugal
+tags: astronomy,origin-portugal
 title: Da Rocha, Monteiro
 born: 1734
 died: 1819

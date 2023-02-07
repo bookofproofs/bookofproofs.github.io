@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nagata
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan
+tags: origin-japan
 title: Nagata, Masayoshi
 born: 1927
 died: 2008

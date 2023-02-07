@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Frewin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Frewin, Gilbert Leslie
 born: 1902
 died: 1998

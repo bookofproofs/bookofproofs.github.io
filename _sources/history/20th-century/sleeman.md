@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sleeman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Sleeman, Brian
 born: 1939
 died: 2021

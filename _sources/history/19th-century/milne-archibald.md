@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Milne_Archibald
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Milne, Archibald
 born: 1875
 died: 1958

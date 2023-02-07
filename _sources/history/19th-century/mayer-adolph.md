@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mayer_Adolph
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Mayer (2), Christian Adolph
 born: 1839
 died: 1908

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Eckert_Wallace
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: Eckert, Wallace J.
 born: 1902
 died: 1971

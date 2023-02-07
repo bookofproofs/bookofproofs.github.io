@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bonnycastle
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Bonnycastle, John
 born: 1751
 died: 1821

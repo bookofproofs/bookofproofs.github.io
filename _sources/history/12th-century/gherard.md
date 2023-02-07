@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gherard
 categories: history,12th-century
 parentid: bookofproofs$607
-tags: ancient-greek,astronomy,nationality-italy
+tags: ancient-greek,astronomy,origin-italy
 title: Gherard Of Cremona
 born: 1114
 died: 1187

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Takagi
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-japan
+tags: origin-japan
 title: Takagi, Teiji
 born: 1875
 died: 1960

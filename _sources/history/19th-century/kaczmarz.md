@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kaczmarz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Kaczmarz, Stefan Marian
 born: 1895
 died: 1939

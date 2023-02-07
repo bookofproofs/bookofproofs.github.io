@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Darwin_C_G
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Darwin (2), Charles Galton
 born: 1887
 died: 1962

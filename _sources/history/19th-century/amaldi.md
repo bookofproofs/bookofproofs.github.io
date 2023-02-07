@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Amaldi
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Amaldi, Ugo
 born: 1875
 died: 1957

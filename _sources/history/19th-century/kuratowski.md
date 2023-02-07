@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kuratowski
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland,topology
+tags: origin-poland,topology
 title: Kuratowski, Kazimierz
 born: 1896
 died: 1980

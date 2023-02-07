@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Straus
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Straus, Ernst Gabor
 born: 1922
 died: 1983

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ball_Robert
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-ireland
+tags: astronomy,origin-ireland
 title: Ball, Robert
 born: 1840
 died: 1913

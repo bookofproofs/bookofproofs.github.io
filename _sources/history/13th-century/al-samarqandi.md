@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Samarqandi
 categories: history,13th-century
 parentid: bookofproofs$606
-tags: ancient-arab,astronomy,nationality-uzbekistan
+tags: ancient-arab,astronomy,origin-uzbekistan
 title: Al-Samarqandi, Shams al-Din
 born: 1250
 died: 1310

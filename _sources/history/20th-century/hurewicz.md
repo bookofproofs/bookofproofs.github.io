@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hurewicz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland,topology
+tags: origin-poland,topology
 title: Hurewicz, Witold
 born: 1904
 died: 1956

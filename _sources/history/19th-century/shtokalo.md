@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shtokalo
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Shtokalo, Josif Zakharovich
 born: 1897
 died: 1987

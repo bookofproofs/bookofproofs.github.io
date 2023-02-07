@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Snedecor
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Snedecor, George Waddel
 born: 1881
 died: 1974

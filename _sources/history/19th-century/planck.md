@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Planck
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany,nobel-prize,physics
+tags: origin-germany,nobel-prize,physics
 title: Planck, Max Karl Ernst Ludwig
 born: 1858
 died: 1947

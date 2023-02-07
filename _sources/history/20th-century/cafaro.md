@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cafaro
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Cafaro, Emilio
 born: 1952
 died: 2015

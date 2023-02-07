@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gysel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-switzerland
+tags: astronomy,origin-switzerland
 title: Gysel, Julius
 born: 1851
 died: 1935

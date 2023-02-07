@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Grunewald
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-germany
+tags: group-theory,origin-germany
 title: Grunewald, Fritz Alfred Joachim
 born: 1949
 died: 2010

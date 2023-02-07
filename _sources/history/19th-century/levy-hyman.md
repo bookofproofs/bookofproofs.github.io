@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Levy_Hyman
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Levy, Hyman
 born: 1889
 died: 1975

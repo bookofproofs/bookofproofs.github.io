@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bing
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,topology
+tags: origin-usa,topology
 title: Bing, R. H.
 born: 1914
 died: 1986

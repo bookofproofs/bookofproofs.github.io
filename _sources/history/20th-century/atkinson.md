@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Atkinson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Atkinson, Frederick Valentine
 born: 1916
 died: 2002

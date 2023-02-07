@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Estermann
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Estermann, Theodor
 born: 1902
 died: 1991

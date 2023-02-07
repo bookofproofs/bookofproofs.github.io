@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Li_Zhi
 categories: history,12th-century
 parentid: bookofproofs$607
-tags: ancient-chinese,chinese,nationality-china,puzzles-and-problems
+tags: ancient-chinese,chinese,origin-china,puzzles-and-problems
 title: Zhi, Li
 born: 1192
 died: 1279

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Penney
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-gibraltar
+tags: origin-gibraltar
 title: Penney, William George
 born: 1909
 died: 1991

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Oleinik
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine,women
+tags: origin-ukraine,women
 title: Oleinik, Olga Arsen'evna
 born: 1925
 died: 2001

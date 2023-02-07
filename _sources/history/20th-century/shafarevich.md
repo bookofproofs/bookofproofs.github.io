@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shafarevich
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-ukraine,puzzles-and-problems
+tags: algebra,group-theory,origin-ukraine,puzzles-and-problems
 title: Shafarevich, Igor Rostislavovich
 born: 1923
 died: 2017

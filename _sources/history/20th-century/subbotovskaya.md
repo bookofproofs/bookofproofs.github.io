@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Subbotovskaya
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Subbotovskaya, Bella Abramovna
 born: 1937
 died: 1982

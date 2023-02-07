@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Niven
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Niven, William Davidson
 born: 1842
 died: 1917

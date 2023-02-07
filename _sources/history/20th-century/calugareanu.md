@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Calugareanu
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-romania
+tags: origin-romania
 title: Calugăreănu, Gheorghe
 born: 1902
 died: 1976

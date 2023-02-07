@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sidler
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-switzerland
+tags: astronomy,origin-switzerland
 title: Sidler, Georg Joseph
 born: 1831
 died: 1907

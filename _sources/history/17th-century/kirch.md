@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kirch
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Kirch, Maria Margarethe Winckelmann
 born: 1670
 died: 1720

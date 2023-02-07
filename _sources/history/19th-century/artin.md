@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Artin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,nationality-austria
+tags: algebra,group-theory,origin-austria
 title: Artin, Emil
 born: 1898
 died: 1962

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schoenberg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-romania
+tags: origin-romania
 title: Schoenberg, Isaac Jacob
 born: 1903
 died: 1990

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gigli
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Gigli, Duilio
 born: 1878
 died: 1933

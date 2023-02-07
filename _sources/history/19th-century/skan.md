@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Skan
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,women
+tags: origin-england,women
 title: Skan, Sylvia
 born: 1897
 died: 1972

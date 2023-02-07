@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hajek
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Hájek, Jaroslav
 born: 1926
 died: 1974

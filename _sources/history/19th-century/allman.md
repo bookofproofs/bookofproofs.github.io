@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Allman
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland
+tags: origin-ireland
 title: Allman, George Johnston
 born: 1824
 died: 1904

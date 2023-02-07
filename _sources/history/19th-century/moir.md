@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Moir
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland,women
+tags: origin-scotland,women
 title: Moir, Margaret Barr
 born: 1883
 died: 1975

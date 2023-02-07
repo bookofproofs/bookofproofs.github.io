@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sommerville
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-india
+tags: astronomy,origin-india
 title: Sommerville, Duncan MacLaren Young
 born: 1879
 died: 1934

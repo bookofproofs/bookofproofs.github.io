@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Allan_Graham
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Allan, Graham
 born: 1936
 died: 2007

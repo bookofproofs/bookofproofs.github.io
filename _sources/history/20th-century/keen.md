@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Keen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Keen, Linda Goldway
 born: 1940
 died: 2011

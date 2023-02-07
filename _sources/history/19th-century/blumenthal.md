@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Blumenthal
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Blumenthal, Ludwig Otto
 born: 1876
 died: 1944

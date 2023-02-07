@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Harish-Chandra
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-india
+tags: origin-india
 title: Harish-Chandra
 born: 1923
 died: 1983

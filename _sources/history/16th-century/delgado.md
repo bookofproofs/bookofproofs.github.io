@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Delgado
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-portugal
+tags: astronomy,origin-portugal
 title: Delgado, João
 born: 1553
 died: 1612

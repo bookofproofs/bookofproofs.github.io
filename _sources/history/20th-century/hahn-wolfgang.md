@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hahn_Wolfgang
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Hahn (2), Wolfgang
 born: 1911
 died: 1998

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$MacKenzie_Charles
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Mackenzie, Charles
 born: 1825
 died: 1862

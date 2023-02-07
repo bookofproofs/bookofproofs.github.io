@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vladimirov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Vladimirov, Vasilii Sergeevich
 born: 1923
 died: 2012

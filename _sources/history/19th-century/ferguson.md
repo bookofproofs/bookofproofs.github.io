@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ferguson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Ferguson, Robert McNair
 born: 1829
 died: 1912

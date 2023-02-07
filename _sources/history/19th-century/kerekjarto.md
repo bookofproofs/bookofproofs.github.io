@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kerekjarto
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-hungary,topology
+tags: origin-hungary,topology
 title: Kerékjártó, Béla
 born: 1898
 died: 1946

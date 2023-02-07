@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dennis
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Dennis, Joseph James
 born: 1905
 died: 1977

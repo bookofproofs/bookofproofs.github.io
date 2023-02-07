@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Everett
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-scotland,women
+tags: astronomy,origin-scotland,women
 title: Everett, Alice
 born: 1865
 died: 1949

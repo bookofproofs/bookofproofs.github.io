@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stoilow
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-romania
+tags: origin-romania
 title: Stoilow, Simion
 born: 1887
 died: 1961

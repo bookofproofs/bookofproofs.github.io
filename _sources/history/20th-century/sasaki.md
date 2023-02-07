@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sasaki
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan
+tags: origin-japan
 title: Sasaki, Shigeo
 born: 1912
 died: 1987

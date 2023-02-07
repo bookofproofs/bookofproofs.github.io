@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sato
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan,wolf-prize
+tags: origin-japan,wolf-prize
 title: Sato, Mikio
 born: 1928
 died: 2023

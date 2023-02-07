@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Atwood
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Atwood, George
 born: 1745
 died: 1807

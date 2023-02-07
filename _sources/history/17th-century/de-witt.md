@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$De_Witt
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: algebra,nationality-netherlands
+tags: algebra,origin-netherlands
 title: De Witt, Jan
 born: 1625
 died: 1672

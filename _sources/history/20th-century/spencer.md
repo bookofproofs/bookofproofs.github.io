@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Spencer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Spencer, Donald Clayton
 born: 1912
 died: 2001

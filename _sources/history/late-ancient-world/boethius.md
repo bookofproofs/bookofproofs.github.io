@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Boethius
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: astronomy,nationality-italy
+tags: astronomy,origin-italy
 title: Boethius, Anicius Manlius Severinus
 born: 480
 died: 524

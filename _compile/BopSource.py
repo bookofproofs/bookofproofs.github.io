@@ -42,6 +42,7 @@ class BopSource:
     root_nodes = ["bookofproofs$0", "bookofproofs$2", "bookofproofs$i"]
     url_root = "https://bookofproofs.github.io"
     url_images = "https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources"
+    nodeid_pattern = r"[a-z0-9]+\$[A-Za-z0-9\-\_]+"
 
     def __init__(self, file_name: str):
         self.fm = FileMgr()
@@ -77,8 +78,8 @@ class BopSource:
         self.scripts = dict()
         self.issues = list()
         self.tags = list()
-        self.born = "0"
-        self.died = "0"
+        self.born = 0
+        self.died = 0
         self._init_properties(contents[0])
         self._sanitize_lists()
         self._content = ""
@@ -144,9 +145,23 @@ class BopSource:
                 elif prop_split[0] == "tags":
                     self.tags = prop_split[1].split(",")
                 elif prop_split[0] == "born":
-                    self.tags = prop_split[1].split(",")
+                    try:
+                        self.born = int(prop_split[1].strip())
+                    except:
+                        raise BopValidationError("PERSON", "02",
+                                                 "born '{0}' must be an integer in {1}".format(
+                                                     prop_split[1].strip(),
+                                                     self._file_name)
+                                                 )
                 elif prop_split[0] == "died":
-                    self.tags = prop_split[1].split(",")
+                    try:
+                        self.died = int(prop_split[1].strip())
+                    except:
+                        raise BopValidationError("PERSON", "02",
+                                                 "died '{0}' must be an integer in {1}".format(
+                                                     prop_split[1].strip(),
+                                                     self._file_name)
+                                                 )
                 elif prop_split[0] == "issues":
                     self.issues = prop_split[1].split(",")
                 else:
@@ -384,6 +399,17 @@ class BopSource:
                                                                    bop_source.get_title_for_anchor(),
                                                                    counter)
             ret += "<br>"
+        return ret
+
+    def get_relevant_tags_html(self):
+        ret = ""
+        if len(self.tags) != 0:
+            ret += "<h3 class='navigation'>Tags relevant for this {0}:</h3>\n\n".format(self.layout)
+            pretty_tags = list()
+            for tag in self.tags:
+                pretty = tag.replace("-", " ").title()
+                pretty_tags.append(pretty)
+            ret += "> " + ", ".join(pretty_tags)
         return ret
 
     def get_title_for_anchor(self):

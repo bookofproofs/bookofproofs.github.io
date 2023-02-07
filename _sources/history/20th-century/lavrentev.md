@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lavrentev
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Lavrentev, Mikhail Alekseevich
 born: 1900
 died: 1980

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Blaschke
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-austria
+tags: origin-austria
 title: Blaschke, Wilhelm Johann Eugen
 born: 1885
 died: 1962

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Castelli
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: nationality-italy
+tags: origin-italy
 title: Castelli, Benedetto Antonio
 born: 1578
 died: 1643

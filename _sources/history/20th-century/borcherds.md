@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Borcherds
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,fields-medal,group-theory,nationality-south-africa
+tags: african,fields-medal,group-theory,origin-south-africa
 title: Borcherds, Richard Ewen
 born: 1959
 died: 2012

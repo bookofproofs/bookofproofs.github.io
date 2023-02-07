@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Morrison
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Morrison, John Todd
 born: 1863
 died: 1944

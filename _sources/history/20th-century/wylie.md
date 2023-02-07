@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wylie
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,topology
+tags: origin-england,topology
 title: Wylie, Shaun
 born: 1913
 died: 2009

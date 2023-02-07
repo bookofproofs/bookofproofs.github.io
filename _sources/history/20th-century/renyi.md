@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Renyi
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Rényi, Alfréd
 born: 1921
 died: 1970

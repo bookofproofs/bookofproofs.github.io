@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brunelleschi
 categories: history,14th-century
 parentid: bookofproofs$602
-tags: architecture,geometry,nationality-italy
+tags: architecture,geometry,origin-italy
 title: Brunelleschi, Filippo
 born: 1377
 died: 1446

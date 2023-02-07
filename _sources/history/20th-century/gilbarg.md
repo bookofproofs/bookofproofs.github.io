@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gilbarg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Gilbarg, David
 born: 1918
 died: 2001

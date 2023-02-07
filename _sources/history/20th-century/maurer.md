@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Maurer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-romania,topology
+tags: group-theory,origin-romania,topology
 title: Maurer, Gyula Iulius
 born: 1927
 died: 2012

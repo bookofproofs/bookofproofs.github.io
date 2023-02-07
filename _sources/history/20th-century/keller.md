@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Keller
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Keller, Eduard Ott-Heinrich
 born: 1906
 died: 1990

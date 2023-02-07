@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zeno_of_Elea
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: analysis,ancient-greek,nationality-italy,physics,set-theory,special-numbers-and-numerals
+tags: analysis,ancient-greek,origin-italy,physics,set-theory,special-numbers-and-numerals
 title: Zeno Of Elea
 born: -490
 died: -425

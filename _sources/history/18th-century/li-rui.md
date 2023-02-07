@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Li_Rui
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: ancient-chinese,chinese,nationality-china
+tags: ancient-chinese,chinese,origin-china
 title: Rui, Li
 born: 1768
 died: 1817

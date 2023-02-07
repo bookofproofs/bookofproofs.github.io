@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Birkhoff
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa,physics,puzzles-and-problems,topology
+tags: astronomy,origin-usa,physics,puzzles-and-problems,topology
 title: Birkhoff, George David
 born: 1884
 died: 1944

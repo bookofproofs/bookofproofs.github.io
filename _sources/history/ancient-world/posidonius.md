@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Posidonius
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,astronomy,nationality-syria
+tags: ancient-greek,astronomy,origin-syria
 title: Posidonius Of Rhodes
 born: -135
 died: -51

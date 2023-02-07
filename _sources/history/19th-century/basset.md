@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Basset
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Basset, Alfred Barnard
 born: 1854
 died: 1930

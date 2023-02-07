@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Scheffers
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Scheffers, Georg Wilhelm
 born: 1866
 died: 1945

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pascal_Ernesto
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Pascal (3), Ernesto
 born: 1865
 died: 1940

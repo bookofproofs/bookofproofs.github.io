@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gluskin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Gluskin, Lazar Matveevich
 born: 1922
 died: 1985

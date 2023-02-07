@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fallows
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-england
+tags: origin-england
 title: Fallows, Fearon
 born: 1788
 died: 1831

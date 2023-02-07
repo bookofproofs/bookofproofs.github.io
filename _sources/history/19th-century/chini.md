@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chini
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Chini, Mineo
 born: 1866
 died: 1933

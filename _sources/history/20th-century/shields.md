@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shields
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Shields, Allen Lowell
 born: 1927
 died: 1989

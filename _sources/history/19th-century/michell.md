@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Michell
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-australia
+tags: origin-australia
 title: Michell, John Henry
 born: 1863
 died: 1940

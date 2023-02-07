@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Molyneux_William
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-ireland
+tags: origin-ireland
 title: Molyneux, William
 born: 1656
 died: 1698

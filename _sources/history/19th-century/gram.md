@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gram
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-denmark
+tags: origin-denmark
 title: Gram, Jorgen Pedersen
 born: 1850
 died: 1916

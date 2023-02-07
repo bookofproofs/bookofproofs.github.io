@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Russell_Scott
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Russell, John Scott
 born: 1808
 died: 1882

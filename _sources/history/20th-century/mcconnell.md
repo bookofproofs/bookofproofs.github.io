@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$McConnell
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-ireland
+tags: group-theory,origin-ireland
 title: Mcconnell, James Robert
 born: 1915
 died: 1999

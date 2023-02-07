@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cunha
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-portugal
+tags: origin-portugal
 title: Da Cunha, José Anastácio
 born: 1744
 died: 1787

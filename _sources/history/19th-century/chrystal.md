@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chrystal
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-scotland
+tags: algebra,origin-scotland
 title: Chrystal, George
 born: 1851
 died: 1911

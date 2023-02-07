@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Young_Andrew
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Young (5), Andrew
 born: 1891
 died: 1968

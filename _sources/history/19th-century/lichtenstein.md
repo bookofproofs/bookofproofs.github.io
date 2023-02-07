@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lichtenstein
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Lichtenstein, Leon
 born: 1878
 died: 1933

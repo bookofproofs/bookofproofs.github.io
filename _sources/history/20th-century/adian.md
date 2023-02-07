@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Adian
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-azerbaijan,puzzles-and-problems
+tags: algebra,group-theory,origin-azerbaijan,puzzles-and-problems
 title: Adian, Sergei Ivanovich
 born: 1931
 died: 2020

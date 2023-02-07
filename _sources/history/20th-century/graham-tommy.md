@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Graham_Tommy
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Graham, Thomas
 born: 1905
 died: 1974

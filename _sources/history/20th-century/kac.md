@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kac
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Kac, Mark
 born: 1914
 died: 1984

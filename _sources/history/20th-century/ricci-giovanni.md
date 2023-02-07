@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ricci_Giovanni
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Ricci (3), Giovanni
 born: 1904
 died: 1973

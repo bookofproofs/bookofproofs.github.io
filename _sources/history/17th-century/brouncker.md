@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brouncker
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: algebra,ancient-indian,geography,nationality-ireland,number-theory
+tags: algebra,ancient-indian,geography,origin-ireland,number-theory
 title: Brouncker, William
 born: 1620
 died: 1684

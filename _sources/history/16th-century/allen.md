@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Allen
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: nationality-england
+tags: origin-england
 title: Allen, Thomas
 born: 1540
 died: 1632

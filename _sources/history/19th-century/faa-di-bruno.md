@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Faa_di_Bruno
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-italy
+tags: astronomy,origin-italy
 title: Bruno (2), Francesco Faà di
 born: 1825
 died: 1888

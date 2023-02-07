@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Jayyani
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: astronomy,nationality-spain
+tags: astronomy,origin-spain
 title: Al-Jayyani, Abu Abd Allah Muhammad ibn Muadh
 born: 989
 died: 1079

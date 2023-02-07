@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dantzig
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands,topology
+tags: origin-netherlands,topology
 title: Van Dantzig, David
 born: 1900
 died: 1959

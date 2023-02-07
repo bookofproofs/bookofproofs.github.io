@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Herstein
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Herstein, Israel Nathan
 born: 1923
 died: 1988

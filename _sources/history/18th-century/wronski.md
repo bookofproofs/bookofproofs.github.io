@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wronski
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-poland
+tags: astronomy,origin-poland
 title: De Wronski, Josef-Maria Hoëné
 born: 1778
 died: 1853

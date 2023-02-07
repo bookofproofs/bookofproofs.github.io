@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jessen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-denmark
+tags: origin-denmark
 title: Jessen, Børge
 born: 1907
 died: 1993

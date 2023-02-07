@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kamalakara
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: ancient-indian,astronomy,nationality-india
+tags: ancient-indian,astronomy,origin-india
 title: Kamalakara
 born: 1616
 died: 1700

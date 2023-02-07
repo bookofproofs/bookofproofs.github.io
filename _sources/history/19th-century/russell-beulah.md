@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Russell_Beulah
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Russell (4), Beulah
 born: 1878
 died: 1940

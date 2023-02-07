@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nugel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany,women
+tags: origin-germany,women
 title: Nugel, Frieda
 born: 1884
 died: 1966

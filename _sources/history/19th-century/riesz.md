@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Riesz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-hungary,physics,topology
+tags: origin-hungary,physics,topology
 title: Riesz, Frigyes
 born: 1880
 died: 1956

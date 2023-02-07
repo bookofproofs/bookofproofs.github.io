@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fennema
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Fennema, Elizabeth
 born: 1928
 died: 2021

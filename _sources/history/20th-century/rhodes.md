@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rhodes
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine,women
+tags: origin-ukraine,women
 title: Rhodes, Ida
 born: 1900
 died: 1986

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Munn
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Munn, Walter Douglas
 born: 1929
 died: 2008

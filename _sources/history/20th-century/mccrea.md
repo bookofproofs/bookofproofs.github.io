@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$McCrea
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-ireland
+tags: astronomy,origin-ireland
 title: Mccrea, William Hunter
 born: 1904
 died: 1999

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chowla
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Chowla, Sarvadaman
 born: 1907
 died: 1995

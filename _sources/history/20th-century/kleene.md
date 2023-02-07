@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kleene
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-usa
+tags: algebra,group-theory,origin-usa
 title: Kleene, Stephen Cole
 born: 1909
 died: 1994

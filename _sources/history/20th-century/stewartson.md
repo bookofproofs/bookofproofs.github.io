@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stewartson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Stewartson, Keith
 born: 1925
 died: 1983

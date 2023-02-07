@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lefebure
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-haiti
+tags: astronomy,origin-haiti
 title: De Fourcy, Louis Lefébure
 born: 1787
 died: 1869

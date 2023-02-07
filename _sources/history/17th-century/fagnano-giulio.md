@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fagnano_Giulio
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-italy,physics
+tags: origin-italy,physics
 title: Fagnano, Giulio
 born: 1682
 died: 1766

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Leavitt
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa,women
+tags: astronomy,origin-usa,women
 title: Leavitt, Henrietta Swan
 born: 1868
 died: 1921

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zhukovsky
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Zhukovsky, Nikolai Egorovich
 born: 1847
 died: 1921

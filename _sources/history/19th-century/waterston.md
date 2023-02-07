@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Waterston
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-scotland
+tags: astronomy,origin-scotland
 title: Waterston, John James
 born: 1811
 died: 1883

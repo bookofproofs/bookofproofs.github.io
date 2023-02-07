@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Manfredi_Gabriele
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-italy
+tags: astronomy,origin-italy
 title: Manfredi (2), Gabriele
 born: 1681
 died: 1761

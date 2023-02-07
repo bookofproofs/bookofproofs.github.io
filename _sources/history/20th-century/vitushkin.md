@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vitushkin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Vitushkin, Anatoli Georgievich
 born: 1931
 died: 2004

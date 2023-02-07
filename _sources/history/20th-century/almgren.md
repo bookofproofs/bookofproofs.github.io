@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Almgren
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Almgren, Frederick Justin
 born: 1933
 died: 1997

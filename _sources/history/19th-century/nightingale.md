@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nightingale
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy,statistics,women
+tags: origin-italy,statistics,women
 title: Nightingale, Florence
 born: 1820
 died: 1910

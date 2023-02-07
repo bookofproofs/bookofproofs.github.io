@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Artzy
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Artzy, Rafael
 born: 1912
 died: 2006

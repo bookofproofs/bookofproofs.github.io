@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Farisi
 categories: history,13th-century
 parentid: bookofproofs$606
-tags: ancient-arab,nationality-iran
+tags: ancient-arab,origin-iran
 title: Al-Farisi
 born: 1260
 died: 1320

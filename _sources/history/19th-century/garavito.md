@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Garavito
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-colombia
+tags: origin-colombia
 title: Garavito, Julio
 born: 1865
 died: 1920

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wright_Fred
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Wright (3), Fred
 born: 1925
 died: 2006

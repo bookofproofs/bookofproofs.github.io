@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wales
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ireland,women
+tags: origin-ireland,women
 title: Wales, Muriel Kennett
 born: 1913
 died: 2009

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Salem
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-greece
+tags: origin-greece
 title: Salem, Raphaël
 born: 1898
 died: 1963

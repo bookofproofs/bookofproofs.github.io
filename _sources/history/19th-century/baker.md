@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Baker
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Baker, Henry Frederick
 born: 1866
 died: 1956

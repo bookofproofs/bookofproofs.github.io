@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Boggio
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Boggio, Tommaso
 born: 1877
 died: 1963

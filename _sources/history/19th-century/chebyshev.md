@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chebyshev
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia,number-theory,special-numbers-and-numerals
+tags: origin-russia,number-theory,special-numbers-and-numerals
 title: Chebyshev, Pafnuty Lvovich
 born: 1821
 died: 1894

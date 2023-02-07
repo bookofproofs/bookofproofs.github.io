@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pillai
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-india,statistics
+tags: origin-india,statistics
 title: Pillai, K. C. Sreedharan
 born: 1920
 died: 1985

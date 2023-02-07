@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Alele-Williams
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-nigeria,women
+tags: african,origin-nigeria,women
 title: Alele-Williams, Grace
 born: 1932
 died: 2022

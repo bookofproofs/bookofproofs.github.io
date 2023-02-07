@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$De_Valera
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: De Valera, Éamon
 born: 1882
 died: 1975

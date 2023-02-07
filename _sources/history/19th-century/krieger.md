@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Krieger
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland,women
+tags: origin-poland,women
 title: Krieger, Cypra Cecilia
 born: 1894
 died: 1974

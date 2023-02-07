@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Heun
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Heun, Karl
 born: 1859
 died: 1929

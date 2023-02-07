@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Northcott
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Northcott, Douglas Geoffrey
 born: 1916
 died: 2005

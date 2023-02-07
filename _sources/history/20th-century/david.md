@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$David
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,statistics,women
+tags: origin-england,statistics,women
 title: David, Florence Nightingale
 born: 1909
 died: 1993

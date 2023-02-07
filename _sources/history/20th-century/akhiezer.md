@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Akhiezer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-belarus
+tags: origin-belarus
 title: Akhiezer, Naum Il'ich
 born: 1901
 died: 1980

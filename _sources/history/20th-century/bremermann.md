@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bremermann
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Bremermann, Hans-Joachim
 born: 1926
 died: 1996

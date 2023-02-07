@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$SGravesande
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-netherlands
+tags: astronomy,origin-netherlands
 title: 'Sgravesande, Willem Jacob
 born: 1688
 died: 1742

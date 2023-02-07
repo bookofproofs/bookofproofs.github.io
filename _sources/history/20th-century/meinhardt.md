@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Meinhardt
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Meinhardt, Hans
 born: 1938
 died: 2016

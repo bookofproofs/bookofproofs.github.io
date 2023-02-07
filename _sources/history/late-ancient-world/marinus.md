@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Marinus
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-greek,astronomy,nationality-israel
+tags: ancient-greek,astronomy,origin-israel
 title: Marinus Of Neapolis
 born: 450
 died: 500

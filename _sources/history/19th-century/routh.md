@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Routh
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-canada,physics
+tags: astronomy,origin-canada,physics
 title: Routh, Edward John
 born: 1831
 died: 1907

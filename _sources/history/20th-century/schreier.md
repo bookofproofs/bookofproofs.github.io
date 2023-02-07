@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schreier
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-austria,puzzles-and-problems
+tags: algebra,group-theory,origin-austria,puzzles-and-problems
 title: Schreier, Otto
 born: 1901
 died: 1929

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zhang_Heng
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: astronomy,nationality-china
+tags: astronomy,origin-china
 title: Heng, Zhang
 born: 78
 died: 139

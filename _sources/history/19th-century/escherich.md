@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Escherich
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Von Escherich, Gustav
 born: 1849
 died: 1935

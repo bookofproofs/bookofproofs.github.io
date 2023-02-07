@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Campbell
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland
+tags: origin-ireland
 title: Campbell, John Edward
 born: 1862
 died: 1924

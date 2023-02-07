@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nessyahu
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-israel
+tags: origin-israel
 title: Nessyahu, Haim
 born: 1964
 died: 1994

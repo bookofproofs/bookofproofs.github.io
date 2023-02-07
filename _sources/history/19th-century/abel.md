@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Abel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: abel-prize,algebra,group-theory,nationality-norway
+tags: abel-prize,algebra,group-theory,origin-norway
 title: Abel, Niels Henrik
 born: 1802
 died: 1829

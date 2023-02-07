@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Young_Thomas
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-england,physics
+tags: astronomy,origin-england,physics
 title: Young, Thomas
 born: 1773
 died: 1829

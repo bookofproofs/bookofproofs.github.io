@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dinostratus
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,geometry,nationality-greece,puzzles-and-problems
+tags: ancient-greek,geometry,origin-greece,puzzles-and-problems
 title: Dinostratus
 born: -390
 died: -320

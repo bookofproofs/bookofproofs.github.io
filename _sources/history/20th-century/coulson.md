@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Coulson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Coulson, Charles Alfred
 born: 1910
 died: 1974

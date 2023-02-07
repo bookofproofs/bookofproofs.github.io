@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fichera
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Fichera, Gaetano
 born: 1922
 died: 1996

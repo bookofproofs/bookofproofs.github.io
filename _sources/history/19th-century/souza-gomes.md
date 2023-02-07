@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Souza_Gomes
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-brazil
+tags: origin-brazil
 title: De Souza, Joaquim Gomes
 born: 1829
 died: 1864

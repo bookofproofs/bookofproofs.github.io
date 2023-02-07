@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sinai
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,nationality-russia,wolf-prize
+tags: abel-prize,origin-russia,wolf-prize
 title: Sinai, Yakov Grigorevich
 born: 1935
 died: 2020

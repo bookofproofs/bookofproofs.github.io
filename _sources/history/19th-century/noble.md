@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Noble
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Noble, Charles Albert
 born: 1867
 died: 1962

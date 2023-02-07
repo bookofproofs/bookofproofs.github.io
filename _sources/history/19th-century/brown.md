@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brown
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-england,physics
+tags: astronomy,origin-england,physics
 title: Clark (2), John Brown
 born: 1866
 died: 1938

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shnirelman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-belarus,topology
+tags: origin-belarus,topology
 title: Shnirelman, Lev Genrikhovich
 born: 1905
 died: 1938

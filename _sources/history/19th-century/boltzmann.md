@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Boltzmann
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-austria,physics
+tags: origin-austria,physics
 title: Boltzmann, Ludwig
 born: 1844
 died: 1906

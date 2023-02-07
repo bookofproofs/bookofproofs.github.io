@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Carse
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Carse, George Alexander
 born: 1880
 died: 1950

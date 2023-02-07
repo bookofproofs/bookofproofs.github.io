@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ingarden
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Ingarden, Roman
 born: 1920
 died: 2011

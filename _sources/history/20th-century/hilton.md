@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hilton
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,topology
+tags: origin-england,topology
 title: Hilton, Peter John
 born: 1923
 died: 2010

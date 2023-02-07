@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ramanathan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-india
+tags: origin-india
 title: Ramanathan, Kollagunta Gopalaiyer
 born: 1920
 died: 1992

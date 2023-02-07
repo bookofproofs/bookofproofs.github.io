@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Allotey
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-ghana
+tags: african,origin-ghana
 title: Allotey, Francis
 born: 1932
 died: 2017

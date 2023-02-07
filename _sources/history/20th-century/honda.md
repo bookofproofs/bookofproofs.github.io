@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Honda
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan
+tags: origin-japan
 title: Honda, Taira
 born: 1932
 died: 1975

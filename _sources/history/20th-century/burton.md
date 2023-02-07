@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Burton
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-australia,women
+tags: origin-australia,women
 title: Burton, Leone Minna Gold
 born: 1936
 died: 2007

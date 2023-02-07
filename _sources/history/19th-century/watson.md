@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Watson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Watson (3), Henry William
 born: 1886
 died: 1965

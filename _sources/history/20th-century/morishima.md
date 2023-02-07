@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Morishima
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan
+tags: origin-japan
 title: Morishima, Taro
 born: 1903
 died: 1989

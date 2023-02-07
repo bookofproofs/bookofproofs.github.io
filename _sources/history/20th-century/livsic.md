@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Livsic
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Livsic, Mikhail Samuilovich
 born: 1917
 died: 2007

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rutishauser
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Rutishauser, Heinz
 born: 1918
 died: 1970

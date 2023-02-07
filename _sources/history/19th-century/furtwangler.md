@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Furtwangler
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany,number-theory
+tags: origin-germany,number-theory
 title: Furtwängler, Philipp
 born: 1869
 died: 1940

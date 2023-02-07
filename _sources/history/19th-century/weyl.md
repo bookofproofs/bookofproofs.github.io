@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Weyl
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,group-theory,nationality-germany,physics
+tags: analysis,group-theory,origin-germany,physics
 title: Weyl, Hermann Klaus Hugo
 born: 1885
 died: 1955

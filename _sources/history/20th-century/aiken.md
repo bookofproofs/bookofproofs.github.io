@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Aiken
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Aiken, Howard Hathaway
 born: 1900
 died: 1973

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Warner
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-wales,topology,women
+tags: origin-wales,topology,women
 title: Warner, Mary Wynne
 born: 1932
 died: 1998

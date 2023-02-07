@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Eudoxus
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: analysis,ancient-greek,applied-maths,astronomy,geography,geometry,nationality-turkey,physics,special-numbers-and-numerals
+tags: analysis,ancient-greek,applied-maths,astronomy,geography,geometry,origin-turkey,physics,special-numbers-and-numerals
 title: Eudoxus Of Cnidus
 born: -408
 died: -355

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kublanovskaya
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia,women
+tags: origin-russia,women
 title: Kublanovskaya, Vera Nikolaevna
 born: 1920
 died: 2012

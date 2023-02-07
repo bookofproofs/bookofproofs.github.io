@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Moran
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-australia
+tags: origin-australia
 title: Moran, Patrick
 born: 1917
 died: 1988

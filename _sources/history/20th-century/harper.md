@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Harper
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Harper, Laurence Raymond
 born: 1929
 died: 2002

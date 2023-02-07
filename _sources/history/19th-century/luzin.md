@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Luzin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,nationality-russia
+tags: analysis,origin-russia
 title: Luzin, Nikolai Nikolaevich
 born: 1883
 died: 1950

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schroeter
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Schröter, Heinrich
 born: 1829
 died: 1892

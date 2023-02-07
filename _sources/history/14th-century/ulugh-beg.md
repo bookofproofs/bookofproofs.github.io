@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ulugh_Beg
 categories: history,14th-century
 parentid: bookofproofs$602
-tags: ancient-arab,astronomy,nationality-iran
+tags: ancient-arab,astronomy,origin-iran
 title: Beg, Ulugh
 born: 1393
 died: 1449

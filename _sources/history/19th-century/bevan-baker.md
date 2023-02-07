@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bevan-Baker
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Baker (2), Bevan Braithwaite
 born: 1890
 died: 1963

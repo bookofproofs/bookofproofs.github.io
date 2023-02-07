@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wiman
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: group-theory,nationality-sweden
+tags: group-theory,origin-sweden
 title: Wiman, Anders
 born: 1865
 died: 1959

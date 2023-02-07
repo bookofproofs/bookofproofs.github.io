@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bieberbach
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany,number-theory,special-numbers-and-numerals
+tags: origin-germany,number-theory,special-numbers-and-numerals
 title: Bieberbach, Ludwig Georg Elias Moses
 born: 1886
 died: 1982

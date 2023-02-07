@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schubert
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Schubert, Hermann Cäsar Hannibal
 born: 1848
 died: 1911

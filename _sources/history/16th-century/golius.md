@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Golius
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-netherlands
+tags: astronomy,origin-netherlands
 title: Golius, Jacobus
 born: 1596
 died: 1667

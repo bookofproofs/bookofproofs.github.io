@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Sijzi
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,astronomy,nationality-iran,special-numbers-and-numerals
+tags: ancient-arab,astronomy,origin-iran,special-numbers-and-numerals
 title: Al-Sijzi, Abu Said Ahmad ibn Muhammad
 born: 945
 died: 1020

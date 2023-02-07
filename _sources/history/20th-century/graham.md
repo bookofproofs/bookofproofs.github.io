@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Graham
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Graham (3), Thomas Smith
 born: 1935
 died: 2020

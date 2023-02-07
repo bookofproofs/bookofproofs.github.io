@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gershgorin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-belarus
+tags: origin-belarus
 title: Gershgorin, Semyon Aranovich
 born: 1901
 died: 1933

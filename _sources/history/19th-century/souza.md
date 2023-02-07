@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Souza
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-brazil
+tags: origin-brazil
 title: Souza, Júlio Mello e
 born: 1895
 died: 1974

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wilkinson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Wilkinson, James Hardy
 born: 1919
 died: 1986

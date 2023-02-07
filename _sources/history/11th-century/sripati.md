@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sripati
 categories: history,11th-century
 parentid: bookofproofs$612
-tags: ancient-indian,astronomy,nationality-india
+tags: ancient-indian,astronomy,origin-india
 title: Sripati
 born: 1019
 died: 1066

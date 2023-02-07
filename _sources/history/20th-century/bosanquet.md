@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bosanquet
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Bosanquet, Lancelot Stephen
 born: 1903
 died: 1984

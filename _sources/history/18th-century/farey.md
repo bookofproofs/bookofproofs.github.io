@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Farey
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-england
+tags: origin-england
 title: Farey, John
 born: 1766
 died: 1826

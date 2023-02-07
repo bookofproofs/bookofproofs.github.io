@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ferrel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: Ferrel, William
 born: 1817
 died: 1891

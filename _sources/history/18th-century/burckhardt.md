@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Burckhardt
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-germany,physics
+tags: astronomy,origin-germany,physics
 title: Burckhardt, Johann Karl
 born: 1773
 died: 1825

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Simplicius
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-greek,astronomy,nationality-turkey
+tags: ancient-greek,astronomy,origin-turkey
 title: Simplicius
 born: 490
 died: 560

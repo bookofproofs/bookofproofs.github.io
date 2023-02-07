@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stackel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Stäckel, Paul
 born: 1862
 died: 1919

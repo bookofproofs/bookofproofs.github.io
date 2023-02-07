@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Weatherburn
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-australia
+tags: origin-australia
 title: Weatherburn, Charles Ernest
 born: 1884
 died: 1974

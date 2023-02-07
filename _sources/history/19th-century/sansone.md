@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sansone
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Sansone, Giovanni
 born: 1888
 died: 1979

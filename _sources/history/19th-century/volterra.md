@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Volterra
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Volterra, Samuel Giuseppe Vito
 born: 1860
 died: 1940

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Datta
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-bangladesh
+tags: origin-bangladesh
 title: Datta, Bibhutibhushan
 born: 1888
 died: 1958

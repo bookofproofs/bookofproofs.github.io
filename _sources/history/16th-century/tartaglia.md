@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tartaglia
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: algebra,geometry,nationality-italy,puzzles-and-problems
+tags: algebra,geometry,origin-italy,puzzles-and-problems
 title: Tartaglia, Niccolò
 born: 1500
 died: 1557

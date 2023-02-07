@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Levi-Civita
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-italy,physics
+tags: astronomy,origin-italy,physics
 title: Levi-Civita, Tullio
 born: 1873
 died: 1941

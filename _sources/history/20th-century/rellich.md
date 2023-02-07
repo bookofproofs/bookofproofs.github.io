@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rellich
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Rellich, Franz
 born: 1906
 died: 1955

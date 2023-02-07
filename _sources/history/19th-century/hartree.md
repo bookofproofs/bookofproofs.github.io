@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hartree
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Hartree, Douglas Rayner
 born: 1897
 died: 1958

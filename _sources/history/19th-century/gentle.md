@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gentle
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Gentle, William
 born: 1877
 died: 1964

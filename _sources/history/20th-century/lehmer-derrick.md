@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lehmer_Derrick
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Lehmer (2), Derrick Henry
 born: 1905
 died: 1991

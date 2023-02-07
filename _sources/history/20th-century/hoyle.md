@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hoyle
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-england,physics
+tags: astronomy,origin-england,physics
 title: Hoyle, Sir Fred
 born: 1915
 died: 2001

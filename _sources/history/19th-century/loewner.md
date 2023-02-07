@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Loewner
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Loewner, Charles
 born: 1893
 died: 1968

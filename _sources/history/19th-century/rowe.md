@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rowe
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland
+tags: origin-ireland
 title: Rowe, Charles Henry
 born: 1893
 died: 1980

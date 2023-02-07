@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Szego
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-hungary
+tags: origin-hungary
 title: Szegő, Gábor
 born: 1895
 died: 1985

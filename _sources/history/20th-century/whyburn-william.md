@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Whyburn_William
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Whyburn, William
 born: 1901
 died: 1972

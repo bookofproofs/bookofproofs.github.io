@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Margulis
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,fields-medal,nationality-russia,wolf-prize
+tags: abel-prize,fields-medal,origin-russia,wolf-prize
 title: Margulis, Gregori Aleksandrovic
 born: 1946
 died: 2012

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Xu_Yue
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-chinese,astronomy,chinese,nationality-china
+tags: ancient-chinese,astronomy,chinese,origin-china
 title: Yue, Xu
 born: 160
 died: 227

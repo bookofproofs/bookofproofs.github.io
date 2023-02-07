@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Balmer
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Balmer, Johann Jakob
 born: 1825
 died: 1898

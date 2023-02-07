@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vega
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-slovenia,number-theory,special-numbers-and-numerals
+tags: origin-slovenia,number-theory,special-numbers-and-numerals
 title: Von Vega, Georg Freiherr
 born: 1754
 died: 1802

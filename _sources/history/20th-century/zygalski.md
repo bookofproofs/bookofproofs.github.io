@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zygalski
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Zygalski, Henryk
 born: 1908
 died: 1978

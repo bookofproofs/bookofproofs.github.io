@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stallings
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-usa,topology
+tags: group-theory,origin-usa,topology
 title: Stallings, John Robert
 born: 1935
 died: 2008

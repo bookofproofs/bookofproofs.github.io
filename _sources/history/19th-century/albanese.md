@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Albanese
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Albanese, Giacomo
 born: 1890
 died: 1948

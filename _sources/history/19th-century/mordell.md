@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mordell
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Mordell, Louis Joel
 born: 1888
 died: 1972

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dase
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany,puzzles-and-problems
+tags: origin-germany,puzzles-and-problems
 title: Dase, Johann Martin Zacharias
 born: 1824
 died: 1861

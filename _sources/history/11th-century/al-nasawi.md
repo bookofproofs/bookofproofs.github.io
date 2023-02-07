@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Nasawi
 categories: history,11th-century
 parentid: bookofproofs$612
-tags: ancient-arab,nationality-iran
+tags: ancient-arab,origin-iran
 title: Al-Nasawi
 born: 1010
 died: 1075

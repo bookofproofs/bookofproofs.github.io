@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zehfuss
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Zehfuss, Georg
 born: 1832
 died: 1901

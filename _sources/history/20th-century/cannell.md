@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cannell
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,women
+tags: origin-england,women
 title: Cannell, Doris Mary
 born: 1913
 died: 2000

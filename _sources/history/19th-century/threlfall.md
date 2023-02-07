@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Threlfall
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany,topology
+tags: origin-germany,topology
 title: Threlfall, William Richard Maximilian Hugo
 born: 1888
 died: 1949

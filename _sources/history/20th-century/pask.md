@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pask
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Pask, Andrew Gordon Speedie
 born: 1928
 died: 1996

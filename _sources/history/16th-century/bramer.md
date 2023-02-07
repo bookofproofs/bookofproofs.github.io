@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bramer
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: architecture,nationality-germany
+tags: architecture,origin-germany
 title: Bramer, Benjamin
 born: 1588
 died: 1652

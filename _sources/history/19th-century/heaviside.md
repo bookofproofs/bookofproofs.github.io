@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Heaviside
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Heaviside, Oliver
 born: 1850
 died: 1925

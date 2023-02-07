@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Montroll
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Montroll, Elliott Waters
 born: 1916
 died: 1983

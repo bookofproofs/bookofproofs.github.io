@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rosanes
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Rosanes, Jakob
 born: 1842
 died: 1922

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Walton
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ireland
+tags: origin-ireland
 title: Walton, Ernest
 born: 1903
 died: 1995

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Torricelli
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: analysis,astronomy,nationality-italy
+tags: analysis,astronomy,origin-italy
 title: Torricelli, Evangelista
 born: 1608
 died: 1647

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Speiser_Andreas
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,group-theory,nationality-switzerland
+tags: astronomy,group-theory,origin-switzerland
 title: Speiser, Andreas
 born: 1885
 died: 1970

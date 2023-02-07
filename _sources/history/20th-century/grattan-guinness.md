@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Grattan-Guinness
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Grattan-Guinness, Ivor
 born: 1941
 died: 2014

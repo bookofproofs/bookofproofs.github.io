@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tverberg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-norway
+tags: origin-norway
 title: Tverberg, Helge
 born: 1935
 died: 2020

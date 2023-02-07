@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ahrens
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Ahrens, Wilhelm Ernst Martin Georg
 born: 1872
 died: 1927

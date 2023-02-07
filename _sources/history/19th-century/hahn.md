@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hahn
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-austria
+tags: origin-austria
 title: Hahn, Hans
 born: 1879
 died: 1934

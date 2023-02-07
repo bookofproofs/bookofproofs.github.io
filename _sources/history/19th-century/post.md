@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Post
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,nationality-poland
+tags: algebra,group-theory,origin-poland
 title: Post, Emil Leon
 born: 1897
 died: 1954

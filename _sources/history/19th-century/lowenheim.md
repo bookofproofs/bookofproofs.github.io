@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lowenheim
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Löwenheim, Leopold
 born: 1878
 died: 1957

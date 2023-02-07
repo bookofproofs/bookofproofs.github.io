@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kellogg_Bruce
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Kellogg (2), Bruce
 born: 1930
 died: 2012

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Peano
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-italy,set-theory
+tags: algebra,origin-italy,set-theory
 title: Peano, Giuseppe
 born: 1858
 died: 1932

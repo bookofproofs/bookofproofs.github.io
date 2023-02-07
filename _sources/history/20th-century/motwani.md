@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Motwani
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-india
+tags: origin-india
 title: Motwani, Rajeev
 born: 1962
 died: 2009

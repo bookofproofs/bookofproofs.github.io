@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Carmichael
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: Carmichael, Robert Daniel
 born: 1879
 died: 1967

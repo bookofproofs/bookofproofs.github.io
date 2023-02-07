@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stromme
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-norway
+tags: origin-norway
 title: Stromme, Stein Arild
 born: 1951
 died: 2014

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jacobson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,nationality-poland
+tags: algebra,origin-poland
 title: Jacobson, Nathan
 born: 1910
 died: 1999

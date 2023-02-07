@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Thales
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: analysis,ancient-greek,astronomy,geometry,nationality-turkey,physics,puzzles-and-problems
+tags: analysis,ancient-greek,astronomy,geometry,origin-turkey,physics,puzzles-and-problems
 title: Thales Of Miletus
 born: -624
 died: -547

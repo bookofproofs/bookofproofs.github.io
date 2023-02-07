@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Alberti
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: architecture,geometry,nationality-italy
+tags: architecture,geometry,origin-italy
 title: Alberti, Leone Battista
 born: 1404
 died: 1472

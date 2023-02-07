@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zarankiewicz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland,topology
+tags: origin-poland,topology
 title: Zarankiewicz, Kazimierz
 born: 1902
 died: 1959

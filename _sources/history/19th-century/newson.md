@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Newson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa,women
+tags: astronomy,origin-usa,women
 title: Newson, Mary Frances Winston
 born: 1869
 died: 1959

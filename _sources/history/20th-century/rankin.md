@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rankin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Rankin, Robert Alexander
 born: 1915
 died: 2001

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Halmos
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Halmos, Paul Richard
 born: 1916
 died: 2006

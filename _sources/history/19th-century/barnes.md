@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Barnes
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Barnes, Ernest
 born: 1874
 died: 1953

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tacquet
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-belgium
+tags: astronomy,origin-belgium
 title: Tacquet, Andrea
 born: 1612
 died: 1660

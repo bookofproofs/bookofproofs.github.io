@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mittag-Leffler
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-sweden,set-theory
+tags: origin-sweden,set-theory
 title: Mittag-Leffler, Gösta
 born: 1846
 died: 1927

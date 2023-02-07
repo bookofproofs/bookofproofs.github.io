@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Szasz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-slovakia
+tags: origin-slovakia
 title: Szász, Otto
 born: 1884
 died: 1952

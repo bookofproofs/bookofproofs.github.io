@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bring
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: algebra,astronomy,nationality-sweden
+tags: algebra,astronomy,origin-sweden
 title: Bring, Erland Samuel
 born: 1736
 died: 1798

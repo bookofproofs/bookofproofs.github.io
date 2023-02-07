@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cowling
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Cowling, Thomas George
 born: 1906
 died: 1990

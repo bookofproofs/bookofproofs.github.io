@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Genocchi
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Genocchi, Angelo
 born: 1817
 died: 1889

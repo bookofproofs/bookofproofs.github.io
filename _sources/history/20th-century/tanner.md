@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tanner
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany,women
+tags: origin-germany,women
 title: Tanner, Cecily
 born: 1900
 died: 1992

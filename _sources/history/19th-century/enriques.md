@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Enriques
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Enriques, Abramo Giulio Umberto Federigo
 born: 1871
 died: 1946

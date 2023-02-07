@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Heisenberg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany,nobel-prize,physics
+tags: origin-germany,nobel-prize,physics
 title: Heisenberg, Werner Karl
 born: 1901
 died: 1976

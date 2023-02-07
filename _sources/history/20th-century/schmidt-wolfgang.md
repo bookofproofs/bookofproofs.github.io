@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schmidt_Wolfgang
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-austria
+tags: origin-austria
 title: Schmidt (5), Wolfgang
 born: 1933
 died: 2019

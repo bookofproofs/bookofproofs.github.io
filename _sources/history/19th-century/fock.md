@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fock
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Fock, Vladimir Aleksandrovich
 born: 1898
 died: 1974

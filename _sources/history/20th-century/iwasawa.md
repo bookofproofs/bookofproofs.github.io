@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Iwasawa
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan
+tags: origin-japan
 title: Iwasawa, Kenkichi
 born: 1917
 died: 1998

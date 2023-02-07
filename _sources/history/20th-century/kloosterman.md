@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kloosterman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Kloosterman, Hendrik Douwe
 born: 1900
 died: 1968

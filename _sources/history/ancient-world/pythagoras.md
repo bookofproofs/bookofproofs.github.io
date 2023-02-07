@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pythagoras
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-babylonian,ancient-chinese,ancient-greek,ancient-indian,architecture,astronomy,chinese,nationality-greece,number-theory,physics,puzzles-and-problems,special-numbers-and-numerals
+tags: ancient-babylonian,ancient-chinese,ancient-greek,ancient-indian,architecture,astronomy,chinese,origin-greece,number-theory,physics,puzzles-and-problems,special-numbers-and-numerals
 title: Pythagoras Of Samos
 born: -570
 died: -490

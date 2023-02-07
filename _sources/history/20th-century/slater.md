@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Slater
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Slater, Noel Bryan
 born: 1912
 died: 1973

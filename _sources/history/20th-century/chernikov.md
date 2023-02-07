@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chernikov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-russia
+tags: group-theory,origin-russia
 title: Chernikov, Sergei Nikolaevich
 born: 1912
 died: 1987

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sporus
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-greek,nationality-turkey
+tags: ancient-greek,origin-turkey
 title: Sporus Of Nicaea
 born: 240
 died: 300

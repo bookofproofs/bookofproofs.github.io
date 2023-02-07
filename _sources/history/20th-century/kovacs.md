@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kovacs
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-hungary
+tags: group-theory,origin-hungary
 title: Kovács, László
 born: 1936
 died: 2013

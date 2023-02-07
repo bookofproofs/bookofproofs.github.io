@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kaluznin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-russia
+tags: group-theory,origin-russia
 title: Kaluznin, Lev Arkad'evich
 born: 1914
 died: 1990

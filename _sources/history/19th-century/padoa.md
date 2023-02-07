@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Padoa
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Padoa, Alessandro
 born: 1868
 died: 1937

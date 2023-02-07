@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wedderburn
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-scotland
+tags: algebra,origin-scotland
 title: Wedderburn, Joseph Henry Maclagen
 born: 1882
 died: 1948

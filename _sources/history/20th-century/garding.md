@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Garding
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-sweden
+tags: origin-sweden
 title: Gårding, Lars
 born: 1919
 died: 2014

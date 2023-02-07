@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wegner
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Wegner, Udo Hugo Helmuth
 born: 1902
 died: 1989

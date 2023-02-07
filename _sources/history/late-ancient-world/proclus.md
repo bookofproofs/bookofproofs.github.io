@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Proclus
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-greek,astronomy,geometry,nationality-turkey,physics,puzzles-and-problems,special-numbers-and-numerals
+tags: ancient-greek,astronomy,geometry,origin-turkey,physics,puzzles-and-problems,special-numbers-and-numerals
 title: Diadochus, Proclus
 born: 411
 died: 485

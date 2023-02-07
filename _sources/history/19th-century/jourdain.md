@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jourdain
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Jourdain, Philip
 born: 1879
 died: 1919

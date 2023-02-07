@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Privalov
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Privalov, Ivan Ivanovich
 born: 1891
 died: 1941

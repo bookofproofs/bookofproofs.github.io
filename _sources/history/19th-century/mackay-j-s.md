@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mackay_J_S
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: applied-maths,nationality-scotland
+tags: applied-maths,origin-scotland
 title: Mackay, John S
 born: 1843
 died: 1914

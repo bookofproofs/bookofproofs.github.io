@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Segner
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-slovakia
+tags: origin-slovakia
 title: Von Segner, Johann Andreas
 born: 1704
 died: 1777

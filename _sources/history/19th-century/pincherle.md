@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pincherle
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-italy
+tags: algebra,origin-italy
 title: Pincherle, Salvatore
 born: 1853
 died: 1936

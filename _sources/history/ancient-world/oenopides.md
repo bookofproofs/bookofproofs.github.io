@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Oenopides
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,astronomy,geometry,nationality-greece,physics,puzzles-and-problems
+tags: ancient-greek,astronomy,geometry,origin-greece,physics,puzzles-and-problems
 title: Oenopides Of Chios
 born: -490
 died: -420

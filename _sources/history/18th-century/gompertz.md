@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gompertz
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Gompertz, Benjamin
 born: 1779
 died: 1865

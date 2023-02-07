@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wenninger
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Wenninger, Magnus Joseph
 born: 1919
 died: 2017

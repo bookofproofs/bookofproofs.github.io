@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Downing
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-ireland
+tags: astronomy,origin-ireland
 title: Downing, Arthur
 born: 1850
 died: 1917

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hunayn
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,ancient-greek,nationality-iraq
+tags: ancient-arab,ancient-greek,origin-iraq
 title: Hunayn Ibn Ishaq
 born: 808
 died: 873

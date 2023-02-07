@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$MacKinnon
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-canada,women
+tags: origin-canada,women
 title: Mackinnon, Annie Fitch
 born: 1868
 died: 1940

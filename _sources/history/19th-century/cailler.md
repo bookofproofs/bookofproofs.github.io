@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cailler
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Cailler, Charles
 born: 1865
 died: 1922

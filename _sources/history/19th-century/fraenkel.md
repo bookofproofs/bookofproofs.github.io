@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fraenkel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-germany,set-theory
+tags: astronomy,origin-germany,set-theory
 title: Fraenkel, Adolf Abraham Halevi
 born: 1891
 died: 1965

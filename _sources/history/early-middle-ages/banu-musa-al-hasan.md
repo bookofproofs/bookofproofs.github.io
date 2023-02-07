@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Banu_Musa_al-Hasan
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,nationality-iraq
+tags: ancient-arab,origin-iraq
 title: Al-Hasan Banu Musa
 born: 810
 died: 873

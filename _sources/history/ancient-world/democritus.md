@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Democritus
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: analysis,ancient-greek,astronomy,nationality-greece,physics
+tags: analysis,ancient-greek,astronomy,origin-greece,physics
 title: Democritus Of Abdera
 born: -460
 died: -370

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rasiowa
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-austria,women
+tags: origin-austria,women
 title: Rasiowa, Helena
 born: 1917
 died: 1994

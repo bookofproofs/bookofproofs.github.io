@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ledermann
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-germany
+tags: algebra,group-theory,origin-germany
 title: Ledermann, Walter
 born: 1911
 died: 2009

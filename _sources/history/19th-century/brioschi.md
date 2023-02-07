@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brioschi
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: architecture,astronomy,nationality-italy
+tags: architecture,astronomy,origin-italy
 title: Brioschi, Francesco
 born: 1824
 died: 1897

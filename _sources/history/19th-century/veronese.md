@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Veronese
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Veronese, Giuseppe
 born: 1854
 died: 1917

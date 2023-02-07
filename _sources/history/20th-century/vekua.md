@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vekua
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-georgia
+tags: origin-georgia
 title: Vekua, Ilya Nestorovich
 born: 1907
 died: 1977

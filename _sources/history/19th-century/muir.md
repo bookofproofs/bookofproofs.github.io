@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Muir
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Muir, Thomas
 born: 1844
 died: 1934

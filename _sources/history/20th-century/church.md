@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Church
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-usa
+tags: algebra,group-theory,origin-usa
 title: Church, Alonzo
 born: 1903
 died: 1995

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Qushji
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: nationality-uzbekistan
+tags: origin-uzbekistan
 title: Qushji, Ali
 born: 1403
 died: 1474

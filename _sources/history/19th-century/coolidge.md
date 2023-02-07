@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Coolidge
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Coolidge, Julian Lowell
 born: 1873
 died: 1954

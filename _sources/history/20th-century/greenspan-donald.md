@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Greenspan_Donald
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Greenspan, Donald
 born: 1928
 died: 2010

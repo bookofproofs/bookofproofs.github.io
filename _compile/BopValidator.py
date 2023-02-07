@@ -28,18 +28,19 @@ class BopValidator:
                                 BopLayouts.algorithm],
         BopLayouts.theorem: [BopLayouts.proof, BopLayouts.corollary, BopLayouts.example, BopLayouts.explanation,
                              BopLayouts.motivation, BopLayouts.application,
-                             BopLayouts.problem],
+                             BopLayouts.problem, BopLayouts.definition, BopLayouts.proposition],
         BopLayouts.lemma: [BopLayouts.proof, BopLayouts.corollary, BopLayouts.example, BopLayouts.explanation,
                            BopLayouts.motivation, BopLayouts.application,
-                           BopLayouts.problem],
+                           BopLayouts.problem, BopLayouts.lemma, BopLayouts.proposition],
         BopLayouts.proposition: [BopLayouts.proof, BopLayouts.corollary, BopLayouts.example, BopLayouts.explanation,
-                                 BopLayouts.motivation, BopLayouts.application,
-                                 BopLayouts.problem],
+                                 BopLayouts.motivation, BopLayouts.application, BopLayouts.definition,
+                                 BopLayouts.problem, BopLayouts.lemma, BopLayouts.proposition, BopLayouts.theorem],
         BopLayouts.corollary: [BopLayouts.proof, BopLayouts.corollary, BopLayouts.example, BopLayouts.explanation,
                                BopLayouts.motivation, BopLayouts.application, BopLayouts.problem],
         BopLayouts.definition: [BopLayouts.example, BopLayouts.explanation, BopLayouts.motivation,
-                                BopLayouts.application, BopLayouts.problem],
-        BopLayouts.axiom: [BopLayouts.explanation, BopLayouts.corollary, BopLayouts.axiom],
+                                BopLayouts.application, BopLayouts.problem, BopLayouts.definition,
+                                BopLayouts.lemma, BopLayouts.proposition, BopLayouts.theorem],
+        BopLayouts.axiom: [BopLayouts.explanation, BopLayouts.corollary, BopLayouts.axiom, BopLayouts.definition],
         BopLayouts.algorithm: [BopLayouts.proof, BopLayouts.example, BopLayouts.explanation, BopLayouts.motivation,
                                BopLayouts.application, BopLayouts.problem],
         BopLayouts.problem: [BopLayouts.solution],
@@ -98,6 +99,12 @@ class BopValidator:
             else:
                 raise BopValidationError(err_type, "04",
                                          "Duplicate nodeid {0} detected in ".format(
+                                             bop_source.nodeid) + bop_source.get_file_name())
+            pattern = re.compile(BopSource.nodeid_pattern)
+            if not re.match(pattern, bop_source.nodeid) and bop_source.layout not in [BopLayouts.default,
+                                                                                      BopLayouts.hidden]:
+                raise BopValidationError(err_type, "05",
+                                         "Malformed nodeid '{0}' detected in ".format(
                                              bop_source.nodeid) + bop_source.get_file_name())
 
     def _validate_names(self, err_type: str):
@@ -229,7 +236,8 @@ class BopValidator:
         :return: None, or raises an Error
         """
         print("   Validating " + err_type)
-        pattern = re.compile(r'\[(.*?)\]\[([a-zA-Z0-9\-]+\$[a-zA-Z0-9\-]+)\]')
+        patt_string = r'\[(.*?)\]\[(' + BopSource.nodeid_pattern + r')\]'
+        pattern = re.compile(patt_string)
         for source_id in self.sources:
             bop_source = self.sources[source_id]
             if bop_source.layout != BopLayouts.default:
@@ -495,7 +503,7 @@ class BopValidator:
 
     def _validate_persons(self, err_type: str):
         """
-        Check if the person names or hyperlinks to person biographies listed in the epoch layout are unique.
+        Check if the person layout complies with its formatting conventions.
         :param err_type: error domain
         :return: None, or raises an Error
         """
@@ -517,31 +525,7 @@ class BopValidator:
                                              "\n{0}".format(bop_source.get_file_name()) +
                                              "\nConsider renaming '{0}' to '{0} (2)'.".format(last_name)
                                              )
-                if not bop_source.born.isnumeric():
-                    raise BopValidationError(err_type, "02",
-                                             "Birthyear '{0}' must be integer in {1}".format(
-                                                 bop_source.born,
-                                                 bop_source.get_file_name())
-                                             )
-                elif int(bop_source.born) != int(float(bop_source.born)):
-                    raise BopValidationError(err_type, "02",
-                                             "Birthyear '{0}' must be integer in {1}".format(
-                                                 bop_source.born,
-                                                 bop_source.get_file_name())
-                                             )
-                if not bop_source.died.isnumeric():
-                    raise BopValidationError(err_type, "02",
-                                             "Born '{0}' must be integer in {1}".format(
-                                                 bop_source.died,
-                                                 bop_source.get_file_name())
-                                             )
-                elif int(bop_source.died) != int(float(bop_source.died)):
-                    raise BopValidationError(err_type, "02",
-                                             "Died '{0}' must be integer in {1}".format(
-                                                 bop_source.died,
-                                                 bop_source.get_file_name())
-                                             )
-                if bop_source.died < bop_source.born:
+                if bop_source.died != 0 and bop_source.died < bop_source.born:
                     raise BopValidationError(err_type, "03",
                                              "Died '{0}'<= Born '{1}' in {2}".format(
                                                  bop_source.died,

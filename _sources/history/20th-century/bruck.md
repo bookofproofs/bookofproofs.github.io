@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bruck
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Brück, Hermann
 born: 1905
 died: 2000

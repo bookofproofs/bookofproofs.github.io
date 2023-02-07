@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Heraclides
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,astronomy,nationality-turkey
+tags: ancient-greek,astronomy,origin-turkey
 title: Heraclides Of Pontus
 born: -387
 died: -312

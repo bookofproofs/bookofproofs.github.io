@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Karaji
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,nationality-iraq,special-numbers-and-numerals
+tags: ancient-arab,origin-iraq,special-numbers-and-numerals
 title: Al-Karaji, Abu Bekr ibn Muhammad ibn Al-Husayn
 born: 953
 died: 1029

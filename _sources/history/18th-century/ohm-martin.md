@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ohm_Martin
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-germany,special-numbers-and-numerals
+tags: origin-germany,special-numbers-and-numerals
 title: Ohm (2), Martin
 born: 1792
 died: 1872

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Walter
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany,women
+tags: origin-germany,women
 title: Walter, Marion Ilse
 born: 1928
 died: 2021

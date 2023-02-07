@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Doppelmayr
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Doppelmayr, Johann Gabriel
 born: 1677
 died: 1750

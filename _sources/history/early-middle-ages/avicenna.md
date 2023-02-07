@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Avicenna
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,astronomy,nationality-uzbekistan,special-numbers-and-numerals
+tags: ancient-arab,astronomy,origin-uzbekistan,special-numbers-and-numerals
 title: Avicenna, Abu Ali al-Husain ibn Abdallah ibn Sina
 born: 980
 died: 1037

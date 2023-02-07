@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Okonjo
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-nigeria
+tags: african,origin-nigeria
 title: Okonjo, Chukwuka
 born: 1928
 died: 2019

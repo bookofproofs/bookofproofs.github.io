@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ratner
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia,women
+tags: origin-russia,women
 title: Ratner, Marina
 born: 1938
 died: 2017

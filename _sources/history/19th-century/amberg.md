@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Amberg
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Amberg, Ernst Julius
 born: 1871
 died: 1952

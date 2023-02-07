@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Andrews
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Andrews, George W. Eyre
 born: 1938
 died: 1995

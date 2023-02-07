@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Trahtman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Trahtman, Avraham Naumovich
 born: 1943
 died: 2011

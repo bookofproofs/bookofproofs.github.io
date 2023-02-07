@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sunyer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-spain
+tags: origin-spain
 title: Sunyer, Ferran
 born: 1912
 died: 1967

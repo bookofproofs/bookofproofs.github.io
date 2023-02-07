@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Backlund
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-sweden
+tags: astronomy,origin-sweden
 title: Bäcklund, Victor
 born: 1845
 died: 1922

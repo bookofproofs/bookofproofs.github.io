@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hardie_Robert
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Hardie, Robert
 born: 1864
 died: 1942

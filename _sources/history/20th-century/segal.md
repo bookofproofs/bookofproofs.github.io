@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Segal
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: Segal, Irving Ezra
 born: 1918
 died: 1998

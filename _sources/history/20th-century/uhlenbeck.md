@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Uhlenbeck
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-indonesia
+tags: origin-indonesia
 title: Uhlenbeck, George Eugene
 born: 1900
 died: 1988

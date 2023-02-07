@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Edge
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Edge, William Leonard
 born: 1904
 died: 1997

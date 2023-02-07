@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$De_Groot
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands,topology
+tags: origin-netherlands,topology
 title: De Groot, Johannes
 born: 1914
 died: 1972

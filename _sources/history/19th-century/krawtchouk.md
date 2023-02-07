@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Krawtchouk
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Krawtchouk, Mykhailo Pilipovich
 born: 1892
 died: 1942

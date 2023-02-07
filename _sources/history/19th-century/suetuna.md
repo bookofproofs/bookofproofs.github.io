@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Suetuna
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-japan
+tags: origin-japan
 title: Suetuna, Zyoiti
 born: 1898
 died: 1970

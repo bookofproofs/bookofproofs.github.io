@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Weber
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-germany
+tags: algebra,origin-germany
 title: Weber, Wilhelm Eduard
 born: 1804
 died: 1891

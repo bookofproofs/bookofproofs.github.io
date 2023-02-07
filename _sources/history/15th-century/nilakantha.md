@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nilakantha
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: ancient-indian,astronomy,nationality-india
+tags: ancient-indian,astronomy,origin-india
 title: Somayaji, Nilakantha
 born: 1444
 died: 1544

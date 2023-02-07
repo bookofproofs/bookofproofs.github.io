@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Whitney
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,wolf-prize
+tags: origin-usa,wolf-prize
 title: Whitney, Hassler
 born: 1907
 died: 1989

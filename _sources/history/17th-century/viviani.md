@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Viviani
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: geography,nationality-italy
+tags: geography,origin-italy
 title: Viviani, Vincenzo
 born: 1622
 died: 1703

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stark
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Stark, Marceli
 born: 1908
 died: 1974

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hardcastle
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,women
+tags: origin-england,women
 title: Hardcastle, Frances
 born: 1866
 died: 1941

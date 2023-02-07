@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cunitz
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-poland,women
+tags: astronomy,origin-poland,women
 title: Cunitz, Maria
 born: 1607
 died: 1664

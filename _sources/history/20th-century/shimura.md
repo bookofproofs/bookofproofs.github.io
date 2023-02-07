@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shimura
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan,number-theory
+tags: origin-japan,number-theory
 title: Shimura, Goro
 born: 1930
 died: 2019

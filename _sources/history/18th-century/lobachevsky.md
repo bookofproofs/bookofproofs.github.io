@@ -1,10 +1,10 @@
 layout: person
 nodeid: bookofproofs$Lobachevsky
-categories: history,20th-century
-parentid: bookofproofs$604
-tags: algebra,analysis,astronomy,geometry,group-theory,nationality-russia
+categories: history,18th-century
+parentid: bookofproofs$52
+tags: algebra,analysis,astronomy,geometry,group-theory,origin-russia
 title: Lobachevsky, Nikolai Ivanovich
-born: 1990
+born: 1792
 died: 1856
 description: Some facts about Nikolai Ivanovich Lobachevsky
 keywords: lobachevsky, nikolai ivanovich,algebra,analysis,astronomy,geometry,group theory,nationality russia

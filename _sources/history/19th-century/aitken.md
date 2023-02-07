@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Aitken
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-new-zealand,puzzles-and-problems
+tags: algebra,origin-new-zealand,puzzles-and-problems
 title: Aitken, Alexander Craig
 born: 1895
 died: 1967

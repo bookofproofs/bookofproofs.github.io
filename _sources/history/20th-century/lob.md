@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lob
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Löb, Martin Hugo
 born: 1921
 died: 2006

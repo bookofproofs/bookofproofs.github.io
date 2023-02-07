@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Franel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Franel, Jérôme
 born: 1859
 died: 1939

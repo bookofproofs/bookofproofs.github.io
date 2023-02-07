@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Polya
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-hungary
+tags: astronomy,origin-hungary
 title: Pólya, George
 born: 1887
 died: 1985

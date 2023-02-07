@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Abramescu
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-romania
+tags: origin-romania
 title: Abramescu, Nicolae
 born: 1884
 died: 1947

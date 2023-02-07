@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Eisele
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Eisele, Carolyn
 born: 1902
 died: 2000

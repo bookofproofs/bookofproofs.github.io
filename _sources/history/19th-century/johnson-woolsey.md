@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Johnson_Woolsey
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Johnson, Woolsey
 born: 1841
 died: 1927

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rayleigh
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,nobel-prize,physics
+tags: origin-england,nobel-prize,physics
 title: Rayleigh), John William Strutt (Lord
 born: 1842
 died: 1919

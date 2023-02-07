@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Feller
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-croatia,statistics
+tags: origin-croatia,statistics
 title: Feller, William Srecko
 born: 1906
 died: 1970

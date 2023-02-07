@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Beatty
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-canada
+tags: origin-canada
 title: Beatty, Samuel
 born: 1881
 died: 1970

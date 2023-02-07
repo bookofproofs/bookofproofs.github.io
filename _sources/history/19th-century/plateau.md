@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Plateau
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-belgium
+tags: origin-belgium
 title: Plateau, Joseph Antoine Ferdinand
 born: 1801
 died: 1883

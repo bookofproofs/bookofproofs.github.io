@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Orszag
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Orszag, Steven Alan
 born: 1943
 died: 2011

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bliss_Nathaniel
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Bliss, Nathaniel
 born: 1700
 died: 1764

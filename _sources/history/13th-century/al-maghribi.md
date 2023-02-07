@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Maghribi
 categories: history,13th-century
 parentid: bookofproofs$606
-tags: ancient-arab,astronomy,nationality-spain
+tags: ancient-arab,astronomy,origin-spain
 title: Al-Maghribi, Muhyi l'din
 born: 1220
 died: 1283

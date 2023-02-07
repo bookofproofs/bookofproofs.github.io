@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ostrovskii
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Ostrovskii, Iossif Vladimirovich
 born: 1934
 died: 2020

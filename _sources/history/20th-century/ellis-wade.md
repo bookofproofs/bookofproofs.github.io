@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ellis_Wade
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Ellis (2), Wade
 born: 1909
 died: 1989

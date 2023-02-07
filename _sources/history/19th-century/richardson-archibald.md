@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Richardson_Archibald
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Richardson (2), Archibald Read
 born: 1881
 died: 1954

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lukacs
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary,statistics
+tags: origin-hungary,statistics
 title: Lukacs, Eugene
 born: 1906
 died: 1987

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Thomae
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,nationality-germany
+tags: analysis,origin-germany
 title: Thomae, Carl Johannes
 born: 1840
 died: 1921

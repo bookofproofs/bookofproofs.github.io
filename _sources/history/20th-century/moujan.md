@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Moujan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-argentina,women
+tags: origin-argentina,women
 title: Mouján, Magdalena
 born: 1926
 died: 2005

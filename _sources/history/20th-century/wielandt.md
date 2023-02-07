@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wielandt
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Wielandt, Helmut
 born: 1910
 died: 2001

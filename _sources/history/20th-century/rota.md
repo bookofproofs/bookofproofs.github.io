@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rota
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Rota, Gian-Carlo
 born: 1932
 died: 1999

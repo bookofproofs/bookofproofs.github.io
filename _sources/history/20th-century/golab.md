@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Golab
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-bosnia
+tags: origin-bosnia
 title: Golab, Stanislaw
 born: 1902
 died: 1980

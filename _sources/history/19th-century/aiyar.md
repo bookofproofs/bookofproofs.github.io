@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Aiyar
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-india
+tags: origin-india
 title: Aiyar, V. Ramaswami
 born: 1871
 died: 1936

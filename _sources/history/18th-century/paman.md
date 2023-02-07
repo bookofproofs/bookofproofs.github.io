@@ -1,9 +1,10 @@
 layout: person
 nodeid: bookofproofs$Paman
-categories: history,late-ancient-world
-parentid: bookofproofs$609
-tags: nationality-england
+categories: history,18th-century
+parentid: bookofproofs$52
+tags: origin-england
 title: Paman, Roger
+born: 1700 
 died: 1748
 description: Some facts about Roger Paman
 keywords: paman, roger,nationality england
@@ -19,7 +20,7 @@ contributors: bookofproofs,@MacTutor
 
 **Roger Paman** was an English mathematician who took part in a voyage hoping to circumnavigate the world. He made contributions to the development of the calculus.
 
-Born not known. Died 1748.
+Born about 1700. Died 1748.
 
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Paman/).

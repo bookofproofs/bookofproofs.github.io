@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kneebone
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Kneebone, Geoffrey Thomas
 born: 1918
 died: 2003

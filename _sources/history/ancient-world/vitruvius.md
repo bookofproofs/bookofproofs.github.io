@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vitruvius
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,astronomy,geometry,nationality-italy,physics,special-numbers-and-numerals
+tags: ancient-greek,astronomy,geometry,origin-italy,physics,special-numbers-and-numerals
 title: Pollio, Marcus Vitruvius
 born: -85
 died: -20

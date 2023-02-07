@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ratz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-hungary
+tags: origin-hungary
 title: Rátz, Lászlo
 born: 1863
 died: 1930

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sacrobosco
 categories: history,12th-century
 parentid: bookofproofs$607
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: De Sacrobosco, Johannes
 born: 1195
 died: 1256

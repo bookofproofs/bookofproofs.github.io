@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ibrahim
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,astronomy,nationality-iraq
+tags: ancient-arab,astronomy,origin-iraq
 title: Ibrahim Ibn Sinan
 born: 908
 died: 946

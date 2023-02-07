@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Orlicz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Orlicz, Wladyslaw
 born: 1903
 died: 1990

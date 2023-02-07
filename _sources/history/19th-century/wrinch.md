@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wrinch
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-argentina,women
+tags: origin-argentina,women
 title: Wrinch, Dorothy Maud
 born: 1894
 died: 1976

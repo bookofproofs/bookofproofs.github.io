@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gentzen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: analysis,nationality-germany
+tags: analysis,origin-germany
 title: Gentzen, Gerhard
 born: 1909
 died: 1945

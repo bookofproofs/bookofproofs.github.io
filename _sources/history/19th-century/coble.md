@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Coble
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: group-theory,nationality-usa
+tags: group-theory,origin-usa
 title: Coble, Arthur Byron
 born: 1878
 died: 1966

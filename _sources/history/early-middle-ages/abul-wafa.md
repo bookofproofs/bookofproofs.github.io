@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Abul-Wafa
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: analysis,ancient-arab,astronomy,geography,geometry,nationality-iran,special-numbers-and-numerals
+tags: analysis,ancient-arab,astronomy,geography,geometry,origin-iran,special-numbers-and-numerals
 title: Mohammad Abu'L-Wafa, Al-Buzjani
 born: 940
 died: 998

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cohen_Wim
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Cohen, Wim
 born: 1923
 died: 2000

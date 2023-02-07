@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Malone-Mayes
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa,women
+tags: african-american,origin-usa,women
 title: Malone-Mayes, Vivienne
 born: 1932
 died: 1995

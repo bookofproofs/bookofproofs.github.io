@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Diocles
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-arab,ancient-greek,geometry,nationality-greece
+tags: ancient-arab,ancient-greek,geometry,origin-greece
 title: Diocles Of Carystus
 born: -240
 died: -180

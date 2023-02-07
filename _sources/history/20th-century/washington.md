@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Washington
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa,women
+tags: african-american,origin-usa,women
 title: Washington, Talitha
 born: 1969
 died: 2014

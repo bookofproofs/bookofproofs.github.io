@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Werner
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: astronomy,geography,nationality-germany
+tags: astronomy,geography,origin-germany
 title: Werner, Johann
 born: 1468
 died: 1522

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chebotaryov
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Chebotaryov, Nikolai Grigorievich
 born: 1894
 died: 1947

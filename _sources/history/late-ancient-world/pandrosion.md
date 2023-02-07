@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pandrosion
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: african,nationality-egypt,women
+tags: african,origin-egypt,women
 title: Pandrosion
 born: 300
 died: 360

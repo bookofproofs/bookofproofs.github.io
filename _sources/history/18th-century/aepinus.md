@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Aepinus
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Aepinus, Franz Maria Ulrich Theodosius
 born: 1724
 died: 1802

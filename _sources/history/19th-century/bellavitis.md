@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bellavitis
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-italy
+tags: algebra,origin-italy
 title: Bellavitis, Giusto
 born: 1803
 died: 1880

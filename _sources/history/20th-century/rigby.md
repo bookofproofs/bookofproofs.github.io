@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rigby
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-england
+tags: group-theory,origin-england
 title: Rigby, John Frankland
 born: 1933
 died: 2014

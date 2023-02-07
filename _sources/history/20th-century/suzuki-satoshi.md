@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Suzuki_Satoshi
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan
+tags: origin-japan
 title: Suzuki (2), Satoshi
 born: 1930
 died: 1991

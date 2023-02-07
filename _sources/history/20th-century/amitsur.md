@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Amitsur
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-israel
+tags: origin-israel
 title: Amitsur, Shimshon Avraham
 born: 1921
 died: 1994

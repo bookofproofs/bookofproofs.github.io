@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tao
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: clay-research-award,fields-medal,nationality-australia
+tags: clay-research-award,fields-medal,origin-australia
 title: Tao, Terence Chi-Shen
 born: 1969
 died: 2014

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Betti
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,knot-theory,nationality-italy,physics,topology
+tags: algebra,group-theory,knot-theory,origin-italy,physics,topology
 title: Betti, Enrico
 born: 1823
 died: 1892

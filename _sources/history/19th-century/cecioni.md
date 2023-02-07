@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cecioni
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Cecioni, Francesco
 born: 1884
 died: 1968

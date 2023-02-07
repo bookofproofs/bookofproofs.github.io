@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$De_Finetti
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-austria
+tags: origin-austria
 title: De Finetti, Bruno
 born: 1906
 died: 1985

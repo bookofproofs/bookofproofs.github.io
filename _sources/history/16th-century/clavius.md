@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Clavius
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-germany,physics,special-numbers-and-numerals
+tags: astronomy,origin-germany,physics,special-numbers-and-numerals
 title: Clavius, Christopher
 born: 1538
 died: 1612

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Klingenberg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Klingenberg, Wilhelm Paul Albert
 born: 1924
 died: 2010

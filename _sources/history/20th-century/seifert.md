@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Seifert
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany,topology
+tags: origin-germany,topology
 title: Seifert, Karl Johannes Herbert
 born: 1907
 died: 1996

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wall_Hubert
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Wall, Hubert
 born: 1902
 died: 1971

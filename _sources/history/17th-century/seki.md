@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Seki
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: algebra,nationality-japan,special-numbers-and-numerals
+tags: algebra,origin-japan,special-numbers-and-numerals
 title: Seki, Takakazu Shinsuke
 born: 1642
 died: 1708

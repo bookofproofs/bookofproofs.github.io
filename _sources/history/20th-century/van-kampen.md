@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Van_Kampen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-belgium
+tags: origin-belgium
 title: Van Kampen, Egbert Rudolf
 born: 1908
 died: 1942

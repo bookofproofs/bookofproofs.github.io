@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Biruni
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,astronomy,geography,nationality-uzbekistan,special-numbers-and-numerals
+tags: ancient-arab,astronomy,geography,origin-uzbekistan,special-numbers-and-numerals
 title: Al-Biruni, Abu Arrayhan Muhammad ibn Ahmad
 born: 973
 died: 1048

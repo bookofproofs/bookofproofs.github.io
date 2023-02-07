@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shannon
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Shannon, Claude Elwood
 born: 1916
 died: 2001

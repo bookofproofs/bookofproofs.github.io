@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Isaacs
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Isaacs, Rufus
 born: 1914
 died: 1981

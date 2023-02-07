@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rogers
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Rogers (2), Claude Ambrose
 born: 1920
 died: 2005

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pick
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-austria
+tags: origin-austria
 title: Pick, Georg Alexander
 born: 1859
 died: 1942

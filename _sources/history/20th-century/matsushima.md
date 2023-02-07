@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Matsushima
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan
+tags: origin-japan
 title: Matsushima, Yozo
 born: 1921
 died: 1983

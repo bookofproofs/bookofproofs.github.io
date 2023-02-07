@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dimovski
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-macedonia
+tags: origin-macedonia
 title: Dimovski, Dončo
 born: 1953
 died: 2002

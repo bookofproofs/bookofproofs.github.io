@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jyesthadeva
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: ancient-indian,astronomy,nationality-india
+tags: ancient-indian,astronomy,origin-india
 title: Jyesthadeva
 born: 1500
 died: 1575

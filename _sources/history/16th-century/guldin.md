@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Guldin
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-switzerland
+tags: astronomy,origin-switzerland
 title: Guldin, Paul
 born: 1577
 died: 1643

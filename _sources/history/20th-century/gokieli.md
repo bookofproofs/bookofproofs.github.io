@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gokieli
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-georgia
+tags: origin-georgia
 title: Gokieli, Levan
 born: 1901
 died: 1975

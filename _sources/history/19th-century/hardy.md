@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hardy
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,number-theory,special-numbers-and-numerals
+tags: origin-england,number-theory,special-numbers-and-numerals
 title: Hardy (2), Godfrey Harold
 born: 1877
 died: 1947

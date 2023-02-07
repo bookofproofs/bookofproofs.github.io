@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fawcett
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,women
+tags: origin-england,women
 title: Fawcett, Philippa Garrett
 born: 1868
 died: 1948

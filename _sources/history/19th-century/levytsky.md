@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Levytsky
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Levytsky, Volodymyr
 born: 1872
 died: 1956

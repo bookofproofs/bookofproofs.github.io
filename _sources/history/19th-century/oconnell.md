@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$OConnell
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: O'Connell, Daniel
 born: 1896
 died: 1982

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Jawhari
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,nationality-iraq
+tags: ancient-arab,origin-iraq
 title: Al-Jawhari, al-Abbas ibn Said
 born: 800
 died: 860

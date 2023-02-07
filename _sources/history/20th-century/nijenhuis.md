@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nijenhuis
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Nijenhuis, Albert
 born: 1926
 died: 2015

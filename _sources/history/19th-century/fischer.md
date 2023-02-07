@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fischer
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-austria
+tags: origin-austria
 title: Fischer, Ernst Sigismund
 born: 1875
 died: 1954

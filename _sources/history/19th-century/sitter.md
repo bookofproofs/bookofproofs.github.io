@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sitter
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-netherlands
+tags: astronomy,origin-netherlands
 title: De Sitter, Willem
 born: 1872
 died: 1934

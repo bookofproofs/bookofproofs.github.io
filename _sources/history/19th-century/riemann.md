@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Riemann
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,geometry,knot-theory,nationality-germany,number-theory,physics,special-numbers-and-numerals,topology
+tags: analysis,geometry,knot-theory,origin-germany,number-theory,physics,special-numbers-and-numerals,topology
 title: Riemann, Georg Friedrich Bernhard
 born: 1826
 died: 1866

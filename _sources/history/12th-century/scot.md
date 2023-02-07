@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Scot
 categories: history,12th-century
 parentid: bookofproofs$607
-tags: astronomy,nationality-scotland
+tags: astronomy,origin-scotland
 title: Scot, Michael
 born: 1175
 died: 1235

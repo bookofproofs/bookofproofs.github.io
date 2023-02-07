@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Scott_Elizabeth
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-usa,women
+tags: astronomy,origin-usa,women
 title: Scott (5), Elizabeth
 born: 1917
 died: 1988

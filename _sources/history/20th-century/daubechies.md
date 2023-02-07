@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Daubechies
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-belgium,women
+tags: origin-belgium,women
 title: Daubechies, Ingrid
 born: 1953
 died: 2002

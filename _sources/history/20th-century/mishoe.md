@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mishoe
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Mishoe, Luna Isaac
 born: 1917
 died: 1989

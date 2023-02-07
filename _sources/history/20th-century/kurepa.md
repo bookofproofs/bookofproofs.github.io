@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kurepa
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-croatia
+tags: origin-croatia
 title: Kurepa, Dura
 born: 1907
 died: 1993

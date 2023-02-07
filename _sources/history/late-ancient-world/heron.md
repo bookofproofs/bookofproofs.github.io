@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Heron
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: african,ancient-babylonian,ancient-chinese,ancient-greek,astronomy,chinese,geometry,nationality-egypt,physics,special-numbers-and-numerals
+tags: african,ancient-babylonian,ancient-chinese,ancient-greek,astronomy,chinese,geometry,origin-egypt,physics,special-numbers-and-numerals
 title: Heron Of Alexandria
 born: 10
 died: 75

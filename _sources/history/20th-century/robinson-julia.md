@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Robinson_Julia
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Robinson (4), Julia Bowman
 born: 1919
 died: 1985

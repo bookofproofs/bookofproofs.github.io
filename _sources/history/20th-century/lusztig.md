@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lusztig
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-romania,shaw-prize,topology
+tags: group-theory,origin-romania,shaw-prize,topology
 title: Lusztig, George
 born: 1946
 died: 2012

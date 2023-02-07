@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Feynman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,nobel-prize,physics
+tags: origin-usa,nobel-prize,physics
 title: Feynman, Richard Phillips
 born: 1918
 died: 1988

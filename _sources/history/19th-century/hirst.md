@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hirst
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Hirst, Thomas Archer
 born: 1830
 died: 1892

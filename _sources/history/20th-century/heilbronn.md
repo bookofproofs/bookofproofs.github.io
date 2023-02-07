@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Heilbronn
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Heilbronn, Hans Arnold
 born: 1908
 died: 1975

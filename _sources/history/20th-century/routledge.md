@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Routledge
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Routledge, Norman Arthur
 born: 1928
 died: 2013

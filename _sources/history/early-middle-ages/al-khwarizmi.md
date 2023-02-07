@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Khwarizmi
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: algebra,ancient-arab,ancient-babylonian,ancient-indian,astronomy,nationality-iraq,number-theory,special-numbers-and-numerals
+tags: algebra,ancient-arab,ancient-babylonian,ancient-indian,astronomy,origin-iraq,number-theory,special-numbers-and-numerals
 title: Al-Khwarizmi, Abu Ja'far Muhammad ibn Musa
 born: 780
 died: 850

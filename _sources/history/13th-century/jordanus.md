@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jordanus
 categories: history,13th-century
 parentid: bookofproofs$606
-tags: nationality-germany
+tags: origin-germany
 title: Nemorarius, Jordanus
 born: 1225
 died: 1260

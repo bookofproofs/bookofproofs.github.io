@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Orr
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-ireland
+tags: astronomy,origin-ireland
 title: Orr, William McFadden
 born: 1866
 died: 1934

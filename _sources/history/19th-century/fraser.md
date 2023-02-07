@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fraser
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Fraser, Alexander Yule
 born: 1857
 died: 1890

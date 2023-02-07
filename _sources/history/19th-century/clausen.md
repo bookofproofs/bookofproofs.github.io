@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Clausen
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-denmark,special-numbers-and-numerals
+tags: astronomy,origin-denmark,special-numbers-and-numerals
 title: Clausen, Thomas
 born: 1801
 died: 1885

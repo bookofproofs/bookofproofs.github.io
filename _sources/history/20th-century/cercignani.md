@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cercignani
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Cercignani, Carlo
 born: 1939
 died: 2010

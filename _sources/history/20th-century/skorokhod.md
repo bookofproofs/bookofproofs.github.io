@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Skorokhod
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-ukraine
+tags: astronomy,origin-ukraine
 title: Skorokhod, Anatolii Volodymyrovych
 born: 1930
 died: 2011

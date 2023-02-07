@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$West
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-scotland
+tags: origin-scotland
 title: West, John
 born: 1756
 died: 1817

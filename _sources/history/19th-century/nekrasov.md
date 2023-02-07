@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nekrasov
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-russia
+tags: astronomy,origin-russia
 title: Nekrasov, Aleksandr Ivanovich
 born: 1883
 died: 1957

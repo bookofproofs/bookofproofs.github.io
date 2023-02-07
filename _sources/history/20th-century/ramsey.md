@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ramsey
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Ramsey, Frank Plumpton
 born: 1903
 died: 1930

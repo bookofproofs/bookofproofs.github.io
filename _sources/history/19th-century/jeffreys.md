@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jeffreys
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Jeffreys, Harold
 born: 1891
 died: 1989

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mochizuki
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Mochizuki, Horace Yomishi
 born: 1937
 died: 1989

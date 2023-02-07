@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Philip
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Philip, Robert
 born: 1854
 died: 1913

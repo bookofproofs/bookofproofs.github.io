@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Floer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Floer, Andreas
 born: 1956
 died: 1991

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gibb
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Gibb, David
 born: 1883
 died: 1946

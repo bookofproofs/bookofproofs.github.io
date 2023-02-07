@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Szemeredi
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,nationality-hungary
+tags: abel-prize,origin-hungary
 title: Szemerédi, Endre
 born: 1940
 died: 2011

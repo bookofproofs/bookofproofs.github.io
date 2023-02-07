@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Blanch
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland,women
+tags: origin-poland,women
 title: Blanch, Gertrude
 born: 1897
 died: 1996

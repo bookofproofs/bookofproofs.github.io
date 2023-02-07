@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Saint-Vincent
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: ancient-greek,geometry,nationality-belgium,number-theory,puzzles-and-problems,special-numbers-and-numerals
+tags: ancient-greek,geometry,origin-belgium,number-theory,puzzles-and-problems,special-numbers-and-numerals
 title: Gregory Of Saint-Vincent
 born: 1584
 died: 1667

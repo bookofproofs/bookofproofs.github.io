@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Glover
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Glover, Israel Everett
 born: 1913
 died: 1975

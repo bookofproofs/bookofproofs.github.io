@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Parry
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Parry, William
 born: 1934
 died: 2006

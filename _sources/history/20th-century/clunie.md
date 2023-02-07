@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Clunie
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Clunie, James Gourlay
 born: 1926
 died: 2013

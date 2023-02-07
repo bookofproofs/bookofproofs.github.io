@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Remez
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-belarus
+tags: origin-belarus
 title: Remez, Evgeny Yakovlevich
 born: 1896
 died: 1975

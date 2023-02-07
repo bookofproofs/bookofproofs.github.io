@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Menshov
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Menshov, Dmitrii Evgenevich
 born: 1892
 died: 1988

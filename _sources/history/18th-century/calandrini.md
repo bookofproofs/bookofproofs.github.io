@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Calandrini
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Calandrini, Jean-Louis
 born: 1703
 died: 1758

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mackay
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Mackay (2), James Peter Hymers
 born: 1927
 died: 2016

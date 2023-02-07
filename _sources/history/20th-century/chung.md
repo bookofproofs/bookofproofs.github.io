@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chung
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-taiwan,women
+tags: origin-taiwan,women
 title: Chung, Fan Rong K. Graham
 born: 1949
 died: 2010

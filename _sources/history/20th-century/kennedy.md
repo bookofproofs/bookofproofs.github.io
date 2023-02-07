@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kennedy
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ireland
+tags: origin-ireland
 title: Kennedy, Patrick Brendan
 born: 1929
 died: 1966

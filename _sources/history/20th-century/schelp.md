@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schelp
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Schelp, Richard Herbert
 born: 1936
 died: 2010

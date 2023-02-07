@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Castigliano
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Castigliano, Carlo Alberto
 born: 1847
 died: 1884

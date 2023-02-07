@@ -13,8 +13,8 @@ These following properties in the _front matter_ have special meaning and conven
       * To resolve persons with the last name, please meet the following convention: 
         1. Identify the person born later than the previous one. 
         2. Amend the lastname of the later person by adding `<lastname> (<running-number>)`.
-           1. Rename accordingly any other persons born even later using a higher `<running-number>`.<br><br>
-           Example: 
+        3. Rename accordingly any other persons born even later using a higher `<running-number>`.<br><br>
+        Example: 
 ```
 title: Bernoulli, Jacob
 born: 1655

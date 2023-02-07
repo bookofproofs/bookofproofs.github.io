@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bath
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Bath, Frederick
 born: 1900
 died: 1982

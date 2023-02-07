@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wilczynski
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Wilczynski, Ernest Julius
 born: 1876
 died: 1932

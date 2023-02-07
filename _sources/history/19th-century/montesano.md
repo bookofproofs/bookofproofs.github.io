@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Montesano
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Montesano, Domenico
 born: 1863
 died: 1930

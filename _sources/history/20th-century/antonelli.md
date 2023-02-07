@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Antonelli
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ireland,women
+tags: origin-ireland,women
 title: Antonelli, Kathleen Rita McNulty Mauchly
 born: 1921
 died: 2006

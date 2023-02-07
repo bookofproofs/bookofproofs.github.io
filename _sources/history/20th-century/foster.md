@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Foster
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Foster, Alfred Leon
 born: 1904
 died: 1994

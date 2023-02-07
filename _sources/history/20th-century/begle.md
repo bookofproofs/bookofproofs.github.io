@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Begle
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Begle, Edward Griffith
 born: 1914
 died: 1978

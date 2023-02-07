@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Asgeirsson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-iceland
+tags: origin-iceland
 title: Ásgeirsson, Leifur
 born: 1903
 died: 1990

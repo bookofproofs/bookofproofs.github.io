@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hammer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-romania
+tags: origin-romania
 title: Hammer, Peter Ladislaw
 born: 1936
 died: 2006

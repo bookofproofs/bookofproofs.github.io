@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stampioen
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Stampioen, Jan Jansz de Jonge
 born: 1610
 died: 1690

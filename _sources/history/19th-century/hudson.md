@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hudson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,women
+tags: origin-england,women
 title: Hudson, Hilda Phoebe
 born: 1881
 died: 1965

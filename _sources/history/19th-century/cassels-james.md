@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cassels_James
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Cassels, James
 born: 1891
 died: 1980

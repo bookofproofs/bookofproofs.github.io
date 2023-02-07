@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Strong
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-usa
+tags: origin-usa
 title: Strong, Theodore
 born: 1790
 died: 1869

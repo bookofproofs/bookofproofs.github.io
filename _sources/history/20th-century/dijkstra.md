@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dijkstra
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Dijkstra, Edsger Wybe
 born: 1930
 died: 2002

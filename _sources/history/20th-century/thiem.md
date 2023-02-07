@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Thiem
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-vietnam
+tags: origin-vietnam
 title: Thiêm, Lê Văn
 born: 1918
 died: 1991

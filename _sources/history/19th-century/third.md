@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Third
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Third, John Alexander
 born: 1865
 died: 1948

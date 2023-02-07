@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kagan
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-lithuania
+tags: origin-lithuania
 title: Kagan, Benjamin Fedorovich
 born: 1869
 died: 1953

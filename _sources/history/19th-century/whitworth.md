@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Whitworth
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Whitworth, Allen
 born: 1840
 died: 1905

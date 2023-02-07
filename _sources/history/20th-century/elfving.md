@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Elfving
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-finland
+tags: origin-finland
 title: Elfving, Erik Gustav
 born: 1908
 died: 1984

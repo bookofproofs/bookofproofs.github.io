@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$James_Ralph
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: James (2), Ralph
 born: 1909
 died: 1979

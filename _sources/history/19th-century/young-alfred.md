@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Young_Alfred
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: group-theory,nationality-england
+tags: group-theory,origin-england
 title: Young (4), Alfred
 born: 1873
 died: 1940

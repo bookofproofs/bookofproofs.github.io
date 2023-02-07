@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tarski
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,nationality-poland,puzzles-and-problems
+tags: algebra,origin-poland,puzzles-and-problems
 title: Tarski, Alfred
 born: 1901
 died: 1983

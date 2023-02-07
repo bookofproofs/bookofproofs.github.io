@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vinti
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Vinti, Calogero
 born: 1926
 died: 1997

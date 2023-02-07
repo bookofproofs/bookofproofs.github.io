@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$McVittie
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-turkey
+tags: astronomy,origin-turkey
 title: Mcvittie, George Cunliffe
 born: 1904
 died: 1988

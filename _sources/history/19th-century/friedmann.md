@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Friedmann
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-russia,physics
+tags: astronomy,origin-russia,physics
 title: Friedmann, Aleksandr Aleksandrovich
 born: 1888
 died: 1925

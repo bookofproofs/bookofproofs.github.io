@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Encke
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-germany,physics
+tags: astronomy,origin-germany,physics
 title: Encke, Johann Franz
 born: 1791
 died: 1865

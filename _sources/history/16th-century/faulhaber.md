@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Faulhaber
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: nationality-germany
+tags: origin-germany
 title: Faulhaber, Johann
 born: 1580
 died: 1635

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Frank
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-austria
+tags: origin-austria
 title: Frank, Philipp
 born: 1884
 died: 1966

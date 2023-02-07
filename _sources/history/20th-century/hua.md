@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hua
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-china
+tags: origin-china
 title: Hua, Loo-Keng
 born: 1910
 died: 1985

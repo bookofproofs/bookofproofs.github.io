@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Paton
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Paton, James
 born: 1903
 died: 1973

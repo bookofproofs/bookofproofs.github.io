@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Noether_Emmy
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,nationality-germany,physics,women
+tags: algebra,group-theory,origin-germany,physics,women
 title: Noethe (2), Emmy
 born: 1882
 died: 1935

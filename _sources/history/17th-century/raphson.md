@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Raphson
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: ancient-indian,nationality-england
+tags: ancient-indian,origin-england
 title: Raphson, Joseph
 born: 1668
 died: 1712

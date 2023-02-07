@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cruickshank
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-scotland
+tags: origin-scotland
 title: Cruickshank, John
 born: 1787
 died: 1875

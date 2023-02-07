@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Nayrizi
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,astronomy,nationality-iran
+tags: ancient-arab,astronomy,origin-iran
 title: Al-Nayrizi, Abu'l Abbas al-Fadl ibn Hatim
 born: 865
 died: 922

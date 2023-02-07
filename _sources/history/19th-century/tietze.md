@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tietze
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,nationality-austria,topology
+tags: algebra,group-theory,origin-austria,topology
 title: Tietze, Heinrich Franz Friedrich
 born: 1880
 died: 1964

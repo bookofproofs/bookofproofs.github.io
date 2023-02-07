@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Waring
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: ancient-arab,nationality-england
+tags: ancient-arab,origin-england
 title: Waring, Edward
 born: 1736
 died: 1798

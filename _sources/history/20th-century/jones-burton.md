@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jones_Burton
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,topology
+tags: origin-usa,topology
 title: Jones (2), Floyd Burton
 born: 1910
 died: 1999

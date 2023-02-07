@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ball
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Ball (2), Robert Stawell
 born: 1850
 died: 1925

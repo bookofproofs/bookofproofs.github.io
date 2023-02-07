@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Philon
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,geometry,nationality-turkey
+tags: ancient-greek,geometry,origin-turkey
 title: Philon Of Byzantium
 born: -280
 died: -220

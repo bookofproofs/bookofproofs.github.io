@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Oughtred
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: analysis,geometry,nationality-england,number-theory,special-numbers-and-numerals
+tags: analysis,geometry,origin-england,number-theory,special-numbers-and-numerals
 title: Oughtred, William
 born: 1574
 died: 1660

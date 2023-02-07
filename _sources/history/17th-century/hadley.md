@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hadley
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,geography,nationality-england
+tags: astronomy,geography,origin-england
 title: Hadley, John
 born: 1682
 died: 1744

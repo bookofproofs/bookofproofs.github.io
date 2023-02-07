@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Taniyama
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan,number-theory
+tags: origin-japan,number-theory
 title: Taniyama, Yutaka
 born: 1927
 died: 1958

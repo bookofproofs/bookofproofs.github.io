@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Linnik
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine,statistics
+tags: origin-ukraine,statistics
 title: Linnik, Yuri Vladimirovich
 born: 1915
 died: 1972

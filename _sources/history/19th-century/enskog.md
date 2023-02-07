@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Enskog
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-sweden
+tags: origin-sweden
 title: Enskog, David
 born: 1884
 died: 1947

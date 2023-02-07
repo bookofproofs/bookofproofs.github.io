@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Varahamihira
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-indian,astronomy,nationality-india
+tags: ancient-indian,astronomy,origin-india
 title: Varahamihira
 born: 505
 died: 587

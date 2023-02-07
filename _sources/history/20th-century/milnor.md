@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Milnor
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,fields-medal,nationality-usa,wolf-prize
+tags: abel-prize,fields-medal,origin-usa,wolf-prize
 title: Milnor, John Willard
 born: 1931
 died: 1993

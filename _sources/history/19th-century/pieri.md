@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pieri
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Pieri, Mario
 born: 1860
 died: 1913

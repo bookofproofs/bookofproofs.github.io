@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Singer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,nationality-usa
+tags: abel-prize,origin-usa
 title: Singer, Isadore Manuel
 born: 1924
 died: 2021

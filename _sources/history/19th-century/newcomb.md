@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Newcomb
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-canada,physics
+tags: astronomy,origin-canada,physics
 title: Newcomb, Simon
 born: 1835
 died: 1909

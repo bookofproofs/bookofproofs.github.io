@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hopper
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Hopper, Grace Brewster Murray
 born: 1906
 died: 1992

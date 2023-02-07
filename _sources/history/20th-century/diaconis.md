@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Diaconis
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Diaconis, Persi Warren
 born: 1945
 died: 2022

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Skuhersky
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Skuherský, Rudolf
 born: 1828
 died: 1863

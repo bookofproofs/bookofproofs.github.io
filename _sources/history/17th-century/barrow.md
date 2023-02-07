@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Barrow
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: analysis,nationality-england
+tags: analysis,origin-england
 title: Barrow, Isaac
 born: 1630
 died: 1677

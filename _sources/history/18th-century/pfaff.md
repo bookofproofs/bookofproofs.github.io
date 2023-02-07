@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pfaff
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Pfaff, Johann Friedrich
 born: 1765
 died: 1825

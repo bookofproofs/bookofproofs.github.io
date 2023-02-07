@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sperner
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Sperner, Emanuel
 born: 1905
 died: 1980

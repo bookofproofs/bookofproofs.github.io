@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Alcuin
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: astronomy,nationality-england,puzzles-and-problems
+tags: astronomy,origin-england,puzzles-and-problems
 title: Alcuin
 born: 735
 died: 804

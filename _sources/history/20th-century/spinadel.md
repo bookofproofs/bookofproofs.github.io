@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Spinadel
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-argentina,women
+tags: origin-argentina,women
 title: Spinadel, Vera
 born: 1929
 died: 2017

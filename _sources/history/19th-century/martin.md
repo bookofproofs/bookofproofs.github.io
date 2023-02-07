@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Martin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Martin (2), Artemas
 born: 1835
 died: 1918

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ruan_Yuan
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: ancient-chinese,astronomy,chinese,nationality-china
+tags: ancient-chinese,astronomy,chinese,origin-china
 title: Yuan, Ruan
 born: 1764
 died: 1849

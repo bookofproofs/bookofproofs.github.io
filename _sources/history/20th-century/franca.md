@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Franca
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-brazil
+tags: origin-brazil
 title: Franca, Leopoldo
 born: 1959
 died: 2012

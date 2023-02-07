@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Whiston
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,geography,nationality-england,physics
+tags: astronomy,geography,origin-england,physics
 title: Whiston, William
 born: 1667
 died: 1752

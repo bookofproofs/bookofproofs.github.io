@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jackson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-scotland
+tags: astronomy,origin-scotland
 title: Jackson (2), John
 born: 1887
 died: 1958

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Carver
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Carver, Harry Clyde
 born: 1890
 died: 1977

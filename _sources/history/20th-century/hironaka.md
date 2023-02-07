@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hironaka
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-japan
+tags: fields-medal,origin-japan
 title: Hironaka, Heisuke
 born: 1931
 died: 2018

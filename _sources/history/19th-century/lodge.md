@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lodge
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Lodge, Alfred
 born: 1854
 died: 1937

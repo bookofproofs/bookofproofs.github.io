@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cohen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-usa
+tags: fields-medal,origin-usa
 title: Cohen (2), Jacob Willem
 born: 1934
 died: 2007

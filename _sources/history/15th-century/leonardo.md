@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Leonardo
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: ancient-greek,architecture,astronomy,geometry,nationality-italy,puzzles-and-problems
+tags: ancient-greek,architecture,astronomy,geometry,origin-italy,puzzles-and-problems
 title: Da Vinci, Leonardo
 born: 1452
 died: 1519

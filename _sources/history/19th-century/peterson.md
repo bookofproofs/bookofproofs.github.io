@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Peterson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-latvia
+tags: origin-latvia
 title: Peterson, Karl Mikhailovich
 born: 1828
 died: 1881

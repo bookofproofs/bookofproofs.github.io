@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Praeger
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-australia,women
+tags: group-theory,origin-australia,women
 title: Praeger, Cheryl Elisabeth
 born: 1948
 died: 2009

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sang
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-scotland
+tags: astronomy,origin-scotland
 title: Sang, Edward
 born: 1805
 died: 1890

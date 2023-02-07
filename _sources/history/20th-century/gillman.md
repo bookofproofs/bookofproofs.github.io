@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gillman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Gillman, Leonard
 born: 1917
 died: 2009

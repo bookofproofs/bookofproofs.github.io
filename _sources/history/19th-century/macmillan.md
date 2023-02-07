@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Macmillan
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Macmillan, Donald
 born: 1856
 died: 1937

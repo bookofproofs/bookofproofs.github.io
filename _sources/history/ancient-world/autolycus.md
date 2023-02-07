@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Autolycus
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,astronomy,nationality-turkey,physics
+tags: ancient-greek,astronomy,origin-turkey,physics
 title: Autolycus Of Pitane
 born: -360
 died: -290

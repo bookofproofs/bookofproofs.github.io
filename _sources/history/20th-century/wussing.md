@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wussing
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,group-theory,nationality-germany
+tags: astronomy,group-theory,origin-germany
 title: Wussing, Hans
 born: 1927
 died: 2011

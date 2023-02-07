@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Richardson_Roland
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-canada
+tags: origin-canada
 title: Richardson, Roland
 born: 1878
 died: 1949

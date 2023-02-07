@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gromoll
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Gromoll, Detlef
 born: 1938
 died: 2008

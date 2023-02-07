@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Banu_Musa_Muhammad
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,nationality-iraq
+tags: ancient-arab,origin-iraq
 title: Musa, Jafar Muhammad Banu
 born: 800
 died: 873

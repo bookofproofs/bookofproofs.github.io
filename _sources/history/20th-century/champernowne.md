@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Champernowne
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Champernowne, David Gawen
 born: 1912
 died: 2000

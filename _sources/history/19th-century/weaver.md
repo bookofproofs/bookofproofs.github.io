@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Weaver
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Weaver, Warren
 born: 1894
 died: 1978

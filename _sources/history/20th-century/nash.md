@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nash
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,nationality-usa,nobel-prize
+tags: abel-prize,origin-usa,nobel-prize
 title: Nash, John Forbes
 born: 1928
 died: 2015

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wood
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,women
+tags: origin-england,women
 title: Wood, Frances Chick
 born: 1883
 died: 1919

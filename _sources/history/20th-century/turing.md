@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Turing
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,analysis,group-theory,nationality-england
+tags: algebra,analysis,group-theory,origin-england
 title: Turing, Alan Mathison
 born: 1912
 died: 1954

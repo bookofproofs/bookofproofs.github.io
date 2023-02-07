@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Miller_Kelly
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Miller, Kelly
 born: 1863
 died: 1939

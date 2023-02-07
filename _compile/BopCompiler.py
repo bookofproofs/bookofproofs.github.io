@@ -247,6 +247,8 @@ class BopCompiler:
             body += bop_source.get_categories_links() + "\n"
         body += bop_source.get_content_of_node() + "\n"
         body += bop_source.get_toc() + "\n"
+        if bop_source.layout == BopLayouts.person:
+            body += bop_source.get_relevant_tags_html() + "\n"
         body += bop_source.get_referencing_nodes_html() + "\n"
         body += bop_source.get_references_md()
         body += bop_source.get_link_references()

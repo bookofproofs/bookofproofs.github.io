@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Clark_John
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Clark, John
 born: 1861
 died: 1947

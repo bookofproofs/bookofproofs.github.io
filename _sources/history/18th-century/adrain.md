@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Adrain
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-ireland
+tags: origin-ireland
 title: Adrain, Robert
 born: 1775
 died: 1843

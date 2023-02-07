@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hilbert
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,analysis,group-theory,nationality-russia,physics,set-theory,topology
+tags: algebra,analysis,group-theory,origin-russia,physics,set-theory,topology
 title: Hilbert, David
 born: 1862
 died: 1943

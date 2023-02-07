@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Somov
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Somov, Osip Ivanovich
 born: 1815
 died: 1876

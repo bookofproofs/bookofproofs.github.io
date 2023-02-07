@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Booth
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland
+tags: origin-ireland
 title: Booth, James
 born: 1806
 died: 1878

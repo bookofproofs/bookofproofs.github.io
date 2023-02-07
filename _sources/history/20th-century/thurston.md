@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Thurston
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-usa,topology
+tags: fields-medal,origin-usa,topology
 title: Thurston, William Paul
 born: 1946
 died: 2012

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bohr_Harald
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-denmark
+tags: origin-denmark
 title: Bohr (2), Harald
 born: 1887
 died: 1951

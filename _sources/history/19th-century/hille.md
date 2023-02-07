@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hille
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Hille, Einar Carl
 born: 1894
 died: 1980

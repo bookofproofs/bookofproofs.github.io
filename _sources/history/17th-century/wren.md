@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wren
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: architecture,astronomy,geography,nationality-england,physics
+tags: architecture,astronomy,geography,origin-england,physics
 title: Wren, Sir Christopher
 born: 1632
 died: 1723

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Yano
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan
+tags: origin-japan
 title: Yano, Kentaro
 born: 1912
 died: 1993

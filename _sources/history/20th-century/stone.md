@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stone
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Stone (2), Marshall Harvey
 born: 1903
 died: 1989

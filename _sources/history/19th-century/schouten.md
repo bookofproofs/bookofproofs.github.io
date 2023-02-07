@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schouten
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-netherlands
+tags: astronomy,origin-netherlands
 title: Schouten, Jan Arnoldus
 born: 1883
 died: 1971

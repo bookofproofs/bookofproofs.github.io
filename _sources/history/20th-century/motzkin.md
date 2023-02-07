@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Motzkin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Motzkin, Theodore Samuel
 born: 1908
 died: 1970

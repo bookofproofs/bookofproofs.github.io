@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Einstein
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: ancient-greek,astronomy,nationality-germany,nobel-prize,physics
+tags: ancient-greek,astronomy,origin-germany,nobel-prize,physics
 title: Einstein, Albert
 born: 1879
 died: 1955

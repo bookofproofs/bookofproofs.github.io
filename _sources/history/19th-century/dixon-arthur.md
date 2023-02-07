@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dixon_Arthur
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Dixon (2), Arthur Lee
 born: 1867
 died: 1955

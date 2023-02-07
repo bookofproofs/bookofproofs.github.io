@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Knorr
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: Knorr, Wilbur Richard
 born: 1945
 died: 1997

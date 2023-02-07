@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Prufer
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Prüfer, Heinz
 born: 1896
 died: 1934

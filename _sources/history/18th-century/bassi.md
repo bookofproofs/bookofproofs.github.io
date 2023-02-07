@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bassi
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-italy,women
+tags: origin-italy,women
 title: Bassi, Laura Maria Catarina
 born: 1711
 died: 1778

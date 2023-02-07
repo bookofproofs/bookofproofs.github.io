@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gurbs
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: De Gurbs, Stephen
 born: 1800
 died: 1892

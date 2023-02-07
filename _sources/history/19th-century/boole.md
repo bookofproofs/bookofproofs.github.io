@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Boole
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,geometry,nationality-england
+tags: algebra,geometry,origin-england
 title: Boole, George
 born: 1815
 died: 1864

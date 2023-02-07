@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Knopp
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: ancient-chinese,chinese,nationality-germany
+tags: ancient-chinese,chinese,origin-germany
 title: Knopp, Konrad Hermann Theodor
 born: 1882
 died: 1957

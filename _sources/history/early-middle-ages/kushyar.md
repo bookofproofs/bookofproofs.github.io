@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kushyar
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: astronomy,nationality-iran
+tags: astronomy,origin-iran
 title: Kushyar Ibn Labban
 born: 971
 died: 1029

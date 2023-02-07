@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Marescotti
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-italy
+tags: origin-italy
 title: Marescotti, Pietro Abbati
 born: 1768
 died: 1842

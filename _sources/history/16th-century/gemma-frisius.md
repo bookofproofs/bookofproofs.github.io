@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gemma_Frisius
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,geography,nationality-netherlands,physics
+tags: astronomy,geography,origin-netherlands,physics
 title: Frisius, Regnier Gemma
 born: 1508
 died: 1555

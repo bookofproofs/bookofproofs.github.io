@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Watt
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Watt, James
 born: 1863
 died: 1945

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zhu_Shijie
 categories: history,13th-century
 parentid: bookofproofs$606
-tags: ancient-babylonian,ancient-chinese,chinese,nationality-china,puzzles-and-problems,special-numbers-and-numerals
+tags: ancient-babylonian,ancient-chinese,chinese,origin-china,puzzles-and-problems,special-numbers-and-numerals
 title: Shijie, Zhu
 born: 1260
 died: 1320

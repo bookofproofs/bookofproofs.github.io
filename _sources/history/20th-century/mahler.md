@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mahler
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: analysis,nationality-germany
+tags: analysis,origin-germany
 title: Mahler, Kurt
 born: 1903
 died: 1988

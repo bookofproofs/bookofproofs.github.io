@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kilmister
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Kilmister, Clive William
 born: 1924
 died: 2010

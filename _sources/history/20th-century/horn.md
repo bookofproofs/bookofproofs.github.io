@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Horn
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-austria
+tags: origin-austria
 title: Horn, Friedrich Josef Maria
 born: 1927
 died: 1978

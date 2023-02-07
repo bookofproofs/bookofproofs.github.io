@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pawlak
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Pawlak, Zdzisław
 born: 1926
 died: 2006

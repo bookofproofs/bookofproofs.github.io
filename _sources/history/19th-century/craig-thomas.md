@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Craig_Thomas
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Craig (2), Thomas
 born: 1855
 died: 1900

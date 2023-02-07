@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Alexander_Archie
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Alexander, Archie
 born: 1888
 died: 1958

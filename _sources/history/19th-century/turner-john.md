@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Turner_John
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Turner (2), John
 born: 1871
 description: Some facts about John Turner

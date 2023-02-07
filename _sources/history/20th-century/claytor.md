@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Claytor
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa,topology
+tags: african-american,origin-usa,topology
 title: Claytor, Schieffelin
 born: 1908
 died: 1967

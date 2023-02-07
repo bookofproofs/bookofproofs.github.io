@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schooten
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Van Schooten, Frans
 born: 1615
 died: 1660

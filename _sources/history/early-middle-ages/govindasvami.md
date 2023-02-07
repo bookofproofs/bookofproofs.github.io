@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Govindasvami
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-indian,astronomy,nationality-india
+tags: ancient-indian,astronomy,origin-india
 title: Govindasvami
 born: 800
 died: 860

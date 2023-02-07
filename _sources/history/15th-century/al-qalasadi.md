@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Qalasadi
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: ancient-arab,nationality-spain
+tags: ancient-arab,origin-spain
 title: Al Qalasadi, Abu'l Hasan ibn Ali
 born: 1412
 died: 1486

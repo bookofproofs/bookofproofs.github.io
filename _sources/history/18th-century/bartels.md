@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bartels
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-germany
+tags: origin-germany
 title: Bartels, Johann Christian Martin
 born: 1769
 died: 1836

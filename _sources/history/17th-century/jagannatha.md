@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jagannatha
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: ancient-indian,nationality-india
+tags: ancient-indian,origin-india
 title: Jagannatha
 born: 1690
 died: 1750

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Butzer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Butzer, Paul Leo
 born: 1928
 died: 2013

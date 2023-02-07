@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-china
+tags: origin-china
 title: Chen, Kuo Tsai
 born: 1923
 died: 1987

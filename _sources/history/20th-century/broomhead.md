@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Broomhead
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Broomhead, David S
 born: 1950
 died: 2014

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ladyzhenskaya
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia,women
+tags: origin-russia,women
 title: Ladyzhenskaya, Olga Alexandrovna
 born: 1922
 died: 2004

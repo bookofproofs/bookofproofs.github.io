@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bers
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-latvia
+tags: origin-latvia
 title: Bers, Lipman
 born: 1914
 died: 1993

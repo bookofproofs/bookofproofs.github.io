@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Seidel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Von Seidel, Philipp Ludwig
 born: 1821
 died: 1896

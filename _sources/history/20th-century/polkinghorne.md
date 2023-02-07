@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Polkinghorne
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Polkinghorne, John Charlton
 born: 1930
 died: 2021

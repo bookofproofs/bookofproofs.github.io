@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schwarz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland,set-theory
+tags: origin-poland,set-theory
 title: Schwarz, Hermann Amandus
 born: 1843
 died: 1921

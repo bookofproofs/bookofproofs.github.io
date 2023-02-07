@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tuy
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-vietnam
+tags: origin-vietnam
 title: Tụy, Hoàng
 born: 1927
 died: 2019

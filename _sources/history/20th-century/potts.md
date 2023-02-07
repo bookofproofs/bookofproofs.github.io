@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Potts
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-australia
+tags: origin-australia
 title: Potts, Renfrey Burnard
 born: 1925
 died: 2005

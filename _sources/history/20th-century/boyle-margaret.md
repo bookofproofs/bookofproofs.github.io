@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Boyle_Margaret
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland,women
+tags: origin-scotland,women
 title: Boyle (2), Margaret E
 born: 1905
 died: 1995

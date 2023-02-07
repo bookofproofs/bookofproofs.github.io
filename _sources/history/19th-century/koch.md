@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Koch
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,geometry,nationality-sweden
+tags: analysis,geometry,origin-sweden
 title: Von Koch, Niels Fabian Helge
 born: 1870
 died: 1924

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ghizzetti
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Ghizzetti, Aldo
 born: 1908
 died: 1992

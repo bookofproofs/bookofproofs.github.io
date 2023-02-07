@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Olubummo_Adegoke
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-nigeria
+tags: african,origin-nigeria
 title: Olubummo, Adegoke
 born: 1923
 died: 1992

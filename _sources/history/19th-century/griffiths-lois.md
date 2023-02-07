@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Griffiths_Lois
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Griffiths, Lois
 born: 1899
 died: 1981

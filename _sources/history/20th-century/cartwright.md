@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cartwright
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,women
+tags: origin-england,women
 title: Cartwright, Dame Mary Lucy
 born: 1900
 died: 1998

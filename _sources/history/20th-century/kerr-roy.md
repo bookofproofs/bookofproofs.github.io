@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kerr_Roy
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-new-zealand
+tags: origin-new-zealand
 title: Kerr (2), Roy
 born: 1934
 died: 2003

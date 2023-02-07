@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tate
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,nationality-usa,wolf-prize
+tags: abel-prize,origin-usa,wolf-prize
 title: Tate, John Torrence
 born: 1925
 died: 2019

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hewitt_Edwin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,topology
+tags: origin-usa,topology
 title: Hewitt, Edwin
 born: 1920
 died: 1999

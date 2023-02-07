@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Eudemus
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,astronomy,geometry,nationality-greece
+tags: ancient-greek,astronomy,geometry,origin-greece
 title: Eudemus Of Rhodes
 born: -350
 died: -290

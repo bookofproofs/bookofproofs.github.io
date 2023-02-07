@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Carlitz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Carlitz, Leonard
 born: 1907
 died: 1999

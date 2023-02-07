@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Littlewood_Dudley
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Littlewood (2), Dudley
 born: 1903
 died: 1979

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Euler
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: algebra,analysis,ancient-arab,ancient-indian,astronomy,geometry,group-theory,nationality-switzerland,number-theory,physics,puzzles-and-problems,special-numbers-and-numerals,topology
+tags: algebra,analysis,ancient-arab,ancient-indian,astronomy,geometry,group-theory,origin-switzerland,number-theory,physics,puzzles-and-problems,special-numbers-and-numerals,topology
 title: Euler, Leonhard
 born: 1707
 died: 1783

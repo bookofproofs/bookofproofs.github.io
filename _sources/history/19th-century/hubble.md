@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hubble
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa,physics
+tags: astronomy,origin-usa,physics
 title: Hubble, Edwin Powell
 born: 1889
 died: 1953

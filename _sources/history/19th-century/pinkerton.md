@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pinkerton
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Pinkerton, Peter
 born: 1870
 died: 1930

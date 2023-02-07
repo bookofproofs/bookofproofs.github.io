@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Kindi
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,nationality-iraq
+tags: ancient-arab,origin-iraq
 title: Al-Kindi, Abu Yusuf Yaqub ibn Ishaq al-Sabbah
 born: 801
 died: 873

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Onicescu
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-romania
+tags: origin-romania
 title: Onicescu, Octav
 born: 1892
 died: 1983

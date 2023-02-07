@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fergola
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-italy
+tags: origin-italy
 title: Fergola, Nicola
 born: 1753
 died: 1824

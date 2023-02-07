@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dubickas
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-lithuania
+tags: origin-lithuania
 title: Dubickas, Artūras
 born: 1962
 died: 2009

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Erdos
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: analysis,nationality-hungary,wolf-prize
+tags: analysis,origin-hungary,wolf-prize
 title: Erdős, Paul
 born: 1913
 died: 1996

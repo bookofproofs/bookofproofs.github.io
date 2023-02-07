@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schatten
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Schatten, Robert
 born: 1911
 died: 1977

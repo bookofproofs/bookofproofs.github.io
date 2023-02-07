@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Krein
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine,wolf-prize
+tags: origin-ukraine,wolf-prize
 title: Krein, Mark Grigorievich
 born: 1907
 died: 1989

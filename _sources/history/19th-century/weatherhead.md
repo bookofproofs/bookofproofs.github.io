@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Weatherhead
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Weatherhead, Kenneth Kilpatrick
 born: 1898
 died: 1979

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Alison
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Alison, John
 born: 1861
 died: 1952

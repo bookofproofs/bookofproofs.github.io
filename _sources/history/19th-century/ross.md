@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ross
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Grossmann, Marcel
 born: 1881
 died: 1947

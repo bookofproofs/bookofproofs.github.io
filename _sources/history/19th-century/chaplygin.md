@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chaplygin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Chaplygin, Sergei Alekseevich
 born: 1869
 died: 1942

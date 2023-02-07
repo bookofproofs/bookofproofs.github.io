@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Moore_Jonas
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: analysis,astronomy,geography,geometry,nationality-england
+tags: analysis,astronomy,geography,geometry,origin-england
 title: Moore, Jonas
 born: 1627
 died: 1679

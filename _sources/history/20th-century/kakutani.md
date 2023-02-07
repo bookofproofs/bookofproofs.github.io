@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kakutani
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan
+tags: origin-japan
 title: Kakutani, Shizuo
 born: 1911
 died: 2004

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hevelius_Johannes
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-poland
+tags: astronomy,origin-poland
 title: Hevelius, Johannes
 born: 1611
 died: 1687

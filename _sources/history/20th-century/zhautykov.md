@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zhautykov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-kazakhstan
+tags: origin-kazakhstan
 title: Zhautykov, Orymbek
 born: 1911
 died: 1989

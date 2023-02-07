@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gruenberg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-austria
+tags: group-theory,origin-austria
 title: Gruenberg, Karl Walter
 born: 1928
 died: 2007

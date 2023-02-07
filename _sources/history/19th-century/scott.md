@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Scott
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,women
+tags: origin-england,women
 title: Scott (2), Charlotte Angas
 born: 1858
 died: 1931

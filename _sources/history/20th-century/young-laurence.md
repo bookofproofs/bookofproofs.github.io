@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Young_Laurence
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Young (6), Laurence Chisholm
 born: 1905
 died: 2000

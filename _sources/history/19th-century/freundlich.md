@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Freundlich
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-germany,physics
+tags: astronomy,origin-germany,physics
 title: Freundlich, Erwin Finlay
 born: 1885
 died: 1964

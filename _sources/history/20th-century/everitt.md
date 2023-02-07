@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Everitt
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Everitt, Norrie
 born: 1924
 died: 2011

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Paley
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Paley, Raymond Edward Alan Christopher
 born: 1907
 died: 1933

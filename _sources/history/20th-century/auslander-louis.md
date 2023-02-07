@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Auslander_Louis
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Auslander (2), Louis
 born: 1928
 died: 1997

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Luoxia_Hong
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-chinese,astronomy,chinese,nationality-china
+tags: ancient-chinese,astronomy,chinese,origin-china
 title: Hong, Luoxia
 born: -130
 died: -70

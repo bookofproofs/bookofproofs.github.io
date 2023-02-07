@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Aleksandrov
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia,topology
+tags: origin-russia,topology
 title: Grave, Dmitry Aleksandrovich
 born: 1896
 died: 1982

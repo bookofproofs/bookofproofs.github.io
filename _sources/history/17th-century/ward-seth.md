@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ward_Seth
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Ward, Seth
 born: 1617
 died: 1689

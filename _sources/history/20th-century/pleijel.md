@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pleijel
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-sweden
+tags: origin-sweden
 title: Pleijel, Åke
 born: 1913
 died: 1989

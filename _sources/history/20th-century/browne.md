@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Browne
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa,women
+tags: african-american,origin-usa,women
 title: Browne, Marjorie Lee
 born: 1914
 died: 1979

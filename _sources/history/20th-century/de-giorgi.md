@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$De_Giorgi
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy,wolf-prize
+tags: origin-italy,wolf-prize
 title: De Giorgi, Ennio
 born: 1928
 died: 1996

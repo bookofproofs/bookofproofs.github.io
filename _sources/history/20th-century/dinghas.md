@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dinghas
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-turkey
+tags: origin-turkey
 title: Dinghas, Alexander
 born: 1908
 died: 1974

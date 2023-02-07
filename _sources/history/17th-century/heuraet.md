@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Heuraet
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Van Heuraet, Hendrik
 born: 1634
 died: 1660

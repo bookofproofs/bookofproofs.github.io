@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hsu
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-china
+tags: origin-china
 title: Hsu, Pao-Lu
 born: 1910
 died: 1970

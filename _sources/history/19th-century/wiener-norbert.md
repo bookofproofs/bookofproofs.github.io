@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wiener_Norbert
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: architecture,nationality-usa
+tags: architecture,origin-usa
 title: Wiener (4), Norbert
 born: 1894
 died: 1964

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Story
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Story, William Edward
 born: 1850
 died: 1930

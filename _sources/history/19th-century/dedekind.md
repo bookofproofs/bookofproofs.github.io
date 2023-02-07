@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dedekind
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,analysis,group-theory,nationality-germany,set-theory
+tags: algebra,analysis,group-theory,origin-germany,set-theory
 title: Dedekind, Julius Wilhelm Richard
 born: 1831
 died: 1916

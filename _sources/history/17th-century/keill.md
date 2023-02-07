@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Keill
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-scotland
+tags: astronomy,origin-scotland
 title: Keill, John
 born: 1671
 died: 1721

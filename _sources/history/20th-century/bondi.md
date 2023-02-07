@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bondi
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-austria
+tags: astronomy,origin-austria
 title: Bondi, Hermann
 born: 1919
 died: 2005

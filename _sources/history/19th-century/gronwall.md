@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gronwall
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-sweden
+tags: origin-sweden
 title: Grönwall, Thomas Hakon
 born: 1877
 died: 1932

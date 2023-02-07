@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Barlow
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-england,number-theory,special-numbers-and-numerals
+tags: origin-england,number-theory,special-numbers-and-numerals
 title: Barlow, Peter
 born: 1776
 died: 1862

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Christiansen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-denmark
+tags: origin-denmark
 title: Christiansen, Bent
 born: 1921
 died: 1996

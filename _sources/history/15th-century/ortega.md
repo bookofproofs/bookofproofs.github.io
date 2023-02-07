@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ortega
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: nationality-spain
+tags: origin-spain
 title: De Ortega, Juan
 born: 1480
 died: 1568

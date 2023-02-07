@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mosteller
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Mosteller, Charles Frederick
 born: 1916
 died: 2006

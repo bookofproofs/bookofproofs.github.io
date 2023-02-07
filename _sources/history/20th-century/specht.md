@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Specht
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-germany
+tags: group-theory,origin-germany
 title: Specht, Wilhelm Otto Ludwig
 born: 1907
 died: 1985

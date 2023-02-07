@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Saccheri
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: geometry,nationality-italy
+tags: geometry,origin-italy
 title: Saccheri, Giovanni Girolamo
 born: 1667
 died: 1733

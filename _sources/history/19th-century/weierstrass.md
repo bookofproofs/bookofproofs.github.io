@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Weierstrass
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,analysis,geometry,nationality-germany,set-theory,topology
+tags: algebra,analysis,geometry,origin-germany,set-theory,topology
 title: Weierstrass, Karl Theodor Wilhelm
 born: 1815
 died: 1897

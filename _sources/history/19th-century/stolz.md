@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stolz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-austria
+tags: origin-austria
 title: Stolz, Otto
 born: 1842
 died: 1905

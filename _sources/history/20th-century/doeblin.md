@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Doeblin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Doeblin, Wolfgang
 born: 1915
 died: 1940

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Baer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-germany
+tags: group-theory,origin-germany
 title: Baer, Reinhold
 born: 1902
 died: 1979

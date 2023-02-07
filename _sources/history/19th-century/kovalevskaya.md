@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kovalevskaya
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia,women
+tags: origin-russia,women
 title: Kovalevskaya, Sofia Vasilyevna
 born: 1850
 died: 1891

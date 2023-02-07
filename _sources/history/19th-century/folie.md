@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Folie
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-netherlands
+tags: astronomy,origin-netherlands
 title: Folie, François-Jacques-Philippe
 born: 1833
 died: 1905

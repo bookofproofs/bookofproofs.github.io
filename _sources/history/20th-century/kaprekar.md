@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kaprekar
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-india
+tags: origin-india
 title: Kaprekar, Dattatreya Ramachandra
 born: 1905
 died: 1986

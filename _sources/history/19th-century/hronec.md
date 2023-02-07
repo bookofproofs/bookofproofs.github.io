@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hronec
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-slovakia
+tags: origin-slovakia
 title: Hronec, Jur
 born: 1881
 died: 1959

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kutta
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,nationality-poland
+tags: analysis,origin-poland
 title: Kutta, Martin Wilhelm
 born: 1867
 died: 1944

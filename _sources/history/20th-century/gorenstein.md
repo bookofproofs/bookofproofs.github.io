@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gorenstein
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-usa
+tags: group-theory,origin-usa
 title: Gorenstein, Daniel
 born: 1923
 died: 1992

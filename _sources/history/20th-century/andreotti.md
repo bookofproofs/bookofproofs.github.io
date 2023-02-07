@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Andreotti
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Andreotti, Aldo
 born: 1924
 died: 1980

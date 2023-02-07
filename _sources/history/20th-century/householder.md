@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Householder
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Householder, Alston Scott
 born: 1904
 died: 1993

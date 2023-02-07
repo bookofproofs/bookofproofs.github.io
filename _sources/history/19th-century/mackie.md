@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mackie
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Mackie, John
 born: 1888
 died: 1955

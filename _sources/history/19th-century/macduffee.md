@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$MacDuffee
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Macduffee, Cyrus Colton
 born: 1895
 died: 1961

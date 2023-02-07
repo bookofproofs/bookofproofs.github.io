@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$McWhan
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Mcwhan, John
 born: 1885
 died: 1943

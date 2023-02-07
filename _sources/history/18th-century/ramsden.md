@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ramsden
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-england,physics
+tags: astronomy,origin-england,physics
 title: Ramsden, Jesse
 born: 1735
 died: 1800

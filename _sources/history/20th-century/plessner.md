@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Plessner
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Plessner, Abraham Ezechiel
 born: 1900
 died: 1961

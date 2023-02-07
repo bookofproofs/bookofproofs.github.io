@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dye
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Dye, Henry Abel
 born: 1926
 died: 1986

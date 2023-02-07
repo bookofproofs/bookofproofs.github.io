@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lavanha
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-portugal
+tags: astronomy,origin-portugal
 title: Lavanha, João Baptista
 born: 1555
 died: 1624

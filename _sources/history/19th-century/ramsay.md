@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ramsay
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Ramsay, Peter
 born: 1879
 died: 1926

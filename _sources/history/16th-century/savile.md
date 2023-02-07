@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Savile
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Savile, Sir Henry
 born: 1549
 died: 1622

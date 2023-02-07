@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kalicki
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Kalicki, Jan
 born: 1922
 died: 1953

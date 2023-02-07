@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tilly
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-belgium
+tags: origin-belgium
 title: De Tilly, Joseph Marie
 born: 1837
 died: 1906

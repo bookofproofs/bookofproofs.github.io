@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Filep
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Filep, László
 born: 1941
 died: 2004

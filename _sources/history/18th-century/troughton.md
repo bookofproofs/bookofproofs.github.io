@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Troughton
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Troughton, Edward
 born: 1753
 died: 1835

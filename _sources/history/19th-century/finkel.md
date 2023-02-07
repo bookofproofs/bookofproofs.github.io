@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Finkel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Finkel, Benjamin Franklin
 born: 1865
 died: 1947

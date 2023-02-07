@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hsiung
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-china
+tags: origin-china
 title: Hsiung, Chuan-Chih
 born: 1915
 died: 2009

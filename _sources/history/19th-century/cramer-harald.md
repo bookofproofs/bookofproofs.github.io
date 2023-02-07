@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cramer_Harald
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-sweden
+tags: origin-sweden
 title: Cramér, Harald
 born: 1893
 died: 1985

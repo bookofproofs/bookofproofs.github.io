@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ruffini
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: algebra,ancient-arab,ancient-chinese,chinese,group-theory,nationality-italy
+tags: algebra,ancient-arab,ancient-chinese,chinese,group-theory,origin-italy
 title: Ruffini, Paolo
 born: 1765
 died: 1822

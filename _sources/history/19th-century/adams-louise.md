@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Adams_Louise
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,women
+tags: origin-england,women
 title: Adams (3), Doris
 born: 1889
 died: 1965

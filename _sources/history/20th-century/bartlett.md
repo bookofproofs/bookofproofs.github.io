@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bartlett
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Bartlett, Maurice Stevenson
 born: 1910
 died: 2002

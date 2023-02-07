@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Merriles
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Merriles, Alexander Johnson
 born: 1880
 died: 1950

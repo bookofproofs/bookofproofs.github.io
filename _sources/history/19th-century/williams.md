@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Williams
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Williams, William Lloyd Garrison
 born: 1888
 died: 1976

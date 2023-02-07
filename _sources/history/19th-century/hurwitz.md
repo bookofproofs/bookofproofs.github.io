@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hurwitz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany,set-theory
+tags: origin-germany,set-theory
 title: Hurwitz, Adolf
 born: 1859
 died: 1919

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Robertson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: Robertson, Howard Percy
 born: 1903
 died: 1961

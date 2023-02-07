@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sturm_Rudolf
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,geometry,nationality-poland
+tags: algebra,geometry,origin-poland
 title: Sturm (2), Rudolf
 born: 1841
 died: 1919

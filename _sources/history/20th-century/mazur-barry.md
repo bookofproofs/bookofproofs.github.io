@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mazur_Barry
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,topology
+tags: origin-usa,topology
 title: Mazur (2), Barry
 born: 1937
 died: 2002

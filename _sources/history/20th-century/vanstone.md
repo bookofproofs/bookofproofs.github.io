@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vanstone
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-canada
+tags: origin-canada
 title: Vanstone, Ray
 born: 1933
 died: 2001

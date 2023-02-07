@@ -19,112 +19,109 @@ _(no contents provided yet)_
 
 ## Chronology
 ### 1400
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Al-Umawi/">Al-Umawi</a>
+#### Birth of:
+* [Al-Umawi][bookofproofs$Al-Umawi]
 
 ### 1401
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Cusa/">Nicholas of Cusa</a>
-: A German philosopher and bishop. He was interested in geometry and logic as well as in philosophy and astronomy.
+#### Birth of:
+* [Nicholas Of Cusa][bookofproofs$Cusa]
 
 ### 1403
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Qushji/">Ali Qushji</a>
+#### Birth of:
+* [Qushji][bookofproofs$Qushji]
 
 ### 1404
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Alberti/">Leone Battista Alberti</a>
-: An Italian mathematician who wrote the first general treatise on the laws of perspective and also wrote a book on cryptography containing the first example of a frequency table.
+#### Birth of:
+* [Alberti][bookofproofs$Alberti]
 
 ### 1412
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Al-Qalasadi/">Abu'l Hasan ibn Ali al Qalasadi</a>
+#### Birth of:
+* [Al Qalasadi][bookofproofs$Al-Qalasadi]
 
 ### 1420
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Francesca/">Piero della Francesca</a>
-: An Italian artist who pioneered the use of perspective in Renaissance art and went on to write several mathematical treatises.
+#### Birth of:
+* [Della Francesca][bookofproofs$Francesca]
 
 ### 1423
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Peurbach/">Georg Peurbach</a>
-: An Austrian astronomer who published observations as well as a textbook on trigonometric calculation.
+#### Birth of:
+* [Peurbach][bookofproofs$Peurbach]
 
 ### 1424
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Borgi/">Piero Borgi</a>
-: The author of the best known 15th Century Italian arithmetic books.
+#### Birth of:
+* [Borgi][bookofproofs$Borgi]
 
 ### 1436
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Regiomontanus/">Johann Müller Regiomontanus</a>
-: A German scholar who made important contributions to trigonometry and astronomy.
+#### Birth of:
+* [Regiomontanus][bookofproofs$Regiomontanus]
 
 ### 1444
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Nilakantha/">Nilakantha Somayaji</a>
-: A mathematician and astronomer from South India who wrote texts on both astronomy and infinite series.
+#### Birth of:
+* [Somayaji][bookofproofs$Nilakantha]
 
 ### 1445
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Pacioli/">Luca Pacioli</a>
-: An Italian mathematician who published the influential book Suma in 1494 giving a summary of all the mathematics known at that time.
-
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Chuquet/">Nicolas Chuquet</a>
+#### Birth of:
+* [Chuquet][bookofproofs$Chuquet]
+* [Pacioli][bookofproofs$Pacioli]
 
 ### 1452
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Leonardo/">Leonardo da Vinci</a>
-: An Italian artist and scholar who had many talents in addition to his painting. He worked on mechanics, though geometry was his main love. He was involved in hydrodynamics, anatomy, mechanics, mathematics and optics.
+#### Birth of:
+* [Da Vinci][bookofproofs$Leonardo]
 
 ### 1462
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Widman/">Johannes Widman</a>
-: A German mathematician who is best remembered for an early arithmetic book which contains the first appearance of + and - signs.
+#### Birth of:
+* [Widman][bookofproofs$Widman]
 
 ### 1465
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Ferro/">Scipione del Ferro</a>
-: An Italian mathematician who is famous for being the first to find a formula to solve a cubic equation.
+#### Birth of:
+* [Ferro][bookofproofs$Ferro]
 
 ### 1468
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Werner/">Johann Werner</a>
-: A German mathematician whose main work was on astronomy, mathematics and geography.
+#### Birth of:
+* [Werner][bookofproofs$Werner]
 
 ### 1469
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Maior/">John Maior</a>
-: A Scottish mathematician who worked in Paris and St Andrews where he taught logic and theology.
+#### Birth of:
+* [Maior][bookofproofs$Maior]
 
 ### 1470
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/La_Roche/">Estienne de La Roche</a>
-: Estienne de la Roche as a French mathematician who published an arithmetic book with good notation for powers and roots.
+#### Birth of:
+* [Roche][bookofproofs$La_Roche]
 
 ### 1471
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Durer/">Albrecht Dürer</a>
-
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bouvelles/">Charles de Bouvelles</a>
-: A French priest who wrote works on geometry and philosophy.
+#### Birth of:
+* [De Bouvelles][bookofproofs$Bouvelles]
+* [Dürer][bookofproofs$Durer]
 
 ### 1473
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/">Nicolaus Copernicus</a>
-: A Polish astronomer and mathematician who was a proponent of the view of an Earth in daily motion about its axis and in yearly motion around a stationary sun. This theory profoundly altered later workers' view of the universe, but was rejected by the Catholic church.
+#### Birth of:
+* [Copernicus][bookofproofs$Copernicus]
 
 ### 1474
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Tunstall/">Cuthbert Tunstall</a>
-: Cuthbert Tunstall wrote the first printed work published in England devoted exclusively to mathematics.
+#### Birth of:
+* [Tunstall][bookofproofs$Tunstall]
 
 ### 1480
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Ortega/">Juan de Ortega</a>
-: A Spanish mathematician who devised an original method of extracting square roots.
+#### Birth of:
+* [De Ortega][bookofproofs$Ortega]
 
 ### 1487
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Lax/">Gaspar Lax</a>
-: A Spanish scholar who published several mathematics books based on the work of earlier mathematicians.
-
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Stifel/">Michael Stifel</a>
-: A German mathematician who invented logarithms independently of Napier using a totally different approach.
+#### Birth of:
+* [Lax][bookofproofs$Lax]
+* [Stifel][bookofproofs$Stifel]
 
 ### 1492
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Ries/">Adam Ries</a>
-: A German mathematician who published one of the first widely available arithmetic texts.
+#### Birth of:
+* [Ries][bookofproofs$Ries]
 
 ### 1494
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Maurolico/">Francesco Maurolico</a>
-: An Italian Benedictine who wrote important books on Greek mathematics. He also worked on geometry, the theory of numbers, optics, conics and mechanics.
-
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fine/">Oronce Fine</a>
-: A French mathematician who published a major work on mathematics and astronomy.
+#### Birth of:
+* [Fine][bookofproofs$Fine]
+* [Maurolico][bookofproofs$Maurolico]
 
 ### 1495
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Apianus/">Petrus Apianus</a>
-: A German mathematician who published important popular works on astronomy and geography.
+#### Birth of:
+* [Apianus][bookofproofs$Apianus]
 
 ### 1499
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Rudolff/">Christoff Rudolff</a>
-: A German mathematician whose book "Coss" is the first German algebra book.
+#### Birth of:
+* [Rudolff][bookofproofs$Rudolff]

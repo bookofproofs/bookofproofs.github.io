@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Infeld
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Infeld, Leopold
 born: 1898
 died: 1968

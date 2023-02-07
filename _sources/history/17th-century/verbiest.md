@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Verbiest
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-belgium
+tags: origin-belgium
 title: Verbiest, Ferdinand
 born: 1623
 died: 1688

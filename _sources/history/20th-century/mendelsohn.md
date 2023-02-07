@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mendelsohn
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-usa
+tags: group-theory,origin-usa
 title: Mendelsohn, Nathan Saul
 born: 1917
 died: 2006

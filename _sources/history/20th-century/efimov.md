@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Efimov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Efimov, Nikolai Vladimirovich
 born: 1910
 died: 1982

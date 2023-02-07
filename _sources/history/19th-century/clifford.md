@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Clifford
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Clifford, William Kingdon
 born: 1845
 died: 1879

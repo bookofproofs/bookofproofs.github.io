@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rampinelli
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-italy
+tags: origin-italy
 title: Rampinelli, Ramiro
 born: 1697
 died: 1759

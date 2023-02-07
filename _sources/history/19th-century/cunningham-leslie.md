@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cunningham_Leslie
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Cunningham (2), Leslie
 born: 1895
 died: 1946

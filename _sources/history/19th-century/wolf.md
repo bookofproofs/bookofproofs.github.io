@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wolf
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-switzerland
+tags: astronomy,origin-switzerland
 title: Wolf, Johann Rudolf
 born: 1816
 died: 1893

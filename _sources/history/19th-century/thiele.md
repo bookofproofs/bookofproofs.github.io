@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Thiele
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-denmark
+tags: astronomy,origin-denmark
 title: Thiele, Thorvald Nicolai
 born: 1838
 died: 1910

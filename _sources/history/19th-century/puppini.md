@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Puppini
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Puppini, Umberto
 born: 1884
 died: 1946

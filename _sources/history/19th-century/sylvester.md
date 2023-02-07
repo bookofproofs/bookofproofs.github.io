@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sylvester
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,geometry,nationality-england,number-theory,special-numbers-and-numerals
+tags: algebra,geometry,origin-england,number-theory,special-numbers-and-numerals
 title: Sylvester, James Joseph
 born: 1814
 died: 1897

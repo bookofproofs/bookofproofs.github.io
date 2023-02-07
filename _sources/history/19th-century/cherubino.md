@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cherubino
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Cherubino, Salvatore
 born: 1885
 died: 1970

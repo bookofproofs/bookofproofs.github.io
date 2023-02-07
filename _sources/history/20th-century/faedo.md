@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Faedo
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Faedo, Alessandro
 born: 1913
 died: 2001

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Escher
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: architecture,geometry,nationality-netherlands
+tags: architecture,geometry,origin-netherlands
 title: Escher, Maurits Cornelius
 born: 1898
 died: 1972

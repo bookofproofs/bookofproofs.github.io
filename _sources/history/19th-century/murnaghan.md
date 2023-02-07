@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Murnaghan
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland
+tags: origin-ireland
 title: Murnaghan, Francis Dominic
 born: 1893
 died: 1976

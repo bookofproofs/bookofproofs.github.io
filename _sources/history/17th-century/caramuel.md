@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Caramuel
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-spain
+tags: astronomy,origin-spain
 title: Caramuel, Juan
 born: 1606
 died: 1682

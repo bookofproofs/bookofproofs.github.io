@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Curry
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Curry, Haskell Brooks
 born: 1900
 died: 1982

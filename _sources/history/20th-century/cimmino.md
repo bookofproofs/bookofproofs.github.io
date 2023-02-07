@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cimmino
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Cimmino, Gianfranco Luigi Giuseppe
 born: 1908
 died: 1989

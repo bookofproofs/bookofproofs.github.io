@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Liu_Hong
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: astronomy,nationality-china
+tags: astronomy,origin-china
 title: Hong (2), Liu
 born: 129
 died: 210

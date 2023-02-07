@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tukey
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,statistics
+tags: origin-usa,statistics
 title: Tukey, John Wilder
 born: 1915
 died: 2000

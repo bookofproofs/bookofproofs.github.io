@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Butcher
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Butcher, George
 born: 1920
 died: 2016

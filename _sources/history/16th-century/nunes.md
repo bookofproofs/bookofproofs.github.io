@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nunes
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: ancient-greek,geography,geometry,nationality-portugal,puzzles-and-problems
+tags: ancient-greek,geography,geometry,origin-portugal,puzzles-and-problems
 title: Salaciense, Pedro Nunes
 born: 1502
 died: 1578

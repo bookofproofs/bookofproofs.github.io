@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Catunda
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-brazil
+tags: origin-brazil
 title: Catunda, Omar
 born: 1906
 died: 1986

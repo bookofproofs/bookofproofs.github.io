@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Plemelj
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-slovenia
+tags: astronomy,origin-slovenia
 title: Plemelj, Josip
 born: 1873
 died: 1967

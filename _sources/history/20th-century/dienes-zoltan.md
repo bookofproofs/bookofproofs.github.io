@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dienes_Zoltan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Dienes (2), Zoltán
 born: 1916
 died: 2014

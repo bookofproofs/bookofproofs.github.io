@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ree
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-north-korea
+tags: group-theory,origin-north-korea
 title: Ree, Rimhak
 born: 1922
 died: 2005

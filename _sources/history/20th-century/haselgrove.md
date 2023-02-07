@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Haselgrove
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,astronomy,group-theory,nationality-england
+tags: algebra,astronomy,group-theory,origin-england
 title: Haselgrove, Colin Brian
 born: 1926
 died: 1964

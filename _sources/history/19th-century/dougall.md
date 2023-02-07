@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dougall
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Dougall, John
 born: 1867
 died: 1960

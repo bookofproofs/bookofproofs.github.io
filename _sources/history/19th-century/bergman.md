@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bergman
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Bergman, Stefan
 born: 1895
 died: 1977

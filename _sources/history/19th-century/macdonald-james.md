@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Macdonald_James
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Macdonald (3), James
 born: 1868
 died: 1937

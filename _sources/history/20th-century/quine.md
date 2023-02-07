@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Quine
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Quine, Willard Van Orman
 born: 1908
 died: 2000

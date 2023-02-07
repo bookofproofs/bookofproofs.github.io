@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gattegno
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-egypt
+tags: origin-egypt
 title: Gattegno, Caleb
 born: 1911
 died: 1988

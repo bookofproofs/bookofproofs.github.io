@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Szele
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-hungary
+tags: group-theory,origin-hungary
 title: Szele, Tibor
 born: 1918
 died: 1955

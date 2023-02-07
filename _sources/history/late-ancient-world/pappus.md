@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pappus
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: african,ancient-arab,ancient-greek,astronomy,geometry,nationality-egypt,puzzles-and-problems,special-numbers-and-numerals
+tags: african,ancient-arab,ancient-greek,astronomy,geometry,origin-egypt,puzzles-and-problems,special-numbers-and-numerals
 title: Pappus Of Alexandria
 born: 290
 died: 350

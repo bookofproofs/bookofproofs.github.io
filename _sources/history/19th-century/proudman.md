@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Proudman
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Proudman, Joseph
 born: 1888
 died: 1975

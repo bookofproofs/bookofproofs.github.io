@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zuse
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Zuse, Konrad
 born: 1910
 died: 1995

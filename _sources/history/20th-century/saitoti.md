@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Saitoti
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-kenya
+tags: african,origin-kenya
 title: Saitoti, George
 born: 1945
 died: 2012

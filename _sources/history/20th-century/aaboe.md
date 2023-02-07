@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Aaboe
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-denmark
+tags: astronomy,origin-denmark
 title: Aaboe, Asger Hartvig
 born: 1922
 died: 2007

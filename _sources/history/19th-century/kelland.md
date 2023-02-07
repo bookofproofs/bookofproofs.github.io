@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kelland
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,physics
+tags: origin-england,physics
 title: Kelland, Philip
 born: 1808
 died: 1879

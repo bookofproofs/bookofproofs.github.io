@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Morawetz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-canada,women
+tags: origin-canada,women
 title: Morawetz, Cathleen Synge
 born: 1923
 died: 2017

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lhuilier
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: ancient-indian,nationality-switzerland,topology
+tags: ancient-indian,origin-switzerland,topology
 title: Lhuilier, Simon Antoine Jean
 born: 1750
 died: 1840

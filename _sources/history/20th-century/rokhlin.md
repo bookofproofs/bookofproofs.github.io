@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rokhlin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-azerbaijan,topology
+tags: origin-azerbaijan,topology
 title: Rokhlin, Vladimir Abramovich
 born: 1919
 died: 1984

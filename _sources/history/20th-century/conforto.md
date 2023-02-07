@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Conforto
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Conforto, Fabio
 born: 1909
 died: 1954

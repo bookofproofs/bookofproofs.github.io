@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rosellini
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Rosellini, Ferdinando Pio
 born: 1814
 died: 1872

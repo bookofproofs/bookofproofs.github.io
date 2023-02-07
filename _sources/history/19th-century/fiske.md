@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fiske
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Fiske, Thomas Scott
 born: 1865
 died: 1944

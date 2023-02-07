@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Abellanas
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-spain
+tags: origin-spain
 title: Abellanas, Pedro
 born: 1914
 died: 1999

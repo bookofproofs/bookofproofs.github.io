@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Crawford
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Crawford, Lawrence
 born: 1867
 died: 1951

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Suvorov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Suvorov, Georgii Dmitrievic
 born: 1919
 died: 1984

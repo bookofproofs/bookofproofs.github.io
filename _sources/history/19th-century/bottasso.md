@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bottasso
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Bottasso, Matteo
 born: 1878
 died: 1918

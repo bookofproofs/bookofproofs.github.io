@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Abhyankar
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-india
+tags: origin-india
 title: Abhyankar, Shreeram Shankar
 born: 1930
 died: 2012

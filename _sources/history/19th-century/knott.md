@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Knott
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Knott, Cargill Gilston
 born: 1856
 died: 1922

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Howie
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Howie, John Mackintosh
 born: 1936
 died: 2011

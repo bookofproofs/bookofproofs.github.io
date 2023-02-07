@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fekete
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-serbia
+tags: origin-serbia
 title: Fekete, Michael
 born: 1886
 died: 1957

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stuart
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Stuart, James
 born: 1843
 died: 1913

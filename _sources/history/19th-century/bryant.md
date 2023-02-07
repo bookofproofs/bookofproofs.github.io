@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bryant
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland,women
+tags: origin-ireland,women
 title: Bryant, Sophie Willock
 born: 1850
 died: 1922

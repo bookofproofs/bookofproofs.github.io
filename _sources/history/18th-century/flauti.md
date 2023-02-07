@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Flauti
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-italy
+tags: origin-italy
 title: Flauti, Vincenzo
 born: 1782
 died: 1863

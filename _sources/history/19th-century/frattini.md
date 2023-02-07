@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Frattini
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,nationality-italy
+tags: algebra,group-theory,origin-italy
 title: Frattini, Giovanni
 born: 1852
 died: 1925

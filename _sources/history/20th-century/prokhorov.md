@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Prokhorov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Prokhorov, Yurii Vasilevich
 born: 1929
 died: 2013

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Russell
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,astronomy,nationality-wales,nobel-prize,set-theory
+tags: analysis,astronomy,origin-wales,nobel-prize,set-theory
 title: Russell (2), Bertrand Arthur William
 born: 1872
 died: 1970

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$McCowan
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Mccowan, John
 born: 1863
 died: 1900

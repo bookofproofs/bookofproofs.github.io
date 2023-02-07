@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cannon
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa,women
+tags: astronomy,origin-usa,women
 title: Cannon, Annie Jump
 born: 1863
 died: 1941

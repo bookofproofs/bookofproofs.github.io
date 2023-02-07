@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Upton
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Upton, Francis Robbins
 born: 1852
 died: 1921

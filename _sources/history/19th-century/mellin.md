@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mellin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-finland
+tags: astronomy,origin-finland
 title: Mellin, Robert Hjalmar
 born: 1854
 died: 1933

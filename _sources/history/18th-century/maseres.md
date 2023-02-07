@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Maseres
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-england
+tags: origin-england
 title: Maseres, Francis
 born: 1731
 died: 1824

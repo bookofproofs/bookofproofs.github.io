@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sargent
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,women
+tags: origin-england,women
 title: Sargent, Winifred Lydia Caunden
 born: 1905
 died: 1979

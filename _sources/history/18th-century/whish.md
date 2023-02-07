@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Whish
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: ancient-indian,nationality-england
+tags: ancient-indian,origin-england
 title: Whish, Charles Matthew
 born: 1795
 died: 1833

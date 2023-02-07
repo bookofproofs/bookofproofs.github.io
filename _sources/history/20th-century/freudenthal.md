@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Freudenthal
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Freudenthal, Hans
 born: 1905
 died: 1990

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lyapunov
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Lyapunov, Aleksandr Mikhailovich
 born: 1857
 died: 1918

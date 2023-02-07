@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Muirhead
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Muirhead, Robert Franklin
 born: 1860
 died: 1941

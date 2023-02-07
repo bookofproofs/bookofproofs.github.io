@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Byrne
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland
+tags: origin-ireland
 title: Byrne, Oliver
 born: 1810
 died: 1880

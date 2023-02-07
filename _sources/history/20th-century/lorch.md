@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lorch
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Lorch (2), Lee Alexander
 born: 1915
 died: 2014

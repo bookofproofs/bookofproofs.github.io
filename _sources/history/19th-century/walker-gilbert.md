@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Walker_Gilbert
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Walker (2), Gilbert
 born: 1868
 died: 1958

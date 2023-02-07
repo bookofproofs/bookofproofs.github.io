@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wiener_Christian
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,architecture,geometry,nationality-germany
+tags: algebra,architecture,geometry,origin-germany
 title: Wiener, Christian
 born: 1826
 died: 1896

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bellman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Bellman, Richard Ernest
 born: 1920
 died: 1984

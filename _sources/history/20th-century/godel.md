@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Godel
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,analysis,group-theory,nationality-czech-republic,set-theory
+tags: algebra,analysis,group-theory,origin-czech-republic,set-theory
 title: Kurt, Gödel
 born: 1906
 died: 1978

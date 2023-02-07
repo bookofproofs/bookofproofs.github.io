@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Callippus
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,astronomy,nationality-turkey,physics
+tags: ancient-greek,astronomy,origin-turkey,physics
 title: Callippus Of Cyzicus
 born: -370
 died: -310

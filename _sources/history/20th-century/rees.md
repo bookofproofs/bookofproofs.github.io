@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rees
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Rees, Mina Spiegel
 born: 1902
 died: 1997

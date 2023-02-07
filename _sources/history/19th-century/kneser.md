@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kneser
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Kneser, Adolf
 born: 1862
 died: 1930

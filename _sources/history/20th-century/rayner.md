@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rayner
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,women
+tags: origin-england,women
 title: Rayner, Margaret
 born: 1929
 died: 2019

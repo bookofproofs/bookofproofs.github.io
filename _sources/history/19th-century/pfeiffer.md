@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pfeiffer
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Pfeiffer, Georgii Yurii Vasilovich
 born: 1872
 died: 1946

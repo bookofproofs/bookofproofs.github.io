@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pompeiu
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-romania
+tags: origin-romania
 title: Pompeiu, Dimitrie
 born: 1873
 died: 1954

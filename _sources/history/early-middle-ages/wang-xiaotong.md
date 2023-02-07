@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wang_Xiaotong
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-chinese,astronomy,chinese,nationality-china,puzzles-and-problems
+tags: ancient-chinese,astronomy,chinese,origin-china,puzzles-and-problems
 title: Xiaotong, Wang
 born: 580
 died: 640

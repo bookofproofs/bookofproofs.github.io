@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Busbridge
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,women
+tags: origin-england,women
 title: Busbridge, Ida
 born: 1908
 died: 1988

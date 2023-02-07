@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Arthur
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Arthur, William
 born: 1894
 died: 1979

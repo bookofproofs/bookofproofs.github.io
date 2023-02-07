@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lidstone
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Lidstone, George James
 born: 1870
 died: 1952

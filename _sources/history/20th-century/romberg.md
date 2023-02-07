@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Romberg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Romberg, Werner
 born: 1909
 died: 2003

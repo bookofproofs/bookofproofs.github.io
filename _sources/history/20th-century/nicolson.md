@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nicolson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,women
+tags: origin-england,women
 title: Nicolson, Phyllis
 born: 1917
 died: 1968

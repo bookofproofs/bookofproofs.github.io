@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Polozii
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Polozii, Georgii Nikolaevich
 born: 1914
 died: 1968

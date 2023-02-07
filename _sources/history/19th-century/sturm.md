@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sturm
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,ancient-greek,geometry,nationality-switzerland,puzzles-and-problems
+tags: algebra,ancient-greek,geometry,origin-switzerland,puzzles-and-problems
 title: Sturm, Jacques Charles François
 born: 1803
 died: 1855

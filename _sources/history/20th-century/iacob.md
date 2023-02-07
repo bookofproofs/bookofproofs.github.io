@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Iacob
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-romania
+tags: origin-romania
 title: Iacob, Caius
 born: 1912
 died: 1992

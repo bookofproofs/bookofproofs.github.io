@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Leslie
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-scotland
+tags: origin-scotland
 title: Leslie, John
 born: 1766
 died: 1832

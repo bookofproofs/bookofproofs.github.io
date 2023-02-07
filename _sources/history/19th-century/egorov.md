@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Egorov
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Egorov, Dimitri Fedorovich
 born: 1869
 died: 1931

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dodgson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,puzzles-and-problems,statistics
+tags: origin-england,puzzles-and-problems,statistics
 title: Dodgson, Charles Lutwidge
 born: 1832
 died: 1898

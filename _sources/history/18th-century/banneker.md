@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Banneker
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: african-american,astronomy,nationality-usa
+tags: african-american,astronomy,origin-usa
 title: Banneker, Benjamin
 born: 1731
 died: 1806

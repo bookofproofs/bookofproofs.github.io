@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gauss
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: algebra,ancient-greek,ancient-indian,astronomy,geometry,group-theory,knot-theory,nationality-germany,number-theory,physics,puzzles-and-problems,special-numbers-and-numerals,topology
+tags: algebra,ancient-greek,ancient-indian,astronomy,geometry,group-theory,knot-theory,origin-germany,number-theory,physics,puzzles-and-problems,special-numbers-and-numerals,topology
 title: Gauss, Johann Carl Friedrich
 born: 1777
 died: 1855

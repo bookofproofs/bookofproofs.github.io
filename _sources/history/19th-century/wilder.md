@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wilder
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa,topology
+tags: origin-usa,topology
 title: Wilder, Raymond Louis
 born: 1896
 died: 1982

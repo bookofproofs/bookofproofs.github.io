@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Winkler
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-czech-republic,statistics
+tags: origin-czech-republic,statistics
 title: Winkler, Wilhelm
 born: 1884
 died: 1984

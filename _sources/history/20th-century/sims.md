@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sims
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-usa
+tags: algebra,group-theory,origin-usa
 title: Sims, Charles
 born: 1937
 died: 2017

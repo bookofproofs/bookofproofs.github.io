@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ratto_de_Sadosky
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-argentina,women
+tags: origin-argentina,women
 title: De Sadosky, Cora Ratto
 born: 1912
 died: 1981

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Galileo
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: analysis,astronomy,geography,geometry,nationality-italy,physics,special-numbers-and-numerals
+tags: analysis,astronomy,geography,geometry,origin-italy,physics,special-numbers-and-numerals
 title: Galilei, Galileo
 born: 1564
 died: 1642

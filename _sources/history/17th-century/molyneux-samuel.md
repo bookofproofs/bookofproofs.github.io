@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Molyneux_Samuel
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Molyneux (2), Samuel
 born: 1689
 died: 1728

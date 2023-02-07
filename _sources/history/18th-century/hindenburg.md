@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hindenburg
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-germany
+tags: origin-germany
 title: Hindenburg, Carl Friedrich
 born: 1741
 died: 1808

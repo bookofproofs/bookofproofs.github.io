@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shabazz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Shabazz, Abdulalim
 born: 1927
 died: 2014

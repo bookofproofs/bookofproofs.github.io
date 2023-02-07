@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vallee_Poussin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-belgium,number-theory,puzzles-and-problems,special-numbers-and-numerals,topology
+tags: origin-belgium,number-theory,puzzles-and-problems,special-numbers-and-numerals,topology
 title: Poussin, Charles de la Vallée
 born: 1866
 died: 1962

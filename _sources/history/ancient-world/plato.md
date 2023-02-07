@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Plato
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,architecture,astronomy,geometry,nationality-greece,physics,puzzles-and-problems,special-numbers-and-numerals
+tags: ancient-greek,architecture,astronomy,geometry,origin-greece,physics,puzzles-and-problems,special-numbers-and-numerals
 title: Plato
 born: -427
 died: -347

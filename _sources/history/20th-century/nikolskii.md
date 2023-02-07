@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nikolskii
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Nikolski, Serge Mikhalovich
 born: 1905
 died: 2012

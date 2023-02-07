@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lukasiewicz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Łukasiewicz, Jan
 born: 1878
 died: 1956

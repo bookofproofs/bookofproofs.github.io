@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Tusi_Sharaf
 categories: history,12th-century
 parentid: bookofproofs$607
-tags: ancient-arab,astronomy,nationality-iran
+tags: ancient-arab,astronomy,origin-iran
 title: Al-Tusi, Sharaf al-Din
 born: 1135
 died: 1213

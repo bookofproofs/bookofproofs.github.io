@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lehmer_Derrick_N
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Lehmer, Derrick Norman
 born: 1867
 died: 1938

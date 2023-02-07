@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kim
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-north-korea
+tags: origin-north-korea
 title: Kim, Ki Hang
 born: 1936
 died: 2009

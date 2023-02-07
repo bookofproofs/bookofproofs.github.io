@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shapley_Harlow
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: Shapley, Harlow
 born: 1885
 died: 1972

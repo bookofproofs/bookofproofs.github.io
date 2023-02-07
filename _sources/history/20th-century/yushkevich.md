@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Yushkevich
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Yushkevich, Adolph Andrei Pavlovich
 born: 1906
 died: 1993

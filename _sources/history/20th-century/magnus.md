@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Magnus
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-germany,puzzles-and-problems
+tags: algebra,group-theory,origin-germany,puzzles-and-problems
 title: Magnus (2), Wilhelm
 born: 1907
 died: 1990

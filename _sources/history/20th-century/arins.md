@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Arins
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Arins, Eizens
 born: 1911
 died: 1987

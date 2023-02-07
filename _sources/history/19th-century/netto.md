@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Netto
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,nationality-germany
+tags: algebra,group-theory,origin-germany
 title: Netto, Eugen Otto Erwin
 born: 1846
 died: 1919

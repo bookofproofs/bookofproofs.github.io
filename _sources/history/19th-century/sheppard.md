@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sheppard
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-australia
+tags: origin-australia
 title: Sheppard, William Fleetwood
 born: 1863
 died: 1936

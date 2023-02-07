@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sun_Zi
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-chinese,chinese,nationality-china,puzzles-and-problems
+tags: ancient-chinese,chinese,origin-china,puzzles-and-problems
 title: Zi, Sun
 born: 400
 died: 460

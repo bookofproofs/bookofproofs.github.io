@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shapley_Martha
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa,women
+tags: astronomy,origin-usa,women
 title: Shapley (2), Martha Betz
 born: 1890
 died: 1981

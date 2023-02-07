@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Littlewood
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Littlewood, John Edensor
 born: 1885
 died: 1977

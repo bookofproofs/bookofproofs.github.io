@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brouwer
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-netherlands,number-theory,special-numbers-and-numerals,topology
+tags: origin-netherlands,number-theory,special-numbers-and-numerals,topology
 title: Brouwer, Luitzen Egbertus Jan
 born: 1881
 died: 1966

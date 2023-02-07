@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Eperson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Eperson, Donald
 born: 1904
 died: 2001

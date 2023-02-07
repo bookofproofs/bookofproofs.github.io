@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Steele
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland,women
+tags: origin-scotland,women
 title: Steele, Catherine Cassels
 born: 1903
 died: 1995

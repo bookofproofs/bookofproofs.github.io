@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Maior
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: nationality-scotland
+tags: origin-scotland
 title: Maior, John
 born: 1469
 died: 1550

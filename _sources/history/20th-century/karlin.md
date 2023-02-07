@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Karlin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Karlin, Samuel
 born: 1924
 died: 2007

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Book
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Book, Ronald Vernon
 born: 1937
 died: 1997

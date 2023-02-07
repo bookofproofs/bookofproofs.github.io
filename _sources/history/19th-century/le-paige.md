@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Le_Paige
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,astronomy,geometry,nationality-belgium
+tags: algebra,astronomy,geometry,origin-belgium
 title: Paige, Constantin Marie Michel Hubert Jérôme Le
 born: 1852
 died: 1929

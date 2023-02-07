@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mohamed
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,group-theory,nationality-south-africa
+tags: african,group-theory,origin-south-africa
 title: Mohamed, Ismail
 born: 1930
 died: 2013

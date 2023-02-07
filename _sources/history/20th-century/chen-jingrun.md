@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chen_Jingrun
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-china
+tags: origin-china
 title: Jingrun, Chen
 born: 1933
 died: 1996

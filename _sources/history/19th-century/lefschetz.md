@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lefschetz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia,topology
+tags: origin-russia,topology
 title: Lefschetz, Solomon
 born: 1884
 died: 1972

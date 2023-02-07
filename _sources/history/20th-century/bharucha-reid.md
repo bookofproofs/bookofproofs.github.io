@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bharucha-Reid
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Bharucha-Reid, Albert
 born: 1927
 died: 1985

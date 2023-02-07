@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zu_Chongzhi
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-chinese,astronomy,chinese,nationality-china,number-theory,special-numbers-and-numerals
+tags: ancient-chinese,astronomy,chinese,origin-china,number-theory,special-numbers-and-numerals
 title: Chongzhi, Zu
 born: 429
 died: 501

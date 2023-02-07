@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kahn
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Kahn, Franz
 born: 1926
 died: 1998

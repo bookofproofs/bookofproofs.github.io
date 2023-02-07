@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bianchi
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy,physics
+tags: origin-italy,physics
 title: Bianchi, Luigi
 born: 1856
 died: 1928

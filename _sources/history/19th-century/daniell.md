@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Daniell
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-chile
+tags: origin-chile
 title: Daniell, Percy John
 born: 1889
 died: 1946

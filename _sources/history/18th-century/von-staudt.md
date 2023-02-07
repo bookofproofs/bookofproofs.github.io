@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Von_Staudt
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Von Staudt, Karl Georg Christian
 born: 1798
 died: 1867

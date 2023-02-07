@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lloyd_Bartholomew
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-ireland
+tags: origin-ireland
 title: Lloyd, Bartholomew
 born: 1772
 died: 1837

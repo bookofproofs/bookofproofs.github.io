@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Eichler
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Eichler, Martin
 born: 1912
 died: 1992

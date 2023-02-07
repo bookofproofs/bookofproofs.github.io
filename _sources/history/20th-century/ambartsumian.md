@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ambartsumian
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-georgia
+tags: astronomy,origin-georgia
 title: Ambartsumian, Victor Amazaspovich
 born: 1908
 died: 1996

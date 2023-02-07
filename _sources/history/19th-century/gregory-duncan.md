@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gregory_Duncan
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Gregory (8), Duncan
 born: 1813
 died: 1844

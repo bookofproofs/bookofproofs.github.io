@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kiselev
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Kiselev, Andrei Petrovich
 born: 1852
 died: 1940

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bortkiewicz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia,statistics
+tags: origin-russia,statistics
 title: Bortkiewicz, Ladislaus Josephowitsch
 born: 1868
 died: 1931

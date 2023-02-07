@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Caratheodory
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Carathéodory, Constantin
 born: 1873
 died: 1950

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kruskal_Martin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: Kruskal (2), Martin
 born: 1925
 died: 2006

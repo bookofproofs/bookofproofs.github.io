@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Havelock
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Havelock, Thomas
 born: 1877
 died: 1968

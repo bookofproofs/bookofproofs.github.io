@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bohl
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-latvia
+tags: origin-latvia
 title: Bohl, Piers
 born: 1865
 died: 1921

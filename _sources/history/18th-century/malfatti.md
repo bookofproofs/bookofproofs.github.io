@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Malfatti
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-italy
+tags: origin-italy
 title: Malfatti, Gian Francesco
 born: 1731
 died: 1807

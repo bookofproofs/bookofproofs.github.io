@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Meshchersky
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Meshchersky, Ivan Vsevolodovich
 born: 1859
 died: 1935

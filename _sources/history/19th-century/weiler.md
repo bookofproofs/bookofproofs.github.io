@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Weiler
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Weiler, Adolf
 born: 1851
 died: 1916

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chitty
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,women
+tags: origin-england,women
 title: Chitty, Letitia
 born: 1897
 died: 1982

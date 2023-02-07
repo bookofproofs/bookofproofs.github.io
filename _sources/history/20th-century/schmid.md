@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schmid
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Schmid, Hermann Ludwig
 born: 1908
 died: 1956

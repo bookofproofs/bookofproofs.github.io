@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chow
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-china
+tags: origin-china
 title: Chow, Wei-Liang
 born: 1911
 died: 1995

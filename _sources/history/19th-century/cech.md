@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cech
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-czech-republic,topology
+tags: origin-czech-republic,topology
 title: Čech, Eduard
 born: 1893
 died: 1960

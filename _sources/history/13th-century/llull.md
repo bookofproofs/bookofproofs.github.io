@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Llull
 categories: history,13th-century
 parentid: bookofproofs$606
-tags: nationality-spain,statistics
+tags: origin-spain,statistics
 title: Llull, Ramon
 born: 1235
 died: 1316

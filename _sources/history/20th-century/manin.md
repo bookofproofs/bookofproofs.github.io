@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Manin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Manin, Yuri Ivanovich
 born: 1937
 died: 2023

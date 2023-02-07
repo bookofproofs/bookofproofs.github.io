@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zeeman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: ancient-babylonian,ancient-greek,nationality-japan,topology
+tags: ancient-babylonian,ancient-greek,origin-japan,topology
 title: Zeeman, Erik Christopher
 born: 1925
 died: 2016

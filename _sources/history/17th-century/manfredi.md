@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Manfredi
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-italy
+tags: astronomy,origin-italy
 title: Manfredi, Eustachio
 born: 1674
 died: 1739

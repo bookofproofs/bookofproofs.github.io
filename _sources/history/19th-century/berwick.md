@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Berwick
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Berwick, William Edward Hodgson
 born: 1888
 died: 1944

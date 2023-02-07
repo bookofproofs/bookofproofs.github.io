@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dionysodorus
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,nationality-turkey
+tags: ancient-greek,origin-turkey
 title: Dionysodorus
 born: -250
 died: -190

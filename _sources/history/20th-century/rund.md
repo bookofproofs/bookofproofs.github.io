@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rund
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Rund, Hanno
 born: 1925
 died: 1993

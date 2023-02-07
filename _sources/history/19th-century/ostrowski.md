@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ostrowski
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Ostrowski, Alexander Markowich
 born: 1893
 died: 1986

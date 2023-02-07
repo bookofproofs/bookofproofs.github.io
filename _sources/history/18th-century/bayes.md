@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bayes
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-england
+tags: origin-england
 title: Bayes, Thomas
 born: 1702
 died: 1761

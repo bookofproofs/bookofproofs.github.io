@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Behnke
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Behnke, Heinrich
 born: 1898
 died: 1979

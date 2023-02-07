@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Savage
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Savage, Leonard Jimmie
 born: 1917
 died: 1971

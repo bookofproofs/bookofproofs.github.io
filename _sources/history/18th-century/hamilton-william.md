@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hamilton_William
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-scotland,physics
+tags: origin-scotland,physics
 title: Hamilton, William
 born: 1788
 died: 1856

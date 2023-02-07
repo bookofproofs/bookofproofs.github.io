@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cusa
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: ancient-greek,astronomy,geometry,nationality-germany,puzzles-and-problems,special-numbers-and-numerals,statistics
+tags: ancient-greek,astronomy,geometry,origin-germany,puzzles-and-problems,special-numbers-and-numerals,statistics
 title: Nicholas Of Cusa
 born: 1401
 died: 1464

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Geiser
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,geometry,nationality-switzerland
+tags: algebra,geometry,origin-switzerland
 title: Geiser, Karl Friedrich
 born: 1843
 died: 1934

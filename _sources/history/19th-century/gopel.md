@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gopel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Göpel, Adolph
 born: 1812
 died: 1847

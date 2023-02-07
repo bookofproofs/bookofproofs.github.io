@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Casamayor
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-spain,women
+tags: origin-spain,women
 title: Casamayor, María Andresa
 born: 1720
 died: 1780

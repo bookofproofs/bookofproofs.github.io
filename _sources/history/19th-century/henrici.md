@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Henrici
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Henrici, Olaus Magnus Friedrich Erdmann
 born: 1840
 died: 1918

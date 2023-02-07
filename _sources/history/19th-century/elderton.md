@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Elderton
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,women
+tags: origin-england,women
 title: Elderton, Ethel
 born: 1878
 died: 1954

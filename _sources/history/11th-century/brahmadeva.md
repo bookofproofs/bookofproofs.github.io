@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brahmadeva
 categories: history,11th-century
 parentid: bookofproofs$612
-tags: ancient-indian,astronomy,nationality-india
+tags: ancient-indian,astronomy,origin-india
 title: Brahmadeva
 born: 1060
 died: 1130

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kahler
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Kähler, Erich
 born: 1906
 died: 2000

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vacca
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Vacca, Giovanni Enrico Eugenio
 born: 1872
 died: 1953

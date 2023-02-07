@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ellis
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Ellis, Leslie
 born: 1817
 died: 1859

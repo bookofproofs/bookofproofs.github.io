@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Albertus
 categories: history,13th-century
 parentid: bookofproofs$606
-tags: nationality-germany
+tags: origin-germany
 title: Magnus, Saint Albertus
 born: 1200
 died: 1280

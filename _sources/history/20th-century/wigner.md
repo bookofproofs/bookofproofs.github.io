@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wigner
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-hungary,nobel-prize
+tags: group-theory,origin-hungary,nobel-prize
 title: Wigner, Eugene Paul
 born: 1902
 died: 1995

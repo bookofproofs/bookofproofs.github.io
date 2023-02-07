@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bagnera
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: group-theory,nationality-italy
+tags: group-theory,origin-italy
 title: Bagnera, Giuseppe
 born: 1865
 died: 1927

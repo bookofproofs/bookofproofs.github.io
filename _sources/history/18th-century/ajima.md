@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ajima
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-japan
+tags: astronomy,origin-japan
 title: Ajima, Chokuyen Naonobu
 born: 1732
 died: 1798

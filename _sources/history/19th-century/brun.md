@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brun
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-norway
+tags: origin-norway
 title: Brun, Viggo
 born: 1885
 died: 1978

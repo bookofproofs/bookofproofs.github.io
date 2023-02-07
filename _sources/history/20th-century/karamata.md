@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Karamata
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-serbia
+tags: origin-serbia
 title: Karamata, Jovan
 born: 1902
 died: 1967

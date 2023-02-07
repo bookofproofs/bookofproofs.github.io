@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nalli
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy,women
+tags: origin-italy,women
 title: Nalli, Pia Maria
 born: 1886
 died: 1964

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hamill
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-england,women
+tags: group-theory,origin-england,women
 title: Hamill, Christine Mary
 born: 1923
 died: 1956

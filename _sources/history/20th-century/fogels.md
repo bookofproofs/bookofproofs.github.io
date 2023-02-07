@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fogels
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-latvia
+tags: origin-latvia
 title: Fogels, Ernests
 born: 1910
 died: 1985

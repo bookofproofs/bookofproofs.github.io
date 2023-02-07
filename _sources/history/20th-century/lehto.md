@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lehto
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-finland
+tags: origin-finland
 title: Lehto, Olli Erkki
 born: 1925
 died: 2020

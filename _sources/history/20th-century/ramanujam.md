@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ramanujam
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-india
+tags: origin-india
 title: Ramanujam, Chidambaram Padmanabhan
 born: 1938
 died: 1974

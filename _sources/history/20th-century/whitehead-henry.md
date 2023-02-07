@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Whitehead_Henry
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-india,topology
+tags: origin-india,topology
 title: Whitehead (2), Henry
 born: 1904
 died: 1960

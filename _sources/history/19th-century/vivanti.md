@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vivanti
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Vivanti, Giulio
 born: 1859
 died: 1949

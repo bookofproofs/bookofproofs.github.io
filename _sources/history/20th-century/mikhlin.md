@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mikhlin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-belarus
+tags: origin-belarus
 title: Mikhlin, Solomon Grigoryevich
 born: 1908
 died: 1990

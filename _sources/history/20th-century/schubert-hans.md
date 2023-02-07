@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schubert_Hans
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Schubert (2), Hans
 born: 1908
 died: 1987

@@ -32,38 +32,34 @@ you should add the following line:
     ### 1638
     ...
 
-Next, add an event that took place in that year with relevance to mathematics, physics, or computer science.
-You have to use _markdown definition_ (!). For instance: 
+Next, add an enumeration of events that took place in that year
+(but, of course, only those you think are of relevance to mathematics, physics, or computer science).
+By convention, you should always use markdown _bullet enumeration_ (!). For instance: 
 
-    ### 1637
-    Descartes publishes "La Géometrie"
-    : Continuing the work of François Viète, Descartes solves geometrical problems using algebraic means. In this epochal work, he also abolishes the dogma
-    that lasted in mathematics for millennia, prohibiting mathematicians from calculating with lengths and volumes at once
-    (which, they thought, "was impossible" because of mixing up incompatible geometrical concepts).
-
-It is important to use the markdown definition to keep the convention in all chronology sections of <strong><span style='color:orange'>BookOf</span><span style='color:lightblue'>Proofs</span></strong> 
+```
+### 1637
+* [Descartes][bookofproofs$Descartes] publishes "La Géometrie".
+   * Continuing the work of [François Viète][bookofproofs$Viete], Descartes solves geometrical problems using algebraic means. 
+   * In this epochal work, he also abolishes the dogma that lasted in mathematics for millennia, prohibiting mathematicians from calculating with lengths and volumes at once
+     (which, they thought, was impossible because of the danger to mix up incompatible geometrical concepts).
+* ...
+* ...
+* <yet another event>
+```
+It is important to use the markdown of _bullet enumeration_ to keep the convention in all 
+chronology sections of <strong><span style='color:orange'>BookOf</span><span style='color:lightblue'>Proofs</span></strong> 
 and to keep the event description short and concise. 
+
+## Topics related to the epoch.
 
 If you need more text to describe the event, feel free to create a
 separate page dedicated to this event, in which you use the `topic` layout instead (see [cheat_sheet_layout_topic](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_layout_topic.md)). 
+Also, make sure that the epoch's `nodeid` corresponds to the `parentid` of the topic. This will make the topic be listed
+in the able of Contents of the epoch. 
 
 ## Famous Personalities
 
-In the `epoch` layout, we only add persons under the `Birth of:` markdown like this: 
-
-    ### 1637 
-    
-    Birth of: 
-    : [Valentin Heins][bookofproofs$Heins], [William Neile][bookofproofs$Neile]
-    
-    [Descartes][bookofproofs$Descartes] publishes "La Géometrie"
-    : Continuing the work of [François Viète][bookofproofs$Viete], Descartes solves geometrical problems using algebraic means. In this epochal work, he also abolishes the dogma
-    that lasted in mathematics for millennia, prohibiting mathematicians from calculating with lengths and volumes at once
-    (which, they thought, was impossible because of the danger to mix up incompatible geometrical concepts).
-
-
-Please do not provide any further person-specific information in the `Birth of:`.
-The internal references `[Valentin Heins][bookofproofs$Heins], [William Neile][bookofproofs$Neile]`
-are examples of references to pages with the `person` layout. 
+The markdown file of each `epoch` is has the `nodeid` corresponding to the `parentid` of persons who were born
+in the epoch. They are automatically listed in the Table of Contents of the epoch. 
 
 For using the `person` layout, see [cheat_sheet_layout_person](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_compile/help/cheat_sheet_layout_person.md). 

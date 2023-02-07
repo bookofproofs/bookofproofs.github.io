@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tinbergen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands,nobel-prize,statistics
+tags: origin-netherlands,nobel-prize,statistics
 title: Tinbergen, Jan
 born: 1903
 died: 1994

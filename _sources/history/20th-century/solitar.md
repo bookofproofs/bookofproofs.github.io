@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Solitar
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-usa
+tags: group-theory,origin-usa
 title: Solitar, Donald Moiseyevitch
 born: 1932
 died: 2008

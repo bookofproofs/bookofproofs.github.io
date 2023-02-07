@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Grosswald
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-romania
+tags: origin-romania
 title: Grosswald, Emil
 born: 1912
 died: 1989

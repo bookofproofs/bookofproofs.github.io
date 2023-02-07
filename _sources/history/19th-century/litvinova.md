@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Litvinova
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia,women
+tags: origin-russia,women
 title: Litvinova, Elizaveta
 born: 1845
 died: 1919

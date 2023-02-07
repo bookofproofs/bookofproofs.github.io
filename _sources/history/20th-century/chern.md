@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chern
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-china,shaw-prize,wolf-prize
+tags: origin-china,shaw-prize,wolf-prize
 title: Chern, Shiing-shen
 born: 1911
 died: 2004

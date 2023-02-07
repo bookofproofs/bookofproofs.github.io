@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Herschel_Caroline
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-germany,physics,women
+tags: astronomy,origin-germany,physics,women
 title: Herschel (2), Caroline
 born: 1750
 died: 1848

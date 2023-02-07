@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Youden
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-australia,statistics
+tags: origin-australia,statistics
 title: Youden, William John
 born: 1900
 died: 1971

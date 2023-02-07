@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Springer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Springer, Tonny Albert
 born: 1926
 died: 2011

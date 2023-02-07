@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Magnitsky
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-russia
+tags: astronomy,origin-russia
 title: Magnitsky, Leonty Filippovich
 born: 1669
 died: 1739

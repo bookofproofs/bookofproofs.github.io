@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Digges
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Digges, Thomas
 born: 1546
 died: 1595

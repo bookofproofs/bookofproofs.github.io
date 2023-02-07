@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sperry
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa,women
+tags: astronomy,origin-usa,women
 title: Sperry, Pauline
 born: 1885
 died: 1967

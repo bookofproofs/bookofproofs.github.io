@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Meissner
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-germany
+tags: origin-germany
 title: Meissner, Heinrich
 born: 1644
 died: 1716

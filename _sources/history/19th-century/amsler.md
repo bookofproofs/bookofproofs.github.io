@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Amsler
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Amsler, Jacob
 born: 1823
 died: 1912

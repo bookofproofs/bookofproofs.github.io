@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dunbar
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Dunbar, Robert Taylor
 born: 1889
 died: 1965

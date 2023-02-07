@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cataldi
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-italy,number-theory,special-numbers-and-numerals
+tags: astronomy,origin-italy,number-theory,special-numbers-and-numerals
 title: Cataldi, Pietro Antonio
 born: 1548
 died: 1626

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Iyanaga
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan
+tags: origin-japan
 title: Iyanaga, Shokichi
 born: 1906
 died: 2006

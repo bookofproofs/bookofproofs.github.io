@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kertesz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-hungary
+tags: group-theory,origin-hungary
 title: Kertész, Andor
 born: 1929
 died: 1974

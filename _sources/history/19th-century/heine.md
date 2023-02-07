@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Heine
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,astronomy,nationality-germany
+tags: analysis,astronomy,origin-germany
 title: Heine, Heinrich Eduard
 born: 1821
 died: 1881

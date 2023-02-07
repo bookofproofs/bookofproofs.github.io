@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Titchmarsh
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Titchmarsh, Edward Charles
 born: 1899
 died: 1963

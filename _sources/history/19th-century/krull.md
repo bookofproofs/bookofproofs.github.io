@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Krull
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-germany
+tags: algebra,origin-germany
 title: Krull, Wolfgang
 born: 1899
 died: 1971

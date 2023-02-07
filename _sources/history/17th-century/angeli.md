@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Angeli
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: analysis,nationality-italy
+tags: analysis,origin-italy
 title: Angeli, Stefano degli
 born: 1623
 died: 1697

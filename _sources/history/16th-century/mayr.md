@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mayr
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Mayr, Simon
 born: 1573
 died: 1624

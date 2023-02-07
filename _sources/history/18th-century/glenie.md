@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Glenie
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-scotland
+tags: origin-scotland
 title: Glenie, James
 born: 1750
 died: 1817

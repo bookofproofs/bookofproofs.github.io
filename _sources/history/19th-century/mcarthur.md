@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$McArthur
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Mcarthur, Neil
 born: 1883
 died: 1951

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hutton_James
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-scotland
+tags: origin-scotland
 title: Hutton, James
 born: 1726
 died: 1797

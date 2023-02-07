@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mumford
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-england,shaw-prize,wolf-prize
+tags: fields-medal,origin-england,shaw-prize,wolf-prize
 title: Mumford, David Bryant
 born: 1937
 died: 2011

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hellinger
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Hellinger, Ernst David
 born: 1883
 died: 1950

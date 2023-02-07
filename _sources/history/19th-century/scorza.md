@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Scorza
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: group-theory,nationality-italy
+tags: group-theory,origin-italy
 title: Scorza, Bernardino Gaetano
 born: 1876
 died: 1939

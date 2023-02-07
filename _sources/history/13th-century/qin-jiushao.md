@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Qin_Jiushao
 categories: history,13th-century
 parentid: bookofproofs$606
-tags: ancient-babylonian,ancient-chinese,chinese,nationality-china,puzzles-and-problems,special-numbers-and-numerals
+tags: ancient-babylonian,ancient-chinese,chinese,origin-china,puzzles-and-problems,special-numbers-and-numerals
 title: Jiushao, Qin
 born: 1202
 died: 1261

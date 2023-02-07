@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Yule
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland,statistics
+tags: origin-scotland,statistics
 title: Yule, George Udny
 born: 1871
 died: 1951

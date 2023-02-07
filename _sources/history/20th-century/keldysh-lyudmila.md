@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Keldysh_Lyudmila
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia,topology,women
+tags: origin-russia,topology,women
 title: Keldysh, Lyudmila Vsevolodovna
 born: 1904
 died: 1976

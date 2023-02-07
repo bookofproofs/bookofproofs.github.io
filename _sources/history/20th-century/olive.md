@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Olive
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Olive, Gloria
 born: 1923
 died: 2006

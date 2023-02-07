@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Borgi
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: nationality-italy
+tags: origin-italy
 title: Borgi, Piero
 born: 1424
 died: 1494

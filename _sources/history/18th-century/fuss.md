@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fuss
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-switzerland
+tags: astronomy,origin-switzerland
 title: Fuss, Nicolaus
 born: 1755
 died: 1826

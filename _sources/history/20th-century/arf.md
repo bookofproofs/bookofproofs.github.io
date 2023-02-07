@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Arf
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-greece
+tags: origin-greece
 title: Arf, Cahit
 born: 1910
 died: 1997

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Menelaus
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: african,analysis,ancient-arab,ancient-greek,ancient-indian,astronomy,geometry,nationality-egypt,puzzles-and-problems
+tags: african,analysis,ancient-arab,ancient-greek,ancient-indian,astronomy,geometry,origin-egypt,puzzles-and-problems
 title: Menelaus Of Alexandria
 born: 70
 died: 130

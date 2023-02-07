@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Peierls
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Peierls, Rudolf Ernst
 born: 1907
 died: 1995

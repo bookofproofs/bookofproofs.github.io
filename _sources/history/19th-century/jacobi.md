@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jacobi
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,astronomy,group-theory,nationality-germany,physics
+tags: algebra,astronomy,group-theory,origin-germany,physics
 title: Jacobi, Carl
 born: 1804
 died: 1851

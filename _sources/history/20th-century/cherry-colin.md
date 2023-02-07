@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cherry_Colin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Cherry (2), Colin
 born: 1914
 died: 1979

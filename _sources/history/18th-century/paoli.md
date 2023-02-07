@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Paoli
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-italy
+tags: origin-italy
 title: Paoli, Pietro
 born: 1759
 died: 1839

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vinogradov
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Vinogradov, Ivan Matveevich
 born: 1891
 died: 1983

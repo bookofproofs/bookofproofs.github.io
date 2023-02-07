@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Airy
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,geography,nationality-england,physics
+tags: astronomy,geography,origin-england,physics
 title: Airy, George Biddell
 born: 1801
 died: 1892

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Carrier
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Carrier, George
 born: 1918
 died: 2002

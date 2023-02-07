@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ford
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Ford, Lester Randolph
 born: 1886
 died: 1967

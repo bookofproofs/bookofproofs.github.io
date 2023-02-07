@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Appel
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,puzzles-and-problems,topology
+tags: origin-usa,puzzles-and-problems,topology
 title: Appel, Kenneth Ira
 born: 1932
 died: 2013

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Weinstein
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-russia
+tags: astronomy,origin-russia
 title: Weinstein, Alexander
 born: 1897
 died: 1979

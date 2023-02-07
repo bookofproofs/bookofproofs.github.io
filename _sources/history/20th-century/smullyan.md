@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Smullyan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,puzzles-and-problems
+tags: origin-usa,puzzles-and-problems
 title: Smullyan, Raymond Merrill
 born: 1919
 died: 2017

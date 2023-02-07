@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ionescu
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-romania
+tags: origin-romania
 title: Ionescu, Ion
 born: 1870
 died: 1946

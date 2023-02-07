@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Escalante
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-bolivia
+tags: origin-bolivia
 title: Escalante, Jaime
 born: 1930
 died: 2010

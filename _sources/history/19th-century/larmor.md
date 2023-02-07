@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Larmor
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: applied-maths,nationality-ireland,physics
+tags: applied-maths,origin-ireland,physics
 title: Larmor, Sir Joseph
 born: 1857
 died: 1942

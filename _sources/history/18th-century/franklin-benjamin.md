@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Franklin_Benjamin
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-usa
+tags: origin-usa
 title: Franklin, Benjamin
 born: 1706
 died: 1790

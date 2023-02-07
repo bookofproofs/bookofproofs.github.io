@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mollweide
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Mollweide, Karl Brandan
 born: 1774
 died: 1825

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$De_Rham
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-switzerland,topology
+tags: origin-switzerland,topology
 title: De Rham, Georges
 born: 1903
 died: 1990

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Du_Val
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Du Val, Patrick
 born: 1903
 died: 1987

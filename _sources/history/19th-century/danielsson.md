@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Danielsson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-iceland
+tags: origin-iceland
 title: Daníelsson, Ólafur
 born: 1877
 died: 1957

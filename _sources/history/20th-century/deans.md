@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Deans
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,women
+tags: origin-england,women
 title: Deans, Winifred Margaret
 born: 1901
 died: 1990

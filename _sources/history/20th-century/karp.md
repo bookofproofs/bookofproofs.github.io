@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Karp
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Karp, Carol Ruth
 born: 1926
 died: 1972

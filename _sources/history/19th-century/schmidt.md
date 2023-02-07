@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schmidt
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-estonia,topology
+tags: algebra,origin-estonia,topology
 title: Schmidt, Erhard
 born: 1876
 died: 1959

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Van_Ceulen
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: nationality-germany,number-theory,special-numbers-and-numerals
+tags: origin-germany,number-theory,special-numbers-and-numerals
 title: Van Ceulen, Ludolph
 born: 1540
 died: 1610

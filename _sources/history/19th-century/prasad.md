@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Prasad
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-india
+tags: origin-india
 title: Prasad, Badri Nath
 born: 1898
 died: 1970

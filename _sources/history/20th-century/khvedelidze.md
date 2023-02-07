@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Khvedelidze
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-georgia
+tags: origin-georgia
 title: Khvedelidze, Boris
 born: 1915
 died: 1993

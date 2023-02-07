@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nassau
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-turkey
+tags: astronomy,origin-turkey
 title: Nassau, Jason John
 born: 1893
 died: 1965

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cohn-Vossen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Cohn-Vossen, Stefan
 born: 1902
 died: 1936

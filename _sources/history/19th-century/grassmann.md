@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Grassmann
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,bourbaki,nationality-poland
+tags: algebra,bourbaki,origin-poland
 title: Grassmann, Hermann Günter
 born: 1809
 died: 1877

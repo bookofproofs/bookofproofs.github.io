@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fox_Leslie
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Fox (3), Leslie
 born: 1918
 died: 1992

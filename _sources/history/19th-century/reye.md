@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Reye
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Reye, Karl Theodor
 born: 1838
 died: 1919

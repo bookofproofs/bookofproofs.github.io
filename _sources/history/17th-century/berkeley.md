@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Berkeley
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: analysis,astronomy,nationality-ireland,physics,set-theory,special-numbers-and-numerals
+tags: analysis,astronomy,origin-ireland,physics,set-theory,special-numbers-and-numerals
 title: Berkeley, George
 born: 1685
 died: 1753

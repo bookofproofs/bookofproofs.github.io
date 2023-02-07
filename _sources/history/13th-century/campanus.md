@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Campanus
 categories: history,13th-century
 parentid: bookofproofs$606
-tags: astronomy,nationality-italy
+tags: astronomy,origin-italy
 title: Campanus Of Novara
 born: 1220
 died: 1296

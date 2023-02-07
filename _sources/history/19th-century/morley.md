@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Morley
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Morley, Frank
 born: 1860
 died: 1937

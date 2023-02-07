@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Roy
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-india
+tags: origin-india
 title: Roy, Samarendra Nath
 born: 1906
 died: 1964

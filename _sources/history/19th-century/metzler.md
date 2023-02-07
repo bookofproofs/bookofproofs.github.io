@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Metzler
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-canada
+tags: origin-canada
 title: Metzler, William Henry
 born: 1863
 died: 1943

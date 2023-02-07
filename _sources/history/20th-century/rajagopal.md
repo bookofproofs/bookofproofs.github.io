@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rajagopal
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-india
+tags: origin-india
 title: Rajagopal, Cadambathur Tiruvenkatacharlu
 born: 1903
 died: 1978

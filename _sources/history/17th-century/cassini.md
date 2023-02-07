@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cassini
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,geography,nationality-italy,physics
+tags: astronomy,geography,origin-italy,physics
 title: Cassini, Giovanni Domenico
 born: 1625
 died: 1712

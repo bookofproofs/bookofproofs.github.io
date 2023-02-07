@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schoute
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Schoute, Pieter Hendrik
 born: 1846
 died: 1913

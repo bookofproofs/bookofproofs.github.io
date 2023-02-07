@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Flett
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Flett, Thomas Muirhead
 born: 1923
 died: 1976

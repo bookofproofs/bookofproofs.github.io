@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hesse
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Hesse, Ludwig Otto
 born: 1811
 died: 1874

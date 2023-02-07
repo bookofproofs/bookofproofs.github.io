@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Castelnuovo_Emma
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy,women
+tags: origin-italy,women
 title: Castelnuovo (2), Emma
 born: 1913
 died: 2014

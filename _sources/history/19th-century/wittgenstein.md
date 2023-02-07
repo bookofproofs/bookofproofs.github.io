@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wittgenstein
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-austria,special-numbers-and-numerals
+tags: origin-austria,special-numbers-and-numerals
 title: Wittgenstein, Ludwig Josef Johann
 born: 1889
 died: 1951

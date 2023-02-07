@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hodge
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-scotland
+tags: astronomy,origin-scotland
 title: Hodge, William Vallance Douglas
 born: 1903
 died: 1975

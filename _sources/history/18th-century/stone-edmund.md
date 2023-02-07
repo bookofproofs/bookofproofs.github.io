@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stone_Edmund
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-scotland
+tags: origin-scotland
 title: Stone, Edmund
 born: 1700
 died: 1768

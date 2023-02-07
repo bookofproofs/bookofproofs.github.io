@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Griffiths_Brian
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,topology
+tags: origin-england,topology
 title: Griffiths (2), Brian
 born: 1927
 died: 2008

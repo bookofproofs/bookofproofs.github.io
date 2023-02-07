@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Beyel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Beyel, Christian
 born: 1854
 died: 1941

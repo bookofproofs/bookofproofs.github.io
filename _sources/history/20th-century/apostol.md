@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Apostol
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Apostol, Tom
 born: 1923
 died: 2016

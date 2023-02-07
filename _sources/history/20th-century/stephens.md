@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stephens
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-usa
+tags: african,origin-usa
 title: Stephens, Clarence Francis
 born: 1917
 died: 2018

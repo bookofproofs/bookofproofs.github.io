@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hertz_Heinrich
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Hertz, Heinrich
 born: 1857
 died: 1894

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Briggs
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-england,number-theory,special-numbers-and-numerals
+tags: astronomy,origin-england,number-theory,special-numbers-and-numerals
 title: Briggs, Henry
 born: 1561
 died: 1630

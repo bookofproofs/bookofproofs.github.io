@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fricke
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Fricke, Robert Karl Emanuel
 born: 1861
 died: 1930

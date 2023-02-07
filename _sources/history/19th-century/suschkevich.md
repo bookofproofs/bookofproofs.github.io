@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Suschkevich
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: group-theory,nationality-russia
+tags: group-theory,origin-russia
 title: Suschkevich, Anton Kazimirovich
 born: 1889
 died: 1961

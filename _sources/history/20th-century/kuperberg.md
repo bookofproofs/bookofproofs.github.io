@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kuperberg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland,women
+tags: origin-poland,women
 title: Kuperberg, Krystyna Maria Trybulec
 born: 1943
 died: 2011

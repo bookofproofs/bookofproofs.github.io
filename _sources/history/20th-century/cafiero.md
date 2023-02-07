@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cafiero
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Cafiero, Federico
 born: 1914
 died: 1980

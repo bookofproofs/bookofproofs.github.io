@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brahmagupta
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: algebra,analysis,ancient-arab,ancient-babylonian,ancient-indian,astronomy,geometry,nationality-india,number-theory,special-numbers-and-numerals
+tags: algebra,analysis,ancient-arab,ancient-babylonian,ancient-indian,astronomy,geometry,origin-india,number-theory,special-numbers-and-numerals
 title: Brahmagupta
 born: 598
 died: 670

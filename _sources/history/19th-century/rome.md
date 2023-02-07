@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rome
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-belgium
+tags: origin-belgium
 title: Rome, Adolphe
 born: 1889
 died: 1971

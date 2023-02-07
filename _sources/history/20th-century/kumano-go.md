@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kumano-Go
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan
+tags: origin-japan
 title: Kumano-Go, Hitoshi
 born: 1935
 died: 1982

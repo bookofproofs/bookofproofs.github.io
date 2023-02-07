@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Steinhaus
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Steinhaus, Hugo Dyonizy
 born: 1887
 died: 1972

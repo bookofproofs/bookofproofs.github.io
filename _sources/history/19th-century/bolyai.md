@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bolyai
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,geometry,group-theory,nationality-romania
+tags: algebra,geometry,group-theory,origin-romania
 title: Bolyai (2), János
 born: 1802
 died: 1860

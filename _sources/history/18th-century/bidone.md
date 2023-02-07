@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bidone
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-italy
+tags: astronomy,origin-italy
 title: Bidone, Giorgio
 born: 1781
 died: 1839

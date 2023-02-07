@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Glimm
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Glimm, James
 born: 1934
 died: 2020

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Catalan
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-belgium,number-theory,special-numbers-and-numerals
+tags: astronomy,origin-belgium,number-theory,special-numbers-and-numerals
 title: Catalan, Eugène Charles
 born: 1814
 died: 1894

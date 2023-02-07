@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rethy
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-hungary
+tags: origin-hungary
 title: Réthy, Mór
 born: 1846
 died: 1925

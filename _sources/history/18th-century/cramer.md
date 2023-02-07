@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cramer
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: algebra,nationality-switzerland
+tags: algebra,origin-switzerland
 title: Cramer, Gabriel
 born: 1704
 died: 1752

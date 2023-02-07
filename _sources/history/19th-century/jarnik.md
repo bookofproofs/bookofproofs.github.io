@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jarnik
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Jarník, Vojtěch
 born: 1897
 died: 1970

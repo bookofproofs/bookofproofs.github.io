@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Raabe
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Raabe, Joseph Ludwig
 born: 1801
 died: 1859

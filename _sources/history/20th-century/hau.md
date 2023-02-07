@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hau
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-denmark,women
+tags: origin-denmark,women
 title: Hau, Lene Vestergaard
 born: 1958
 died: 2013

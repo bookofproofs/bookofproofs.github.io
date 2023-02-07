@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nicomachus
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-greek,nationality-jordan,number-theory,special-numbers-and-numerals
+tags: ancient-greek,origin-jordan,number-theory,special-numbers-and-numerals
 title: Nicomachus Of Gerasa
 born: 60
 died: 120

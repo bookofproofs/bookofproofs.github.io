@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Besicovitch
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,geometry,nationality-russia
+tags: analysis,geometry,origin-russia
 title: Besicovitch, Abram Samoilovitch
 born: 1891
 died: 1970

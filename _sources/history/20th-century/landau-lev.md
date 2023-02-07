@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Landau_Lev
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-azerbaijan,nobel-prize,physics
+tags: astronomy,origin-azerbaijan,nobel-prize,physics
 title: Landau (2), Lev
 born: 1908
 died: 1968

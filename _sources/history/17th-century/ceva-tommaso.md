@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ceva_Tommaso
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-italy
+tags: origin-italy
 title: Ceva (2), Tommaso
 born: 1648
 died: 1737

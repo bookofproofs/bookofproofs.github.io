@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Theodosius
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-arab,ancient-greek,applied-maths,astronomy,geography,nationality-turkey
+tags: ancient-arab,ancient-greek,applied-maths,astronomy,geography,origin-turkey
 title: Theodosius Of Bithynia
 born: -160
 died: -90

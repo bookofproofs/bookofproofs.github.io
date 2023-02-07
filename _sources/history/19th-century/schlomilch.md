@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schlomilch
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Schlömilch, Oscar
 born: 1823
 died: 1901

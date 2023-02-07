@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bell
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,nationality-scotland
+tags: analysis,origin-scotland
 title: Bell (2), Eric Temple
 born: 1883
 died: 1960

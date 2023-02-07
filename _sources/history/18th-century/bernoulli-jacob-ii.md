@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bernoulli_JacobII
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Bernoulli (8), Jacob
 born: 1759
 died: 1789

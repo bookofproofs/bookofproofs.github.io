@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hendricks
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Hendricks, Joel Evans
 born: 1818
 died: 1893

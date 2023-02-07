@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Penrose
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-england,physics
+tags: astronomy,origin-england,physics
 title: Penrose, Roger
 born: 1931
 died: 1995

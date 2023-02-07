@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Behrend
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Behrend, Felix Adalbert
 born: 1911
 died: 1962

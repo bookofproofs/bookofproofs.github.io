@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Porphyry
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-greek,nationality-lebanon
+tags: ancient-greek,origin-lebanon
 title: Malchus, Porphyry
 born: 233
 died: 309

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dijksterhuis
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Dijksterhuis, Eduard Jan
 born: 1892
 died: 1965

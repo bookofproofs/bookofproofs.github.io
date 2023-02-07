@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Van_der_Waerden
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,ancient-greek,astronomy,group-theory,nationality-netherlands,physics,puzzles-and-problems,special-numbers-and-numerals
+tags: algebra,ancient-greek,astronomy,group-theory,origin-netherlands,physics,puzzles-and-problems,special-numbers-and-numerals
 title: Waerden, Bartel Leendert van der
 born: 1903
 died: 1996

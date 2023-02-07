@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cayley
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,astronomy,geometry,group-theory,nationality-england,physics,puzzles-and-problems,topology
+tags: algebra,astronomy,geometry,group-theory,origin-england,physics,puzzles-and-problems,topology
 title: Cayley, Arthur
 born: 1821
 died: 1895

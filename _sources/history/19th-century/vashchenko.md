@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vashchenko
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Vashchenko-Zakharchenko, Mikhail Egorovich
 born: 1825
 died: 1912

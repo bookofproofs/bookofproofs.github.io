@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gyires
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-croatia
+tags: origin-croatia
 title: Gyires, Béla
 born: 1909
 died: 2001

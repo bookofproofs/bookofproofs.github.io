@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Xenocrates
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,nationality-turkey
+tags: ancient-greek,origin-turkey
 title: Xenocrates Of Chalcedon
 born: -396
 died: -314

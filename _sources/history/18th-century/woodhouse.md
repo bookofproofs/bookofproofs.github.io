@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Woodhouse
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Woodhouse, Robert
 born: 1773
 died: 1827

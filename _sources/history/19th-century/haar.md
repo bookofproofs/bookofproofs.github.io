@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Haar
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-hungary
+tags: origin-hungary
 title: Haar, Alfréd
 born: 1885
 died: 1933

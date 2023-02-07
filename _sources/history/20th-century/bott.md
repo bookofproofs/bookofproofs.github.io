@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bott
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary,topology,wolf-prize
+tags: origin-hungary,topology,wolf-prize
 title: Bott, Raoul
 born: 1923
 died: 2005

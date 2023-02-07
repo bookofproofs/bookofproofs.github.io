@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$See
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: See, Thomas Jefferson Jackson
 born: 1866
 died: 1962

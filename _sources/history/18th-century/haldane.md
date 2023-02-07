@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Haldane
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-scotland
+tags: origin-scotland
 title: Haldane, Robert
 born: 1772
 died: 1854

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Suzuki_Michio
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-japan
+tags: group-theory,origin-japan
 title: Suzuki, Michio
 born: 1926
 died: 1998

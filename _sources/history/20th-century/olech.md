@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Olech
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Olech, Czeslaw
 born: 1931
 died: 2015

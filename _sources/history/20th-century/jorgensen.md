@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jorgensen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-denmark
+tags: origin-denmark
 title: Jorgensen, Palle
 born: 1947
 died: 2003

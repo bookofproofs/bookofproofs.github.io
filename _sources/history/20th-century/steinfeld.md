@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Steinfeld
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Steinfeld, Ottó
 born: 1924
 died: 1990

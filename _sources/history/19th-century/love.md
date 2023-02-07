@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Love
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Love, Augustus Edward Hough
 born: 1863
 died: 1940

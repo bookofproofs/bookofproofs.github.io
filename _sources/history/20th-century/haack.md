@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Haack
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Haack, Wolfgang Siegfried
 born: 1902
 died: 1994

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Angelescu
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-romania
+tags: origin-romania
 title: Angelescu, Aurel
 born: 1886
 died: 1938

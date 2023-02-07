@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Albert
 categories: history,14th-century
 parentid: bookofproofs$602
-tags: nationality-germany,set-theory
+tags: origin-germany,set-theory
 title: Albert Of Saxony
 born: 1316
 died: 1390

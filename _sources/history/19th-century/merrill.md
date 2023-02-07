@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Merrill
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa,women
+tags: astronomy,origin-usa,women
 title: Merrill, Winifred Edgerton
 born: 1862
 died: 1951

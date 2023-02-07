@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pic
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Pic, Gheorghe
 born: 1907
 died: 1984

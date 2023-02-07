@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Heinonen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-finland
+tags: origin-finland
 title: Heinonen, Juha
 born: 1960
 died: 2007

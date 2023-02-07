@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Drinfeld
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,group-theory,nationality-ukraine
+tags: fields-medal,group-theory,origin-ukraine
 title: Drinfeld, Vladimir Gershonovich
 born: 1954
 died: 2004

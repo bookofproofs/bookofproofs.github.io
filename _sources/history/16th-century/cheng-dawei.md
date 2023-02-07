@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cheng_Dawei
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: ancient-chinese,chinese,nationality-china,puzzles-and-problems
+tags: ancient-chinese,chinese,origin-china,puzzles-and-problems
 title: Dawei, Cheng
 born: 1533
 died: 1606

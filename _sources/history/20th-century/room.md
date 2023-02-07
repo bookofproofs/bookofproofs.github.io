@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Room
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Room, Thomas Gerald
 born: 1902
 died: 1986

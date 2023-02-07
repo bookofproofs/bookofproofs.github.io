@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Runge
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,nationality-germany
+tags: analysis,origin-germany
 title: Runge, Carl David Tolmé
 born: 1856
 died: 1927

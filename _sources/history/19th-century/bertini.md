@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bertini
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Bertini, Eugenio
 born: 1846
 died: 1933

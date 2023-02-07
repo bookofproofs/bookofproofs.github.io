@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fine_Nathan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Fine (3), Nathan
 born: 1916
 died: 1994

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stueckelberg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Stueckelberg, Ernst Carl Gerlach
 born: 1905
 died: 1984

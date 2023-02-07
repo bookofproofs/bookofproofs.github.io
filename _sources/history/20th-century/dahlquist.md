@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dahlquist
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-sweden
+tags: origin-sweden
 title: Dahlquist, Germund
 born: 1925
 died: 2005

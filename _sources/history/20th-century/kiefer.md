@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kiefer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Kiefer (2), Jack Carl
 born: 1924
 died: 1981

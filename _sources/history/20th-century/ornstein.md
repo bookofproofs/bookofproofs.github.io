@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ornstein
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Ornstein, Donald Samuel
 born: 1933
 died: 2019

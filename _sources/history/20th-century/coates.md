@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Coates
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-australia
+tags: origin-australia
 title: Coates, John Henry
 born: 1945
 died: 2022

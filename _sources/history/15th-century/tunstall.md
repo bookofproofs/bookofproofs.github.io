@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tunstall
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: nationality-england
+tags: origin-england
 title: Tunstall, Cuthbert
 born: 1474
 died: 1559

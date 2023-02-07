@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lah
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-slovenia
+tags: origin-slovenia
 title: Lah, Ivo
 born: 1896
 died: 1979

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lipschitz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Lipschitz, Rudolf Otto Sigismund
 born: 1832
 died: 1903

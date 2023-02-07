@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Marcinkiewicz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Marcinkiewicz, Józef
 born: 1910
 died: 1940

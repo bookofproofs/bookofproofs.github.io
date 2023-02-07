@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Taylor
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: analysis,ancient-indian,bourbaki,geometry,nationality-england,puzzles-and-problems
+tags: analysis,ancient-indian,bourbaki,geometry,origin-england,puzzles-and-problems
 title: Taylor, Brook
 born: 1685
 died: 1731

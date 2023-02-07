@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jones_Douglas
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Jones (3), Douglas
 born: 1922
 died: 2013

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Varga_Otto
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Varga, Ottó
 born: 1909
 died: 1969

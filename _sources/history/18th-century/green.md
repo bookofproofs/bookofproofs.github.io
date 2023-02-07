@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Green
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-england
+tags: origin-england
 title: Green, George
 born: 1793
 died: 1841

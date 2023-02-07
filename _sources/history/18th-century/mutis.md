@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mutis
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-spain
+tags: origin-spain
 title: Mutis, José
 born: 1732
 died: 1808

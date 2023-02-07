@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Orshansky
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Orshansky, Mollie
 born: 1915
 died: 2006

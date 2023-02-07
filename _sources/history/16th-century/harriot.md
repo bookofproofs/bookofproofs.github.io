@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Harriot
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: algebra,astronomy,nationality-england,physics
+tags: algebra,astronomy,origin-england,physics
 title: Harriot, Thomas
 born: 1560
 died: 1621

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Collatz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Collatz, Lothar
 born: 1910
 died: 1990

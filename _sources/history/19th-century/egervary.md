@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Egervary
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-hungary
+tags: origin-hungary
 title: Egerváry, Jenő
 born: 1891
 died: 1958

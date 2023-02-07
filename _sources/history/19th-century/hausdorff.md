@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hausdorff
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,astronomy,bourbaki,geometry,nationality-poland,topology
+tags: analysis,astronomy,bourbaki,geometry,origin-poland,topology
 title: Hausdorff, Felix
 born: 1868
 died: 1942

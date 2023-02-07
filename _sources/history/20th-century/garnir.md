@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Garnir
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-belgium
+tags: origin-belgium
 title: Garnir, Henri Georges
 born: 1921
 died: 1985

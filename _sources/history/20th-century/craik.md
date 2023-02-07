@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Craik
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Craik, Alex
 born: 1938
 died: 2019

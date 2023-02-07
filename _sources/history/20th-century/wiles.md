@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wiles
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,clay-research-award,nationality-england,number-theory,shaw-prize,wolf-prize
+tags: abel-prize,clay-research-award,origin-england,number-theory,shaw-prize,wolf-prize
 title: Wiles, Andrew John
 born: 1952
 died: 2020

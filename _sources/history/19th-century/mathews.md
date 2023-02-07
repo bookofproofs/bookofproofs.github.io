@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mathews
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Mathews, George Ballard
 born: 1861
 died: 1922

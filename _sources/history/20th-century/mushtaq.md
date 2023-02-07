@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mushtaq
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-pakistan
+tags: origin-pakistan
 title: Mushtaq, Qaiser
 born: 1954
 died: 2004

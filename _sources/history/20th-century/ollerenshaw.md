@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ollerenshaw
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,women
+tags: origin-england,women
 title: Ollerenshaw, Kathleen Timpson
 born: 1912
 died: 2014

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Alasia
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-italy
+tags: astronomy,origin-italy
 title: Alasia, Cristoforo
 born: 1864
 died: 1918

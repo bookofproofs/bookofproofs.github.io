@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kendall_Maurice
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,statistics
+tags: origin-england,statistics
 title: Kendall, Maurice
 born: 1907
 died: 1983

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sintsov
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Sintsov, Dmitrii Matveevich
 born: 1867
 died: 1946

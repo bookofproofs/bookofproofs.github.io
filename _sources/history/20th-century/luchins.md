@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Luchins
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland,women
+tags: origin-poland,women
 title: Luchins, Edith Hirsch
 born: 1921
 died: 2002

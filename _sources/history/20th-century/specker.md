@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Specker
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Specker, Ernst Paul
 born: 1920
 died: 2011

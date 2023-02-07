@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kemeny
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Kemeny, John
 born: 1926
 died: 1992

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Higman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-england,puzzles-and-problems
+tags: algebra,group-theory,origin-england,puzzles-and-problems
 title: Higman, Graham
 born: 1917
 died: 2008

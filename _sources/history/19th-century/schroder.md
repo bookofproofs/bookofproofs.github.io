@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schroder
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany,set-theory
+tags: origin-germany,set-theory
 title: Schröder, Ernst
 born: 1841
 died: 1902

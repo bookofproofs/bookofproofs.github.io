@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Feigl
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Feigl, Georg
 born: 1890
 died: 1945

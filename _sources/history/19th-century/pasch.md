@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pasch
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Pasch, Moritz
 born: 1843
 died: 1930

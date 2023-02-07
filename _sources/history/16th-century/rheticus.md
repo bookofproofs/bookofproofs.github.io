@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rheticus
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: analysis,astronomy,geometry,nationality-austria
+tags: analysis,astronomy,geometry,origin-austria
 title: Rheticus, Georg Joachim von Lauchen
 born: 1514
 died: 1574

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sadler
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Sadler, Donald
 born: 1908
 died: 1987

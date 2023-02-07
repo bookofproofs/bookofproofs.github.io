@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Helly
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-austria
+tags: origin-austria
 title: Helly, Eduard
 born: 1884
 died: 1943

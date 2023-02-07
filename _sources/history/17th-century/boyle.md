@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Boyle
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: analysis,astronomy,geometry,nationality-ireland,physics
+tags: analysis,astronomy,geometry,origin-ireland,physics
 title: Boyle, Robert
 born: 1627
 died: 1691

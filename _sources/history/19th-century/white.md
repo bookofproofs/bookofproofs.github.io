@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$White
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: White, Henry Seely
 born: 1861
 died: 1943

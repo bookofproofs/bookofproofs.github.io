@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Taleb
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-lebanon
+tags: origin-lebanon
 title: Taleb, Nassim
 born: 1960
 died: 2007

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bacon
 categories: history,13th-century
 parentid: bookofproofs$606
-tags: astronomy,nationality-england,physics
+tags: astronomy,origin-england,physics
 title: Bacon, Roger
 born: 1214
 died: 1292

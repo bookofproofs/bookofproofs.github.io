@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Norlund
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-denmark
+tags: astronomy,origin-denmark
 title: Norlund, Niels Erik
 born: 1885
 died: 1981

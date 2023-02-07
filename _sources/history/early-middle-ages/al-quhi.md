@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Quhi
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,astronomy,nationality-iran
+tags: ancient-arab,astronomy,origin-iran
 title: Al-Quhi, Abu Sahl Waijan ibn Rustam
 born: 940
 died: 1000

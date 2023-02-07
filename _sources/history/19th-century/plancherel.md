@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Plancherel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Plancherel, Michel
 born: 1885
 died: 1967

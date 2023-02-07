@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kiss
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-romania
+tags: origin-romania
 title: Kiss, Elemér
 born: 1929
 died: 2006

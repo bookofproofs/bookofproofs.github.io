@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bernoulli_Johann
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: analysis,ancient-greek,geometry,nationality-switzerland,number-theory,puzzles-and-problems,special-numbers-and-numerals,topology
+tags: analysis,ancient-greek,geometry,origin-switzerland,number-theory,puzzles-and-problems,special-numbers-and-numerals,topology
 title: Bernoulli (2), Johann
 born: 1667
 died: 1748

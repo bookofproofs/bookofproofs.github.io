@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hymers
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Hymers, John
 born: 1803
 died: 1887

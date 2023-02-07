@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pier
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-luxembourg
+tags: origin-luxembourg
 title: Pier, Jean-Paul
 born: 1933
 died: 2016

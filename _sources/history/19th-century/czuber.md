@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Czuber
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Czuber, Emanuel
 born: 1851
 died: 1925

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Subbotin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-poland
+tags: astronomy,origin-poland
 title: Subbotin, Mikhail Fedorovich
 born: 1893
 died: 1966

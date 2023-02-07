@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hajnal
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Hajnal, András
 born: 1931
 died: 2016

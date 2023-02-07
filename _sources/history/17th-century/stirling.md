@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stirling
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: ancient-indian,astronomy,nationality-scotland
+tags: ancient-indian,astronomy,origin-scotland
 title: Stirling, James
 born: 1692
 died: 1770

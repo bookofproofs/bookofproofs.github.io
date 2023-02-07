@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bilimovic
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Bilimovic, Anton Dimitrija
 born: 1879
 died: 1970

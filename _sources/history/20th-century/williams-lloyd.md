@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Williams_Lloyd
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Williams (3), Lloyd
 born: 1925
 died: 2001

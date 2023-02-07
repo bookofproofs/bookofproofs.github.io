@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ashour
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-egypt
+tags: origin-egypt
 title: Ashour, Attia
 born: 1924
 died: 2017

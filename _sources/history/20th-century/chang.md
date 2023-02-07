@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chang
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-china,women
+tags: origin-china,women
 title: Chang, Sun-Yung Alice
 born: 1948
 died: 2011

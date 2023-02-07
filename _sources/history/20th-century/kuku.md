@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kuku
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-nigeria
+tags: african,origin-nigeria
 title: Kuku, Aderemi
 born: 1940
 died: 2011

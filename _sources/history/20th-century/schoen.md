@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schoen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Schoen, Richard Melvin
 born: 1950
 died: 2014

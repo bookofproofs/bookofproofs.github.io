@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Reuter
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Reuter, Harry
 born: 1921
 died: 1992

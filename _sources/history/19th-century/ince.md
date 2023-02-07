@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ince
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Ince, Edward
 born: 1891
 died: 1941

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Craig
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-scotland
+tags: origin-scotland
 title: Craig, John
 born: 1663
 died: 1731

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shimizu
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-japan
+tags: origin-japan
 title: Shimizu, Tatsujiro
 born: 1897
 died: 1992

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pitman
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-australia
+tags: origin-australia
 title: Pitman, Edwin James George
 born: 1897
 died: 1993

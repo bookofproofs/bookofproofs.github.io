@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vranceanu
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-romania
+tags: origin-romania
 title: Vrănceanu, Gheorghe
 born: 1900
 died: 1979

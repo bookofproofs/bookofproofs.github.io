@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Capelli
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: group-theory,nationality-italy
+tags: group-theory,origin-italy
 title: Capelli, Alfredo
 born: 1855
 died: 1910

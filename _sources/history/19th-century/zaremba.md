@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zaremba
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Zaremba, Stanislaw
 born: 1863
 died: 1942

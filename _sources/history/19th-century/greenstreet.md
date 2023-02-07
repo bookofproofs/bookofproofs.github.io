@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Greenstreet
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Greenstreet, William John
 born: 1861
 died: 1930

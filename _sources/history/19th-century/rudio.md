@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rudio
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Rudio, Ferdinand
 born: 1856
 died: 1929

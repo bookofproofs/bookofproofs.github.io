@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$James
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,topology
+tags: origin-england,topology
 title: Temple, George Frederick James
 born: 1928
 died: 2010

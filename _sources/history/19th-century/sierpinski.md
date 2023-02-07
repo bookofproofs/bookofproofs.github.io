@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sierpinski
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,nationality-poland
+tags: analysis,origin-poland
 title: Sierpinski, Wacław
 born: 1882
 died: 1969

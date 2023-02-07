@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Montgomery
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,topology
+tags: origin-usa,topology
 title: Montgomery, Deane
 born: 1909
 died: 1992

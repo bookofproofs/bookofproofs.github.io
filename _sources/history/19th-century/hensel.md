@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hensel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Hensel, Kurt
 born: 1861
 died: 1941

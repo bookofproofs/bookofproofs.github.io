@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zeckendorf
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-belgium
+tags: origin-belgium
 title: Zeckendorf, Édouard
 born: 1901
 died: 1983

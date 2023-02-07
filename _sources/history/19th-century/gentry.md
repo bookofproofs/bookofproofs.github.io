@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gentry
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Gentry, Ruth Ellen
 born: 1862
 died: 1917

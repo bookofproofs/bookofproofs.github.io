@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hamburger
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Hamburger, Hans Ludwig
 born: 1889
 died: 1956

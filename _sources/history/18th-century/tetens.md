@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tetens
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-germany
+tags: origin-germany
 title: Tetens, Johannes Nikolaus
 born: 1736
 died: 1807

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Goldbach
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: algebra,analysis,nationality-russia,number-theory,special-numbers-and-numerals,topology
+tags: algebra,analysis,origin-russia,number-theory,special-numbers-and-numerals,topology
 title: Goldbach, Christian
 born: 1690
 died: 1764

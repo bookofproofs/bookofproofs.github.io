@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brodetsky
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: applied-maths,nationality-ukraine
+tags: applied-maths,origin-ukraine
 title: Brodetsky, Selig
 born: 1888
 died: 1954

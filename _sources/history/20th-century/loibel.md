@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Loibel
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-brazil,topology
+tags: origin-brazil,topology
 title: Loibel, Gilberto
 born: 1932
 died: 2013

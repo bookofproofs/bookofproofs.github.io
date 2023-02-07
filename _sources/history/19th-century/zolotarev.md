@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zolotarev
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Zolotarev, Egor Ivanovich
 born: 1847
 died: 1878

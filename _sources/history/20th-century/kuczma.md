@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kuczma
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Kuczma, Marek
 born: 1935
 died: 1991

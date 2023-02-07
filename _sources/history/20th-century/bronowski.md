@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bronowski
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Bronowski, Jacob
 born: 1908
 died: 1974

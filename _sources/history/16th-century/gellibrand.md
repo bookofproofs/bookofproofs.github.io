@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gellibrand
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Gellibrand, Henry
 born: 1597
 died: 1637

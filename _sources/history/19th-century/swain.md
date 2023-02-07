@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Swain
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,women
+tags: origin-england,women
 title: Swain, Lorna Mary
 born: 1891
 died: 1936

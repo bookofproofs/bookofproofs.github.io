@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bunyakovsky
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Bunyakovsky, Viktor Yakovlevich
 born: 1804
 died: 1889

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$McIntosh
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Mcintosh, Donald Cameron
 born: 1868
 died: 1957

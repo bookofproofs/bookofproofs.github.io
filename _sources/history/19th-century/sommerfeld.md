@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sommerfeld
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-russia
+tags: astronomy,origin-russia
 title: Sommerfeld, Arnold Johannes Wilhelm
 born: 1868
 died: 1951

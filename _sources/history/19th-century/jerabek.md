@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jerabek
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Jerabek, Vaclav
 born: 1845
 died: 1931

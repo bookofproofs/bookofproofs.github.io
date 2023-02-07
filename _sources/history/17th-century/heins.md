@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Heins
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-germany
+tags: origin-germany
 title: Heins, Valentin
 born: 1637
 died: 1704

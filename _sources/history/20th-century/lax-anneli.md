@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lax_Anneli
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland,women
+tags: origin-poland,women
 title: Lax (2), Anneli
 born: 1922
 died: 1999

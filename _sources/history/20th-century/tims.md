@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tims
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Tims, Sydney Rex
 born: 1926
 died: 1971

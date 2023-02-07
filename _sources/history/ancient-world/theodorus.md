@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Theodorus
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: african,ancient-greek,astronomy,nationality-libya,special-numbers-and-numerals
+tags: african,ancient-greek,astronomy,origin-libya,special-numbers-and-numerals
 title: Theodorus Of Cyrene
 born: -465
 died: -398

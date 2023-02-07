@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chudakov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Chudakov, Nikolai Grigor'evich
 born: 1904
 died: 1986

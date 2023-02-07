@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Prodi
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Prodi, Giovanni
 born: 1925
 died: 2010

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rudin_Walter
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-austria
+tags: origin-austria
 title: Rudin, Walter
 born: 1921
 died: 2010

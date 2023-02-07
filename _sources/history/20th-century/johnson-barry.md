@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Johnson_Barry
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Johnson (5), Barry
 born: 1937
 died: 2002

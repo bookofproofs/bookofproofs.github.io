@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Witt
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-denmark
+tags: origin-denmark
 title: Witt, Ernst
 born: 1911
 died: 1991

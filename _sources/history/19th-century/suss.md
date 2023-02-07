@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Suss
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Süss, Wilhelm
 born: 1895
 died: 1958

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Petryshyn
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Petryshyn, Volodymyr
 born: 1929
 died: 2017

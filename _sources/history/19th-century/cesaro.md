@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cesaro
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,geometry,nationality-italy
+tags: analysis,geometry,origin-italy
 title: Cesàro, Ernesto
 born: 1859
 died: 1906

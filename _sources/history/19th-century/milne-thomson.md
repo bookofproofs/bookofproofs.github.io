@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Milne-Thomson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Milne-Thomson, Louis Melville
 born: 1891
 died: 1974

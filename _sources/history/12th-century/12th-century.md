@@ -19,45 +19,43 @@ contributors: bookofproofs,@MacTutor
 * The Yoruba city-states are founded in the south of Nigeria (1150).
 
 ## Chronology
-
 ### 1100
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Jabir_ibn_Aflah/">Jabir ibn Aflah</a>
+#### Birth of:
+* [Jabir Ibn Aflah][bookofproofs$Jabir_ibn_Aflah]
 
 ### 1114
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Bhaskara_II/">Bhaskara II</a>
-
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Gherard/">Gherard of Cremona</a>
-: An Italian mathematician who worked in Spain and translated mathematical works from Arabic into Latin.
+#### Birth of:
+* [Gherard Of Cremona][bookofproofs$Gherard]
+* [Ii][bookofproofs$Bhaskara_II]
 
 ### 1130
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Al-Samawal/">Al-Samawal</a>
-: An Islamic mathematician who was able to extend the arithmetic operations to handle polynomials. He used an early form of induction.
+#### Birth of:
+* [Al-Samawal][bookofproofs$Al-Samawal]
 
 ### 1135
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Al-Tusi_Sharaf/">Sharaf al-Din al-Tusi</a>
-: An Islamic mathematician who wrote a treatise on cubic equations.
+#### Birth of
+* [Al-Tusi][bookofproofs$Al-Tusi_Sharaf]
 
 ### 1140
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Reinher/">Reinher of Paderborn</a>
-: A German mathematician who worked on the mathematics of the calendar and in particular on the calculation of Easter.
+#### Birth of
+* [Reinher Of Paderborn][bookofproofs$Reinher]
 
 ### 1168
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Grosseteste/">Robert Grosseteste</a>
-: An English bishop who worked on geometry, optics and astronomy and made Latin translations of many Greek and Arabic scientific writings.
+#### Birth of
+* [Grosseteste][bookofproofs$Grosseteste]
 
 ### 1170
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Fibonacci/">Leonardo Pisano Fibonacci</a>
-: Leonard of Pisa or Fibonacci played an important role in reviving ancient mathematics and made significant contributions of his own. Liber abaci introduced the Hindu-Arabic place-valued decimal system and the use of Arabic numerals into Europe.
+#### Birth of
+* [Fibonacci][bookofproofs$Fibonacci]
 
 ### 1175
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Scot/">Michael Scot</a>
-: Michael Scot (or Scotus) helped in the transmission of Islamic mathematics from Spain to the rest of Europe.
+#### Birth of
+* [Scot][bookofproofs$Scot]
 
 ### 1192
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Li_Zhi/">Li Zhi</a>
-: A Chinese mathematician who described methods for solving equations.
+#### Birth of
+* [Zhi][bookofproofs$Li_Zhi]
 
 ### 1195
-<a href="https://mathshistory.st-andrews.ac.uk/Biographies/Sacrobosco/">Johannes de Sacrobosco</a>
-: An English scholar who wrote an important text on astronomy and promoted Arabic methods of arithmetic and algebra.
-
+#### Birth of
+* [De Sacrobosco][bookofproofs$Sacrobosco]

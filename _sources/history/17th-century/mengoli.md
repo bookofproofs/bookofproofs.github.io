@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mengoli
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: analysis,astronomy,nationality-italy
+tags: analysis,astronomy,origin-italy
 title: Mengoli, Pietro
 born: 1626
 died: 1686

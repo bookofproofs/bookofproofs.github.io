@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cox_Elbert
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Cox, Elbert
 born: 1895
 died: 1969

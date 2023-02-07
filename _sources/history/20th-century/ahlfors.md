@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ahlfors
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-finland,wolf-prize
+tags: fields-medal,origin-finland,wolf-prize
 title: Ahlfors, Lars Valerian
 born: 1907
 died: 1996

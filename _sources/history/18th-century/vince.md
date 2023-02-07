@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vince
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Vince, Samuel
 born: 1749
 died: 1821

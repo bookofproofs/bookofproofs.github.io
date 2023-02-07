@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schlesinger
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-slovakia
+tags: origin-slovakia
 title: Schlesinger, Ludwig
 born: 1864
 died: 1933

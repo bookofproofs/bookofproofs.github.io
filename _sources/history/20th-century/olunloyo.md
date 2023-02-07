@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Olunloyo
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-nigeria
+tags: african,origin-nigeria
 title: Olunloyo, Victor
 born: 1935
 died: 2020

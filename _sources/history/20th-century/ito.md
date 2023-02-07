@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ito
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan,wolf-prize
+tags: origin-japan,wolf-prize
 title: Ito, Kiyosi
 born: 1915
 died: 2008

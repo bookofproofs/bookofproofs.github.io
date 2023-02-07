@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Popoviciu
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-romania
+tags: origin-romania
 title: Popoviciu, Tiberiu
 born: 1905
 died: 1975

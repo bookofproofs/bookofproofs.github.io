@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Peddie
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: applied-maths,nationality-scotland
+tags: applied-maths,origin-scotland
 title: Peddie, William
 born: 1861
 died: 1946

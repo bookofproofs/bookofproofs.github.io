@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Graffe
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-germany
+tags: origin-germany
 title: Gräffe, Karl
 born: 1799
 died: 1873

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Guo_Shoujing
 categories: history,13th-century
 parentid: bookofproofs$606
-tags: ancient-chinese,astronomy,chinese,nationality-china
+tags: ancient-chinese,astronomy,chinese,origin-china
 title: Shoujing, Guo
 born: 1231
 died: 1316

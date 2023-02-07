@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bernoulli_JohannII
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: geometry,nationality-switzerland,physics
+tags: geometry,origin-switzerland,physics
 title: Bernoulli (6), Johann
 born: 1710
 died: 1790

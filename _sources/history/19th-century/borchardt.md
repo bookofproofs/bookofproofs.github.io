@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Borchardt
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Borchardt, Carl Wilhelm
 born: 1817
 died: 1880

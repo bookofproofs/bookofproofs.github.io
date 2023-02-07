@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Grieve
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Grieve, Alexander Barrie
 born: 1886
 died: 1952

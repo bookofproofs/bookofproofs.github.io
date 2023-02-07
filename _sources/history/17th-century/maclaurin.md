@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Maclaurin
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: algebra,analysis,ancient-indian,astronomy,nationality-scotland,physics
+tags: algebra,analysis,ancient-indian,astronomy,origin-scotland,physics
 title: Maclaurin, Colin
 born: 1698
 died: 1746

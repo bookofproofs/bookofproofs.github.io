@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fincke
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: analysis,astronomy,geometry,nationality-germany
+tags: analysis,astronomy,geometry,origin-germany
 title: Fincke, Thomas
 born: 1561
 died: 1656

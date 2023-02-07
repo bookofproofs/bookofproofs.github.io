@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Henriques
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,topology,women
+tags: origin-usa,topology,women
 title: Henriques, Anna Adelaide Stafford
 born: 1905
 died: 2004

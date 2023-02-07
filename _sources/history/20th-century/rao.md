@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rao
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-india
+tags: origin-india
 title: Rao, Calyampudi Radhakrishna
 born: 1920
 died: 1983

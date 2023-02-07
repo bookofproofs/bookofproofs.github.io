@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lehr
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Lehr, Marguerite
 born: 1898
 died: 1987

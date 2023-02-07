@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Aronhold
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,architecture,geometry,nationality-poland
+tags: algebra,architecture,geometry,origin-poland
 title: Aronhold, Siegfried Heinrich
 born: 1819
 died: 1884

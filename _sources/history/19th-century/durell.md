@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Durell
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Durell, Clement Vavasor
 born: 1882
 died: 1968

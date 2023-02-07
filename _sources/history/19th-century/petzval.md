@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Petzval
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-slovakia
+tags: origin-slovakia
 title: Petzval, Józeph Miksa
 born: 1807
 died: 1891

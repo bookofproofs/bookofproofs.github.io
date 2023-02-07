@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pacioli
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: algebra,ancient-indian,geometry,nationality-italy,number-theory,special-numbers-and-numerals
+tags: algebra,ancient-indian,geometry,origin-italy,number-theory,special-numbers-and-numerals
 title: Pacioli, Luca
 born: 1445
 died: 1517

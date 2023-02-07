@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Veblen
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa,puzzles-and-problems,topology
+tags: origin-usa,puzzles-and-problems,topology
 title: Veblen, Oswald
 born: 1880
 died: 1960

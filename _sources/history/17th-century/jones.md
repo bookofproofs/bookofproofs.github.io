@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jones
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-wales,number-theory,special-numbers-and-numerals
+tags: origin-wales,number-theory,special-numbers-and-numerals
 title: Jones, William
 born: 1675
 died: 1749

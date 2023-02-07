@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Konig_Samuel
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: geometry,nationality-germany,physics
+tags: geometry,origin-germany,physics
 title: König, Samuel
 born: 1712
 died: 1757

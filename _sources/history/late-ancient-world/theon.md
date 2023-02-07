@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Theon
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: african,ancient-babylonian,ancient-greek,astronomy,nationality-egypt,special-numbers-and-numerals
+tags: african,ancient-babylonian,ancient-greek,astronomy,origin-egypt,special-numbers-and-numerals
 title: Theon Of Alexandria
 born: 335
 died: 405

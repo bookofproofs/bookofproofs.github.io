@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tutte
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Tutte, William Thomas
 born: 1917
 died: 2002

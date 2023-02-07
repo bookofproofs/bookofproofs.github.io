@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Valyi
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-romania
+tags: origin-romania
 title: Vályi, Gyula
 born: 1855
 died: 1913

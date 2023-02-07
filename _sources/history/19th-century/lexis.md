@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lexis
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany,statistics
+tags: origin-germany,statistics
 title: Lexis, Wilhelm
 born: 1837
 died: 1914

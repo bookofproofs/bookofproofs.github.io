@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Khinchin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Khinchin, Aleksandr Yakovlevich
 born: 1894
 died: 1959

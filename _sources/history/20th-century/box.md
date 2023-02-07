@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Box
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Box, George Edward Pelham
 born: 1919
 died: 2013

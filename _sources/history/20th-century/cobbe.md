@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cobbe
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,women
+tags: origin-england,women
 title: Cobbe, Anne Philippa
 born: 1920
 died: 1971

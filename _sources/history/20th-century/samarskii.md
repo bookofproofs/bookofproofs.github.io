@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Samarskii
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Samarskii, Alexander Andreevich
 born: 1919
 died: 2008

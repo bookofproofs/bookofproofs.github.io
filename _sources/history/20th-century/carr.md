@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Carr
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Carr, John
 born: 1948
 died: 2016

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Macintyre_Archibald
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Macintyre, Archibald
 born: 1908
 died: 1967

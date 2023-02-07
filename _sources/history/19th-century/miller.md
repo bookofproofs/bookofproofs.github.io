@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Miller
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: group-theory,nationality-usa,number-theory,special-numbers-and-numerals
+tags: group-theory,origin-usa,number-theory,special-numbers-and-numerals
 title: Miller (2), George Abram
 born: 1863
 died: 1951

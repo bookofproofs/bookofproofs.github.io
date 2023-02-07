@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dominguez
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-argentina
+tags: origin-argentina
 title: Domínguez, González
 born: 1904
 died: 1982

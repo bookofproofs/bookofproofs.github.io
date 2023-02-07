@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Viazovska
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: clay-research-award,nationality-ukraine,women
+tags: clay-research-award,origin-ukraine,women
 title: Viazovska, Maryna
 born: 1977
 died: 2017

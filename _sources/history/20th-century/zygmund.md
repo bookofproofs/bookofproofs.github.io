@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zygmund
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Zygmund, Antoni Szczepan
 born: 1900
 died: 1992

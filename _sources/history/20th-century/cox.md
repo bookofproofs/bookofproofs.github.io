@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cox
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Cox (2), Gertrude Mary
 born: 1900
 died: 1978

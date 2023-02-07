@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pedley
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Pedley, Timothy
 born: 1942
 died: 2009

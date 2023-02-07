@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Remak
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: group-theory,nationality-germany
+tags: group-theory,origin-germany
 title: Remak, Robert Erich
 born: 1888
 died: 1942

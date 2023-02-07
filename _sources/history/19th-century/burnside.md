@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Burnside
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,nationality-england,puzzles-and-problems
+tags: algebra,group-theory,origin-england,puzzles-and-problems
 title: Burnside, William
 born: 1852
 died: 1927

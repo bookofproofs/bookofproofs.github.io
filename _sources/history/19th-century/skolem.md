@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Skolem
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-norway
+tags: origin-norway
 title: Skolem, Thoralf Albert
 born: 1887
 died: 1963

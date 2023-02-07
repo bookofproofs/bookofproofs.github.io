@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Carmeli
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-iraq
+tags: origin-iraq
 title: Carmeli, Moshe (Ehezkel)
 born: 1933
 died: 2007

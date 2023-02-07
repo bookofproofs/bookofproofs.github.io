@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hopf
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland,topology
+tags: origin-poland,topology
 title: Hopf, Heinz
 born: 1894
 died: 1971

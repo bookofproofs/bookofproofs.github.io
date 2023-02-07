@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nielsen
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-denmark
+tags: origin-denmark
 title: Nielsen, Niels
 born: 1865
 died: 1931

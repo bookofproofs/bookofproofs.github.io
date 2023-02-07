@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Thomson_William
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Thomson (2), William
 born: 1856
 died: 1947

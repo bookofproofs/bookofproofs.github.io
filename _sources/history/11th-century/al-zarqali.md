@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Zarqali
 categories: history,11th-century
 parentid: bookofproofs$612
-tags: nationality-spain
+tags: origin-spain
 title: Al-Zarqali
 born: 1029
 died: 1100

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Aryabhata_I
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: analysis,ancient-arab,ancient-babylonian,ancient-indian,astronomy,geometry,nationality-india,special-numbers-and-numerals
+tags: analysis,ancient-arab,ancient-babylonian,ancient-indian,astronomy,geometry,origin-india,special-numbers-and-numerals
 title: Aryabhata The Elder
 born: 476
 died: 550

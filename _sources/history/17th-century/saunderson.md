@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Saunderson
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Saunderson, Nicholas
 born: 1682
 died: 1739

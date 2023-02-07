@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gelfond
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Gelfond, Aleksandr Osipovich
 born: 1906
 died: 1968

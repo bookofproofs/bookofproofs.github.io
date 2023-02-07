@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jack_Henry
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Jack (3), Henry
 born: 1917
 died: 1978

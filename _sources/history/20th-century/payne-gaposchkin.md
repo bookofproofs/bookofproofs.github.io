@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Payne-Gaposchkin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-england,women
+tags: astronomy,origin-england,women
 title: Payne-Gaposchkin, Cecilia
 born: 1900
 died: 1979

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Burkhardt
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Burkhardt, Heinrich Friedrich Karl Ludwig
 born: 1861
 died: 1914

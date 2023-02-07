@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Falconer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa,women
+tags: african-american,origin-usa,women
 title: Falconer, Etta Zuber
 born: 1933
 died: 2002

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ritt
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Ritt, Joseph Fels
 born: 1893
 died: 1951

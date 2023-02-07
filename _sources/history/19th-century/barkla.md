@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Barkla
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,nobel-prize
+tags: origin-england,nobel-prize
 title: Barkla, Charles Glover
 born: 1877
 died: 1944

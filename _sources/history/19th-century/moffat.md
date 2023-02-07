@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Moffat
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Moffat, George Lowe
 born: 1872
 died: 1934

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Smeal
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-australia
+tags: origin-australia
 title: Smeal, Glenny
 born: 1890
 died: 1974

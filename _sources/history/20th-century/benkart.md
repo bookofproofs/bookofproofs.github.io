@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Benkart
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Benkart, Georgia
 born: 1947
 died: 2022

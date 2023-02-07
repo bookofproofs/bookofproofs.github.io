@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Apianus
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Apianus, Petrus
 born: 1495
 died: 1552

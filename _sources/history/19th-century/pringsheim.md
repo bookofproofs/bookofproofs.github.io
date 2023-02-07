@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pringsheim
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Pringsheim, Alfred Israel
 born: 1850
 died: 1941

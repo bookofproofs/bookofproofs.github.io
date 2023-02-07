@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bruns
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-germany,physics
+tags: astronomy,origin-germany,physics
 title: Bruns, Ernst Heinrich
 born: 1848
 died: 1919

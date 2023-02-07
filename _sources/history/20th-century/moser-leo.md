@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Moser_Leo
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-austria
+tags: origin-austria
 title: Moser, Leo
 born: 1921
 died: 1970

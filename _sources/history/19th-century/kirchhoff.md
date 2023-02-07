@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kirchhoff
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-russia,physics
+tags: astronomy,origin-russia,physics
 title: Kirchhoff, Gustav Robert
 born: 1824
 died: 1887

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sultangazin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-kazakhstan
+tags: origin-kazakhstan
 title: Sultangazin, Umirzak
 born: 1936
 died: 2005

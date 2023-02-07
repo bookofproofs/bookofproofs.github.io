@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Copson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Copson, Edward Thomas
 born: 1901
 died: 1980

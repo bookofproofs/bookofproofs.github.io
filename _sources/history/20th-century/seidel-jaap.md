@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Seidel_Jaap
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Seidel, Jaap
 born: 1919
 died: 2001

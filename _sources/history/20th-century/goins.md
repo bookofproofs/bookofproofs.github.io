@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Goins
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Goins, Edray Herber
 born: 1969
 died: 2014

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fano
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,geometry,nationality-italy
+tags: algebra,geometry,origin-italy
 title: Fano, Gino
 born: 1871
 died: 1952

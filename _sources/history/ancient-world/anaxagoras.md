@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Anaxagoras
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,astronomy,geometry,nationality-turkey,puzzles-and-problems
+tags: ancient-greek,astronomy,geometry,origin-turkey,puzzles-and-problems
 title: Anaxagoras Of Clazomenae
 born: -499
 died: -428
@@ -19,12 +19,6 @@ contributors: bookofproofs,@MacTutor
 ![Anaxagoras.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Anaxagoras.jpg?raw=true)
 
 **Anaxagoras Of Clazomenae** was a Greek mathematician famed as the first to introduce philosophy to the Athenians. He was imprisoned for claiming that the Sun was not a god and that the Moon reflected the Sun's light. 
-
-Proposition that the Moon reflects light from the "red-hot stone" which was the Sun. 
-
-First understanding of centrifugal force 
-
-First known trials of squaring the circle with ruler and compasses (which was proven impossible not before 1882.
 
 Born 499 BC Clazomenae (30 km west of Izmir), Lydia (now Turkey). Died 428 BC Lampsacus, Mysia (now Turkey).
 

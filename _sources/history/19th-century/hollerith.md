@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hollerith
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa,statistics
+tags: origin-usa,statistics
 title: Hollerith, Herman
 born: 1860
 died: 1929

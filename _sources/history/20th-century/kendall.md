@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kendall
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,statistics
+tags: origin-england,statistics
 title: Kendall (2), Maurice George
 born: 1918
 died: 2007

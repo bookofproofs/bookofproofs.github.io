@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bonferroni
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Bonferroni, Carlo Emilio
 born: 1892
 died: 1960

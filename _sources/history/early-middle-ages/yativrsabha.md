@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Yativrsabha
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-indian,nationality-india
+tags: ancient-indian,origin-india
 title: Yativrsabha
 born: 500
 died: 570

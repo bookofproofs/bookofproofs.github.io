@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wexler-Kreindler
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-romania,women
+tags: origin-romania,women
 title: Kreindler, Eléna
 born: 1931
 died: 1992

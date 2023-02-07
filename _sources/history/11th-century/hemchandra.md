@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hemchandra
 categories: history,11th-century
 parentid: bookofproofs$612
-tags: ancient-indian,nationality-india
+tags: ancient-indian,origin-india
 title: Hemchandra, Acharya
 born: 1089
 died: 1173

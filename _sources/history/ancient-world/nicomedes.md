@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nicomedes
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,geometry,nationality-greece,puzzles-and-problems
+tags: ancient-greek,geometry,origin-greece,puzzles-and-problems
 title: Nicomedes
 born: -280
 died: -210

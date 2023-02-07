@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Walker_Arthur
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Walker (3), Geoffrey
 born: 1909
 died: 2001

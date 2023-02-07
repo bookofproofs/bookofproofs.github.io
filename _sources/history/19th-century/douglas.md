@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Douglas
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: fields-medal,group-theory,nationality-usa
+tags: fields-medal,group-theory,origin-usa
 title: Douglas, Jesse
 born: 1897
 died: 1965

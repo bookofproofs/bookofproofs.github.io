@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Banna
 categories: history,13th-century
 parentid: bookofproofs$606
-tags: african,ancient-arab,astronomy,nationality-morocco,special-numbers-and-numerals
+tags: african,ancient-arab,astronomy,origin-morocco,special-numbers-and-numerals
 title: Al-Banna
 born: 1256
 died: 1321

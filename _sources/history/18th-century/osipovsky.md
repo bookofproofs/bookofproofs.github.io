@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Osipovsky
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-russia
+tags: astronomy,origin-russia
 title: Osipovsky, Timofei Fedorovic
 born: 1765
 died: 1832

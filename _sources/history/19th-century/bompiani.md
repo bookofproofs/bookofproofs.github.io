@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bompiani
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Bompiani, Enrico
 born: 1889
 died: 1975

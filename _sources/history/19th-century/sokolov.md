@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sokolov
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Sokolov, Yurii Dmitrievich
 born: 1896
 died: 1971

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Segel
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Segel, Lee
 born: 1932
 died: 2005

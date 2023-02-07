@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Francesca
 categories: history,15th-century
 parentid: bookofproofs$601
-tags: geometry,nationality-italy
+tags: geometry,origin-italy
 title: Della Francesca, Piero
 born: 1420
 died: 1492

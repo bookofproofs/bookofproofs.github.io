@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vlacq
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Vlacq, Adriaan
 born: 1600
 died: 1667

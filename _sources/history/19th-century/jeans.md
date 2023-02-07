@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jeans
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-england,physics
+tags: astronomy,origin-england,physics
 title: Jeans, James
 born: 1877
 died: 1946

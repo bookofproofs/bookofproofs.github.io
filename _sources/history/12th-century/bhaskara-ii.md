@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bhaskara_II
 categories: history,12th-century
 parentid: bookofproofs$607
-tags: algebra,analysis,ancient-babylonian,ancient-indian,astronomy,geometry,nationality-india,number-theory,special-numbers-and-numerals
+tags: algebra,analysis,ancient-babylonian,ancient-indian,astronomy,geometry,origin-india,number-theory,special-numbers-and-numerals
 title: Ii, Bhaskara
 born: 1114
 died: 1185

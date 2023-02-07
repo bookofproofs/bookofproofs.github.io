@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sundman
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-finland
+tags: astronomy,origin-finland
 title: Sundman, Karl Frithiof
 born: 1873
 died: 1949

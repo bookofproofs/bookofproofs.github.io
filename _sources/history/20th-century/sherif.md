@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sherif
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-egypt,women
+tags: african,origin-egypt,women
 title: Sherif, Soraya
 born: 1934
 died: 2003

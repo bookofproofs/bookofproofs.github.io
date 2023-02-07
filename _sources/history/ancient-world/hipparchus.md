@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hipparchus
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: analysis,ancient-greek,astronomy,geography,geometry,nationality-turkey,physics
+tags: analysis,ancient-greek,astronomy,geography,geometry,origin-turkey,physics
 title: Hipparchus Of Rhodes
 born: -190
 died: -120

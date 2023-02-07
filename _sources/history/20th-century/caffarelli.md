@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Caffarelli
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-argentina,shaw-prize,wolf-prize
+tags: origin-argentina,shaw-prize,wolf-prize
 title: Caffarelli, Luis
 born: 1948
 died: 2016

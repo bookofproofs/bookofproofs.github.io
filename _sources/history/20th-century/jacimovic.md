@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jacimovic
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-montenegro
+tags: origin-montenegro
 title: Jacimovic, Milojica
 born: 1950
 died: 2014

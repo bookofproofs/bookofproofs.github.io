@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Butchart
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Butchart, Raymond Keiller
 born: 1888
 died: 1930

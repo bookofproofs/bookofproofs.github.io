@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Janovskaja
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-belarus,women
+tags: origin-belarus,women
 title: Janovskaja, Sof'ja Aleksandrovna
 born: 1896
 died: 1966

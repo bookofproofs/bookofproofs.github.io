@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ghetaldi
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-croatia
+tags: astronomy,origin-croatia
 title: Ghetaldi, Marino
 born: 1568
 died: 1626

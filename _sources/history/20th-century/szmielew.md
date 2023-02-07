@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Szmielew
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland,women
+tags: origin-poland,women
 title: Szmielew, Wanda Montlak
 born: 1918
 died: 1976

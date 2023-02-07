@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Klein
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,geometry,group-theory,nationality-germany,physics
+tags: algebra,geometry,group-theory,origin-germany,physics
 title: Klein, Felix Christian
 born: 1849
 died: 1925

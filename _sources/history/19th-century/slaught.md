@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Slaught
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Slaught, Herbert Ellsworth
 born: 1861
 died: 1937

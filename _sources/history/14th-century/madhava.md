@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Madhava
 categories: history,14th-century
 parentid: bookofproofs$602
-tags: ancient-indian,astronomy,nationality-india,special-numbers-and-numerals
+tags: ancient-indian,astronomy,origin-india,special-numbers-and-numerals
 title: Madhava Of Sangamagramma
 born: 1350
 died: 1425

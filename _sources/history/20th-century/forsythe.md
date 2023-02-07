@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Forsythe
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Forsythe, George Elmer
 born: 1917
 died: 1972

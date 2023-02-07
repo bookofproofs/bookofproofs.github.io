@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Morton
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Morton (2), Keith William
 born: 1930
 died: 2011

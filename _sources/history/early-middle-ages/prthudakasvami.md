@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Prthudakasvami
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-indian,nationality-india
+tags: ancient-indian,origin-india
 title: Prthudakasvami
 born: 830
 died: 890

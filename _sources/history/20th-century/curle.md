@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Curle
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Curle, Newby
 born: 1930
 died: 1989

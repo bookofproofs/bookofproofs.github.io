@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Urysohn
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine,topology
+tags: origin-ukraine,topology
 title: Urysohn, Pavel Samuilovich
 born: 1898
 died: 1924

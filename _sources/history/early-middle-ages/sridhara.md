@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sridhara
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-indian,nationality-india
+tags: ancient-indian,origin-india
 title: Sridhara
 born: 870
 died: 930

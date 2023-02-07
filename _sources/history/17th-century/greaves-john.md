@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Greaves_John
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Greaves, John
 born: 1602
 died: 1652

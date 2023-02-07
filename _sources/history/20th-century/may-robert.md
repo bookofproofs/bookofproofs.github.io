@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$May_Robert
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-australia
+tags: origin-australia
 title: May (2), Robert
 born: 1936
 died: 2020

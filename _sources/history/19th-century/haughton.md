@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Haughton
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-ireland
+tags: astronomy,origin-ireland
 title: Haughton, Samuel
 born: 1821
 died: 1897

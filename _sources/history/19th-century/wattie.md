@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wattie
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Wattie, James MacPherson
 born: 1862
 died: 1943

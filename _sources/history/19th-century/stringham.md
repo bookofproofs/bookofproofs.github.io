@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stringham
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Stringham, Washington Irving
 born: 1847
 died: 1909

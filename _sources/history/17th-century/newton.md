@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Newton
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: analysis,ancient-chinese,ancient-greek,ancient-indian,architecture,astronomy,chinese,geography,geometry,nationality-england,number-theory,physics,special-numbers-and-numerals
+tags: analysis,ancient-chinese,ancient-greek,ancient-indian,architecture,astronomy,chinese,geography,geometry,origin-england,number-theory,physics,special-numbers-and-numerals
 title: Newton, Sir Isaac
 born: 1643
 died: 1727

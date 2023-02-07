@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Muskhelishvili
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-georgia
+tags: origin-georgia
 title: Muskhelishvili, Nikoloz
 born: 1891
 died: 1976

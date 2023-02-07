@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Matiyasevich
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Matiyasevich, Yuri Vladimirovich
 born: 1947
 died: 2012

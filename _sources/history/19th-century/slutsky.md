@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Slutsky
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia,statistics
+tags: origin-russia,statistics
 title: Slutsky, Evgeny Evgenievich
 born: 1880
 died: 1948

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kupradze
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-georgia
+tags: origin-georgia
 title: Kupradze, Viktor
 born: 1903
 died: 1989

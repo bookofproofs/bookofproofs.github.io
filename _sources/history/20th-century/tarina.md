@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tarina
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-romania
+tags: origin-romania
 title: Țarină, Marian
 born: 1932
 died: 1992

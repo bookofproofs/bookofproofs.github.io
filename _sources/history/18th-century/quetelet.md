@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Quetelet
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-belgium,statistics
+tags: astronomy,origin-belgium,statistics
 title: Quetelet, Lambert Adolphe Jacques
 born: 1796
 died: 1874

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Argand
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: algebra,nationality-switzerland
+tags: algebra,origin-switzerland
 title: Argand, Jean Robert
 born: 1768
 died: 1822

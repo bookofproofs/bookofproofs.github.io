@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kothe
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-austria,topology
+tags: origin-austria,topology
 title: Köthe, Gottfried
 born: 1905
 died: 1989

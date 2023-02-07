@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Xiahou_Yang
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-chinese,chinese,nationality-china
+tags: ancient-chinese,chinese,origin-china
 title: Yang, Xiahou
 born: 400
 died: 470

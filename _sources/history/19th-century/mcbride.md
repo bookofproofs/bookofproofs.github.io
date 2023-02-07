@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$McBride
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland
+tags: origin-ireland
 title: Mcbride, James Alexander
 born: 1868
 died: 1949

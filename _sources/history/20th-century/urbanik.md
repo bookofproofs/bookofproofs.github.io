@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Urbanik
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Urbanik, Kazimierz
 born: 1930
 died: 2005

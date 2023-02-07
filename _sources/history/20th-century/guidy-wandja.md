@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Guidy-Wandja
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-cameroon,women
+tags: african,origin-cameroon,women
 title: Guidy-Wandja, Joséphine
 born: 1945
 died: 2022

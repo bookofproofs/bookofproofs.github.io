@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gregory
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: ancient-greek,ancient-indian,astronomy,geometry,nationality-scotland,number-theory,physics,puzzles-and-problems,special-numbers-and-numerals
+tags: ancient-greek,ancient-indian,astronomy,geometry,origin-scotland,number-theory,physics,puzzles-and-problems,special-numbers-and-numerals
 title: Gregory (2), James
 born: 1638
 died: 1675

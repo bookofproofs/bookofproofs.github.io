@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shepherdson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Shepherdson, John Cedric
 born: 1926
 died: 2015

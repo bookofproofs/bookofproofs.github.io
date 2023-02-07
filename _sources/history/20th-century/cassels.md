@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cassels
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Cassels (2), John William Scott
 born: 1922
 died: 2015

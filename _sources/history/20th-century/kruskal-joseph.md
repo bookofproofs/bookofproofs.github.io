@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kruskal_Joseph
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Kruskal (3), Joseph
 born: 1928
 died: 2010

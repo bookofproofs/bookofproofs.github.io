@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Minakshisundaram
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-india
+tags: origin-india
 title: Minakshisundaram, Subbaramiah
 born: 1913
 died: 1968

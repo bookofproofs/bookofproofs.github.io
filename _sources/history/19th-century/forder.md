@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Forder
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Forder, Henry George
 born: 1889
 died: 1981

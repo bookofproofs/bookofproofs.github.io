@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sleszynski
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Sleszynski, Ivan Vladislavovich
 born: 1854
 died: 1931

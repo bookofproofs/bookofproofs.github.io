@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bolyai_Farkas
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: geometry,nationality-romania
+tags: geometry,origin-romania
 title: Bolyai, Farkas
 born: 1775
 died: 1856

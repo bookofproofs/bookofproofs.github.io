@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Franklin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,nationality-usa,puzzles-and-problems,topology
+tags: analysis,origin-usa,puzzles-and-problems,topology
 title: Franklin (3), Philip
 born: 1898
 died: 1965

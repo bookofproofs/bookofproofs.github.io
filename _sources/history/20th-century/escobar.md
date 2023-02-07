@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Escobar
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-colombia
+tags: origin-colombia
 title: Escobar, José
 born: 1954
 died: 2004

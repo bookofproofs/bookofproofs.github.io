@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kaplansky
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-canada
+tags: group-theory,origin-canada
 title: Kaplansky, Irving
 born: 1917
 died: 2006

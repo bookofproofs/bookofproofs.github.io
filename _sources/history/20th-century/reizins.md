@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Reizins
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-latvia
+tags: astronomy,origin-latvia
 title: Reizins, Linards Eduardovich
 born: 1924
 died: 1991

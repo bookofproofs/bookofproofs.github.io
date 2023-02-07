@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Theon_of_Smyrna
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-greek,astronomy,geometry,nationality-turkey,physics
+tags: ancient-greek,astronomy,geometry,origin-turkey,physics
 title: Theon Of Smyrna
 born: 70
 died: 135

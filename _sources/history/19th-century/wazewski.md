@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wazewski
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland,topology
+tags: origin-poland,topology
 title: Wazewski, Tadeusz
 born: 1896
 died: 1972

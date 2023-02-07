@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Taussky-Todd
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-czech-republic,women
+tags: group-theory,origin-czech-republic,women
 title: Taussky-Todd, Olga
 born: 1906
 died: 1995

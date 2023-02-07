@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mastlin
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-germany,special-numbers-and-numerals
+tags: astronomy,origin-germany,special-numbers-and-numerals
 title: Mästlin, Michael
 born: 1550
 died: 1631

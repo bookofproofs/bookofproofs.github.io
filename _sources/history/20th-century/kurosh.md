@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kurosh
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-russia
+tags: group-theory,origin-russia
 title: Kurosh, Aleksandr Gennadievich
 born: 1908
 died: 1971

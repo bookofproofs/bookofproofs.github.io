@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stephansen
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-norway,women
+tags: origin-norway,women
 title: Stephansen, Mary Ann Elizabeth
 born: 1872
 died: 1961

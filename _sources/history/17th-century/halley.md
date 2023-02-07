@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Halley
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: analysis,astronomy,geography,nationality-england,physics
+tags: analysis,astronomy,geography,origin-england,physics
 title: Halley, Edmond
 born: 1656
 died: 1742

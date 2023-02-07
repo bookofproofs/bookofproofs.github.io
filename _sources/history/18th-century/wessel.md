@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wessel
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-norway
+tags: origin-norway
 title: Wessel, Caspar
 born: 1745
 died: 1818

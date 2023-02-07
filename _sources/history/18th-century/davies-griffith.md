@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Davies_Griffith
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-wales
+tags: origin-wales
 title: Davies, Griffith
 born: 1788
 died: 1855

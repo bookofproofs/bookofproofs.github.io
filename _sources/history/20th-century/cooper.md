@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cooper
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-south-africa
+tags: african,origin-south-africa
 title: Cooper (2), William Wager
 born: 1915
 died: 1977

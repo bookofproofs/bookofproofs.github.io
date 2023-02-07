@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ferrers
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Ferrers, Norman Macleod
 born: 1829
 died: 1903

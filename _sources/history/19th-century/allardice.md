@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Allardice
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Allardice, Robert Edgar
 born: 1862
 died: 1928

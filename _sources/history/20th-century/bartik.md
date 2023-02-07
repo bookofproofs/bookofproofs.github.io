@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bartik
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Bartik, Betty Jean Jennings
 born: 1924
 died: 2011

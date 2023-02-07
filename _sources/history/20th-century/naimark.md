@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Naimark
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Naimark, Mark Aronovich
 born: 1909
 died: 1978

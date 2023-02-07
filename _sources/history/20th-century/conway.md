@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Conway
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-england
+tags: group-theory,origin-england
 title: Conway (2), John Horton
 born: 1937
 died: 2020

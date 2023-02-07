@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kappos
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-greece
+tags: origin-greece
 title: Kappos, Demetrios
 born: 1904
 died: 1985

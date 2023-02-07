@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Deuring
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Deuring, Max F.
 born: 1907
 died: 1984

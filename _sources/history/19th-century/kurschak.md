@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kurschak
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-hungary
+tags: origin-hungary
 title: Kürschák, József
 born: 1864
 died: 1933

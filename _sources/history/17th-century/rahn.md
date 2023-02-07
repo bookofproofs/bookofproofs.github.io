@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rahn
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: algebra,nationality-switzerland,number-theory
+tags: algebra,origin-switzerland,number-theory
 title: Rahn, Johann Heinrich
 born: 1622
 died: 1676

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tichy
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-czech-republic
+tags: origin-czech-republic
 title: Tichy, Pavel
 born: 1936
 description: Some facts about Pavel Tichy

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Aleksandrov_Aleksandr
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Aleksandrov, Aleksandr
 born: 1912
 died: 1999

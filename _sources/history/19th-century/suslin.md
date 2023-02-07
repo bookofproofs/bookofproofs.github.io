@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Suslin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Suslin, Mikhail Yakovlevich
 born: 1894
 died: 1919

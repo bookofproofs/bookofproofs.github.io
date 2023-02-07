@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wilson_John_2
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: (2), John Wilson
 born: 1847
 died: 1896

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mirsky
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,nationality-russia
+tags: algebra,origin-russia
 title: Mirsky, Leon
 born: 1918
 died: 1983

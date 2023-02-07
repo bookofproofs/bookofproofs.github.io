@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Strassen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Strassen, Volker
 born: 1936
 died: 2005

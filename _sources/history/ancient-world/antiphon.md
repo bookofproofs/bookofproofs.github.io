@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Antiphon
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: analysis,ancient-greek,geometry,nationality-greece,puzzles-and-problems
+tags: analysis,ancient-greek,geometry,origin-greece,puzzles-and-problems
 title: Antiphon
 born: -480
 died: -411

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Milner
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Milner, Eric
 born: 1928
 died: 1997

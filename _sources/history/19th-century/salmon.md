@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Salmon
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,geometry,nationality-ireland
+tags: algebra,geometry,origin-ireland
 title: Salmon, George
 born: 1819
 died: 1904

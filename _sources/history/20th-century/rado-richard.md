@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rado_Richard
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Rado, Richard
 born: 1906
 died: 1989

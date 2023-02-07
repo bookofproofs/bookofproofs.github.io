@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kummer
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-poland,number-theory
+tags: algebra,origin-poland,number-theory
 title: Kummer, Ernst Eduard
 born: 1810
 died: 1893

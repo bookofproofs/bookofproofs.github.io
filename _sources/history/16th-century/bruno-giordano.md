@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bruno_Giordano
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: nationality-italy,special-numbers-and-numerals
+tags: origin-italy,special-numbers-and-numerals
 title: Bruno, Giordano
 born: 1548
 died: 1600

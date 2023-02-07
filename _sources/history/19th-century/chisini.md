@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chisini
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Chisini, Oscar
 born: 1889
 died: 1967

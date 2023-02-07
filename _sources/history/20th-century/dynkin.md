@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dynkin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-russia
+tags: group-theory,origin-russia
 title: Dynkin, Eugene Borisovich
 born: 1924
 died: 2014

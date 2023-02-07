@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Piaggio
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Piaggio, Henry Thomas Herbert
 born: 1884
 died: 1967

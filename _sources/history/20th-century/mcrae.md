@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$McRae
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Mcrae, Vincent
 born: 1918
 died: 1998

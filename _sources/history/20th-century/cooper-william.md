@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cooper_William
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Cooper, William Wager
 born: 1914
 died: 2012

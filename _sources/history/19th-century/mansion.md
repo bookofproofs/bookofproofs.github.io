@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mansion
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-belgium
+tags: astronomy,origin-belgium
 title: Mansion, Paul
 born: 1844
 died: 1919

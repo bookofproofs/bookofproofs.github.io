@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jahn
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Jahn, Hermann Arthur
 born: 1907
 died: 1979

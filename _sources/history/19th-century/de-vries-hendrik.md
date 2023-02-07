@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$De_Vries_Hendrik
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-netherlands
+tags: origin-netherlands
 title: De Vries (2), Hendrik
 born: 1867
 died: 1954

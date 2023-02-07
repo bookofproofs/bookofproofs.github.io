@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kuroda
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan
+tags: origin-japan
 title: Kuroda, Sigekatu
 born: 1905
 died: 1972

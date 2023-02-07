@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Faddeev
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia,shaw-prize
+tags: origin-russia,shaw-prize
 title: Faddeev, Dmitrii Konstantinovich
 born: 1907
 died: 1989

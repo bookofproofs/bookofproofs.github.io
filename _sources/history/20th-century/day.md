@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Day
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-canada
+tags: origin-canada
 title: Day, Richard Alan
 born: 1941
 died: 1990

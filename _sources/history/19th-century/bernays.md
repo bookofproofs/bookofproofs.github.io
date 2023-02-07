@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bernays
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,set-theory
+tags: origin-england,set-theory
 title: Bernays, Paul Isaac
 born: 1888
 died: 1977

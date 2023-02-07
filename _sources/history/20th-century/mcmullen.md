@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$McMullen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-usa
+tags: fields-medal,origin-usa
 title: Mcmullen, Curtis Tracy
 born: 1958
 died: 2013

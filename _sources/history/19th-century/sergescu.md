@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sergescu
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-romania
+tags: origin-romania
 title: Sergescu, Petre
 born: 1893
 died: 1954

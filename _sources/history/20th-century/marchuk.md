@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Marchuk
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Marchuk, Guri Ivanovich
 born: 1925
 died: 2013

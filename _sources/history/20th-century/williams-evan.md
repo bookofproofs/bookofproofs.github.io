@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Williams_Evan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-wales
+tags: origin-wales
 title: Williams (2), Evan James
 born: 1903
 died: 1945

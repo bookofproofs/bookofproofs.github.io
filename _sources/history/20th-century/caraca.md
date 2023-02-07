@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Caraca
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-portugal
+tags: origin-portugal
 title: Caraça, Bento
 born: 1901
 died: 1948

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Alexander_Hugh
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ireland
+tags: origin-ireland
 title: Alexander (3), Hugh
 born: 1909
 died: 1974

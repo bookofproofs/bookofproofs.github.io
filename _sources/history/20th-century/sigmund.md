@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sigmund
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-austria
+tags: origin-austria
 title: Sigmund, Karl
 born: 1945
 died: 2022

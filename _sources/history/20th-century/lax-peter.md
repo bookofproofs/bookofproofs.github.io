@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lax_Peter
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,nationality-hungary,wolf-prize
+tags: abel-prize,origin-hungary,wolf-prize
 title: Lax (3), Peter
 born: 1926
 died: 2015

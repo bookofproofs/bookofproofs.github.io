@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Serenus
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: african,ancient-greek,nationality-egypt
+tags: african,ancient-greek,origin-egypt
 title: Serenus
 born: 300
 died: 360

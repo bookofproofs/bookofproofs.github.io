@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Holder
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,nationality-germany
+tags: algebra,group-theory,origin-germany
 title: Hölder, Otto
 born: 1859
 died: 1937

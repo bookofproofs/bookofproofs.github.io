@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brauer_Alfred
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Brauer, Alfred
 born: 1894
 died: 1985

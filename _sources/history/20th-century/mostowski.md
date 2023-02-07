@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mostowski
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-ukraine
+tags: astronomy,origin-ukraine
 title: Mostowski, Andrzej
 born: 1913
 died: 1975

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vilant
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-scotland
+tags: origin-scotland
 title: Vilant, Nicolas
 born: 1737
 died: 1807

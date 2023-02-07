@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Neumann_Hanna
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-germany,women
+tags: algebra,group-theory,origin-germany,women
 title: Neumann (4), Hanna
 born: 1914
 died: 1971

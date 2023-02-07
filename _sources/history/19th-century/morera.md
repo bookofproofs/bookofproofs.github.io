@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Morera
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Morera, Giacinto
 born: 1856
 died: 1907

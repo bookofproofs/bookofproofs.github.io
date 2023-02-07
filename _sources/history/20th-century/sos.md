@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sos
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary,women
+tags: origin-hungary,women
 title: Sós, Vera
 born: 1930
 died: 2012

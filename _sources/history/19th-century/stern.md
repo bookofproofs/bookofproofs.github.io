@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stern
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Stern, Moritz Abraham
 born: 1807
 died: 1894

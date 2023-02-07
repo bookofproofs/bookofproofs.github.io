@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Langley
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Langley, Edward Mann
 born: 1851
 died: 1933

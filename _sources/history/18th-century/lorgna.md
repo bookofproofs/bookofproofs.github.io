@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lorgna
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-italy
+tags: origin-italy
 title: Lorgna, Antonio Maria
 born: 1735
 died: 1796

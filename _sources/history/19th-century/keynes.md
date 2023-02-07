@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Keynes
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Keynes, John Maynard
 born: 1883
 died: 1946

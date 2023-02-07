@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Linfoot
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Linfoot, Edward Hubert
 born: 1905
 died: 1982

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Clebsch
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,geometry,nationality-russia
+tags: algebra,geometry,origin-russia
 title: Clebsch, Rudolf Friedrich Alfred
 born: 1833
 died: 1872

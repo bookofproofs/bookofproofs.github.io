@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Da_Silva
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-portugal
+tags: astronomy,origin-portugal
 title: Da Silva, Daniel
 born: 1814
 died: 1878

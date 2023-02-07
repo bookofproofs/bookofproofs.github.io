@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Thomason
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Thomason, Robert Wayne
 born: 1952
 died: 1995

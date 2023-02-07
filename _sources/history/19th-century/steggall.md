@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Steggall
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Steggall, John Edward Aloysius
 born: 1855
 died: 1935

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Akyeampong
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-ghana
+tags: african,origin-ghana
 title: Akyeampong, Daniel
 born: 1938
 died: 2015

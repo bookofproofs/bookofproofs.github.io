@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bryson
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,geometry,nationality-italy,puzzles-and-problems
+tags: ancient-greek,geometry,origin-italy,puzzles-and-problems
 title: Bryson Of Heraclea
 born: -450
 description: Some facts about  Bryson Of Heraclea

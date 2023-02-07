@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stevin
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: analysis,astronomy,nationality-belgium,special-numbers-and-numerals
+tags: analysis,astronomy,origin-belgium,special-numbers-and-numerals
 title: Stevin, Simon
 born: 1548
 died: 1620

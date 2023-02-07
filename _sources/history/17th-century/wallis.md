@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wallis
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: algebra,analysis,ancient-indian,geography,geometry,nationality-england,number-theory,puzzles-and-problems,special-numbers-and-numerals
+tags: algebra,analysis,ancient-indian,geography,geometry,origin-england,number-theory,puzzles-and-problems,special-numbers-and-numerals
 title: Wallis, John
 born: 1616
 died: 1703

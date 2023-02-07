@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rado
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-hungary
+tags: origin-hungary
 title: Radó, Tibor
 born: 1895
 died: 1965

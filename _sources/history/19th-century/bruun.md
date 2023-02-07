@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bruun
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-finland
+tags: origin-finland
 title: Bruun, Otto
 born: 1886
 died: 1965

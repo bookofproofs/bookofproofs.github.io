@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Celsius
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-sweden
+tags: astronomy,origin-sweden
 title: Celsius, Anders
 born: 1701
 died: 1744

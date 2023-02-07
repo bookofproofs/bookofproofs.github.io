@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Corominas
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-spain
+tags: origin-spain
 title: Corominas, Ernest
 born: 1913
 died: 1992

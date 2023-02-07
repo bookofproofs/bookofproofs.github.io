@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Doetsch
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Doetsch, Gustav
 born: 1892
 died: 1977

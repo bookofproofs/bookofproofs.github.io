@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Benjamin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Benjamin, Thomas Brooke
 born: 1929
 died: 1995

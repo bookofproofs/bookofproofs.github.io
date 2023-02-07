@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Petersen
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-denmark
+tags: origin-denmark
 title: Petersen, Julius Peter Christian
 born: 1839
 died: 1910

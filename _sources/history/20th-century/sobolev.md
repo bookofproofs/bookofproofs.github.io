@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sobolev
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Sobolev, Sergei Lvovich
 born: 1908
 died: 1989

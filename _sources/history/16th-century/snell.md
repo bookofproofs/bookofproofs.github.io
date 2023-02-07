@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Snell
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: nationality-netherlands,physics
+tags: origin-netherlands,physics
 title: Snell, Willebrord van Royen
 born: 1580
 died: 1626

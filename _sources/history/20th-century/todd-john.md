@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Todd_John
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-ireland
+tags: group-theory,origin-ireland
 title: Todd (2), Jack
 born: 1911
 died: 2007

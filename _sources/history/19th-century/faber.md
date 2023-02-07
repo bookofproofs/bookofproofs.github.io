@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Faber
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Faber, Georg
 born: 1877
 died: 1966

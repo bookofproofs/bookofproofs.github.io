@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Casey
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland
+tags: origin-ireland
 title: Casey, John
 born: 1820
 died: 1891

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Titeica
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-romania
+tags: origin-romania
 title: Titeica, Gheorghe
 born: 1874
 died: 1939

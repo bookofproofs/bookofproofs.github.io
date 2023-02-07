@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Okikiolu_George
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-nigeria
+tags: origin-nigeria
 title: Okikiolu, George Olatokunbo
 born: 1941
 died: 1978

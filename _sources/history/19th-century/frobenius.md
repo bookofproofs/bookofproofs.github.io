@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Frobenius
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,nationality-germany
+tags: algebra,group-theory,origin-germany
 title: Frobenius, Ferdinand Georg
 born: 1849
 died: 1917

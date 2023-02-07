@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hayes_Charles
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-england
+tags: origin-england
 title: Hayes, Charles
 born: 1678
 died: 1760

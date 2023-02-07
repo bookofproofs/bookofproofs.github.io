@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lueroth
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Lüroth, Jacob
 born: 1844
 died: 1910

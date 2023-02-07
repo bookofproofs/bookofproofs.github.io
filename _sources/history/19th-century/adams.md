@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Adams
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-england,physics
+tags: astronomy,origin-england,physics
 title: Adams, John Couch
 born: 1819
 died: 1892

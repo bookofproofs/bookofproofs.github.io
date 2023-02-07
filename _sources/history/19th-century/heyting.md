@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Heyting
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Heyting, Arend
 born: 1898
 died: 1980

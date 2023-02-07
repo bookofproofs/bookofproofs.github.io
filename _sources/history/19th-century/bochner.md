@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bochner
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: bourbaki,nationality-poland
+tags: bourbaki,origin-poland
 title: Bochner, Salomon
 born: 1899
 died: 1982

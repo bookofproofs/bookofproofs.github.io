@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shoda
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan
+tags: origin-japan
 title: Shoda, Kenjiro
 born: 1902
 died: 1977

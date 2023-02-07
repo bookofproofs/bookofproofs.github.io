@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Backus
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Backus, John Warner
 born: 1924
 died: 2007

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Meiklejohn
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Meiklejohn, John George Brotchie
 born: 1872
 died: 1951

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Maxwell_Edwin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland
+tags: origin-scotland
 title: Maxwell (2), Edwin
 born: 1907
 died: 1987

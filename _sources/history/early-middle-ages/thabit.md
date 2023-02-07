@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Thabit
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,ancient-greek,astronomy,nationality-turkey,number-theory,special-numbers-and-numerals
+tags: ancient-arab,ancient-greek,astronomy,origin-turkey,number-theory,special-numbers-and-numerals
 title: Thabit Ibn Qurra, Al-Sabi
 born: 836
 died: 901

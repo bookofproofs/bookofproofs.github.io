@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Caccioppoli
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Caccioppoli, Renato
 born: 1904
 died: 1959

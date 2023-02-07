@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pullar
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Pullar, John Robertson
 born: 1860
 died: 1940

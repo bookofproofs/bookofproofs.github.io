@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Commandino
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: geometry,nationality-italy
+tags: geometry,origin-italy
 title: Commandino, Frederico
 born: 1506
 died: 1575

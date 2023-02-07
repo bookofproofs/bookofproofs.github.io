@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shen_Kua
 categories: history,11th-century
 parentid: bookofproofs$612
-tags: ancient-chinese,astronomy,chinese,nationality-china
+tags: ancient-chinese,astronomy,chinese,origin-china
 title: Kua, Shen
 born: 1031
 died: 1095

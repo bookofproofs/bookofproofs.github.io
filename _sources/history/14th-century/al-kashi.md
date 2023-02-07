@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Kashi
 categories: history,14th-century
 parentid: bookofproofs$602
-tags: ancient-arab,astronomy,nationality-iran,number-theory,special-numbers-and-numerals
+tags: ancient-arab,astronomy,origin-iran,number-theory,special-numbers-and-numerals
 title: Al-Kashi
 born: 1380
 died: 1429

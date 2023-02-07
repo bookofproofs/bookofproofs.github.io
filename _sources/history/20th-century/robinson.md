@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Robinson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland,special-numbers-and-numerals
+tags: origin-poland,special-numbers-and-numerals
 title: Robinson (3), Abraham
 born: 1918
 died: 1974

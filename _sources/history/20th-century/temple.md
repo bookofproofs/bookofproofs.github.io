@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Temple
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: James, Ioan Mackenzie
 born: 1901
 died: 1992

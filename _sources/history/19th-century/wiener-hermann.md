@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wiener_Hermann
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Wiener (2), Hermann
 born: 1857
 died: 1939

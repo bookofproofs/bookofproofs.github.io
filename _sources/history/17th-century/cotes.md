@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cotes
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: analysis,astronomy,geometry,nationality-england,physics
+tags: analysis,astronomy,geometry,origin-england,physics
 title: Cotes, Roger
 born: 1682
 died: 1716

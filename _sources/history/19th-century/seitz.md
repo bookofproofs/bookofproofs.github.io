@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Seitz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Seitz, Enoch Beery
 born: 1846
 died: 1883

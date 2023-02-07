@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gallai
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Gallai, Tibor
 born: 1912
 died: 1992

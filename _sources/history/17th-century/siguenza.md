@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Siguenza
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-mexico
+tags: astronomy,origin-mexico
 title: Gongora, Siguenza y
 born: 1645
 died: 1700

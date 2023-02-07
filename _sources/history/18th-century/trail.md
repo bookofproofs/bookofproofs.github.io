@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Trail
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-scotland
+tags: origin-scotland
 title: Trail, William
 born: 1746
 died: 1831

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Baldwin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Baldwin, Frank Stephen
 born: 1838
 died: 1925

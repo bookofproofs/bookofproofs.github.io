@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Anaximander
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: astronomy,nationality-turkey
+tags: astronomy,origin-turkey
 title: Anaximander Of Miletus
 born: -611
 died: -546

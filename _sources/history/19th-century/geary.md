@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Geary
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland
+tags: origin-ireland
 title: Geary, Robert Charles
 born: 1896
 died: 1983

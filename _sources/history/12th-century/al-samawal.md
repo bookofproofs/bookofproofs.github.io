@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Samawal
 categories: history,12th-century
 parentid: bookofproofs$607
-tags: ancient-arab,ancient-babylonian,astronomy,nationality-iraq,special-numbers-and-numerals
+tags: ancient-arab,ancient-babylonian,astronomy,origin-iraq,special-numbers-and-numerals
 title: Al-Samawal
 born: 1130
 died: 1180

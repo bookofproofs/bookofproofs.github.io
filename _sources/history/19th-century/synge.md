@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Synge
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland
+tags: origin-ireland
 title: Synge, John Lighton
 born: 1897
 died: 1995

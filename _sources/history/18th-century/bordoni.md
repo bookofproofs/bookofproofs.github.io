@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bordoni
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-italy
+tags: origin-italy
 title: Bordoni, Antonio Maria
 born: 1789
 died: 1860

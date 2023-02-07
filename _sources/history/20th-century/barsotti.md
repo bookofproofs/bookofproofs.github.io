@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Barsotti
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Barsotti, Iacopo
 born: 1921
 died: 1987

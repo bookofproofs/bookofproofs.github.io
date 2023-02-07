@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cole
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: group-theory,nationality-usa,number-theory,special-numbers-and-numerals
+tags: group-theory,origin-usa,number-theory,special-numbers-and-numerals
 title: Cole, Frank Nelson
 born: 1861
 died: 1926

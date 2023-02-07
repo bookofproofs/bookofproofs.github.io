@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Coxeter
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-england
+tags: algebra,group-theory,origin-england
 title: Coxeter, Harold Scott MacDonald
 born: 1907
 died: 2003

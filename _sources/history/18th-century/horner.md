@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Horner
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: ancient-arab,ancient-chinese,chinese,nationality-england
+tags: ancient-arab,ancient-chinese,chinese,origin-england
 title: Horner, William George
 born: 1786
 died: 1837

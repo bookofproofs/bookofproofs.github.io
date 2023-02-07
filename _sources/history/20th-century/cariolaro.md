@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cariolaro
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Cariolaro, David
 born: 1969
 died: 2014

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bryan
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Bryan, George Hartley
 born: 1864
 died: 1928

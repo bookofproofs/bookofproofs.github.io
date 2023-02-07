@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kostrikin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,nationality-russia,puzzles-and-problems
+tags: algebra,origin-russia,puzzles-and-problems
 title: Kostrikin, Aleksei Ivanovich
 born: 1929
 died: 2000

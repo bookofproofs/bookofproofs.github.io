@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kelly_Max
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-australia
+tags: origin-australia
 title: Kelly (2), Gregory Maxwell
 born: 1930
 died: 2007

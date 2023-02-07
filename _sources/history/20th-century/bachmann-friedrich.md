@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bachmann_Friedrich
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Bachmann (2), Friedrich
 born: 1909
 died: 1982

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wheeler
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Wheeler, Anna Johnson Pell
 born: 1883
 died: 1966

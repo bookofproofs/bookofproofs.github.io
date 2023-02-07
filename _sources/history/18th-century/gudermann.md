@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gudermann
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-germany
+tags: origin-germany
 title: Gudermann, Christoph
 born: 1798
 died: 1852

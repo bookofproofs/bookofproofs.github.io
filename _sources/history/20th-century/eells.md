@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Eells
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Eells, James
 born: 1926
 died: 2007

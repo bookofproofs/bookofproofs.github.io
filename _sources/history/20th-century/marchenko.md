@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Marchenko
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Marchenko, Vladimir Aleksandrovich
 born: 1922
 died: 2005

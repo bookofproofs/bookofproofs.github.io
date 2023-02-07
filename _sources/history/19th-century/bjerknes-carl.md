@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bjerknes_Carl
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-norway
+tags: origin-norway
 title: Bjerknes, Carl
 born: 1825
 died: 1903

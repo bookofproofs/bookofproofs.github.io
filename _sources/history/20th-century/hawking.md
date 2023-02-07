@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hawking
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-england,physics
+tags: astronomy,origin-england,physics
 title: Hawking, Stephen William
 born: 1942
 died: 2018

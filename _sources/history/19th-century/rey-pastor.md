@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rey_Pastor
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-spain
+tags: origin-spain
 title: Pastor, Julio Rey
 born: 1888
 died: 1962

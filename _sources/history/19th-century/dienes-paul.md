@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dienes_Paul
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-hungary
+tags: origin-hungary
 title: Dienes, Paul
 born: 1882
 died: 1952

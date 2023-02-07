@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schonflies
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: group-theory,nationality-poland
+tags: group-theory,origin-poland
 title: Schönflies, Arthur
 born: 1853
 died: 1928

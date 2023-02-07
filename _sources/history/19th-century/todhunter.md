@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Todhunter
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Todhunter, Isaac
 born: 1820
 died: 1884

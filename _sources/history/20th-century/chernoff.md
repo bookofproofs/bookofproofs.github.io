@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chernoff
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Chernoff, Herman
 born: 1923
 died: 2016

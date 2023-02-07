@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Piazzi
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-italy,physics
+tags: astronomy,origin-italy,physics
 title: Piazzi, Giuseppe
 born: 1746
 died: 1826

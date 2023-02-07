@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Markov
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,group-theory,nationality-russia
+tags: algebra,group-theory,origin-russia
 title: Markov, Andrei Andreyevich
 born: 1856
 died: 1922

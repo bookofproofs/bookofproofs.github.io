@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Millington
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,women
+tags: origin-england,women
 title: Millington, Margaret Hilary Ashworth
 born: 1944
 died: 1973

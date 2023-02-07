@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Holmboe
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-norway
+tags: astronomy,origin-norway
 title: Holmboe, Bernt Michael
 born: 1795
 died: 1850

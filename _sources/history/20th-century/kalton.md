@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kalton
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Kalton, Nigel John
 born: 1946
 died: 2010

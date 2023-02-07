@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Tusi_Nasir
 categories: history,13th-century
 parentid: bookofproofs$606
-tags: ancient-arab,astronomy,nationality-iran
+tags: ancient-arab,astronomy,origin-iran
 title: Al-Tusi (2), Nasir al-Din
 born: 1201
 died: 1274

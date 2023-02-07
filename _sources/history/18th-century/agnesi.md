@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Agnesi
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-italy,women
+tags: origin-italy,women
 title: Agnesi, Maria Gaëtana
 born: 1718
 died: 1799

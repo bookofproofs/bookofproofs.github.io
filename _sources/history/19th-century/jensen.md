@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jensen
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-denmark,number-theory
+tags: origin-denmark,number-theory
 title: Jensen, Johan Ludwig
 born: 1859
 died: 1925

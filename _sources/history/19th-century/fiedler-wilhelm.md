@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fiedler_Wilhelm
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Fiedler, Wilhelm
 born: 1832
 died: 1912

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Benedetti
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: nationality-italy
+tags: origin-italy
 title: Benedetti, Giovanni Battista
 born: 1530
 died: 1590

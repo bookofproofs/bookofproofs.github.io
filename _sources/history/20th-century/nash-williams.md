@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nash-Williams
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-wales
+tags: origin-wales
 title: Nash-Williams, Crispin
 born: 1932
 died: 2001

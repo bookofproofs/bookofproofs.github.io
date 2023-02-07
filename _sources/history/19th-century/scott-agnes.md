@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Scott_Agnes
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-channel-islands,women
+tags: origin-channel-islands,women
 title: Scott (4), Agnes
 born: 1894
 description: Some facts about Agnes Scott

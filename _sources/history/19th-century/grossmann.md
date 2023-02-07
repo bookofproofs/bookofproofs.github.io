@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Grossmann
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-hungary,physics
+tags: origin-hungary,physics
 title: Ross, Edward Burns
 born: 1878
 died: 1936

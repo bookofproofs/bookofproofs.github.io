@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kulik
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-ukraine
+tags: astronomy,origin-ukraine
 title: Kulik, Jakob Philipp
 born: 1793
 died: 1863

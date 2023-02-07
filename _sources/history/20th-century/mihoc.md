@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mihoc
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-romania
+tags: origin-romania
 title: Mihoc, Gheorghe
 born: 1906
 died: 1981

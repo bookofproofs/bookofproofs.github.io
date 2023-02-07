@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Osgood
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Osgood, William Fogg
 born: 1864
 died: 1943

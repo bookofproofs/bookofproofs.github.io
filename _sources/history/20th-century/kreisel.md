@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kreisel
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-austria
+tags: origin-austria
 title: Kreisel, Georg
 born: 1923
 died: 2015

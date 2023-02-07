@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hiebert
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-canada
+tags: origin-canada
 title: Hiebert, Erwin Nick
 born: 1919
 died: 2012

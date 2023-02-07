@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Emerson
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Emerson, William
 born: 1701
 died: 1782

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hotelling
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Hotelling, Harold
 born: 1895
 died: 1973

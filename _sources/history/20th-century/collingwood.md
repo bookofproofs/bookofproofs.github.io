@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Collingwood
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Collingwood, Edward Foyle
 born: 1900
 died: 1970

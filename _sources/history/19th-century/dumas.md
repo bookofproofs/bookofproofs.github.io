@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dumas
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Dumas, Gustave
 born: 1872
 died: 1955

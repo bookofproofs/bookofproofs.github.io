@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dirichlet
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,analysis,nationality-germany,number-theory,special-numbers-and-numerals
+tags: algebra,analysis,origin-germany,number-theory,special-numbers-and-numerals
 title: Dirichlet, Johann Peter Gustav Lejeune
 born: 1805
 died: 1859

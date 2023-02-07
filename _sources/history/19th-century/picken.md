@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Picken
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Picken, David Kennedy
 born: 1879
 died: 1956

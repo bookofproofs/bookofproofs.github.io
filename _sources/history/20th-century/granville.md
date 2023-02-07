@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Granville
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa,women
+tags: african-american,origin-usa,women
 title: Granville, Evelyn Boyd
 born: 1924
 died: 2009

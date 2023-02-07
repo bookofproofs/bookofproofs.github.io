@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gibson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Gibson, George Alexander
 born: 1858
 died: 1930

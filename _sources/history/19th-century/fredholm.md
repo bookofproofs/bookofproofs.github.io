@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fredholm
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-sweden
+tags: origin-sweden
 title: Fredholm, Erik Ivar
 born: 1866
 died: 1927

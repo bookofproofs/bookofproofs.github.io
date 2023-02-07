@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brown_Alexander
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Brown, Alexander
 born: 1877
 died: 1947

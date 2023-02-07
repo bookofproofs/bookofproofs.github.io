@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mackenzie
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-scotland,women
+tags: origin-scotland,women
 title: Mackenzie (2), Gladys Isabel
 born: 1903
 died: 1989

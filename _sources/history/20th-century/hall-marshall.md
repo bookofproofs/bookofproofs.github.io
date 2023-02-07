@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hall_Marshall
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-usa,puzzles-and-problems
+tags: algebra,group-theory,origin-usa,puzzles-and-problems
 title: Jr, Marshall Hall
 born: 1910
 died: 1990

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Joly
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland
+tags: origin-ireland
 title: Joly, Charles
 born: 1864
 died: 1906

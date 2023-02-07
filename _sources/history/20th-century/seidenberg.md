@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Seidenberg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Seidenberg, Abraham
 born: 1916
 died: 1988

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hopkins
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-england,physics
+tags: origin-england,physics
 title: Hopkins, William
 born: 1793
 description: Some facts about William Hopkins

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Magnaradze
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-georgia
+tags: origin-georgia
 title: Magnaradze, Levan
 born: 1913
 died: 2002

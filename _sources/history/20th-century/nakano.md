@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nakano
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-japan
+tags: origin-japan
 title: Nakano, Hidegorô
 born: 1909
 died: 1974

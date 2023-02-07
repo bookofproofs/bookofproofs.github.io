@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Abraham_Max
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Abraham, Max
 born: 1875
 died: 1922

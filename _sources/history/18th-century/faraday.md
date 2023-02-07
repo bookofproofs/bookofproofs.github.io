@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Faraday
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-england,physics
+tags: origin-england,physics
 title: Faraday, Michael
 born: 1791
 died: 1867

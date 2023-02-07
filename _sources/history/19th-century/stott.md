@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stott
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland,women
+tags: origin-ireland,women
 title: Stott, Alicia Boole
 born: 1860
 died: 1940

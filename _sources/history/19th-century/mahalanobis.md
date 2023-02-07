@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mahalanobis
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-india
+tags: origin-india
 title: Mahalanobis, Prasanta Chandra
 born: 1893
 died: 1972

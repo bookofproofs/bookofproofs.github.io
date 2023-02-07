@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Taylor_Geoffrey
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Taylor (4), Geoffrey
 born: 1886
 died: 1975

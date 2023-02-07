@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Spanier
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,topology
+tags: origin-usa,topology
 title: Spanier, Edwin Henry
 born: 1921
 died: 1996

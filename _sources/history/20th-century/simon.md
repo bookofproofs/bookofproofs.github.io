@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Simon
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-australia
+tags: origin-australia
 title: Simon, Leon Melvyn
 born: 1945
 died: 2022

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Luke
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Luke, Yudell Leo
 born: 1918
 died: 1983

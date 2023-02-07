@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gibbs
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Gibbs, Josiah Willard
 born: 1839
 died: 1903

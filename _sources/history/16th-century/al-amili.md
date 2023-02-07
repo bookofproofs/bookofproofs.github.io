@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Amili
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-lebanon
+tags: astronomy,origin-lebanon
 title: Al-Amili, Baha' al-Din
 born: 1547
 died: 1621

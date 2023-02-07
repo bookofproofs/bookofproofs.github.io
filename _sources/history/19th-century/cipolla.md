@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cipolla
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: group-theory,nationality-italy
+tags: group-theory,origin-italy
 title: Cipolla, Michele
 born: 1880
 died: 1947

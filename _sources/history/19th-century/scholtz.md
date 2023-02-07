@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Scholtz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-slovakia
+tags: origin-slovakia
 title: Scholtz, Ágoston
 born: 1844
 died: 1916

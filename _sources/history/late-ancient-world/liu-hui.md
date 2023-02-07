@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Liu_Hui
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-chinese,chinese,nationality-china,puzzles-and-problems,special-numbers-and-numerals
+tags: ancient-chinese,chinese,origin-china,puzzles-and-problems,special-numbers-and-numerals
 title: Hui, Liu
 born: 220
 died: 280

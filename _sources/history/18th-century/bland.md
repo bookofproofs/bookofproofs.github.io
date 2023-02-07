@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bland
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-england
+tags: origin-england
 title: Bland, Miles
 born: 1786
 died: 1867

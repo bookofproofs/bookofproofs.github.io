@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bratteli
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-norway
+tags: origin-norway
 title: Bratteli, Ola
 born: 1946
 died: 2015

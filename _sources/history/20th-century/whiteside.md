@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Whiteside
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Whiteside, Derek Thomas
 born: 1932
 died: 2008

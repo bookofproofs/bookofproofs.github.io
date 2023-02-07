@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wiltheiss
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Wiltheiss, Ernst Eduard
 born: 1855
 died: 1900

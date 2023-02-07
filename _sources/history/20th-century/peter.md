@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Peter
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary,women
+tags: origin-hungary,women
 title: Péter, Rózsa
 born: 1905
 died: 1977

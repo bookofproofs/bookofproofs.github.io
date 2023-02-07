@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kramer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Kramer, Edna Ernestine
 born: 1902
 died: 1984

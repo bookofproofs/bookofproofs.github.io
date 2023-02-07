@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vernon
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ireland,women
+tags: origin-ireland,women
 title: Vernon, Siobhan O'Shea
 born: 1932
 died: 2002

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dee
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Dee, John
 born: 1527
 died: 1609

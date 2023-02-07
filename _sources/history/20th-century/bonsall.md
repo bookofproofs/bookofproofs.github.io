@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bonsall
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Bonsall, Frank Featherstone
 born: 1920
 died: 2011

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Doob
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Doob, Joseph Leo
 born: 1910
 died: 2004

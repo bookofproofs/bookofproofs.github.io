@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Johnson_Elgy
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Johnson (3), Elgy
 born: 1912
 died: 1987

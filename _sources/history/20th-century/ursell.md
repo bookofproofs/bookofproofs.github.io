@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ursell
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Ursell, Fritz Joseph
 born: 1923
 died: 2012

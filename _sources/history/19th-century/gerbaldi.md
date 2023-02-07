@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gerbaldi
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Gerbaldi, Francesco
 born: 1858
 died: 1934

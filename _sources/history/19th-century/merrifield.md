@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Merrifield
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Merrifield, Charles Watkins
 born: 1827
 died: 1884

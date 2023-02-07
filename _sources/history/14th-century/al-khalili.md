@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Al-Khalili
 categories: history,14th-century
 parentid: bookofproofs$602
-tags: astronomy,nationality-syria
+tags: astronomy,origin-syria
 title: Al-Khalili
 born: 1320
 died: 1380

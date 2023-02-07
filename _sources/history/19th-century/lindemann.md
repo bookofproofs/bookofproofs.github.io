@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lindemann
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: ancient-greek,geometry,nationality-germany,number-theory,puzzles-and-problems,set-theory,special-numbers-and-numerals
+tags: ancient-greek,geometry,origin-germany,number-theory,puzzles-and-problems,set-theory,special-numbers-and-numerals
 title: Von Lindemann, Carl Louis Ferdinand
 born: 1852
 died: 1939

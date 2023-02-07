@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schwinger
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,nobel-prize
+tags: origin-usa,nobel-prize
 title: Schwinger, Julian Seymour
 born: 1918
 died: 1994

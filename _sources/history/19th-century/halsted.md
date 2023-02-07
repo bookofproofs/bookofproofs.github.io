@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Halsted
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Halsted, George Bruce
 born: 1853
 died: 1922

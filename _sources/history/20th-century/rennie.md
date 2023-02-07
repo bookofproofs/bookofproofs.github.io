@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rennie
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,topology
+tags: origin-england,topology
 title: Rennie, Basil Cameron
 born: 1920
 died: 1996

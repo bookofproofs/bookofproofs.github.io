@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cantelli
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-italy
+tags: astronomy,origin-italy
 title: Cantelli, Francesco Paolo
 born: 1875
 died: 1966

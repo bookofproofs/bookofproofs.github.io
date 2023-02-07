@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bromwich
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Bromwich, Thomas John I'Anson
 born: 1875
 died: 1929

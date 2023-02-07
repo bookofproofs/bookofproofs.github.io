@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ringrose
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Ringrose, John Robert
 born: 1932
 died: 2004

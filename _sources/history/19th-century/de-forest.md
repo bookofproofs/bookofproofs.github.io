@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$De_Forest
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: De Forest, Erastus Lyman
 born: 1834
 died: 1888

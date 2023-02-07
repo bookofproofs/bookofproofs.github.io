@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cheney
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Cheney, Ward
 born: 1929
 died: 2016

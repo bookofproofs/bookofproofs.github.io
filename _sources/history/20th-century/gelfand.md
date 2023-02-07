@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gelfand
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine,wolf-prize
+tags: origin-ukraine,wolf-prize
 title: Gelfand, Israil Moiseevic
 born: 1913
 died: 2009

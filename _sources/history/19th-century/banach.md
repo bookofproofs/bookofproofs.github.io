@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Banach
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-poland,topology
+tags: algebra,origin-poland,topology
 title: Banach, Stefan
 born: 1892
 died: 1945

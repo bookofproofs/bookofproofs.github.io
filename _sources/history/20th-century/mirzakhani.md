@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mirzakhani
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: clay-research-award,fields-medal,nationality-iran,women
+tags: clay-research-award,fields-medal,origin-iran,women
 title: Mirzakhani, Maryam
 born: 1977
 died: 2017

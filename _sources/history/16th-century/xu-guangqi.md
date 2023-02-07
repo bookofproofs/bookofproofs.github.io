@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Xu_Guangqi
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: ancient-chinese,astronomy,chinese,nationality-china
+tags: ancient-chinese,astronomy,chinese,origin-china
 title: Guangqi, Xu
 born: 1562
 died: 1633

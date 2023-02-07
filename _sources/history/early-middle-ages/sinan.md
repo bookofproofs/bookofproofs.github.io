@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sinan
 categories: history,early-middle-ages
 parentid: bookofproofs$608
-tags: ancient-arab,astronomy,nationality-iraq
+tags: ancient-arab,astronomy,origin-iraq
 title: Sinan, Abu ibn Thabit ibn Qurra
 born: 880
 died: 943

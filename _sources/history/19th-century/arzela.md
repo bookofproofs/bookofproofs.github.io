@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Arzela
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Arzelà, Cesare
 born: 1847
 died: 1912

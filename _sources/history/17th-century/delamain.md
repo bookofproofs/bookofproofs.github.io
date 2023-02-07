@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Delamain
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-england
+tags: origin-england
 title: Delamain, Richard
 born: 1600
 died: 1644

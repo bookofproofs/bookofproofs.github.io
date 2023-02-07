@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cesari
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Cesari, Lamberto
 born: 1910
 died: 1990

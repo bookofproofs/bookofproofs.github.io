@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Butters
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Butters, John Watt
 born: 1863
 died: 1946

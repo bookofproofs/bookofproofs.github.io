@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Domninus
 categories: history,late-ancient-world
 parentid: bookofproofs$609
-tags: ancient-greek,nationality-syria
+tags: ancient-greek,origin-syria
 title: Domninus Of Larissa
 born: 420
 died: 480

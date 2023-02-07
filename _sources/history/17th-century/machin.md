@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Machin
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-england,number-theory,special-numbers-and-numerals
+tags: astronomy,origin-england,number-theory,special-numbers-and-numerals
 title: Machin, John
 born: 1680
 died: 1751

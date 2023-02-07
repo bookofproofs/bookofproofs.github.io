@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wu_Wen-Tsun
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-china,shaw-prize
+tags: origin-china,shaw-prize
 title: Wu, Wen-Tsun
 born: 1919
 died: 2017

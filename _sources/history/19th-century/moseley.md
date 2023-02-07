@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Moseley
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Moseley, Henry
 born: 1801
 died: 1872

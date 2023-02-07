@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fubini
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Fubini, Guido
 born: 1879
 died: 1943

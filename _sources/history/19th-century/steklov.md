@@ -1,10 +1,10 @@
 layout: person
 nodeid: bookofproofs$Steklov
-categories: history,20th-century
-parentid: bookofproofs$604
-tags: nationality-russia
+categories: history,19th-century
+parentid: bookofproofs$603
+tags: origin-russia
 title: Steklov, Vladimir Andreevich
-born: 1990
+born: 1864
 died: 1926
 description: Some facts about Vladimir Andreevich Steklov
 keywords: steklov, vladimir andreevich,nationality russia

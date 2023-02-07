@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bortolotti
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Bortolotti, Ettore
 born: 1866
 died: 1947

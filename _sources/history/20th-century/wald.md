@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wald
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-romania,statistics
+tags: origin-romania,statistics
 title: Wald, Abraham
 born: 1902
 died: 1950

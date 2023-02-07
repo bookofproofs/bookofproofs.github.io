@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$McDaniel
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,nationality-usa
+tags: african-american,origin-usa
 title: Mcdaniel, Reuben R.
 born: 1902
 died: 1975

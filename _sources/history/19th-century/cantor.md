@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cantor
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,ancient-indian,geometry,nationality-russia,set-theory,special-numbers-and-numerals,topology
+tags: analysis,ancient-indian,geometry,origin-russia,set-theory,special-numbers-and-numerals,topology
 title: Cantor (2), Georg Ferdinand Ludwig Philipp
 born: 1845
 died: 1918

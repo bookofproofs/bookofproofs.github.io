@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tonelli
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Tonelli, Leonida
 born: 1885
 died: 1946

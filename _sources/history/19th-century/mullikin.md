@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mullikin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa
+tags: origin-usa
 title: Mullikin, Anna Margaret
 born: 1893
 died: 1975

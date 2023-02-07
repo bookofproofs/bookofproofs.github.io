@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Heawood
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,puzzles-and-problems,topology
+tags: origin-england,puzzles-and-problems,topology
 title: Heawood, Percy John
 born: 1861
 died: 1955

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Harvey
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-zimbabwe
+tags: african,origin-zimbabwe
 title: Harvey, Josephat Martin (Fanyana Mutyambizi)
 born: 1949
 died: 2011

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fox_Ralph
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,topology
+tags: origin-usa,topology
 title: Fox (2), Ralph
 born: 1913
 died: 1973

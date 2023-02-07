@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fuchs
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Fuchs, Lazarus Immanuel
 born: 1833
 died: 1902

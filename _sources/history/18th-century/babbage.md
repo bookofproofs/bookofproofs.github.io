@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Babbage
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Babbage, Charles
 born: 1791
 died: 1871

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sokhotsky
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-poland
+tags: origin-poland
 title: Sokhotsky, Yulian-Karl Vasilievich
 born: 1842
 died: 1927

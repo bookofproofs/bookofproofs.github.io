@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bisacre
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Bisacre, Frederick Francis Percival
 born: 1885
 died: 1954

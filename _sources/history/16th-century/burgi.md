@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Burgi
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: architecture,astronomy,nationality-switzerland
+tags: architecture,astronomy,origin-switzerland
 title: Bürgi, Jost
 born: 1552
 died: 1632

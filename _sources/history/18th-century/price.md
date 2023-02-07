@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Price
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-wales
+tags: origin-wales
 title: Price, Richard
 born: 1723
 died: 1791

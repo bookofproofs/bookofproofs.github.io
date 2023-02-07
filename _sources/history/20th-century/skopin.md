@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Skopin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Skopin, Alexander Ivanovich
 born: 1927
 died: 2003

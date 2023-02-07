@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shewhart
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-usa,statistics
+tags: origin-usa,statistics
 title: Shewhart, Walter Andrew
 born: 1891
 died: 1967

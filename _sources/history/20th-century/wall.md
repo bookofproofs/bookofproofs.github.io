@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wall
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,topology
+tags: origin-england,topology
 title: Eckert (3), Wallace John
 born: 1936
 died: 2020

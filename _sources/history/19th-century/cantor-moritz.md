@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cantor_Moritz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: ancient-babylonian,ancient-indian,nationality-germany,special-numbers-and-numerals
+tags: ancient-babylonian,ancient-indian,origin-germany,special-numbers-and-numerals
 title: Cantor, Moritz Benedikt
 born: 1829
 died: 1920

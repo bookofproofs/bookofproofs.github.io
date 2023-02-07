@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Stiefel
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Stiefel, Eduard L
 born: 1909
 died: 1978

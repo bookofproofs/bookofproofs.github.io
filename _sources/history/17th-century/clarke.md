@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Clarke
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-england
+tags: origin-england
 title: Clarke, Samuel
 born: 1675
 died: 1729

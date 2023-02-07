@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Beale
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,women
+tags: origin-england,women
 title: Beale, Dorothea
 born: 1831
 died: 1906

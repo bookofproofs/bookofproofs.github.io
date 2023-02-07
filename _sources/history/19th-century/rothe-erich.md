@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rothe_Erich
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Rothe, Erich Hans
 born: 1895
 died: 1988

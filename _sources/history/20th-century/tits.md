@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tits
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,nationality-belgium,wolf-prize
+tags: group-theory,origin-belgium,wolf-prize
 title: Tits, Jacques
 born: 1930
 died: 2021

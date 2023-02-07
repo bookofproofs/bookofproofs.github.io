@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Guccia
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Guccia, Giovanni Battista
 born: 1855
 died: 1914

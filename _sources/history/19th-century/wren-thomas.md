@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wren_Thomas
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Wren (2), Thomas Lancaster
 born: 1889
 died: 1972

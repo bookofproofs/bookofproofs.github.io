@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Horvath
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-hungary
+tags: origin-hungary
 title: Horváth, János
 born: 1924
 died: 1998

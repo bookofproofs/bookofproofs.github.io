@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Adams_Frank
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england,topology
+tags: origin-england,topology
 title: Adams (4), Frank
 born: 1930
 died: 1989

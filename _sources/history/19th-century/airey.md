@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Airey
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Airey, John Robinson
 born: 1868
 died: 1937

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kuiper
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands,topology
+tags: origin-netherlands,topology
 title: Kuiper, Nicolaas Hendrik
 born: 1920
 died: 1994

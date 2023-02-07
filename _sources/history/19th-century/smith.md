@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Smith
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-ireland
+tags: origin-ireland
 title: Smith, Henry John Stephen
 born: 1826
 died: 1883

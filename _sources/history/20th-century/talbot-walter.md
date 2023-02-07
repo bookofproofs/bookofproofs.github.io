@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Talbot_Walter
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african-american,group-theory,nationality-usa
+tags: african-american,group-theory,origin-usa
 title: Talbot (2), Walter R.
 born: 1909
 died: 1977

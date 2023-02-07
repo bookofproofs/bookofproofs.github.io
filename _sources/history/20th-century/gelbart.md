@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gelbart
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa
+tags: origin-usa
 title: Gelbart, Abraham Markham
 born: 1911
 died: 1994

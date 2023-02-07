@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rejewski
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-poland
+tags: origin-poland
 title: Rejewski, Marian Adam
 born: 1905
 died: 1980

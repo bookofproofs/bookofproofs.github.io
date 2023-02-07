@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rittenhouse
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-usa
+tags: astronomy,origin-usa
 title: Rittenhouse, David
 born: 1732
 died: 1796

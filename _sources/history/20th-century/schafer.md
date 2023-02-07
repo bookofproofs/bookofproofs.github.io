@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schafer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Schafer, Alice Turner
 born: 1915
 died: 2009

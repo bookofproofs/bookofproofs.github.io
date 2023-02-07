@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bolam
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Bolam, James
 born: 1839
 died: 1930

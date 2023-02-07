@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mazur
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine
+tags: origin-ukraine
 title: Mazur, Stanislaw Meiczyslaw
 born: 1905
 died: 1981

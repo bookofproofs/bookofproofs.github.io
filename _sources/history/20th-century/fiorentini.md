@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fiorentini
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Fiorentini, Mario
 born: 1918
 died: 2022

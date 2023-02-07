@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Carleman
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-sweden
+tags: origin-sweden
 title: Carleman, Torsten
 born: 1892
 died: 1949

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hellman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-usa,women
+tags: astronomy,origin-usa,women
 title: Hellman, Clarisse Doris
 born: 1910
 died: 1973

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Obi
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-nigeria
+tags: african,origin-nigeria
 title: Obi, Chike Edozien Umezei
 born: 1921
 died: 2008

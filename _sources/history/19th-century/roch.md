@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Roch
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Roch, Gustav
 born: 1839
 died: 1866

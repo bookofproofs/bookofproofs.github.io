@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Agwu
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-nigeria,women
+tags: african,origin-nigeria,women
 title: Agwu, Nkechi
 born: 1961
 died: 2008

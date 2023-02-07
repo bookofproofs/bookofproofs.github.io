@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Riccati
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-italy
+tags: origin-italy
 title: Riccati, Jacopo Francesco
 born: 1676
 died: 1754

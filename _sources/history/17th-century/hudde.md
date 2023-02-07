@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hudde
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: analysis,nationality-netherlands
+tags: analysis,origin-netherlands
 title: Hudde, Johann van Waveren
 born: 1628
 died: 1704

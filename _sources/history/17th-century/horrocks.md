@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Horrocks
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-england
+tags: astronomy,origin-england
 title: Horrocks, Jeremiah
 born: 1618
 died: 1641

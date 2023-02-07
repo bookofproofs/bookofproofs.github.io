@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bocher
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-usa
+tags: algebra,origin-usa
 title: Bôcher, Maxime
 born: 1867
 died: 1918

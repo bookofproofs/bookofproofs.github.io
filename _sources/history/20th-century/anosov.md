@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Anosov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia
+tags: origin-russia
 title: Anosov, Dmitrii Viktorovich
 born: 1936
 died: 2014

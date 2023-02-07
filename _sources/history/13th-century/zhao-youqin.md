@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zhao_Youqin
 categories: history,13th-century
 parentid: bookofproofs$606
-tags: astronomy,nationality-china
+tags: astronomy,origin-china
 title: Youqin, Zhao
 born: 1271
 died: 1335

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nygaard
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-norway
+tags: origin-norway
 title: Nygaard, Kristen
 born: 1926
 died: 2002

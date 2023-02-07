@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dudeney
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england,puzzles-and-problems
+tags: origin-england,puzzles-and-problems
 title: Dudeney, Henry Ernest
 born: 1857
 died: 1930

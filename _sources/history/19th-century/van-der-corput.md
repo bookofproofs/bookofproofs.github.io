@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Van_der_Corput
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Corput, Johannes van der
 born: 1890
 died: 1975

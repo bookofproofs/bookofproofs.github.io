@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lesniewski
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Lesniewski, Stanislaw
 born: 1886
 died: 1939

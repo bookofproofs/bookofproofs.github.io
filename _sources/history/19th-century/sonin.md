@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sonin
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Sonin, Nikolay Yakovlevich
 born: 1849
 died: 1915

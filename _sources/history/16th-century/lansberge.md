@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lansberge
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,nationality-belgium
+tags: astronomy,origin-belgium
 title: Van Lansberge, Johan Philip
 born: 1561
 died: 1632

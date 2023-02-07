@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Vidav
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Vidav, Ivan
 born: 1918
 died: 2015

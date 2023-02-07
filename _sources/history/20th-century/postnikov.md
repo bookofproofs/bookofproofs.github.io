@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Postnikov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-russia,topology
+tags: origin-russia,topology
 title: Postnikov, Mikhail Mikhailovich
 born: 1927
 died: 2004

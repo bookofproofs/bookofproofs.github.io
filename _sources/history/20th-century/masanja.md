@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Masanja
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,nationality-tanzania,women
+tags: african,origin-tanzania,women
 title: Masanja, Verdiana
 born: 1954
 died: 2004

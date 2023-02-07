@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Menaechmus
 categories: history,ancient-world
 parentid: bookofproofs$610
-tags: ancient-greek,applied-maths,geography,geometry,nationality-turkey
+tags: ancient-greek,applied-maths,geography,geometry,origin-turkey
 title: Menaechmus
 born: -380
 died: -320

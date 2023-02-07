@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mandelbrot
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: analysis,geometry,nationality-poland
+tags: analysis,geometry,origin-poland
 title: Mandelbrot, Benoit
 born: 1924
 died: 2010

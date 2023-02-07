@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zariski
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-belarus,topology,wolf-prize
+tags: origin-belarus,topology,wolf-prize
 title: Zariski, Oscar
 born: 1899
 died: 1986

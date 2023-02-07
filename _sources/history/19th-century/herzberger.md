@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Herzberger
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Herzberger, Maximilian Jacob
 born: 1899
 died: 1982

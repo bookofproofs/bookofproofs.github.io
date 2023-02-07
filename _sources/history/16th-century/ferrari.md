@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ferrari
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: algebra,nationality-italy
+tags: algebra,origin-italy
 title: Ferrari, Lodovico
 born: 1522
 died: 1565

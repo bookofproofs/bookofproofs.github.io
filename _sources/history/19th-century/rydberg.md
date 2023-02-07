@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Rydberg
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-sweden
+tags: origin-sweden
 title: Rydberg, Johannes Robert
 born: 1854
 died: 1919

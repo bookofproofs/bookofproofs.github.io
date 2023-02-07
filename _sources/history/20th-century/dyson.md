@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dyson
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-england
+tags: origin-england
 title: Dyson, Freeman John
 born: 1923
 died: 2020

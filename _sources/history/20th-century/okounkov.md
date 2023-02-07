@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Okounkov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-russia
+tags: fields-medal,origin-russia
 title: Okounkov, Andrei Yuryevich
 born: 1967
 died: 2000

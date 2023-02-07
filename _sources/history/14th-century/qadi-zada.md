@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Qadi_Zada
 categories: history,14th-century
 parentid: bookofproofs$602
-tags: astronomy,nationality-turkey
+tags: astronomy,origin-turkey
 title: Al-Rumi, Qadi Zada
 born: 1364
 died: 1436

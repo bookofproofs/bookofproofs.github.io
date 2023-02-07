@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Davidoglu
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-romania
+tags: origin-romania
 title: Davidoglu, Anton
 born: 1876
 died: 1958

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gubler
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Gubler, Salomon Eduard
 born: 1845
 died: 1921

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brusotti
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Brusotti, Luigi
 born: 1877
 died: 1959

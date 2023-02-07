@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cauer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-germany
+tags: origin-germany
 title: Cauer, Wilhelm
 born: 1900
 died: 1945

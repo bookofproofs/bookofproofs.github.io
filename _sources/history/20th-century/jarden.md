@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jarden
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-belarus
+tags: origin-belarus
 title: Jarden, Dov
 born: 1911
 died: 1986

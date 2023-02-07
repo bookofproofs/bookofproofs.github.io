@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$MacRobert
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Macrobert, Thomas Murray
 born: 1884
 died: 1962

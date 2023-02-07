@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Segre_Corrado
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Segre, Corrado
 born: 1863
 died: 1924

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Banachiewicz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-poland
+tags: astronomy,origin-poland
 title: Banachiewicz, Tadeusz
 born: 1882
 died: 1954

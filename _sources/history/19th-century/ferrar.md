@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ferrar
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Ferrar, William Leonard
 born: 1893
 died: 1990

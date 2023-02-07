@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Herglotz
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-czech-republic
+tags: astronomy,origin-czech-republic
 title: Herglotz, Gustav
 born: 1881
 died: 1953

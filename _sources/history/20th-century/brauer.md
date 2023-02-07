@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Brauer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,group-theory,nationality-germany
+tags: algebra,group-theory,origin-germany
 title: Brauer (2), Richard Dagobert
 born: 1901
 died: 1977

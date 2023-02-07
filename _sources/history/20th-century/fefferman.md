@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fefferman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,nationality-usa
+tags: fields-medal,origin-usa
 title: Fefferman, Charles Louis
 born: 1948
 died: 2011

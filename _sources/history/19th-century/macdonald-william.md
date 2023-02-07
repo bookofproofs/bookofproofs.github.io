@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Macdonald_William
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Macdonald, William James
 born: 1851
 died: 1941

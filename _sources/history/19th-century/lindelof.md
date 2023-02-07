@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lindelof
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-finland
+tags: origin-finland
 title: Lindelöf, Ernst
 born: 1870
 died: 1946

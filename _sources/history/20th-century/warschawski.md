@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Warschawski
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-belarus
+tags: origin-belarus
 title: Warschawski, Stefan E
 born: 1904
 died: 1989

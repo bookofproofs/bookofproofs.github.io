@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Childs
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Childs, Charles Bernard
 born: 1895
 died: 1956

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dirksen
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: astronomy,nationality-germany
+tags: astronomy,origin-germany
 title: Dirksen, Enno Heeren
 born: 1788
 died: 1850

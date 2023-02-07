@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Johnson
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-england
+tags: origin-england
 title: Johnson (2), William Ernest
 born: 1858
 died: 1931

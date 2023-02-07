@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bottema
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-netherlands
+tags: origin-netherlands
 title: Bottema, Oene
 born: 1901
 died: 1992

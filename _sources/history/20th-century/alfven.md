@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Alfven
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nationality-sweden
+tags: astronomy,origin-sweden
 title: Alfvén, Hannes
 born: 1908
 died: 1995

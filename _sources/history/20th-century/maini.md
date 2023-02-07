@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Maini
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ireland
+tags: origin-ireland
 title: Maini, Philip
 born: 1959
 died: 2012

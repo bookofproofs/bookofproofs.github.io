@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Horsburgh
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-scotland
+tags: origin-scotland
 title: Horsburgh, Ellice Martin
 born: 1870
 died: 1935

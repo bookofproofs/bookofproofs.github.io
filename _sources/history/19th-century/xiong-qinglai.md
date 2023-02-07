@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Xiong_Qinglai
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-china
+tags: origin-china
 title: Qinglai, Xiong
 born: 1893
 died: 1969

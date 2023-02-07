@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kadets
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-ukraine,topology
+tags: origin-ukraine,topology
 title: Kadets, Mikhail Iosiphovich
 born: 1923
 died: 2011

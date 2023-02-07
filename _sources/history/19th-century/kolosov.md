@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kolosov
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-russia
+tags: origin-russia
 title: Kolosov, Gury Vasilievich
 born: 1867
 died: 1936

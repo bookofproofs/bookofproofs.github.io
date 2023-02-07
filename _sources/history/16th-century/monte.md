@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Monte
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: astronomy,geometry,nationality-italy
+tags: astronomy,geometry,origin-italy
 title: Monte, del Guidobaldo Marchese
 born: 1545
 died: 1607

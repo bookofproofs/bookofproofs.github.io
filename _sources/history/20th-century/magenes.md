@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Magenes
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-italy
+tags: origin-italy
 title: Magenes, Enrico
 born: 1923
 died: 2010

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tucker_Albert
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-canada
+tags: origin-canada
 title: Tucker (2), Albert
 born: 1905
 died: 1995

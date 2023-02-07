@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hallerstein
 categories: history,18th-century
 parentid: bookofproofs$52
-tags: nationality-slovenia
+tags: origin-slovenia
 title: Hallerstein, Augustin
 born: 1703
 died: 1774

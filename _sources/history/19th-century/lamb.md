@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lamb
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: applied-maths,nationality-england,physics
+tags: applied-maths,origin-england,physics
 title: Lamb, Horace
 born: 1849
 died: 1934

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Puig_Adam
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-spain
+tags: origin-spain
 title: Adam, Pedro Puig
 born: 1900
 died: 1960

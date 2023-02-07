@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Blum
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-usa,women
+tags: origin-usa,women
 title: Blum, Lenore
 born: 1942
 died: 2010

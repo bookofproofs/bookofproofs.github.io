@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Leimanis
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-latvia
+tags: origin-latvia
 title: Leimanis, Eizens
 born: 1905
 died: 1992

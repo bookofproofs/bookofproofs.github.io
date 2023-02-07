@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$OBrien
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,nationality-ireland
+tags: astronomy,origin-ireland
 title: O'Brien, Matthew
 born: 1814
 died: 1855

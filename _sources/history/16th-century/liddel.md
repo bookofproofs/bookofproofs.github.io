@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Liddel
 categories: history,16th-century
 parentid: bookofproofs$600
-tags: nationality-scotland
+tags: origin-scotland
 title: Liddel, Duncan
 born: 1561
 died: 1613

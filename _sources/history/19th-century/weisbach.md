@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Weisbach
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-germany
+tags: origin-germany
 title: Weisbach, Julius Lugwig
 born: 1806
 died: 1871

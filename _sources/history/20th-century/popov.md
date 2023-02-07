@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Popov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: nationality-macedonia
+tags: origin-macedonia
 title: Popov, Blagoj Sazdov
 born: 1923
 died: 2014

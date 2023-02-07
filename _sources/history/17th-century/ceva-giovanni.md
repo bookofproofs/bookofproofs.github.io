@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ceva_Giovanni
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-italy
+tags: origin-italy
 title: Ceva, Giovanni
 born: 1647
 died: 1734

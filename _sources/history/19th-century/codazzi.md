@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Codazzi
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-italy
+tags: origin-italy
 title: Codazzi, Delfino
 born: 1824
 died: 1873

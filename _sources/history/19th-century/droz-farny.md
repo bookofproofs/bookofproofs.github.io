@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Droz-Farny
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nationality-switzerland
+tags: origin-switzerland
 title: Droz-Farny, Arnold
 born: 1856
 died: 1912

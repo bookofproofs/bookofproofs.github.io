@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lasker
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: algebra,nationality-poland
+tags: algebra,origin-poland
 title: Lasker, Emanuel
 born: 1868
 died: 1941

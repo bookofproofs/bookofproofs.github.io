@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Varadhan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,nationality-india
+tags: abel-prize,origin-india
 title: Varadhan, Sathamangalam Ranga Iyengar Srinivasa
 born: 1940
 died: 2011

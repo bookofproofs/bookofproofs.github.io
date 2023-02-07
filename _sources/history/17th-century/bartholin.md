@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bartholin
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: astronomy,nationality-denmark
+tags: astronomy,origin-denmark
 title: Bartholin, Erasmus
 born: 1625
 died: 1698

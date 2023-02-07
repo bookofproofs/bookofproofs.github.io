@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Guarini
 categories: history,17th-century
 parentid: bookofproofs$339
-tags: nationality-italy
+tags: origin-italy
 title: Guarini, Guarino
 born: 1624
 died: 1683
