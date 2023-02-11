@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 11.10: TWO LINES MEETING WHICH ARE PARALLEL TO TWO OTHER LINES MEETING CONTAIN EQUAL ANGLES &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: angles,are,contain,equal,lines,meeting,other,parallel,two,which,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

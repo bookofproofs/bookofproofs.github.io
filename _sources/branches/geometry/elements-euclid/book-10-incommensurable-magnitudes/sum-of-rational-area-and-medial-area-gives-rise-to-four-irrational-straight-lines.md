@@ -7,7 +7,7 @@ title: Prop. 10.071: Sum of Rational Area and Medial Area gives rise to four Irr
 description: 10.071: SUM OF RATIONAL AREA AND MEDIAL AREA GIVES RISE TO FOUR IRRATIONAL STRAIGHT LINES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,four,gives,irrational,lines,medial,rational,rise,straight,sum
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

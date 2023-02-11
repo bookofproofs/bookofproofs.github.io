@@ -7,7 +7,7 @@ title: (Unit) Ring
 description: RING ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$577,bookofproofs$6907
 keywords: ring,ring with identity,unit ring,rings,rings with identity,unit rings
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

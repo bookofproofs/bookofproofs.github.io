@@ -7,7 +7,7 @@ title: Prop. 11.06: Two Lines Perpendicular to Same Plane are Parallel
 description: 11.06: TWO LINES PERPENDICULAR TO SAME PLANE ARE PARALLEL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,lines,parallel,perpendicular,plane,same,two,two lines perpendicular to the same plane are
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

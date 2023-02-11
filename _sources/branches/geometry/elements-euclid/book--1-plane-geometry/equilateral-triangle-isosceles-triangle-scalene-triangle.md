@@ -7,7 +7,7 @@ title: 1.20: Equilateral Triangle, Isosceles Triangle, Scalene Triangle
 description: 1.20: EQUILATERAL TRIANGLE, ISOSCELES TRIANGLE, SCALENE TRIANGLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: equilateral,equilateral triangle,isosceles,scalene,triangle,scalene triangle definition,isosceles triangle definition,definition of isosceles triangle,definition of an isosceles triangle,define scalene triangle,define isosceles triangle,definition of scalene triangle,scalene triangle def,scalene equilateral triangle,isosceles triangle meaning,scale
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

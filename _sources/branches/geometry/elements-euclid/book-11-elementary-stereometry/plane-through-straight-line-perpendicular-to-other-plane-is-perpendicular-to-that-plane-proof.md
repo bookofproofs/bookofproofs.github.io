@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 11.18: PLANE THROUGH STRAIGHT LINE PERPENDICULAR TO OTHER PLANE IS PERPENDICULAR TO THAT PLANE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: line,other,perpendicular,plane,straight,that,through,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

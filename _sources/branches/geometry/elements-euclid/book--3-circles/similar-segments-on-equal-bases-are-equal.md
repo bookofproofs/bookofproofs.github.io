@@ -7,7 +7,7 @@ title: 3.24: Similar Segments on Equal Bases are Equal
 description: 3.24: SIMILAR SEGMENTS ON EQUAL BASES ARE EQUAL &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,bases,equal,segments,similar
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of LEM. 10.041: SIDE OF SUM OF MEDIAL AREAS IS IRRATIONAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: areas,irrational,medial,side,sum,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

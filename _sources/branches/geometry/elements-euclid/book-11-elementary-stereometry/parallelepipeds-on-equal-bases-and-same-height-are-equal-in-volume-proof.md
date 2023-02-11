@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 11.31: PARALLELEPIPEDS ON EQUAL BASES AND SAME HEIGHT ARE EQUAL IN VOLUME &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,bases,equal,height,parallelepipeds,same,volume,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

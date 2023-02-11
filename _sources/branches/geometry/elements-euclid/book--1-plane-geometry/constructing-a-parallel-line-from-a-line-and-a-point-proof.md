@@ -7,7 +7,7 @@ title: (Euclid)
 description: PROOF OF 1.31: CONSTRUCTING A PARALLEL LINE FROM A LINE AND A POINT &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: constructing,line,parallel,point,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

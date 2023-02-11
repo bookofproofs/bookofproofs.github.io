@@ -7,7 +7,7 @@ title: 4.3: Inscribing Rectilinear Figures in Circles
 description: 4.3: INSCRIBING RECTILINEAR FIGURES IN CIRCLES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$1849,bookofproofs$2785,bookofproofs$6419,bookofproofs$6908
 keywords: circles,figures,inscribed,inscribed in a circle,inscribing,rectilinear
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

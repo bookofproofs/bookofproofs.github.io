@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 7.12: RATIOS OF NUMBERS IS DISTRIBUTIVE OVER ADDITION &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: addition,distributive,numbers,over,ratios,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

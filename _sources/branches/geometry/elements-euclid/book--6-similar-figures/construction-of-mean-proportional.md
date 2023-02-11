@@ -7,7 +7,7 @@ title: 6.13: Construction of Mean Proportional
 description: 6.13: CONSTRUCTION OF MEAN PROPORTIONAL &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: construction,mean,proportional,mean proportional,mean proportion,mean proportional formula,determination of mean proportional
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

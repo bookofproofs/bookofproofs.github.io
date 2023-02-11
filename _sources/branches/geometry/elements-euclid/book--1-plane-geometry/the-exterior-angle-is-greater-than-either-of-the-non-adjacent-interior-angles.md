@@ -7,7 +7,7 @@ title: 1.16: The Exterior Angle Is Greater Than Either of the Non-Adjacent Inter
 description: 1.16: THE EXTERIOR ANGLE IS GREATER THAN EITHER OF THE NON-ADJACENT INTERIOR ANGLES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: adjacent,angle,angles,either,exterior,greater,interior,non,than,non adjacent interior angles,nonadjacent angles,interior angle,adjacent interior angles
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

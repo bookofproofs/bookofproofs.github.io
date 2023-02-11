@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.013: COMMENSURABLE MAGNITUDES ARE INCOMMENSURABLE WITH SAME MAGNITUDE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,commensurable,incommensurable,magnitude,magnitudes,same,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

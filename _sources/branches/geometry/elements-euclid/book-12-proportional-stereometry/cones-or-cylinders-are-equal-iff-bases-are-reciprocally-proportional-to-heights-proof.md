@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 12.15: CONES OR CYLINDERS ARE EQUAL IFF BASES ARE RECIPROCALLY PROPORTIONAL TO HEIGHTS &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: are,bases,cones,cylinders,equal,heights,iff,proportional,reciprocally,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

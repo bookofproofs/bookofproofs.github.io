@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 6.08: PERPENDICULAR IN RIGHT-ANGLED TRIANGLE MAKES TWO SIMILAR TRIANGLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angled,makes,perpendicular,right,similar,triangle,triangles,two,perpendicular in right angled triangle,right angle triangle perpendicular,perpendicular of a right angled triangle,perpendicular triangle,perpendicular of right angle triangle,perpendicular in a right angled triangle,perpendicular drawn from right angled triangle,perpendicular in right
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

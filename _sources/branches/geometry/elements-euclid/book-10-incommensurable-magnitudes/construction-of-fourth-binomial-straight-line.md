@@ -7,7 +7,7 @@ title: Prop. 10.051: Construction of Fourth Binomial Straight Line
 description: 10.051: CONSTRUCTION OF FOURTH BINOMIAL STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: binomial,construction,fourth,line,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

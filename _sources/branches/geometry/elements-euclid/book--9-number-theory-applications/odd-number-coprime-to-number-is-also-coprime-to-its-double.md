@@ -7,7 +7,7 @@ title: Prop. 9.31: Odd Number Co-prime to Number is also Co-prime to its Double
 description: 9.31: ODD NUMBER CO-PRIME TO NUMBER IS ALSO CO-PRIME TO ITS DOUBLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: also,coprime,double,its,number,odd
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

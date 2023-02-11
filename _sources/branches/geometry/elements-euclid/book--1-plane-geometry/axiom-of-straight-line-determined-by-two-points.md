@@ -7,7 +7,7 @@ title: 1.1: Straight Line Determined by Two Distinct Points
 description: 1.1: STRAIGHT LINE DETERMINED BY TWO DISTINCT POINTS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: axiom,determined,line,points,straight,two
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

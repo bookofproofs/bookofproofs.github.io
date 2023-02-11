@@ -7,7 +7,7 @@ title: 3.20: Inscribed Angle Theorem
 description: 3.20: INSCRIBED ANGLE THEOREM &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angle,inscribed,theorem,inscribed angle theorem,inscribed angle
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

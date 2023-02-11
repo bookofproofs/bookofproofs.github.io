@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 7.27: POWERS OF CO-PRIME NUMBERS ARE CO-PRIME &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,coprime,numbers,powers,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

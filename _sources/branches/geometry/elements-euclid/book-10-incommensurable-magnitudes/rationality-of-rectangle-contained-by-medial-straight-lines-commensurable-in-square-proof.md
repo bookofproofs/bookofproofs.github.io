@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.025: RATIONALITY OF RECTANGLE CONTAINED BY MEDIAL STRAIGHT LINES COMMENSURABLE IN SQUARE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: commensurable,contained,lines,medial,rationality,rectangle,square,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 10.077: That which produces Medial Whole with Rational Area is Irra
 description: 10.077: THAT WHICH PRODUCES MEDIAL WHOLE WITH RATIONAL AREA IS IRRATIONAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,irrational,medial,produces,rational,that,that which makes with a rational (area) a medial whole,which,whole
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

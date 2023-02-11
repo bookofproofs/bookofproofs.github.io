@@ -7,7 +7,7 @@ title: 4.16: Inscribing Regular Pentakaidecagon in Circle
 description: 4.16: INSCRIBING REGULAR PENTAKAIDECAGON IN CIRCLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: circle,inscribing,pentakaidecagon,regular
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

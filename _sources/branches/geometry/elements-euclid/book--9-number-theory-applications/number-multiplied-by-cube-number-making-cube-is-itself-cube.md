@@ -7,7 +7,7 @@ title: Prop. 9.05: Number multiplied by Cube Number making Cube is itself Cube
 description: 9.05: NUMBER MULTIPLIED BY CUBE NUMBER MAKING CUBE IS ITSELF CUBE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: cube,itself,making,multiplied,number
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

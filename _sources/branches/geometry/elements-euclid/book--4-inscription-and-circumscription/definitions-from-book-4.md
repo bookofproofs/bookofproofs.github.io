@@ -7,7 +7,7 @@ title: Definitions from Book 4
 description: DEFINITIONS FROM BOOK 4 &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$1849,bookofproofs$6908
 keywords: book,definitions
-contributors: bookofproofs,@calahan
+contributors: bookofproofs,@Calahan
 
 ---
 

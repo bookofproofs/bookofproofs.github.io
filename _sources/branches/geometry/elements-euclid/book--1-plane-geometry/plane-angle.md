@@ -7,7 +7,7 @@ title: 1.08: Plane Angle
 description: 1.08: PLANE ANGLE &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angle,plane,plane angle
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

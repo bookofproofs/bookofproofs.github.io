@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 12.14: VOLUMES OF CONES OR CYLINDERS ON EQUAL BASES ARE IN SAME RATIO AS HEIGHTS &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: are,bases,cones,cylinders,equal,heights,ratio,same,volumes,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

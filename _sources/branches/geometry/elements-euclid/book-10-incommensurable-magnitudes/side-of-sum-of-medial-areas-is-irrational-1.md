@@ -7,7 +7,7 @@ title: Lem. 10.041: Side of Sum of Medial Areas is Irrational
 description: LEM. 10.041: SIDE OF SUM OF MEDIAL AREAS IS IRRATIONAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: areas,irrational,medial,side,sum
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

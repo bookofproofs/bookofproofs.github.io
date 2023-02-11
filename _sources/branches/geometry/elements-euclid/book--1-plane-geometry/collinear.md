@@ -7,7 +7,7 @@ title: Collinear Points, Segments, Rays
 description: COLLINEAR POINTS, SEGMENTS, RAYS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: collinear,straight-on
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

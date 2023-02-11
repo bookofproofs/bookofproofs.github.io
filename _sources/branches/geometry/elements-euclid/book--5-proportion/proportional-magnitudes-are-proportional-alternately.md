@@ -7,7 +7,7 @@ title: 5.16: Proportional Magnitudes are Proportional Alternately
 description: 5.16: PROPORTIONAL MAGNITUDES ARE PROPORTIONAL ALTERNATELY &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: alternately,are,magnitudes,proportional
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

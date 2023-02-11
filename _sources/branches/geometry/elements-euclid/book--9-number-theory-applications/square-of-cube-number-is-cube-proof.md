@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 9.03: SQUARE OF CUBE NUMBER IS CUBE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: cube,number,square,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

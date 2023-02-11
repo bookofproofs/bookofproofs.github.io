@@ -7,7 +7,7 @@ title: 6.12: Construction of Fourth Proportional Straight Line
 description: 6.12: CONSTRUCTION OF FOURTH PROPORTIONAL STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: construction,fourth,line,proportional,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

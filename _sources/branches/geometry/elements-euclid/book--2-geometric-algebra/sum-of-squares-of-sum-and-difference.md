@@ -7,7 +7,7 @@ title: 2.09: Sum of Squares of Sum and Difference
 description: 2.09: SUM OF SQUARES OF SUM AND DIFFERENCE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: difference,squares,sum
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

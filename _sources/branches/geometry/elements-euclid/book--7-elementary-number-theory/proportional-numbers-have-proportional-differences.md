@@ -7,7 +7,7 @@ title: 7.11: Proportional Numbers have Proportional Differences
 description: 7.11: PROPORTIONAL NUMBERS HAVE PROPORTIONAL DIFFERENCES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: differences,have,numbers,proportional
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

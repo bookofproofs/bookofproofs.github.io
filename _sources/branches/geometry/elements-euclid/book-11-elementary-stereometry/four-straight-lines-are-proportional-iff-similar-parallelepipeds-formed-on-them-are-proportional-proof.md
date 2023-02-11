@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 11.37: FOUR STRAIGHT LINES ARE PROPORTIONAL IFF SIMILAR PARALLELEPIPEDS FORMED ON THEM ARE PROPORTIONAL &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: are,formed,four,iff,lines,parallelepipeds,proportional,similar,straight,them,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

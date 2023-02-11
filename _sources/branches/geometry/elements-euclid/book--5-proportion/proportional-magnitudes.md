@@ -7,7 +7,7 @@ title: 5.06: Proportional Magnitudes
 description: 5.06: PROPORTIONAL MAGNITUDES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$2775,bookofproofs$6419
 keywords: magnitudes,proportional
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

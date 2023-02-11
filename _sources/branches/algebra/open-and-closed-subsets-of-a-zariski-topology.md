@@ -7,7 +7,7 @@ title: Open and Closed Subsets of a Zariski Topology
 description: OPEN AND CLOSED SUBSETS OF A ZARISKI TOPOLOGY &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: closed,open,subsets,topology,zariski
-contributors: 
+contributors: @Brenner,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 10.026: Medial Area not greater than Medial Area by Rational Area
 description: 10.026: MEDIAL AREA NOT GREATER THAN MEDIAL AREA BY RATIONAL AREA &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,greater,medial,not,rational,than
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

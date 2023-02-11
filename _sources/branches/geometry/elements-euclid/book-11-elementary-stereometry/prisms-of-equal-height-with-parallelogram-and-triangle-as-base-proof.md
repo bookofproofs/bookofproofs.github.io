@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 11.39: PRISMS OF EQUAL HEIGHT WITH PARALLELOGRAM AND TRIANGLE AS BASE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: base,equal,height,parallelogram,prisms,triangle,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

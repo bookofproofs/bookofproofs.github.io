@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 5.13: RELATIVE SIZES OF PROPORTIONAL MAGNITUDES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: magnitudes,proportional,relative,sizes,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

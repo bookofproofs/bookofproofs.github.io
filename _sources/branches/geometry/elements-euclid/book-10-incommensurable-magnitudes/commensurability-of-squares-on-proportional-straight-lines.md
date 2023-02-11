@@ -7,7 +7,7 @@ title: Prop. 10.014: Commensurability of Squares on Proportional Straight Lines
 description: 10.014: COMMENSURABILITY OF SQUARES ON PROPORTIONAL STRAIGHT LINES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: commensurability,lines,proportional,squares,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

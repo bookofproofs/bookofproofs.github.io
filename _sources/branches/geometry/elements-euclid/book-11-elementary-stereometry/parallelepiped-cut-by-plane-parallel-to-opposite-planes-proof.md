@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 11.25: PARALLELEPIPED CUT BY PLANE PARALLEL TO OPPOSITE PLANES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: cut,opposite,parallel,parallelepiped,plane,planes,opposite of parallel,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

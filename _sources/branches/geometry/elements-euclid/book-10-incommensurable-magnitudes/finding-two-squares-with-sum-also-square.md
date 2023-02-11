@@ -7,7 +7,7 @@ title: Lem. 10.028.1: Finding Two Squares With Sum Also Square
 description: LEM. 10.028.1: FINDING TWO SQUARES WITH SUM ALSO SQUARE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: also,finding,square,squares,sum,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

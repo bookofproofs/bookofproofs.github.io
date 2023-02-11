@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 6.24: PARALLELOGRAMS ABOUT DIAMETER ARE SIMILAR &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: about,are,diameter,parallelograms,similar,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

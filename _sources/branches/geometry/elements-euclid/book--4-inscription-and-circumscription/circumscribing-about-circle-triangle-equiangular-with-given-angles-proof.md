@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 4.03: CIRCUMSCRIBING ABOUT CIRCLE TRIANGLE EQUIANGULAR WITH GIVEN ANGLES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: about,angles,circle,circumscribing,equiangular,given,triangle,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 6.02: Cut in Extreme and Mean Ratio
 description: 6.02: CUT IN EXTREME AND MEAN RATIO &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: cut,cut in extreme and mean ratio,extreme,golden ratio,mean,ratio
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

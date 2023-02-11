@@ -7,7 +7,7 @@ title: Canonical Projection
 description: CANONICAL PROJECTION &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: canonical,projection,canonical projection
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 Although the idea of a [function][bookofproofs$592] will be introduced later, we anticipate it here already and mention a special kind of functions which naturally occur along with equivalence relations: the _canonical projections_.

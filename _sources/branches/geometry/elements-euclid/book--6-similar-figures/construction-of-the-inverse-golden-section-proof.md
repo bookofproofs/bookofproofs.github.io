@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 6.30: CONSTRUCTION OF THE INVERSE GOLDEN SECTION &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: construction,golden,inverse,section,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

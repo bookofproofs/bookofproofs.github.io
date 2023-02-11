@@ -7,7 +7,7 @@ title: How a line is different from a solid and a surface?
 description: HOW A LINE IS DIFFERENT FROM A SOLID AND A SURFACE? &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: different,how,line,solid,surface
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

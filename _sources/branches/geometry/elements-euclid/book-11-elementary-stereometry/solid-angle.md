@@ -7,7 +7,7 @@ title: Def. 11.11: Solid Angle
 description: DEF. 11.11: SOLID ANGLE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angle,solid,solid angle
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

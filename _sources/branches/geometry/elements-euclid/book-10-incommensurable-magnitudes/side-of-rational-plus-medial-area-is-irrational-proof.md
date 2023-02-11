@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.040: SIDE OF RATIONAL PLUS MEDIAL AREA IS IRRATIONAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: area,irrational,medial,plus,rational,side,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

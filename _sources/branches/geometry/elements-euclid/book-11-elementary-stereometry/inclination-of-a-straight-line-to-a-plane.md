@@ -7,7 +7,7 @@ title: Def. 11.05: Inclination of a Straight Line to a Plane
 description: DEF. 11.05: INCLINATION OF A STRAIGHT LINE TO A PLANE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: inclination,inclination of a straight line to a plane,line,plane,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 10.055: Root of Area contained by Rational Straight Line and Second
 description: 10.055: ROOT OF AREA CONTAINED BY RATIONAL STRAIGHT LINE AND SECOND BINOMIAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,binomial,contained,line,rational,root,second,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

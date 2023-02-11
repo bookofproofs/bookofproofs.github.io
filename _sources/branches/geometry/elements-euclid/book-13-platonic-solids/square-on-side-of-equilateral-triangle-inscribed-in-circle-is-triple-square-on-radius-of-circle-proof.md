@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 13.12: SQUARE ON SIDE OF EQUILATERAL TRIANGLE INSCRIBED IN CIRCLE IS TRIPLE SQUARE ON RADIUS OF CIRCLE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: circle,equilateral,inscribed,radius,side,square,triangle,triple,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Tangent Bundle
 description: TANGENT BUNDLE &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: bundle,tangent,tangent bundle
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

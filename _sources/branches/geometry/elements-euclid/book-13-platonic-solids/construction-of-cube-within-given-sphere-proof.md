@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 13.15: CONSTRUCTION OF CUBE WITHIN GIVEN SPHERE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: construction,cube,dx, 2,given,sphere,within,x + ct,x - st,y + cp,y + st,y - ct,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

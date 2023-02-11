@@ -7,7 +7,7 @@ title: Prop. 9.11: Elements of Geometric Progression from One which Divide Later
 description: 9.11: ELEMENTS OF GEOMETRIC PROGRESSION FROM ONE WHICH DIVIDE LATER ELEMENTS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: divide,elements,geometric,later,one,progression,which
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

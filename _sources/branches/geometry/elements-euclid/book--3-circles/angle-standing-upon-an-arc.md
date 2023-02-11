@@ -7,7 +7,7 @@ title: 3.09: Angle Standing Upon An Arc
 description: 3.09: ANGLE STANDING UPON AN ARC &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angle,arc,stand upon,standing,upon
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

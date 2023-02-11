@@ -7,7 +7,7 @@ title: Differential Form of Degree k
 description: DIFFERENTIAL FORM OF DEGREE K &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: degree,differential,form
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 5.13: Inverse Ratio
 description: 5.13: INVERSE RATIO &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$2775,bookofproofs$6419
 keywords: inverse,inverse ratio,ratio,reciprocal ratio
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

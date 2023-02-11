@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of EVERY EQUILATERAL TRIANGLE IS EQUIANGULAR. &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: equiangular,equilateral,every,triangle,proof
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

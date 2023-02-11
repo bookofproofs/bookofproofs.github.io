@@ -7,7 +7,7 @@ title: 1.17: Diameter of the Circle
 description: 1.17: DIAMETER OF THE CIRCLE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$6419
 keywords: circle,diameter
-contributors: bookofproofs,@calahan,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Fitzpatrick
 
 ---
 

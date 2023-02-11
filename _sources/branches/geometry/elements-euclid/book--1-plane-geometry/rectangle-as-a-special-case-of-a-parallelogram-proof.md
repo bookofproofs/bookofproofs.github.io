@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF RECTANGLE AS A SPECIAL CASE OF A PARALLELOGRAM &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: angles,opposite,parallelograms,sides,parallelogram angles,proof,proof
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

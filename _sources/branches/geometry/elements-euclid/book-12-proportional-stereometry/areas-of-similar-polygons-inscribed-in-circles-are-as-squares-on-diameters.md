@@ -7,7 +7,7 @@ title: Prop. 12.01: Areas of Similar Polygons Inscribed in Circles are as Square
 description: 12.01: AREAS OF SIMILAR POLYGONS INSCRIBED IN CIRCLES ARE AS SQUARES ON DIAMETERS &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,areas,circles,diameters,inscribed,polygons,similar,squares
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

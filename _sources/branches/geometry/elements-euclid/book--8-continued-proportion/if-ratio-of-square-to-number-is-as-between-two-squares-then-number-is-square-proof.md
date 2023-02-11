@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 8.24: IF RATIO OF SQUARE TO NUMBER IS AS BETWEEN TWO SQUARES THEN NUMBER IS SQUARE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: between,number,ratio,square,squares,then,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

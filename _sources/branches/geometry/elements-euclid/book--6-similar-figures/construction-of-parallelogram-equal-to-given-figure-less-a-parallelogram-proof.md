@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 6.28: CONSTRUCTION OF PARALLELOGRAM EQUAL TO GIVEN FIGURE LESS A PARALLELOGRAM &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: construction,equal,figure,given,less,parallelogram,construction of parallelogram,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 5.02: MULTIPLICATION OF NUMBERS IS RIGHT DISTRIBUTIVE OVER ADDITION &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: addition,distributive,multiplication,numbers,over,right,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

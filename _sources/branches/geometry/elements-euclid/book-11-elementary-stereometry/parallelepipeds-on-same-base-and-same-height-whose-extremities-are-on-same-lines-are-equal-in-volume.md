@@ -7,7 +7,7 @@ title: Prop. 11.29: Parallelepipeds on Same Base and Same Height whose Extremiti
 description: 11.29: PARALLELEPIPEDS ON SAME BASE AND SAME HEIGHT WHOSE EXTREMITIES ARE ON SAME LINES ARE EQUAL IN VOLUME &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,base,equal,extremities,height,lines,parallelepipeds,same,volume,whose
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

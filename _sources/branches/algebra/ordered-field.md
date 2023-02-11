@@ -7,7 +7,7 @@ title: Ordered Field
 description: ORDERED FIELD ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: ordered field,ordered fields,ordered,positive,negative,non-positive,non-negative
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

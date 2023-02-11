@@ -7,7 +7,7 @@ title: 7.37: Integer Divided by Divisor is Integer
 description: 7.37: INTEGER DIVIDED BY DIVISOR IS INTEGER &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: divided,divisor,integer
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

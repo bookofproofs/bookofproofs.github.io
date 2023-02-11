@@ -7,7 +7,7 @@ title: 7.38: Divisor is Reciprocal of Divisor of Integer
 description: 7.38: DIVISOR IS RECIPROCAL OF DIVISOR OF INTEGER &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: divisor,integer,reciprocal
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

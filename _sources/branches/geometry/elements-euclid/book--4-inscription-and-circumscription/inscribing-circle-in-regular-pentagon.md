@@ -7,7 +7,7 @@ title: 4.13: Inscribing Circle in Regular Pentagon
 description: 4.13: INSCRIBING CIRCLE IN REGULAR PENTAGON &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: circle,inscribing,pentagon,regular
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

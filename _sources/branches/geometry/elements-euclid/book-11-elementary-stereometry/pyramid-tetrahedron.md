@@ -7,7 +7,7 @@ title: Def. 11.12: Pyramid, Tetrahedron
 description: DEF. 11.12: PYRAMID, TETRAHEDRON &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: 1.5, center.y + scale,base,dx, 2,pyramid,tetrahedron,top,x + ct,x - st,y + cp,y + st,y - ct
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

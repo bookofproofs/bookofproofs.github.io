@@ -7,7 +7,7 @@ title: 7.02: Any Divisor Dividing Two Numbers Divides Their Greatest Common Divi
 description: 7.02: ANY DIVISOR DIVIDING TWO NUMBERS DIVIDES THEIR GREATEST COMMON DIVISOR &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: algorithm,common,divisor,euclidean,greatest,numbers,two,greatest common divisor algorithm,greatest common measure,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

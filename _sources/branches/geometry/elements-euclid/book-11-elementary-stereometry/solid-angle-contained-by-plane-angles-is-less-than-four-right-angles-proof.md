@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 11.21: SOLID ANGLE CONTAINED BY PLANE ANGLES IS LESS THAN FOUR RIGHT ANGLES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angle,angles,contained,four,less,plane,right,solid,than,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

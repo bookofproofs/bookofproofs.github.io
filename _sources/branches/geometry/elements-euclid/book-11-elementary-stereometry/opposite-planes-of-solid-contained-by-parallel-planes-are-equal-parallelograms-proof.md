@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 11.24: OPPOSITE PLANES OF SOLID CONTAINED BY PARALLEL PLANES ARE EQUAL PARALLELOGRAMS &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: are,contained,equal,opposite,parallel,parallelograms,planes,solid,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

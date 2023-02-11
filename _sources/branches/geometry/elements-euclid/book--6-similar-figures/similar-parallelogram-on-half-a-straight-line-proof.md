@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 6.27: SIMILAR PARALLELOGRAM ON HALF A STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: half,line,parallelogram,similar,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

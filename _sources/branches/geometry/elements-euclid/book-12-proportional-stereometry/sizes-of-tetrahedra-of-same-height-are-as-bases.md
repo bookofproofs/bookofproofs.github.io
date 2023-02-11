@@ -7,7 +7,7 @@ title: Prop. 12.05: Sizes of Tetrahedra of Same Height are as Bases
 description: 12.05: SIZES OF TETRAHEDRA OF SAME HEIGHT ARE AS BASES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,bases,height,same,sizes,tetrahedra
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Def. 11.07: Similarly Inclined Planes
 description: DEF. 11.07: SIMILARLY INCLINED PLANES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: inclined,planes,similarly,similarly inclined to a plane
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

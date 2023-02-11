@@ -7,7 +7,7 @@ title: How a point is different from a solid, a surface and a line?
 description: HOW A POINT IS DIFFERENT FROM A SOLID, A SURFACE AND A LINE? &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: different,how,line,point,solid,surface
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

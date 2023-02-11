@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF BY CONTRADICTION Proof of EXISTENCE OF PARALLEL STRAIGHT LINES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: adjacent,angle,angles,either,exterior,greater,interior,non,than,non adjacent interior angles,nonadjacent angles,interior angle,adjacent interior angles,proof,proof
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

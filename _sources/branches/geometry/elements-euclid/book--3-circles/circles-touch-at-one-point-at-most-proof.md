@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 3.13: CIRCLES TOUCH AT ONE POINT AT MOST &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: circles,most,one,point,touch,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

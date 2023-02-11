@@ -7,7 +7,7 @@ title: 10.02: Magnitudes Commensurable and Incommensurable in Square
 description: DEF. 10.02: MAGNITUDES COMMENSURABLE AND INCOMMENSURABLE IN SQUARE ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: commensurable,commensurable in square,incommensurable,incommensurable in square
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

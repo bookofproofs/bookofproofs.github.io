@@ -7,7 +7,7 @@ title: Def. 11.08: Parallel Planes
 description: DEF. 11.08: PARALLEL PLANES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: dx, 2,parallel,parallel planes,planes,x + ct,x - st,y + cp,y + st,y - ct
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

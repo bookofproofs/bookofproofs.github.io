@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 12.01: AREAS OF SIMILAR POLYGONS INSCRIBED IN CIRCLES ARE AS SQUARES ON DIAMETERS &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: are,areas,circles,diameters,inscribed,polygons,similar,squares,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

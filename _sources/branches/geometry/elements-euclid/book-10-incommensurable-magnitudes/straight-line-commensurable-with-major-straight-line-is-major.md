@@ -7,7 +7,7 @@ title: Prop. 10.068: Straight Line Commensurable with Major Straight Line is Maj
 description: 10.068: STRAIGHT LINE COMMENSURABLE WITH MAJOR STRAIGHT LINE IS MAJOR &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: commensurable,line,major,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

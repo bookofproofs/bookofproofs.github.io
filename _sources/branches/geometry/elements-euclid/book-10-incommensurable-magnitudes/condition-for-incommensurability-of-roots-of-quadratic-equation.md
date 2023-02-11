@@ -7,7 +7,7 @@ title: Prop. 10.018: Condition for Incommensurability of Roots of Quadratic Equa
 description: 10.018: CONDITION FOR INCOMMENSURABILITY OF ROOTS OF QUADRATIC EQUATION &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: condition,equation,incommensurability,quadratic,roots
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

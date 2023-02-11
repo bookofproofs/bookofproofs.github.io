@@ -7,7 +7,7 @@ title: First-Order Ordinary Differential Equation (ODE)
 description: FIRST-ORDER ORDINARY DIFFERENTIAL EQUATION ODE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: 1st order ode,differential,equation,first,first-order ordinary differential equation,ode,order,ordinary
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

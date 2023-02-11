@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 3.22: OPPOSITE ANGLES OF CYCLIC QUADRILATERAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angles,cyclic,opposite,quadrilateral,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

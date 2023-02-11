@@ -7,7 +7,7 @@ title: 1.05: Isosceles Triangles I
 description: 1.05: ISOSCELES TRIANGLES I &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: isosceles,triangles
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

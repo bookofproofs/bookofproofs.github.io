@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 1.16: THE EXTERIOR ANGLE IS GREATER THAN EITHER OF THE NON-ADJACENT INTERIOR ANGLES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: adjacent,angle,angles,either,exterior,greater,interior,non,than,non adjacent interior angles,nonadjacent angles,interior angle,adjacent interior angles,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

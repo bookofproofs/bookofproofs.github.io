@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 4.07: CIRCUMSCRIBING SQUARE ABOUT CIRCLE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: about,circle,circumscribing,square,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

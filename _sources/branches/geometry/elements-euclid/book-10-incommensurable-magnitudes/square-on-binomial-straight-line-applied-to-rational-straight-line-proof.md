@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.060: SQUARE ON BINOMIAL STRAIGHT LINE APPLIED TO RATIONAL STRAIGHT LINE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: applied,binomial,line,rational,square,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

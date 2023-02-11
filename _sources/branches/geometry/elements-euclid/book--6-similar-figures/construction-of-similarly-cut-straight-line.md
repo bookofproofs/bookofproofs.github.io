@@ -7,7 +7,7 @@ title: 6.10: Construction of Similarly Cut Straight Line
 description: 6.10: CONSTRUCTION OF SIMILARLY CUT STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: construction,cut,line,similarly,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

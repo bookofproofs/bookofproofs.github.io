@@ -7,7 +7,7 @@ title: Prop. 11.38: Common Section of Bisecting Planes of Cube Bisect and are Bi
 description: 11.38: COMMON SECTION OF BISECTING PLANES OF CUBE BISECT AND ARE BISECTED BY DIAGONAL OF CUBE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,bisect,bisected,bisecting,common,cube,diagonal,planes,section
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

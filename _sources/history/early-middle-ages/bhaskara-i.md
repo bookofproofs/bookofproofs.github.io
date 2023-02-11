@@ -3,11 +3,11 @@ nodeid: bookofproofs$Bhaskara_I
 categories: history,early-middle-ages
 parentid: bookofproofs$608
 tags: ancient-indian,astronomy,origin-india
-title: I, Bhaskara
+title: Bhaskara
 born: 600
 died: 680
-description: Some facts about Bhaskara I
-keywords: i, bhaskara,ancient indian,astronomy,nationality india
+description: Some facts about Bhaskara
+keywords: bhaskara,ancient indian,astronomy,nationality india
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 

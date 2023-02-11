@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 12.06: SIZES OF PYRAMIDS OF SAME HEIGHT WITH POLYGONAL BASES ARE AS BASES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,bases,height,polygonal,pyramids,same,sizes,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

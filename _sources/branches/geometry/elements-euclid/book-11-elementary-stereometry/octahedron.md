@@ -7,7 +7,7 @@ title: Def. 11.26: Octahedron
 description: DEF. 11.26: OCTAHEDRON ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: octahedron
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

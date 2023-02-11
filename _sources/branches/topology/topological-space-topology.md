@@ -7,7 +7,7 @@ title: Topological Space, Topology
 description: TOPOLOGICAL SPACE, TOPOLOGY ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: topological,topological space,topology,topological spaces,topologies
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

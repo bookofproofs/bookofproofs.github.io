@@ -7,7 +7,7 @@ title: Prop. 10.096: Side of Area Contained by Rational Straight Line and Sixth 
 description: 10.096: SIDE OF AREA CONTAINED BY RATIONAL STRAIGHT LINE AND SIXTH APOTOME &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: apotome,area,contained,line,rational,side,sixth,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 7.28: Numbers are Co-prime iff Sum is Co-prime to Both
 description: 7.28: NUMBERS ARE CO-PRIME IFF SUM IS CO-PRIME TO BOTH &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,both,coprime,iff,numbers,sum
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

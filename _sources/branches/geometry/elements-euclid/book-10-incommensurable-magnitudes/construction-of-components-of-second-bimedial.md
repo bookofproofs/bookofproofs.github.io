@@ -7,7 +7,7 @@ title: Prop. 10.028: Construction of Components of Second Bimedial
 description: 10.028: CONSTRUCTION OF COMPONENTS OF SECOND BIMEDIAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: bimedial,components,construction,second
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

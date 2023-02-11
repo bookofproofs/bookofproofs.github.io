@@ -7,7 +7,7 @@ title: 6.03: Angle Bisector Theorem
 description: 6.03: ANGLE BISECTOR THEOREM &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angle,bisector,theorem,angle bisector theorem,angle bisector theorem proof,triangle angle bisector theorem
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

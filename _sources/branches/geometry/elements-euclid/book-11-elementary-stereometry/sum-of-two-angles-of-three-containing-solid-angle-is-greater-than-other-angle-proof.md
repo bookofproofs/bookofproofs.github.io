@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 11.20: SUM OF TWO ANGLES OF THREE CONTAINING SOLID ANGLE IS GREATER THAN OTHER ANGLE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: angle,angles,containing,greater,other,solid,sum,than,three,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

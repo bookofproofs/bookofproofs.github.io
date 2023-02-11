@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 12.16: CONSTRUCTION OF EQUILATERAL POLYGON WITH EVEN NUMBER OF SIDES IN OUTER OF CONCENTRIC CIRCLES &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: circles,concentric,construction,equilateral,even,number,outer,polygon,sides,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

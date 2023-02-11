@@ -7,7 +7,7 @@ title: Prop. 13.06: Segments of Rational Straight Line cut in Extreme and Mean R
 description: 13.06: SEGMENTS OF RATIONAL STRAIGHT LINE CUT IN EXTREME AND MEAN RATIO ARE APOTOME &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: apotome,are,cut,extreme,line,mean,ratio,rational,segments,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

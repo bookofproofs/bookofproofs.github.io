@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.065: SQUARE ON SIDE OF SUM OF TWO MEDIAL AREA APPLIED TO RATIONAL STRAIGHT LINE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: applied,area,line,medial,rational,side,square,straight,sum,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

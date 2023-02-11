@@ -7,7 +7,7 @@ title: `\(C^{n}\)`-Diffeomorphism
 description: C^N-DIFFEOMORPHISM &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: diffeomorphism
-contributors: 
+contributors: @Brenner,bookofproofs
 
 ---
 

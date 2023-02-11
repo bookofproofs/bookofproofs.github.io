@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 5.09: MAGNITUDES WITH SAME RATIOS ARE EQUAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,equal,magnitudes,ratios,same,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

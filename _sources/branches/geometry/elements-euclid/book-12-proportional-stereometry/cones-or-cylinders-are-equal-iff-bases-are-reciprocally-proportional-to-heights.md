@@ -7,7 +7,7 @@ title: Prop. 12.15: Cones or Cylinders are Equal iff Bases are Reciprocally Prop
 description: 12.15: CONES OR CYLINDERS ARE EQUAL IFF BASES ARE RECIPROCALLY PROPORTIONAL TO HEIGHTS &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,bases,cones,cylinders,equal,heights,iff,proportional,reciprocally
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

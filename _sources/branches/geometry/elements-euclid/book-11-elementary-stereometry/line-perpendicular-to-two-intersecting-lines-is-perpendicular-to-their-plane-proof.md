@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 11.04: LINE PERPENDICULAR TO TWO INTERSECTING LINES IS PERPENDICULAR TO THEIR PLANE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: intersecting,line,lines,perpendicular,plane,their,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

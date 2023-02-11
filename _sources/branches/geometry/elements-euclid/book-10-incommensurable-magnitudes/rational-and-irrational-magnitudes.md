@@ -7,7 +7,7 @@ title: Def. 10.03: Rational and Irrational Magnitudes
 description: DEF. 10.03: RATIONAL AND IRRATIONAL MAGNITUDES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: irrational,irrational.,magnitudes,rational
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

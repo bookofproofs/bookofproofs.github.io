@@ -7,7 +7,7 @@ title: Prop. 9.26: Odd Number minus Odd Number is Even
 description: 9.26: ODD NUMBER MINUS ODD NUMBER IS EVEN &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: even,minus,number,odd
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

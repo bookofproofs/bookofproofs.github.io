@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 2.05: RECTANGLE IS DIFFERENCE OF TWO SQUARES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: difference,rectangle,squares,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

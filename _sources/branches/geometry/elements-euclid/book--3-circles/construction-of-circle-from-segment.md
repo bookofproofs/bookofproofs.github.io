@@ -7,7 +7,7 @@ title: 3.25: Construction of Circle from Segment
 description: 3.25: CONSTRUCTION OF CIRCLE FROM SEGMENT &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: circle,construction,segment
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

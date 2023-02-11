@@ -7,7 +7,7 @@ title: Prop. 13.10: Square on Side of Regular Pentagon inscribed in Circle equal
 description: 13.10: SQUARE ON SIDE OF REGULAR PENTAGON INSCRIBED IN CIRCLE EQUALS SQUARES ON SIDES OF HEXAGON AND DECAGON INSCRIBED IN SA &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: circle,decagon,equals,hexagon,inscribed,pentagon,regular,same,side,sides,square,squares,pentagon inscribed in a circle,regular pentagon
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

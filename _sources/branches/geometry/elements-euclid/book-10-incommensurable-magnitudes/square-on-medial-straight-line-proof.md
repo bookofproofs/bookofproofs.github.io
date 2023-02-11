@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.022: SQUARE ON MEDIAL STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: line,medial,square,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

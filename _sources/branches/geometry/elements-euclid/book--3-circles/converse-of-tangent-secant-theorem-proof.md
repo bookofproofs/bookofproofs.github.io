@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 3.37: CONVERSE OF TANGENT SECANT THEOREM &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: converse,secant,tangent,theorem,tangent-secant theorem,converse of tangent theorem,tangent secant theorem,secant secant theorem,tangent secant,tangent secant theorem proof,tangent theorem,converse of the tangent line theorem,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

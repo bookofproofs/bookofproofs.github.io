@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 8.07: FIRST ELEMENT OF GEOMETRIC PROGRESSION THAT DIVIDES LAST ALSO DIVIDES SECOND &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: divides,first,geometric progression,second,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

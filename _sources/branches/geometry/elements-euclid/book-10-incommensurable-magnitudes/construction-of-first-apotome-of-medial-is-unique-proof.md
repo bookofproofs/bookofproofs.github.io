@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.080: CONSTRUCTION OF FIRST APOTOME OF MEDIAL IS UNIQUE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: apotome,construction,first,medial,unique,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

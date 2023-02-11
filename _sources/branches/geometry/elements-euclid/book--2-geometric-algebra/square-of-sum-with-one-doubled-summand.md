@@ -7,7 +7,7 @@ title: 2.08: Square of Sum with One Doubled Summand
 description: 2.08: SQUARE OF SUM WITH ONE DOUBLED SUMMAND &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: doubled,one,square,sum,summand
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

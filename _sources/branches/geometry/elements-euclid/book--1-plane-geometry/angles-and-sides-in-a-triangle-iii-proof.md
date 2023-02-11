@@ -7,7 +7,7 @@ title: (Euclid)
 description:  Proof of 1.24: ANGLES AND SIDES IN A TRIANGLE III &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angles,iii,sides,triangle,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

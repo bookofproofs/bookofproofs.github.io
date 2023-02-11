@@ -7,7 +7,7 @@ title: Prop. 8.23: If First of Four Numbers in Geometric Progression is Cube the
 description: 8.23: IF FIRST OF FOUR NUMBERS IN GEOMETRIC PROGRESSION IS CUBE THEN FOURTH IS CUBE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: cube,first,four,fourth,geometric,numbers,progression,then
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

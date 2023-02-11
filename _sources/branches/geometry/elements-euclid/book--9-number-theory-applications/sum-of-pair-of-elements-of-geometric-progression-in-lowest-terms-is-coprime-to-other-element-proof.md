@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 9.15: SUM OF PAIR OF ELEMENTS OF GEOMETRIC PROGRESSION WITH THREE ELEMENTS IN LOWEST TERMS IS CO-PRIME TO OTHER ELEMENT &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: coprime,element,elements,geometric,lowest,other,pair,progression,sum,terms,three,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

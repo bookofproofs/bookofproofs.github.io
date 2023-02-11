@@ -7,7 +7,7 @@ title: Prop. 10.034: Construction of Components of Side of Rational plus Medial 
 description: 10.034: CONSTRUCTION OF COMPONENTS OF SIDE OF RATIONAL PLUS MEDIAL AREA &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,components,construction,medial,plus,rational,side
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

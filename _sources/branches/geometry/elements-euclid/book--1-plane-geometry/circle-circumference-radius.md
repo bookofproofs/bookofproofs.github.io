@@ -7,7 +7,7 @@ title: 1.15: Circle, Circumference, Radius
 description: 1.15: CIRCLE, CIRCUMFERENCE, RADIUS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: circle,circumference,radiating,radius,circles,circumferences,circumference to radius
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

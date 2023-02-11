@@ -7,7 +7,7 @@ title: Def. 11.18: Cone
 description: DEF. 11.18: CONE &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: acute-angled,cone,obtuse-angled,right-angled
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

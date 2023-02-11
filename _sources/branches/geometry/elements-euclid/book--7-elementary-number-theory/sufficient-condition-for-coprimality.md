@@ -7,7 +7,7 @@ title: 7.01: Sufficient Condition for Coprimality
 description: 7.01: SUFFICIENT CONDITION FOR COPRIMALITY &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$701,bookofproofs$6419,bookofproofs$6908
 keywords: condition,coprimality,sufficient
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

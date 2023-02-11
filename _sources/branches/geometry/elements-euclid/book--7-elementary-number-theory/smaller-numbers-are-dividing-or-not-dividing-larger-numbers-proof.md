@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 7.04: SMALLER NUMBERS ARE DIVIDING OR NOT DIVIDING LARGER NUMBERS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,dividing,larger,not,numbers,smaller,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

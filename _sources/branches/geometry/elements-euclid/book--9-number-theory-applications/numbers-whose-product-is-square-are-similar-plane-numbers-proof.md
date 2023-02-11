@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 9.02: NUMBERS WHOSE PRODUCT IS SQUARE ARE SIMILAR PLANE NUMBERS &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,numbers,plane,product,similar,square,whose,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

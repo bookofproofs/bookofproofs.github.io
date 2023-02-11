@@ -7,7 +7,7 @@ title: Prop. 10.083: Construction of that which produces Medial Whole with Ratio
 description: 10.083: CONSTRUCTION OF THAT WHICH PRODUCES MEDIAL WHOLE WITH RATIONAL AREA IS UNIQUE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,construction,medial,produces,rational,that,unique,which,whole
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 6.06: Triangles with One Equal Angle and Two Sides Proportional are Simil
 description: 6.06: TRIANGLES WITH ONE EQUAL ANGLE AND TWO SIDES PROPORTIONAL ARE SIMILAR &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angle,are,equal,one,proportional,sides,similar,triangles,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

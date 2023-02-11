@@ -7,7 +7,7 @@ title: Homeomorphism, Homeomorphic Spaces
 description: HOMEOMORPHISM, HOMEOMORPHIC SPACES ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: homeomorphic,homeomorphism,homeomorphisms,topologically equivalent
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 10.059: Root of Area contained by Rational Straight Line and Sixth 
 description: 10.059: ROOT OF AREA CONTAINED BY RATIONAL STRAIGHT LINE AND SIXTH BINOMIAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,binomial,contained,line,rational,root,sixth,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

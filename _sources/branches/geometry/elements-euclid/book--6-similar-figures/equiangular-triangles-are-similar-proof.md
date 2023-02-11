@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 6.04: EQUIANGULAR TRIANGLES ARE SIMILAR &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,equiangular,similar,triangles,equiangular triangles are similar proof,equiangular triangle,are all equiangular triangles similar,equiangular triangles,equiangular similar triangles,prove that equiangular triangles are similar,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

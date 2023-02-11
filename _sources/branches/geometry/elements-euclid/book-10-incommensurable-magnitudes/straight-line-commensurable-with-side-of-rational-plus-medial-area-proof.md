@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.069: STRAIGHT LINE COMMENSURABLE WITH SIDE OF RATIONAL PLUS MEDIAL AREA &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: area,commensurable,line,medial,plus,rational,side,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

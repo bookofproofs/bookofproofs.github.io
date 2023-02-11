@@ -7,7 +7,7 @@ title: Prop. 10.094: Side of Area Contained by Rational Straight Line and Fourth
 description: 10.094: SIDE OF AREA CONTAINED BY RATIONAL STRAIGHT LINE AND FOURTH APOTOME &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: apotome,area,contained,fourth,line,rational,side,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

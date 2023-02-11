@@ -7,7 +7,7 @@ title: 3.36: Tangent Secant Theorem
 description: 3.36: TANGENT SECANT THEOREM &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: secant,tangent,theorem,tangent theorem,tangent secant theorem
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

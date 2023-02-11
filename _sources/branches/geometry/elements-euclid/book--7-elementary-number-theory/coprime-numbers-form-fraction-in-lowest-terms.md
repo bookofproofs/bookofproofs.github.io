@@ -7,7 +7,7 @@ title: 7.21: Co-prime Numbers form Fraction in Lowest Terms
 description: 7.21: CO-PRIME NUMBERS FORM FRACTION IN LOWEST TERMS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: coprime,form,fraction,lowest,numbers,terms
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

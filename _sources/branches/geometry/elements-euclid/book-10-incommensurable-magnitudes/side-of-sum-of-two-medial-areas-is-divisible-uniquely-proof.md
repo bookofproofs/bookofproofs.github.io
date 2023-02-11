@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.047: SIDE OF SUM OF TWO MEDIAL AREAS IS DIVISIBLE UNIQUELY &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: areas,divisible,medial,side,sum,two,uniquely,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

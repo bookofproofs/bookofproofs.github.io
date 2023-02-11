@@ -7,7 +7,7 @@ title: 7.34: Existence of Least Common Multiple
 description: 7.34: EXISTENCE OF LEAST COMMON MULTIPLE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: common,existence,least,multiple
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

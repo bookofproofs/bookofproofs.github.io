@@ -7,7 +7,7 @@ title: 3.03: Conditions for Diameter to be a Perpendicular Bisector
 description: 3.03: CONDITIONS FOR DIAMETER TO BE A PERPENDICULAR BISECTOR &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: bisector,conditions,diameter,perpendicular
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

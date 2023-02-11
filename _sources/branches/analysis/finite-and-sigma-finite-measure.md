@@ -7,7 +7,7 @@ title: Finite and Sigma-Finite Measure
 description: FINITE AND SIGMA-FINITE MEASURE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: finite,measure,sigma,sigma finite,sigma finite measure,sigma-finite measure,finite measure,sigma-finite,sigma finite set,σ-finite measure
-contributors: 
+contributors: @Brenner,bookofproofs
 
 ---
 

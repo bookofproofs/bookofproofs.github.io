@@ -7,7 +7,7 @@ title: 2.05: Rectangle is Difference of Two Squares
 description: 2.05: RECTANGLE IS DIFFERENCE OF TWO SQUARES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: difference,rectangle,squares,two
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

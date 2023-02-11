@@ -7,7 +7,7 @@ title: Prop. 10.001: Existence of Fraction of Number Smaller than Given Number
 description: 10.001: EXISTENCE OF FRACTION OF NUMBER SMALLER THAN GIVEN NUMBER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: existence,fraction,given,number,smaller,than
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

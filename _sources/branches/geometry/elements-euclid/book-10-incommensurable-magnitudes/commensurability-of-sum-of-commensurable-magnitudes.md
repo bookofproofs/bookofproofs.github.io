@@ -7,7 +7,7 @@ title: Prop. 10.015: Commensurability of Sum of Commensurable Magnitudes
 description: 10.015: COMMENSURABILITY OF SUM OF COMMENSURABLE MAGNITUDES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: commensurability,commensurable,magnitudes,sum
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

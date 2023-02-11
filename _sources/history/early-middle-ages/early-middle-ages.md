@@ -132,7 +132,7 @@ _(no contents provided yet)_
 #### Birth of
 * [Al-Khujandi][bookofproofs$Al-Khujandi]
 * [Al-Quhi][bookofproofs$Al-Quhi]
-* [Mohammad Abu&#X27;L-Wafa][bookofproofs$Abul-Wafa]
+* [Mohammad Abu'L-Wafa][bookofproofs$Abul-Wafa]
 * [Vijayanandi][bookofproofs$Vijayanandi]
 
 ### 945

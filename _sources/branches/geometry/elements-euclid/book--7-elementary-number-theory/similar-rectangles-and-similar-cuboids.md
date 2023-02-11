@@ -7,7 +7,7 @@ title: 7.21: Similar Rectangles and Similar Cuboids, Similar Plane and Solid Num
 description: 7.21: SIMILAR RECTANGLES AND SIMILAR CUBOIDS, SIMILAR PLANE AND SOLID NUMBERS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: cuboids,rectangles,similar,similar cuboids
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 9.19: CONDITION FOR EXISTENCE OF FOURTH NUMBER PROPORTIONAL TO THREE NUMBERS &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: condition,existence,fourth,number,numbers,proportional,three,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 11.33: Volumes of Similar Parallelepipeds are in Triplicate Ratio t
 description: 11.33: VOLUMES OF SIMILAR PARALLELEPIPEDS ARE IN TRIPLICATE RATIO TO LENGTH OF CORRESPONDING SIDES &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,corresponding,length,parallelepipeds,ratio,sides,similar,triplicate,volumes
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

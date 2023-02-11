@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 3.24: SIMILAR SEGMENTS ON EQUAL BASES ARE EQUAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,bases,equal,segments,similar,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

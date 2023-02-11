@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.023: SEGMENT COMMENSURABLE WITH MEDIAL SEGMENT IS MEDIAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: commensurable,medial,segment,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

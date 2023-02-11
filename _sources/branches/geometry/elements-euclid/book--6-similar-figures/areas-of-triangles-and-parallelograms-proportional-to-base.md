@@ -7,7 +7,7 @@ title: 6.01: Areas of Triangles and Parallelograms Proportional to Base
 description: 6.01: AREAS OF TRIANGLES AND PARALLELOGRAMS PROPORTIONAL TO BASE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: areas,base,parallelograms,proportional,triangles
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

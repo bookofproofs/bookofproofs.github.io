@@ -7,7 +7,7 @@ title: Prop. 9.17: Last Element of Geometric Progression with Co-prime Extremes 
 description: 9.17: LAST ELEMENT OF GEOMETRIC PROGRESSION WITH CO-PRIME EXTREMES HAS NO INTEGER PROPORTIONAL AS FIRST TO SECOND &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: coprime,element,extremes,first,geometric,has,integer,last,progression,proportional,second
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

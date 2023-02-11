@@ -7,7 +7,7 @@ title: By Euclid
 description: GEOMETRIC PROOF Proof of BISECTORS OF TWO SUPPLEMENTAL ANGLES ARE RIGHT ANGLE TO EACH OTHER &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: angle,angles,are,bisectors,each,other,right,supplemental,two,proof
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

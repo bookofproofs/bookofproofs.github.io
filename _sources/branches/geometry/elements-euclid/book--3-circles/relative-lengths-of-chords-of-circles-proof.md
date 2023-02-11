@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 3.15: RELATIVE LENGTHS OF CHORDS OF CIRCLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: chords,circles,lengths,relative,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

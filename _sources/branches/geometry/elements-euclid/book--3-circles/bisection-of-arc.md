@@ -7,7 +7,7 @@ title: 3.30: Bisection of Arc
 description: 3.30: BISECTION OF ARC &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: arc,bisection
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

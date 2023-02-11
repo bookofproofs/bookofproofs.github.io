@@ -7,7 +7,7 @@ title: Prop. 10.097: Square on Apotome applied to Rational Straight Line
 description: 10.097: SQUARE ON APOTOME APPLIED TO RATIONAL STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: apotome,applied,line,rational,square,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

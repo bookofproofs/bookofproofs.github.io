@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 12.12: VOLUMES OF SIMILAR CONES AND CYLINDERS ARE IN TRIPLICATE RATIO OF DIAMETERS OF BASES &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: are,bases,cones,cylinders,diameters,ratio,similar,triplicate,volumes,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

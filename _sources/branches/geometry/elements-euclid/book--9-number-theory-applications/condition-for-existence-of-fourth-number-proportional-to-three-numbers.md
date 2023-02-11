@@ -7,7 +7,7 @@ title: Prop. 9.19: Condition for Existence of Fourth Number Proportional to Thre
 description: 9.19: CONDITION FOR EXISTENCE OF FOURTH NUMBER PROPORTIONAL TO THREE NUMBERS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: condition,existence,fourth,number,numbers,proportional,three
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

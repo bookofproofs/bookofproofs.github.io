@@ -7,7 +7,7 @@ title: Prop. 9.07: Product of Composite Number with Number is Solid Number
 description: 9.07: PRODUCT OF COMPOSITE NUMBER WITH NUMBER IS SOLID NUMBER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: composite,number,product,solid
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

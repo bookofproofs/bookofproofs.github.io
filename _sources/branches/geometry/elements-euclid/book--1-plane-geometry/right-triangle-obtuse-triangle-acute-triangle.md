@@ -7,7 +7,7 @@ title: 1.21: Right Triangle, Obtuse Triangle, Acute Triangle
 description: 1.21: RIGHT TRIANGLE, OBTUSE TRIANGLE, ACUTE TRIANGLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: acute,acute-angled,obtuse,obtuse-angled,right,right-angled,right-angled triangle,triangle,obtuse triangle,acute triangle,obtuse triangle definition,obtuse angled triangle,acute angled triangle,right obtuse triangle,obtuse right triangle,triangle obtuse,acute and obtuse triangles,what is an obtuse triangle,acute triangle definition
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

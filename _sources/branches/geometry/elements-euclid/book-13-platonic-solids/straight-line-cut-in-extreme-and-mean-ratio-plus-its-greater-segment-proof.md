@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 13.05: STRAIGHT LINE CUT IN EXTREME AND MEAN RATIO PLUS ITS GREATER SEGMENT &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: cut,extreme,greater,its,line,mean,plus,ratio,segment,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 8.20: NUMBERS BETWEEN WHICH EXISTS ONE MEAN PROPORTIONAL ARE SIMILAR PLANE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,between,exists,mean,numbers,one,plane,proportional,similar,which,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

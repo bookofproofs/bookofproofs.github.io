@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 11.02: TWO INTERSECTING STRAIGHT LINES ARE IN ONE PLANE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,intersecting,lines,one,plane,straight,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

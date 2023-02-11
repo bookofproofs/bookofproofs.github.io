@@ -7,7 +7,7 @@ title: 7.04: Aliquant Part, a Number Being Not a Divisor of Another Number
 description: 7.04: ALIQUANT PART, A NUMBER BEING NOT A DIVISOR OF ANOTHER NUMBER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: aliquant,another,being,divisor,not,number,part,parts
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

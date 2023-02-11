@@ -7,7 +7,7 @@ title: 7.26: Product of Co-prime Pairs is Co-prime
 description: 7.26: PRODUCT OF CO-PRIME PAIRS IS CO-PRIME ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: coprime,pairs,product
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

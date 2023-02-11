@@ -7,7 +7,7 @@ title: Totally Differentiable Functions, Total Derivative
 description: TOTALLY DIFFERENTIABLE FUNCTIONS, TOTAL DERIVATIVE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: derivative,differentiable,functions,total,totally,totally differentiable,total derivative
-contributors: 
+contributors: @Brenner,bookofproofs
 
 ---
 

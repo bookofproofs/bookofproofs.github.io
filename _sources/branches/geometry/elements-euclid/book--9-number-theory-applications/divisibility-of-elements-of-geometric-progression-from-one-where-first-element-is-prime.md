@@ -7,7 +7,7 @@ title: Prop. 9.13: Divisibility of Elements of Geometric Progression from One wh
 description: 9.13: DIVISIBILITY OF ELEMENTS OF GEOMETRIC PROGRESSION FROM ONE WHERE FIRST ELEMENT IS PRIME &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: divisibility,element,elements,first,geometric,one,prime,progression,where
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

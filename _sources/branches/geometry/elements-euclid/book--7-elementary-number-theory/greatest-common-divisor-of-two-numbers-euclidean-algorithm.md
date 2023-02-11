@@ -7,7 +7,7 @@ title: 7.02: Greatest Common Divisor of Two Numbers - Euclidean Algorithm
 description: 7.02: GREATEST COMMON DIVISOR OF TWO NUMBERS - EUCLIDEAN ALGORITHM ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: euclidean algorithm,greatest common divisor,greatest common divisor algorithm,greatest common measure,algorithm
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

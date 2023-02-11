@@ -7,7 +7,7 @@ title: Historical Development of Geometry
 description: HISTORICAL DEVELOPMENT OF GEOMETRY ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6260,bookofproofs$8231,bookofproofs$8251
 keywords: historical development of geometry
-contributors: bookofproofs,@calahan
+contributors: bookofproofs,@Calahan
 
 
 ---

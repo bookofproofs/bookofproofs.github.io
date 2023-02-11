@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 11.08: LINE PARALLEL TO PERPENDICULAR LINE TO PLANE IS PERPENDICULAR TO SAME PLANE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: line,parallel,perpendicular,plane,same,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

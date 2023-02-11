@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.061: SQUARE ON FIRST BIMEDIAL STRAIGHT LINE APPLIED TO RATIONAL STRAIGHT LINE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: applied,bimedial,first,line,rational,square,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

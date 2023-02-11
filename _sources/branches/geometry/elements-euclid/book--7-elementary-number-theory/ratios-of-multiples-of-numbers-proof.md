@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 7.18: RATIOS OF MULTIPLES OF NUMBERS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: multiples,numbers,ratios,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

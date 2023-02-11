@@ -7,7 +7,7 @@ title: 7.14: Proportion of Numbers is Transitive
 description: 7.14: PROPORTION OF NUMBERS IS TRANSITIVE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: numbers,proportion,transitive
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

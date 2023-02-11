@@ -7,7 +7,7 @@ title: Lem. 11.23: Making a Square Area Equal to the Difference Of Areas of Two 
 description: LEM. 11.23: MAKING A SQUARE AREA EQUAL TO THE DIFFERENCE OF AREAS OF TWO OTHER INCONGRUENT SQUARES &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: area,areas,difference,equal,incongruent,making,other,square,squares,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

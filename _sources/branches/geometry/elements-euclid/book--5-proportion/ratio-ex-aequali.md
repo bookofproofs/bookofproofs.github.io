@@ -7,7 +7,7 @@ title: 5.17: Ratio ex Aequali
 description: 5.17: RATIO EX AEQUALI &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$2775,bookofproofs$6419
 keywords: aequali,ex aequali,ratio,ratio ex aequali,ratio via equality
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

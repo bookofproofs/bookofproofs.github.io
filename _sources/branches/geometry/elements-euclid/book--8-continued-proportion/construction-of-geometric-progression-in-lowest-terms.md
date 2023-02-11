@@ -7,7 +7,7 @@ title: 8.02: Construction of Geometric Progression in Lowest Terms
 description: 8.02: CONSTRUCTION OF GEOMETRIC PROGRESSION IN LOWEST TERMS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: construction,geometric,lowest,progression,terms
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 11.24: Opposite Planes of Solid contained by Parallel Planes are Eq
 description: 11.24: OPPOSITE PLANES OF SOLID CONTAINED BY PARALLEL PLANES ARE EQUAL PARALLELOGRAMS &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,contained,equal,opposite,parallel,parallelograms,planes,solid
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

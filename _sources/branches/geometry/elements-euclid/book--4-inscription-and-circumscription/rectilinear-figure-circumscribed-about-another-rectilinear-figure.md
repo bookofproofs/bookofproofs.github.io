@@ -7,7 +7,7 @@ title: 4.2: Rectilinear Figure Circumscribed about Another Rectilinear Figure
 description: 4.2: RECTILINEAR FIGURE CIRCUMSCRIBED ABOUT ANOTHER RECTILINEAR FIGURE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$2785,bookofproofs$6419
 keywords: about,another,circumscribed,circumscribed about a(nother rectilinear) figure,figure,rectilinear
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

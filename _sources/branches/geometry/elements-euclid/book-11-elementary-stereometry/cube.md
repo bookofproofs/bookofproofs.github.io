@@ -7,7 +7,7 @@ title: Def. 11.25: Cube
 description: DEF. 11.25: CUBE &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: cube,dx, 2,x + ct,x - st,y + cp,y + st,y - ct
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

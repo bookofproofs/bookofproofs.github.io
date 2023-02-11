@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 4.10: CONSTRUCTION OF ISOSCELES TRIANGLE WHOSE BASE ANGLE IS TWICE APEX &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angle,apex,base,construction,isosceles,triangle,twice,whose,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

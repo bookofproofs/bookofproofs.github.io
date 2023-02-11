@@ -7,7 +7,7 @@ title: 6.21: Similarity of Polygons is Transitive
 description: 6.21: SIMILARITY OF POLYGONS IS TRANSITIVE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: polygons,similarity,transitive
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

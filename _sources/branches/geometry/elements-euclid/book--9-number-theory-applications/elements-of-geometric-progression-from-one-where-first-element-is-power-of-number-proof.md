@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 9.09: ELEMENTS OF GEOMETRIC PROGRESSION FROM ONE WHERE FIRST ELEMENT IS POWER OF NUMBER &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: element,elements,first,geometric,number,one,power,progression,where,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

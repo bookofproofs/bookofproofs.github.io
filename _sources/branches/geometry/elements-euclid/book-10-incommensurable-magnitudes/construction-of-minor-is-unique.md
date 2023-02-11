@@ -7,7 +7,7 @@ title: Prop. 10.082: Construction of Minor is Unique
 description: 10.082: CONSTRUCTION OF MINOR IS UNIQUE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: construction,minor,unique
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

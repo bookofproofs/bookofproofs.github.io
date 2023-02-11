@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 3.01: BISECTED CHORD OF A CIRCLE PASSES THE CENTER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: bisected,center,chord,circle,passes,proof
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

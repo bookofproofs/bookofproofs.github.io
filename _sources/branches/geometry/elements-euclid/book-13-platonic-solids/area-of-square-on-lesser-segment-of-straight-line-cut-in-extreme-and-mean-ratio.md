@@ -7,7 +7,7 @@ title: Prop. 13.03: Area of Square on Lesser Segment of Straight Line cut in Ext
 description: 13.03: AREA OF SQUARE ON LESSER SEGMENT OF STRAIGHT LINE CUT IN EXTREME AND MEAN RATIO &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,cut,extreme,lesser,line,mean,ratio,segment,square,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 7.05: Divisors Obey Distributive Law (Sum)
 description: 7.05: DIVISORS OBEY DISTRIBUTIVE LAW SUM &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: distributive,divisors,law,obey,sum
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

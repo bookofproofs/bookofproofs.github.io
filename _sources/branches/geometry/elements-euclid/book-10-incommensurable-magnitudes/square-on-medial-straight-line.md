@@ -7,7 +7,7 @@ title: Prop. 10.022: Square on Medial Straight Line
 description: 10.022: SQUARE ON MEDIAL STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: line,medial,square,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

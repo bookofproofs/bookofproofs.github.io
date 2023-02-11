@@ -7,7 +7,7 @@ title: 4.1: Rectilinear Figure Inscribed in Another Rectilinear Figure
 description: 4.1: RECTILINEAR FIGURE INSCRIBED IN ANOTHER RECTILINEAR FIGURE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$2785,bookofproofs$6419,bookofproofs$6908
 keywords: another,figure,inscribed,inscribed in a(nother) rectilinear figure,rectilinear
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

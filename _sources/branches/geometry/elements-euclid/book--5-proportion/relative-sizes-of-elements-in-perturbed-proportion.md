@@ -7,7 +7,7 @@ title: 5.21: Relative Sizes of Elements in Perturbed Proportion
 description: 5.21: RELATIVE SIZES OF ELEMENTS IN PERTURBED PROPORTION &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: elements,perturbed,proportion,relative,sizes
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

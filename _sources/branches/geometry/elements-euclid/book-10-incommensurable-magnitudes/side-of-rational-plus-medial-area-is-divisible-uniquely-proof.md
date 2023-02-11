@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.046: SIDE OF RATIONAL PLUS MEDIAL AREA IS DIVISIBLE UNIQUELY &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: area,divisible,medial,plus,rational,side,uniquely,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

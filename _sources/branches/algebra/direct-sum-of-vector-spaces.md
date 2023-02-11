@@ -7,7 +7,7 @@ title: Direct Sum of Vector Spaces
 description: DIRECT SUM OF VECTOR SPACES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: direct,spaces,sum,vector
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

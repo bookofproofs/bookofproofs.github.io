@@ -7,7 +7,7 @@ title: Lem. 10.059: Sum of Squares on Unequal Pieces of Segment Is Greater than 
 description: LEM. 10.059: SUM OF SQUARES ON UNEQUAL PIECES OF SEGMENT IS GREATER THAN TWICE THE RECTANGLE CONTAINED BY THEM &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: contained,greater,pieces,rectangle,segment,squares,sum,than,them,twice,unequal
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

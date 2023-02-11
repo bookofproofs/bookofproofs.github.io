@@ -7,7 +7,7 @@ title: Archimedean Axiom
 description: ARCHIMEDEAN AXIOM ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$581,bookofproofs$6907
 keywords: archimedean postulate,archimedean axiom,archimedean principle
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

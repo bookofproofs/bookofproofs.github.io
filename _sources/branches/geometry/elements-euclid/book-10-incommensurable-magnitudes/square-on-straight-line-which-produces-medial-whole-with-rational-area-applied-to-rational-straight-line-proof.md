@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.101: SQUARE ON STRAIGHT LINE WHICH PRODUCES MEDIAL WHOLE WITH RATIONAL AREA APPLIED TO RATIONAL STRAIGHT LINE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: applied,area,line,medial,produces,rational,square,straight,which,whole,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

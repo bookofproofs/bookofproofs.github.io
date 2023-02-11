@@ -7,7 +7,7 @@ title: 6.19: Ratio of Areas of Similar Triangles
 description: 6.19: RATIO OF AREAS OF SIMILAR TRIANGLES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: areas,ratio,similar,triangles
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

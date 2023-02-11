@@ -7,7 +7,7 @@ title: Prop. 10.003: Greatest Common Measure of Commensurable Magnitudes
 description: 10.003: GREATEST COMMON MEASURE OF COMMENSURABLE MAGNITUDES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: commensurable,common,greatest,magnitudes,measure
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

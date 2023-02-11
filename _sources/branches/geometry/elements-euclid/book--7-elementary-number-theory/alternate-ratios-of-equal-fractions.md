@@ -7,7 +7,7 @@ title: 7.09: Alternate Ratios of Equal Fractions
 description: 7.09: ALTERNATE RATIOS OF EQUAL FRACTIONS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: alternate,equal,fractions,ratios
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

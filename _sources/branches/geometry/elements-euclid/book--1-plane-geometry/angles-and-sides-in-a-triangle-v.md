@@ -7,7 +7,7 @@ title: Angles and Sides in a Triangle V
 description: ANGLES AND SIDES IN A TRIANGLE V &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: angles,sides,triangle
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

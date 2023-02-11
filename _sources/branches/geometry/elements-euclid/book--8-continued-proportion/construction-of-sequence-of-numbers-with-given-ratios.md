@@ -7,7 +7,7 @@ title: 8.04: Construction of Sequence of Numbers with Given Ratios
 description: 8.04: CONSTRUCTION OF SEQUENCE OF NUMBERS WITH GIVEN RATIOS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: construction,given,numbers,ratios,sequence
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

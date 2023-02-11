@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.068: STRAIGHT LINE COMMENSURABLE WITH MAJOR STRAIGHT LINE IS MAJOR &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: commensurable,line,major,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

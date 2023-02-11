@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 5.05: MULTIPLICATION OF REAL NUMBERS IS LEFT DISTRIBUTIVE OVER SUBTRACTION &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: distributive,left,multiplication,numbers,over,real,subtraction,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

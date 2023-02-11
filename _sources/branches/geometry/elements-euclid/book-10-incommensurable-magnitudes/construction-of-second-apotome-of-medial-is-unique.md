@@ -7,7 +7,7 @@ title: Prop. 10.081: Construction of Second Apotome of Medial is Unique
 description: 10.081: CONSTRUCTION OF SECOND APOTOME OF MEDIAL IS UNIQUE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: apotome,construction,medial,second,unique
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

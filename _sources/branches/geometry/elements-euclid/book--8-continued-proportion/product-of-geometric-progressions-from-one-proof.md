@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 8.10: PRODUCT OF GEOMETRIC PROGRESSIONS FROM ONE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: geometric,one,product,progressions,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 1.1: Equality is an Equivalence Relation
 description: 1.1: EQUALITY IS AN EQUIVALENCE RELATION &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: equality,equivalence,relation
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

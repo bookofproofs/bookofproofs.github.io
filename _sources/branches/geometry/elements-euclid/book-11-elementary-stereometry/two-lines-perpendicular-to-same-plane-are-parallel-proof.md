@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 11.06: TWO LINES PERPENDICULAR TO SAME PLANE ARE PARALLEL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,lines,parallel,perpendicular,plane,same,two,two lines perpendicular to the same plane are,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

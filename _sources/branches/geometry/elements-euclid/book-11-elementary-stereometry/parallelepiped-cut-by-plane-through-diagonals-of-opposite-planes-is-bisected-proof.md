@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 11.28: PARALLELEPIPED CUT BY PLANE THROUGH DIAGONALS OF OPPOSITE PLANES IS BISECTED &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: bisected,cut,diagonals,opposite,parallelepiped,plane,planes,through,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

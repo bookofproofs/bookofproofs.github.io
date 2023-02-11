@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 11.22: EXTREMITIES OF LINE SEGMENTS CONTAINING THREE PLANE ANGLES ANY TWO OF WHICH ARE GREATER THAN OTHER FORM TRIANGLE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: angles,any,are,containing,extremities,form,greater,line,other,plane,segments,than,three,triangle,two,which,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

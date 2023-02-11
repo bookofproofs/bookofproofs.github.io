@@ -7,7 +7,7 @@ title: Bisectors of Two Supplemental Angles Are Right Angle To Each Other
 description: BISECTORS OF TWO SUPPLEMENTAL ANGLES ARE RIGHT ANGLE TO EACH OTHER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: angle,angles,are,bisectors,each,other,right,supplemental,two
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

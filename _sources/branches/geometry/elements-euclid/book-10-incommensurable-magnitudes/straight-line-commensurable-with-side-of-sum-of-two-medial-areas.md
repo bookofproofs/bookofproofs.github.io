@@ -7,7 +7,7 @@ title: Prop. 10.070: Straight Line Commensurable with Side of Sum of two Medial 
 description: 10.070: STRAIGHT LINE COMMENSURABLE WITH SIDE OF SUM OF TWO MEDIAL AREAS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: areas,commensurable,line,medial,side,straight,sum,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

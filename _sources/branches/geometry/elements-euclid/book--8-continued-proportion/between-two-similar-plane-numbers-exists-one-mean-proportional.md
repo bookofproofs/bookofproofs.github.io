@@ -7,7 +7,7 @@ title: Prop. 8.18: Between two Similar Plane Numbers exists one Mean Proportiona
 description: 8.18: BETWEEN TWO SIMILAR PLANE NUMBERS EXISTS ONE MEAN PROPORTIONAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: between,exists,mean,numbers,one,plane,proportional,similar,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

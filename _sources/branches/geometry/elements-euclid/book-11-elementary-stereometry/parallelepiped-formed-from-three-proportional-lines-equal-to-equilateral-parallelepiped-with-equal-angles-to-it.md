@@ -7,7 +7,7 @@ title: Prop. 11.36: Parallelepiped formed from Three Proportional Lines equal to
 description: 11.36: PARALLELEPIPED FORMED FROM THREE PROPORTIONAL LINES EQUAL TO EQUILATERAL PARALLELEPIPED WITH EQUAL ANGLES TO IT FORME &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angles,equal,equilateral,formed,lines,mean,parallelepiped,proportional,three
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

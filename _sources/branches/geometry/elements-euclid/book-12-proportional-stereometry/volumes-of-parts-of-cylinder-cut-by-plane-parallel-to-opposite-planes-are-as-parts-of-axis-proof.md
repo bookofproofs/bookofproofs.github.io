@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 12.13: VOLUMES OF PARTS OF CYLINDER CUT BY PLANE PARALLEL TO OPPOSITE PLANES ARE AS PARTS OF AXIS &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: are,axis,cut,cylinder,opposite,parallel,parts,plane,planes,volumes,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

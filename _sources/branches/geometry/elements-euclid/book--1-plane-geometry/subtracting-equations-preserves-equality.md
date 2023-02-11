@@ -7,7 +7,7 @@ title: 1.3: Subtracting Equations Preserves Equality
 description: 1.3: SUBTRACTING EQUATIONS PRESERVES EQUALITY &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: equality,equations,preserves,subtracting
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

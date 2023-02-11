@@ -7,7 +7,7 @@ title: 3.07: Relative Lengths of Lines Inside Circle
 description: 3.07: RELATIVE LENGTHS OF LINES INSIDE CIRCLE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: circle,inside,lengths,lines,relative
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

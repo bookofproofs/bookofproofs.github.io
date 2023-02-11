@@ -7,7 +7,7 @@ title: 7.27: Powers of Co-prime Numbers are Co-prime
 description: 7.27: POWERS OF CO-PRIME NUMBERS ARE CO-PRIME ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,coprime,numbers,powers
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

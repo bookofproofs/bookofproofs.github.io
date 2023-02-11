@@ -7,7 +7,7 @@ title: Prop. 10.046: Side of Rational Plus Medial Area is Divisible Uniquely
 description: 10.046: SIDE OF RATIONAL PLUS MEDIAL AREA IS DIVISIBLE UNIQUELY &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,divisible,medial,plus,rational,side,uniquely
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

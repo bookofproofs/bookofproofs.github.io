@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 8.21: NUMBERS BETWEEN WHICH EXIST TWO MEAN PROPORTIONALS ARE SIMILAR SOLID &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,between,exist,mean,numbers,proportionals,similar,solid,two,which,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

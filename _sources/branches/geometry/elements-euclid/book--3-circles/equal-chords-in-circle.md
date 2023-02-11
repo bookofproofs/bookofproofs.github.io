@@ -7,7 +7,7 @@ title: 3.14: Equal Chords in Circle
 description: 3.14: EQUAL CHORDS IN CIRCLE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: chords,circle,equal
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 1.45: Construction of Parallelograms III
 description: 1.45: CONSTRUCTION OF PARALLELOGRAMS III &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: construction,iii,parallelograms,construction of parallelogram
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

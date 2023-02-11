@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.077: THAT WHICH PRODUCES MEDIAL WHOLE WITH RATIONAL AREA IS IRRATIONAL &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: area,irrational,medial,produces,rational,that,that which makes with a rational (area) a medial whole,which,whole,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

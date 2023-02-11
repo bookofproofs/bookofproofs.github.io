@@ -7,7 +7,7 @@ title: 1.11: Obtuse Angle
 description: 1.11: OBTUSE ANGLE &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: angle,obtuse,obtuse angle,obtuse angle definition,obtuse angel,what is an obtuse angle,obtuse definition,what is a obtuse angle,definition of obtuse angle,obtuse angles,obtuse angles definition
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

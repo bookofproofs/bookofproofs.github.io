@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 7.38: DIVISOR IS RECIPROCAL OF DIVISOR OF INTEGER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: divisor,integer,reciprocal,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

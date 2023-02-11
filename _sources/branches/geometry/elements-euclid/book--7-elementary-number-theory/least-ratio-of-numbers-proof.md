@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 7.33: LEAST RATIO OF NUMBERS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: least,numbers,ratio,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

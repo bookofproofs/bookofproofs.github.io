@@ -7,7 +7,7 @@ title: Def. 11.20: Base of a Cone
 description: DEF. 11.20: BASE OF A CONE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: base,base (of the cone,cone
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

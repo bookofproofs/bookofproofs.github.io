@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 1.42: CONSTRUCTION OF PARALLELOGRAMS I &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: construction,parallelograms,parallelogram construction,construction of parallelogram,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

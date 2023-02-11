@@ -7,7 +7,7 @@ title: Def. 10.04: Rational and Irrational Magnitudes in Square
 description: DEF. 10.04: RATIONAL AND IRRATIONAL MAGNITUDES IN SQUARE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: irrational,magnitudes,rational,square
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

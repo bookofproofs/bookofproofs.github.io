@@ -7,7 +7,7 @@ title: 3.04: Chords Equally Far From the Center of a Circle
 description: 3.04: CHORDS EQUALLY FAR FROM THE CENTER OF A CIRCLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$6419
 keywords: center,chords,circle,equally,equally distant from the center,equally far from the center,far
-contributors: bookofproofs,@calahan,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Fitzpatrick
 
 ---
 

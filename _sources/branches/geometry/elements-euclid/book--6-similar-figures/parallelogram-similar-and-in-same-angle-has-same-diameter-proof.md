@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 6.26: PARALLELOGRAM SIMILAR AND IN SAME ANGLE HAS SAME DIAMETER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angle,diameter,has,parallelogram,same,similar,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

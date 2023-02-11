@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 5.19: PROPORTIONAL MAGNITUDES HAVE PROPORTIONAL REMAINDERS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: have,magnitudes,proportional,remainders,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

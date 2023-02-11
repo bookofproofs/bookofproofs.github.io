@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 7.32: NATURAL NUMBER IS PRIME OR HAS PRIME FACTOR &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: factor,has,natural,number,prime,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

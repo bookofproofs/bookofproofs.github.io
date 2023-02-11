@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 6.06: TRIANGLES WITH ONE EQUAL ANGLE AND TWO SIDES PROPORTIONAL ARE SIMILAR &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angle,are,equal,one,proportional,sides,similar,triangles,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 13.18: There are only Five Platonic Solids
 description: 13.18: THERE ARE ONLY FIVE PLATONIC SOLIDS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,five,only,platonic,platonic solids,solids,there
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

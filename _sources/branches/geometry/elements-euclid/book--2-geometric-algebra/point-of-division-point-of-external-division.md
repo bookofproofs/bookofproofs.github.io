@@ -7,7 +7,7 @@ title: Point of Division, Point of External Division
 description: POINT OF DIVISION, POINT OF EXTERNAL DIVISION &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: division,external,point,point of external division
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

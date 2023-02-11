@@ -7,7 +7,7 @@ title: 4.14: Circumscribing Circle about Regular Pentagon
 description: 4.14: CIRCUMSCRIBING CIRCLE ABOUT REGULAR PENTAGON &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: about,circle,circumscribing,pentagon,regular
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

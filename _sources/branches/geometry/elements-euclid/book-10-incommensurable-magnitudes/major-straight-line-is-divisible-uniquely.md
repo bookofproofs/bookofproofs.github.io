@@ -7,7 +7,7 @@ title: Prop. 10.045: Major Straight Line is Divisible Uniquely
 description: 10.045: MAJOR STRAIGHT LINE IS DIVISIBLE UNIQUELY &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: divisible,line,major,straight,uniquely
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

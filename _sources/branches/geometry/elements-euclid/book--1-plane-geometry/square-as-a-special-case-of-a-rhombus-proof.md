@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of SQUARE AS A SPECIAL CASE OF A RHOMBUS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: case,rhombus,special,square,rhombus square,proof
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

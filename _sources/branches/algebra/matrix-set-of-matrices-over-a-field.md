@@ -7,7 +7,7 @@ title: Matrix, Set of Matrices over a Field
 description: MATRIX, SET OF MATRICES OVER A FIELD &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$979,bookofproofs$6907
 keywords: field,matrices,matrix,over,set
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 In the following definition, we introduce the notion of a "matrix" from a pure notational perspective, without in any way considering interesting mathematical properties of matrices, like dimensions and basis, which we will deal later in detail.

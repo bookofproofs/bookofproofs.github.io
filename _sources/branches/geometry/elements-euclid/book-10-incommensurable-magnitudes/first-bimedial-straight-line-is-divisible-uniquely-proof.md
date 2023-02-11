@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.043: FIRST BIMEDIAL STRAIGHT LINE IS DIVISIBLE UNIQUELY &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: bimedial,divisible,first,line,straight,uniquely,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

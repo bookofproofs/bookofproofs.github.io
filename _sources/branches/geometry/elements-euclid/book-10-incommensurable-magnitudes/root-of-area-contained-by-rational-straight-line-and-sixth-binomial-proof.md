@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.059: ROOT OF AREA CONTAINED BY RATIONAL STRAIGHT LINE AND SIXTH BINOMIAL &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: area,binomial,contained,line,rational,root,sixth,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

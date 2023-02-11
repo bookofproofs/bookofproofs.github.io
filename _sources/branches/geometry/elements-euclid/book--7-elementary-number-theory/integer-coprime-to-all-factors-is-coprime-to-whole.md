@@ -7,7 +7,7 @@ title: 7.24: Integer Co-prime to all Factors is Co-prime to Whole
 description: 7.24: INTEGER CO-PRIME TO ALL FACTORS IS CO-PRIME TO WHOLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: all,coprime,factors,integer,whole
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

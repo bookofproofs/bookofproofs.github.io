@@ -7,7 +7,7 @@ title: 1.13: Angles at Intersections of Straight Lines
 description: 1.13: ANGLES AT INTERSECTIONS OF STRAIGHT LINES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: angles,intersections,lines,straight
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

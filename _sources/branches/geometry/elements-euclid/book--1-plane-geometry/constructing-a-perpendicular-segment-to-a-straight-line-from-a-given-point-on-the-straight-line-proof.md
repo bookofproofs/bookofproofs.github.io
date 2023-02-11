@@ -7,7 +7,7 @@ title: (Euclid)
 description: PROOF OF 1.11: CONSTRUCTING A PERPENDICULAR SEGMENT TO A STRAIGHT LINE FROM A GIVEN POINT ON THE STRAIGHT LINE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: constructing,given,line,perpendicular,point,segment,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

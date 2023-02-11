@@ -7,7 +7,7 @@ title: Def. 11.03: Straight Line at Right Angles To a Plane
 description: DEF. 11.03: STRAIGHT LINE AT RIGHT ANGLES TO A PLANE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angles,line,plane,right,straight,straight line is at right angles to a plane
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

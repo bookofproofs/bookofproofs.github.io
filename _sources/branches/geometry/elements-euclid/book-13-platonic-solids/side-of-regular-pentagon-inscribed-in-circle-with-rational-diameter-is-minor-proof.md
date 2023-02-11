@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 13.11: SIDE OF REGULAR PENTAGON INSCRIBED IN CIRCLE WITH RATIONAL DIAMETER IS MINOR &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: circle,diameter,inscribed,minor,pentagon,rational,regular,side,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

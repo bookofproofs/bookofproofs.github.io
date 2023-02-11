@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 13.06: SEGMENTS OF RATIONAL STRAIGHT LINE CUT IN EXTREME AND MEAN RATIO ARE APOTOME &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: apotome,are,cut,extreme,line,mean,ratio,rational,segments,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

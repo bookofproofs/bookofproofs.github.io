@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 9.24: EVEN NUMBER MINUS EVEN NUMBER IS EVEN &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: even,minus,number,an even number minus an even number,even number minus even number,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

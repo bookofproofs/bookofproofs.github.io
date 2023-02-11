@@ -7,7 +7,7 @@ title: Def. 11.09: Similar Solid Figures
 description: DEF. 11.09: SIMILAR SOLID FIGURES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: cells,similar,similar solid figures
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

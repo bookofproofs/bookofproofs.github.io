@@ -7,7 +7,7 @@ title: Prop. 12.11: Volume of Cones or Cylinders of Same Height are in Same Rati
 description: 12.11: VOLUME OF CONES OR CYLINDERS OF SAME HEIGHT ARE IN SAME RATIO AS BASES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,bases,cones,cylinders,height,ratio,same,volume
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description: Proof of 7.22: NUMBERS FORMING FRACTION IN LOWEST TERMS ARE CO-PRIME ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,coprime,forming,fraction,lowest,numbers,terms,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

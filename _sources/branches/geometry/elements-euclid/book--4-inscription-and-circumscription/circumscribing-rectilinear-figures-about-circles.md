@@ -7,7 +7,7 @@ title: 4.4: Circumscribing Rectilinear Figures about Circles
 description: 4.4: CIRCUMSCRIBING RECTILINEAR FIGURES ABOUT CIRCLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$2785,bookofproofs$6419,bookofproofs$6908
 keywords: about,circles,circumscribed,circumscribed about a circle,circumscribing,figures,rectilinear
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

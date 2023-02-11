@@ -7,7 +7,7 @@ title: Prop. 10.110: Two Irrational Straight Lines arising from Medial Area from
 description: 10.110: TWO IRRATIONAL STRAIGHT LINES ARISING FROM MEDIAL AREA FROM WHICH MEDIAL AREA SUBTRACTED &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,arising,irrational,lines,medial,straight,subtracted,two,which
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

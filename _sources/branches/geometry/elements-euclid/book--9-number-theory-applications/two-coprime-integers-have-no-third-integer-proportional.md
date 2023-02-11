@@ -7,7 +7,7 @@ title: Prop. 9.16: Two Co-prime Integers have no Third Integer Proportional
 description: 9.16: TWO CO-PRIME INTEGERS HAVE NO THIRD INTEGER PROPORTIONAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: coprime,have,integer,integers,proportional,third,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

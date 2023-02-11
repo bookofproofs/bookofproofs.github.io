@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.106: STRAIGHT LINE COMMENSURABLE WITH THAT WHICH PRODUCES MEDIAL WHOLE WITH RATIONAL AREA &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: area,commensurable,line,medial,produces,rational,straight,that,which,whole,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

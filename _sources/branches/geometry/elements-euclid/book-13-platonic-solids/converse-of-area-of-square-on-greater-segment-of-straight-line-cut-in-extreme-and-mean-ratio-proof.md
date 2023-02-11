@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 13.02: CONVERSE OF AREA OF SQUARE ON GREATER SEGMENT OF STRAIGHT LINE CUT IN EXTREME AND MEAN RATIO &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: area,converse,cut,extreme,greater,line,mean,ratio,segment,square,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

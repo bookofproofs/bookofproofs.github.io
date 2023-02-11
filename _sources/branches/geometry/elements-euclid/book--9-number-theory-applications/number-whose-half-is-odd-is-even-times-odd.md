@@ -7,7 +7,7 @@ title: Prop. 9.33: Number whose Half is Odd is Even-Times Odd
 description: 9.33: NUMBER WHOSE HALF IS ODD IS EVEN-TIMES ODD &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: even,half,number,odd,times,whose
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

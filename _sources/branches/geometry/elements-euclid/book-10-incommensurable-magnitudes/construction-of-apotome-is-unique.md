@@ -7,7 +7,7 @@ title: Prop. 10.079: Construction of Apotome is Unique
 description: 10.079: CONSTRUCTION OF APOTOME IS UNIQUE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: apotome,construction,unique
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

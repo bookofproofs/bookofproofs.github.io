@@ -7,7 +7,7 @@ title: 1.4: Equality of all Right Angles
 description: 1.4: EQUALITY OF ALL RIGHT ANGLES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: all,angles,equality,right
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 5.16: PROPORTIONAL MAGNITUDES ARE PROPORTIONAL ALTERNATELY &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: alternately,are,magnitudes,proportional,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

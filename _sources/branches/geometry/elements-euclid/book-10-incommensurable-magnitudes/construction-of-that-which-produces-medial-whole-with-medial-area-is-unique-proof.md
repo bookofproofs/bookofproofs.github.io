@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.084: CONSTRUCTION OF THAT WHICH PRODUCES MEDIAL WHOLE WITH MEDIAL AREA IS UNIQUE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: area,construction,medial,produces,that,unique,which,whole,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

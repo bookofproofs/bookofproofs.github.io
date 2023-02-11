@@ -7,7 +7,7 @@ title: Differentiable Manifold, Atlas
 description: DIFFERENTIABLE MANIFOLD, ATLAS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: atlas,differentiable,manifold
-contributors: 
+contributors: @Brenner,bookofproofs
 
 ---
 

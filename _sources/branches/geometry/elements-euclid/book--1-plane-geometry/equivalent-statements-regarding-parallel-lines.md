@@ -7,7 +7,7 @@ title: Equivalent Statements Regarding Parallel Lines
 description: EQUIVALENT STATEMENTS REGARDING PARALLEL LINES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: equivalent,lines,parallel,regarding,statements
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

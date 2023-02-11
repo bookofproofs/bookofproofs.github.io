@@ -7,7 +7,7 @@ title: 2.01: Summing Areas or Rectangles
 description: 2.01: SUMMING AREAS OR RECTANGLES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419,bookofproofs$6908
 keywords: areas,rectangles,summing
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

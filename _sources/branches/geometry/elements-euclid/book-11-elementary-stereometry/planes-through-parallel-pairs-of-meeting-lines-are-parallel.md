@@ -7,7 +7,7 @@ title: Prop. 11.15: Planes through Parallel Pairs of Meeting Lines are Parallel
 description: 11.15: PLANES THROUGH PARALLEL PAIRS OF MEETING LINES ARE PARALLEL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,lines,meeting,pairs,parallel,planes,through
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

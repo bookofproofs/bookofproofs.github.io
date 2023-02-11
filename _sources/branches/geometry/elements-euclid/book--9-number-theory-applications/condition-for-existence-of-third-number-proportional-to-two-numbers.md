@@ -7,7 +7,7 @@ title: Prop. 9.18: Condition for Existence of Third Number Proportional to Two N
 description: 9.18: CONDITION FOR EXISTENCE OF THIRD NUMBER PROPORTIONAL TO TWO NUMBERS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: condition,existence,number,numbers,proportional,third,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 8.15: NUMBER DIVIDES NUMBER IFF CUBE DIVIDES CUBE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: cube,divides,iff,number,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

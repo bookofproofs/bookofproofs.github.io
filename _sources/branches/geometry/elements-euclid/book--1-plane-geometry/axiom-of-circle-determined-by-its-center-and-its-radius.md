@@ -7,7 +7,7 @@ title: 1.3: Circle Determined by its Center and its Radius
 description: 1.3: CIRCLE DETERMINED BY ITS CENTER AND ITS RADIUS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: circle determined by its center and radius
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

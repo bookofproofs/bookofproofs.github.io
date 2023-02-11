@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 6.22: SIMILAR FIGURES ON PROPORTIONAL STRAIGHT LINES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: figures,lines,proportional,similar,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 1.26: ANGLE-SIDE-ANGLE AND ANGLE-ANGLE-SIDE THEOREMS FOR THE CONGRUENCE OF TRIANGLES &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: angle,congruence,side,theorems,triangles,angle side angle proof,angle side angle,angle angle side,angle theorems,angle side angle theorem,angle angle side theorem,congruence theorems,side angle side theorem,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

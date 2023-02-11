@@ -7,7 +7,7 @@ title: Prop. 12.17: Construction of Polyhedron in Outer of Concentric Spheres
 description: 12.17: CONSTRUCTION OF POLYHEDRON IN OUTER OF CONCENTRIC SPHERES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: concentric,construction,outer,polyhedron,spheres,concentric spheres
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

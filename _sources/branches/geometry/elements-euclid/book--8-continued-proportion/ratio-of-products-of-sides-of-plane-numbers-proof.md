@@ -7,7 +7,7 @@ title: By Euclid
 description: Proof of 8.05: RATIO OF PRODUCTS OF SIDES OF PLANE NUMBERS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: numbers,plane,products,ratio,sides,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

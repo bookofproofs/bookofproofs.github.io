@@ -7,7 +7,7 @@ title: Prop. 12.10: Volume of Cone is Third of Cylinder on Same Base and of Same
 description: 12.10: VOLUME OF CONE IS THIRD OF CYLINDER ON SAME BASE AND OF SAME HEIGHT &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: base,cone,cylinder,height,same,third,volume
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

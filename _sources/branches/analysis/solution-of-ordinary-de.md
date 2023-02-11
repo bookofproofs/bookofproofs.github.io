@@ -7,7 +7,7 @@ title: Solution of Ordinary DE
 description: SOLUTION OF ORDINARY DE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: ordinary,solution
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

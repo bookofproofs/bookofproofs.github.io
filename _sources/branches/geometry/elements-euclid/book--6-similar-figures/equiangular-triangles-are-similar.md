@@ -7,7 +7,7 @@ title: 6.04: Equiangular Triangles are Similar
 description: 6.04: EQUIANGULAR TRIANGLES ARE SIMILAR &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,equiangular,similar,triangles,equiangular triangles are similar proof,equiangular triangle,are all equiangular triangles similar,equiangular triangles,equiangular similar triangles,prove that equiangular triangles are similar
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

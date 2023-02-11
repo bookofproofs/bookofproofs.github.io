@@ -7,7 +7,7 @@ title: 7.33: Least Ratio of Numbers
 description: 7.33: LEAST RATIO OF NUMBERS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: least,numbers,ratio
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

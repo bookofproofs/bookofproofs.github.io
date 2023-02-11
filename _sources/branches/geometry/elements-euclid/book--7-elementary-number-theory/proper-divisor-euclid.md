@@ -7,7 +7,7 @@ title: 7.03: Proper Divisor
 description: 7.03: PROPER DIVISOR &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$701,bookofproofs$6419
 keywords: divisor,euclid,part,proper
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 7.18: Ratios of Multiples of Numbers
 description: 7.18: RATIOS OF MULTIPLES OF NUMBERS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: multiples,numbers,ratios
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

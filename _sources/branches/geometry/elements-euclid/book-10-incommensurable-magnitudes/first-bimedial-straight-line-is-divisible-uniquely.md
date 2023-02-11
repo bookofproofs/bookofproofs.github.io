@@ -7,7 +7,7 @@ title: Prop. 10.043: First Bimedial Straight Line is Divisible Uniquely
 description: 10.043: FIRST BIMEDIAL STRAIGHT LINE IS DIVISIBLE UNIQUELY &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: bimedial,divisible,first,line,straight,uniquely
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

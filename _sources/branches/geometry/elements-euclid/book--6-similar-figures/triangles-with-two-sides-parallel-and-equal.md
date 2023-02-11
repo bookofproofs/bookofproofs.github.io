@@ -7,7 +7,7 @@ title: 6.32: Triangles with Two Sides Parallel and Equal
 description: 6.32: TRIANGLES WITH TWO SIDES PARALLEL AND EQUAL &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: equal,parallel,sides,triangles,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

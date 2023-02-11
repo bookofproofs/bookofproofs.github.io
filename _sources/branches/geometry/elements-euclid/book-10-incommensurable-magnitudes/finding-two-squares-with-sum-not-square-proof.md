@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF LEM. 10.028.2: FINDING TWO SQUARES WITH SUM NOT SQUARE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: finding,not,square,squares,sum,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Book 08: Continued Proportion
 description: BOOK 08: CONTINUED PROPORTION &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: book,continued,proportion
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

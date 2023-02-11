@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 12.18: VOLUMES OF SPHERES ARE IN TRIPLICATE RATIO OF DIAMETERS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,diameters,ratio,spheres,triplicate,volumes,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

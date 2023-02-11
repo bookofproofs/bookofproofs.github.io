@@ -7,7 +7,7 @@ title: 3.08: Relative Lengths of Lines Outside Circle
 description: 3.08: RELATIVE LENGTHS OF LINES OUTSIDE CIRCLE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: circle,lengths,lines,outside,relative
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

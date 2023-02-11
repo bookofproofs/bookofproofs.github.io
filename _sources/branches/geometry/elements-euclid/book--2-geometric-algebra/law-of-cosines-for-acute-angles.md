@@ -7,7 +7,7 @@ title: 2.13: Law of Cosines (for Acute Angles)
 description: 2.13: LAW OF COSINES FOR ACUTE ANGLES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: acute,angles,cosines,law,law of cosines
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

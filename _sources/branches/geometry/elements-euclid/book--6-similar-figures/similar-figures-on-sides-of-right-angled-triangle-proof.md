@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 6.31: SIMILAR FIGURES ON SIDES OF RIGHT-ANGLED TRIANGLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angled,figures,right,sides,similar,triangle,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

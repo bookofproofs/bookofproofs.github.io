@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.031: CONSTRUCTING MEDIAL COMMENSURABLE IN SQUARE I &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: commensurable,constructing,medial,square,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

@@ -7,7 +7,7 @@ title: Transcendental Element
 description: TRANSCENDENTAL ELEMENT ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: transcendental element,transcendental elements,transcendental
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

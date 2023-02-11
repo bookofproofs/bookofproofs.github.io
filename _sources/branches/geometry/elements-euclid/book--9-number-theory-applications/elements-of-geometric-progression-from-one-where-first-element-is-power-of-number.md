@@ -7,7 +7,7 @@ title: Prop. 9.09: Elements of Geometric Progression from One where First Elemen
 description: 9.09: ELEMENTS OF GEOMETRIC PROGRESSION FROM ONE WHERE FIRST ELEMENT IS POWER OF NUMBER &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: element,elements,first,geometric,number,one,power,progression,where
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

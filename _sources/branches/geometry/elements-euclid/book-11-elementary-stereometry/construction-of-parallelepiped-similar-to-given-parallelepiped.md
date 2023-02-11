@@ -7,7 +7,7 @@ title: Prop. 11.27: Construction of Parallelepiped Similar to Given Parallelepip
 description: 11.27: CONSTRUCTION OF PARALLELEPIPED SIMILAR TO GIVEN PARALLELEPIPED &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: construction,given,parallelepiped,similar
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

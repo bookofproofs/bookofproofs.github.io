@@ -7,7 +7,7 @@ title: Book 02:  Fundamentals of Geometric Algebra
 description: BOOK 02:  FUNDAMENTALS OF GEOMETRIC ALGEBRA &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: algebra,book,fundamentals,geometric
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 
 ---

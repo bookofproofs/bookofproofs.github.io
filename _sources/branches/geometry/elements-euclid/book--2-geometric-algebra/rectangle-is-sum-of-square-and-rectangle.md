@@ -7,7 +7,7 @@ title: 2.03: Rectangle is Sum of Square and Rectangle
 description: 2.03: RECTANGLE IS SUM OF SQUARE AND RECTANGLE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: rectangle,square,sum
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 5.14: Composition of a Ratio
 description: 5.14: COMPOSITION OF A RATIO &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$2775,bookofproofs$6419
 keywords: composition,composition of a ratio,composition of the ratio,ratio
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 5.10: Relative Sizes of Magnitudes on Unequal Ratios
 description: 5.10: RELATIVE SIZES OF MAGNITUDES ON UNEQUAL RATIOS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: magnitudes,ratios,relative,sizes,unequal
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

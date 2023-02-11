@@ -7,7 +7,7 @@ title: Prop. 8.12: Between two Cubes exist two Mean Proportionals
 description: 8.12: BETWEEN TWO CUBES EXIST TWO MEAN PROPORTIONALS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: between,cubes,exist,mean,proportionals,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

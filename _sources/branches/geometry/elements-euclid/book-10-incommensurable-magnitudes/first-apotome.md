@@ -7,7 +7,7 @@ title: Def. 10.11: First Apotome
 description: DEF. 10.11: FIRST APOTOME &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: apotome,first,first apotome
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

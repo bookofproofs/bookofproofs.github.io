@@ -7,7 +7,7 @@ title: 1.32: Sum Of Angles in a Triangle and Exterior Angle
 description: 1.32: SUM OF ANGLES IN A TRIANGLE AND EXTERIOR ANGLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: angle,angles,exterior,sum,triangle
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

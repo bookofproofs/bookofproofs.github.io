@@ -7,7 +7,7 @@ title: 7.06: Division with Quotient and Remainder Obeys Distributive Law (Sum)
 description: 7.06: DIVISION WITH QUOTIENT AND REMAINDER OBEYS DISTRIBUTIVE LAW SUM &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: distributive,division,law,obeys,quotient,remainder,sum
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 8.17: Number does not divide Number iff Cube does not divide Cube
 description: 8.17: NUMBER DOES NOT DIVIDE NUMBER IFF CUBE DOES NOT DIVIDE CUBE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: cube,divide,does,iff,not,number
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

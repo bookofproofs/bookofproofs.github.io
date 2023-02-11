@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.003: GREATEST COMMON MEASURE OF COMMENSURABLE MAGNITUDES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: commensurable,common,greatest,magnitudes,measure,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 1.48: The Converse of the Pythagorean Theorem
 description: 1.48: THE CONVERSE OF THE PYTHAGOREAN THEOREM &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: converse,pythagorean,theorem,converse of pythagorean theorem,pythagorean theorem converse,converse of the pythagorean theorem,converse of pythagoras theorem
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

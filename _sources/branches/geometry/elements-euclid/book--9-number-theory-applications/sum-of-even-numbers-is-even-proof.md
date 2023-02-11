@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 9.21: SUM OF EVEN NUMBERS IS EVEN &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: even,numbers,sum,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

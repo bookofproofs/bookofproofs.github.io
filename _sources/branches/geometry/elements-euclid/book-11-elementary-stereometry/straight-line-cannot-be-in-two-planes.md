@@ -7,7 +7,7 @@ title: Prop. 11.01: Straight Line cannot be in Two Planes
 description: 11.01: STRAIGHT LINE CANNOT BE IN TWO PLANES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: cannot,line,planes,straight,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

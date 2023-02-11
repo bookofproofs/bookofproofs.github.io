@@ -7,7 +7,7 @@ title: 3.37: Converse of Tangent Secant Theorem
 description: 3.37: CONVERSE OF TANGENT SECANT THEOREM &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: converse,secant,tangent,theorem,tangent-secant theorem,converse of tangent theorem,tangent secant theorem,secant secant theorem,tangent secant,tangent secant theorem proof,tangent theorem,converse of the tangent line theorem
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

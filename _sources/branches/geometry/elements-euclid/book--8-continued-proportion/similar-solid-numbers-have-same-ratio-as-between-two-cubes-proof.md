@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 8.27: SIMILAR SOLID NUMBERS HAVE SAME RATIO AS BETWEEN TWO CUBES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: between,cubes,have,numbers,ratio,same,similar,solid,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

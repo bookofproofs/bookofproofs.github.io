@@ -7,7 +7,7 @@ title: 1.23: Constructing an Angle Equal to an Arbitrary Rectilinear Angle
 description: 1.23: CONSTRUCTING AN ANGLE EQUAL TO AN ARBITRARY RECTILINEAR ANGLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: angle,arbitrary,constructing,equal,rectilinear
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

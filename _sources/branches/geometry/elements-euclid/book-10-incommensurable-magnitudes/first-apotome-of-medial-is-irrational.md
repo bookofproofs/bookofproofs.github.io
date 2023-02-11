@@ -7,7 +7,7 @@ title: Prop. 10.074: First Apotome of Medial is Irrational
 description: 10.074: FIRST APOTOME OF MEDIAL IS IRRATIONAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: apotome,first,irrational,medial
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

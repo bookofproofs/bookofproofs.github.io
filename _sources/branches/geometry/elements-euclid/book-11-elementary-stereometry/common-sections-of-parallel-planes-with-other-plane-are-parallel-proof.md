@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 11.16: COMMON SECTIONS OF PARALLEL PLANES WITH OTHER PLANE ARE PARALLEL &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,common,other,parallel,plane,planes,sections,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

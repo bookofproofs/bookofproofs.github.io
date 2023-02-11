@@ -7,7 +7,7 @@ title: The supplemental angle of a right angle is another right angle.
 description: THE SUPPLEMENTAL ANGLE OF A RIGHT ANGLE IS ANOTHER RIGHT ANGLE. &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: angle,another,right,supplemental
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

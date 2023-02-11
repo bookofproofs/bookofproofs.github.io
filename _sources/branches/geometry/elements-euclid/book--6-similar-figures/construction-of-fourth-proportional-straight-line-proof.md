@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 6.12: CONSTRUCTION OF FOURTH PROPORTIONAL STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: construction,fourth,line,proportional,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

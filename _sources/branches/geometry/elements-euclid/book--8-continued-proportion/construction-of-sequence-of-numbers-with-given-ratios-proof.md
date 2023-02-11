@@ -7,7 +7,7 @@ title: By Euclid
 description: Proof of 8.04: CONSTRUCTION OF SEQUENCE OF NUMBERS WITH GIVEN RATIOS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: construction,given,numbers,ratios,sequence,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

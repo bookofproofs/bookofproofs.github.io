@@ -7,7 +7,7 @@ title: Why did Euclid postulate the axiom of straight line determined by two poi
 description: WHY DID EUCLID POSTULATE THE AXIOM OF STRAIGHT LINE DETERMINED BY TWO POINTS? &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: axiom,determined,did,euclid,line,points,postulate,straight,two
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

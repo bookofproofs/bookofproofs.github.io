@@ -7,7 +7,7 @@ title: 5.15: Ratio Equals its Multiples
 description: 5.15: RATIO EQUALS ITS MULTIPLES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: equals,its,multiples,ratio
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

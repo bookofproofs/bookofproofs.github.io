@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF LEM. 10.059: SUM OF SQUARES ON UNEQUAL PIECES OF SEGMENT IS GREATER THAN TWICE THE RECTANGLE CONTAINED BY THEM &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: contained,greater,pieces,rectangle,segment,squares,sum,than,them,twice,unequal,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

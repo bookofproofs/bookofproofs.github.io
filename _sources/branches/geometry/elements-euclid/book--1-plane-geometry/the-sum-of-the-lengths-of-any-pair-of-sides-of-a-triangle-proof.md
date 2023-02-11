@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 1.20: THE SUM OF THE LENGTHS OF ANY PAIR OF SIDES OF A TRIANGLE TRIANGLE INEQUALITY &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: any,lengths,pair,sides,sum,triangle,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

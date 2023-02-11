@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 9.28: ODD NUMBER MULTIPLIED BY EVEN NUMBER IS EVEN &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: even,multiplied,number,odd,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 3.04: CHORDS DO NOT BISECT EACH OTHER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: bisect,chords,each,not,other,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 3.07: RELATIVE LENGTHS OF LINES INSIDE CIRCLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: circle,inside,lengths,lines,relative,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

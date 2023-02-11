@@ -7,7 +7,7 @@ title: Exterior Algebra, Alternating Product, Universal Alternating Map
 description: EXTERIOR ALGEBRA, ALTERNATING PRODUCT, UNIVERSAL ALTERNATING MAP ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: exterior algebra,alternating product,universal alternating map,exterior algebras,alternating products,universal alternating maps
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

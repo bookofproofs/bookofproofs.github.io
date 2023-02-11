@@ -7,7 +7,7 @@ title: 7.15: Multiplication of Numbers
 description: 7.15: MULTIPLICATION OF NUMBERS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: multiplication,multiply a(nother) number,numbers
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

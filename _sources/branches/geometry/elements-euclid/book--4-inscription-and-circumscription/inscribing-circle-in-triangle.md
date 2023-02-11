@@ -7,7 +7,7 @@ title: 4.04: Inscribing Circle in Triangle
 description: 4.04: INSCRIBING CIRCLE IN TRIANGLE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: circle,inscribing,triangle
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

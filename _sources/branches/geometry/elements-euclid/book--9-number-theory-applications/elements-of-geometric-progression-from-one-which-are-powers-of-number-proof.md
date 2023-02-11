@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 9.08: ELEMENTS OF GEOMETRIC PROGRESSION FROM ONE WHICH ARE POWERS OF NUMBER &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,elements,geometric,number,one,powers,progression,which,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

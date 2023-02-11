@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.104: STRAIGHT LINE COMMENSURABLE WITH APOTOME OF MEDIAL STRAIGHT LINE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: apotome,commensurable,line,medial,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

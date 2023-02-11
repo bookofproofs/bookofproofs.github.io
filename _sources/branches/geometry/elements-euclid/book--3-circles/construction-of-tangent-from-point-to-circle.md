@@ -7,7 +7,7 @@ title: 3.17: Construction of Tangent from Point to Circle
 description: 3.17: CONSTRUCTION OF TANGENT FROM POINT TO CIRCLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: circle,construction,point,tangent
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

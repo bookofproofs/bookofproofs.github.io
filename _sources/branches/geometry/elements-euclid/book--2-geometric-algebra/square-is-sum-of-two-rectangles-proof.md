@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 2.02: SQUARE IS SUM OF TWO RECTANGLES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: rectangles,square,sum,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

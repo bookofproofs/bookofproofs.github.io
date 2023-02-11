@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 13.14: CONSTRUCTION OF REGULAR OCTAHEDRON WITHIN GIVEN SPHERE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: construction,dx, 2,given,octahedron,regular,sphere,within,x + ct,x - st,y + cp,y + st,y - ct,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

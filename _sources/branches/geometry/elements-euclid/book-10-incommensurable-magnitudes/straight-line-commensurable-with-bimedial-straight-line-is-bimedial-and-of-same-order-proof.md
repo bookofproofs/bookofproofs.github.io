@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.067: STRAIGHT LINE COMMENSURABLE WITH BIMEDIAL STRAIGHT LINE IS BIMEDIAL AND OF SAME ORDER &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: bimedial,commensurable,line,order,same,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

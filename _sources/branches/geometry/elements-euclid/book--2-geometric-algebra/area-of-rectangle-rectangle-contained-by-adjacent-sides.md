@@ -7,7 +7,7 @@ title: 2.1: Area of Rectangle, Rectangle Contained by Adjacent Sides
 description: 2.1: AREA OF RECTANGLE, RECTANGLE CONTAINED BY ADJACENT SIDES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: adjacent,area,contained,rectangle,sides,adjacent sides of a rectangle,adjacent sides of rectangle,adjacent rectangle,adjacent sides
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

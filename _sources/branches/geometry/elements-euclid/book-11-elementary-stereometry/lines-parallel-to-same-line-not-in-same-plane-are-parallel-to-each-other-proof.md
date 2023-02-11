@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 11.09: LINES PARALLEL TO SAME LINE NOT IN SAME PLANE ARE PARALLEL TO EACH OTHER &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,each,line,lines,not,other,parallel,plane,same,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

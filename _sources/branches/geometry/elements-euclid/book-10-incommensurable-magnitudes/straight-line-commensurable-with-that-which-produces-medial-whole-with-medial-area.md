@@ -7,7 +7,7 @@ title: Prop. 10.107: Straight Line Commensurable With That Which Produces Medial
 description: 10.107: STRAIGHT LINE COMMENSURABLE WITH THAT WHICH PRODUCES MEDIAL WHOLE WITH MEDIAL AREA &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,commensurable,line,medial,produces,straight,that,which,whole
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

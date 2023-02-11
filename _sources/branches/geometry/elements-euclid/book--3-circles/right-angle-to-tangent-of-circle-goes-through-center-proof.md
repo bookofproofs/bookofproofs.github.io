@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 3.19: RIGHT ANGLE TO TANGENT OF CIRCLE GOES THROUGH CENTER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angle,center,circle,goes,right,tangent,through,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

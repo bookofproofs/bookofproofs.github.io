@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.062: SQUARE ON SECOND BIMEDIAL STRAIGHT LINE APPLIED TO RATIONAL STRAIGHT LINE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: applied,bimedial,line,rational,second,square,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

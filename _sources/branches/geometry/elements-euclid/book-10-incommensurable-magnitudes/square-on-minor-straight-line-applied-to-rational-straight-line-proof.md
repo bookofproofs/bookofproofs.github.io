@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.100: SQUARE ON MINOR STRAIGHT LINE APPLIED TO RATIONAL STRAIGHT LINE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: applied,line,minor,rational,square,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

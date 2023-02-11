@@ -7,7 +7,7 @@ title: 7.04: Smaller Numbers are Dividing or not Dividing Larger Numbers
 description: 7.04: SMALLER NUMBERS ARE DIVIDING OR NOT DIVIDING LARGER NUMBERS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,dividing,larger,not,numbers,smaller
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

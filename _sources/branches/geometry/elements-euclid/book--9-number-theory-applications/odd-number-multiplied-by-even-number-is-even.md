@@ -7,7 +7,7 @@ title: Prop. 9.28: Odd Number multiplied by Even Number is Even
 description: 9.28: ODD NUMBER MULTIPLIED BY EVEN NUMBER IS EVEN &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: even,multiplied,number,odd
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

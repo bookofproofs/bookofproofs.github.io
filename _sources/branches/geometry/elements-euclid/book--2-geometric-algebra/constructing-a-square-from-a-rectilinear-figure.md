@@ -7,7 +7,7 @@ title: 2.14: Constructing a Square from a Rectilinear Figure
 description: 2.14: CONSTRUCTING A SQUARE FROM A RECTILINEAR FIGURE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: constructing,figure,rectilinear,square,rectilinear figure
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 3.34: CONSTRUCTION OF SEGMENT ON GIVEN CIRCLE ADMITTING GIVEN ANGLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: admitting,angle,circle,construction,given,segment,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

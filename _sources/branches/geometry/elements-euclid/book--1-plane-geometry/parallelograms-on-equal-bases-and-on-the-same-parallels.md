@@ -7,7 +7,7 @@ title: 1.36: Parallelograms on Equal Bases and on the Same Parallels
 description: 1.36: PARALLELOGRAMS ON EQUAL BASES AND ON THE SAME PARALLELS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: bases,equal,parallelograms,parallels,same
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 1.03: CUTTING A SEGMENT AT A GIVEN SIZE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: cutting,given,segment,size,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

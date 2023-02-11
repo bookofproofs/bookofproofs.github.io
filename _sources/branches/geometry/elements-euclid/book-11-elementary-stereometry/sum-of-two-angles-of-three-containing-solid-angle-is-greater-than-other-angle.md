@@ -7,7 +7,7 @@ title: Prop. 11.20: Sum of Two Angles of Three containing Solid Angle is Greater
 description: 11.20: SUM OF TWO ANGLES OF THREE CONTAINING SOLID ANGLE IS GREATER THAN OTHER ANGLE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angle,angles,containing,greater,other,solid,sum,than,three,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

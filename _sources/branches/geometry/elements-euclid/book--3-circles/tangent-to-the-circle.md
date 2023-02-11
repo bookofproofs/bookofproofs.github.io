@@ -7,7 +7,7 @@ title: 3.02: Tangent to the Circle, Straight Line Touching The Circle
 description: 3.02: TANGENT TO THE CIRCLE, STRAIGHT LINE TOUCHING THE CIRCLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$6419
 keywords: circle,point of intersection,tangent,tangent to the circle,touch a circle,line touching a circle
-contributors: bookofproofs,@calahan,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Fitzpatrick
 
 ---
 

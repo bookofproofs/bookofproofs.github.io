@@ -7,7 +7,7 @@ title: 5.10: Cubed Ratio
 description: 5.10: CUBED RATIO &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$2775,bookofproofs$6419
 keywords: cubed,cubed[1] ratio,ratio
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

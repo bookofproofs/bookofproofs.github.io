@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 8.03: GEOMETRIC PROGRESSION IN LOWEST TERMS HAS CO-PRIME EXTREMES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: coprime,extremes,geometric,has,lowest,progression,terms,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

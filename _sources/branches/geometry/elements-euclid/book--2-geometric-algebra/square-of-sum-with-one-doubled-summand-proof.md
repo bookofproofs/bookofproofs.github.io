@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 2.08: SQUARE OF SUM WITH ONE DOUBLED SUMMAND &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: doubled,one,square,sum,summand,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

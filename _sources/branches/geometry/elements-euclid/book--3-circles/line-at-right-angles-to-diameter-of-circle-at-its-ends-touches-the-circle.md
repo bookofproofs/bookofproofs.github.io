@@ -7,7 +7,7 @@ title: 3.16: Line at Right Angles to Diameter of Circle At its Ends Touches the 
 description: 3.16: LINE AT RIGHT ANGLES TO DIAMETER OF CIRCLE AT ITS ENDS TOUCHES THE CIRCLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angles,circle,diameter,ends,its,line,right,touches
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

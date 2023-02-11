@@ -7,7 +7,7 @@ title: Complete Ordered Field
 description: COMPLETE ORDERED FIELD ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: complete,complete ordered field,complete fields,complete ordered fields
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

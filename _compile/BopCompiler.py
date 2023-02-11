@@ -13,6 +13,10 @@ from BopValidationError import BopValidationError
 class BopCompiler:
     local = False
     verbose = False
+    generate_indices_locally = False  # defaults to False, when local == True
+
+    # (this will skip index generation to improve performance of compilation)
+    # If amended to True, please set to False again when checking in a pull request.
 
     def __init__(self):
         self.fm = FileMgr()
@@ -43,7 +47,7 @@ class BopCompiler:
         self._compile_assets()
 
     def _compile_sources(self):
-        self._prepare_all_sources()
+        self.prepare_all_sources()
         self.references = BopReferences(self._source_references, self._source_licenses)
         self._validate_all_sources()
         self._making_all_indices()
@@ -58,7 +62,7 @@ class BopCompiler:
         for source in self.sources:
             bop_source = self.sources[source]
             content_replaced = bop_source.get_compiled_content()
-            project_root = str(FileMgr.get_project_folder())
+            project_root = str(FileMgr.get_project_folder()).replace("\\", "/")
             content_replaced = content_replaced.replace(BopSource.url_root, project_root + "/docs")
             # replace image urls starting with the root url to local
             content_replaced = content_replaced.replace(BopSource.url_images, project_root + "/_sources")
@@ -102,14 +106,26 @@ class BopCompiler:
     def _get_contributors(self, bop_source):
         cc_by_sa = self.references.get_cc_by_sa()
         references_md = "<hr>\n"
-        references_md += "<span class='navigation'>{0}[{1}][ccbysa]!</span><br>".format(
-            "Thank you to the contributors under ", cc_by_sa.title)
+
+        improve_this_site_html = " <a class='improve' title='{0}' href='{1}/{2}'>{3}</a>".format(
+            'improve this site',
+            BopSource.url_images,
+            bop_source.get_file_destination() + "/" + bop_source.name + ".md",
+            "<img src='{0}/_assets/images/edit-black.png?raw=true' alt=''>".format(BopSource.url_images))
+        improvement_history_html = " <a class='improve' title='{0}' href='{1}/{2}'>{3}</a>".format(
+            'improvement history',
+            BopSource.url_commits,
+            bop_source.get_file_destination() + "/" + bop_source.name + ".md",
+            "<img src='{0}/_assets/images/calendar-black.png?raw=true' alt=''>".format(BopSource.url_images))
+        references_md += "<span class='navigation'>{0}[{1}][ccbysa]!</span> {2} {3}<br>".format(
+            "Thank you to the contributors under ", "CC BY-SA 4.0", improve_this_site_html,
+            improvement_history_html)
         references_md += bop_source.get_contributors()
         references_md += "<br>\n\n"
         references_md += "[ccbysa]:" + cc_by_sa.publisher + "\n"
         return references_md
 
-    def _prepare_all_sources(self):
+    def prepare_all_sources(self):
         print("Preparing all sources...")
         sources = self.fm.get_folder_content_rek()
         for file in sources:
@@ -135,6 +151,15 @@ class BopCompiler:
         self._index_compiler = BopIndexCompiler(self._validator)
 
     def _making_all_indices(self):
+        if not self.local:
+            self.__making_all_indices()
+        else:
+            if self.generate_indices_locally:
+                self.__making_all_indices()
+            else:
+                print("   Skipping local compilation of all index html files for performance reasons.")
+
+    def __making_all_indices(self):
         print("   Making tree index")
         self.indices["{{ tree-index }}"] = self._index_compiler.get_tree_index()
         print("   Making building block index")
@@ -143,8 +168,10 @@ class BopCompiler:
         self.indices["{{ bbh-index }}"] = self._index_compiler.get_history_building_block_index()
         print("   Making issue index")
         self.indices["{{ q-index }}"] = self._index_compiler.get_issue_index()
-        print("   Making contributors index")
-        self.indices["{{ c-index }}"] = self._index_compiler.get_contributors_index()
+        print("   Making contributors index (github users)")
+        self.indices["{{ cg-index }}"] = self._index_compiler.get_github_contributors_index()
+        print("   Making contributors index (non-github users)")
+        self.indices["{{ cng-index }}"] = self._index_compiler.get_non_github_contributors_index()
         print("   Making interactive widgets index")
         self.indices["{{ w-index }}"] = self._index_compiler.get_widgets_index()
         print("   Making sourcecode index")
@@ -153,8 +180,6 @@ class BopCompiler:
         self.indices["{{ p-index }}"] = self._index_compiler.get_person_index()
         print("   Making keywords index")
         self.indices["{{ ii-index }}"] = self._index_compiler.get_keywords_index()
-        print("   Making SEO keywords index")
-        self.indices["{{ k-index }}"] = self._index_compiler.get_seo_keywords_index()
 
     def _render_all_sources(self):
         print("Rendering sources...")
@@ -258,7 +283,7 @@ class BopCompiler:
                                                              extensions=['pymdownx.magiclink', 'tables', 'footnotes',
                                                                          'def_list']))
         content_replaced = self._make_tables_responsive(content_replaced)
-        content_replaced = content_replaced.replace("{{ keywords }}", bop_source.keywords)
+        content_replaced = content_replaced.replace("{{ keywords }}", ",".join(bop_source.keywords))
         content_replaced = content_replaced.replace("{{ description }}", bop_source.description)
         content_replaced = content_replaced.replace("{{ title }}", bop_source.title)
         content_replaced = self._replace_scripts(content_replaced, bop_source)
@@ -310,7 +335,7 @@ class BopCompiler:
                 script = bop_source.scripts[key]
                 if bop_source.script_has_python(script):
                     script = markdown.markdown(script, tab_length=3,
-                                      extensions=['codehilite', 'fenced_code'])
+                                               extensions=['codehilite', 'fenced_code'])
                 else:
                     script = re.sub(r"(^```[a-z]*$)", r"", script, flags=re.M)
                 content = content.replace("<p>" + key + "</p>", "\n" + script + "\n")
@@ -340,3 +365,6 @@ class BopCompiler:
         sitemaps.sort(key=lambda x: len(x))
         sitemap = "\n".join(sitemaps)
         self.fm.write_file("", "sitemap.txt", sitemap)
+
+    def get_validator(self):
+        return self._validator

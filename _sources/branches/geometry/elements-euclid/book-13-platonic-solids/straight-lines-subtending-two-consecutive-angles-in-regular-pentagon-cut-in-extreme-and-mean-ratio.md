@@ -7,7 +7,7 @@ title: Prop. 13.08: Straight Lines Subtending Two Consecutive Angles in Regular 
 description: 13.08: STRAIGHT LINES SUBTENDING TWO CONSECUTIVE ANGLES IN REGULAR PENTAGON CUT IN EXTREME AND MEAN RATIO &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angles,consecutive,cut,extreme,lines,mean,pentagon,ratio,regular,straight,subtending,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

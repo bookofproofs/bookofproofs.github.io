@@ -7,7 +7,7 @@ title: Prop. 13.01: Area of Square on Greater Segment of Straight Line cut in Ex
 description: 13.01: AREA OF SQUARE ON GREATER SEGMENT OF STRAIGHT LINE CUT IN EXTREME AND MEAN RATIO &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,cut,extreme,greater,line,mean,ratio,segment,square,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

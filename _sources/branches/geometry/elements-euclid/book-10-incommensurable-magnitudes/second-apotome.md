@@ -7,7 +7,7 @@ title: Def. 10.12: Second Apotome
 description: DEF. 10.12: SECOND APOTOME &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: apotome,second,second apotome
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

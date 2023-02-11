@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.024: RECTANGLE CONTAINED BY MEDIAL STRAIGHT LINES COMMENSURABLE IN LENGTH IS MEDIAL &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: commensurable,contained,length,lines,medial,rectangle,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

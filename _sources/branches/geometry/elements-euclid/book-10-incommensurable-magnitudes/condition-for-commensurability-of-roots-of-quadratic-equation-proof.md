@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.017: CONDITION FOR COMMENSURABILITY OF ROOTS OF QUADRATIC EQUATION &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: commensurability,condition,equation,quadratic,roots,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Book 09: Applications of Number Theory
 description: BOOK 09: APPLICATIONS OF NUMBER THEORY &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: applications,book,number,theory
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

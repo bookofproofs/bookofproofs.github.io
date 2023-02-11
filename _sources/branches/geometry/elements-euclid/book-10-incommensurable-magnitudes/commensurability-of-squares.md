@@ -7,7 +7,7 @@ title: Prop. 10.009: Commensurability of Squares
 description: 10.009: COMMENSURABILITY OF SQUARES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: commensurability,squares
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

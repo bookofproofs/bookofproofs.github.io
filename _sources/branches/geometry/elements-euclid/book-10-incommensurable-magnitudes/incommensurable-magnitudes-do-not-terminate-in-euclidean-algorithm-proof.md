@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.002: INCOMMENSURABLE MAGNITUDES DO NOT TERMINATE IN EUCLIDEAN ALGORITHM &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: algorithm,euclidean,incommensurable,magnitudes,not,terminate,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

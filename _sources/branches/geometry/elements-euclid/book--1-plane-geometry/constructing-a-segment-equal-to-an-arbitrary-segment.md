@@ -7,7 +7,7 @@ title: 1.02: Constructing a Segment Equal to an Arbitrary Segment
 description: 1.02: CONSTRUCTING A SEGMENT EQUAL TO AN ARBITRARY SEGMENT &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: arbitrary,constructing,equal,segment
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

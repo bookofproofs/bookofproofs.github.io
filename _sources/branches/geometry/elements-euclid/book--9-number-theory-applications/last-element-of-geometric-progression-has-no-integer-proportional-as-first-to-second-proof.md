@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 9.17: LAST ELEMENT OF GEOMETRIC PROGRESSION WITH CO-PRIME EXTREMES HAS NO INTEGER PROPORTIONAL AS FIRST TO SECOND &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: coprime,element,extremes,first,geometric,has,integer,last,progression,proportional,second,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

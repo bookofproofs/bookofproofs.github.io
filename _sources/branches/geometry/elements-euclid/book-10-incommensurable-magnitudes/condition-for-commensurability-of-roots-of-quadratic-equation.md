@@ -7,7 +7,7 @@ title: Prop. 10.017: Condition for Commensurability of Roots of Quadratic Equati
 description: 10.017: CONDITION FOR COMMENSURABILITY OF ROOTS OF QUADRATIC EQUATION &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: commensurability,condition,equation,quadratic,roots
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

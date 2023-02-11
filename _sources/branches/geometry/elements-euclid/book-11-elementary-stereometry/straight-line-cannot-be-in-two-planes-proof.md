@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 11.01: STRAIGHT LINE CANNOT BE IN TWO PLANES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: cannot,line,planes,straight,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

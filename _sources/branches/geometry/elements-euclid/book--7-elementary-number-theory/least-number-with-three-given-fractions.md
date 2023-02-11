@@ -7,7 +7,7 @@ title: 7.39: Least Number with Three Given Fractions
 description: 7.39: LEAST NUMBER WITH THREE GIVEN FRACTIONS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: fractions,given,least,number,three
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

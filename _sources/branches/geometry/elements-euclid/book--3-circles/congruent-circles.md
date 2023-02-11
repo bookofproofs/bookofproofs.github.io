@@ -7,7 +7,7 @@ title: 3.01: Congruent Circles
 description: 3.01: CONGRUENT CIRCLES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: circles,congruent,equal,congruent circles
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

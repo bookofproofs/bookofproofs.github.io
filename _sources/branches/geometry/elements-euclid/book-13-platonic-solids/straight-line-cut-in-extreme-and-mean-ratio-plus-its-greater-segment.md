@@ -7,7 +7,7 @@ title: Prop. 13.05: Straight Line cut in Extreme and Mean Ratio plus its Greater
 description: 13.05: STRAIGHT LINE CUT IN EXTREME AND MEAN RATIO PLUS ITS GREATER SEGMENT &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: cut,extreme,greater,its,line,mean,plus,ratio,segment,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

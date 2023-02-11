@@ -7,7 +7,7 @@ title: 1.08: "Side-Side-Side" Theorem for the Congruence of Triangles
 description: 1.08: SIDE-SIDE-SIDE THEOREM FOR THE CONGRUENCE OF TRIANGLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: congruence,side,theorem,triangles,side side side theorem
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

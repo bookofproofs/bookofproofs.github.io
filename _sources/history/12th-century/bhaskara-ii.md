@@ -3,11 +3,11 @@ nodeid: bookofproofs$Bhaskara_II
 categories: history,12th-century
 parentid: bookofproofs$607
 tags: algebra,analysis,ancient-babylonian,ancient-indian,astronomy,geometry,origin-india,number-theory,special-numbers-and-numerals
-title: Ii, Bhaskara
+title: Bhaskara (2)
 born: 1114
 died: 1185
-description: Some facts about Bhaskara Ii
-keywords: ii, bhaskara,algebra,analysis,ancient babylonian,ancient indian,astronomy,geometry,nationality india,number theory,special numbers and numerals
+description: Some facts about Bhaskara (2)
+keywords: bhaskara (2),algebra,analysis,ancient babylonian,ancient indian,astronomy,geometry,nationality india,number theory,special numbers and numerals
 references: bookofproofs$6909
 contributors: bookofproofs,@MacTutor
 

@@ -7,7 +7,7 @@ title: Prop. 9.14: Fundamental Theorem of Arithmetic
 description: 9.14: FUNDAMENTAL THEOREM OF ARITHMETIC &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$696,bookofproofs$6419
 keywords: arithmetic,euclid,fundamental,theorem
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

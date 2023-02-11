@@ -7,7 +7,7 @@ title: 7.12: Co-prime (Relatively Prime) Numbers
 description: 7.12: CO-PRIME RELATIVELY PRIME NUMBERS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$1272,bookofproofs$6419
 keywords: coprime,numbers,prime,prime to one another,relatively,relatively prime numbers,co prime number,co prime numbers,relatively prime,coprime numbers,co prime number definition,co prime
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

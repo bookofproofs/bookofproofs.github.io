@@ -7,7 +7,7 @@ title: Prop. 9.12: Elements of Geometric Progression from One Divisible by Prime
 description: 9.12: ELEMENTS OF GEOMETRIC PROGRESSION FROM ONE DIVISIBLE BY PRIME &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: divisible,elements,geometric,one,prime,progression
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

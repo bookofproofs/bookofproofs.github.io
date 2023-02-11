@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.110: TWO IRRATIONAL STRAIGHT LINES ARISING FROM MEDIAL AREA FROM WHICH MEDIAL AREA SUBTRACTED &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: area,arising,irrational,lines,medial,straight,subtracted,two,which,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

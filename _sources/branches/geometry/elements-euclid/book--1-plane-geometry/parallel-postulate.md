@@ -7,7 +7,7 @@ title: 1.5: Parallel Postulate
 description: 1.5: PARALLEL POSTULATE ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: parallel,postulate,fifth,axiom,parallel postulate,fifth postulate,fifth axiom,parallel axiom
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

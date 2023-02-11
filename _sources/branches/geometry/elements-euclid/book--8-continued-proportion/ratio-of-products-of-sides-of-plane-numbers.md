@@ -7,7 +7,7 @@ title: 8.05: Ratio of Products of Sides of Plane Numbers
 description: 8.05: RATIO OF PRODUCTS OF SIDES OF PLANE NUMBERS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: numbers,plane,products,ratio,sides
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

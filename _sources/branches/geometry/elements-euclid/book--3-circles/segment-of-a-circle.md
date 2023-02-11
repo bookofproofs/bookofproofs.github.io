@@ -7,7 +7,7 @@ title: 3.06: Segment of a Circle, Arc
 description: 3.06: SEGMENT OF A CIRCLE, ARC &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$6419
 keywords: circle,segment,segment of a circle
-contributors: bookofproofs,@calahan,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Fitzpatrick
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 8.22: IF FIRST OF THREE NUMBERS IN GEOMETRIC PROGRESSION IS SQUARE THEN THIRD IS SQUARE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: first,geometric,numbers,progression,square,then,third,three,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

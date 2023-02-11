@@ -7,7 +7,7 @@ title: Prop. 10.025: Rationality of Rectangle Contained by Medial Straight Lines
 description: 10.025: RATIONALITY OF RECTANGLE CONTAINED BY MEDIAL STRAIGHT LINES COMMENSURABLE IN SQUARE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: commensurable,contained,lines,medial,rationality,rectangle,square,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

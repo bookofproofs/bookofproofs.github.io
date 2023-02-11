@@ -7,7 +7,7 @@ title: Prop. 9.23: Sum of Odd Number of Odd Numbers is Odd
 description: 9.23: SUM OF ODD NUMBER OF ODD NUMBERS IS ODD &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: number,numbers,odd,sum
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

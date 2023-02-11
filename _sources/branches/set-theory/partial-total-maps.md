@@ -7,7 +7,7 @@ title: Partial and Total Maps (Functions)
 description: PARTIAL AND TOTAL MAPS, FUNCTION, FIBER, DOMAIN AND CODOMAIN, MAPPINGS  ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$577,bookofproofs$979,bookofproofs$6823,bookofproofs$6907
 keywords: function,functions,image,images,map,maps,range,ranges,mapping,mappings,partial map,partial and total functions,domain,domains,fiber,fibers,partial mapping,undefined,inverse image,inverse images
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

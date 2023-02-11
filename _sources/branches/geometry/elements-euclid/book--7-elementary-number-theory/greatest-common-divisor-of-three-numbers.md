@@ -7,7 +7,7 @@ title: 7.03: Greatest Common Divisor of Three Numbers
 description: 7.03: GREATEST COMMON DIVISOR OF THREE NUMBERS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$1849,bookofproofs$6908
 keywords: common,divisor,greatest,numbers,three
-contributors: bookofproofs,@calahan
+contributors: bookofproofs,@Calahan
 
 ---
 

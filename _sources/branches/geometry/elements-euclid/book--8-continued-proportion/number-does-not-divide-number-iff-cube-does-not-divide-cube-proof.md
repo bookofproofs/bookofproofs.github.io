@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 8.17: NUMBER DOES NOT DIVIDE NUMBER IFF CUBE DOES NOT DIVIDE CUBE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: cube,divide,does,iff,not,number,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

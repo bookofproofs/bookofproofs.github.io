@@ -7,7 +7,7 @@ title: Prop. 13.02: Converse of Area of Square on Greater Segment of Straight Li
 description: 13.02: CONVERSE OF AREA OF SQUARE ON GREATER SEGMENT OF STRAIGHT LINE CUT IN EXTREME AND MEAN RATIO &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,converse,cut,extreme,greater,line,mean,ratio,segment,square,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

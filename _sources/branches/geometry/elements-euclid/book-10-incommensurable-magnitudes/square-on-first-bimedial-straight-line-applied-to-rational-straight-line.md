@@ -7,7 +7,7 @@ title: Prop. 10.061: Square on First Bimedial Straight Line applied to Rational 
 description: 10.061: SQUARE ON FIRST BIMEDIAL STRAIGHT LINE APPLIED TO RATIONAL STRAIGHT LINE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: applied,bimedial,first,line,rational,square,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

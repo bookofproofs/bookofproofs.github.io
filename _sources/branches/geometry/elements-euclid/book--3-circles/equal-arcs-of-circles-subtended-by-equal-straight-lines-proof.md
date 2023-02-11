@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 3.29: EQUAL ARCS OF CIRCLES SUBTENDED BY EQUAL STRAIGHT LINES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: arcs,circles,equal,lines,straight,subtended,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

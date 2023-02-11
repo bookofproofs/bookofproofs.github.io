@@ -7,7 +7,7 @@ title: 7.20: Ratios of Fractions in Lowest Terms
 description: 7.20: RATIOS OF FRACTIONS IN LOWEST TERMS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: fractions,lowest,ratios,terms
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 10.084: Construction of that which produces Medial Whole with Media
 description: 10.084: CONSTRUCTION OF THAT WHICH PRODUCES MEDIAL WHOLE WITH MEDIAL AREA IS UNIQUE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,construction,medial,produces,that,unique,which,whole
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

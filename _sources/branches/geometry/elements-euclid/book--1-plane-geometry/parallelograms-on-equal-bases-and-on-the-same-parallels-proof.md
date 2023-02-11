@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 1.35: PARALLELOGRAMS ON THE SAME BASE AND ON THE SAME PARALLELS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: base,parallelograms,parallels,same,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

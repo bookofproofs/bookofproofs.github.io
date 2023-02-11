@@ -7,7 +7,7 @@ title: 5.12: Sum of Components of Equal Ratios
 description: 5.12: SUM OF COMPONENTS OF EQUAL RATIOS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: components,equal,ratios,sum
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

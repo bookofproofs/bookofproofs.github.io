@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 7.09: ALTERNATE RATIOS OF EQUAL FRACTIONS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: alternate,equal,fractions,ratios,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

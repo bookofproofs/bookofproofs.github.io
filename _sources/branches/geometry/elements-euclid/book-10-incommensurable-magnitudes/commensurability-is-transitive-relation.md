@@ -7,7 +7,7 @@ title: Prop. 10.012: Commensurability is Transitive Relation
 description: 10.012: COMMENSURABILITY IS TRANSITIVE RELATION &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: commensurability,relation,transitive
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

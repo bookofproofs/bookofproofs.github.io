@@ -7,7 +7,7 @@ title: Prop. 9.22: Sum of Even Number of Odd Numbers is Even
 description: 9.22: SUM OF EVEN NUMBER OF ODD NUMBERS IS EVEN &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: even,number,numbers,odd,sum
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

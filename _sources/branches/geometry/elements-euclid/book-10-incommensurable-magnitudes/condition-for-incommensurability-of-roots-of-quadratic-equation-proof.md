@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.018: CONDITION FOR INCOMMENSURABILITY OF ROOTS OF QUADRATIC EQUATION &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: condition,equation,incommensurability,quadratic,roots,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

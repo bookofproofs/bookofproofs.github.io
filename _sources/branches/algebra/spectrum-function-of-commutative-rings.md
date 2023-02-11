@@ -7,7 +7,7 @@ title: Spectrum Function of Commutative Rings
 description: SPECTRUM FUNCTION OF COMMUTATIVE RINGS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: commutative,function,rings,spectrum
-contributors: 
+contributors: @Brenner,bookofproofs
 
 ---
 

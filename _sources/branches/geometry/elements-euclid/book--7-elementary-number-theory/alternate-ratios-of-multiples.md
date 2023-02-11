@@ -7,7 +7,7 @@ title: 7.15: Alternate Ratios of Multiples
 description: 7.15: ALTERNATE RATIOS OF MULTIPLES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: alternate,multiples,ratios
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

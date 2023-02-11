@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.108: SIDE OF REMAINING AREA FROM RATIONAL AREA FROM WHICH MEDIAL AREA SUBTRACTED &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: area,medial,rational,remaining,side,subtracted,which,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

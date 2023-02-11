@@ -7,7 +7,7 @@ title: Prime Ideals of Multiplicative Systems in Integral Domains
 description: PRIME IDEALS OF MULTIPLICATIVE SYSTEMS IN INTEGRAL DOMAINS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: domains,ideals,integral,multiplicative,prime,systems
-contributors: 
+contributors: @Brenner,bookofproofs
 
 ---
 

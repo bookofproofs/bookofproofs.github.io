@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 7.34: EXISTENCE OF LEAST COMMON MULTIPLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: common,existence,least,multiple,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

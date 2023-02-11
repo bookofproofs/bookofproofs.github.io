@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 11.33: VOLUMES OF SIMILAR PARALLELEPIPEDS ARE IN TRIPLICATE RATIO TO LENGTH OF CORRESPONDING SIDES &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: are,corresponding,length,parallelepipeds,ratio,sides,similar,triplicate,volumes,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

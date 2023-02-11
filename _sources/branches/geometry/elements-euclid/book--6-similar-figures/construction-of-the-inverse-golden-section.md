@@ -7,7 +7,7 @@ title: 6.30: Construction of the Inverse Golden Section
 description: 6.30: CONSTRUCTION OF THE INVERSE GOLDEN SECTION &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: construction,golden,inverse,section
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

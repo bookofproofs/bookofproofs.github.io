@@ -7,7 +7,7 @@ title: Prop. 11.10: Two Lines Meeting which are Parallel to Two Other Lines Meet
 description: 11.10: TWO LINES MEETING WHICH ARE PARALLEL TO TWO OTHER LINES MEETING CONTAIN EQUAL ANGLES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angles,are,contain,equal,lines,meeting,other,parallel,two,which
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

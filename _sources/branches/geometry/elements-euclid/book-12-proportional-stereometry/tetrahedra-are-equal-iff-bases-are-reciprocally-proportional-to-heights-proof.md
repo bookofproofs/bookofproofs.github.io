@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 12.09: TETRAHEDRA ARE EQUAL IFF BASES ARE RECIPROCALLY PROPORTIONAL TO HEIGHTS &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,bases,equal,heights,iff,proportional,reciprocally,tetrahedra,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

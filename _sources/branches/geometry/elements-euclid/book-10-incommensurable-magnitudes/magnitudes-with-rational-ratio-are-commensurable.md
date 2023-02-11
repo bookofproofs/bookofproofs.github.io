@@ -7,7 +7,7 @@ title: Prop. 10.006: Magnitudes with Rational Ratio are Commensurable
 description: 10.006: MAGNITUDES WITH RATIONAL RATIO ARE COMMENSURABLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,commensurable,magnitudes,ratio,rational
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

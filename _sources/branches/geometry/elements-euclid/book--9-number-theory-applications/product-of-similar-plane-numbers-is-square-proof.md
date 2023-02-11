@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 9.01: PRODUCT OF SIMILAR PLANE NUMBERS IS SQUARE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: numbers,plane,product,similar,square,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

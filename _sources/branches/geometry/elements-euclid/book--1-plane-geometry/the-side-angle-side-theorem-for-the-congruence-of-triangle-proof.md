@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 1.04: SIDE-ANGLE-SIDE THEOREM FOR THE CONGRUENCE OF TRIANGLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angle,congruence,side,theorem,triangle,side angle side theorem,side side side theorem,angle side angle,side angle side,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

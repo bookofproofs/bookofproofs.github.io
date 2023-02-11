@@ -7,7 +7,7 @@ title: 2.02: Square is Sum of Two Rectangles
 description: 2.02: SQUARE IS SUM OF TWO RECTANGLES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: rectangles,square,sum,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

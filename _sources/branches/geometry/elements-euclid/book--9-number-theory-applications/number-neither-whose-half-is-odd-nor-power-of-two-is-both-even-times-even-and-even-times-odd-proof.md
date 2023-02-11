@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 9.34: NUMBER NEITHER WHOSE HALF IS ODD NOR POWER OF TWO IS BOTH EVEN-TIMES EVEN AND EVEN-TIMES ODD &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: both,even,half,neither,nor,number,odd,power,times,two,whose,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.095: SIDE OF AREA CONTAINED BY RATIONAL STRAIGHT LINE AND FIFTH APOTOME &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: apotome,area,contained,fifth,line,rational,side,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

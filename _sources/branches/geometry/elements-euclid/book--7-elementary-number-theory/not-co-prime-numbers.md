@@ -7,7 +7,7 @@ title: 7.14: Not Co-prime Numbers
 description: 7.14: NOT CO-PRIME NUMBERS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: composite to one another,not,numbers,prime
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

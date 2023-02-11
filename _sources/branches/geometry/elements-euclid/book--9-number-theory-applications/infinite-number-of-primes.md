@@ -7,7 +7,7 @@ title: Prop. 9.20: Infinite Number of Primes
 description: 9.20: INFINITE NUMBER OF PRIMES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$2775,bookofproofs$6419
 keywords: infinite,number,primes
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Lem. 12.04: Proportion of Sizes of Tetrahedra divided into Two Similar Te
 description: LEM. 12.04: PROPORTION OF SIZES OF TETRAHEDRA DIVIDED INTO TWO SIMILAR TETRAHEDRA AND TWO EQUAL PRISMS &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: divided,equal,into,prisms,proportion,similar,sizes,tetrahedra,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

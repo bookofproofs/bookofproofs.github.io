@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 13.07: EQUILATERAL PENTAGON IS EQUIANGULAR IF THREE ANGLES ARE EQUAL &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angles,are,equal,equiangular,equilateral,pentagon,three,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

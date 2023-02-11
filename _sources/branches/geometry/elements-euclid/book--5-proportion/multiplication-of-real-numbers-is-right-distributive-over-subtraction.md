@@ -7,7 +7,7 @@ title: 5.06: Multiplication of Real Numbers is Right Distributive over Subtracti
 description: 5.06: MULTIPLICATION OF REAL NUMBERS IS RIGHT DISTRIBUTIVE OVER SUBTRACTION &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: distributive,multiplication,numbers,over,real,right,subtraction
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

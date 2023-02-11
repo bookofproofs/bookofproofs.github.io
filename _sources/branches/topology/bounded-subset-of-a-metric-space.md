@@ -7,7 +7,7 @@ title: Bounded Subset of a Metric Space
 description: BOUNDED SUBSET OF A METRIC SPACE ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: bounded subsets of metric spaces
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

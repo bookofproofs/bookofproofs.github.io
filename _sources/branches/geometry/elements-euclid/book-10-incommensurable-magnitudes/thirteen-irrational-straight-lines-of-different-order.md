@@ -7,7 +7,7 @@ title: Cor. 10.111: Thirteen Irrational Straight Lines of Different Order
 description: COR. 10.111: THIRTEEN IRRATIONAL STRAIGHT LINES OF DIFFERENT ORDER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: different,irrational,lines,order,straight,thirteen
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

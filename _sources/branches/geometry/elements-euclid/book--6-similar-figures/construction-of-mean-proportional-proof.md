@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 6.13: CONSTRUCTION OF MEAN PROPORTIONAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: construction,mean,proportional,mean proportional,mean proportion,mean proportional formula,determination of mean proportional,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

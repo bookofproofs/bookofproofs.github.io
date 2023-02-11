@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 9.36: THEOREM OF EVEN PERFECT NUMBERS FIRST PART &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: even,first,numbers,part,perfect,theorem,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

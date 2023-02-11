@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 11.30: PARALLELEPIPEDS ON SAME BASE AND SAME HEIGHT WHOSE EXTREMITIES ARE NOT ON SAME LINES ARE EQUAL IN VOLUME &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: are,base,equal,extremities,height,lines,not,parallelepipeds,same,volume,whose,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

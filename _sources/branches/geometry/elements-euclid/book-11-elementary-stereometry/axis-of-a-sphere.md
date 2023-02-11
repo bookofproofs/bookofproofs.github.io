@@ -7,7 +7,7 @@ title: Def. 11.15: Axis of a Sphere
 description: DEF. 11.15: AXIS OF A SPHERE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: axis,axis of the sphere,sphere
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

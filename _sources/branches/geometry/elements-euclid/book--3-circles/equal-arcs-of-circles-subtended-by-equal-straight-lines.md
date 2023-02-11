@@ -7,7 +7,7 @@ title: 3.29: Equal Arcs of Circles Subtended by Equal Straight Lines
 description: 3.29: EQUAL ARCS OF CIRCLES SUBTENDED BY EQUAL STRAIGHT LINES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: arcs,circles,equal,lines,straight,subtended
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

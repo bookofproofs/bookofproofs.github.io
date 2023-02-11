@@ -7,7 +7,7 @@ title: Prop. 12.08: Volumes of Similar Tetrahedra are in Cubed Ratio of Correspo
 description: 12.08: VOLUMES OF SIMILAR TETRAHEDRA ARE IN CUBED RATIO OF CORRESPONDING SIDES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,corresponding,cubed,ratio,sides,similar,tetrahedra,volumes
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

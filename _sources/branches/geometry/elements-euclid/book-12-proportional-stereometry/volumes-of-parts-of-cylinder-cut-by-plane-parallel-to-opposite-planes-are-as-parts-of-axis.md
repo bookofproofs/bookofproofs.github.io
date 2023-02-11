@@ -7,7 +7,7 @@ title: Prop. 12.13: Volumes of Parts of Cylinder cut by Plane Parallel to Opposi
 description: 12.13: VOLUMES OF PARTS OF CYLINDER CUT BY PLANE PARALLEL TO OPPOSITE PLANES ARE AS PARTS OF AXIS &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,axis,cut,cylinder,opposite,parallel,parts,plane,planes,volumes
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

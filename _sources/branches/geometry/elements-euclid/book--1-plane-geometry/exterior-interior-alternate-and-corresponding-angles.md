@@ -7,7 +7,7 @@ title: Exterior, Interior, Alternate and Corresponding Angles
 description: EXTERIOR, INTERIOR, ALTERNATE AND CORRESPONDING ANGLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: alternate,alternate angles,angles,corresponding,corresponding angles,exterior,exterior angles,interior,interior angles,alternate and corresponding angles,interior and exterior angles definition,alternate exterior angles definition,corresponding angles definition
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

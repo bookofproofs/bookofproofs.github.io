@@ -7,7 +7,7 @@ title: Prop. 13.14: Construction of Regular Octahedron within Given Sphere
 description: 13.14: CONSTRUCTION OF REGULAR OCTAHEDRON WITHIN GIVEN SPHERE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: construction,dx, 2,given,octahedron,regular,sphere,within,x + ct,x - st,y + cp,y + st,y - ct
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

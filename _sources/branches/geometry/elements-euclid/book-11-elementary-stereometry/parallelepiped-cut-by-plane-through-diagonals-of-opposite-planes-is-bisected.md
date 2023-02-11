@@ -7,7 +7,7 @@ title: Prop. 11.28: Parallelepiped cut by Plane through Diagonals of Opposite Pl
 description: 11.28: PARALLELEPIPED CUT BY PLANE THROUGH DIAGONALS OF OPPOSITE PLANES IS BISECTED &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: bisected,cut,diagonals,opposite,parallelepiped,plane,planes,through
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

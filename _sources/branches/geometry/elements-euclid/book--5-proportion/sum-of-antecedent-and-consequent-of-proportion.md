@@ -7,7 +7,7 @@ title: 5.25: Sum of Antecedent and Consequent of Proportion
 description: 5.25: SUM OF ANTECEDENT AND CONSEQUENT OF PROPORTION &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: antecedent,consequent,proportion,sum,antecedent and consequent
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

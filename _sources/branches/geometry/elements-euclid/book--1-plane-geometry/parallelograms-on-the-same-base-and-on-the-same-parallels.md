@@ -7,7 +7,7 @@ title: 1.35: Parallelograms On the Same Base and On the Same Parallels
 description: 1.35: PARALLELOGRAMS ON THE SAME BASE AND ON THE SAME PARALLELS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: base,parallelograms,parallels,same
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

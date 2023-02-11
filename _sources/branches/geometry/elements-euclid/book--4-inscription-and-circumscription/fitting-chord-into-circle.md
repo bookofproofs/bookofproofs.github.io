@@ -7,7 +7,7 @@ title: 4.01: Fitting Chord Into Circle
 description: 4.01: FITTING CHORD INTO CIRCLE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: chord,circle,fitting,into
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

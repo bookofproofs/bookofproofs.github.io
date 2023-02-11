@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 13.08: STRAIGHT LINES SUBTENDING TWO CONSECUTIVE ANGLES IN REGULAR PENTAGON CUT IN EXTREME AND MEAN RATIO &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: angles,consecutive,cut,extreme,lines,mean,pentagon,ratio,regular,straight,subtending,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

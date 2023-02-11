@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 2.11: CONSTRUCTING THE GOLDEN RATIO OF A SEGMENT &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: constructing,golden,golden ratio,ratio,segment,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

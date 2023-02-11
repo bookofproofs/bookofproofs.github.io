@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 11.32: PARALLELEPIPEDS OF SAME HEIGHT HAVE VOLUME PROPORTIONAL TO BASES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: bases,have,height,parallelepipeds,proportional,same,volume,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

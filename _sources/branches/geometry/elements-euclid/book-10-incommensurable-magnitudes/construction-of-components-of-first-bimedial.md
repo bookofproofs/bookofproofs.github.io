@@ -7,7 +7,7 @@ title: Prop. 10.027: Construction of Components of First Bimedial
 description: 10.027: CONSTRUCTION OF COMPONENTS OF FIRST BIMEDIAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: bimedial,components,construction,first
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

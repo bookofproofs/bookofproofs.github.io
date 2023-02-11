@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 13.18: THERE ARE ONLY FIVE PLATONIC SOLIDS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,five,only,platonic,platonic solids,solids,there,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

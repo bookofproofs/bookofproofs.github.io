@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 6.01: AREAS OF TRIANGLES AND PARALLELOGRAMS PROPORTIONAL TO BASE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: areas,base,parallelograms,proportional,triangles,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

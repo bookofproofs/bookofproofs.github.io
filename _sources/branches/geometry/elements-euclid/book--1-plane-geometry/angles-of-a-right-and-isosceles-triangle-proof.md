@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of ANGLES OF A RIGHT AND ISOSCELES TRIANGLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: angles,isosceles,right,triangle,proof
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

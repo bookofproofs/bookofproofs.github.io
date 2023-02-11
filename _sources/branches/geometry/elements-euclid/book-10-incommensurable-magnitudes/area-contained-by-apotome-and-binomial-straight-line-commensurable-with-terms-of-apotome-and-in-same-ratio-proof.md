@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.114: AREA CONTAINED BY APOTOME AND BINOMIAL STRAIGHT LINE COMMENSURABLE WITH TERMS OF APOTOME AND IN SAME RATIO &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: apotome,area,binomial,commensurable,contained,line,ratio,same,straight,terms,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.064: SQUARE ON SIDE OF RATIONAL PLUS MEDIAL AREA APPLIED TO RATIONAL STRAIGHT LINE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: applied,area,line,medial,plus,rational,side,square,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

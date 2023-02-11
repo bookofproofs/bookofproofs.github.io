@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 1.36: PARALLELOGRAMS ON EQUAL BASES AND ON THE SAME PARALLELS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: bases,equal,parallelograms,parallels,same,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

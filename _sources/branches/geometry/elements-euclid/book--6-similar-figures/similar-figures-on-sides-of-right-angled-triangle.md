@@ -7,7 +7,7 @@ title: 6.31: Similar Figures on Sides of Right-Angled Triangle
 description: 6.31: SIMILAR FIGURES ON SIDES OF RIGHT-ANGLED TRIANGLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angled,figures,right,sides,similar,triangle
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

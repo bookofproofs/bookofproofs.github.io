@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 9.12: ELEMENTS OF GEOMETRIC PROGRESSION FROM ONE DIVISIBLE BY PRIME &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: divisible,elements,geometric,one,prime,progression,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

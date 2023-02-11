@@ -7,7 +7,7 @@ title: Prop. 9.29: Odd Number multiplied by Odd Number is Odd
 description: 9.29: ODD NUMBER MULTIPLIED BY ODD NUMBER IS ODD &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: multiplied,number,odd
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 1.41: Parallelograms and Triagles
 description: 1.41: PARALLELOGRAMS AND TRIAGLES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: parallelograms,triagles
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

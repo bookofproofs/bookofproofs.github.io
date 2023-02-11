@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 9.14: FUNDAMENTAL THEOREM OF ARITHMETIC &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: arithmetic,euclid,fundamental,theorem,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

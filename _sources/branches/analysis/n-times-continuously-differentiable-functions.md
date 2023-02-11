@@ -7,7 +7,7 @@ title: `\(n\)` times Continuously Differentiable Functions
 description: N TIMES CONTINUOUSLY DIFFERENTIABLE FUNCTIONS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: continuously,differentiable,functions,times,continuously differentiable,continuously differentiable function,n times differentiable,continuously differentiable function example
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

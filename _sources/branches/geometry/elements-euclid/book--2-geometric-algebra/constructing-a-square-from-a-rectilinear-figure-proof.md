@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 2.14: CONSTRUCTING A SQUARE FROM A RECTILINEAR FIGURE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: constructing,figure,rectilinear,square,rectilinear figure,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

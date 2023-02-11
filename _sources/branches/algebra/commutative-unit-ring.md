@@ -7,7 +7,7 @@ title: Commutative (Unit) Ring
 description: COMMUTATIVE UNIT RING ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$696,bookofproofs$6907
 keywords: commutative ring,commutative unit ring,commutative rings,commutative unit rings
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

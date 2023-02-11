@@ -7,7 +7,7 @@ title: Prop. 10.078: That which produces Medial Whole with Medial Area is Irrati
 description: 10.078: THAT WHICH PRODUCES MEDIAL WHOLE WITH MEDIAL AREA IS IRRATIONAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,irrational,medial,produces,that,that which makes with a medial (area) a medial whole,which,whole
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 8.06: First Element of Geometric Progression not dividing Second
 description: 8.06: FIRST ELEMENT OF GEOMETRIC PROGRESSION NOT DIVIDING SECOND ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: dividing,element,first,geometric,not,progression,second
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

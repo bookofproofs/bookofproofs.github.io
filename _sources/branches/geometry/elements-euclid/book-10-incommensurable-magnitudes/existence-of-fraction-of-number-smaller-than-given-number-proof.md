@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.001: EXISTENCE OF FRACTION OF NUMBER SMALLER THAN GIVEN NUMBER &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: existence,fraction,given,number,smaller,than,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

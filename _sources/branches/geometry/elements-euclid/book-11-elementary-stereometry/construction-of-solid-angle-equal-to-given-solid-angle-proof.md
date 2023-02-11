@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 11.26: CONSTRUCTION OF SOLID ANGLE EQUAL TO GIVEN SOLID ANGLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angle,construction,equal,given,solid,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

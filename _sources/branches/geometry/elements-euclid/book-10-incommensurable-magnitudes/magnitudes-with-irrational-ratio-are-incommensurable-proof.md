@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.008: MAGNITUDES WITH IRRATIONAL RATIO ARE INCOMMENSURABLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,incommensurable,irrational,magnitudes,ratio,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

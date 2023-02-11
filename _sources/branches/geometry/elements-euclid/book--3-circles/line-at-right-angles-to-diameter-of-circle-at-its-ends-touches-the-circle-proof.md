@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 3.16: LINE AT RIGHT ANGLES TO DIAMETER OF CIRCLE AT ITS ENDS TOUCHES THE CIRCLE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angles,circle,diameter,ends,its,line,right,touches,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

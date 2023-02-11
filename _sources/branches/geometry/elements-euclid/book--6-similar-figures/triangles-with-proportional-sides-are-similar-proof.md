@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 6.05: TRIANGLES WITH PROPORTIONAL SIDES ARE SIMILAR &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,proportional,sides,similar,triangles,proportional triangles,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

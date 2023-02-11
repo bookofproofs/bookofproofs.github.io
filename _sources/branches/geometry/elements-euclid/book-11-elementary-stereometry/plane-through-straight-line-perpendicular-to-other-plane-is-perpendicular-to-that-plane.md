@@ -7,7 +7,7 @@ title: Prop. 11.18: Plane through Straight Line Perpendicular to other Plane is 
 description: 11.18: PLANE THROUGH STRAIGHT LINE PERPENDICULAR TO OTHER PLANE IS PERPENDICULAR TO THAT PLANE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: line,other,perpendicular,plane,straight,that,through
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

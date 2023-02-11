@@ -7,7 +7,7 @@ title: Prop. 12.12: Volumes of Similar Cones and Cylinders are in Triplicate Rat
 description: 12.12: VOLUMES OF SIMILAR CONES AND CYLINDERS ARE IN TRIPLICATE RATIO OF DIAMETERS OF BASES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,bases,cones,cylinders,diameters,ratio,similar,triplicate,volumes
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

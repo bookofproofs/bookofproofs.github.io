@@ -7,7 +7,7 @@ title: 3.33: Construction of Segment on Given Line Admitting Given Angle
 description: 3.33: CONSTRUCTION OF SEGMENT ON GIVEN LINE ADMITTING GIVEN ANGLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: admitting,angle,construction,given,line,segment
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

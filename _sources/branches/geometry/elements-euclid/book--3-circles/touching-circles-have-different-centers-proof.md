@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 3.06: TOUCHING CIRCLES HAVE DIFFERENT CENTERS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: centers,circles,different,have,touching,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

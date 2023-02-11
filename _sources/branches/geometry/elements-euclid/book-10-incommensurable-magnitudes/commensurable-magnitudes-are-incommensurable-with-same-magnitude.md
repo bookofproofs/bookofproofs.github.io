@@ -7,7 +7,7 @@ title: Prop. 10.013: Commensurable Magnitudes are Incommensurable with Same Magn
 description: 10.013: COMMENSURABLE MAGNITUDES ARE INCOMMENSURABLE WITH SAME MAGNITUDE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,commensurable,incommensurable,magnitude,magnitudes,same
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

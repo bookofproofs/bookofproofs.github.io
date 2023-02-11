@@ -7,7 +7,7 @@ title: Prop. 8.19: Between two Similar Solid Numbers exist two Mean Proportional
 description: 8.19: BETWEEN TWO SIMILAR SOLID NUMBERS EXIST TWO MEAN PROPORTIONALS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: between,exist,mean,numbers,proportionals,similar,solid,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

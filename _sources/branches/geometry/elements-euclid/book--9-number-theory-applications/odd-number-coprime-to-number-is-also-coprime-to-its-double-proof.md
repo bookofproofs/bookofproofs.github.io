@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 9.31: ODD NUMBER CO-PRIME TO NUMBER IS ALSO CO-PRIME TO ITS DOUBLE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: also,coprime,double,its,number,odd,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

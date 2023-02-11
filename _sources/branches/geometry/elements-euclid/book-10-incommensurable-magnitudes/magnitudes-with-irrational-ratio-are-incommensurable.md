@@ -7,7 +7,7 @@ title: Prop. 10.008: Magnitudes with Irrational Ratio are Incommensurable
 description: 10.008: MAGNITUDES WITH IRRATIONAL RATIO ARE INCOMMENSURABLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,incommensurable,irrational,magnitudes,ratio
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

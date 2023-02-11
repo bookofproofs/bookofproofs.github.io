@@ -7,7 +7,7 @@ title: 1.13: Boundary
 description: 1.13: BOUNDARY &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$582,bookofproofs$6419
 keywords: boundary
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

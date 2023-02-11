@@ -7,7 +7,7 @@ title: Open Function, Closed Function
 description: OPEN FUNCTION, CLOSED FUNCTION &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: closed,function,open
-contributors: 
+contributors: @Brenner,bookofproofs
 
 ---
 

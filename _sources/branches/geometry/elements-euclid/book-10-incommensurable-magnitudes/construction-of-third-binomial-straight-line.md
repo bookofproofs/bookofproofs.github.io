@@ -7,7 +7,7 @@ title: Prop. 10.050: Construction of Third Binomial Straight Line
 description: 10.050: CONSTRUCTION OF THIRD BINOMIAL STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: binomial,construction,line,straight,third
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

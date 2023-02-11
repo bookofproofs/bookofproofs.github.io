@@ -7,7 +7,7 @@ title: Prop. 10.098: Square on First Apotome of Medial Straight Line applied to 
 description: 10.098: SQUARE ON FIRST APOTOME OF MEDIAL STRAIGHT LINE APPLIED TO RATIONAL STRAIGHT LINE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: apotome,applied,first,line,medial,rational,square,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

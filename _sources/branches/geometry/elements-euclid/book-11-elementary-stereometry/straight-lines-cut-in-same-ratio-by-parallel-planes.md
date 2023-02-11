@@ -7,7 +7,7 @@ title: Prop. 11.17: Straight Lines cut in Same Ratio by Parallel Planes
 description: 11.17: STRAIGHT LINES CUT IN SAME RATIO BY PARALLEL PLANES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: cut,lines,parallel,planes,ratio,same,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

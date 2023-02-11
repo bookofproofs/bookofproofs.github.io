@@ -7,7 +7,7 @@ title: 3.34: Construction of Segment on Given Circle Admitting Given Angle
 description: 3.34: CONSTRUCTION OF SEGMENT ON GIVEN CIRCLE ADMITTING GIVEN ANGLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: admitting,angle,circle,construction,given,segment
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

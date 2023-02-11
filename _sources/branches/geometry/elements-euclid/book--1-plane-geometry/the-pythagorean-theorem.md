@@ -7,7 +7,7 @@ title: 1.47: Pythagorean Theorem
 description: 1.47: PYTHAGOREAN THEOREM &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: pythagorean,theorem,euclid pythagorean theorem,pythagorea 13.15,pythagorea 13.12,euclid 1.47
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 
 ---

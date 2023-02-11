@@ -7,7 +7,7 @@ title: Prop. 11.26: Construction of Solid Angle equal to Given Solid Angle
 description: 11.26: CONSTRUCTION OF SOLID ANGLE EQUAL TO GIVEN SOLID ANGLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angle,construction,equal,given,solid
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 7.08: Division with Quotient and Remainder Obeys Distributivity Law (Diff
 description: 7.08: DIVISION WITH QUOTIENT AND REMAINDER OBEYS DISTRIBUTIVITY LAW DIFFERENCE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: difference,distributive,division,law,obeys,quotient,remainder
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

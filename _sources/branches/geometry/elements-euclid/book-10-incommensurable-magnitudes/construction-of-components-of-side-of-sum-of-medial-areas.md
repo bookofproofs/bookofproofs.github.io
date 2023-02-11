@@ -7,7 +7,7 @@ title: Prop. 10.035: Construction of Components of Side of Sum of Medial Areas
 description: 10.035: CONSTRUCTION OF COMPONENTS OF SIDE OF SUM OF MEDIAL AREAS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: areas,components,construction,medial,side,sum
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

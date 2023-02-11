@@ -7,7 +7,7 @@ title: Prop. 8.26: Similar Plane Numbers have Same Ratio as between Two Squares
 description: 8.26: SIMILAR PLANE NUMBERS HAVE SAME RATIO AS BETWEEN TWO SQUARES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: between,have,numbers,plane,ratio,same,similar,squares,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.026: MEDIAL AREA NOT GREATER THAN MEDIAL AREA BY RATIONAL AREA &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: area,greater,medial,not,rational,than,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

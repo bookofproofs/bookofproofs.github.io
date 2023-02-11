@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 5.10: RELATIVE SIZES OF MAGNITUDES ON UNEQUAL RATIOS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: magnitudes,ratios,relative,sizes,unequal,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

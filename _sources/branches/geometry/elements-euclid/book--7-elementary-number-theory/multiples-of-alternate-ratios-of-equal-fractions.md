@@ -7,7 +7,7 @@ title: 7.10: Multiples of Alternate Ratios of Equal Fractions
 description: 7.10: MULTIPLES OF ALTERNATE RATIOS OF EQUAL FRACTIONS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: alternate,equal,fractions,multiples,ratios
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

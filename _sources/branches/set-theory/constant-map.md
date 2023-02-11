@@ -7,7 +7,7 @@ title: Constant Function
 description: CONSTANT FUNCTION ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: constant function,constant functions,constant
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

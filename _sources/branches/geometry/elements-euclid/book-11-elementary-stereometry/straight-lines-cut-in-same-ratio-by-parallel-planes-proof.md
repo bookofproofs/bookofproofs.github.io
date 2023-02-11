@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 11.17: STRAIGHT LINES CUT IN SAME RATIO BY PARALLEL PLANES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: cut,lines,parallel,planes,ratio,same,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

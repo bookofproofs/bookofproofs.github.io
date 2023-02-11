@@ -7,7 +7,7 @@ title: Prop. 11.34: Parallelepipeds are of Equal Volume iff Bases are in Recipro
 description: 11.34: PARALLELEPIPEDS ARE OF EQUAL VOLUME IFF BASES ARE IN RECIPROCAL PROPORTION TO HEIGHTS &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,bases,equal,heights,iff,parallelepipeds,proportion,reciprocal,volume
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

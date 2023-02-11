@@ -7,7 +7,7 @@ title: Lem. 10.032: Constructing Medial Commensurable in Square II
 description: LEM. 10.032: CONSTRUCTING MEDIAL COMMENSURABLE IN SQUARE II &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: commensurable,constructing,medial,square
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

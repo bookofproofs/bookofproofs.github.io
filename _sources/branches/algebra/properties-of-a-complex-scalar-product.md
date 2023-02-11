@@ -7,7 +7,7 @@ title: Properties of a Complex Scalar Product
 description: PROPERTIES OF A COMPLEX SCALAR PRODUCT &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: complex,hermitian form,product,properties,scalar
-contributors: 
+contributors: @Brenner,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 9.30: Odd Divisor of Even Number Also Divides Its Half
 description: 9.30: ODD DIVISOR OF EVEN NUMBER ALSO DIVIDES ITS HALF &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: also,divides,divisor,even,half,its,number,odd
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 10.069: Straight Line Commensurable with Side of Rational plus Medi
 description: 10.069: STRAIGHT LINE COMMENSURABLE WITH SIDE OF RATIONAL PLUS MEDIAL AREA &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,commensurable,line,medial,plus,rational,side,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

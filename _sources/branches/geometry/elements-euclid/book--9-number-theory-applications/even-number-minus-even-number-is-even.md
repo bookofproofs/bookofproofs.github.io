@@ -7,7 +7,7 @@ title: Prop. 9.24: Even Number minus Even Number is Even
 description: 9.24: EVEN NUMBER MINUS EVEN NUMBER IS EVEN &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: even,minus,number,an even number minus an even number,even number minus even number
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

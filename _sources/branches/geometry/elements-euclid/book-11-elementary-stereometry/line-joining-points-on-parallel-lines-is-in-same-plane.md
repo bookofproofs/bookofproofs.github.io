@@ -7,7 +7,7 @@ title: Prop. 11.07: Line joining Points on Parallel Lines is in Same Plane
 description: 11.07: LINE JOINING POINTS ON PARALLEL LINES IS IN SAME PLANE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: joining,line,lines,parallel,plane,points,same
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

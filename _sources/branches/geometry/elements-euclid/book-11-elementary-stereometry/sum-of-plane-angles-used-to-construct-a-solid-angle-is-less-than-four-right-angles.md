@@ -7,7 +7,7 @@ title: Prop. 11.23: Sum of Plane Angles Used to Construct a Solid Angle is Less 
 description: 11.23: SUM OF PLANE ANGLES USED TO CONSTRUCT A SOLID ANGLE IS LESS THAN FOUR RIGHT ANGLES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angle,angles,construct,four,less,plane,right,solid,sum,than,used
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 8.20: Numbers between which exists one Mean Proportional are Simila
 description: 8.20: NUMBERS BETWEEN WHICH EXISTS ONE MEAN PROPORTIONAL ARE SIMILAR PLANE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,between,exists,mean,numbers,one,plane,proportional,similar,which
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

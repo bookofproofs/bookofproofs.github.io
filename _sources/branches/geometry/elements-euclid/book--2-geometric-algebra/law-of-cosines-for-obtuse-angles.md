@@ -7,7 +7,7 @@ title: 2.12: Law of Cosines (for Obtuse Angles)
 description: 2.12: LAW OF COSINES FOR OBTUSE ANGLES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angles,cosines,law,law of cosines,obtuse,law of cosines obtuse angles,cosine rule for obtuse angles,cosine rule obtuse angle,cosine law obtuse angle
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 4.02: INSCRIBING IN CIRCLE TRIANGLE EQUIANGULAR WITH GIVEN ANGLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angles,circle,equiangular,given,inscribing,triangle,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

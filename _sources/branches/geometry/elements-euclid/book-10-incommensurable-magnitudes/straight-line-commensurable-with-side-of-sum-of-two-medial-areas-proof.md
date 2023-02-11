@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.070: STRAIGHT LINE COMMENSURABLE WITH SIDE OF SUM OF TWO MEDIAL AREAS &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: areas,commensurable,line,medial,side,straight,sum,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

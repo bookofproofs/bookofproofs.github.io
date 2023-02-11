@@ -7,7 +7,7 @@ title: 5.24: Sum of Antecedents of Proportion
 description: 5.24: SUM OF ANTECEDENTS OF PROPORTION &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: antecedents,proportion,sum
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

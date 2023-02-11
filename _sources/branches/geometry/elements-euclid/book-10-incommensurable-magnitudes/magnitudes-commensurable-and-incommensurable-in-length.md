@@ -7,7 +7,7 @@ title: Def. 10.01: Magnitudes Commensurable and Incommensurable in Length
 description: DEF. 10.01: MAGNITUDES COMMENSURABLE AND INCOMMENSURABLE IN LENGTH &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: commensurable,commensurable (in length),incommensurable,incommensurable (in length),length,magnitudes,commensurable magnitudes,incommensurable magnitudes
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.092: SIDE OF AREA CONTAINED BY RATIONAL STRAIGHT LINE AND SECOND APOTOME &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: apotome,area,contained,line,rational,second,side,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

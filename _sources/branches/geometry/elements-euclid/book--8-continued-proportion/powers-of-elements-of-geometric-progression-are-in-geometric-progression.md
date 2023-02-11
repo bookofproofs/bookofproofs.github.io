@@ -7,7 +7,7 @@ title: Prop. 8.13: Powers of Elements of Geometric Progression are in Geometric 
 description: 8.13: POWERS OF ELEMENTS OF GEOMETRIC PROGRESSION ARE IN GEOMETRIC PROGRESSION &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,elements,geometric,powers,progression
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

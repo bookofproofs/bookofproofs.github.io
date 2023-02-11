@@ -7,7 +7,7 @@ title: Def. 11.22: Axis of a Cylinder
 description: DEF. 11.22: AXIS OF A CYLINDER &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: axis,axis of the cylinder,cylinder
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

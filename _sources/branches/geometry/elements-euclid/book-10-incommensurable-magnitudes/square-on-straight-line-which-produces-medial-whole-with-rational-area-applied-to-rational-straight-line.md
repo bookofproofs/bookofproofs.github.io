@@ -7,7 +7,7 @@ title: Prop. 10.101: Square on Straight Line which produces Medial Whole with Ra
 description: 10.101: SQUARE ON STRAIGHT LINE WHICH PRODUCES MEDIAL WHOLE WITH RATIONAL AREA APPLIED TO RATIONAL STRAIGHT LINE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: applied,area,line,medial,produces,rational,square,straight,which,whole
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

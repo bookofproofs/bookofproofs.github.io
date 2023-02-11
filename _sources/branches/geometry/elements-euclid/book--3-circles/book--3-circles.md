@@ -7,7 +7,7 @@ title: Book 03: Fundamentals of Plane Geometry Involving Circles
 description: BOOK 03: FUNDAMENTALS OF PLANE GEOMETRY INVOLVING CIRCLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: book,circles,fundamentals,geometry,infolving,plane
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

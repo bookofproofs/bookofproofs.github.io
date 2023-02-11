@@ -7,7 +7,7 @@ title: Rhombus as a Special Case of a Parallelogram
 description: RHOMBUS AS A SPECIAL CASE OF A PARALLELOGRAM &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: angles,opposite,parallelograms,sides,parallelogram angles,proof,rhombus is a parallelogram,rhombus and parallelogram,parallelogram rhombus,parallelogram and rhombus,rhombus corollary
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

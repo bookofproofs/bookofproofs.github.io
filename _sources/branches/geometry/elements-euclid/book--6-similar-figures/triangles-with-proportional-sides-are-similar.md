@@ -7,7 +7,7 @@ title: 6.05: Triangles with Proportional Sides are Similar
 description: 6.05: TRIANGLES WITH PROPORTIONAL SIDES ARE SIMILAR &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,proportional,sides,similar,triangles,proportional triangles
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

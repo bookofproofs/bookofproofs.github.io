@@ -7,7 +7,7 @@ title: Equivalency of Vectors in Vector Space If their Difference Forms a Subspa
 description: EQUIVALENCY OF VECTORS IN VECTOR SPACE IF THEIR DIFFERENCE FORMS A SUBSPACE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: difference,equivalency,forms,space,subspace,their,vector,vectors
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 8.16: Number does not divide Number iff Square does not divide Squa
 description: 8.16: NUMBER DOES NOT DIVIDE NUMBER IFF SQUARE DOES NOT DIVIDE SQUARE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: divide,does,iff,not,number,square
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

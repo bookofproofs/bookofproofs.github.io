@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 12.04: PROPORTION OF SIZES OF TETRAHEDRA DIVIDED INTO TWO SIMILAR TETRAHEDRA AND TWO EQUAL PRISMS &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: divided,equal,into,prisms,proportion,similar,sizes,tetrahedra,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

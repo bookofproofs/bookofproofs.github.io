@@ -7,7 +7,7 @@ title: 8.07: First Element of Geometric Progression that divides Last also divid
 description: 8.07: FIRST ELEMENT OF GEOMETRIC PROGRESSION THAT DIVIDES LAST ALSO DIVIDES SECOND ★ master graduate maths ✔ visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: divides,first,geometric progression,second
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

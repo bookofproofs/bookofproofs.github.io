@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 6.33: ANGLES IN CIRCLES HAVE SAME RATIO AS ARCS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angles,arcs,circles,have,ratio,same,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 10.099: Square on Second Apotome of Medial Straight Line applied to
 description: 10.099: SQUARE ON SECOND APOTOME OF MEDIAL STRAIGHT LINE APPLIED TO RATIONAL STRAIGHT LINE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: apotome,applied,line,medial,rational,second,square,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

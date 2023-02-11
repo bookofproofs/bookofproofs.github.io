@@ -7,7 +7,7 @@ title: Prop. 10.031: Constructing Medial Commensurable in Square I
 description: 10.031: CONSTRUCTING MEDIAL COMMENSURABLE IN SQUARE I &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: commensurable,constructing,medial,square
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 4.15: Side of Hexagon Inscribed in a Circle Equals the Radius of that Cir
 description: 4.15: SIDE OF HEXAGON INSCRIBED IN A CIRCLE EQUALS THE RADIUS OF THAT CIRCLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: circle,equals,hexagon,inscribed,radius,side,that
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

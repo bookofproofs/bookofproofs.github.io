@@ -7,7 +7,7 @@ title: Prop. 13.12: Square on Side of Equilateral Triangle inscribed in Circle i
 description: 13.12: SQUARE ON SIDE OF EQUILATERAL TRIANGLE INSCRIBED IN CIRCLE IS TRIPLE SQUARE ON RADIUS OF CIRCLE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: circle,equilateral,inscribed,radius,side,square,triangle,triple
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.034: CONSTRUCTION OF COMPONENTS OF SIDE OF RATIONAL PLUS MEDIAL AREA &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: area,components,construction,medial,plus,rational,side,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

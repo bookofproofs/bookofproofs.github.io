@@ -7,7 +7,7 @@ title:
 description:  Proof of FIBER OF PRIME IDEALS UNDER A SPECTRUM FUNCTION &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: fiber,function,ideals,prime,spectrum,under,proof
-contributors: 
+contributors: @Brenner,bookofproofs
 
 ---
 

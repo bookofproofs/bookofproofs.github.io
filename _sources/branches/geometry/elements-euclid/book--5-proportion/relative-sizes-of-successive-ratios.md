@@ -7,7 +7,7 @@ title: 5.20: Relative Sizes of Successive Ratios
 description: 5.20: RELATIVE SIZES OF SUCCESSIVE RATIOS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: ratios,relative,sizes,successive
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

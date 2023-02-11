@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 3.32: ANGLES MADE BY CHORD WITH TANGENT &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angles,chord,made,tangent,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

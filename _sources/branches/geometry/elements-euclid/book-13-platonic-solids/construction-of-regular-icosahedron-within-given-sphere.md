@@ -7,7 +7,7 @@ title: Prop. 13.16: Construction of Regular Icosahedron within Given Sphere
 description: 13.16: CONSTRUCTION OF REGULAR ICOSAHEDRON WITHIN GIVEN SPHERE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: construction,dx,2,given,icosahedron,regular,sphere,within,x + ct,x - st,y + cp,y + st,y - ct,regular icosahedron
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

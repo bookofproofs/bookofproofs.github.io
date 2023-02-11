@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.005: RATIO OF COMMENSURABLE MAGNITUDES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: commensurable,magnitudes,ratio,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

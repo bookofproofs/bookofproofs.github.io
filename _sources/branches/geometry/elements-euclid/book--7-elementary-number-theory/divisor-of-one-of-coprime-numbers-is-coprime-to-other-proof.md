@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 7.23: DIVISOR OF ONE OF CO-PRIME NUMBERS IS CO-PRIME TO OTHER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: coprime,divisor,numbers,one,other,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 1.12: Acute Angle
 description: 1.12: ACUTE ANGLE &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: acute,acute angle,angle,acute angle definition
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

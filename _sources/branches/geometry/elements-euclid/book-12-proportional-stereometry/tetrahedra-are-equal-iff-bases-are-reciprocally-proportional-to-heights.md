@@ -7,7 +7,7 @@ title: Prop. 12.09: Tetrahedra are Equal iff Bases are Reciprocally Proportional
 description: 12.09: TETRAHEDRA ARE EQUAL IFF BASES ARE RECIPROCALLY PROPORTIONAL TO HEIGHTS &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,bases,equal,heights,iff,proportional,reciprocally,tetrahedra
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

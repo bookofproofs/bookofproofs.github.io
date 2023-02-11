@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 8.26: SIMILAR PLANE NUMBERS HAVE SAME RATIO AS BETWEEN TWO SQUARES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: between,have,numbers,plane,ratio,same,similar,squares,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

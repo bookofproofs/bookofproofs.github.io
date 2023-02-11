@@ -7,7 +7,7 @@ title: Surjective Function
 description: SURJECTIVE FUNCTION ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$577,bookofproofs$979,bookofproofs$6823,bookofproofs$6907
 keywords: surjection,surjective,surjective function
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

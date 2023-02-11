@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 3.09: CONDITION FOR POINT TO BE CENTER OF CIRCLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: center,circle,condition,point,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

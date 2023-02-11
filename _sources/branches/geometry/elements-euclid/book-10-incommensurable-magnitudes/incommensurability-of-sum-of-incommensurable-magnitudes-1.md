@@ -7,7 +7,7 @@ title: Lem. 10.016: Incommensurability of Sum of Incommensurable Magnitudes
 description: LEM. 10.016: INCOMMENSURABILITY OF SUM OF INCOMMENSURABLE MAGNITUDES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: incommensurability,incommensurable,magnitudes,sum
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

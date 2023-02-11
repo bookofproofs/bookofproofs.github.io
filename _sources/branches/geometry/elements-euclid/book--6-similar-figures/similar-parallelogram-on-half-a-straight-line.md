@@ -7,7 +7,7 @@ title: 6.27: Similar Parallelogram on Half a Straight Line
 description: 6.27: SIMILAR PARALLELOGRAM ON HALF A STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: half,line,parallelogram,similar,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

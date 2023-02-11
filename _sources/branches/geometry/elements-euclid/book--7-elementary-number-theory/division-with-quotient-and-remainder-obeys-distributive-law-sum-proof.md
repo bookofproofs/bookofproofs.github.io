@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 7.06: DIVISION WITH QUOTIENT AND REMAINDER OBEYS DISTRIBUTIVE LAW SUM &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: distributive,division,law,obeys,quotient,remainder,sum,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

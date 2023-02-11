@@ -7,7 +7,7 @@ title: 1.04: "Side-Angle-Side" Theorem for the Congruence of Triangle
 description: 1.04: SIDE-ANGLE-SIDE THEOREM FOR THE CONGRUENCE OF TRIANGLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: angle,congruence,side,theorem,triangle,side angle side theorem,side side side theorem,angle side angle,side angle side
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

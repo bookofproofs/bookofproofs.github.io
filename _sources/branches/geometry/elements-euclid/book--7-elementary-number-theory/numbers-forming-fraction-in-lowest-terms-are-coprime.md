@@ -7,7 +7,7 @@ title: 7.22: Numbers forming Fraction in Lowest Terms are Co-prime
 description: 7.22: NUMBERS FORMING FRACTION IN LOWEST TERMS ARE CO-PRIME &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,coprime,forming,fraction,lowest,numbers,terms
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

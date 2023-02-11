@@ -7,7 +7,7 @@ title: 1.09: Angle, Rectilinear, Vertex, Legs
 description: 1.09: ANGLE, RECTILINEAR, VERTEX, LEGS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: angle,counter clockwise oriented,legs,rectilinear,vertex,rectilinear angle,rectilinear triangle,angles in rectilinear figures
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

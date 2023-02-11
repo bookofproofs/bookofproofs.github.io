@@ -7,7 +7,7 @@ title: Commutative (Abelian) Group
 description: COMMUTATIVE ABELIAN GROUP ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$577,bookofproofs$6907
 keywords: commutative group,abelian group,commutative,abelian
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 
 ---

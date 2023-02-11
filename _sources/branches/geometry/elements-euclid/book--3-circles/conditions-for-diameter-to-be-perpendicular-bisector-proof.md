@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 3.03: CONDITIONS FOR DIAMETER TO BE A PERPENDICULAR BISECTOR &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: bisector,conditions,diameter,perpendicular,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

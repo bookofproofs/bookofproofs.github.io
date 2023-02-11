@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.042: BINOMIAL STRAIGHT LINE IS DIVISIBLE INTO TERMS UNIQUELY &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: binomial,divisible,into,line,straight,terms,uniquely,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

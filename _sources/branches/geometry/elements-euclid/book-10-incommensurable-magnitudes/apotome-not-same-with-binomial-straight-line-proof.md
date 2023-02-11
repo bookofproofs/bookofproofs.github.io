@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.111: APOTOME NOT SAME WITH BINOMIAL STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: apotome,binomial,line,not,same,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

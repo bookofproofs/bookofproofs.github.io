@@ -7,7 +7,7 @@ title: 3.12: Line Joining Centers of Two Circles Touching Externally
 description: 3.12: LINE JOINING CENTERS OF TWO CIRCLES TOUCHING EXTERNALLY &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: centers,circles,externally,joining,line,touching,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

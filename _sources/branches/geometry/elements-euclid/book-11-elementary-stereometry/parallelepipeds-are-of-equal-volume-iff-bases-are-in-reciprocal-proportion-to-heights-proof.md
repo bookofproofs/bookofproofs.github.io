@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 11.34: PARALLELEPIPEDS ARE OF EQUAL VOLUME IFF BASES ARE IN RECIPROCAL PROPORTION TO HEIGHTS &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: are,bases,equal,heights,iff,parallelepipeds,proportion,reciprocal,volume,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

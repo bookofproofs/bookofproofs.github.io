@@ -7,7 +7,7 @@ title: Prop. 12.18: Volumes of Spheres are in Triplicate Ratio of Diameters
 description: 12.18: VOLUMES OF SPHERES ARE IN TRIPLICATE RATIO OF DIAMETERS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,diameters,ratio,spheres,triplicate,volumes
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

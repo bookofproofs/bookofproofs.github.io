@@ -7,7 +7,7 @@ title: 7.09: Even-Times-Odd Number
 description: 7.09: EVEN-TIMES-ODD NUMBER &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: even,even-times-odd,number,odd,times,-1 into even number of times
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

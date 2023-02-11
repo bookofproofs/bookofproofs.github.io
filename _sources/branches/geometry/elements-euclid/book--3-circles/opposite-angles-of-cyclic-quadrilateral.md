@@ -7,7 +7,7 @@ title: 3.22: Opposite Angles of Cyclic Quadrilateral
 description: 3.22: OPPOSITE ANGLES OF CYCLIC QUADRILATERAL &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angles,cyclic,opposite,quadrilateral
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

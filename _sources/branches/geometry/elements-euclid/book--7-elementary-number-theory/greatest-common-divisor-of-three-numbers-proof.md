@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 7.03: GREATEST COMMON DIVISOR OF THREE NUMBERS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: common,divisor,greatest,numbers,three,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

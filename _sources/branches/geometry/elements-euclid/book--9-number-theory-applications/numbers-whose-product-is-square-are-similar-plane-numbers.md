@@ -7,7 +7,7 @@ title: Prop. 9.02: Numbers whose Product is Square are Similar Plane Numbers
 description: 9.02: NUMBERS WHOSE PRODUCT IS SQUARE ARE SIMILAR PLANE NUMBERS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,numbers,plane,product,similar,square,whose
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

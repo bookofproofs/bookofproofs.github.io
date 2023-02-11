@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 8.06: FIRST ELEMENT OF GEOMETRIC PROGRESSION NOT DIVIDING SECOND &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: dividing,element,first,geometric,not,progression,second,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 10.108: Side of Remaining Area from Rational Area from which Medial
 description: 10.108: SIDE OF REMAINING AREA FROM RATIONAL AREA FROM WHICH MEDIAL AREA SUBTRACTED &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,medial,rational,remaining,side,subtracted,which
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 5.09: Magnitudes with Same Ratios are Equal
 description: 5.09: MAGNITUDES WITH SAME RATIOS ARE EQUAL &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,equal,magnitudes,ratios,same
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

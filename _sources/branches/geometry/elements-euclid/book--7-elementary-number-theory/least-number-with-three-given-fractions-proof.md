@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 7.39: LEAST NUMBER WITH THREE GIVEN FRACTIONS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: fractions,given,least,number,three,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

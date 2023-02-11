@@ -7,7 +7,7 @@ title: Prop. 11.08: Line Parallel to Perpendicular Line to Plane is Perpendicula
 description: 11.08: LINE PARALLEL TO PERPENDICULAR LINE TO PLANE IS PERPENDICULAR TO SAME PLANE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: line,parallel,perpendicular,plane,same
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

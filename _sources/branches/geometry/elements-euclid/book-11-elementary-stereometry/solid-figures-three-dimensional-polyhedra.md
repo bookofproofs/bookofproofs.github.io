@@ -7,7 +7,7 @@ title: Def. 11.01: Solid Figures, Three-Dimensional Polyhedra
 description: DEF. 11.01: SOLID FIGURES, THREE-DIMENSIONAL POLYHEDRA &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: dimensional,figures,,polyhedra,solid,three,tree-dimensional polyhedron
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

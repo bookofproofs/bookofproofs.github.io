@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 11.19: COMMON SECTION OF PLANES PERPENDICULAR TO OTHER PLANE IS PERPENDICULAR TO THAT PLANE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: common,other,perpendicular,plane,planes,section,that,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

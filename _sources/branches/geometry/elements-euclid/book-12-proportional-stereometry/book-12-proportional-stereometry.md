@@ -7,7 +7,7 @@ title: Book 12: Proportional Stereometry
 description: BOOK 12: PROPORTIONAL STEREOMETRY &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: book,proportional,stereometry
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

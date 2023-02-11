@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.072: SUM OF TWO INCOMMENSURABLE MEDIAL AREAS GIVE RISE TO TWO IRRATIONAL STRAIGHT LINES &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: areas,give,incommensurable,irrational,lines,medial,rise,straight,sum,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

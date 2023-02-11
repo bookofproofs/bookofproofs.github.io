@@ -7,7 +7,7 @@ title: 3.26: Equal Angles and Arcs in Equal Circles
 description: 3.26: EQUAL ANGLES AND ARCS IN EQUAL CIRCLES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angles,arcs,circles,equal,angles and arcs
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

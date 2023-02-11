@@ -7,7 +7,7 @@ title: Triangulation of an N-gon and Sum of Interior Angles
 description: TRIANGULATION OF AN N-GON AND SUM OF INTERIOR ANGLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: angles,gon,interior,sum,triangulation
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

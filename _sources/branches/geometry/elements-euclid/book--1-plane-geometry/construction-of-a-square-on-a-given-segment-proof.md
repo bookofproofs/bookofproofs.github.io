@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 1.46: CONSTRUCTION OF A SQUARE ON A GIVEN SEGMENT &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: construction,given,segment,square,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

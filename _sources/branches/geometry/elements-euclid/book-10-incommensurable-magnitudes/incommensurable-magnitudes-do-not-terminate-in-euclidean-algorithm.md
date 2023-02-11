@@ -7,7 +7,7 @@ title: Prop. 10.002: Incommensurable Magnitudes do not Terminate in Euclidean Al
 description: 10.002: INCOMMENSURABLE MAGNITUDES DO NOT TERMINATE IN EUCLIDEAN ALGORITHM &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: algorithm,euclidean,incommensurable,magnitudes,not,terminate
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

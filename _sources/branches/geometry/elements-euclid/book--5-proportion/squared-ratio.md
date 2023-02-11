@@ -7,7 +7,7 @@ title: 5.09: Squared Ratio
 description: 5.09: SQUARED RATIO &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$2775,bookofproofs$6419
 keywords: ratio,squared,squared[1] ratio
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 4.09: Circumscribing Circle about Square
 description: 4.09: CIRCUMSCRIBING CIRCLE ABOUT SQUARE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: about,circle,circumscribing,square
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

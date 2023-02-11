@@ -7,7 +7,7 @@ title: Lem. 13.18: Angle of the Pentagon
 description: LEM. 13.18: ANGLE OF THE PENTAGON &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angle,pentagon
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

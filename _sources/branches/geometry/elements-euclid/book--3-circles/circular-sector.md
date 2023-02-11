@@ -7,7 +7,7 @@ title: 3.10: Circular Sector, Central Angle
 description: 3.10: CIRCULAR SECTOR, CENTRAL ANGLE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$6419,bookofproofs$6908
 keywords: central angle,circular,circular sector,sector,sector of a circle,circular angle definition,central angle definition
-contributors: bookofproofs,@calahan,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Fitzpatrick
 
 ---
 

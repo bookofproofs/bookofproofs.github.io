@@ -7,7 +7,7 @@ title: Properties of a Real Scalar Product
 description: PROPERTIES OF A REAL SCALAR PRODUCT &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: linear in the first argument,linear in the second argument,positive definite,product,properties,real,scalar,symmetric
-contributors: 
+contributors: @Brenner,bookofproofs
 
 ---
 

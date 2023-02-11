@@ -7,7 +7,7 @@ title: 1.22: Square, Rectangle, Rhombus, Rhomboid, Trapezium
 description: 1.22: SQUARE, RECTANGLE, RHOMBUS, RHOMBOID, TRAPEZIUM ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: parallelogram,quadrilateral,rectangle,rhomboid,rhombus,square,trapezia,trapezium,rhomboid quadrilateral,rhomboid geometry,rhomboid vs rhombus,rhomboid vs trapezoid,rhomboid rhombus,rhombus and trapezium,rhombus trapezium,angled rectangle,rhombus rectangle,rhombus and rhomboid,square and rectangle definition,trapezoid vs rhomboid,difference between,
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

@@ -7,7 +7,7 @@ title: 11.35: Condition for Equal Angles contained by Elevated Straight Lines fr
 description: 11.35: CONDITION FOR EQUAL ANGLES CONTAINED BY ELEVATED STRAIGHT LINES FROM PLANE ANGLES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angles,condition,contained,elevated,equal,lines,plane,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 11.02: Two Intersecting Straight Lines are in One Plane
 description: 11.02: TWO INTERSECTING STRAIGHT LINES ARE IN ONE PLANE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,intersecting,lines,one,plane,straight,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

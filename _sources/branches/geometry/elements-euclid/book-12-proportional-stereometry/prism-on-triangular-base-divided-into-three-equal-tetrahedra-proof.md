@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 12.07: PRISM ON TRIANGULAR BASE DIVIDED INTO THREE EQUAL TETRAHEDRA &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: base,divided,equal,into,prism,tetrahedra,three,triangular,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

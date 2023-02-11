@@ -7,7 +7,7 @@ title: 2.2: Gnomon
 description: 2.2: GNOMON &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: gnomon,gnomons,gnomon definition,euclid gnomon
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

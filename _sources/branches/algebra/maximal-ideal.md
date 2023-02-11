@@ -7,7 +7,7 @@ title: Maximal Ideal
 description: MAXIMAL IDEAL ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: maximal ideal,maximal ideals
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

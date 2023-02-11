@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 13.04: AREA OF SQUARES ON WHOLE AND LESSER SEGMENT OF STRAIGHT LINE CUT IN EXTREME AND MEAN RATIO &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: area,cut,extreme,lesser,line,mean,ratio,segment,squares,straight,whole,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

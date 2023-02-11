@@ -7,7 +7,7 @@ title: 6.28: Construction of Parallelogram Equal to Given Figure Less a Parallel
 description: 6.28: CONSTRUCTION OF PARALLELOGRAM EQUAL TO GIVEN FIGURE LESS A PARALLELOGRAM &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: construction,equal,figure,given,less,parallelogram,construction of parallelogram
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

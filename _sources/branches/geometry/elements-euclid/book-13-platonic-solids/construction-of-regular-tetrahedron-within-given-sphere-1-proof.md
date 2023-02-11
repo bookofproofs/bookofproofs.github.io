@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF LEM. 13.13: CONSTRUCTION OF REGULAR TETRAHEDRON WITHIN GIVEN SPHERE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: construction,given,regular,sphere,tetrahedron,within,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

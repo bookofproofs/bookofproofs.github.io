@@ -7,7 +7,7 @@ title: 1.10: Right Angle, Perpendicular Straight Lines
 description: 1.10: RIGHT ANGLE, PERPENDICULAR STRAIGHT LINES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$640,bookofproofs$6419
 keywords: angle,counter-clockwise rotation,lines,perpendicular,right,right angle,right angles,straight,perpendicular angles,perpendicular angle,right angle definition,perpendicular right angle theorem,right angle on a straight line
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

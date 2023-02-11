@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.113: SQUARE ON RATIONAL STRAIGHT LINE APPLIED TO APOTOME &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: apotome,applied,line,rational,square,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

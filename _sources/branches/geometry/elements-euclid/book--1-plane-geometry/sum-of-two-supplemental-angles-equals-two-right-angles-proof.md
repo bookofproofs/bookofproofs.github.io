@@ -7,7 +7,7 @@ title: By Euclid
 description: GEOMETRIC PROOF Proof of SUM OF TWO SUPPLEMENTAL ANGLES EQUALS TWO RIGHT ANGLES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: angles,equals,right,sum,supplemental,two,proof
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

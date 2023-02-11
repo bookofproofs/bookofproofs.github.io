@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 11.07: LINE JOINING POINTS ON PARALLEL LINES IS IN SAME PLANE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: joining,line,lines,parallel,plane,points,same,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

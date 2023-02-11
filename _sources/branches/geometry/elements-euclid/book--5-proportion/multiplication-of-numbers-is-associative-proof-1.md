@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 5.03: MULTIPLICATION OF NUMBERS IS ASSOCIATIVE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: associative,multiplication,numbers,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

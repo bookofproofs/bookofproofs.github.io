@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.015: COMMENSURABILITY OF SUM OF COMMENSURABLE MAGNITUDES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: commensurability,commensurable,magnitudes,sum,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

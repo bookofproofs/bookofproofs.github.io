@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 11.11: CONSTRUCTION OF STRAIGHT LINE PERPENDICULAR TO PLANE FROM POINT NOT ON PLANE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: construction,line,not,perpendicular,plane,point,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

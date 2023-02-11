@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 13.16: CONSTRUCTION OF REGULAR ICOSAHEDRON WITHIN GIVEN SPHERE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: construction,dx,2,given,icosahedron,regular,sphere,within,x + ct,x - st,y + cp,y + st,y - ct,regular icosahedron,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

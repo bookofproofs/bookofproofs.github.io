@@ -7,7 +7,7 @@ title: Prop. 10.047: Side of Sum of Two Medial Areas is Divisible Uniquely
 description: 10.047: SIDE OF SUM OF TWO MEDIAL AREAS IS DIVISIBLE UNIQUELY &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: areas,divisible,medial,side,sum,two,uniquely
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

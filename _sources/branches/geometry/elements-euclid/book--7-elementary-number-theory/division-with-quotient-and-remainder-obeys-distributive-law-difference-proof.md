@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 7.08: DIVISION WITH QUOTIENT AND REMAINDER OBEYS DISTRIBUTIVITY LAW DIFFERENCE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: difference,distributive,division,law,obeys,quotient,remainder,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

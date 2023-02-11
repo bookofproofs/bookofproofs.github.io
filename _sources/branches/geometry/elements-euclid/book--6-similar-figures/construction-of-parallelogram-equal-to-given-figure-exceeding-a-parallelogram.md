@@ -7,7 +7,7 @@ title: 6.29: Construction of Parallelogram Equal to Given Figure Exceeding a Par
 description: 6.29: CONSTRUCTION OF PARALLELOGRAM EQUAL TO GIVEN FIGURE EXCEEDING A PARALLELOGRAM &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: construction,equal,exceeding,figure,given,parallelogram
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 7.05: Multiple, Number Multiplying another Number
 description: 7.05: MULTIPLE, NUMBER MULTIPLYING ANOTHER NUMBER &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$1272,bookofproofs$6419
 keywords: another,multiple,multiplying,number
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

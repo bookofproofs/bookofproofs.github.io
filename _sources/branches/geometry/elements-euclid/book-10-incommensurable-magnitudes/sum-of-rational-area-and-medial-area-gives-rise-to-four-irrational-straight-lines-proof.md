@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.071: SUM OF RATIONAL AREA AND MEDIAL AREA GIVES RISE TO FOUR IRRATIONAL STRAIGHT LINES &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: area,four,gives,irrational,lines,medial,rational,rise,straight,sum,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

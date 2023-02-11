@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of COR. 12.17: CONSTRUCTION OF POLYHEDRON IN OUTER OF CONCENTRIC SPHERES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: concentric,construction,outer,polyhedron,spheres,concentric spheres,proof,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

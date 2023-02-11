@@ -7,7 +7,7 @@ title: Subring
 description: SUBRING ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$696,bookofproofs$6907
 keywords: subring,subrings
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

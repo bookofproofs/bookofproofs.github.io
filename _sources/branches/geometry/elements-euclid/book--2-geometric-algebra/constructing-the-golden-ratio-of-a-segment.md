@@ -7,7 +7,7 @@ title: 2.11: Constructing the Golden Ratio of a Segment
 description: 2.11: CONSTRUCTING THE GOLDEN RATIO OF A SEGMENT &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: constructing,golden,golden ratio,ratio,segment
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

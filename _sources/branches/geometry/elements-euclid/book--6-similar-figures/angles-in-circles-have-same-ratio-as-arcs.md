@@ -7,7 +7,7 @@ title: 6.33: Angles in Circles have Same Ratio as Arcs
 description: 6.33: ANGLES IN CIRCLES HAVE SAME RATIO AS ARCS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angles,arcs,circles,have,ratio,same
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

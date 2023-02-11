@@ -7,7 +7,7 @@ title: Prop. 11.05: Three Intersecting Lines Perpendicular to Another Line are i
 description: 11.05: THREE INTERSECTING LINES PERPENDICULAR TO ANOTHER LINE ARE IN ONE PLANE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: another,are,intersecting,line,lines,one,perpendicular,plane,three
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

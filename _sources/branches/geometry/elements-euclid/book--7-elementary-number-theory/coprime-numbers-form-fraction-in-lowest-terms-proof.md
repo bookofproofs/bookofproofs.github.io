@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 7.21: CO-PRIME NUMBERS FORM FRACTION IN LOWEST TERMS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: coprime,form,fraction,lowest,numbers,terms,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

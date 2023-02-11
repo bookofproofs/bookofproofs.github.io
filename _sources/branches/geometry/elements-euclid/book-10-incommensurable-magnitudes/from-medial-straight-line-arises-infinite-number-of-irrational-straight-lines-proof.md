@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.115: FROM MEDIAL STRAIGHT LINE ARISES INFINITE NUMBER OF IRRATIONAL STRAIGHT LINES &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: arises,infinite,irrational,line,lines,medial,number,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

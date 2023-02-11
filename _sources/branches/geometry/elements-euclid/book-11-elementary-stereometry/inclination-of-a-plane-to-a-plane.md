@@ -7,7 +7,7 @@ title: Def. 11.06: Inclination of a Plane to a Plane
 description: DEF. 11.06: INCLINATION OF A PLANE TO A PLANE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: inclination,inclination of a plane to a(nother) plane,plane
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

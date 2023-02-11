@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 6.25: CONSTRUCTION OF FIGURE SIMILAR TO ONE AND EQUAL TO ANOTHER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: another,construction,equal,figure,one,similar,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

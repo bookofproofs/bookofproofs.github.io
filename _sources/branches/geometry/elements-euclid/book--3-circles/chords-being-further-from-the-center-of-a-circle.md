@@ -7,7 +7,7 @@ title: 3.05: Chords Being Further from the Center of a Circle
 description: 3.05: CHORDS BEING FURTHER FROM THE CENTER OF A CIRCLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: being,center,chords,circle,further,further (from the center),further from the center,greater distance from the center
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

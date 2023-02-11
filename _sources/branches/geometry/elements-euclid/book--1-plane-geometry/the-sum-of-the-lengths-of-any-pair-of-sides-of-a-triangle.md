@@ -7,7 +7,7 @@ title: 1.20: The Sum of the Lengths of Any Pair of Sides of a Triangle (Triangle
 description: 1.20: THE SUM OF THE LENGTHS OF ANY PAIR OF SIDES OF A TRIANGLE TRIANGLE INEQUALITY &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: any,lengths,pair,sides,sum,triangle
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

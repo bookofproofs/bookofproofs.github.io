@@ -7,7 +7,7 @@ title: Prop. 11.39: Prisms of Equal Height with Parallelogram and Triangle as Ba
 description: 11.39: PRISMS OF EQUAL HEIGHT WITH PARALLELOGRAM AND TRIANGLE AS BASE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: base,equal,height,parallelogram,prisms,triangle
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

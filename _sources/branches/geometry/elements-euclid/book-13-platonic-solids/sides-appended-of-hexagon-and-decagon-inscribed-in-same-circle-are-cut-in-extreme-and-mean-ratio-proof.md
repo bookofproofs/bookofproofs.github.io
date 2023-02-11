@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 13.09: SIDES APPENDED OF HEXAGON AND DECAGON INSCRIBED IN SAME CIRCLE ARE CUT IN EXTREME AND MEAN RATIO &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: appended,are,circle,cut,decagon,extreme,hexagon,inscribed,mean,ratio,same,sides,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

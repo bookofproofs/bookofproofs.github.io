@@ -7,7 +7,7 @@ title: By Euclid
 description: Proof of 7.26: PRODUCT OF CO-PRIME PAIRS IS CO-PRIME ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: coprime,pairs,product,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 2.13: LAW OF COSINES FOR ACUTE ANGLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: acute,angles,cosines,law,law of cosines,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

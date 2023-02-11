@@ -7,7 +7,7 @@ title: 5.23: Equality of Ratios in Perturbed Proportion
 description: 5.23: EQUALITY OF RATIOS IN PERTURBED PROPORTION &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: equality,perturbed,proportion,ratios
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

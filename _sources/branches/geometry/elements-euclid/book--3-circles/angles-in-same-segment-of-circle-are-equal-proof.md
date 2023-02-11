@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 3.21: ANGLES IN SAME SEGMENT OF CIRCLE ARE EQUAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angles,are,circle,equal,same,segment,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 11.25: Parallelepiped cut by Plane Parallel to Opposite Planes
 description: 11.25: PARALLELEPIPED CUT BY PLANE PARALLEL TO OPPOSITE PLANES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: cut,opposite,parallel,parallelepiped,plane,planes,opposite of parallel
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

@@ -7,7 +7,7 @@ title: 8.03: Geometric Progression in Lowest Terms has Co-prime Extremes
 description: 8.03: GEOMETRIC PROGRESSION IN LOWEST TERMS HAS CO-PRIME EXTREMES ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: coprime,extremes,geometric,has,lowest,progression,terms
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

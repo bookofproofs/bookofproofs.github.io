@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 3.28: STRAIGHT LINES CUT OFF EQUAL ARCS IN EQUAL CIRCLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: arcs,circles,cut,equal,lines,off,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

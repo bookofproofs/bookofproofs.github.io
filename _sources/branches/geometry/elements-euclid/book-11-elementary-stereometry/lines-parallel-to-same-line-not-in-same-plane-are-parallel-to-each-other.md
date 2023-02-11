@@ -7,7 +7,7 @@ title: Prop. 11.09: Lines Parallel to Same Line not in Same Plane are Parallel t
 description: 11.09: LINES PARALLEL TO SAME LINE NOT IN SAME PLANE ARE PARALLEL TO EACH OTHER &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,each,line,lines,not,other,parallel,plane,same
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 4.7: Chord and Secant
 description: 4.7: CHORD AND SECANT &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$2785,bookofproofs$6419
 keywords: chord,diameter,inserted into a circle,secant,chord and secant
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

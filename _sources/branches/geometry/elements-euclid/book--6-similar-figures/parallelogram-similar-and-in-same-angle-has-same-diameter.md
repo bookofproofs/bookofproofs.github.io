@@ -7,7 +7,7 @@ title: 6.26: Parallelogram Similar and in Same Angle has Same Diameter
 description: 6.26: PARALLELOGRAM SIMILAR AND IN SAME ANGLE HAS SAME DIAMETER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angle,diameter,has,parallelogram,same,similar
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

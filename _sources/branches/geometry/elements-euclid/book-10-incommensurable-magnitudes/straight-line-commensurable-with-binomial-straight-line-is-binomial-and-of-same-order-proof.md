@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.066: STRAIGHT LINE COMMENSURABLE WITH BINOMIAL STRAIGHT LINE IS BINOMIAL AND OF SAME ORDER &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: binomial,commensurable,line,order,same,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

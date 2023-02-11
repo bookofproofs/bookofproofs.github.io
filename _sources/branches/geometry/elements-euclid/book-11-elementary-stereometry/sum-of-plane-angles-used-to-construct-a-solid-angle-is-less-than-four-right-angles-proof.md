@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 11.23: SUM OF PLANE ANGLES USED TO CONSTRUCT A SOLID ANGLE IS LESS THAN FOUR RIGHT ANGLES &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: angle,angles,construct,four,less,plane,right,solid,sum,than,used,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

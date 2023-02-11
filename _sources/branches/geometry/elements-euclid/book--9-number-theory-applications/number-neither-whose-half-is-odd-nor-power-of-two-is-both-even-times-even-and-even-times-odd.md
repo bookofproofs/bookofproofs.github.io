@@ -7,7 +7,7 @@ title: Prop. 9.34: Number neither whose Half is Odd nor Power of Two is both Eve
 description: 9.34: NUMBER NEITHER WHOSE HALF IS ODD NOR POWER OF TWO IS BOTH EVEN-TIMES EVEN AND EVEN-TIMES ODD &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: both,even,half,neither,nor,number,odd,power,times,two,whose
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

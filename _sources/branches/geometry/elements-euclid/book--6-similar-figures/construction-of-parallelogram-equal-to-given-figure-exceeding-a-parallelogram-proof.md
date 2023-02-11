@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 6.29: CONSTRUCTION OF PARALLELOGRAM EQUAL TO GIVEN FIGURE EXCEEDING A PARALLELOGRAM &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: construction,equal,exceeding,figure,given,parallelogram,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

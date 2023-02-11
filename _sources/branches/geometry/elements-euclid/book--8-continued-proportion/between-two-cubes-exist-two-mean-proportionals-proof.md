@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 8.12: BETWEEN TWO CUBES EXIST TWO MEAN PROPORTIONALS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: between,cubes,exist,mean,proportionals,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

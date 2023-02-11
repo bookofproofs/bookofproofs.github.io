@@ -133,12 +133,12 @@ class BopIndexCompiler:
         self._calculate_counts(self._index_tree)
         return self._get_index_to_html()
 
-    def get_contributors_index(self):
+    def get_github_contributors_index(self):
         BopIndexNode.clear(self._index_tree)
         distinct_contributors = list()
         for bop_source in self._all_nodes.values():
             for contributor in bop_source.contributors:
-                if contributor not in distinct_contributors:
+                if contributor not in distinct_contributors and not contributor.startswith("@"):
                     distinct_contributors.append(contributor)
         distinct_contributors.sort()
         for contributor in distinct_contributors:
@@ -149,7 +149,34 @@ class BopIndexCompiler:
             self._add_to_index_tree_by_category(contributor_node, relevant_bop_sources)
 
         self._calculate_counts(self._index_tree)
-        return self._get_index_to_html()
+        if len(distinct_contributors) > 0:
+            ret = self._get_index_to_html()
+        else:
+            ret = "(no Github contributors found)"
+        return ret
+
+    def get_non_github_contributors_index(self):
+        BopIndexNode.clear(self._index_tree)
+        distinct_contributors = list()
+        for bop_source in self._all_nodes.values():
+            for contributor in bop_source.contributors:
+                if contributor not in distinct_contributors and \
+                        contributor.startswith("@"):
+                    distinct_contributors.append(contributor)
+        distinct_contributors.sort()
+        for contributor in distinct_contributors:
+            contributor_node = BopIndexNode()
+            contributor_node.label = contributor
+            contributor_node.parent = self._index_tree
+            relevant_bop_sources = self._filter_nodes_by_lambda(lambda x: contributor in x.contributors)
+            self._add_to_index_tree_by_category(contributor_node, relevant_bop_sources)
+
+        self._calculate_counts(self._index_tree)
+        if len(distinct_contributors) > 0:
+            ret = self._get_index_to_html()
+        else:
+            ret = "(no non-Github contributors found)"
+        return ret
 
     def get_widgets_index(self):
         BopIndexNode.clear(self._index_tree)
@@ -157,12 +184,12 @@ class BopIndexCompiler:
         sage_cell_node.label = "SageCell"
         sage_cell_node.parent = self._index_tree
         sage_cell_sources = self._filter_nodes_by_lambda(lambda x: "<div class='sage'>" in str(x.scripts))
-        self._add_to_index_tree_by_category(sage_cell_node, sage_cell_sources)
+        self._add_to_index_tree(sage_cell_node, sage_cell_sources)
         jsx_graph_node = BopIndexNode()
         jsx_graph_node.label = "JsxGraph"
         jsx_graph_node.parent = self._index_tree
         jsx_graph_sources = self._filter_nodes_by_lambda(lambda x: "JXG.JSXGraph" in str(x.scripts))
-        self._add_to_index_tree_by_category(jsx_graph_node, jsx_graph_sources)
+        self._add_to_index_tree(jsx_graph_node, jsx_graph_sources)
         self._calculate_counts(self._index_tree)
         return self._get_index_to_html()
 
@@ -172,7 +199,7 @@ class BopIndexCompiler:
         sourcecode_node.label = "Sourcecode"
         sourcecode_node.parent = self._index_tree
         sourcecode_sources = self._filter_nodes_by_lambda(lambda x: x.script_has_python(str(x.scripts)))
-        self._add_to_index_tree_by_category(sourcecode_node, sourcecode_sources)
+        self._add_to_index_tree(sourcecode_node, sourcecode_sources)
         self._calculate_counts(self._index_tree)
         return self._get_index_to_html()
 
@@ -280,58 +307,6 @@ class BopIndexCompiler:
         index += "</dl>\n"
         return index
 
-    def get_seo_keywords_index(self):
-        # gather all keyword-defining nodes
-        keyword_defining_nodes = dict()
-        keyword_defining_nodesids = set()
-        for bop_source in self._all_nodes.values():
-            distinct_keywords = set()
-            for keyword in bop_source.keywords.split(","):
-                if keyword not in distinct_keywords:
-                    distinct_keywords.add(keyword)
-            for keyword in distinct_keywords:
-                if keyword not in keyword_defining_nodes:
-                    keyword_defining_nodes[keyword] = list()
-                keyword_defining_nodes[keyword].append(bop_source)
-                keyword_defining_nodesids.add(bop_source.nodeid)
-        # create keyword-containing nodes
-        keyword_containing_nodes = dict()
-        for keyword in keyword_defining_nodes:
-            if keyword not in keyword_containing_nodes:
-                keyword_containing_nodes[keyword] = list()
-            for bop_source in self._all_nodes.values():
-                content = bop_source.get_pre_body() + "\n" + bop_source.get_body()
-                if keyword in content and bop_source.nodeid not in keyword_defining_nodesids:
-                    keyword_containing_nodes[keyword].append(bop_source)
-        sorted_keywords = list(keyword_defining_nodes.keys())
-        sorted_keywords.sort()
-
-        # create the actual html index
-        index = "<dl>"
-        for keyword in sorted_keywords:
-            link_counter = 0
-            keyword_term = keyword
-            if keyword_term == "":
-                keyword_term = "&lt;missing&gt;"
-            index += "<dt>" + keyword_term + "</dt><dd>"
-            for bop_source in keyword_defining_nodes[keyword]:
-                link_counter += 1
-                if link_counter <= 100:
-                    index += "<a href='{0}' title='{1}'>[{2}]</a> ".format(bop_source.url(),
-                                                                           bop_source.get_title_for_anchor(),
-                                                                           link_counter)
-            for bop_source in keyword_containing_nodes[keyword]:
-                link_counter += 1
-                if link_counter <= 100:
-                    index += "<a href='{0}' title='{1}'>{2}</a> ".format(bop_source.url(),
-                                                                         bop_source.get_title_for_anchor(),
-                                                                         link_counter)
-            if link_counter > 100:
-                index += "... (" + str(link_counter - 100) + " more)"
-            index += "</dd>\n"
-        index += "</dl>\n"
-        return index
-
     def _collect_nodes_with_issue(self, issue_type: str):
         ret = list()
         for bop_source in self._all_nodes.values():
@@ -364,7 +339,7 @@ class BopIndexCompiler:
         issue_node.label = issue.replace("-", " ").title()
         issue_node.parent = self._index_tree
         relevant_bop_sources = self._filter_nodes_by_lambda(lambda x: issue in x.issues)
-        self._add_to_index_tree_by_category(issue_node, relevant_bop_sources)
+        self._add_to_index_tree(issue_node, relevant_bop_sources)
 
     def _filter_nodes_by_layout(self, layout: str):
         layout_node = BopIndexNode()
@@ -372,6 +347,12 @@ class BopIndexCompiler:
         layout_node.parent = self._index_tree
         relevant_bop_sources = self._filter_nodes_by_lambda(lambda x: x.layout == layout)
         self._add_to_index_tree_by_category(layout_node, relevant_bop_sources)
+
+    def _add_to_index_tree(self, root_node: BopIndexNode, relevant_bop_sources:list):
+        for bop_source in relevant_bop_sources:
+            node = BopIndexNode()
+            node.bop_source = bop_source
+            node.parent = root_node
 
     def _add_to_index_tree_by_category(self, root_node: BopIndexNode, relevant_bop_sources: list):
         processed_categories = dict()

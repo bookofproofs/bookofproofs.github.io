@@ -1,7 +1,7 @@
 import os.path
 import re
 import html
-
+from github import Github
 from FileMgr import FileMgr
 from BopValidationError import BopValidationError
 
@@ -40,8 +40,10 @@ class BopSource:
     related_layouts = [BopLayouts.proof, BopLayouts.solution, BopLayouts.example, BopLayouts.explanation,
                        BopLayouts.corollary, BopLayouts.application, BopLayouts.motivation]
     root_nodes = ["bookofproofs$0", "bookofproofs$2", "bookofproofs$i"]
-    url_root = "https://bookofproofs.github.io"
-    url_images = "https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources"
+    repo_name = "bookofproofs.github.io"
+    url_root = "https://" + repo_name
+    url_images = "https://github.com/bookofproofs/{0}/blob/main/_sources".format(repo_name)
+    url_commits = "https://github.com/bookofproofs/{0}/commits/main/_sources".format(repo_name)
     nodeid_pattern = r"[a-z0-9]+\$[A-Za-z0-9\-\_]+"
 
     def __init__(self, file_name: str):
@@ -62,7 +64,7 @@ class BopSource:
         self.name = os.path.splitext(os.path.basename(file_name))[0]
         self.layout = ""
         self.description = ""
-        self.keywords = ""
+        self.keywords = list()
         self.title = ""
         self.nodeid = ""
         self.parentid = ""
@@ -127,8 +129,7 @@ class BopSource:
                     self.description = html.escape(prop_split[1]).strip()
                     self.description = self.description.replace("\n", "")
                 elif prop_split[0] == "keywords":
-                    self.keywords = html.escape(prop_split[1]).strip()
-                    self.keywords = self.keywords.replace("\n", "")
+                    self.keywords = html.escape(prop_split[1]).strip().replace("\n", "").split(",")
                 elif prop_split[0] == "title":
                     self.title = html.escape(prop_split[1]).strip()
                     self.title = self.title.replace("\n", "")
@@ -173,6 +174,7 @@ class BopSource:
         self.categories = self._sanitize_list(self.categories)
         self.issues = self._sanitize_list(self.issues)
         self.tags = self._sanitize_list(self.tags)
+        self.keywords = self._sanitize_list(self.keywords)
 
     def _sanitize_list(self, l: list):
         new_list = list()
@@ -209,26 +211,33 @@ class BopSource:
             return BopSource.url_root + "/" + destination + "/" + self.name + ".html"
 
     def get_contributors(self):
-        ret = ""
+        ret_github = "<dt><span class='navigation'>Github:</span></dt><dd>"
+        github = False
+        ret_non_github = "<dt><span class='navigation'>non-Github:</span></dt><dd>"
+        non_github = False
         for contributor in self.contributors:
             if contributor.startswith("@"):
-                # named contributor
-                if ret != "":
-                    ret += " "
-                ret += contributor
+                non_github = True
+                # named non-github contributor
+                if ret_non_github != "":
+                    ret_non_github += "</dd><dd>"
+                ret_non_github += contributor
             else:
-                if ret != "":
-                    ret += " "
+                github = True
+                if ret_github != "":
+                    ret_github += " "
                 # contributor from github
-                ret += "<a href='https://github.com/" + contributor + "'>"
-                ret += "<img src='https://github.com/" + contributor + ".png?size=32' alt='" + contributor + "'/>"
-                ret += "</a>"
-        ret += " <a class='improve' title='{0}' href='{1}/{2}'>{3}</a><br>".format(
-            'improve this site',
-            BopSource.url_images,
-            self.get_file_destination() + "/" + self.name + ".md",
-            "<img src='" + BopSource.url_images + "/_assets/images/edit-black.png?raw=true' alt=''>")
-        return ret
+                ret_github += "<a title='github user {0}' href='https://github.com/{1}'>".format(contributor,
+                                                                                                 contributor)
+                ret_github += "<img src='https://github.com/{0}.png?size=32' alt='{1}'/>".format(contributor,
+                                                                                                 contributor)
+                ret_github += "</a>"
+        ret = "<dl>"
+        if github:
+            ret += "</dd>" + ret_github + "<br>"
+        if non_github:
+            ret += "</dd>" + ret_non_github + "<br>"
+        return ret + "</dl>"
 
     def _get_content_related_node(self):
         ret = self._pre_body

@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 5.14: RELATIVE SIZES OF COMPONENTS OF RATIOS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: components,ratios,relative,sizes,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

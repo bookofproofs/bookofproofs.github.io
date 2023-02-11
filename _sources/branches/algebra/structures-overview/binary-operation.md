@@ -7,7 +7,7 @@ title: Binary Operation
 description: BINARY OPERATION ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: binary operation,binary operations,operation,operations
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 First of all, we want to define formally, what exactly shall be understood under an algebraic structure. We start with the concept of a _binary operation_.

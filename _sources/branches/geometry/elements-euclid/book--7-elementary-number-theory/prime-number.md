@@ -7,7 +7,7 @@ title: 7.11: Prime Number
 description: 7.11: PRIME NUMBER &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$701,bookofproofs$6419
 keywords: number,prime
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

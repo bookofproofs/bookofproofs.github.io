@@ -7,7 +7,7 @@ title: Prop. 10.080: Construction of First Apotome of Medial is Unique
 description: 10.080: CONSTRUCTION OF FIRST APOTOME OF MEDIAL IS UNIQUE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: apotome,construction,first,medial,unique
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

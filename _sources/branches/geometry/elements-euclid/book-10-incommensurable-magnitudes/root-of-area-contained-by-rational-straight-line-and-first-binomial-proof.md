@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.054: ROOT OF AREA CONTAINED BY RATIONAL STRAIGHT LINE AND FIRST BINOMIAL &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: area,binomial,contained,first,line,rational,root,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

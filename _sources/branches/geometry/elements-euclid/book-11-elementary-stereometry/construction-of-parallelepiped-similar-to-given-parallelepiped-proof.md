@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 11.27: CONSTRUCTION OF PARALLELEPIPED SIMILAR TO GIVEN PARALLELEPIPED &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: construction,given,parallelepiped,similar,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

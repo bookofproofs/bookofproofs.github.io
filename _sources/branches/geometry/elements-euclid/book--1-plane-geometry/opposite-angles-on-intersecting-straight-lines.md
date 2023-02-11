@@ -7,7 +7,7 @@ title: 1.15: Opposite Angles on Intersecting Straight Lines
 description: 1.15: OPPOSITE ANGLES ON INTERSECTING STRAIGHT LINES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: angles,intersecting,lines,opposite,straight,opposite of straight
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

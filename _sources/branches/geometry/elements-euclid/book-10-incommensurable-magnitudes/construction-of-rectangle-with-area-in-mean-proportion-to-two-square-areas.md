@@ -7,7 +7,7 @@ title: Lem. 10.053: Construction of Rectangle with Area in Mean Proportion to tw
 description: LEM. 10.053: CONSTRUCTION OF RECTANGLE WITH AREA IN MEAN PROPORTION TO TWO SQUARE AREAS &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: area,areas,construction,mean,proportion,rectangle,square,two,mean proportion
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

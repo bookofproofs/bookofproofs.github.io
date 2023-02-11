@@ -7,7 +7,7 @@ title: 5.07: Having a Greater Ratio
 description: 5.07: HAVING A GREATER RATIO &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$2775,bookofproofs$6419
 keywords: greater,have a greater ratio,having,ratio
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

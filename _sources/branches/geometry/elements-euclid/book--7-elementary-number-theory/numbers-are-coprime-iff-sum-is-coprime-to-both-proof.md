@@ -7,7 +7,7 @@ title: By Euclid
 description: Proof of 7.28: NUMBERS ARE CO-PRIME IFF SUM IS CO-PRIME TO BOTH ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,both,coprime,iff,numbers,sum,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

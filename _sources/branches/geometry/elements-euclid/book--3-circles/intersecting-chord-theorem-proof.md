@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 3.35: INTERSECTING CHORD THEOREM &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: chord,intersecting,theorem,intersecting chords theorem,intersecting chord theorem,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

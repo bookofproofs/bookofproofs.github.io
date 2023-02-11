@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 11.38: COMMON SECTION OF BISECTING PLANES OF CUBE BISECT AND ARE BISECTED BY DIAGONAL OF CUBE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: are,bisect,bisected,bisecting,common,cube,diagonal,planes,section,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -20,9 +20,9 @@ $j(document).ready(function() {
             this.parentElement.querySelector(".nested").classList.toggle("active");
             this.classList.toggle("caret-down");
         });
-        // auto-open treeview (default)
-        toggler[i].parentElement.querySelector(".nested").classList.toggle("active");
-        toggler[i].classList.toggle("caret-down");
+        // auto-open treeview (experimental only => bad usability)
+        // toggler[i].parentElement.querySelector(".nested").classList.toggle("active");
+        // toggler[i].classList.toggle("caret-down");
     }
 
     //create dialog, but keep it closed

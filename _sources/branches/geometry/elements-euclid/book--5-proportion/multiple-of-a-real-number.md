@@ -7,7 +7,7 @@ title: 5.02: Multiple of a Real Number
 description: 5.02: MULTIPLE OF A REAL NUMBER &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$2775,bookofproofs$6419
 keywords: multiple,number,real
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

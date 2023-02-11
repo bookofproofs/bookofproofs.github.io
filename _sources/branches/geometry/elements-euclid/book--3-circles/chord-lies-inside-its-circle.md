@@ -7,7 +7,7 @@ title: 3.02: Chord Lies Inside its Circle
 description: 3.02: CHORD LIES INSIDE ITS CIRCLE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: chord,circle,inside,its,lies
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

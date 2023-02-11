@@ -7,7 +7,7 @@ title: Prop. 12.14: Volumes of Cones or Cylinders on Equal Bases are in Same Rat
 description: 12.14: VOLUMES OF CONES OR CYLINDERS ON EQUAL BASES ARE IN SAME RATIO AS HEIGHTS &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,bases,cones,cylinders,equal,heights,ratio,same,volumes
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

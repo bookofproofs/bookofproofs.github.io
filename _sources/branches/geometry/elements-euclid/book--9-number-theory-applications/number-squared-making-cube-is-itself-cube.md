@@ -7,7 +7,7 @@ title: Prop. 9.06: Number Squared making Cube is itself Cube
 description: 9.06: NUMBER SQUARED MAKING CUBE IS ITSELF CUBE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: cube,itself,making,number,squared
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

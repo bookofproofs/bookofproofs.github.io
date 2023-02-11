@@ -7,7 +7,7 @@ title: 1.22: Construction of Triangles From Arbitrary Segments
 description: 1.22: CONSTRUCTION OF TRIANGLES FROM ARBITRARY SEGMENTS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: arbitrary,construction,segments,triangles
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

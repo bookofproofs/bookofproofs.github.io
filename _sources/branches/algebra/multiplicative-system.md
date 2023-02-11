@@ -7,7 +7,7 @@ title: Multiplicative System
 description: MULTIPLICATIVE SYSTEM &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: multiplicative,multiplicative system,system
-contributors: 
+contributors: @Brenner,bookofproofs
 
 ---
 

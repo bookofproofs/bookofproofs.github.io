@@ -7,7 +7,7 @@ title: Recursive Definition of the Determinant
 description: RECURSIVE DEFINITION OF THE DETERMINANT &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: definition,determinant,recursive,recursive definition of determinant,recursive determinant,recursive definition
-contributors: 
+contributors: @Brenner,bookofproofs
 
 ---
 

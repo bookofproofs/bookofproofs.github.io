@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.037: FIRST BIMEDIAL IS IRRATIONAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: bimedial,first,first bimedial,irrational,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 9.03: Square of Cube Number is Cube
 description: 9.03: SQUARE OF CUBE NUMBER IS CUBE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: cube,number,square
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

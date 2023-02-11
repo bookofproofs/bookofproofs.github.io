@@ -7,7 +7,7 @@ title: 3.35: Intersecting Chord Theorem
 description: 3.35: INTERSECTING CHORD THEOREM &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: chord,intersecting,theorem,intersecting chords theorem,intersecting chord theorem
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

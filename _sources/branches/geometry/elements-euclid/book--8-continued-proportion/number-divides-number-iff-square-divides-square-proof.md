@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 8.14: NUMBER DIVIDES NUMBER IFF SQUARE DIVIDES SQUARE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: divides,iff,number,square,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

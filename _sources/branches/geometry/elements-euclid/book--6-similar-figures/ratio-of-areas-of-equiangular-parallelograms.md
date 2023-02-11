@@ -7,7 +7,7 @@ title: 6.23: Ratio of Areas of Equiangular Parallelograms
 description: 6.23: RATIO OF AREAS OF EQUIANGULAR PARALLELOGRAMS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: areas,equiangular,parallelograms,ratio
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

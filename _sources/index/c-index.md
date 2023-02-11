@@ -5,10 +5,14 @@ categories: index
 orderid: 300
 description: BookOfProofs Contributors Index
 keywords: contributors
-title: By Contributors
+title: By Contributors. Thank you!
 contributors: bookofproofs
 ---
 ---
-Thank you to the contributors (contributors starting with '@' are non-github users): 
 
-{{ c-index }}
+## From Github
+{{ cg-index }}
+
+## From non-Github
+{{ cng-index }}
+

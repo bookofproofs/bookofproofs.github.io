@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 11.05: THREE INTERSECTING LINES PERPENDICULAR TO ANOTHER LINE ARE IN ONE PLANE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: another,are,intersecting,line,lines,one,perpendicular,plane,three,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

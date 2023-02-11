@@ -7,7 +7,7 @@ title: Prop. 10.072: Sum of two Incommensurable Medial Areas give rise to two Ir
 description: 10.072: SUM OF TWO INCOMMENSURABLE MEDIAL AREAS GIVE RISE TO TWO IRRATIONAL STRAIGHT LINES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: areas,give,incommensurable,irrational,lines,medial,rise,straight,sum,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Comparing the Elements of Posets and Chains
 description: COMPARING THE ELEMENTS OF POSETS AND CHAINS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: chains,comparing,elements,incomparable,non-comparable,posets
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 Therefore, the only difference between a [chain][bookofproofs$6191] `$(V,\preceq)$` and a [poset][bookofproofs$576] `$(V,\preceq)$` is that in a chain _all_ elements are comparable, while in a poset _some of them_ might be incomparable. This is the reason why the order "`$\preceq$`" is called "partial" in a poset, and "total" in a chain. Moreover, some subsets of a poset might be chains, but not vice versa. This leads us to the distinction between different cases when comparing the elements of a [poset][bookofproofs$576], which we want now to introduce:

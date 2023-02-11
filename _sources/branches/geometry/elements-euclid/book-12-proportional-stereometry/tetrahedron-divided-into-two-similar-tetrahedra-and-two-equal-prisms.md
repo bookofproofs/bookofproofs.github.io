@@ -7,7 +7,7 @@ title: Prop. 12.03: Tetrahedron divided into Two Similar Tetrahedra and Two Equa
 description: 12.03: TETRAHEDRON DIVIDED INTO TWO SIMILAR TETRAHEDRA AND TWO EQUAL PRISMS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: divided,equal,into,prisms,similar,tetrahedra,tetrahedron,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

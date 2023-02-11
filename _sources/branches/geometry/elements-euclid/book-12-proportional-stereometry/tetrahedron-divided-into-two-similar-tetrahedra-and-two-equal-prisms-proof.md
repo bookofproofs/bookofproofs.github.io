@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 12.03: TETRAHEDRON DIVIDED INTO TWO SIMILAR TETRAHEDRA AND TWO EQUAL PRISMS &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: divided,equal,into,prisms,similar,tetrahedra,tetrahedron,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

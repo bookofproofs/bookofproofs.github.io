@@ -7,7 +7,7 @@ title: Alternating Multilinear Map
 description: ALTERNATING MULTILINEAR MAP &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: alternating,map,multilinear
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

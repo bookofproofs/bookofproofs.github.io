@@ -7,7 +7,7 @@ title: Module
 description: MODULE ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: left module,module,right module,left modules,modules,right modules
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

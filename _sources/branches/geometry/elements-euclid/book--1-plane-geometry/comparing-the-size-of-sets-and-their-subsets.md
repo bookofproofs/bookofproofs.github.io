@@ -7,7 +7,7 @@ title: 1.5: Comparing the Size of Sets and Their Subsets
 description: 1.5: COMPARING THE SIZE OF SETS AND THEIR SUBSETS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: comparing the size of sets with their subsets
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

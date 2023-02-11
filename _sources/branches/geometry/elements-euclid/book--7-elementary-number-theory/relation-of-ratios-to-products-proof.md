@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 7.19: RELATION OF RATIOS TO PRODUCTS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: products,ratios,relation,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

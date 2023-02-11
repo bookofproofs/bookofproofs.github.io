@@ -7,7 +7,7 @@ title: 9.36: Theorem of Even Perfect Numbers (First Part)
 description: 9.36: THEOREM OF EVEN PERFECT NUMBERS FIRST PART &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: even,first,numbers,part,perfect,theorem
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

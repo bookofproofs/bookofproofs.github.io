@@ -7,7 +7,7 @@ title: Book 13: Platonic Solids
 description: BOOK 13: PLATONIC SOLIDS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: book,platonic,solids
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 4.15: SIDE OF HEXAGON INSCRIBED IN A CIRCLE EQUALS THE RADIUS OF THAT CIRCLE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: circle,equals,hexagon,inscribed,radius,side,that,hexagon inscribed in a circle,proof
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

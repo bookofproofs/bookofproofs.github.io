@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 7.13: PROPORTIONAL NUMBERS ARE PROPORTIONAL ALTERNATELY &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: alternately,are,numbers,proportional,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

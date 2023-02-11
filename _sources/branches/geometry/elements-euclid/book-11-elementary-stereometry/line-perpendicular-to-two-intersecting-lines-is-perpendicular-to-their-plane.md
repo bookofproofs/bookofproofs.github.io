@@ -7,7 +7,7 @@ title: Prop. 11.04: Line Perpendicular to Two Intersecting Lines is Perpendicula
 description: 11.04: LINE PERPENDICULAR TO TWO INTERSECTING LINES IS PERPENDICULAR TO THEIR PLANE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: intersecting,line,lines,perpendicular,plane,their,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

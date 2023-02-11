@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 8.18: BETWEEN TWO SIMILAR PLANE NUMBERS EXISTS ONE MEAN PROPORTIONAL &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: between,exists,mean,numbers,one,plane,proportional,similar,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

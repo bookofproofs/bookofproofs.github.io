@@ -7,7 +7,7 @@ title: 5.19: Proportional Magnitudes have Proportional Remainders
 description: 5.19: PROPORTIONAL MAGNITUDES HAVE PROPORTIONAL REMAINDERS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: have,magnitudes,proportional,remainders
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

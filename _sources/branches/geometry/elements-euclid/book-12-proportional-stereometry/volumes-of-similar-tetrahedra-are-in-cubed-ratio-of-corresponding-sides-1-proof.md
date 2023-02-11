@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF COR. 12.08: VOLUMES OF SIMILAR TETRAHEDRA ARE IN CUBED RATIO OF CORRESPONDING SIDES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,corresponding,cubed,ratio,sides,similar,tetrahedra,volumes,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

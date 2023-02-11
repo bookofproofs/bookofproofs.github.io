@@ -7,7 +7,7 @@ title: Prop. 12.02: Areas of Circles are as Squares on Diameters
 description: 12.02: AREAS OF CIRCLES ARE AS SQUARES ON DIAMETERS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,areas,circles,diameters,squares
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

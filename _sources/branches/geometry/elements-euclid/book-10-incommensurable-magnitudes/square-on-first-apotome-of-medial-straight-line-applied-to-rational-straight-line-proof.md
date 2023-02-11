@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.098: SQUARE ON FIRST APOTOME OF MEDIAL STRAIGHT LINE APPLIED TO RATIONAL STRAIGHT LINE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: apotome,applied,first,line,medial,rational,square,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

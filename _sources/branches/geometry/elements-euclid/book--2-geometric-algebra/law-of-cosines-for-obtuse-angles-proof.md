@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 2.12: LAW OF COSINES FOR OBTUSE ANGLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angles,cosines,law,law of cosines,obtuse,law of cosines obtuse angles,cosine rule for obtuse angles,cosine rule obtuse angle,cosine law obtuse angle,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

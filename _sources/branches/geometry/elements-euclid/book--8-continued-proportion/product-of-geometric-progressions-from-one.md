@@ -7,7 +7,7 @@ title: Prop. 8.10: Product of Geometric Progressions from One
 description: 8.10: PRODUCT OF GEOMETRIC PROGRESSIONS FROM ONE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: geometric,one,product,progressions
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

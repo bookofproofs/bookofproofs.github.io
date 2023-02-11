@@ -7,7 +7,7 @@ title: 7.19: Cubic Number, Cube Number
 description: 7.19: CUBIC NUMBER, CUBE NUMBER &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: cube,cube number,cubic,cubic number,dx, 2,number,x + ct,x - st,y + cp,y + st,y - ct
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

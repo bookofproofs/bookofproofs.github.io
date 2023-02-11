@@ -7,7 +7,7 @@ title: Index Set and Set Family
 description: INDEX SET, SET FAMILY ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: set family,family of sets,index,index set,index sets,indices,set families,families of sets
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

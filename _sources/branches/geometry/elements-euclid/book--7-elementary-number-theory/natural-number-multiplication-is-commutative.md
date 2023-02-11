@@ -7,7 +7,7 @@ title: 7.16: Natural Number Multiplication is Commutative
 description: 7.16: NATURAL NUMBER MULTIPLICATION IS COMMUTATIVE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: commutative,multiplication,natural,number
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

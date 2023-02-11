@@ -7,7 +7,7 @@ title: Prop. 11.16: Common Sections of Parallel Planes with other Plane are Para
 description: 11.16: COMMON SECTIONS OF PARALLEL PLANES WITH OTHER PLANE ARE PARALLEL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,common,other,parallel,plane,planes,sections
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 7.32: Natural Number is Prime or has Prime Factor
 description: 7.32: NATURAL NUMBER IS PRIME OR HAS PRIME FACTOR &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: factor,has,natural,number,prime
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

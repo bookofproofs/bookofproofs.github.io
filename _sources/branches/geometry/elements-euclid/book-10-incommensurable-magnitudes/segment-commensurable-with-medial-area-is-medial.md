@@ -7,7 +7,7 @@ title: Cor. 10.023: Segment Commensurable with Medial Area is Medial
 description: COR. 10.023: SEGMENT COMMENSURABLE WITH MEDIAL AREA IS MEDIAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: area,commensurable,medial,medial area,segment
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

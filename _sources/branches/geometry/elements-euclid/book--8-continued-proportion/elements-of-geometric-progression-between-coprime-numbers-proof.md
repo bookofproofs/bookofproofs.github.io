@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 8.09: ELEMENTS OF GEOMETRIC PROGRESSION BETWEEN CO-PRIME NUMBERS &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: between,coprime,elements,geometric,numbers,progression,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 7.36: Least Common Multiple of Three Numbers
 description: 7.36: LEAST COMMON MULTIPLE OF THREE NUMBERS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: common,least,multiple,numbers,three
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

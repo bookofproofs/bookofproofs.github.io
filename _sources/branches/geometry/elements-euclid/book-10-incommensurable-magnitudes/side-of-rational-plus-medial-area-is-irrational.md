@@ -7,7 +7,7 @@ title: Prop. 10.040: Side of Rational plus Medial Area is Irrational
 description: 10.040: SIDE OF RATIONAL PLUS MEDIAL AREA IS IRRATIONAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,irrational,medial,plus,rational,side
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

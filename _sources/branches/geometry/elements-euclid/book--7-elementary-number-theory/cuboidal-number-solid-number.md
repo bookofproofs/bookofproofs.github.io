@@ -7,7 +7,7 @@ title: 7.17: Cuboidal Number, Solid Number
 description: 7.17: CUBOIDAL NUMBER, SOLID NUMBER &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: cuboidal,cuboidal number,number,solid,solid number,volume of a solid rectangular cuboid
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

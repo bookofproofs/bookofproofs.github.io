@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 12.10: VOLUME OF CONE IS THIRD OF CYLINDER ON SAME BASE AND OF SAME HEIGHT &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: base,cone,cylinder,height,same,third,volume,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

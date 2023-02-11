@@ -7,7 +7,7 @@ title: Embedding, Inclusion Map
 description: EMBEDDING, INCLUSION MAP &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: canonical,embedding,inclusion,inclusion map,map
-contributors: 
+contributors: @Brenner,bookofproofs
 
 ---
 

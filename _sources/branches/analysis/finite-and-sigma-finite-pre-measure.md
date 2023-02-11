@@ -7,7 +7,7 @@ title: Finite and Sigma-Finite Pre-measure
 description: FINITE AND SIGMA-FINITE PRE-MEASURE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: finite,measure,pre,sigma,sigma finite measure,premeasure,sigma finite,sigma-finite measure
-contributors: 
+contributors: @Brenner,bookofproofs
 
 ---
 

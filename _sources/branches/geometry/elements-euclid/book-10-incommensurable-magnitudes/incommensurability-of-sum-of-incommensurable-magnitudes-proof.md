@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.016: INCOMMENSURABILITY OF SUM OF INCOMMENSURABLE MAGNITUDES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: incommensurability,incommensurable,magnitudes,sum,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

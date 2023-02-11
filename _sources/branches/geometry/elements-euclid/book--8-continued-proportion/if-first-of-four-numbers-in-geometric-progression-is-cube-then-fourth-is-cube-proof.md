@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 8.23: IF FIRST OF FOUR NUMBERS IN GEOMETRIC PROGRESSION IS CUBE THEN FOURTH IS CUBE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: cube,first,four,fourth,geometric,numbers,progression,then,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

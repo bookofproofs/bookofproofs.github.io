@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 13.17: CONSTRUCTION OF REGULAR DODECAHEDRON WITHIN GIVEN SPHERE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: construction,dodecahedron,dx,2,given,regular,sphere,within,x + ct,x - st,y + cp,y + st,y - ct,dodecahedron construction,regular dodecahedron,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

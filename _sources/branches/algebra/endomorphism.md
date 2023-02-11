@@ -7,7 +7,7 @@ title: Endomorphism
 description: ENDOMOMORPHISM ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: endomorphism,endomorphisms,algebra homomorphism
-contributors: bookofproofs
+contributors: @Brenner,bookofproofs
 
 ---
 

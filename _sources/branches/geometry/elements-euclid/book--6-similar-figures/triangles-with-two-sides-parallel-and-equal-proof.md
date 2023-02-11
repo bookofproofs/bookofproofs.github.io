@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 6.32: TRIANGLES WITH TWO SIDES PARALLEL AND EQUAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: equal,parallel,sides,triangles,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 5.15: Separation of a Ratio
 description: 5.15: SEPARATION OF A RATIO &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$2775,bookofproofs$6419
 keywords: ratio,separation,separation of a ratio,separation of the ratio,separation ratio
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

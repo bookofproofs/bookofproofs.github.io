@@ -7,7 +7,7 @@ title: Book 01: Fundamentals of Plane Geometry Involving Straight Lines
 description: BOOK 01: FUNDAMENTALS OF PLANE GEOMETRY INVOLVING STRAIGHT LINES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: book,geometry,plane,plane geometry book,straight line geometry,plane geometry proofs
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 
 ---

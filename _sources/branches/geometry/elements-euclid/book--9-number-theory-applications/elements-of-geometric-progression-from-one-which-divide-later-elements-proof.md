@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 9.11: ELEMENTS OF GEOMETRIC PROGRESSION FROM ONE WHICH DIVIDE LATER ELEMENTS &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: divide,elements,geometric,later,one,progression,which,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

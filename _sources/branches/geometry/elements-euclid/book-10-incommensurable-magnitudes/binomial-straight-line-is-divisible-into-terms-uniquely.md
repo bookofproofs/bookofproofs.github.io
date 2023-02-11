@@ -7,7 +7,7 @@ title: Prop. 10.042: Binomial Straight Line is Divisible into Terms Uniquely
 description: 10.042: BINOMIAL STRAIGHT LINE IS DIVISIBLE INTO TERMS UNIQUELY &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: binomial,divisible,into,line,straight,terms,uniquely
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

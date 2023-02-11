@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 6.11: CONSTRUCTION OF SEGMENT IN SQUARED RATIO &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: construction,ratio,segment,squared,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

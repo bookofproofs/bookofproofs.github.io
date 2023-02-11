@@ -7,7 +7,7 @@ title: 7.31: Existence of Prime Divisors
 description: 7.31: EXISTENCE OF PRIME DIVISORS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$696,bookofproofs$6419
 keywords: divisors,euclid,existence,prime
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description: Proof of 8.08: GEOMETRIC PROGRESSIONS IN PROPORTION HAVE SAME NUMBER OF ELEMENTS ★ master graduate maths ✔ visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: elements in geometric progression,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 5.25: SUM OF ANTECEDENT AND CONSEQUENT OF PROPORTION &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: antecedent,consequent,proportion,sum,antecedent and consequent,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

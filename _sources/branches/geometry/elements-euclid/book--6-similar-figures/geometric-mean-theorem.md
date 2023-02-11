@@ -7,7 +7,7 @@ title: 6.08: Geometric Mean Theorem
 description: 6.08: GEOMETRIC MEAN THEOREM &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angled,makes,perpendicular,right,similar,triangle,triangles,two,perpendicular in right angled triangle,right angle triangle perpendicular,perpendicular of a right angled triangle,perpendicular triangle,perpendicular of right angle triangle,perpendicular in a right angled triangle,perpendicular drawn from right angled triangle,perpendicular in right
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

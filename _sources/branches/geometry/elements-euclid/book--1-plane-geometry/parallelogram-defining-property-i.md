@@ -7,7 +7,7 @@ title: Parallelogram - Defining Property I
 description: PARALLELOGRAM - DEFINING PROPERTY I &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: angles,opposite,parallelograms,sides,parallelogram angles,proof
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

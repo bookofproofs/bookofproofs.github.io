@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 9.07: PRODUCT OF COMPOSITE NUMBER WITH NUMBER IS SOLID NUMBER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: composite,number,product,solid,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 
 ---

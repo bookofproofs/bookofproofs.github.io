@@ -7,7 +7,7 @@ title: Angles of Right Triangle
 description: ANGLES OF RIGHT TRIANGLE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: angles,right,triangle
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

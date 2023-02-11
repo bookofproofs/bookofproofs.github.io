@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 6.19: RATIO OF AREAS OF SIMILAR TRIANGLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: areas,ratio,similar,triangles,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

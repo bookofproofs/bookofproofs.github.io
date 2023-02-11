@@ -7,7 +7,7 @@ title: Prop. 9.15: Sum of Pair of Elements of Geometric Progression with Three E
 description: 9.15: SUM OF PAIR OF ELEMENTS OF GEOMETRIC PROGRESSION WITH THREE ELEMENTS IN LOWEST TERMS IS CO-PRIME TO OTHER ELEMENT &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: coprime,element,elements,geometric,lowest,other,pair,progression,sum,terms,three
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

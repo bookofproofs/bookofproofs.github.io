@@ -7,7 +7,7 @@ title: 3.05: Intersecting Circles have Different Centers
 description: 3.05: INTERSECTING CIRCLES HAVE DIFFERENT CENTERS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: centers,circles,different,have,intersecting
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

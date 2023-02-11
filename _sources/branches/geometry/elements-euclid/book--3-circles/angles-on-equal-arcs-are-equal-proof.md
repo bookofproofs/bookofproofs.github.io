@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 3.27: ANGLES ON EQUAL ARCS ARE EQUAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angles,arcs,are,equal,angles and arcs,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

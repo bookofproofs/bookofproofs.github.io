@@ -7,7 +7,7 @@ title: Prop. 10.063: Square on Major Straight Line applied to Rational Straight 
 description: 10.063: SQUARE ON MAJOR STRAIGHT LINE APPLIED TO RATIONAL STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: applied,line,major,rational,square,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

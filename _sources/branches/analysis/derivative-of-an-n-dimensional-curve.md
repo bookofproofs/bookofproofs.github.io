@@ -7,7 +7,7 @@ title: Derivative of an n-Dimensional Curve
 description: DERIVATIVE OF AN N-DIMENSIONAL CURVE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: curve,derivative,dimensional
-contributors: 
+contributors: @Brenner,bookofproofs
 
 ---
 

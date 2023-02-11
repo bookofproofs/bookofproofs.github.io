@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 9.18: CONDITION FOR EXISTENCE OF THIRD NUMBER PROPORTIONAL TO TWO NUMBERS &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: condition,existence,number,numbers,proportional,third,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

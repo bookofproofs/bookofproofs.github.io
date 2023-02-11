@@ -7,7 +7,7 @@ title: Prop. 10.005: Ratio of Commensurable Magnitudes
 description: 10.005: RATIO OF COMMENSURABLE MAGNITUDES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: commensurable,magnitudes,ratio
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

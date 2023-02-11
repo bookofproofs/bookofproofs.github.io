@@ -7,7 +7,7 @@ title: Prop. 11.21: Solid Angle contained by Plane Angles is Less than Four Righ
 description: 11.21: SOLID ANGLE CONTAINED BY PLANE ANGLES IS LESS THAN FOUR RIGHT ANGLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angle,angles,contained,four,less,plane,right,solid,than
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

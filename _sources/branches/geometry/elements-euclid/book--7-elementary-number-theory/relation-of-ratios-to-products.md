@@ -7,7 +7,7 @@ title: 7.19: Relation of Ratios to Products
 description: 7.19: RELATION OF RATIOS TO PRODUCTS ★ graduate maths ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: products,ratios,relation
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

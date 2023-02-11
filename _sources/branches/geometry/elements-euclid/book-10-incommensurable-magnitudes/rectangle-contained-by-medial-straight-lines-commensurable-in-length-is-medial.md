@@ -7,7 +7,7 @@ title: Prop. 10.024: Rectangle Contained by Medial Straight Lines Commensurable 
 description: 10.024: RECTANGLE CONTAINED BY MEDIAL STRAIGHT LINES COMMENSURABLE IN LENGTH IS MEDIAL &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: commensurable,contained,length,lines,medial,rectangle,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

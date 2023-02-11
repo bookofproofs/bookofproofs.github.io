@@ -7,7 +7,7 @@ title: Prop. 12.06: Sizes of Pyramids of Same Height with Polygonal Bases are as
 description: 12.06: SIZES OF PYRAMIDS OF SAME HEIGHT WITH POLYGONAL BASES ARE AS BASES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,bases,height,polygonal,pyramids,same,sizes
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

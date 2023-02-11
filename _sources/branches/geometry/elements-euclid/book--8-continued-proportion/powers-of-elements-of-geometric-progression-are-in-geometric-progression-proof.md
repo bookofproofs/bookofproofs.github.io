@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 8.13: POWERS OF ELEMENTS OF GEOMETRIC PROGRESSION ARE IN GEOMETRIC PROGRESSION &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,elements,geometric,powers,progression,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

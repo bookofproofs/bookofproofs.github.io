@@ -7,7 +7,7 @@ title: 3.27: Angles on Equal Arcs are Equal
 description: 3.27: ANGLES ON EQUAL ARCS ARE EQUAL &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angles,arcs,are,equal,angles and arcs
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

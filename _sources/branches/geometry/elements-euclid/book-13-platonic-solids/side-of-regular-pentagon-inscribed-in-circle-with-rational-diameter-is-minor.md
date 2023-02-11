@@ -7,7 +7,7 @@ title: Prop. 13.11: Side of Regular Pentagon inscribed in Circle with Rational D
 description: 13.11: SIDE OF REGULAR PENTAGON INSCRIBED IN CIRCLE WITH RATIONAL DIAMETER IS MINOR &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: circle,diameter,inscribed,minor,pentagon,rational,regular,side
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

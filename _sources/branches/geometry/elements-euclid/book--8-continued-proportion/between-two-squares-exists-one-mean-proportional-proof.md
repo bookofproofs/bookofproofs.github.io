@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 8.11: BETWEEN TWO SQUARES EXISTS ONE MEAN PROPORTIONAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: between,exists,mean,one,proportional,squares,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

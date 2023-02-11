@@ -7,7 +7,7 @@ title: Square as a Special Case of a Rhombus
 description: SQUARE AS A SPECIAL CASE OF A RHOMBUS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628
 keywords: case,rhombus,special,square,rhombus square
-contributors: bookofproofs,@calahan,@casey
+contributors: bookofproofs,@Calahan,@Casey
 
 ---
 

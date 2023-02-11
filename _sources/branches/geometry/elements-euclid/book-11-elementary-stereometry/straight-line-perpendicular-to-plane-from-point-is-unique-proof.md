@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 11.13: STRAIGHT LINE PERPENDICULAR TO PLANE FROM POINT IS UNIQUE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: line,perpendicular,plane,point,straight,unique,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

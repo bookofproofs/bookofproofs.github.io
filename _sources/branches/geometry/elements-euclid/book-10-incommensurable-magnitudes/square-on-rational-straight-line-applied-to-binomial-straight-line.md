@@ -7,7 +7,7 @@ title: Prop. 10.112: Square on Rational Straight Line applied to Binomial Straig
 description: 10.112: SQUARE ON RATIONAL STRAIGHT LINE APPLIED TO BINOMIAL STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: applied,binomial,line,rational,square,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

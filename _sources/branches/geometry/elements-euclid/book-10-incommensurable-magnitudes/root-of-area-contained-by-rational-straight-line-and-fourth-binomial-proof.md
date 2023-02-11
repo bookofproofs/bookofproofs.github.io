@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.057: ROOT OF AREA CONTAINED BY RATIONAL STRAIGHT LINE AND FOURTH BINOMIAL &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: area,binomial,contained,fourth,line,rational,root,straight,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

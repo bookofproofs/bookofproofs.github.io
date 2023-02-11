@@ -7,7 +7,7 @@ title: Def. 10.14: Fourth Apotome
 description: DEF. 10.14: FOURTH APOTOME &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: apotome,fourth,fourth apotome
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 10.065: Square on Side of Sum of two Medial Area applied to Rationa
 description: 10.065: SQUARE ON SIDE OF SUM OF TWO MEDIAL AREA APPLIED TO RATIONAL STRAIGHT LINE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: applied,area,line,medial,rational,side,square,straight,sum,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

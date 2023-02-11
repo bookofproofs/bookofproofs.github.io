@@ -7,7 +7,7 @@ title: 3.07: Angle of a Segment
 description: 3.07: ANGLE OF A SEGMENT &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: angle,angle of a segment,arc,major conjugate arc,minor conjugate arc,segment
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

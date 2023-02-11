@@ -7,7 +7,7 @@ title: Cor. 13.17: Construction of Regular Dodecahedron within Given Sphere
 description: COR. 13.17: CONSTRUCTION OF REGULAR DODECAHEDRON WITHIN GIVEN SPHERE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: construction,dodecahedron,dx,2,given,regular,sphere,within,x + ct,x - st,y + cp,y + st,y - ct,dodecahedron construction,regular dodecahedron,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

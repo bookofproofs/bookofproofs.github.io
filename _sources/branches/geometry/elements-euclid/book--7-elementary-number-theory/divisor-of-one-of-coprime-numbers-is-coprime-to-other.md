@@ -7,7 +7,7 @@ title: 7.23: Divisor of One of Co-prime Numbers is Co-prime to Other
 description: 7.23: DIVISOR OF ONE OF CO-PRIME NUMBERS IS CO-PRIME TO OTHER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: coprime,divisor,numbers,one,other
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

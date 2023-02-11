@@ -7,7 +7,7 @@ title: 6.03: Height of a Figure
 description: 6.03: HEIGHT OF A FIGURE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: figure,height
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

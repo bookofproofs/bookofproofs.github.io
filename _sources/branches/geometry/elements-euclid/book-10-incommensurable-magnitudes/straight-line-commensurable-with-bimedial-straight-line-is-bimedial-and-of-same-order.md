@@ -7,7 +7,7 @@ title: Prop. 10.067: Straight Line Commensurable with Bimedial Straight Line is 
 description: 10.067: STRAIGHT LINE COMMENSURABLE WITH BIMEDIAL STRAIGHT LINE IS BIMEDIAL AND OF SAME ORDER &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: bimedial,commensurable,line,order,same,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

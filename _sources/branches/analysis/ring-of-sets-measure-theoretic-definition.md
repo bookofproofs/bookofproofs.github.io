@@ -7,7 +7,7 @@ title: Ring of Sets (measure-theoretic definition)
 description: RING OF SETS MEASURE-THEORETIC DEFINITION &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6907
 keywords: definition,measure,ring,ring of sets,sets,theoretic
-contributors: 
+contributors: @Brenner,bookofproofs
 
 ---
 

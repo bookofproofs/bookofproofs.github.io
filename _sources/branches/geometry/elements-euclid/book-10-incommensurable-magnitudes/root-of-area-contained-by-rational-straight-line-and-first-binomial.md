@@ -7,7 +7,7 @@ title: Prop. 10.054: Root of Area contained by Rational Straight Line and First 
 description: 10.054: ROOT OF AREA CONTAINED BY RATIONAL STRAIGHT LINE AND FIRST BINOMIAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: area,binomial,contained,first,line,rational,root,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

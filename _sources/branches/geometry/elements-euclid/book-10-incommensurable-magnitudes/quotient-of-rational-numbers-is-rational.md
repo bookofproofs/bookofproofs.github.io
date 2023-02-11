@@ -7,7 +7,7 @@ title: Prop. 10.020: Quotient of Rational Numbers is Rational
 description: 10.020: QUOTIENT OF RATIONAL NUMBERS IS RATIONAL &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: numbers,quotient,rational
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

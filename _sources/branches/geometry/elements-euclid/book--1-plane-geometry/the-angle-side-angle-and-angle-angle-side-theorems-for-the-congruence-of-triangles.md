@@ -7,7 +7,7 @@ title: 1.26: "Angle-Side-Angle" and "Angle-Angle-Side" Theorems for the Congruen
 description: 1.26: ANGLE-SIDE-ANGLE AND ANGLE-ANGLE-SIDE THEOREMS FOR THE CONGRUENCE OF TRIANGLES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: angle,congruence,side,theorems,triangles,angle side angle proof,angle side angle,angle angle side,angle theorems,angle side angle theorem,angle angle side theorem,congruence theorems,side angle side theorem
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

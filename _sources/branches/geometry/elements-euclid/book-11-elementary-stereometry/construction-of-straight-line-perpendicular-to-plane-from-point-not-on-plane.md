@@ -7,7 +7,7 @@ title: Prop. 11.11: Construction of Straight Line Perpendicular to Plane from po
 description: 11.11: CONSTRUCTION OF STRAIGHT LINE PERPENDICULAR TO PLANE FROM POINT NOT ON PLANE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: construction,line,not,perpendicular,plane,point,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

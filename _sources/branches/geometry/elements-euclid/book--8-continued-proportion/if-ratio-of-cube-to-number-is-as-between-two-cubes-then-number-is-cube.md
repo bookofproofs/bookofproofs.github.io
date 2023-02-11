@@ -7,7 +7,7 @@ title: Prop. 8.25: If Ratio of Cube to Number is as between Two Cubes then Numbe
 description: 8.25: IF RATIO OF CUBE TO NUMBER IS AS BETWEEN TWO CUBES THEN NUMBER IS CUBE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: between,cube,cubes,number,ratio,then,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

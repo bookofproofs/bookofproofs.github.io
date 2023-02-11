@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.030: CONSTRUCTION OF RATIONAL STRAIGHT LINES COMMENSURABLE IN SQUARE ONLY WHEN SQUARE DIFFERENCES INCOMMENSURABLE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419
 keywords: commensurable,construction,differences,greater,incommensurable,lines,only,rational,square,straight,whose,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

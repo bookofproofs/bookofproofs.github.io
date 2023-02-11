@@ -7,7 +7,7 @@ title: Prop. 10.111: Apotome not same with Binomial Straight Line
 description: 10.111: APOTOME NOT SAME WITH BINOMIAL STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: apotome,binomial,line,not,same,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

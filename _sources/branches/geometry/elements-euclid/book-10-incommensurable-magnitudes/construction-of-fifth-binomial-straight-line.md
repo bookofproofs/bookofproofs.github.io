@@ -7,7 +7,7 @@ title: Prop. 10.052: Construction of Fifth Binomial Straight Line
 description: 10.052: CONSTRUCTION OF FIFTH BINOMIAL STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: binomial,construction,fifth,line,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

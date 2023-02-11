@@ -7,7 +7,7 @@ title: Prop. 11.13: Straight Line Perpendicular to Plane from Point is Unique
 description: 11.13: STRAIGHT LINE PERPENDICULAR TO PLANE FROM POINT IS UNIQUE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: line,perpendicular,plane,point,straight,unique
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

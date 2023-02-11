@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 9.23: SUM OF ODD NUMBER OF ODD NUMBERS IS ODD &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: number,numbers,odd,sum,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

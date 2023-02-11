@@ -7,7 +7,7 @@ title: Prop. 10.030: Construction of Rational Straight Lines Commensurable in Sq
 description: 10.030: CONSTRUCTION OF RATIONAL STRAIGHT LINES COMMENSURABLE IN SQUARE ONLY WHEN SQUARE DIFFERENCES INCOMMENSURABLE &#9733; master maths &#10004; visit BookOfProofs!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: commensurable,construction,differences,greater,incommensurable,lines,only,rational,square,straight,whose
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 4.05: Circumscribing Circle about Triangle
 description: 4.05: CIRCUMSCRIBING CIRCLE ABOUT TRIANGLE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: about,circle,circumscribing,triangle
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

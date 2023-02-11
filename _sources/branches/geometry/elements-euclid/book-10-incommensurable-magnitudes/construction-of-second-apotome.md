@@ -7,7 +7,7 @@ title: Prop. 10.086: Construction of Second Apotome
 description: 10.086: CONSTRUCTION OF SECOND APOTOME &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: apotome,construction,second
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 3.01: FINDING THE CENTER OF A GIVEN CIRCLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: center,circle,finding,given,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

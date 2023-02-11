@@ -7,7 +7,7 @@ title: 6.25: Construction of Figure Similar to One and Equal to Another
 description: 6.25: CONSTRUCTION OF FIGURE SIMILAR TO ONE AND EQUAL TO ANOTHER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: another,construction,equal,figure,one,similar
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

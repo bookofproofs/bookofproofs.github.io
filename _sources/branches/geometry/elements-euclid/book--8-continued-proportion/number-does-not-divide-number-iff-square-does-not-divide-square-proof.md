@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 8.16: NUMBER DOES NOT DIVIDE NUMBER IFF SQUARE DOES NOT DIVIDE SQUARE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: divide,does,iff,not,number,square,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

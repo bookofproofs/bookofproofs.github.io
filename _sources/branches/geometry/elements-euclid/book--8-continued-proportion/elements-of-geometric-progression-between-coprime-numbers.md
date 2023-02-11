@@ -7,7 +7,7 @@ title: Prop. 8.09: Elements of Geometric Progression between Co-prime Numbers
 description: 8.09: ELEMENTS OF GEOMETRIC PROGRESSION BETWEEN CO-PRIME NUMBERS &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: between,coprime,elements,geometric,numbers,progression
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

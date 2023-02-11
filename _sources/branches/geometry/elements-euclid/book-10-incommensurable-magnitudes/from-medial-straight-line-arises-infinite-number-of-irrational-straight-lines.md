@@ -7,7 +7,7 @@ title: Prop. 10.115: From Medial Straight Line arises Infinite Number of Irratio
 description: 10.115: FROM MEDIAL STRAIGHT LINE ARISES INFINITE NUMBER OF IRRATIONAL STRAIGHT LINES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: arises,infinite,irrational,line,lines,medial,number,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

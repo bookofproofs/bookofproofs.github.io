@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 7.35: LEAST COMMON MULTIPLE DIVIDES COMMON MULTIPLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: common,divides,least,multiple,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

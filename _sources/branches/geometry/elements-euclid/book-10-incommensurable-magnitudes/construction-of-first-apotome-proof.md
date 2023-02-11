@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 10.085: CONSTRUCTION OF FIRST APOTOME &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: apotome,construction,first,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

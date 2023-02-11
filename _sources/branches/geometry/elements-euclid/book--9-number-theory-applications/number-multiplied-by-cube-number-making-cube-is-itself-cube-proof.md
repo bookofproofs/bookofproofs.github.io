@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 9.05: NUMBER MULTIPLIED BY CUBE NUMBER MAKING CUBE IS ITSELF CUBE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: cube,itself,making,multiplied,number,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

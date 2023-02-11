@@ -7,7 +7,7 @@ title: 8.08: Geometric Progressions in Proportion have Same Number of Elements
 description: 8.08: GEOMETRIC PROGRESSIONS IN PROPORTION HAVE SAME NUMBER OF ELEMENTS ★ graduate maths ✔ step by step ✚ visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: elements in geometric progression
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

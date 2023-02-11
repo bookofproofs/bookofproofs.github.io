@@ -7,7 +7,7 @@ title: 3.31: Relative Sizes of Angles in Segments
 description: 3.31: RELATIVE SIZES OF ANGLES IN SEGMENTS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angles,relative,segments,sizes
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

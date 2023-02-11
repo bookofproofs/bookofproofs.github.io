@@ -7,7 +7,7 @@ title: Prop. 9.32: Power of Two is Even-Times Even Only
 description: 9.32: POWER OF TWO IS EVEN-TIMES EVEN ONLY &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: even,only,power,times,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

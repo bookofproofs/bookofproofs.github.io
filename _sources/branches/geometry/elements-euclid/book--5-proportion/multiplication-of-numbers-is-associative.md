@@ -7,7 +7,7 @@ title: 5.03: Multiplication of Numbers is Associative
 description: 5.03: MULTIPLICATION OF NUMBERS IS ASSOCIATIVE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: associative,multiplication,numbers
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

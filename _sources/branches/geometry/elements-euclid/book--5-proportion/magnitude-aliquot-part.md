@@ -7,7 +7,7 @@ title: 5.01: Magnitude is Aliquot Part
 description: 5.01: MAGNITUDE IS ALIQUOT PART &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$2775,bookofproofs$6419
 keywords: aliquot,magnitude,part
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 6.20: SIMILAR POLYGONS ARE COMPOSED OF SIMILAR TRIANGLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: are,composed,polygons,similar,triangles,similar polygons,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

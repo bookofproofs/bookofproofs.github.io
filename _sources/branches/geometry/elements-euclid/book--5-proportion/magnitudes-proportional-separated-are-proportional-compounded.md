@@ -7,7 +7,7 @@ title: 5.18: Magnitudes Proportional Separated are Proportional Compounded
 description: 5.18: MAGNITUDES PROPORTIONAL SEPARATED ARE PROPORTIONAL COMPOUNDED &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: are,compounded,magnitudes,proportional,separated
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

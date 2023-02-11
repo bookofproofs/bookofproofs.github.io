@@ -7,7 +7,7 @@ title: 7.35: Least Common Multiple Divides Common Multiple
 description: 7.35: LEAST COMMON MULTIPLE DIVIDES COMMON MULTIPLE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: common,divides,least,multiple
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

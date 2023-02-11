@@ -7,7 +7,7 @@ title: Prop. 8.27: Similar Solid Numbers have Same Ratio as between Two Cubes
 description: 8.27: SIMILAR SOLID NUMBERS HAVE SAME RATIO AS BETWEEN TWO CUBES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: between,cubes,have,numbers,ratio,same,similar,solid,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 9.04: Cube Number multiplied by Cube Number is Cube
 description: 9.04: CUBE NUMBER MULTIPLIED BY CUBE NUMBER IS CUBE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: cube,multiplied,number
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 3.01: Bisected Chord of a Circle Passes the Center
 description: 3.01: BISECTED CHORD OF A CIRCLE PASSES THE CENTER &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$626,bookofproofs$628,bookofproofs$6419
 keywords: bisected,center,chord,circle,passes
-contributors: bookofproofs,@calahan,@casey,@fitzpatrick
+contributors: bookofproofs,@Calahan,@Casey,@Fitzpatrick
 
 ---
 

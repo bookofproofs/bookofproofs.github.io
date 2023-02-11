@@ -7,7 +7,7 @@ title: 4.03: Circumscribing about Circle Triangle Equiangular with Given Angles
 description: 4.03: CIRCUMSCRIBING ABOUT CIRCLE TRIANGLE EQUIANGULAR WITH GIVEN ANGLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: about,angles,circle,circumscribing,equiangular,given,triangle
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

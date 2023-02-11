@@ -7,7 +7,7 @@ title: Prop. 8.22: If First of Three Numbers in Geometric Progression is Square 
 description: 8.22: IF FIRST OF THREE NUMBERS IN GEOMETRIC PROGRESSION IS SQUARE THEN THIRD IS SQUARE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: first,geometric,numbers,progression,square,then,third,three
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

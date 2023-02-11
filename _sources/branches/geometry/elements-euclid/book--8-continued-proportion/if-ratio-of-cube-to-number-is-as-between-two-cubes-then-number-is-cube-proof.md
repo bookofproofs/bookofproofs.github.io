@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 8.25: IF RATIO OF CUBE TO NUMBER IS AS BETWEEN TWO CUBES THEN NUMBER IS CUBE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: between,cube,cubes,number,ratio,then,two,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: By Euclid
 description: PROOF OF 6.02: PARALLEL LINE IN TRIANGLE CUTS SIDES PROPORTIONALLY &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: cuts,line,parallel,proportionally,sides,triangle,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

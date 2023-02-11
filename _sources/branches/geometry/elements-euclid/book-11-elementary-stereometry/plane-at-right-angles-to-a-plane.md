@@ -7,7 +7,7 @@ title: Def. 11.04: Plane at Right Angles to a Plane
 description: DEF. 11.04: PLANE AT RIGHT ANGLES TO A PLANE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angles,plane,plane is at right angles to a(nother) plane,right
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

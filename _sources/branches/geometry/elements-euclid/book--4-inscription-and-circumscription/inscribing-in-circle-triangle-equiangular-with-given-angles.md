@@ -7,7 +7,7 @@ title: 4.02: Inscribing in Circle Triangle Equiangular with Given Angles
 description: 4.02: INSCRIBING IN CIRCLE TRIANGLE EQUIANGULAR WITH GIVEN ANGLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angles,circle,equiangular,given,inscribing,triangle
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

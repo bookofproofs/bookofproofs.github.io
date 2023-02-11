@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.011: COMMENSURABILITY OF ELEMENTS OF PROPORTIONAL MAGNITUDES &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: commensurability,elements,magnitudes,proportional,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 3.32: Angles made by Chord with Tangent
 description: 3.32: ANGLES MADE BY CHORD WITH TANGENT &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angles,chord,made,tangent
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

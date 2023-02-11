@@ -7,7 +7,7 @@ title: Prop. 10.064: Square on Side of Rational plus Medial Area applied to Rati
 description: 10.064: SQUARE ON SIDE OF RATIONAL PLUS MEDIAL AREA APPLIED TO RATIONAL STRAIGHT LINE &#9733; master graduate maths &#10004; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: applied,area,line,medial,plus,rational,side,square,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 5.11: Equality of Ratios is Transitive
 description: 5.11: EQUALITY OF RATIOS IS TRANSITIVE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: equality,ratios,transitive
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

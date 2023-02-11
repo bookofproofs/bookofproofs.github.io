@@ -7,7 +7,7 @@ title: Prop. 10.105: Straight Line Commensurable with Minor Straight Line
 description: 10.105: STRAIGHT LINE COMMENSURABLE WITH MINOR STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: commensurable,line,minor,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: Prop. 11.03: Common Section of Two Planes is Straight Line
 description: 11.03: COMMON SECTION OF TWO PLANES IS STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: common,line,planes,section,straight,two
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

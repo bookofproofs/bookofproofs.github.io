@@ -7,7 +7,7 @@ title: By Euclid
 description:  Proof of 10.087: CONSTRUCTION OF THIRD APOTOME &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: apotome,construction,third,proof
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

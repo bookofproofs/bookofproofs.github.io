@@ -7,7 +7,7 @@ title: 3.28: Straight Lines Cut Off Equal Arcs in Equal Circles
 description: 3.28: STRAIGHT LINES CUT OFF EQUAL ARCS IN EQUAL CIRCLES &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: arcs,circles,cut,equal,lines,off,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: 3.18: Radius at Right Angle to Tangent
 description: 3.18: RADIUS AT RIGHT ANGLE TO TANGENT &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: angle,radius,right,tangent
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

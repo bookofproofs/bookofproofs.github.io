@@ -7,7 +7,7 @@ title: Prop. 10.053: Construction of Sixth Binomial Straight Line
 description: 10.053: CONSTRUCTION OF SIXTH BINOMIAL STRAIGHT LINE &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419,bookofproofs$6908
 keywords: binomial,construction,line,sixth,straight
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 

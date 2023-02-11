@@ -7,7 +7,7 @@ title: Cor. 12.07: Prism on Triangular Base divided into Three Equal Tetrahedra
 description: COR. 12.07: PRISM ON TRIANGULAR BASE DIVIDED INTO THREE EQUAL TETRAHEDRA &#9733; graduate maths &#10004; step by step &#10010; visit BookOfProofs now!
 references: bookofproofs$6419
 keywords: base,divided,equal,into,prism,tetrahedra,three,triangular
-contributors: bookofproofs,@fitzpatrick
+contributors: @Fitzpatrick,bookofproofs
 
 ---
 
