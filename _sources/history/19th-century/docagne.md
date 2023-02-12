@@ -4,7 +4,7 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: 
 orderid: 1862
-title: D&amp;amp;amp;amp;amp;amp;amp;#x27;Ocagne, Maurice
+title: D'Ocagne, Maurice
 born: 1862
 died: 1938
 keywords: Maurice d'Ocagne, nomography, grapho-mechanics, algebra, quadratic reciprocity, abelian group, finitely generated groups, determinants, trigonometric functions, real variable

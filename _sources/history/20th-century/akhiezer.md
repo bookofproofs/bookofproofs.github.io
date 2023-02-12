@@ -4,7 +4,7 @@ categories: history,20th-century
 parentid: bookofproofs$604
 tags: origin-belarus
 orderid: 1901
-title: Akhiezer, Naum Il&amp;amp;amp;amp;amp;amp;amp;#x27;ich
+title: Akhiezer, Naum Il'ich
 born: 1901
 died: 1980
 keywords: Akhiezer, Function Theory, Approximation Theory, Pseudo-differential Operators, Elliptic Equations, Difference Methods, Recursive Approximation

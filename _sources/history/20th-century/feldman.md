@@ -4,7 +4,7 @@ categories: history,20th-century
 parentid: bookofproofs$604
 tags: origin-ukraine
 orderid: 1918
-title: Feldman, Naum Il&amp;amp;amp;amp;amp;amp;amp;#x27;ich
+title: Feldman, Naum Il'ich
 born: 1918
 died: 1994
 keywords: Number Theory, Erdős–Szekeres theorem, All-Union Institute, Mathematical Theory of Stability, Linear Programming, Convex Optimization, Prizes & Honours

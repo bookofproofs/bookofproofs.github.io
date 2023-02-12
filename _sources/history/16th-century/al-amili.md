@@ -4,7 +4,7 @@ categories: history,16th-century
 parentid: bookofproofs$600
 tags: astronomy,origin-lebanon
 orderid: 1547
-title: Al-Amili, Baha&amp;amp;amp;amp;amp;amp;amp;#x27; al-Din
+title: Al-Amili, Baha' al-Din
 born: 1547
 died: 1621
 keywords: Al Amili, Arithmetic, Astronomy, Grammar, Trigonometry, Astronomy, Geometrical

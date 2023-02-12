@@ -4,7 +4,7 @@ categories: history,17th-century
 parentid: bookofproofs$339
 tags: astronomy,origin-netherlands
 orderid: 1688
-title: &amp;amp;amp;amp;amp;amp;amp;#x27;Sgravesande, Willem Jacob
+title: 'sGravesande, Willem Jacob
 born: 1688
 died: 1742
 keywords: Willem 'sGravesande, Dutch, Newton's, Geometry, Notation, Experiments, Mechanics

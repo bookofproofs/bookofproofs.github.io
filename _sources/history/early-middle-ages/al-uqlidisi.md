@@ -4,7 +4,7 @@ categories: history,early-middle-ages
 parentid: bookofproofs$608
 tags: ancient-arab,origin-syria,special-numbers-and-numerals
 orderid: 920
-title: Al-Uqlidisi, Abu&amp;amp;amp;amp;amp;amp;amp;#x27;l Hasan Ahmad ibn Ibrahim
+title: Al-Uqlidisi, Abu'l Hasan Ahmad ibn Ibrahim
 born: 920
 died: 980
 keywords: Al-Uqlidisi, Indian numerical system, decimal fractions, quadratic equation, algebra, cubic equations, trigonometry

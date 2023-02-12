@@ -4,7 +4,7 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: origin-england
 orderid: 1875
-title: Bromwich, Thomas John I&amp;amp;amp;amp;amp;amp;amp;#x27;Anson
+title: Bromwich, Thomas John I'Anson
 born: 1875
 died: 1929
 keywords: Thomas Bromwich, South Africa, Cambridge, Mathematics, Taylor Series, Bromwich Integral, Potential Theory, Fourier Series

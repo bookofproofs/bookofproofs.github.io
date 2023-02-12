@@ -4,7 +4,7 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: origin-russia
 orderid: 1894
-title: Frenkel, Jacov Il&amp;amp;amp;amp;amp;amp;amp;#x27;ich
+title: Frenkel, Jacov Il'ich
 born: 1894
 died: 1952
 keywords: Frenkel, Wolf Prize, Chern Medal, Bieberbach conjecture, duality, differential equations, correlation theory, pseudorandom generator, probability theory, quantum field theory

@@ -4,7 +4,7 @@ categories: history,20th-century
 parentid: bookofproofs$604
 tags: group-theory,origin-russia
 orderid: 1914
-title: Kaluznin, Lev Arkad&amp;amp;amp;amp;amp;amp;amp;#x27;evich
+title: Kaluznin, Lev Arkad'evich
 born: 1914
 died: 1990
 keywords: Kaluznin, Mathematician, Group Theory, Permutation Groups, Interpolation, Galois Theory, Arithmetic Algebraic Geometry

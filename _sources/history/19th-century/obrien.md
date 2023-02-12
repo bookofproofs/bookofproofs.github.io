@@ -4,7 +4,7 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: astronomy,origin-ireland
 orderid: 1814
-title: O&amp;amp;amp;amp;amp;amp;amp;#x27;Brien, Matthew
+title: O'Brien, Matthew
 born: 1814
 died: 1855
 keywords: Matthew O'Brien, vector method, polynomial equations, O'Brien–Müller method, numerical analysis, linear algebra, Graça Simões Prize

@@ -4,7 +4,7 @@ categories: history,early-middle-ages
 parentid: bookofproofs$608
 tags: algebra,ancient-arab,ancient-babylonian,ancient-indian,astronomy,origin-iraq,number-theory,special-numbers-and-numerals
 orderid: 790
-title: Al-Khwarizmi, Abu Ja&amp;amp;amp;amp;amp;amp;amp;#x27;far Muhammad ibn Musa
+title: Al-Khwarizmi, Abu Ja'far Muhammad ibn Musa
 born: 790
 died: 850
 keywords: Al'Khwarizmi, algorithm, algebra, numerals, calculations, astronomy, Europe

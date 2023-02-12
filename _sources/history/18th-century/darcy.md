@@ -4,7 +4,7 @@ categories: history,18th-century
 parentid: bookofproofs$52
 tags: origin-ireland
 orderid: 1725
-title: D&amp;amp;amp;amp;amp;amp;amp;#x27;Arcy, Patrick
+title: D'Arcy, Patrick
 born: 1725
 died: 1779
 keywords: Patrick d'Arcy, mechanics, dynamics, angular momentum, virtual velocity, calculus, wave motion

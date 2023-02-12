@@ -4,7 +4,7 @@ categories: history,18th-century
 parentid: bookofproofs$52
 tags: algebra,analysis,astronomy,geography,geometry,physics
 orderid: 1717
-title: D&amp;amp;amp;amp;amp;amp;amp;#x27;Alembert, Jean
+title: D'Alembert, Jean
 born: 1717
 died: 1783
 keywords: Jean d'Alembert, differential equations, Traité de dynamique, calculus of variations, wave equation, limit, probability, game theory

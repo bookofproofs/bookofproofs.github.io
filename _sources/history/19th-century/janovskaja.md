@@ -4,7 +4,7 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: origin-belarus,women
 orderid: 1896
-title: Janovskaja, Sof&amp;amp;amp;amp;amp;amp;amp;#x27;ja Aleksandrovna
+title: Janovskaja, Sof'ja Aleksandrovna
 born: 1896
 died: 1966
 keywords: Janovskaja, four square theorem, hyperbolic geometry, Schottky groups, Fermat Last Theorem, five-dimensional, abelian fields

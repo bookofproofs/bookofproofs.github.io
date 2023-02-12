@@ -4,7 +4,7 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: astronomy,origin-england
 orderid: 1896
-title: O&amp;amp;amp;amp;amp;amp;amp;#x27;Connell, Daniel
+title: O'Connell, Daniel
 born: 1896
 died: 1982
 keywords: Mathematics, 2018, Irish Olympiad, Junior Maths Olympiad, European Girls Mathematics Olympiad, Keynote, Certificate of Advanced Level Studies

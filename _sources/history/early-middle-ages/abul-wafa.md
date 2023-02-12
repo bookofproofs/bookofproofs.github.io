@@ -4,7 +4,7 @@ categories: history,early-middle-ages
 parentid: bookofproofs$608
 tags: analysis,ancient-arab,astronomy,geography,geometry,origin-iran,special-numbers-and-numerals
 orderid: 940
-title: Mohammad Abu&amp;amp;amp;amp;amp;amp;amp;#x27;L-Wafa, Al-Buzjani
+title: Mohammad Abu'L-Wafa, Al-Buzjani
 born: 940
 died: 998
 keywords: Abu'l-Wafa, Mathematics, Algorithm, Trigonometry, Decimal Point, Surveying, Heliocentric Model

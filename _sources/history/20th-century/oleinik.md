@@ -4,7 +4,7 @@ categories: history,20th-century
 parentid: bookofproofs$604
 tags: origin-ukraine,women
 orderid: 1925
-title: Oleinik, Olga Arsen&amp;amp;amp;amp;amp;amp;amp;#x27;evna
+title: Oleinik, Olga Arsen'evna
 born: 1925
 died: 2001
 keywords: Olga Oleinik, Partial Differential Equations, Mathematical Analysis, Fourier Series, Moscow State University, Moscow Aviation Institute, Hero of Socialist Labour

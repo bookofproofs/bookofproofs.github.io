@@ -4,7 +4,7 @@ categories: history,20th-century
 parentid: bookofproofs$604
 tags: 
 orderid: 1945
-title: O&amp;amp;amp;amp;amp;amp;amp;#x27;Connor, John
+title: O'Connor, John
 born: 1945
 died: 0
 keywords: operator algebraic, number theory, logical behavior, equations, theorems, string theory, algorithms

@@ -4,7 +4,7 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: origin-germany
 orderid: 1882
-title: D&amp;amp;amp;amp;amp;amp;amp;#x27;Ocagne (2), Philbert Maurice
+title: D'Ocagne (2), Philbert Maurice
 born: 1882
 died: 1929
 keywords: Emil Hilb, special functions, differential equations, wavefront propagation, wave equation, shock wave, mathematical model, sound waves

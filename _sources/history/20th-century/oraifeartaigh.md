@@ -4,7 +4,7 @@ categories: history,20th-century
 parentid: bookofproofs$604
 tags: astronomy,origin-ireland
 orderid: 1933
-title: O&amp;amp;amp;amp;amp;amp;amp;#x27;Raifeartaigh, Lochlainn
+title: O'Raifeartaigh, Lochlainn
 born: 1933
 died: 2000
 keywords: Lochlainn O'Raifeartaigh, physics, theoretical particle, electromagnetism, gravitation, nuclear forces, symmetry, complex physical phenomena

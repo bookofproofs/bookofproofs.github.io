@@ -4,7 +4,7 @@ categories: history,20th-century
 parentid: bookofproofs$604
 tags: origin-russia
 orderid: 1937
-title: Maz&amp;amp;amp;amp;amp;amp;amp;#x27;Ya, Vladimir
+title: Maz'Ya, Vladimir
 born: 1937
 died: 0
 keywords: Vladimir Maz'ya, mathematical analysis, partial differential equations, Sobolev embedding theorem, Besov spaces, capacity, functional analysis

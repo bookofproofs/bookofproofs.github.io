@@ -4,7 +4,7 @@ categories: history,18th-century
 parentid: bookofproofs$52
 tags: astronomy
 orderid: 1748
-title: De Tinseau, D&amp;amp;amp;amp;amp;amp;amp;#x27;Amondans Charles
+title: De Tinseau, D'Amondans Charles
 born: 1748
 died: 1822
 keywords: Tinseau, Calculus, Least Squares, Metric System, Tricolor Roundabout, Projectiles, Differential Equations

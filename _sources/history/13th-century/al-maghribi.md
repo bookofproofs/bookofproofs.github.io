@@ -4,7 +4,7 @@ categories: history,13th-century
 parentid: bookofproofs$606
 tags: ancient-arab,astronomy,origin-spain
 orderid: 1220
-title: Al-Maghribi, Muhyi l&amp;amp;amp;amp;amp;amp;amp;#x27;din
+title: Al-Maghribi, Muhyi l'din
 born: 1220
 died: 1283
 keywords: Muhyi l'din al-Maghribi, arithmetic, algebra, trigonometry, Fermat’s theorem, divisors, equations

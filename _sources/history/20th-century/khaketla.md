@@ -4,7 +4,7 @@ categories: history,20th-century
 parentid: bookofproofs$604
 tags: african,origin-lesotho,women
 orderid: 1960
-title: Khaketla, &amp;amp;amp;amp;amp;amp;amp;#x27;Mamphono
+title: Khaketla, 'Mamphono
 born: 1960
 died: 0
 keywords: Mamphono Khaketla, Maths, Algorithm, Knot Theory, Numerical Constants, Computer Science, Gender Equality

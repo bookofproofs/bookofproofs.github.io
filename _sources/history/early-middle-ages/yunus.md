@@ -4,7 +4,7 @@ categories: history,early-middle-ages
 parentid: bookofproofs$608
 tags: african,ancient-arab,astronomy,origin-egypt
 orderid: 950
-title: Ibn Yunus, Abu&amp;amp;amp;amp;amp;amp;amp;#x27;l-Hasan Ali Ibn Abd al-Rahman
+title: Ibn Yunus, Abu'l-Hasan Ali Ibn Abd al-Rahman
 born: 950
 died: 1009
 keywords: Islamic mathematician, trigonometry, astronomical observations, sine functions, spherical geometry, pi, navigation

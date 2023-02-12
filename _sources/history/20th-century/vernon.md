@@ -4,7 +4,7 @@ categories: history,20th-century
 parentid: bookofproofs$604
 tags: origin-ireland,women
 orderid: 1932
-title: Vernon, Siobhan O&amp;amp;amp;amp;amp;amp;amp;#x27;Shea
+title: Vernon, Siobhan O'Shea
 born: 1932
 died: 2002
 keywords: Irish, Mathematics, PhD, GCSE, Gaeltachta, STEM, Education

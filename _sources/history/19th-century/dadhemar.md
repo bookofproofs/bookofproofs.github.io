@@ -4,7 +4,7 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: 
 orderid: 1874
-title: D&amp;amp;amp;amp;amp;amp;amp;#x27;Adhémar, Robert
+title: D'Adhémar, Robert
 born: 1874
 died: 1941
 keywords: Robert d'Adhémar, Mathematics, Philosophy of Science, Religion, Hypergeometric Series, Multiple Integrals, Power Series Functional Equation

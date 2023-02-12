@@ -4,7 +4,7 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: origin-italy
 orderid: 1843
-title: D&amp;amp;amp;amp;amp;amp;amp;#x27;Ovidio, Enrico
+title: D'Ovidio, Enrico
 born: 1843
 died: 1933
 keywords: Enrico D'Ovidio, Algebraic Geometry, Partial Differential Equations, Functional Analysis, Holomorphic Functions, Operator Theory, Fourier Series

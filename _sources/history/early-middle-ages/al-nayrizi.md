@@ -4,7 +4,7 @@ categories: history,early-middle-ages
 parentid: bookofproofs$608
 tags: ancient-arab,astronomy,origin-iran
 orderid: 875
-title: Al-Nayrizi, Abu&amp;amp;amp;amp;amp;amp;amp;#x27;l Abbas al-Fadl ibn Hatim
+title: Al-Nayrizi, Abu'l Abbas al-Fadl ibn Hatim
 born: 875
 died: 922
 keywords: Al-Nayrizi, Islamic mathematician, area of polygons, cubic equations, trigonometry, fourth root, spherical trigonometry

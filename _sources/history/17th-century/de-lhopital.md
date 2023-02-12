@@ -4,7 +4,7 @@ categories: history,17th-century
 parentid: bookofproofs$339
 tags: algebra,physics
 orderid: 1661
-title: De L&amp;amp;amp;amp;amp;amp;amp;#x27;Hôpital, Guillaume
+title: De L'Hôpital, Guillaume
 born: 1661
 died: 1704
 keywords: De L'Hôpital, Calculus, Differential Calculus, Limit, Derivative, Rational Functions, Ordinary Differential Equations

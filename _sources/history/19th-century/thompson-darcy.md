@@ -4,7 +4,7 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: applied-maths,origin-scotland
 orderid: 1860
-title: Thompson, D&amp;amp;amp;amp;amp;amp;amp;#x27;Arcy
+title: Thompson, D'Arcy
 born: 1860
 died: 1948
 keywords: D'Arcy Thompson, biomathematics, kinematics, deformation, Growth and Form, biological transformations, mathematical relationships
