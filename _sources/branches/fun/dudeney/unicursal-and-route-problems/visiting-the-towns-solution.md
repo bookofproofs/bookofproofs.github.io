@@ -7,7 +7,7 @@ title:
 description: SOLUTION OF VISITING THE TOWNS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: towns solution,visiting
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

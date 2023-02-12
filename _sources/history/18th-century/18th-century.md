@@ -7,7 +7,7 @@ title: 18th Century
 description: 18TH CENTURY (FROM 1700 TO 1799) ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: bookofproofs$6909
 keywords: 18th,century
-contributors: bookofproofs,@MacTutor
+contributors: bookofproofs
 
 
 ---

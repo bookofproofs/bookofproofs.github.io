@@ -7,7 +7,7 @@ title: Ancient World
 description: ANCIENT WORLD (FROM 4000 BC TO 1 BC) ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: bookofproofs$8244,bookofproofs$6909
 keywords: ancient mathematics,mathematics in ancient world
-contributors: bookofproofs,@MacTutor
+contributors: bookofproofs
 
 
 ---

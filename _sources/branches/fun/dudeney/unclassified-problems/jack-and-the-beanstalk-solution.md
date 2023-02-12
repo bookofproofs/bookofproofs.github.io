@@ -7,7 +7,7 @@ title:
 description: SOLUTION OF JACK AND THE BEANSTALK &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: beanstalk solution,jack,jack and the beanstalk solution,solution in jack and the beanstalk,what is the solution in jack and the beanstalk
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

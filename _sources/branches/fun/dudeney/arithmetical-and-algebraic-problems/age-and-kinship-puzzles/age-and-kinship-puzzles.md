@@ -7,7 +7,7 @@ title: Age and Kinship Puzzles
 description: AGE AND KINSHIP PUZZLES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: age,kinship,puzzles
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

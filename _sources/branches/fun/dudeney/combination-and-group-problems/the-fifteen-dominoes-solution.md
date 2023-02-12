@@ -7,7 +7,7 @@ title:
 description: SOLUTION OF THE FIFTEEN DOMINOES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: dominoes solution,fifteen
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

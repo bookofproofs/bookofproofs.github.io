@@ -7,7 +7,7 @@ title:
 description: Solution of THE CROWDED CHESSBOARD &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: chessboard solution,crowded
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

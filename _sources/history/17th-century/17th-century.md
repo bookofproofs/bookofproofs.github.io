@@ -7,7 +7,7 @@ title: 17th Century
 description: 17TH CENTURY (FROM 1600 TO 1699) ★ history of mathematics ✚ science ➜ visit BookOfProofs now!
 references: bookofproofs$6909, bookofproofs$8285
 keywords: 17th,century
-contributors: bookofproofs,@MacTutor
+contributors: bookofproofs
 
 
 ---

@@ -142,9 +142,11 @@ class BopValidator:
             bop_source = self._unique_nodeids[source_id]
             if bop_source.orderid.isdigit():
                 bop_source.orderid = int(bop_source.orderid)
+            elif str(bop_source.orderid).startswith("-") and bop_source.orderid[1:].isdigit():
+                bop_source.orderid = int(bop_source.orderid)
             else:
                 raise BopValidationError(err_type, "01",
-                                         "Only positive integer orderid " +
+                                         "Only integer orderid " +
                                          "allowed for {0} detected in {1}".format(bop_source.nodeid,
                                                                                   bop_source.get_file_name()))
 

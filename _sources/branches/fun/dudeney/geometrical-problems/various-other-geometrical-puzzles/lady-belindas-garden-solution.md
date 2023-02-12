@@ -7,7 +7,7 @@ title:
 description: SOLUTION OF LADY BELINDA'S GARDEN &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: belindas,garden solution,lady
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

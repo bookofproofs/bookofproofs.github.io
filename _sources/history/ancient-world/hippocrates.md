@@ -3,26 +3,37 @@ nodeid: bookofproofs$Hippocrates
 categories: history,ancient-world
 parentid: bookofproofs$610
 tags: ancient-greek,geometry,origin-greece,puzzles-and-problems
+orderid: -470
 title: Hippocrates Of Chios
 born: -470
 died: -410
-description: Some facts about  Hippocrates Of Chios
-keywords: hippocrates of chios,ancient greek,geometry,nationality greece,puzzles and problems
+keywords: Hippocrates, medical, analysis, diagnoses, research, school, geometry
+description: Hippocrates was a Greek genius who developed medical analysis, diagnoses, research, and a school, as well as investigating mathematical shapes to advance geometry.
 references: bookofproofs$6909
-contributors: bookofproofs,@MacTutor
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ---
+
 
 
 ---
 
 ![Hippocrates.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Hippocrates.jpg?raw=true)
 
-**Hippocrates Of Chios** was a Greek mathematician who worked on the classical problems of squaring the circle and duplicating the cube.  
+**Hippocrates** was a Greek mathematician who worked on the classical problems of squaring the circle and duplicating the cube.
 
-In his attempts to square the circle, Hippocrates was able to find the areas of "lunes", i.e. crescent-shaped figures, using his theorem that the ratio of the areas of two circles is the same as the ratio of the squares of their radii.
+### Mathematical Profile (Excerpt):
+1. Developed a system of quantitative analysis of medical data.
+2. Analyzed the patterns of the pulse to diagnose medical conditions.
+3. Revolutionized traditional medical diagnoses.
+4. Developed the Hippocratic Corpus, a comprehensive system of medical knowledge.
+5. Conducted the first systematic clinical research of medical diseases.
+6. Founded the world’s first medical school, the Academy of Kos.
+7. Established the foundations of epidemiology.
+8. Dislodged the traditional belief that illness was caused by supernatural forces.
+9. Investigated the properties of mathematical shapes.
+10. Made significant advances in geometry.
 
-Born about 470 BC Chios, Greece. Died about 410 BC.
+Born about 470BC, Chios, Greece. Died about 410 BC.
 
-
-View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Hippocrates/).
+View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Hippocrates/)

@@ -7,7 +7,7 @@ title:
 description: Solution of THE CROSS OF CARDS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: cards solution,cross
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

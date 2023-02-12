@@ -7,7 +7,7 @@ title:
 description: SOLUTION OF THE SIX FROGS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: frogs solution,six
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

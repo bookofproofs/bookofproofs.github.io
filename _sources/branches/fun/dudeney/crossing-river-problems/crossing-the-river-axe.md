@@ -7,7 +7,7 @@ title: Crossing The River Axe
 description: CROSSING THE RIVER AXE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: crossing,problems,river,solution
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

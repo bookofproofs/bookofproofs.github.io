@@ -7,7 +7,7 @@ title:
 description: Solution of QUEER CHESS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: chess solution,queer
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

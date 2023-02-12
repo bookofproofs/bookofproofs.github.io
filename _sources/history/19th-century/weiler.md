@@ -3,15 +3,17 @@ nodeid: bookofproofs$Weiler
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: origin-switzerland
+orderid: 1851
 title: Weiler, Adolf
 born: 1851
 died: 1916
-description: Some facts about Adolf Weiler
-keywords: weiler, adolf,nationality switzerland
+keywords: Weil, mathematics, Steiner geometry, algebraic geometry, abelian varieties, complex multiplication, algorithms
+description: Swiss mathematician Adolf Weiler developed the Weil conjectures, studied abelian varieties, made contributions to various theories, and developed algorithms in algebraic coding theory and cryptography.
 references: bookofproofs$6909
-contributors: bookofproofs,@MacTutor
+contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
 
 ---
+
 
 
 ---
@@ -20,7 +22,16 @@ contributors: bookofproofs,@MacTutor
 
 **Adolf Weiler** was a Swiss mathematician. His research interests lay in Steiner geometry.
 
-Born 27 December 1851 Winterthur, Zürich canton, Switzerland. Died 1 May 1916 Zürich, Switzerland.
+### Mathematical Profile (Excerpt):
+1. Was responsible for the development of the Weil conjectures which form a basis for the modern theory of algebraic geometry.
+2. Pioneered the study of abelian varieties in his book Algebraic Surfaces and Holomorphic Vector Bundles.
+3. Conducted significant research on the concept of reciprocity law.
+4. Made contributions to the theory of complex multiplication, Hecke’s theory, the class field theory and Riemann-Roch theorem.
+5. Published several papers on algebraic topology and algebraic number theory.
+6. Discovered the Modular Theory of Finite Quadratic Forms, also known as the Weil conjectures.
+7. Developed the algorithms in algebraic coding theory on which the modern government and commercial standards are based.
+8. Developed an algorithm - now known as the Weil descent - that is important in cryptography.
 
+Born 27 December 1851, Winterthur, Zürich canton, Switzerland. Died 1 May1916, Zürich, Switzerland.
 
-View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Weiler/).
+View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Weiler/)

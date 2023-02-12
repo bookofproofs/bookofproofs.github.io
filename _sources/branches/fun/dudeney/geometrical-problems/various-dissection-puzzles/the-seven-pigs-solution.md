@@ -7,7 +7,7 @@ title:
 description: SOLUTION OF THE SEVEN PIGS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: dissection,puzzles,various,dissection puzzles,dissection puzzle,solution,seven pigs,draw 3 straight lines to separate the pigs
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

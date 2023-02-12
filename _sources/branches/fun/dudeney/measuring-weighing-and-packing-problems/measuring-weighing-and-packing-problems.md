@@ -7,7 +7,7 @@ title: Measuring, Weighing, and Packing Problems
 description: MEASURING, WEIGHING, AND PACKING PROBLEMS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: measuring,packing,problems,weighing
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

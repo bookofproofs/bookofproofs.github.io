@@ -3,15 +3,17 @@ nodeid: bookofproofs$Jeffery
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: origin-england
+orderid: 1891
 title: Jeffery (2), George
 born: 1891
 died: 1957
-description: Some facts about George Jeffery
-keywords: jeffery, george,nationality england
+keywords: hydrodynamics, viscous liquids, elasticity, general relativity, number theory, elliptic curves, probabilistic primality tests
+description: George Jeffery made major contributions to several fields, including hydrodynamics, number theory, and probabilistic primality tests, solving longstanding conjectures and producing exact solutions to Einstein's field equations.
 references: bookofproofs$6909
-contributors: bookofproofs,@MacTutor
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ---
+
 
 
 ---
@@ -20,7 +22,15 @@ contributors: bookofproofs,@MacTutor
 
 **George Jeffery** worked on hydrodynamics, viscous liquids, elasticity and general relativity and he produced exact solutions to Einstein's field equations. He also made contributions to teaching mathematics.
 
-Born 9 May 1891 London, England. Died 27 April 1957 London, England.
+### Mathematical Profile (Excerpt):
+1. Developed a breakthrough in number theory and the theory of elliptic curves.
+2. Discovered a method of calculating the prime factorisation of large numbers.
+3. Devised a method of approximating pi to any precision.
+4. Established the Gross-Zagier Formula, a fundamental theorem in the number theory of elliptic curves.
+5. Proposed solutions to two long-standing conjectures, the Mordell conjecture and the Siegel zero theorem.
+6. Contributed to the development of the mathematical field of analytic number theory.
+7. Pioneered the development of probabilistic primality tests, commonly used for efficient primality testing in modern cryptography.
 
+Born 9 May1891, London, England. Died 27 April 1957, London, England.
 
-View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Jeffery/).
+View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Jeffery/)

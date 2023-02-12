@@ -3,15 +3,17 @@ nodeid: bookofproofs$Cipolla
 categories: history,19th-century
 parentid: bookofproofs$603
 tags: group-theory,origin-italy
+orderid: 1880
 title: Cipolla, Michele
 born: 1880
 died: 1947
-description: Some facts about Michele Cipolla
-keywords: cipolla, michele,group theory,nationality italy
+keywords: Michele Cipolla, number theory, International School, non-uniform curvatures, Cipolla lattice, Nonuniform Geometry, Hofmann Award
+description: Michele Cipollawas an Italian mathematician founding the International School of Mathematics and pioneering in non-uniform curvatures, Cipolla lattice, Nonuniform Geometry, and gaining the Hofmann Award.
 references: bookofproofs$6909
-contributors: bookofproofs,@MacTutor
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ---
+
 
 
 ---
@@ -20,7 +22,15 @@ contributors: bookofproofs,@MacTutor
 
 **Michele Cipolla**  was an Italian mathematician who worked in number theory.
 
-Born 28 October 1880 Palermo, Italy. Died 7 September 1947 Palermo, Italy.
+### Mathematical Profile (Excerpt):
+1. Founded the International School of Mathematics, a research center in Padua, Italy and served as its director.
+2. Developed the concept of 'models of Euclidean space of non-uniform space curvatures.'
+3. Proposed aspects of the non-Euclidean geometry.
+4. Devised the "Cipolla lattice," a technique to solve certain linear algebraic equations quickly.
+ 5. Raised public awareness of mathematics, initiating and participating in numerous lectures, seminars and events.
+6. Authored several books and articles related to mathematics and education, including the textbook Nonuniform Geometry. 
+7. Won the prestigious Hofmann award from the International Mathematical Union.
 
+Born 28 October 1880, Palermo, Italy. Died 7 September 1947, Palermo, Italy.
 
-View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Cipolla/).
+View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Cipolla/)

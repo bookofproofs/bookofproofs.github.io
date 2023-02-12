@@ -7,7 +7,7 @@ title:
 description: SOLUTION OF EIGHT JOLLY GAOL BIRDS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: birds solution,eight,gaol,jolly
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

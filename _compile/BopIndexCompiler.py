@@ -146,7 +146,8 @@ class BopIndexCompiler:
             contributor_node.label = contributor
             contributor_node.parent = self._index_tree
             relevant_bop_sources = self._filter_nodes_by_lambda(lambda x: contributor in x.contributors)
-            self._add_to_index_tree_by_category(contributor_node, relevant_bop_sources)
+            relevant_bop_sources.sort(key=lambda x: x.get_plane_title())
+            self._add_to_index_tree(contributor_node, relevant_bop_sources)
 
         self._calculate_counts(self._index_tree)
         if len(distinct_contributors) > 0:
@@ -157,11 +158,41 @@ class BopIndexCompiler:
 
     def get_non_github_contributors_index(self):
         BopIndexNode.clear(self._index_tree)
+        distinct_contributors = dict()
+        sortable_contributors = list()
+        for bop_source in self._all_nodes.values():
+            for contributor in bop_source.contributors:
+                if contributor not in distinct_contributors and \
+                        contributor.startswith("@") and contributor not in BopSource.ai_contributors:
+                    # remove any html tags from contributor
+                    sortable_contributor = re.sub(r'<[^<]+?>', '', contributor, flags=re.M)
+                    distinct_contributors[sortable_contributor] = contributor
+                    sortable_contributors.append(sortable_contributor)
+
+        sortable_contributors.sort()
+        for contributor in sortable_contributors:
+            contributor_node = BopIndexNode()
+            contributor_node.label = distinct_contributors[contributor]
+            contributor_node.parent = self._index_tree
+            relevant_bop_sources = self._filter_nodes_by_lambda(
+                lambda x: distinct_contributors[contributor] in x.contributors)
+            relevant_bop_sources.sort(key=lambda x: x.get_plane_title())
+            self._add_to_index_tree(contributor_node, relevant_bop_sources)
+
+        self._calculate_counts(self._index_tree)
+        if len(distinct_contributors) > 0:
+            ret = self._get_index_to_html()
+        else:
+            ret = "(no non-Github contributors found)"
+        return ret
+
+    def get_ai_contributors_index(self):
+        BopIndexNode.clear(self._index_tree)
         distinct_contributors = list()
         for bop_source in self._all_nodes.values():
             for contributor in bop_source.contributors:
                 if contributor not in distinct_contributors and \
-                        contributor.startswith("@"):
+                        contributor.startswith("@") and contributor in BopSource.ai_contributors:
                     distinct_contributors.append(contributor)
         distinct_contributors.sort()
         for contributor in distinct_contributors:
@@ -169,13 +200,14 @@ class BopIndexCompiler:
             contributor_node.label = contributor
             contributor_node.parent = self._index_tree
             relevant_bop_sources = self._filter_nodes_by_lambda(lambda x: contributor in x.contributors)
-            self._add_to_index_tree_by_category(contributor_node, relevant_bop_sources)
+            relevant_bop_sources.sort(key=lambda x: x.get_plane_title())
+            self._add_to_index_tree(contributor_node, relevant_bop_sources)
 
         self._calculate_counts(self._index_tree)
         if len(distinct_contributors) > 0:
             ret = self._get_index_to_html()
         else:
-            ret = "(no non-Github contributors found)"
+            ret = "(no artificial intelligence contributors found)"
         return ret
 
     def get_widgets_index(self):
@@ -339,6 +371,7 @@ class BopIndexCompiler:
         issue_node.label = issue.replace("-", " ").title()
         issue_node.parent = self._index_tree
         relevant_bop_sources = self._filter_nodes_by_lambda(lambda x: issue in x.issues)
+        relevant_bop_sources.sort(key=lambda x: x.get_plane_title())
         self._add_to_index_tree(issue_node, relevant_bop_sources)
 
     def _filter_nodes_by_layout(self, layout: str):
@@ -348,7 +381,7 @@ class BopIndexCompiler:
         relevant_bop_sources = self._filter_nodes_by_lambda(lambda x: x.layout == layout)
         self._add_to_index_tree_by_category(layout_node, relevant_bop_sources)
 
-    def _add_to_index_tree(self, root_node: BopIndexNode, relevant_bop_sources:list):
+    def _add_to_index_tree(self, root_node: BopIndexNode, relevant_bop_sources: list):
         for bop_source in relevant_bop_sources:
             node = BopIndexNode()
             node.bop_source = bop_source

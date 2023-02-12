@@ -3,15 +3,17 @@ nodeid: bookofproofs$Faraday
 categories: history,18th-century
 parentid: bookofproofs$52
 tags: origin-england,physics
+orderid: 1791
 title: Faraday, Michael
 born: 1791
 died: 1867
-description: Some facts about Michael Faraday
-keywords: faraday, michael,nationality england,physics
+keywords: Michael Faraday, Physics, Electricity, Mathematics, Voltage, Magnetism, Faraday Cage
+description: Michael Faradaywas a pioneering English physicist whose electrical discoveries revolutionized the study of electricity, magnetism & mathematics.
 references: bookofproofs$6909
-contributors: bookofproofs,@MacTutor
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ---
+
 
 
 ---
@@ -20,7 +22,16 @@ contributors: bookofproofs,@MacTutor
 
 **Michael Faraday** was an English physicist whose discoveries in electricity had an enormous influence on the development of mathematics.
 
-Born 22 September 1791 Newington Butts, Surrey (now London) England. Died 25 August 1867 Hampton Court, Middlesex, England.
+### Mathematical Profile (Excerpt):
+1. Development of the concept of potential difference, or voltage, in electricity.
+2. Invention of the electric motor, which demonstrated the intimate connection between electricity and magnetism.
+3. Discovery of electromagnetic induction, which revolutionized the study of electricity and magnetism.
+4. Investigation and description of single phosphate grains as well as their behavior under the influence of electric field.
+5. Invention of the Faraday cage, which could carry out experiments without interference from external electric currents.
+6. Analysis of the laws of electrolysis—providing insights into the relationship between the mass, charge, and electrical conductance of certain substances.
+7. Discovery of the strong magneto-optic effect, which is highly important in modern magnetic recording and data storage technologies.
+8. Proposal of Faraday's law of induction, which provided new insights into the behavior of circuits under an applied voltage.
 
+Born 22 September 1791, Newington Butts, Surrey (now London) England. Died 25 August 1867, Hampton Court, Middlesex, England.
 
-View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Faraday/).
+View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Faraday/)

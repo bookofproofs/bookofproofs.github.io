@@ -7,7 +7,7 @@ title: St. George And The Dragon
 description: ST. GEORGE AND THE DRAGON &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: chess,dynamical,puzzles,solution
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title:
 description: SOLUTION OF BOARDS WITH AN ODD NUMBER OF SQUARES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: boards,number,odd,squares solution
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

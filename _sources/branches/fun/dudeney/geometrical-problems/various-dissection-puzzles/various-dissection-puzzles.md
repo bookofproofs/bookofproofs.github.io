@@ -7,7 +7,7 @@ title: Various Dissection Puzzles
 description: VARIOUS DISSECTION PUZZLES &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: dissection,puzzles,various,dissection puzzles,dissection puzzle
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: The Forty-nine Counters
 description: THE FORTY-NINE COUNTERS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: chess,puzzles,statical,solution
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

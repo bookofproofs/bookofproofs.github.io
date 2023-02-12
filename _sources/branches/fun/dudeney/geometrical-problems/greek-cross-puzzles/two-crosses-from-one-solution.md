@@ -7,7 +7,7 @@ title:
 description: SOLUTION OF TWO CROSSES FROM ONE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: crosses,one solution,two
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

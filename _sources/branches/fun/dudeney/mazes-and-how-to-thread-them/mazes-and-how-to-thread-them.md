@@ -7,7 +7,7 @@ title: Mazes and How to Thread Them
 description: MAZES AND HOW TO THREAD THEM &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: how,mazes,them,thread
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

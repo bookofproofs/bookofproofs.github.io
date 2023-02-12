@@ -1,7 +1,6 @@
 import os.path
 import re
 import html
-from github import Github
 from FileMgr import FileMgr
 from BopValidationError import BopValidationError
 
@@ -45,6 +44,7 @@ class BopSource:
     url_images = "https://github.com/bookofproofs/{0}/blob/main/_sources".format(repo_name)
     url_commits = "https://github.com/bookofproofs/{0}/commits/main/_sources".format(repo_name)
     nodeid_pattern = r"[a-z0-9]+\$[A-Za-z0-9\-\_]+"
+    ai_contributors = ["@ChatGPT"]
 
     def __init__(self, file_name: str):
         self.fm = FileMgr()
@@ -215,13 +215,21 @@ class BopSource:
         github = False
         ret_non_github = "<dt><span class='navigation'>non-Github:</span></dt><dd>"
         non_github = False
+        ret_ai = "<dt><span class='navigation'>AI:</span></dt><dd>"
+        ai = False
         for contributor in self.contributors:
-            if contributor.startswith("@"):
+            if contributor.startswith("@") and contributor not in BopSource.ai_contributors:
                 non_github = True
                 # named non-github contributor
                 if ret_non_github != "":
                     ret_non_github += "</dd><dd>"
                 ret_non_github += contributor
+            elif contributor.startswith("@") and contributor in BopSource.ai_contributors:
+                ai = True
+                # named ai contributor
+                if ret_ai != "":
+                    ret_ai += "</dd><dd>"
+                ret_ai += contributor
             else:
                 github = True
                 if ret_github != "":
@@ -237,6 +245,8 @@ class BopSource:
             ret += "</dd>" + ret_github + "<br>"
         if non_github:
             ret += "</dd>" + ret_non_github + "<br>"
+        if ai:
+            ret += "</dd>" + ret_ai + "<br>"
         return ret + "</dl>"
 
     def _get_content_related_node(self):
@@ -500,3 +510,24 @@ class BopSource:
     @staticmethod
     def script_has_python(script: str):
         return "```" in script and ".python" in script
+
+    def to_md(self):
+        ret = ""
+        ret += "layout: person\n"
+        ret += "nodeid: " + self.nodeid + "\n"
+        ret += "categories: " + ",".join(self.categories) + "\n"
+        ret += "parentid: " + self.parentid + "\n"
+        ret += "tags: " + ",".join(self.tags) + "\n"
+        ret += "orderid: " + str(self.orderid) + "\n"
+        ret += "title: " + self.title + "\n"
+        ret += "born: " + str(self.born) + "\n"
+        ret += "died: " + str(self.died) + "\n"
+        ret += "keywords: " + ",".join(self.keywords) + "\n"
+        ret += "description: " + self.description + "\n"
+        ret += "references: " + ",".join(self.references) + "\n"
+        ret += "contributors: " + ",".join(self.contributors) + "\n"
+        ret += "\n---\n\n"
+        ret += self.get_pre_body() + "\n"
+        ret += "\n---\n\n"
+        ret += self.get_body() + "\n"
+        return ret

@@ -7,7 +7,7 @@ title:
 description: SOLUTION OF THE NEW YEAR'S EVE SUPPERS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: eve,new,suppers solution,years
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

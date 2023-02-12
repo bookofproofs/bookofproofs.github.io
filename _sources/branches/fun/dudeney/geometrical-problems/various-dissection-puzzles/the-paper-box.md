@@ -7,7 +7,7 @@ title: The Paper Box
 description: THE PAPER BOX &#9733; bring your math skills to the graduate level &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: box,paper
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

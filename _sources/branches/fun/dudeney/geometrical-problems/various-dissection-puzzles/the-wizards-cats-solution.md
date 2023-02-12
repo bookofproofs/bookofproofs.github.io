@@ -7,7 +7,7 @@ title:
 description: SOLUTION OF THE WIZARD'S CATS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: cats solution,wizards
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

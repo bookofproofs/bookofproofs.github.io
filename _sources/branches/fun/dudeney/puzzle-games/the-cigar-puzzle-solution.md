@@ -7,7 +7,7 @@ title:
 description: SOLUTION OF THE CIGAR PUZZLE &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: cigar,puzzle solution,how does the cigar puzzle work,cigar cutter puzzle explained,cigar cutter puzzle how it works,how does a cigar cutter puzzle work,the cigar cutter puzzle
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

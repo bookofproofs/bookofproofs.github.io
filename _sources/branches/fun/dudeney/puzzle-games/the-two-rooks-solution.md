@@ -7,7 +7,7 @@ title:
 description: SOLUTION OF THE TWO ROOKS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: rooks solution,two
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

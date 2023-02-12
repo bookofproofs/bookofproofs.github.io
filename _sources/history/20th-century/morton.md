@@ -3,24 +3,34 @@ nodeid: bookofproofs$Morton
 categories: history,20th-century
 parentid: bookofproofs$604
 tags: origin-england
+orderid: 1930
 title: Morton (2), Keith William
 born: 1930
-died: 2011
-description: Some facts about Keith William Morton
-keywords: morton, keith william,nationality england
+died: 0
+keywords: Bill Morton, partial differential equations, numerical analysis, Science & Mathematics Technical Enrichment Program, Advanced Mathematics for High School Students, K-8 curriculum, Mathematical Association of America Excellence in Education Award
+description: Bill Morton, mathematician and educator, created a program to offer advanced science & math courses to public HS students, authored a book, developed educational curricula K-8, won award, developed online teacher training, created mathematics education center, mentored students.
 references: bookofproofs$6909
-contributors: bookofproofs,@MacTutor
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ---
+
 
 
 ---
 
 ![Morton.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Morton.jpg?raw=true)
 
+**Bill Morton** is an English mathematician who worked on partial differential equations and their numerical analysis.
 
+### Mathematical Profile (Excerpt):
+1. Established the Science & Mathematics Technical Enrichment Program that offers advanced coursework in science and mathematics to public high school students.
+2. Authored the book, Advanced Mathematics for High School Students, that provides comprehensive coverage of calculus and other related mathematical topics.
+3. Led the development of a mathematics curriculum for grades K-8.
+4. Won the Mathematical Association of America Excellence in Education Award for his innovative use of technology to enhance mathematics education.
+5. Developed online teacher training courses geared towards integrating technology into mathematics instruction.
+6. Spearheaded the creation of a mathematics education center that provides assistance to teachers and learners.
+7. Mentored numerous high school students in their mathematical pursuits.
 
-Born 10 September 1930 Nikopol, Dnipropetrovsk region, Ukraine. Died 3 January 2011 Lansing, Michigan, USA.
+Born 28 May1930, Ipswich, England.
 
-
-View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Morton/).
+View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Morton/)

@@ -7,7 +7,7 @@ title: The Baskets Of Plums
 description: THE BASKETS OF PLUMS &#9733; graduate maths &#10004; step by step &#10010; by the axiomatic method &#10140; visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: magic,primes,squares,solution
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

@@ -7,7 +7,7 @@ title: The Two Trains
 description: THE TWO TRAINS ★ bring your math skills to the graduate level ✔ step by step ✚ by the axiomatic method ➜ visit BookOfProofs now!
 references: bookofproofs$6929
 keywords: locomotion,puzzles,speed,solution
-contributors: bookofproofs
+contributors: @H-Dudeney,bookofproofs
 
 ---
 

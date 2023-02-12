@@ -19,7 +19,7 @@ bookofproofs$6925 | bookofproofs$6917 | **Lawrence Lo.**: <a href='https://www.a
 bookofproofs$6925 | bookofproofs$6918 | **Einstein, A.**: <a href='https://www.fourmilab.ch/etexts/einstein/specrel/specrel.pdf'>On the Electrodynamics of Moving Bodies, 1905</a>  
 bookofproofs$6924 | bookofproofs$6907 | **Brenner, Prof. Dr. rer. nat., Holger**: <a href='https://de.wikiversity.org/wiki/Wikiversity:Hochschulprogramm'>Various courses at the University of Osnabrück</a> 
 bookofproofs$6924 | bookofproofs$6908 | **Prime.mover and others**: "Pr∞fWiki", https://proofwiki.org/wiki/Main_Page, 2016
-bookofproofs$6926 | bookofproofs$6927 | **Carmichael, Robert**: "Diophantine Analysis", Jon Wiley 	&#38; Sons, Inc., 1915, 1st Edition
+bookofproofs$6926 | bookofproofs$6927 | **Carmichael, Robert**: "Diophantine Analysis", Jon Wiley &#38; Sons, Inc., 1915, 1st Edition
 bookofproofs$6926 | bookofproofs$6928 | **Hardy, G.H.**: "A Course of Pure Mathematics", Cambridge at the University Press, 1921, 3rd Edition
 bookofproofs$6926 | bookofproofs$6929 | **Dudeney, H. E.**: "Amusements in Mathematics", The Authors' Club, 1917
 bookofproofs$6925 | bookofproofs$8240 | **Acheson, David**: "Die Calculus-Story", Anaconda, 2018
