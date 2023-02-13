@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Thom
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal
+tags: prize-fields-medal
 orderid: 1923
 title: Thom (2), René
 born: 1923

@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Contributed to many reports about mathematics and its role in education including the Practising Mathematics in the Primary School Report in 2009. 
 8. Authored numerous publications such as Number Through the Ages and Mathematics Explained.
 
-Born 18 May1946, London, England.
+Born 18 May 1946, London, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Hoyles/)

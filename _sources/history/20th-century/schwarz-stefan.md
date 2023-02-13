@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Researched into the relationship between conformal mappings, meromorphic functions and the theory of linear systems, leading to the establishment of a constructive approach to conformal representation of surfaces by piecewise regular functions.
 7. Developed theories on the invariants of certain integro-differential equations which have applications in mathematical physics.
 
-Born 18 May1914, Nové Mesto nad Váhom, Austria-Hungarian Empire (now Slovakia). Died 6 December 1996, Bratislava, Slovak Republic.
+Born 18 May 1914, Nové Mesto nad Váhom, Austria-Hungarian Empire (now Slovakia). Died 6 December 1996, Bratislava, Slovak Republic.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Schwarz_Stefan/)

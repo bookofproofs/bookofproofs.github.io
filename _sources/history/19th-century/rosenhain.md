@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Established the method of least squares for approximating solutions of polynomial equations.
 10. Brought the study of skew surfaces to a new level by determining their shapes in terms of differential equations.
 
-Born 10 June 1816, Königsberg, Prussia (now Kaliningrad, Russia). Died 14 May1887, Berlin, Germany.
+Born 10 June 1816, Königsberg, Prussia (now Kaliningrad, Russia). Died 14 May 1887, Berlin, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Rosenhain/)

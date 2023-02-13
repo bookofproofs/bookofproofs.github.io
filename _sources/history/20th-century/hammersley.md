@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Conducted numerical methods which enabled better understanding of surface tension and other molecular phenomena.
 8. Explored the potential of Boolean networks and their ability to represent and simulate physical processes.
 
-Born 21 March 1920, Helensburgh, Dunbartonshire, Scotland. Died 2 May2004, Oxford, England.
+Born 21 March 1920, Helensburgh, Dunbartonshire, Scotland. Died 2 May 2004, Oxford, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Hammersley/)

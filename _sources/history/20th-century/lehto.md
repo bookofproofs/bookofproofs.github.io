@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Was honored with the Wolf Prize in Mathematics in 2006.
 10. Was awarded the Order of the White Rose of Finland in 2009.
 
-Born 30 May1925, Helsinki, Finland. Died 31 December 2020, Helsinki, Finland.
+Born 30 May 1925, Helsinki, Finland. Died 31 December 2020, Helsinki, Finland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Lehto/)

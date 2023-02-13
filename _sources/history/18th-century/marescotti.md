@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Co-authored the celebrated 18th century textbook on calculus, "The Elements of Calculus." 
 10. Developed a compact analytical treatment of the principles of higher-order derivatives that still serves as a foundation for advanced mathematics.
 
-Born 1 September 1768, Modena, Duchy of Modena and Reggio (now Italy). Died 7 May1842, Modena, Duchy of Modena and Reggio (now Italy).
+Born 1 September 1768, Modena, Duchy of Modena and Reggio (now Italy). Died 7 May 1842, Modena, Duchy of Modena and Reggio (now Italy).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Marescotti/)

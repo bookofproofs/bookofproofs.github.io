@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Developed the field of applied mathematical analysis.
 9. Received the Mathematical Association of America's Gungoll-Morgan-Smith Awards for Excellence in Teaching.
 
-Born 20 August 1923, Helper, Carbon County, Utah, USA. Died 8 May2016, Pasadena, California, USA.
+Born 20 August 1923, Helper, Carbon County, Utah, USA. Died 8 May 2016, Pasadena, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Apostol/)

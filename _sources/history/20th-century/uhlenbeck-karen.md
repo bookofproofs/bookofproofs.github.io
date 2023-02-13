@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Uhlenbeck_Karen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,origin-usa,women
+tags: prize-abel,origin-usa,women
 orderid: 1942
 title: Uhlenbeck (2), Karen
 born: 1942

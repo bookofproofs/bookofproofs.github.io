@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lions
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal
+tags: prize-fields-medal
 orderid: 1956
 title: Lions (2), Pierre-Louis
 born: 1956

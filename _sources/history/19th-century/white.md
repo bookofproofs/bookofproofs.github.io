@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Proved a theorem about the derivation of closed forms for a variety of equations, now known as White's Theorem.
 7. Generated a method of estimating the number of prime numbers less than any given number, earning him recognition.
 
-Born 20 May1861, Cazenovia, New York, USA. Died 20 May1943, Poughkeepsie, New York, USA.
+Born 20 May 1861, Cazenovia, New York, USA. Died 20 May 1943, Poughkeepsie, New York, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/White/)

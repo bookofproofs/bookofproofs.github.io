@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. He introduced an algebraic equation that is known as the Suzuki equation. 
 10. He developed an integral formula for certain Hurwitz zeta functions.
 
-Born 2 October 1926, Chiba, Japan. Died 31 May1998, Mitaka, Japan.
+Born 2 October 1926, Chiba, Japan. Died 31 May 1998, Mitaka, Japan.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Suzuki_Michio/)

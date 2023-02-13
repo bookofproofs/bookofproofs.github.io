@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nirenberg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,origin-canada
+tags: prize-abel,origin-canada
 orderid: 1925
 title: Nirenberg, Louis
 born: 1925

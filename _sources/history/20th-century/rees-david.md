@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Won the Lester R. Ford Award presented by the Mathematical Association of America in 2002. 
 8. Involved in the creation of the National Math Trail in 2006, a project that charts the history of mathematics in the United States.
 
-Born 29 May1918, Abergavenny, Monmouthshire, Wales. Died 16 August 2013, Exeter, England.
+Born 29 May 1918, Abergavenny, Monmouthshire, Wales. Died 16 August 2013, Exeter, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Rees_David/)

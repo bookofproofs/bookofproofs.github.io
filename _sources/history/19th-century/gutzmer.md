@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Pioneered the use of electron microscopy as a technique in materials characterization.
 8. Developed a theory of dislocation motion in crystalline media.
 
-Born 2 February 1860, Neu-Roddahn, near Neustadt an der Dosse, Prussia (now Germany). Died 10 May1924, Halle, Germany.
+Born 2 February 1860, Neu-Roddahn, near Neustadt an der Dosse, Prussia (now Germany). Died 10 May 1924, Halle, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Gutzmer/)

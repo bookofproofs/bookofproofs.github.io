@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Developed the concept of twisted K–theory with Friedhelm Waldhausen in 1981.
 8. Co-invented the “Baum-Connes Conjecture” (a famous problem in topology and K–theory), with Alain Connes in 1998.
 
-Born 12 May1939, Krefeld, Germany. Died 9 January 2012, Aachen, Germany.
+Born 12 May 1939, Krefeld, Germany. Died 9 January 2012, Aachen, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Pahlings/)

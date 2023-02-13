@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Successfully lobbied for the establishment of the Institute for Mathematics in 1961
 10. Established the Boyle Prize for outstanding contributions to mathematical research in 1964
 
-Born 5 May1905, Kirkden Manse, Angus, Scotland. Died 11 September 1995, Edinburgh, Scotland.
+Born 5 May 1905, Kirkden Manse, Angus, Scotland. Died 11 September 1995, Edinburgh, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Boyle_Margaret/)

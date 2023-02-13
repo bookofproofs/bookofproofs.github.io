@@ -235,43 +235,130 @@ class BopIndexCompiler:
         self._calculate_counts(self._index_tree)
         return self._get_index_to_html()
 
-    def get_person_index(self):
+    def get_person_index_by_name(self):
+        BopIndexNode.clear(self._index_tree)
+        persons_remaining_set = self._calculate_remaining_persons_set()
+        labels = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S",
+                  "T", "U", "V", "W", "X", "Y", "Z"]
+        for label in labels:
+            sub_node = BopIndexNode()
+            sub_node.label = label
+            sub_node.parent = self._index_tree
+            sources = self._filter_nodes_by_lambda(
+                lambda x: x.title.startswith(label) and x.layout == BopLayouts.person)
+            sources.sort(key=lambda x: x.get_plane_title().split("-")[0])
+            self._add_to_index_tree(sub_node, sources)
+            for bop_source in sources:
+                persons_remaining_set.remove(bop_source.nodeid)
+        self._add_unknown_node(persons_remaining_set, label="Other")
+        self._calculate_counts(self._index_tree)
+        return self._get_index_to_html()
+
+    def _calculate_remaining_persons_set(self):
         all_persons = self._validator.get_all_persons()
-        index = "This index is not available yet. Please try again later"
-        """
-        content = ""
-        for person in all_persons:
-            content += all_persons[person] + "|" + person + "\n"
-            if not all_persons[person].endswith("/"):
-                raise AssertionError(all_persons[person])
-        with open("../scrap/names.txt", "w", encoding="utf8") as fp:
-            fp.write(content)
-        all_persons_names = list(all_persons.keys())
-        all_persons_names.sort()
-        index = "<dl>"
-        for person in all_persons_names:
-            relevant_nodes = self._filter_nodes_by_lambda(lambda x: x.content_contains(all_persons[person]))
-            person_hyperlink = all_persons[person]
-            if person_hyperlink.endswith("/"):
-                person_hyperlink = person_hyperlink[0:-1]
-            jpeg_name = person_hyperlink.split("/")[-1] + ".jpeg"
-            index += "<dt><img src='{0}' alt='' width='50'> ".format(all_persons[person] + jpeg_name)
-            index += person + "</dt>"
-            link_counter = 0
-            if len(relevant_nodes) > 0:
-                index += "<dd>"
-                for bop_source in relevant_nodes:
-                    link_counter += 1
-                    if link_counter <= 100:
-                        index += "<a href='{0}' title='{1}'>{2}</a> ".format(bop_source.url(),
-                                                                             bop_source.get_title_for_anchor(),
-                                                                             link_counter)
-                if link_counter > 100:
-                    index += "... (" + str(link_counter - 100) + " more)"
-                index += "</dd>\n"
-        index += "</dl>\n"
-        """
-        return index
+        persons_remaining_set = set()
+        for bop_person in all_persons.values():
+            if bop_person.nodeid not in persons_remaining_set:
+                persons_remaining_set.add(bop_person.nodeid)
+        return persons_remaining_set
+
+    def get_person_index_by_birth_year(self):
+        BopIndexNode.clear(self._index_tree)
+        persons_remaining_set = self._calculate_remaining_persons_set()
+        labels = ["Ancient World", "Late Ancient World", "Early Middle Ages",
+                  "1000 - 1099", "1100 - 1199", "1200 - 1299", "1300 - 1399", "1400 - 1499",
+                  "1500 - 1599", "1600 - 1699", "1700 - 1799", "1800 - 1899", "1900 - 1999"]
+        pattern = re.compile(r"(\d{4})\s*\-\s*(\d{4})")
+        for label in labels:
+            sub_node = BopIndexNode()
+            sub_node.label = label
+            sub_node.parent = self._index_tree
+            if label == "Ancient World":
+                for year in range(-4000, 0):
+                    sources = self._filter_nodes_by_lambda(
+                        lambda x: x.layout == BopLayouts.person and x.born == year)
+                    self._get_subnode_person_index(sources, year, sub_node, persons_remaining_set)
+            elif label == "Late Ancient World":
+                for year in range(1, 500):
+                    sources = self._filter_nodes_by_lambda(
+                        lambda x: x.layout == BopLayouts.person and x.born == year)
+                    self._get_subnode_person_index(sources, year, sub_node, persons_remaining_set)
+            elif label == "Early Middle Ages":
+                for year in range(500, 999):
+                    sources = self._filter_nodes_by_lambda(
+                        lambda x: x.layout == BopLayouts.person and x.born == year)
+                    self._get_subnode_person_index(sources, year, sub_node, persons_remaining_set)
+            elif re.match(pattern, label):
+                year_lower_bound = 0
+                year_upper_bound = 0
+                for match in pattern.finditer(label):
+                    year_lower_bound = int(match.group(1))
+                    year_upper_bound = int(match.group(2))
+                    break
+                for year in range(year_lower_bound, year_upper_bound + 1):
+                    sources = self._filter_nodes_by_lambda(
+                        lambda x: x.layout == BopLayouts.person and x.born == year)
+                    self._get_subnode_person_index(sources, year, sub_node, persons_remaining_set)
+        self._add_unknown_node(persons_remaining_set)
+        self._calculate_counts(self._index_tree)
+        return self._get_index_to_html()
+
+    def _add_unknown_node(self, persons_remaining_set: set, label="Unknown"):
+        if len(persons_remaining_set) > 0:
+            sources = list()
+            for nodeid in persons_remaining_set:
+                sources.append(self._validator.get_nodes()[nodeid])
+            sub_sub_node = BopIndexNode()
+            sub_sub_node.label = label
+            sub_sub_node.parent = self._index_tree
+            sources.sort(key=lambda x: x.get_plane_title().split("-")[0])
+            self._add_to_index_tree(sub_sub_node, sources)
+
+    def _get_subnode_person_index(self, sources: list, year: int, sub_node: BopIndexNode,
+                                  persons_remaining_set: set):
+        if len(sources) > 0:
+            sub_sub_node = BopIndexNode()
+            sub_sub_node.label = str(abs(year))
+            sub_sub_node.parent = sub_node
+            if year < 0:
+                sub_sub_node.label += " BC"
+            sources.sort(key=lambda x: x.get_plane_title().split("-")[0])
+            self._add_to_index_tree(sub_sub_node, sources)
+            for bop_source in sources:
+                persons_remaining_set.remove(bop_source.nodeid)
+
+    def get_person_index_by_tag(self):
+        BopIndexNode.clear(self._index_tree)
+        distinct_tags = list()
+        all_persons = self._validator.get_all_persons()
+        for person in all_persons.values():
+            for tag in person.tags:
+                if tag not in distinct_tags:
+                    distinct_tags.append(tag)
+        distinct_tags.sort()
+        first_in_between_node = {"origin": None, "prize": None, "ancient": None}
+        for tag in distinct_tags:
+            in_between_tag_found = False
+            for ibt in first_in_between_node:
+                if tag.startswith(ibt + "-"):
+                    in_between_tag_found = True
+                    if first_in_between_node[ibt] is None:
+                        sub_node = BopIndexNode()
+                        sub_node.parent = self._index_tree
+                        sub_node.label = ibt.title()
+                        first_in_between_node[ibt] = sub_node
+                    sub_node = BopIndexNode()
+                    sub_node.parent = first_in_between_node[ibt]
+                    sub_node.label = tag[len(ibt) + 1:].replace("-", " ").title()
+            if not in_between_tag_found:
+                sub_node = BopIndexNode()
+                sub_node.parent = self._index_tree
+                sub_node.label = tag.replace("-", " ").title()
+            sources = self._filter_nodes_by_lambda(lambda x: x.layout == BopLayouts.person and tag in x.tags)
+            sources.sort(key=lambda x: x.get_plane_title().split("-")[0])
+            self._add_to_index_tree(sub_node, sources)
+        self._calculate_counts(self._index_tree)
+        return self._get_index_to_html()
 
     def get_keywords_index(self):
         # gather all keyword-defining nodes
@@ -290,7 +377,7 @@ class BopIndexCompiler:
                     keyword_defining_nodes[keyword] = list()
                 keyword_defining_nodes[keyword].append(bop_source)
                 keyword_defining_nodesids.add(bop_source.nodeid)
-        # create keyword-referencing and keyword-containing nodes
+        # calculate keyword-referencing and keyword-containing nodes
         keyword_referencing_nodes = dict()
         keyword_containing_nodes = dict()
 

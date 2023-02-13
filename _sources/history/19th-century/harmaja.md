@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Authored over 100 mathematical research papers and journals.
 10. Created the Harmaja-Larson algorithm for studying random graphs.
 
-Born 28 June 1880, Juva, Finland. Died 7 May1949, Helsinki, Finland.
+Born 28 June 1880, Juva, Finland. Died 7 May 1949, Helsinki, Finland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Harmaja/)

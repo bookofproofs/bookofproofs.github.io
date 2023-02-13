@@ -4,7 +4,7 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: origin-england
 orderid: 1896
-title: Wilson (4), Bertram
+title: Wilson (5), Bertram
 born: 1896
 died: 1935
 keywords: Bertram Wilson, Cambridge, Liverpool, Dundee, Oxford, matrix algebra, tensor calculus, Introduction to Mathematical Analysis, quantum computing

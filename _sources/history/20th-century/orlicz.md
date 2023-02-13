@@ -32,6 +32,6 @@ contributors: @Lech-Maligranda,bookofproofs,@ChatGPT
 7. Developed the field of Banach space theory and proved the existence of sets of measurable functions that are not absolutely continuous.
 8. Found a general solution to the Goursat problem using a combination of linear and non-linear differential equations.
 
-Born 24 May1903, Okocim, Galicia, Austria-Hungary (now Poland). Died 9 August 1990, Poznań, Poland.
+Born 24 May 1903, Okocim, Galicia, Austria-Hungary (now Poland). Died 9 August 1990, Poznań, Poland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Orlicz/)

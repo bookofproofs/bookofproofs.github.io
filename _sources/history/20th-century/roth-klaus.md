@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Roth_Klaus
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-poland
+tags: prize-fields-medal,origin-poland
 orderid: 1925
 title: Roth (2), Klaus
 born: 1925

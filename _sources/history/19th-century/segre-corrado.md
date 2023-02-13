@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. He played a central role in the founding of the Italian school of algebraic geometry.
 8. His work on the theory of Galois algebras established connections between number theory and projective geometry.
 
-Born 20 August 1863, Saluzzo, Italy. Died 18 May1924, Turin, Italy.
+Born 20 August 1863, Saluzzo, Italy. Died 18 May 1924, Turin, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Segre_Corrado/)

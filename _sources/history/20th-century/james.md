@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Made significant advancements in computational fluid dynamics, leading to new insights into the physics of turbulent flow.
 8. Published extensively on mathematical topics, including a number of influential books on numerical analysis and dynamical systems.
 
-Born 23 May1928, Croydon, Surrey, England.
+Born 23 May 1928, Croydon, Surrey, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/James/)

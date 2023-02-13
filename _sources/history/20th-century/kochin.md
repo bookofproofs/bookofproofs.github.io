@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Proposed a non-Eulerian expression for the Navier-Stokes equation. 
 8. Showed that the class of initial-boundary problems for linear parabolic equations has the same well-posedness as the Cauchy initial-value problem.
 
-Born 6 May1901, St Petersburg, Russia. Died 31 December 1944, Moscow, USSR.
+Born 6 May 1901, St Petersburg, Russia. Died 31 December 1944, Moscow, USSR.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kochin/)

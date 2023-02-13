@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Graduate of Harvard University with a Bachelor of Arts in mathematics in 2002. 
 7. Appointed to a Visiting Assistant Professor position at Indiana University in 2007.
 
-Born 29 March 1893, Smyrna, (now Izmir) Turkey. Died 11 May1965, Cleveland, Ohio, USA.
+Born 29 March 1893, Smyrna, (now Izmir) Turkey. Died 11 May 1965, Cleveland, Ohio, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Nassau/)

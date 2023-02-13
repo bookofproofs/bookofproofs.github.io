@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Siegel
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: origin-germany,wolf-prize
+tags: origin-germany,prize-wolf
 orderid: 1896
 title: Siegel, Carl Ludwig
 born: 1896

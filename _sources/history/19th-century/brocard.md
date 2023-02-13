@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Published a paper on the number of intersecting points when two circles are inscribed in a square.
 8. Investigated a problem involving tangents to circles known as  "Brocard’s problem of four circles”.
 
-Born 12 May1845, Vignot (part of Commercy), France. Died 16 January 1922, Bar-le-Duc, France.
+Born 12 May 1845, Vignot (part of Commercy), France. Died 16 January 1922, Bar-le-Duc, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Brocard/)

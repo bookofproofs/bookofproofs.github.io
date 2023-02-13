@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Developed a method for calculating an ellipse’s long axis from the length of its minor axis.
 8. Introduced the notion of a curved space and proposed curvature as a function of distance.
 
-Born 11 October 1675, Norwich, England. Died 17 May1729, London, England.
+Born 11 October 1675, Norwich, England. Died 17 May 1729, London, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Clarke/)

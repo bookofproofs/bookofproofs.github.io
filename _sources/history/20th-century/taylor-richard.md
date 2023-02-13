@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Taylor_Richard
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: clay-research-award,origin-england,shaw-prize
+tags: prize-clay-research-award,origin-england,prize-shaw
 orderid: 1962
 title: Taylor (6), Richard
 born: 1962
@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Named a Fellow of the Royal Society of London for his contributions to mathematics. 
 9. Received the Society of Industrial and Applied Mathematics (SIAM) John von Neumann Award for his lifetime achievements.
 
-Born 19 May1962, Cambridge, England.
+Born 19 May 1962, Cambridge, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Taylor_Richard/)

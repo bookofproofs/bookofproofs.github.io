@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Pioneered the use of algebraic curves in cryptography.
 8. Invented the Kahn-machine, a mechanical calculator that solves linear equations.
 
-Born 13 May1926, Nuremberg, Bayern, Germany. Died 8 February 1998, Bourne End, Buckinghamshire, England.
+Born 13 May 1926, Nuremberg, Bayern, Germany. Died 8 February 1998, Bourne End, Buckinghamshire, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kahn/)

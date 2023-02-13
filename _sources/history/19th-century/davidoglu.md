@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Established several theorems which provided the basis for modern algebraic number theory, including the Lagrange theorem of integers and the prime ideal theorem. 
 10. Formulated a generalization of Cauchy's theorem which stated that any continuous function f on a compact set K must be the restriction of a single analytic function F.
 
-Born 30 June 1876, Bârlad, Vaslui County, Romania. Died 27 May1958, Bucharest, Romania.
+Born 30 June 1876, Bârlad, Vaslui County, Romania. Died 27 May 1958, Bucharest, Romania.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Davidoglu/)

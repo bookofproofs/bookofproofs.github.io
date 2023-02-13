@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Appointed Fellow of the Royal Society in 1954 
 7. Was a professor at University College London from 1934 to 1960.
 
-Born 29 May1882, Manchester, England. Died 21 January 1946, Pasadena, California, USA.
+Born 29 May 1882, Manchester, England. Died 21 January 1946, Pasadena, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Bateman/)

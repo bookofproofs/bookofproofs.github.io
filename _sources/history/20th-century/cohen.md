@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cohen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-usa
+tags: prize-fields-medal,origin-usa
 orderid: 1934
 title: Cohen (2), Jacob Willem
 born: 1934

@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Rahn also produced books on logarithms, trigonometry and other mathematical topics. 
 8. He worked to improve navigation computations by introducing a new way to calculate the variation of the compass.
 
-Born 10 March 1622, Zürich, Switzerland. Died 25 May1676, Zürich, Switzerland.
+Born 10 March 1622, Zürich, Switzerland. Died 25 May 1676, Zürich, Switzerland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Rahn/)

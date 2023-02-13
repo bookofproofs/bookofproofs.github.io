@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Authored numerous papers in the Proceedings of the Indian Academy of Sciences and the Journal of the Indian Mathematical Society. 
 6. Recommended for the Indian Mathematical Society's gold medal in 1951 for his work on linear integral equations.
 
-Born 13 November 1920, Hyderabad, India. Died 10 May1992, Bombay, (now Mumbai) India.
+Born 13 November 1920, Hyderabad, India. Died 10 May 1992, Bombay, (now Mumbai) India.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Ramanathan/)

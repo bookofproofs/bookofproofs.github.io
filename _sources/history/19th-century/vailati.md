@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed a modern concept of probability theory and its applications.
 10. Contributed to mathematical theories of algebraic equations and equations with several unknowns.
 
-Born 24 April 1863, Crema, Italy. Died 14 May1909, Rome, Italy.
+Born 24 April 1863, Crema, Italy. Died 14 May 1909, Rome, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Vailati/)

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chandrasekhar
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,origin-pakistan,nobel-prize,physics
+tags: astronomy,origin-pakistan,prize-nobel,physics
 orderid: 1910
 title: Chandrasekhar, Subrahmanyan
 born: 1910

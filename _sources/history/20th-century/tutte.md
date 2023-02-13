@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Pioneered the use of computers to study graphs, paving the way for our current understanding of networks.
 8. Introduced Tutte polynomials, which are widely used in graph theory, knot theory, and computer science.
 
-Born 14 May1917, Newmarket, Suffolk, England. Died 2 May2002, Waterloo, Canada.
+Born 14 May 1917, Newmarket, Suffolk, England. Died 2 May 2002, Waterloo, Canada.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Tutte/)

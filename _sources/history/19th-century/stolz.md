@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. He provided the first proof of Cauchy's convergence theorem in analytic number theory.
 7. He developed Stolz theorem, a form of the second mean value theorem in real analysis.
 
-Born 3 May1842, Hall (now Solbad Hall in Tirol), Austria. Died 25 October 1905, Innsbruck, Austria.
+Born 3 May 1842, Hall (now Solbad Hall in Tirol), Austria. Died 25 October 1905, Innsbruck, Austria.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Stolz/)

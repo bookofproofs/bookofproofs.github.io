@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Established the Birch and Swinnerton-Dyer Conjecture.
 10. Pioneered the use of functional analysis in number theory.
 
-Born 7 May1921, Aalborg, Denmark. Died 3 September 1996, Copenhagen, Denmark.
+Born 7 May 1921, Aalborg, Denmark. Died 3 September 1996, Copenhagen, Denmark.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Christiansen/)

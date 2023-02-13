@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Perelman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-russia
+tags: prize-fields-medal,origin-russia
 orderid: 1966
 title: Perelman, Grigori Yakovlevich
 born: 1966

@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Developed a function to integrate elements of abstract linear spaces. 
 7. Proved the theorem in bounded linear groups on sphere pairs.
 
-Born 29 May1893, Lany, Bohemia (now Czech Republic). Died 8 January 1968, Stanford, California, USA.
+Born 29 May 1893, Lany, Bohemia (now Czech Republic). Died 8 January 1968, Stanford, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Loewner/)

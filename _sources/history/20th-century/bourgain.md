@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bourgain
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-belgium,shaw-prize
+tags: prize-fields-medal,origin-belgium,prize-shaw
 orderid: 1954
 title: Bourgain, Jean
 born: 1954

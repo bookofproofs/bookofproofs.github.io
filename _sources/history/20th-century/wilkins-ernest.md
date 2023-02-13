@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Received honorary doctorate degrees from numerous universities, including Columbia University and Howard University.
 8. Was made a fellow of the American Academy of Arts and Sciences in 1978, becoming the first African-American to be so honored.
 
-Born 27 November 1923, Chicago, Illinois, USA. Died 1 May2011, Fountain Hills, Arizona, USA.
+Born 27 November 1923, Chicago, Illinois, USA. Died 1 May 2011, Fountain Hills, Arizona, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Wilkins_Ernest/)

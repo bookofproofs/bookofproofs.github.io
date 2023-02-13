@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Douglas
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: fields-medal,group-theory,origin-usa
+tags: prize-fields-medal,group-theory,origin-usa
 orderid: 1897
 title: Douglas, Jesse
 born: 1897

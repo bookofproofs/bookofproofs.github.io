@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Arnold
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-ukraine,shaw-prize,wolf-prize
+tags: origin-ukraine,prize-shaw,prize-wolf
 orderid: 1937
 title: Arnold, Vladimir Igorevich
 born: 1937

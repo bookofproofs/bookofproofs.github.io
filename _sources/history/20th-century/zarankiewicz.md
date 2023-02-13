@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Discovered a theorem of combinatorics in 1938 that went on to become known as the Zarankiewicz–Rado Theorem.
 10. Established a theorem on the symmetric difference in graphs in 1934 which was later referred to as the Zarankiewicz–Tutte Theorem.
 
-Born 2 May1902, Częstochowa, Russian Empire (now Poland). Died 5 September 1959, London, England.
+Born 2 May 1902, Częstochowa, Russian Empire (now Poland). Died 5 September 1959, London, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Zarankiewicz/)

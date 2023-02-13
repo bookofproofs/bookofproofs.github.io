@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Demonstrated the triple-locus construction (showing how the intersection of three spheres is a circle with a center at their common intersection).
 8. Explored theology and metaphysical issues through logic.
 
-Born 4 May1845, Exeter, Devon, England. Died 3 March 1879, Madeira Islands, Portugal.
+Born 4 May 1845, Exeter, Devon, England. Died 3 March 1879, Madeira Islands, Portugal.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Clifford/)

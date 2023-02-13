@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Wrote several textbooks and textbooks on mathematics, including the popular volumes College Geometry and Higher Algebra.
 8. Hosted mathematics conferences and created a major international forum for the advancement of mathematics teaching and research.
 
-Born 26 May1885, Kinghorn, Fife, Scotland. Died 16 December 1946, Radcliffe Infirmary, Oxford.
+Born 26 May 1885, Kinghorn, Fife, Scotland. Died 16 December 1946, Radcliffe Infirmary, Oxford.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Coutts/)

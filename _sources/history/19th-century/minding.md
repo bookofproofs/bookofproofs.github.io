@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Proved the Reciprocity Theorem.
 10. Developed the concept of a group and symmetry of a group.
 
-Born 23 January 1806, Kalisz, Russian Empire (now Poland). Died 3 May1885, Dorpat, Russia (now Tartu, Estonia).
+Born 23 January 1806, Kalisz, Russian Empire (now Poland). Died 3 May 1885, Dorpat, Russia (now Tartu, Estonia).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Minding/)

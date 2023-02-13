@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Established important contributions to the advancement of mathematical reasoning, utilizing it to explain physical phenomena in the universe.
 7. Propounded the classical definition of kinetic energy and developed an exact analogy between heat and electricity.
 
-Born 24 May1794, Lancaster, Lancashire, England. Died 6 March 1866, Cambridge, England.
+Born 24 May 1794, Lancaster, Lancashire, England. Died 6 March 1866, Cambridge, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Whewell/)

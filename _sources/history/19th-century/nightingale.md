@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@Suzanne-Davidson,bookofproofs,@ChatG
 6. Developed a system for assessing hospital hygiene and recorded data to track progress.
 7. Introduced statistical methods to hospital settings such as averages, measures of frequency and displacement.
 
-Born 12 May1820, Florence (now Italy). Died 13 August 1910, East Wellow, England.
+Born 12 May 1820, Florence (now Italy). Died 13 August 1910, East Wellow, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Nightingale/)

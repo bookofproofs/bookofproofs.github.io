@@ -4,7 +4,7 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: astronomy,knot-theory,origin-ireland,physics
 orderid: 1824
-title: Kelvin), William Thomson (Lord
+title: Thomson (2), William (Lord Kelvin)
 born: 1824
 died: 1907
 keywords: Lord Kelvin, Natural Philosophy, Physics, Trans-Atlantic Telegraph Cable, Vector Analysis, Thermodynamics, Maxwell's Equations

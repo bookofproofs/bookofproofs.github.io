@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Created the so-called Euwe Transposition Theorem for chess board evaluations
 8. Developed the very first adequate computer chess program called Mephisto Amsterdam in 1982
 
-Born 20 May1901, Watergraafsmeer, near Amsterdam, Netherlands. Died 26 November 1981, Amsterdam, Holland.
+Born 20 May 1901, Watergraafsmeer, near Amsterdam, Netherlands. Died 26 November 1981, Amsterdam, Holland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Euwe/)

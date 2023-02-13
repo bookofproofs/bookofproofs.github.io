@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Introduced the use of tables for the calculation of mathematical values.
 7. Investigated the connections between mathematics and music, creating works such as the Treatise of Geometric Harmony in 1751.
 
-Born 16 February 1908, Castelfranco Veneto, Italy. Died 29 May1978, Florence, Italy.
+Born 16 February 1908, Castelfranco Veneto, Italy. Died 29 May 1978, Florence, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Righini/)

@@ -36,6 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Elected as a Fellow of the Royal Society of London in 1808.
 6. Appointed as the Director of Studies at the University of Pavia in 1817.
 
-Born 13 May1750, Bergamo, Lombardo-Veneto (now Italy). Died 14 July 1800, Paris, France.
+Born 13 May 1750, Bergamo, Lombardo-Veneto (now Italy). Died 14 July 1800, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Mascheroni/)

@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Emeritus faculty member of the American Mathematical Society and a Fellow of the American Association for the Advancement of Science.
 8. Served as president of the Mathematical Association of America from 1946 to 1947.
 
-Born 21 July 1861, Watkins, New York, USA. Died 21 May1937, Chicago, Illinois, USA.
+Born 21 July 1861, Watkins, New York, USA. Died 21 May 1937, Chicago, Illinois, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Slaught/)

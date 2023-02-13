@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. He authored a book on the theory of process management and applied it to the development of random sampling techniques.
 7. He developed analytical solutions to a number of difficult problems in the area of stochastic processes.
 
-Born 4 May1888, Dundee, Scotland. Died 30 March 1930, At sea, 65, miles south-east of Colombo.
+Born 4 May 1888, Dundee, Scotland. Died 30 March 1930, At sea, 65, miles south-east of Colombo.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Butchart/)

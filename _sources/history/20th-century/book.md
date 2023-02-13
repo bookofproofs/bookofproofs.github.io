@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Served as an advisor and mentor to many aspiring mathematics teachers.
 10. Led the preparation of the National Mathematics Examination for over a decade.
 
-Born 5 March 1937, Los Angeles, California, USA. Died 28 May1997, Santa Barbara, California, USA.
+Born 5 March 1937, Los Angeles, California, USA. Died 28 May 1997, Santa Barbara, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Book/)

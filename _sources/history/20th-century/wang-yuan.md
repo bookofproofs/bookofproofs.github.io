@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Popularized the use of the decimal system in decimal fractions.
 10. Wrote an authoritative treatise on the history of Chinese mathematics.
 
-Born 29 April 1930, Lanxi, Zhejiang province, China. Died 14 May2021, Beijing, China.
+Born 29 April 1930, Lanxi, Zhejiang province, China. Died 14 May 2021, Beijing, China.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Wang_Yuan/)

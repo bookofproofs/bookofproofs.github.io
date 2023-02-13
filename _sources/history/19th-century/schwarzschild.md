@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. He was the first to accurately calculate the size of the black hole at the center of the Milky Way galaxy. 
 8. He also made contributions to the mathematical foundations of theory of stellar structure and evolution.
 
-Born 9 October 1873, Frankfurt am Main, Germany. Died 11 May1916, Potsdam, Germany.
+Born 9 October 1873, Frankfurt am Main, Germany. Died 11 May 1916, Potsdam, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Schwarzschild/)

@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Established the importance of invariance and symmetry in mathematics. 
 10. Constructed theorems on the properties of Lie groups and algebraic structures.
 
-Born 1 May1793, Lemberg, Austrian Empire (now Lviv, Ukraine). Died 28 February 1863, Prague, Bohemia (now Czech Republic).
+Born 1 May 1793, Lemberg, Austrian Empire (now Lviv, Ukraine). Died 28 February 1863, Prague, Bohemia (now Czech Republic).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kulik/)

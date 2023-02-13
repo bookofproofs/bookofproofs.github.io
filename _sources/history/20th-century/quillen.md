@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Quillen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-usa
+tags: prize-fields-medal,origin-usa
 orderid: 1940
 title: Quillen, Daniel Gray
 born: 1940

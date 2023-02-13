@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Discovered the principles behind the two-dimensional Navier-Stokes equations, which are used to predict fluid flow. 
 8. Led the development of a mathematical model for the analysis of finite element methods, advancing the field of computational mathematics.
 
-Born 15 July 1898, Sheffield, England. Died 26 May1984, Malvern, England.
+Born 15 July 1898, Sheffield, England. Died 26 May 1984, Malvern, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Taylor_Mary/)

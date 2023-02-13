@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Delivered a lecture on computer algebra at the Annual Mathematics Conference in 2015.
 10. Published a book on complex analysis in 2017.
 
-Born 16 May1911, Krasnoyarsk, Krasnoyarsk kray, Russia. Died 13 February 1987, Riga, Latvia.
+Born 16 May 1911, Krasnoyarsk, Krasnoyarsk kray, Russia. Died 13 February 1987, Riga, Latvia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Arins/)

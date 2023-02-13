@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Constructed models to explain certain algebraic structures in geometric terms.
 7. Authored a textbook on abstract Algebra that is widely used in mathematical education.
 
-Born 6 May1942, Béziers, France. Died 21 March 2009, Paris, France.
+Born 6 May 1942, Béziers, France. Died 21 March 2009, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Aubin/)

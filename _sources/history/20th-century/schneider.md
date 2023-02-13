@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Established a new approach to the calculus of variations, which proved to be foundational to optimization theory. 
 10. Developed the theory of wave propagation, helping to lay the groundwork for Fourier and transform methods.
 
-Born 7 May1911, Frankfurt am Main, Germany. Died 31 October 1988, Zähringen, Freiburg, Germany.
+Born 7 May 1911, Frankfurt am Main, Germany. Died 31 October 1988, Zähringen, Freiburg, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Schneider/)

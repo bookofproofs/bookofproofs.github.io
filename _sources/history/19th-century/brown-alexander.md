@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Demonstrated the connection between probability calculus and calculus of real analysis.
 10. Introduced the probability generating function.
 
-Born 5 May1877, Dalkeith, near Edinburgh, Scotland. Died 27 January 1947, Cape Town, South Africa.
+Born 5 May 1877, Dalkeith, near Edinburgh, Scotland. Died 27 January 1947, Cape Town, South Africa.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Brown_Alexander/)

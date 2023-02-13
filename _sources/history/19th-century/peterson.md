@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Made a key contribution to the creation of the Seismic Hazards Mapping Act which established ground rules for the safe construction of buildings in seismic areas. 
 7. Demonstrated the application of mathematics to problems in oceanography, engineering and seismology.
 
-Born 25 May1828, Riga, Russia (now Latvia). Died 19 April 1881, Moscow, Russia.
+Born 25 May 1828, Riga, Russia (now Latvia). Died 19 April 1881, Moscow, Russia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Peterson/)

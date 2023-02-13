@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wu_Wen-Tsun
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-china,shaw-prize
+tags: origin-china,prize-shaw
 orderid: 1919
 title: Wu, Wen-Tsun
 born: 1919
@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Appeared in the International Mathematical Olympiad as a problem solver in 1958.
 7. Was honored with a Lifelong Achievement Award by the Chinese Mathematical Society in 1998.
 
-Born 12 May1919, Shanghai, China. Died 7 May2017, Beijing, China.
+Born 12 May 1919, Shanghai, China. Died 7 May 2017, Beijing, China.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Wu_Wen-Tsun/)

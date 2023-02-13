@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Established a basis for calculus and the principles of mathematical independence.
 8. Published more than sixty papers and one book, Foundations of Mathematical Analysis.
 
-Born 14 May1832, Königsberg, East Prussia (now Kaliningrad, Russia). Died 7 October 1903, Bonn, Germany.
+Born 14 May 1832, Königsberg, East Prussia (now Kaliningrad, Russia). Died 7 October 1903, Bonn, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Lipschitz/)

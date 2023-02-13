@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Awarded the Distinguished Visiting Fellowship from the Royal Society of Edinburgh in recognition of her research into algebraic geometry.
 8. Led multiple seminars and invited as a lecturer across a wide variety of mathematics topics such as algebraic geometry and number theory.
 
-Born 15 May1964, Ningbo, China.
+Born 15 May 1964, Ningbo, China.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Wu/)

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Selberg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-norway,wolf-prize
+tags: prize-fields-medal,origin-norway,prize-wolf
 orderid: 1917
 title: Selberg, Atle
 born: 1917

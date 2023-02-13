@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Also proposed the law of isothermal expansion of gases. 
 9. Was the first to introduce the concept of reversibility to physics.
 
-Born 13 May1753, Nolay, Burgundy, France. Died 2 August 1823, Magdeburg, Prussian Saxony (now Germany).
+Born 13 May 1753, Nolay, Burgundy, France. Died 2 August 1823, Magdeburg, Prussian Saxony (now Germany).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Carnot/)

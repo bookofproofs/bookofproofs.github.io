@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Moser_Jurgen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,origin-russia,wolf-prize
+tags: astronomy,origin-russia,prize-wolf
 orderid: 1928
 title: Moser (3), Jürgen
 born: 1928

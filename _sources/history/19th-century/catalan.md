@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. He also formulated a conjecture, now known as Catalan’s conjecture, stating that 8 and 9 are the only consecutive powers of two with distinct prime numbers. 
 6. Catalan studied surfaces of constant negative curvature and defined what is now known as the Gauss-Bonnet theorem.
 
-Born 30 May1814, Bruges, French Empire (now Belgium). Died 14 February 1894, Liège, Belgium.
+Born 30 May 1814, Bruges, French Empire (now Belgium). Died 14 February 1894, Liège, Belgium.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Catalan/)

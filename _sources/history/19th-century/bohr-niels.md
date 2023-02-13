@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bohr_Niels
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,origin-denmark,nobel-prize,physics
+tags: astronomy,origin-denmark,prize-nobel,physics
 orderid: 1885
 title: Bohr, Niels
 born: 1885

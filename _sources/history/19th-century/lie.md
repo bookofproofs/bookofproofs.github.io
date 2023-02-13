@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lie
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: abel-prize,bourbaki,group-theory,origin-norway
+tags: prize-abel,bourbaki,group-theory,origin-norway
 orderid: 1842
 title: Lie, Marius Sophus
 born: 1842

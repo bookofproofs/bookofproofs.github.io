@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Developed Ohm's Law, which states that the current (I) passing through a conductor is proportional to the potential difference (V) applied across its ends.
 6. Discovered the mathematical relationship between the conductance of a circuit, the potential difference applied to it, and the current that flows through it.
 
-Born 6 May1792, Erlangen, Bavaria (now Germany). Died 1 April 1872, Berlin, Prussia, German Empire.
+Born 6 May 1792, Erlangen, Bavaria (now Germany). Died 1 April 1872, Berlin, Prussia, German Empire.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Ohm_Martin/)

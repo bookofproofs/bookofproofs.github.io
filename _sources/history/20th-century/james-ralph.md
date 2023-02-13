@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Developed a new concept of economic equilibrium referred to as the Rational Expectations Hypothesis. 
 7. Pioneered the Fields Medal which is given to mathematicians under the age of 40 that are considered to be in the top of their field.
 
-Born 8 February 1909, Liverpool, England. Died 19 May1979, Salt Spring Island, British Columbia, Canada.
+Born 8 February 1909, Liverpool, England. Died 19 May 1979, Salt Spring Island, British Columbia, Canada.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/James_Ralph/)

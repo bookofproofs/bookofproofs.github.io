@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zariski
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: origin-belarus,topology,wolf-prize
+tags: origin-belarus,topology,prize-wolf
 orderid: 1899
 title: Zariski, Oscar
 born: 1899

@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Dürer was the first to develop three-dimensional perspective in art. 
 10. He introduced a new method of regular division of the circle, which is still referred to as the 'Dürer's Polyhedra'.
 
-Born 21 May1471, Imperial Free City of Nürnberg (now in Germany). Died 6 April 1528, Imperial Free City of Nürnberg (now in Germany).
+Born 21 May 1471, Imperial Free City of Nürnberg (now in Germany). Died 6 April 1528, Imperial Free City of Nürnberg (now in Germany).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Durer/)

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Drinfeld
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,group-theory,origin-ukraine
+tags: prize-fields-medal,group-theory,origin-ukraine
 orderid: 1954
 title: Drinfeld, Vladimir Gershonovich
 born: 1954

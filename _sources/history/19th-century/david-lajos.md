@@ -34,6 +34,6 @@ contributors: @Tünde-Kántor,bookofproofs,@ChatGPT
 9. Developed the symbolic method for solving group theory problems, which provided an easier way to solve group problems. 
 10. Investigated the properties of linear systems, discovering novel conditions for the existence of specific systems.
 
-Born 28 May1881, Kolozsvár, Hungary (now Cluj-Napoca, Romania). Died 9 January 1962, Leányfalu, near Budapest, Hungary.
+Born 28 May 1881, Kolozsvár, Hungary (now Cluj-Napoca, Romania). Died 9 January 1962, Leányfalu, near Budapest, Hungary.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/David_Lajos/)

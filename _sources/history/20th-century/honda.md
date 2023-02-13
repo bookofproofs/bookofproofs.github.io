@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Published multiple papers on knot theory in peer-reviewed journals.
 6. Authored several mathematics books, notably Mathematica and Graph Theory.
 
-Born 2 June 1932, Fukui, Japan. Died 15 May1975, Osaka, Japan.
+Born 2 June 1932, Fukui, Japan. Died 15 May 1975, Osaka, Japan.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Honda/)

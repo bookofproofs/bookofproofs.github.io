@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mirzakhani
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: clay-research-award,fields-medal,origin-iran,women
+tags: prize-clay-research-award,prize-fields-medal,origin-iran,women
 orderid: 1977
 title: Mirzakhani, Maryam
 born: 1977
@@ -29,6 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 4. One of her most recognized works was her 2013 Annals of Mathematics paper “Growth in the Number of Simple Closed Geodesics on Surfaces", which demonstrated an unexpected relationship between dynamics and geometry in the space of surfaces. 
 5. In 2009 she won first place in the International Math Olympiad at the age of 15, the youngest female to do so.
 
-Born 12 May1977, Tehran, Iran. Died 14 July 2017, California, USA.
+Born 12 May 1977, Tehran, Iran. Died 14 July 2017, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Mirzakhani/)

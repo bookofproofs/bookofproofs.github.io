@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Pioneered the formal study of the foundations of mathematics, including axiomatic set theory and model theory.
 7. Developed the theory of partially ordered sets, which has been influential in many branches of mathematics and computer science.
 
-Born 13 November 1922, Basel, Switzerland. Died 10 May2003, Aarau, Switzerland.
+Born 13 November 1922, Basel, Switzerland. Died 10 May 2003, Aarau, Switzerland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Speiser/)

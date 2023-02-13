@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Formulated an empirical proof of the law of attraction of gravity which postulated that the force between two masses is proportional to the inverse square of the distance between them. 
 8. Developed an innovative approach to the solution of pendulum equations by introducing a new method of series expansion.
 
-Born 18 May1711, Ragusa, Dubrovnik Republic (now Dubrovnik, Croatia). Died 13 February 1787, Milan, Hapsburg Empire (now Italy).
+Born 18 May 1711, Ragusa, Dubrovnik Republic (now Dubrovnik, Croatia). Died 13 February 1787, Milan, Hapsburg Empire (now Italy).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Boscovich/)

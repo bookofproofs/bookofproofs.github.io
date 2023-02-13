@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Proved existence and uniqueness theorems for solutions to the Navier-Stokes equations.
 9. Developed the C-theory, an important tool for the study of nonlinear elliptic and parabolic equations.
 
-Born 25 June 1931, Moscow, Russia. Died 9 May2004, Moscow, Russia.
+Born 25 June 1931, Moscow, Russia. Died 9 May 2004, Moscow, Russia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Vitushkin/)

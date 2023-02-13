@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Used the probability theory to calculate and approximate the odds in gambling games.
 10. Contributed to the theory of annuities and life contingencies, which forms the basis of modern actuarial science.
 
-Born 26 May1667, Vitry-le-François, Champagne, France. Died 27 November 1754, London, England.
+Born 26 May 1667, Vitry-le-François, Champagne, France. Died 27 November 1754, London, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/De_Moivre/)

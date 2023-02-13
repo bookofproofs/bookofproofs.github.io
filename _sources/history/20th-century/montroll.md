@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Developed the ‘excess’ formula, which is used to calculate the number of spanning trees in a graph.
 6. Proved the Dvoretzky-Erdoes inequality in discrete probability.
 
-Born 4 May1916, Pittsburg, Pennsylvania, USA. Died 3 December 1983, Chevy Chase, Maryland, USA.
+Born 4 May 1916, Pittsburg, Pennsylvania, USA. Died 3 December 1983, Chevy Chase, Maryland, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Montroll/)

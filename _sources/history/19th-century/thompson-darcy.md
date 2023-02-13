@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed methods to compare the size and shape of organisms of different species.
 10. Developed methods to accurately compare the size and shapes of organisms to draw evolutionary conclusions.
 
-Born 2 May1860, Edinburgh, Scotland. Died 21 June 1948, St Andrews, Fife, Scotland.
+Born 2 May 1860, Edinburgh, Scotland. Died 21 June 1948, St Andrews, Fife, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Thompson_DArcy/)

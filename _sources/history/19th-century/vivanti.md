@@ -29,6 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 4. Established a new analytical method of determining the stability of rotating star systems.
 5. Developed a new method of solving the isoperimetric problem by means of analytical curves.
 
-Born 24 May1859, Mantua, Kingdom of Lombardy-Venetia, Austria (now Italy). Died 19 November 1949, Milan, Italy.
+Born 24 May 1859, Mantua, Kingdom of Lombardy-Venetia, Austria (now Italy). Died 19 November 1949, Milan, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Vivanti/)

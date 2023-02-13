@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gromov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,group-theory,origin-russia,topology,wolf-prize
+tags: prize-abel,group-theory,origin-russia,topology,prize-wolf
 orderid: 1943
 title: Gromov, Mikhael Leonidovich
 born: 1943

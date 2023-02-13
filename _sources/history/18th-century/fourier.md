@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Demonstrated the connection between periodic motion and the motion of waves.  
 6. Applied mathematics to a number of scientific problems, including acoustic theory, astronomy, and electromagnetism.
 
-Born 21 March 1768, Auxerre, Bourgogne, France. Died 16 May1830, Paris, France.
+Born 21 March 1768, Auxerre, Bourgogne, France. Died 16 May 1830, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Fourier/)

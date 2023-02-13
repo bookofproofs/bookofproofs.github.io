@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Received the Leibniz-Medaille in 1939 for his contributions to mathematics.
 8. Developed mathematical insights into the structure of the universe, in particular establishing important links between geometry and physics.
 
-Born 28 May1902, Breslau, Germany, now Wrocław, Poland. Died 25 June 1936, Moscow, Russia.
+Born 28 May 1902, Breslau, Germany, now Wrocław, Poland. Died 25 June 1936, Moscow, Russia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Cohn-Vossen/)

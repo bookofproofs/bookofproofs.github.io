@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Received the Steele Prize for Mathematical Exposition in 1988 for her highly innovative use of ideas in her work on wave equations. 
 10. Appointed Fellow of the American Mathematical Society in 1974.
 
-Born 5 May1923, Toronto, Canada. Died 8 August 2017, New York City, New York, USA.
+Born 5 May 1923, Toronto, Canada. Died 8 August 2017, New York City, New York, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Morawetz/)

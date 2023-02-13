@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Helped to develop the theory of quantification in the early part of the 20th century.
 10. Produced the important work “Mathematical Logic” in 1912.
 
-Born 26 June 1878, Krefeld, German. Died 5 May1957, Berlin, Germany.
+Born 26 June 1878, Krefeld, German. Died 5 May 1957, Berlin, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Lowenheim/)

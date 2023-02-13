@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Along with his student Jacob Moser, proved what is now known as the Moser–Neumann theorem, which links the solutions to a certain type of differential equation with a function related to number theory.
 7. Discovered a modified version of the triangle inequality, an important result in geometry.
 
-Born 11 September 1798, Joachimsthal, Germany (now Jachymov, Czech Republic). Died 23 May1895, Königsberg, Germany (now Kaliningrad, Russia).
+Born 11 September 1798, Joachimsthal, Germany (now Jachymov, Czech Republic). Died 23 May 1895, Königsberg, Germany (now Kaliningrad, Russia).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Neumann_Franz/)

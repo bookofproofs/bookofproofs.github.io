@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Incorporated thermodynamic elements into his theories, which gave rise to the first thermodynamically consistent theory of living things.
 8. Pioneered the use of mathematics in biology, which revolutionized the field and opened the door for modern biological research.
 
-Born 28 May1872, Vorderbrühl, near Vienna, Austria. Died 5 September 1917, Kraków, Poland.
+Born 28 May 1872, Vorderbrühl, near Vienna, Austria. Died 5 September 1917, Kraków, Poland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Smoluchowski/)

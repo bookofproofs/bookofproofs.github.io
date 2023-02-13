@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Co-developed the Rayleigh-Ritz method (1927), which is a way to approximate solutions to problems in calculus. 
 10. Transformed the field of numerical mathematics through improved methods for approximating equations.
 
-Born 1 May1891, Ealing, London, England. Died 21 August 1974, Sevenoaks, Kent, England.
+Born 1 May 1891, Ealing, London, England. Died 21 August 1974, Sevenoaks, Kent, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Milne-Thomson/)

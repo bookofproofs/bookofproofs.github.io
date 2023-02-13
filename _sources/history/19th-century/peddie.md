@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Constructed numerical integration methods based on derivatives. 
 8. Served as a mathematics lecturer at Edinburgh University from 1884-1900.
 
-Born 31 May1861, Papa Westray, Orkney, Scotland. Died 2 June 1946, Ninewells, Dundee, Scotland.
+Born 31 May 1861, Papa Westray, Orkney, Scotland. Died 2 June 1946, Ninewells, Dundee, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Peddie/)

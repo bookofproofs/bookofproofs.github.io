@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Coordinated and led the “INsight Conference” in 2012, a cross-disciplinary STEM education event designed to help Georgia K-12 teachers create active, engaging learning activities. 
 10. Spearheaded projects to improve high school mathematics curriculum in several Georgia school districts.
 
-Born 22 March 1891, Hampstead, London, England. Died 8 May1936, Cambridge, England.
+Born 22 March 1891, Hampstead, London, England. Died 8 May 1936, Cambridge, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Swain/)

@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Was actively involved in research related to Nonlinear systems, Approximations Theory, and Game Theory.
 8. Was an invited speaker at prestigious conferences and meetings across the world.
 
-Born 3 May1857, Cargill, near Perth, Scotland. Died 9 November 1890, Glasgow, Scotland.
+Born 3 May 1857, Cargill, near Perth, Scotland. Died 9 November 1890, Glasgow, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Fraser/)

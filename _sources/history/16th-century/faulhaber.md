@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Discovered a geometric method for the calculation of arcs and chords.
 8. Published the first systematic treatment of logarithms with the title "Arithmetische und geometrische Progress Tabulen" in 1631.
 
-Born 5 May1580, Ulm, Germany. Died 1635, Ulm, Germany.
+Born 5 May 1580, Ulm, Germany. Died 1635, Ulm, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Faulhaber/)

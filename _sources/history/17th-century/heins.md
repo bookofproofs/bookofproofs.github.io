@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Proposed a novel approach to construct non-Euclidean geometries with large numbers of equidistant lines. 
 8. Published several papers providing a mathematical groundwork for the stability of the gravitational force at the core of the Earth.
 
-Born 15 May1637, Free Imperial City of Hamburg (now Germany). Died 17 November 1704, Free Imperial City of Hamburg (now Germany).
+Born 15 May 1637, Free Imperial City of Hamburg (now Germany). Died 17 November 1704, Free Imperial City of Hamburg (now Germany).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Heins/)

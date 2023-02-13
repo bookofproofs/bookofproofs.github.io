@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Published numerous papers on the numerical solutions of differential equations.
 10. Won numerous awards and honors in recognition of her achievements in mathematics.
 
-Born 16 July 1903, Hameln, Germany. Died 22 May1974, Stanford, USA.
+Born 16 July 1903, Hameln, Germany. Died 22 May 1974, Stanford, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Flugge-Lotz/)

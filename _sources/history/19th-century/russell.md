@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Russell
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: analysis,astronomy,origin-wales,nobel-prize,set-theory
+tags: analysis,astronomy,origin-wales,prize-nobel,set-theory
 orderid: 1872
 title: Russell (2), Bertrand Arthur William
 born: 1872
@@ -32,6 +32,6 @@ In a long and varied career **Russell** published a vast number of books on logi
 7. Published the book "The Principles of Mathematics" in 1903
 8. Involved extensively in the philosophy of mathematics, including writing the book "The Philosophy of Logical Atomism" in 1918
 
-Born 18 May1872, Ravenscroft, Trelleck, Monmouthshire, Wales. Died 2 February 1970, Penrhyndeudraeth, Merioneth, Wales.
+Born 18 May 1872, Ravenscroft, Trelleck, Monmouthshire, Wales. Died 2 February 1970, Penrhyndeudraeth, Merioneth, Wales.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Russell/)

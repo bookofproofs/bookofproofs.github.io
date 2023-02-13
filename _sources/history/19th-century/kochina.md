@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Co-developed the theory of the stability of stream mechanics, i.e. the transition of a limited turbomixer area to an equilibrium form, which laid the groundwork for a number of applications (1939).
 9. Published the first Russian-language textbook on analytic mechanics, which introduced students to the mathematical foundations of classical mechanics, including non-simplified proofs (1938).
 
-Born 13 May1899, Astrakhan, Russia. Died 3 July 1999, Moscow, Russia.
+Born 13 May 1899, Astrakhan, Russia. Died 3 July 1999, Moscow, Russia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kochina/)

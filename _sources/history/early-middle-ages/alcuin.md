@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Established a curriculum of basic mathematical operations and their application, including multiplication and division, geometry, and calculations such as square roots and cube roots.
 8. Wrote a comprehensive encyclopedia of mathematical knowledge.
 
-Born 735, York, Yorkshire, England. Died 19 May0804, Tours, France.
+Born 735, York, Yorkshire, England. Died 19 May 0804, Tours, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Alcuin/)

@@ -33,6 +33,6 @@ contributors: @Roderick-Gow,bookofproofs,@ChatGPT
 8. Founded the Department of Mathematics at Stanford University in 1962.
 9. Elected to the National Academy of Sciences in 1963.
 
-Born 12 May1820, Coolattin, Kilbehenny, Co. Limerick, Ireland. Died 3 January 1891, Dublin, Ireland.
+Born 12 May 1820, Coolattin, Kilbehenny, Co. Limerick, Ireland. Died 3 January 1891, Dublin, Ireland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Casey/)

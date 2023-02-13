@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Demonstrated the Kloosterman-Selberg method, which has become a basic technique in the analytic number theory.
 6. Conducted early work on the distribution of prime numbers.
 
-Born 9 April 1900, Rottevalle, The Netherlands. Died 6 May1968, Leiden, The Netherlands.
+Born 9 April 1900, Rottevalle, The Netherlands. Died 6 May 1968, Leiden, The Netherlands.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kloosterman/)

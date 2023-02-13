@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Discovered a method to characterize the degree of distortion of an ellipse.
 10. Proposed a criterion for when a Lie group is a group of isometries.
 
-Born 12 December 1914, Mértola, Alentejo, Portugal. Died 25 May1972, Lisbon, Portugal.
+Born 12 December 1914, Mértola, Alentejo, Portugal. Died 25 May 1972, Lisbon, Portugal.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Silva/)

@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Published a book on the calculus of variations and established the principle of minimum effort.
 7. Devised an equation which predicted the orbits of comets—current calculation methods showed more vacillation in an orbit prediction than actually occurred in reality.
 
-Born 22 May1865, Northallerton, Yorkshire, England. Died 4 May1936, Northwood, Middlesex, England.
+Born 22 May 1865, Northallerton, Yorkshire, England. Died 4 May 1936, Northwood, Middlesex, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Dixon/)

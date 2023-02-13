@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Developed a systematic theory of graphical solutions of differential equations which advanced the general theory of linear forms in topological space.
 8. Advocated for "Elements of Linear Algebra", an introductory textbook for students of mathematics.
 
-Born 30 June 1846, Halle, Germany. Died 13 May1919, Giessen, Germany.
+Born 30 June 1846, Halle, Germany. Died 13 May 1919, Giessen, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Netto/)

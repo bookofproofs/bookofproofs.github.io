@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Piatetski-Shapiro
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-russia,wolf-prize
+tags: origin-russia,prize-wolf
 orderid: 1929
 title: Piatetski-Shapiro, Ilya Iosifovich
 born: 1929

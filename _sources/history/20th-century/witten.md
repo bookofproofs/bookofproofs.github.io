@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Witten
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: clay-research-award,fields-medal,origin-usa
+tags: prize-clay-research-award,prize-fields-medal,origin-usa
 orderid: 1951
 title: Witten, Edward
 born: 1951

@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Developed the Lehmer code, a recursive sequence, in her 1990 paper “A Generating Function for the Number of Prime Divisors of a Number.” 
 8. Discovered irreducible polynomials in finite fields which are now known as Lehmer polynomials.
 
-Born 6 November 1906, Samara, Russia. Died 7 May2007, Berkeley, California, USA.
+Born 6 November 1906, Samara, Russia. Died 7 May 2007, Berkeley, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Lehmer_Emma/)

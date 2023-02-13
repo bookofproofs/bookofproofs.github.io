@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Authored several seminal articles on potential theory, which helped to advance this subfield of mathematics.
 10. Received numerous prestigious awards for his contributions to the mathematics field, including the prestigious Copley Medal.
 
-Born 12 November 1901, Lewisville, Denton County, Texas, USA. Died 5 May1972, Greenville, North Carolina, USA.
+Born 12 November 1901, Lewisville, Denton County, Texas, USA. Died 5 May 1972, Greenville, North Carolina, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Whyburn_William/)

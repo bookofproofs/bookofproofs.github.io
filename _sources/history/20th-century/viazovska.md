@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Viazovska
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: clay-research-award,origin-ukraine,women
+tags: prize-clay-research-award,origin-ukraine,women
 orderid: 1984
 title: Viazovska, Maryna
 born: 1984

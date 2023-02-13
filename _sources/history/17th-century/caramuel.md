@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Authored a pioneering book on Optics.
 9. Contributed to number theory and developed a theory which combined algebra and geometry.
 
-Born 23 May1606, Madrid, Spain. Died 7 September 1682, Milan (now Italy).
+Born 23 May 1606, Madrid, Spain. Died 7 September 1682, Milan (now Italy).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Caramuel/)

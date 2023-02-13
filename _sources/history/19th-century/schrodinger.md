@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schrodinger
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: origin-austria,nobel-prize,physics
+tags: origin-austria,prize-nobel,physics
 orderid: 1887
 title: Schrödinger, Erwin
 born: 1887

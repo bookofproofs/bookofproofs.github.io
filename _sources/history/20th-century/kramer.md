@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@Rose-Marie-Monahan,bookofproofs,@Cha
 6. Founded the American Board of Mathematics in 2014. 
 7. Authored numerous mathematical textbooks and articles, such as “Advanced Problem Solving” in 1996.
 
-Born 11 May1902, Manhattan, New York, USA. Died 9 July 1984, Manhattan, New York, USA.
+Born 11 May 1902, Manhattan, New York, USA. Died 9 July 1984, Manhattan, New York, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kramer/)

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Pople
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-england,nobel-prize
+tags: origin-england,prize-nobel
 orderid: 1925
 title: Pople, John Anthony
 born: 1925

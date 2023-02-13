@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Authored "Problems of Mathematical Analysis," a seminal work on classical analysis that has been used as a reference by mathematicians for over a century.
 8. Established the Efimov Prize, a major award given annually to researchers and teachers of mathematics in Russia.
 
-Born 31 May1910, Orenburg, Russia. Died 16 October 1982, Moscow, Russia.
+Born 31 May 1910, Orenburg, Russia. Died 16 October 1982, Moscow, Russia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Efimov/)

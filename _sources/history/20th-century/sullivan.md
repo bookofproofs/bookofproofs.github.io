@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sullivan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-usa,topology,wolf-prize
+tags: origin-usa,topology,prize-wolf
 orderid: 1941
 title: Sullivan, Dennis Parnell
 born: 1941

@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Developed the distributed lag model, a statistical technique for estimating the impact of certain variables on a particular type of data.
 7. Proposed to analyse more complex mathematical models by breaking them into two simpler models and solving them separately.
 
-Born 12 May1902, Manchester, England. Died 17 June 1994, Harpenden, England.
+Born 12 May 1902, Manchester, England. Died 17 June 1994, Harpenden, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Yates/)

@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Formulated the Normal Subgroup Theorem, a major result of group theory.
 7. Authored a book titled "The Theory of Rings," which is considered to be one of the seminal texts in algebra.
 
-Born 19 January 1908, Yartsevo (near Smolensk), Russia. Died 18 May1971, Moscow, Russia.
+Born 19 January 1908, Yartsevo (near Smolensk), Russia. Died 18 May 1971, Moscow, Russia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kurosh/)

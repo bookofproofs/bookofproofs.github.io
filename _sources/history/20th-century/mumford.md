@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mumford
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-england,shaw-prize,wolf-prize
+tags: prize-fields-medal,origin-england,prize-shaw,prize-wolf
 orderid: 1937
 title: Mumford, David Bryant
 born: 1937

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Feynman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-usa,nobel-prize,physics
+tags: origin-usa,prize-nobel,physics
 orderid: 1918
 title: Feynman, Richard Phillips
 born: 1918
@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Developed a theory of weak interactions, which describes the behavior of particles that interact through the weak nuclear force.
 8. Received the Nobel Prize in Physics in 1965 for his work on quantum electrodynamics.
 
-Born 11 May1918, New York City, USA. Died 15 February 1988, Los Angeles, California, USA.
+Born 11 May 1918, New York City, USA. Died 15 February 1988, Los Angeles, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Feynman/)

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$McMullen
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-usa
+tags: prize-fields-medal,origin-usa
 orderid: 1958
 title: Mcmullen, Curtis Tracy
 born: 1958
@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Won the prestigious Oswald Veblen Prize in Geometry in 2004.
 8. Appointed Professor at Harvard University in 2005.
 
-Born 21 May1958, Berkeley, California, USA.
+Born 21 May 1958, Berkeley, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/McMullen/)

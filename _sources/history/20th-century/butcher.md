@@ -35,6 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Was elected as a fellow of the National Academy of Science in 1936.
 8. Established several academic societies, notably the American Council of Mathematics Teachers.
 
-Born 28 May1920, Washington D.C., USA. Died 18 June 2016, Washington D.C., USA.
+Born 28 May 1920, Washington D.C., USA. Died 18 June 2016, Washington D.C., USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Butcher/)

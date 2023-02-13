@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Was integral in the passing of the Association for Women in Mathematics’ Council Resolution on Gender Equity in Higher Education mathematics programs. 
 8. Appointed to the National Science Foundation’s National Science Board, a responsibility she held for 12 years.
 
-Born 5 May1883, Calliope (now Hawarden), Iowa, USA. Died 26 March 1966, Bryn Mawr, Pennsylvania, USA.
+Born 5 May 1883, Calliope (now Hawarden), Iowa, USA. Died 26 March 1966, Bryn Mawr, Pennsylvania, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Wheeler/)

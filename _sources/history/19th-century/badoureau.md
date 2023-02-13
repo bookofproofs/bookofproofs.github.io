@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Approximated the sum of certain incomplete series. 
 8. Made important contributions to the theory of differential equations.
 
-Born 18 May1853, Paris, France. Died 20 July 1923, Paris, France.
+Born 18 May 1853, Paris, France. Died 20 July 1923, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Badoureau/)

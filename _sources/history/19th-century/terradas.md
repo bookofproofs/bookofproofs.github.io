@@ -37,6 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Applied the theory of differential equations and Betti’s theory of functions to a new class of problems.
 10. Was the first to study the number of solutions to differential equations.
 
-Born 15 September 1883, Barcelona, Spain. Died 9 May1950, Madrid, Spain.
+Born 15 September 1883, Barcelona, Spain. Died 9 May 1950, Madrid, Spain.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Terradas/)

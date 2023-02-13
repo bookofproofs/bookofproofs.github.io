@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ahlfors
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-finland,wolf-prize
+tags: prize-fields-medal,origin-finland,prize-wolf
 orderid: 1907
 title: Ahlfors, Lars Valerian
 born: 1907

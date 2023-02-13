@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Published important discoveries in number theory and philosophy of mathematics and presented a type of integral calculus (1817).
 8. Published a definitive paper on the theory of equations, discussing the results of fellow mathematicians (1822).
 
-Born 22 September 1765, Valentano, Papal States (now Italy). Died 10 May1822, Modena, Duchy of Modena (now Italy).
+Born 22 September 1765, Valentano, Papal States (now Italy). Died 10 May 1822, Modena, Duchy of Modena (now Italy).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Ruffini/)

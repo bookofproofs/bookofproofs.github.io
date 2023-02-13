@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Posed several challenging problems in the theory of curves. 
 10. Developed a new method for the construction of linear orthogonal systems of polynomials.
 
-Born 4 May1918, Millinocket, Maine, USA. Died 8 March 2002, Wayland, Middlesex, Massachusetts, USA.
+Born 4 May 1918, Millinocket, Maine, USA. Died 8 March 2002, Wayland, Middlesex, Massachusetts, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Carrier/)

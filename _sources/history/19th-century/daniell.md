@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Explored the application of algebraic techniques to solve a particular case of the general equation of the second degree in two variables.
 10. Investigated the convergence of infinite series of polynomials.
 
-Born 9 January 1889, Valparaiso, Chile. Died 25 May1946, Sheffield, England.
+Born 9 January 1889, Valparaiso, Chile. Died 25 May 1946, Sheffield, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Daniell/)

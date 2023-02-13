@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Received numerous awards, including the German Society Prize, Mathematical Association of Japan Prize, and the Wolf Prize. 
 8. Was elected a Foreign Member of the Royal Netherlands Academy of Arts and Sciences.
 
-Born 31 March 1848, 'sHertogenbosch, Netherlands. Died 10 May1941, Amsterdam, Netherlands.
+Born 31 March 1848, 'sHertogenbosch, Netherlands. Died 10 May 1941, Amsterdam, Netherlands.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Korteweg/)

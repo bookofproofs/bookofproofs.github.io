@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Won the 2009 Thirteenth Annual Blaise Pascal International Award presented by UNESCO and the International Council of Science.
 6. Received Women Scientist Medal in 2010 from the National Council for Women in Egypt.
 
-Born 1 May1956, London, England.
+Born 1 May 1956, London, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Soueif/)

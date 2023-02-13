@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Discovered a method to find the roots of a polynomial equation. 
 10. Developed a generalization of Newton's method of interpolation.
 
-Born 28 May1871, Edinburgh, Scotland. Died 14 September 1959, Lochgilphead, Argyll, Scotland.
+Born 28 May 1871, Edinburgh, Scotland. Died 14 September 1959, Lochgilphead, Argyll, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Mitchell_James/)

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lewy
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-poland,wolf-prize
+tags: origin-poland,prize-wolf
 orderid: 1904
 title: Lewy, Hans
 born: 1904

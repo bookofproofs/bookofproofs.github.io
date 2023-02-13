@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Receiving an Honorary Doctorate from the University of Buenos Aires in 1999.
 10. Appointed by the Inter-American Development Bank to lead team of experts working on the set-up of the Women in Science and Technology Program in Latin America and the Caribbean in 1994.
 
-Born 23 May1940, Buenos Aires, Argentina. Died 3 December 2010, Long Beach, California, USA.
+Born 23 May 1940, Buenos Aires, Argentina. Died 3 December 2010, Long Beach, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Sadosky/)

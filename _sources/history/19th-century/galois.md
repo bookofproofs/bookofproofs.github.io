@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Discovered criteria for the solvability of polynomial equations by radicals. 
 6. Formulated the idea of an Emptylest, an algebraic construction that has no physical meaning.
 
-Born 25 October 1811, Bourg La Reine (near Paris), France. Died 31 May1832, Paris, France.
+Born 25 October 1811, Bourg La Reine (near Paris), France. Died 31 May 1832, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Galois/)

@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Developed fundamental theorems in algebraic geometry, including a generalization of the fundamental theorem of algebra in higher dimensions.
 6. Member of the Cambridge Philosophical Society and London Mathematical Society.
 
-Born 11 November 1904, Madras, (now Chennai) India. Died 8 May1960, Princeton, New Jersey, USA.
+Born 11 November 1904, Madras, (now Chennai) India. Died 8 May 1960, Princeton, New Jersey, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Whitehead_Henry/)

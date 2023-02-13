@@ -32,6 +32,6 @@ contributors: @Faber-Renato-Fabbris,bookofproofs,@ChatGPT
 7. Proposed a new mathematical method for studying the stability of solutions of Volterra equations.
 8. Pioneered the notion of concentration functions in the analysis of nonlinear equations.
 
-Born 20 January 1904, Naples, Italy. Died 8 May1959, Naples, Italy.
+Born 20 January 1904, Naples, Italy. Died 8 May 1959, Naples, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Caccioppoli/)

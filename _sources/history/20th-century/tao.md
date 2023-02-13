@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tao
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: clay-research-award,fields-medal,origin-australia
+tags: prize-clay-research-award,prize-fields-medal,origin-australia
 orderid: 1975
 title: Tao, Terence Chi-Shen
 born: 1975

@@ -32,6 +32,6 @@ contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
 7. Developed the algorithms in algebraic coding theory on which the modern government and commercial standards are based.
 8. Developed an algorithm - now known as the Weil descent - that is important in cryptography.
 
-Born 27 December 1851, Winterthur, Zürich canton, Switzerland. Died 1 May1916, Zürich, Switzerland.
+Born 27 December 1851, Winterthur, Zürich canton, Switzerland. Died 1 May 1916, Zürich, Switzerland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Weiler/)

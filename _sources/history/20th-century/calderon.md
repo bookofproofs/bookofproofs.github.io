@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Calderon
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-argentina,wolf-prize
+tags: origin-argentina,prize-wolf
 orderid: 1920
 title: Calderón, Alberto
 born: 1920

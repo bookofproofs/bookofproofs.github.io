@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Established a successful mathematics tutoring program at Stanford University. 
 10. Supervised undergraduate research projects in mathematics.
 
-Born 9 May1965, Red Bank, New Jersey, USA.
+Born 9 May 1965, Red Bank, New Jersey, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Smith_Karen/)

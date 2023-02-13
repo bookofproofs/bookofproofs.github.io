@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Allardice's work on electrical networks was highly influential and contributed to a new way of representing and analyzing the data.
 9. He was also a founder of the Institute for Computational Mathematics, which brought together computer-related research from around the world.
 
-Born 2 March 1862, Edinburgh, Scotland. Died 6 May1928, Palo Alto, California, USA.
+Born 2 March 1862, Edinburgh, Scotland. Died 6 May 1928, Palo Alto, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Allardice/)

@@ -30,6 +30,6 @@ contributors: @Hervé-Le-Ferrand,bookofproofs,@ChatGPT
 5. Conducted extensive research on elliptic functions, and developed the Montessus integral which provided an approach to finding Fourier series coefficients.
 6. Performed the first rigorous proof of the Abel–Ruffini theorem which demonstrated the impossibility of solving fifth and higher degree polynomial equations algebraically.
 
-Born 20 May1870, Villeurbanne, Rhône, France. Died 26 January 1937, Arcachon, Gironde, France.
+Born 20 May 1870, Villeurbanne, Rhône, France. Died 26 January 1937, Arcachon, Gironde, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Montessus/)

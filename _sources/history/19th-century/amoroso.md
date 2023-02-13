@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Co-authored the groundbreaking textbook Algebraic Number Theory in 2013. 
 9. Won an international award for mathematical research in 2017.
 
-Born 23 May1886, Naples, Italy. Died 28 October 1965, Naples, Italy.
+Born 23 May 1886, Naples, Italy. Died 28 October 1965, Naples, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Amoroso/)

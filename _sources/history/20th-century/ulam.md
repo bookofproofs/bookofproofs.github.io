@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Developed the simplified astronomical model for nuclear weapons performance simulation.
 9. Conceived the notion of genetic algorithms and co-invented the Monte Carlo tree search algorithm.
 
-Born 13 April 1909, Lemberg, Austrian Empire (now Lviv, Ukraine). Died 13 May1984, Santa Fe, New Mexico, USA.
+Born 13 April 1909, Lemberg, Austrian Empire (now Lviv, Ukraine). Died 13 May 1984, Santa Fe, New Mexico, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Ulam/)

@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Awarded The Leroy P. Steele Prize for Professional aMathematical Research in 1981.
 8. Was the President of the Mathematical Society of France (Société Mathématique de France) (1997–2001).
 
-Born 14 November 1932, Watermael-Boitsfort, near Brussels, Belgium. Died 15 May2016, Paris, France.
+Born 14 November 1932, Watermael-Boitsfort, near Brussels, Belgium. Died 15 May 2016, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Neveu/)

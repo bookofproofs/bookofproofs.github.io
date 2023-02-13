@@ -29,6 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 4. Developed an equation that relates the frequency of a planet's orbit to its mean distance from the Sun.
 5. Published a work titled "De Revolutionibus Orbium Coelestium" ("On the Revolutions of the Celestial Spheres"), which allowed for a comprehensive understanding of how the universe works and helped popularize the heliocentric model of the universe.
 
-Born 19 February 1473, Toruń, Poland. Died 24 May1543, Frauenburg (now Frombork), Poland.
+Born 19 February 1473, Toruń, Poland. Died 24 May 1543, Frauenburg (now Frombork), Poland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/)

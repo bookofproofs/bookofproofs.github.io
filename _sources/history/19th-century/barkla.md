@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Barkla
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: origin-england,nobel-prize
+tags: origin-england,prize-nobel
 orderid: 1877
 title: Barkla, Charles Glover
 born: 1877

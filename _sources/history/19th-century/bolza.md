@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Bolza used the calculus of variations to investigate problems in the philosophy of science, and was the first to publish results concerning multiple integrals in Euclidean geometry.
 8. He gave a definition of scalar product which is still used today in linear algebra.
 
-Born 12 May1857, Bergzabern, Rhenish Palatinate (now Germany). Died 5 July 1942, Freiburg im Breisgau, Germany.
+Born 12 May 1857, Bergzabern, Rhenish Palatinate (now Germany). Died 5 July 1942, Freiburg im Breisgau, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Bolza/)

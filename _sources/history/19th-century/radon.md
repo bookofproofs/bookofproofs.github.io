@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Co-developed the Radon–Hurwitz theorem which is important in number theory.
 8. Pioneered the study of graphical calculus, pioneering novel ways of visualizing and manipulating mathematical equations.
 
-Born 16 December 1887, Tetschen, Bohemia (now Decin, Czech Republic). Died 25 May1956, Vienna, Austria.
+Born 16 December 1887, Tetschen, Bohemia (now Decin, Czech Republic). Died 25 May 1956, Vienna, Austria.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Radon/)

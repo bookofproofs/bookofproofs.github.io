@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. He is credited by some with the discovery of the binary system.
 8. He is also one of the earliest proponents in the development of calculus.
 
-Born 2 May1588, Clermont (now Clermont-Ferrand), Auvergne, France. Died 24 September 1651, Paris, France.
+Born 2 May 1588, Clermont (now Clermont-Ferrand), Auvergne, France. Died 24 September 1651, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Pascal_Etienne/)

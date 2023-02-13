@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Wien
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: origin-russia,nobel-prize,physics
+tags: origin-russia,prize-nobel,physics
 orderid: 1864
 title: Wiener (3), Ludwig Christian
 born: 1864

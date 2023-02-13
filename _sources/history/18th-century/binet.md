@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Developed normative age-scales, now known as the Binet-Simon scales. 
 8. Contributed greatly to the field of psychometrics, or measuring mental characteristics, through his work in quantitative psychology.
 
-Born 2 February 1786, Rennes, Bretagne, France. Died 12 May1856, Paris, France.
+Born 2 February 1786, Rennes, Bretagne, France. Died 12 May 1856, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Binet/)

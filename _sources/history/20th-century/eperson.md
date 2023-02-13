@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Discovered connections between elliptic and modular forms.
 8. Achieved national recognition at the International Congress of Mathematicians for his research on Abelian Integrals.
 
-Born 22 July 1904, Gunnersbury, Middlesex, England. Died 13 May2001, Worthing, West Sussex, England.
+Born 22 July 1904, Gunnersbury, Middlesex, England. Died 13 May 2001, Worthing, West Sussex, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Eperson/)

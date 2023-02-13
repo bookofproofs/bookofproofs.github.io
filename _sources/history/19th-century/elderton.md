@@ -35,6 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Contributed to the development of tensor analysis and differential geometry.
 8. Was awarded the Keith Medal of the Royal Society of Edinburgh for her significant mathematical achievements.
 
-Born 31 December 1878, Fulham, London, England. Died 5 May1954, Stanborough Park, near Watford, Hertfordshire, England.
+Born 31 December 1878, Fulham, London, England. Died 5 May 1954, Stanborough Park, near Watford, Hertfordshire, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Elderton/)

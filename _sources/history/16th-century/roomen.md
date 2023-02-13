@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Discovered the prime counting function.
 8. Determined that pi is irrational.
 
-Born 29 September 1561, Leuven, Spanish Netherlands (now Belgium). Died 4 May1615, Mainz, Germany.
+Born 29 September 1561, Leuven, Spanish Netherlands (now Belgium). Died 4 May 1615, Mainz, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Roomen/)

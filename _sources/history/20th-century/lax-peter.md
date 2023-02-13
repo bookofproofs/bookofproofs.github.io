@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lax_Peter
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,origin-hungary,wolf-prize
+tags: prize-abel,origin-hungary,prize-wolf
 orderid: 1926
 title: Lax (3), Peter
 born: 1926
@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Received the Steele Prize for Seminal Contribution to Research, John von Neumann Prize, and Abel Prize in 2005. 
 8. Published over 175 papers, many of which are considered classics, and co-authored five books.
 
-Born 1 May1926, Budapest, Hungary.
+Born 1 May 1926, Budapest, Hungary.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Lax_Peter/)

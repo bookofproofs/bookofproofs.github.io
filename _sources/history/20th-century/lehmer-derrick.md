@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Co-developed the Lucas–Lehmer primality test and the Lehmer sieve, which have enabled more efficient ways to discover prime numbers. 
 10. Created the Lehmer code, which is a method for representing numbers as a series of decimal numbers to reduce the amount of memory required for calculations.
 
-Born 23 February 1905, Berkeley, California, USA. Died 22 May1991, Berkeley, California, USA.
+Born 23 February 1905, Berkeley, California, USA. Died 22 May 1991, Berkeley, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Lehmer_Derrick/)

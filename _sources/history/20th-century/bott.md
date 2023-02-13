@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bott
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-hungary,topology,wolf-prize
+tags: origin-hungary,topology,prize-wolf
 orderid: 1923
 title: Bott, Raoul
 born: 1923

@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. He solved a thirty year old problem concerning the uniqueness of orthogonal functions in an open set. 
 7. Olech is credited with developing the theory of measure, producing important work on the theory of trigonometric functions, and is remembered for discovering the Olech-Sierpinski theorem.
 
-Born 22 May1931, Pińczów, Poland. Died 1 July 2015, Warsaw, Poland.
+Born 22 May 1931, Pińczów, Poland. Died 1 July 2015, Warsaw, Poland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Olech/)

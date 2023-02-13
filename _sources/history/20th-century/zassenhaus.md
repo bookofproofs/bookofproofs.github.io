@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Discovered a closed formula for the volume of an n-dimensional unit sphere.
 10. Devised an algorithm to compute the class number of a binary quadratic form.
 
-Born 28 May1912, Koblenz-Moselweiss, Germany. Died 21 November 1991, Columbus, Ohio, USA.
+Born 28 May 1912, Koblenz-Moselweiss, Germany. Died 21 November 1991, Columbus, Ohio, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Zassenhaus/)

@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed the theory of positive definite compact operators, using a class of Bergman spaces.
 10. Proved a theorem which became known as the Bergman's theorem.
 
-Born 5 May1895, Częstochowa, Russian Empire (now Poland). Died 6 June 1977, Palo Alto, California, USA.
+Born 5 May 1895, Częstochowa, Russian Empire (now Poland). Died 6 June 1977, Palo Alto, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Bergman/)

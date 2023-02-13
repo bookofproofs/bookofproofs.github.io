@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Created a unified theory of laser beam propagation in the presence of nonlinear media. 
 10. Introduced the concept of a 'second order transfer function' for laser beam propagation.
 
-Born 16 April 1885, Benesov near Prague, Austria-Hungary (now Czech Republic). Died 28 May1968, Prague, Czechoslovakia (now Czech Republic).
+Born 16 April 1885, Benesov near Prague, Austria-Hungary (now Czech Republic). Died 28 May 1968, Prague, Czechoslovakia (now Czech Republic).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Rychlik/)

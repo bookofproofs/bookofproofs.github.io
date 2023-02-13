@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Pioneered the use of the Hopf-Riemann theorem in complex analysis.
 10. Demonstrated how to determine the solutions of unsteady partial differential equations using contributions from harmonic analysis and parabolic equations.
 
-Born 14 May1875, Turin, Italy. Died 18 August 1961, Rosario, Santa Fe, Argentina.
+Born 14 May 1875, Turin, Italy. Died 18 August 1961, Rosario, Santa Fe, Argentina.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Levi_Beppo/)

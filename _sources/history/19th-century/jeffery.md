@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Contributed to the development of the mathematical field of analytic number theory.
 7. Pioneered the development of probabilistic primality tests, commonly used for efficient primality testing in modern cryptography.
 
-Born 9 May1891, London, England. Died 27 April 1957, London, England.
+Born 9 May 1891, London, England. Died 27 April 1957, London, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Jeffery/)

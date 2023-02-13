@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Co-authored the book Mathematical Programming for Industrial and Management Problems in 1968.
 9. Received the National Medal of Science from President Gerald Ford in 1975.
 
-Born 8 November 1914, Portland, Oregon, USA. Died 13 May2005, Palo Alto, California, USA.
+Born 8 November 1914, Portland, Oregon, USA. Died 13 May 2005, Palo Alto, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Dantzig_George/)

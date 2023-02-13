@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Authored over 100 research papers on mathematics.
 10. Was an important leader in mathematics education through his work with Project CALCULUS.
 
-Born 19 May1927, Saint-Germain-en-Laye, near Paris, France. Died 12 September 2005, Berkeley, California, USA.
+Born 19 May 1927, Saint-Germain-en-Laye, near Paris, France. Died 12 September 2005, Berkeley, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Lang/)

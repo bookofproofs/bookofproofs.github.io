@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed a new family of modular forms, which can be used to describe complex conformal field theories.
 10. Published a seminal paper on the ‘Ring of Elliptic Functions’, which extended the theory of elliptic functions to multiple variables.
 
-Born 21 August 1929, Tamworth, Stafordshire, England. Died 31 May2019, Oxford, England.
+Born 21 August 1929, Tamworth, Stafordshire, England. Died 31 May 2019, Oxford, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Rayner/)

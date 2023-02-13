@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Pioneered the process of giving an abstract definition for 3D and 4D tensors and gave an axiomatic definition for abstract 2-dimensional and 3-dimensional manifolds. 
 10. Developed the concept of absolute parallelism in Riemannian geometry.
 
-Born 9 April 1869, Dolomieu (near Chambéry), Savoie, Rhône-Alpes, France. Died 6 May1951, Paris, France.
+Born 9 April 1869, Dolomieu (near Chambéry), Savoie, Rhône-Alpes, France. Died 6 May 1951, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Cartan/)

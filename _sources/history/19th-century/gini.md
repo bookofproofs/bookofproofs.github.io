@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Introduced a method for the analysis of samples of qualitative variables, now known as the Gini index method. 
 7. Published a book titled Variability and Mutability (1912), which presented the theory of variability, a coefficient that measures fluctuations in average incomes.
 
-Born 23 May1884, Motta di Livenza, near Treviso, Italy. Died 13 March 1965, Rome, Italy.
+Born 23 May 1884, Motta di Livenza, near Treviso, Italy. Died 13 March 1965, Rome, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Gini/)

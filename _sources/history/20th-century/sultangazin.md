@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Constructed original solutions to mathematical problems, including solutions to three-dimensional problems with four unknowns
 8. Derived innovative ways to generalize algebra and geometry to reach deeper understanding of mathematics
 
-Born 4 October 1936, Karaoba, Sarykol district, Kostanay region, Kazakh SSR, USSR (now Kazakhstan). Died 23 May2005, Berlin, Germany.
+Born 4 October 1936, Karaoba, Sarykol district, Kostanay region, Kazakh SSR, USSR (now Kazakhstan). Died 23 May 2005, Berlin, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Sultangazin/)

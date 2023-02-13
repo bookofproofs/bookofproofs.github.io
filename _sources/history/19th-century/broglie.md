@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Broglie
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: nobel-prize,physics
+tags: prize-nobel,physics
 orderid: 1892
 title: De Broglie, Louis Victor Pierre Raymond duc
 born: 1892

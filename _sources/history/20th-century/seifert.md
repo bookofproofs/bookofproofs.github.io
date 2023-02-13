@@ -29,6 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 4. Discovered the Seifert-Seifert identity for solving certain topological classification problems;
 5. Published several works on three-manifolds and their relation to the Poincaré conjecture.
 
-Born 27 May1907, Bernstadt, Saxony, Germany. Died 1 October 1996, Heidelberg, Germany.
+Born 27 May 1907, Bernstadt, Saxony, Germany. Died 1 October 1996, Heidelberg, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Seifert/)

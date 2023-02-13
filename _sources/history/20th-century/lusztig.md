@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lusztig
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,origin-romania,shaw-prize,topology
+tags: group-theory,origin-romania,prize-shaw,topology
 orderid: 1946
 title: Lusztig, George
 born: 1946
@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Discovered a cohomological characterization of conjugacy classes of semisimple elements in reductive groups, which led to the development of the geometric Satake correspondence.
 6. Awarded the Fields Medal in 1984 for his contributions to algebraic geometry, representation theory, and low-dimensional topology.
 
-Born 20 May1946, Timişoara, Romania.
+Born 20 May 1946, Timişoara, Romania.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Lusztig/)

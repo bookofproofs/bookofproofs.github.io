@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Developed the logic of partial terms, which allowed for the expression of incomplete objects to be expressed through propositions.
 8. Founded the school of thought known as Lvov-Warsaw School, which was based on his classification theory.
 
-Born 30 March 1886, Serpukhov (near Ivanovo-Vosniesiensk), Russia. Died 13 May1939, Warsaw, Poland.
+Born 30 March 1886, Serpukhov (near Ivanovo-Vosniesiensk), Russia. Died 13 May 1939, Warsaw, Poland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Lesniewski/)

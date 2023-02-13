@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Published a book on the theory of probability and expectation.
 8. Helped to explain the implications of the infinitesimal calculus and how it could be used to solve problems to do with permutations.
 
-Born 22 December 1877, Valperga Canavese, Italy. Died 25 May1963, Turin, Italy.
+Born 22 December 1877, Valperga Canavese, Italy. Died 25 May 1963, Turin, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Boggio/)

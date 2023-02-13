@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. He demonstrated how to rigorously prove irrationality of certain numbers.
 8. He developed Kummer's congruence and Kummer's criterion to prove Fermat's Last Theorem for a variety of exponents.
 
-Born 29 January 1810, Sorau, Brandenburg, Prussia (now Żary, Poland). Died 14 May1893, Berlin, Germany.
+Born 29 January 1810, Sorau, Brandenburg, Prussia (now Żary, Poland). Died 14 May 1893, Berlin, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kummer/)

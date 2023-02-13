@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Established the core principles of modern mathematical analysis, notably the theory of functions of a real variable.
 7. Published many important works in the field of mathematics such as "Foundations of Geometry," "Theory of Algebraic Functions," and "Theory of Differential Equations."
 
-Born 5 May1833, Moschin (near Posen), Prussia (now Poznań, Poland). Died 26 April 1902, Berlin, Germany.
+Born 5 May 1833, Moschin (near Posen), Prussia (now Poznań, Poland). Died 26 April 1902, Berlin, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Fuchs/)

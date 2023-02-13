@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Developed the ring of difference terms in 1955, a generalized approach to simplifying equation-solving that has been used extensively across the mathematics field.
 6. Published a paper in 1952 on the relation between topology and homology theory that helped researchers significantly simplify complex mathematical problems.
 
-Born 19 May1876, Glasgow, Scotland. Died 6 November 1934, Dowanhill, Glasgow, Scotland.
+Born 19 May 1876, Glasgow, Scotland. Died 6 November 1934, Dowanhill, Glasgow, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Gray_James/)

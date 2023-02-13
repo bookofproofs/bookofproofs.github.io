@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Demonstrated his eponymous theorem for harmonic series.
 10. Determined a formula for the number of intersection points of two analytic curves.
 
-Born 7 March 1895, Frankfurt am Main, Germany. Died 21 May1958, Freiburg im Breisgau, Germany.
+Born 7 March 1895, Frankfurt am Main, Germany. Died 21 May 1958, Freiburg im Breisgau, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Suss/)

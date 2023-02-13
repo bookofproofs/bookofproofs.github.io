@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Developed the continued fraction map as a new method for describing chaotic systems.
 9. Conducted pioneering research on nonlinear dynamics and their application to meteorology and other disciplines.
 
-Born 23 May1917, West Hartford, Connecticut, USA. Died 16 April 2008, Cambridge, Massachusetts, USA.
+Born 23 May 1917, West Hartford, Connecticut, USA. Died 16 April 2008, Cambridge, Massachusetts, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Lorenz_Edward/)

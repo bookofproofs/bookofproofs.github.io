@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Was one of the first mathematicians to study the combinatorics of braids. 
 8. Authored over 50 research papers during her career in Mathematics.
 
-Born 30 May1927, New York City, New York, USA.
+Born 30 May 1927, New York City, New York, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Birman/)

@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Created a set of novel algorithms for solving key decision-making tasks, reducing the amount of time and resources needed for Operations Research.
 8. Developed a revolutionary software based on Boolean algebra to aid in robotic control processes and decision-making of complex systems.
 
-Born 27 May1919, Waldheim, Saskatchewan, Canada. Died 28 November 2012, Waltham, Massachusetts, USA.
+Born 27 May 1919, Waldheim, Saskatchewan, Canada. Died 28 November 2012, Waltham, Massachusetts, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Hiebert/)

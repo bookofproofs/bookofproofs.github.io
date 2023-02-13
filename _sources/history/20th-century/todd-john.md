@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Awarded the Jack Todd Mathematics Achievement Award to recognize outstanding accomplishments in mathematics.
 10. Established a variety of research initiatives to better advance the field of mathematics.
 
-Born 16 May1911, Carnacally, Co Down, Ireland. Died 21 June 2007, Pasadena, California, USA.
+Born 16 May 1911, Carnacally, Co Down, Ireland. Died 21 June 2007, Pasadena, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Todd_John/)

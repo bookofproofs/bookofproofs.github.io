@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Discovered generalized power series expansions, used widely in mathematics and engineering.
 6. Oversaw the controversial firing of mathematician E. H. Moore and shaped the modern department into a respected program.
 
-Born 9 May1876, Chicago, Illinois, USA. Died 8 May1951, Harvey, Illinois, USA.
+Born 9 May 1876, Chicago, Illinois, USA. Died 8 May 1951, Harvey, Illinois, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Bliss/)

@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Was the first to review arithmetic and algebraic principles, including the rules of the binomial theorem, the theory of quadratic equations, and translations of Greek authors in algebra. 
 8. Discovered that "the number of decimal solutions of equations is equal to the number of primitive solutions".
 
-Born 25 May1903, Lundarreykjadalur, Iceland. Died 19 August 1990.
+Born 25 May 1903, Lundarreykjadalur, Iceland. Died 19 August 1990.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Asgeirsson/)

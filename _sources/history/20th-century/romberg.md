@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Discovered the Romberg Inequality, which relates the Riemann sum to a corresponding integral.
 10. Demonstrated the Capacity to Use Mathematics as a Tool for Investigating Physical Phenomena.
 
-Born 16 May1909, Berlin, Germany. Died 5 February 2003, Heidelberg, Germany.
+Born 16 May 1909, Berlin, Germany. Died 5 February 2003, Heidelberg, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Romberg/)

@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. He used number theory to discover a connection between algebra and calculus. 
 10. He developed a concept of complex numbers and set the stage for further exploration into complex analysis.
 
-Born 30 May1800, Jena, Germany. Died 12 March 1834, Erlangen, Germany.
+Born 30 May 1800, Jena, Germany. Died 12 March 1834, Erlangen, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Feuerbach/)

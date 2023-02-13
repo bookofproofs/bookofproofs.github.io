@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Authored the book “A Manual of Spherical and Practical Astronomy”.
 8. Established the American Journal of Mathematics and served as its first editor.
 
-Born 24 May1820, Milford, Pennsylvania, USA. Died 13 December 1870, St Paul, Minnesota, USA.
+Born 24 May 1820, Milford, Pennsylvania, USA. Died 13 December 1870, St Paul, Minnesota, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Chauvenet/)

@@ -29,6 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 4. He proved the Urysohn metrization theorem, a fundamental result in the study of topological spaces, in 1923. 
 5. Hartogs also made contributions to the fields of set theory, tensor calculus and calculus of variations.
 
-Born 20 May1874, Brussels, Belgium. Died 18 August 1943, Munich, Germany.
+Born 20 May 1874, Brussels, Belgium. Died 18 August 1943, Munich, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Hartogs/)

@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed a generalization of homology theory that could be applied to arbitrary group-like objects, now known as the Furtwängler homology theory.
 10. Contributed to the early development of category theory, which allowed the application of mathematical theories to diverse types of objects.
 
-Born 21 April 1869, Elze, Hanover, Prussia, now Germany. Died 19 May1940, Vienna, Austria.
+Born 21 April 1869, Elze, Hanover, Prussia, now Germany. Died 19 May 1940, Vienna, Austria.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Furtwangler/)

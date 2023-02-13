@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Wrote an important paper on the numerical computation of finite difference equations. 
 10. Devised a way to solve algebraic equations with linear operators.
 
-Born 19 January 1865, Edinburgh, Scotland. Died 16 May1935, Aberdeen, Scotland.
+Born 19 January 1865, Edinburgh, Scotland. Died 16 May 1935, Aberdeen, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Macdonald/)

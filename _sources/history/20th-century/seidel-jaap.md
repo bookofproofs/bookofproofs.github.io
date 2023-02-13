@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Published over 20 papers on mathematics in peer-reviewed journals. 
 10. Founded several mathematics clubs and associations across the Netherlands.
 
-Born 19 August 1919, The Hague, The Netherlands. Died 8 May2001, Eindhoven, The Netherlands.
+Born 19 August 1919, The Hague, The Netherlands. Died 8 May 2001, Eindhoven, The Netherlands.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Seidel_Jaap/)

@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed three important theorems related to determinants and polynomials. 
 10. Introduced the concept of homogeneous coordinates into mathematics.
 
-Born 5 March 1842, Heidelberg, Germany. Died 17 May1913, Strasbourg, Germany (now France).
+Born 5 March 1842, Heidelberg, Germany. Died 17 May 1913, Strasbourg, Germany (now France).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Weber_Heinrich/)

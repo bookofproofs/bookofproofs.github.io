@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Rediscovered the Weierstrass-Stone theorem and established its applications in Probability Theory.
 10. Proposed an extension of the classical concepts of limits, ergodicity, and recurrence.
 
-Born 5 February 1930, Krzemieniec, Poland (now Ukraine). Died 29 May2005, Wrocław, Poland.
+Born 5 February 1930, Krzemieniec, Poland (now Ukraine). Died 29 May 2005, Wrocław, Poland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Urbanik/)

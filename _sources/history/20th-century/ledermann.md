@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Researched the algebra of the Burnside ring and made substantial progress towards the classification of finite groups.
 8. Established the basis of the modern theory of presentation of groups.
 
-Born 18 March 1911, Berlin, Germany. Died 22 May2009, London, England.
+Born 18 March 1911, Berlin, Germany. Died 22 May 2009, London, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Ledermann/)

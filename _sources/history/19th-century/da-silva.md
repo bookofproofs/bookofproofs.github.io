@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. He developed an algorithm for solving the Quillen-Suslin theorem.
 8. He was an early advocate of the use of algebraic topology to study topics in algebraic geometry.
 
-Born 16 May1814, Lisbon, Portugal. Died 6 October 1878, Oeiras, Portugal.
+Born 16 May 1814, Lisbon, Portugal. Died 6 October 1878, Oeiras, Portugal.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Da_Silva/)

@@ -4,7 +4,7 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: astronomy,origin-usa
 orderid: 1879
-title: Wilson (3), Edwin
+title: Wilson (4), Edwin
 born: 1879
 died: 1964
 keywords: Edwin Wilson, algorithm, Moon, Stock Market, economics, finance, portfolio management, options pricing

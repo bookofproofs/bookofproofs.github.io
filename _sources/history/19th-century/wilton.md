@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Mentored several prominent students who later went on to make their own contributions to the mathematical landscape. 
 7. Was elected a Fellow of the Royal Society of London for his outstanding work in mathematics.
 
-Born 2 May1884, Belfast (Port Fairy), Victoria, Australia. Died 12 April 1944, Adelaide, Australia.
+Born 2 May 1884, Belfast (Port Fairy), Victoria, Australia. Died 12 April 1944, Adelaide, Australia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Wilton/)

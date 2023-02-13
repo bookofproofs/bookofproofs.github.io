@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed the mathematical theory of geomagnetic field generation.
 10. Developed a mathematical theory of turbulent diffusion of cosmic rays.
 
-Born 20 May1908, Norrköping, Sweden. Died 2 April 1995, Djursholm, Sweden.
+Born 20 May 1908, Norrköping, Sweden. Died 2 April 1995, Djursholm, Sweden.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Alfven/)

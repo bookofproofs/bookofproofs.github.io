@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Awarded several prestigious mathematics awards throughout his career. 
 10. Received international recognition for his work in mathematics.
 
-Born 25 December 1884, Guadalajara, Jalisco, Mexico. Died 22 May1935, Mexico City, Mexico.
+Born 25 December 1884, Guadalajara, Jalisco, Mexico. Died 22 May 1935, Mexico City, Mexico.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Prieto/)

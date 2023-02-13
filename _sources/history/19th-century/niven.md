@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Published a book The Theory of Numbers, which was the first comprehensive collection of proofs in the theory of divisibility. 
 9. Established the Arbuthnot Lectureship on mathematical analysis at Edinburgh University.
 
-Born 24 March 1842, Peterhead, Scotland. Died 29 May1917, Sidcup, Kent, England.
+Born 24 March 1842, Peterhead, Scotland. Died 29 May 1917, Sidcup, Kent, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Niven/)

@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Authored several important monographs on the study of Boundary Value Problems, Theory of Functions, and Differential Equations. 
 9. Researched and presented theories on the existence and construction of orthogonal polynomials, which are now considered a classic.
 
-Born 5 May1897, Naples, Italy. Died 21 November 1978, Turin, Italy.
+Born 5 May 1897, Naples, Italy. Died 21 November 1978, Turin, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Tricomi/)

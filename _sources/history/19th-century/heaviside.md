@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. He introduced a novel approach to the mechanism of electromagnetic induction.
 10. He developed a notion of a potential function which became fundamental to modern analysis.
 
-Born 18 May1850, Camden Town, London, England. Died 3 February 1925, Torquay, Devon, England.
+Born 18 May 1850, Camden Town, London, England. Died 3 February 1925, Torquay, Devon, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Heaviside/)

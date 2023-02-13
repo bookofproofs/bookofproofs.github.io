@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Kerr proposed a mechanism for explaining around 30% of the gamma-ray burst phenomenon. 
 10. He was the first to realize and describe the new conservation laws in general relativity of energy, momentum, and angular momentum.
 
-Born 16 May1934, Kurow, New Zealand.
+Born 16 May 1934, Kurow, New Zealand.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kerr_Roy/)

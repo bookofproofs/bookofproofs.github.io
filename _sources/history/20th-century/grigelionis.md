@@ -34,6 +34,6 @@ contributors: @Leticija-Dubickaite,bookofproofs,@ChatGPT
 9. Established new theorems related to multidimensional Fourier series. 
 10. Formulated a generalization of the Lebesgue’s representation theorem in the context of Banach spaces.
 
-Born 1 April 1935, Iciūnai, near Vaškai, Lithuania. Died 23 May2014, Vilnius, Lithuania.
+Born 1 April 1935, Iciūnai, near Vaškai, Lithuania. Died 23 May 2014, Vilnius, Lithuania.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Grigelionis/)

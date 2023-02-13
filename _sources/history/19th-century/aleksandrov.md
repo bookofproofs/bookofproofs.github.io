@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Subsequently showed how to construct smooth integrals on suchobjects.
 7. Formulated a generalization of Euclidean geometry, the Lobachevsky–Bolyai–Gauss geometry, which provided an entirely new approach to analyzing the shapes of physical surfaces and other objects.
 
-Born 7 May1896, Bogorodsk (also called Noginsk), Russia. Died 16 November 1982, Moscow, USSR.
+Born 7 May 1896, Bogorodsk (also called Noginsk), Russia. Died 16 November 1982, Moscow, USSR.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Aleksandrov/)

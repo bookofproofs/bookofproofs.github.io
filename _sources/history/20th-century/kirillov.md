@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Solved the Riemann-Hilbert problem in 1957.
 10. Published a major paper on differential equations in 1959.
 
-Born 9 May1936, Moscow, USSR, (now Russia).
+Born 9 May 1936, Moscow, USSR, (now Russia).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kirillov/)

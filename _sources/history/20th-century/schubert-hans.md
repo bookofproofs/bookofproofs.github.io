@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Revolutionized the way in which mathematics was used in modeling physical systems and advances in chaos theory.
 10. Developed new methods for studying the behavior of systems in mathematical and physical settings.
 
-Born 1 May1908, Weida, Thüringen Germany. Died 24 November 1987, Halle, Germany.
+Born 1 May 1908, Weida, Thüringen Germany. Died 24 November 1987, Halle, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Schubert_Hans/)

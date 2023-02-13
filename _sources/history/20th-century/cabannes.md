@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Provided key understanding in the category of schemes.
 10. Pioneered the use of algebraic differentials in algebraic geometry.
 
-Born 21 January 1923, Montpellier, Hérault, France. Died 30 May2016, Saint-Cyr-sur-Mer, Var, France.
+Born 21 January 1923, Montpellier, Hérault, France. Died 30 May 2016, Saint-Cyr-sur-Mer, Var, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Cabannes/)

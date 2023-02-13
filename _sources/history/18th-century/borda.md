@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Pioneered the use of the "law of sines" to calculate distances between two points.
 10. Applied calculus to the study of mechanics, resulting in the "Borda theorem".
 
-Born 4 May1733, Dax, France. Died 19 February 1799, Paris, France.
+Born 4 May 1733, Dax, France. Died 19 February 1799, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Borda/)

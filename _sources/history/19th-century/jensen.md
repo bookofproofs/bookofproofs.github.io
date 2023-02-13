@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Represented Denmark in the International Mathematical Congress in 1900.
 6. His textbook 'Vergleichende Begriffslehre der Quantität und Qualität' was used for many years as the reference for teaching analysis in the university level in Denmark.
 
-Born 8 May1859, Nakskov, Denmark. Died 5 March 1925, Copenhagen, Denmark.
+Born 8 May 1859, Nakskov, Denmark. Died 5 March 1925, Copenhagen, Denmark.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Jensen/)

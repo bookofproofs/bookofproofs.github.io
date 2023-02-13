@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Explained the phenomenon of difficulty of solving equations from a mathematical point of view.
 10. Described how any regular polygon could be constructed using a ruler and compass.
 
-Born 15 May1835, Metz, France. Died 19 October 1890, Nancy, France.
+Born 15 May 1835, Metz, France. Died 19 October 1890, Nancy, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Mathieu_Emile/)

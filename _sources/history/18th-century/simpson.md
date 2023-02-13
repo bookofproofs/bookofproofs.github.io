@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Developed the Simpson Line, a special line in regards to conic sections. 
 7. Was among the first to use symbols to represent the operators of algebra.
 
-Born 20 August 1710, Market Bosworth, Leicestershire, England. Died 14 May1761, Market Bosworth, Leicestershire, England.
+Born 20 August 1710, Market Bosworth, Leicestershire, England. Died 14 May 1761, Market Bosworth, Leicestershire, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Simpson/)

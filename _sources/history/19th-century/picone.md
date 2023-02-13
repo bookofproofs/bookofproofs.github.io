@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Developed the notion of "Picone formula" for the solution of certain elliptic partial differential equations.
 6. Extensively studied the nonlinear partial differential equations and their analytic properties.
 
-Born 2 May1885, Lercara Friddi, Palermo, Italy. Died 11 April 1977, Rome, Italy.
+Born 2 May 1885, Lercara Friddi, Palermo, Italy. Died 11 April 1977, Rome, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Picone/)

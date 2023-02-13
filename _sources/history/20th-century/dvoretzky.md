@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Co-developed the Dvoretzky–Kac–Sudakov inequality, which limits the radius of a sphere in a high-dimensional Euclidean space.
 8. Was a major contributor to the field of the probabilistic analysis of algorithms, and established a number of results related to them.
 
-Born 3 May1916, Khorol, Ukraine. Died 8 May2008, Jerusalem, Israel.
+Born 3 May 1916, Khorol, Ukraine. Died 8 May 2008, Jerusalem, Israel.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Dvoretzky/)

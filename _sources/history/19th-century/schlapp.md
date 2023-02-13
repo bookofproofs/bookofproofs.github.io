@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Conducted research that reduced the complexity of certain iterative equations, aiding with the development of fast-computing algorithms.
 8. Developed a new approach to mathematical optimization by unifying the principles of calculus and linear algebra.
 
-Born 18 July 1899, Edinburgh, Scotland. Died 31 May1991, Ashford, Kent, England.
+Born 18 July 1899, Edinburgh, Scotland. Died 31 May 1991, Ashford, Kent, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Schlapp/)

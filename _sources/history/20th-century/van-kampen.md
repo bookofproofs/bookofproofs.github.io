@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Wrote a paper concerning normal forms of singular points of differential equations.
 10. Developed a method of linear algebraic geometry.
 
-Born 28 May1908, Berchem, Antwerp, Belgium. Died 11 February 1942, Baltimore, Maryland, USA.
+Born 28 May 1908, Berchem, Antwerp, Belgium. Died 11 February 1942, Baltimore, Maryland, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Van_Kampen/)

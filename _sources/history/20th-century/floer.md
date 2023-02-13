@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Developed the Floer-Novikov homology as a tool in algebraic topology. 
 8. Was awarded the prestigious Crafoord Prize in mathematics in 1994.
 
-Born 23 August 1956, Duisburg, Germany. Died 15 May1991, Bochum, Germany.
+Born 23 August 1956, Duisburg, Germany. Died 15 May 1991, Bochum, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Floer/)

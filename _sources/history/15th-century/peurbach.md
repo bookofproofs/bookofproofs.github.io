@@ -29,6 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 4. Created elegant mathematical proofs of the conditions for the cycloid and the parabola, the latter with the assumption of a constant acceleration for falling bodies. 
 5. Advanced the practice of astronomy and mathematics through his teachings and his collaboration with the famous mathematician and astronomer, Regiomontanus.
 
-Born 30 May1423, Peuerbach, Austria. Died 8 April 1461, Vienna, Austria.
+Born 30 May 1423, Peuerbach, Austria. Died 8 April 1461, Vienna, Austria.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Peurbach/)

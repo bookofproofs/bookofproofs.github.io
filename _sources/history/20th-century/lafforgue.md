@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lafforgue
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: clay-research-award,fields-medal
+tags: prize-clay-research-award,prize-fields-medal
 orderid: 1966
 title: Lafforgue, Laurent
 born: 1966

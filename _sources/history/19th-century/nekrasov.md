@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed criteria for the solvability of equations with bounded delays, and criteria for their solvability. 
 10. Established a theory of the decay of solutions to equations with retarded arguments and constructed its solutions.
 
-Born 9 December 1883, Moscow, Russia. Died 21 May1957, Moscow, Russia.
+Born 9 December 1883, Moscow, Russia. Died 21 May 1957, Moscow, Russia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Nekrasov/)

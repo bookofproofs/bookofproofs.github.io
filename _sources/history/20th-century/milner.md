@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. He formulated the Scattered Convergence theorem, which states that an arbitrary sequence of functions can be convergent if and only if it contains a convergent subsequence. 
 7. He also contributed to the study of operator algebras and their applications to algebraic topology.
 
-Born 17 May1928, London, England. Died 20 July 1997, Calgary, Alberta, Canada.
+Born 17 May 1928, London, England. Died 20 July 1997, Calgary, Alberta, Canada.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Milner/)

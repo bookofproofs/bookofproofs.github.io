@@ -29,6 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 4. Elected to the American Academy of Arts and Sciences in 2000.
 5. Received the prestigious National Medal of Science in 2011.
 
-Born 15 February 1915, Shefong, Jiangsi, China. Died 6 May2009, Needham, Massachusetts, USA.
+Born 15 February 1915, Shefong, Jiangsi, China. Died 6 May 2009, Needham, Massachusetts, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Hsiung/)

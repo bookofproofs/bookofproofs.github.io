@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed an important method called Variational Iteration which has found applications in several fields. 
 10. Helped to establish a world-class research group in numerical analysis and nonlinear analysis at the Technical University of Berlin.
 
-Born 10 April 1832, Darmstadt-Bessungen, Darmstadt, Grand Duchy of Hesse, now Germany. Died 5 May1901, Frankfurt am Main, Germany.
+Born 10 April 1832, Darmstadt-Bessungen, Darmstadt, Grand Duchy of Hesse, now Germany. Died 5 May 1901, Frankfurt am Main, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Zehfuss/)

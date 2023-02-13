@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Established the Fekete Center for Research in Mathematics at the Hebrew University of Jerusalem.
 8. Developed a revolutionary new method of representing mathematical solutions in the form of a curved surface.
 
-Born 19 July 1886, Zenta, Bácska, Austria-Hungary (now Senta, Serbia). Died 13 May1957, Jerusalem, Israel.
+Born 19 July 1886, Zenta, Bácska, Austria-Hungary (now Senta, Serbia). Died 13 May 1957, Jerusalem, Israel.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Fekete/)

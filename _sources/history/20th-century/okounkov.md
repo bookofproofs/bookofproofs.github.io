@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Okounkov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-russia
+tags: prize-fields-medal,origin-russia
 orderid: 1969
 title: Okounkov, Andrei Yuryevich
 born: 1969

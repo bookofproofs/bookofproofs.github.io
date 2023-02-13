@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Created a device known as a 'logarithmic spiral compass' for use in surveying. 
 10. Developed a force meter for measuring the force of jet propulsion.
 
-Born 19 May1832, Gray, Haute-Saône, France. Died 9 March 1866, Paris, France.
+Born 19 May 1832, Gray, Haute-Saône, France. Died 9 March 1866, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Bour/)

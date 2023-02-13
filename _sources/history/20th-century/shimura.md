@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. He published groundbreaking theories regarding the structure of Shimura varieties, among which the famous theorem of him and Masayoshi Nagura. 
 6. He received the United States National Medal of Science in 1996.
 
-Born 23 February 1930, Hamamatsu, Japan. Died 3 May2019, Princeton, New Jersey, USA.
+Born 23 February 1930, Hamamatsu, Japan. Died 3 May 2019, Princeton, New Jersey, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Shimura/)

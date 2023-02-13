@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Proved that trajectories of two forces acting on a particle move on two opposite arcs. 
 10. Developed a method for solving a general equation of the nth degree in a single variable.
 
-Born 16 May1718, Milan, Habsburg Empire (now Italy). Died 9 January 1799, Milan, Habsburg Empire (now Italy).
+Born 16 May 1718, Milan, Habsburg Empire (now Italy). Died 9 January 1799, Milan, Habsburg Empire (now Italy).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Agnesi/)

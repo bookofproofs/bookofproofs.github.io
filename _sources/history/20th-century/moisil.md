@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Discovered a method of calculation which sped up computation by an order of magnitude.
 8. Pioneered research into the use of computers to solve mechanical problems.
 
-Born 10 January 1906, Tulcea, Romania. Died 21 May1973, Ottawa, Canada.
+Born 10 January 1906, Tulcea, Romania. Died 21 May 1973, Ottawa, Canada.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Moisil/)

@@ -4,7 +4,7 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: origin-scotland
 orderid: 1868
-title: Thomson (3), William Leslie
+title: Thomson (4), William Leslie
 born: 1868
 died: 1951
 keywords: William Leslie Thomson, Edinburgh, Cambridge, Kirkwall, Kilmarnock, George Heriot's School, Theorem

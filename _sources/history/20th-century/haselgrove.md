@@ -34,6 +34,6 @@ contributors: @Jenifer-Leech,@Edmund-Robertson,bookofproofs,@ChatGPT
 9. Served as Chairman of the British Mathematical Colloquium Board.
 10. Received the London Mathematical Society's Whitehead Prize in 1995.
 
-Born 26 September 1926, Chingford, Essex, England. Died 27 May1964, Manchester, England.
+Born 26 September 1926, Chingford, Essex, England. Died 27 May 1964, Manchester, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Haselgrove/)

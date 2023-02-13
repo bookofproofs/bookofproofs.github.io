@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. She was made an Honorary Fellow of the British Society for the History of Mathematics in 1932.
 7. In 1935, Beatrice was awarded an OBE by King George V for her services in promoting mathematics among the female population.
 
-Born 30 May1874, Streatham Common, London, England. Died 9 July 1947, Streatham Common, London, England.
+Born 30 May 1874, Streatham Common, London, England. Died 9 July 1947, Streatham Common, London, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Cave-Browne-Cave_Beatrice/)

@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Published Mathematical and Education Papers, a comprehensive work on mathematics, the teaching of mathematics and examination systems, in 1865.
 7. Carried out an extensive analysis of the mathematics achievements of students at the University of Sydney, which resulted in the first rules for awarding university prizes in 1874.
 
-Born 21 May1898, Glen Iris, Melbourne, Australia. Died 21 November 1966, Melbourne, Australia.
+Born 21 May 1898, Glen Iris, Melbourne, Australia. Died 21 November 1966, Melbourne, Australia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Cherry/)

@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Established the theoretical basis of enstrophy transport in dynamical systems. 
 10. Developed a mathematical model of classical spin liquid theory.
 
-Born 22 May1903, Vannes, France. Died 16 March 1992, Paris, France.
+Born 22 May 1903, Vannes, France. Died 16 March 1992, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Rocard/)

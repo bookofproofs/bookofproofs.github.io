@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Established an algebraic foundation for the Calculus of Variations. 
 10. Demonstrated how to construct a map of any large area of the sky with a particular scale and accuracy.
 
-Born 7 March 1792, Slough, Buckinghamshire, England. Died 11 May1871, Hawkhurst, Kent, England.
+Born 7 March 1792, Slough, Buckinghamshire, England. Died 11 May 1871, Hawkhurst, Kent, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Herschel/)

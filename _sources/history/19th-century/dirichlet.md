@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. He developed the Dirichlet function, used in complex integration theory.
 10. He discovered the hypergeometric function and defined the hypergeometric series.
 
-Born 13 February 1805, Düren, French Empire (now Germany). Died 5 May1859, Göttingen, Hanover (now Germany).
+Born 13 February 1805, Düren, French Empire (now Germany). Died 5 May 1859, Göttingen, Hanover (now Germany).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Dirichlet/)

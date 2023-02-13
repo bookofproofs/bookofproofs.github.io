@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 4. He is also credited with being the first to provide a proof for the twin prime conjecture, which states that there are infinitely many prime numbers in the form of 6n ± 1.
 5. Chen Jingrun's most renowned achievement is his proof of the even Goldbach Conjecture, which was finally accepted by the International Mathematical community after many years of attempts by numerous mathematicians from all over the world.
 
-Born 22 May1933, Fuzhou, Fujian province, China. Died 19 March 1996, Beijing, China.
+Born 22 May 1933, Fuzhou, Fujian province, China. Died 19 March 1996, Beijing, China.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Chen_Jingrun/)

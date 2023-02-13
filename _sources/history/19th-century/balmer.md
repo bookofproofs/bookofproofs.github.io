@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Discovered the Balmer Law of wavelengths for the hydrogen atom.
 8. Discovered the physical basis for the Balmer series.
 
-Born 1 May1825, Lausen, Basel-Land, Switzerland. Died 12 March 1898, Basel, Switzerland.
+Born 1 May 1825, Lausen, Basel-Land, Switzerland. Died 12 March 1898, Basel, Switzerland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Balmer/)

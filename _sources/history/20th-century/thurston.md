@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Thurston
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-usa,topology
+tags: prize-fields-medal,origin-usa,topology
 orderid: 1946
 title: Thurston, William Paul
 born: 1946

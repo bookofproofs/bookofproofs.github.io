@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Authored a novel instruction manual for mathematicians interested in applied mathematics.
 10. Received numerous awards and recognitions throughout his career for his contributions to the field of mathematics.
 
-Born 28 August 1862, Rome, Italy. Died 16 May1943, Rome, Italy.
+Born 28 August 1862, Rome, Italy. Died 16 May 1943, Rome, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Marcolongo/)

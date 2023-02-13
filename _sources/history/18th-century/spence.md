@@ -29,6 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 4. Completed successful research on higher mathematics, including Calculus and Geometry.
 5. Created a teaching method which still serves as the basis for many of the teaching of mathematics today.
 
-Born 31 July 1777, Greenock, Scotland. Died 22 May1815, Glasgow, Scotland.
+Born 31 July 1777, Greenock, Scotland. Died 22 May 1815, Glasgow, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Spence/)

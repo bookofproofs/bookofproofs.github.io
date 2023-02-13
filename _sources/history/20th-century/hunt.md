@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. He developed a calculus-based method for plotting a ship's course on a chart.
 6. He developed a method of determining a ship's speed and direction while underway.
 
-Born 4 March 1916, Washington D.C., USA. Died 30 May2008, Princeton, New Jersey, USA.
+Born 4 March 1916, Washington D.C., USA. Died 30 May 2008, Princeton, New Jersey, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Hunt/)

@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Authored a paper that demonstrates the existence of nonarchimedean measures.
 10. Co-authored a paper that links differential equations and holomorphic bundles and provided a new understanding of the geometric structure of the group of rational points of certain algebraic varieties.
 
-Born 21 May1923, La Chaux-de-Fonds, Switzerland. Died 11 August 2003, Princeton, New Jersey, USA.
+Born 21 May 1923, La Chaux-de-Fonds, Switzerland. Died 11 August 2003, Princeton, New Jersey, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Borel_Armand/)

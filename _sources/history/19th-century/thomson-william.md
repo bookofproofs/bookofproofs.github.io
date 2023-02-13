@@ -4,7 +4,7 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: origin-scotland
 orderid: 1856
-title: Thomson (2), William
+title: Thomson (3), William
 born: 1856
 died: 1947
 keywords: William Thomson, vector analysis, Fourier analysis, thermodynamics, energy, temperature, gyroscope

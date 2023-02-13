@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Proved the basic properties of a mathematical structure known as the function space. 
 10. Provided proofs of the ability of certain linear equations to represent surfaces and introduced the idea of a “generalized surface.”
 
-Born 2 June 1916, Washington, D.C., USA. Died 3 May1988, Milan, Italy.
+Born 2 June 1916, Washington, D.C., USA. Died 3 May 1988, Milan, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Seidenberg/)

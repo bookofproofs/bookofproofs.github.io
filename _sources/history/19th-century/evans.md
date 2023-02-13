@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. His research in partial differential equations and Lie groups was important for the development of modern differential geometry.
 10. Named Fellow of the Royal Society in 1957 for his contributions to mathematics.
 
-Born 11 May1887, Boston, Massachusetts, USA. Died 8 December 1973, Berkeley, California, USA.
+Born 11 May 1887, Boston, Massachusetts, USA. Died 8 December 1973, Berkeley, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Evans/)

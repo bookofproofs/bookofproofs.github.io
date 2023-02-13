@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. He developed a transformation formula for integrating a trigonometric function twice without knowing the value of the integrals.
 10. He demonstrated a theorem which expressed the arc of a hyperbola in terms of the sum of the distances between its vertices and any external point.
 
-Born 31 January 1715, Sinigaglia (now Senigallia, Italy). Died 14 May1797, Sinigaglia (now Senigallia, Italy).
+Born 31 January 1715, Sinigaglia (now Senigallia, Italy). Died 14 May 1797, Sinigaglia (now Senigallia, Italy).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Fagnano_Giovanni/)

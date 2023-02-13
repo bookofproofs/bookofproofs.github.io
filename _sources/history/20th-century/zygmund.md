@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Established connections between the characters of finite groups and probability theory
 9. Earned the highest distinction of the International Mathematical Union, an honorary affiliation of the Fields Medal
 
-Born 25 December 1900, Warsaw, Russian Empire (now Poland). Died 30 May1992, Chicago, Illinois, USA.
+Born 25 December 1900, Warsaw, Russian Empire (now Poland). Died 30 May 1992, Chicago, Illinois, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Zygmund/)

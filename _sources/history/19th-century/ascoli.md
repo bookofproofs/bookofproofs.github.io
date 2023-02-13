@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. His work in differential geometry led to the Ascoli-Arzelà theorem.
 7. He is best known for the Ascoli-Arzelà theorem which states that a sequence of continuous functions is relatively compact if and only if it is equicontinuous and pointwise bounded.
 
-Born 12 December 1887, Livorno, Italy. Died 10 May1957, Turin, Italy.
+Born 12 December 1887, Livorno, Italy. Died 10 May 1957, Turin, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Ascoli/)

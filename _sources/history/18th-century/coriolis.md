@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. He developed the concept of kinetic and potential energy, which are used to explain the behavior of objects in a rotating environment. 
 10. He developed the concept of angular velocity, which is used to explain the behavior of objects rotating in a curved path.
 
-Born 21 May1792, Paris, France. Died 19 September 1843, Paris, France.
+Born 21 May 1792, Paris, France. Died 19 September 1843, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Coriolis/)

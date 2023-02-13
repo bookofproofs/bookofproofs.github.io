@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Weil
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: bourbaki,number-theory,wolf-prize
+tags: bourbaki,number-theory,prize-wolf
 orderid: 1906
 title: Weil, André Abraham
 born: 1906
@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Established the field of K-theory (algebraic K-theory) by introducing novel methods and insights.
 9. Demonstrated a foundational insight into the relationship between arithmetic algebraic geometry and number theory that was later termed Weil reciprocity.
 
-Born 6 May1906, Paris, France. Died 6 August 1998, Princeton, New Jersey, USA.
+Born 6 May 1906, Paris, France. Died 6 August 1998, Princeton, New Jersey, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Weil/)

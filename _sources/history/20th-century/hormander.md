@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hormander
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-sweden,wolf-prize
+tags: prize-fields-medal,origin-sweden,prize-wolf
 orderid: 1931
 title: Hörmander, Lars
 born: 1931

@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed a numerical method based on stochastic calculus to solve certain types of partial differential equations.
 10. Proposed a novel method to reduce the order of certain nonlinear, systems of differential equations.
 
-Born 16 August 1884, Bologna, Italy. Died 21 May1946, Bologna, Italy.
+Born 16 August 1884, Bologna, Italy. Died 21 May 1946, Bologna, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Puppini/)

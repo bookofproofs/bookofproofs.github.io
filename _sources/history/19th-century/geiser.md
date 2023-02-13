@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Established the concept of differential-algebraic systems of equations.
 8. Published numerous mathematical journals and books on the subjects of geometry, algebra and mechanics.
 
-Born 26 February 1843, Langenthal, Bern, Switzerland. Died 7 May1934, Küsnacht, Zürich, Switzerland.
+Born 26 February 1843, Langenthal, Bern, Switzerland. Died 7 May 1934, Küsnacht, Zürich, Switzerland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Geiser/)

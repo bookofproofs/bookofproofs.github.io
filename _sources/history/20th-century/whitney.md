@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Whitney
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-usa,wolf-prize
+tags: origin-usa,prize-wolf
 orderid: 1907
 title: Whitney, Hassler
 born: 1907
@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Derived the Whitney extension theorem, which states that every continuous function on a closed subset of space can be extended to a continuous function on the entire space.
 8. Developed a number of inequalities, which established the analytical foundations for the existence of certain structures in manifolds.
 
-Born 23 March 1907, New York, USA. Died 10 May1989, Mount Dents Blanches, Switzerland.
+Born 23 March 1907, New York, USA. Died 10 May 1989, Mount Dents Blanches, Switzerland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Whitney/)

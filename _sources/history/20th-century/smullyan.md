@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Devised a system of axioms of set theory that includes an elementary logic. 
 10. Experimented with the properties of number theory, exploring relationships between set theory and arithmetic.
 
-Born 25 May1919, Far Rockaway, Long Island, New York City, USA. Died 6 February 2017, Hudson, New York, USA.
+Born 25 May 1919, Far Rockaway, Long Island, New York City, USA. Died 6 February 2017, Hudson, New York, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Smullyan/)

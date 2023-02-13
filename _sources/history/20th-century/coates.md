@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Received an honorary doctorate from the University of Cambridge in 2004. 
 9. Established the John Coates Fellowship Award to recognize and reward outstanding achievements in mathematics in 2011.
 
-Born 26 January 1945, Possum Brush, Manning Valley, New South Wales, Australia. Died 9 May2022, Cambridge, England.
+Born 26 January 1945, Possum Brush, Manning Valley, New South Wales, Australia. Died 9 May 2022, Cambridge, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Coates/)

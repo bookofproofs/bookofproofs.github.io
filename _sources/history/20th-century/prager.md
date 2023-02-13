@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Pioneered computer-based simulation tools and methods for engineering analyses.
 8. Developed and popularised numerous mathematical models for determining the strength and failure of materials under varying loading conditions.
 
-Born 23 May1903, Karlsruhe, Germany. Died 16 March 1980, Zürich, Switzerland.
+Born 23 May 1903, Karlsruhe, Germany. Died 16 March 1980, Zürich, Switzerland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Prager/)

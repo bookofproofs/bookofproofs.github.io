@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. He developed a theory which unified crystallographic geometry, space groups and mathematical group theory. 
 9. He helped stimulate the growth of linear algebra.
 
-Born 17 April 1853, Landsberg an der Warthe, Prussia (now Gorzów-Wielkopolski, Poland). Died 27 May1928, Frankfurt am Main, Germany.
+Born 17 April 1853, Landsberg an der Warthe, Prussia (now Gorzów-Wielkopolski, Poland). Died 27 May 1928, Frankfurt am Main, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Schonflies/)

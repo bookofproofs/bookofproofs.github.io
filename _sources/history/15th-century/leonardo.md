@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Suggested the principle of the golden ratio in his drawings.
 10. Investigated mathematical theories of propulsion for air and water travel.
 
-Born 15 April 1452, Vinci, near Empolia (now Italy). Died 2 May1519, Cloux, Amboise, France.
+Born 15 April 1452, Vinci, near Empolia (now Italy). Died 2 May 1519, Cloux, Amboise, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Leonardo/)

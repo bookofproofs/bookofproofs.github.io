@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. He investigated the properties of real number fields through his work on the algebraic sum of squares. 
 8. He developed new methods to calculate Asiatic logarithms.
 
-Born 14 September 1845, Peterhead, Scotland. Died 11 May1923, Aberdeen, Scotland.
+Born 14 September 1845, Peterhead, Scotland. Died 11 May 1923, Aberdeen, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Niven_Charles/)

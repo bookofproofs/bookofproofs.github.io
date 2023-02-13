@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Milnor
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,fields-medal,origin-usa,wolf-prize
+tags: prize-abel,prize-fields-medal,origin-usa,prize-wolf
 orderid: 1931
 title: Milnor, John Willard
 born: 1931

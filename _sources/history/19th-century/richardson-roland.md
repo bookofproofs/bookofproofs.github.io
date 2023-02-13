@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Received numerous awards and recognitions in mathematics, including the Mathematical Association of America's Lester R. Ford Award in 1996. 
 6. Established the Roland Richardson Endowment Fund at the University of Michigan to support future generations of mathematicians.
 
-Born 14 May1878, Dartmouth, Halifax, Nova Scotia, Canada. Died 17 July 1949, South River Lake, Antigonish, Nova Scotia, Canada.
+Born 14 May 1878, Dartmouth, Halifax, Nova Scotia, Canada. Died 17 July 1949, South River Lake, Antigonish, Nova Scotia, Canada.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Richardson_Roland/)

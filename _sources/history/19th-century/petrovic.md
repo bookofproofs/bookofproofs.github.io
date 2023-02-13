@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Put forth a breakthrough in the understanding of planar curves and related the distances traveled by them to the complex numbers, allowing for easier calculations.
 10. Discovered ways to calculate stationary points and stability conditions in systems of differential equations by introducing the concept of motion equations.
 
-Born 6 May1868, Belgrade, Serbia. Died 8 June 1943, Belgrade, Yugoslavia, now Serbia.
+Born 6 May 1868, Belgrade, Serbia. Died 8 June 1943, Belgrade, Yugoslavia, now Serbia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Petrovic/)

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tate
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,origin-usa,wolf-prize
+tags: prize-abel,origin-usa,prize-wolf
 orderid: 1925
 title: Tate, John Torrence
 born: 1925

@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed a new algorithm for computing Lagrangian minimization, which enables the derivation of analytical solutions for problems involving nonlinear differential equations.
 10. Applied mathematical principles to the field of robotics in order to develop a model for predicting human behavior in complex AI environments.
 
-Born 24 May1888, Porto Empedocle, Italy. Died 13 October 1979, Florence, Italy.
+Born 24 May 1888, Porto Empedocle, Italy. Died 13 October 1979, Florence, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Sansone/)

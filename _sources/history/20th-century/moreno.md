@@ -35,6 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Mentored multiple students in the areas of mathematics and engineering.
 8. Established the first department of mathematics at the Universidad de la Habana in Cuba.
 
-Born 27 May1925, Santiago de Chile, Chile. Died 11 April 2015, Santiago de Chile, Chile.
+Born 27 May 1925, Santiago de Chile, Chile. Died 11 April 2015, Santiago de Chile, Chile.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Moreno/)

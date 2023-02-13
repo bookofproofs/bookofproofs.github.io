@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Developed the theory of analytic functions and formulated the principle of least action which anticipated the concept of calculus of variations.
 6. Formulated a more general version of the principle of least action, known as the principle of least curvature, which has had immense impact in mathematics and physics.
 
-Born 25 August 1699, Crécy-en-Brie (near Paris), France. Died 4 May1768, Paris, France.
+Born 25 August 1699, Crécy-en-Brie (near Paris), France. Died 4 May 1768, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Camus/)

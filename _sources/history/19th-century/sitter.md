@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Pioneered the use of analytic geometry in theoretical physics.
 8. Co-developed the Lambda-CDM model, which remains the standard model of cosmology.
 
-Born 6 May1872, Sneek, Netherlands. Died 20 November 1934, Leiden, Netherlands.
+Born 6 May 1872, Sneek, Netherlands. Died 20 November 1934, Leiden, Netherlands.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Sitter/)

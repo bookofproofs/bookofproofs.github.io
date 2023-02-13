@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hirzebruch
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-germany,topology,wolf-prize
+tags: origin-germany,topology,prize-wolf
 orderid: 1927
 title: Hirzebruch, Friedrich Ernst Peter
 born: 1927
@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Demonstrated the Birch-Swinnerton-Dyer Formula,
 10. Developed the famous “Hirzebruch Proportionality Principle”.
 
-Born 17 October 1927, Hamm, Westphalia, Germany. Died 27 May2012, Bonn, Germany.
+Born 17 October 1927, Hamm, Westphalia, Germany. Died 27 May 2012, Bonn, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Hirzebruch/)

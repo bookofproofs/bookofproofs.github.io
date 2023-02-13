@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Contributed to the theorems of Abel and Liouville which describe the structure of solutions to certain partial differential equations.
 7. Providing the first full account of the theory of differential equations with discontinuous coefficients.
 
-Born 21 May1858, Lanzac, Lot, France. Died 25 November 1936, Paris, France.
+Born 21 May 1858, Lanzac, Lot, France. Died 25 November 1936, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Goursat/)

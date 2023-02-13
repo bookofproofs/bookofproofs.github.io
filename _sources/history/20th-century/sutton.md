@@ -37,6 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Collaborated with scholars from other universities in the field of mathematics to further knowledge and education.
 10. Awarded a scholarship for excellence in mathematics from Marshall University.
 
-Born 4 February 1903, Cwmcarn, Monmouthshire, Wales. Died 26 May1977, Sketty Green, near Swansea, Wales.
+Born 4 February 1903, Cwmcarn, Monmouthshire, Wales. Died 26 May 1977, Sketty Green, near Swansea, Wales.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Sutton/)

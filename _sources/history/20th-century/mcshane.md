@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Awarded the American Mathematical Society's Cole Prize for Algebra in 1936 and the Wicksell Prize for mathematical research in 1952.
 8. Received honorary doctorates from the University of Alberta, Yale, and the University of Utah.
 
-Born 10 May1904, New Orleans, Louisiana, USA. Died 1 June 1989, Charlottesville, Virginia, USA.
+Born 10 May 1904, New Orleans, Louisiana, USA. Died 1 June 1989, Charlottesville, Virginia, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/McShane/)

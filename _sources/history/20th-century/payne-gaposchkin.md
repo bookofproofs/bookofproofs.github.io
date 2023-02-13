@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Payne-Gaposchkin wrote several books on astrophysics and stellar evolution, displaying her knowledge of mathematics.
 10. Payne-Gaposchkin was the first person to calculate how stars generate energy from nuclear fusion.
 
-Born 10 May1900, Wendover, England. Died 7 December 1979, Tewksbury, Massachusetts, USA.
+Born 10 May 1900, Wendover, England. Died 7 December 1979, Tewksbury, Massachusetts, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Payne-Gaposchkin/)

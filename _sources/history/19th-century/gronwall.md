@@ -32,6 +32,6 @@ contributors: @Lech-Maligranda,bookofproofs,@ChatGPT
 7. Grönwall developed an early version of the Laplace transform for solving differential equations, which provides a critical tool for solving linear equations today.
 8. He published a foundational work on the theory and application of the Grönwall-Bellman equations, which laid the groundwork for modern control theory.
 
-Born 16 January 1877, Dylta bruk, Sweden. Died 9 May1932, New York, USA.
+Born 16 January 1877, Dylta bruk, Sweden. Died 9 May 1932, New York, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Gronwall/)

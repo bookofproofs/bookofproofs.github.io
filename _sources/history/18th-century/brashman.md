@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Coined the idea of a graph to help visualize linear transformations of algebraic equations.
 10. Helped to establish the field of mathematical physics and its related applications.
 
-Born 14 June 1796, Rassnova: near Brünn, Austria-Hungary (now Brno, Czech Republic). Died 13 May1866, Moscow, Russia.
+Born 14 June 1796, Rassnova: near Brünn, Austria-Hungary (now Brno, Czech Republic). Died 13 May 1866, Moscow, Russia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Brashman/)

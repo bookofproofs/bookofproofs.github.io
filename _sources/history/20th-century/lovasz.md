@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Lovasz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,origin-hungary,wolf-prize
+tags: prize-abel,origin-hungary,prize-wolf
 orderid: 1948
 title: Lovász, Laszlo
 born: 1948

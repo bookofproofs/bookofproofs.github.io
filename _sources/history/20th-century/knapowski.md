@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Worked on the theory of complex surfaces, a framework for making conjectures in algebraic geometry.
 10. Coined the term 'knottedness' to represent the number of knots in a given configuration of curves.
 
-Born 19 May1931, Poznań, Poland. Died 28 September 1967, Florida, USA.
+Born 19 May 1931, Poznań, Poland. Died 28 September 1967, Florida, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Knapowski/)

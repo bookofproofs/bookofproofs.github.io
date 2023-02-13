@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Applied Bochner’s theorem to problems in hyperbolic geometry.
 8. Bestowed with a Bôcher Memorial Prize in 1935 for his work on integral representation and harmonic analysis.
 
-Born 20 August 1899, Podgorze, near Kraków, Austria-Hungary (now Poland). Died 2 May1982, Houston, Texas, USA.
+Born 20 August 1899, Podgorze, near Kraków, Austria-Hungary (now Poland). Died 2 May 1982, Houston, Texas, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Bochner/)

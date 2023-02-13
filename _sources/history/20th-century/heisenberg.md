@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Heisenberg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-germany,nobel-prize,physics
+tags: origin-germany,prize-nobel,physics
 orderid: 1901
 title: Heisenberg, Werner Karl
 born: 1901

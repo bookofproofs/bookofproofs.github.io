@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed a novel approach to graph-theoretic layout problem with applications in networking.
 10. Awarded the Couzeaux Medal of the Institute of Mathematics and Informatics in 2017.
 
-Born 1 August 1937, Woolwich, London, England. Died 5 May2002, Newcastle upon Tyne, England.
+Born 1 August 1937, Woolwich, London, England. Died 5 May 2002, Newcastle upon Tyne, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Johnson_Barry/)

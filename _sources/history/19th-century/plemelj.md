@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Proved an important theorem on the existence of the boundary solution in singular boundary problems.
 10. Obtained several important results in the theory of integral equations of the second kind.
 
-Born 11 December 1873, Grad on Bled, Austrian Empire (now Slovenia). Died 22 May1967, Ljubljana, Yugoslavia (now Slovenia).
+Born 11 December 1873, Grad on Bled, Austrian Empire (now Slovenia). Died 22 May 1967, Ljubljana, Yugoslavia (now Slovenia).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Plemelj/)

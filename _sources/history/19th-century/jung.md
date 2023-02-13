@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Developed a general method for solving quintic equations. 
 8. Constructed an algorithm for solving cubic equations with the help of the Cardano–Tartaglia formula.
 
-Born 4 May1876, Essen, Germany. Died 12 March 1953, Halle, Germany.
+Born 4 May 1876, Essen, Germany. Died 12 March 1953, Halle, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Jung/)

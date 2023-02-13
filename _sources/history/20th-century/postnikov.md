@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Co-developed the theory of Tsarev's elliptic-hyperbolic correspondence, which combines the topics of algebraic geometry, dynamical systems, and soliton theory.
 8. Pioneered the theory of higher-dimensional braid groups and its application to the study of knot theory and algebraic geometry.
 
-Born 27 October 1927, Shatura, Russia. Died 27 May2004, Moscow, Russia.
+Born 27 October 1927, Shatura, Russia. Died 27 May 2004, Moscow, Russia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Postnikov/)

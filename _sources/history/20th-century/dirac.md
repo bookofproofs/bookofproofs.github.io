@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Dirac
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,origin-england,nobel-prize,physics
+tags: astronomy,origin-england,prize-nobel,physics
 orderid: 1902
 title: Dirac, Paul Adrien Maurice
 born: 1902

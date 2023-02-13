@@ -5,7 +5,7 @@ categories: index
 orderid: 10000
 description: BookOfProofs Keyword Index
 keywords: keywords
-title: Keyword Index
+title: Keyword
 contributors: bookofproofs
 ---
 ---

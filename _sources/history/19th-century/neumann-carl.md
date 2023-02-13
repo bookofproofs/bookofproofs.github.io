@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Formulated the intermediate value theorem for integrals as well as the complete convergence test. 
 8. Introduced the concept of a projective plane in an 1876 paper on the use of barycentric coordinates for points in a plane.
 
-Born 7 May1832, Königsberg, Germany (now Kaliningrad, Russia). Died 27 March 1925, Leipzig, Sachsen, Germany.
+Born 7 May 1832, Königsberg, Germany (now Kaliningrad, Russia). Died 27 March 1925, Leipzig, Sachsen, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Neumann_Carl/)

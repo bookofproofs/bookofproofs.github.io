@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Gave lectures and tutorials on mathematics to students at Edinburgh. 
 8. Published numerous papers on mathematics topics in respected academic journals.
 
-Born 30 June 1923, Glasgow, Scotland. Died 14 May2014, Warwick, England.
+Born 30 June 1923, Glasgow, Scotland. Died 14 May 2014, Warwick, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Macbeath/)

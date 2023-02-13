@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Led mathematical and statistical committees and gave seminars on mathematics to the industry.
 10. Received several awards and honors for his work on mathematics and related fields.
 
-Born 17 May1942, Bennington, Vermont, USA. Died 17 April 2012, Columbus, Ohio, USA.
+Born 17 May 1942, Bennington, Vermont, USA. Died 17 April 2012, Columbus, Ohio, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Rallis/)

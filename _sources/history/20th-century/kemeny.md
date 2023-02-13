@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Created the “Kemeny Constant”, a mathematical value used in the evaluation of algorithmic efficiencies.
 6. Received the U.S. Presidential Medal of Freedom in honor of his accomplishments.
 
-Born 31 May1926, Budapest, Hungary. Died 26 December 1992, Etna, New Hampshire, USA.
+Born 31 May 1926, Budapest, Hungary. Died 26 December 1992, Etna, New Hampshire, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kemeny/)

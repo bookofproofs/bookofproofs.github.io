@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed a method to systematically classify algebraic equations, leading to significant advances in the field. 
 10. Founded a mathematics journal, which has been published for over 30 years.
 
-Born 12 May1851, Warsaw, Russian Empire (now Poland). Died 29 September 1939, Warsaw, Poland.
+Born 12 May 1851, Warsaw, Russian Empire (now Poland). Died 29 September 1939, Warsaw, Poland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Dickstein/)

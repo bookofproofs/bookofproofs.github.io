@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Grothendieck
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: bourbaki,fields-medal,origin-germany,topology
+tags: bourbaki,prize-fields-medal,origin-germany,topology
 orderid: 1928
 title: Grothendieck, Alexander
 born: 1928

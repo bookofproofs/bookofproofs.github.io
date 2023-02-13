@@ -30,6 +30,6 @@ contributors: @David-O-Forfar,bookofproofs,@ChatGPT
 5. He was responsible for the conception and growth of the Cambridge Geometrical Philosophy, an area of abstract mathematics based on the concept of a unified theory of geometry.
 6. Morgan wrote the seminal work, “Algebraic Theory of Numbers” (1930), which became a standard reference for number theory and remains influential today.
 
-Born 26 May1750, Bridgend, Wales. Died 2 May1833, London, England.
+Born 26 May 1750, Bridgend, Wales. Died 2 May 1833, London, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Morgan_William/)

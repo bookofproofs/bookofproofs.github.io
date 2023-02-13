@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. He introduced a method to prove the existence of invariant equations in classical Lie groups and proved a theorem that is now known as the Dijksterhuis–van der Waerden theorem.
 7. He formulated a concept of patterns of objective time in physics and worked on the integration of mathematical models of physical processes.
 
-Born 28 October 1892, Tilburg, Netherlands. Died 18 May1965, De Bilt, Netherlands.
+Born 28 October 1892, Tilburg, Netherlands. Died 18 May 1965, De Bilt, Netherlands.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Dijksterhuis/)

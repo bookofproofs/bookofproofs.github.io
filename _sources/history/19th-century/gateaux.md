@@ -31,6 +31,6 @@ contributors: @Laurent-Mazliak,bookofproofs,@ChatGPT
 6. Authored numerous research works on the topics of integration and topological algebra. 
 7. Pioneered the use of general topology in the fields of mathematics, real analysis, and algebra.
 
-Born 5 May1889, Vitry-le-François, Marne, France. Died 3 October 1914, Rouvroy, near Lens, France.
+Born 5 May 1889, Vitry-le-François, Marne, France. Died 3 October 1914, Rouvroy, near Lens, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Gateaux/)

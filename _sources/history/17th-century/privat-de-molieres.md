@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Discovered the law of pyramids, the basis for integral calculus. 
 6. Published the treatise Vegetationes Physicomathemathicae, the very first treatise on geometry which included calculus methods.
 
-Born 1677, Tarascon, Bouches-du-Rhône, France. Died 12 May1742, Paris, France.
+Born 1677, Tarascon, Bouches-du-Rhône, France. Died 12 May 1742, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Privat_de_Molieres/)

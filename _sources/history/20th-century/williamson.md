@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Established the John Williamson Mathematical Laboratory at University of Pennsylvania to provide a space for mathematical exploration.
 7. Awarded "Distinguished Service to Mathematics" posthumously for his legacy of service and dedication to mathematics.
 
-Born 23 May1901, Kinross, Scotland. Died 1949, Baltimore, USA.
+Born 23 May 1901, Kinross, Scotland. Died 1949, Baltimore, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Williamson/)

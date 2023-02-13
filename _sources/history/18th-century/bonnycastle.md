@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. He wrote a novel paper on the approximate calculus of polynomials.
 8. He published a paper on spherical trigonometry, one of the most important papers in this field.
 
-Born 29 December 1751, Hardwick, Buckinghamshire, England. Died 15 May1821, Woolwich, Kent, England.
+Born 29 December 1751, Hardwick, Buckinghamshire, England. Died 15 May 1821, Woolwich, Kent, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Bonnycastle/)

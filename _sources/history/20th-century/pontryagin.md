@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. His theoretical research and mathematical innovations inspired the development of several branches of mathematics, including game theory, topology and nonlinear optimization.
 8. He was also a major contributor to the development of the theory of continuous groups and their application to the theory of ordinary differential equations.
 
-Born 3 September 1908, Moscow, Russia. Died 3 May1988, Moscow, Russia.
+Born 3 September 1908, Moscow, Russia. Died 3 May 1988, Moscow, Russia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Pontryagin/)

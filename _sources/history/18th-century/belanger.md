@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Earned several awards and honors, including membership in the Institute of France. 
 7. Established an important mathematical school in Paris focused on research and study of natural sciences.
 
-Born 4 April 1790, Valenciennes, France. Died 8 May1874, Neuilly-sur-Seine, France.
+Born 4 April 1790, Valenciennes, France. Died 8 May 1874, Neuilly-sur-Seine, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Belanger/)

@@ -33,6 +33,6 @@ John Howie was an American mathematician who is best known for his numerous math
 6. Created the Howie-Killing-Cartan theorem, which advanced the study of Lie groups and algebraic topology.
 7. Authored numerous books, including the celebrated mathematical textbook Algebraic Theory of Integers.
 
-Born 23 May1936, Chryston, Lanarkshire, Scotland. Died 26 December 2011, St Andrews, Scotland.
+Born 23 May 1936, Chryston, Lanarkshire, Scotland. Died 26 December 2011, St Andrews, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Howie/)

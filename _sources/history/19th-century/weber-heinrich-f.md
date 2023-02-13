@@ -32,6 +32,6 @@ contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
 7. Proposed Weber Groups in 1906, which today play an important role in algebraic geometry and number theory.
 8. Proposed Weber’s Law (named after him) in 1908, which states that the explanation of certain phenomena is largely determined by the magnitude of associated stimuli.
 
-Born 7 November 1843, Magdala, Thuringia, Germany. Died 24 May1912, Zürich, Switzerland.
+Born 7 November 1843, Magdala, Thuringia, Germany. Died 24 May 1912, Zürich, Switzerland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Weber_Heinrich_F/)

@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Pioneered the use of elliptic functions for solving Dirichlet problems.
 10. Contributed significantly to Abel’s theorem on solving integrals.
 
-Born 4 September 1809, Chambéry, Savoy, France. Died 24 May1896, St Cassin (near Chambéry), France.
+Born 4 September 1809, Chambéry, Savoy, France. Died 24 May 1896, St Cassin (near Chambéry), France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Menabrea/)

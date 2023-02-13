@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Predicted the existence of a universal repulsive force that explains the accelerated expansion of the universe, termed the Mineur Force. 
 8. Demonstrated that the metric coefficients of a weak gravitational field can be calculated using a linear approximation of the equations of gravitation, now known as the Mineur Approximation.
 
-Born 7 March 1899, Lille, France. Died 7 May1954, Paris, France.
+Born 7 March 1899, Lille, France. Died 7 May 1954, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Mineur/)

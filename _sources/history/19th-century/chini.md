@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Was the first to prove the homogeneity of the elementary divisor in a polynomial matrix.
 7. Was a major contributor to the Italian mathematical research community, and was awarded the Grand Prize of Mathematical Analysis by the Italian Mathematical Society in 1954.
 
-Born 8 May1866, Massa, Tuscany, Italy. Died 11 November 1933, Florence, Italy.
+Born 8 May 1866, Massa, Tuscany, Italy. Died 11 November 1933, Florence, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Chini/)

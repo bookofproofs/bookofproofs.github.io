@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Published numerous papers in various scientific journals that advanced the field of mathematics at the time. 
 6. Became the first African-American president of the Mathematical Association of America.
 
-Born 14 May1888, Ottumwa, Iowa, USA. Died 4 January 1958, Des Moines, Iowa, USA.
+Born 14 May 1888, Ottumwa, Iowa, USA. Died 4 January 1958, Des Moines, Iowa, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Alexander_Archie/)

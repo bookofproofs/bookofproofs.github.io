@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Published breakthrough results in non-linear functional analysis involving the solution of partial differential equations and heat transfer equations.
 7. Was awarded the Wolf Prize in Mathematics in 1982 and the National Academy of Sciences Award in 1980.
 
-Born 2 May1921, Vienna, Austria. Died 20 May2010, Madison, Wisconsin, USA.
+Born 2 May 1921, Vienna, Austria. Died 20 May 2010, Madison, Wisconsin, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Rudin_Walter/)

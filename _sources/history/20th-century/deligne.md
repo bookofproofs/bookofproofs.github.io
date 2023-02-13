@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Deligne
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,fields-medal,origin-belgium,wolf-prize
+tags: prize-abel,prize-fields-medal,origin-belgium,prize-wolf
 orderid: 1944
 title: Deligne, Pierre René
 born: 1944

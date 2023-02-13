@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Discovered a new approach to the representation problem of homological algebra in the 1990s.
 6. Implemented the use of nonstandard analysis to solve equations in the 2000s.
 
-Born 16 May1909, Tokyo, Japan. Died 11 March 1974, Detroit, Michigan, USA.
+Born 16 May 1909, Tokyo, Japan. Died 11 March 1974, Detroit, Michigan, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Nakano/)

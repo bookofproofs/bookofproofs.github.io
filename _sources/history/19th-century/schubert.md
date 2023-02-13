@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Developed a method for solving non-linear differential equations using the analytical hierarchy.
 7. Developed an analytical evaluation of certain indefinite integrals.
 
-Born 22 May1848, Potsdam,Prussia (now Germany). Died 20 July 1911, Hamburg, Germany.
+Born 22 May 1848, Potsdam,Prussia (now Germany). Died 20 July 1911, Hamburg, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Schubert/)

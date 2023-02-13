@@ -30,6 +30,6 @@ contributors: @Alex-D-D-Craik,bookofproofs,@ChatGPT
 5. Founded the influential lectures at Harvard University known as the "Kelland Lectures".
 6. Served as an editor of Philosophical Magazine and The Cambridge Mathematical Journal.
 
-Born 17 October 1808, Dunster, Somerset, England. Died 7 May1879, Bridge of Allen, Stirlingshire, Scotland.
+Born 17 October 1808, Dunster, Somerset, England. Died 7 May 1879, Bridge of Allen, Stirlingshire, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kelland/)

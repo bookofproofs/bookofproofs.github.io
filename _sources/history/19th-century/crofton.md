@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Established the seminal Theorem of Arithmetic which established the principle that any polynomial of degree n whose coefficients are integers is a divisor of some multiple of an integer raised to the power of n. 
 10. Stated the first version of what later became L’Hôpital’s rule for evaluating limits of indeterminate forms.
 
-Born 27 June 1826, Dublin, Ireland. Died 13 May1915, Brighton, Sussex, England.
+Born 27 June 1826, Dublin, Ireland. Died 13 May 1915, Brighton, Sussex, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Crofton/)

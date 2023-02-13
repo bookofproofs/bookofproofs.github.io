@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schwartz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: bourbaki,fields-medal
+tags: bourbaki,prize-fields-medal
 orderid: 1915
 title: Schwartz (2), Laurent Moise
 born: 1915

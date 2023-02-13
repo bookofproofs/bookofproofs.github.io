@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Ito
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-japan,wolf-prize
+tags: origin-japan,prize-wolf
 orderid: 1915
 title: Ito, Kiyosi
 born: 1915

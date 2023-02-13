@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Discovered the general property of potential theory known as the “Behrend’s formula”. 
 7. Published more than 20 papers related to mathematics and its applications.
 
-Born 23 April 1911, Charlottenburg, Berlin, Germany. Died 27 May1962, Richmond, Victoria, Australia.
+Born 23 April 1911, Charlottenburg, Berlin, Germany. Died 27 May 1962, Richmond, Victoria, Australia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Behrend/)

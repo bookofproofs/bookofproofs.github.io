@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed the application of calculus for analyzing curves and surfaces. 
 10. Dealt with the problems of enumeration and combinations.
 
-Born 9 May1746, Beaune, Bourgogne, France. Died 28 July 1818, Paris, France.
+Born 9 May 1746, Beaune, Bourgogne, France. Died 28 July 1818, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Monge/)

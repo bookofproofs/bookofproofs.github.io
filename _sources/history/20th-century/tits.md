@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Tits
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,origin-belgium,wolf-prize
+tags: group-theory,origin-belgium,prize-wolf
 orderid: 1930
 title: Tits, Jacques
 born: 1930

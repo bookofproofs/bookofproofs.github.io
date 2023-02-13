@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Fields
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: fields-medal,origin-canada,wolf-prize
+tags: prize-fields-medal,origin-canada,prize-wolf
 orderid: 1863
 title: Fields, John Charles
 born: 1863
@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Authored many influential mathematical texts, including the classic book covering algebraic and complex variables, Introduction to Complex Variables.
 10. Was made an Honorary Fellow of the Canadian Mathematical Society in 1986.
 
-Born 14 May1863, Hamilton, Ontario, Canada. Died 9 August 1932, Toronto, Ontario, Canada.
+Born 14 May 1863, Hamilton, Ontario, Canada. Died 9 August 1932, Toronto, Ontario, Canada.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Fields/)

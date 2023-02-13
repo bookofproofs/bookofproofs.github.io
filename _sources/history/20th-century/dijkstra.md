@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Published foundational works on computer algorithms and data structures, such as the Dijkstra algorithm and the Dijkstra–Prim algorithm. 
 10. Demonstrated that the halting problem forproposition logic is decidable.
 
-Born 11 May1930, Rotterdam, The Netherlands. Died 6 August 2002, Nuenen, The Netherlands.
+Born 11 May 1930, Rotterdam, The Netherlands. Died 6 August 2002, Nuenen, The Netherlands.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Dijkstra/)

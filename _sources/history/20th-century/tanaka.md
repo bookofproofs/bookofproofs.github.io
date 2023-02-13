@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Proposed several new methods for solving systems of Diophantine equations. 
 8. Discovered the Tanaka-Kato conjecture, which relates to the theory of diagonal forms.
 
-Born 28 September 1938, Osaka, Japan. Died 16 May2012, Osaka, Japan.
+Born 28 September 1938, Osaka, Japan. Died 16 May 2012, Osaka, Japan.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Tanaka/)

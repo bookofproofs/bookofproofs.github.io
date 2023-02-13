@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Discovered what is now known as Ceva's Theorem, which states that if a line intersects the three sides of a triangle at the points A, B and C in that order, then the point bisectors of those sides will be concurrent (meet at a common point).
 7. Showed that the two diagonals of any quadrilateral are equal in length if and only if the quadrilateral is cyclic.
 
-Born 1 September 1647, Milan, Hapsburg Empire (now Italy). Died 13 May1734, Mantua, Hapsburg Empire (now Italy).
+Born 1 September 1647, Milan, Hapsburg Empire (now Italy). Died 13 May 1734, Mantua, Hapsburg Empire (now Italy).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Ceva_Giovanni/)

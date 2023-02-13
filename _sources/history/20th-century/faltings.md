@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Faltings
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-germany,number-theory,shaw-prize
+tags: prize-fields-medal,origin-germany,number-theory,prize-shaw
 orderid: 1954
 title: Faltings, Gerd
 born: 1954

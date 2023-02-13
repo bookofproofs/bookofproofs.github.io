@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed an effective enumeration of line sets in projective spaces, a fundamental contribution to Algebraic Geometry.
 10. Constructed a numerical equation consisting of a pair of polynomials, an essential tool for solving Diophantine equations.
 
-Born 28 April 1882, Adam, Tutova county, Romania. Died 30 May1964, Cluj, Romania.
+Born 28 April 1882, Adam, Tutova county, Romania. Died 30 May 1964, Cluj, Romania.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Angheluta/)

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Erdos
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: analysis,origin-hungary,wolf-prize
+tags: analysis,origin-hungary,prize-wolf
 orderid: 1913
 title: Erdős, Paul
 born: 1913

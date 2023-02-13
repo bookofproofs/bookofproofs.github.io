@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Establishing the theory of normal systems of linear differential equations. 
 10. Constructing the basic theories of nonlinear operators.
 
-Born 21 May1921, Timişoara, Romania. Died 27 November 1990, Cluj, Romania.
+Born 21 May 1921, Timişoara, Romania. Died 27 November 1990, Cluj, Romania.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Rado_Ferenc/)

@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Served as a mathematics tutor for underprivileged and underrepresented students.
 8. Presented at several mathematics and computer science talks and conferences.
 
-Born 25 August 1817, Bath, England. Died 12 May1859, Trumpington, England.
+Born 25 August 1817, Bath, England. Died 12 May 1859, Trumpington, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Ellis/)

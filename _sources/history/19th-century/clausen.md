@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Played a key role in the development of categorical logic, an area of mathematics and philosophy that studies the relationship between categories and logical principles.
 7. Was an early leader in the development of computational complexity theory and the formalization of computational tasks.
 
-Born 16 January 1801, Snogbaek, Denmark. Died 23 May1885, Dorpat, Russia (now Tartu, Estonia).
+Born 16 January 1801, Snogbaek, Denmark. Died 23 May 1885, Dorpat, Russia (now Tartu, Estonia).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Clausen/)

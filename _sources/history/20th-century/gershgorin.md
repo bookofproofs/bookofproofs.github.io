@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Investigated the stability of linear systems and introduced the concept of a Lyapunov function.
 8. Investigated the conditions sufficient for uniqueness of the solution of a system of linear equations.
 
-Born 24 August 1901, Pruzhany, Russian Empire (now Belarus). Died 30 May1933, Leningrad, USSR (now St Petersburg, Russia).
+Born 24 August 1901, Pruzhany, Russian Empire (now Belarus). Died 30 May 1933, Leningrad, USSR (now St Petersburg, Russia).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Gershgorin/)

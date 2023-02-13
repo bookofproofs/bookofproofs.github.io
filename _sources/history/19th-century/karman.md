@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Developed a theory regarding the mathematical foundations of turbulence. 
 9. Influenced the field of turbulence and pattern formation by promoting the Triadic Cascade Theory.
 
-Born 11 May1881, Budapest, Hungary. Died 7 May1963, Aachen, Germany.
+Born 11 May 1881, Budapest, Hungary. Died 7 May 1963, Aachen, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Karman/)

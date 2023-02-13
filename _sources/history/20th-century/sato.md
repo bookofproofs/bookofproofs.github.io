@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sato
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-japan,wolf-prize
+tags: origin-japan,prize-wolf
 orderid: 1928
 title: Sato, Mikio
 born: 1928

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Planck
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: origin-germany,nobel-prize,physics
+tags: origin-germany,prize-nobel,physics
 orderid: 1858
 title: Planck, Max Karl Ernst Ludwig
 born: 1858

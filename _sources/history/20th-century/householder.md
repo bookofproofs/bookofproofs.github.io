@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed techniques for computing inverses and determinants of large sparse matrices 
 10. Developed solid methods for solving linear least squares equations in matrix form
 
-Born 5 May1904, Rockford, Illinois, USA. Died 4 July 1993, Malibu, California, USA.
+Born 5 May 1904, Rockford, Illinois, USA. Died 4 July 1993, Malibu, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Householder/)

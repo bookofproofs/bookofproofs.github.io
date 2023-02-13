@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. He developed the theory of germ-grain models, which sought to describe the structure of the primes using cellular automata. 
 9. He has made significant contributions to Ramsey theory, diophantine approximation, linear algebraic groups, and random graphs.
 
-Born 29 May1911, Budapest, Hungary. Died 28 August 2005, Adelaide, Australia.
+Born 29 May 1911, Budapest, Hungary. Died 28 August 2005, Adelaide, Australia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Szekeres/)

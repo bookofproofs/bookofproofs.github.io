@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Helped prove the Jordan Curve theorem which is a statement about the properties of a simple closed curve. 
 10.Broadened the range of what mathematics could do by opening up ways to think about more abstract problems.
 
-Born 2 May1866, Ballystockhart, Comber, County Down, Ireland. Died 14 August 1934, Douglas, Isle of Man.
+Born 2 May 1866, Ballystockhart, Comber, County Down, Ireland. Died 14 August 1934, Douglas, Isle of Man.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Orr/)

@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Discovered the generalization of the root-finding process to any degree polynomial, now known as the ‘Ruffini-Horner’s’ method.
 6. Developed a method to numerically approximate solutions to differential equations, known as the variation of constants and undetermined coefficients.
 
-Born 28 May1710, Basel, Switzerland. Died 17 July 1790, Basel, Switzerland.
+Born 28 May 1710, Basel, Switzerland. Died 17 July 1790, Basel, Switzerland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Johann(II)/)

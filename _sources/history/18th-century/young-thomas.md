@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Devised a mathematical method to accurately measure the size of the Earth near the equator.
 6. Established the principle of the reversibility of light, which formed the basis for optical imaging.
 
-Born 13 June 1773, Milverton, Somerset, England. Died 10 May1829, London, England.
+Born 13 June 1773, Milverton, Somerset, England. Died 10 May 1829, London, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Young_Thomas/)

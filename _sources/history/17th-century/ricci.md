@@ -29,6 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 4. He developed Ricci calculus, a calculus of curvature that is central to modern differential geometry.
 5. He was an influential teacher of the famous mathematician and physicist Tullio Levi-Civita, and contributed to the Encyclopedia of Mathematics and Physics.
 
-Born 30 January 1619, Rome (now Italy). Died 12 May1682, Rome (now Italy).
+Born 30 January 1619, Rome (now Italy). Died 12 May 1682, Rome (now Italy).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Ricci/)

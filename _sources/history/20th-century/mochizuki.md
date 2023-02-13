@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Founded the Oregon Mathematics Project, which is dedicated to promoting the mathematics education of Oregon's low-income students.
 10. Established the Horace Mochizuki Mathematics Prize, which is awarded annually to a senior who excels in mathematics at the University of Oregon.
 
-Born 18 May1937, California, USA. Died 9 June 1989, Santa Barbara, California, USA.
+Born 18 May 1937, California, USA. Died 9 June 1989, Santa Barbara, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Mochizuki/)

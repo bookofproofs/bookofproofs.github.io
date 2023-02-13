@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Created foundations for the modern theory of divisibility and primality, which are essential tools in number theory.
 8. Founded the Riemann hypothesis and worked out the proof of the prime number theorem.
 
-Born 1 March 1879, Goodwater, Coosa County, Alabama, USA. Died 2 May1967, Merriam, Northeast Johnson County, Kansas, USA.
+Born 1 March 1879, Goodwater, Coosa County, Alabama, USA. Died 2 May 1967, Merriam, Northeast Johnson County, Kansas, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Carmichael/)

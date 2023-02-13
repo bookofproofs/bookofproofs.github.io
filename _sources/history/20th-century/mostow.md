@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mostow
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: group-theory,origin-usa,wolf-prize
+tags: group-theory,origin-usa,prize-wolf
 orderid: 1923
 title: Mostow, Gorge Daniel
 born: 1923

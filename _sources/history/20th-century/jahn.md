@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Co-developed the concept of vibrational spectroscopy for small molecules.
 7. Published a paper on Fermi-Dirac statistics which established the field of degenerate states.
 
-Born 31 May1907, Colchester, England. Died 24 October 1979, Southampton, England.
+Born 31 May 1907, Colchester, England. Died 24 October 1979, Southampton, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Jahn/)

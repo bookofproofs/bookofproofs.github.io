@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Discovered a method of finding the root and the equation of a third order curve in 1692.
 6. Established a correspondence between conics and their loci in 1695.
 
-Born 20 December 1855, Pittston, Luzerne county, Pennsylvania, USA. Died 8 May1900, Baltimore, Maryland, USA.
+Born 20 December 1855, Pittston, Luzerne county, Pennsylvania, USA. Died 8 May 1900, Baltimore, Maryland, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Craig_Thomas/)

@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Made major advances in the study of inequalities related to linear equations. 
 10. Demonstrated previously unknown properties of matrix algebra.
 
-Born 10 February 1888, Olviopol (near Odessa), Ukraine. Died 18 May1954, London, England.
+Born 10 February 1888, Olviopol (near Odessa), Ukraine. Died 18 May 1954, London, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Brodetsky/)

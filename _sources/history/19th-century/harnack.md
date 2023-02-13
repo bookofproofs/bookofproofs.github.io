@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Introduced concepts of absolute continuity of functions, uniform Hölder continuity, and the establishment of the mean value theorem for elliptic equations.
 8. Established the importance of the Saint-Venant principle in elliptic equation theory.
 
-Born 7 May1851, Dorpat, Russian Empire (now Tartu, Estonia). Died 3 April 1888, Dresden, Germany.
+Born 7 May 1851, Dorpat, Russian Empire (now Tartu, Estonia). Died 3 April 1888, Dresden, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Harnack/)

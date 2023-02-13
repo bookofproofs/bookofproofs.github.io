@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Perfected the Gauss-Lagrange algorithm and used it to solve fifth and sixth order polynomials.
 10. Investigated and discovered the integrals of fourth-term expressions.
 
-Born 15 May1801, Brody, Galicia (now Ukraine). Died 22 January 1859, Zürich, Switzerland.
+Born 15 May 1801, Brody, Galicia (now Ukraine). Died 22 January 1859, Zürich, Switzerland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Raabe/)

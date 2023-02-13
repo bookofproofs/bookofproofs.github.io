@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Borcherds
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: african,fields-medal,group-theory,origin-south-africa
+tags: african,prize-fields-medal,group-theory,origin-south-africa
 orderid: 1959
 title: Borcherds, Richard Ewen
 born: 1959

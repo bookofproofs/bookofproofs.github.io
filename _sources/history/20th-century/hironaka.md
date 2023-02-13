@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hironaka
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-japan
+tags: prize-fields-medal,origin-japan
 orderid: 1931
 title: Hironaka, Heisuke
 born: 1931

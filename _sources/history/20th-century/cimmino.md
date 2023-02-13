@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. In 1995 he was awarded a Doctor Honoris Causa by the University of Madrid Complutense.
 7. In 2011 he received the “Cittá di Napoli” award in recognition of his outstanding works in mathematical analysis and partial differential equations.
 
-Born 12 March 1908, Naples, Italy. Died 30 May1989, Bologna, Italy.
+Born 12 March 1908, Naples, Italy. Died 30 May 1989, Bologna, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Cimmino/)

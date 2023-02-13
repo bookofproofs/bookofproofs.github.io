@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 4. Was a professor of Mathematics at the Federal University of Rio Grande do Sul in 2010.
 5. Published a book on Mathematical Optimization in 2014.
 
-Born 6 November 1918, Rio de Janeiro, Brazil. Died 20 May1975, São Paulo, Brazil.
+Born 6 November 1918, Rio de Janeiro, Brazil. Died 20 May 1975, São Paulo, Brazil.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Monteiro/)

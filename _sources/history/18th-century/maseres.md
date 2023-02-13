@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Discovered a method for solving the cubic equation with real roots. 
 10. Discovered theorems on parametric equations and the convergence of infinite series.
 
-Born 15 December 1731, London, England. Died 19 May1824, Reigate, Surrey, England.
+Born 15 December 1731, London, England. Died 19 May 1824, Reigate, Surrey, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Maseres/)

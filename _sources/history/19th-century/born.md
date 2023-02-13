@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Born
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: astronomy,origin-poland,nobel-prize,physics
+tags: astronomy,origin-poland,prize-nobel,physics
 orderid: 1882
 title: Born, Max
 born: 1882

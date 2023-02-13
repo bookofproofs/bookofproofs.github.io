@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Developed an equation of motion which became known as d'Alembert's Principle.
 7. Published “Theorie des fonctionelles”, which studied the equations of lines, surfaces, and their properties.
 
-Born 21 June 1802, Esch-sur-Alzette, French Empire (now Luxembourg). Died 13 May1868, Liège, Belgium.
+Born 21 June 1802, Esch-sur-Alzette, French Empire (now Luxembourg). Died 13 May 1868, Liège, Belgium.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Brasseur/)

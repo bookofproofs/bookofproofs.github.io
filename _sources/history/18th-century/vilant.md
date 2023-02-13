@@ -34,6 +34,6 @@ Nicolas Vilant is a mathematician recognized for his work in number theory, alge
 7. Discovered a new approach to the mass formulas in Iwasawa theory. 
 8. Established several results relating to the distribution of units in algebraic number fields.
 
-Born 12 June 1737, Ferryport-on-Tay, now Tayport, Scotland. Died 25 May1807, St Andrews, Scotland.
+Born 12 June 1737, Ferryport-on-Tay, now Tayport, Scotland. Died 25 May 1807, St Andrews, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Vilant/)

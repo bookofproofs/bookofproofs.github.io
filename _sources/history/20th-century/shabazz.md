@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Assisted in the implementation of the National Math and Science Initiative (NMSI) to boost math performance in public schools and increase collaboration between math educators.
 7. Served on the National Mathematics Advisory Panel established by President George W. Bush to advise the President on national math education policies and practices.
 
-Born 22 May1927, Bessemer, Alabama, USA. Died 25 June 2014, Grambling, Louisiana, USA.
+Born 22 May 1927, Bessemer, Alabama, USA. Died 25 June 2014, Grambling, Louisiana, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Shabazz/)

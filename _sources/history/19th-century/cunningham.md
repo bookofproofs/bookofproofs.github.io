@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Authored a popular book on the history of mathematics.
 10. Advocated for the use of mathematics to solve challenging real-world problems.
 
-Born 7 May1881, Hackney, London, England. Died 12 February 1977, Corbridge Northumberland, England.
+Born 7 May 1881, Hackney, London, England. Died 12 February 1977, Corbridge Northumberland, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Cunningham/)

@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Demonstrated a knowledge of negative numbers as an extension of zero.
 10. Discovered the law of constant and periodic number-lines.
 
-Born 7 May1854, Chioggia (now Italy). Died 17 July 1917, Padua, Italy.
+Born 7 May 1854, Chioggia (now Italy). Died 17 July 1917, Padua, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Veronese/)

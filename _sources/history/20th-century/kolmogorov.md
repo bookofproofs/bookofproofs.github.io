@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kolmogorov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-russia,statistics,topology,wolf-prize
+tags: origin-russia,statistics,topology,prize-wolf
 orderid: 1903
 title: Kolmogorov, Andrey Nikolaevich
 born: 1903

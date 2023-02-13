@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Delivered numerous invited talks at major mathematics conferences around the world.
 8. Won multiple awards for outstanding research including the Alin-Ion Tanase Medal in 2011.
 
-Born 15 August 1932, Turda, Romania. Died 31 May1992, Oradea, Romania.
+Born 15 August 1932, Turda, Romania. Died 31 May 1992, Oradea, Romania.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Tarina/)

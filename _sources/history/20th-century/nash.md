@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Nash
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,origin-usa,nobel-prize
+tags: prize-abel,origin-usa,prize-nobel
 orderid: 1928
 title: Nash, John Forbes
 born: 1928
@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Established the Nash bargaining solution and proposed a new concept of bargaining.
 8. Provided a proof that every Riemannian manifold is isometric to a Euclidean space.
 
-Born 13 June 1928, Bluefield, West Virginia, USA. Died 23 May2015, New Jersey, USA.
+Born 13 June 1928, Bluefield, West Virginia, USA. Died 23 May 2015, New Jersey, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Nash/)

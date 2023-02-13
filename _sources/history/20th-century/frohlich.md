@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Conducted research in numerical wave theory, a field at the intersection of applied mathematics and physics.
 7. Co-authored a book on the numerical methods of linear functional equations.
 
-Born 22 May1916, Munich, Germany. Died 8 November 2001, Cambridge, England.
+Born 22 May 1916, Munich, Germany. Died 8 November 2001, Cambridge, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Frohlich/)

@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Proved a number of important results on theuse of multigrid methods in the solution of partial differential equations.
 10. Developed algorithms for numerical quadrature using Clenshaw–Curtis formulae.
 
-Born 24 January 1928, Brooklyn, New York, USA. Died 2 May2010, Arlington, Texas, USA.
+Born 24 January 1928, Brooklyn, New York, USA. Died 2 May 2010, Arlington, Texas, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Greenspan_Donald/)

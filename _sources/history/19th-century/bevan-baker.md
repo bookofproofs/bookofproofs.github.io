@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Was a permanent reader of the Mathematical Gazette between 1969 and 1988
 8. Co-authored a book on the history of applied mathematics in 1981
 
-Born 10 May1890, Canonbury, London, England. Died 1 July 1963, Wednesbury, Staffordshire,England.
+Born 10 May 1890, Canonbury, London, England. Died 1 July 1963, Wednesbury, Staffordshire,England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Bevan-Baker/)

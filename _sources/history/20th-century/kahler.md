@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Served as the President of the German Mathematical Society from 1933 to 1937.
 10. Won the Oswald Veblen Prize in Geometry in 1954.
 
-Born 16 January 1906, Leipzig, Germany. Died 31 May2000, Wedel, near Hamburg, Germany.
+Born 16 January 1906, Leipzig, Germany. Died 31 May 2000, Wedel, near Hamburg, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kahler/)

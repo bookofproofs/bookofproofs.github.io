@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. He proposed and illustrated the principle of hydrostatic balance.
 7. He also invented the universal and substantially adjusted the magnetic needle compass.
 
-Born 8 December 1508, Dokkum, Friesland, The Netherlands. Died 25 May1555, Louvain, Brabant (now Belgium).
+Born 8 December 1508, Dokkum, Friesland, The Netherlands. Died 25 May 1555, Louvain, Brabant (now Belgium).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Gemma_Frisius/)

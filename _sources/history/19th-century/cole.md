@@ -29,6 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 4. Discovered several new theorems related to the Prime Number Theorem and Fermat's Last Theorem.
 5. Received the Fields Medal, the highest honor in mathematics, in 2011.
 
-Born 20 September 1861, Ashland, Massachusetts, USA. Died 26 May1926, New York, USA.
+Born 20 September 1861, Ashland, Massachusetts, USA. Died 26 May 1926, New York, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Cole/)

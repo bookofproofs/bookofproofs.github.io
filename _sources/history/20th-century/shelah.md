@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Shelah
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-israel,wolf-prize
+tags: origin-israel,prize-wolf
 orderid: 1945
 title: Shelah, Saharon
 born: 1945

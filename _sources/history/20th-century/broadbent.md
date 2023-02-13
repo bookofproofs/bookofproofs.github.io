@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Served on the editorial boards of eight different mathematics journals.
 8. Named a Distinguished Professor Emeritus of Mathematics from the University of Waterloo in 2009.
 
-Born 31 May1903, Consett, County Durham, England. Died 27 January 1973, Greenwich, England.
+Born 31 May 1903, Consett, County Durham, England. Died 27 January 1973, Greenwich, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Broadbent/)

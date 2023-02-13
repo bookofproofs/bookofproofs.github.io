@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Developed creative, new methods for proving theorems, including the use of recurrence relations.
 6. Demonstrated the solvability of all cubic equations by radicals.
 
-Born 5 June 1814, Paris, France. Died 21 May1848, Paris, France.
+Born 5 June 1814, Paris, France. Died 21 May 1848, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Wantzel/)

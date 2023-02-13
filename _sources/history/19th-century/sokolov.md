@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Obtained a PhD in mathematics in 1985 from Moscow State University.
 8. Received numerous awards and honors, including the prize of the Russian Academy of Sciences in 1997.
 
-Born 26 May1896, Labinskaya Stanitsa (now Labinsk), Russia. Died 2 February 1971, Kiev, Ukranian SSR (now Kyiv, Ukraine).
+Born 26 May 1896, Labinskaya Stanitsa (now Labinsk), Russia. Died 2 February 1971, Kiev, Ukranian SSR (now Kyiv, Ukraine).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Sokolov/)

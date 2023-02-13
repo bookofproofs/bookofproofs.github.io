@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Serre
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,bourbaki,fields-medal,wolf-prize
+tags: prize-abel,bourbaki,prize-fields-medal,prize-wolf
 orderid: 1926
 title: Serre, Jean-Pierre Albert Achille
 born: 1926

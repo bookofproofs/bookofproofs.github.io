@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Authored over a dozen scientific papers in the field of mathematics and its applications.
 6. Served as a mentor to future mathematicians through lectures, webinars, and speaking engagements.
 
-Born 27 May1862, Lisburn, Co Antrim, Ireland. Died 1 October 1924, Oxford, England.
+Born 27 May 1862, Lisburn, Co Antrim, Ireland. Died 1 October 1924, Oxford, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Campbell/)

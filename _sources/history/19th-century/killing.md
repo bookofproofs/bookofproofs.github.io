@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Killing discovered what would later be called the Euler-Killing vector equation. 
 8. He was noted for his investigations of the curved spaces of constant curvature and their invariant properties.
 
-Born 10 May1847, Burbach (near Siegen), Westphalia, Germany. Died 11 February 1923, Münster, Germany.
+Born 10 May 1847, Burbach (near Siegen), Westphalia, Germany. Died 11 February 1923, Münster, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Killing/)

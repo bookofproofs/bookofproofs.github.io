@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Determined accurate weighs for all coins issued in Europe without cutting into their precious metal contents.
 8. Constructed an assemblage of coins from different countries and epochs, which focused on the nature and numerical systems which gave them value.
 
-Born 25 August 1904, London, England. Died 24 May1976, Deptford, Kent, England.
+Born 25 August 1904, London, England. Died 24 May 1976, Deptford, Kent, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Evelyn/)

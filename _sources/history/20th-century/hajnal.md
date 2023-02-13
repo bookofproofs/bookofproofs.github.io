@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Leading research groups in algorithmic / mathematical logic, computability theory and theoretical computer science.
 8. Designing and discovering optimal memory management, motion planning and numerical schemes for efficient computer programming.
 
-Born 13 May1931, Budapest, Hungary. Died 30 July 2016, Budapest, Hungary.
+Born 13 May 1931, Budapest, Hungary. Died 30 July 2016, Budapest, Hungary.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Hajnal/)

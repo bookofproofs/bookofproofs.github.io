@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Varadhan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,origin-india
+tags: prize-abel,origin-india
 orderid: 1940
 title: Varadhan, Sathamangalam Ranga Iyengar Srinivasa
 born: 1940

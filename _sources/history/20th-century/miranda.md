@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Participated in several researches related to the fields of game theory, probability theory and applied mathematics. 
 8. Published numerous papers on mathematics related topics, including algebra, calculus, optimization, numerical analysis and cryptology.
 
-Born 15 August 1912, Naples, Italy. Died 28 May1982, Naples, Italy.
+Born 15 August 1912, Naples, Italy. Died 28 May 1982, Naples, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Miranda/)

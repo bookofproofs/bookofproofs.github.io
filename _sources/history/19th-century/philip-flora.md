@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Formulated a new type of partial differential equations that revealed an exact connection between 2-dimensional geometry and dynamical systems.
 8. Published several highly regarded research papers on non-linear equations and dynamical systems theory.
 
-Born 19 May1865, Tobermory, Isle of Mull, Argyle, Scotland. Died 14 August 1943, Edinburgh, Scotland.
+Born 19 May 1865, Tobermory, Isle of Mull, Argyle, Scotland. Died 14 August 1943, Edinburgh, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Philip_Flora/)

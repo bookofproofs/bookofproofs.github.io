@@ -29,6 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 4. Introduced the concept of bandwidth, a measure of how much digital information can be transferred over a network.
 5. Authored a number of scientific and engineering papers which helped to shape and advance the fields of network engineering, computer science and telecommunications.
 
-Born 7 June 1924, Treorchy, Rhondda Valley, Wales. Died 28 May2000, Esher, Surrey, England.
+Born 7 June 1924, Treorchy, Rhondda Valley, Wales. Died 28 May 2000, Esher, Surrey, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Davies_Donald/)

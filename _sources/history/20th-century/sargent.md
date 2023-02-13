@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Developed new research techniques on differential equations and analytic expressions.
 8. Authored numerous publications in non-mathematical fields such as history, economics, and philosophy.
 
-Born 8 May1905, Ambergate, Derbyshire, England. Died 11 October 1979, Hampstead Garden, London, England.
+Born 8 May 1905, Ambergate, Derbyshire, England. Died 11 October 1979, Hampstead Garden, London, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Sargent/)

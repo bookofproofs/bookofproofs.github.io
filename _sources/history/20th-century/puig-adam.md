@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed a new Fourier transform using Legendre polynomials.
 10. Provided a proof of the meromorphicity of Euler's zeta function.
 
-Born 12 May1900, Barcelona, Spain. Died 12 January 1960, Madrid, Spain.
+Born 12 May 1900, Barcelona, Spain. Died 12 January 1960, Madrid, Spain.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Puig_Adam/)

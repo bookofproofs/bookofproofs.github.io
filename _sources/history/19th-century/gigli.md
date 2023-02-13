@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Received an honorary degree for outstanding achievements in mathematics in 2017 from the University of Padua. 
 10. Appointed vice-president of the Union of Italian Mathematicians in 2007.
 
-Born 8 January 1878, Sansepolcro, Alta Valle del Tevere, Italy. Died 10 May1933, Pavia, Italy.
+Born 8 January 1878, Sansepolcro, Alta Valle del Tevere, Italy. Died 10 May 1933, Pavia, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Gigli/)

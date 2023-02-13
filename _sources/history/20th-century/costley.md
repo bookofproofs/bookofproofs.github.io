@@ -37,6 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Discovered a mathematical formula that explains the impact of global warming on sea levels.
 10. Developed a mathematical model to estimate the speed of hurricanes based on wind speed and local conditions.
 
-Born 27 May1928, Kingston, Jamaica. Died 18 March 1997, Mount Vernon, Westchester, New York, USA.
+Born 27 May 1928, Kingston, Jamaica. Died 18 March 1997, Mount Vernon, Westchester, New York, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Costley/)

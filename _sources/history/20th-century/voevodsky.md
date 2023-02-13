@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Voevodsky
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-russia,topology
+tags: prize-fields-medal,origin-russia,topology
 orderid: 1966
 title: Voevodsky, Vladimir Aleksandrovich
 born: 1966

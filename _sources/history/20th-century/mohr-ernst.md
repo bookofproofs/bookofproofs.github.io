@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Developed the geometric m-axis theorem and the related prime-counting theorem.
 8. Discovered the Baches-Curtze equation in 1817.
 
-Born 20 April 1910, Ebersbach an der Fils, Württemberg, Germany. Died 16 May1989, Berlin, Germany.
+Born 20 April 1910, Ebersbach an der Fils, Württemberg, Germany. Died 16 May 1989, Berlin, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Mohr_Ernst/)

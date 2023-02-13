@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7.Published research in several mathematical journals.
 8.Served as a lecturer in mathematics at Bryn Mawr College in the United States.
 
-Born 22 May1903, Northampton, England. Died 18 December 1999, Cambridge, England.
+Born 22 May 1903, Northampton, England. Died 18 December 1999, Cambridge, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Jeffreys_Bertha/)

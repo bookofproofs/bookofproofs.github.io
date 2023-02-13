@@ -34,6 +34,6 @@ contributors: @Stefanie-Eminger,bookofproofs,@ChatGPT
 9. Established the principles for the analytical solution of integral equations and provided new methods for their application.
 10. Founded the field of numerical methods used in the study of wave equations.
 
-Born 4 May1840, Töss, Zürich canton, Switzerland. Died 14 March 1907, Zürich, Switzerland.
+Born 4 May 1840, Töss, Zürich canton, Switzerland. Died 14 March 1907, Zürich, Switzerland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Rebstein/)

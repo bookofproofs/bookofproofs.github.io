@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Published the book “The Fundamental Principles of Inopportune Theory of the Babylonians”, providing a comprehensive description and analysis of ancient Babylonian mathematics and astronomy.
 10. Contributed to the development of the five-year mathematical plan, a system used to organize teaching and research in mathematics.
 
-Born 26 May1899, Innsbruck, Austria. Died 19 February 1990, Princeton, New Jersey, USA.
+Born 26 May 1899, Innsbruck, Austria. Died 19 February 1990, Princeton, New Jersey, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Neugebauer/)

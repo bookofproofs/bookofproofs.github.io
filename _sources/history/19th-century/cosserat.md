@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. He wrote pivotal papers in the development of vector paradoxes.
 10. He provided grounds for the invariance of momentum in special relativity.
 
-Born 4 March 1866, Amiens, France. Died 31 May1931, Toulouse, France.
+Born 4 March 1866, Amiens, France. Died 31 May 1931, Toulouse, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Cosserat/)

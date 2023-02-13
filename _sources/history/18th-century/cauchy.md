@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Formulated a number of important theorems, including Cauchy's integral formula, Cauchy's theorem and Cauchy's convergence criterion. 
 8. Established the fundamental theorem of algebra and developed the theory of complex analytic functions.
 
-Born 21 August 1789, Paris, France. Died 23 May1857, Sceaux (near Paris), France.
+Born 21 August 1789, Paris, France. Died 23 May 1857, Sceaux (near Paris), France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Cauchy/)

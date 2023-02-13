@@ -4,7 +4,7 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: origin-scotland
 orderid: 1847
-title: (2), John Wilson
+title: Wilson (3), John
 born: 1847
 died: 1896
 keywords: John Wilson, Mathematics, Algebra, Logic, Number Theory, Geometry, Educator

@@ -36,6 +36,6 @@ William Hamilton (1788-1856) was a 19th century Irish mathematician and cleric w
 9. Studied the motion of multiple points and the associated concept of energy.
 10. Improved the design of marine navigation tools and magnetic compasses.
 
-Born 8 March 1788, Glasgow, Scotland. Died 6 May1856, Edinburgh, Scotland.
+Born 8 March 1788, Glasgow, Scotland. Died 6 May 1856, Edinburgh, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Hamilton_William/)

@@ -29,6 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 4. Development of methods for using Polya's Transfinite Interpolation Theory to solve systems of linear equations.
 5. Pioneering research into the interpretation of complex series and their applications to algebraic equations.
 
-Born 10 March 1869, Shavli, Kovno (now Kaunas, Lithuania). Died 8 May1953, Moscow, USSR.
+Born 10 March 1869, Shavli, Kovno (now Kaunas, Lithuania). Died 8 May 1953, Moscow, USSR.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kagan/)

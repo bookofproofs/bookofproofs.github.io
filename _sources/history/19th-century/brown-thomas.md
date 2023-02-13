@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Introducing the newly-developed Cartesian coordinations into mathematics teaching.
 6. Establishing a mathematics prize at the school and awarding students for their high levels of academic achievement.
 
-Born 21 May1893, Edinburgh, Scotland. Died 13 May1965, Exeter, England.
+Born 21 May 1893, Edinburgh, Scotland. Died 13 May 1965, Exeter, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Brown_Thomas/)

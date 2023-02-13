@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Leray
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: bourbaki,topology,wolf-prize
+tags: bourbaki,topology,prize-wolf
 orderid: 1906
 title: Leray, Jean
 born: 1906

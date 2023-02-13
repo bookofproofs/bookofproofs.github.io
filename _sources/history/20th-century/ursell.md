@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Established the Ursell number, which is a parameter used to measure wave-induced transient current in shallow water problems.
 7. Devised a technique for calculating the entropy of ideal gases using statistical mechanics.
 
-Born 28 April 1923, Düsseldorf, Germany. Died 11 May2012, Manchester, England.
+Born 28 April 1923, Düsseldorf, Germany. Died 11 May 2012, Manchester, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Ursell/)

@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Developed mathematical tools to analyse temperature and current movements in interior oceans.
 6. Co-founded the Royal Society Wolfson Fund, a grant-making organisation dedicated to advancing the understanding of mathematics and its applications.
 
-Born 29 May1885, Biebrich, Germany. Died 24 July 1964, Wiesbaden, Germany.
+Born 29 May 1885, Biebrich, Germany. Died 24 July 1964, Wiesbaden, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Freundlich/)

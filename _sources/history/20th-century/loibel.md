@@ -37,6 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Analyzed the neural networks of the brain to elucidate its functional architecture.
 10. Constructed a mathematical model to simulate the dynamics of neural population activity.
 
-Born 24 May1932, São Paulo, Brazil. Died 13 November 2013, São Paulo, Brazil.
+Born 24 May 1932, São Paulo, Brazil. Died 13 November 2013, São Paulo, Brazil.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Loibel/)

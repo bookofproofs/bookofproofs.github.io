@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Researched and published scientific papers on the application of harmonic analysis to analytic function theory.
 10. Explored the mathematical properties of Diophantine equations.
 
-Born 14 August 1867, Soquel, Santa Cruz, California, USA. Died 7 May1962, Berkeley, California, USA.
+Born 14 August 1867, Soquel, Santa Cruz, California, USA. Died 7 May 1962, Berkeley, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Noble/)

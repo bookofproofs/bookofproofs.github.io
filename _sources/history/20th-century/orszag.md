@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Helped develop the microsimulation models for evaluating government policy and health reform.
 8. Published numerous articles in prominent economic journals such as the Brookings Papers on Economic Activity and the Journal of Monetary Economics.
 
-Born 27 February 1943, Manhattan, New York City, New York, USA. Died 1 May2011, New Haven, Connecticut, USA.
+Born 27 February 1943, Manhattan, New York City, New York, USA. Died 1 May 2011, New Haven, Connecticut, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Orszag/)

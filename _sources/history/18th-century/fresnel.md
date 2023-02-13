@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Fresnel developed a mathematical description of the polarization of light waves in 1822.
 10. He proposed using the linear superposition of secondary waves to explain diffraction in 1815.
 
-Born 10 May1788, Broglie, France. Died 14 July 1827, Ville-d'Avray, France.
+Born 10 May 1788, Broglie, France. Died 14 July 1827, Ville-d'Avray, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Fresnel/)

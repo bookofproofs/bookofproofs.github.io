@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. He developed a system of weights and measures, the Chinese “Ricci Scale."
 8. Ricci also wrote a book on arithmetic and mathematics, “The Principles of Mathematics."
 
-Born 6 October 1552, Macerata, Papal States (now Italy). Died 11 May1610, Peking, China.
+Born 6 October 1552, Macerata, Papal States (now Italy). Died 11 May 1610, Peking, China.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Ricci_Matteo/)

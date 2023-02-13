@@ -35,6 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Demonstrated the stability of the Riemann-Roch problem and formulated an algebraic-geometric criterion for the stability of a plane embedded in space over a field of constants.
 8. Developed a geometric approach for the research of irregularized plane equations as well as methods for the description of singularities in plane algebraic equations.
 
-Born 1 May1911, Village No 2, Kounrad district, Karaganda region, Russian Empire (now Kazakhstan). Died 15 May1989, Almaty, Kazakh SSR, USSR (now Kazakhstan).
+Born 1 May 1911, Village No 2, Kounrad district, Karaganda region, Russian Empire (now Kazakhstan). Died 15 May 1989, Almaty, Kazakh SSR, USSR (now Kazakhstan).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Zhautykov/)

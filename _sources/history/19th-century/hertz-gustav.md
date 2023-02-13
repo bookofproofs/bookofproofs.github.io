@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Hertz_Gustav
 categories: history,19th-century
 parentid: bookofproofs$603
-tags: origin-germany,nobel-prize
+tags: origin-germany,prize-nobel
 orderid: 1887
 title: Hertz (2), Gustav
 born: 1887

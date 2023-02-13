@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Szemeredi
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,origin-hungary
+tags: prize-abel,origin-hungary
 orderid: 1940
 title: Szemerédi, Endre
 born: 1940

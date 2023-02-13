@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Yau
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-china,wolf-prize
+tags: prize-fields-medal,origin-china,prize-wolf
 orderid: 1949
 title: Yau, Shing-Tung
 born: 1949

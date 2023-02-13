@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Published over 250 books, articles, book reviews, and addresses on mathematics and the history of mathematics and science.
 7. Created the "Kline Prize in Mathematics," an annual award given to an outstanding teacher in the field of mathematics.
 
-Born 1 May1908, Brooklyn, New York City, New York, USA. Died 10 June 1992, Brooklyn, New York City, New York, USA.
+Born 1 May 1908, Brooklyn, New York City, New York, USA. Died 10 June 1992, Brooklyn, New York City, New York, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kline/)

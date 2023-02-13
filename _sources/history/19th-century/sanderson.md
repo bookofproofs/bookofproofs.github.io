@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Presented a number of lectures on mathematics at institutions all around the world. 
 8. Chaired the Mathematics Faculty at the Open University from 1993-1998.
 
-Born 12 May1889, Waltham, Massachusetts, USA. Died 15 October 1914, East Bridgewater, Massachusetts, USA.
+Born 12 May 1889, Waltham, Massachusetts, USA. Died 15 October 1914, East Bridgewater, Massachusetts, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Sanderson/)

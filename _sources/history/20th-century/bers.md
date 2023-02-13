@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. He wrote the book  Theory of pseudo-uniform mappings. 
 8. He discovered the Bers slice theorem in 1971, a breakthrough result in the field of low-dimensional topology.
 
-Born 23 May1914, Riga, Russia (now Latvia). Died 29 October 1993, New Rochelle, New York, USA.
+Born 23 May 1914, Riga, Russia (now Latvia). Died 29 October 1993, New Rochelle, New York, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Bers/)

@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed a method of integral calculus with stratagems for solving complex numerical equations.
 10. Investigated the properties of inverse functions and their derivatives.
 
-Born 14 November 1865, Bagheria, Sicily, Italy. Died 12 May1927, Rome, Italy.
+Born 14 November 1865, Bagheria, Sicily, Italy. Died 12 May 1927, Rome, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Bagnera/)

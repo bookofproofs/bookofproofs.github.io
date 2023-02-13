@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Leveraged Morse theory to define the splitting of a Riemannian manifold into two parts.
 8. Established an early step towards understanding Ricci flow.
 
-Born 13 May1938, Berlin, Germany. Died 31 May2008, Stony Brook, New York, USA.
+Born 13 May 1938, Berlin, Germany. Died 31 May 2008, Stony Brook, New York, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Gromoll/)

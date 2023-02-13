@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Developed the Larmor-Isham theorem, which states that the field of a moving charged particle is determined by its velocity alone. 
 8. Made significant contributions to the mathematical theories of wave and radiation by introducing wave functions and the hypothesis that electric and magnetic fields form continuous wave phenomena.
 
-Born 11 July 1857, Magheragall, County Antrim, Ireland. Died 19 May1942, Holywood, County Down, Ireland.
+Born 11 July 1857, Magheragall, County Antrim, Ireland. Died 19 May 1942, Holywood, County Down, Ireland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Larmor/)

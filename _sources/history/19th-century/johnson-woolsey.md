@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Created the field of statistical matrix analysis and proved the existence of rank-one solutions. 
 7. Authored influential textbooks related to linear algebra, analytic geometry, and related mathematical topics.
 
-Born 23 June 1841, Owego, Tioga County, New York,USA. Died 14 May1927, Baltimore, Maryland, USA.
+Born 23 June 1841, Owego, Tioga County, New York,USA. Died 14 May 1927, Baltimore, Maryland, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Johnson_Woolsey/)

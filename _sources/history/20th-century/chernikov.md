@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Authored numerous books and research papers on mathematics, optimization, and optimal control.
 10. Received numerous awards and distinctions for his contributions to mathematical sciences.
 
-Born 11 May1912, Zagorsk, Russia. Died 23 January 1987, Kiev, Ukraine.
+Born 11 May 1912, Zagorsk, Russia. Died 23 January 1987, Kiev, Ukraine.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Chernikov/)

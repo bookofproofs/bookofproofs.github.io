@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Authored over 400 scientific papers and twelve books on mathematics, including Theory of Functions and Theorie der ganzen Funktionen. 
 10. Developed the Nevanlinna representation of meromorphic functions in the complex plane.
 
-Born 22 October 1895, Joensuu, Russian Empire (now Finland). Died 28 May1980, Helsinki, Finland.
+Born 22 October 1895, Joensuu, Russian Empire (now Finland). Died 28 May 1980, Helsinki, Finland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Nevanlinna/)

@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Developed a mathematical model for the prediction of turbulent wakes in rivers in 1972.
 8. Received the Rossby Prize from the American Meteorological Society in 1975 for his research on a broad range of topics related to nonlinear dynamical meteorology.
 
-Born 20 September 1925, Barnsley, Yorkshire, England. Died 7 May1983, London, England.
+Born 20 September 1925, Barnsley, Yorkshire, England. Died 7 May 1983, London, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Stewartson/)

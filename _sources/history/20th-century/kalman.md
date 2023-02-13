@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Demonstrated the fundamental importance of linear matrix inequality (LMI) in many areas of mathematical system theory.
 8. Shifted the focus of control engineering from open-loop systems with predetermined trajectories to closed loop systems with variable state estimations and feedback.
 
-Born 19 May1930, Budapest, Hungary. Died 2 July 2016, Gainesville, Florida, USA.
+Born 19 May 1930, Budapest, Hungary. Died 2 July 2016, Gainesville, Florida, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kalman/)

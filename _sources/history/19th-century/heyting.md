@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. He published mathematical works in the field of geometry and algebraic geometry.
 10. He was honored with the Do-Lor Watenpaugh Medal in 1969 for his contributions to mathematics.
 
-Born 9 May1898, Amsterdam, Netherlands. Died 9 July 1980, Lugano, Switzerland.
+Born 9 May 1898, Amsterdam, Netherlands. Died 9 July 1980, Lugano, Switzerland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Heyting/)

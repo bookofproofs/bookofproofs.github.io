@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Artin_Michael
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-germany,wolf-prize
+tags: origin-germany,prize-wolf
 orderid: 1934
 title: Artin (2), Michael
 born: 1934

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Zelmanov
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: algebra,fields-medal,group-theory,origin-russia,puzzles-and-problems
+tags: algebra,prize-fields-medal,group-theory,origin-russia,puzzles-and-problems
 orderid: 1955
 title: Zelmanov, Efim Isaakovich
 born: 1955

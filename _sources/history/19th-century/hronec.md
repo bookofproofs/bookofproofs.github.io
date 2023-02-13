@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Collaborated with a team of mathematicians to prove the upper bound of a previously unsolved problem in graph theory.
 8. Discovered several innovative mathematical methods used in operations research and optimization.
 
-Born 17 May1881, Gocovo, Roznava District, Kingdom of Hungary (now Slovakia). Died 1 December 1959, Bratislava, Czechoslovakia (now Slovakia).
+Born 17 May 1881, Gocovo, Roznava District, Kingdom of Hungary (now Slovakia). Died 1 December 1959, Bratislava, Czechoslovakia (now Slovakia).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Hronec/)

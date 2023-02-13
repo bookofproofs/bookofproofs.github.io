@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Bethe
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: astronomy,nobel-prize
+tags: astronomy,prize-nobel
 orderid: 1906
 title: Bethe, Hans Albrecht
 born: 1906

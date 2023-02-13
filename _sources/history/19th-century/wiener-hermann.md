@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Discovered the mathematical foundations of the Nyquist-Shannon sampling theorem, an important concept in the field of communication technology
 10. Developed the Hardy-Wiener theorem, a result in the field of Fourier analysis.
 
-Born 15 May1857, Karlsruhe, Germany. Died 13 June 1939, Darmstadt, Germany.
+Born 15 May 1857, Karlsruhe, Germany. Died 13 June 1939, Darmstadt, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Wiener_Hermann/)

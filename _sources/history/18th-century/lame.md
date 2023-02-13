@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Established a version of the law of continuity. 
 10. Discovered the polar geodesic theorem.
 
-Born 22 July 1795, Tours, France. Died 1 May1870, Paris, France.
+Born 22 July 1795, Tours, France. Died 1 May 1870, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Lame/)

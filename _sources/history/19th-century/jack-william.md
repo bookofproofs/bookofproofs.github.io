@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Proposed a new approach to the boson-fermion correspondence, linking different kinds of particles in quantum field theory. 
 9. Established a mathematical relationship between a particle’s momentum and its wavefunction.
 
-Born 29 May1834, Stewarton, Ayrshire, Scotland. Died 23 March 1924, Glasgow, Scotland.
+Born 29 May 1834, Stewarton, Ayrshire, Scotland. Died 23 March 1924, Glasgow, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Jack_William/)

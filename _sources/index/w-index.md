@@ -3,7 +3,7 @@ nodeid: bookofproofs$widget
 parentid: bookofproofs$i
 categories: index
 orderid: 700
-title: Widgets Index 
+title: Widgets 
 contributors: bookofproofs
 ---
 ---

@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. He founded the research field of mathematical psychology, which uses quantitative models to both describe and explain behaviour. 
 9. He was an influential teacher who produced over 100 doctoral students, many of whom went on to become famous mathematicians.
 
-Born 3 May1860, Ancona, Papal States (now Italy). Died 11 October 1940, Rome, Italy.
+Born 3 May 1860, Ancona, Papal States (now Italy). Died 11 October 1940, Rome, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Volterra/)

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Freedman
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-usa,topology
+tags: prize-fields-medal,origin-usa,topology
 orderid: 1951
 title: Freedman, Michael Hartley
 born: 1951

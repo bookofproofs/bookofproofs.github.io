@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Developed a simplified proof of Viète's Formula.
 8. Also made contributions in number theory, combinatorics and graph theory.
 
-Born 23 May1887, Sandsvaer, Buskerud, Norway. Died 23 March 1963, Oslo, Norway.
+Born 23 May 1887, Sandsvaer, Buskerud, Norway. Died 23 March 1963, Oslo, Norway.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Skolem/)

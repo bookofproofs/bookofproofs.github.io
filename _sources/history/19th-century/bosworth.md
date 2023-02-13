@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Verified the Riemann hypothesis for the first 900,000 zeros of the zeta function, thus providing new insights into the distribution of prime numbers.
 6. Published numerous research papers in mathematics and computer science topics.
 
-Born 29 September 1868, Woonsocket, Rhode Island, USA. Died 15 May1907, Cleveland, Ohio, USA.
+Born 29 September 1868, Woonsocket, Rhode Island, USA. Died 15 May 1907, Cleveland, Ohio, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Bosworth/)

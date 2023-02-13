@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Schwinger
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-usa,nobel-prize
+tags: origin-usa,prize-nobel
 orderid: 1918
 title: Schwinger, Julian Seymour
 born: 1918

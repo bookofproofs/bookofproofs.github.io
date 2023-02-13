@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Helped develop a mathematical theorem known as the "Stark Inequality", which has been studied and used to provide the basis for a number of advanced mathematical algorithms.
 6. Represented his home country of Poland at several international mathematical competitions, and was awarded several gold medals for his achievements.
 
-Born 19 September 1908, Lemberg, Austrian Empire (now Lviv, Ukraine). Died 4 May1974, Warsaw, Poland.
+Born 19 September 1908, Lemberg, Austrian Empire (now Lviv, Ukraine). Died 4 May 1974, Warsaw, Poland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Stark/)

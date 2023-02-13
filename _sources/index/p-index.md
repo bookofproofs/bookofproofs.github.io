@@ -3,11 +3,20 @@ nodeid: bookofproofs$person
 parentid: bookofproofs$i
 categories: index
 orderid: 800
-title: Person Index (Experimental) 
+title: Person
 contributors: bookofproofs
 ---
 ---
 
-{{ p-index }}
+## Find Persons by Name
 
+{{ pbn-index }}
+
+## Find Persons by Birth Year
+
+{{ pby-index }}
+
+## Find Persons by Tag 
+
+{{ pbt-index }}
 

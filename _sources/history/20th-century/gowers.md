@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Gowers
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-england
+tags: prize-fields-medal,origin-england
 orderid: 1963
 title: Gowers, William Timothy
 born: 1963

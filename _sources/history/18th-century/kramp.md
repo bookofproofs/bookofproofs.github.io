@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed a set of tools, the Geometric-Algebraic Semantics Library (GASLIB), to analyze problems using geometric algebra. 
 10. Authored research papers on mesh and texture deformation, finite elements, and geometric transformations.
 
-Born 8 July 1760, Strasbourg, France. Died 13 May1826, Strasbourg, France.
+Born 8 July 1760, Strasbourg, France. Died 13 May 1826, Strasbourg, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kramp/)

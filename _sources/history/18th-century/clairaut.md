@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Solved the infinitesimal calculus of variations problem posed by Johann Bernoulli
 10. Extended and improved upon the work of Euler and d'Alembert on wave propagation.
 
-Born 7 May1713, Paris, France. Died 17 May1765, Paris, France.
+Born 7 May 1713, Paris, France. Died 17 May 1765, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Clairaut/)

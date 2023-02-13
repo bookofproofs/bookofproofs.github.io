@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Contributed to the development of computer algebra systems that are widely used in scientific computation.
 10. Investigated the construction and analysis of algorithms related to linear algebra.
 
-Born 30 July 1928, Berlin, Germany. Died 9 May2021, Eugene, Oregon, USA.
+Born 30 July 1928, Berlin, Germany. Died 9 May 2021, Eugene, Oregon, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Walter/)

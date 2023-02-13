@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Was responsible for founding the theory of semimartingales. 
 10. Was the first to bring the theories of algebra, probability & statistics together.
 
-Born 11 May1924, Leningrad, USSR (now St Petersburg, Russia). Died 14 November 2014, Ithaca, New York, USA.
+Born 11 May 1924, Leningrad, USSR (now St Petersburg, Russia). Died 14 November 2014, Ithaca, New York, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Dynkin/)

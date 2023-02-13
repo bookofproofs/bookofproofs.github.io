@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Co-invented the Wintner–Walfisz theorem, which describes the distribution of prime numbers.
 6. Authored over 90 books and papers on mathematics and statistics.
 
-Born 2 July 1892, Warsaw, Russian Empire (now Poland). Died 29 May1962, Tbilisi, Georgia.
+Born 2 July 1892, Warsaw, Russian Empire (now Poland). Died 29 May 1962, Tbilisi, Georgia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Walfisz/)

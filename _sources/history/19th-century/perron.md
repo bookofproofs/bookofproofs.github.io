@@ -34,6 +34,6 @@ Suppose the largest natural number is `$N$`. Then if `$N>1$` we have `$N^2>N$` c
 7. Revised and extended a number of theorems concerning quadratic forms in real numbers.
 8. Applied linear algebra to the theory of quadratic forms and to the invariant theory of binary forms.
 
-Born 7 May1880, Frankenthal, Pfalz, Germany. Died 22 February 1975, Munich, Germany.
+Born 7 May 1880, Frankenthal, Pfalz, Germany. Died 22 February 1975, Munich, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Perron/)

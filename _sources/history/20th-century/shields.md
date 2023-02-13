@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Proposed a mathematical description of the mind-body interaction, a connection between neurodynamics and dynamical systems theory which explored the brain's ability to process sensory inputs and other dynamic processes.
 8. Developed Lie algebra and control theory, which extended the scope of linear differential equations, to analyze the behavior of nonlinear systems.
 
-Born 7 May1927, New York City, USA. Died 16 September 1989, Ann Arbor, Michigan, USA.
+Born 7 May 1927, New York City, USA. Died 16 September 1989, Ann Arbor, Michigan, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Shields/)

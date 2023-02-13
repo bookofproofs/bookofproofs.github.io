@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed the concept of "integral curvature" and its application in the field of elasticity.
 10. Authored an extensive monograph on the history of mathematics in Brazil in 1976.
 
-Born 11 May1744, Lisbon, Portugal. Died 1 January 1787, Lisbon, Portugal.
+Born 11 May 1744, Lisbon, Portugal. Died 1 January 1787, Lisbon, Portugal.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Cunha/)

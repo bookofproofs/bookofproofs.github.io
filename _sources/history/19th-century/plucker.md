@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Solved the invariant problem of second-order binary forms with 12 parameters.
 10. Found new applications of the calculus of variations.
 
-Born 16 July 1801, Elberfeld (now Wuppertal), Duchy of Berg (now Germany). Died 22 May1868, Bonn, Germany.
+Born 16 July 1801, Elberfeld (now Wuppertal), Duchy of Berg (now Germany). Died 22 May 1868, Bonn, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Plucker/)

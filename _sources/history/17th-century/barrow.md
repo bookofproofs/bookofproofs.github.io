@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Introducing the concept of simplex angles.
 10. Establishing the idea of mathematical analysis.
 
-Born October 1630, London, England. Died 4 May1677, London, England.
+Born October 1630, London, England. Died 4 May 1677, London, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Barrow/)

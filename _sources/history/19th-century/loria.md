@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed a system for calculating the distances of planets from the Sun in 1913.
 10. Published a paper on Hermite–Hadamard integral inequalities in 1914.
 
-Born 19 May1862, Mantua, Austrian Empire (now Italy). Died 30 January 1954, Genoa, Italy.
+Born 19 May 1862, Mantua, Austrian Empire (now Italy). Died 30 January 1954, Genoa, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Loria/)

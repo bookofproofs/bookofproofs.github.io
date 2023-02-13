@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Developed the Siacci Existence and Uniqueness Theorem in 1895. 
 8. Demonstrated the existence of a family of polynomial curves with similar properties in 1905, which became known as the Siacci curves.
 
-Born 20 April 1839, Rome (now Italy). Died 31 May1907, Naples, Italy.
+Born 20 April 1839, Rome (now Italy). Died 31 May 1907, Naples, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Siacci/)

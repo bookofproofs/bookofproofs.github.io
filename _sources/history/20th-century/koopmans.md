@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Koopmans
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-netherlands,nobel-prize
+tags: origin-netherlands,prize-nobel
 orderid: 1910
 title: Koopmans, Tjalling Charles
 born: 1910

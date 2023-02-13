@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Established correspondence between harmonic functions, potential theory and conformal mapping.
 10. Developed theories of potential theory and integral equations.
 
-Born 9 January 1864, Nizhny Novgorod (was Gorky from 1932-1990), Russia. Died 30 May1926, Gaspra, Crimea, USSR.
+Born 9 January 1864, Nizhny Novgorod (was Gorky from 1932-1990), Russia. Died 30 May 1926, Gaspra, Crimea, USSR.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Steklov/)

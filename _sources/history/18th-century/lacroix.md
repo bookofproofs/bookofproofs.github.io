@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Invented the slotted paper system in 1834, which was the precursor to modern slide rules.
 10. Developed a method for classifying and determining quadratic forms in 1838.
 
-Born 28 April 1765, Paris, France. Died 24 May1843, Paris, France.
+Born 28 April 1765, Paris, France. Died 24 May 1843, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Lacroix/)

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Jones_Vaughan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-new-zealand
+tags: prize-fields-medal,origin-new-zealand
 orderid: 1952
 title: Jones (4), Vaughan
 born: 1952

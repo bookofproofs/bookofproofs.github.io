@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Furstenberg
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,origin-germany,topology,wolf-prize
+tags: prize-abel,origin-germany,topology,prize-wolf
 orderid: 1935
 title: Furstenberg, Hillel
 born: 1935

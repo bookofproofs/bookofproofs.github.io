@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Mori
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-japan
+tags: prize-fields-medal,origin-japan
 orderid: 1951
 title: Mori, Shigefumi
 born: 1951

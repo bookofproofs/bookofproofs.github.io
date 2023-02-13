@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Provided an ordering method for the apportionment problem (a variation of the "horse-voting" technique known as Zermelo's method).
 8. Introduced the modern definitions of cardinality and ordinality.
 
-Born 27 July 1871, Berlin, Germany. Died 21 May1953, Freiburg im Breisgau, Germany.
+Born 27 July 1871, Berlin, Germany. Died 21 May 1953, Freiburg im Breisgau, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Zermelo/)

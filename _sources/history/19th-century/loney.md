@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Established a method for calculating complex values of certain arithmetical functions, which was later referred to as the Loney-Schläfli theorem. 
 9. Published the first textbook focusing on elliptic functions, Elliptic Functions and Projectivities.
 
-Born 16 March 1860, Chevithorne, Devon, England. Died 16 May1939, Richmond, England.
+Born 16 March 1860, Chevithorne, Devon, England. Died 16 May 1939, Richmond, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Loney/)

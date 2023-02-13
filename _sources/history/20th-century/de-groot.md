@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Reconstructed the algebra of polynomials in multiple variables, earning him the prestigious \'{E}mile Borel Prize in 1935.
 8. Pioneered the coordination of algebraic geometry and number theory into his theory of ideals.
 
-Born 7 May1914, Garrelsweer, The Netherlands. Died 11 September 1972, Rotterdam, The Netherlands.
+Born 7 May 1914, Garrelsweer, The Netherlands. Died 11 September 1972, Rotterdam, The Netherlands.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/De_Groot/)

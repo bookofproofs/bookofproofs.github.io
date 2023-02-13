@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Chern
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-china,shaw-prize,wolf-prize
+tags: origin-china,prize-shaw,prize-wolf
 orderid: 1911
 title: Chern, Shiing-shen
 born: 1911

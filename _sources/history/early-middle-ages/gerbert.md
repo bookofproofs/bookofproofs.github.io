@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Assisted Pope Sylvester II in reconstructing the calendar, leading to the Gregorian calendar which is still in use today. 
 8. Introduced the cross-staff and astrolabe, used by mariners and navigators to measure the angular altitude of the sun and stars.
 
-Born 946, Belliac, (now St-Simon) Auvergne, France. Died 12 May1003, Rome (now Italy).
+Born 946, Belliac, (now St-Simon) Auvergne, France. Died 12 May 1003, Rome (now Italy).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Gerbert/)

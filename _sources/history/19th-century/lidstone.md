@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Was a leading authority on mathematical education and school-teaching in the twentieth century.
 10. Pioneered the idea of developing free mathematics teaching software to help students understand concepts.
 
-Born 11 December 1870, London, England. Died 12 May1952, Edinburgh, Scotland.
+Born 11 December 1870, London, England. Died 12 May 1952, Edinburgh, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Lidstone/)

@@ -36,6 +36,6 @@ John Knopfmacher is a mathematical researcher acknowledged for his many contribu
 9. Provided new ways to understand the Riemann zeta function and its special values.
 10. Pioneered an extension of the graph orientation method which allowed for the quick calculation of graph invariants.
 
-Born 20 January 1937, Johannesburg, Transvaal, South Africa. Died 29 May1999, Graz, Austria.
+Born 20 January 1937, Johannesburg, Transvaal, South Africa. Died 29 May 1999, Graz, Austria.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Knopfmacher/)

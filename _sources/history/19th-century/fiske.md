@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed cutting algorithms for the approximation of shapes.
 10. Published significant research on differential geometry, linear algebra, and approximate computation.
 
-Born 12 May1865, New York, USA. Died 10 January 1944, Poughkeepsie, New York, USA.
+Born 12 May 1865, New York, USA. Died 10 January 1944, Poughkeepsie, New York, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Fiske/)

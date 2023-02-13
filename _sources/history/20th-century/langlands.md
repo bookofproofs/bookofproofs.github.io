@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Langlands
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,origin-canada,shaw-prize,wolf-prize
+tags: prize-abel,origin-canada,prize-shaw,prize-wolf
 orderid: 1936
 title: Langlands, Robert Phelan
 born: 1936

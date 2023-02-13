@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Proposed a new proof for the fundamental theorem of algebra
 7. Introduced the Dennis-Jurisich bases for vertex-transitive graphs
 
-Born 11 April 1905, Gainsville, Florida, USA. Died 12 May1977, Switzerland.
+Born 11 April 1905, Gainsville, Florida, USA. Died 12 May 1977, Switzerland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Dennis/)

@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Advised numerous doctoral students on topics related to mathematics and computation
 7. Developed a method for establishing existence and uniqueness of solutions for differential equations which was later known as the "Berwick Argument"
 
-Born 11 March 1888, Dudley Hill (near Bradford), England. Died 13 May1944, Bangor, Wales.
+Born 11 March 1888, Dudley Hill (near Bradford), England. Died 13 May 1944, Bangor, Wales.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Berwick/)

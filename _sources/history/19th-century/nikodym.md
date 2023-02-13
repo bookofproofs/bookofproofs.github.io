@@ -32,6 +32,6 @@ contributors: @Lech-Maligranda,bookofproofs,@ChatGPT
 7. He discovered the Littlewood–Paley theorem for multiple Fourier series. 
 8. He contributed to the modern concept of the Lebesgue integral by introducing the Littlewood integral.
 
-Born 13 August 1887, Zablotow, Galicia, Austria-Hungary (now Ukraine). Died 4 May1974, Utica, USA.
+Born 13 August 1887, Zablotow, Galicia, Austria-Hungary (now Ukraine). Died 4 May 1974, Utica, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Nikodym/)

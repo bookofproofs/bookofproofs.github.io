@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed the theory of homology (1820s). 
 10. Discovered the Gergonne Point, or the point at which the three altitudes of a triangle intersect (1820s).
 
-Born 19 June 1771, Nancy, France. Died 4 May1859, Montpellier, France.
+Born 19 June 1771, Nancy, France. Died 4 May 1859, Montpellier, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Gergonne/)

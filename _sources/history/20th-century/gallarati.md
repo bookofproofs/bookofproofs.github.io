@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. He developed methods for solving equations of higher order, including those involving fourth and fifth roots.
 8. He was the first to solve the equation xˆ2 = 2yˆ3
 
-Born 8 May1923, Savona, Italy. Died 15 May2019, Albaro, Genoa, Italy.
+Born 8 May 1923, Savona, Italy. Died 15 May 2019, Albaro, Genoa, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Gallarati/)

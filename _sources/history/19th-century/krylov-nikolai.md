@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Found a way to numerical solution of two-point boundary value problems.
 10. Found a method of compressible flow calculations which would later be known as the Krylov-Bogolyubov method.
 
-Born 29 November 1879, St Petersburg, Russia. Died 11 May1955, Moscow, USSR.
+Born 29 November 1879, St Petersburg, Russia. Died 11 May 1955, Moscow, USSR.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Krylov_Nikolai/)

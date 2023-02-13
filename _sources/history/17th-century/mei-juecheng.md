@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Created an algorithm for approximating pi which was more accurate than any prior algorithm.
 8. Improved the accuracy of Chinese calendars by developing a new formula for calculating the time and period of new moons.
 
-Born 19 May1681, Xuangcheng, now Xuanzhou City, Anhui province, China. Died 20 November 1763, China.
+Born 19 May 1681, Xuangcheng, now Xuanzhou City, Anhui province, China. Died 20 November 1763, China.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Mei_Juecheng/)

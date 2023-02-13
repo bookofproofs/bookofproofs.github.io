@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Established dialectal models in unified field theory, which helped bridge the gap between classic and quantum mechanics.
 7. Authored numerous papers on intuitionistic and fuzzy set theory, considered groundbreaking contributions to mathematical logic and information theory.
 
-Born 22 May1893, Warsaw, Russian Empire (now Poland). Died 3 November 1980, Wrocław, Poland.
+Born 22 May 1893, Warsaw, Russian Empire (now Poland). Died 3 November 1980, Wrocław, Poland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Knaster/)

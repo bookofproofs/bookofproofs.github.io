@@ -35,6 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Received the Admiral Award for Excellence in Mathematics for her contributions to mathematics.
 8. Pioneered the use of computers to study calculus and trigonometry.
 
-Born 15 May1865, Glasgow, Scotland. Died 21 July 1949, Hampton Hill, Middlesex, England.
+Born 15 May 1865, Glasgow, Scotland. Died 21 July 1949, Hampton Hill, Middlesex, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Everett/)

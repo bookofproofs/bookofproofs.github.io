@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Proposed a new model for the kinetic study of gas phases, which included the diffusion and convective regime. 
 8. Published several books exploring the history of mathematics, including calculus and algebra.
 
-Born 6 May1895, Rio de Janeiro, Brazil. Died 18 June 1974, Recife, Brazil.
+Born 6 May 1895, Rio de Janeiro, Brazil. Died 18 June 1974, Recife, Brazil.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Souza/)

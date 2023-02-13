@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed an algorithm for solving transcendental equations using power series expansions.
 10. Established Milne's Criterion for testing the convergence of a series.
 
-Born 22 May1881, Longside, Aberdeenshire, Scotland. Died 3 September 1967, Glack, Aberdeenshire, Scotland.
+Born 22 May 1881, Longside, Aberdeenshire, Scotland. Died 3 September 1967, Glack, Aberdeenshire, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Milne_William/)

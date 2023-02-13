@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. He established important properties of linear forms, which is the basis for his famous ‘Lemma of Allman’.
 8. He was the first to use multidimensional calculus in solving problems in geometry and algebra.
 
-Born 28 September 1824, Dublin, Ireland. Died 9 May1904, Dublin, Ireland.
+Born 28 September 1824, Dublin, Ireland. Died 9 May 1904, Dublin, Ireland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Allman/)

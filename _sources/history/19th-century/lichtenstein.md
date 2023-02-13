@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. His mathematical research also extended to understanding algorithms for the Fast Small Graph Isomorphism Problem.
 7. He also co-authored papers on the Steiner Tree Problem, Optimal Tree Design, and Computational Geometry.
 
-Born 16 May1878, Warsaw, Russian Empire (now Poland). Died 21 August 1933, Zakopane, Poland.
+Born 16 May 1878, Warsaw, Russian Empire (now Poland). Died 21 August 1933, Zakopane, Poland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Lichtenstein/)

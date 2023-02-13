@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Pioneered the introduction of geometrical methods into the study of equations.
 9. Demonstrated that the theory of equations could be used to study the properties of circles in the Euclidean plane.
 
-Born 1 May1863, Naples, Italy. Died 10 December 1949, Pavia, Italy.
+Born 1 May 1863, Naples, Italy. Died 10 December 1949, Pavia, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Berzolari/)

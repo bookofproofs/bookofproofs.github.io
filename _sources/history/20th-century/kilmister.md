@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Established new mathematics techniques, tools and techniques to facilitate problem solving.
 10. Delivered several keynote lectures and presentations on the subject of mathematics.
 
-Born 3 January 1924, Epping, Essex, England. Died 2 May2010, Lewes, East Sussex, England.
+Born 3 January 1924, Epping, Essex, England. Died 2 May 2010, Lewes, East Sussex, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Kilmister/)

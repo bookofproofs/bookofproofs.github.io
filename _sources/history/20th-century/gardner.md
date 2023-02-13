@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Advocated for the unsolved mathematical problems in mathematics education. 
 10. Honored with the Leroy P. Steele Prize for Mathematical Exposition from the American Mathematical Society in 1999.
 
-Born 21 October 1914, Tulsa, Oklahoma, USA. Died 22 May2010, Norman, Oklahoma, USA.
+Born 21 October 1914, Tulsa, Oklahoma, USA. Died 22 May 2010, Norman, Oklahoma, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Gardner/)

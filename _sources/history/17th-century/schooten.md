@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. He popularized the use of exponential and logarithmic functions by introducing them to the public through his works.
 7. His works also included an explanation of the areas and volumes of certain analytical figures, as well as the querie (a method of finding the centers of gravity and masses rising from three-dimensional bodies).
 
-Born 15 May1615, Leiden, Netherlands. Died 29 May1660, Leiden, Netherlands.
+Born 15 May 1615, Leiden, Netherlands. Died 29 May 1660, Leiden, Netherlands.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Schooten/)

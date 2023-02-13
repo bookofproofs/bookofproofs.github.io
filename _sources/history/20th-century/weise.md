@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Published the influential books "Theory of Algebra" and "Geometry Applied" in 1843 and 1848 respectively, which are still used today in many universities.
 10. Founded the influential Acta Mathematica journal, which features many of his mathematical theories and those of other prominent mathematicians.
 
-Born 24 May1909, Gera, Thüringen, Germany. Died 15 April 1990, Kiel, Germany.
+Born 24 May 1909, Gera, Thüringen, Germany. Died 15 April 1990, Kiel, Germany.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Weise/)

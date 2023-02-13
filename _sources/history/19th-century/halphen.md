@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Identified the complementary series solutions to the hypergeometric functions.
 10. Developed the theory of Elliptic functions and its application to the linear differential equations of second order.
 
-Born 30 October 1844, Rouen, France. Died 23 May1889, Versailles, France.
+Born 30 October 1844, Rouen, France. Died 23 May 1889, Versailles, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Halphen/)

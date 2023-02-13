@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Developed important work related to algebraic codes, cyclic linear codes, and error correction theory as part of the MTP.
 8. Pioneered applications for programming languages for computing symbolically.
 
-Born 15 May1900, Kamianets-Podilskyi, Ukraine. Died 1 February 1986, Rockville, Maryland, USA.
+Born 15 May 1900, Kamianets-Podilskyi, Ukraine. Died 1 February 1986, Rockville, Maryland, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Rhodes/)

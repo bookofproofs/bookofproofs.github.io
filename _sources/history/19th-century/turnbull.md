@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Became the first President of the Mathematical Association in 1935.
 8. Awarded the Sylvester Medal in 1937 by the Royal Society of London in recognition of his contributions to mathematics.
 
-Born 31 August 1885, Tettenhall, Wolverhampton, England. Died 4 May1961, Grasmere, Westmoreland, England.
+Born 31 August 1885, Tettenhall, Wolverhampton, England. Died 4 May 1961, Grasmere, Westmoreland, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Turnbull/)

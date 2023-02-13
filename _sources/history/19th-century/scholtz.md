@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Formulated the Scholtz Theorem of Riemannian Geometry which introduced the notion of 'stability' for the geometry of manifolds.
 7. Authored the book "The Formal Language of Riemannian Geometry" which became the foundation of mathematical knowledge in the field of non-Euclidean geometry.
 
-Born 27 July 1844, Kotterbach, Zips district, Austro-Hungary (now Rudnany, Slovakia). Died 6 May1916, Veszprém, Hungary.
+Born 27 July 1844, Kotterbach, Zips district, Austro-Hungary (now Rudnany, Slovakia). Died 6 May 1916, Veszprém, Hungary.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Scholtz/)

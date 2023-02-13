@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@G-M-Phillips,bookofproofs,@ChatGPT
 6. Proved theorems on the primality and divisibility of Fibonacci numbers.
 7. Published the well-known equation F_n + F_n+1 + F_n+2 = F_2n+1.
 
-Born 2 May1901, Liège, Belgium. Died 16 May1983, Liège, Belgium.
+Born 2 May 1901, Liège, Belgium. Died 16 May 1983, Liège, Belgium.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Zeckendorf/)

@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Promotion of the development of mathematics in secondary-school. 
 8. Serving as President of the Circolo Matematico di Palermo from 1952 to 1966.
 
-Born 24 May1914, Riposto, Catania, Sicily. Died 7 May1980, Naples, Italy.
+Born 24 May 1914, Riposto, Catania, Sicily. Died 7 May 1980, Naples, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Cafiero/)

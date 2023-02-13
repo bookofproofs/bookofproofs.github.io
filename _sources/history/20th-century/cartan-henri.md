@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Cartan_Henri
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: bourbaki,wolf-prize
+tags: bourbaki,prize-wolf
 orderid: 1904
 title: Cartan (2), Henri
 born: 1904

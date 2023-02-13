@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Werner_Wendelin
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-germany
+tags: prize-fields-medal,origin-germany
 orderid: 1968
 title: Werner (2), Wendelin
 born: 1968

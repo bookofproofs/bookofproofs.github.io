@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Developed a method for applying Lagrange's method to solve systems of equations (1841)
 8. Published an improved method for calculating definite integrals (1845)
 
-Born 14 May1701, Hurworth, near Darlington, England. Died 20 May1782, Hurworth, near Darlington, England.
+Born 14 May 1701, Hurworth, near Darlington, England. Died 20 May 1782, Hurworth, near Darlington, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Emerson/)

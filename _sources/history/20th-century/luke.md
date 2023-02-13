@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. He was an active member of the National Council of Teachers of Mathematics and an organizer of their African-American professional networks.
 10. He presented numerous invited lectures at institutions across the world.
 
-Born 26 June 1918, Kansas City, Missouri, USA. Died 6 May1983, Moscow, Russia.
+Born 26 June 1918, Kansas City, Missouri, USA. Died 6 May 1983, Moscow, Russia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Luke/)

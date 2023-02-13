@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Participated in numerous international mathematics symposia, presenting ground-breaking research. 
 10. Received multiple awards and recognitions for significant contributions to mathematics.
 
-Born 6 May1865, St Nicholas, Aberdeen, Scotland. Died 11 August 1948, Edinburgh, Scotland.
+Born 6 May 1865, St Nicholas, Aberdeen, Scotland. Died 11 August 1948, Edinburgh, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Third/)

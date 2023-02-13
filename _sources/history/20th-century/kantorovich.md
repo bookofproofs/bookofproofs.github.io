@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Kantorovich
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-russia,nobel-prize
+tags: origin-russia,prize-nobel
 orderid: 1912
 title: Kantorovich, Leonid Vitalyevich
 born: 1912

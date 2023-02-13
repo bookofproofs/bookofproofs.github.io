@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Was the founder of the Canadian Mathematical Society and served as its first president from 1945-1946.
 6. Authored the foundational paper on mathematical homology theory in 1935.
 
-Born 8 September 1876, Edinburgh, Scotland. Died 30 May1943, Speyside, Scotland.
+Born 8 September 1876, Edinburgh, Scotland. Died 30 May 1943, Speyside, Scotland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/McKendrick/)

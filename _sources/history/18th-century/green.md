@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. In 1828, George Green published "An Essay on the Application of Mathematical Analysis to the Theories of Electricity and Magnetism", which contained elements of the modern vector calculus. 
 6. He also introduced the idea of creating a “Green’s Function” relating energy and field intensity which is widely used in modern mathematics.
 
-Born 14 July 1793, Sneinton, Nottingham, England. Died 31 May1841, Sneinton, Nottingham, England.
+Born 14 July 1793, Sneinton, Nottingham, England. Died 31 May 1841, Sneinton, Nottingham, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Green/)

@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. Established the International Mathematical Union (IMU) in order to campaign for the advancement of mathematical research around the world.
 6. Received multiple awards for his contributions to mathematics, including the Fields Medal, the highest honor in mathematics.
 
-Born 18 April 1904, Lida, Russia (now Belarus). Died 5 May1989, San Diego, California, USA.
+Born 18 April 1904, Lida, Russia (now Belarus). Died 5 May 1989, San Diego, California, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Warschawski/)

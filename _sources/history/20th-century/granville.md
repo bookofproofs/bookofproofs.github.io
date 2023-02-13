@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Recognized with a Lifetime Achievement Award from the Association for Women in Mathematics in 1991.
 8. Founded GirlTECH (now called GirlsGetIT), an international program aimed at increasing young women’s ambition and interest in STEM fields and computer science.
 
-Born 1 May1924, Washington D.C., USA.
+Born 1 May 1924, Washington D.C., USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Granville/)

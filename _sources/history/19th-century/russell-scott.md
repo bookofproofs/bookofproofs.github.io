@@ -32,6 +32,6 @@ contributors: @Alex-D-D-Craik,bookofproofs,@ChatGPT
 7. Suggested the use of the astatic level as an instrument for measuring surface levels.
 8. Contributed numerous fundamental facts and theorems to the science of hydrodynamics.
 
-Born 9 May1808, Parkhead, near Glasgow, Scotland. Died 8 June 1882, Ventnor, Isle of Wight, England.
+Born 9 May 1808, Parkhead, near Glasgow, Scotland. Died 8 June 1882, Ventnor, Isle of Wight, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Russell_Scott/)

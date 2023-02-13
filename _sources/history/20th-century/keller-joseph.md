@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Keller_Joseph
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-usa,wolf-prize
+tags: origin-usa,prize-wolf
 orderid: 1923
 title: Keller (2), Joseph
 born: 1923

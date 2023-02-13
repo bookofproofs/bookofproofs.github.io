@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed the finite element approximation method of residual error estimation.
 10. Improved the lower bound of the error in numerical quadrature
 
-Born 19 August 1736, Ausås, Ängelholm, Sweden. Died 20 May1798, Lund, Sweden.
+Born 19 August 1736, Ausås, Ängelholm, Sweden. Died 20 May 1798, Lund, Sweden.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Bring/)

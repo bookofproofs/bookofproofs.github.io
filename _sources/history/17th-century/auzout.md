@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. He wrote extensively on the study of physicomathematics, including a book on optics which contained several important discoveries.
 10. Demonstrated a method for determining the positions of the stars from their sidereal revolutions.
 
-Born 28 January 1622, Rouen, France. Died 23 May1691, Rome (now Italy).
+Born 28 January 1622, Rouen, France. Died 23 May 1691, Rome (now Italy).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Auzout/)

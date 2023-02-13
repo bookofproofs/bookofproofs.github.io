@@ -31,6 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 6. Spearheaded the creation of a mathematics education center that provides assistance to teachers and learners.
 7. Mentored numerous high school students in their mathematical pursuits.
 
-Born 28 May1930, Ipswich, England.
+Born 28 May 1930, Ipswich, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Morton/)

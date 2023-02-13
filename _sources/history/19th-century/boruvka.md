@@ -30,6 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 5. He developed a method (the Borůvka's algorithm) in 1926 for quickly solving certain optimization problems involving the joining of subsets. 
 6. He was a key figure in the development of abstract theory of graphs.
 
-Born 10 May1899, Uhersky Ostroh, Austria-Hungary (now Czech Republic). Died 22 July 1995, Brno, Czech Republic.
+Born 10 May 1899, Uhersky Ostroh, Austria-Hungary (now Czech Republic). Died 22 July 1995, Brno, Czech Republic.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Boruvka/)

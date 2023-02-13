@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Devised the Adian-Shaeffer-Sullivan Method, which is a topological invariant of the space's fundamental group. 
 10. Introduced new methods of integrating differential equations using Morse theory, providing a better way to investigate dynamical systems.
 
-Born 1 January 1931, Kushchi, Dashkesan District, Azerbaijan Soviet Republic. Died 5 May2020, Moscow, Russia.
+Born 1 January 1931, Kushchi, Dashkesan District, Azerbaijan Soviet Republic. Died 5 May 2020, Moscow, Russia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Adian/)

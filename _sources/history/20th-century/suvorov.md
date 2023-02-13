@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Advanced the theory of wavelets, introducing new notions of adaptation and sparseness, as well as developing a new algorithm for wavelet decomposition.
 10. Developed the theory of difference equations, providing solutions for the problem of summation of logarithmic series.
 
-Born 19 May1919, Saratov, Russia. Died 12 October 1984, Donetske, Ukraine.
+Born 19 May 1919, Saratov, Russia. Died 12 October 1984, Donetske, Ukraine.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Suvorov/)

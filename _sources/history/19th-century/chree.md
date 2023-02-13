@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Pioneered methods for determining the motion of a body in rotational motion, now known as Chree’s law.
 10. Developed a mathematical model for the motion of projectiles in a confined area.
 
-Born 5 May1860, Lintrathen, Angus, Scotland. Died 12 August 1928, Worthing, Sussex, England.
+Born 5 May 1860, Lintrathen, Angus, Scotland. Died 12 August 1928, Worthing, Sussex, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Chree/)

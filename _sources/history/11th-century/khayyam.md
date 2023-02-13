@@ -33,6 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 8. Initiated the use of Gaussian elimination, a method of solving systems of linear equations.
 9. Created an exact decimal approximation of the square root of 2.
 
-Born 18 May1048, Nishapur, Persia (now Iran). Died 4 December 1131, Nishapur, Persia (now Iran).
+Born 18 May 1048, Nishapur, Persia (now Iran). Died 4 December 1131, Nishapur, Persia (now Iran).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Khayyam/)

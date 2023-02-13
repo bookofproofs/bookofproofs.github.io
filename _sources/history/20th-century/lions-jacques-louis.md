@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. He introduced the concept of Lions' multiplier and the associated Carleman estimates.
 10. He received the Lyapunov Prize in 1996 in recognition of his significant contributions to the analysis of nonlinear partial differential equations.
 
-Born 2 May1928, Grasse, Alpes-Maritimes, France. Died 17 May2001, Paris, France.
+Born 2 May 1928, Grasse, Alpes-Maritimes, France. Died 17 May 2001, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Lions_Jacques-Louis/)

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Yoccoz
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal
+tags: prize-fields-medal
 orderid: 1957
 title: Yoccoz, Jean-Christophe
 born: 1957
@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Became a member of both the French Academy of Sciences and the US National Academy of Sciences in 1998. 
 10. Distinguished Professor at the University of Paris-Sud since 2008.
 
-Born 29 May1957, Paris, France. Died 3 September 2016, Paris, France.
+Born 29 May 1957, Paris, France. Died 3 September 2016, Paris, France.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Yoccoz/)

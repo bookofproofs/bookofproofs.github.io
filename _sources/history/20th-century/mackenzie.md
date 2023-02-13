@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Received numerous awards for her research including the Alexander von Humboldt Fellowship from Germany.
 8. Became the first African American woman to become a full professor at the Massachusetts Institute of Technology.
 
-Born 2 May1903, Edinburgh, Scotland. Died 22 February 1989, North York, Ontario, Canada.
+Born 2 May 1903, Edinburgh, Scotland. Died 22 February 1989, North York, Ontario, Canada.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Mackenzie/)

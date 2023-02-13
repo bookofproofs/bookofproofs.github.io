@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Baker_Alan
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-england
+tags: prize-fields-medal,origin-england
 orderid: 1939
 title: Baker (3), Alan
 born: 1939

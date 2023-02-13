@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed an non-linear equation through the study of non-linear processes in 2009.
 10. Conducted semester long research fellowship at the Mathematical Research Institute (MRI) in Oberwolfach, Germany from 2013 - 2014.
 
-Born 12 January 1914, Tunis, Tunisia. Died 14 May1984, Modena, Italy.
+Born 12 January 1914, Tunis, Tunisia. Died 14 May 1984, Modena, Italy.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Baiada/)

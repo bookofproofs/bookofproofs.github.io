@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Novikov_Sergi
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: fields-medal,origin-russia,topology,wolf-prize
+tags: prize-fields-medal,origin-russia,topology,prize-wolf
 orderid: 1938
 title: Novikov (2), Sergei
 born: 1938

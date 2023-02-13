@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed a method used to solve systems of equations, the “riddle of Riccati”.
 10. Published a book on logic which is still referred to in the field of philosophy today.
 
-Born 28 May1676, Venice, Venetian Republic (now Italy). Died 15 April 1754, Treviso, Venetian Republic (now Italy).
+Born 28 May 1676, Venice, Venetian Republic (now Italy). Died 15 April 1754, Treviso, Venetian Republic (now Italy).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Riccati/)

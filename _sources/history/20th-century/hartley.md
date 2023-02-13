@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. Awarded the Lester R. Ford Award by the Mathematical Association of America in 2003. 
 8. Inducted into the North Carolina School of Science Hall of Fame for his contributions to mathematics and mathematics education in 2010.
 
-Born 15 May1939, Accrington, Lancashire, England. Died 8 October 1994, Lake District, England.
+Born 15 May 1939, Accrington, Lancashire, England. Died 8 October 1994, Lake District, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Hartley/)

@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Sinai
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,origin-russia,wolf-prize
+tags: prize-abel,origin-russia,prize-wolf
 orderid: 1935
 title: Sinai, Yakov Grigorevich
 born: 1935

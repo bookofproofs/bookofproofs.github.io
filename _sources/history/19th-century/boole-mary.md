@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Pioneered the use of mathematical notation to formalize mathematical arguments.
 10. Published numerous mathematical papers, including those on trigonometry, quadratic equations, and the calculus of variations.
 
-Born 11 March 1832, Wickwar, Gloucestershire, England. Died 17 May1916, Notting Hill, Kensington, England.
+Born 11 March 1832, Wickwar, Gloucestershire, England. Died 17 May 1916, Notting Hill, Kensington, England.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Boole_Mary/)

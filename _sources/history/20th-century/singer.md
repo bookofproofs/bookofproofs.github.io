@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$Singer
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: abel-prize,origin-usa
+tags: prize-abel,origin-usa
 orderid: 1924
 title: Singer, Isadore Manuel
 born: 1924
@@ -32,6 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 7. He is a Fellow of the American Academy of Arts and Sciences. 
 8. Prior to his passing he was a professor emeritus at the Massachusetts Institute of Technology.
 
-Born 3 May1924, Detroit, Michigan, USA. Died 11 February 2021, Boxborough, Massachusetts, USA.
+Born 3 May 1924, Detroit, Michigan, USA. Died 11 February 2021, Boxborough, Massachusetts, USA.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Singer/)

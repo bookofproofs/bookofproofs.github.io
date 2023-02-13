@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed methods to determine the exact error of numerical methods.
 10. Established a criterion of stability for linear difference equations.
 
-Born 16 May1821, Okatovo, Kaluga Region, Russia. Died 8 December 1894, St Petersburg, Russia.
+Born 16 May 1821, Okatovo, Kaluga Region, Russia. Died 8 December 1894, St Petersburg, Russia.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Chebyshev/)

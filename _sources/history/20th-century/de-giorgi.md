@@ -2,7 +2,7 @@ layout: person
 nodeid: bookofproofs$De_Giorgi
 categories: history,20th-century
 parentid: bookofproofs$604
-tags: origin-italy,wolf-prize
+tags: origin-italy,prize-wolf
 orderid: 1928
 title: De Giorgi, Ennio
 born: 1928

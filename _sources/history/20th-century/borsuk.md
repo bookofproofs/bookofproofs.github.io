@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Developed the first obstruction theory for extending vector fields on a sphere.
 10. Made important contributions to mathematical foundations, such as the theory of continuity, measurement theory, and abstract computability theory.
 
-Born 8 May1905, Warsaw, Russian Empire (now Poland). Died 24 January 1982, Warsaw, Poland.
+Born 8 May 1905, Warsaw, Russian Empire (now Poland). Died 24 January 1982, Warsaw, Poland.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Borsuk/)
