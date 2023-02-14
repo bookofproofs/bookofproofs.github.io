@@ -84,8 +84,8 @@
 <h3>Uniqueness of $\operatorname{dcnf}(\phi)$, respectively $\operatorname{ccnf}(\phi)$</h3>
 <ul>
 <li>First of all, note that each literal of all minterms and maxterms is clearly defined by above construction and depends on the valuations $[[\phi]]_I$ in $j$-th row and $[[p_i]]_I$ in $i$-th column of the truth table.</li>
-<li>Next, the semantics of each minterm $m_j=(\neg)p_1\wedge\ldots\wedge(\neg)p_n$ does not change with the order of literals because of the <a href="https://bookofproofs.github.io/branches/logic/commutativity-of-conjunction.html" title="Logic / Corollary: Commutativity of Conjunction">commutativity</a> and <a href="https://bookofproofs.github.io/branches/logic/associativity-of-conjunction.html" title="Logic / Proposition: Associativity of Conjunction">associativity of conjunction</a> "$\wedge$".</li>
-<li>The same holds for each maxterm $M_j=(\neg)p_1\vee\ldots\vee(\neg)p_n$ due of the <a href="https://bookofproofs.github.io/branches/logic/commutativity-of-disjunction.html" title="Logic / Corollary: Commutativity of Disjunction">commutativity</a> and <a href="https://bookofproofs.github.io/branches/logic/associativity-of-disjunction.html" title="Logic / Proposition: Associativity of Disjunction">associativity of disjunction</a> "$\vee$".</li>
+<li>Next, the semantics of each minterm $m_j=(\neg)p_1\wedge\ldots\wedge(\neg)p_n$ does not change with the order of literals because of the <a href="https://bookofproofs.github.io/branches/logic/commutativity-of-conjunction.html" title="Logic / Corollary: Commutativity of Conjunction (related to Definition: Conjunction)">commutativity</a> and <a href="https://bookofproofs.github.io/branches/logic/associativity-of-conjunction.html" title="Logic / Proposition: Associativity of Conjunction">associativity of conjunction</a> "$\wedge$".</li>
+<li>The same holds for each maxterm $M_j=(\neg)p_1\vee\ldots\vee(\neg)p_n$ due of the <a href="https://bookofproofs.github.io/branches/logic/commutativity-of-disjunction.html" title="Logic / Corollary: Commutativity of Disjunction (related to Definition: Disjunction)">commutativity</a> and <a href="https://bookofproofs.github.io/branches/logic/associativity-of-disjunction.html" title="Logic / Proposition: Associativity of Disjunction">associativity of disjunction</a> "$\vee$".</li>
 <li>By the same argument, the semantics of the $\operatorname{dcnf}(\phi)=m_1\vee \ldots\vee m_d$, respectively $\operatorname{dcnf}(\phi)=M_1\wedge \ldots\wedge M_c$ does not change with the order of the minterms $m_j$, respectively maxterms $M_j.$</li>
 </ul>
 <p>It follows that the constructed $\operatorname{dcnf}(\phi)$ respectively $\operatorname{ccnf}(\phi)$ are unique except for the order of minterms resp. maxterms and literals in each minterm, respectively maxterms.</p>
@@ -107,6 +107,8 @@
    * By definition of conjunction, the whole $\operatorname{ccnf}(\phi)$  is false if and only if at least one maxterm is false. 
    * Thus, $\operatorname{ccnf}(\phi)$ is false if and only if $\phi$ is false.
    * Thus $\operatorname{ccnf}(\phi)$ represents the same Boolean function as $\phi$, formally $f_\phi=f_{\operatorname{ccnf}(\phi)}.$ </p>
+<div class='qed'>&#8718;</div>
+
 <hr>
 <p><span class='navigation'>Thank you to the contributors under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>!</span>  <a class='improve' title='improve this site' href='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/branches/logic/construction-of-conjunctive-and-disjunctive-canonical-normal-forms-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/edit-black.png?raw=true' alt=''></a>  <a class='improve' title='improvement history' href='https://github.com/bookofproofs/bookofproofs.github.io/commits/main/_sources/branches/logic/construction-of-conjunctive-and-disjunctive-canonical-normal-forms-proof.md'><img src='https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/calendar-black.png?raw=true' alt=''></a><br><dl></dd><dt><span class='navigation'>Github:</span></dt><dd> <a title='github user bookofproofs' href='https://github.com/bookofproofs'><img src='https://github.com/bookofproofs.png?size=32' alt='bookofproofs'/></a><br></dl><br></p>
 <hr>
@@ -121,7 +123,7 @@
 <hr />
 <ol>
 <li id="fn:1">
-<p>By definition, this can be either Boolean variables or Boolean constants.<div class='qed'>&#8718;</div>&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
+<p>By definition, this can be either Boolean variables or Boolean constants.&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
 </li>
 </ol>
 </div>

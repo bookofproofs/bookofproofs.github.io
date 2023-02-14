@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. He contributed to the invention of the three-legged astrolabe.
 10. He discovered the Law of Sines and established a formal proof of the theorem.
 
-Born 10 June 0940, Buzjan (near Jam), Khorasan region (now in Iran). Died 15 July 998, Baghdad (now in Iraq).
+Born 10 June 940, Buzjan (near Jam), Khorasan region (now in Iran). Died 15 July 998, Baghdad (now in Iraq).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Abul-Wafa/)

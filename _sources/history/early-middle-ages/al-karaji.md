@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Discovered the law of recurrence.
 10. Developed methods of solving linear equations.
 
-Born 13 April 0953, Baghdad (now in Iraq). Died about 1029.
+Born 13 April 953, Baghdad (now in Iraq). Died about 1029.
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Al-Karaji/)

@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. He also developed methods to calculate specific trigonometric values.
 10. He contributed to the development of the tangent calculation and the value of pi.
 
-Born 15 September 0973, Kath, Khwarazm (now Kara-Kalpakskaya, Uzbekistan). Died 13 December 1048, Ghazna (now Ghazni, Afganistan).
+Born 15 September 973, Kath, Khwarazm (now Kara-Kalpakskaya, Uzbekistan). Died 13 December 1048, Ghazna (now Ghazni, Afganistan).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Al-Biruni/)

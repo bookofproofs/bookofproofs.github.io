@@ -34,6 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 9. Determined that any whole number could be expressed as a sum of a square, a cube, and a fourth power.
 10. Conducted pioneering work on Diophantine equations, finding solutions to problems of higher order.
 
-Born 836, Harran, Mesopotamia (now Turkey). Died 18 February 0901, Baghdad, (now in Iraq).
+Born 836, Harran, Mesopotamia (now Turkey). Died 18 February 901, Baghdad, (now in Iraq).
 
 View full biography at [MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Thabit/)

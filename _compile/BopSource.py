@@ -259,7 +259,17 @@ class BopSource:
         else:
             ret += self._body
             if self.layout == BopLayouts.proof:
-                ret += "<div class='qed'>&#8718;</div>"
+                # prevent putting the "qed" at the end of the page in the footnotes section, if the body of the
+                # proof has footnotes
+                pattern = re.compile(r"(^\[\^)", flags=re.M)
+                foot_nodes_in_proof_found = re.search(pattern, ret)
+                if foot_nodes_in_proof_found:
+                    for match in pattern.finditer(ret):
+                        ret = ret[0:match.start()] + "<div class='qed'>&#8718;</div>\n\n" + ret[match.start():]
+                        break
+                else:
+                    # otherwise just append "qed" to the body of the proof
+                    ret += "<div class='qed'>&#8718;</div>\n\n"
         return ret
 
     def _get_content_node(self):
@@ -350,8 +360,8 @@ class BopSource:
 
     def get_long_title(self):
         title = self.title
-        if title == "" and self.layout in BopSource.related_layouts:
-            title = "(related to " + self.parent.get_plane_title() + ")"
+        if self.layout in BopSource.related_layouts:
+            title += " (related to " + self.parent.get_plane_title() + ")"
         if title == "" and self.nodeid in BopSource.root_nodes:
             title = self.categories[0].capitalize()
         return title
