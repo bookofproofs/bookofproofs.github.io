@@ -205,8 +205,10 @@ https://bookofproofs.github.io/history/20th-century/kiss.html
 https://bookofproofs.github.io/history/20th-century/kuku.html
 https://bookofproofs.github.io/history/20th-century/lang.html
 https://bookofproofs.github.io/history/20th-century/lewy.html
+https://bookofproofs.github.io/history/20th-century/lima.html
 https://bookofproofs.github.io/history/20th-century/luke.html
 https://bookofproofs.github.io/history/20th-century/lyra.html
+https://bookofproofs.github.io/history/20th-century/mane.html
 https://bookofproofs.github.io/history/20th-century/mori.html
 https://bookofproofs.github.io/history/20th-century/munn.html
 https://bookofproofs.github.io/history/20th-century/nash.html
@@ -513,6 +515,7 @@ https://bookofproofs.github.io/history/20th-century/artzy.html
 https://bookofproofs.github.io/history/20th-century/askey.html
 https://bookofproofs.github.io/history/20th-century/aubin.html
 https://bookofproofs.github.io/history/20th-century/audin.html
+https://bookofproofs.github.io/history/20th-century/avila.html
 https://bookofproofs.github.io/history/20th-century/bates.html
 https://bookofproofs.github.io/history/20th-century/bauer.html
 https://bookofproofs.github.io/history/20th-century/begle.html
@@ -527,6 +530,7 @@ https://bookofproofs.github.io/history/20th-century/boyer.html
 https://bookofproofs.github.io/history/20th-century/bruck.html
 https://bookofproofs.github.io/history/20th-century/cauer.html
 https://bookofproofs.github.io/history/20th-century/chang.html
+https://bookofproofs.github.io/history/20th-century/chela.html
 https://bookofproofs.github.io/history/20th-century/chern.html
 https://bookofproofs.github.io/history/20th-century/chung.html
 https://bookofproofs.github.io/history/20th-century/cobbe.html
@@ -585,6 +589,7 @@ https://bookofproofs.github.io/history/20th-century/levin.html
 https://bookofproofs.github.io/history/20th-century/lions.html
 https://bookofproofs.github.io/history/20th-century/loday.html
 https://bookofproofs.github.io/history/20th-century/lorch.html
+https://bookofproofs.github.io/history/20th-century/lumer.html
 https://bookofproofs.github.io/history/20th-century/lupas.html
 https://bookofproofs.github.io/history/20th-century/maini.html
 https://bookofproofs.github.io/history/20th-century/manin.html
@@ -598,6 +603,7 @@ https://bookofproofs.github.io/history/20th-century/obada.html
 https://bookofproofs.github.io/history/20th-century/olech.html
 https://bookofproofs.github.io/history/20th-century/olive.html
 https://bookofproofs.github.io/history/20th-century/paley.html
+https://bookofproofs.github.io/history/20th-century/palis.html
 https://bookofproofs.github.io/history/20th-century/parry.html
 https://bookofproofs.github.io/history/20th-century/paton.html
 https://bookofproofs.github.io/history/20th-century/pauli.html
@@ -1332,6 +1338,7 @@ https://bookofproofs.github.io/history/19th-century/bukreev.html
 https://bookofproofs.github.io/history/19th-century/burgess.html
 https://bookofproofs.github.io/history/19th-century/butters.html
 https://bookofproofs.github.io/history/19th-century/cailler.html
+https://bookofproofs.github.io/history/19th-century/cajigal.html
 https://bookofproofs.github.io/history/19th-century/capelli.html
 https://bookofproofs.github.io/history/19th-century/carslaw.html
 https://bookofproofs.github.io/history/19th-century/catalan.html
@@ -1551,6 +1558,7 @@ https://bookofproofs.github.io/history/20th-century/coulson.html
 https://bookofproofs.github.io/history/20th-century/cowling.html
 https://bookofproofs.github.io/history/20th-century/coxeter.html
 https://bookofproofs.github.io/history/20th-century/dantzig.html
+https://bookofproofs.github.io/history/20th-century/de-melo.html
 https://bookofproofs.github.io/history/20th-century/de-rham.html
 https://bookofproofs.github.io/history/20th-century/deligne.html
 https://bookofproofs.github.io/history/20th-century/deuring.html
@@ -1628,6 +1636,7 @@ https://bookofproofs.github.io/history/20th-century/magenes.html
 https://bookofproofs.github.io/history/20th-century/magiros.html
 https://bookofproofs.github.io/history/20th-century/marchuk.html
 https://bookofproofs.github.io/history/20th-century/masanja.html
+https://bookofproofs.github.io/history/20th-century/massera.html
 https://bookofproofs.github.io/history/20th-century/mauchly.html
 https://bookofproofs.github.io/history/20th-century/mcshane.html
 https://bookofproofs.github.io/history/20th-century/michler.html
@@ -1869,6 +1878,7 @@ https://bookofproofs.github.io/history/19th-century/egervary.html
 https://bookofproofs.github.io/history/19th-century/einstein.html
 https://bookofproofs.github.io/history/19th-century/elderton.html
 https://bookofproofs.github.io/history/19th-century/enriques.html
+https://bookofproofs.github.io/history/19th-century/esterich.html
 https://bookofproofs.github.io/history/19th-century/ferguson.html
 https://bookofproofs.github.io/history/19th-century/foucault.html
 https://bookofproofs.github.io/history/19th-century/fraenkel.html
@@ -1974,6 +1984,7 @@ https://bookofproofs.github.io/history/20th-century/akhiezer.html
 https://bookofproofs.github.io/history/20th-century/atkinson.html
 https://bookofproofs.github.io/history/20th-century/barsotti.html
 https://bookofproofs.github.io/history/20th-century/bartlett.html
+https://bookofproofs.github.io/history/20th-century/baumslag.html
 https://bookofproofs.github.io/history/20th-century/benjamin.html
 https://bookofproofs.github.io/history/20th-century/beurling.html
 https://bookofproofs.github.io/history/20th-century/birnbaum.html
@@ -2016,6 +2027,7 @@ https://bookofproofs.github.io/history/20th-century/gnedenko.html
 https://bookofproofs.github.io/history/20th-century/godement.html
 https://bookofproofs.github.io/history/20th-century/goldberg.html
 https://bookofproofs.github.io/history/20th-century/gorbunov.html
+https://bookofproofs.github.io/history/20th-century/grunbaum.html
 https://bookofproofs.github.io/history/20th-century/grunwald.html
 https://bookofproofs.github.io/history/20th-century/haantjes.html
 https://bookofproofs.github.io/history/20th-century/heinonen.html
@@ -2056,6 +2068,7 @@ https://bookofproofs.github.io/history/20th-century/montroll.html
 https://bookofproofs.github.io/history/20th-century/morawetz.html
 https://bookofproofs.github.io/history/20th-century/nakayama.html
 https://bookofproofs.github.io/history/20th-century/nessyahu.html
+https://bookofproofs.github.io/history/20th-century/neubuser.html
 https://bookofproofs.github.io/history/20th-century/nicolson.html
 https://bookofproofs.github.io/history/20th-century/okounkov.html
 https://bookofproofs.github.io/history/20th-century/olubummo.html
@@ -2071,12 +2084,15 @@ https://bookofproofs.github.io/history/20th-century/robinson.html
 https://bookofproofs.github.io/history/20th-century/rohrbach.html
 https://bookofproofs.github.io/history/20th-century/rothblum.html
 https://bookofproofs.github.io/history/20th-century/samelson.html
+https://bookofproofs.github.io/history/20th-century/schaffer.html
 https://bookofproofs.github.io/history/20th-century/schatten.html
 https://bookofproofs.github.io/history/20th-century/schiffer.html
 https://bookofproofs.github.io/history/20th-century/schreier.html
 https://bookofproofs.github.io/history/20th-century/schwartz.html
 https://bookofproofs.github.io/history/20th-century/senechal.html
+https://bookofproofs.github.io/history/20th-century/shephard.html
 https://bookofproofs.github.io/history/20th-century/sikorski.html
+https://bookofproofs.github.io/history/20th-century/slupecki.html
 https://bookofproofs.github.io/history/20th-century/smithies.html
 https://bookofproofs.github.io/history/20th-century/smullyan.html
 https://bookofproofs.github.io/history/20th-century/spinadel.html
@@ -2100,6 +2116,7 @@ https://bookofproofs.github.io/history/20th-century/vanstone.html
 https://bookofproofs.github.io/history/20th-century/varadhan.html
 https://bookofproofs.github.io/history/20th-century/welchman.html
 https://bookofproofs.github.io/history/20th-century/wielandt.html
+https://bookofproofs.github.io/history/20th-century/wschebor.html
 https://bookofproofs.github.io/history/20th-century/zelmanov.html
 https://bookofproofs.github.io/history/20th-century/zygalski.html
 https://bookofproofs.github.io/history/ancient-world/diocles.html
@@ -2349,6 +2366,7 @@ https://bookofproofs.github.io/history/20th-century/heilbronn.html
 https://bookofproofs.github.io/history/20th-century/henriques.html
 https://bookofproofs.github.io/history/20th-century/hoeffding.html
 https://bookofproofs.github.io/history/20th-century/hormander.html
+https://bookofproofs.github.io/history/20th-century/iribarren.html
 https://bookofproofs.github.io/history/20th-century/jacimovic.html
 https://bookofproofs.github.io/history/20th-century/jorgensen.html
 https://bookofproofs.github.io/history/20th-century/kaplansky.html
@@ -2391,6 +2409,7 @@ https://bookofproofs.github.io/history/20th-century/ouedraogo.html
 https://bookofproofs.github.io/history/20th-century/petersson.html
 https://bookofproofs.github.io/history/20th-century/petrovsky.html
 https://bookofproofs.github.io/history/20th-century/petryshyn.html
+https://bookofproofs.github.io/history/20th-century/planchart.html
 https://bookofproofs.github.io/history/20th-century/pogorelov.html
 https://bookofproofs.github.io/history/20th-century/popoviciu.html
 https://bookofproofs.github.io/history/20th-century/postnikov.html
@@ -2978,6 +2997,7 @@ https://bookofproofs.github.io/history/20th-century/malone-mayes.html
 https://bookofproofs.github.io/history/20th-century/matiyasevich.html
 https://bookofproofs.github.io/history/20th-century/moiseiwitsch.html
 https://bookofproofs.github.io/history/20th-century/moser-jurgen.html
+https://bookofproofs.github.io/history/20th-century/palacio-gros.html
 https://bookofproofs.github.io/history/20th-century/polkinghorne.html
 https://bookofproofs.github.io/history/20th-century/rado-richard.html
 https://bookofproofs.github.io/history/20th-century/rudin-walter.html
@@ -3242,6 +3262,7 @@ https://bookofproofs.github.io/history/19th-century/wilson-bertram.html
 https://bookofproofs.github.io/history/20th-century/albert-abraham.html
 https://bookofproofs.github.io/history/20th-century/alele-williams.html
 https://bookofproofs.github.io/history/20th-century/alexander-hugh.html
+https://bookofproofs.github.io/history/20th-century/booth-kathleen.html
 https://bookofproofs.github.io/history/20th-century/boyle-margaret.html
 https://bookofproofs.github.io/history/20th-century/choquet-bruhat.html
 https://bookofproofs.github.io/history/20th-century/cooper-william.html

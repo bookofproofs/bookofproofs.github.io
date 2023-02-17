@@ -4,7 +4,7 @@ categories: history,20th-century
 parentid: bookofproofs$604
 tags: algebra,group-theory,origin-usa,puzzles-and-problems
 orderid: 1910
-title: Jr, Marshall Hall
+title: Hall Jr, Marshall
 born: 1910
 died: 1990
 keywords: Marshall Hall Jr., group theory, combinatorics, Hall-Hopf Transform, Birkhoff-Lewis conjecture, synectic engineering, AAAS, AAAS, IFAC
