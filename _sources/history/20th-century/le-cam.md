@@ -7,10 +7,10 @@ orderid: 1924
 title: Cam, Lucien Marie Le
 born: 1924
 died: 2000
-keywords: estimation theory, Bayesian Decision Theory, Gauss Prize, Le Cam Inequality, likelihood ratio test, asymptotic approximations, statistical learning theory
-description: Lucien Le Cam was a French mathematician and statistician who revolutionized modern statistics with his innovative approaches, earning him the 1973 Gauss Prize.
+keywords: lucien le cam,cam
+description: Lucien Le Cam was a French mathematician and statistician who moved to America and produced important results in asymptotic theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -23,16 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 **Lucien Le Cam** was a French mathematician and statistician who moved to America and produced important resuls in asymptotic theory.
 
 ### Mathematical Profile (Excerpt):
-1. Developed influential methods of estimation theory
-2. Co-authored the book “Decision Making Under Risk and Uncertainty” with Lars Peter Hansen and Paul Rutgers, which advanced the use of Bayesian Decision Theory
-3. His contributions to maximum likelihood estimation earned him the 1973 Gauss Prize, the highest distinction in statistics
-4. Developed the Likelihood Principle and provided a theory for the asymptotic structure of maximum likelihood estimators
-5. Established the Le Cam inequality for comparison of two statistical models 
-6. Established the likelihood ratio test for comparing hypotheses
-7. Developed important approaches for refining asymptotic approximations
-8. Made contributions to Neyman-Pearson generalizations
-9. Developed statistical learning theory 
-10. Developed techniques for automatically building high-level computer models from data
+* More than this, Le Cam's mother could not run the farm on her own.
+* Despite the generous act by the priests in funding Le Cam's education, it was disrupted by the war.
+* Le Cam's favourite subject at the high school had been chemistry and he took chemistry books with him to the seminary.
+* Le Cam was still trying to get into university; the École Polytechnique  was his first choice with the École Normale Supérieure as second choice.
+* Rather than wait to try again in the following June, Le Cam began to take courses at the University of Paris.
+* Asking Darmois for advice on getting a job, Le Cam was advised that Électricité de France were looking for statisticians.
+* However, one of the examiners thought (incorrectly) that the proof was wrong and Le Cam was given a bare pass.
+* Let us record at this point that Lucien and Louise Le Cam had three children: Denis, Steven, and Linda.
+* After the award of his doctorate, Le Cam was appointed as an Instructor in Mathematics and Junior Research Statistician at the University of California, Berkeley.
+* Let us now look at some of the books that Le Cam has published, all in the area of modern asymptotic theory of statistical inference of which he is one of the founders.
+* Although Le Cam made deep highly mathematical contributions to statistics, we should not give the impression that all his work was of this type.
+* Le Cam's extraordinary knowledge of cancer quickly gained the respect of the attending physicians and some of the people at the Mayo Clinic.
+* Le Cam was honoured for his many contributions in several different ways.
 
 Born 18 November 1924, Croze, Creuse, France. Died 25 April 2000, Berkeley, California, USA.
 

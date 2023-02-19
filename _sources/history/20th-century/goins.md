@@ -7,10 +7,10 @@ orderid: 1972
 title: Goins, Edray Herber
 born: 1972
 died: 0
-keywords: Scholarship, B.A., NSF Fellowship, Ph.D., University of Pittsburgh, mathematics, Civil Rights Movement
-description: African-American mathematician was first appointed to University of Pittsburgh; active in Civil Rights Movement, promoted mathematics education for people of color.
+keywords: edray herber goins,goins
+description: Edray Herber Goins is an Afro-American mathematician working on elliptic curves and icosahedral Galois representations.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,17 +20,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![Goins.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Goins.jpg?raw=true)
 
-None
+**Edray Herber Goins** is an Afro-American mathematician working on elliptic curves and icosahedral Galois representations.
 
 ### Mathematical Profile (Excerpt):
-1. Received full scholarship to the City College of New York, where he matriculated in fall 1951.
-2. Was awarded a B.A. degree from City College in mathematics and physics in 1955.
-3. Earned a National Science Foundation Graduate Fellowship, in order to pursue a master’s degree in mathematics at the University of California, Berkeley, which he completed in 1956.
-4. Was granted his Ph.D in mathematics from the University of California, Berkeley in 1959.
-5. Became the first African-American to be appointed to a tenure-track position in mathematics at a predominantly white institution—the University of Pittsburgh—in 1960.
-6. Actively participated in the mathematics community, through membership in the American Mathematical Society, and served as a visiting professor at multiple institutions, including the California Institute of Technology, Brown University, and Georgetown University.
-7. Authored several journal articles and books, such as Non-Euclidean Geometry and Riemannian Geometry.
-8. Was active in the civil rights movement throughout his career, and promoted the teaching of mathematics to greater numbers of people of color.
+* Edray Goins was brought up along with his brother.
+* Eddi Beatrice Brown became a teacher, married Goins, and in 1972 she gave birth to Edray Herber Goins, the subject of this biography, in South Central Los Angeles.
+* The Preliminary Scholastic Assessment Test at the time that Goins was at high school consisted of a mathematics section and a verbal section.
+* In 1989 Goins received a National Merit Scholarship Honourable Mention, and in the following year he graduated from High School and was awarded a National Achievement Scholarship.
+* Indeed Goins' American Physical Society Scholarship was renewed for the year 1992-93.
+* At the California Institute of Technology, Goins was advised by the mathematics professor Dinakar Ramakrishnan and the theoretical physics professor Steven C Frautschi.
+* In June 1994, Goins graduated with a B.S. majoring in Mathematics and Physics.
+* In 1994 Goins was awarded a National Science Foundation Graduate Research Fellowship (Honourable Mention) and a National Physical Science Consortium Graduate Fellowship which enabled him to begin research for a Ph.D. at Stanford University.
+* Although the date on which he submitted his Ph.D. thesis is shown clearly on a copy on the web as "August 1999," and "Copyright by Edray Herber Goins 1999," Stanford University has a copy of the thesis on their website dated "October 2002" and has "Copyright by Edray Herber Goins 2003." This is puzzling but the 1999 date is surely correct since that copy has the signatures of the examiners on it while the 2002 copy does not.
+* Goins' first two papers appear in the book Council for African American Researchers in the Mathematical Sciences.
+* As the first of these gives Goins' address as Stanford University while the second gives his address as Institute for Advanced Study Princeton, we conjecture that the first paper was presented at the 1997 conference while the second was presented at the 1999 conference.
+* Several of Goins' papers are particularly attractive and at least the problems they studied is understandable without a deep knowledge of mathematics.
+* Another lovely paper is Goins' paper Palindromes in different bases: A conjecture of J Ernest Wilkins (2009).
+* Goins was awarded many research grants, most having the theme of promoting mathematical participation by minority groups.
+* Shortly after writing this article, Goins resigned from Purdue University and accepted a position at Pomona College from July 2018.
+* For a Black Mathematician, What It's Like to Be the 'Only One', published in The New York Times in February 2019, looks at Goins' decision and comments on the reaction, both positive and negative.
 
 Born 29 June 1972, Los Angeles, USA View four larger pictures.
 

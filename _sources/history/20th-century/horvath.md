@@ -7,10 +7,10 @@ orderid: 1924
 title: Horváth, János
 born: 1924
 died: 2015
-keywords: integrable systems, nonlinear hyperbolic, small-amplitude solutions, pseudo-spherical systems, solitary wave solutions, Fermionic Toda lattice, plasma physics
-description: Pioneered unique integrable system techniques, including pseudo-spherical systems, small-amplitude solutions, solitary wave solutions, and Fermionic Toda lattice, and applied them to nonlinear hyperbolic equations and plasma physics.
+keywords: jános horváth,horváth
+description: János Horváth was a Hungarian who worked at Centre National de la Recherche Scientifique in Paris before going to Colombia where he taught several courses and held seminars on the latest mathematical developments.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,16 +20,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-None
+**János Horváth** was a Hungarian who worked at Centre National de la Recherche Scientifique in Paris before going to Colombia where he taught several courses and held seminars on the latest mathematical developments.
 
 ### Mathematical Profile (Excerpt):
-1. Introduced a new class of exact solutions for nonlinear hyperbolic equations known as pseudo-spherical systems of conservation laws.
-2. Developed a novel technique for calculating small-amplitude solutions with large frequencies of over-reflexive KdV equations.
-3. Pioneered a unique approach to study integrable systems by displaying their solutions in terms of modular functions.
-4. Showed how the class of solitary wave solutions of nonlinear hyperbolic systems could be generalized to include multipoles.
-5. Established the connection between nonlinear hyperbolic systems and the Fermionic Toda lattice.
-6. Developed an analytical method to study the 1D nonlinear Schrödinger equation by utilizing ideas from the theory of integrable systems.
-7. Published numerous works on the theory of integrable systems and its applications to plasma physics.
+* These were Carlo Federici (1906-2004) and János Horváth (1924-2015) and since their role in the founding of the Colombian Mathematical Society is vital, we give some details of them.
+* János Horváth (known as Juan Horváth in Colombia and as John Horváth in the United States) was born in Budapest, Hungary, on 30 July 1924.
+* Influenced by Federici and Horváth he had become aware of the need to develop mathematics as an independent topic, and its importance to the future of Colombia.
+* In addition to Julio Carrizosa Valenzuela, Carlo Federici Casa and Juan Horváth, the founding members of the Society were: Antonio María Gómez (1913-1979); Dario Rozo (1881-1964); Erwin Von Der Walde (1927-2016); Gabriel Poveda Ramos (1931); Guillermo Castillo Torres (1923-2000); Gustavo Perry Zubieta (1912-1986); Henry Yerly (1901-1984); Jorge Acosta Villaveces (1891-1965); Jose Ignacio Nieto (1930); Leopoldo Guerra Portocarrero (1911-1964); Luciano Mora Osejo (1928-2016); Luis De Greiff Bravo (1908-1967); Luis Ignacio Soriano (1903-1973); Michel Valero (1928-2008); Otto De Greiff (1903-1995); and Pablo Casas Santofimio (1927-1983).
 
 Born 30 July 1924, Budapest, Hungary. Died March 12, 2015.
 

@@ -112,7 +112,8 @@ class BopSource:
             if prop != "":
                 property_name = re.search("\w+:", prop)
                 if property_name is None:
-                    raise BopValidationError("E02", "Malformed property " + properties + " in " + self._file_name)
+                    raise BopValidationError("LAYOUT", "E02",
+                                             "Malformed property " + properties + " in " + self._file_name)
                 else:
                     prop_split = list()
                     prop_split.append(property_name.string[0:property_name.span()[1] - 1])
@@ -540,4 +541,11 @@ class BopSource:
         ret += self.get_pre_body() + "\n"
         ret += "\n---\n\n"
         ret += self.get_body() + "\n"
+        return ret
+
+    def get_person_last_name(self):
+        ret = ""
+        if self.layout == BopLayouts.person:
+            ret = self.title.split(",")[0]
+            ret = ret.split("(")[0].strip()
         return ret

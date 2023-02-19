@@ -7,10 +7,10 @@ orderid: 1954
 title: Mushtaq, Qaiser
 born: 1954
 died: 0
-keywords: Math Olympiad, National Math Olympiad, IMOW 2020, Math Kangaroo, Karachi Mavericks, Talent Contest, Pakistan Mathematics Olympiad
-description: Achieved top 1000 ranking in the International Math Olympiad, won medals in other elite maths competitions, represented Pakistan at IMOW 2020, and was awarded a prestigious scholarship.
+keywords: qaiser mushtaq,mushtaq
+description: Qaiser Mushtaq was a leading founder of the Pakistan Mathematical Society and professor of mathematics at Quaid-e-Azam University working on group theory.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -20,16 +20,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 ![avatar.png](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/avatar.png?raw=true)
 
-None
+**Qaiser Mushtaq** was a leading founder of the Pakistan Mathematical Society and professor of mathematics at Quaid-e-Azam University working on group theory.
 
 ### Mathematical Profile (Excerpt):
-1. Ranked in the top 1000 in the International Math Olympiad in 2020.
-2. Won a bronze medal at the National Math Olympiad in 2020.
-3. Represented Pakistan at the International Mathematics Olympiad Workshop (IMOW 2020) in Mumbai.
-4. Won second place in the International Math Kangaroo Competition in 2019.
-5. Awarded the prestigious Karachi Mavericks scholarship in 2017.
-6. Winner of the National Mathematics Talent Contest in 2018.
-7. Placed in the top 10 at Pakistan Mathematics Olympiad in 2017.
+* A leading figure at this meeting, who had long been pushing for founding the Pakistan Mathematical Society, was Qaiser Mushtaq who was the professor of mathematics at Quaid-e-Azam University.
+* Mushtaq, born in Sheikhupura, Pakistan, in 1954, studied for an M.Sc. and M.Phil.
+* Qaiser Mushtaq and his research group at the Quaid-e-Azam University organised the Pure Mathematics Conference in Islamabad in August 2000.
+* This conference was again organised by Qaiser Mushtaq and his research group at the Quaid-e-Azam University.
 
 Born 1954, Sheikhupura, Pakistan View one larger picture.
 

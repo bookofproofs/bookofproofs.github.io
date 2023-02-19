@@ -2,14 +2,15 @@ layout: person
 nodeid: bookofproofs$Shephard
 categories: history,20th-century
 parentid: bookofproofs$604
+tags: 
 orderid: 1927
 title: Shephard, Geoffrey
 born: 1927
 died: 2016
-keywords: four-color theorem, Cantor medal, four-color problem, Sylvester Medal, combinatorial geometry, Number Theory, Latin Squares
-description: Geoffrey Shephardwas a renowned mathematics professor and researcher, winning the prestigious Cantor medal for developing a four-color theorem and the Sylvester Medal for his achievements.
+keywords: geoffrey shephard,shephard
+description: Geoffrey Shephard was an outstanding geometer who wrote many interesting and important papers. His books, especially one co-authored with Branko Grünbaum on tilings, have become classics.
 references: bookofproofs$6909
-contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
+contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ---
 
@@ -21,19 +22,27 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs,@ChatGPT
 
 **Geoffrey Shephard** was an outstanding geometer who wrote many interesting and important papers. His books, especially one co-authored with Branko Grünbaum on tilings, have become classics.
 
-Geoffrey Shephard was a renowned mathematics professor and researcher, winning the prestigious Cantor medal for developing a four-color theorem and the Sylvester Medal for his achievements.
-
 ### Mathematical Profile (Excerpt):
-1. Developed the famous four-color theorem which states that any two-dimensional map can be colored using at most four colors without any two adjacent regions sharing the same color. 
-2. Received the 2008 Cantor medal for his outstanding contribution to mathematics.
-3. Collaborated with Kenneth Appel in solving the longest-standing open problem in the history of mathematics referred to as the four-color problem.
-4. Received the 2018 Sylvester Medal of the Royal Society for his various achievements in mathematics.
-5. Published a number of papers on topics related to combinatorial geometry and enumerative combinatorics. 
-6. Authored a book titled 'Number Theory and Algebra' in 1959.
-7. Contributed to the development of Graph Theory through his research on Latin Squares 
-8. Founded the Mathematical Sciences Research Institute in Berkeley in 1982.
-9. Distinguished career as a mathematics professor spanning four decades. 
-10. Won the Pólya Prize for his work on the four-color theorem and the theory of partitions.
+* William Shephard was a bank clerk who married Nellie Simmonds on 17 April 1919 in the Parish Church of Birch in Rusholme, Manchester.
+* Geoffrey Shephard, the subject of this biography, had one older brother.
+* In Leicester, Shephard attended Wyggeston Grammar School for Boys.
+* This school, founded in 1876, had Thomas Kingdom (1881-1957) as headmaster when Shephard studied there.
+* Shephard graduated from Wyggeston Grammar School in 1945 and, later that year, began studying mathematics at Queens' College, Cambridge.
+* In 1951, Shephard was appointed to a Lectureship in Mathematics at the University of Birmingham but continued to undertake research advised by Todd.
+* In collaboration with Geoffrey Shephard and James Taylor during that period his interest in convex geometry and Hausdorff Measure Theory widened.
+* In particular, with Geoffrey Shephard, he produced sharp bounds for the volume of a difference body, a problem which had been open for 30 years.
+* On 27 August 1959, Shephard married Helen Gillian Walker, only daughter of Mr and Mrs F C Walker of 123 Ridgacre Road Birmingham.
+* For more information about this book and other publications by Shephard, see THIS LINK.
+* Soon after going to the University of East Anglia, Shephard began a collaboration with Branko Grünbaum and their first joint paper Convex polytopes was published in the Bulletin of the London Mathematical Society in 1969.
+* The book that took Shephard and Grünbaum eleven years to produce was Tilings and Patterns (1986).
+* Shephard had written another book which he had published well before Tilings and Patterns, namely the joint work Convex polytopes and the upper bound conjecture written in collaboration with Peter McMullen (born 11 May 1942).
+* In fact McMullen had been a Ph.D. student at the University of Birmingham advised by Shephard.
+* When Shephard moved to the University of East Anglia in 1967, McMullen went with him.
+* The prize, to be known as the Shephard Prize will be awarded biennially.
+* Professor Shephard himself is Professor of Mathematics at the University of East Anglia whose main fields of interest are in convex geometry and tessellations.
+* Professor Shephard is one of the longest-standing members of the London Mathematical Society, having given more than sixty years of membership.
+* Shephard retired from his chair at the University of East Anglia in 1984.
+* In fact MathSciNet lists 48 papers written by Shephard (some are joint works) which were published between 1987 and 2016.
 
 Born 16 August 1927, Manchester, England. Died 3 August 2016, Norwich, England.
 
