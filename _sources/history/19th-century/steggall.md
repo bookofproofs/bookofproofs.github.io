@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * John was educated in London and attended the City of London School.
 * The Senior Wrangler in that year was Ernest Hobson but in the competition for the Smiths Prize it was Steggall who came out as the top candidate ahead of Hobson.
 * Hobson won a fellowship but these were only open to those who did not marry and Steggall was about to marry Isabella Katherine Fraser of Rowmore House, Gareloch, near Helensburgh.
-* John and Isabella had three children, one son and two daughters.
 * After graduating Steggall became an Assistant Master at Clifton College, Bristol.
 * Steggall applied to become the first Principal of University College, Dundee.
 * Steggall then became Professor of Pure and Applied Mathematics, a title that he held until he chose to retire in 1933 having been a professor for 50 years.

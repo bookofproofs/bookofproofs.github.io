@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Omar Catunda** was a Brazilian mathematician. He worked hard to improve the level of mathematics education at both school and university level across Brazil.
 
 ### Mathematical Profile (Excerpt):
-* Their first child Wagner Catunda was born on 12 March 1892 and they went on to have thirteen further children, with Omar, the subject of this biography, being the second youngest of his parents' five sons and nine daughters.
-* We note also that Omar's paternal great-grandfather, Joaquim Catunda (1834-1907), had been a professor, historian and Brazilian politician of the First Republic, serving as a senator from 1890 to 1907.
 * Omar's first school was the Grupo Escolar Cesário Bastos where he described himself as a 'distracted and careless student'.
 * At the Escola Politécnica, Catunda began with the Preliminary Course where he had lectures on geometry and also studied the differential and integral calculus.
 * Ramos was keen to improve the teaching of mathematics in Brazil and, finding Catunda enthusiastic for the subject, supported his studies.

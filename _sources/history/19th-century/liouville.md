@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Joseph Liouville** is best known for his work on transcendental numbers. He constructed an infinite class of such numbers.
 
 ### Mathematical Profile (Excerpt):
-* The family then settled in Toul where Joseph attended school.
 * Liouville entered the École Polytechnique in 1825 and attended Ampère's Cours d'analyse et de mécanique Ⓣ(Course on analysis and mechanics) in session 1825-26.
 * Although Liouville does not seem to have attended any of Cauchy's courses, it is clear that Cauchy must have had a strong influence on him.
 * Liouville graduated in 1827 with de Prony and Poisson among his examiners.
@@ -43,17 +42,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Life for Liouville developed into a year with two distinct parts.
 * Not everything went Liouville's way however.
 * When Lacroix died in 1843, Liouville applied for his chair at the Collège de France where he lectured only as a substitute for Biot.
-* Another aspect of Liouville's life was his involvement in politics.
-* Other mathematical colleagues had also become involved with the political events of the time, for example Catalan, whose political views were similar to the republican views of Liouville, had damaged his mathematical career.
-* Liouville certainly never let his political views hold him back as he advanced his mathematical career, unlike Cauchy who had refused to swear the oaths of allegiance to the King that Liouville and even Arago had been prepared to do.
 * Encouraged by Arago, Liouville stood for election to the Constituting Assembly in 1848.
 * Mr Liouville is one of my best friends.
 * Elected on 23 April 1848, Liouville took his seat among the moderate republican majority.
-* Liouville continued his political career by being renominated for the Assembly elections in 1849 but the tide had turned against the moderate republicans and he was not elected.
 * The election defeat proved another turning point in Liouville's life.
 * His chair at the Collège de France was declared vacant in 1850 and Cauchy and Liouville competed for the post.
 * In a close contest Liouville triumphed and began his lectures at the Collège de France in 1851.
-* Although Liouville's mathematical output had been greatly reduced while he was involved with politics, it picked up again in the 1850s despite health problems.
 * In fact 1856 and 1857 were two of Liouville's most productive years.
 * Not only did he have a high teaching load but Liouville was a perfectionist which meant that when he felt that he could not devote all the time necessary to give the best possible lectures he began to suffer.
 * Another blow to Liouville was the death of Dirichlet in 1859.

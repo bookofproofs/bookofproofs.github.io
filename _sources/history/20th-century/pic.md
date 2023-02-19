@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gheorghe Pic** was a Czech mathematician who worked in algebra.
 
 ### Mathematical Profile (Excerpt):
-* Medias was part of Austria-Hungary when the Pic family moved there but about ten years later, in 1919, it became part of Romania.
-* The town was an important industrial centre because of the nearby natural gas deposits with which Gheorghe's father was involved.
 * Gheorghe attended both primary and secondary school in Blaj, about 40 km west of Medias.
 * Cluj (known also by its German name, Klausenburg, and its Hungarian name, Kolozsvár) had, with the rest of Transylvania, been incorporated into Romania in 1919, just five years before Pic went to study there.
 * (The Hungarian university in Cluj moved first to Budapest, then to Szeged.) Pic obtained his first degree in 1928 from the Romanian King Ferdinand University of Cluj, then continued to study for his 'capability examination' (essentially equivalent to a Master's degree) in mathematics and physics in 1930.

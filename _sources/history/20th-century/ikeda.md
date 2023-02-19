@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gündüz 0keda** was a Japanese-born Turkish mathematician who worked in the field of algebraic number theory.
 
 ### Mathematical Profile (Excerpt):
-* Known as Masatoshi Ikeda for the first part of his life spent in Japan, he was the youngest of his parents four children, having two elder sisters and one elder brother.
 * Ikeda's first publication Supplementary remarks on Frobenius algebras was written jointly with Nakayama, and appeared in the Osaka Mathematics Journal in 1950.
 * Ikeda was awarded a Yukawa Scholarship to conduct research on cohomology theory of associative algebras at Nagoya University for session 1953-54.
 * Ikeda remained as a Lecturer of Mathematics at Osaka University until 1960 when he first visited Izmir, Turkey, then visited Cahit Arf at Istanbul University.
@@ -31,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At the very moment of my arrival, they introduced to me a young faculty member: Doctor Ikeda.
 * After Koç was appointed to Ege University he assisted Ikeda with his teaching.
 * However, in time, thanks to Dr Ikeda, we transformed this office to an ongoing seminar room, for we had problems in different areas of mathematics and Dr Ikeda was the only one to lend us a hand so benevolently.
-* Ikeda married Emel Ardor, the Turkish research assistant he had met in Hamburg, in 1964.
 * He also became a Turkish citizen in that year and took a more Turkish sounding name, calling himself Gündüz Ikeda.
 * At a dinner following the talks, Arf offered Ikeda a position at the Middle East Technical University in Ankara where he was now working.
 * Ikeda accepted and took up the position of Professor there in August of 1968 and, together with Arf, worked to build up both the undergraduate and postgraduate sides of the Mathematics Department.

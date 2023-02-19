@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Katsugoro Nakano's ancestors had a lacquerware business making ornamental parts for swords.
-* Katsugoro and Kame Nakano had four children, two boys and two girls; Hidegorô was the eldest of the boys.
 * Hidegorô attended schools in Tokyo, completing his secondary education at a middle school.
 * Nakano then entered the Imperial University of Tokyo where he studied mathematics.
 * Nakano graduated from the Imperial University of Tokyo in March 1933 with a Bachelor of Science degree and he continued studying at the Graduate School for his doctorate.
@@ -35,11 +34,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Therefore, Professor Takuji Yoshie examined Nakano's thesis very carefully.
 * In 1936, Nakano was awarded doctor of science degree three years after submitting.
 * Nakano undertook research at the Graduate School until 29 April 1935, when he became a professor at the National First High School.
-* On 24 October 1935, Nakano married Sumiko Yamamura (11 December 1913, Tokyo - 5 March 1999, Detroit).
-* Hidegorô and Sumiko Nakano had two children both born in Tokyo: a daughter Kazumi Nakano (born 21 June 1937) and a son Hideaki Nakano (born 7 April 1943).
 * Nakano was promoted to assistant professor on 15 April 1942.
 * Nakano often led his students on a hike hunting for food in neighbouring villages.
-* His wife invited the students to the temple where the Nakano family maintained a temporary residence and fed hungry students.
 * Nakano's first book was From Riemann integral to Lebesgue integral (Japanese) published in 1940.
 * By the time that Spectral Theory in the Hilbert Space was published, Nakano had left Tokyo and moved to Sapporo to take up a professorship at Hokkaido University.
 * Regular members of Nakano's seminars, undergraduate as well as graduate, called themselves Nakano's students.
@@ -47,10 +43,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Nakano's appointment at Hokkaido University was thus a move from Tokyo to Hokkaido.
 * It was a group of graduate students engaged in research under Nakano's leadership.
 * From February 1961 to March 1974 Nakano was a professor of mathematics at Wayne State University, Detroit, USA.
-* Nakano's two children came to the United States to join their parents in 1962.
 * At Wayne State University, Nakano supervised the studies of eight students for a Ph.D. He continued to work there until 1973 when he was taken ill.
 * From the late 1960s Nakano became interested in set theory and attempted to produce a different version of the theory from the classical axiomatic approach.
-* Let us end with saying a little about Kazumi Nakano, Hidegorô Nakano's daughter.
 
 Born 16 May 1909, Tokyo, Japan. Died 11 March 1974, Detroit, Michigan, USA.
 

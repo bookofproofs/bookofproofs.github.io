@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ivan Śleszyński** was a Ukranian born mathematician whose main work was on continued fractions, least squares and axiomatic proof theory based on mathematical logic.
 
 ### Mathematical Profile (Excerpt):
-* Although Ivan was born in the Ukraine, he was ethnically Polish, being born into a Polish family living in Lysianka, a town about 160 km due south of Kiev.
 * This work by Śleszyński was more than a translation since it contained Śleszyński's own very useful commentary.
 * Śleszyński left Odessa and went to Poland in 1911 where he was appointed as an extraordinary professor at the Jagellonian University of Kraków.
 * We should note that in fact Kraków was at this time in the Austro-Hungarian Empire but, remembering Śleszyński's Polish background, it is fair to say that he was moving to Poland.

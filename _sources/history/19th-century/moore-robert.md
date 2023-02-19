@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Robert Lee Moore** was an American mathematician, known for his work in general topology and the "Moore method" of teaching university mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Robert Lee Moore's mother was Louisa Ann Moore and she did not need to change her name on marrying Charles since her maiden name was also Moore.
-* Charles and Louisa had six children, with Robert being the second youngest in the family.
 * Robert received a good education at a private high school in Dallas, and before he entered university he had learnt university level calculus by studying the university textbooks.
 * He graduated with a Sc.B. in 1901 and after a year as a teaching fellow at the University of Texas, Moore spent the academic year 1902-03 as a mathematics instructor at the High School in Marshall, Texas.
 * In fact Moore would have remained at the University of Texas rather than spend the year teaching in a high school but, for some reason which is not clear, the university regents refused to renew his appointment despite strong protests from Halsted.

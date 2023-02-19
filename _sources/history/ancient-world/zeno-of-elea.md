@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Zeno of Elea** was a Greek philosopher famous for posing so-called paradoxes which challenged mathematicians' view of the real world for many centuries.
 
 ### Mathematical Profile (Excerpt):
-* We certainly know that he was a philosopher, and he is said to have been the son of Teleutagoras.
 * The main source of our knowledge of Zeno comes from the dialogue Parmenides written by Plato.
 * Zeno was a pupil and friend of the philosopher Parmenides and studied with him in Elea.
 * The Eleatic School, one of the leading pre-Socratic schools of Greek philosophy, had been founded by Parmenides in Elea in southern Italy.
@@ -50,7 +49,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Zeno bases both the dichotomy paradox and the attack on simple pluralism on the fact that once a thing is divisible, then it is infinitely divisible.
 * One could counter his paradoxes by postulating an atomic theory in which matter was composed of many small indivisible elements.
 * However other paradoxes given by Zeno cause problems precisely because in these cases he considers that seemingly continuous magnitudes are made up of indivisible elements.
-* The argument rests on the fact that if in an indivisible instant of time the arrow moved, then indeed this instant of time would be divisible (for example in a smaller 'instant' of time the arrow would have moved half the distance).
 * for time is not composed of indivisible 'nows', no more than is any other magnitude.
 * However, this is considered by some to be irrelevant to Zeno's argument.
 * Of course if the instant 'now' does not exist then the arrow never occupies any particular position and this does not seem right either.
@@ -66,6 +64,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Both Plato and Aristotle did not fully appreciate the significance of Zeno's arguments.
 * One of the most notable victims of posterity's lack of judgement is the Eleatic Zeno.
 * Having invented four arguments all immeasurably subtle and profound, the grossness of subsequent philosophers pronounced him to be a mere ingenious juggler, and his arguments to be one and all sophisms.
+* After two thousand years of continual refutation, these sophisms were reinstated, and made the foundation of a mathematical renaissance ....
 * Here Russell is thinking of the work of Cantor, Frege and himself on the infinite and particularly of Weierstrass on the calculus.
 * It is difficult to tell precisely what effect the paradoxes of Zeno had on the development of Greek mathematics.
 * realising that Zeno's arguments were fatal to infinitesimals, saw that they could only avoid the difficulties connected with them by once and for all banishing the idea of the infinite, even the potentially infinite, altogether from their science; thenceforth, therefore, they made no use of magnitudes increasing or decreasing ad infinitum, but contented themselves with finite magnitudes that can be made as great or as small as we please.

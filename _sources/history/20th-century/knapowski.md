@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Stanisław was brought up in Poznań until the Second World War began.
-* The Knapowski family were now living in an occupied country.
 * The occupying German forces expelled thousands of the Polish people from the west of the country and the Knapowskis were forced to settle in the Kielce province in south-eastern Poland.
 * Four German extermination camps were located in Kielce and young Stanisław grew up there in very difficult circumstances.
 * After the war ended in 1945 efforts were made to allow displaced people to return to their homes, and the Knapowskis returned to Poznań where Stanisław attended the local gymnasium, excelling in mathematics.

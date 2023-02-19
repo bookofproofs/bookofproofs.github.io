@@ -24,16 +24,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Alexander Wilf (1904-1980) had a profitable business in Philadelphia selling rugs, carpets and appliances.
-* Herbert had a younger sister Gladys, born in 1939.
 * Alexander Wilf, known as Alex, had right-wing Zionist views and was a passionate supporter of the idea of creating a Jewish state in the middle east.
 * Alexander Wilf was involved in smuggling refugees and arms into Palestine, using ships in which he had invested most of his wealth.
 * Alex Wilf also put money into the Altalena which sailed for Tel Aviv in June 1948 with 940 fighters and a large quantity of arms and ammunition.
-* Herb Wilf completed his schooling in 1948 and, following his father's advice, applied to study at the Massachusetts Institute of Technology.
-* Before he had begun his studies, however, with the state of Israel now set up, Alexander Wilf decided to take his family to Israel and start up a newspaper.
 * Wilf was awarded a B.S. in mathematics from the Massachusetts Institute of Technology in 1952.
 * After graduating from MIT, Wilf went to Columbia University where he studied for a Ph.D. supervised by Herbert Ellis Robbins, who was the Professor of Mathematical Statistics.
-* While he was undertaking graduate studies at Columbia University, Wilf married Ruth Tumen; they had a daughter Susan (who became a Chinese scholar), and two sons David (who became a lawyer) and Peter (who became a palaeontologist).
-* With a wife and young family to support, Wilf needed to earn money and took on a number of jobs such as designing jet engines with the Fairchild Engine Division in 1954 and as head of the Computing Section of Nuclear Development Associates 1955-59.
 * Wilf was awarded his Ph.D. in 1958 and, in the following year, he was appointed as an Assistant Professor of Mathematics at the University of Illinois.
 * After three years in this position, Wilf was appointed as Associate Professor of Mathematics at the University of Pennsylvania.
 * In January 1998 Wilf was named Thomas A Scott Professor.

@@ -34,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The third text we mention is The non-Euclidean, hyperbolic plane : Its structure and consistency which Kelly wrote jointly with Gordon Matthews and published in 1981.
 * Paul Kelly had a wonderful sense of language, the comic, the human tragi-comic condition, and the crucial role of timing in any enterprise.
 * Paul was also a sports enthusiast who wished he'd been big enough to play football.
-* Any collection of memories about Paul would be incomplete without a mention of his love of particular music, musicians, and works of art.
 
 Born 26 June 1915, Riverside, California, USA. Died 15 July 1995, Santa Barbara, California, USA.
 

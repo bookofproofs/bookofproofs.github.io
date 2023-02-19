@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1899 Huntington left the United States to study for his doctorate in Europe.
 * Huntington's doctorate was awarded for a thesis on algebra.
 * Returning to the United States, Huntington again was appointed as an instructor in Harvard in 1901.
-* He was promoted to an assistant professor in 1905, then in 1909 he married Suzie Edwards Van Volkenburgh - they had no children.
 * Huntington was promoted to associate professor in 1915 and to professor of mechanics at Harvard in 1919.
 * Huntington was interested in the foundations of mathematics.
 * This is now known as Huntington's theorem.

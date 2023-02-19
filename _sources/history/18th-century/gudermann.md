@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Christoph was academically able in his schooling so, as many able boys at this time did, it was intended that he should train to became a priest.
-* Gudermann then followed in his father's footsteps by becoming a school teacher.
 * Gudermann worked almost exclusively on spherical geometry and special functions but he is not remembered for any original mathematical results in these areas.
 * For this reason and because of its constant curvature there exist many similarities between spherical geometry and plane geometry; yet at the same time Gudermann considered more interesting the study of cases where the similarity no longer holds.
 * In his more extensive work on the theory of special functions Gudermann published several papers beginning in 1830 which extended work which was developed by Euler, Landen, Legendre, Abel and Jacobi.

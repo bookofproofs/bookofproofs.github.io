@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Yuri Linnik** was a Ukranian-born mathematician who worked on number theory, probability theory and mathematical statistics.
 
 ### Mathematical Profile (Excerpt):
-* Yuri's mother, Mariya Abramovna Linnik, was a schoolteacher.
 * After studying at secondary school in Leningrad, Yuri Vladimirovich worked as a laboratory assistant for a year in 1931 before starting his university training.
 * However, the German armies were approaching Leningrad and Linnik volunteered to serve in the People's Guard to defend the city.
 * Linnik was taken ill with dystrophy, almost certainly the result of malnutrition, and discharged from the army.

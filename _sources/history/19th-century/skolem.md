@@ -23,14 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Thoralf Skolem** was a Norwegian mathematician who worked in mathematical logic and set theory.
 
 ### Mathematical Profile (Excerpt):
-* Although his father was a teacher, Thoralf came from a farming family with most of his relations being farmers.
 * In 1909 Skolem took a job as assistant to the physicist Kristian Birkeland, who was famed for his experiments with the aurora-like effect obtained by bombarding a magnetized sphere with electrons, and Skolem's first publications were physics papers written jointly with Birkeland.
 * Skolem took his state examination in 1913, passing with distinction.
 * Viggo Brun and Skolem agreed that neither of them would bother to obtain the degree of Doctor, probably feeling that, in Norway, it served no useful function in the education of a young scientist.
 * Skolem became a Docent in Mathematics in Kristiania in 1918, and in the same year he was elected to the Norwegian Academy of Science and Letters.
 * It seems that Skolem then felt he too ought to fulfil the formal requirement of having a doctorate, and he "obtained permission" from Brun to submit a thesis.
 * Skolem's advisor in Kristiania (or Oslo as it was renamed in 1925) had been Axel Thue although he had died in 1922, four years before Skolem decided to submit his thesis.
-* On 23 May 1927 Skolem married Edith Wilhelmine Hasvold.
 * Although this does not sound a particularly grand title, in fact the post was a senior one in which Skolem was able to conduct independent research without any administrative or teaching duties.
 * Skolem was remarkably productive publishing around 180 papers on topics such as Diophantine equations, mathematical logic, group theory, lattice theory and set theory.
 * One example is the Skolem-Noether theorem.

@@ -23,12 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ruth Moufang** studied projective planes, introducing Moufang planes and non-associative systems called Moufang loops.
 
 ### Mathematical Profile (Excerpt):
-* Eduard Moufang was the son of Friedrich Carl Moufang (1848-1885) from Mainz, who was a businessman in Frankfurt am Main, and Elisabeth von Moers from Mainz.
-* Ruth Moufang's mother was Else Fecht, who was the daughter of Alexander Fecht (1848-1913) from Kehl and Ella Scholtz (1847-1921).
 * Both girls attended the Realgymnasium in Bad Kreuznach, Ruth beginning her studies there in 1913.
-* Schwan wrote a widely used mathematics text and the two Moufang sisters helped him by making the drawings for the diagrams in the book.
 * Both Ruth and Erica Moufang had considerable artistic skills and this was put to good use in their work on Schwan's geometry book.
-* Ruth became fascinated with mathematics through Schwan's inspirational teaching and her sister Erica went on to become an artist.
 * In 1924, Moufang passed her Abitur examination while at the gymnasium in Bad Kreuznach and later that year she began her studies at the Johann Wolfgang Goethe University in Frankfurt am Main.
 * Arthur Schönflies was the first full professor at Frankfurt but he retired before Moufang began her studies, being replaced by Carl Ludwig Siegel.
 * Other leading mathematicians teaching there when Moufang was a student included Ernst Hellinger, Max Dehn, who was appointed to succeed Ludwig Bieberbach after he left in 1921, Otto Szász, and Paul Epstein.

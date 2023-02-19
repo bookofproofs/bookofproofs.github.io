@@ -23,11 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Guo Shoujing** was a Chinese astronomer who worked on spherical trigonometry and the calendar.
 
 ### Mathematical Profile (Excerpt):
-* We do not know the names of his parents, but his paternal grandfather, who was clearly more famous than his parents, was Guo Yong who was famed as an expert in a wide range of topics from classical studies to mathematics and hydraulics.
-* One can only guess that as a young boy Guo might have been influenced by his grandfather to become interested in constructing water clocks.
 * We know that at age 14 Guo did construct such a clock.
 * By the age of sixteen Guo was studying mathematics.
-* Before we continue to describe events of Guo's life we should look briefly at the political situation, for it was a troubled time with many wars.
 * This then was the situation in the northern part of China where Guo was growing up.
 * By the age of twenty Guo was working as an hydraulic engineer.
 * This was a river in Guo's home province of Hebei and the bridge he renovated was a little way north of the town of Xinzhou.

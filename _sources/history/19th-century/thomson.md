@@ -23,11 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Thomson** (Lord Kelvin) became Professor of Natural Philosophy at Glasgow at a very young age. He made important contributions to many areas of Physics including electricity, magnetism and thermodynamics. His work on the first trans-Atlantic telegraph cable made his fortune.
 
 ### Mathematical Profile (Excerpt):
-* William's mother died when he was six years old and from that time he was brought up by his father.
-* James Thomson was the professor of engineering in Belfast at the time of William's birth and, when William was eight years old, his father James was appointed to the chair of mathematics at the University of Glasgow.
-* James Thomson was a dominant father who brought his family up in a strict Presbyterian fashion.
-* However, despite his father being very strict he had a very close relationship with William.
-* It was from his father that William learnt mathematics and at a very young age he became an accomplished mathematician with knowledge of the latest developments in the subject.
 * William attended Glasgow University from the age of 10.
 * Thomson began what we would consider university level work in 1838 when he was 14 years old.
 * His Essay on the Figure of the Earth won him a gold medal from the University of Glasgow when he was 15 years old and it was a truly remarkable work containing important ideas which Thomson returned to throughout his life.
@@ -41,14 +36,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Despite the efforts of Babbage, Peacock and Herschel to introduce the new French mathematics into Cambridge, the style of the Mathematical Tripos taken by Thomson still left much to be desired.
 * Thomson took the final part of the Mathematical Tripos examinations in 1845.
 * Also in 1845 Thomson read George Green's work which was to have a major influence on the direction of his research.
-* His interest in the French approach, and advice from his father, meant that after taking his degree Thomson went to Paris.
 * Perhaps the most profitable discussions that Thomson had in Paris were with Liouville.
 * It was at Liouville's request that Thomson began to try to bring together the ideas of Faraday, Coulomb and Poisson on electrical theory.
 * Thomson was led to study the whole methodology of a physical science, distinguishing 'physical' parts of a theory from 'mathematical' parts.
-* Thomson's father used his influence in the University to help his son become the leading candidate for the post.
 * Thomson returned from Paris to Glasgow and, in 1846, was unanimously elected professor of natural philosophy at the University.
 * In 1847-49 he collaborated with Stokes on hydrodynamical studies, which Thomson applied to electrical and atomic theory.
-* Many of these letters have survived, for example copies of 407 letters from Thomson to Stokes and 249 letters from Stokes to Thomson have been published.
 * The thermodynamical studies of Thomson led him to propose an absolute scale of temperature in 1848.
 * It derives its name from the title, Baron Kelvin of Largs, that Thomson received from the British government in 1892, and named after Thomson because of his proposal in this 1848 paper.
 * Thomson published between 1849 and 1852 three influential papers on the theory of heat.

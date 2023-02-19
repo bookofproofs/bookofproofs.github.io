@@ -23,12 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **George Bryan** made important contributions to kinematics, thermodynamics and the mathematical theory of flight. He wrote two important monographs and a whole series of undergraduate texts intended for private study.
 
 ### Mathematical Profile (Excerpt):
-* Robert Bryan was the son of the physician James Bedingfield Bryan (1813-1889) who, for example, published Nature and treatment of influenza in The Lancet in 1837, and Eliza Hartley (1811-1894).
-* His baby son George Hartley Bryan, the subject of this biography, was baptised at St John, Battersea on 14 June 1864 but he was less that one year old when his father died.
-* After the death of his father, George was brought up by his mother and his paternal grandparents.
-* The head of the household is George's paternal grandfather, James B Bryan (age 58), giving his qualifications as M.D. Edinburgh and Member of the Royal Colleges of Physicians, London.
-* Also in the house are James' wife Eliza Bryan (age 60), George Bryan (aged 7), the subject of this biography, and Fanny Bryan, George's mother.
-* Presumably the musician entertained the family and taught music to young George who certainly had a great passion of music all his life.
 * James B Bryan, Eliza Bryan, Fanny Bryan and George Bryan are in the house with one servant, a parlour maid Ann Britton.
 * On 10 April 1883 George Bryan was admitted as a pensioner at Peterhouse, Cambridge and began his study of the mathematical tripos.
 * He had been taught by a number of famous mathematicians at Cambridge, including George Howard Darwin, James Glaisher, Walter Rouse Ball and Andrew Forsyth.
@@ -61,8 +55,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1899 Bryan received a major honour when he awarded the Gauss Medal of the German Mathematical Society.
 * In fact Sommerfeld visited Bryan in Bangor in September 1899 to make the invitation in person.
 * Bryan wrote the 90-page article Allgemeine Grundlegung der Thermodynamik Ⓣ(General foundation of thermodynamics ) which was published in the 1st part of the 5th volume of the Encyclopaedia in 1903.
-* On 17 July 1906, Bryan married Mabel Grace Williams (1870-1958) at the Cathedral Church in Bangor.
-* Mabel, the daughter of the iron merchant Frederick Williams and his wife Frances, was the headmistress of the Bangor primary school; George and Mabel had one child, a daughter, Margaret, born in 1909.
 * Bryan became President of the Mathematical Association in 1907 and he set up the local branch of the Association in North Wales.
 * In 1907 Bryan published the book Thermodynamics.
 * In his later years Bryan found the ties of his university duties rather irksome and sought an opportunity for unfettered research; this was provided for him in 1917 by a three years' grant from the Department of Scientific and Industrial Research, which time he devoted to the dynamics of aeroplane motion and to considering methods of dealing with the motion of compressible fluids.

@@ -25,8 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Moshe was fascinated by what he heard and quickly learned the basics of the subject.
 * Carmeli finished his D.Sc. from the Technion, Haifa in 1964.
-* In 1964 the Carmeli family moved to the United States and, between 1964 to 1965, Moshe was a Visiting Research Associate at Lehigh University and Temple University.
-* In 1972 the Carmeli family returned to Israel, and Moshe was appointed Associate Professor of Physics in the Physics Department of Ben Gurion University, Beer Sheva.
 * Carmeli's field included gravitation and gauge field theory, the theory of spinors as applied to physics, Einstein special and general relativity, and astrophysics.
 * Carmeli was author and co-author to more than 120 research papers and 9 books.
 * based on lectures given by Carmeli at the Institute of Theoretical Physics of the State University of New York at Stony Brook and at the Ben Gurion University.

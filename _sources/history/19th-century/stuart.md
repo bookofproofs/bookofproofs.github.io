@@ -23,9 +23,7 @@ contributors: @Alex-D-D-Craik,bookofproofs
 **James Stuart** was a Scottish educational pioneer and politician.
 
 ### Mathematical Profile (Excerpt):
-* James' mother was  Catherine Booth (born in Edinburgh about 1816).
 * James Stuart received his school education at Madras College, St Andrews and then attended St Andrews University, graduating in 1861.
-* From 1875 to 1889, Stuart was Professor of Mechanism and Applied Mechanics at Cambridge (a precursor of the Engineering department), but he resigned following Senate opposition to his emphasis on practical training and to his radical politics.
 * From 1898, Stuart took over management of the firm.
 
 Born 2 January 1843, Balgonie, Fife, Scotland. Died 13 October 1913, Carrow Abbey, England.

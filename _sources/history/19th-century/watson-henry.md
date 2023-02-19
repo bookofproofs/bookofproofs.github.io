@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Henry was educated at King's College, London, winning the first mathematical scholarship which had been set up there, then in 1846 he went to Trinity College, Cambridge, again with a scholarship.
 * In 1851 Watson became a fellow of Trinity College and from 1851 until 1853 he was a tutor in mathematics at Cambridge.
-* While holding this position, Watson married Emily Rowe from Cambridge in 1856.
 * From 1857 Watson lectured at King's College, London.
 * In fact Watson has been ordained a deacon in 1856 and he took priest's orders two years later.
 * After leaving Berkswell, Watson went to live in Brighton.
@@ -33,6 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After this book appeared Watson corresponded with Maxwell and the results of this correspondence is contained in the second edition of the book which appeared in 1893.
 * After publishing on dynamics in 1879, Watson wrote a two volume work The mathematical theory of electricity and magnetism.
 * He therefore persuaded Watson to take up the matter.
+* Galton had consulted Watson a year or so earlier about a device for obtaining useful work from the energy of waves...
 * Watson was elected a fellow of the Royal Society in 1881 and given an honorary D.Sc. by Cambridge in 1883.
 
 Born 25 February 1827, Marylebone, London, England. Died 11 January 1903, Berkswell (near Coventry), England.

@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Abram Trakhtman** is a Russian-born mathematician who is best known for solving the 'Road Colouring Problem'.
 
 ### Mathematical Profile (Excerpt):
-* His father was Naum Trakhtman, who was born in the town of Sokiryani (or Sokyryany) in the Bukovina region of south-west of Ukraine.
-* Naum Trakhtman's father, Idel Trahtman, was living in Sokiryani during the tragic events of World War II.
 * Unlike Fermat's Last Theorem which required lots of technical and sophisticated mathematical techniques to crack, the maths behind Trakhtman's solution is not complicated, it just required a clever new way to look for the solution.
 
 Born 10 February 1944, Kalinovo, Sverdlovsk oblast, USSR (now Russia).

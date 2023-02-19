@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Congregation of the Oratory of Jesus and Mary Immaculate, often called the Oratorians, was a Roman Catholic sect founded by Pierre de Bérulle in 1611 and approved by the Pope in 1613.
 * Joseph studied at Oratorian schools in Aix, Marseilles, Arles and Angers.
 * At the last of these schools he studied under Charles-René Reyneau from 1698 until 1699.
-* After the death of his elder brother, Joseph was expected to devote his life to running the affairs of his family.
 * However he had a deep love of science in general, and mathematics in particular, and in 1704 he went to Paris to take up a more active scientific career.
 * He argued against Newton and for Descartes' view of physics although he knew Newton's to be the more precise.
 * Of course, although we now accept Newton's ideas of gravitation without much thought, it is clear if one thinks about it for a while that the idea of action at a distance through a vacuum is absurd.

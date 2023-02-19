@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jakob Rosanes** was a German mathematician and chess master who worked on algebraic geometry and invariant theory.
 
 ### Mathematical Profile (Excerpt):
-* Akiva Eger's second marriage was to Brendel HaLevy Feibelman, the eleventh of their children being Beile Eger who was Jakob Rosanes's mother.
-* Jacob's father was Leo Meir Rosanes who had married Hadassah Eger, another of the children of Akiva Eger.
-* However after Hadassah's death in Brody some time before 1837, Leo Meir Rosanes married her sister Beile Eger who had been born in Posen in 1822.
-* Leo Rosanes, Jakob's father, was a merchant in Brody which was becoming increasingly important as a trade centre because of its location which made it a transit point for goods moving between the Austrian and Russian empires.
 * Jakob's education was not quite what one would have expected of someone who would go on to an academic career.
 * Rosanes, however, wanted to attend university and between 1858 and 1860 he prepared himself to enter the University of Breslau.
 * In addition to Schroeter, Rosanes had been taught by some excellent lecturers at Breslau such as Ferdinand Joachimsthal, Rudolf Lipschitz, O E Meyer, and Paul Bachmann.
@@ -36,6 +32,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Rosanes taught at Breslau for the rest of his life.
 * Rosanes wrote on many aspects of algebraic geometry and invariant theory (particularly between 1870 and 1890) which were in fashion at that time.
 * Max Born attended Rosanes' course on linear algebra, which introduced him to matrix theory, in the first years of the 20th  century.
+* Not everyone was an enthusiastic as Born, however, for Rosanes had a mixed reputation as a lecturer.
+* Rosanes' rectorial address, however, everyone agreed was inspirational.
+* Perhaps Rosanes' main interest outside mathematics was chess.
+
+Born attended Rosanes' course on linear algebra, which introduced him to matrix theory, in the first years of the 20th  century.
 * Not everyone was an enthusiastic as Born, however, for Rosanes had a mixed reputation as a lecturer.
 * Rosanes' rectorial address, however, everyone agreed was inspirational.
 * Perhaps Rosanes' main interest outside mathematics was chess.

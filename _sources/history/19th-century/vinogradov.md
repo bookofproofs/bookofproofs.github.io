@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Vinogradov** used trigonometric series to attack deep problems in analytic number theory.
 
 ### Mathematical Profile (Excerpt):
-* The usual education for the son of a priest was in a special ecclesiastic school, but because Ivan showed scientific skills his parents decided in 1903 to send him to school were he would receive a scientific rather than classical education.
-* By 1903 Ivan's father was a priest at the Church of the Holy Shroud in Velikie Luki, and it was in that town that Ivan attended school from 1903 to 1910.
 * Two of his teachers there, A A Markov and Ya V Uspenskii, both had interests in probability and number theory and Vinogradov's interest in number theory stems from this period.
 * Mainly these concerned the lack of communication between Russia and the West so that he was unaware of results of Weyl and others which was highly relevant to his work and, similarly, mathematicians in the West were largely unaware of Vinogradov's results.
 * During his time as head of the Steklov Institute, Vinogradov discussed with Luzin the research areas which should be emphasised in the Soviet mathematical Institutes.
@@ -32,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However it was Vinogradov who, in a series of papers in the 1930s, brought the method to its full potential.
 * In it Vinogradov proved that every sufficiently large odd integer can be expressed as the sum of three primes.
 * Recent research on the type of problems studied by Vinogradov shows that his methods are still the most powerful available to obtain yet further results.
-* Vinogradov made many other contributions, for example to the theory of distribution of power residues, non-residues, indices and primitive roots.
 * Even in Edmund Landau's three volume work on number theory, published in 1927, prominence is given to Vinogradov's methods.
 * Vinogradov headed the Soviet delegation again at the 5th  General Assembly at Dubna in 1966.
 * Vinogradov gave a dinner for the participants at his own expense and personally addressed the invitation cards.

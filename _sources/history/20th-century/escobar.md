@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * José was widely known by the nickname 'Chepe', a common Spanish nickname for José.
-* Gustavo and Yadira had three children, Maria Victoria Escobar (born 1951), Arturo Escobar (born 1952) and José Escobar, the subject of this biography.
-* Arturo Escobar became a professor of anthropology and political ecology at the University of North Carolina, Chapel Hill, United States.
 * When José was very young, his parents moved from Manizales, about 120 km west of Bogotá in the mountainous coffee-growing region of western Colombia, to Cali, about 200 km south east of Manizales.
 * Cali is famous for salsa dancing and, indeed, José would become an enthusiastic salsa dancer.
 * Escobar was educated at the Colegio Lacordaire, a school in Cali which had been founded in 1956 by the Dominicans.
@@ -39,17 +37,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Following the award of his doctorate, Escobar spent the rest of his career in the United States.
 * Escobar is outstanding among the best, even within that group.
 * Escobar then spent the years 1990 to 1994 as an associate professor at the University of Indiana at Bloomington before becoming a full professor at Cornell University in 1994.
-* Although Escobar was employed in the United States, his influence on Colombian mathematics was enormous and decisive: for example after the award of his doctorate in 1986 he visited Colombia at least once a year, guided and worked with the Geometry and Topology Group of Universidad del Valle, collaborated actively with researchers from the National University in Bogotá and Medellín, and the Universidad de los Andes, organised Summer Schools in Differential Geometry, Partial Differential Equations and Numerical Analysis, as well as giving numerous lectures and workshops.
 * In 1992 Escobar was awarded a Presidential Faculty Fellowship.
 * Escobar visited the White House on 21 June 1992 to receive the award in person from President George Bush.
 * Escobar produced further outstanding results on the Yamabe Problem on compact manifolds with boundary in his 1996 paper Conformal deformation of a Riemannian metric to a constant scalar curvature metric with constant mean curvature on the boundary.
 * We have looked at Escobar's outstanding research but we should note that he was also a charismatic teacher.
 * At the Universidad del Valle in Cali, Colombia, Escobar had met the mathematician María Mercedes Franco.
-* She moved to the United States in 1994 to join her partner and future husband José Fernando Escobar Velásquez.
 * In early 2000, Escobar visited the Instituto de Matemática Pura e Aplicada in Rio de Janeiro where he was beginning a sabbatical year.
 * By the time this 2004 paper was published in the June part of the Journal of Functional Analysis, Escobar had already died.
 * It was in the second semester of 2003 that Escobar began to feel his health deteriorating again.
-* In 2005, Escobar's wife María Mercedes Franco published the book Existence and Regularity of Minimizers for a One-dimensional Elasticity Problem Without Convexity.
 * In 2017 the Colombian Mathematical Society instituted the "José Fernando Escobar" Prize for Research in Mathematics.
 
 Born 20, December, 1954, Manizales, Colombia. Died 3, January, 2004, Cali, Colombia.

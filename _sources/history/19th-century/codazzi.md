@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Delfino Codazzi** was an Italian mathematician who worked in differential geometry.
 
 ### Mathematical Profile (Excerpt):
-* His father was Domenico Codazzi.
 * After completiing his education, Delfino taught mathematics and natural science at the secondary school in Lodi, then he moved to Pavia where he taught mathematics at the secondary school there.
 * Although he was teaching in secondary schools, which one might have thought not the best place to undertake deep research, nevertheless this was an extremely important and productive period for Codazzi.
 * They were from the two Frenchmen Bour and Bonnet, and from the Italian Codazzi.

@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Brian Kuttner** was an English mathematician who worked on Fourier Series.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Lilian Frances Kuttner (born in Stepney about 1875).
-* Brian Kuttner had a younger brother Conrad Adolph  and sister Elsa Marion (twins born 1910).
 * Brian Kuttner attended University College School in London and from there he won a scholarship to study at Christ's College Cambridge.
 * Kuttner spent a while in Göttingen studying with Edmund Landau and received his doctorate in 1934.
 * However, before the award of his doctorate Kuttner had been appointed in 1932 as an assistant lecturer at the University of Birmingham.

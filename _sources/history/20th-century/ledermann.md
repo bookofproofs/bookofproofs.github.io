@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Walter Ledermann** was a refugee from Germany who did his doctorate at St Andrews and taught here until 1946. He did important work in algebra and in particular in group theory.
 
 ### Mathematical Profile (Excerpt):
-* His father was William Ledermann and his mother was Charlotte Apt.
 * Although very little mathematics was taught in German schools in general, Walter had the advantage that the Leibniz Gymnasium taught more mathematics than other schools as a mark of respect for Leibniz after whom the school was named.
 * In 1928, when he was seventeen years old, Ledermann graduated from the Leibniz Gymnasium and received the necessary certificate which allowed him to study at any German university.
 * At the University of Berlin Ledermann was taught by many famous mathematicians including Schur, Schmidt, von Mises, Planck, Schrödinger, Hopf, Feigl, and others.
@@ -35,6 +34,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Ledermann was able to use his expert knowledge of matrix theory to put the work of this group onto a sound mathematical footing.
 * The quality of the work Ledermann undertook at this time is clearly shown from the fact that Edinburgh awarded him a D.Sc. for it in 1940.
 * While in Edinburgh Ledermann also worked with Max Born and A C Aitken.
+* In 1938 Ledermann returned to St Andrews.
+* Your special knowledge of the applications of mathematics to problems involving matrices and statistics is an advantage; but you will realise, Walter, in view of the needs of this Department, that proficiency in teaching Applied Mathematics and the functions connected therewith will be important.
+* In fact Ledermann remained at St Andrews from 1938 until 1946.
+* Ledermann accepted a lectureship at the University of Manchester in 1946.
+* By the time he left Manchester, Ledermann had been promoted to a Senior lecturer.
+* As well as work in matrix theory which we have commented on above, Ledermann was especially known for his work in homology theory, group theory, and number theory.
+* Other books which Ledermann has written for undergraduates include Complex numbers (1960), Integral calculus (1964), Multiple integrals (1966), Introduction to group theory (1973), and Introduction to group characters (1977).
+* Among the editorial work undertaken by Ledermann is his editorship of the Journal of the London Mathematical Society (1968-71) and of the Bulletin of the London Mathematical Society (1974-77).
+* Ledermann has received honours for his work which include election to the Royal Society of Edinburgh (1944) and an honorary doctorate from the Open University (1993).
+
+Born and A C Aitken.
 * In 1938 Ledermann returned to St Andrews.
 * Your special knowledge of the applications of mathematics to problems involving matrices and statistics is an advantage; but you will realise, Walter, in view of the needs of this Department, that proficiency in teaching Applied Mathematics and the functions connected therewith will be important.
 * In fact Ledermann remained at St Andrews from 1938 until 1946.

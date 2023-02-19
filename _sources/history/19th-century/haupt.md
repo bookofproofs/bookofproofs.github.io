@@ -41,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This did not turn out well for Haupt who found the necessary tasks so arduous that he had hardly any time left to undertake research.
 * After Max Noether retired, Heinrich Tietze had been appointed to his chair in 1919 so was already in post when Haupt took up his professorship.
 * Max Noether had continued to live in Erlangen but died a few months after Haupt arrived there.
-* However, Emmy Noether, Max Noether's daughter, often came from Göttingen to visit Erlangen and when she did so she lived in Haupt's home.
 * Haupt often went for long walks with Emmy Noether and during these walks he learnt new groundbreaking ideas concerning algebra.
 * This led to Haupt publishing a two-volume Einführung in die Algebra Ⓣ(Introduction to Algebra) in 1929.
 * Haupt certainly played an important role in administration at the University of Erlangen.

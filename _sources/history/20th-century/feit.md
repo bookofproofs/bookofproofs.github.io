@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Walter Feit** was an Austrian mathematician who (with John Thompson) proved one of the most important theorems about finite simple groups.
 
 ### Mathematical Profile (Excerpt):
-* Feit's family were Jewish and this turn of events proved disasterous for them.
-* However, there was no way that the whole Feit family could escape despite the fact that his father's sister Pauline Feit lived in the United States and tried to encourage them to come to live with her in Miami.
 * Walter's parents had put him on that last train which left Vienna on one of the last days in August 1939.
-* When the war ended, his father's sister Pauline who was married to Max and lived in Miami, Florida, in the United States made huge efforts to obtain a visa to allow Feit to come to live with them.
 * Eventually Pauline's efforts paid off and Feit was able to sail to the United States in December 1946.
 * Feit attended Brauer's seminar which was on the modular representations of finite groups and also took an informal reading course from Brauer on class field theory.
 * Feit remained at the University of Michigan and Brauer continued to supervise his doctoral thesis.

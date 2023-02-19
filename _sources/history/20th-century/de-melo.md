@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Although Welington was born in Guapé, a town in the Minas Gerais state in south east Brazil, he never lived there.
-* His father Moacyr was a Collector of the Federal Revenue and later a Tax Auditor of the Federal Revenue.
 * This involved several moves during the years that Welington was growing up and, as a consequence, he attended schools in different towns.
 * This college, founded in 1902 and run by the Marist Brothers, had around 600 pupils when Welington attended.
 * Before completing his secondary school education, Welington began working for the Banco da Lavoura while continuing his final two years of school education studying at night school.
@@ -36,9 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One of the four Scientific Initiation Courses at the Colloquium, Análise Geométrica, was being given by Elon Lages Lima, the director of the Instituto de Matemática Pura e Aplicada (IMPA).
 * De Melo attended the course and impressed Lima who invited him to do a Master's Degree in Mathematics at IMPA.
 * He made a quick decision to undertake postgraduate work in mathematics rather than physics.
-* De Melo graduated with a degree in electrical engineering from the Federal University of Minas Gerais in 1969 and, in the same year, he married Gilza.
 * She had been born in Pedra Azul, in the Jequitinhonha Valley region of the Minas Gerais state, and had studied mathematics at the Federal University of Minas Gerais.
-* In January 1970 de Melo and his wife moved to Rio de Janeiro and, one Saturday morning, he knocked on the door of Jacob Palis in the IMPA.
 * informed Palis that he had attended Elon Lima's course at the recent Brazilian Mathematical Colloquium in Poços de Caldas.
 * He added that he would very much like to study Dynamical Systems to obtain a Ph.D. in this area.
 * he was informed that de Melo was an excellent student and very determined to learn new relevant topics in mathematics.
@@ -108,7 +105,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His role in the development of mathematics is indisputable, especially in the area of low-level dynamics, and his legacy includes, in addition to numerous articles with fundamental contributions, books that are mandatory references for beginners in this area.
 * Welington had only seven formal Ph.D. students, and we were both honoured of being two of them.
 * It is worth mentioning that Artur Avila, the 2014 Fields Medal winner, was also Welington's Ph.D. student.
-* We should say a little about a project undertaken by de Melo's wife Gilza.
 
 Born 17 November 1946, Guapé, Minas Gerais, Brazil. Died 21 December 2016, Rio de Janeiro, Brazil.
 

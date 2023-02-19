@@ -29,17 +29,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After completing his undergraduate studies, Pringsheim undertook research at Heidelberg with Leo Königsberger as his thesis advisor.
 * This was a perfect match with Pringsheim's mathematical interests, and he was awarded his doctorate in 1872.
 * In 1877 Pringsheim submitted his habilitation thesis to the University of Munich and began teaching there as a privatdozent.
-* Alfred and Hedwig had four sons, Erik, Peter, Heinz, and Klaus, and a daughter Katja.
 * Pringsheim worked at the Ludwig-Maximilians University of Munich for his whole career.
 * Pringsheim retired in 1922.
-* The novelist Thomas Mann, who was his son-in-law, wrote a novel based on the Pringsheim family.
 * Pringsheim's refined wit was famous.
+* Pringsheim was a brilliant lecturer and conversationalist ...
 * Pringsheim was extremely well off; as well as having considerable financial resources, he owned an extremely valuable collection of Italian Majolica earthenware.
 * In 1938 Pringsheim was forced out of the Bavarian Academy of Sciences by the president Alexander Mueller.
 * In March 1939 the German Ministry of Trade authorized export of Pringsheim's Majolica collection to London for auction at Sotheby's, provided that 80% of the proceeds up to 20,000 pounds and 70% of the remainder be paid to the German Gold Discount Bank in foreign currency.
 * Pringsheim was to receive the remaining proceeds.
-* In exchange, Pringsheim and his wife were allowed to emigrate to Switzerland.
-* Before he left Germany to go to Zürich, Pringsheim gave to his friend Carathéodory a present of a very rare text from Jacob Bernoulli to his brother Johann Bernoulli containing the solution to the isoperimetric problem.
 * Alfred and Hedwig Pringsheim moved to Zürich in 1939.
 * Pringsheim worked on real and complex functions.
 * Pringsheim criticised attempts by du Bois-Reymond to establish ideal boundaries between convergence and divergence.

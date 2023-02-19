@@ -23,11 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alfred Clebsch** was a German mathematician worked on algebraic geometry and was a co-founder of _Mathematische Annalen_.
 
 ### Mathematical Profile (Excerpt):
-* Ernst Clebsch's father, the paternal grandfather of the subject of this biography, was Johannn Friedrich Leberecht Clebsch (1759-1847), a surgeon in the state of Colberg where he worked at the military hospital.
-* Clebsch attended the Altstädtisches Gymnasium in Königsberg where he became friends with his fellow pupil Carl Neumann, the son of Franz Neumann who was at this time professor of physics at the University of Königsberg.
 * Clebsch graduated from the Altstädtisches Gymnasium and entered the school of mathematics at the University of Königsberg in 1850.
 * In fact although he never met Jacobi, who died one year after Clebsch entered the University of Königsberg, Jacobi was to influence him both through these two teachers and also directly through the fact that Clebsch was to collaborate in the production of the Collected Works of Jacobi.
-* At Königsberg, Clebsch was taught mathematical physics by Franz Neumann, the father of his friend.
 * After graduating in 1854 Clebsch went to Berlin where he taught at various secondary schools.
 * This was a fairly common route into the academic profession at this time and Clebsch had every intention of seeking a university post.
 * Alfred and Dorothe Clebsch had four sons: Ernst Friedrich Alfred Clebsch (1859-1945); Arthur Friedrich Alfred Clebsch (1860-1931); Eduard Friedrich Alfred Clebsch (1861-1895), who became a medical doctor in Ems; and Alfred Friedrich Clebsch (1864-), who became a trader in Bremen in the firm Clebsch and Schünemann, Tobacco merchants.

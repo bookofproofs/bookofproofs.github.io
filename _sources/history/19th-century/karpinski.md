@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Louis Karpinski** was an American mathematician and historian of science.
 
 ### Mathematical Profile (Excerpt):
-* Henry Karpinski came from a family who lived in Warsaw, Poland, and Mary Louise Engesser came from a family from Guebweiler, Alsace.
 * Mr Karpinski was born in the famous city of Warsaw, Poland, but came to the United States quite a number of years ago.
-* Louis was the younger of his parents' two sons, having an older brother named Henry Joseph Karpinski born a couple of years earlier.
 * Louis attended high school in Oswego where he studied the English and German curriculum.
 * Karpinski became fluent in English, French, and German and, later in life.
 * Karpinski graduated from Oswego High School in 1894 and continued his education at the Oswego State Normal School where he trained to be a school teacher.
@@ -36,9 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His thesis advisor at Strasbourg was Heinrich Weber and Karpinski was awarded his doctorate in 1903 for his number-theory thesis Über die Verteilungen der quadratischen Reste.
 * Returning to the United States, Karpinski was employed at the Oswego State Normal School where he had obtained his teaching qualification a few years earlier.
 * Karpinski had been an undergraduate at Cornell University from 1899 to 1901.
-* Grace Maude Woods, the daughter of a county school superintendent in Lockport, New York, entered Cornell on a scholarship in the same year as Karpinski began his studies.
 * They became close friends and Grace continued to study at Cornell while Karpinski was undertaking doctoral studies in Strasbourg.
-* On 20 April 1906 Louis Karpinski and Grace Woods were married; they had six children, Robert Whitcomb Karpinski, Mary Karpinski, Louise Karpinski, Ruth Karpinski, Joseph Louis Karpinski and Charles Elwin Karpinski.
 * Karpinski's first publications were on the teaching of mathematics.
 * The historian of mathematics David E Smith had been appointed as a professor there in 1901 and during the year that Karpinski spent at the Teachers College, the two collaborated on writing the book The Hindu-Arabic numerals (Ginn and Company, Boston, 1911).
 * The year working with David E Smith converted Karpinski into a historian of mathematics, and he is best known today for his many papers on this topic.

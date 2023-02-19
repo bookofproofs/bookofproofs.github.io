@@ -23,20 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Urbain Le Verrier** is best known for the calculations which led to the discovery of Neptune.
 
 ### Mathematical Profile (Excerpt):
-* Urbain had an elder sister Léontine Anne Joséphine (born 1808, baptised on 29 September 1808 in Saint-Lô) and the family, of limited means, lived in a modest home in the Place du Champ de Mars, Saint-Lô.
 * Urbain attended the College in Saint-Lô for eight years, completing his studies there at the age of sixteen in 1827.
 * He had showed himself to be a very talented pupil and, after the College in Saint-Lô, he studied mathematics at the College Royal de Caen for three years, from 1827 to 1830.
 * Despite being an outstanding pupil at the College in Caen, coming top of his class, he failed the competitive entrance examination to the École Polytechnique in 1830.
-* Le Verrier's father was very keen that his son should have every opportunity to further his education so he sold his home in Saint-Lô to get the necessary funds to send Le Verrier to the Mayer Institute in Paris.
 * There he studied for a year under the mathematician Choquet, the director of the Mayer Institute, and in 1831 he was placed second in the nation-wide Concours général and admitted to the École Polytechnique.
 * He had been taught by the chemist Louis Joseph Gay-Lussac (1778-1850) while he was an undergraduate and Gay-Lussac directed the experiments that Le Verrier was undertaking.
 * His research soon came to the notice of other leading scientists such as the physicist and chemist Pierre Louis Dulong (1785-1838) and the chemist Antoine Jérôme Balard (1802-1876).
 * He published two papers on his chemistry research in the Annales de Chimie et de Physique, namely Sur les combinaisons du phosphore avec l'hydrogène Ⓣ(On the combinations of phosphorus with hydrogen) (1835) and Sur les combinaisons du phosphore avec l'oxygène Ⓣ(On the combinations of phosphorus with oxygen) (1837).
 * Le Verrier was offered a position as a teacher of chemistry in the provinces in 1836 but chose to remain in Paris undertaking research with Gay-Lussac.
-* In 1837, he married Lucile Marie Clothilde Choquet, the daughter of his former teacher at the Mayer Institute.
-* They had three children: Léon (born 1838), Urbain-Louis-Paul (born 1849) and Marie Geneviève Josephine Lucile (born 1853).
-* Le Verrier's wife Lucile was a fine amateur musician, receiving lessons from the composer and pianist César-Auguste Franck (1822-1890).
-* After he married, Le Verrier employed his sister Léontine as a housekeeper.
 * In 1836 two positions as répétiteur had become vacant at the École Polytechnique.
 * One position, as répétiteur to Gay-Lussac, was a chemistry appointment and Le Verrier applied for this position.
 * Regnault was appointed as répétiteur to Gay-Lussac at the École Polytechnique.

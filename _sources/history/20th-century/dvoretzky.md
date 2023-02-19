@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Aryeh Dvoretzky** was a Ukrainian-born Israeli mathematician who worked in functional analysis, statistics and probability.
 
 ### Mathematical Profile (Excerpt):
-* Aryeh was born in Khorol, a town roughly half way between Kiev and Kharkov, and he spent the first six years of his life there before his family emigrated to Palestine in 1922.
 * The principal of the school was Dr Arthur Biram who developed the school greatly during the years that Dvoretzky was a pupil.
 * After graduating from the Hebrew Reali School, Dvoretzky entered the Hebrew University of Jerusalem.
 * This university, which opened in 1925, had only awarded its first degrees a few years before Dvoretzky began his studies there.
 * Dvoretzky was awarded his Master's Degree by the Hebrew University in 1937 and continued to undertake research there for his doctorate advised by Fekete.
-* In 1940 Dvoretzky married Sarah Schneerson (1915-1972), who was also born in the Ukraine.
-* Aryeh and Sarah Dvoretzky had two children, a daughter Gina and a son Gideon who was killed on the Egyptian front in the Yom Kippur War of 1973.
 * After the award of his doctorate in 1941, Dvoretzky was appointed to the teaching staff of the Hebrew University of Jerusalem.
 * Dvoretzky made many research visits abroad, mainly to the United States but also to the Collège de France.
 * Let us now look briefly at Dvoretzky's mathematical contributions.

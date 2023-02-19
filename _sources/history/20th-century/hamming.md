@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * In a paper published in Acta Mathematica in 1936, Trjitzinsky studied linear differential systems with two point boundary conditions of a particular type and Hamming extended this work in his thesis.
 * In particular, Hamming investigated the Green's function and also the characteristic solutions for which he obtained asymptotic expressions.
-* After the award of his doctorate, Hamming married Wanda Little on 5 September 1942.
 * However by the time that Hamming was recruited to the project it was being undertaken at Los Alamos.
 * In addition to Shannon and Tukey, some other young mathematicians had joined the Mathematical Research Department at Bell Labs just before Hamming.
 * These included Donald Percy Ling (1912-1981) and Brockway McMillan (1915-) who had been at Los Alamos at the same time as Hamming.

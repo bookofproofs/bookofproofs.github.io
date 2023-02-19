@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * We shall explain below when and why the name Marescotti was added to his given name.
-* He was descended from a 16th-century noble family, and the nephew of a son of Pietro Andrea Abbati (1693-1762) who was famous both as an engineer and as a poet.
 * Pietro Abbati was brought up in Modena where he attended the university, studying mathematics with teachers Luigi Fantini, Paolo Cassiani and Giovanni Battista Venturi.
 * Abbati was three years younger than Paolo Ruffini but they met when both were students at the University of Modena; they became friends and mathematical collaborators.
 * It certainly proved advantageous to both Abbati and Ruffini that they could discuss mathematics together, particularly given that both were very talented.
@@ -37,8 +36,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * First Abbati was nominated as a consultant to the Ministry of Public Economy and Education of the Republic, and in 1807 he was employed as an advisor to this Ministry.
 * At this time Francis IV, Duke of Modena, appointed Abbati to continue to deal with problems relating to the water and road systems of the Duchy.
 * For his outstanding contributions in this area, as well as for his scientific and artistic contributions, a decree of 10 July 1818 allowed Abbati to add Marescotti to his own name.
-* We note that the name Marescotti was taken since Abbati was related to the Marescotti family which was a well-respected Modena family.
 * Some of Marescotti's works that survive, all of mathematical interest, are: Letter of P Abbati of Modena to the member Paolo Ruffini, in Memoires of mathematics and physics of the Italian society of sciences, X, 2 (1803), p.
+* 467-486, in Mathematical works of Paolo Ruffini, edited by E Bortolotti, Rome 1953); Reflections of P Abbati Marescotti of Modena on the method of J-L Lagrange for the solution of numerical equations, Modena 1805; On the computation of rational functions of the roots of any algebraic equation of the form f(x′,x′′,x′′′,...,x(m))f (x', x'', x''',  ...
 * 8-23; Letter of P Abbati to Sir Abbate Francesco Venini (the letter is dated 1806); On a problem of Daniel Bernoulli and Lagrange, in Memoires, cit., XIX, 2 (1824), p.
 * The 1824 memoir [Sopra un problema dei signori Daniele Bernoulli, e De La Grange, memoria del signor conte Pietro Abbati Marescotti socio onorario inserita nel tomo 19.
 * degli atti della Società italiana delle scienze residente in Modena Ⓣ(On a problem of Daniel Bernoulli, and de Lagrange, memoir of the Count Pietro Abbati Marescotti, Honorary member: inserted in Volume 19.

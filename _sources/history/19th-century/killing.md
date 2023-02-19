@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Wilhelm Killing** was a German mathematician who introduced Lie algebras independently of Lie in his study of non-euclidean geometry. His classification of the simple Lie algebras was one of the finest achievements in the whole of mathematical research.
 
 ### Mathematical Profile (Excerpt):
-* There he married Catharina Kortenbach, the daughter of the pharmacist Wilhelm Kortenbach.
-* Wilhelm Killing, the subject of this biography, was one of their three children, the other two being Hedwig and Karl.
-* When Wilhelm was three years old the family moved to Medebach which is about 70 km north east of Siegen.
 * Wilhelm was brought up as a Roman Catholic and his parents gave him a conservative outlook, with a great love of his country.
 * Josef Killing was mayor of Medebach, then of Winterberg and, in 1862 he became mayor of Rüthen which is about 30 km north of Winterberg.
 * Killing attended elementary school and was also given private tutoring by local clergymen to prepare him to enter the Gymnasium in Brilon.
@@ -57,10 +54,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It is fair to say that without the encouragement and interest shown by Engel, Killing might not have pushed forward with his work on Lie algebras.
 * They discussed the simple Lie algebras which they knew about and Killing conjectured (wrongly) on 12 April 1886 that the only simple algebras were those related to the special linear group and orthogonal groups.
 * Killing visited Engel and Lie in Leipzig in the summer of 1886 on his way to Heidelberg.
-* At this time Killing was rector of the Lyceum Hosianum in Braunsberg and in this capacity he was visiting its sister institution in Heidelberg.
 * It was not a particularly fruitful visit for, although the three men should have had a wealth of mathematical ideas to discuss, there seems to have been a personality clash between Killing and Lie.
 * While in Leipzig, Killing also met Schur and Study.
-* Moving on to spend August in Heidelberg, Killing did little further mathematics that year since he became concerned for the health of one of his daughters after his return to Braunsberg.
 * When Killing wrote to Engel on 27 April 1887 he had come up with the definition of a semisimple Lie algebra (his definition that such an algebra had no abelian ideals is equivalent to the definition that such an algebra has no soluble ideals).
 * By the time he wrote to Engel on 23 May Killing had discovered that his conjecture about simple algebras was wrong, for he had discovered GGG, and by 18 October he had discovered the complete list of simple algebras.
 * Publication of the results came in the third and fourth parts of Killing's paper Die Zusammensetzung der stetigen/endlichen Transformationsgruppen Ⓣ(The composition of the continuous / finite transformation groups) referred to above.

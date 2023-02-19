@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Philippe Flajolet** was a French mathematician and computer scientist who worked on the analysis of algorithms.
 
 ### Mathematical Profile (Excerpt):
-* Philippe, the subject of this biography, was brought up in Lyon where he entered the Lycée Ampère in 1958.
 * While at the École Polytechnique, Flajolet had become interested in the theory of computing and the theory of languages by reading the works of Louis Comtet, Leonard Euler, Donald Knuth and Srinivasa Ramanujan.
 * For example (with Jean-Marc Steyaert) On the analysis of tree-matching algorithms (1980), (with Guy Fayolle, Philippe Flajolet, Micha Hofri, and Philippe Jacquet) Analysis of a stack algorithm for random multiple-access communication (1983), Methods in the analysis of algorithms (1983), Mathematical methods in the analysis of algorithms and data structures (1988), and the book, written with Robert Sedgewick, An Introduction to the Analysis of Algorithms (1996).
 * Flajolet became head of the ALGO group in 1981.

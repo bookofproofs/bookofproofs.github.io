@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Edward Waring** was an English mathematician who gave many results about decomposing numbers into sums of powers and sums of primes.
 
 ### Mathematical Profile (Excerpt):
-* John Waring married Elizabeth and their son Edward was educated at Shrewsbury school.
 * Waring entered Magdalene College, Cambridge on 24 March 1753.
 * On 24 April 1754 Waring was elected a fellow of Magdalene College.
 * Waring's most famous work was Meditationes Algebraicae which he worked on during the next few years.
@@ -41,6 +40,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One would not expect the Lucasian professor of mathematics to take a medical degree but that is exactly what Waring did, graduating with his M.D. in 1767.
 * One might ask how Waring could practise medicine and hold the Lucasian Chair at the same time.
 * They lived for a while in Shrewsbury but the town was not to Mary's liking and the couple moved to Waring's estate at Plealey in Pontesbury.
+* Waring's Miscellane analytica...
 * In Meditationes Algebraicae Waring proves that all rational symmetric functions of the roots of an equation can be expressed as rational functions of the coefficients.
 * This work makes Waring one of the earliest contributers to Galois theory.
 * The rest of the book deals with number theory, a topic in which Waring made some interesting advances.

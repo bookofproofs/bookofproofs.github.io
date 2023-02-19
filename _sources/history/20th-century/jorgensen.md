@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Palle Jorgensen** is a Danish mathematician who worked mainly in America. He has published a large number of papers in both pure and applied mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Palle's father, Soren Jorgensen, was an electrical engineer, while his mother Gyrit was a mathematics teacher.
 * Jorgensen entered Aarhus University and was awarded a B.A. in 1968, an M.S. in 1970 and a Ph.D. in Mathematics in 1973 for his thesis Infinite-dimensional representations of Lie algebras and Lie groups.
 * There were many important influences on Jorgensen during these years.
 * One was Kiyosi Ito who, although a professor at Kyoto University from 1952 until he retired in 1979, but held a position as professor at Aarhus University in the years 1966-69 while Jorgensen was a graduate student.
@@ -31,8 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After the award of his doctorate, Jorgensen was awarded a Danish Natural Science Research Council multi-year post-doctoral fellowship which allowed him to conduct research at universities abroad; foreign travel and international contacts were strongly encouraged.
 * In Jorgensen's case it was sponsored by Odense University and Aarhus University, Denmark.
 * Jorgensen's next paper was Approximately reducing subspaces for unbounded linear operators (1976) and, by this time, he had moved to University of Pennsylvania in Philadelphia.
-* Jorgensen married Soon-Min Park on 4 January 1975.
-* They had three children, Anton Yang Jorgensen (born 24 October 1975), Greta Soon Jorgensen (born 6 September 1978) and Tina Soon Jorgensen.
 * In the summer of 1976 Jorgensen was an invited member of the NSF Summer Research Institute in Operator Theory at the University of New Hampshire.
 * Jorgensen was an assistant professor at Stanford University in that period, and his research was then especially inspired by the Stanford faculty, and graduate students, e.g., Peter Sarnak, at the time.
 * In 1979 Jorgensen petitioned for naturalisation in the district court at San Francisco.

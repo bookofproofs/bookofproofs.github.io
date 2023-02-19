@@ -23,14 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Nassim Taleb** is a Lebanon-born American mathematician and statistician whose work concerns problems of randomness, probability and uncertainty.
 
 ### Mathematical Profile (Excerpt):
-* Nagib Taleb's father, Nassim Taleb, was a supreme court judge.
 * Nagib Taleb had attended a Jesuit school which achieved exceptional results and it certainly did for Nagib since he achieved the highest grade in the Lebanese baccalaureate.
 * Taleb attended the Grand Lycée Franco-Libanais in Beirut.
-* The Civil War had a disastrous effect on Taleb's family which lost much of its wealth and lost its political influence.
 * After he graduated from the Grand Lycée Franco-Libanais in Beirut, Taleb went to Paris for his university studies.
 * Great developments took place in the early 1970, before Taleb enrolled, including the opening of Vance Hall to house the Graduate Division, the creation of the Wharton Entrepreneurial Center and the MBA Program for Executives.
 * Taleb graduated from the Wharton School with an MBA in 1983.
-* Nassim and Cynthia Taleb had two children, Sarah Taleb and Alexander Taleb.
 * In the middle of the 1990s Taleb changed the direction that his career had been taking.
 * In 2001 Taleb published Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets.
 * Some, throwing up their hands after reading Taleb's musings, may say that nothing he offers is helpful because everything is subject to chance and cannot be proven.

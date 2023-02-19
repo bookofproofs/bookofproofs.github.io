@@ -36,22 +36,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Some authors believe that the tensor product, often called the Kronecker product, should be called the 'Zehfuss product'.
 * See below for quotes about the 'Zehfuss product'.
 * Zehfuss worked as a docent at the University of Heidelberg for four years between 1857 and 1861.
-* On 11 July 1861 Zehfuss married Louise Stein (1838-1911).
 * Zehfuss applied for the vacant position in Zürich but it was offered to Rudolf Lipschitz.
 * Zehfuss, unable to find a permanent position in Germany, accepted the post of high school professor of mathematics and physics in Reval (now Tallinn in Estonia) in September 1860.
-* He taught at the Cathedral School in Reval and while there his son Gustav Heinrich Julius Wilhelm Zehfuss was born on 20 August 1862.
 * However, Zehfuss was not very happy at the Cathedral School in Reval since he did not feel that this offered him the environment to reach his full potential as a researcher.
 * In February 1862 Zehfuss applied for a position as a professor in mathematics or physics at the Polytechnic of Riga in Latvia.
 * Zehfuss was appointed and took up the position as professor of higher mathematics at the Polytechnic of Riga on 9 January 1863.
 * Zehfuss decided to return to Germany when offered a position at the Gewerbeschule in Frankfurt am Main.
-* His second child, a daughter Cornelia Charlotte Marie Auguste Mathilde Victoria Zehfuss, was born in Darmstadt on 16 September 1864.
 * Zehfuss continued in his position at the Gewerbeschule in Frankfurt am Main for the rest of his career.
 * Zehfuss died in Frankfurt am Main on 5 May 1901.
-* Also buried there are his wife Luisa, his daughter Cornelia (1864-1949), and his daughter's husband Georg Anton Karch (1856-1937).
 * Today the name of Zehfuss is not known by many but those who are aware of his contributions almost certainly know him through his contribution to the tensor product of matrices.
 * Without offering a definite opinion as to whether the 'Kronecker product' should be called the 'Zehfuss product' let us simply quote from a number of sources.
 * It has since been called by various names, including the Zehfuss product, the Producttransformation, the conjunction, the tensor product, the direct product and the Kronecker product.
-* Following Muir's lead, a few later authors have called A ⊗ B the 'Zehfuss matrix' of A and B, for example "D E Rutherford, On the Condition that two Zehfuss matrices be equal, Bull.
 * Zehfuss wrote in terms of determinants rather than matrices, following the then customary practice of employing the term 'determinant' both for what we now call a square matrix as well as for its determinant.
 * The book commences with an historical introduction in which Zehfuss refers to sewage systems mentioned in the Bible, those constructed by the Hindus, the ancient Egyptians, the Babylonians, and the Romans in 600 B.C. A patent was sought in the United States for the sewage system Zehfuss describes in the book and he received a letter of patent from the United States Patent Office in 1870 (letter of patent No. 100,347).
 

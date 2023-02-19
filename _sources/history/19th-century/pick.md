@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Georg Pick** was an Austrian mathematician best known for his formula on the area of a polygon in a lattice of points.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Josefa Schleisinger and his father was Adolf Josef Pick, the head of a private institute.
-* Georg was educated at home by his father up to the age of eleven when he entered the fourth class of the Leopoldstaedter Communal Gymnasium.
 * Pick entered the University of Vienna in 1875.
 * He became Pick's supervisor and, on 16 April 1880, Pick was awarded his doctorate for his dissertation Über eine Klasse abelscher Integrale Ⓣ(On a class of abelian integrals).
 * After the award of his doctorate, Pick was appointed as an assistant to Ernest Mach at the Karl-Ferdinand University in Prague.

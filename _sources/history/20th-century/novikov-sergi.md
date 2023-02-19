@@ -23,13 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Sergei Novikov** is a  Russian mathematician who worked in algebraic topology and soliton theory. He won a Fields medal in 1970 and a Wolf prize in 2005.
 
 ### Mathematical Profile (Excerpt):
-* Sergei's mother, Ludmila Vsevolodovna Keldysh, was also an outstanding mathematician who became a professor of mathematics and made important contributions to set theory and geometric topology.
 * Both of Sergei's parents came from families with remarkable mathematical talents and several other members were noteworthy.
-* We should mention especially Sergei's uncle Mstislav Keldysh who made major contributions to complex function theory, differential equations and applications to aerodynamics.
-* Coming from such mathematically talented families, it will come as no surprise to learn that Sergei was not the only one of Petr and Ludmila's five children to follow a career in the mathematical sciences.
-* Their second child, Andrei, became an algebraic number theorist while their third child was Sergei, the subject of this biography.
-* Sergei had two younger sisters who both chose careers outside mathematics.
-* Sergei grew up in a mathematical environment, not only the result of the mathematical interests of family members around him but also since a special society was formed where the children of various mathematicians received additional instruction.
 * Despite his high involvement with mathematics, or more likely because of it, Sergei was uncertain for many years whether he wanted to follow a career in the subject.
 * When he reached the age of seventeen Sergei finally decided that he wanted to follow a career in mathematics.
 * V A Uspenskii, a pupil of Kolmogorov, organised a seminar during Novikov's first year as a student in which problems in set theory, mathematical logic, and functions of a real variable were studied.

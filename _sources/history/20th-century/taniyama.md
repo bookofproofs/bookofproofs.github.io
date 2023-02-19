@@ -25,8 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * It was intended to be Toyo Taniyama but most people read it as Yutaka, a more common form, and Taniyama eventually came to use Yutaka himself.
 * His parents were Sahei, a medical doctor, and Kaku Taniyama.
-* Yutaka was born into a large family having two older brothers and three older sisters as well as a younger brother and a younger sister.
-* Yutaka was a sickly child and suffered from tuberculosis which caused him to miss two years of high school.
 * His meeting with André Weil at this symposium was to have a major influence on Taniyama's work.
 * Other than these two papers the only other paper Taniyama published was Distribution of positive 0-cycles in absolute classes of an algebraic variety with finite constant field (1958).
 * Although they planned an English version, they lost enthusiasm and never found the time to write it before Taniyama's death.

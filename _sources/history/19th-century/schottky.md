@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Friedrich Schottky** was a German mathematician who worked on elliptic, abelian, and theta functions.
 
 ### Mathematical Profile (Excerpt):
-* Friedrich's mother was Louise Winkler (1818-1908) who was a flower-maker from Breslau.
 * Friedrich attended the Humanistisches Gymnasium St Magdalenen in Breslau beginning his studies there in 1860.
 * After graduating from the Gymnasium, Schottky entered the University of Breslau in 1870, graduating in 1874.
 * Certainly the quality of Schottky's thesis was outstanding.
@@ -43,9 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Among Schottky's doctoral students we should mention Heinrich Jung who was his student at Marburg.
 * Schottky and Jung jointly authored the important 1909 paper Neue Sätze über Symmetralfunktionen und die Abel'schen Funktionen der Riemann'schen Theorie which made a significant contribution to the Schottky problem.
 * Perhaps it is worth noting that these two papers with Jung were the only two joint papers which Schottky published.
-* Finally we should mention Schottky's family.
-* Henriette and Friedrich Schottky had one daughter and four sons, including the physicist Walter Schottky who was born on 23 July 1886 in Zürich, Switzerland.
-* Walter Schottky was a doctoral student of Max Planck in Berlin in 1912 at the time when his father was professor there.
 * Walter Schottky died on 4 March 1976.
 * Another of Schottky's sons, Hermann Schottky (1885-1974) was a metallurgist, and Ernst Schottky (1888-1915) was a botanist who died in World War I.
 * Schottky was elected a corresponding member of the Prussian Academy of Sciences (now the Berlin Academy) in 1900 and was made a full member two years later.

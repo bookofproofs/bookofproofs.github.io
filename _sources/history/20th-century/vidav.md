@@ -23,12 +23,6 @@ contributors: @Milan-Hladnik,bookofproofs
 **Ivan Vidav** was a Slovenian mathematician who worked in differential equations, functional analysis and algebra.
 
 ### Mathematical Profile (Excerpt):
-* Ivan was the youngest of four sons of a small-time farmer, also called Ivan Vidav, and his wife Josipina Sosic.
-* Josipina had first married Ivan's uncle before her marriage to Ivan.
-* Ivan junior, the subject of this biography, also had a step-sister who was fourteen years his elder.
-* In 1920 the Vidav family moved to the vicinity of Maribor in Yugoslavia.
-* Because of poor management of their small farm in the difficult conditions created by the worldwide economic crisis at the end of the 1920s, the family found itself in a very bad material situation just when Ivan went to secondary school.
-* His family suffered heavy losses during World War II; only his mother, despite being confined in a Nazi concentration camp, Ivan, and his step-sister survived.
 * In 1937 Vidav began to study mathematics at the University of Ljubljana.
 * They often discussed mathematics of all kinds and on one occasion, after his lecture in 1940, Plemelj mentioned to Vidav an open problem concerning homogeneous linear differential equations.
 * Then, during the summer holidays of 1940, the 22 year old Vidav solved the problem and passed the solution to professor Plemelj at their first meeting at the beginning of the autumn semester.

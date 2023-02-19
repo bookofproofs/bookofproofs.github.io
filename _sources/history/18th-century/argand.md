@@ -26,8 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * They refer to a real person, but it is unlikely that this person is the author of the 'Argand diagram'.
 * The following information about Jean Robert Argand has, probably incorrectly, become a standard part of the biography of the man who invented the 'Argand diagram'.
 * Jean-Robert Argand was an accountant and bookkeeper in Paris who was only an amateur mathematician.
-* We do know that his father was Jacques Argand and his mother Eves Canac.
-* His son was born in Paris and continued to live there, while his daughter, Jeanne-Françoise-Dorothée- Marie-Elizabeth Argand, married Félix Bousquet and they lived in Stuttgart.
 * Before Hoüel published Volume 4 in 1874 he decided to try to find biographical information about Argand.
 * He knew that Ami Argand (1750-1803), who had invented instruments and lived in Paris for a while, had been born in Geneva.
 * This must have made Hoüel guess that the inventor of the Argand diagram might have been born in Geneva so he asked his colleagues in Geneva if they could find biographical details of Argand.
@@ -38,13 +36,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Another thing which suggests that Argand is not Jean Robert Argand is that Jean Robert Argand is an accountant and bookkeeper while, from his writings, Argand shows he is probably an expert technician in the clock industry.
 * Argand is famed for his geometrical interpretation of the complex numbers where iii is interpreted as a rotation through 90°.
 * The concept of the modulus of a complex number is also due to Argand but Cauchy, who used the term later, is usually credited as the originator this concept.
-* The Argand diagram is taught to most school children who are studying mathematics and Argand's name will live on in the history of mathematics through this important concept.
 * However, Argand was not a professional mathematician either, so when he produced his geometrical interpretation of complex numbers in 1806 it was in a memoir which he may have published privately at his own expense but in fact there is no proof that it was published.
 * All that is certain is Argand's own statement that he privately distributed a very small number of copies some time between 1806 and 1813.
 * Perhaps even more surprisingly, Argand's name did not even appear on the memoir so it was impossible to identify the author.
 * The way that Argand's work became known is rather complicated.
 * Legendre received a copy of the work, Essai sur une manière de représenter les quantités imaginaires dans les constructions géométriques Ⓣ(Essay on a way of representing imaginary quantities in geometric constructions) from Argand and he sent it to François Français on 2 November 1806 although neither knew the identity of the author.
-* After François Français's death in 1810 his brother Jacques Français worked on his papers and he discovered Argand's little memoir among them.
 * In September 1813 Jacques Français published the paper Nouveaux principes de Géométrie de position, et interprétation des symboles imaginaires Ⓣ(New principles of position geometry, and Interpretation of imaginary symbols) in which he gave a geometric representation of complex numbers, with interesting applications, based on Argand's ideas.
 * The article by Jacques Français appeared in Gergonne's journal Annales de mathématiques and Argand responded to Jacques Français's request by acknowledging that he was the author and submitting a slightly modified version of his original work Essai sur une manière de représenter les quantités imaginaires dans les constructions géométriques Ⓣ(Essay on a way of representing imaginary quantities in geometric constructions,),  with some new applications, to the Annales de mathématiques.
 * A vigorous discussion between Jacques Français, Argand and Servois took place in the pages of Gergonne's Journal.
@@ -56,7 +52,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Upon leaving, Argand urged Legendre to read his manuscript.
 * When Argand had left, Legendre realised that the paper indicated neither the address nor the name of the author.
 * On the other hand, Argand - apparently a shy man - abstained from publishing his paper, due to Legendre's uninterested and sceptical reaction.
-* Only the quite indirect reception of his ideas via the brothers Français induced Argand to organise a later printing where he arranged for the date of its composition to be put on the title page.
 * Argand must have been in Paris in 1806 when he met Legendre and he was certainly in Paris in 1813 for he gives a Paris address on his paper published in that year.
 * We must add one last note to this, necessarily rather unsatisfactory, biography of Argand.
 * His letters and published work all appear under the name Argand with no other names.

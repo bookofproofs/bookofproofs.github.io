@@ -23,12 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Archibald Goldie** studied at the universities of St Andrews and Cambridge. He served in the Meteorological Service of the British Army in World War I and continued to work in various branches of the Meteorological Office.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Isabella Goldie (born Old Monkland, Lanarkshire about 1859).
 * Archibald attended Harris Academy, Dundee, Angus, and then the University of St Andrews before going to Cambridge to study the Mathematical Tripos.
 * Goldie graduated as a wrangler (first class student) in August 1913.
 * After graduating Goldie was appointed to the Meteorological Office and initially sent for further training in the Forecast Division.
 * Goldie was a member of the Edinburgh Mathematical Society, joining the Society in December 1926 while he was working in Edinburgh.
-* In 1928 Goldie married Marion Nairne Wilson.
 
 Born 7 July 1888, Armadale, West Lothian, Scotland. Died 24 January 1964, London, England.
 

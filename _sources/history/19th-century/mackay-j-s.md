@@ -34,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His obituary, written by George A Gibson, was published in the Proceedings of the Edinburgh Mathematical Society.
 * He was also a member of the Franco-Scottish Society.
 * He was honoured by the University of St Andrews when he was awarded an honorary LL.D. in 1884.
-* Mackay was unmarried.
 * He lived at 69 Northumberland Street, Edinburgh, where he died at the age of 70.
 
 Born 22 October 1843, Auchencairn near Kirkcudbright, Kirkcudbrightshire, Scotland. Died 26 March 1914, Edinburgh, Scotland.

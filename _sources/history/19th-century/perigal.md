@@ -23,15 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Henry Perigal** was a clerk, stockbroker, amateur mathematician and astronomer. He is known for his mechanical production of geometric curves, for his dissection proof of Pythagoras' theorem and for his unorthodox ideas on astronomy.
 
 ### Mathematical Profile (Excerpt):
-* Henry Perigal Sr, born at Norton Folgate, Spitalfields, London on 19 July 1768, married Louisa Brady, born 17 November 1770 at Alverstroke, Southampton County, at Arundel Church, Sussex, England on 2 November 1799.
-* Henry Perigal Jr, the subject of this biography, was the first of his parents' six children having the siblings Louisa Perigal (1802-1805), Caroline Perigal (1804-1888), George Perigal (1806-1855), who became a well-known chess player and Honorary Secretary to the London Chess Club, Louisa Ann Perigal (1808-1876), and Frederick Perigal (1812-1905), who spent forty years in the Admiralty.
 * Henry Perigal Sn became Assistant Secretary to the Victualling Board working in the Admiralty Office.
 * Sigurd the Dane, who in 908 made a successful raid on Normandy, assumed the name of Perigal, and settled in France.
-* The English branch of the family sprang from Gideon Perigal and his wife, Madeline Duval of Dieppe, Huguenots who escaped to London.
 * Henry Perigal belongs to the tenth generation of their descendants.
-* Henry Perigal was 67 years old when his father, also named Henry Perigal, died so for most of his adult life he was known as 'Henry Perigal Junior', while his father was 'Henry Perigal Senior'.
 * Henry Perigal Sr was friendly with John Holt Ibbetson, who was an inventor who published works such as Specimens of Eccentric Circular Turning, with Practical Illustrations for producing Corresponding Pieces in that Art (1817) and A Brief Account of Ibbetson's Geometric Chuck, manufactured by Holtzapffel & Co., with a selection of 32 Specimens, illustrative of some of its powers (1833).
-* This was friendship which became important for Perigal, the subject of this biography, as we shall see below.
 * Perigal, who was known by the nickname "Cyclops" (in fact Cyclops, in brackets, is carved on his tomb), seems to have had a variety of jobs over the first forty years of his life but the main one was as a clerk in the Privy Council Office.
 * From the 1840s he worked as a bookkeeper for his friend Henry Tudor who was a stockbroker operating from an office at 29 Threadneedle Street, London.
 * Perigal continued working for Henry Tudor & Son, Stockbrokers, and only retired from the firm when he was 87 years old.

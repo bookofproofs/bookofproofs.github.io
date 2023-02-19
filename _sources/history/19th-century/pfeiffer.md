@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Georgii Pfeiffer** did important work on partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-* Pfeiffer entered the Pryluka Gymnasium, a school which had been founded in 1874 and was directed by Feodosii Voronoy, the father of the mathematician Georgy Fedoseevich Voronoy.
 * In fact, when Pfeiffer entered the Gymnasium Georgy Voronoy was still a pupil there showing his brilliance by publishing a paper while still at the Gymnasium.
 * After graduating from the Pryluka Gymnasium, Pfeiffer entered the Faculty of Physics and Mathematics of Kiev University.
 * Among Pfeiffer's lecturers at Kiev University we mention Mikhail Egorovich Vashchenko-Zakharchenko, Boris Yakovlevic Bukreev and, in particular, Vasilii Petrovich Ermakov (1845-1922).

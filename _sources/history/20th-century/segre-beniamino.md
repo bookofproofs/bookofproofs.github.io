@@ -29,9 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Few mathematicians have published a substantial paper in a totally different area of mathematics from their thesis in the year they graduated but this is exactly what Segre achieved publishing Sul moto sferico vorticoso di un fluide incompressibile Ⓣ(On vortex spherical motion of an incompressible fluid) (1923).
 * After studying in Paris with Élie Cartan for the year 1926-27, supported by a Rockefeller scholarship, Segre became Francesco Severi's assistant in Rome.
 * Article 4 of the Royal Decree Law of 5 September 1938 was titled 'Measures for the defence of race in fascist schools' and, after Segre had been identified as Jewish by the University of Bologna, he was expelled from the University on 16 October 1938.
-* Segre, with his wife and three young children, fled to England as refugees.
-* This was probably the unhappiest period in the family's life, and later they were rarely willing to speak of it at all; during it, while Mrs Segre was living in London with Leonard Roth and his Italian wife, who were old friends, their youngest child died; and when the Andorra Star, carrying prisoners of war and internees to Canada, was sunk in the Atlantic, she had no idea for some time whether her husband was on it or not.
-* Segre rejoined his family in London and later they returned to Cambridge, but it is perhaps hardly surprising that his list of publications shows a marked gap during the early war years.
 * Of course, despite the extremely difficult circumstances, Segre continued to devote himself to mathematics, writing the monograph The Non-singular Cubic Surfaces during these years.
 * Segre was appointed to a teaching post in Manchester with Louis Mordell in 1942.
 * Segre's output of research papers on geometry and related topics reached nearly 300 not counting a long list of other publications.

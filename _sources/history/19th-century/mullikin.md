@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Anna Margaret Mullikin**  was an American mathematician who was one of the early investigators of point set theory.
 
 ### Mathematical Profile (Excerpt):
-* Anna's brother, Richard Nicholas, was awarded an A.B. and a Ph.D. in chemistry from Johns Hopkins University after which he worked as a chemist for the Dupont Corporation.
 * Anna Mullikin taught mathematics first at Science Hill School in Shelbyville, Kentucky, taking up the appointment in 1915 following her graduation.
 * On 25 October 1919 Robert Moore read a paper by Mullikin to a meeting of the American Mathematical Society held at Columbia University.
 * He arranged a position for Mullikin as an Instructor at the University of Texas for the session 1920-21.

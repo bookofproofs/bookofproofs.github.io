@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Florian Cajori** was a Swiss mathematician best known for his influential  _History of Mathematics_.
 
 ### Mathematical Profile (Excerpt):
-* Florian's mother was Catherine Camenisch.
 * Florian attended schools in Switzerland, first in Zillis, which lies about seven kilometres south of Thusis, and then in Chur, the capital of Graubünden canton in eastern Switzerland.
 * Cajori emigrated to the United States in 1875 when he was sixteen years old.
 * Cajori did not enter university immediately after graduating, but he taught in a country school before beginning his studies of mathematics at the University of Wisconsin.

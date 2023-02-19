@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * There are a number of incorrect explanations of Bessel-Hagen's name in the literature, so we should explain where the slightly strange name originated.
-* Erich Bessel-Hagen's grandfather had the name of Hagen, but being the son-in-law of Wilhelm Bessel, he decided after Bessel's death to change his name from Hagen to Bessel-Hagen to preserve the name of 'Bessel.' Had he not done so, the family name of Bessel would have died out with Wilhelm Bessel.
 * Although we have given Berlin as Erich Bessel-Hagen's birthplace, this is not quite accurate since he was actually born outside but close to that city.
 * Bessel-Hagen attended the University of Berlin where he obtained a doctorate working under Constantin Carathéodory, with some help from Erhard Schmidt.
 * While at Berlin, however, Bessel-Hagen had also heard lectures from the famous classicist, Ulrich von Wilamowitz-Möllendorf, and was inspired by him to a life-long devotion to classical antiquity as well.
@@ -54,7 +53,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In fact Bessel-Hagen was an excellent mathematician who, because of his shyness, did not publish much.
 * Most of the other mathematicians at Bonn were conscripted so only Bessel-Hagen and Hans Beck remained to teach.
 * After Beck died in 1942, Bessel-Hagen essentially became a one-man department.
-* Teaching materials were hard to come by, for example Bessel-Hagen even had to write to the Rektor of the university requesting writing paper in July 1941.
 
 Born 12 September 1898, Berlin, Germany. Died 29 March 1946, Bonn, Germany.
 

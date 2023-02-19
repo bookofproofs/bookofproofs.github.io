@@ -35,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Based on Professor Pawlak's ideas, an Electronic Digital Machine and, later (after Pawlak's transfer to the Mathematical Institute of Polish Academy of Sciences), a prototype (1960) and five machines of the test series of Universal Digital Machine (UMC-1) were built.
 * After his transfer from the Department to the Institute of Mathematics, Pawlak's involvement with the personnel of the Department continued.
 * After 1959 Pawlak was appointed to the Institute of Mathematics of the Polish Academy of Sciences and, in 1963, he was awarded his habilitation from the Polish Academy of Sciences for his monograph Organization of Address-less Machines (Polish).
-* At the Institute of Mathematics of the Polish Academy of Sciences, along with Andrzej Ehrenfeucht (1932-) who was married to Alfred Tarski's daughter, Pawlak ran a seminar.
 * Let us record the details of the rest of Pawlak's career.
 * In addition to these, however, Pawlak held other positions.
 * Pawlak wrote over 200 papers on a wide variety of topics including mathematical linguistics, automata theory, automated theorem proving, knowledge representation, artificial intelligence, representation of incomplete information and handling uncertainty.

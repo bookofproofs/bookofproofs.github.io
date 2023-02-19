@@ -24,10 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Joseph Everett, born near Ipswich, Suffolk, had become a mathematics teacher at Mr Thorowgood's school at Totteridge, near Barnet before winning a scholarship to study mathematics and physics at Glasgow University.
-* In fact Joseph and Jessie Everett were married by the Revd Alexander Fraser.
-* They had six children, including: Alice Everett (1865-1949), the subject of the biography; Wilfred Hermann Everett (1869-1945); Edith Maud Everett (1871-1960); Genevieve Lilian Everett (1877-1942); and Alexander Fraser Everett (1879-1917).
-* In 1867 Joseph Everett was appointed as professor of natural philosophy at Queen's College, Belfast and the family moved to that city.
-* Except for Alice, who was born in Glasgow, all Joseph and Jessie's other children were born in Belfast.
 * Alice attended Miss Hardy's preparatory school in Belfast, then went to The Ladies' Collegiate School in Belfast.
 * Everett was faced with some difficult decisions.
 * But what did Everett want to study?
@@ -48,9 +44,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At Potsdam Everett continued to work on the Carte du Ciel project publishing Galactic Longitude and Latitude of Poles of Binary-Star Orbits (1896).
 * This small institution had only one member of staff besides Miss Whitney, and Alice Everett no doubt was pleased to have the opportunity of working there, even temporarily.
 * Everett, now without a job, returned to England.
-* Alexander is listed as a student, but no occupation is given for Alice, Edith, or Genevieve who are all unmarried.
-* Although Everett gave no occupation at the time of the 1901 census, in fact she was working with her father translating a German scientific text by H Hoverstadt into English.
-* Her father died in 1904 and Everett's interests turned to optics.
 * Everett was employed for a year in the optical laboratory of Hilger, a company founded by two German precision optical instrument technicians Adam and Otto Hilger in 1874.
 * On 9 October 1917 Everett joined the National Physical Laboratory as a Junior Assistant in the Physics Division.
 * Remarkably, Everett started on yet another career.

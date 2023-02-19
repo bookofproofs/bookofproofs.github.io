@@ -28,9 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Goldbach met him and also de Moivre in London, and he met Nicolaus (I) Bernoulli again in Oxford.
 * Goldbach was fascinated by mathematics but he did not have much knowledge of the subject.
 * When Bernoulli started to discuss infinite series with Goldbach as they talked in Oxford, Goldbach confessed that he knew nothing about the topic.
-* Bernoulli gave him a loan of a book on the topic by his uncle Jacob Bernoulli but Goldbach found infinite series too difficult at that time, and gave up his attempts to understand Jacob Bernoulli's text.
 * Goldbach continued his lengthy tour and was in Venice in 1721.
-* It was at Nicolaus (II) Bernoulli's suggestion that Goldbach began a correspondence with his younger brother Daniel Bernoulli in 1723.
 * By 1724 Goldbach was back in his home town of Königsberg and there he met two people who would change his life, namely Georg Bernhard Bilfinger and Jakob Hermann.
 * The charge arose through his association with the philosopher Christian Wolff, who had then helped arrange that Bilfinger should be involved in setting up the Imperial Academy of Sciences (later called the St Petersburg Academy of Sciences) which was to be organised (at Leibniz's suggestion) along the lines of the Berlin Academy of Sciences.
 * He was on his way to St Petersburg when he met Goldbach, and Jakob Hermann was also on his way to take part of this new exciting venture.
@@ -40,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We mentioned that Goldbach gave up his attempts to understand infinite series in 1712.
 * Goldbach published Specimen methodi ad summas serierum Ⓣ(Examples of methods of summing series)  in Acta eruditorum  in 1720.
 * Goldbach was recording secretary for the opening ceremony of the Academy which was held on 27 December 1725, and continued to act in this role until January 1728.
-* To understand how Goldbach's life progressed in Russia we need to look briefly at the political events which were taking place there.
 * Goldbach was appointed to the position and he moved to Moscow when Peter moved the court there in January 1728.
 * Euler had arrived in St Petersburg on 17 May 1727 and after Goldbach moved to Moscow he began a correspondence with Euler in 1729.
 * Goldbach was no longer required as a tutor, but he continued to serve Anna.

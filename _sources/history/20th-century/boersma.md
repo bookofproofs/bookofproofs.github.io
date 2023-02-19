@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Johannes Boersma** was a Dutch mathematician who specialised in mathematical analysis.
 
 ### Mathematical Profile (Excerpt):
-* His family, friends and colleagues all called him Joop throughout his life, yet if a colleague from abroad arrived to work with him and asked "What name would you like to be known by?" he would have answered "Call me John." We shall simply refer to him as Boersma.
-* His father was the headmaster of a local junior high school, and Boersma attended his father's school for a while but soon found that he had progressed beyond what was taught in the school.
 * This school had a curriculum designed to take a pupil to university entrance level by the age of 18, but Boersma was no typical pupil and he had completed the whole syllabus by the age of 15.
 * One of the biggest influences on Boersma was a mathematician who was not at the University of Groningen, but rather worked at the Philips Research Laboratories in Eindhoven.
 * In 1956 Boersma spent a few months working at the Philips Research Laboratories to gain industrial experience.
@@ -36,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1956 Boersma wrote an essay On a function, which is a special case of Meijer's G-function which won a prize from the University of Groningen and began an interest in the G-function which was to last throughout his life.
 * After the award of his doctorate Boersma went in 1965 to the Courant Institute of Mathematical Sciences in New York.
 * He recommended Boersma for a professorship there and in 1967 he was appointed a full professor.
-* Boersma was married to Lolkje, and they had a daughter Ykelien who studied medicine.
 * Finally, we should mention that Boersma was interested in music and played the organ.
 
 Born 5 December 1937, Marrum, The Netherlands. Died 29 November 2004, Eindhoven, The Netherlands.

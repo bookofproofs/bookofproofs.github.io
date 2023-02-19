@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hans Ludwig Hamburger** was a German mathematician. He spent the Second World War in England and afterwards was a professor at universities in Berlin, Cologne and Ankara.
 
 ### Mathematical Profile (Excerpt):
-* Hans had a younger brother, Georg Hamburger, born in Berlin on 10 April 1891.
 * Both Karl and Margarethe Hamburger were Jewish but the two boys were both baptised into the Christian Protestant religion in 1896.
-* The Hamburger family were of high status and their home was a meeting place for many leading academics, scientists and writers.
 * This cultivated conviviality in which he was brought up did much to develop Hans' character and determine the style with which he led his life.
 * At these universities Hamburger attended lectures by world-class mathematicians.
 * It was at Munich that Hamburger undertook research for his doctorate, advised by Alfred Pringsheim.
@@ -35,21 +33,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hamburger was delighted to be back in Berlin for he was then able to continue undertaking research at the Friedrich-Wilhelm University of Berlin.
 * Hamburger taught at the University of Berlin as a docent from 1919, being promoted to Extraordinary Professor on 1 July 1922.
 * At this time there was only one chair of mathematics at Cologne but a second chair was created by the Prussian Ministry of Science, Art and Education and it was to this second chair that Hamburger was appointed.
-* On 15 October 1925 Hamburger married Martha Jessen, known as Malla.
 * Hamburger came under this exemption clause and so remained in his position in 1933.
 * Hamburger continued in post at Cologne until 14 November 1935 when he was granted leave.
-* On 12 June 1937, Hamburger and his wife were divorced.
 * Not surprisingly, Hamburger published nothing during the six years he spent in Germany after the Nazis came to power.
 * The National Socialist Executive Chairman of the Board, Erwin Fassl, put many obstacles in Hamburger's way.
 * Hamburger shortly thereafter changed his request to emigrate to the Netherlands.
 * Fassl's objections did not prevent Hamburger being given permission to move to the Netherlands, initially for a period of two years but subject to being recalled at any time.
 * On 14 August 1939 Hamburger left Germany and, instead of going to the Netherlands, travelled directly to Britain.
 * In January 1940 the Ministry in Cologne asked the Cologne University Administration for Hamburger's address.
-* Hamburger's mother, in an attempt to have the payments continue, told the Ministry that Hamburger had been travelling in England at the time that war broke out and had been prevented from returning.
 * On arriving in England, Hamburger was supported by the "Society for the Protection of Science and Learning" and he took up residence in Croydon where he continued his mathematical research.
 * However, in 1940 Hamburger, as a German citizen, was placed in an internment camp.
-* Let us record what happened to other members of Hamburger's family.
-* Margarethe Hamburger, the mother of Hans and Georg, died in hospital in April 1941 after falling down stairs in Berlin.
 * We return to describe Hans Hamburger's life in England.
 * In Cambridge, Hamburger had great moral support from G H Hardy.
 * Hamburger was not only undertaking research in mathematics after he reached England but he was also writing the pamphlet How Nazi Germany has mobilised and controlled labour.

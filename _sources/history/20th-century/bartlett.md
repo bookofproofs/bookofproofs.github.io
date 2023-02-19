@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Maurice Stevenson Bartlett** was an English statistician who made  contributions to the analysis of data with spatial and temporal patterns.
 
 ### Mathematical Profile (Excerpt):
-* William Bartlett was a clerk when Maurice was born; he was the youngest of his parents' three children, having two older siblings Connie and Gerald.
 * Maurice did not shine at elementary school, and he was considered quite slow on the uptake.
 * the headmaster of Latymer summoned them to his office to impress upon them the desirability that the young Bartlett should continue his education.
 * Wishart had both a flair for mathematical statistics and a flair for very practical applications of experimental design and his course had a major influence on Bartlett.

@@ -24,9 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Leslie Higman was born in St Columb, Cornwall, England on 24 December 1899.
-* Donald had one younger sister, Leslie Joan Higman, born in 1929.
 * Higman was educated in Vancouver where, after graduating from High School, he entered the University of British Columbia.
-* The Higmans had five children.
 * She spent 1948 as a visiting lecturer at the University of British Columbia and during that year she lectured to Higman.
 * She almost certainly made this suggestion knowing that Higman was enthusiastic about algebra and that Reinhold Baer held a chair there.
 * Higman received his B.A. degree in 1949 from the University of British Columbia and, having been accepted for the University of Illinois graduate school, began his studies there advised by Baer.
@@ -37,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Higman states that those results follow from the focal subgroup theory.
 * Brauer was impressed with Higman, and this may have influenced Don's success in getting a job at the University of Michigan (for Brauer had been a member of the University of Michigan faculty during 1948-1951 before moving to Harvard).
 * The second of the above mentioned four papers, Modules with a group of operators (1954), contains the important definition of a relatively projective (or injective) module for the group algebra of a finite group and proves the famous criterion for relative projectivity that is today named for him, being known as 'Higman's criterion'.
-* This university is situated in Bozeman, Montana, yet in 1955 Higman and his wife were living in Missoula, Montana, which is the city where the University of Montana is based.
 * Higman played a large role in creating an extremely friendly atmosphere in the Mathematics department at Michigan, where there were many parties and constant forms of hospitality.
 * In 1967 Higman made a major breakthrough when, working with Charles Sims, he discovered the previously unknown sporadic simple group now known as the Higman-Sims group.
 * Let us note here that Charles Sims had been an undergraduate at the University of Michigan and had been taught algebra by Higman.

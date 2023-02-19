@@ -23,19 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Irving Kaplansky** was a Canadian mathematician who made major contributions to ring theory, group theory and field theory.
 
 ### Mathematical Profile (Excerpt):
-* The names here are confusing; the original version of Kaplansky is Kaplanski for the men and Kaplanska for the women although even here there are variants to the spelling such as Kaplaniski which the family used in Poland.
 * Although he is recorded on official documents as Samuel and Anna's son, and later gave his name sometimes as Max Kaplansky sometimes Max Copeland, in fact on his marriage certificate he gives his parents as Monchay and Sarah Copeland.
-* He must be an adopted son of the Kaplanskys.
-* Two further sons were born in Toronto, namely Morris Ben Kaplansky (known as Kip) who was born on 11 August 1914 and Irving Kaplansky, the subject of this biography known widely as Kap, born on 22 March 1917.
 * The surprise in this census data is that Irving, who is four years old at this time, is recorded as Isaac.
 * This is not the only surprise with Irving Kaplansky's name and we note the complications here.
 * When he graduated in 1938 his name appears as Irving Kaplansky, but when he first travelled to United States on 12 September 1940 he gave his name as Izidor Kaplansky.
 * Irving's early interest was music, an interest which he has kept all his life.
 * However Irving knew from a very young age that mathematics, and not music, was to be his life.
-* Anna Kaplansky set up the first of her Health Bread Bakery shops in Toronto in 1928 at 530 College Street where the family lived above the shop.
-* Kaplansky's older brother Kip left school at the age of fourteen and helped run the shop.
 * Kaplansky's secondary education was at the Harbord Collegiate Institute, founded in 1892, where he was very involved in both mathematics and music, singing in Gilbert and Sullivan productions.
-* While Kaplansky was at Harbord, two of his siblings married: Mary Edith Kaplansky married Myer Freeman on 23 May 1933 and Morris Ben Kaplansky (Kip) married Miriam Birch on 14 March 1934, both marriages being in Toronto.
 * In many ways Kaplansky was lucky in entering the University of Toronto when he did, for the Mathematics Department was very much on the up.
 * In 1938 Kaplansky graduated with a B.A. from the University of Toronto.
 * Kaplansky was a Putnam fellow in the individual competition and Toronto won the team competition.
@@ -58,7 +52,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Two years later, in 1989, the American Mathematical Society awarded Kaplansky their Steele Prize.
 * The citation for the prize gives an excellent summary of Kaplansky's many achievements.
 * Kaplansky could not be present at the Summer Meeting of the American Mathematical Society in 1989 to reply in person to this citation.
-* Kaplansky died after a long illness at the home of his son Steven and was buried in New Jersey where his wife's parents were buried.
 
 Born 22 March 1917, Toronto, Ontario, Canada. Died 25 June 2006, Sherman Oaks, Los Angeles, California, USA.
 

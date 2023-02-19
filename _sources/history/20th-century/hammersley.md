@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Guy Hammersley worked for the United States Steel Corporation and at the time of John's birth he was in charge of their Glasgow office.
-* The Hammersley family moved to England when John was very young then, when he was five years old, his father was made redundant but found employment as the London manager for the Youngstown Steel and Tube Company.
 * John's primary education began in 1925 when he entered the Waterside School in Bishops Stortford.
 * Hammersley published a variety of papers in 1951 including A theorem on multiple integrals, On a certain type of integral associated with circular cylinders, The sums of products of the natural numbers, and The total length of the edges of the polyhedron.
 * One of the areas which typified Hammersley's mathematical contributions was in Monte Carlo methods, a technique to estimate a quantity through computations involving random numbers.

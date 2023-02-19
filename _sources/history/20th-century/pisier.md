@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gilles Pisier** is a French mathematician, born in New Caledonia, whose main research field is functional analysis.
 
 ### Mathematical Profile (Excerpt):
-* Gilles has an older sister, Marie-France, born in 1944 while their father was serving in Dalat, Vietnam; she is now a well-known French actress.
-* In 1956, while Gilles was approaching his sixth birthday, the family returned to Paris when Gilles was educated.
 * After spending the years 1967-69 at the Lycée Louis-le-Grand, Pisier entered l'École Polytechnique in Paris.
 * Pisier spent the years 1969-72 at l'École Polytechnique.
 * Other areas of Pisier's research appear in the books Factorization of linear operators and geometry of Banach spaces (1986) and The volume of convex bodies and Banach space geometry (1989).

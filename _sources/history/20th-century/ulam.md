@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * At the age of ten, Ulam entered the gymnasium in Lwów and, about this time, he became interested first in astronomy and then in physics.
-* An uncle gave Ulam a telescope when he was about 12 years old and later Ulam tried to understand Einstein's special theory of relativity.
 * However this required an understanding of mathematics and so, at age 14, he began to study mathematics from books, going well beyond the school level mathematics he was learning.
 * Now with interests in astronomy, physics and mathematics, Ulam entered the Polytechnic Institute in Lwów.
 * Ulam obtained his Ph.D. from the Polytechnic Institute in Lwów in 1933 where he studied under Banach.

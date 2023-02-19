@@ -31,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Valiant published the paper The equivalence problem for deterministic finite-turn pushdown automata in 1974.
 * After returning from the United States in 1974, Valiant took up a lectureship at Leeds University where he worked for the two years 1974-76.
 * Valiant moved to Scotland in 1975 to take up a lectureship at the University of Edinburgh.
-* In 1977 he married Gayle Lynne Dyckhoff; they had two sons Gregory John Valiant and Paul A Valiant.
 * The contributions that Valiant has made are quite remarkable and he has received the highest honours for his achievements.
 * He was elected to the United States National Academy of Sciences in 2001, received the European Association for Theoretical Computer Science Award, and the Association for Computing Machinery's 2010 A M Turing Award which will be presented to Valiant at the Association's annual awards banquet in San Jose, California on 4 June 2011.
 * We have not explained the contributions by Valiant that have led to him receiving the highest possible awards.

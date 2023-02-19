@@ -27,8 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After completing his first degrees (for he had two!), McShane continued to study at Tulane for his Master's degree in mathematics while teaching mathematics as an instructor.
 * With the award of a Master's degree from Tulane in 1927, McShane went to the University of Chicago to undertake studies for his doctorate.
 * McShane spent part of the following two years at Princeton, part at Ohio State, part at Harvard and part at Chicago.
-* McShane and his wife spent the session 1932-33 at Göttingen, but if 1932 was a bad year in the United States, 1933 was certainly a bad year in Germany with Hitler coming to power and bringing in his first anti-Jewish legislation.
-* Having seen the frightening start of the Nazi rise to power, the McShane family returned to the United States where McShane spent the next two years at Princeton.
 * In 1935 McShane was appointed to a professorship at the University of Virginia at Charlottesville, where, except for temporary appointments elsewhere, he was to remain for the rest of his life.
 * McShane had been asked to complete a questionnaire.
 * McShane is famous for his work in the calculus of variations, Moore-Smith theory of limits, the theory of the integral, stochastic differential equations, and ballistics.

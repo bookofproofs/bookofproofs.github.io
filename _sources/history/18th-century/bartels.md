@@ -24,18 +24,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Heinrich Bartels was a pewterer, making plates and vessels for household use from pewter, an alloy of tin with lead or copper.
-* However, by the time his son Martin was born, the market for pewter had dropped markedly as earthenware and porcelain products took over.
 * The Bartels lived in Brunswick, which today is the city of Braunschweig in Germany, and their home was on the Wendengraben (today Wilhelmstrasse) beside a canal of the same name.
 * Martin Bartels showed a considerable interest in mathematics as a young boy but, in 1783, at the age of fourteen, he was employed as an elementary school teacher in the Katherinen-Volksschule which was close to his home.
 * There he was an assistant to the teacher Büttner and soon Bartels began to teach a young boy who, like him, lived on the Wendengraben.
 * Bartels did more for Gauss than to induct him into the mysteries of algebra.
 * In particular Bartels informed Eberhard August Wilhelm Zimmermann (1743-1815) who had been professor of mathematics, physics and natural history at the Collegium Carolinum in Brunswick since 1766.
 * This was extremely valuable for the young Gauss, but this remarkable meeting of minds between Gauss and his young teacher Bartels led to Bartels becoming determined to pursue his study of mathematics.
-* He suggests that Bartels had higher tasks to do than to teach calculation at the school, that it is uncertain whether Bartels taught Gauss calculation, and that it is unclear whether Bartels used his influence to help Gauss further his education in other establishments.
 * Bartels' association with the Collegium Carolinum was formal from 23 August 1788 when he became a visitor there.
 * However, mathematics was not the only subject that Bartels studied, for in the winter semester of 1793-4 he studied Experimental Physics, Astronomy, Meteorology and Geology.
 * In 1800, Bartels was appointed to teach mathematics in Reichenau, a Swiss town close to the city of Chur.
-* He met Anna Magdalena Saluz from Chur and they were married in 1803; their daughter Johanna Henriette Francisca Bartels (born 1807) married the astronomer Wilhelm Struve in February 1835.
 * However, in 1801 Bartels had moved to Aarau in the north of Switzerland where he taught at the cantonal school.
 * Bartels took up his post at professor of mathematics at Kazan in 1808 and, during the following twelve years, he lectured on the History of Mathematics, Higher Arithmetic, Differential and Integral Calculus, Analytical Geometry and Trigonometry, Spherical Trigonometry, Analytical Mechanics and Astronomy.
 * In 1808 Nikolai Ivanovich Lobachevsky had the good fortune to study with Bartels at Kazan University not long after he took up his post there.

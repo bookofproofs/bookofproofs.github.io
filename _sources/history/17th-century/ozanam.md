@@ -23,18 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jacques Ozanam** was a French mathematician who was a popular writer of text-books.
 
 ### Mathematical Profile (Excerpt):
-* It was a wealthy family, members having frequently served in the French provincial Parlements, with Jacques' father owning substantial lands.
-* Jacques was the younger of his parents two sons, so would not have inherited the family estates, these would have gone to his elder brother.
-* One of the expected routes for the younger son of the landed gentry would be to join the Church and indeed this is exactly what Jacques' father expected of him.
 * Although his education was aimed towards the study of theology, Jacques developed a liking for other topics, particularly science and mathematics.
 * The thoughts of becoming a priest did not suit Ozanam who seems to have enjoyed socialising, enjoyed gambling, and enjoyed spending money.
-* After Ozanam had been studying theology for four years his father died and suddenly the pressure to join the priesthood was removed.
-* Having principles about not charging for teaching mathematics was one thing when Ozanam had plenty of money to live on, but after his father died and his elder brother inherited the family estates his income from his family stopped.
 * Ozanam was a generous man, despite always being short of money, and it was an act of great generosity which led to him moving from Lyon to Paris.
 * One day Ozanam met two strangers who did not have sufficient money to allow them to return to Paris.
 * Daguesseau, about Ozanam's generosity.
-* Daguesseau was the father of the French Chancellor, and when he learnt of Ozanam's generosity towards his father's friends, he invited him to Paris.
 * Of course Paris was a place where someone like Ozanam would find it easy to spend money, and indeed he did.
+* After his marriage Ozanam's conduct was exemplary; always of a mild and cheerful disposition, he became sincerely pious ...
 * It is certainly for this last work on recreational mathematics that Ozanam will be most remembered.
 * Ozanam based his book on earlier works by Bachet, Mydorge, Leurechon, and Schwenter.
 * Ozanam's income from his tutoring, which was mainly to foreign students, dropped dramatically.

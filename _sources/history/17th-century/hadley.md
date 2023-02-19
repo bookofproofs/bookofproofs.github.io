@@ -24,14 +24,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * George Hadley became high sheriff of Hertfordshire when John was nine years old.
-* John was the second of his parents' six children having an older sister and two younger brothers George and Henry.
 * John was five years older than Henry and three years older than George.
 * Hadley was elected a fellow of the Royal Society on 21 March 1717 and he attained high office in the Society when he was elected Vice President on 12 February 1728.
-* His father died in 1729 and, as the eldest son, Hadley inherited the estate near East Barnet as well as other land owned by the family.
-* They had one child, a son John born in 1738.
 * We have indicated above that Hadley had a financial position which enabled him to devote both time and money to science.
 * This motivated Hadley to tackle the problem and in 1730 he invented the reflecting octant which measured the altitude of the sun or of a star.
-* The construction of the octant was, as his telescope had been, undertaken jointly by Hadley together with his brothers George and Henry.
 * In 1731 Hadley showed his new quadrant to theRoyal Society and published a description in his paper Description of a new instrument for taking angles which appeared in the Philosophical Transactions of the Royal Society.
 * Hadley published A description of a new instrument for taking the latitude or other altitude at sea (1734).
 

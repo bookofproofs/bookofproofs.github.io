@@ -33,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Manchester had a profound influence on Goldstein.
 * Leslie Howarth was a student at Manchester, where he was taught by Goldstein during 1929-31, then he followed Goldstein to Cambridge.
 * Apart from reading and digesting every word, it was an education in itself for me to observe the skill that Sydney Goldstein applied to creating a unified, stimulating and accurate work.
-* In 1940 the Goldsteins decided that, because of threats from the Nazis towards Jewish children, Rosa would move to the United States with David John and Ruth.
 * During the six war years Goldstein worked at the National Physical Laboratory he made excellent use of the computing facilities, advanced electric calculating machines operated by bright girls, and the wind tunnels used for experiments.
 * In 1945, the University of Manchester made two inspiring appointments to the Department of Mathematics, Max Newman to the Fielden Chair of Pure Mathematics and Goldstein to the Beyer Chair of Applied Mathematics.
 * However in 1950, Goldstein who, as we have already noted, had strong Jewish beliefs, accepted a professorship in Applied Mathematics and the chairmanship of the department of Aeronautical Engineering at Technion in Haifa, Israel.

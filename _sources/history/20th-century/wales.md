@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Muriel Wales** was born in Northern Ireland but lived in Canada from the age of one. In 1941 she was awarded a Ph.D. in mathematics from the University of Toronto. She worked at the Montreal Laboratory of the National Research Council of Canada but from 1950 worked as a claims agent for her step-father's shipping company.
 
 ### Mathematical Profile (Excerpt):
-* Her father is believed to have died shortly before or after her birth and her mother later remarried George Wales in Canada, Muriel being brought up with his last name.
-* Muriel's mother Alice Girvan was born in Belfast on 6 February 1889 to James Girvan and Jennie Mclean.
-* On 19 October 1916, Alice Kennett married George Frederick Wales in Vancouver, Canada.
-* One assumes that from that time on George and Alice Wales called their daughter Muriel Wales.
 * George Frederick Wales, who worked in a shipping company, was not a Canadian, for he was born in Margate in England.
 * A baby boy was born to George and Alice Wales in 1917 but he died within a couple of days.
 * Muriel Wales studied at the University of British Columbia and was awarded a B.A. in 1934 and an M.A. three years later.

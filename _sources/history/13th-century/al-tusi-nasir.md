@@ -26,9 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In fact al-Tusi was known by a number of different names during his lifetime such as Muhaqqiq-i Tusi, Khwaja-yi Tusi and Khwaja Nasir.
 * Al-Tusi was born in Tus, which lies close to Meshed in northeastern Iran high up in the valley of the Kashaf River.
 * This was a period in which there would be little peace and tranquillity for great scholars to pursue their works, and al-Tusi was inevitably drawn into the conflict engulfing his country.
-* In Tus, al-Tusi's father was a jurist in the Twelfth Imam School.
 * The Twelfth Imam was the main sect of Shi'ite Muslims and the school where al-Tusi was educated was mainly a religious establishment.
-* However, while studying in Tus, al-Tusi was taught other topics by his uncle which would have an important influence on his intellectual development.
 * In 1214, when al-Tusi was 13 years old, Genghis Khan, who was the leader of the Mongols, turned away from his conquests in China and began his rapid advance towards the west.
 * It would not be too long before al-Tusi would see the effects of these conquests on his own regions, but before that happened he was able to study more advanced topics.
 * From Tus, al-Tusi went to Nishapur which is 75 km west of Tus.

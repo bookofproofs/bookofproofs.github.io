@@ -23,12 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alexander Andreevich Samarskii ** was a Ukranian-born mathematician who worked in mathematical physics, applied mathematics, numerical analysis and mathematical modelling.
 
 ### Mathematical Profile (Excerpt):
-* His older sister, Anastasia Andreevna Samarskaya, played a large role in bringing up Alexander Andreevich.
-* The Samarskii family were forced to leave their farm and went first to Donetsk and then to Taganrog, the birthplace of the famous author Anton Chekhov.
-* Alexander Andreevich's father lived apart from the family and Alexander Andreevich was looked after by his sister Anastasia Andreevna Samarskaya.
 * At the age of 14, Samarskii entered the Anton Chekhov school in Taganrog.
 * Perhaps not surprisingly, the school had a strong reputation for literature and Samarskii was attracted to this as well as to mathematics and physics.
-* When Samarskii began his university studies he was 17 years old and went to live in Moscow were he had no friends or family.
 * The Molotov-Ribbentrop non-aggression pact between Germany and the Soviet Union meant that initially the war had little effect on life in Moscow and Samarskii continued his studies there.
 * As a student, Samarskii could have avoided military service but on 6 July he submitted an application to join the military feeling that the most important thing was defending his homeland.
 * After the German offensive, named Operation Typhoon, aimed at taking Moscow, began in October Samarskii was part of the Division that moved east of Yelnya to engage the German advance.
@@ -36,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * With the Rifle Division destroyed, Samarskii joined the 108th  Infantry Division.
 * Samarskii was with those in the south and he was given the task of acting as a scout behind the German lines.
 * Samarskii saw none of this, however, for he was in hospital for nine months, enduring many operations which removed 30 bomb fragments from his body.
-* Samarskii's family had remained in Taganrog but he could not return there since it was occupied by the Germans.
 * This friend went to the University, now back in Moscow, and arranged for Samarskii to return there to complete his studies.
 * Samarskii undertook research on mathematics and theoretical physics and Tikhonov suggested that he might try to do some experimental physics.
 * Samarskii took Tikhonov's advice and during the next three years he published around 20 papers.
@@ -56,7 +51,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Samarskii was honoured for his contributions with the award of the Lenin Prize in 1962.
 * In 1982 Samarskii was appointed as head of the department of Computational Methods in the Faculty of Computational Mathematics and Cybernetics.
 * Samarskii was the first to study the diffusion chaos phenomena.
-* Samarskii was married to a medical doctor from Uzbek whose father was an expert in mechanics and a member of the USSR Academy of Sciences.
 * We have already mentioned some honours which were given to Samarskii.
 * Samarskii died following a long and difficult illness.
 

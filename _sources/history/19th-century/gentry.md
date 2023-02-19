@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Jeremiah Gentry was born in Bullitt county, Kentucky, to Blackstone Gentry and Nancy Hough.
-* Jeremiah Gentry married Lucretia Wilcox on 16 January 1851 in Morgan county, Indiana.
-* They had three children, Oliver Gentry (1853-1878), Mary Frances Gentry (1860-1929) and the youngest, Ruth Gentry, the subject of this biography.
 * Ruth was brought up on a farm near to Stilesville and her early education was in the small village of Stilesville.
 * Gentry's secondary education was at the Indiana State Normal School in Terre Haute.
 * It had therefore only been in operation for a short time when Gentry began her education there.

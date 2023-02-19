@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Sroda, the village in which Mertens was born, was close to Poznań in Prussia.
-* Mertens' family naturally identified with the German aspect of the country while for those of Polish culture the years of the 19th  century were a continual battle to struggle for their identity.
 * He was known, however, both by the German version of his name which is Franz and the Polish version which is Franciszek.
 * Mertens completed his university studies at the University of Berlin where he attended lectures by Weierstrass, Kronecker and Kummer.
 * This was the "golden period" for mathematics in Berlin and gave Mertens the best possible mathematical foundations.

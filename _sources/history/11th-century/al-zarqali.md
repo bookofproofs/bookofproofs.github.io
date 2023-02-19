@@ -23,11 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Al-Zarkali** was a Spanish  Muslim instrument maker, astrologer and important astronomer. He invented a form of the astrolabe.
 
 ### Mathematical Profile (Excerpt):
-* The family had a reputation as skilled makers of instruments, in fact al-Zarqali was also given the name 'al-Nekkach' which means 'the engraver', and al-Zarqali learnt these family skills as he grew up in Córdoba.
 * Before we give some details of al-Zarqali's life, we need to give some background to al-Andalus, Muslim Spain, in which he grew up.
 * It was in Córdoba that al-Zarqali grew up.
 * It was realised that al-Zarqali was not only expert as an instrument maker, but he was also highly intelligent.
 * We should now look at some of al-Zarqali's accomplishments.
+* The Spanish Arab Ibrahim ibn Yahya al-Zarqali (Azarquiel) invented a type of astrolabe known in Europe as the azafea (from Arabic al-safiha, plate) ...
 * These tables contained much copied from earlier tables such as those by al-Khwarizmi, al-Battani and Ptolemy, but they also contained the observations of al-Zarqali and the other members of Qadi ibn Said's large astronomy group which consisted of both Muslim and Jewish scholars.
 * In fact it is claimed that al-Zarqali observed the sun for twenty-five years and the moon for thirty years.
 * It is interesting to compare work being carried out in Toledo by al-Zarqali and his group with that being carried out in Esfahan by the group set up there by Omar Khayyam who was about twenty years younger than al-Zarqali.

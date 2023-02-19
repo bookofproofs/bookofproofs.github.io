@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Pavel Urysohn** was a Ukranian mathematician who proved important results in general topology and dimension theory.
 
 ### Mathematical Profile (Excerpt):
-* His father was a financier in Odessa, the town in which Pavel Samuilovich was born.
-* It was a well-off family and Urysohn received his secondary education in Moscow at a private school there.
 * In 1915 Urysohn entered the University of Moscow to study physics and in fact he published his first paper in this year.
 * Urysohn graduated in 1919 and continued his studies there working towards his doctorate.
 * At this stage Urysohn was interested in analysis, in particular integral equations, and this was the topic of his habilitation.

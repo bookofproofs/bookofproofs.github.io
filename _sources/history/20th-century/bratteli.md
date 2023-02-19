@@ -24,16 +24,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Trygve Bratteli was a construction worker and carpenter who became an active resistance worker during the Second World War and was arrested by the Germans in 1942.
-* He married the journalist Randi Helene Larssen, the daughter of the resistance workers Olav Larssen and Aslaug Rustad, on 16 April 1946.
-* Ola had a sister Marianne Bratteli who was born in 1951.
 * Ola Bratteli joined the Framfylkingen when he was young.
 * This quotation is from a version of the talk Størmer gave at a memorial meeting for Ola Bratteli in 2015.
 * "Oh, Ola, we've made a big mistake," he said.
 * After the award of his cand.real degree, Bratteli went to the United States to undertake research for his Ph.D. He was advised to take this route by Størmer who had himself gone to New York for his Ph.D. One of Størmer's fellow Ph.D. students in New York had been James Gilbert Glimm (born 24 March 1934) who also had Richard Kadison as his thesis advisor.
 * Glimm had worked on operator algebras and in fact Bratteli's cand.real dissertation was essentially a generalisation of this work of Glimm.
 * Størmer had advised Bratteli to study for his doctorate with Glimm in New York.
-* Bratteli had another reason to leave Norway, namely that his father had become parliamentary leader of the Norwegian Labour Party in 1964 and then, on 17 March 1971, had become Prime Minister of Norway.
-* Going abroad, Bratteli said, was a kind of escape since with his father being Prime Minister there was no way he could live anonymously.
 * Bratteli was awarded a doctorate from the University of Oslo in 1974 for his thesis Inductive limits of finite dimensional C*-algebras.
 * A few years later, this group settled on the campus Joseph-Aiguier, and it was there when Bratteli joined them after the award of his doctorate.
 * It was at the Centre de Physique Théorique that Bratteli met Derek W Robinson, a British mathematician, and they became close friends and collaborators.
@@ -43,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1980 Bratteli became a professor at the Norwegian University of Technology in Trondheim.
 * In fact the last single author paper Bratteli wrote was a conference paper published in 1988, and he had around 50 multi-author works in the following 20 years.
 * Bratteli wrote several further books.
-* Marianne, my youngest sister, who is a painter, cannot endure it." The Möbius Award from the Research Council of Norway, which Ola Bratteli and Erling Størmer shared in 2004 for outstanding research in the field of operator algebra, fights for one's attention with Russian jewelry boxes and Thai Buddha figures.
 * For example, he received: (i) The Professor Ingerid Dal and Sister Ulrikke Greve Dal's scholarship in support of humanistic research in 2001; (ii) The Nansen Foundation's prize for outstanding research from The Norwegian Academy of Sciences in 2004; and (iii) The Research Council of Norway's prize, the Möbius Prize, for outstanding research in 2004.
 
 Born 24 October 1946, Oslo, Norway. Died 8 February 2015, Oslo, Norway.

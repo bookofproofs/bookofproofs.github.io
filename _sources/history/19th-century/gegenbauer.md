@@ -42,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Monatshefte für Mathematik und Physik was founded by Gustav von Escherich and the emeritus professor Emil Weyr in 1890, and Gegenbauer immediately began publishing papers in the journal.
 * Emil Weyr died in 1894 and Gegenbauer assumed his position on the editorial board.
 * Up to now we have not mentioned one important aspect of Gegenbauer's contributions, namely his work on actuarial science and accounting.
-* Gegenbauer was also involved in educational policy issues and in local politics.
 * We have already mention the honorary degree awarded to Gegenbauer by the University of Czernowitz in 1879.
 * On 6 October 1900 he was elected to the German Academy of Scientists Leopoldina.
 

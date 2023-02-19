@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Pople** was an English theoretical chemist who shared the Nobel Prize in Chemistry in 1998 for his development of computational methods in quantum chemistry.
 
 ### Mathematical Profile (Excerpt):
-* Keith Pople's grandfather James had come to Burnham-on-Sea in the 1850s and set up a number of businesses in the town which eventually were taken over by his children.
-* Keith and Mary Pople were ambitious for their two sons, John and his younger brother Donald, and after their education in a primary school in Burnham-on-Sea would have wanted to send them to a good preparatory school in the town.
-* However, the school's admission policy did not allow the children of shopkeepers to be educated there, and no other school was considered satisfactory by John's parents.
 * Therefore, in the spring of 1936, when he was ten years old, John was sent to Bristol Grammar School.
 * The first arrangement was for John to be a boarder at Bristol Grammar School during the week but return home by train each weekend.
 * From about the age of twelve, Pople became fascinated by mathematics.

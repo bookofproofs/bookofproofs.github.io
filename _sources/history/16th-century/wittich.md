@@ -35,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Wittich's diagrams are semigeoheliocentric, and therefore retain the solid crystalline spheres, only because they fail to solve completely the problem of the possible collision between the Sun and a planet such as Mars.
 * In the process, Tycho accused Wittich of divulging secrets, which suggests that some communication between Ursus and Wittich could conceivably have occurred.
 * Now the dispute between Tycho and Wittich was based on more than who had invented the planetary theory.
-* Wittich left Uraniborg after spending four months there claiming (perhaps correctly or perhaps as an excuse) that he had to return to Wrocław to deal with an inheritance from a rich uncle.
 * Clearly, despite Tycho's appreciation of Wittich at this time, Wittich had become tired of Tycho; he promised to return but never did.
 * By 1584 Wittich was in Kassel working with Bürgi helping improve the design of the instruments he was making for the Observatory of Wihelm of Hesse in Kassel.
 * Wihelm of Hesse was Tycho's great astronomy rival and Wittich now passed on Tycho's secrets regarding star-sights and scales.
@@ -44,9 +43,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He also claimed to have discovered the method of prosthaphaeresis which Wittich had shown him.
 * Tycho now made serious attempts to buy the copies of Copernicus's De revolutionibus  which Wittich had owned.
 * He remembered that they contained not only details of Wittich's planetary theory but also his work on prosthaphaeresis.
-* On Wittich's death his possessions had gone to his sister who was living in Wrocław.
-* In 1589 Hagecius and two friends had approached Wittich's sister and attempted to but the copies of De revolutionibus on behalf of Tycho.
-* However Wittich's sister was clearly aware of the value of these works and Hagecius's approach failed.
 * These copies still survive and historians wrongly attributed the inscriptions of Wittich to Tycho until recent research by Gingerich has given Wittich the credit he deserves.
 
 Born 1546, Breslau, Hapsburg Empire (now Wrocław, Poland). Died 9 January 1586, Vienna, Austria.

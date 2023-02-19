@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Peddie** graduated from Edinburgh University and then lectured in Physics. He was appointed Professor of Physics at Queen's College Dundee and held this post for 37 years.
 
 ### Mathematical Profile (Excerpt):
-* William Peddie had an older sister Marion (born 1860) and a younger brother David (born 1963).
 * William Peddie attended Kirkwall Grammar School, Orkney, and then studied at the University of Edinburgh, being awarded a B.Sc. in 1887 and then a D.Sc. in the following year.
 
 Born 31 May 1861, Papa Westray, Orkney, Scotland. Died 2 June 1946, Ninewells, Dundee, Scotland.

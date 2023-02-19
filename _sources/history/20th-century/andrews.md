@@ -30,12 +30,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, his mathematics lecturer soon persuaded him that he should forget his idea of taking engineering as his major subject and choose mathematics instead.
 * It just captivated me.
 * Andrews graduated from Oregon State University with both a B.S. and an M.S. in June 1960.
-* Later that summer, on 2 September, he married Joy Margaret Brown; they had three children Amy Beth, Katherine Yvonne, and Derek George.
 * He then spent a year at the University of Cambridge in England on a Fulbright Scholarship.
 * After returning to the United States in 1961, Andrews began his graduate studies at the University of Pennsylvania in Philadelphia.
 * He already knew that he wanted to undertake research in number theory but at the time he began his course it was prime numbers which fascinated him.
 * He took a graduate course on number theory given by Hans Rademacher and there he met the notion of a partition.
-* Andrews had come across these ideas before, since Joy, before they were married, had given him a book which contained G H Hardy's A Mathematician's Apology and in that he had encountered the partition formula that Hardy and Ramanujan had discovered in 1916 for the number of different ways an integer can be expressed as a sum of natural numbers.
 * Andrews was fascinated and asked Rademacher if he would become his thesis advisor.
 * The topic suggested by Rademacher was Ramanujan's mock theta functions and indeed his research led to his thesis On the Theorems of Watson and Dragonette for Ramanujan's Mock Theta Functions.
 * Andrews had published three papers by the time he had completed his thesis work: An asymptotic expression for the number of solutions of a general class of Diophantine equations (1961);  A lower bound for the volume of strictly convex bodies with many boundary lattice points (1963); and On estimates in number theory (1963).

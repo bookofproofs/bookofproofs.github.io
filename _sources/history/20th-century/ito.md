@@ -39,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * During his last three years at Kyoto before he retired, Ito was Director of the Research Institute for Mathematical Sciences there.
 * Stochastic differential equations, called "Ito Formula," are currently in wide use for describing phenomena of random fluctuations over time.
 * Calculation using the "Ito calculus" is common not only to scientists in physics, population genetics, stochastic control theory, and other natural sciences, but also to mathematical finance in economics.
-* In fact, experts in financial affairs refer to Ito calculus as "Ito's formula." Dr. Ito is the father of the modern stochastic analysis that has been systematically developing during the twentieth century.
 * This ceaseless development has been led by many, including Dr. Ito, whose work in this regard is remarkable for its mathematical depth and strong interaction with a wide range of areas.
 * Although Ito first proposed his theory, now known as Ito's stochastic analysis or Ito's stochastic calculus, about fifty years ago, its value in both pure and applied mathematics is becoming greater and greater.
 * For almost all modern theories at the forefront of probability and related fields, Ito's analysis is indispensable as an essential instrument, and it will remain so in the future.

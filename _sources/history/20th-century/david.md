@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Florence Nightingale David** was an English statistician who worked to increase the opportunities for women to study statistics. She became head of the Statistics Department at the University of California, Riverside. Among her research interests were the history of probability and of statistical ideas.
 
 ### Mathematical Profile (Excerpt):
-* Her mother was Florence Maude David (born in Wolverhampton, Staffordshire, England in about 1882) who was also an Elementary School head teacher.
 * Florence Nightingale David was given the names 'Florence Nightingale' by her parents because they were friends of Florence Nightingale.
 * In fact Florence Nightingale died a year after Florence Nightingale David was born.
 * In 1929 Florence entered Bedford College for Women with the intention of becoming an actuary.

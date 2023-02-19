@@ -23,13 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Umirzak Sultangazin** was a Kazakhstan mathematician who did excellent work on kinetic transport theory. He was an important figure in building up mathematics in Kazakhstan and was involved in the Mir and Soyuz space programmes.
 
 ### Mathematical Profile (Excerpt):
-* Sultangazin's parents, who worked from morning till night on the collective farm, raised him not by words, but by personal example, so he was accustomed to work from early childhood.
 * From 1944 to 1953 Sultangazin studied at the Kara-Oba secondary school.
 * This excellent preparation meant that Sultangazin found it an easy task to gain admission to the Faculty of Physics and Mathematics of the S M Kirov Kazakh State University (today known as the Al-Farabi Kazakh National University) in 1953.
 * At the Kazakh State University, Sultangazin was taught by some outstanding professors.
 * Sultangazin said that the fine teaching he had from Myrzagali Karsakbaev made the transition from elementary "concrete" school mathematics to "abstract" university mathematics easy for him.
 * He was Sultangazin's thesis advisor and praised highly his thesis 'The relative movement of the point of variable mass'.
-* Sultangazin graduated with honours in 1958 and on 14 March of that year he married Raikhan Ganievna Meirmanova; they had two children, Zhanat Umirzakovna Sultangazina and Almas Sultangazin.
 * Zhanat Sultangazina is the director of the tea and coffee processing company "Chainy Dvor, Too".
 * Almas Sultangazin, born in July 1964, is a co-founder of the Sulpak retail chain and one of the most influential businessmen in Kazakhstan.
 * After graduating in 1958, Sultangazin was appointed as an assistant working for next six years in the departments of higher algebra, differential equations and computational mathematics of Kazakh State University.

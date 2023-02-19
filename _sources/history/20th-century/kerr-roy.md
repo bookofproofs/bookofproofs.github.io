@@ -31,10 +31,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * These "Kerr" black holes rotate at a constant rate, their size and shape depending only on their mass and rate of rotation.
 * it was conjectured that any rotating body that collapsed to form a black hole would eventually settle down to a stationary state described by the Kerr solution.
 * Finally, in 1973, David Robinson at Kings College, London, used Carter's and my results to show that the conjecture had been correct: such a black hole had indeed to be the Kerr solution.
+* So, as Kerr got up to speak, many slipped out ...
 * As Kerr finished, Papapetrou demanded the floor, stood up and with deep feeling explained the importance of Kerr's feat.
-* In 1965, in collaboration with Alfred Schild who was a colleague at the University of Texas, Kerr published Some algebraically degenerate solutions of Einstein's gravitational field equations which introduced what are today known as Kerr-Schild spacetimes and the Kerr-Schild metric.
 * Kerr remained at the University of Texas until 1971 when he returned to New Zealand to a chair at the University of Canterbury.
-* In many respects Roy was an unusual figure in University administration; he had very little patience for the practice of wrapping self-interest up in politically correct pieties, and was perfectly willing to offend entrenched privilege.
 * Among the many awards that Kerr has received for his remarkable contributions we mention first the Hughes Medal presented by the Royal Society of London on 30 November 1984 by the President Sir Andrew Huxley.
 * In the early 1960s Professor Kerr discovered a specific solution to Einstein's field equations which describes a structure now termed a Kerr black hole.
 * Not only was the solution especially complex, lacking symmetry of previous solutions, but it became apparent that any stationary black hole can be described by Kerr's solution.

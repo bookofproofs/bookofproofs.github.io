@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Enzo Martinelli** was an Italian mathematician who worked in the theory of functions of several complex variables.
 
 ### Mathematical Profile (Excerpt):
-* Enzo's father left Pescia and moved to Rome when he was appointed Director General of the Ministry of Public Instruction.
 * It was in Rome that Enzo was educated, attending the Torquato Tasso classical secondary school there.
 * When Enzo attended the school it was situated in the Via Sicilia.
 * In 1933 Martinelli was awarded his laurea for his thesis Sulle funzioni poligene di una e di due variabili complesse Ⓣ(On the polygenic functions of one and two complex variables).
@@ -32,8 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1943 Rudolf Fueter invited Martinelli to Zürich to give lectures on his recent research.
 * These were aimed at discriminating against Italian Jews and Martinelli reported that Francesco Severi personally intervened to deny his Jewish colleagues access to the University of Rome's mathematics library after the racial laws went into effect.
 * In 1946 Martinelli entered the competition for the chair of Geometria analitica con elementi di Geometria Proiettiva e Geometria Descrittiva con Disegno at the University of Genoa.
-* The year 1946 was important for Martinelli in another way for, in that year, he married Luigia Panella in Rome.
-* They had two children, a son Roberto Martinelli and a daughter Maria Renata Martinelli born in Genoa in 1949.
 * Maria Renata Martinelli became a mathematician, studying at La Sapienza University of Rome receiving her laurea with the thesis Interpolazione e approssimazione mediante spline functions Ⓣ(Interpolation and approximation by spline functions).
 * Having been ranked first in the competition for the chair at Genoa, Martinelli took up the appointment in 1947.
 * Giuseppe Tomassini (born in Rome in 1938) was one of Martinelli's students at La Sapienza in Rome graduating with his laurea in 1962 and becoming a professor at Pisa, Ferrara and Florence.
@@ -49,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Martinelli received many honours for his outstanding contributions.
 * Signorini was a mathematical physicist, best known for his work on elasticity, who had taught Martinelli when he was an undergraduate.
 * In 1948, while in Genoa, Martinelli was elected to the Accademia Ligure di Scienze e Lettere, an Academy founded in 1798 and based in Genoa.
-* In addition to his roles in universities, Martinelli had an important role in the national Italian mathematics scene, for example he played an important role in the Italian Mathematical Union serving for several years on its Scientific Commission.
 
 Born 11 November 1911, Pescia, Pistoia, Tuscany, Italy. Died 27 August 1999, Rome, Italy.
 

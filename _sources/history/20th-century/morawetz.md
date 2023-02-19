@@ -23,12 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Cathleen Morawetz** was a Canadian mathematician who worked on the  partial differential equations governing fluid flow, particularly those of mixed type occurring in transonic flow.
 
 ### Mathematical Profile (Excerpt):
-* Both Cathleen's parents were Irish but she was born in Toronto while her father held the position of assistant professor of mathematics at the University of Toronto.
-* When Cathleen was seven years old the family returned to Toronto and it was in Toronto that she attended school.
 * Cathleen won a scholarship and entered the University of Toronto to study mathematics.
-* Cecilia Krieger, who taught Cathleen mathematics while she was an undergraduate, had been a family friend for many years.
 * She strongly encouraged Cathleen continue her study of mathematics.
-* Cathleen married Herbert Morawetz, who was a chemist, on 28 October 1945.
 * However, strongly encouraged by Cecilia Krieger to study for her doctorate, Morawetz went to New York University to undertake research.
 * During this period Morawetz applied for US citizenship and she was granted this in 1950.
 * In 1978 Morawetz became the associate director of the Courant Institute of Mathematical Sciences a position which she held until 1984 when she was appointed Director of the Courant Institute.

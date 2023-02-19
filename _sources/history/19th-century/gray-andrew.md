@@ -32,13 +32,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Gray succeeded Kelvin as Professor of Natural Philosophy at Glasgow in 1899, winning the chair against strong competition.
 * Where Kelvin might easily have fallen foul of modern teaching quality assessments, Gray's attention to detail, his advice and guidance to students, kindness, and pastoral care would have seen him through with flying colours.
 * Gray reorganized the obsolete department he inherited at Glasgow, and founded the Natural Philosophy Institute in 1906, the largest building devoted to physics in Britain; by 1923 more than 600 students a year took laboratory courses there.
-* Gray married Annie Gordon; they had four sons and four daughters.
 * One of their sons, James Gray, has a biography in this archive.
 * On 5 March 1883, Gray was elected a fellow of the Royal Society of Edinburgh.
 * He was proposed by William Thomson (Lord Kelvin), James Thomson Bottomley, James Thomson, and James Gray McKendrick.
 * Gray was also elected to the Royal Society of London, becoming a fellow in 1896.
 * Gray wrote a number of excellent books and published many papers in the Proceedings of the Royal Society of Edinburgh and of the Royal Society of London.
-* Gray published two important books written in collaboration with others, the first being Treatise on Bessel functions (1895) written with G B Mathews, then in 1911 he published Dynamics  written jointly with his son James Gray.
 * The first of these was revised by Gray in 1922 in collaboration with MacRobert.
 * Gray's final major work was Treatise on Gyrostatics and Rotational Motion (1919).
 * Towards the end of his life, Gray spent his holidays in the Perthshire mountains enjoying this as much as he had the Welsh hills during his period in Bangor.

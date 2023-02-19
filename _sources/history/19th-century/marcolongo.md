@@ -31,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Ministry offered to confirm Marcolongo as extraordinary professor of rational mechanics at Messina, so he remained there.
 * In 1899, after receiving the opinion of a commission composed of Vito Volterra, Giacinto Morera and Carlo Somigliana (1860-1955), Marcolongo was promoted to the chair of rational mechanics at Messina.
 * Marcolongo would have liked to return to his home city of Rome and in 1909 he applied for a position there but he was unsuccessful.
-* Marcolongo married Maria Santi and their son Fernando Marcolongo was born in Messina on 28 August 1905.
 * Fernando Marcolongo became a medical researcher with an impressive list of over 70 top quality publications.
 * Another son, Aldo Marcolongo, was born in Messina on 14 January 1904 and he became a chemist.
 * Roberto Marcolongo became a corresponding member of the Accademia Nazionale dei Lincei in 1912 and a full member in 1921.
@@ -48,7 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Marcolongo found himself involved in bitter controversies derived from scientific and academic rivalries that featured Italian vectorialists.
 * In fact the close cooperation between Marcolongo and Burali-Forti only ran into difficulties over Burali-Forti's attack on Einstein's theory of relativity in his paper Espaces courbes.
 * In October 1932, Marcolongo enrolled in the National Fascist Party.
-* This party had been founded by Benito Mussolini in 1921 and by the time Marcolongo joined it was the only political party allowed in Italy.
 * In April 1942 Marcolongo was appointed to the Reale Accademia d'Italia.
 * After being appointed professor emeritus in 1937, Marcolongo returned to Rome, the city of his birth, where he died on 16 May 1943.
 * We note that Marcolongo's son, Fernando, was an extraordinary professor of medical pathology at the University of Catania when the Allies invaded Sicily, but he survived the war.

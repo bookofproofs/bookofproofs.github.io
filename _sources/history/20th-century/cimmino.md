@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gianfranco Cimmino**  was an Italian mathematician who worked in mathematical analysis, numerical analysis and the theory of elliptic partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-* Gianfranco's mother Olimpia was from an aristocratic family, the Gibellini Tornielli Boniperti, from Novara in the Piedmont region of northwestern Italy.
 * Gianfranco, born on Thursday 12 March 1908, was baptized with the name of Gianfranco Luigi Giuseppe but only used the given name Gianfranco.
 * In 1923, when Cimmino was fifteen years old, he graduated from high school with the classical certificate.
 * Cimmino was only nineteen years old when he graduated with his thesis on approximate methods of solution for the heat equation in 2-dimensions, but he was appointed as an assistant to Picone who held the chair of analytical geometry at the University of Naples.
@@ -31,8 +30,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Picone left Naples in 1932, together with Miranda, but Cimmino remained there until 1938.
 * After Picone left, Cimmino became a lecturer in charge of the courses of Higher Analysis between 1932 and 1935.
 * In particular, Cimmino was the first mathematician to study the Dirichlet problem with generalized boundary conditions.
+* Towards the end of that period, Professor Cimmino devised a numerical method for the approximate solution of systems of linear equations that he reminded me of in these days, following the recent publication by Dr Cesari ..., which provides a systematic treatment of the above mentioned computing methods but which, however, does not consider the one by Cimmino, a method which, in my opinion, is most worthy of consideration in the applications because of its generality, its efficiency and, finally, because of its guaranteed convergence which can make the method practicable in many cases.
 * While in Naples, Cimmino entered the competition for the chair of Mathematical Analysis at the University of Cagliari, in Sardinia.
-* Now, also in 1940, various members of the family adopted the name Cimmino Gibellini Tornielli Boniperti, combining his father's surname with his mother's family name.
 * We have seen that Cimmino made contributions to partial differential equations of elliptic type and to computing approximate solutions to systems of linear equations.
 * Indeed, one of his last reviews for the 'Zentralblatt', appeared in 1988, concerned a paper on the use of Cimmino's method in radiation therapy planning.
 * The story of Cimmino's method is interesting for several reasons.

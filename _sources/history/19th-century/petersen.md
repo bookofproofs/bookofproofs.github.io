@@ -23,12 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Julius Petersen** was a Danish mathematician who worked on geometry and graph theory. He is best remembered for the _Petersen graph_.
 
 ### Mathematical Profile (Excerpt):
-* From his early childhood Julius was friends with Hieronymous Georg Zeuthen who lived four houses away on the same street.
 * Julius first attended a private school in Soro then, in 1849, he entered Soro Academy School.
 * Most of the pupils at the school were boarders but the school also admitted some day pupils like Julius who lived in the town.
-* His family were poor and although they had tried their best to give Julius a good education, by 1854 he had to leave school since his parents could no longer afford to keep him there.
-* Petersen had an uncle who worked in Kolding, Jutland, and he went there to work as a grocery apprentice to his uncle.
-* After about a year his uncle died and left some money to Petersen.
 * He was considered a good teacher of mathematics, but school teaching did present a great problem to Petersen for he seemed incapable of controlling the pupils.
 * Petersen was awarded his doctorate in 1871.
 * Petersen corresponded with Sylow during 1870-71, mostly about this result.

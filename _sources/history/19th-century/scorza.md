@@ -33,14 +33,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At the end of the year, the assistants returned to their original positions, so in 1900 Scorza went back to Pisa as Bertini's assistant.
 * It was the economist Maffeo Pantaleoni (1857-1924) who encouraged Scorza to take an interest in mathematical economics.
 * Scorza wrote four articles on this topic which were published in the Giornale degli Economisti between April 1902 and February 1903.
-* All except the first of these papers form part of an argument which developed between Scorza and the economist, political scientist and philosopher Vilfredo Pareto (1848-1923).
 * Most historians suggest that Pareto failed to understand fully the points that Scorza was making but eventually sided with him.
 * By the end of 1906, Scorza had begun to have contacts again with Bertini, Severi and other researchers in geometry and, given his outstanding early contributions, they were all keen to persuade him to return to his study of algebraic geometry.
 * Certainly both Bertini and Severi made suggestions of specific questions that would interest Scorza.
 * The depression which had gripped Scorza frequently over the years began to ease around this time.
-* However, with the lifting of his depression at the end of 1906, Scorza proposed marriage and the couple were married in 1907.
-* In the following year, on 2 July, their son Giuseppe Scorza-Dragoni was born in Palermo where Scorza was teaching at the technical institute.
-* Giuseppe Scorza-Dragoni (1908-1996) went on to write a laurea advised by Severi (at his father's request) and was professor of mathematical analysis at Padua from 1936 to 1962, and at Rome from 1962 to 1966.
 * Scorza's health improved markedly from 1906 and he was able to resume his research in algebraic geometry with a renewed vigour.
 * However, Scorza was appointed to fill Pieri's chair and, from the start of the academic year 1913-14, he taught the courses that Pieri had given.
 * One of the main ideas for which Scorza is known is that of Riemann matrices.

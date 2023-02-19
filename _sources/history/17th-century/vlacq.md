@@ -23,11 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Adriaan Vlacq** was a Dutch bookseller and publisher who devised and published tables of logarithms.
 
 ### Mathematical Profile (Excerpt):
-* It is unclear how much mathematical training Vlacq had but he became friendly with a surveyor Ezechiel de Decker who was particularly interested in the new ideas of calculating using tables of logarithms.
 * Vlacq worked with de Decker and translated Latin books written by Napier and Briggs into Dutch for him.
 * In 1626 Het eerste deel van de Nieuwe telkonst Ⓣ(The first part of the new thesis)  was published under de Decker's name with acknowledgement to Vlacq for considerable help.
 * This contained Briggs's logarithms from 1 to 10,000 but promised to publish, with Vlacq's assistance, a further work giving the logarithms from 1 to 100,000.
 * The full table of logarithms of 1 to 100,000 appeared in 1627 as Het tweede deel van de Nieuwe telkonst Ⓣ(The second part of the new thesis) under de Decker's name with again acknowledgement to Vlacq.
+* In 1628 Vlacq republished the 10 decimal place logarithm tables as Arithmetica logarithma sive logarithmorum chiliades tentum, pro numeris naturali serie crescentibus ab unitate ad 100000 ...
 * He appears to have had a connection with the Gouda firm of Petrus Rammaseyn and it is this firm that published the work, this time under Vlacq's name.
 * A French translation, Arithmetique logarithmetique, ou, La construction et usage d'une table contenant les logarithms de tous les nombres depuis l'unité jusque 100000 Ⓣ(Logarithmic arithmetic  or the construction and use of a table containing the logarithms of all numbers from 1 to 100000)  by Vlacq was also published Petrus Rammaseyn at almost the same time.
 * Vlacq's fame rests on these tables, which were well received and contain relatively few errors.

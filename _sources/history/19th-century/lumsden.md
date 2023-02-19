@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * During his first session at university, Lumsden studied Mathematics, Natural Philosophy	, and Chemistry.
 * After graduating Lumsden was appointed as an Assistant in Natural Philosophy at the University of Edinburgh (under the Nichol Foundation) for session 1919-20.
 * Lumsden then went to the University of Birmingham where he was appointed as a Lecturer in Mathematics in the following year.
-* Thomas Arnot Lumsden married Florence Milne Falconer in Abernyte, Perthshire on 4 August 1924.
 
 Born 19 September 1895, Edinburgh, Scotland. Died 17 August 1944, Edgbaston, Birmingham, England.
 

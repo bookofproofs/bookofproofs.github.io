@@ -34,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The English edition was repeatedly reprinted in the eighteenth century but without inclusion of revisions that Lamy later made in the French text.
 * Publishing this work anonymously did not save Lamy from trouble, however, since through his teaching at Angers he was known to be someone with a great respect for Descartes' philosophy.
 * Following the issue of the decree, Lamy was exiled by order of the King early in 1676 and he went to live alone in Saint-Martin de Miséré in Dauphiné.
-* Pasquier Quesnel was a friend of Lamy, and it is thought that he approached his brother to try to ensure that Lamy was able to return to teaching.
 * Certainly, Lamy's exile ended, thanks to the decision of Cardinal Le Camus, and he was able to teach again in the seminary in Grenoble.
 * We mentioned above Lamy's anonymous publication of De l'Art de parler in 1675.
 * Lamy reorganised the structure of rhetoric to begin with an account of language: the organs of voice and speech; the parts of speech; the need to use words in their proper sense.

@@ -23,6 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Guglielmo Libri** was an Italian mathematician who worked on mathematical physics, number theory and the theory of equations. He also published works on the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
+* Libri's research career in mathematics began while he was still an undergraduate and he published his first paper Memoria ...
 * Libri certainly took his role in the Academy very seriously but there was some resentment caused by the fact that he was not a native Frenchman, and this was somewhat increased by his own rather arrogant nature.
 * His friendship with Arago was certainly helpful to Libri in obtaining prestigious posts yet soon this relationship went sour (although we do not know the reason for this) and by 1835 instead of being recognised as close friends, the pair were recognised as bitter enemies.
 * Arago was a powerful figure in French mathematics at the time and counting him as an enemy meant that many in the mathematical establishment also became Libri's enemies.
@@ -45,6 +46,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * What are we to make of Libri's contributions here when we now know that indeed he was a thief?
 * These two sales of books imported from France contain a magnificent series of manuscripts and books by Galileo, Copernicus, Kepler, Cardan, etc., many with long notes pointing out their significance, and we must not allow ourselves to be blinded to the showmanship and originality of Libri's catalogue by his unenviable reputation as a forger and a thief.
 * Libri has fallen under a cloud which obscured his very real merits.
+* The immediate financial results of these two sales must have been disappointing, but in them Libri gave an impetus to collecting in the scientific fields ...
 * By 1868 Libri's health began to fail and, unable to return to France, he left England for his native Italy.
 * After his death, Léopold Delisle began a long investigation to settle the question of whether Libri was guilty of the charges on which he was convicted in 1850.
 * He showed with complete certainty that Libri was indeed a thief on a very large scale.

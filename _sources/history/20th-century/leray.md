@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Jean attended the Lycée at Nantes, then moving to the Lycée at Rennes before completing his education at the École Normale Supérieure where he was awarded his doctorate.
-* They had three children, Jean-Claude, Françoise, and Denis.
 * This led to a collaboration between Leray and Schauder and their joint work led to a paper Topologie et équations fonctionelles Ⓣ(Topology and functional equations) published in the Annales scientifiques de l'École normale Supérieure.
 * After his 1934 paper with Schauder, Leray published a paper on algebraic topology in the following year on the topology of Banach spaces.
 * In producing this theory Leray introduced many ideas of functional analysis which have today become standard tools.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Frank Morley** wrote mainly on geometry but also on algebra. He is best known for his theorem about the trisectors of the angles of a triangle.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Elizabeth Muskett, and his father was Joseph Roberts Morley.
 * Frank attended Seckford Grammar School in Woodbridge before he entered King's College, Cambridge, in 1879, having won an open scholarship.
 * An important influence on his school career was Airy who Frank had met through their shared passion for chess.
 * It was Airy's encouragement which saw Frank compete for the scholarship.
@@ -35,17 +34,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We should note that the marriage produced three sons, Christopher (born in Haverford on 5 May 1890), Felix, and Frank, who all went on to become Rhodes scholars.
 * Christopher Darlington Morley (1890-1957) became a novelist, and his works include The Trojan Horse, Kitty Foyle and The Old Mandarin .
 * Felix M Morley (1894-1982) became editor of the Washington Post and was also president of Haverford College from 1940 to 1945.
-* Frank Vigor Morley (1899-1985) became a director of the publishing firm Faber and Faber but was also a mathematician who collaborated with his father for over twenty years.
 * Morley was appointed Professor of Mathematics at Johns Hopkins University in 1900.
 * The strong graduate programme in mathematics which had been set up there continued to flourish but by 1900 it had begun to decline and Morley's appointment was a very definite attempt to reinvigorate the programme.
 * We should look now at Morley's mathematical achievements.
-* Many years later, in 1933, he published Inversive geometry written jointly with his son Frank V Morley.
 * Morley's own favourite among his geometry papers was On the Lüroth quartic curve which he published in 1919.
 * Morley loved posing mathematical problems and over a period of 50 years, starting in his undergraduate days, he published over 60 problems in the Educational Times.
 * We mentioned that Morley was a chess enthusiast while at school and, indeed, he was an exceptionally good chess player, so the problem above reflects one of his hobbies.
 * Yet, whatever the significance one chooses to attach to them, Morley must be given credit for both finding and solving such questions.
 * Morley made a major contribution to mathematics in the United States.
-* then he would begin to fiddle in his waistcoat pocket for a stub of pencil perhaps two inches long, and there would be a certain amount of scrabbling in a side pocket for an old envelope, and then there would be silence for a long time; until he would get up a little stealthily and make his way toward his study - but the boards in the hall always creaked, and my mother would call out, "Frank, you're not going to work!" - and the answer would always be, "A little, not much!" - and the study door would close.
 
 Born 9 September 1860, Woodbridge, Suffolk, England. Died 17 October 1937, Baltimore, Maryland, USA.
 

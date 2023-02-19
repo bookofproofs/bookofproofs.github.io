@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Boethius** was a Roman mathematician and philosopher who wrote texts on geometry and arithmetic which were used for many centuries during a time when mathematical achievement in Europe was at a remarkable low.
 
 ### Mathematical Profile (Excerpt):
-* Boethius was brought up in the house of the aristocratic family of Quintus Aurelius Memmius Symmachus.
-* In fact Symmachus himself had been consul in 485 just before Boethius's father.
 * Boethius was extremely well educated, being fluent in Greek and very familiar with the works of the Greek philosophers.
 * Although there is no firm evidence to prove that Boethius ever studied in Athens or Alexandria, many historians believe that this must have been the case for him to have achieved a unique level of scholarship among his countrymen.
 * Boethius served a term as consul in 510 while in 522 his two sons held the office of consul simultaneously.
@@ -41,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This led to Boethius himself being charged with treason, and other serious charges were also brought such as the practice of magic and of sacrilege.
 * Boethius was put in prison and there he wrote his most famous work De consolatione philosophiae.
 * This led him to imprison and execute his minister, the senator Boethius.
-* Symmachus, Boethius's father-in-law, defended him against the charges but this only led to Symmachus himself being charged.
 * Boethius was sentenced to death, the sentence was ratified by the Senate probably against its will, and it was carried out.
 * Perhaps aware that his aim in translating Plato was not to be fulfilled, Boethius put into his work a Platonic view of knowledge and reality.
 * We give an example of a picture of Boethius in his study which is taken from a translation of De consolatione philosophiae into French.

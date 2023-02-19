@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Laurence Chisholm Young** was a German-born mathematician who worked in measure theory, the calculus of variations, optimal control theory and potential theory.
 
 ### Mathematical Profile (Excerpt):
-* Laurence was the fifth of their six children and was born while his parents had their home in Göttingen, which they did until 1908.
-* Laurence (or Laurie as he was often called) was of course greatly influenced growing up in a family who devoted themselves totally to mathematics.
-* Laurence was taught languages and music by his mother, who generally saw that the children were progressing well academically.
 * Laurence attended the Gymnasium in Lausanne and completed his studies two years early.
 * It was a difficult period for Laurence, ready intellectually to be studying at university, but held back by the illness.
 * Young was Isaac Newton Student at Cambridge in 1930, was awarded an MA in 1931 after studying with Fowler and Littlewood, and he was elected to a fellowship in 1931.
@@ -38,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The book also tells us a great deal about the way Young himself approached mathematics.
 * Of course to read original sources requires a great knowledge of languages and this Young certainly possessed.
 * After he retired, Young taught students at the University of Campinas in Brazil for many years.
-* His wife Elizabeth died in 1995 and Young died of cancer five years later.
 
 Born 14 July 1905, Göttingen, Germany. Died 24 December 2000, Madison, Wisconsin, USA.
 

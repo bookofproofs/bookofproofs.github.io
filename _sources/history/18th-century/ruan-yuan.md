@@ -34,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Ruan's career as a government official led to him holding a variety of offices such as that of a minister in the Education Department of Shandong province from 1793 to 1795 when he took up a similar post in Hangzhou in the Education Department of Zhejiang province.
 * It was while he held this post that Ruan began his most famous work, namely the Chouren zhuan or Biographies of astronomers and mathematicians.
 * In this work Ruan put forward the idea, which had been gaining credence in China for some time, that all Western sciences were of Chinese origin.
-* The book suggests that it was difficult to separate astronomers and mathematicians, yet this seems not to be strictly accurate for Ruan includes as mathematicians those involved in computing the calendar, engineers, geographers, economists, and more surprisingly, some poets and musicians.
 * That was all that Ruan Yuan needed to bring to the fore "the strong and weak points" of both sciences in order to prepare a future synthesis.
 * In this year Ruan Yuan was appointed a professor of mathematics in the Imperial Academy as well as holding a number of posts in government departments.
 * In it Ruan advised the readers of the book not to follow the Copernican theory just because of its "newness".

@@ -37,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Later papers include: A very narrow spectral band (1984) which investigates the spectral properties of the Lorenz system; The local structure of a chaotic attractor in four dimensions (1984); Lyapunov numbers and the local structure of attractors (1985); On the existence of a slow manifold (1986); Atmospheric models as dynamical systems (1986); Computational chaos - a prelude to computational instability (1989); and The slow manifold - what is it?
 * In 1991 Lorenz gave the Jessie and John Danz Lectures at the University of Washington.
 * In measured tones, Lorenz starts slowly and builds up gradually a complete understanding of chaos.
-* Lorenz was married to Jane Logan (who died in 2001); they had three children, two daughters Nancy and Cheryl, and a son Edward.
 * Lorenz received many awards and honours for his remarkable contributions.
 
 Born 23 May 1917, West Hartford, Connecticut, USA. Died 16 April 2008, Cambridge, Massachusetts, USA.

@@ -25,10 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * John Maclaurin was more of a scholar than one would expect of a parish minister, for he had translated the Psalms into Gaelic.
 * Colin was the youngest.
-* His father died when Colin was six weeks old.
-* Colin Maclaurin's mother inherited a small estate in Argyllshire and it was on the estate that Colin spent the early years of his life.
-* His mother wanted a good education for Colin and his brother John, so the family moved to Dumbarton where the boys attended school.
-* In 1707, when Colin was nine years old, his mother died so the task of bringing up Colin and his brother John fell to their uncle Daniel Maclaurin who was the minister at Kilfinan on Loch Fyne.
 * Colin became a student at the University of Glasgow in 1709 at the age of eleven years.
 * Certainly Maclaurin's abilities soon began to show at Glasgow University.
 * This was the standard text for mathematical study at this time, but Maclaurin studied it on his own, quickly mastering the first six of the thirteen books of the Elements.
@@ -37,16 +33,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At the age of 14 Maclaurin was awarded the degree of M.A. after studying Latin, Greek, Logic, Moral Philosophy, Natural Philosophy and Mathematics.
 * However, Maclaurin had to defend a thesis in a public examination for the award of this degree (which is not the case today), and he chose On the power of gravity as his topic.
 * After graduating with the degree of M.A., Maclaurin remained at the University of Glasgow for a further year to study divinity.
-* After leaving Glasgow in 1714, Maclaurin returned to live with his uncle in the manse at Kilfinan.
 * These were happy years for Maclaurin who studied hard and walked in the nearby hills and mountains for recreation.
 * The appointment followed ten days of examinations to find the best candidate and it is clear that, despite there being another outstanding candidate, Maclaurin had the most knowledge of advanced topics.
 * Maclaurin was to make two journeys to London, and the first of these he made in 1719.
 * Maclaurin had already shown himself a very strong advocate of the mathematical and physical ideas of Newton, so it was natural that they should meet during Maclaurin's visit to London.
-* It is surprising that some of Newton's biographers, for example A Rupert Hall in his 1992 biography, should declare that Maclaurin and Newton never met.
 * Maclaurin received more than civility from the Royal Society, for he was elected a Fellow of the Royal Society during this visit to London.
 * A rather strange event in Maclaurin's career took place during the time he held the chair of mathematics at Aberdeen.
-* Polwarth invited Maclaurin to accompany his son George Hume (or Home) (1704 - 1724)  on such a grand tour and, it is not too surprising that Maclaurin accepted this chance to travel and meet with French mathematicians.
-* It was not a short tour, for Maclaurin spent two years travelling with Polwarth's son .
 * Maclaurin returned to Aberdeen to discover that the University was most certainly highly displeased that he had not been undertaking his duties for two years.
 * It was certainly not the case that Maclaurin had been idle during his time away, for, while in France, he had been awarded a Grand Prize by the Académie des Sciences for his work on the impact of bodies.
 * Despite being reinstated to his chair by the University of Aberdeen, Maclaurin sought a position in the University of Edinburgh.

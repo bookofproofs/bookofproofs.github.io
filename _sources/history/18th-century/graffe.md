@@ -23,11 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Karl Gräffe** was a German mathematician best remembered for his method of numerical solution of algebraic equations.
 
 ### Mathematical Profile (Excerpt):
-* His parents were of modest means, and could not provide much of an education for their son, but they was always intended that Karl would follow in his father's footsteps and become a jeweller.
-* However, at this point his father made a decision which meant that Karl's bid for education became much more difficult.
-* Dietrich Gräffe emigrated to America, leaving Karl to run the family jewellery business.
-* Karl was left with no choice since he had to bring in money to feed the impoverished family consisting of his mother and siblings.
-* Spehr, who was the same age as Gräffe and was also born in Brunswick, had suffered similar problems in having a father who was determined that his son should follow a trade rather than obtain an education.
 * Not only did Spehr's mathematical achievements give great encouragement to Gräffe but Spehr was also able to tutor his friend while he studied in the evenings.
 * After a lot of hard work, Gräffe managed to pass the entrance examinations of the Collegium Carolineum.
 * In 1824 Gräffe went to Göttingen where, like his friend Friedrich Wilhelm Spehr, he attended lectures by C F Gauss and Bernhard Thibaut.

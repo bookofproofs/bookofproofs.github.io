@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Johann Lambert** was the first to provide a rigorous proof that `$\pi$` is irrational.
 
 ### Mathematical Profile (Excerpt):
-* In 1635 the Lambert family, who were Calvinists, fled from Lorraine as religious refugees and settled in Mulhouse.
-* Lambert's father, Lukas Lambert, was a tailor as his own father had been.
-* Lukas married Elizabeth Schmerber in 1724 and Johann Heinrich Lambert was one of their five sons.
-* It was a large family, with two girls in addition to the five boys, and Lukas Lambert did not have sufficient income to enable him to support and educate the family in comfort.
 * Heinrich attended school in Mulhouse, receiving a reasonably good education up to the age of twelve, studying French and Latin in addition to elementary subjects.
 * Most young boys would have ended their education at that point, but not young Heinrich who continued to study in his own spare time.
 * In fact it was a natural occupation for Heinrich since he had acquired great skill in calligraphy and he was given a job at the ironworks at Seppois, which was south of Mulhouse and almost due west of Basel.
@@ -40,10 +36,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The French and Austrians began to get the upper hand in 1757 and occupied Göttingen while Lambert was studying there.
 * Lambert's first book, which was on the passage of light through various media, was published in The Hague in 1758.
 * Before returning to Chur, Lambert took his pupils to Paris, where he met d'Alembert, and to Marseilles, Nice, Turin, and Milan.
-* The thirty year old Lambert now decided that it was time to find a scientific position and left Peter von Salis's family soon after they had completed their "grand tour".
 * The exponential decrease of the light in a beam passing through an absorbing medium of uniform transparency is often called 'Lambert's law of absorption', although Bouguer discovered it earlier.
 * 'Lambert's cosine law' states that the brightness of a diffusely radiating plane surface is proportional to the cosine of the angle formed by the line of sight and the normal to the surface.
-* In 1760 Euler recommended Lambert for the position of Professor of Astronomy at the St Petersburg Academy of Sciences to fill a vacancy which, due to a reorganization of the Academy and political changes, remained unfilled for several years.
 * Lambert was asked to organise a Bavarian Academy of Sciences in Munich along the lines of the Berlin Academy, but he fell out with other members of the project and left the new Academy in 1762.
 * Lambert's book is also remarkable for the modernity of its methodological stand: his systematic survey of the differences among facts, theories, predictions and possible verifications was not emulated in cosmological literature until the 20th  century.
 * After returning from Munich, Lambert took part in a survey of the border between Milan and Chur, and also visited Leipzig where he was able to find a publisher for a work on philosophy Neues Organon (published in 1764).

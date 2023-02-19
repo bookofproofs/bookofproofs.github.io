@@ -23,14 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **M J M Hill** was professor at University College, London. He did important work on hydrodynamics and also on the teaching of mathematics, particularly on teaching [Euclid's Elements][bookofproofs$621].
 
 ### Mathematical Profile (Excerpt):
-* Samuel John Hill (1825-1891) was a missionary who had been born in Berhampur India, the son of the missionary Micaiah Hill and Mary Beardmore.
-* Samuel and Leonora Hill then went to Berhampur where Micaiah John Muller Hill, the subject of this biography, was born.
-* Their second child Samuel Charles Hill was born in Berhampur in 1857 but the family then returned to England where their next two children, William Kirkpatrick Hill and Mary Ellen Hill, were born in 1862 and 1864 respectively.
-* Samuel and Leonora and their two youngest children returned to Berhampur, India where their fifth and last child George Francis Hill was born in 1867.
-* Micaiah John Muller Hill remained in England, however, where he and his brother were educated at the Sons of Missionaries boarding school.
 * In India Samuel John Hill opened a new Anglo-Vernacular School in Berhampur in 1868 and took charge of the Berhampur station two years later.
-* In 1872 Leonora Hill's health became poor and she returned to London, England, with her three children, arriving on 8 August.
-* Let us record at this point some details of Micaiah John Muller Hill's brothers.
 * Samuel Charles Hill was educated at the Sons of Missionaries School, Blackheath, England and became an historian of India writing a number of popular books.
 * William Kirkpatrick Hill studied at the University of London, and became a schoolmaster, journalist and author.
 * George Francis Hill was also educated at the Sons of Missionaries School, Blackheath, studied classics at University College London, and  joined the Coins and Medals Department of the British Museum.
@@ -53,8 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The bulk of the routine work of undergraduate teaching, such the correction of students' exercises, fell upon the professor, and this work Hill, trained as he had been in a hard school, performed with unflagging energy and zeal, and an unselfish devotion which won him the affection and admiration of generation after generation of students.
 * Given the pressures on Hill in his new appointment, it is not surprising that he published little in the first few years after becoming a professor at University College.
 * Hill published further important contribution to singular equations with On Node-and Cusp-Loci, which are enveloped by the Tangents at the Cusps (1890) and On the locus of singular points and lines which occur in connection the theory of the locus of ultimate intersections of a system of surfaces (1892).
-* On 21 December 1892, Hill married Minna Grace Tarbotton (known as Minnie) at St Saviour's Church, Paddington, London.
-* Micaiah and Minnie Hill had three children: Roderick Maxwell Hill (1894-1954); Geoffrey Terence Rowland Hill (1895-1955); and Elfrida Lilian Hill Gwendolen (1898-1971), known as Gwen.
 * Gwen Hill became a radiologist.
 * Let us return to Micaiah Hill's career.
 * Now it is important to understand that Hill started out his research career making significant advances to hydrodynamics and he continued with this interest.
@@ -63,7 +54,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hill was elected President of the London Branch of the Mathematical Association and gave the Presidential Address on The Theory of Proportion on 10 February 1912.
 * Griffith tried to gain recognition of the abilities of Srinivasa Ramanujan and wrote to Hill on 12 November 1912 sending some of Ramanujan's work and a copy of his 1911 paper on Bernoulli numbers.
 * Hill did read Ramanujan's paper about the Bernoulli numbers quickly and wrote to Griffith again on 7 December 1912.
-* Hill's wife Minnie died on 10 January 1920 at their home, 39 West Heath Drive, Hampstead, Middlesex.
 * Hill was one of those who fought for the establishment in London of a real teaching University; and from the re-constitution of the University in 1900 until 1926, when ill-health compelled his retirement, he was a member of its Senate, in which his balanced judgment, ever-courteous modesty, and, above all, his transparent honesty of purpose and that moral atmosphere which radiated from him and impressed all, even the bitterest opponents of his policy, who came into contact with him, soon gained for him a position of ascendancy.
 * Hill had served on the senate of the University of London from 1900 to 1926, and as vice-chancellor from 1909 to 1911.
 

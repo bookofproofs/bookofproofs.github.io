@@ -25,11 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * There is some confusion over both the date and year of Halley's birth.
 * The confusion over the year is less easy to decide, but we give 1656 which Halley himself claimed as the year of his birth.
-* Halley's father lost much in the great fire of London, which was in the year in which Halley was ten years old.
-* His father still could afford a good education for his son and Halley was tutored privately at home before being sent to St Paul's School.
-* So Halley entered Queen's College Oxford in 1673, when he was seventeen years old, already an expert astronomer with a fine collection of instruments purchased for him by his father.
 * Halley made important observations at Oxford, including an occultation of Mars by the Moon on 11 June 1676, which he published in the Philosophical Transactions of the Royal Society.
-* It is a little unclear what happened to Halley's undergraduate career, but what is certain is that he gave up his studies in 1676 and sailed to St Helena in the southern hemisphere in November of that year.
 * The most likely explanation is that with the opening of the Royal Observatory at Greenwich in 1675, Flamsteed undertook the task of mapping the northern hemisphere stars and Halley decided to complement this programme with undertaking a similar task for the southern hemisphere.
 * The weather in St Helena proved less good for astronomical observations than Halley had hoped, but despite this his eighteen month spell on the island resulted in his cataloguing 341 southern hemisphere stars and discovered a star cluster in Centaurus.
 * Halley returned to England in 1678 and published his catalogue of southern hemisphere stars.
@@ -39,11 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Halley did not seek a teaching post at this stage, preferring the freedom to travel and undertake research without commitments.
 * Halley observed a comet while near Calais and travelled to Paris where, together with Cassini, he made further observations in an attempt to determine its orbit.
 * Much of 1681 Halley spent in Italy.
-* Back in England in the following year Halley married Mary Tooke, while his father remarried (Halley's mother having died ten years earlier).
-* Not only did marriage bring financial responsibilities to Halley, but his father's marriage seems to have been a total disaster and as a consequence of this support from his father soon dried up.
-* Just before his father disappeared, Halley had been involved in an exciting piece of research.
 * Wren, Hooke and Halley then discussed whether it could be shown that the inverse square law implies elliptical orbits for the planets, but failed to come up with a proof.
-* Halley's work on these problems was disrupted during the following weeks by the difficulties surrounding his father's disappearance and death, but by August 1682 Halley was pursuing the problem further by visiting Newton in Cambridge.
 * but for Halley the Principia would not have existed.
 * By now Halley was certainly not a rich man and although in the end his financial outlay which allowed the Principia to be published was reimbursed from the sales, he now sought an academic post.
 * Halley's close association with Newton lowered him still further in Flamsteed's eyes.
@@ -66,7 +58,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1710, using Ptolemy's catalogue, Halley deduced that the stars must have small motions of their own and he believed that he was able to detect this proper motion in three stars.
 * Halley played an active role in the events and controversies of his time.
 * Halley did much to calm disputes, but also seemed to go out of his way to make his dispute with Flamsteed worse.
-* Flamsteed's widow was so angry that she had all her husband's instruments from the Royal Observatory sold so that Halley would not have the use of them.
 * At the Greenwich Royal Observatory Halley used the first transit instrument and devised a method for determining longitude at sea by means of lunar observations.
 * However, Halley has been criticised for his work as Astronomer Royal.
 * It has also been claimed that Halley's observations were carelessly carried out.

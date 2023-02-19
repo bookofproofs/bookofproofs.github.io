@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gustav Hertz** was a German physicist and Nobel Prize winner for his work on inelastic electron collisions in gases.
 
 ### Mathematical Profile (Excerpt):
-* Gustav Hertz (senior) was a lawyer who was one of the brothers of Heinrich Hertz, the discoverer of wireless waves, who also has a biography in this archive.
-* Gustav, the subject of this biography, attended the Johanneum Gymnasium in Hamburg as his famous uncle had done about thirty years earlier.
 * As was the custom with German students at this time, Hertz did not complete his studies at a single university, but moved around to sample the best of a number of institutions.
 * After Göttingen, Hertz moved to Munich where he studied at the university before moving to the University of Berlin in 1909 to study for his doctorate.
 * In 1913 Hertz was appointed as an Assistant in Physics at the University of Berlin.
@@ -36,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After being awarded the Nobel Prize for Physics in 1925, Hertz gave his Nobel lecture on The results of the electron-impact tests in the light of Bohr's theory of atoms  on 11 December 1926.
 * Hertz qualified under the exemptions, but this was not honoured over the following period.
 * Hertz resigned his positions at the Technological University of Berlin in 1935 and returned to industry being appointed Director of the Siemens physics laboratory.
-* In 1941 Hertz's wife Ellen died.
 * When the war ended in 1945 Hertz went to the Soviet Union where he worked as the head of a research laboratory.
 * Hertz received many honours in addition to the 1925 Nobel Prize in Physics.
 

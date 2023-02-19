@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 Pioneering **Kathleen Booth** developed the first assembly language, co-invented the Booth multiplier and linking loader, and co-commercialized the first compiler.
 
 ### Mathematical Profile (Excerpt):
-* Kathleen, the second of their three children, is the subject of this biography.
 * Kathleen began her schooling in 1929 at St Paul's Convent in Sutton Coldfield.
 * After a year at Sutton Coldfield High School, Kathleen moved to West Bromwich Secondary School.
 * When war was declared in 1939, the girls were evacuated to Pates Grammar School in Cheltenham and it was there that Kathleen completed her schooling.
@@ -38,13 +37,9 @@ Pioneering **Kathleen Booth** developed the first assembly language, co-invented
 * They travelled back to England on different ships, Britten arriving back in Southampton on the S S Queen Elizabeth on 8 September 1947 while Booth arrived in Liverpool on 12 September 1947 on the Cunard White Star ship Media.
 * On 1 October 1947 Andrew Booth and Kathleen Britten submitted the paper The accuracy of atomic co-ordinates derived from Fourier series in X-ray crystallography.
 * This paper continued work that Andrew Booth had been undertaking but developing it further with mathematical skills from Britten.
-* In the same year she married Andrew Booth.
-* Andrew and Kathleen Booth had two children: Ian J Booth, who became a physicist, and Amanda Booth (born March 1962), who became a vet.
 * From the start, Kathleen was closely involved in the building and testing of the computers that Andrew designed.
 * Andrew and Kathleen Booth co-authored the book Automatic digital calculators which was published in 1953.
 * Back in London, Kathleen Booth directed the development of suitable programs for translation.
-* Kathleen Booth and her husband travelled to Australia to attend a week long computer conference at the Weapons Research Establishment at Salisbury, South Australia in June 1957.
-* On the list of passengers, Kathleen describes her occupation as 'mathematician' while her husband gives 'physicist'.
 * Kathleen and Andrew Booth were working in Birkbeck College's Computer Laboratory but in 1957 a Governors' Resolution converted that into a separate university department named the Department of Numerical Automation.
 * Andrew Booth was head of the Department, which some claim to be the first department in the UK to teach computing.
 * Kathleen Booth taught courses on programming in the Department of Numerical Automation and this led naturally to her writing a book on programming.
@@ -60,7 +55,6 @@ Pioneering **Kathleen Booth** developed the first assembly language, co-invented
 * On the side our work on Movable Type had continued under the supervision of Dr Kathleen Booth and our system had been demonstrated to the Queen's Printer.
 * In 1972 Andrew Booth was appointed as President of Lakehead University, Thunder Bay, Ontario.
 * Kathleen Booth also left the University of Saskatchewan at this time and was appointed as an honorary Professor of Mathematics at Lakehead University.
-* Kathleen remained active in her research on neural networks and, in 1993 she published the joint paper Using neural nets to identify marine mammals which she co-authored with her son Ian J Booth.
 * Both Kathleen and Ian Booth give their address on the paper as Autonetics Research Associates, Inc., Sooke, BC, Canada.
 * Andrew Booth was 91 years old when he died in a hospital of heart and kidney failure on 29 November 2009 in Victoria.
 * Shortly before, on 9 June 2022, the Andrew and Kathleen Booth Memorial Lecture was given at Birkbeck College and Kathleen sent a video message which was played after the main lecture.

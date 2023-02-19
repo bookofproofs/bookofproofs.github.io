@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James Clerk Maxwell** was a Scottish mathematician who did revolutionary work on electricity, magnetism, optics and on the kinetic theory of gases.
 
 ### Mathematical Profile (Excerpt):
-* When James was eight years old his mother died.
 * A 16 year old boy was hired to act as tutor but the arrangement was not a successful one and it was decided that James should attend the Edinburgh Academy.
-* James, together with his family, arrived at 31 Heriot Row, the house of Isabella Wedderburn his father's sister, on 18 November 1841.
 * P G Tait, although almost the same age, was one class below James.
 * In early 1846 at the age of 14, Maxwell wrote a paper on ovals.
 * Maxwell also defined curves where there were more than two foci.
@@ -39,15 +37,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Maxwell remained at Cambridge where he took pupils, then was awarded a Fellowship by Trinity to continue work.
 * One of Maxwell's most important achievements was his extension and mathematical formulation of Michael Faraday's theories of electricity and magnetic lines of force.
 * Maxwell showed that a few relatively simple mathematical equations could express the behaviour of electric and magnetic fields and their interrelation.
-* However, in early 1856, Maxwell's father became ill and Maxwell wanted to be able to spend more time with him.
-* Maxwell travelled to Edinburgh for the Easter vacation of 1856 to be with his father and the two went together to Glenlair.
-* On 3 April his father died and, shortly after, Maxwell returned to Cambridge as he had planned.
 * In November 1856 Maxwell took up the appointment in Aberdeen.
 * When the subject announced by St John's College Cambridge for the Adams Prize of 1857 was The Motion of Saturn's Rings Maxwell was immediately interested.
 * Maxwell and Tait had thought about the problem of Saturn's rings in 1847 while still pupils at the Edinburgh Academy.
 * Maxwell decided to compete for the prize and his research at Aberdeen in his first two years was taken up with this topic.
-* Maxwell became engaged to marry Katherine Mary Dewar in February 1858 and they married in June 1859.
-* Despite the fact that he was now married to the daughter of the Principal of Marischal College, in 1860, when Marischal College and King's College combined, Maxwell, as the junior of the department, had to seek another post.
 * When the Chair of Natural Philosophy at Edinburgh became vacant in 1859, Forbes having moved to St Andrews, it seemed that fate had smiled on Maxwell to bring him back to his home town.
 * Many of Maxwell's friends were also applicants for this post including Tait and Routh.
 * Maxwell lost out to Tait despite his outstanding scientific achievements.

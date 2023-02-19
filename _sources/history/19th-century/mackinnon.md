@@ -23,12 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Annie MacKinnon** was the third woman to be awarded a Ph.D. in mathematics from an American university. She was a postdoctoral student at Göttingen with Felix Klein, then a Professor of Mathematics at Wells College, New York. She gave up her career when she married Edward Fitch.
 
 ### Mathematical Profile (Excerpt):
-* Annie was the daughter of Malcolm MacKinnon (1838-1903) and Annie Louise Gilbert (1842-1919).
-* Malcolm MacKinnon, born 12 February 1838 in Vaughan, Ontario, Canada, married Annie Gilbert on 31 December 1863 in Oxford, Ontario, Canada.
 * Annie Gilbert had been born on 11 July 1842 in Toronto, Canada.
-* Malcolm and Annie MacKinnon had five children: Gilbert J MacKinnon (1866-1877), Annie Louise McKinnon (1868-1940), the subject of this biography, Malcolm MacKinnon (1870-), Frederick Benjamin Mackinnon (1872-), and Donald Stanley MacKinnon (1879-1975).
 * Malcolm MacKinnon declared his intention to become a naturalised American citizen on 25 January 1871 and was naturalised on 9 June 1875.
-* As his daughter, Annie also became a naturalised American on 9 June 1875.
 * Annie grew up in Concordia and was educated at Concordia High School.
 * This university had only been opened in 1866 and the first class graduated in 1873, only two years before MacKinnon began her studies there.
 * MacKinnon majored in mathematics and graduated with a B.S. in 1889; she then continued to undertake graduate work at the University.
@@ -40,16 +36,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * A Women's Education Association of Boston European Fellowship funded MacKinnon for a second year at Göttingen.
 * Three Americans who were studying at Göttingen at the same time as MacKinnon should be mentioned here.
 * John H Tanner, who was awarded a B.S. in 1891, had been an Instructor in Mathematics at Cornell in 1892-94, the two years that MacKinnon was at Cornell, and was then two years at Göttingen, the same two years 1894-96 during which MacKinnon studied there.
-* As we mentioned above, she later married Henry Newson who had been MacKinnon's advisor for a year.
 * The third person who was at Göttingen at this time that we must mention was Edward Fitch, an assistant professor of Greek at Hamilton College, who was undertaking research for his doctorate.
-* He later became MacKinnon's husband so we will give more details about him below.
 * After she returned to the United States from the two years spent in Göttingen, MacKinnon was appointed Professor of Mathematics at Wells College in 1896.
 * It was a small college and MacKinnon was the only member of the mathematics department, teaching the whole mathematics syllabus.
-* On 3 July 1901 MacKinnon married Edward Fitch (1864-1946) in Lakeside, Ohio.
 * Edward Fitch had been born on 21 May 1864 to George William Fitch and Harriet Sinclair in Walton, New York.
 * This does not contradict the above quote since Kirkland, where the Fitchs lived, is in the Clinton area, as is Hamilton College.
 * Annie Fitch was buried in Hamilton College Cemetery, Clinton.
-* Her husband, Edward Fitch, died on 15 April 1946.
 
 Born 1 June 1868, Woodstock, Ontario, Canada. Died 12 September 1940, Kirkland, Oneida County, New York, USA.
 

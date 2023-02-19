@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Smirnov had become friends with a number of outstanding mathematicians while at the Second Gymnasium.
 * In 1910 Smirnov graduated from St Petersburg and remained at the University to study for the higher degrees which would allow him to become a university teacher.
-* Smirnov was a very active member of this circle, for example lecturing on the theory of algebraic equations, particularly the work of Goursat and Appell.
 * Smirnov worked jointly with his friends from the Second Gymnasium.
 * From 1912 Smirnov taught at the St Petersburg Institute of Railway Engineering.
 * Smirnov was awarded his doctorate in 1936 and he became head of the Institute of Mathematics and Mechanics.

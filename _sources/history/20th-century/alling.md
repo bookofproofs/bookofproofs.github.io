@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * However it ended its relationship with Columbia in 1944 so by the time Alling entered it was a private, coeducational institution of higher learning.
 * After the award of his Bachelor's Degree, Alling entered Columbia University in New York and was awarded his Master's Degree in 1954.
-* It was on 20 August 1957 that he married Katharine McPherson Page; they had two children Elizabeth Larrabee Alling and Margaret Tilden Alling.
 * Alling did not remain at Columbia University to finish off writing his thesis, however, but rather took up an appointment as an assistant professor at Purdue University in West Lafayette, Indiana, in 1957 after he stopped lecturing at Columbia.
 * It was around this time that Ribenboim and Alling first met.
 * Alling lectured at the Massachusetts Institute of Technology from 1962 to 1964 when he was awarded a National Sciences Foundation Senior Postdoctoral Fellowship which enabled him to spend 1964-65 undertaking research at the Massachusetts Institute of Technology.

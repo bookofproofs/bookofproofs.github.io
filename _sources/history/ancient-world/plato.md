@@ -28,20 +28,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Firstly that Plato wrote the letters and therefore the details are accurate.
 * Secondly that although not written by Plato, the letters were written by someone who knew him or at least had access to accurate information on his life.
 * Next we should comment on the name 'Plato'.
-* Plato was the youngest son of Ariston and Perictione who both came from famous wealthy families who had lived in Athens for generations.
-* While Plato was a young man his father died and his mother remarried, her second husband being Pyrilampes.
 * It was mostly in Pyrilampes' house that Plato was brought up.
 * Aristotle writes that when Plato was a young man he studied under Cratylus who was a student of Heracleitus, famed for his cosmology which is based on fire being the basic material of the universe.
-* It almost certain that Plato became friends with Socrates when he was young, for Plato's mother's brother Charmides was a close friend of Socrates.
-* Plato was in military service from 409 BC to 404 BC but at this time he wanted a political career rather than a military one.
-* At the end of the war he joined the oligarchy of the Thirty Tyrants in Athens set up in 404 BC, one of whose leaders being his mother's brother Charmides, but their violent acts meant that Plato quickly left.
-* In 403 BC there was a restoration of democracy at Athens and Plato had great hopes that he would be able to enter politics again.
 * Plato left Athens after Socrates had been executed and travelled in Egypt, Sicily and Italy.
 * Again there was a period of war and again Plato entered military service.
 * It was claimed by later writers on Plato's life that he was decorated for bravery in battle during this period of his life.
 * Plato returned to Athens and founded his Academy in Athens, in about 387 BC.
 * The Academy was an institution devoted to research and instruction in philosophy and the sciences, and Plato presided over it from 387 BC until his death in 347 BC.
-* However, having given them the values that Plato believed in, Plato thought that these men would be able to improve the political leadership of the cities of Greece.
 * Only two further episodes in Plato's life are recorded.
 * Plato did not expect the plan to succeed but because both Dion and Archytas of Tarentum believed in the plan then Plato agreed.
 * Plato returned to Athens, but visited Syracuse again in 361 BC hoping to be able to bring the rivals together.

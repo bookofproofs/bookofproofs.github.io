@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * The Kindertransport allowed Karl to be sent to England in March of 1939 but life was not easy for the ten year old German speaking boy.
 * At first Karl attended Shaftesbury Grammar School in Dorset.
-* Gradually life got better and in 1943 Karl and his mother moved to London where he entered Kilburn Grammar School.
 * Soon Gruenberg flourished, achieving excellent school grades, and his broad international based views meant he became very happy with his new life.
 * By this time Gruenberg had become a British citizen, all the procedures being completed by 1948.
 * Before the award of his doctorate Gruenberg had published a number of papers such as Some theorems on commutative matrices (1951), A note on a theorem of Burnside (1952), Two theorems on Engel groups (1953), and Commutators in associative rings (1953).

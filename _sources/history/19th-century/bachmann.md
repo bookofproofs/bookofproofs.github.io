@@ -23,11 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Paul Bachmann** was a German mathematician best known for his work in analytic number theory and for introducing the O-notation.
 
 ### Mathematical Profile (Excerpt):
-* Johann Bachmann had been born in Drossen, Prussia, the son of the Lutheran minister Christian Friedrich Bachmann.
-* They had another three sons and one daughter: Johann (1832-1888); Julie (1833-1900); Paul (1837-1920); and Gustav (1842-1890).
-* Paul is the subject of this biography, but the other two sons also had notable careers, Johann as a professor of theology at Rostock and Gustav as an engineer, officer and teacher at the military academy in Kassel.
-* Paul's father Johann became a pastor at the St Jacobi Kirche in the Luisenstadt district of Berlin soon after it was built in 1844-45.
-* Paul was brought up in a strict home where his modest nature was encouraged, and where he became an enthusiastic and highly talented musician.
 * It was undoubtedly his skills which turned Bachmann into a top class mathematician.
 * Bachmann graduated from the Gymnasium in March 1855 but his health at this stage was not good so, in order to recover from tuberculosis, he was advised to spend the summer in Switzerland which he did before beginning his university education.
 * Bachmann entered the University of Berlin (the Friedrich-Wilhelms-Universität) in the autumn of 1855 and studied mathematics there in the Faculty of Philosophy.

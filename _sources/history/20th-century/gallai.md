@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * In fact Tibor was not born with the name "Gallai" but was actually named Tibor Grünwald.
-* Quite why the name Gallai was chosen is unclear other than it preserves his initials.
 * We shall call him Gallai throughout this biography but in fact he was known as Tibor Grünwald up to the beginning of World War II.
 * The last paper he published under the name Tibor Grünwald appeared in 1939.
 * There were two mathematicians in Budapest in the 1930s who were both named Grünwald, namely Tibor Grünwald (the Tibor Gallai of this biography) and Géza Grünwald, but they were not related.
@@ -54,7 +53,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Gallai moved to the University of Technology in 1948-49, where he became head of the Department of Mathematics.
 * For more than ten years, Gallai had been with her from morning to night, doing everything required for such a disease.
 * He always went to Gallai and encouraged him to think about mathematics.
-* When his wife died, Gallai was already seventy years old.
 * We have already seen that Gallai was reluctant to publish his results.
 * "Gallai was so terribly modest," explained George Szekeres.
 * He said that he could not decide which foot to put down first." "Gallai was Paul Erdős's best, closest friend," continued George.

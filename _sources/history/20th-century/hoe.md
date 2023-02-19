@@ -23,21 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jock Hoe**, a New Zealander with Cantonese parents, made a substantial contribution with his work on _The Jade Mirror of the Four Unknowns_ translating and giving an important commentary on this Chinese mathematical work of 1303.
 
 ### Mathematical Profile (Excerpt):
-* His Cantonese parents had immigrated to Te Kuiti where his father, J Hoe, had a fruit and vegetable shop.
 * The King Country Chronicle of Saturday 14 December 1929 contains an advertisement for the Hoe Bros.
 * We are unsure when Jock's parents arrived in Te Kuiti but the shop was operating by 1922.
-* Jock Hoe was the seventh of his parents' nine children.
-* Jock began his primary schooling in Newtown and, after the family moved to Wanganui, continued studying at primary school there.
-* As in Te Kuiti, Jock's father had a fruit and vegetable shop in Wanganui.
-* The family were all very talented and we give extracts from local papers about some of Jock's siblings.
-* Three members of the family of a Chinese fruiterer Mr J Hoe passed this year's matriculation examination entitling them to entrance to the University.
-* One child, Jack Hoe, attended Wanganui College.
-* Another member of the same family Gan Hoe.
 * Their parents are Mr and Mrs J Hoe, Swiss Avenue.
 * Jack Hoe was 147th in the list of 209 bursary awards.
 * Jack William Hoe attended Wanganui Collegiate School from 1936 to 1941, then went on to study medicine being awarded an M.B., Ch.B. He was placed on the Medical Register of the Dominion of New Zealand in 1948.
 * Verbena R Hoe also studied medicine.
-* His father had bought a piano for ten pounds and Jock taught himself to play it, later having piano lessons because he showed such interest and promise.
 * It was in 1942 that Jock entered Wanganui Collegiate School and he studied there until 1946.
 * In January 1947 Jock Hoe was awarded a National Scholarship, being only one of 20 students to receive such an award, which paid both his university fees and provided a living allowance.
 * Jock Hoe entered the University of Otago in 1947 to study mathematics.
@@ -49,7 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hoe matriculated at Corpus Christi College Cambridge in 1953 and read the mathematical tripos, specialising in mathematical statistics.
 * While at the University of Malaya, Hoe collaborated in writing the 465-page book Traffic flows through Port Swettenham projected to 1975 which was published in 1964.
 * By the time the book was published Hoe had left the University of Malaya and returned to New Zealand where he was appointed as a lecturer in mathematics at the Victoria University of Wellington.
-* Hoe's thesis was L'algèbre chinois à la fin du XIIIe siècle à travers l'étude des systèmes d'équations polynômes traités par Zhu Shijié dans son livre 'Le miroir de jade des quatre inconnues: Siyuán Yùjiàn' de 1303 Ⓣ(Chinese algebra at the end of the 13th century through the study of systems of polynomial equations treated by Zhu Shijié in his book 'The jade mirror of the four unknowns: Siyuán Yùjiàn' of 1303 ).
 * John Hoe, who teaches in the Mathematics Department of the Victoria University of Wellington, New Zealand, has written a profound study of the 'Ssu-yuan yü-chien'.
 * We mentioned above the semi-symbolic language Hoe invented and used in Appendix 2 of his thesis.
 * Jock hence demonstrated that Chinese script inherently provided a symbolic handling for algebraic quantities and actions, and that this ability of the Chinese language helps to explain why a separate symbolic algebra did not develop in China: it was not needed.
@@ -63,6 +53,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was, in fact, in 1982 that Hoe resigned his position at the Victoria University of Wellington and moved to Shanghai.
 * The fear of intervention from a few Chinese-New Zealanders who had citizenship such as Jim Wong, Nancy Goddard (née Kwok) and later Jock Hoe rose to prominence but for many their involvement was either veiled in secrecy or through a companion front organisation.
 * Graeme Clarke said that in 1980 Jock Hoe had made pro-cultural revolution comments, Hoe had long drifted away from the Society by this stage and had lived outside of New Zealand for much of the intervening period.
+* Jock Hoe, who taught history in Shanghai, had been involved with the Society for many years ...
 * Hoe taught history and English at the English Language Institute in Shanghai for a few years, then returned to New Zealand to take up an appointment teaching Chinese at Christchurch Polytechnic and at Massey University.
 * After he retired from teaching, Hoe welcomed groups of students to his home to discuss the history of Chinese science.
 

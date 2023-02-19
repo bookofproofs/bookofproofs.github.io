@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **László Rátz** was a Hungarian mathematics high school teacher best known for educating such people as John von Neumann and Eugene Wigner.
 
 ### Mathematical Profile (Excerpt):
-* Ågost and Emma had six children: Emma Carolina Rátz (1852-1879); Ågost Ede Rátz (1854-1892); Ottó Rátz (1857-1914); Károly Rátz (1859-1907); Lászlo Rátz (the subject of this biography); and Lujza Rátz (1869-1945).
 * Lászlo Rátz was given the name Ladislaus Wilhelm Rátz when he was born, since Sopron belonged to a German speaking area, but he chose to use the Hungarian version of his name.
 * Both Rátz's primary and secondary schooling was in Sopron.
 * The director of the school at this time was Leo Salamin (1832-1902) who, for five years, taught Rátz the French language.

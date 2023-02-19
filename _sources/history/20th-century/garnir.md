@@ -27,8 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Garnir obtained his bachelor's degree in physical science in 1943 and a bachelor's degree in mathematical science in the following year.
 * Florent J Bureau supervised Garnir's studies for this mathematics degree and he continued to supervise Garnir's doctoral studies, most of which were carried out after Belgium had been freed by the Allies.
 * Garnir published a number of papers relating to his research during this period.
-* In 1946 Garnir published four articles: Sur la détermination des matrices satisfaisant à un système de relations de la théorie du méson Ⓣ(On the determination of matrices satisfying a system of relations in the theory of mesons); (with J Toussaint) Sur la théorie des valences dirigées Ⓣ(On the theory of directed valences); and the two-part article Une question de théorie des groupes et son application à un problème de vibrations posé par la chimie théorique Ⓣ(Group theory and its application to a vibration problem posed by theoretical chemistry).
-* In 1948 Garnir married Noëlly Pierre who was a school teacher; they had two children, Dominique (who became a medical doctor) and Henri-Pierre (who became a university lecturer in physics).
 * In year following his marriage, Garnir spent four months undertaking research in Paris.
 * Garnir was made Chef de travaux at Liège in 1950.
 * As the above quote indicates, Garnir's research interests did not remain in the area of applications of group theory.

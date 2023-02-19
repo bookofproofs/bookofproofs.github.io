@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Joseph  Boussinesq**  was a French mathematician and physicist who made contributions to the theory of hydrodynamics, vibration, light, and heat.
 
 ### Mathematical Profile (Excerpt):
-* His father, Jacques Boussinesq, was a farmer who owned a family farm in the district, while his mother, Anne-Marie Cavalier, was the daughter of an industrialist.
 * After completing his secondary education, Boussinesq wanted to study at Montpellier, the closest town where he could undertake higher education, but he required financial support to enable him to study there.
-* The problem was that Boussinesq's mother died in 1857 and his father made it very clear that his duty was to take over the running of the family farm.
 * Having been awarded a degree which qualified him to teach in secondary schools, Boussinesq followed a teaching career being appointed to the Lycée in Agde in 1862, that in Le Vigan in 1865, then in Gap in 1866.
 * These towns are all in the south of France: Agde is, like the town in which Boussinesq was born, in Hérault - in fact it is on the river Hérault, 4 km from the Mediterranean Sea; Le Vigan is 64 km north of Montpellier; but Gap is much further east - it is the capital of the Hautes-Alpes, about 800 metres above sea level on right bank of the Luye River.
 * It was while teaching at the first of these schools in Agde that Boussinesq became drawn towards research in mathematics when he read two texts by Gabriel Lamé, namely Théorie mathématique de l'Elasticité Ⓣ(Mathematical Theory of Elasticity) and Leçons sur la théorie analytique de la chaleur Ⓣ(Lectures on the analytic theory of heat).
@@ -35,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The examining committee, however, comprised of Joseph Serret, Joseph Bertrand and Charles Auguste Briot and Boussinesq defended his thesis in Paris before this committee on 13 May 1867.
 * Boussinesq had not concentrated on his thesis to the exclusion of other research, for he had worked on the theory of linear elasticity at the same time.
 * In fact from this time on Saint-Venant was Boussinesq's staunchest supporter and became even more influential in 1868 when he was elected to succeed Poncelet in the mechanics section of the Académie des Sciences.
-* Boussinesq had married Jeanne Giscard de la Roque in 1867 and, but for Saint-Venant's support and advice, might well have settled down to teaching in secondary schools.
 * Saint-Venant understood the system well and was able to advise Boussinesq that to obtain a university position in mechanics would be very difficult unless he had both a mathematics and a physics qualification.
 * Boussinesq's research contributions up to this point had been very substantial.
 * In fact Boussinesq gave the first mathematical treatment of the problem of the stability of solitary waves in the first of these 1871 papers.
@@ -49,8 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Boussinesq remained Professor of Physical and Experimental Mechanics at the Sorbonne for ten years, until he inherited the more prestigious chair of Mathematical Physics and Theory of Probabilities, a position which he kept until his retirement in 1918 at the age of 76.
 * This led him to make 'Boussinesq's hypothesis' which gained him considerable credit when it was later confirmed experimentally by Bazin.
 * He also developed an analytical theory of heat and made what has been called the 'Boussinesq Approximation'.
-* Eight years after Boussinesq arrived in Paris, his wife Jeanne died; they had no children.
-* Boussinesq again married in the year following his wife's death, on this third occasion to Jeanne Le Bouteiller.
 * In his obituary in 1933, his colleague Émile Picard only talked about Boussinesq's last years as an academic.
 * Picard pointed out, however, that there was no bitterness in Boussinesq's solitude.
 * Boussinesq loathed the introduction of such monsters as continuous functions without derivatives and of non-Euclidean spaces.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Giordano Bruno** was an Italian philosopher of science who was eventually burnt in Rome as a heretic.
 
 ### Mathematical Profile (Excerpt):
-* They baptised their son Filippo Bruno but later Filippo was called "Il Nolano" after the town of his birth which stands on the northeastern slope of Vesuvius.
 * Only at the age of 17 when he entered the Dominican convent of San Domenico Maggiore in Naples, where Thomas Aquinas had taught, did Filippo take the name Giordano.
 * Bruno left his home town of Nola to travel to nearby Naples when he was 14 years old to study there.
 * We shall see as we relate the story of Bruno's life how he continued to be influenced by the ideas of Averroism.

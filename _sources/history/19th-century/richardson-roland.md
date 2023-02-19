@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Roland Richardson** was a Canadian mathematician who worked in the USA. He is known for his work at Brown University and with the American Mathematical Society.
 
 ### Mathematical Profile (Excerpt):
-* Roland had a younger brother Ralph Percy Richardson, born on 2 November 1879 in Dartmouth.
 * After completing his secondary education, Richardson was appointed as a teacher at the fishing village of Margaretsville in Annapolis County, Nova Scotia.
 * Renamed Acadia College in 1841, it had become Acadia University in 1891, five years before Richardson began his studies there.
 * In 1899 Richardson was appointed as principal of the High School in Westport, Nova Scotia.
@@ -40,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * A number of articles written by Richardson were important in taking an overview of different aspects of mathematics instruction in America.
 * Richardson attended the International Congress of Mathematicians at Zurich, Switzerland, on 4-12 September.
 * Richardson received many honours for his contributions in addition to those bestowed by the American Mathematical Society mentioned in a quote above.
-* Indirectly Mrs Richardson contributed in no small measure to the happy solution of many of her distinguished husband's problems.
 
 Born 14 May 1878, Dartmouth, Halifax, Nova Scotia, Canada. Died 17 July 1949, South River Lake, Antigonish, Nova Scotia, Canada.
 

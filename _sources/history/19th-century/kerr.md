@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Kerr** was a lecturer in Mathematics and Physics at the Church of Scotland Teacher-Training College.
 
 ### Mathematical Profile (Excerpt):
-* John Kerr had an older brother William  (born about 1851) and younger sisters Helen (born about 1855), Ettie (born about 1857), Janet (born about 1860), Grace (born 1861) and Annie (born about 1864).
 * John Kerr was educated at Dumbarton Academy.
 * Dr Kerr was a Snell Exhibitioner of Balliol College, Oxford.
 * Kerr was a lecturer in Mathematics and Physics at the Church of Scotland Teacher-Training College (1877-90).

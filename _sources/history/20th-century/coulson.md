@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Charles Coulson**'s main area of interest was molecular physical chemistry, but he contributed to many other areas.
 
 ### Mathematical Profile (Excerpt):
-* His father was Alfred Coulson who became Principal of Dudley Technical College and went on to become an inspector of technical colleges.
-* Annie and Alfred Coulson had two children, twin sons Charles and John.
-* The family were Methodists and Charles and his brother were brought up in a very religious home; Charles' whole attitude to life was dominated by his Christian upbringing.
-* Charles was educated in Dudley up to the age of ten at which time his father joined the technical college inspectorate for south-west England and the family moved to Bristol.
 * Shortly after their marriage the couple moved to Dundee where Coulson was appointed as senior lecturer in mathematics at Queen's College, part of the University of St Andrews.
 * As a devout Methodist, Coulson was a conscientious objector during World War II.
 * In 1941 Coulson published Waves.

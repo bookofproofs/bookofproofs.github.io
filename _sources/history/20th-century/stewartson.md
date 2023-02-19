@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Keith Stewartson** was an English mathematician who worked in the theory of fluid flow.
 
 ### Mathematical Profile (Excerpt):
-* He was the youngest of his parents' three children, having one older brother Roy and a sister who died while Keith was too young to remember her.
 * Stewartson was an undergraduate at St Catharine's College, entering in 1942, but by that time special regulations for the Mathematical Tripos had been introduced because of the War.
 * It was in 1943 that Stewartson had attended a lecture given at Cambridge by Brodetsky on Aeronautical mathematics.
 * By the time Stewartson arrived, however, activity at Orford Ness was on the decrease and after a while he was moved to the Guided Projectiles Establishment at Westcott, Buckinghamshire.
@@ -37,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1963 Stewartson and Lighthill played major roles in the founding of the Institute of Mathematics and its Applications.
 * It formally existed from April 1964 with Lighthill as President and Stewartson as Vice-President, and Stewartson played a large role in setting the direction for the new body.
 * In London Stewartson made his home in Golders Green.
-* The family were happy living in the city, and Stewartson was able to indulge his love of the theatre and of opera.
 * Stewartson studied rotating fluid flows, shear layers, magnetohydrodynamics, the triple-deck theory, and flow at both high and low Reynolds numbers.
 * Stewartson received many honours.
 * Stewartson first had a health problem in 1974 when he suffered a small heart attack.

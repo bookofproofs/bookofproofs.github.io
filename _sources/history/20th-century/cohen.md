@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Paul Cohen** was an American mathematian who used a technique called _forcing _ to prove the independence in set theory of the axiom of choice and of the generalised continuum hypothesis.
 
 ### Mathematical Profile (Excerpt):
-* Abraham Cohen was basically an odd job man, turning his hand to a variety of different jobs, while his wife brought in some much needed money to the family from dressmaking.
-* Paul was the youngest of his parents' four children and he was brought up in Brooklyn, New York.
 * After graduating from Stuyvesant High School, Cohen was a student at Brooklyn College from 1950 until 1953 but left without taking a degree having been admitted to graduate studies at the University of Chicago after making a visit to discuss his research options at Chicago.
 * The years as a research student were good ones for Cohen and he made many friendships with fellow students, friendships that would last throughout his life.
 * In 1957, before the award of his doctorate, Cohen was appointed as an Instructor in Mathematics at the University of Rochester for a year.

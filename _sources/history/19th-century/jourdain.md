@@ -23,14 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Philip Jourdain**  was an English logician who worked on the foundations of set theory.
 
 ### Mathematical Profile (Excerpt):
-* Philip was born into a large family in the vicarage at Ashbourne.
 * One of the highlights was a course on mathematical logic given by Russell which strongly influenced Jourdain.
 * Inspired by Russell, Jourdain worked mainly in mathematical logic.
 * In 1913 Jourdain proposed the card paradox.
 * Jourdain also applied logic to physics in papers such as On some Points in the Foundation of Mathematical Physics which was published in The Monist in 1908.
 * Jourdain was recognised as the leading authority on Newton, and had done a large amount of research, with a view to publication of a new edition.
 * We must, however, mention that Jourdain had in preparation a large work on "The History of Mathematical Thought".
-* Jourdain married Laura Insull on 26 June 1915.
 * Many sufferers of Friedreich's ataxia do not survive past their twenties so, given his condition, Jourdain did remarkably well to live until he was only days short of his 40th  birthday.
 
 Born 16 October 1879, Ashbourne, Derbyshire, England. Died 1 October 1919, Crookham, Hampshire, England.

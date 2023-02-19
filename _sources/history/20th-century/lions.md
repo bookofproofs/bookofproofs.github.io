@@ -24,9 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Let us note that Grasse is not very far from Draguignan where Alain Connes, who won a Fields Medal 12 years before Lions won his Fields Medal, was born.
-* When Pierre-Louis was six years old his father became a professor in Paris and the family lived there.
 * Lions studied at the École Normale Supérieure from 1975 to 1979.
-* On 1 December 1979, after he received his doctorate, Lions married Lila Laurenti.
 * From 1979 to 1981 Lions held a research post at the Centre National de la Recherche Scientifique in Paris.
 * Lions has made some of the most important contributions to the theory of nonlinear partial differential equations through the 1980s and 1990s.
 * Pierre-Louis Lions is unique in his unbelievable ability to transcend these boundaries and to solve pressing problems throughout the field.

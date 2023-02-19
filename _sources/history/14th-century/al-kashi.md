@@ -36,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Al-Kashi had certainly found the right patron in Ulugh Beg since he founded a university for the study of theology and science at Samarkand in about 1420 and he sought out the best scientists to help with his project.
 * Ulugh Beg invited Al-Kashi to join him at this school of learning in Samarkand, as well as around sixty other scientists including Qadi Zada.
 * There is little doubt that al-Kashi was the leading astronomer and mathematician at Samarkand and he was called the second Ptolemy by an historian writing later in the same century.
-* Letters which al-Kashi wrote in Persian to his father, who lived in Kashan, have survived.
 * In 1424 Ulugh Beg began the construction of an observatory in Samarkand and, although the letters by al-Kashi are undated they were written at a time when construction of the observatory had begun.
 * In the letters al-Kashi praises the mathematical abilities of Ulugh Beg but of the other scientists in Samarkand, only Qadi Zada earned his respect.
 * Usually these problems were too difficult for all except al-Kashi and Qadi Zada and on a couple of occasions only al-Kashi succeeded.
@@ -54,6 +53,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He found that al-Kashi had an algorithm for calculating nnnth roots which was a special case of the methods given many centuries later by Ruffini and Horner.
 * The last work by al-Kashi was The Treatise on the Chord and Sine which may have been unfinished at the time of his death and then completed by Qadi Zada.
 * In this work al-Kashi computed sin 1° to the same accuracy as he had computed π in his earlier work.
+* But all these discoveries of al-Kashi's were long unknown in Europe and were studied only in the nineteenth and twentieth centuries by ...
 * Let us end with one final comment on the al-Kashi's work in astronomy.
 * We mentioned earlier the astronomical tables Khaqani Zij produced by al-Kashi.
 * It is worth noting that Ulugh Beg also produced astronomical tables and sine tables, and it is almost certain that these tables were based on al-Kashi's tables and almost certainly produced with al-Kashi's help.

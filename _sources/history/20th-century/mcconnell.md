@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James McConnell** was an Irish mathematician who worked on quantum mechanics and the applications of Lie groups.
 
 ### Mathematical Profile (Excerpt):
-* Robert McConnell died when James was four years old and he was brought up by his mother.
-* James and his mother were in Talbot Street in Dublin on 14 October 1920 when there was a shootout between a British Secret Service surveillance team and Seán Treacy, one of the leaders of the Irish Republican Army.
 * Treacy and two British agents were killed in the shootout and this traumatic experience was witnessed by the five year old James.
 * For the rest of his life James retained a vivid mental picture of the scene and he could name every shop on both sides of the street.
 * McConnell was educated at the O'Connell School on North Richmond Street in Dublin.
@@ -44,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At St Patrick's College, Maynooth, McConnell took on some administrative duties.
 * In 1968 McConnell was appointed as a Senior Professor in the School of Theoretical Physics of the Dublin Institute for Advanced Studies.
 * McConnell received many awards for his outstanding contributions.
-* Shortly after my father's death, Fr McConnell's descent into dementia commenced.
 
 Born 25 February 1915, Dublin, Ireland. Died 16 February 1999, Dalkey, Dún Laoghaire-Rathdown, County Dublin, Ireland.
 

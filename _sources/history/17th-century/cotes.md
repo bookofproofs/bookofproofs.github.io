@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Roger Cotes** was an English mathematician who edited the second edition of Newton's _Principia_. He made advances in the theory of logarithms, the integral calculus and in numerical methods, particularly interpolation.
 
 ### Mathematical Profile (Excerpt):
-* Roger had a brother Anthony one year older than himself, and a sister Susanna who was one year younger.
-* His uncle, the Reverend John Smith, was keen to give Roger every chance to develop these talents and so Roger went to live with him so that he might be personally tutored.
-* Roger later attended the famous St Paul's School in London, but he continued to be advised by his uncle and the two exchanged letters on mathematical topics during the time that Roger spent at school in London.
 * Roger matriculated at Trinity College, Cambridge, on 6 April 1699 as a pensioner, meaning that he did not have a scholarship and paid for his own keep in College.
 * This was a remarkable achievement for Cotes who, at that time, was on 23 years of age.
 * Both Newton and Whiston recommended Cotes for the Chair, as did Richard Bentley who was master of Trinity College.
@@ -47,7 +44,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Some of the work which Cotes hoped to publish with Cambridge University Press was published eventually by Thomas Simpson in The Doctrine and Application of Fluxions (2 Vols, London, 1750).
 * Robert Smith edited Cotes' major posthumous work, the Harmonia mensurarum which appeared in 1722.
 * It is fitting at this point to explain who Robert Smith was, and how he interacted with Cotes.
-* In fact he was the son of Cotes' uncle, the Reverend John Smith, and had become friends with Cotes when his uncle had him live in his house as a boy.
 * Later Robert Smith was Cotes' assistant when he was Plumian Professor, and eventually succeeded him as Plumian professor.
 * It was Smith who, many years after Cotes' death, when he was master of Trinity College, had a bust of Cotes erected.
 * Let us return to Cotes' posthumous work the Harmonia mensurarum Ⓣ(Harmony of measurements, or accounts of analysis and synthesis and to promote angular measures, among other works of mathematics).

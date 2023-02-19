@@ -23,12 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Johann Rahn** was a Swiss mathematician who was the first to use the symbol ÷ for division.
 
 ### Mathematical Profile (Excerpt):
-* Hans Rahn was Bailiff to Töss at the time his son Johann was born and later (1655-1669) he was Burgermeister of Zürich.
-* In fact when Johann was born his grandfather Hans Rudolf Rahn was Burgermeister of Zürich.
-* Hans Heinrich and Ursula had four children, two boys and two girls: Hans Conrad (born 1616) was Johann's elder brother, with Regula (born 1628) and Ursula (born 1635) being his two younger sisters.
 * Johann explains in his book that in his youth he enjoyed opportunities for study both in Switzerland and abroad.
-* It is thought that Johann Rahn's interest in mathematics came through his uncle Johann Georg Werdmüller who was an engineer.
-* This was also the time when Johann Rahn married Elisabeth Holzhalb (born in 1626); they had two children Hans Heinrich (born 9 March 1646) and Hans Rudolf (born 18 April 1669).
 * Johann Rahn followed in the tradition of having major roles in the administration of the city of Zürich.
 * Now Rahn was certainly interested in mathematics, and he was carrying out small investigations, but it was only after he came in contact with John Pell that he developed a deeper interest and considerably more expertise.
 * We do not know exactly when Rahn and Pell first came in contact but, given their respective roles, it is likely to have been soon after Pell arrived in Zürich.

@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Edward Titchmarsh** was an English mathematician best known for his work in analysis.
 
 ### Mathematical Profile (Excerpt):
-* His grandfather was a grocer in Royston while Ted's father, Edward Harper Titchmarsh, became a Congregational minister in Newbury, Berkshire.
-* Ted was the second of three children born to Edward and Caroline Titchmarsh.
 * In December 1916, when he was seventeen years old, Titchmarsh won an Open Mathematical Scholarship to Balliol College, Oxford and he began his studies there in October 1917.
 * Titchmarsh was fortunate to have arrived in France at a point when the tide of the war had changed.
 * There had been major offensives by the German armies throughout June and July of 1918 but as Titchmarsh landed in France the Allied forces were making steady advances, driving the German troops out of France.
@@ -33,11 +31,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Some of Titchmarsh's solutions replaced the official ones.
 * Titchmarsh attended this class, as did Mary Cartwright.
 * Of course Titchmarsh and Hardy had a common passion, namely cricket, which must have served Titchmarsh well.
-* His uncle was a professional cricketer and Titchmarsh often played in the regular cricket matches with Hardy.
 * Titchmarsh graduated with a First Class degree in 1922 and won mathematical scholarships for his outstanding work.
 * This appointment in London did not see Titchmarsh end his association with Oxford.
 * During the academic year 1928-29 Hardy was at Princeton, and it was Titchmarsh who took over the supervision of Mary Cartwright who was, at that time, one of Hardy's doctoral students at Oxford.
-* Despite having duties at both London and Oxford, Titchmarsh found time to visit his father who was by this time a Congregational minister in Essex.
 * Titchmarsh was appointed to Burkill's chair at Liverpool, a post he held for two years before he succeeded to Hardy's Savilian chair at Oxford when Hardy moved to Cambridge.
 * Titchmarsh said no, but (encouraged by Ferrar) thought that he might.
 * Titchmarsh held the Savilian Chair of Geometry at Oxford for 30 years.

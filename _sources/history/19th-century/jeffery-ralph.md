@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Frank Jeffery was a fisherman.
-* Ralph attended school up to Grade 8 when, in the middle of the year, he left to join his father as a fisherman.
-* It was Nellie Jeffery who persuaded her husband to continue with his education and enrol in Acadia University, Wolfville, Nova Scotia.
 * We have reached Jeffery's university education without mentioning mathematics.
 * This may not seem like a particularly good foundation for research in mathematics, but Jeffery had come to love the subject so much that he went to Cornell University to undertake graduate studies.
 * At this point Jeffery had not completed his doctorate so, in 1928, he returned to Cornell University to finish off his work.
@@ -38,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Jeffery received many honours for his outstanding work in encouraging mathematical research in Canada.
 * The Canadian Mathematical Society honoured him by setting up the Jeffery-Williams Prize to recognize mathematicians who have made outstanding contributions to mathematical research.
 * In 1956 Nellie Jeffery died.
-* In 1970, when he was 81 years old, Jeffery married Frances Lewis of Bedford.
 
 Born 3 October 1889, Overton, Yarmouth County, Nova Scotia, Canada. Died 1975, Wolfville, Nova Scotia, Canada.
 

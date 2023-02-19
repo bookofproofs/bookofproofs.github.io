@@ -23,13 +23,9 @@ contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,
 **Herbert Dingle** was an English physicist and philosopher of science who wrote a number of influential books. He was involved in several long-running disputes with other physicists.
 
 ### Mathematical Profile (Excerpt):
-* James Henry Dingle, born in Liskeard, Cornwall, the son of the shoemaker James Henry Dingle (1834-1915) and Rebecca Davy (1834-1919), married Emily Jane Goddard (1864-1942) in Liskeard, Cornwall in 1888.
-* They had two children, Reginald James Dingle (born 24 June 1889, died 27 October 1973) and Herbert Dingle, the subject of this biography.
-* At the time of the 1891 census Reginald was living with his paternal grandparents in Liskeard, Cornwall while Herbert was living with his widowed mother Emily Jane Dingle, his aunt Harriet F Goddard, and his maternal grandparents Joseph and Sophia Goddard in Plymouth.
 * Reginald Dingle became an editor and author, writing books such as Democracy in Spain (1905) and Russia's Work in France (1938).
 * Herbert was not able to finish school and started working as a clerk at age 14.
 * Dingle kept studying on his own, however, and earned a Royal Scholarship for Physics at Imperial College of Science and Technology, London, in 1915 at age 25.
-* Alice died in 1947 and Dingle never remarried.
 * Studying under R H Fowler, Dingle became interested in spectroscopy and its applications to astronomy.
 * Dingle participated in two failed expeditions to observe the Sun's spectrum during a total solar eclipse: the first in 1927 to Colwyn Bay when there was complete cloud cover and rain,  and the second in 1932 to Montreal when again it was cloudy.
 * Dingle also showed an early interest in relativity.

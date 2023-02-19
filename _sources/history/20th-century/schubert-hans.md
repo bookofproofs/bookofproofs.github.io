@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hans Schubert** was a German mathematician who worked on differential equations.
 
 ### Mathematical Profile (Excerpt):
-* His father was Franz Gustav Schubert, a secretary with the national railway company, and his mother was Klara Emma Götz.
 * In 1918, when Hans was ten years old, he entered the Realgymnasium in the nearby town of Crimmitschau.
 * In fact Heisenberg was appointed to a chair at Leipzig and started teaching there in the year in which Schubert began his undergraduate career.
 * It was the applied mathematician L Lichtenstein who became Schubert's thesis advisor in 1933 and under his guidance Schubert wrote a thesis Über einige Lichtensteinsche Hilfssätze der Potentialtheorie und ihre Anwendung auf die Hydrodynamik Ⓣ(About some lemmas of Lichtenstein on potential theory and its application to the hydrodynamics)  on potential theory and its applications to hydrodynamics.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Nicola Fergola** was an Italian mathematician with a interest in developing geometry by classical methods.
 
 ### Mathematical Profile (Excerpt):
-* Nicola showed unusual talents at a young age and his father thought he should study law so that he might get a job leading to good pay and be held in high esteem.
 * Fergola studied Latin literature at the Dominican school of Thomas Aquinas and here, for the first time, he came across geometry taught by an excellent teacher.
 * In fact Fergola would be a deeply religious man throughout his life and the ascetic values he learnt as a young man also remained with him.
 * Fergola began teaching philosophy at this school, which was later called the Liceo del Salvatore, in around 1770.
@@ -35,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * To understand why Fergola's contributions so often are based on his religious beliefs we need to look at this aspect of his life.
 * Fergola was a deeply religious man who particularly venerated the Virgin Mary.
 * Fergola lived essentially the life of an ascetic monk, eating only vegetarian meals and having none of the usual home comforts but living in a home with only the bare necessities for living.
-* Of course, being a good citizen of Naples required, as well as moral teaching, also an understanding of the politics of the day and this again formed part of Fergola's teaching.
 * In fact Fergola wrote religious as well as mathematical memoirs.
 * Fergola, who was a staunch royalist, fled from Naples and lived quietly in the countryside.
 * Fergola returned to take up his position again and, in recognition for his loyal support for the King, he and his pupils were given the leading chairs at the University of Naples as well as in the military and naval academies.

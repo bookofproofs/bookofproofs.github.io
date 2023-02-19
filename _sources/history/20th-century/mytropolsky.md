@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Yurii Alekseevich Mitropolskiy** was a Ukrainian mathematician known for his contributions to dynamical systems and nonlinear oscillations.
 
 ### Mathematical Profile (Excerpt):
-* His father, Aleksei Savvich Mitropolskii, had attended St Petersburg University but was called up for military duty in 1914.
-* When his son Yurii Alekseevich was born, Aleksei Savvich was serving at the front.
-* After he was demobbed in 1919 he went with his family to Kiev where Yurii Alekseevich was brought up from the age of two.
 * The University was evacuated from Kiev before the German troops reached the city and Mitropolskii was sent to the front.
 * Kazakh Al-Farabi State University was very new when Mitropolskii studied there, the University being founded in 1934.
 * Mitropolskii graduated from the Kazakh University in 1942 after studying there for six months.

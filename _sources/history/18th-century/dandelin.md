@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Germinal Dandelin** was a French mathematician best known for a method of approximating the roots of an algebraic equation.
 
 ### Mathematical Profile (Excerpt):
-* Germinal was the eldest child in the family having four younger brothers and one younger sister.
 * They lived in Ghent and, in 1807, Dandelin entered the lycée there.
 * However, Dandelin volunteered for military service and joined the Escaut National Guard as a sergeant.
 * Dandelin returned to the Lycée where he completed his school education being awarded First Prize in Mathematics in August 1813.

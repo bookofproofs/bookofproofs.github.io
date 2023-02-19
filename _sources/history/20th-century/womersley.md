@@ -23,26 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Womersley** was an applied mathematician who became involved in the early development of computers. Perhaps his most significant work, however, was in essentially creating the mathematical theory of blood flow.
 
 ### Mathematical Profile (Excerpt):
-* George Womersley had married Ruth at St Paul's Church in King Street, Morley, on 7 July 1904.
-* The marriage record gives George Womersley as 26 years old, living at Bridge Street, Morley, the son of James Womersley who was a mill-hand.
-* Alice, who was 17 years older than Ruth, had married John Pettler who was a newspaper reporter.
 * The 1911 Census lists John Ronald Womersley as 3 years old, living with his parents at 3 Stanhope Road, Thorpe, Wakefield, about 4 km from Morley.
-* John was his parents' only child.
 * John Womersley attended primary school in Morley, then in 1917 he entered Morley grammar school and, in 1922, he was awarded a Northern Universities School Certificate.
 * While he was studying at Imperial College, Womersley got to know Jean Isobel Jordan (1907-1995).
 * While in London, Womersley had decided that he would try to return to the north of England and get a position involving applications of mathematics.
-* On 18 April 1931 Womersley married Jean Isobel Jordan in St Catherine Coleman alias St Katherine's Church, North Hammersmith.
 * The marriage certificate gives Womersley's address as 45 Whitby Road, Fallowfield, Manchester while Jean Jordan's address is given as 58 Braybrook Street, London W12.
-* The witnesses included Womersley's father, George William Womersley, and his Jean Jordan's father, Alfred George Jordan, a publisher's agent.
-* John and Jean Womersley had three daughters:  Barbara Jean Womersley, Ruth Womersley, and Marion Womersley.
 * Two papers which Womersley published on the work he was undertaking at the Shirley Institute are Two nomograms for calculating the fluidity of cellulose solutions (1934) and The application of differential geometry to the study of the deformation of cloth under stress (1937).
 * While at the Shirley Institute, he met Leslie John Comrie (1893-1950) who had been promoted to Superintendent of the Nautical Almanac Office in 1930.
 * At Comrie's suggestion, Womersley spent a month at the Nautical Almanac Office learning Comrie's computational techniques.
 * Another of Womersley's friends was Douglas Hartree, the Professor of Applied Mathematics at the University of Manchester.
 * Two further multi-author papers relating to Womersley's work at the Shirley Institute were put on hold and only published after the war ended.
 * Womersley's reputation was by this time high and, in February 1937, he joined the Civil Service when he was recruited as a scientific officer in the Ballistics Branch of the Research Department.
-* This move meant that the family were now based in Woolwich in East London, which brought Womersley's wife back to her home territory.
-* Although Womersley's family survived, their house in Charlton was destroyed by a bomb and the family were evacuated to Cambridge.
 * Womersley had been building a differential analyser at Woolwich, but before the work was finished, it was destroyed in a bombing raid in September 1940.
 * The setting up by the Department of Scientific and Industrial Research of a Mathematics Division, equipped with mechanical computing devices, under Mr J R Womersley, in the National Physical Laboratory should meet a real need.
 * To prepare Womersley for one of his main tasks at the Mathematics Division, namely to build an electronic stored program computer, he was given clearance to visit the ENIAC (Electronic Numerical Integrator and Computer) project at the University of Pennsylvania's Moore School of Electrical Engineering.

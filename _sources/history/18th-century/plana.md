@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Giovanni Plana** was an Italian mathematician who worked on astronomy, integrals, elliptic functions, heat, electrostatics and geodesy.
 
 ### Mathematical Profile (Excerpt):
-* Two of Giovanni's uncles lived in Grenoble and his father sent him there in 1796, at age about 15, to complete his schooling.
 * Plana, although a young man at the time, was certainly one of those who embraced this new way.
 * In 1800 Plana entered the École Polytechnique in Paris.
 * Fourier, like Lagrange, was greatly impressed by Plana's abilities and he tried to arrange for him to be appointed to the chair of mathematics at the school of artillery at Grenoble.

@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Duncan Gregory** was a Scottish mathematician who was one of the first to investigate modern ideas of abstract algebra. He was a great-great-grandson of James Gregory
 
 ### Mathematical Profile (Excerpt):
-* His mother was Isabella McLeod and she was left to bring up the family after Duncan's father died when he was seven years old.
-* Duncan was educated by his mother until he was ten years old then, after this, by a private tutor.
 * He showed great promise at school and, during the winter of 1827, Gregory was sent to an academy in Geneva where his mathematical talents were obvious to the teachers.
 * On his return from Geneva, Gregory became an undergraduate at Edinburgh University where he began to study advanced mathematical topics and he also conducted experiments with polarised light.
 * In October 1833, at the age of 20, Gregory entered Trinity College, Cambridge, receiving his B.A. in 1837, being ranked fifth wrangler, and his M.A. in 1841.

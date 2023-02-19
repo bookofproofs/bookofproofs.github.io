@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * From 1631 to 1633 Billy taught mathematics at the Jesuit college at Rheims.
 * After this Billy taught in Grenoble and then was rector of a number of Jesuit Colleges in Chalons, Langres and in Sens.
 * Billy corresponded with Fermat and produced a number of results in number theory which have been named after him.
-* Billy had collected many problems from Fermat's letters and, after the death of his father, Fermat's son appended de Billy's collection under the title Doctrinae analyticae inventum novum Ⓣ(New discovery in the art of analysis)   as an annex to his edition of the Arithmetica of Diophantus (1670).
 * He also published astronomical tables such as Tabulae Lodoicaeae seu universa eclipseon doctrina tabulis, praeceptis ac demonstrationibus explicata.
 * Adiectus est calculus, aliquot eclipseon solis & lunae, quae proxime per totam Europam videbuntur Ⓣ(Tables of eclipses, the principles and explanations.
 * This was a table of eclipses for the years 1656 to 1693 and included solar and lunar tables.

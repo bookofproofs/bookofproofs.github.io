@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Pierre Vernier** was a French engineer best known for inventing the Vernier measuring scale.
 
 ### Mathematical Profile (Excerpt):
-* His father introduced Pierre to the works of Clavius and Brahe.
-* Being born in Franche-Comté (Free Country) meant that Vernier (and his father) were involved, not with the government of France but with that of Spain.
 * Franche-Comté was a Habsburg possession controlled by the Spanish Habsburgs throughout Vernier's life.
 * Vernier became a government official holding various positions such as military engineer for the Hapsburgs and director general of the treasury in Dole and Besançon, the capital of Franche- Comté.
 * Vernier also held various government posts with the government of Spain and became a Conseiller du Roi.

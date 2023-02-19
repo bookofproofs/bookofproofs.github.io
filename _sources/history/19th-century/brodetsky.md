@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Selig Brodetsky** was educated at Cambridge and Leipzig. He became a lecturer at Bristol and later lecturer and professor at Leeds. He worked on fluid flow with particular emphasis on aerodynamics. He was President of the Hebrew University of Jerusalem for a short time.
 
 ### Mathematical Profile (Excerpt):
-* Selig was the second son from a large family of thirteen children.
-* He moved to the East End of London, leaving his wife Adel, Selig, and three other young children in Russia.
 * In 1894, when Selig was old enough to begin school, he attended the Jew's Free School in Whitechapel, London.
 * Brodetsky achieved a very fine record at Cambridge.
 * In 1910 Brodetsky was awarded the Isaac Newton Scholarship which enabled him to study at Leipzig for his doctorate.
 * The University of Leipzig awarded Brodetsky a doctorate in 1913 for a thesis on gravitation and he returned to England in 1914 where he accepted a lectureship in Applied Mathematics at the University of Bristol.
-* On 13 January 1919 Brodetsky married Mania Berenblum.
 * In 1919 Brodetsky accepted a position as a lecturer at the University of Leeds and he was made a Reader in 1920.
 * Brodetsky's work was mainly on aerodynamics and fluid mechanics.
 * The 5th  International Congress for Applied Mechanics was held at Cambridge, Massachusetts, in 1938 and Brodetsky delivered a paper on the equations of motion of an airplane.

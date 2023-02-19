@@ -23,10 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Philip Maini** is an Irish mathematical biologist who works in modelling processes in biology and medicine.
 
 ### Mathematical Profile (Excerpt):
-* Satya Wati and Philip's elder brother Arvind did not arrive in Northern Ireland until 1957.
 * Maini attended the Rainey Endowed School, known colloquially as "The Rainey", a grammar school in the town of his birth, Magherafelt, which had been founded in 1707.
 * 'Doc Gwilliam' is Alfred E Gwilliam who had joined the Rainey in around 1944 and was the Head of Mathematics when Maini began his studies.
-* Let us note at this point that Maini's brother Arvind studied at the Rainey Endowed School from 1964 to 1971, then trained in medicine and became a GP in Belfast.
 * After graduating from the Rainey, Maini studied mathematics at Balliol College, Oxford and was awarded a B.A. with Honours in Mathematics in 1982.
 * Maini also attended the conference 'Nonlinear oscillations in biology and chemistry' held in Salt Lake City, Utah, in 1985.
 * In 1985 Maini was awarded a D.Phil.

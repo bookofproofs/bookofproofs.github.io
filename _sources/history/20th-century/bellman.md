@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Richard Bellman** was an American applied mathematician who made important advances in dynamic programming.
 
 ### Mathematical Profile (Excerpt):
-* Both sides of the family came from Jewish descent, with both John Bellman's father having emigrated from Russia and Pearl Saffian's father having emigrated from Poland.
-* Despite the Jewish descent, the family that Richard was born into were agnostics.
 * The Great Depression began in 1929, when Richard was nine years old, and by 1932 one quarter of the workers in the United States were unemployed.
 * John Bellman was ruined by the Depression but, despite great hardship, managed to see Richard obtain a good education.
 * Richard first met mathematics at the age of eleven when he studied Schultze's Elementary and advanced algebra.

@@ -23,17 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Mary Gray** is an American mathematician, statistician, and lawyer. She has written on mathematics, education, computer science, statistics and academic freedom.
 
 ### Mathematical Profile (Excerpt):
-* In fact Mary was part of an extended family since her father's brother had married her mother's sister and they had one child, a son who was one year older than Mary.
 * Three of Mary's grandparents had been born in Nebraska, while the fourth had emigrated to Nebraska from Germany.
 * Mary's parents encouraged her to learn when she was young.
-* They taught her history and Mary's father was asking her mental arithmetic questions when she was five.
-* At this stage Wheat's mother took a job working in Hastings College cafeteria to help support the family and, after graduating from high school, Wheat became a student at Hastings College.
 * Her talent for mathematics had already been recognised but it was Standley who suggested to Wheat that she go on to postgraduate work.
 * Wheat graduated from Hastings College in 1959 having taken mathematics and physics as major subjects.
 * Returning to the United States after a year, Wheat began graduate studies at the University of Kansas.
-* After graduating, she married Alfred Gray, also a mathematician, whom she had met while at the University of Kansas.
-* Her husband was appointed to the University of California at Berkeley while Mary Gray taught a course at Berkeley during the summer and then was appointed to the California State University at Hayward.
-* In the following year Mary and her husband moved.
 * He was appointed to the University of Maryland and she was appointed to the American University in Washington.
 * Gray has done much to support the role of women mathematicians.
 * It was a role which Gray undertook with determination.

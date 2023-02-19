@@ -23,13 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Joseph Kruskal** was an American mathematician, statistician and computer scientist who worked in combinatorics and graph theory.
 
 ### Mathematical Profile (Excerpt):
-* Joseph was one of his parents' five children, William Henry Kruskal (1919-2005), Molly L Kruskal (1921-), Rosaly Kruskal (1923-), Martin David Kruskal (1925-2006) and Joseph Kruskal, the subject of this biography.
-* Both Joseph's brothers, William Kruskal and Martin Kruskal became professors of mathematics and have biographies in this archive.
-* While Joseph was growing up, his older brother Martin David took every opportunity to teach him mathematics.
 * Kruskal studied mathematics at the University of Chicago.
 * Joseph Bernard Kruskal Sr. died in 1950.
-* Joseph Kruskal's mother Lillian married Harry C Oppenheimer in 1954.
-* Kruskal married Rachel Solomon in 1953; they had two children, Joyce and Benjamin.
 * In 1954, Kruskal was awarded a Ph.D. by Princeton for his thesis The Theory of Well-Partially-Ordered Sets.
 * We should explain that while Kruskal was working towards his Ph.D., he was also employed at the US Office of Naval Research.
 * After the award of his doctorate, Kruskal continued to work for the US Office of Naval Research, spending the years 1954-1956 working on Princeton's Analytical Research Project.
@@ -43,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Working with Isidore Dyen and Paul Black, Kruskal published the monograph An Indoeuropean Classification, a Lexicostatistical Experiment in the Transactions of the American Philosophical Society in 1992.
 * In 1997 Kruskal announced that the 'Comparative Indoeuropean Data Corpus' was available.
 * Kruskal's interest in languages extended to an interest in how to write good scientific articles.
-* His nephew, Clyde P Kruskal, wrote a tribute to his uncle following his death.
 * Kruskal was a fellow of the American Statistical Association and was honoured by being elected president of both the Psychometric Society and the Classification Society of North America.
 
 Born 29 January 1928, New York City, New York, USA. Died 19 September 2010, Maplewood, New Jersey, USA.

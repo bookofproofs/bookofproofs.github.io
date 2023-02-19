@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Vivienne's parents were both very keen that she should have the best possible education and she started school at the age of five years, one year earlier than she should have done.
 * She continued to study for her Master's degree at Fisk and in 1954 she was awarded an M.A. Although inspired by Granville to aim at a Ph.D. Malone-Mayes did not set out on that route immediately after the award of her master's degree, rather she returned to Waco where she was Chair of the Mathematics Department at Paul Quinn College, operated by the African Methodist Episcopal Church.
-* Her husband opened a dental practice in Waco and Malone-Mayes spent seven years in this post.
 * In 1961 Malone-Mayes decided that she wanted to study more mathematics.
 * Malone-Mayes studies those steady states that are periodic and continuous, in which case she proves that they are unique.
 * Malone-Mayes felt that her position at Baylor was weakened by this and she made a number of complaints about her treatment.

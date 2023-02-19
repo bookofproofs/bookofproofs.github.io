@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Christian Heinrich von Nagel** was a German geometer. The "Nagel point" of a triangle is named after him.
 
 ### Mathematical Profile (Excerpt):
-* The family was poor and Johann Heinrich Nagel wanted his son to follow in his profession of tailor.
 * However, two people helped Christian Heinrich to receive an education.
-* Second there was August von Weckherlin (1794-1868), an agronomist born in Stuttgart who was a good customer of Nagel's father.
-* He persuaded the Nagel family to allow their son to study.
 * The only route to an education was through the church and this is the route Christian Heinrich took.
 * Nagel attended classes at the Gymnasium in Stuttgart and then after taking the county examinations in 1817 he was accepted into the Evangelical Seminaries of Maulbronn and Blaubeuren in Baden-Württemburg.
 * Nagel studied in these Gymnasiums for four years and, although the aim was an education based on theology, he also studied science and mathematics at Blaubeuren.

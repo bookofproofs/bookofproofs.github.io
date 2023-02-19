@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Arnold Walfisz** was a Polish mathematician who worked in analytic number theory.
 
 ### Mathematical Profile (Excerpt):
-* His father was Zelman Walfisz; the family were of Jewish origins.
 * Arnold grew up in Warsaw where he attended the Sixth State Gymnasium and was awarded his Abitur in 1909.
-* Perhaps we should look a little at the political situation at this time in order to understand the times in which Walfisz lived.
 * Walfisz preferred to go to Germany for his university studies.
 * Walfisz, however, was not able to continue his education for the duration of the war, only being able to resume his studies in 1918.
 * Walfisz was not in a strong position to obtain a university post.

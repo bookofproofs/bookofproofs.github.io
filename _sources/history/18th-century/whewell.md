@@ -23,13 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Whewell** is most famous today for his work on the philosophy of science, history of science, and moral philosophy.
 
 ### Mathematical Profile (Excerpt):
-* It was a large family, and William was the eldest of his parents' seven children.
 * However, the Revd Joseph Rowley, headmaster of Lancaster grammar school and the parish priest, recognised William's talents and offered free education for him at Lancaster grammar school.
 * Several years later he persuaded John to let William attend Heversham Grammar School in Westmorland, about 20 kilometres north of his native town, where he would receive instruction to allow him to compete for a scholarship at Trinity College, Cambridge.
 * In 1810 William went to Heversham where he spent two years.
-* Whewell entered Cambridge in October 1812, but by this time the family had suffered a series of tragedies with his mother dying in 1807 and three of his younger brothers dying before William began his university studies.
-* His mother had been a poet who had published poems in local papers and Whewell must have inherited his mother's poetic gifts since, in 1814, he won the Chancellor's prize for an epic poem he wrote entitled Boadicea.
-* It was the first time that Whewell had not achieved the top place in a class but he took it in good part explaining in a letter to his family that he had not been able to write quickly enough.
 * We should note at this stage that Whewell had made a number of friends among top academics during his undergraduate years at Cambridge including John Herschel, Charles Babbage, George Peacock and other members of the Analytical Society.
 * Whewell was appointed as a mathematics lecturer and assistant tutor at Cambridge in 1818.
 * At a time when Cambridge was still finding acceptance of the superior Continental approach to mathematics, Whewell played a major role in modernising their approach with his textbooks An Elementary Treatise on Mechanics (1819) and A Treatise on Dynamics (1823).

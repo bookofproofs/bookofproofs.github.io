@@ -23,16 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ambros Speiser** was a Swiss engineer and mathematician who led the development of the first Swiss computer.
 
 ### Mathematical Profile (Excerpt):
-* Ambros was the eldest of his parents' three children.
-* The family were living in Surbiton in Surrey, England and Ambros was brought up there, attending elementary school in Surbiton.
-* In 1931, when Ambros was eight years old, the family moved to Baden in the canton of Aargau in Switzerland.
 * Speiser entered the Eidgenössische Technische Hochschule Zürich (ETH) in 1944 where he studied electrical engineering.
 * Speiser completed his electrical engineering degree at ETH in 1948, specialising in low-voltage technology.
 * He then became one of two assistants to Stiefel at the new Institute for Applied Mathematics which was founded in the year Speiser graduated.
 * Stiefel decided that the Institute for Applied Mathematics at ETH should build its own electronic computer, so he sent Heinz Rutishauser and Ambros Speiser on a fact finding visit to the United States in January 1949.
 * Rutishauser and Speiser spent most of 1949 at Harvard with Howard Aiken and at Princeton with John von Neumann.
 * Returning to the ETH in December 1949, Speiser discovered that plans had changed since Stiefel had managed to persuade the ETH to rent the use of Konrad Zuse's Z4.
-* In the same year Speiser married the pianist Margrit Schenk; they had four children.
 * Since becoming Stiefel's assistant, Speiser had been working on his doctorate under Stiefel's supervision.
 * There followed a series of four papers by Stiefel, Rutishauser and Speiser, Programmgesteuerte digitale Rechengeräte (elektronische Rechenmaschinen) Ⓣ(Program-controlled digital computing devices (electronic calculators))  appearing in 1950 and 1951.
 * In 1952 Speiser habilitated at ERH and was appointed as a privatdozent.
@@ -40,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Although much work was done with the Z4 at ETH, in parallel Speiser and Rutishauser were working on the construction of ETH's own computer ERMETH (Elektronische Rechenmaschine an der ETH).
 * Speiser was the chief engineer for the project and ERMETH became operational in 1955.
 * They decided that their first choice of director was Speiser, but at this stage he was unaware of this decision.
-* Samuel took the unusual step of talking to Speiser's father who was the representative of the canton of Aargau to the Swiss Council of the States or Ständerat as it is called (a role he held from 1948 to 1961).
 * Speiser was appointed Director of the IBM research laboratory in Zürich in 1956.
 * In the same year Speiser was appointed as Professor at ETH.
 * Speiser received a number of honours for his contributions including election as president of the International Federation for Information Processing from 1965 to 1968.

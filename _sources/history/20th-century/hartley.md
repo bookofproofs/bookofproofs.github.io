@@ -23,13 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Brian Hartley** was an English mathematician whose main topic was locally finite groups where he used his wide knowledge of finite groups in proving properties of infinite groups which were in a sense close to finite.
 
 ### Mathematical Profile (Excerpt):
-* Thomas Hartley, a joiner, married Annie, a cotton mill worker, in 1934.
-* They had two children, Brian (the subject of this biography) born in 1939 and a daughter Mavis born three years later.
-* Thomas and Annie Hartley lived with Annie's mother Amelia Kay for the first twelve year of their marriage and both continued working.
-* This meant that Brian was mostly brought up by his maternal grandmother for the first seven years of his life.
 * In the autumn of 1943 Brian began his schooling at Spring Hill Infants School, Accrington.
 * Brian didn't spend all his primary education at this school for he attended the Peel Park Infants in Accrington in 1945-46.
-* In the summer of 1946 the family moved into a small terraced house in Fife Street, Accrington and shortly after, Brian attended Spring Hill County School.
 * Brian's performance at school was outstanding and, in 1950, he won a place at Accrington Grammar School.
 * His results in the General Certificate were phenomenal, easily a record for the school." Like many boys good at mathematics, Brian also excelled at chess.
 * Hartley loved sports, particularly cycling and running.
@@ -39,11 +34,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At this stage Hartley entered a Mathematics Faculty which was full of world-leading researchers.
 * There was Abram Besicovitch, who retired one year after Hartley began his studies and was replaced as Rouse Ball Professor of Mathematics by Harold Davenport.
 * At a dance at Christmas 1960, Hartley met Mary E Mawer.
-* They were married in the summer of 1962 and, at this time, with Hartley living in Memorial Court, Clare College, Cambridge, the Master of Clare offered them the Master's Lodge for their reception.
-* Brian and Mary had two children, Catherine Frances Hartley (born in January 1972) and Christine Elaine Hartley (born in April 1974).
 * Let us return to pick up the story of Hartley's Cambridge career.
 * In December 1961, while only beginning to undertake research, Hartley was elected to a Research Fellowship at Clare College.
-* After he was married in the summer of 1962, Brian and Mary moved into a house on Blinco Grove on the outskirts of the city close to Homerton College.
 * Hartley's 127-page Ph.D. thesis The stability group of a series of subgroups was submitted in 1964 but before that, in May 1963, he had submitted a paper jointly written with Philip Hall, with the same title as his thesis to the London Mathematical Society.
 * In fact Hartley's first published paper was The order-types of central series which appeared in 1965.
 * Hartley spent the year 1964-65 in Chicago which at that time was a world centre for algebra with many leading ring theorists on the staff such as Adrian Albert, Yitz Herstein, Irving Kaplansky, who was the departmental chairman, and Saunders Mac Lane.
@@ -54,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * All accepted and Stonehewer and Hartley took up their appointments for the academic year 1966-67.
 * Except for spending 1969-70 at the Australian National University in Canberra, Australia and 1974-5 in Madison, USA, at the University of Wisconsin, Hartley remained at Warwick until he was appointed to a chair in Manchester in 1977.
 * Although Hartley was appointed to the University of Manchester in 1977, he had been one of the two main organisers of the 1977-78 Warwick Symposium on Infinite Groups and Group Rings.
-* It wasn't until the spring of 1978 that Hartley and his family moved to Didsbury, about 5 km south of the University of Manchester.
 * This was an excellent location for Hartley who cycled daily to the University from his home along fairly minor roads.
 * If group rings are considered a part of group theory, then Hartley only wrote two papers which were not on group theory, one being on Lie algebras and the other on cryptography and large primes.
 * Brian was an outdoor person.

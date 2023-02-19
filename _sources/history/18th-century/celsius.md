@@ -23,10 +23,7 @@ contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,
 **Anders Celsius** was a Swedish astronomer, physicist and mathematician. He participated in Maupertuis' expedition to measure a degree of latitude in Lapland. He is best known for the temperature scale that he proposed and which is named after him.
 
 ### Mathematical Profile (Excerpt):
-* One of Spole's students in Uppsala was Nils Celsius (1658-1724), the son of Magnus Celsius (1621-1679) who was professor of mathematics at Uppsala between 1668 and 1679.
-* After Spole's death in 1699, the university disregarded his suggestion of having Nils Celsius succeed him and, instead, they appointed Per Elvius (1660-1718) (who was married to another of Spole's daughters) as professor of astronomy.
 * Only when Elvius died in 1718 did Nils Celsius become professor of astronomy.
-* Anders Celsius grew up with access to a big family library, which managed to survive the fire of 1702.
 * After graduating from secondary school, Celsius studied astronomy, mathematics, and experimental physics at the University of Uppsala and gained a deep appreciation for mathematics mainly thanks to Anders Gabriel Duhre (about 1680-1739), who visited Uppsala in 1724-25 and gave a lecture course.
 * Celsius had been so unhappy with the mathematics teaching that he thought he would specialise in law but this all changed after he attended Duhre's course.
 * Celsius had, from the early 1720s, carried out observations for Erik Burman (1692-1729), Nils Celsius's successor as professor of astronomy in Uppsala, and, having been taught about meteorology and experimental physics by Burman, Celsius published his first two papers in 1724 both relating to barometers.
@@ -35,13 +32,10 @@ contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,
 * Klingenstierna had been awarded a travel grant to visit the European centres of learning and was not able to take up the chair of mathematics at Uppsala until he returned in 1731, so he had to pay Celsius out of his own pocket for taking on the duties of the chair of mathematics.
 * When Erik Burman died in 1729, Celsius took over his lectures in astronomy in addition to substituting for the professor of mathematics.
 * The University of Uppsala was now a very strong centre for mathematics and astronomy with Klingenstierna and Celsius both world-class scholars.
-* In 1732, following in his grandfather's footsteps, Celsius decided to travel through Europe and he received permission on 23 May of that year.
 * One of the tasks Celsius and Meldercreutz undertook was to visit learned societies and academies, aiming to set up links with the Royal Society of Sciences in Uppsala.
 * During his trips, Celsius made several astronomical observations with a quadrant he bought in Berlin.
 * After initial complaints that the news was too old (due to the slow posting of the time), Celsius started admitting observations from the readers, but the magazine stopped publication two years later after probably 45 issues.
-* Celsius loved Italy and wrote to his mother, saying that he wished he could swap Uppsala for an Italian city so that he would never have to leave.
 * When Celsius arrived at Paris in late 1734, the scientific community was in the middle of a discussion about the shape of the Earth.
-* Unlike his grandfather, Celsius supported Pierre de Maupertuis, who defended Newton's theoretical argument of an oblate Earth.
 * The Academy asked Celsius to make the corresponding observations in Sweden but he had to turn down their request since he had neither the financial support nor the necessary instruments.
 * Celsius, therefore, joined the Arctic Circle expedition, headed by Maupertuis, and it was probably on his suggestion that it was decided to go to Lapland.
 * Celsius was sent on a short trip to London to commission a zenith sector from Graham, a revered instrument maker of the time.
@@ -52,7 +46,6 @@ contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,
 * In it, Celsius shows that, in his previous measures of the meridian in France, Cassini had committed bigger mistakes than the ones he was accusing them of having made.
 * Due to the success of the Lapland expedition, Celsius received a pension of 1000 livres per year from the French government.
 * When he returned to Uppsala, Celsius worked to improve the standing of astronomy in Uppsala and Sweden, which had been in decline.
-* Celsius, who never married, lived in the building.
 * When building a precise thermometer, Celsius invented a new scale divided into 100 degrees, with 0 being the boiling point of water and 100 its freezing point.
 * To justify his choice, Celsius carried out a number of experiments: he showed the freezing point did not change when varying latitude or pressure and that the boiling point did not depend on the length of the boiling time or the origin of the water.
 * Celsius had studied the numerous temperature scales of the time during his travels through Europe in hopes of creating an international scale.

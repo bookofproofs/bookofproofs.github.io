@@ -38,6 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * By the end of the year Gregory was serving on a ten-man committee which had been set up to interview and select the university's teaching staff.
 * Let us now look at a few more of Gregory's publications, in addition to those already mentioned above.
 * In 1811 Gregory published Letters on the Evidences, Doctrines, and Duties of the Christian Religion.
+* Further books by Gregory include: Elements of Plane and Spherical Trigonometry (1816), Mathematics for Practical Men (1825), Memoirs of ...
 * The 1838 work is Gregory's Farewell Address on retiring as Professor of Mathematics, delivered on 7 June of that year.
 * We should not come away with the impression that all of Gregory's contributions came from his books.
 * Gregory received many honours for his achievements.

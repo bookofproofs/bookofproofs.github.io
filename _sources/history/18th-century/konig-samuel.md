@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Samuel König** was a German mathematician who is best remembered for his part in a dispute with Maupertuis over the Principle of Least Action.
 
 ### Mathematical Profile (Excerpt):
-* König's early education was at home where he studied with his father's instruction.
 * After studying at Bern, then in 1729 at Lausanne, König went to Basel in 1730 to study under Johann Bernoulli.
 * König studied under Hermann from 1731, in particular he learn of Leibniz's philosophy.
 * In 1735 König went to Marburg to continue his study of Leibniz's philosophy under Christian von Wolff's supervision.

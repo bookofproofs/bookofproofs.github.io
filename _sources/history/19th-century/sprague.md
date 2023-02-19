@@ -23,9 +23,7 @@ contributors: @David-O-Forfar,bookofproofs
 **Thomas Bond Sprague** became the most important actuary of the late 19th Century. He wrote more than 100 papers.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Ellen Sprague (born about 1801).
 * Thomas Bond Sprague had six younger siblings: Mary (born about 1831), William (born about 1833), Robert (born about 1834), John (born about 1835), Frances (born about 1837) and Caroline (born about 1839).
-* Thomas Bond Sprague married Margaret Vaughan Steains, daughter of James Steains, at St Mary, Edge Hill, Lancashire on 13 April 1859.
 * Dr Sprague was the main person behind a mortality study covering the experience of twenty U.
 * Dr Sprague was one of the foremost advocates of the principle of 'Freedom with Publicity' (i.e. documents available to the public) and was opposed to there being any Government regulation prescribing the manner of valuation of policy liabilities.
 * Dr Sprague published some eighty papers in the Journal of the Institute of Actuaries and, including articles, Presidential Addresses, translations, comments and reviews for this and other actuarial journals (Transactions of the Faculty of Actuaries, Transactions of the Actuarial Society of Edinburgh), his published contributions to actuarial science must number over one hundred.

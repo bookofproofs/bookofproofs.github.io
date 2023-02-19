@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Francesco Cecioni** was an Italian mathematician who specialised in algebra.
 
 ### Mathematical Profile (Excerpt):
-* There were two children in the family, Francesco (the subject of this biography) and his brother Giovanni.
-* Francesco's mother died when he was young which meant that the children had an even harder upbringing.
-* Francesco received a classical humanist education attending the Liceo Classico in Livorno despite his father wanting him to leave school and take up a job in the Municipality of Livorno.
 * Cecioni won a place to study at the Scuola Normale Superiore in Pisa where he came under the influence of Luigi Bianchi.
 * After graduating, in 1907 Cecioni was employed as an assistant in algebra and analytical geometry at the University of Pisa.
 * Cecioni became an infantry officer and for most of the war he fought on the Austrian front taking part in the fierce fighting which took place.

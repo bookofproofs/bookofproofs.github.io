@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Harold Jeffreys** was an English mathematician, statistician, geophysicist, and astronomer.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Elizabeth M A Jeffreys (born at Stannington, Northumberland, about 1864).
 * Harold Jeffries attended school at Fatfield then, in 1903, he was awarded a scholarship to attend Rutherford College in Newcastle- upon- Tyne.
 * At the time Jeffreys entered the College it was a part of Durham University.
 * Jeffreys worked in the Cavendish Laboratories on war related work from 1915 until 1917.
@@ -32,7 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We began by attending a lecture course given by Professor Harold Jeffreys on 'Probability'.
 * Jeffreys's work in diverse areas of science had mathematical applications as their link.
 * As a result of his study of earthquake waves, Jeffreys became the first to claim that the core of the Earth is liquid.
-* Among Jeffreys's works are The Earth: Its Origin, History and Physical Constitution (1924), Earthquakes and Mountains (1935) and he wrote Methods of Mathematical Physics (1946) jointly with his wife Bertha Jeffreys.
+* Although uncommunicative, Harold could be a good talker ...
 
 Born 22 April 1891, Fatfield (near Durham), England. Died 18 March 1989, Cambridge, England.
 

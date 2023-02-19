@@ -25,12 +25,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Conditions in Russia were difficult at the time Leon was born for the Russian Revolution had begun in 1917.
 * Mirsky's parents wanted to leave Russia but were unable to do so.
-* However they were able to send Leon to Germany when he was 8 years old to live with an uncle and aunt.
 * This move, Leon's parents hoped, would give Leon a chance of a better life than Soviet Russia presented.
-* Leon's uncle was in the wool trade and the family were comfortably off.
-* Leon spent five years in Germany where his education was of high quality since his family were passionately education minded.
 * However, the Germany to which young Leon had entered in 1926 was suddenly dramatically changed in 1933 when Hitler and the Nazi party came to power.
-* Leon's uncle and aunt decided quickly to move to England where they set up home in Bradford.
 * The school, from which Mirsky graduated in 1936, was taken over by the military for the war effort in 1939 and never reopened as a school.
 * Leaving Herne Bay College, at age seventeen, Mirsky entered King's College, London, where he had to study four subjects in his first year for the Intermediate Science Examination.
 * Mirsky had already discovered at Herne Bay College that laboratory work was not his strong point so he was quite proud to cope with the laboratory work in the Physics course.
@@ -42,12 +38,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Mirsky was now in a very unhappy situation of being educated in England having been born in Russia and brought up for five years in Germany.
 * By the time Mirsky arrived in Bristol, Linfoot had begun to undertake research in optics which he did for patriotic reasons when war started.
 * However he was still an excellent advisor for Mirsky who was keen to write his Master's thesis on number theory.
+* Leon greatly admired Richard's power as a mathematician and often paid glowing tribute to the benefit he derived from the association ...
 * Luise Rado encouraged Leon's literary interests, particularly by reading English and German poetry with him.
 * After completing the two year temporary position, Mirsky went to the University of Manchester where he had again a temporary assistant lectureship.
 * In the same year of 1947 Mirsky was promoted to lecturer at Sheffield.
 * We noted before that Mirsky had not undertaken research for a Ph.D. but once on the permanent staff at Sheffield he set his sights on earning a doctorate.
 * Being a staff member, this was not a standard route to a Ph.D. and Mirsky worked on his own without the benefit of a thesis advisor.
-* In 1953 Mirsky married Aileen Guilding who was, at that time, a lecturer in Biblical History and Literature at Sheffield but later became a professor and Head of Department.
 * Aileen and Leon Mirsky shared a love of music and literature.
 * Mirsky had three main areas of research.
 * bears witness to Mirsky's gift for exposition; his hallmark was elegance combined with clarity.

@@ -26,9 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * significant though Briggs was as a mathematician in his own right, his greatest importance was as a contact and public relations man.
 * Briggs was born at Warley Wood (or Warleywood) in the parish of Halifax, Yorkshire.
 * If Mede were correct then Briggs would have been born in 1556, but it seem highly unlikely that he is correct, for there seems no possible reason to think that the Halifax parish records could be wrong.
-* We know little of Briggs's family but there is a history of Norfolk, by Blomefield, which states that Briggs's family were originally from Salle in that county.
-* Blomefield is known to be wrong in a number of other such claims so not too much weight should be put on this statement, although, on the other hand, there is some evidence that other members of Briggs's family did have Norfolk connections.
-* In fact Richard Briggs, who was Henry Briggs's brother, became headmaster of a school in Norfolk.
 * Richard Briggs had important friends such as Ben Jonson, the dramatist, poet, and literary critic and a letter from Ben Jonson to Richard Briggs still exists.
 * Henry Briggs attended a grammar school near Warley Wood where he became highly proficient at Greek and Latin.
 * Admitted as a scholar on 5 November 1577, Briggs received the degree of B.A. in 1581, receiving his M.A. four years later.

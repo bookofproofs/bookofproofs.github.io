@@ -26,14 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One finds the spelling Houel, Hoüel, Hoûel or Houël but deciding which is 'correct' shows immediately the problem.
 * On his birth certificate his name appears as Houël but it appears as Hoüel on his baccalaureate certificate, and all his published papers and books give the Hoüel version.
 * When he signed his name it usually looks like Hoüel but sometimes it appears as Hoûel.
-* We believe, therefore, that the correct spelling of the family name is Houël but the subject of this biography preferred the Hoüel version.
-* We have chosen to use Hoüel which appears to be in line with Jules Hoüel's wishes but use the Houël version when giving details of his family.
-* Jules Hoüel was the son of Jean Baptiste Houël (1795-1854) and Elisabeth Amicie Tranchant (1805-1877).
 * After marrying, Jean Baptiste and Elisabeth lived sometimes at Bombanville, sometimes at Périers at their parents' home, but by 1823, around the time Jules was born, they only lived at Bombanville.
-* In 1832, when Jules was nine years old, his brother Louis Edmond Houël (1823-1904) was born.
-* As a young child, Jules had very poor health, suffered severe headaches and swelling of his glands.
-* He was taught at home, first by his grandfather Louis Nicolas Houël but after his death, Jules continued to be taught by his father.
-* His father also taught Jules to play the flute and to paint.
 * In October 1838 Jules began his schooling, entering the third grade of the Royal College of Caen.
 * Hoüel entered the Collège Rollin in Paris on 29 October 1841.
 * Faurie's reports show that Hoüel began his studies well and made excellent progress.
@@ -46,15 +39,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After leaving the École Normale Supérieure, Hoüel was appointed as a mathematics teacher to the Collège de Bastia in Corsica in September 1846.
 * A second report states that "M Hoüel is undoubtedly an educated teacher, but he does not have the qualities needed to maintain discipline in a large class." The year 1848-49 went very badly and the headmaster of the Royal College of Bordeaux asked for Hoüel to be transferred to a school where the classes were much smaller.
 * The Minister chose not to send Hoüel to a post in or near Paris but instead assigned him a position at the Lycée de Pau, a much lower quality school than the one he had taught in.
-* Hoüel had also had a disappointment in his private life for during his last year in Bordeaux he had sought marriage to Antoinette Lucile Lecerf, the daughter of Daniel Henry Lecerf and Anne Jeanne Perrotte from Caen.
-* Daniel Henry Lecerf refused to allow his daughter to marry Hoüel since he was not earning enough and lived too far from Caen.
 * At Pau, Hoüel received somewhat better reports for 1849-50 although his teaching was said to be too theoretical and he did not enthuse his pupils.
 * On 8 March 1851 Hoüel was appointed to the Lycée de Alençon.
-* Lucile Lecerf's father reluctantly consented to the marriage of his daughter to Hoüel.
-* Jules and Lucile Hoüel began married life at 25 rue de Bretagne, Alençon.
 * The Minister of Education declared on 22 September 1852 that the higher mathematics classes at Alençon were to be closed and Hoüel was to be transferred to the Lycée de Poitiers to teach elementary mathematics.
 * Hoüel, with support from several others, begged to be allowed to remain in Alençon.
-* Jules and Lucile Hoüel's first child, Jeanne, was born on 23 February 1853.
 * Hoüel continued teaching at Alençon and, at the same time, worked on his doctoral thesis.
 * On 18 August 1855, Hoüel submitted two theses to the Faculty of Science in Paris.
 * Urbain Le Verrier was impressed with Hoüel's research work and tried to persuade him to accept a post at the Observatory in Paris.
@@ -63,6 +51,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hoüel published, Essai d"une exposition rationnelle des principes fondamentaux de la Géométrie élémentaire, a work on geometry, in 1863.
 * Hoüel became interested in non-euclidean geometry once he had been made aware of the work of János Bolyai and Nikolai Lobachevsky.
 * Hoüel's 'Essai' of 1863 having come by chance into the hands of a young architect of Temesvár in Hungary, this youth Franz Schmidt, desirous of continuing his mathematical studies wrote for counsel to Hoüel.
+* Hoüel had answered helpfully, and later implored the aid of Schmidt to procure Bolyai's work ...
 * Schmidt succeeded in procuring for Hoüel two copies of Bolyai's work.
 * One Hoüel proceeded to translate himself, the other he sent to Battaglini, asking him to make known in Italy this wonderful idea.
 * At Hoüel's suggestion Schmidt collected material which enabled him to write the first biography of Bolyai which he did in 1868.

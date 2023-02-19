@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Giorgio Bidone** was an Italian engineer, mathematician and an experimenter in the field of hydraulics.
 
 ### Mathematical Profile (Excerpt):
-* In 1782, when Giorgio was one year old, the family moved to Voghera where Giogio was brought up and where he was educated.
-* We have direct accounts of Giorgio Bidone's life, from his former students, who were to become famous figures: Luigi Federico Menabrea (1809-1896), at the time he wrote his account (1841) a young engineering officer and later on general, scientist (a hydraulic scientist too) and politician, and Massimo D'Azeglio (1798-1866), painter, novelist and politician, who speaks at length of him in his brilliant autobiography published posthumously (1867).
-* After his studies in Voghera, Bidone entered the Filipino College in Turin, where, because he was seen to have a serious and meditative personality, the religious fathers of the college directed him towards an Ecclesiastical life.
 * The new laws imposed in the state of Savoy forced Bidone to abandon his religious studies and, as a consequence, he dedicated himself to studying mathematics and science.
 * Because of the abilities he had demonstrated, in 1799 Bidone was accepted into the Collegio delle Province.
 * While studying at this College, Bidone also studied at the University of Turin.

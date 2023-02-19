@@ -24,10 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Samuel Besicovitch had been a jeweller but his jeweller's shop had hit hard times through theft and he gave up the business and became a cashier.
-* All the six children, four boys and two girls, were highly talented, with Abram Samoilovitch as the fourth in this family of six who would all excel in their studies at the University of St Petersburg.
-* Eva Besicovitch married so young that she never had the opportunity of a proper education, but the children always felt that their mathematical talents came through her.
-* Besicovitch showed remarkable mathematical talents at a young age and his father strongly encouraged him by demanding that he push himself to the limit in solving mathematical problems.
-* In 1916 Besicovitch married Valentina Vietalievna who was herself a mathematician and somewhat older than Besicovitch.
 * This in itself presented problems since, as Valentina Vietalievna was of the Orthodox faith and Besicovitch was a Karaim, they were not allowed to marry.
 * Besicovitch was accepted into the Russian Orthodox Church so that the marriage could take place.
 * In 1917 the University of Perm became an independent institution and in that year Besicovitch was appointed professor of mathematics there.
@@ -36,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Besicovitch had to teach people without any educational background and he was very unhappy.
 * Besicovitch left Petrograd for Copenhagen in 1924 and there worked with Harald Bohr.
 * After he visited Oxford in 1925 Hardy, who quickly saw the mathematical genius in Besicovitch, found a post for him in Liverpool.
-* Besicovitch's wife had remained in Russia when he had escaped in 1924 and the marriage was dissolved in 1928.
 * At Cambridge Besicovitch lectured on analysis in most years but he also gave an advanced course on a topic which was directly connected with his research interests such as almost periodic functions, Hausdorff measure, or the geometry of plane sets.
 * Besicovitch never seems to have been troubled in this way.
 * Besicovitch, around 1930, extended his density properties of sets to those of finite Hausdorff measure.

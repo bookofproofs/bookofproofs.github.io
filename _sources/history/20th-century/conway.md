@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Conway** was an English mathematician who has produced many results  in the theory of finite groups, knot theory, number theory, combinatorial game theory and coding theory. He also made many contributions to recreational mathematics, including the _Game of Life_.
 
 ### Mathematical Profile (Excerpt):
-* John had two older sisters, Sylvia and Joan.
 * Cyril Conway was a chemistry laboratory assistant.
-* John became interested in mathematics at a very early age and his mother Agnes recalled that he could recite the powers of two when aged four years.
 * John's young years were difficult for he grew up in Britain at a time of wartime shortages.
 * At primary school John was outstanding and he topped almost every class.
 * Despite not having any clear idea of what mathematics was when he was at primary school, John Conway must have had it firmly fixed in his mind that he would become a mathematician.
@@ -52,8 +50,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1986 Conway left Cambridge after accepting appointment to the John von Neumann Chair of Mathematics at Princeton in the United States where much of his work has focused on geometry, in particular studying the symmetries of crystal lattices.
 * In 1987 Conway was awarded the Polya Prize of the London Mathematical Society.
 * We should mention a few of the books Conway has written, and illustrate their importance and originality with a brief comment from a reviewer.
-* Finally we note that Conway has been married to wife Diana since 2001 and has a son Gareth born 2001.
-* He has three grandchildren: John, Ellen and Joseph Wayman.
 
 Born 26 December 1937, Liverpool, England. Died 11 April 2020, Princeton, New Jersey, USA.
 

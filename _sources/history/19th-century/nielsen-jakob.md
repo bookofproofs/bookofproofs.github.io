@@ -30,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Dehn greatly influenced Nielsen and introduced him to the newest ideas in topology and group theory.
 * After completing his doctorate Nielsen served in the German marines, continuing in military service in different parts of the world throughout World War I.
 * At the end of the war Nielsen returned from Turkey to Germany through Russia and Poland and he later published an account of his travels from a diary which he had kept.
-* Nielsen married Carola von Pieverling early in 1919.
 * Nielsen spent time in 1919 in Göttingen where he met Hecke.
 * When Hecke was appointed to Hamburg in 1919, Nielsen went as his assistant, but the following year Nielsen was appointed to a chair at Breslau.
 * This allowed Nielsen to become a colleague of Dehn who was a professor there.
@@ -45,7 +44,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It might seem a strange decision for Nielsen to resign this prestigious chair, but he was sixty-five years of age in 1955 and he felt that his international commitments were too much to allow him to do full justice to all his tasks.
 * Nielsen is well known for work in several areas.
 * Nielsen studied the mapping class group of a torus in his thesis of 1913.
-* Thus, for example, not many mathematicians will in the past have had access to Nielsen's doctoral dissertation, presented to the Universitat Kiel in 1913.
 * Other papers appeared in various Scandinavian periodicals or conference proceedings, many of them in Danish: the majority of them, and also many of Nielsen's papers in German, have for this collection been translated into English.
 * Among them is his fundamental paper, in the Matematisk Tidsskrift in 1921, on free groups, in which the Nielsen-Schreier theorem (or rather Nielsen's part of it) is proved for the first time: now there is no further excuse for misquoting this paper, as has happened repeatedly in the past.
 * There was however, some work by Nielsen which was not published in his collected works.

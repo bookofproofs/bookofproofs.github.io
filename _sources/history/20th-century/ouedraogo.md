@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Ouedraogo studied mathematics at the University of Ouagadougou and wrote her first thesis, the Doctorat de 3ème cycle, advised by Akry Koulibaly.
 * Ouedraogo published two papers in 2002, both related to her thesis and written jointly with her thesis advisor Arky Koulibaly.
-* In 2005 Ouedraogo took on a political role when she became the Burkina Faso Permanent Secretary of the National Policy of Good Governance.
 * In 2008 Ouedraogo left the Good Governance role and devoted herself totally to mathematical research.
 * Ouedraogo was appointed as an assistant professor at the University of Ouagadougou.
 * After several discussions with Professor Marie-Francoise Roy, the convenor of European Women in Mathematics, we decided to organize a workshop for African women mathematicians.

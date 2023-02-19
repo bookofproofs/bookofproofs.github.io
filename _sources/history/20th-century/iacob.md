@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Caius Iacob** was a Romanian mathematician and politician who worked in classical hydrodynamics and fluid mechanics.
 
 ### Mathematical Profile (Excerpt):
-* His father, Laza Iacob, was a professor of law at the University and was much involved in the development of modern Romania.
 * Laza Iacob was one of the official delegates at the Union of Romania conference to set this up on 1 September 1918.
 * Caius attended the lycée "Moise Nicoara" in Arad for three classes, then moved to the lycée "Emil Gojdu" where he spent his final year.
 * Iacob submitted his thesis Sur la determination des fonctions harmoniques conjuguees par certaines conditions aux limites.

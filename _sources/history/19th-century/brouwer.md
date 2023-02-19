@@ -26,22 +26,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He attended high school in Hoorn, a town on the Zuiderzee north of Amsterdam.
 * His performance there was outstanding and he completed his studies by the age of fourteen.
 * He had not studied Greek or Latin at high school but both were required for entry into university, so Brouwer spent the next two years studying these topics.
-* During this time his family moved to Haarlem, just west of Amsterdam, and it was in the Gymnasium there in 1897 that he sat the entrance examinations for the University of Amsterdam.
 * Korteweg was the professor of mathematics at the University of Amsterdam when Brouwer began his studies, and he quickly realised that in Brouwer he had an outstanding student.
 * While still an undergraduate Brouwer proved original results on continuous motions in four dimensional space and Korteweg encouraged him to present them for publication.
 * This he did, and it became his first paper published by the Royal Academy of Science in Amsterdam in 1904.
 * Other topics which interested Brouwer were topology and the foundations of mathematics.
 * He learnt something of these topics from lectures at the university but he also read many works on the topics on his own.
-* He obtained his master's degree in 1904 and in the same year married Lize de Holl who was eleven years older that Brouwer and had a daughter from a previous marriage.
-* After the marriage, which would produce no children, the couple moved to Blaricum, near Amsterdam.
 * Three years later Lize qualified as a pharmacist and Brouwer helped her in many ways from doing bookkeeping to serving in the chemists shop.
-* However, Brouwer did not gain the affection of his step-daughter and relations between them was strained.
 * From an early stage Brouwer was interested in the philosophy of mathematics, but he was also fascinated by mysticism and other philosophical questions relating to human society.
 * He published his own ideas on this topic in 1905 in his treatise Leven, Kunst, en Mystiek Ⓣ(Life, art, and mysticism).
 * considers as one of the important moving principles in human activity the transition from goal to means, which after some repetitions may result in activities opposed to the original goal.
 * Brouwer's doctoral dissertation, published in 1907, made a major contribution to the ongoing debate between Russell and Poincaré on the logical foundations of mathematics.
+* revealed the twin interests in mathematics that dominated his entire career; his fundamental concern with critically assessing the foundations of mathematics, which led to his creation of intuitionism, and his deep interest in geometry, which led to his seminal work in topology ...
 * Korteweg, his thesis advisor, had not been pleased with the more philosophical aspects of the thesis, and had even demanded that several parts of the original draft be cut from the final presentation.
 * Korteweg urged Brouwer to concentrate on more "respectable" mathematics, so that the young man might enhance his mathematical reputation and thus secure an academic career.
+* Brouwer was fiercely independent and did not follow in anybody's footsteps, but he apparently took his teacher's advice ...
 * Brouwer continued to develop the ideas of his thesis in The Unreliability of the Logical Principles published in 1908.
 * The research which Brouwer now undertook was in two areas.
 * He continued his study of the logical foundations of mathematics and he also put a very large effort into studying various problems which he attacked because they appeared on Hilbert's list of problems proposed at the Paris International Congress of Mathematicians in 1900.
@@ -70,6 +68,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Controversy surrounded Cantor's general set theory because of the set-theoretic paradoxes or contradictions.
 * Point set theory was widely applied in analysis and somewhat less widely applied in geometry, but it did not have the character of a unified theory.
 * There were some perceived benchmarks.
+* For example; the generally held view that dimension was invariant under one-to-one continuous mappings ...
 * He did almost all his work in topology early in his career between 1909 and 1913.
 * He discovered characterisations of topological mappings of the Cartesian plane and a number of fixed point theorems.
 * His first fixed point theorem, which showed that an orientation preserving continuous one-one mapping of the sphere to itself always fixes at least one point, came out of his researches on Hilbert's fifth problem.
@@ -97,7 +96,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He had been appointed to the editorial board of Mathematische Annalen in 1914 but in 1928 Hilbert decided that Brouwer was becoming too powerful, particularly since Hilbert felt that he himself did not have long to live (in fact he lived until 1943).
 * He tried to remove Brouwer from the board in a way which was not compatible with the way the board was set up.
 * Brouwer vigorously opposed the move and he was strongly supported by other board members such as Einstein and Carathéodory.
-* In 1935 Brouwer entered local politics when he was elected as Neutral Party candidate for the municipal council of Blaricum.
 * He continued to serve on the council until 1941.
 * He was also active setting up a new journal and he became a founding editor of Compositio Mathematica which began publication in 1934.
 * Further controversy arose due to his actions in World War II.
@@ -107,7 +105,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, after Amsterdam was liberated, Brouwer was suspended from his post for a few months because of his actions.
 * Again he was deeply hurt and considered emigration.
 * After retiring in 1951, Brouwer lectured in South Africa in 1952, and the United States and Canada in 1953.
-* His wife died in 1959 at the age of 89 and Brouwer, who himself was 78, was offered a one year post in the University of British Columbia in Vancouver; he declined.
 * In 1962, despite being well into his 80s, he was offered a post in Montana.
 * He died in 1966 in Blaricum as the result of a traffic accident.
 * for his contribution to the philosophy of mathematics and his attempt to build up mathematics anew on an Intuitionist foundation, in order to meet his own searching criticism of hitherto unquestioned assumptions.

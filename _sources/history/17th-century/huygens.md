@@ -23,13 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Christiaan Huygens** was a Dutch mathematician who patented the first pendulum clock, which greatly increased the accuracy of time measurement. He laid the foundations of mechanics and also worked on astronomy and probability.
 
 ### Mathematical Profile (Excerpt):
-* His father Constantin Huygens had studied natural philosophy and was a diplomat.
 * It was through him that Christiaan was to gain access to the top scientific circles of the times.
 * Tutored at home by private teachers until he was 16 years old, Christiaan learned geometry, how to make mechanical models and social skills such as playing the lute.
 * His mathematical education was clearly influenced by Descartes who was an occasional visitor at the Huygens' home and took a great interest in the mathematical progress of the young Christiaan.
 * Christiaan Huygens studied law and mathematics at the University of Leiden from 1645 until 1647.
 * Although John Pell was a teacher at Breda about this time, he seems to have had little contact with Huygens.
-* Through his father's contact with Mersenne, a correspondence between Huygens and Mersenne began around this time.
 * Mersenne challenged Huygens to solve a number of problems including the shape of the rope supported from its ends.
 * In 1649 Huygens went to Denmark as part of a diplomatic team and hoped to continue to Stockholm to visit Descartes but the weather did not allow him to make this journey.
 * Huygens's first publications in 1651 and 1654 considered mathematical problems.
@@ -63,7 +61,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * From his youth Huygens' health had never been robust and in 1670 he had a serious illness which resulted in him leaving Paris for Holland.
 * By 1671 Huygens returned to Paris.
 * However in 1672 Louis XIV invaded the Low Countries and Huygens found himself in the extremely difficult position of being in an important position in Paris at a time France was at war with his own country.
-* Scientists of this era felt themselves above political wars and Huygens was able, with much support from his friends, to continue his work.
 * In 1672 Huygens and Leibniz met in Paris and thereafter Leibniz was a frequent visitor to the Académie.
 * In fact Leibniz owes much to Huygens from whom he learnt much of his mathematics.
 * In this same year Huygens learnt of Newton's work on the telescope and on light.

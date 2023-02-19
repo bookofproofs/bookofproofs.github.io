@@ -25,9 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Friedrich Dörge was born in Eickendorf near Haldensleben on 16 May 1864.
 * Karl spent the first five years of his life in Müllerdorf.
-* In 1905 the family moved to Seyda, a village in the district of Wittenberg, where again Dörge's father Friedrich was the local pastor.
 * Until he was thirteen years old, Karl was educated by private tutors.
-* From his father, Karl learnt religion, mathematics, history and German.
 * Dörge followed this route, enlisted for the army and he passed the Notabitur in Torgau in 1915.
 * In 1919, now nearly twenty years old, Dörge was able to continue his education which had been disrupted by the war.
 * Dörge's years of study at university had been difficult one since Germany went through a period of hyperinflation which made life close to impossible.
@@ -37,8 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * (He committed suicide on 26 January 1942 when it was clear he was about to be sent to a concentration camp.) On 26 February 1936 the University of Bonn submitted the following names for the Hausdorff succession to the Ministry of Education: Ernst Kähler, Konrad Knopp and Karl Dörge.
 * Dörge remained in Cologne and, perhaps as a consequence of being recommended for a full chair in Bonn, he was appointed to a full chair at Cologne later in 1936.
 * Dörge continued working on algebra and number theory.
-* In 1938 Dörge's father, by this time 74 years old, came to live with his son at his home in Lindenthal on the west side of Cologne.
-* Friedrich Dörge spent the last five years of his life living with his son and died on 28 May 1943.
 * Dörge published a number of books.
 * Klaus Wagner (31 March 1910 - 6 February 2000) was Dörge's most famous student.
 * He received his Ph.D. from the University of Cologne in 1937 advised by Dörge, and taught at Cologne for many years becoming head of the Cologne graph theory school.

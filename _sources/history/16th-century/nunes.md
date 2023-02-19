@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Nunes travelled to Spain and entered the University of Salamanca around 1517.
 * This university, already 300 years old when Nunes began his studies, was one of the leading centres for education in Europe.
-* Pedro and Guiomar Nunes had six children: two boys Apolónio and Pedro, and four girls Briolanja, Francisca, Isabel and Guiomar.
 * We do not know exactly how long Nunes remained at Salamanca after he graduated but by 1527 he had returned to Portugal.
 * Nunes acted as tutor to Luis until July 1531.
 * Starting in 1527, Nunes taught navigation skills to Martim Afonso de Sousa, who led the first colonizing expedition to Brazil in 1530, and to another naval officer Joao de Castro.

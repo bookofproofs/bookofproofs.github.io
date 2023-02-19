@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Aleksandr Kotelnikov** was a Russian mathematician who worked on non-Euclidean geometry.
 
 ### Mathematical Profile (Excerpt):
-* This connection between Kotelnikov's father and Lobachevsky is important since the Lobachevsky connection was to play a large role in Kotelnikov's work throughout his life.
 * Kotelnikov was educated at the University of Kazan, graduating in 1884.
 * After this he taught at a gymnasium in Kazan before entering the Department of Mechanics at Kazan to work for his university teachers qualification.
 * The thesis he presented for the Master's Degree was The Cross-Product Calculus and Certain of its Applications in Geometry and Mechanics.

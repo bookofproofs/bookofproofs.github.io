@@ -23,13 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Paul-André Meyer** was a French mathematician who worked in the theory of stochastic processes.
 
 ### Mathematical Profile (Excerpt):
-* The Meyerowitz family fled from France in 1940 and sailed to Argentina, settling in Buenos Aires.
 * Paul-André attended a French school in Buenos Aires but, spending six years there from the age of six to the age of twelve, he became fluent in Spanish.
 * Back in France, Paul-André entered the lycée Janson de Sailly in Paris.
 * It was at this school that Paul-André fell in love with advanced mathematics, mainly due to an outstanding mathematics teacher M Heilbronn who was an expert mathematician having obtained a doctorate with a thesis Les équations aux dérivées partielles selon Jules Drach Ⓣ(Partial differential equations according to Jules Drach).
 * Paul-André, who spent four years in Heilbronn's classes, obtained his baccalaureate in 1952.
 * Paul-André spent the following two years preparing to take the entrance examinations for the grandes écoles.
-* In fact, in 1952 his father changed the family name from Meyerowitz to Meyer and from this time on the subject of this biography was known as Paul-André Meyer.
 * Remarkably she had, like Meyer, lived in Buenos Aires and had even studied at the same French school there although they had not met at that time.
 * By the end of the year, Meyer had assimilated the probabilistic techniques and was ready to begin his own research; this was the time when Gilbert Hunt was publishing, in the United States, two fundamental memoirs which were renewing at the same time potential theory and the theory of Markov processes by establishing a precise link, in a very general framework, between an important class of Markov processes and the class of kernels in potential theory which French probabilists had just been studying.
 * Meyer, who was in close relation with these potentialists, and who was quite knowledgeable about convex functional analysis, was particularly well positioned to explore Hunt's theory.
@@ -44,9 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This title was identical to that of Meyer's single-authored text of 1966 and indeed was considered by the authors as a revision and updating of that earlier text.
 * In 1993 Meyer published Quantum probability for probabilists.
 * We were sometimes ten people, sometimes three people, and we listened to Meyer.
-* Paul-André Meyer was indeed very close to his family, which for him was paramount.
-* Paul-André Meyer was a great lover of music and a great musician.
-* In the evening, the "little family Meyer" played at home sonatas, trios, and quartets with piano.
 * Meyer received many honours for his mathematical contributions including the Peccot Prize, the Maurice Audin Prize and the Ampère Prize.
 * Following his death the Institut de Recherche Mathématique Avancée at Strasbourg created the Meyer Prize which is awarded annually to an outstanding young probabilist working in the field of stochastic processes.
 

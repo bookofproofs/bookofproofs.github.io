@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Aad Zaanen was brought up in Rotterdam where he attended the secondary school (hogere burgerschool).
 * After completing a first degree in Mathematics and Physics in 1935, Zaanen continued his studies at Leiden undertaking research with Johannes Droste as his advisor.
 * After completing his doctoral studies, Zaanen became a secondary school teacher in Rotterdam, teaching mathematics.
-* Zaanen married Jacoba (Ada) van der Woude in 1943; they had four sons.
 * After three years in Indonesia, Zaanen returned to the Netherlands where he was appointed as Professor of Analysis in the Technical University of Delft in 1950.
 * On the other hand it reflects Zaanen's mathematical career over more than forty years.
 * During this period Zaanen made essential contributions to several parts of mathematics, mainly in functional analysis, integration theory and Riesz space theory.

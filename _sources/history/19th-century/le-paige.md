@@ -35,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After submitting his doctoral thesis Quelques applications de la théorie des formes algébriques à la géométrie Ⓣ(Some applications of the theory of algebraic geometry shapes), Le Paige was given an oral examination and graduated on 28 July 1875.
 * After graduation, he was appointed as a lecturer at the University of Liège on 10 October 1876.
 * It is a clear indication of his remarkable productivity that nine of his papers were published in 1876 and ten were published in the following year.
-* Some of these papers were on topics he had worked on before he settled on geometry as his main interest, for example there are papers on continued fractions, differential equations, the difference calculus, and Bernoulli numbers.
 * Beginning in the year he was appointed to the University, he taught courses on 'Elements of the theory of determinants', which is not surprising since this was Catalan's speciality, and he also taught a 'Higher analysis' course.
 * He was appointed as an extraordinary professor at the University of Liège in 1882, promoted to full professor three years later, and remained there for the whole of his career, retiring in 1922.
 * He was Director of the Institute Astrophysique de Cointe-Sclession, annexed to the University of Liège, from 1897 to 1922.
@@ -44,8 +43,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * During the 1890s he began teaching courses on 'Celestial mechanics and analytical mechanics', the 'Elements of astronomy and geodesy', the 'History of mathematical and physical science', and 'Physical astronomy'.
 * Another of his colleagues at the University of Liège was Joseph Neuberg who, although about twelve years older than Le Paige, had been appointed as a professor at Liège within a couple of years of Le Paige.
 * Neuberg retired in 1910 and again Le Paige took over certain additional responsibilities.
-* Le Paige married Marie Joséphine Ernst.
-* They had a son Ubric Le Paige who married Teresa De Walque.
 * Ubric and Teresa had eleven sons, including Father Gustave Le Paige De Walque (1903-1980) who was Director of the Museo Arqueológico de la Universidad del Norte in San Pedro de Atacama.
 * We mentioned above that Le Paige was administrateur-inspecteur of the University of Liège from 1905 to 1922.
 * The Germans took control of Liège and made demands of the University that Le Paige was largely able to resist.
@@ -68,7 +65,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He was elected to the Royal Society of Bohemia in 1881, and in the same year became a foreign corresponding member of the Accademia Pontificia dei Nuovi Lincei in Rome.
 * He was elected to the Royal Academy of Sciences of Lisbon in 1883 and, in the same year, to the Leopoldino-Carolina Naturae Curiosorum Academia in Halle.
 * Finally, we note Le Paige's love of collecting old books.
-* will sell the collection of the well-known bibliophile, le Chevalier Constantin Le Paige, of Liège, consisting of incunabula, antique manuscripts, valuable illustrated books, French literature, as, for example, first editions of Balzac, Bossuet, Corneille, Pascal, Rousseau, Voltaire; also mathematical and astronomical rarities, the commentary of Albertus de Brudzewo of 1494, printed in Milan, of which only two examples are known, the "Opus calculationum" of Suiseth (Padua of about 1477) and the first edition of Boethius "Arithmetica." The chief attraction is Dante's manuscript of 1493, which resembles the books written in Naples for King Matthias Corvinus.
 * The "Divisie Chronijk" of 1517 is celebrated for its wood-cuts by Lucas van Leyden, and a "Livre d'Heures" of 1513 is printed on parchment and illustrated with coloured wood engravings.
 * The sale contains also rare books on art and science, music books, geographical works, etc.
 

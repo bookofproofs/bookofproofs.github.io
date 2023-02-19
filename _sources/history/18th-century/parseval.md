@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Parseval, perhaps not surprisingly since he was of noble birth, was a royalist so for him the increasing problems for the monarchy meant that his life was more and more in danger.
 * It was a time of great danger for royalist supporters and indeed it proved so for Parseval who was imprisoned in 1792.
 * This may have been good news for France in general but royalists like Parseval, despite being freed from prison, remained in fear of their lives.
-* Parseval should have kept his head down if he wanted at avoid trouble but it was a time when it was almost impossible not to get drawn into the political events.
 * Parseval published poetry against Napoleon's regime and, not surprisingly, had to flee from France when Napoleon ordered his arrest.
 * Parseval had only five publications, all presented to the Académie des Sciences.
 * It was the second of these, dated 5 April 1799, which contains the result known today as Parseval's theorem.

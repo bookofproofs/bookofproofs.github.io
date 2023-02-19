@@ -23,9 +23,6 @@ contributors: @Hervé-Le-Ferrand,bookofproofs
 **Robert de Montessus** was a French mathematician, known for his work on continued fractions and Padé approximants.
 
 ### Mathematical Profile (Excerpt):
-* Robert's mother was a great-granddaughter of Philibert de Commerson, a naturalist on Bougainville's expedition and a member of the French Academy of Sciences.
-* Robert was the youngest of his parents' four children.
-* The oldest child was Fernand (1851-1923), who graduated from the École Polytechnique and became a famous seismologist.
 * Robert de Montessus obtained his baccalaureate in 1886.
 * Thus, he joined the French army but left in 1893 to take up a job at the Compagnie des Chemins de Fer de Paris à Lyon et à la Méditerranée.
 * During the years 1895-1902, Robert de Montessus taught in different secondary schools (in Evreux, Yzeure, and Senlis).
@@ -40,7 +37,6 @@ contributors: @Hervé-Le-Ferrand,bookofproofs
 * The first part of his thesis was published in the Rendiconti del Circolo Mathematico di Palermo in 1905.
 * In 1906, the subject proposed for the Grand Prix of the Paris Academy of 1906 was on the convergence of algebraic continued fractions.
 * Moreover, Montessus de Ballore's theorem was soon cited by mathematicians such as Edward van Vleck, Niels Norlund, Oskar Perron and Edwin Wilson.
-* Robert de Montessus married Suzanne Montaudon (1884-1983) on the 29 March 1906.
 * In 1908, Robert de Montessus wrote a book on probability theory entitled Leçons élémentaires sur le Calcul des Probabilités Ⓣ(Basic rules of probability theory).
 * De Montessus continued to publish works on continued fractions up to 1909.
 * In 1917, Robert de Montessus joined the editorial team of the Journal de Mathématiques Pures et Appliquée headed by Camille Jordan.

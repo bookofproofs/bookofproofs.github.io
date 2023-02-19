@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James Ivory** was a Scottish mathematician who wrote on mathematical astronomy.
 
 ### Mathematical Profile (Excerpt):
-* Certainly by the end of 1762 James senior and his wife Jane were living in Dundee where James junior was born.
-* Jane must have died soon after the birth (although no records have come to light) since James Ivory senior married Margaret Cook on 16 September 1768.
-* James junior was brought up by his father and step-mother who together had three sons and two daughters.
-* James junior, the subject of this biography, was educated at Dundee Academy, then at the University of St Andrews, completing his studies at Edinburgh University.
 * After his university education Ivory taught mathematics in Dundee Academy.
 * By 1815 Ivory's mental state seems to have worsened and he tried to resign his post but was persuaded to withdraw his resignation.
 * Ivory was elected a Fellow of the Royal Society in 1815.

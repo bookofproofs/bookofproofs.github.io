@@ -23,7 +23,6 @@ contributors: @L-A-Shemetkov,@R-Schmidt,bookofproofs
 **Wolfgang Gaschütz** was a German mathematician who worked on group theory, in particular in the theory of finite groups.
 
 ### Mathematical Profile (Excerpt):
-* In 1931 the family moved to Berlin where Gaschütz's father became the owner of an industrial estate.
 * In the autumn of 1945 Gaschütz entered the University of Kiel (Christian-Albrechts-Universität zu Kiel).
 * Gaschütz's interest in group theory, as explained in the quote above, was initiated by Andras Speiser's book Die Theorie der Gruppen endlicher Ordnung and stimulated by Helmut Wielandt's work.
 * So algebraic life started again in Kiel, and Gaschütz succeeded - also by attracting other algebraists interested in group theory - to transform Kiel into a noted centre of this field.

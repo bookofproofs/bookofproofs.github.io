@@ -24,9 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * The Nazi party had come to power in Germany in 1933 and their anti-Semitic policies together with a clear desire to take control of Austria made Rothblum's parents realise that they were not safe in Vienna.
-* Rothblum's family had been Zionists before moving to Palestine.
 * This took place in 1948, when Rothblum was only one year old, and at that time many Zionist institutions became Israeli government institutions.
-* The Zionists continued to exist after the creation of the state of Israel, however, and the Rothblum family were involved with them, by that time working to assist Jews who were persecuted in their own countries to emigrate to Israel.
 * At school, Rothblum showed great abilities and he was particularly passionate about chemistry.
 * Aumann, not surprisingly, gave Rothblum a Master's thesis topic from game theory and he wrote the thesis Values of Games with a Continuum of Players.
 * It was working with Aumann that led to Rothblum's first mathematical paper, namely On orderable set functions and continuity published in the Israel Journal of Mathematics in 1973.
@@ -41,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Rothblum served on the editorial board of several journals: Letters in Linear Algebra and Its Application (1980-81); SIAM Journal on Algebraic and Discrete Methods (1983-87); SIAM Journal on Matrix Analysis and Applications (1988-93); Operations Research (1996-99); Journal on Combinatorial Optimization (2005-2012); World Scientific Series on applied mathematics (2006-2012); Linear Algebra and Its Applications (1982-2012); and Mathematics of Operations Research (1979-2012).
 * For his outstanding contributions to operations research, Rothblum received awards such as: the New England Academic Excellence Award, 1989; the Operations Research Meritorious Service Award, 1997; the Operations Research Meritorious Service Award, 1999; the Institute for Operations Research and the Management Sciences Fellow Award, 2003; and the Israeli Operational Research Society Prize for Excellence in Research in Operations Research, 2005.
 * In collaboration with Frank K Hwang, Rothblum published the 2-volume text Partitions: Optimality and Clustering (2012).
-* Uri Rothblum was married to Naomi; they had three children, Maydan, Guy and Ron.
 
 Born 16 March 1947, Tel Aviv, British Mandate for Palestine (now Israel). Died 26 March 2012, Haifa, Israel.
 

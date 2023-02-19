@@ -28,7 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Following the award of her doctorate Thompson spent the academic year 1986-87 at the Hebrew University in Jerusalem, the leading university in Israel.
 * The work described by Thompson in this lecture related to her paper (with Joel Hass and William Thurston) Stabilization of Heegaard splittings (2009).
 * There are other aspects of Thompson's contributions which we wish to highlight in this biography.
-* Thompson is married with three children and first became aware of the educational problems when her daughter started attending state education in Davis.
 * But Thompson not only pointed out problems with education reforms in California but she made considerable efforts to improve the situation by helping to launch "Starting With Math", a University of California at Davis programme aimed at strengthening teachers' knowledge of mathematics.
 * Finally we look at the considerable contribution that Thompson has made to the American Mathematical Society.
 

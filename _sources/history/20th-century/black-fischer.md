@@ -36,6 +36,7 @@ contributors: @David-O-Forfar,bookofproofs
 * By 1969, Black and Scholes had the above differential equation.
 * But Black and Scholes had noticed the curious absence (in the differential equation) of the investment return, μ, of the stock-price or any parameter representing the degree of preference, as to risk, on the part of option purchasers.
 * But when Black and Scholes set μ equal to the risk-free rate, rrr, and set purchasers to require a return from the stock-option also of the risk-free rate, rrr, i.e. the return was the risk-free rate, irrespective of the purchaser's risk preferences, they found that Sprenkle's formula, with these adjustments, satisfied the partial differential equation.
+* As Black himself is quoted as saying ...
 * It is clear that the unexpected aspect of the Black-Scholes-Merton differential equation was not at first accepted.
 * Although this at first seemed hard to understand (even to Black and Scholes) in due course, it was realised that they and Merton were right and the stock-option price was independent of the stock-price return or investor preferences, as they were all incorporated into S(t)S(t)S(t) i.e. they did not enter f(S,t)f (S, t)f(S,t) other than through S(t)S(t)S(t).
 * Black, Scholes and Merton could not have realised, at the time, the enormous repercussions that this realisation was to have.

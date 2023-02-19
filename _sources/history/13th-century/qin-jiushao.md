@@ -23,17 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Qin Jiushao** was a Chinese mathematician who wrote an important study _Shushu Jiuzang_ on equations, including the [Chinese Remainder Theorem][bookofproofs$8182].
 
 ### Mathematical Profile (Excerpt):
-* His father, Qin Jiuyu (or Ch'in Chiu-yu), was a graduate who worked as an official in local administration.
-* In around 1219, when Qin was about seventeen years old, his father was working as a prefect of Bazhou.
 * At this time Qin volunteered for the army, which was putting down a rebellion, and served for a while.
-* Qin's father moved to Hang-chou, the capital of the Nan Sung, in around 1224 and Qin went with his father.
-* In fact Qin did not live in the capital Hang-chou for long since his father was posted to Tongchuan (now Santai) in Szechwan province in 1226 and Qin went there with him.
 * Sadly, we do not know which recluse scholar taught Qin mathematics, but we do know that he studied the Nine Chapters on the Mathematical Art.
 * By 1233 Qin was himself the sheriff of a subprefecture in Szechwan province and at this time he was instructed in writing poetry by an official from Chengdu, in central Szechwan province.
 * It is worth noting at this point that as well as being a genius in mathematics and accomplished in poetry, Qin was expert at fencing, archery, riding, music and architecture.
 * Their armies invaded Szechwan province in 1234 and Qin was forced to leave.
 * We need not feel too sorry for Qin, however, for he was a dishonest rogue who was quite prepared to poison those whom he disliked.
-* After holding this post for three months, his mother died in the September 1244 and Qin left his post in Nanking for the mourning period and returned to Hui-chou in Anhwei province where his mother had been living.
 * During his period of mourning in Hui-chou, Qin wrote his famous mathematical treatise Shushu Jiuzhang (Mathematical Treatise in Nine Sections) which appeared in 1247.
 * Before we look at the contents of the Shushu Jiuzhang we continue our description of Qin's life.
 * One might expect that by this time Qin would be unemployable, given his record of criminal dealings, but he next managed to gain an appointment as an assistant in the district of Yin (near Ningpo) in Zhekiang where his friend Wu Qian had been appointed as a naval officer.

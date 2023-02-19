@@ -24,27 +24,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * In this difficult time Abel was growing up in Gjerstad in south-east Norway.
-* Abel's father, Sören Georg Abel, had a degree in theology and philology and his father (Niels Abel's grandfather) was a Protestant minister at Gjerstad near Risor.
-* Sören Abel was a Norwegian nationalist who was active politically in the movement to make Norway independent.
-* Sören Abel married Ane Marie Simonson, the daughter of a merchant and ship owner, and was appointed as minister at Finnoy.
-* Niels Abel, the second of seven children, was one year old when his grandfather died and his father was appointed to succeed him as the minister at Gjerstad.
-* It was in that town that Abel was brought up, taught by his father in the vicarage until he reached 13 years of age.
-* However, these were the 13 years of economic crisis for Norway described above and Abel's parents would have not been able to feed their family very well.
-* Abel's father was, however, important in the politics of Norway and, after Sweden gained control of Norway in 1814, he was involved in writing a new constitution for Norway as a member of the Storting, the Norwegian legislative body.
-* In 1815 Abel and his older brother were sent to the Cathedral School in Christiania.
 * What had been a good school was in a bad state when Abel arrived.
 * When a new mathematics teacher Bernt Holmboë joined the school in 1817 things changed markedly for Abel.
 * Abel began to study university level mathematics texts and, within a year of Holmboë's arrival, Abel was reading the works of Euler, Newton, Lalande and d'Alembert.
 * Holmboë was convinced that Abel had great talent and encouraged him greatly taking him on to study the works of Lagrange and Laplace.
-* However, in 1820 tragedy struck Abel's family when his father died.
-* Abel's father had ended his political career in disgrace by making false charges against his colleagues in the Storting after he was elected to the body again in 1818.
-* There was now no money to allow Abel to complete his school education, nor money to allow him to study at university and, in addition, Abel had the responsibility of supporting his mother and family.
 * Holmboë was able to help Abel gain a scholarship to remain at school and Abel was able to enter the University of Christiania in 1821, ten years after the university was founded.
 * Holmboë had raised money from his colleagues to enable Abel to study at the university and he graduated in 1822.
 * While in his final year at school, however, Abel had begun working on the solution of quintic equations by radicals.
 * Degen asked Abel to give a numerical example of his method and, while trying to provide an example, Abel discovered the mistake in his paper.
 * At the University of Christiania Abel found a supporter in the professor of astronomy Christopher Hansteen, who provided both financial support and encouragement.
-* Hansteen's wife began to care for Abel as if he was her own son.
 * In 1823 Abel published papers on functional equations and integrals in a new scientific journal started up by Hansteen.
 * In Abel's third paper, Solutions of some problems by means of definite integrals he gave the first solution of an integral equation.
 * Abel was given a small grant to visit Degen and other mathematicians in Copenhagen.
@@ -73,7 +61,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In Berlin, Abel borrowed some money and continued working on elliptic functions.
 * Crelle tried to persuade Abel to remain in Berlin until he could find an academic post for him and he even offered Abel the editorship of Crelle's Journal.
 * However, Abel wanted to get home and by this time he was heavily in debt.
-* To make a little more money Abel tutored schoolchildren and his fiancée was employed as a governess to friends of Abel's family in Froland.
 * Abel was appointed to this post which improved his position a little.
 * In 1828 Abel was shown a paper by Jacobi on transformations of elliptic integrals.
 * Abel quickly showed that Jacobi's results were consequences of his own and added a note to this effect to the second part of his major work on elliptic functions.

@@ -31,8 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Although Jacobi had died over ten years before Wangerin began his studies at Königsberg, his influence was still strongly felt and it would not be unreasonable to say that Wangerin, through his teachers at Königsberg, was strongly influenced by Jacobi's style of mathematics.
 * Wangerin moved from Posen back to Berlin where again he taught mathematics in a Gymnasium from 1 April 1869 until 31 March 1876.
 * In addition to his teaching activities, Wangerin also took on the role of coeditor of the yearbook Jahrbuchs über die Fortschritte der Mathematik Ⓣ(Yearbook on the progress of mathematics)  in 1869.
-* Wangerin married Johanna Thorn on 14 April  1871; they had five children, three sons and two daughters.
-* Their first son Ernst (born 6 May 1872) went on to obtain a doctorate in history, a second son Albert (born 19 June 1873) went on to obtain a doctorate in chemistry, a daughter Ella (born 21 September 1874) became a piano teacher, a daughter Kaethe (born 5 August 1878) became a draftswoman, and a son Walter (born 15 April 1884) became a professor of plant ecology at the Technische Hochschule in Danzig.
 * In the spring of 1876 Wangerin was appointed as an extraordinary professor at the University of Berlin.
 * Wangerin remained in Berlin until 1882 when he was offered the position of ordinary professor at the University of Halle-Wittenberg.
 * The chair had fallen vacant when Heine died in October 1881, and Wangerin was appointed to succeed his former teacher.

@@ -23,19 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Shen Kua** was a Chinese scholar who wrote on a wide variety of topics including mathematics, music, astronomy, calendars, cartography, geology, optics and medicine.
 
 ### Mathematical Profile (Excerpt):
-* His father was Shen Chou and his mother's family name was Hsu.
-* Both seem to have been quite old when Shen Kua was born; his father being around 53 years old, and his mother about 44 or 45 years old.
 * Shen Chou was a government official who moved around between various posts in the provinces before ending his career in the legal profession in the capital Kaifeng.
-* Shen Kua's mother came from the Soochow region of China and played an extremely important role in her son's upbringing since all his early education came from his mother.
-* When he was about nine years old, Shen Kua began to move around the country with his father as he went from one post to the next.
 * The type of work that officials such as Shen Chou had to undertake was very varied, for he was involved in financial matters, in technical matters such as looking after the waterways and canals and overseeing major building projects, and he would have responsibilities for agriculture in the district to which he was posted.
-* The young boy Shen Kua learnt much from observing his father at work, and having an extremely sharp mind, he took full advantage of the opportunities presented to him.
 * Another local administrator whom Shen Chou came to know and to admire was Wang Anshi.
-* He was 10 years older than Shen Chou's son Shen Kua and soon Shen Kua also came to admire Wang Anshi's administrative skills, and also his idealism.
-* When Shen Kua's father died in 1051, Wang Anshi composed his epitaph.
-* As the son of an official, Shen Kua himself could become an official after the death of his father without taking the formal examinations which others were required to sit.
 * The emperor at the time of Shen Kua's birth was Jen-tsung.
-* By the time that Shen Kua started to progress through the ranks of the administration, reformers had returned now having learnt political skills.
 * Shen, however, was making a name for himself as an extraordinarily able man.
 * While subprefect of Ning-kuo in Anhwei province in 1061, Shen undertook a cartographic survey and then undertook another major land reclamation programme.
 * Again it was very successful and after Shen passed national examinations in 1063 and moved to Yang-chou, the governor realised that here was someone of outstanding ability and recommended him for an appointment at court in the capital Kaifeng in Honan province.
@@ -50,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Wang's opponents in government saw Shen as someone travelling round the country obtaining support for Wang's reform programme and they began to conspire against him.
 * However Shen was so successful in the tasks he was given that he continued to be asked to undertake pojects of major national importance.
 * Returning to the capital Kaifeng, Shen was appointed to the Imperial Academy and appointed Finance Commissioner in 1077.
-* Shen was a brilliant man, but his skill was in accomplishing tasks and not in political manoeuvring.
 * It was Wang's replacement who brought the false charges against Shen.
 * Shen was sent to Shenxi province as Commissioner for Prefectural and Military Affairs.
 * The emperor was delighted and Shen made proposals to him to fortify the region.

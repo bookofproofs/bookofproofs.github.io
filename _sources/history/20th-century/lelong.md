@@ -33,18 +33,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After graduating from the École Normale Supérieure, Lelong began undertaking research advised by Paul Montel.
 * In the first of these, Lelong investigates the accuracy of the estimate of the number of direct critical points of the inverse of a meromorphic function w(z)w(z)w(z) given by Lars Ahlfors in a 1932 paper.
 * Lelong became a researcher at the CRNS from its founding.
-* Lelong, however, still managed to publish research articles, for example Sur l'ordre d'une fonction entière de deux variables Ⓣ(On the order of an integer function of two variables) (1940), Sur l'intégrale de Kronecker appliquée à un système de deux fonctions de deux variables complexes Ⓣ(On the Kronecker integral applied to a two-function system of two complex variables) (1940), Sur les zéros d'une fonction entière de deux variable Ⓣ(On the zeros of an integer function of two variable) (1940), Sur les domaines cerclés qui sont domaines naturels d'existence d'une fonction analytique de deux variables complexes Ⓣ(On circled domains which are natural domains of existence of an analytic function of two complex variables) (1941), and Sur quelques problèmes de la théorie des fonctions de deux variables complexes Ⓣ(On some problems of the theory of functions of two complex variables) (1941).
 * In 1941 Lelong submitted his Thèse de Doctorat d'État entitled Sur quelques problèmes de la théorie des fonctions de deux variables complexes Ⓣ(On some problems of the theory of the functions of two complex variables) to the Faculty of Science in Paris for the degree of docteur es sciences mathématiques.
-* Lelong dedicated his thesis "To my father and to doctors R Gouverneur and L Pollet, surgeon and doctor of Paris hospitals." Unfortunately we do not know why he dedicated his thesis to these two doctors.
 * Even before the award of his Doctorat d'État, Lelong had been appointed as an assistant lecturer at the Faculty of Sciences of Paris in 1940.
 * Lelong was appointed to Lille to fill the vacant chair of rational and experimental mechanics.
 * Here is an example of a problem of rational mechanics taught in Lille, about 1954, by Pierre Lelong and Robert Bossut, at the time when Yves Leroy was a student: A 'gouttière' rotates uniformly around its centre of gravity, a ball circulates in its axis, give the movement of the ball.
-* On 22 November 1947 Pierre Lelong married the mathematician Jacqueline Ferrand, a mathematics professor in Caen.
-* Pierre and Jacqueline had four children, Jean, Henri, Françoise and Martine.
-* We note at this point that Pierre Lelong and his wife divorced and he married the mathematician France Fages in 1976.
 * After her marriage she published under the name France Lelong.
 * In 1954 Lelong left Lille and returned to Paris where he was appointed as a professor at the Faculty of Science.
-* Lelong and his wife Jacqueline Lelong-Ferrand both spent a semester, September-December 1956, at the Institute for Advanced Study at Princeton, USA.
 * Lelong soon became involved with the French government.
 * The day de Gaulle was appointed he made Pierre Lelong 'Conseiller technique au Secrétariat général de la Présidence de la République'.
 * This meant that Lelong was responsible for scientific research, all levels of education and public health.

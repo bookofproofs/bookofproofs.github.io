@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * As we mentioned above, it was at this time that he changed his name by deed poll from Neumann to Newman.
 * From 1916 until 1919 Newman undertook work related to the war, doing various jobs such as army paymaster and schoolmaster.
 * Newman visited Princeton in 1928-9 during which time he was a Rockefeller Research Fellow working closely with Alexander.
-* Newman married Lyn Irvine in 1934.
 * While at Cambridge Newman taught a course on the foundations of mathematics.
 * which was published with considerable help from Newman.
 * Without Newman's encouragement, Turing might not have done this work and got drawn into codebreaking.
@@ -41,7 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1962 Newman was presented with the De Morgan Medal from the London Mathematical Society.
 * In 1964 Newman retired from his Manchester chair but he most certainly did not give up mathematics.
 * Retirement was also an opportunity for Newman to relaunch his research career which he did with the vigour of a young academic.
-* Lynn Newman died in 1973, and later in the same year he married Margaret Penrose, the daughter of a professor of physiology, who was the widow of the physician Professor Lionel Sharples Penrose.
 
 Born 7 February 1897, Chelsea, London, England. Died 22 February 1984, Comberton (near Cambridge), England.
 

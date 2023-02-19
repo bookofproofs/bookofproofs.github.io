@@ -28,9 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The problem that Morse gave Federer set his research direction for the next few years and his work on the problem clearly showed his research potential.
 * Federer and Morse wrote up the solution to the problem as the  joint paper Some properties of measurable functions which was published in 1943.
 * These papers contain the first contributions that Federer made to the study of Lebesgue area.
-* Federer married Leila and they had three children, Andrew, Wayne, and Leslie Jane.
-* Federer's daughter, Leslie Jane, now Leslie Jane Vaaler, studied mathematics at the Massachusetts Institute of Technology and was awarded a Ph.D. from Princeton for her thesis p-adic L-functions, Regulators, and Iwasawa Modules (1982).
-* (Those who knew Herbert Federer will recognize this precision with language.) On our walks, my father was pleased to be asked questions and encouraged further queries by treating them as intelligent responses.
 * In 1948 Federer produced mimeographed notes for the course An Introduction to Differential Geometry that he was giving at Brown University.
 * In 1961, in collaboration with Bjarni Jonsson, Federer published the undergraduate text Analytic Geometry and Calculus.
 * Federer is most famous, however, for his book Geometric measure theory (1969).

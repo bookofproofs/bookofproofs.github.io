@@ -23,10 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Spence** was a Scottish mathematician who worked on logarithmic functions.
 
 ### Mathematical Profile (Excerpt):
-* Their son William was born on the last day of July 1777 and was baptised a few days later on 4 August.
 * In the summer, together with his friends, Spence went fishing or looking for birds' nests.
 * As he grew up Spence turned from reading adventure stories to reading biography and history.
-* After leaving school, Spence went to Glasgow where he lodged with Mr Struthers, a friend of his father, while he learnt the skills of being a manufacturer.
 * Eventually Spence gave up learning business skills and devoted himself entirely to the study of science.
 * some half dozen or fewer of my companions formed a monthly society, at the instigation of William Spence.
 * The essays of William Spence were very astronomical, we thought them profound; they were all about planets and comets, the cosmogony of the earth, the infinite divisibility of matter, and the boundless of nature, premundane space; any thing of this world was too gross to enter into his speculative theories.
@@ -36,8 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * the first comprehensive detailed study of the function is the essay of Spence (1809), which was generally not referenced on the continent for several decades.
 * It is clear that Spence must have read Lagrange's 1770 paper Réflexions sur la résolution algébrique des équations for he tries to make a systematic approach to solving equations of degree 2, 3 and 4 using symmetrical functions of the roots as does Lagrange.
 * This makes it sound as if Spence follows Lagrange rather closely but this is certainly not the case for he gives his own approach to solving these equations.
-* In the same year of 1814 Spence went with his sister to London where he married an English lady whom he had been engaged to marry for some time.
-* The couple intended to live in London but, after some time, made a visit to Scotland accompanied by Spence's sister.
 * However Spence was taken ill at Glasgow, and died in the inn in which they had put up for the night.
 * After Spence died, John Herschel edited Mathematical Essays by the late William Spence which was published by Oliver and Boyd in Edinburgh in 1819.
 * The others were selected from Mr Spence's papers by the editor, J F W Herschel, Esq., who was pre-eminently qualified to judge the respective merits of the several pieces.

@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This region remained part of the Austro-Hungarian Empire throughout Scholtz's lifetime but in 1920, a couple of years after his death, the Treaty of Trianon divided the Austro-Hungarian Empire and this district became part of Czechoslovakia.
 * A consequence of these changes is that the names of the towns have changed and we will give the Hungarian names, as they were when Scholtz lived there, as well as the present Slovak names.
 * For example Kotterbach, the town where Scholtz was born, was known as Otosbanya or Kotterbach in Hungarian, Koterbach or Koterbachy in German, and today is Rudnany in Slovakia.
-* Given this, it will come as no surprise to learn that Scholtz' father was a supervisor of mines.
 * Scholtz attended grammar school in the towns of Igló, Rozsnyó (Rosenau in German and today Roznava in Slovakia) and Löcse (Leutschau in German and today Levoca in Slovakia).
 * Scholtz became the school director of the Lutheranian Grammar School in 1875.
 * In 1879 Scholtz submitted his habilitation thesis Some theorems on the whole form of hexagrammum mysticum (Hungarian) to the Faculty of Arts of the Hungarian Royal University of Budapest (the predecessor of the Loránd Eötvös University), where he became a docent.
@@ -43,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The joint theorem of Hunyadi and Scholtz, the so called Hunyadi-Scholtz determinant theorem in the newer literature, was well known for several decades.
 * Its usefulness in technical problems is less well known: let us refer to Jeno Egervary's paper "Application of the Hunyadi-Scholtz matrices in the theory of grid structures" (1954) in which he studies grid structures with three bars constituting a triangle or six bars constituting a tetrahedron, the structure being loaded by a system of forces in equilibrium.
 * Scholtz published the paper Sechs Punkte eines Kegelschnittes Ⓣ(Six points on a conic) in the Archiv der Mathematik in 1878, and around the same time several papers in Hungarian in the Müegyetemi Lapok.
-* Scholtz' later papers appeared in the Nouvelle Annales de Mathématique, for example Résolution de l'equation du troisiéme degré Ⓣ(Résolution of the cubic equation) (1881), and in the Yearbook of the Grammar School in Igló, see A remark on light interference (1886).
 * In 1897 Scholtz took part in the first International Congress of Mathematicians held in Zürich, where two young Hungarian mathematicians were giving lectures (G Rados, and A Stodola).
 * Scholtz retired from his chair in 1909.
 * In 1911 Loránd Eötvös invited professor Lipót Fejér to become head of the department which had been led earlier by Scholtz.

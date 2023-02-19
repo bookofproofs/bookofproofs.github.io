@@ -31,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Schur remained in Germany so Schiffer had to find a new doctoral advisor at the Hebrew University of Jerusalem.
 * However, his research undertaken in Germany and published in his 1946 paper was accepted for a Master's Degree at the Hebrew University and Schiffer was awarded this degree in 1934.
 * Schiffer's area was now quite different from that which he had studied with Schur, and he was awarded his doctorate in 1938 for his thesis Conformal Representation and Univalent Functions.
-* While Schiffer was undertaking research in Jerusalem he married Fanya Rabinivics in 1937; they had a daughter Dinah (now Dinah S Singer, Head of the Molecular Regulation Section, Experimental Immunology Branch, National Cancer Institute, U.S. National Institutes of Health).
 * After the award of his doctorate, Schiffer remained on the staff at the Hebrew University until 1946.
 * It was Schiffer's work that opened up the possibility of applying variational methods in a systematic way to geometric problems in complex analysis.
 * In 1946 Schiffer moved to the United States when he was appointed as a Research Lecturer at Harvard University.

@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Richard Von Mises** was an applied mathematician who worked on fluid mechanics, aerodynamics, aeronautics statistics and probability theory. He gave the first university course on powered flight in 1913.
 
 ### Mathematical Profile (Excerpt):
-* His father, Arthur Edler von Mises, worked for the Austrian State Railways as a technical expert and his mother was Adele von Landau.
-* Richard was the second son of the family, the elder son being Ludwig von Mises who went on to become as famous as Richard.
 * Ludwig, who was about eighteen months older than Richard, went on to become an economist who contributed to liberalism in economic theory and made his belief in consumer power an important part of that theory.
-* Richard also had a younger brother, who died as an infant.
 * It was on the technical course that von Mises embarked, studying mathematics, physics and engineering at the Technische Hochschule in Vienna.
 * Von Mises was awarded a doctorate from Vienna in 1907 and the following year he was awarded his habilitation from Brünn, becoming qualified to lecture on engineering and machine construction.
 * Even before the outbreak of the war von Mises had qualified as a pilot and he gave the first university course on powered flight in 1913.
@@ -46,6 +43,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This judgement by Ostrowski is rather harsh, however, and many consider von Mises' theories to be important in the development of the subject.
 * that the basis for the applicability of the results of the mathematical theory of probability to real 'random phenomena' must depend on some form of the frequency concept of probability, the unavoidable nature of which has been established by von Mises in a spirited manner.
 * von Mises' notion of a random sequence in the context of his approach to probability theory.
+* in looking over the work of von Mises ...
+* von Mises has always been a truly broad-minded man ...
 * von Mises chose the topics according to a very definite view-point, determined by his ideas about the essence and method of every thoroughly scientific research.
 * In von Mises' book Positivism: A Study in Human Understanding (1951) he expressed his views on science and life.
 * This interest in philosophy was only one of von Mises' interests outside the realm of mathematics.

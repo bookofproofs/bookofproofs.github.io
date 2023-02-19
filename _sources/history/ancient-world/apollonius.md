@@ -28,7 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * When he was a young man Apollonius went to Alexandria where he studied under the followers of Euclid and later he taught there.
 * Apollonius visited Pergamum where a university and library similar to Alexandria had been built.
 * The only other pieces of information about Apollonius's life is to be found in the prefaces of various books of Conics.
-* We learn that he had a son, also called Apollonius, and in fact his son took the second edition of book two of Conics from Alexandria to Eudemus in Pergamum.
 * We also learn from the preface to this book that Apollonius introduced the geometer Philonides to Eudemus while they were at Ephesus.
 * We are in a somewhat better state of knowledge concerning the books which Apollonius wrote.
 * First we should note that conic sections to Apollonius are by definition the curves formed when a plane intersects the surface of a cone.

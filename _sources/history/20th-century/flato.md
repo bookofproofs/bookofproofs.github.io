@@ -24,10 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * She was a student of psychology when she met Shlomo Flato in a Tel Aviv cafe.
-* Moshé's mother wanted to continue her career after her child was born and so a governess was employed to look after Moshé.
-* However, Moshé did not appreciate the arrangement so eventually his mother had to give up her ambitions regarding a career, and bring up her child.
-* Moshé's parents spoke to him in Hebrew but he was surrounded by family members who spoke Polish and Russian.
-* Other family friends spoke German so Moshé grew up speaking many languages.
 * However Moshé was not the 'ideal pupil' and continued to play pranks which led to frequent punishments.
 * Flato survived but insisted on telling the truth about the operation rather than giving an 'official version'.
 * After the award of his Master's degree, Flato served as a lieutenant in the Israeli Air Force.

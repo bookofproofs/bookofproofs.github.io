@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Winifred Deans** graduated from Aberdeen and Cambridge. After a period in teaching she joined a Scottish publishing company and translated many important German scientific texts for them. After World War II she worked at the Commonwealth Bureau of Animal Nutrition in Aberdeen.
 
 ### Mathematical Profile (Excerpt):
-* They were married on 18 November 1897 in Aberdeen and had two children, Winifred and her brother Maxwell born in 1907.
 * Winifred studied at the University of Aberdeen, graduating with an MA with First Class Honours in Mathematics in 1922.
 * Deans was then appointed Assistant Mathematics and Physics Mistress at the County Secondary School for Girls, in Harrow, but after two years returned to Aberdeen where she was awarded a Diploma in Education in 1927.
 * However, Deans decided to leave teaching and, in 1927, took a position as an Assistant Science Editor with Messrs Blackie and Sons, Ltd., who were well-known publishers based in Glasgow.

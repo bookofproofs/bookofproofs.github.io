@@ -35,11 +35,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * As a result of this study, Frattini published two major papers on transitive groups, the first in 1883 and the second in the following year.
 * In the first of these papers Intorno alla generazione dei gruppi di operazioni Ⓣ(On the generation of  groups of operations) Frattini defined the subgroup which today is known as the Frattini subgroup.
 * He showed that the Frattini subgroup is nilpotent and, in so doing, used the beautiful method of proof known today as the "Frattini argument".
-* The quality of this work led to Frattini being offered a university chair in Naples, but he declined the offer not wishing to leave Rome for family reasons.
 * Before commenting on the final years of Frattini's life it is worth noting that he contributed to other areas of mathematics in addition to group theory.
 * The First World War was a difficult time for Frattini who found the events very troubling.
-* Frattini's son was wounded in the war and, in order to be able to support him in the difficult economic conditions, Frattini continued working at a time when he wished to retire.
-* His wife died and poor Frattini suffered a number of unhappy years in his old age.
 * A glimpse of Frattini's character can be gained by looking at one of his eccentricities.
 * Frattini recited the sonnets to his pupils in the Roman dialect in which Belli wrote them.
 * One can feel from this episode that Frattini was probably an outstanding teacher and indeed this was the case.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gustav Herglotz** was a Czech-born German mathematician  best known for his works on the theory of relativity and seismology.
 
 ### Mathematical Profile (Excerpt):
-* His father was Gustav Herglotz, a notary, who died when his son was three years old.
 * Wishing to concentrate more on astronomy, Herglotz decided that he would be able to attend more appropriate courses at the University of Munich and so, after one year at the University of Vienna, he moved to Munich in 1900.
 * In Munich, Herglotz was advised by Hugo von Seeliger and Ludwig Boltzmann.
 * It was discovered on 13 August 1898 by Gustav Witt at the Urania Observatory in Berlin.
@@ -38,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Herglotz was appointed to fill the vacant chair which he held until 1946 when he was forced to resign due to ill health.
 * At Göttingen, Herglotz lectured on a wide variety of topics, showing the breadth of his mathematical expertise.
 * His lecture course on continuum mechanics was published in 1985, about 50 years after Herglotz gave the lectures.
-* Herglotz was married to Anna Lederer.
 
 Born 2 February 1881, Wallern, Bohemia (now Volary, Czech Republic). Died 22 March 1953, Göttingen, Germany.
 

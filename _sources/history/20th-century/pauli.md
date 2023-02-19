@@ -25,8 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Wolfgang Joseph had trained as a medical doctor in Prague.
 * In 1898 he changed his name to Wolfgang Joseph Pauli and, in the following year, converted from Judaism to become a Roman Catholic.
-* Wolfgang Joseph had been inspired to study science by Ernst Mach, and when his first child was born he named him Wolfgang Ernst Pauli, giving him the middle name of Ernst in honour of Mach.
-* Not only did Pauli's middle name come from Mach, but Mach was also his godfather giving him a silver cup when he was christened on 31 May 1900.
 * Wolfgang attended school in Vienna where he began a deep study of mathematics and physics at the Döblingen Gymnasium.
 * School work was boring to the brilliant Pauli and he hid Einstein's papers under his school desk and studied them during the lessons.
 * Not paying attention in class did not hold Pauli back, for he graduated from the Gymnasium in July 1918 with distinction.
@@ -40,8 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1924 Pauli proposed a quantum spin number for electrons.
 * He is best known for the Pauli exclusion principle , proposed in 1925, which states that no two electrons in an atom can have the same four quantum numbers.
 * Pauli, who before that had begun to feel that further advances could not be made with the theory as it then existed, quickly made progress using Heisenberg's new ideas and before the end of 1925 he had derived the hydrogen spectrum from the new theory.
-* The year 1927 saw personal tragedy for Pauli when his mother, to whom he had been very close, committed suicide.
-* In the following year his father remarried making an even more unhappy situation for Pauli who referred to his father's new wife as "the evil step-mother".
 * On 6 May 1929 Pauli left the Roman Catholic Church, but his reasons for this are not entirely clear.
 * Despite the personal problems, Pauli's career progressed well.
 * The existence and properties of the particle were still not clear to Pauli, however, and it was not until 1933 that he published his prediction in print.
@@ -50,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He was not treated by Jung, rather it was one of his assistants who helped Pauli.
 * However, Pauli detailed over 1000 dreams which he sent to Jung over many years and Jung published work based on some of the dreams.
 * Pauli clearly believed in psychology as much as he did physics.
-* Things went better for Pauli after he married Franciska Bertram on 4 April 1934.
 * In 1931 Pauli was Visiting Professor at the University of Michigan, then in 1935-1936 he was Visiting Professor at the Institute for Advanced Study, Princeton.
 * Pauli worried that fascism might bring about the end of scientific life in Europe.
 * Pauli also tried to encourage those scientists who could remain in Italy and Germany to do so, for he believed this might ensure that scientific culture survived after the War.

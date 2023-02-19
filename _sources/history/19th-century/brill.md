@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alexander von Brill** was a German mathematician who worked in algebraic geometry. He also made mathematical models and was interested in the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* His father, Heinrich Konrad Brill (1808-1891), was a the owner of a bookshop and printing business.
-* Heinrich was born in Darmstadt on 21 October 1808, the son of Karl Friederich Brill and Marie Luise Mallinkrott.
-* Alexander was the eldest of his parents' six children, having siblings Ludwig Carl Wilhelm Brill (1844-1932), Karl August Christian Brill (1846-1846), Sophie Louise Brill (1847-1935), Adolph Georg Brill (born 1850), and Carl Friedrich Brill (1857-1892).
 * Alexander Brill's school education was in Darmstadt where he attended elementary school and then a Gymnasium.
 * In 1860 Brill entered the Technische Hochschule in Karlsruhe where he studied architecture and engineering science.
 * Brill also moved to Giessen and was again taught by Clebsch.
@@ -36,18 +33,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Brill's models, which represented surfaces by delicately interlaced circles or quadrilaterals, were not as sturdy as wooden or even plaster models, but cost considerably less.
 * These cardboard models were described by Brill in Carton-Modelle von Flächen zweiter Ordnung, construirt nach Angabe Ⓣ(Cardboard models of surfaces of the second order, constructed as specified) (1874).
 * Brill had met Max Noether, who was two years younger, when the two were both working at Giessen and they had become good friends.
-* On 15 May 1875, Brill married Anna Johannette Christiane Schleiermacher (born 1848) in Darmstadt.
 * Alexander and Anna Brill had three sons, Alexander Brill, Eduard Brill (1877-1968) and August Brill.
 * Alexander became President of the Imperial Pay Board, Eduard became an architect, craftsman and Director of a Craft School, and August became a manufacturer.
-* Alexander and Anna Brill also had a daughter Julia who was born in 1883.
 * Brill held the position in Darmstadt until 1875 when he was appointed as the professor of mathematics at the Technische Hochschule in Munich.
 * Brill and Klein both had a great interest in teaching and Brill, like Klein, participated in the movement to reform the teaching of mathematics.
 * It is clear that Brill was much influenced by being a colleague of Klein's for five years and the influence would show up in many different ways throughout Brill's career.
-* Brill taught a remarkably talented collection of students while at the Technische Hochschule in Munich including, for example, Adolf Hurwitz, Walther von Dyck, Karl Rohn, Carl Runge, Max Planck, Luigi Bianchi and Gregorio Ricci-Curbastro.
 * At Munich a laboratory for the design, production, and pedagogical application of models was set up by Brill and Klein.
 * Brill published Mathematische Modelle angefertigt im mathematischen Institut des Königlichen Polytechnikums zu München Ⓣ(Mathematical models made in the mathematics department of the Royal Polytechnic of Munich) (1880) and looked for a way to make his production of mathematical models more commercial.
-* To do this he enlisted the help of his elder brother Ludwig Brill who was now running the family printing business in Darmstadt.
-* Ludwig Brill had taken over his father's business in 1877.
 * Von Dyck assisted Klein and Brill in the construction of models such as the tractrix of revolution, geodetic lines on an ellipsoid of revolution, Kummer's surface, Dupin's cyclide, the spherical catenary and twisted cubics.
 * These mathematical models, constructed of silk threads in brass frames, became a major feature of Ludwig Brill's business.
 * By 1890 he was selling 16 series of models, seven of which were the original ones constructed at the Technische Hochschule in Munich under the direction of Brill, Klein and von Dyck.

@@ -34,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Jyesthadeva in Yukti-Bhasa gave an explanation of how Madhava found his series expansions around 1400 which are equivalent to these modern versions rediscovered by Newton around 1676.
 * Historians have claimed that the method used by Madhava amounts to term by term integration.
 * Rajagopal's claim that Madhava took the decisive step towards modern classical analysis seems very fair given his remarkable achievements.
-* Some of his discoveries in this field show him to have possessed extraordinary intuition, making him almost the equal of the more recent intuitive genius Srinivasa Ramanujan, who spent his childhood and youth at Kumbakonam, not far from Madhava's birthplace.
 
 Born 1350, Sangamagramma (near Cochin), Kerala, India. Died 1425, India.
 

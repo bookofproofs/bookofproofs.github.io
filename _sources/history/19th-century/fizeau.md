@@ -23,14 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hippolyte Fizeau**  was a French physicist, best known for measuring the speed of light.
 
 ### Mathematical Profile (Excerpt):
-* His father Louis Fizeau, coming from a family many generations of which had been doctors, was Professor of Pathology at the Paris Medical School.
-* It was certainly expected that Hippolyte would follow in the family tradition and enter the medical profession - anything else would have been unthinkable.
 * An important event, which was to have a marked affect on Fizeau's future, happened in September 1839.
 * Louis-Jacques Daguerre put on a free course on his new photographic techniques in Paris and the two friends Fizeau and Foucault attended.
 * Although Fizeau and Foucault were impressed they also realised the limitations of the process - it would be wonderful to be able to take portraits, they thought, but the subject could not be expected to remain motionless for 30 minutes.
 * After the course ended they began to experiment to try to speed up the process, and Fizeau had the idea of sensitizing the plate using bromine.
 * After an excellent education at the Collège Stanislas, Fizeau entered the Paris Medical School in 1840.
-* Fizeau had another method of building up his knowledge of mathematics and physics, which was to make a deep study of the notebooks containing the lecture notes taken by his brother who attended courses at the École Polytechnique.
 * Arago was aware of the great scientific potential of the new methods of photography and, in particular, he was aware of the advances made by Fizeau and Foucault.
 * Arago was delighted with the success of Fizeau and Foucault in photographing the sun, and suggested to them that they try to calculate the speed of light with an earth based experiment.
 * Both Fizeau and Foucault had their own ideas how to proceed and after an initial period working on this together they split up.

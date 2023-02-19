@@ -23,12 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Collins** was an English accountant and publisher who corresponded extensively with the mathematicians of his day.
 
 ### Mathematical Profile (Excerpt):
+* for the study of the mechanical and mathematical sciences that he was taken under the tuition of Mr Marr, who drew several dials which were placed in different positions in the King's garden, under whom Collins made no small progress in the mathematics...
 * Collins seems to have decided to leave England because of the Civil War and he became a seaman.
 * From 1660 onwards Collins worked at a number of jobs but most often as an accountant for various different organisations.
 * Collins also held a position as an accountant in the Excise Office from 1668 to 1670.
 * However times were not easy and Collins only received a small fraction of his proper salary from the Council of Plantations.
 * In 1671 Collins had moved to a house in Westminster close to that of William Austin who was the King's chef.
-* Collins married Bellona.
 * Collins's importance is, as Barrow said, being "the English Mersenne" .
 * Collins published books by Barrow and Wallis and left a collection of 2000 books and an uncounted number of manuscripts.
 * Collins went to Oxford in 1683 to survey the proposed route of the canal.

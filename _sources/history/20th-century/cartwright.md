@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Mary Cartwright** was the first woman mathematician to be elected to the Royal Society. She became Mistress of Girton College, Cambridge.
 
 ### Mathematical Profile (Excerpt):
-* Her mother was Lucy Harriette Maud Cartwright (born in Paddington, London about 1869).
 * Mary had four siblings: John (born about 1896), Nigel (born about 1898), Jane (born about 1905) and William (born about 1907).
 * When she was eleven years old, Mary Cartwright was sent away to school, first attending Leamington High School, then later attending the Godolphin School in Salisbury.
 * When she was encouraged in her studies of mathematics in her final year at school, Mary realised that it was a topic where one could succeed without the long hours of learning facts.

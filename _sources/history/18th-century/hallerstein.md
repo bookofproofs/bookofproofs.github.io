@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Augustin Hallerstein** was born in Ljubljana (now in Slovenia) and entered the Jesuit Order. After studying and teaching in Europe he went to China as a Jesuit missionary. He became head of the Mathematics and Astronomy Board of the Imperial Court but maintained extensive contacts with the Royal Society in London, the Imperial Observatory in Vienna and the Academy of St Petersburg.
 
 ### Mathematical Profile (Excerpt):
-* Mathematics, astronomy and physics were subjects studied by some of the family of Augustin's mother.
-* Augustin was the oldest of his parents' fourteen children, three of whom died as infants.
 * Augustin then studied at a high school in Ljubljana before spending three years studying philosophy at the Jesuit Collegium of Ljubljana.
 * In his first year of higher studies, 1718-19, he should have studied mathematics with Jozef Kraus but due to Kraus's illness there were no mathematics classes offered and Hallerstein had to study it on his own.
 * In Vienna, Hallerstein met Janez Krstnik Thullner who was now the professor of mathematics there.

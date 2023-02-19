@@ -26,9 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Richard, his parents' second son, made a decision while at school to choose between being a concert pianist or a mathematician.
 * Rado's thesis, entitled Studies on combinatorics, earned him a doctorate in 1933.
 * They had one son, Peter Rado, born in 1943.
-* Rado's family were Jewish so the Civil Service Law made it impossible for him to become a university lecturer in Germany.
 * Rado was interviewed in Berlin by Lord Cherwell for a scholarship given by the chemist Sir Robert Mond which provided financial support to study at Cambridge.
-* After he was awarded the scholarship, Rado and his wife left for England.
 * Rado entered Fitzwilliam House, University of Cambridge, and completed a second Ph.D. in 1935 under Hardy's supervision on Linear transformations of sequences.
 * While at Cambridge Rado was influenced by many mathematicians working there at the time including Hardy, Littlewood, Hall, Besicovitch and Bernhard Neumann.
 * Rado also worked with Heilbronn and Davenport and, at around this time, he began to correspond with Erdős.
@@ -38,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * These important combinatorial results were in the area of Hall's theorem, Ramsey's theorem, the Rado selection principle, matroids and theory of transversals, and partitions.
 * Rado received many honours for his contributions.
 * Rado was the kindest and gentlest of men.
-* Rado and his wife continued to live in Reading after he retired.
 
 Born 28 April 1906, Berlin, Germany. Died 23 December 1989, Henley-on-Thames, Oxfordshire, England.
 

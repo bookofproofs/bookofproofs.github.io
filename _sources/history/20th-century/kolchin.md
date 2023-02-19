@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ellis Kolchin** was an American mathematician who worked on differential algebra, differential equations and linear algebraic groups.
 
 ### Mathematical Profile (Excerpt):
-* While he was a research student, Kolchin married Kate Weil on 14 June 1940; they had two children Peter and Ellen.
 * Kolchin served with Naval Intelligence, first in Washington, then in the South Pacific.
 * Despite serving his country during the war, Kolchin was still able to publish papers such as On the basis theorem for differential systems (1942) and begin his fundamental work on the Galois theory of differential fields in the three part paper Extensions of differential fields.
 * Kolchin returned to Columbia University at Morningside Heights, Manhattan, after serving in the South Pacific and accepted a position there.

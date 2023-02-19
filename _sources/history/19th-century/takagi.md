@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Takagi** worked on class field theory, building on Heinrich Weber's work.
 
 ### Mathematical Profile (Excerpt):
-* His father was an accountant on a farm in this mountainous region and Teiji was brought up on the farm on which his father worked.
-* His mother was a devoted Buddhist and she took Teiji, when he was a young child, with her when she went to the temple.
-* Teiji soon showed himself to be a childhood prodigy by quickly learning to recite the prayers.
 * Takagi studied Algebra for beginners by Todhunter and Geometry by Wilson.
 * In 1891 Takagi began the third stage of his schooling which he took at the Third High School in Kyoto.
 * Takagi therefore, after showing great talents at middle school, made the natural progression to Kyoto where he studied for three years.
@@ -49,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Fueter was President of the International Congress of Mathematicians at Zürich in 1932 and Takagi was appointed Vice-President.
 * In 1936 Takagi retired but continued publishing books and papers.
 * Takagi continued to live in Tokyo after he retired until 1945 when his house was destroyed by bombing near the end of World War II.
-* His wife died of cancer in 1952 and Takagi himself died at the age of 88 in the hospital of Tokyo university.
 
 Born 21 April 1875, Kazuya Village (near Gifu), Japan. Died 29 February 1960, Tokyo, Japan.
 

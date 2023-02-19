@@ -25,15 +25,11 @@ contributors: @Heini-Halberstam,bookofproofs
 ### Mathematical Profile (Excerpt):
 * If many Chinese mathematicians nowadays are making distinguished contributions at the frontiers of science and if mathematics in China enjoys high popularity in public esteem, that is due in large measure to the leadership Hua gave his country, as scholar and teacher, for 50 years.
 * Hua was born in 1910 in Jintan in the southern Jiangsu Province of China.
-* Jintan is now a flourishing town, with a high school named after Hua and a memorial building celebrating his achievements; but in 1910 it was little more than a village where Hua's father managed a general store with mixed success.
-* The family was poor throughout Hua's formative years; in addition, he was a frail child afflicted by a succession of illnesses, culminating in typhoid fever that caused paralysis of his left leg; this impeded his movement quite severely for the rest of his life.
 * Fortunately Hua was blessed from the start with a cheerful and optimistic disposition, which stood him in good stead then and during the many trials ahead.
 * Hua's formal education was brief and, on the face of it, hardly a preparation for an academic career - the first degree he would receive was an honorary doctorate from the University of Nancy in France in 1980; nevertheless, it was of a quality that did help his intellectual development.
 * The Jintan Middle School that opened in 1922 just when he had completed elementary school had a well-qualified and demanding mathematics teacher who recognized Hua's talent and nurtured it.
 * In addition, Hua learned early on to make up for the lack of books, and later of scientific literature, by tackling problems directly from first principles, an attitude that he maintained enthusiastically throughout his life and encouraged his students in later years to adopt.
 * Next, Hua gained admission to the Chinese Vocational College in Shanghai, and there he distinguished himself by winning a national abacus competition; although tuition fees at the college were low, living costs proved too high for his means and Hua was forced to leave a term before graduating.
-* After failing to find a job in Shanghai, Hua returned home in 1927 to help in his father's store.
-* In that same year also, Hua married Xiaoguan Wu; the following year a daughter, Shun, was born and their first son, Jundong, arrived in 1931.
 * By the time Hua returned to Jintan he was already engaged in mathematics and his first publication Some Researches on the Theorem of Sturm, appeared in the December 1929 issue of the Shanghai periodical Science.
 * In the following year Hua showed in a short note in the same journal that a certain 1926 paper claiming to have solved the quintic was fundamentally flawed.
 * Hua's lucid analysis caught the eye of Xiong Qinglai at Quing Hua University in Beijing, and in 1931 Hua was invited, despite his lack of formal qualification and not without some reservations on the part of several faculty members, to join the mathematics department there.
@@ -58,10 +54,8 @@ contributors: @Heini-Halberstam,bookofproofs
 * He had been invited to visit the Institute for Advanced Study in Princeton, but because C L Siegel was working there along somewhat similar lines, Hua declined, at first in order to develop his ideas independently.
 * In September 1946, shortly after returning from Russia, Hua did depart for Princeton, bringing with him projects not only in matrix theory but also in functions of several complex variables and in group theory.
 * Much of his algebraic work later provided the basis for the monograph Classical Groups by Wan Zhe Xian and Hua (published by the Shanghai Scientific Press in Chinese in 1963).
-* On the personal side, in the spring of 1947 Hua underwent an operation at the Johns Hopkins University on his lame leg that much improved his gait thereafter, to his and his family's delight.
 * In the spring of 1948 Hua accepted appointment as a full professor at the University of Illinois in Urbana-Champaign.
 * His stay in Illinois was all too brief, exciting developments were taking place in China, and Hua watched them eagerly, wanting to be part of the new epoch.
-* Although he had brought his wife and three younger children to Urbana and they had settled in quite well, the urge to return was too great; on March 16, 1950, he was back in Beijing at his alma mater, Quing Hua University, ready to add his contribution to the brave new world.
 * Back in China, Hua threw himself into educational reform and the organization of mathematical activity at the graduate level, in the schools, and among workers in the burgeoning industry.
 * In July 1952 the Mathematical Institute of the Academia Sinica came into being, with Hua as its first director.
 * At this time Hua entertained doubts whether the Communist Party at home trusted him, and it came as an agreeable surprise to him to learn in Moscow that the Chinese government had agreed to a proposal by the Soviet government to award Hua a Stalin Prize.

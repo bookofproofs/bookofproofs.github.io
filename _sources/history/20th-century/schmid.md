@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hermann Ludwig Schmid**  was a German mathematician who worked in algebra and algebraic number theory.
 
 ### Mathematical Profile (Excerpt):
-* Hermann was brought up by his mother, Walburga Wechsler (1879-1961).
 * In particular Hermann Weyl left his chair at Göttingen and accepted a position at Princeton in the United States.
 * In 1935 Schmid followed his former supervisor to Göttingen where he spent the two years 1935-37 as Hasse's assistant.
 * In fact Schmid and Witt collaborated on developing what today is called the 'Witt vector calculus'.

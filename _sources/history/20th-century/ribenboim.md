@@ -23,12 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Paulo Ribenboim** is a Brazilian mathematician who works in number theory.
 
 ### Mathematical Profile (Excerpt):
-* In 1936 Paulo's family moved from Recife to Rio de Janeiro, and there he continued his education attending the Anglo-American College which was a private school.
 * In 1946 Ribenboim entered the Faculty of Philosophy at the University of Brazil.
 * Ribenboim was awarded his Bachelor's degree in 1948 then, following this, he spent a semester as a teaching assistant in the  Saint Ignatius Faculty of Engineering  which became part of the new Pontificia Universidade Católica in Rio de Janeiro, which is now named the Federal University of Rio de Janeiro.
 * In 1950 Ribenboim was awarded a scholarship to study in Nancy, France, with Dieudonné.
 * This was an exciting time for Ribenboim for as well as working with Dieudonné he met Laurent Schwartz and Grothendieck while studying in Nancy.
-* In the middle of this mathematical activity Ribenboim married Huguette Demangelle in Nancy on 19 December 1951.
 * Ribenboim submitted his second research paper Modules sur un anneau de Dedekind Ⓣ(Modules over a Dedekind ring) to Summa Brasil.
 * Ribenboim's big research breakthrough came when he found a counterexample to a conjecture of Krull.
 * After this Ribenboim began to publish rapidly.
@@ -43,6 +41,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In addition to writing many books, Ribenboim has edited a number of 'Collected Works' of his fellow mathematicians.
 * Ribenboim has received a wide range of honours for his outstanding contributions to research and for the outstanding books he has written.
 * Let us end by quoting from two reviews of My numbers, my friends , a book which both in title and content say much about Ribenboim's mathematical loves.
+* And this book more than rewarded my anticipation! Ribenboim is now retired, and treats us to a delightful survey of a few of his favourite numbers ...
 * Its coverage is vast: although much of the material in the lectures can be found in number theory textbooks, Ribenboim has integrated and consolidated so much related material from the literature that each lecture sparkles from its new treatment.
 
 Born 13 March 1928, Recife, Pernambuco, Brazil.

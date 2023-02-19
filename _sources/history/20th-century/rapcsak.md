@@ -23,10 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **András Rapcsák** was a Hungarian mathematician who specialised in geometry.
 
 ### Mathematical Profile (Excerpt):
-* András had two brothers: Péter Rapcsák who was three years older than András and became a Calvinist priest; and István Rapcsák who became a radiologist.
 * András attended both primary and secondary schools in his home town of Hódmezövásárhely which is about 20 km north east of Szeged.
 * This school had a long tradition having been founded in 1723 but it was only given the name Bethlen Gábor in 1930, during the time that Rapcsák studied there.
-* In fact 1930 was the year that Rapcsák's brother Péter graduated from the same school.
 * At this school Rapcsák was in the same class as Márton Sain (1915-1997) who went on to become a well-known historian of mathematics and a gymnasium teacher.
 * Although Rapcsák did not excel at school, in his final year at the Bethlen Gábor Calvinist Gymnasium he took part in a national mathematics competition.
 * Learning about non-Euclidean geometry made Rapcsák think deeply about the nature of space and he gave a talk on this topic to the Literary Society of the Gymnasium.
@@ -35,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In Rapcsák's case he suffered constant pain in his legs and the cancer was diagnosed.
 * During these years Rapcsák was completing him university studies and he graduated in 1942, nine years after his first matriculation.
 * After graduating, Rapcsák began a career as a school teacher.
-* They had three children: András Rapcsák, born 14 July 1943 in Debrecen; Tamás Rapcsák, born 18 March 1947 in Debrecen; and Marianna Rapcsák, born 1948.
 * András's school education was in in Debrecen, he was an undergraduate in Budapest and took a higher degree in electrical engineering in Debrecen.
 * After the short spell in Rozsnyó, Rapcsák taught in the Calvinist Reformed Gymnasium in Debrecen which prepared pupils for college, in the Unified Boys' Gymnasium in Debrecen, as well as in two Primary Schools in Debrecen.
 * However, in addition to his school teaching, from 1945 Rapcsák also taught at the University of Debrecen and at the Teacher Training College.

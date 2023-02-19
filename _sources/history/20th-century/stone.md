@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Stone** is best known for the Stone-Weierstrass theorem on uniform approximation of continuous functions by polynomials.
 
 ### Mathematical Profile (Excerpt):
-* His father, Harlan Fiske Stone, was a distinguished lawyer who served as dean of Columbia Law school from 1910 to 1923 and was on the supreme court for 21 years, serving as chief justice for the last five of these from 1941 to 1946.
-* The family tradition would have had Marshall follow his father's into a law career and while he attended public schools in Englewood, New Jersey, it was assumed that he would become a lawyer.
 * During the period that he was an instructor Stone's interests followed very much those of his research supervisor Birkhoff.
 * In 1928 Stone was promoted to associate professor at Harvard.
 * Although he would return to Harvard again in 1933, Stone first accepted a post as associate professor at Yale from 1931 to 1933.

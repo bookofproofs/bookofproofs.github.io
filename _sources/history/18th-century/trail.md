@@ -23,10 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Trail** was a Scottish mathematician who became Professor of Mathematics at Aberdeen.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Mary Trail (1731-1756) who was the daughter of the Revd Robert Trail, minister of Panbride.
-* Trail entered at Marischal College, Aberdeen in 1759 where his father had studied.
 * Marks awarded ranged from 16 to 126, the top score and appointment going to William Trail, a young man newly graduated from Glasgow.
 * Trail, responsible for all Mathematics, taught 'above twelve times a week'.
+* While holding the chair at Aberdeen, Trail published Elements of Algebra...
 * During the session 1778 - 9, in Trail's absence, the higher branches of mathematics were taught by Patrick Copland, Professor of Natural Philosophy since 1775.
 * The Royal Society of Edinburgh was founded in 1783 and Trail was a Founder Member, elected on 17 November 1783.
 

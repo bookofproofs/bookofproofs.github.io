@@ -33,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In a further paper Théorèmes sur les courbes gauches Ⓣ(Theorems on space curves), published in the Nouvelles annales de mathématiqe  in 1853, Frenet explained how the formulas could be applied.
 * It is likely that this was produced at about the same time as Frenet's work and that the two were independent.
 * Frenet was appointed as a professor at the University of Toulouse, then in 1848 he was appointed professor of mathematics at the University of Lyon, the most important educational centre outside Paris.
-* Frenet retired at the age of 52 in 1868 and went to live on the family estate of Bayot in Périgueux.
 
 Born 7 February 1816, Périgueux, France. Died 12 June 1900, Périgueux, France.
 

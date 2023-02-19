@@ -23,14 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **François Jacquier **was a French 18th century mathematician who spent most of his life in the Minim Monastery in Rome. Along with Thomas Le Seur he edited a highly annotated edition of Newton's _Principia_.
 
 ### Mathematical Profile (Excerpt):
-* His parents were Joseph Jacquier (1676-1712), a master baker, and Margueritte Desenlis (1679-1763), the daughter of a master toolmaker.
-* Joseph and Margueritte Jacquier were married on 4 February 1698.
-* They had four children: Hugues-Joseph, born November 1698; Anne, born in March 1700; Marie-Françoise, born in January 1706; and François, the subject of this biography, born in 1711.
-* François never knew his father Joseph who died on 3 April 1762 the year after he was born.
-* Jean Desenlis (born 1666), the elder brother of François' mother Margueritte, joined the Order of Minims and probably influenced both Joseph and Margueritte Jacquier's sons to join the Order of Minims.
 * We note that although the spelling of the name Jacquier is constant through generations, the name Desenlis is not, appearing also as de Senlis, Senlis, Sanly, Senly, Sanlys etc.
-* Jacquier was taught by the Minim priest Jean Desenlis, his uncle, who quickly saw that his nephew was a talented mathematician who was interested in mathematics and science.
-* When he was sixteen years old, Jacquier followed the example of his elder brother and uncle, and joined the Order of Minims.
 * The Order believed in poverty, chastity, and obedience but the followers also devoted themselves to study and scholarship which suited Jacquier.
 * We note that Le Seur, who was born in 1703, so eight years older than Jacquier, had also studied at the College in Vitry-le-François.
 * Jacquier had rapidly gained a high reputation for his mathematical and scientific skills and, in 1734, Cardinal Alessandro Albani consulted him about the hydraulic problems with the harbour of Ravenna and with the river Montone which joins the Ronco before entering the sea just south of Ravenna.
@@ -53,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The discussions between Jacquier and du Châtelet led to her beginning her French translation of Newton's Principia Ⓣ(Mathematical Principles of Natural Philosophy).
 * Cardinal Valenti, Pope Benedict XIV's secretary of state, however, wanted to keep Jacquier in Rome and offered him the chair of experimental physics at La Sapienza.
 * In 1755 Jacquier published his Italian translation of Brook Taylor's New principles, with additions, as Elementi di perspettiva secondo li principii di Brook Taylor, con varii aggiunti Ⓣ(Elements of perspective according to Brook Taylor's principles, with various additions).
-* In 1765, Philip, Duke of Parma (1720-1765), asked Jacquier and Le Seur to come Parma to educate his son Ferdinand (1751-1802).
 * Philip died unexpectedly on 18 July 1765 in Alessandria, Italy but Jacquier and Le Seur still went to Parma teaching Ferdinand in the year 1766-67.
 * From the Trinità dei Monti, Jacquier conducted a correspondence with many of the leading mathematicians and scientists in Europe, including d'Alembert, Clairaut, Bézout, Lalande, de l'Hôpital, Maupertuis, and Montucla.
 * We have seen, however, that Jacquier did not spent his time completely within the Trinità dei Monti.

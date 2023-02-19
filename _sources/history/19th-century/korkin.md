@@ -23,15 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Aleksandr Korkin** was a Russian mathematician whose major contribution was to the development of partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-* Aleksandr Nikolaevich was three years old when his father moved to Shuiskoye, about six kilometres from the village in which he was the boy was born.
-* When Korkin was eight years old his father sent him to he educated in the house of the grammar school teacher Aleksandr Ivanovich Ivanitski in Vologda, the provincial capital.
-* Ivanitski's wife was also a talented teacher and from her the young Korkin learnt to speak French and German.
-* After two years of study with the Ivanitskis, Korkin's father wanted his son to begin his studies at the local gymnasium but before this could happen he had to pay the Vologda province to release his son from serfdom to allow him to be educated.
 * Korkin entered Vologda Gymnasium in 1847.
-* When Korkin was twelve years old his father lost what money he had and died shortly afterwards.
 * Korkin continued to study at the Gymnasium showing remarkable abilities.
 * Life as an undergraduate was hard for Korkin.
-* His father had died having lost his money and Korkin had to survive with hardly enough money for food.
 * Korkin also discussed problems on the calculus of variation in his essay.
 * Bunyakovsky judged the student submissions and awarded Korkin the Gold Medal, recommending that the essay be published in The Student Anthology  which happened in the following year.
 * Korkin graduated in 1858, qualifying to teach mathematics.

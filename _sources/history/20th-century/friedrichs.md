@@ -24,9 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * His parents were Karl Friedrichs, who was a lawyer and expert on Civil Service law, and Elisabeth Entel from Silesia.
-* Kurt Otto was the middle of his parents three children, having an older sister and a younger brother.
-* The Friedrichs family were long established in Schleswig-Holstein, and Kurt was born in its capital Kiel.
-* Kurt's father became friendly with a fellow lawyer in Dusseldorf who was the brother of Felix Klein.
+* an exceptionally lovely woman whom the boy Friedrichs adored ...
 * This friendship would play a role in Kurt's future.
 * Friedrichs followed this custom and spent a term in Greifswald, a year in Freiburg, and a term in the Austrian university of Graz.
 * Friedrichs lived in a former prisoner-of-war camp and, like the other students, found that conditions due to the high inflation were so bad that students scarcely had enough to eat.

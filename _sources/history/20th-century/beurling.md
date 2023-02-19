@@ -23,17 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Arne Beurling**  was a Swedish mathematician who worked in harmonic analysis, complex analysis and potential theory.
 
 ### Mathematical Profile (Excerpt):
-* Konrad and Elsa Beurling had two sons, Ake Gustaf Beurling, born on 16 May 1902, and Arne, the subject of this biography, born in February 1905.
-* Arne was brought up by his mother and her lady companion called Titti.
-* Although Beurling was brought up by his mother, he spent time with his father and they would go hunting together.
-* Beurling, like his father, had a fiery temper and could suddenly fly off into a rage.
-* Although Beurling got on well with his father, nevertheless, given they both had a temper it is not surprising that they often had arguments and, it is said, sometimes physical fights.
-* His father Konrad was so confident at this stage that his son would become a professor that he told all his friends "He is going to be a professor." In the year he graduated from high school, Beurling began studying at Uppsala University.
 * Beurling was certainly not reluctant to take this break in his studies.
 * At this stage, however, Beurling did not complete his doctorate but undertook compulsory military service in 1930-31.
 * The fact that Ahlfors had published the proof of the Denjoy conjecture delayed the submission of Beurling's thesis which had already been delayed by the year in Panama and the year of military service.
 * Beurling's leading idea was to find new estimates for the harmonic measure by introducing concepts, and problems, which are inherently invariant under conformal mapping.
-* Arne and Britta Beurling had two children, Pher-Henrik Konrad Beurling born 11 December 1936 (died 26 April 1962) and Christina born in 1938.
 * Arne Beurling's greatness is given by the fact he had at his disposal only the teleprinter tapes with the cipher text.
 * That secret Arne Beurling took with him to the grave.
 * We have explained above that Beurling had a quick temper but we must not give the impression that he was not a kind human being.

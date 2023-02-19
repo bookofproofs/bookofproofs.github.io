@@ -28,12 +28,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After graduating, Isaacs was employed by the Carrier Corporation of Syracuse, New York.
 * After two years with the Carrier Corporation, where his talent and problem solving abilities were greatly appreciated, Isaacs enrolled in the Master's mathematics programme at Columbia University in New York.
 * Isaacs constructed a theory of functions of a complex variable which springs entirely and basically from the concept of the difference quotient (instead of the derivative) and called these functions monodiffric.
+* In his Ph.D. Thesis, Isaacs presented 29 new theorems with proofs and applications ...
 * In 1941, even before the award of his Ph.D., Isaacs had taken up a job with Hamilton Standard Propellers, Pittsburgh, Pennsylvania.
 * This firm was a major manufacturer of aircraft propellers and Isaacs was employed as a Senior Analytical Engineer.
 * The marriage is considered by Isaacs as the prime event of his life.
 * Isaacs joined Hamilton Standard Propellers around the time the United States entered World War II.
 * In 1945, after the war ended, Isaacs was appointed as an assistant to Karl Menger in the Mathematics Department of Notre Dame University, South Bend, Indiana.
-* Once he knew that Menger was leaving and finding it hard to support his family on an academic salary, Isaacs decided to take a position with North American Aviation, Los Angeles.
 * Back once again in the aviation industry, Isaacs was involved in the design of intercontinental guided missiles.
 * Let us return to our description of Isaacs' career.
 * In addition to these positions, Isaacs was a professor at George Washington University, Washington, DC, from 1961 to 1967.

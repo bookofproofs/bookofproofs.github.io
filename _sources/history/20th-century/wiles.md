@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * When Andrew was born Maurice Wiles was Chaplain at Ridley Hall, Cambridge.
-* Andrew's mother was Patricia Mowll.
 * Wiles' interest in Fermat's Last Theorem began at a young age.
 * In 1971, Wiles entered Merton College, Oxford, graduating with a B.A. in 1974.
 * Wiles did not work on Fermat's Last Theorem for his doctorate.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Georges Valiron** was a French mathematician, best known for his contributions to analysis.
 
 ### Mathematical Profile (Excerpt):
-* It was during these years that he taught André Bloch and his younger brother Georges.
 * Valiron was awarded a bursary to enable him to study for his doctorate at the Faculty of Science in Paris and he spent the years 1912-14 undertaking research advised by Émile Borel.
 * Valiron was mobilized and served in the artillery during the war.
 * Valiron was one of a number of eminent Frenchmen sent to Strasbourg to achieve this aim.
@@ -39,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It is certainly true that Valiron was an examiner of the thesis, as Laurent Schwartz states in his autobiography.
 * had (like me) Valiron as his thesis advisor.
 * There is, therefore, no doubt that Laurent Schwartz considered Valiron to have been his thesis advisor although he almost certainly did not have this as a formal role.
-* We note also that Valiron examined the doctoral thesis of Laurent Schwartz's wife, Marie-Hélène, the daughter of Paul Lévy.
 * Valiron received many honours.
 
 Born 7 September 1884, Lyon, France. Died 17 March 1955, Paris, France.

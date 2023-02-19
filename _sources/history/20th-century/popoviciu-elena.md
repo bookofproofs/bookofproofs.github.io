@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Elena Popoviciu** was a Romanian mathematician who worked in functional analysis.
 
 ### Mathematical Profile (Excerpt):
-* She married the mathematician Tiberiu Popoviciu in 1964 and, from that time on, was known as Elena Popoviciu.
 * She wrote papers both under the name of Elena Moldovan and the name Elena Popoviciu.
 * We will use both the names Elena Moldovan and Elena Popoviciu throughout this biography, trying our best to use the correct name for the time to which we refer.
 * After graduating from high school, Elena began her studies at the University of Cluj.
@@ -41,8 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * For many years she directed the Seminar "Tiberiu Popoviciu" on Functional Equations, Approximation and Convexity.
 * Elena Popoviciu was also very much involved in the editorial work of the following journals: Revue d'Analyse Numérique et de Théorie de l'Approximation and Annals of the Tiberiu Popoviciu Seminar of Functional Equations, Approximation and Convexity.
 * Five years later, on 30 September 2004, a Scientific Session was organised at the Babeș-Bolyai University of Cluj-Napoca to celebrate Elena Popoviciu's eightieth birthday.
-* The scientific sessions took place in the Tiberiu Popoviciu Amphitheatre, named after her late husband, and a celebratory dinner was held in the evening in University House.
-* Elena Popoviciu wrote several articles which give great insight into the research group that she and her husband ran in Cluj.
 * In 1992 she wrote Hommage à l'occasion d'un important anniversaire Ⓣ(Tribute to an important anniversary) in which she discussed some results about convexity obtained by Tiberiu Popoviciu and his students.
 * Elena Popoviciu died in June 2009 at Cluj-Napoca.
 

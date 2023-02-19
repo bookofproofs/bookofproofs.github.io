@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Jacob Golius was about the same age as Girard but began studying mathematics at the University of Leiden some years earlier.
-* When Constantijn Huygens (Christiaan Huygens' father) wrote a congratulatory note to Golius on his mathematics appointment, he praised the work of Girard, particularly on refraction, which certainly suggests that the two had continued to exchange ideas.
 * We know however that by the time Huygens wrote this letter, Girard was serving as an engineer in the army of the Prince of Orange, Frederick Henry of Nassau.
 * Girard worked on algebra, trigonometry and arithmetic.
 * Stevin had produced tables of sines, tangents and secants which were greatly improved by Girard who published his version in 1626.

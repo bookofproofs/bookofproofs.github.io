@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Giuseppe Basso** was an Italian physicist and mathematician who produced some important results in mathematical physics.
 
 ### Mathematical Profile (Excerpt):
-* Giuseppe's father was a tailor and their home was also the tailor's workshop.
 * Giuseppe's determination to succeed at his studies and the encouragement of his teachers persuaded his parents to make the necessary sacrifices to allow him to continue beyond the stage where he could have left school and become a full-time worker in the tailor's workshop.
-* When there were no courses over the summer, Basso would return to Chivasso and help out in the tailor's workshop much to his father's relief.
 * As an undergraduate Basso had gained a high reputation among his fellow students and also among the professors who taught him.
 * Once he began teaching at the University, Basso's career progressed rapidly and he published Sull'uffizio della matematica nelle scienze sperimentali Ⓣ(On using mathematics in the experimental sciences) in 1895.
 * The professor of experimental physics at the University of Turin was Gilberto Govi (1825-1889) and he was frequently absent from the University and on these occasions Basso substituted for Govi.

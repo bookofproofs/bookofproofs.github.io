@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * He is described on Flora's birth certificate as "an Inspector of Decks and Piers".
-* Flora's mother was Isabella McDougall; William and Flora had been married in Leith in August 1864.
 * Flora's birth certificate also informs us that she was born at five minutes past four in the morning and that her birth was registered on 31 May at Tobermory by Jessie McDougall, Flora's aunt, who was present at her birth.
 * Flora was educated in Tain Academy.
 * This Association was providing university level education for over 300 women at the time when Philip began her studies.
@@ -33,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Philip received further awards from the Edinburgh Association for the University Education of Women on 18 April 1888 when they presented her with a Diploma for passing seven subjects.
 * Philip was then appointed assistant mistress in St George's High School for Girls in Edinburgh, the founding of which was one of the Association's many enterprises and which was opened in 1888 at No. 3 Melville Street.
 * Flora Philip was one of these eight.
-* In 1893, the year of her graduation, Flora Philip married George Stewart, S.S.C. and thereafter her life was that of the mother of a family and the wife of an Edinburgh Solicitor.
 
 Born 19 May 1865, Tobermory, Isle of Mull, Argyle, Scotland. Died 14 August 1943, Edinburgh, Scotland.
 

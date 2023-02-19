@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Évariste Galois** was a French mathematician who produced a method of determining when a general equation could be solved by radicals and is famous for his development of early group theory. He died very young after fighting a duel.
 
 ### Mathematical Profile (Excerpt):
-* However there is no sign of any mathematical ability in any of Galois' family.
-* His mother served as Galois' sole teacher until he was 12 years old.
-* Galois' father was an important man in the community and in 1815 he was elected mayor of Bourg-la-Reine.
 * The starting point of the historical events which were to play a major role in Galois' life is surely the storming of the Bastille on 14 July 1789.
 * Galois was by this time at school.
 * Galois was not involved and during 1824-25 his school record is good and he received several prizes.
@@ -34,15 +31,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Galois' school reports began to describe him as singular, bizarre, original and closed.
 * In 1828 Galois took the examination of the École Polytechnique but failed.
 * It was the leading University of Paris and Galois must have wished to enter it for academic reasons.
-* However, he also wished to enter this school because of the strong political movements that existed among its students, since Galois followed his parents example in being an ardent republican.
 * Back at Louis-le-Grand, Galois enrolled in the mathematics class of Louis Richard.
 * In April 1829 Galois had his first mathematics paper published on continued fractions in the Annales de mathématiques.
 * Cauchy was appointed as referee of Galois' paper.
-* Tragedy was to strike Galois for on 2 July 1829 his father committed suicide.
 * The priest of Bourg-la-Reine forged Mayor Galois' name on malicious forged epigrams directed at Galois' own relatives.
-* Galois' father was a good natured man and the scandal that ensued was more than he could stand.
-* Galois was deeply affected by his father's death and it greatly influenced the direction his life was to take.
-* A few weeks after his father's death, Galois presented himself for examination for entry to the École Polytechnique for the second time.
 * Galois therefore resigned himself to enter the École Normale, which was an annex to Louis-le-Grand, and to do so he had to take his Baccalaureate examinations, something he could have avoided by entering the École Polytechnique.
 * Galois sent Cauchy further work on the theory of equations, but then learned from Bulletin de Férussac of a posthumous article by Abel which overlapped with a part of his work.
 * Galois then took Cauchy's advice and submitted a new article On the condition that an equation be soluble by radicals in February 1830.
@@ -67,7 +59,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The name Stephanie appears several times as a marginal note in one of Galois' manuscripts.
 * Galois fought a duel with Perscheux d'Herbinville on 30 May, the reason for the duel not being clear but certainly linked with Stephanie.
 * Galois was wounded in the duel and was abandoned by d'Herbinville and his own seconds and found by a peasant.
-* Galois' brother and his friend Chevalier copied his mathematical papers and sent them to Gauss, Jacobi and others.
 * It had been Galois' wish that Jacobi and Gauss should give their opinions on his work.
 * Liouville published these papers of Galois in his Journal in 1846.
 * The theory that Galois outlined in these papers is now called Galois theory.

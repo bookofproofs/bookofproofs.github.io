@@ -23,12 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Joseph  Neuberg**  was a Luxembourg mathematician who worked primarily in geometry.
 
 ### Mathematical Profile (Excerpt):
-* Joseph's mother came from Schifflange, about 12 km south west of Luxembourg City.
-* His parents were quite determined that their son should continue to follow the plans that they had made for his future and it was only through considerable determination by the young Neuberg that, one year after he left the primary school, he was able to enter the Athénée of Luxembourg in October 1853.
 * After completing his school education in Luxembourg, Neuberg went to Belgium to undertake his university studies.
 * He graduated in July 1862 and so did not meet his future collaborator Paul Mansion who began his studies to the École normale des Sciences three months after Neuberg graduated.
 * The first part of Neuberg's career was spent in various colleges.
-* Joseph and Fanny Neuberg had two daughters, Louise and Maria and a son who died very young.
 * Neuberg was a teacher at the Athénée Royal and the École Normale at Bruges from January 1868 to April 1878.
 * These tragedies were not the only ones to bring deep sadness to Neuberg's life for Maria, his second wife, died in 1904.
 * After leaving Bruges in 1878, Neuberg was appointed as a teacher at the Athénée Royal of Liège, holding this position from May 1878 to December 1884.

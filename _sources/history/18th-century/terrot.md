@@ -23,11 +23,9 @@ contributors: @Elizabeth-Lewis,bookofproofs
 **Charles Terrot** was an amateur mathematician who became Bishop of Edinburgh. He wrote an early paper on complex numbers.
 
 ### Mathematical Profile (Excerpt):
-* Upon Elias's death at the siege of Bangalore in 1790, Terrot's mother, Mary Fonteneau left India with her infant son and settled in Berwick.
 * Young Terrot was placed under the care of the Revd John Fawcett of Carlisle and was educated at Carlisle Grammar School.
 * It was at Cambridge that Terrot earned a reputation for scholarship, particularly in mathematics.
 * Fortunately for Terrot, he had had ample opportunity outwith the Tripos examinations to prove his abilities and on this basis he was elected a Fellow of Trinity College in 1813.
-* In 1815 he settled in Haddington, taking up a position held previously by his uncle, the Revd William Terrot, as Minister of the Episcopal congregation.
 * Terrot's move to Edinburgh took place in 1817: he was to assist the Revd James Walker at St Peter's in Roxburgh Place.
 * In 1833 Terrot joined two other clergy at St Paul's in York Place.
 * Understandably, Terrot sought relief from the heavy burden of his responsibilities.
@@ -42,10 +40,8 @@ contributors: @Elizabeth-Lewis,bookofproofs
 * While Warren should be credited with having established the fundamentals, Terrot surely deserves some recognition: he seems to have had a sound grasp of the mathematics involved, which he was able to apply in valid and novel ways, and it is through his paper that Tait had his first introduction to a relatively new mathematical discovery of huge import.
 * Terrot accordingly must be considered as one of the pioneers of the science.
 * Dr. Terrot, afterwards Bishop of Edinburgh.
-* Yet there is no evidence in the Academy's Register to support such a theory: the three references to 'Terrot' in the Register reveal only that Terrot had educated his children at the Academy between 1825 and 1842.
 * It seems unlikely, therefore, that Terrot was ever a member of staff at the Academy.
 * Perhaps the obituarist had misinterpreted Terrot's influence on young Thomson.
-* Terrot may have acted as a mentor or tutor to the boy since Thomson was in the same class at the Academy as one of Terrot's sons, Elias Charles, and he resided in the same street as the Terrot family, Northumberland Street.
 * Charles Hughes Terrot, D.D., elected in 1857 'Primus' of the Scottish Episcopal Church, and whose quaint little figure, with shovel-hat and knee-breeches, was long familiar in the streets of Edinburgh.
 * few men were more esteemed and respected by others than Dr. Terrot of the Episcopal Church.
 * It is possible that Terrot provided Thomson with private tuition in mathematics.

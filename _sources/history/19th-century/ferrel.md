@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Ferrel** was an American astronomer who worked on the theory of tides.
 
 ### Mathematical Profile (Excerpt):
-* William was the eldest of his parent's eight children, six boys and two girls.
-* To the south of Bedford County was Maryland and in 1829 the Ferrel family crossed this state into what today is West Virginia, but it was not in those times since West Virginia was only admitted to the Union in 1863 when it became the 35th  state.
-* William was a shy boy who kept to himself and did not mix with friends but worked hard on the family farm.
-* There was a schoolhouse with a single room in which all ages of children were educated, and William only received this primitive education during two winters.
 * An event which heightened Ferrel's scientific interests and encouraged him to pursue his education further was the partial eclipse of the sun which he witnessed in 1832.
 * In 1837 Ferrel was twenty-two years old and by that time he had saved enough money from his wages as a school teacher to allow him to finance his studies at college.
 * (In 1853 the College merged to become the present day Franklin and Marshall College.) Ferrel studied at Marshall College for two years but by that time his savings were exhausted and he had to return to school teaching to make enough money to allow him to complete his studies.
@@ -57,7 +53,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * With the construction still underway, Ferrel approached the Superintendent of the Coastal Survey on 9 August 1882 to offer his resignation so that he could take up a post with the United States Army Signal Service.
 * The Superintendent asked Ferrel if he would continue to supervise the work of construction of his tide predicting machine after leaving the employment of the Coast and Geodetic Survey and of course he agreed.
 * After working for four years Ferrel retired at the age of seventy.
-* After retiring Ferrel, who had never married, moved to join his brother Jacob in Kansas City.
 
 Born 29 January 1817, Bedford (now Fulton) County, Pennsylvania, USA. Died 18 September 1891, Martinsburg, West Virginia, USA.
 

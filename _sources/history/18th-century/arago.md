@@ -23,16 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **François Arago** was an important French mathematician and politician. He made important discoveries on the corpuscular theory of light.
 
 ### Mathematical Profile (Excerpt):
-* The Arago family came from the eastern Pyrenees, and in fact the name Arago has Spanish connections with the Aragon region of Spain which is quite close by.
-* François' parents had nine children, four boys and five girls.
-* François was the eldest of the boys, having brothers Jean, Jacques, and Étienne.
 * Jean Arago (1788-1836) emigrated to North America and had a military career; Jacques Étienne Victor Arago (1799-1855) took part in the voyage of l'Uranie led by Louis de Freycinet to conduct magnetic and oceanographic researches in the Pacific; and Étienne Vincent de Arago (1802-1892) was an author and dramatist.
-* The Arago family were involved in politics, having leftist republican views, and also had military connections.
 * At first François Arago showed an interest in a military career and it was with this in mind that he was educated at the Municipal College of Perpignan where he came to love mathematics.
-* His examiner was Louis Monge, the brother of Gaspard Monge who was at the time director of the École Polytechnique, and Arago was placed as one of the top five students in the ranked entrance list.
 * This friend introduced Arago to Poisson who was five years older than Arago and had been appointed at an assistant professor at the École Polytechnique in the year before Arago entered the school.
 * Arago and Poisson became friends, not really behaving as student and teacher.
-* Poisson would frequently visit Arago in his apartment in the evenings and the two would discuss politics and mathematics.
 * Despite being taught by some of the leading mathematicians in the world, Arago did not find their abilities to teach come anywhere close to their abilities for research.
 * In 1805 Poisson was able to offer Arago a task of far more importance than one would have expected a young student to be asked to undertake.
 * He asked Arago to help in measuring the meridian.
@@ -51,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Arago knew roughly what the velocities should be, so he knew that the effect he was looking for was well within what he should be able to detect.
 * Arago made observations of stars on 19 and 27 March 1810.
 * How did Arago explain the puzzling results?
-* Arago married Lucie Carrier-Bescombes in 1811; one of their sons, Alfred Arago (1816-92), became an Inspector of Fine Arts, another son Emmanuel Arago served with his father on the National Assembly for many years.
 * In 1813 Arago began to give popular lectures on astronomy.
 * Arago was also active in other ways.
 * This government established universal manhood suffrage in France, a cause championed by Arago.
@@ -65,7 +58,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Other contributions made by Arago include work on the polarization of light, investigations of the solar corona and chromosphere, and measurements of the diameters of the planets.
 * Leaders in various field were required to swear allegiance and Arago held two such positions, as Director of the Observatory and as secretary of the Academy of Sciences.
 * Arago, a staunch republican, refused to swear allegiance.
-* On 22 August 1853 Arago attended the Academy of Sciences for the final time then, despite his health problems, he set out on the difficult journey to his family in the Roussillon region.
 * Arago was honoured with the award of the Royal Society Copley Medal in 1825 and the Rumford Medal in 1850.
 * The Academy of Sciences inaugurated the Arago Medal in 1893.
 

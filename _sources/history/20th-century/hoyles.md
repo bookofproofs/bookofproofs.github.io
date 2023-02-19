@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * We will, however, use the name Hoyles throughout this biography.
-* Celia, the youngest of her parents' three daughters, had older sisters Judith S French (born 1941) and Jane C French (born 1944).
-* Celia French (as she then was) and her two sisters were all outstanding tennis players with both Jane and Celia qualifying to play at Junior Wimbledon.
 * Jane and Celia competed in the Aberdare Cup on more than one occasion.
 * After graduating from Loughton County High School in 1964, Hoyles entered the University of Manchester where her main subject was mathematics.
 * Also in 1969, while continuing to teach in London schools, Hoyles began studying for a PGCE (the Post Graduate Certificate in Education teaching qualification) at the University of London.
@@ -37,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 2002 Hoyles was appointed Dean of Research and Consultancy at the Institute of Education, University College London.
 * During her time in this position Hoyles continued in her professorship at University College London as she also did when, in 2007, she was appointed Director of the National Centre for Excellence in Teaching of Mathematics.
 * Hoyles has received many honours in addition to the DBE she received in 2014 which followed the OBE she had received in 2004.
-* This distinction recognises the outstanding contribution that Celia Hoyles has made to research in the domain of technology and mathematics education, both in terms of theoretical advances and through the development and piloting of national and international projects in this field, aimed at improving through technology the mathematics education of the general population, from young children to adults in the workplace.
 * Celia Hoyles belongs to that special breed of mathematics educators who, even while engaging with theoretical questions, do not lose sight of practice; and reciprocally, while engaged in advancing practice, do not forget the lessons they have learned from theory and from empirical research.
 * Celia Hoyles' commitment to the improvement of mathematics education, in her country and beyond, can be felt in every detail of her multi-faceted, diverse professional activity.
 * It is thanks to people like Celia Hoyles, with a clear sense of mission and the ability to build bridges between research and practice while contributing to both, that the community of mathematics education has acquired, over the years, a better-defined identity.

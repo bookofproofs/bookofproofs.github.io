@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Yuri Prokhorov** was a Russian mathematician who worked in probability theory.
 
 ### Mathematical Profile (Excerpt):
-* Several generations of the family had lived in Moscow and Yurii attended school there.
-* Yurii had completed four years of schooling at this time but was unable to continue attending school since his family were evacuated to Chistopol, the second largest town in Kazan province.
-* Yurii fully intending to follow his father and become an engineer so in 1944, after graduating from the high school, he entered the Bauman Moscow Higher Technical School which, since 1989, has been known as the Bauman Moscow State Technical University.
 * Yushkevich's course quickly convinced Prokhorov that mathematics was the subject he loved rather than engineering.
 * At the University Prokhorov took courses in analysis and number theory.
 * At the same time Kolmogorov began teaching a course on probability theory which Prokhorov also attended.

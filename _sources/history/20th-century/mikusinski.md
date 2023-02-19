@@ -23,16 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jan Mikusiński** was a Polish mathematician known for his pioneering work in mathematical analysis.
 
 ### Mathematical Profile (Excerpt):
-* In fact, the family name of Mikusiński had a strange origin.
-* Kazimierz's father, the paternal grandfather of the subject of this biography, was Jan Geniusz who lived in Lithuania in an area which had been Poland before the partition of that country in the 18th  century.
 * Jan Geniusz took part in the January Uprising of 1863, which began when Poles objected to being conscripted into the Russian Army.
 * Jan Geniusz fled to Austria but later returned to Lithuania having changed his name to Mikusiński to avoid reprisals.
-* Jan Geniusz was married to Berta von Lesser, a Swedish pianist and pupil of Franz Liszt.
 * Jan Mikusiński's maternal grandparents were Leopold Beldowski, an Austrian nobleman, and Emilia Skomorowska.
-* Kazimierz and Anna Mikusiński had four children, Władysław, Jan, Franciszek, and Stefan.
-* As the Red Army advanced from the east, the Mikusiński family fled in 1917 to Austria and lived for a year in Vienna.
-* The Mikusiński family returned to Poland and lived for a while in Rogozno, about 40 km north of Poznań, before settling in Poznań.
-* In 1918 the family began again to use the name Geniusz but retained Mikusiński.
 * Jan's school education was in Poznań.
 * He entered the Ignacy Jan Paderewski Humanistic Gymnasium in 1923 and studied there for five years.
 * Although Mikusiński excelled in mathematics, it was engineering that had always been his main interest.
@@ -44,9 +37,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Even before that Mikusiński had been undertaking research advised by Tadeusz Ważewski, but once the city was liberated, he was able to obtain an official position at the Jagiellonian University of Kraków.
 * By the time Mikusiński was awarded his Ph.D., the Polish University of Poznań had reopened and he was able to return there and take up a position as assistant professor in the department headed by Władysław Orlicz.
 * Mikusiński worked at the State Mathematical Institute from its foundation.
-* Jan Mikusiński married Urszula and their son Piotr Jan Mikusiński was born in 1956.
-* Piotr Mikusiński became a mathematician with interests similar to those of his father.
 * The Mikusiński operational calculus was successfully used in ordinary differential equations, integral equations, partial differential equations and in the theory of special functions.
+* It is worth mentioning that the Mikusiński scheme was extended by several mathematicians to develop operational calculi for differential operators with variable coefficients ...
 * Mikusiński's career took an unfortunate turn shortly after he became a full professor.
 * The State Mathematical Institute had become the Mathematical Institute of the Polish Academy of Sciences after the Academy was founded in 1952 and Mikusiński retained his position at the Institute.
 * In 1960 Mikusiński moved to Katowice.

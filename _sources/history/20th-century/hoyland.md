@@ -24,11 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * His parents were Torleiv Høyland (1893-1989), a teacher, and Sigyn Tønnesdtr Husebø (1899-1994), a clerk.
-* Arnljot was one of his parents' three children.
 * Torleiv Høyland was the author of the book Laerernes Kirkenesferd Ⓣ(The teachers' journey to Kirkenes) (1946).
 * Torleiv Høyland was prisoner no 1850 there.
 * Arnljot Høyland is internationally renowned for his work in mathematical statistics.
-* Høyland met Alf Prøysen, a famous Norwegian writer and musician, during the last years of the war.
 * They cooperated among other things on shows, and it was in this context that Høyland composed the melody Prøysen later used in his "Julekveldsvise".
 * Because if this Høyland was interviewed several times on Norwegian television in the 1990s.
 * Høyland completed his high school studies and took his matriculation examination in 1943.

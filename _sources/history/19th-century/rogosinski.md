@@ -25,8 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * His parents were Hermann Rogosinski, a counsellor in Breslau, and Helma Braun.
 * Werner was born in Breslau, at that time a German town, although his parents were from Jewish Polish families.
-* Werner had a sister Lotte and a younger brother Kurt.
-* It was a musical family and Werner learnt to play the piano and violin as a child.
 * Rogosinski graduated from the Gymnasium in 1913 and entered Breslau University to study mathematics.
 * Rogosinski's studies were interrupted by the war and he undertook military service as a corporal in the medical corps.
 * At this time Göttingen University was probably the best place in the world to study mathematics and Rogosinski flourished, undertaking research directed by Edmund Landau.
@@ -36,15 +34,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He was held in awe by the many bright young students he supervised, but Rogosinski seems to have had a rather different relationship with him.
 * When Rogosinski arrived at the University of Königsberg, the Mathematics Department was small but had an excellent ordinary professor in Konrad Knopp.
 * In 1925 Richard Brauer arrived but the arrival of Gábor Szegő in 1926 was particularly important to Rogosinski since the two quickly became both firm friends and mathematical collaborators.
-* Erna Raphael, a friend of Rogosinski's sister Lotte from a young age, had been a friend from childhood.
 * Werner and Erna wanted to marry but had to wait until he was earning a salary, rather than living in relative poverty which was the position of a Privatdocent.
-* This happened in 1928 when he was promoted to an extraordinary professor and, on the 27 September of that year, Werner and Erna were married.
 * The next five years were excellent ones for the Rogosinskis.
 * This book on Fourier series was based on lectures that Rogosinski gave on the topic at the University of Königsberg.
-* His students had not studied the Lebesgue integral so the book did not use this approach, something that Rogosinski planned to change in a new edition but political events in Germany over the following few years meant that all plans had to be cast aside.
 * Before we look at these events, however, we note the hospitality that the Rogosinskis' home in Königsberg offered to their wide range of friends.
 * Rogosinski carried on despite his position becoming more and more difficult until, in 1936, he was dismissed from his professorship.
-* Rogosinski went immediately to Cambridge and, six months later, his wife and young son Peter joined him.
 * However, collaboration between these fine mathematicians provided Rogosinski with a period of exceptional productivity and enjoyment.
 * In 1941 the University of Aberdeen, having a number of staff on war service, appointed Rogosinski as an assistant lecturer in mathematics.
 * The pay was poor and the position was far too junior for a fine mathematician like Rogosinski at the peak of his abilities but it provided him with a stepping stone which must have made him feel that he was fortunate.

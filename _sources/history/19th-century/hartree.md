@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Douglas Hartree** was an English mathematician and physicist who worked in numerical analysis.
 
 ### Mathematical Profile (Excerpt):
-* Eva and William had three sons; Douglas was the oldest and both of his two younger brothers died before reaching adulthood.
 * Douglas's school education was in Cambridge and Petersfield.
 * Hartree held the chair at Manchester from 1929 to 1937 when he moved to the chair of theoretical physics.
 * Hartree was basically a theoretical physicist, and he developed powerful methods in numerical analysis.

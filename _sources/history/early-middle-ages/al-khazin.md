@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * As far as this article is concerned we will assume that al-Khazin worked on both topics.
-* Al-Khazin's family were from Saba, a kingdom in southwestern Arabia, perhaps better known as Sheba from the biblical story of King Solomon and the Queen of Sheba.
 * The Buyid dynasty, ruling in western Iran and Iraq, reach its peak around the time that al-Khazin lived.
 * Al-Khazin was one of the scientists brought to the court in Rayy by the ruler of the Buyid dynasty, Adud ad-Dawlah, who ruled from 949 to 983.
 * We know that in 959/960 al-Khazin was required by the vizier of Rayy, who was appointed by Adud ad-Dawlah, to measure the obliquity of the ecliptic (the angle which the plane in which the sun appears to move makes with the equator of the earth).

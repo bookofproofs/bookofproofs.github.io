@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Bonnycastle** was an English teacher of mathematics and prolific writer. He wrote for the early volumes of Rees's _Cyclopædia_, about algebra, analysis and astronomy.
 
 ### Mathematical Profile (Excerpt):
-* John and Mary were married on 23 April 1750 in Whitchurch, Buckinghamshire.
-* They had four children: John, the subject of this biography, was the eldest, followed by Mary (1755-1826), Robert (1757-1796) and Thomas (1761-1764).
 * We have given 29 December 1751 as John Bonnycastle's date of birth but this is actually the date on which he was baptised (no record of his birth exists).
 * John was brought up in Hardwick and there he attended the school in the hamlet of Weedon run by the Rev Dr John Bridle, the rector of Hardwick.
 * After being educated in Hardwick, Bonnycastle went to London before he was eighteen years old and there he taught for two days a week at two different schools, one run by the Rev Dr James of Greenwich Academy and the other at Chiswick run by a Dr Crawford.
@@ -36,11 +34,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Bonnycastle remained in this position in Woolwich for the rest of his career.
 * Mr Bonnycastle, Mathematical Master of the Royal Military Academy at Woolwich, and Mr Hommey, continue, with proper Assistants, to instruct young Gentlemen, designed for the army, in the various Branches of the Military Education.
 * The partnership between Bonnycastle and Hommey was ended on 3 March 1810, and Hommey continued to run the Academy without Bonnycastle.
-* On 7 October 1786, Bonnycastle married for the second time; the marriage took place in St Martin Ludgate, London.
 * Richard Henry Bonnycastle studied at the Royal Military Academy and joined the Royal Engineers.
 * Charles Bonnycastle became a professor of natural philosophy and mathematics at the newly opened University of Virginia in the United States.
 * Let us now look at what surely must be Bonnycastle's greatest mathematical contribution, namely the books which he has written.
-* The 13th  edition of this work, with addenda by his son Charles Bonnycastle, was published in 1824.
 * This was not the only book Bonnycastle published in 1782 for in the same years Introduction to Mensuration and Practical Geometry appeared in print.
 * Bonnycastle's Elements of geometry (1789) contains the propositions from Euclid's Elements books, 1-6, 11 and 12 with "critical and explanatory notes" by Bonnycastle.
 * (There may be further editions of this, and other works, by Bonnycastle and we have simply given the last edition we could find for each book.) He published another geometry book nearly 20 years later, A Treatise on Plane and Spherical Geometry (1806).

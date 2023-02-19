@@ -23,14 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ernst Straus** was a German-born American mathematician who worked in a variety of areas including relativity and combinatorics.
 
 ### Mathematical Profile (Excerpt):
-* Ernst's father Elias Straus was an attorney.
-* It was also a large family with Ernst being the youngest of his parents five children; three daughters and two sons.
-* Later in 1933 Elias Straus died of cancer and right after this Rahel Straus and the rest of the family moved to Palestine and made their home in Jerusalem.
 * Ernst attended a number of different schools but he had no high school diploma when he entered the Hebrew University.
 * There he was taught by Motzkin who later emigrated to the United States and undertook joint work with Straus which we will discuss below.
 * Again Straus had no undergraduate degree when he went to the United States and enrolled in Columbia University in New York in 1941.
-* Before moving to Princeton, Straus married Louise Miller who was, like him, a graduate student at Columbia University.
-* They married in the autumn of 1944 and moved to Princeton where Straus began working with Einstein at the Institute for Advanced Study.
 * Louise and Ernst had two sons, Daniel born in 1954 and Paul born in 1957.
 * During the four years that Straus worked with Einstein they wrote three joint papers.
 * Straus submitted his doctoral thesis on Einstein's unified field theory to Columbia University and was awarded his doctorate in 1948.

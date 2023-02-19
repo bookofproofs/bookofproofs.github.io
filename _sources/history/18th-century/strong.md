@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Theodore Strong** was an early American mathematician who made contributions to mathematical education.
 
 ### Mathematical Profile (Excerpt):
-* In fact Theodore was not brought up by his parents but by his uncle Colonel Benjamin Ruggles Woodbridge.
-* This was basically a children sharing arrangement, for Theodore's parents had a large number of children while his mother's brother had no children of his own.
 * Theodore was educated by clergymen in the area who prepared him to enter Yale in 1808.
 * However Strong was well capable of making up for the deficiency in his education in this area and was soon winning prizes in the subject.
 * It was Benjamin Silliman, who taught at Yale between 1802 and 1853, who did much to influence Strong.

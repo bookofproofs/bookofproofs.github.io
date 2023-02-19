@@ -24,15 +24,9 @@ contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,
 
 ### Mathematical Profile (Excerpt):
 * Most biographers agree on his birthday being 15 March 1713, though some sources mark his birthday on 14 December, closer to 29 December, the date of his baptism.
-* Lacaille had three older brothers, five older sisters (one named Marie-Barbe) and one younger sister.
-* All died at a young age except three girls, who became nuns, and  Lacaille, the subject of this biography.
-* The family had been living in Rumigny, in the Ardennes, for at least two generations.
 * They owned the castle of Cour-des-Prés, where Lacaille grew up.
 * Being in charge of Lacaille's studies from a young age, he transmitted his passions to him.
-* Although the family were well off at first, Charles-Louis ran up debts when he embarked on a project to run a paper mill, which failed.
 * Nicolas-Louis Lacaille went to study at the Collège de Mantes-sur-Seine (now Mantes-la-Jolie), 48 km west of Paris, and then, in 1729, with a scholarship to the Parisian Collège de Lisieux.
-* When he was eighteen, his father died, and Lacaille inherited a large amount of debt from him (he willingly took it upon himself while his sisters managed their father's assets).
-* Lacaille managed to continue his education thanks to the financial help of Duque Louis Henri de Bourbon, who had been a friend of his father's.
 * He went on to study theology at the Collège de Navarre, entering in 1732, intending at this stage to become a priest.
 * During this time, Lacaille came across a copy of Euclid's Elements.
 * He eventually decided to focus entirely on the former, but he did not forget his religious background.
@@ -63,7 +57,11 @@ contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,
 * He arrived on 19 April 1751, after a detour to Rio de Janeiro.
 * His observations, published in 1763 in Coelum Australe Stelliferum Ⓣ(Stars of the Southern skies), include 10,305 distinct stars, immediately superseding Halley's previous catalogue, which was much smaller and less accurate.
 * He identified fourteen new constellations, which he named after scientific instruments: Telescopium, Microscopium, Apparatus Sculptoris, Fornax chemical, Horologium, Reticulus rhomboidalis, Pyxis nautica, Antlia pneumatica, Octanis, Circinus, Norma, and Mons Menae.
+* He described these constellations in Table des Ascensions Droites et des Declinaisons Apparentes des Etoiles australes renfermées dans le tropique du Capricorne ...
+* Ⓣ(Table of right ascents and apparent declinations of Southern stars enclosed by the Tropic of Capricorn ...) (1756).
+* Lacaille narrated in detail his journey to the Cape in Journal historique de voyage au Cap de Bonne-Espérance par feu M l'abbé de La Caille ...
 * Abbé Carlier edited this publication and added a description of Lacaille's life.
+* Two hundred years later, R Raven-Hart translated this work into English and it was published as Travels at the Cape, 1751-53: an annotated translation of 'Journal historique du voyage fait au Cap de Bonne-Espérance ...' (1976).
 * In 1751, while in the Cape, he made some observations of the Moon.
 * Later, when put together with the observations carried out by Jérôme Lalande in Berlin at the same time, they allowed the astronomer to determine the lunar parallax.
 * The latitudes of the end stations were measured using a zenith sector.

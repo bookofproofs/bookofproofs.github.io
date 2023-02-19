@@ -34,13 +34,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Let us add that the joint  Gołąb-Olech paper, entitled Contribution à la théorie de la formule simpsonienne des quadratures approchées Ⓣ(Contribution to the theory of approximate Simpson's quadrature formula), was published in French and appeared in 1954.
 * Also note that the Rector of the University of Science and Technology, who presented Olech with his award, was the engineer and geologist Zygmunt Kowalczyk (1908-1985).
 * After being awarded a three-year scholarship to undertake research, Olech had to give up his position as an assistant at the University of Science and Technology.
-* This aspect of the doctoral course put some students off completing their doctorates, for example Olech's fellow student Jan Bochenek gave up his doctorate rather than study these lectures.
-* Olech married Jadwiga Jastrzebska, who was a mathematician and teacher.
 * This led to Lefschetz inviting Olech to spend a year in the United States.
 * Olech spent the academic year 1960-61 at the Research Institute of Advanced Studies (RIAS) in Baltimore where Lefschetz was director.
 * During Olech's year at Princeton, Lawrence Markus lectured on problems of global stability of differential equations and Olech was able to generalise some of the results.
 * Returning to Poland in 1961, Olech worked on his habilitation thesis which he submitted in the following year.
-* However, we mentioned above that Olech and his wife had five children.
 * Olech became the first director of this International Mathematical Centre, a position he held until 1991.
 * In 1979 Olech became a member of the Executive Committee of the International Mathematical Union.
 * Olech was chairman of the Polish Organizing Committee for the Congress which was responsible for all the arrangements.

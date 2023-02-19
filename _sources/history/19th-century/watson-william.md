@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Watson** graduated in Mathematics and Physics from Edinburgh University. He became head of the Physics department at Heriot Watt College in Edinburgh.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Jane Watson (born in Tranent, East Lothian about 1859).
-* William Watson attended his father's school from 1891 to 1898 and then proceeded to the Royal High School, Edinburgh.
 * At first Watson decided to study classics at Edinburgh University and it was only part way through his studies that he changed topics to mathematics and natural philosophy.
 * Before taking the B.Sc. Watson was already employed as assistant in the Physical laboratory in Edinburgh.
 * William Watson joined the Edinburgh Mathematical Society in December 1913, in the year after he took up his post at Heriot-Watt College.

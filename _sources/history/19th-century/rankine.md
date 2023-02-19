@@ -23,11 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Rankine** worked on several areas of applied mathematics including mechanics, thermodynamics and waves.
 
 ### Mathematical Profile (Excerpt):
-* Although he was the second of his parents children, his older brother David died when young so William was brought up as an only child.
-* William did not enjoy good health as a child and could only attend school for short periods.
 * Rankine's interests were divided between music and mathematics.
 * For two years from 1836 to 1838 Rankine studied at the University of Edinburgh, attending a wide range of lectures in science subjects, but choosing not to attend mathematics classes.
-* This was not Rankine's first experience of engineering for while he studied at Edinburgh University he had worked on the Edinburgh and Dalkeith Railway which his father was overseeing.
 * From 1839 to 1841 Rankine worked on numerous projects that John Benjamin MacNeill was involved with, including river improvements, waterworks, railways and both harbours.
 * Some of the work took Rankine to Ireland.
 * Further papers read to the Institution of Civil Engineers were highly thought of and several won Rankine prizes.

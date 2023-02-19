@@ -23,20 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Lipman Bers** was a Latvian-born American mathematician who worked on  pseudoanalytic functions, Riemann surfaces and Kleinian groups.
 
 ### Mathematical Profile (Excerpt):
-* His parents Isaac Bers and Bertha Weinberg were teachers, his mother being head at an elementary school in Riga where teaching was in Yiddish while his father was head at the Yiddish high school in Riga.
 * There were a number of reasons why Bers chose to go to Prague at this time.
 * Indeed Bers did obtain his doctorate which was awarded in 1938 from the Charles University of Prague where he wrote a thesis on potential theory under Karl Loewner's supervision.
 * Equally dangerous was the fact that Bers had no homeland since he was a wanted man in Latvia, and was a left wing academic.
-* With little choice but to escape again, Bers fled to Paris where his daughter Ruth was born.
 * Bers applied for a visa to the USA and, while waiting to obtain permission, he wrote two papers on Green's functions and integral representations.
-* Just days before Paris surrendered to the advancing armies, Bers and his family moved from Paris to a part of France not yet under attack from the advancing German armies.
-* In 1940 Bers and his family arrived in the United States and joined his mother who was already in New York.
 * Between 1945 and 1949 Bers worked at Syracuse University, first at Assistant Professor, later as Associate Professor.
 * Gelbart wanted to build up the department at Syracuse and attracting both Bers and Loewner was an excellent move.
 * Here Bers began work on the problem of removability of singularities of non-linear elliptic equations.
 * Bers then became a member of the Institute for Advanced Study at Princeton where he began work on Teichmüller theory, pseudoanalytic functions, quasiconformal mappings and Kleinian groups.
 * When Bers met Lavrent'ev three years later he asked him the same questions and, indeed, Ahlfors had been correct in guessing why Lavrent'ev had credited him.
-* It is ironic, given Bers strong political views on human rights, that he should find that Teichmüller, a fervent Nazi, had already made stunning contributions.
 * In 1951 Bers went to the Courant Institute in New York, where he was a full professor, and remained there for 13 years.
 * In 1958 Bers address the International Congress of Mathematicians in Edinburgh, Scotland, where he lectured on Spaces of Riemann surfaces and announced a new proof of the measurable Riemann mapping theorem.
 * In his talk Bers summarised recent work on the classical problem of moduli for compact Riemann surfaces and sketched a proof of the Teichmüller theorem characterizing extremal quasiconformal mappings.

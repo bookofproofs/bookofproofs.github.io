@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Charles Coulomb** worked on applied mechanics but he is best known for his work on electricity and magnetism.
 
 ### Mathematical Profile (Excerpt):
-* After being brought up in Angoulême, the capital of Angoumois in southwestern France, Coulomb's family moved to Paris.
 * At this stage in his education there was a crisis for Coulomb.
-* Coulomb's mother remained in Paris but Coulomb had a disagreement with her over the direction his career should take so he left Paris and went to Montpellier to live with his father.
 * At this stage Coulomb's interests were mainly in mathematics and astronomy and while in Montpellier he joined the Society of Sciences there in March 1757 and read several papers on these topics to the Society.
 * Coulomb wanted to enter the École du Génie at Mézières but realised that to succeed in passing the entrance examinations he needed to be tutored.
 * Camus had been appointed as examiner for artillery schools in 1755 and it was his Cours de mathématiques Ⓣ(A course of mathematics) that Coulomb studied for several months.
@@ -39,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * From Bouchain, Coulomb was next posted to Cherbourg.
 * Coulomb developed a theory of torsion in thin silk and hair threads.
 * Another interesting episode occurred during the time which Coulomb spent at Cherbourg.
-* Coulomb submitted a memoir giving his ideas and it is a fascinating opportunity to understand his political views.
 * Coulomb wanted the state and the individual to play equal roles.
 * In 1779 Coulomb was sent to Rochefort to collaborate with the Marquis de Montalembert in constructing a fort made entirely from wood near Ile d'Aix.
 * During his time at Rochefort, Coulomb carried on his research into mechanics, in particular using the shipyards in Rochefort as laboratories for his experiments.
@@ -48,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The importance of Coulomb's law for the development of electromagnetism is examined and discussed.
 * These papers on electricity and magnetism, although the most important of Coulomb's work over this period, were only a small part of the work he undertook.
 * Coulomb worked closely with Bossut, Borda, de Prony, and Laplace over this period.
-* On 26 February 1790 Coulomb's first son was born, although he was not married to Louise Françoise LeProust Desormeaux who was the mother of his son.
 * When the French Revolution began in 1789 Coulomb had been deeply involved with his scientific work.
 * Many institutions were reorganised, not all to Coulomb's liking, and he retired from the Corps du Génie in 1791.
 * Coulomb and Borda retired to the country to do scientific research in a house he owned near Blois.

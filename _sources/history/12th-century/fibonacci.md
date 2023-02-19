@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Fibonacci himself sometimes used the name Bigollo, which may mean good-for-nothing or a traveller.
-* Fibonacci was born in Italy but was educated in North Africa where his father, Guilielmo, held a diplomatic post.
-* Fibonacci was taught mathematics in Bugia and travelled widely with his father and recognised the enormous advantages of the mathematical systems used in the countries they visited.
 * Fibonacci ended his travels around the year 1200 and at that time he returned to Pisa.
 * Fibonacci lived in the days before printing, so his books were hand written and the only way to have a copy of one of his books was to have another hand-written copy made.
 * One might have thought that at a time when Europe was little interested in scholarship, Fibonacci would have been largely ignored.
@@ -47,6 +45,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Liber quadratorum, written in 1225, is Fibonacci's most impressive piece of work, although not the work for which he is most famous.
 * the Liber quadratorum  Ⓣ(Book of squares) alone ranks Fibonacci as the major contributor to number theory between Diophantus and the 17th -century French mathematician Pierre de Fermat.
 * Fibonacci's influence was more limited than one might have hoped and apart from his role in spreading the use of the Hindu-Arabic numerals and his rabbit problem, Fibonacci's contribution to mathematics has been largely overlooked.
+* Here Fibonacci became the teacher of the masters of computation and of the surveyors, as one learns from the "Summa" Ⓣ(Summary of arithmetic, geometry, proportion and proportionality) of Luca Pacioli ...
 * Fibonacci was also the teacher of the "Cossists", who took their name from the word 'causa' which was first used in the West by Fibonacci in place of 'res' or 'radix'.
 * Fibonacci's work in number theory was almost wholly ignored and virtually unknown during the Middle ages.
 

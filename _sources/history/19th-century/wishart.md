@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Wishart** made important contributions to Statistics.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Elizabeth Wishart (born in Edinburgh about 1866).
-* Wishart's family moved from Montrose to Perth in Scotland when John was two years old.
 * In 1924, after a recommendation from Whittaker, Wishart was offered a post in University College, London, as assistant to Pearson.
 * Pearson had a project for Wishart to work on and, given that Whittaker had set up his mathematical laboratory in Edinburgh, it was clear why Whittaker's advice on a possible assistant had been sought.
 * Wishart learned a great deal of statistics during his three years with Pearson.

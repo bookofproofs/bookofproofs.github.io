@@ -24,9 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Around the time Nikolai Nikolaevich was born, Yekaterinburg was renamed Sverdlovsk and it had this name from 1924 to 1991.
-* At the time Nikolai Nikolaevich was born, his father was the head of the Clinic for Internal Diseases in Yekaterinburg and also taught in the Medical Faculty of the Ural State University where he was a professor.
-* Nikolai Nikolaevich's mother, Mariya Fedorovna, had studied at the Bestuzhev Courses in St Petersburg.
-* Nikolai Nikolaevich was a late child for his parents.
 * In 1932 Krasovskii entered Sverdlovsk School No 1 in Yekaterinburg.
 * Krasovskii graduated from the School No 1 in 1941 and, because of the war, he worked as an electrician at the Ordzhonikidze Plant between 1941 and 1943.
 * Although it specialised in applied sciences, there was a very strong Department of Higher Mathematics which, from 1946, was headed by the algebraist Sergei Nikolaevich Chernikov.

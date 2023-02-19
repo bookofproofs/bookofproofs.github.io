@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Einstein** contributed more than any other scientist to the modern vision of physical reality. His special and general theories of relativity are still regarded as the most satisfactory model of the large-scale universe that we have.
 
 ### Mathematical Profile (Excerpt):
-* In 1894 Einstein's family moved to Milan but Einstein remained in Munich.
 * In 1895 Einstein failed an examination that would have allowed him to study for a diploma as an electrical engineer at the Eidgenössische Technische Hochschule in Zürich.
 * Einstein renounced German citizenship in 1896 and was to be stateless for a number of years.
 * Following the failing of the entrance exam to the ETH, Einstein attended secondary school at Aarau planning to use this route to enter the ETH in Zürich.
@@ -31,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One of his friends at ETH was Marcel Grossmann who was in the same class as Einstein.
 * Einstein tried to obtain a post, writing to Hurwitz who held out some hope of a position but nothing came of it.
 * Three of Einstein's fellow students, including Grossmann, were appointed assistants at ETH in Zürich but clearly Einstein had not impressed enough and still in 1901 he was writing round universities in the hope of obtaining a job, but without success.
-* Then Grossmann's father tried to help Einstein get a job by recommending him to the director of the patent office in Bern.
 * Einstein was appointed as a technical expert third class.
 * Einstein worked in this patent office from 1902 to 1909, holding a temporary post when he was first appointed, but by 1904 the position was made permanent and in 1906 he was promoted to technical expert second class.
 * Einstein earned a doctorate from the University of Zürich in 1905 for a thesis On a new determination of molecular dimensions.

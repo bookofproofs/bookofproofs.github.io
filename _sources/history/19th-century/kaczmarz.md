@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Stefan Kaczmarz** was a Polish mathematician whose work provided the basis for modern imaging techniques, including the CAT scan.
 
 ### Mathematical Profile (Excerpt):
-* Stefan was one of four children, having a sister Helena and two brothers Roman and Eustace.
 * When he was growing up, Stefan lived first in Kety, in the Silesian foothills east of Bielsko-Biala, where he attended primary school between 1901 and 1905.
 * In September 1913 Kaczmarz began his studies of mathematics, physics and chemistry at the Jagiellonian University in Kraków.
 * Kaczmarz, who was promoted to sergeant in July 1915, was involved in this Carpathian Campaign which was one of the most tragic of the whole war with great loss of life on both sides with little gained in the end.
@@ -35,8 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * On 13 October 1924, Kaczmarz was awarded his doctorate for his thesis The relationships between certain functional and differential equations.
 * In this paper, which contained results discovered in answering one of Banach's questions, Kaczmarz thanks Stanisław Saks and Stanisław Ruziewicz for helpful comments.
 * In 1935 Kaczmarz published a book, Theorie der Orthogonalreihen Ⓣ(Theory of orthogonal series), coauthored with Hugo Steinhaus.
-* On 26 December 1928, Kaczmarz married Helena Firlicinska (1904-1994) at the parish church in Nowy Sacz, south east of Kraków.
-* Shortly after the birth of their second child, Kaczmarz was awarded a scholarship by the National Culture Fund to finance a visit to Cambridge, England, and to Göttingen, Germany.
 * From 1923 to 1939 Kaczmarz taught many university level courses at Lwów such as: Analytical Geometry, Higher Analysis, Integral Equations, Algebraic Curves, Trigonometric Series, Non-Euclidean Geometry and the Theory of Groups, and Differential Geometry.
 * In addition to teaching at university level, Kaczmarz taught in the local secondary schools where his work received the highest praise.
 * There are a number of aspects of Kaczmarz's mathematical contributions that we must mention in addition to those mentioned above.
@@ -44,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The iterative algorithm which Kaczmarz gave has proved particularly useful in applications, particularly to modern imaging technologies.
 * A topic which Kaczmarz was embarking on at the time war broke out was a theoretical study of the curvature of railway tracks.
 * Kaczmarz's greatest pleasure, other than mathematics, was to walk in the mountains.
-* The details of Kaczmarz's death are unclear.
 * On the following day Kaczmarz was assigned to Warsaw as a lieutenant in the reserve.
 * The second version is that Kaczmarz was killed by the Russians in the Katyn massacre in April or May 1940.
 * It would appear that the theory he died in the Katyn massacre is the least likely of the possibilities, and that almost certainly Kaczmarz died in September 1939.

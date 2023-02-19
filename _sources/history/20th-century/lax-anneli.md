@@ -27,11 +27,9 @@ contributors: @Gill-D'Lima,bookofproofs
 * Despite her dissatisfaction with algebra, Anneli came out of high school 'fascinated with mathematics.' She obeyed the wise words of her dear teacher Miss Eaton and went on to obtain a bachelors degree from Adelphi University in 1942.
 * It was here, while a postgraduate in her twenties, that Anneli met Peter Lax.
 * Events followed rapidly on their marriage: in 1949 Peter completed his Ph.D. and joined the faculty at New York; in 1950 and 1954 Anneli gave birth to two sons (John and James); in 1955 she finally received her own PhD completed under the supervision of Richard Courant.
-* By this time, Anneli had been part of the Courant 'family' at New York for some twelve years, and Peter's own distinguished career in mathematical research was well under way.
 * While Anneli continued her affiliation with New York, her professional centre of gravity shifted from research and graduate studies to the undergraduate programme at New York's Washington Square College, where she was awarded tenure in 1961.
 * Perhaps, during her long association with various projects at the Courant Institute, Anneli never fully experienced the sense of independent achievement that boosts self-confidence and gives momentum to research.
 * Despite her considerable early promise, Anneli gradually drifted away from research.
-* In 1982 a family tragedy was to strike when Anneli and Peter lost their eldest son John at the age of 32.
 * Anneli and Peter created a memorial in the form of an annual lecture which is given by a historian of the highest distinction to commemorate the work and spirit of John Lax.
 * Following the death of her eldest son, Anneli kept herself busy, working mainly as an editor and educator for the next ten years before retiring in 1992.
 * After retirement Anneli took time to appreciate nature.
@@ -45,6 +43,8 @@ contributors: @Gill-D'Lima,bookofproofs
 * Anneli seemed determined to do something about this.
 * Around 1960 Anneli approached me about contributing a volume for an upcoming series called The New Mathematical Library that she was editing and that was designed to overcome this reluctance to write mathematical texts for students.
 * Anneli wrote and fine-tuned the manuscript.
+* In the end I'm sure Anneli would have been pleased with the final result: a fine introduction to the geometry of numbers ...
+* The Anneli Lax New Mathematical Library is a continuing legacy and should encourage those mathematicians to write and publish such work ...
 * Niven was approached by Lax in the early 1970's to write a book for the NML.
 * In 1995, the MAA awarded Lax its highest honour: the Yueh-Gin Gung and Dr Charles Y Hu Award for Distinguished Service.
 * Lax was involved in countless activities.
@@ -64,7 +64,6 @@ contributors: @Gill-D'Lima,bookofproofs
 * Although she was capable in much higher realms of maths, Anneli would always begin where the student was.
 * Lax scrutinised mathematical terms that could cause confusion amongst mathematics students and thereby started mathematics teachers thinking about their approach to teaching such a 'language.'  She worked to make mathematics teachers in schools in inner-city New York aware of such confusion experienced by students and that thinking was behind the design of her 'Language Linked Approaches to Mathematics' course.
 * This combined course of expository writing and mathematical thinking was so successful that with the Ford Foundation support, Lax expanded the curriculum into several junior and senior high schools in New York City.
-* Throughout this biography Lax has been seen in her many different roles: wife, mother, mathematician, editor and educator.
 * Some of those who knew her as a mentor and friend have been interviewed (either personally or via email) to gain a fuller picture of Lax.
 * Elena Marchisotto, California State University, Northridge, remembers Lax as her supervisor, but more importantly as her friend and mentor.
 * Marchisotto first met Lax while studying for her Ph.D. at New York University in the 1980's.

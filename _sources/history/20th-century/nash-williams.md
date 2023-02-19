@@ -23,12 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Crispin  Nash-Williams** was a Welsh mathematician who worked in discrete mathematics, especially graph theory.
 
 ### Mathematical Profile (Excerpt):
-* Crispin's mother was a classics graduate of Oxford University.
-* His father joined the army and Crispin was sent as a boarder to Christ Church Cathedral School, Oxford.
-* Crispin's mother, together with his younger brother Piers, moved to Swaffham in Kent when she was appointed as a classics teacher at the local grammar school.
-* The family now had no real home since Crispin's mother and younger brother lived at the home of the head of the grammar school during term time and rented a flat in Reading for the school holidays.
 * The war was coming to an end in 1945 when Nash-Williams left Christ Church Cathedral School in Oxford and entered Rugby School.
-* an ensuing tragedy was that, his father dying at the relatively young age of 58, Crispin never really knew him well.
 * During his first year at Cambridge Nash-Williams spent a considerable amount of time with the boat club and was cox of a Trinity Hall boat.
 * After graduating, Nash-Williams remained at Cambridge where he undertook research under Shaun Wylie and Davis Rees.
 * Norman Steenrod was a considerable influence on Nash-Williams during this year.

@@ -24,15 +24,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@G-M-Phillips,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Dr Abraham Zeckendorf was a dentist and he set up a dental practice in Liège near the end of the 19th  century.
-* The family were Dutch and Abraham Zeckendorf was a practicing Jew.
 * The city was occupied by Germany for the whole of the war so almost all of Zeckendorf's school education took place under German occupation.
 * The war ended in 1918 and Zeckendorf graduated from the school in the following year following which he began his studies at the University of Liège.
-* Zeckendorf had decided that, like his father, he would follow a medical profession.
-* Following even more closely his father's profession, Zeckendorf worked towards a Dental Surgery License between 1927 and 1931.
-* Zeckendorf married Elise Schwers (born Liège on 2 July 1889), a nurse known as Elsa, on 29 June 1929.
 * Eduourd and Elsa Zeckendorf had a major common interest.
 * Zeckendorf too was keen on drawing and this was a hobby which he enjoyed whenever he had some spare time.
-* Shortly after he married, by 1930, Zeckendorf was in charge of the Saint Laurent Hospital in Liège, a military hospital run by the Belgium army.
 * Zeckendorf had another hobby, in addition to art, for he was an excellent amateur mathematician.
 * This is called Zeckendorf's theorem, and the subsequence of Fibonacci numbers which add up to a given integer is called its Zeckendorf representation.
 * Zeckendorf's parents fled as soon as the invasion began and they settled in Nice, France.
@@ -40,9 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@G-M-Phillips,bookofproofs
 * (An 'Oflag' was an 'Officierenlager', a camp for imprisoned officers, as contrasted to a 'Stalag'.) During his captivity Dr Zeckendorf provided medical care to allied prisoners of war.
 * Zeckendorf escaped from a camp, and afterwards, his status as a nonpracticing Jew was ignored by the Germans.
 * Zeckendorf chose to continue his care of prisoners of war in Germany despite opportunities to return to his home.
-* Elsa Zeckendorf died suddenly in 1944 and, a few months later, Zeckendorf's father Abraham died in Nice.
 * Zeckendorf was liberated and, after the surrender of all German troops in Belgium in early May, he was able to return to his home in Liège.
-* The Zeckendorf family home had been classed as "abandoned" by the Germans following the Belgium surrender in May 1940 and the house had been occupied by German troops who destroyed most of the contents.
 * Following the German surrender in 1945, American troops moved into the house and that was the state of affairs when Zeckendorf reached Liège.
 * On 16 March 1949 Zeckendorf went to India at the head of a Belgium contingent which was part of the United Nations effort.
 * This resulted in a 800 km ceasefire line between the two countries and Zeckendorf was put in charge of inspecting this ceasefire line.

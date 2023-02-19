@@ -27,11 +27,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At Cambridge Barkla worked in the Cavendish Laboratory under J J Thomson.
 * In 1902 Barkla was appointed Oliver Lodge Fellow in Liverpool, later becoming an assistant lecturer in physics.
 * Professor Barkla is a graduate of both Liverpool (when part of the Victoria University) and Cambridge.
-* Barkla married Mary Esther Cowell, the eldest daughter of John T Cowell of Douglas, Receiver-General of the Isle of Man, in 1907; they had two sons and one daughter.
 * The youngest of their sons, Flight Lieutenant Michael Barkla, was a brilliant medical scholar, but sadly was killed in action in North Africa in 1943.
+* Barkla made valuable contributions ...
 * Barkla was elected a fellow of the Royal Society in 1912.
 * Details of Barkla's scientific work appears in his obituary, written by C T R Wilson, which appeared an the Royal Society of Edinburgh Year Book 1946, 17-18.
 * Further details of Barkla's life and research achievements are given in the obituary written by Whittaker and Born which appeared in The Scotsman on Tuesday, 24 October 1944.
+
+Born which appeared in The Scotsman on Tuesday, 24 October 1944.
 
 Born which appeared in The Scotsman on Tuesday, 24 October 1944.
 

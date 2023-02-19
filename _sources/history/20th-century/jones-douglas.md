@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Jesse Jones, born in Little Harrowden, Northamptonshire, worked for Tarmac, a firm founded in 1903 dealing with road surfacing and building materials.
-* He became a general manager of Tarmac in the year Douglas was born and the family moved, first to Redcar, then to Bilston close to Wolverhampton where the Tarmac headquarters was situated.
-* Douglas spent his childhood in Dale View, Wolverhampton Street, Bilston.
 * Douglas had attended Ettingshall Primary School from 1927 to 1931.
 * Douglas excelled in Latin and Greek at the Grammar School and was advised to enter the Civil Service.
 * Competition for this was great and Douglas was not at all confident that he would make the grade so he decided to change from the Latin and Greek that he loved to mathematics.
@@ -36,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * While still an undergraduate, Jones wrote Note on an electrostatic problem which was published in 1948.
 * Graduating from Oxford in 1947 with an M.A., Jones spent the academic year 1947-48 at the Massachusetts Institute of Technology in the United States.
 * Once Jones' position in Manchester became permanent he was able to marry Ivy Styles on 23 September 1950 in Bilston.
-* Douglas and Ivy Jones had two children; Helen Elizabeth Jones (born 28 May 1958) and Philip Andrew Jones (born 9 February 1960).
 * In 1956 Jones spent time in New York at the Courant Institute of Mathematical Sciences where he was a visiting professor.
 * While he was in New York, Jones applied for the position of Simson Professor of Mathematics at the University of Glasgow, Scotland, which would make whoever was appointed the head of the Department of Applied Mathematics, a new Department being set up by Glasgow.
 * This book alone would have cemented Douglas's reputation as world leader.

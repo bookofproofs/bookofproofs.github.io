@@ -24,11 +24,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * There is, rather confusingly, also a David Tweedie who was a member at much the same time.
-* David Tweedie's father was  David Tweedie (born in Cleish, Kinrossshire about 1847) who was a colliery clerk and book keeper.
-* His mother was  Jemima Tweedie (born in Perth, Perthshire about 1845).
 * He had several younger siblings, Marjory  (born about 1875 who was a Pupil Teacher in 1891), Alice (born about 1877), James (born 1881) and John (born about 1885).
 * Tweedie obtained passes at Higher level in Latin, Greek, and Mathematics.
-* Tweedie married Jeanie (Jessie) Fleming Allison on 13 April 1879 and they had children: Jean (Ena) (1898-1963) and David (1901-1987).
 * In January 1897 Tweedie joined the Edinburgh Mathematical Society.
 * The move from Edinburgh seems to have made Tweedie decide that his membership of the Edinburgh Mathematical Society was not now useful, and he left the Society in the following year.
 

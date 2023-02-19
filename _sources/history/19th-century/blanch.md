@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gertrude Blanch**  was a Polish born American mathematician who did pioneering work in numerical analysis and computation.
 
 ### Mathematical Profile (Excerpt):
-* She graduated from Eastern District High School in 1914 but later in that year her father died so Gittel, who by this time was known by the Americanised version of Gertrude, decided that she would take a job so that she could support her mother.
 * Gertrude Kaimowitz, as she was then called, took a job as a clerk.
 * Gertrude decided to give up her job working for a hat dealer so that she could concentrate on her studies but her employer, not wishing to lose such a valuable employee, offered to pay her tuition fees if she continued to work for him.
 * This was an attractive offer, so Gertrude continued to work for the hat dealer while studying mathematics.
@@ -33,8 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Blanch published the main results of her thesis in 1937 in the American Journal of Mathematics in a paper with the same title as her thesis.
 * After the award of her doctorate, Blanch returned to New York City where she worked for a year as a tutor in Hunter College, replacing a member of the faculty who was on leave.
 * Blanch worked on the Mathematical Tables Project from the beginning of 1938 until 1942.
-* Although previously Blanch had been denied security clearance, presumably because her sister was a member of the Communist Party, she was allowed to continue her job with the Institute.
-* As well as her sister being a member of the Communist Party, other evidence against Blanch was the ridiculous claim that she was likely to be a Communist because she had never married or had children.
 * Blanch got a job with the Electrodata Corporation in Pasadena but only worked for them for a year before she became a senior mathematician at the Aerospace Research Laboratories at the Wright Patterson Air Force Base in Dayton, Ohio.
 * Blanch's first published paper on Mathieu functions was published in 1946, before she went to California.
 * However, in 1945 the National Bureau of Standards had produced a volume of Tables relating to Mathieu functions which had included work by Blanch.

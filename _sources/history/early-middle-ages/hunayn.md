@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hunayn ibn Ishaq** was a Nestorian Christian mathematician who is most important as a translator, making Greek works available to the Islamic mathematicians.
 
 ### Mathematical Profile (Excerpt):
-* His son Ishaq ibn Hunayn, strongly influenced by his father, is famed for his Arabic translation of Euclid's Elements.
-* Hunayn's father was Ishaq, a pharmacist from Hira.
-* The family were from a group who had belonged to the Syrian Nestorian Christian Church before the rise of Islam, and Hunayn was brought up as a Christian.
 * Hunayn became skilled in languages as a young man, in particular learning Arabic at Basra and also learning Syriac.
 * To continue his education Hunayn went to Baghdad to study medicine under the leading teacher of the time.
 * However, after falling out with this teacher, Hunayn left Baghdad and, probably during a period in Alexandria, became an expert in the Greek language.

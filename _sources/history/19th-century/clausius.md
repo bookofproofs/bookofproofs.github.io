@@ -23,20 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Rudolf Clausius** did important work in thermodynamics.
 
 ### Mathematical Profile (Excerpt):
-* Rudolf was brought up in a large family, being the sixth of his father's sons.
 * Clausius entered the University of Berlin in 1840 although at this stage he was still not clear which subjects he would pursue.
 * At the Gymnasium Clausius taught the advanced classes in mathematics and physics.
 * However in this work Clausius applied mathematics far more deeply than any of his predecessors and it is a good illustration of how physical problems drive the development of mathematics even when their physical basis is unsound.
 * Clausius's first paper on the mechanical theory of heat was published in 1850.
 * On 29 August 1855 Clausius was appointed to the Chair of Mathematical Physics at the Polytechnikum in Zürich and at the same time he was also appointed to the University of Zürich.
 * It was certainly an excellent place for Clausius to push forward his ideas surrounded by other excellent mathematicians and physicists.
-* Soon after this, however, political events would have a major effect on Clausius's life.
 * Clausius was a German patriot and, although he was nearing 50 years of age, he offered his services to his country in the Franco-Prussian war which had broken out.
 * Clausius received the Iron Cross in 1871 for his services to the German campaign.
-* The child, which survived, was their sixth but only four, two boys and two girls, survived Clausius.
-* However after the death of his wife Clausius had the responsibility of bring up his family and, together with his war wound, meant that he had little chance for concentrated academic work.
 * This Clausius did and in 1878 he took up riding, soon becoming an expert horseman.
-* His second wife was Sophie Stack from Essen and Clausius had one further child, a son, with his second wife.
 * Clausius was a theoretical physicist, in fact he played an important role in establishing theoretical physics as a discipline.
 * Clausius first stated the basic idea of the second law of thermodynamics.
 * To understand the significance of Clausius's paper we should say a few words about the theory of heat which existed at this time.
@@ -44,6 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Clausius had experimental evidence of this law, not from his own experiments but from those of Joule.
 * Clausius interpreted free heat as the kinetic energy of the particles of the body.
 * The introduction of U, the energy of the body, was of great significance although Clausius did not give it a name.
+* in the memoir of Clausius ...
 * this was only the beginning of Clausius's long involvement in the study of the second law.
 * Clausius restated Sadi Carnot's principle of the efficiency of heat engines in his work.
 * The Clausius-Clapeyron equation appears which expresses the relation between the pressure and temperature at which two phases of a substance are in equilibrium.

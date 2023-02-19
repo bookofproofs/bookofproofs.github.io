@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * René grew up in Paris at the time when the Eiffel tower was being constructed.
-* In 1886, when he was twelve years old, René won a scholarship to enable him to have a good education despite his family's poverty.
 * In 1890 René completed the advanced classes at the Lycée Lakanal and entered the special mathematics section of the Lycée Henri IV.
 * At the École Normale Supérieure Baire attended lectures by Jules Tannery and Goursat and, in addition, he attended lectures by Hermite, Émile Picard and Poincaré at the Sorbonne.
 * Having received his licentiate Baire proceeded toward his "agregation" but, although he was the best student in the written parts of this examination, he was only third overall after the oral examination.
@@ -46,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Baire also fell out with de la Vallée Poussin which may be surprising to those who know that Baire's ideas entered the mainstream of mathematics through de la Vallée Poussin's well-known treatise.
 * The first five are written during 1898 beginning during the time that Baire was in Italy.
 * The gap is explained by Baire's first serious illness over the period he taught at Bar-le-Duc.
-* It appears that it was not only Baire's family who felt he had been hard done by, for after 1918 many in the mathematical community seemed to be trying to make amends for his lack of recognition.
 * In 1918 some suggested that a chair at the Collège de France, which he undoubtedly deserved, would lift Baire's depression, helping him to regain his intellectual vigour, but apparently these suggestions never materialised.
 * Unable to resume his duties, Baire lived on the shores of Lake Geneva and he was there when he received the Chevalier de la Legion d'Honneur and in 1922 when he was elected to the Académie des Sciences.
 * Despite being unable to work for long periods, Baire wrote a number of important analysis books including Théorie des nombres irrationels, des limites et de la continuité Ⓣ(Theory of irrational numbers, limits and continuity) (1905) and Leçons sur les théories générales de l'analyse Ⓣ(Lessons on general theories of analysis), 2 Vols.

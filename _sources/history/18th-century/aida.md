@@ -31,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Aida would have liked to become a pupil of Fujita, for he was one of the leading mathematicians in Japan.
 * Aida saw his friendship with Kamiya as means to be accepted by Fujita and asked Kamiya to arrange for him to be introduced to Fujita.
 * Indeed Kamiya organised the necessary introductions but Aida was not accepted by Fujita.
-* It appears that relations between Fujita and Aida may have been poor even before Kamiya arranged the introduction, although if that were the case it is unclear quite why Aida worked so hard to obtain the introduction.
 * Aida had donated some tablets which contained errors and these had been spotted by Fujita.
 * Perhaps Aida was unaware of these errors at the time he sought to become Fujita's pupil.
 * Aida now decided to write a work based on the Seiyo sampo yet one which would criticise this work.

@@ -30,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1955 Steinfeld was awarded his Candidate's degree, and the following year he left Szeged to take up an appointment in the Mathematical Institute of the Hungarian Academy of Sciences in Budapest.
 * In this last mentioned paper Steinfeld introduced the concept of a quasi-ideal.
 * Much of Steinfeld's contributions to quasi-ideals is contained in his monograph Quasi-ideals in rings and semigroups (1978).
-* Other topics on which Steinfeld undertook research included the structure of simple artinian rings, for example in Some characterizations of semisimple rings with minimum condition on principal left ideals, and analogues in other algebraic systems.
 * Steinfeld  was also much interested in primness, including prime ideals and prime elements in partially ordered semigroups.
 
 Born 5 March 1924, Szarvas, Hungary. Died 8 July 1990, Budapest, Hungary.

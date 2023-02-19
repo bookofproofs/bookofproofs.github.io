@@ -4,10 +4,10 @@ categories: history,17th-century
 parentid: bookofproofs$339
 tags: astronomy,origin-netherlands
 orderid: 1688
-title: &amp;#x27;sGravesande, Willem Jacob
+title: &amp;amp;#x27;sGravesande, Willem Jacob
 born: 1688
 died: 1742
-keywords: willem 'sgravesande,&amp;#x27;sgravesande
+keywords: willem 'sgravesande,&amp;amp;#x27;sgravesande
 description: Willem 'sGravesande was a Dutch mathematician who expounded Newton's philosophy in Europe.
 references: bookofproofs$6909
 contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Willem 'sGravesande** was a Dutch mathematician who expounded Newton's philosophy in Europe.
 
 ### Mathematical Profile (Excerpt):
-* Willem's early education was at home with a private tutor named Tourton who was employed to educate Willem and his brothers.
-* Tourton saw that Willem had considerable mathematical talents and he was able to encourage him in that direction even though Willem was expected, as were his brothers, to make a career in the legal profession.
-* 'sGravesande and his brothers all became lawyers, practising in The Hague.
 * In this essay 'sGravesande discussed one of the major problems of the day, namely that of vis viva, or living force, which is a 17th  century concept of energy.
 * Samuel Clarke attacked the ideas that 'sGravesande presented in this essay, but 'sGravesande was able to reply with a robust defence of his ideas.
 * In 1717 'sGravesande became professor of mathematics and astronomy at the University of Leiden.

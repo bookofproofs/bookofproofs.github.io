@@ -30,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1963 Wallace moved to the University of Florida at Gainesville.
 * Sigmon wrote his thesis on Topological Means  with Wallace as advisor.
 * This is typical of the care and effort that Wallace put into helping all the students in his department, those he supervised and those supervised by others.
-* Wallace married Willie-Catherine and they had a daughter Sandra.
 * For all of those mathematicians having in the remotest sense been connected with topological semigroups, however, Alexander Doniphan Wallace will always be remembered as the great pioneer of this line of mathematical research.
 
 Born 21 August 1905, Hampton, Virginia, USA. Died 16 October 1985, New Orleans, USA.

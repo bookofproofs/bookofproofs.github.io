@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * However, by the time Łukasiewicz was born in Lemberg, Austria had named the region the Kingdom of Galicia and Lodomeria and given it a large degree of administrative autonomy.
-* Jan's mother, Leopoldine Holtzer, was the daughter of an Austrian civil servant and both Leopoldine and Luke were Roman Catholics.
 * Łukasiewicz was interested in mathematics at school and he entered the University of Lemberg where he studied mathematics and philosophy.
 * Wishing to lecture in universities, Łukasiewicz continued to study for his habilitation, submitting his thesis to the University of Lemberg in 1906.
 * Once he had been awarded his habilitation, Łukasiewicz began to lecture at a Privatdozent.
@@ -34,9 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * During this period between the wars Łukasiewicz was twice rector of Warsaw University.
 * During this time Łukasiewicz and Lesniewski founded the Warsaw School of Logic.
 * viewing mathematical logic as an instrument of enquiry into the foundations of mathematics and the methodology of empirical science, Łukasiewicz succeeded in making it a required subject for mathematics and science students in Polish universities.
-* Łukasiewicz had married Regina Barwinska and they suffered great hardships during World War II.
 * The suffering of Łukasiewicz is graphically illustrated in this autobiography.
-* Łukasiewicz and his wife fled from Poland and in 1946 they were in exile in Belgium when he was offered a chair by the University of Dublin in Ireland.
 * Łukasiewicz introduced the 'Polish notation' which allowed expressions to be written unambiguously without the use of brackets and his studies were to form the basis for Tarski's work.
 * In November 2022, Łukasiewicz's remains were transferred from Dublin to Warsaw and buried in Warsaw's Old Powązki Cemetery.
 

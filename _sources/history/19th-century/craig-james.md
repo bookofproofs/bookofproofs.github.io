@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James Craig** was a Scottish mathematician who made some significant inventions in map projections. He was killed when a mob attacked the Turf Club in Cairo.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Agnes Craig (born Buckhaven, Fife about 1841).
 * James attended Daniel Stewart's College in Edinburgh, being dux of the school in 1885.
 * In 1909 he invented the Craig retroazimuthal map projection.
 * It is sometimes known as the Mecca projection because Craig invented it while working in Egypt to help Muslims find their qibla.

@@ -24,11 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * The older girl was Alice with Etta the younger of the two.
-* Etta was born into an African - American family who clearly valued education and she had the advantage that, somewhat unusually for this time, her mother Zadie had been educated at College; in fact at Spelman College where Etta would spend most of her career.
 * Etta attended schools in Tupelo and completed her school education at George Washington High School.
 * Graduating from the High School in 1949 Etta Zuber entered the traditionally Black Fisk University in Nashville, Tennessee, where she studied mathematics with chemistry as her minor subject.
 * Zuber graduated with a B.A. in 1953 and then went to the University of Wisconsin at Madison to undertake graduate studies.
-* It was while she taught there that she met Dolan Falconer and the two married.
 * For the rest of this biography we will refer to Etta Zuber as Falconer.
 * Falconer was awarded her Ph.D. in 1969 for a thesis entitled Quasi group Identities Invariant under Isotopy.
 * Two papers by Falconer were based on her thesis.

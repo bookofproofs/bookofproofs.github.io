@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Archibald Milne** graduated from Edinburgh University and taught at the Church of Scotland Training College in Edinburgh.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Lilias Milne (born Edinburgh about 1851).
 * Archibald Milne attended St James' Episcopal School, Broughton Street, Edinburgh.
 * Milne was appointed to the Church of Scotland Training College in Edinburgh in 1899, becoming a Mathematical Lecturer there in 1903.
 * The College became the Provincial Teachers Training College in 1907 and Milne became the Head of the Department of Mathematics.

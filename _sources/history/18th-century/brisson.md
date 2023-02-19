@@ -25,9 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Barnabé studied at the Collège Oratorien de Juilly.
 * In 1795, while Brisson was a student there, the École Centrale des Travaux Publics was renamed the École Polytechnique.
-* During these years he met Jean-Baptiste Biot and, as a consequence of their friendship, Biot got to know Brisson's sister Gabrielle who was sixteen at the time.
 * Brisson was highly thought of by Gaspard Monge, who was one of his teachers at the École Polytechnique.
-* Brisson married Monge's niece, Anne-Constance Huart de l'Enclos (born 18 November 1789), in 1808.
 * After sixteen months working in Doubs, Brisson was conscripted into the army on 12 September 1799.
 * Brisson's method thus overcame the limitations of contemporary cartography while avoiding the drawbacks of the traditional methods that employed the judgment of the human eye on the ground or the costly and time-consuming detailed instrument survey of alternative possibilities.
 * By locating the appropriate summit point for any canal without leaving his study, Brisson could propose as "possible" over one hundred new canals, find the technically optimal (i.e. shortest and cheapest) routes for them to follow, and even determine for long and complicated lines compounded of several waterways the correct combination of summit points.

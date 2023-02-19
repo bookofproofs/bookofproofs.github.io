@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Antoine Deparcieux** was a French mathematician who is best known for an early work on annuities and mortality.
 
 ### Mathematical Profile (Excerpt):
-* It was a poor family, Antoine's father being a farm worker.
-* Sadly, before his twelfth birthday, Antoine became an orphan and his education and upbringing became the responsibility of his elder brother Pierre Deparcieux.
 * When Antoine was fifteen years old, Pierre sent him to study at the Jesuit College in Alès in southeastern France.
 * In Paris Deparcieux found that the financial support provided by Montcarville was not sufficient to allow him to study without a job.
 * In 1741 Deparcieux published Nouveaux traités de trigonométrie rectiligne et sphérique Ⓣ(A new treatment of rectilinear and spherical trigonometry) which consisted of tables of sins, tans, secs (calculated to seven decimal places), and log sins and log tans (calculated to eight decimal places).

@@ -23,23 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Paul Lévy** was a French mathematician who, after starting out as an expert on functional analysis, made important advances in probability theory.
 
 ### Mathematical Profile (Excerpt):
-* He was the son of Lucien Lévy (1853-1912) and Alice Flora Wolff (1856-1921).
 * Lucien Lévy had studied at the École Polytechnique from 1872 to 1877 and then had a career as a professor of mathematics, first at the lycée of Rennes and then in Paris, at the lycée Louis le Grand.
-* Lucien Lévy was the son of Edouard Lévy (1822-1900) and Hortense Breinlé Cahen (1832-1909).
-* Edouard Lévy, Paul's paternal grandfather, had graduated from the École Normale Supérieure in 1843 and also had a career as a professor of mathematics.
-* Paul's mother, Alice Flora Wolff, was the daughter of Samuel Wolff (1827-1913), Inspector General of the Ponts et Chaussées, and Fanny Goudchaux (1835-1888).
 * Paul attended three lycées in Paris, the lycée Montaigne from 1895 to 1898, the lycée Louis le Grand from 1898 to 1902 and the lycée Saint Louis from 1902 to 1904.
 * At the lycée Montaigne, Lévy was taught literature and arts subjects and was certainly not the best student in his class, having three brilliant fellow-students, Jacques Massigli, Pierre Lachièze and Marc Bloch, who took the top three places.
 * Émile Mâle was the professor of rhetoric at the lycée Louis le Grand when Lévy began studying there later in 1898.
 * It was mathematics that fired Lévy's passion at the lycée Louis le Grand.
-* To prepare for entry to the Grands Écoles, Lévy's father moved him from the lycée Louis le Grand to the lycée Saint Louis for his two final years of schooling.
 * In his final year at the lycée Saint Louis, 1903-04, Lévy was taught by Émile Blutel (1862-1932).
 * Lévy was placed first for entry to the École Normale Supérieur and second for entry to the École Polytechnique in the Concours d'entrée for the two institutions.
 * After graduating in first place, Lévy took a year doing military service before studying for an engineering degree at the École des Mines in 1907.
 * As he explains, it was Hadamard who was the major influence in determining the topics on which Lévy would undertake research.
-* In 1913 Lévy married Suzanne Lévy (1892-1973), a daughter of the merchant Paul Lévy (1853-1903) and Berthe Weil (1862-1930).
-* Paul and Suzanne Lévy had three children, Marie-Hélène (born November 1913), Denise (born 3 October 1916) and Jean Claude (born 10 April 1918).
-* Marie-Hélène Lévy became a mathematician; she married Laurent Schwartz, taking the name Marie-Hélène Schwartz, and has a biography in this Archive.
 * Lévy undertook military service and was asked to use his mathematical skills in the war effort.
 * George Humbert, who had taught at the École Polytechnique from 1895, was one of the professors when Lévy was a tutor but he became seriously ill and he asked Lévy to substitute for him and take over part of his teaching commitments for session 1918-19.
 * Humbert's poor health led him to resign and Lévy became a full professor of analysis at the École Polytechnique in 1920.

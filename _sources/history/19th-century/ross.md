@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Edward Ross** studied at Edinburgh and Cambridge universities. After working with Karl Pearson in London he was appointed Professor of Mathematics at the Christian College in Madras India. Ill health forced him to retire back to Scotland.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Ann Ross (born in Dundee about 1841) who was a school teacher.
-* Edward had two older sisters, Marjory (born about 1870) and Hannah (born about 1875).
-* Edward Ross was six years old when his father died and at this time his mother moved from Maud, Aberdeenshire, to Edinburgh where he continued his schooling.
 * Educated at George Watson's School in Edinburgh, Ross was dux of the school in 1898, matriculating at the University of Edinburgh in October of that year.
 * After graduating Ross went to Cambridge, beginning his studies in October 1902.
 * The mathematics scholarship was divided between Edward Burns Ross, M.A., Edinburgh University, and Peter Fraser, M.A., Aberdeen University.

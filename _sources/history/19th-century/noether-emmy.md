@@ -25,21 +25,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Both Emmy's parents were of Jewish origin and the reader may be surprised at this since Noether is not a Jewish name.
 * We should explain, therefore, how this came about and, at the same time, give some information on Emmy Noether's ancestors.
-* Max Noether's paternal grandfather was Elias Samuel, the founder of a business in Bruchsal.
-* Although the family name was chosen to be Nöther by Max's grandfather, Max and his family always used the form Noether (except on Max's wedding certificate where the form Nöther appears).
-* Emmy was the eldest of her parents' four children, the three younger children being boys.
 * Alfred Noether (1883-1918) studied chemistry and was awarded a doctorate from Erlangen in 1909.
 * Fritz Noether (1884-1941) became an applied mathematician.
 * Gustav Robert Noether (1889-1928) had bad health all his life.
 * The first school that Emmy attended was on Fahrstrasse.
-* Her teachers and classmates knew Emmy as a clever, friendly, and likeable child.
 * After elementary school, Emmy Noether attended the Städtische Höhere Töchter Schule on Friedrichstrasse in Erlangen from 1889 until 1897.
 * However Noether never became a language teacher.
 * Noether obtained permission to sit in on courses at the University of Erlangen during 1900 to 1902.
 * On 24 October 1904 Noether matriculated at Erlangen where she now studied only mathematics.
 * Noether's doctoral thesis followed this constructive approach of Gordan and listed systems of 331 covariant forms.
 * her dissertation of 1908 with Gordan pursued a huge calculation that had stumped Gordan forty years before and which Noether could not complete either.
-* However this route was not open to women so Noether remained at Erlangen, helping her father who, particularly because of his own disabilities, was grateful for his daughter's help.
 * Noether also worked on her own research, in particular she was influenced by Ernst Fischer who had succeeded Gordan to the chair of mathematics when he retired in 1911.
 * Fischer's influence took Noether towards Hilbert's abstract approach to the subject and away from the constructive approach of Gordan.
 * Noether's reputation grew quickly as her publications appeared.
@@ -47,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The second problem Emmy investigated was a problem from special relativity.
 * This result in theoretical physics is sometimes referred to as Noether's Theorem, and proves a relationship between symmetries in physics and conservation principles.
 * This basic result in the theory of relativity was praised by Einstein in a letter to Hilbert when he referred to Noether's penetrating mathematical thinking.
-* In later years Emmy Noether took no part in matters political.
 * In a long battle with the university authorities to allow Noether to obtain her habilitation there were many setbacks and it was not until 1919 that permission was granted and she was given the position of Privatdozent.
 * During this time Hilbert had allowed Noether to lecture by advertising her courses under his own name.
 * At Göttingen, after 1919, Noether moved away from invariant theory to work on ideal theory, producing an abstract theory which helped develop ring theory into a major mathematical topic.

@@ -23,14 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Zariski**'s work was on foundations of algebraic geometry using algebraic methods. He worked on the theory of normal varieties, local uniformisation and the reduction of singularities of algebraic varieties.
 
 ### Mathematical Profile (Excerpt):
-* Oscar, born into this Jewish family, was named Ascher Zaritsky by his parents.
 * We will comment below on how his name came to be changed to the now familiar version of Oscar Zariski.
-* Oscar's mother was the one who ensured that her young son had a good education.
 * A tutor was provided for Oscar from the time he was seven years old and Oscar, under the guidance of the tutor, showed remarkable aptitude for the Russian language and for arithmetic.
 * However Zariski had carried out his studies through a period of turmoil in Kiev.
 * Life for Zariski was just too difficult in this city so devastated by war, so he decided to go to Italy to continue his studies.
 * In Rome Zariski came under the influence of the great algebraic geometers Castelnuovo, Enriques and Severi.
-* Zariski married in 1924; having met his future wife Yole Cagli in Rome they returned to Zariski's home town of Kobin to marry.
 * It was while Zariski was in Rome that Enriques suggested that Ascher Zaritsky, as he was then called, change his name to the Italian sounding Oscar Zariski.
 * Zariski had gone to Italy to escape the problems in Belarus and the Ukraine.
 * The Fascist hatred of Jews made life for Zariski, because of his Jewish background, particularly difficult.

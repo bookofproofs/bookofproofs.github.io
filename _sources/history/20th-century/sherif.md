@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * The procession of exceptional women in the U.A.R., the end of which is nowhere in sight, is proud to count among its participants Dr Soraya Sherif, whose career gives evidence that the time when women were second-class citizens, sitting at home, has long gone.
 * Dr Soraya Sherif excels in a field in which few men rarely succeed, in a domain from which most people shy away, one which requires close-to-genius intelligence - pure mathematics.
-* Soraya Sherif comes from a family of eight children, four girls and four boys, most of whom are university students at the Faculties of Engineering and Commerce.
 * On completion of her secondary school education, Soraya Sherif enrolled at the Women's College of Ain Shams University, in the Mathematics Section.
 * Soraya applied for, and won, the scholarship.
 * From Nottingham, she went to Selly Oak, where, after staying for two years and three months at Birmingham University she received her Ph.D. In January 1963 Dr Soraya Sherif returned to the UAR, armed with her diplomas.
@@ -34,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * During her university days in England, Dr Soraya Sherif also pursued other interests.
 * At Birmingham, the Arab students, upon the initiative and the direction of Dr Soraya Sherif, sponsored an exhibition, with photographs, to show the major projects of the UAR, such as the High Dam, the new factories, land reclamation projects, Suez Canal development for the improvement of navigation.
 * With the assistance of the UAR Embassy in London, Dr Soraya Sherif and the Arab Society were also able to put on display pharaonic statuettes and products typical of Khan El Khalili.
-* In the UAR, Dr Soraya Sherif takes an active part in the political life of the country.
 * Asked about international conferences, Dr Soraya Sherif said that participation in conferences is the best means for mutual exchange of ideas and experiences with foreign colleagues, and for opening new horizons for our scientists in particular and the country in general.
 * Soraya Sherif was awarded a Ph.D. from the University of Birmingham in 1963 for her thesis Tauberian theorems.
 * We now list the fifteen papers by Soraya Sherif that we have found.

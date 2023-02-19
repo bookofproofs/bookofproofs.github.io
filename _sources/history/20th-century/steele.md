@@ -26,10 +26,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Catherine Steele began her primary schooling at West Calder at the age of five.
 * Steele was awarded a Commonwealth Fellowship to allow her to travel to the United States to continue with her research in chemistry.
 * After three years in the United States, Steele returned to Britain, taking up a post at the Horticultural College, Swanley, Kent.
-* In 1934 Steele married Louis Bock.
 * Dr Steele a Ph.D. of St Andrews, met Dr Bock while she was in America lecturing and doing chemistry research work under the Commonwealth Fellowship.
 * John Begg, Skelmorlie, Ayrshire, and Mr Robert B D Steele, a student, acted as groomsman.
-* The bridesmaids were Misses Effie and Maisie Steele, sisters of the bride.
 * In USA on 27 February 1942, to Dr and Mrs Louis Bock (Catherine C Steele), Boyd Road, Huntington Valley, Pennsylvania, a son.
 
 Born 17 September 1903, West Calder, West Lothian, Scotland. Died 3 December 1995, Lacy, Washington, USA.

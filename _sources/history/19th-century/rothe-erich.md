@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Erich Hans Rothe** was a German mathematician who worked in the field of analysis.
 
 ### Mathematical Profile (Excerpt):
-* His father, Dr Rothe, was a lawyer and the family were Jewish.
 * Rothe survived the battle but he was wounded and eventually discharged from the German Army in December 1918.
 * He did not return to the University of Munich but instead, in 1919, enrolled at the Technischen Hochschule in Berlin-Charlottenburg where he studied for one semester attending lectures by Rudolf Ernst Rothe (1873-1942).
 * Rothe took the examinations to become a Gymnasium teacher in 1923 and, from then until 1926, he was a student teacher at the Mommsen-Gymnasium in Berlin-Charlottenburg.
@@ -41,15 +40,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * During his time in these positions in Breslau, Rothe took study leave for a year which he spent at the University of Göttingen.
 * After publishing the paper based on his thesis, Rothe published: Ein Beitrag zum Cauchysehen Problem Ⓣ(A Contribution to the Cauchy problem) (1928); Über die Approximation stetiger Funktionen durch Eigenfunktionen elliptischer Differentialgleichungen Ⓣ(On the approximation of continuous functions by the eigenfunctions of elliptic differential equations) (1929); Zweidimensionale parabolische Randwertaufgaben als Grenzfall eindimensionaler Randwertaufgaben Ⓣ(Two-dimensional parabolic boundary value problems as a limiting case of one-dimensional boundary value problems) (1930); Über die Wärmeleitungsgleichung mit nicht-konstante Koeffizienten im räumlichen Falle Ⓣ(On the heat equation with non-constant coefficients in the spatial case) (1931); Über die Grundlösung bei parabolischen Gleichungen Ⓣ(Regarding the basic solution at parabolic equations) (1931); Über lineare elliptische Differentialgleichungen zweiter Ordung, deren zugeordnete Massestimmung von Konstanter Krummung ist Ⓣ(On nonlinear elliptic differential equations second order, whose associated mass mood of Constant Curvature) (1931); and Über eine Verallgemeinerung der Besselschen Funktionen  Ⓣ(On a generalization of Bessel functions) (1932).
 * On 15 April 1931, Erich and Hildegard Rothe had a son, Erhard William Rothe, who was born in Breslau.
-* During their years in Breslau both Rothe and his wife reviewed many mathematical papers.
 * We have found around 800 reviews by Rothe and around 170 by his wife.
 * Gábor Szegő was the professor at Königsberg and, like Rothe, was Jewish and had served in World War I.
 * While still in Königsberg, Szegő wrote to Richard Brauer who was in Princeton asking him if he could help Rothe emigrate to the United States.
 * Brauer talked to Oswald Veblen who suggested that Rothe might be better trying to emigrate to the Soviet Union.
 * Because of his Jewish background, Rothe was dismissed from his positions in 1935.
 * My first encounter with Rothe was at the Zurcher Kolloquium, where he lectured on his new research on mapping degree and its applications.
-* Later in 1937 Rothe and his family emigrated to the United States.
-* He worked at William Penn College from 1937 until 1943 but, during these years, tragedy struck when his wife Hildegard Rothe-Ille died from cancer in December 1942.
 * In 1944 Rothe came to Ann Arbor to begin a long period of brilliant service to the University of Michigan as teacher and scholar.
 * In 1964, having reached the age of 69, Rothe retired from his professorship at the University of Michigan.
 * Retirement certainly did not mean that Rothe stopped undertaking research into mathematics.

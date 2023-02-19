@@ -23,16 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Derrick H Lehmer** was an American mathematician who worked in number theory and in particular generalised Lucas's test for Mersenne primes.
 
 ### Mathematical Profile (Excerpt):
-* His parents were Clara Eunice Mitchell and Derrick Norman Lehmer (often called DNL to distinguish him from his son DHL, or as we noted Dick).
-* Emma would soon become Dick's wife and Dick and Emma Lehmer would become one of the most famous husband and wife mathematics teams.
 * In 1927 Lehmer graduated from Berkeley with a B.A. degree in Physics and he went to the University of Chicago to undertake research for his doctorate in mathematics with L E Dickson as his supervisor.
-* In the following year Emma Trotskaia graduated with a B.A. degree with honours in Mathematics and, just prior to her taking her final examinations, Dick and Emma Lehmer were married.
 * Lehmer was awarded his Master's Degree in 1929 and his doctorate, also from Brown University, in 1930.
 * Lehmer's life over the next few years involved moving from place to place hoping for a permanent university post in the particularly difficult times of the Great Depression.
 * After receiving his doctorate, Lehmer was awarded a National Research Fellowship and with this he spent 1930-31 at the California Institute of Technology and then 1931-32 at Stanford.
 * After a spell at the Institute for Advanced Study at Princeton, where he held a second Fellowship, Lehmer moved to a more permanent post at Lehigh University in Pennsylvania.
-* Lehmer and his wife remained at Lehigh until 1940 except for the year 1938-39 which they spent in England visiting both the University of Cambridge and the University of Manchester.
-* It was the job he always wanted and it was a great joy to Lehmer and his family to return home.
 * The Lehmers spent 1945-46 at the Aberdeen Proving Ground where Lehmer's task was to help set up and operate the ENIAC (Electronic Numerical Integrator and Calculator) computer.
 * Nineteen faculty members of the University of California refused; Lehmer was one such faculty member.
 * The assumption was that anyone who would not sign the oath must be a communist sympathiser and must be sacked, so Lehmer, as one of those who refused, lost his position.

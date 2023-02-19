@@ -23,11 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Wilhelm Fiedler** was a German mathematician, known for his textbooks of geometry and for his contributions to descriptive geometry.
 
 ### Mathematical Profile (Excerpt):
-* The family were poor and young Wilhelm grew up in his father's workshop where he learnt to have persistence, to be hardworking, energetic and loyal, to always live frugally and have a thirst for knowledge.
-* On one occasion his father was told by the doctor that young Wilhelm would not live but his parents would not give up and nursed him back to health.
 * He realised that Wilhelm took a keen interest in the pictures and showed considerable drawing abilities.
 * Fiedler quickly showed his talents and progressed to the top of the class.
-* Caspary talked to Fiedler's father and persuaded him to accept support to allow his son to continue his education.
 * Caspary himself began to teach Fiedler but discovered that despite his drawing abilities, he was passionate about mathematics.
 * Fiedler was always very grateful for the help and inspiration he received from Caspary.
 * Fiedler now made an ink drawing of Leonardo da Vinci's 'Last Supper' and the money he made by selling it, and other works, helped him continue with his education.
@@ -48,19 +45,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1858 Fiedler submitted his thesis Die Zentralprojektion als geometrische Wissenschaft Ⓣ(The central projection as geometric science) to August Möbius at the University of Leipzig who recommended that Fiedler be awarded a doctorate.
 * It is interesting to note that Fiedler's thesis was much influenced by his knowledge of art and he gives a purely geometric description of perspective in his doctoral dissertation.
 * At this time, Fiedler continued to teach at the Gewerbeschule in Chemnitz.
-* In 1860 Fiedler married Lina Elise Springer from Neukirchen, the daughter of Albert Springer, a merchant, but brought up by Ernst Iselin Clauss, a manufacturer who owned a factory in Chemnitz.
-* Wilhelm and Elise Fiedler had seven children, the eldest, Ernst Fiedler, became a mathematician and has a biography in this archive.
 * Another of their sons, Alfred Fiedler (1863-1894), lectured on zoology at the University of Zürich.
 * Fiedler read George Salmon's 1855 A Treatise on Conic Sections containing an Account of Some of the Most Important Modern Algebraic and Geometric Methods.
 * The first edition of Fiedler's translation, with title Analytische Geometrie der Kegelschnitte mit besonderer Berücksichtigung der neueren Methoden Ⓣ(Analytical geometry of conic sections with special emphasis on newer methods), was published in 1860 but Fiedler went on to bring out a total of seven editions each of contains material which he added to bring the work up to date.
 * For example the second edition, published in 1866, is described by Fiedler as "second revised and modernised edition".
 * In 1862 Fiedler published Die Elemente der neueren Geometrie und die Algebra der binären Formen: Ein Beitrag zur Einführung in die Algebra der linearen Transformationen Ⓣ(The elements of modern geometry and the algebra of binary forms: A Contribution to the introduction to the algebra of linear transformations).
 * Salmon's A Treatise on the Analytic Geometry of Three Dimensions (1862) was translated by Fiedler and was published in two volumes, the first under the title Analytische Geometrie des Raumes.
-* The Fiedler family moved to Prague in 1864 when he was appointed as professor of descriptive geometry at the Technical University there.
 * Fiedler supported Otto von Bismarck who led the Prussian side but these were difficult times with the population of Prague split as to who they supported.
 * Fiedler spent only three years in Prague before he was appointed in 1867 to fill the chair of descriptive geometry at the Polytechnic in Zürich, which had become vacant following the death of Josef Wolfgang von Deschwanden (1819-1866).
 * The President of the Swiss School Board had visited Fiedler in Prague in the winter of 1866-67 to complete the final negotiations for his move to Zürich but these proved quite difficult and lengthy as Fiedler was unhappy with the time allocated to the teaching of descriptive geometry in the Polytechnic.
-* Once he had secured sufficient time to teach his subject, Fiedler was keen to move, attracted by the independence and political freedom of Switzerland as well as its artistic sense and the beautiful location of the city.
 * It was a book of descriptive geometry by Wilhelm Fiedler (1832-1912).
 * It was certainly appropriate to have Fiedler's book alongside Cremona's 'Projective Geometry' in the parallel course of descriptive geometry at the Technical Institutes.
 * According to Fiedler, the main scope of the teaching of descriptive geometry is the scientific construction and development of "Raumanschauung".

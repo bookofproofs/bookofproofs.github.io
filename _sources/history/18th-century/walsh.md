@@ -24,10 +24,8 @@ contributors: @George-Boole,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * John Walsh was born at Shandrum, on the border of the County of Limerick, probably about the year 1786.
-* Of his mother, Mr Walsh always spoke with great affection, attributing to her influence his first love of letters.
 * He also held in kind remembrance one of his early school-fellows, John Harding, to whom in later life he dedicated a little tract on The General Principles of the Theory of Sound.
 * When about 28 years of age, John Walsh, in company with Harding, removed to Cork.
-* Walsh, who wrote a fine hand, an accomplishment which he stated that he owed to his mother's instruction, obtained employment as a teacher of writing in ladies' schools.
 * Mr Walsh is said to have been a careful and diligent writing-master, and to have succeeded in making his pupils in arithmetic understand and like the subject.
 * However this may have been, Mr Walsh was for a series of years engaged in a constant endeavour to induce the principal learned societies of Europe to print his communications.
 * The titles of some of Mr Walsh's papers will serve to throw light on the particular objects which he had in view.
@@ -40,7 +38,6 @@ contributors: @George-Boole,bookofproofs
 * Mr Walsh continued to pursue his avocation as a writing-master in Cork until the year 1845, when a paralytic seizure threw him almost helpless upon the charity of those who had known him in better days.
 * Observe the admirable candour of the admission 'at least in my hands' with which poor Walsh is forced to qualify his harmless boast of the triumphs of his system.
 * The remainder of poor Walsh's story is soon told.
-* After remaining without benefit for some time in the North Infirmary, he was received into the house of a brother, the Rev M Walsh, parish priest of Sneem in the County of Kerry.
 * It was at the commencement of an awful period that John Walsh sought an asylum in the Cork Union.
 * At the time of Mr Walsh's admission, the Union house built for the accommodation of 2,000 persons was already crowded.
 * Amid this scene of national woe and calamity in the famine year of 1847, poor Walsh breathed his last.

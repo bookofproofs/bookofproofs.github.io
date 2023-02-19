@@ -24,17 +24,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Edwin Edward worked for a firm making machinery.
-* Edwin, the subject of this biography, was the fourth of his parents' children having three older sisters.
-* Edwin's mother quickly realised that her son had a remarkable ability to retain information - she called him "that piece of blotting paper" - and although the family did not possess many books, Edwin loved to read books that he borrowed from his Sunday School teacher.
 * Pitman's early education was at Kensington State School, and from there he progressed to South Melbourne College.
 * Even so, Edwin was dissatisfied with the course, believing that, although it was advanced it was not rigorous enough.
 * One was the New Zealander D K Pieken, who taught Pitman a rigorous understanding of the number systems.
 * Pitman graduated with a B.A. with First Class Honours in Mathematics in 1921 and a B.Sc., mainly involving physics, in 1922.
 * The student, R A Scott, asked him to check that his analysis was correct before it sent it to John Wishart in Cambridge, which Pitman did.
 * Not only did this mark the start of Pitman's collaboration with Scott and the State Department of Agriculture, but Scott also showed him a copy of R A Fisher's Statistical Methods for Research Workers.
-* They had four children: Jane, Mary, Edwin Arthur (Ted), and James (Jim).
 * Pitman had no thoughts of publishing research articles at this stage in his career.
-* The family sailed to the United States in January 1948 where Pitman, for the first time, gave and attended research seminars.
 * This was only the first of several visits Pitman made to the United States.
 * In fact most of these visits were made after Pitman retired, which was in 1962 when he reached the age of sixty-five.
 * In 1979, Pitman published a book entitled Some basic theory for statistical inference.

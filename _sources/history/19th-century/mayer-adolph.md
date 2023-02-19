@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Christian Adolph Mayer** was a German mathematician who worked on differential equations, the calculus of variations and mechanics.
 
 ### Mathematical Profile (Excerpt):
-* In fact the Mayer family had lived in Leipzig for several generations having emigrated from St Gallen in the seventeenth century.
-* Christian Adolph Mayer was a family name given to the eldest son of each generation, so Adolph Mayer's paternal grandfather was also named Christian Adolph Mayer (1775-1843) and was also a banker in Leipzig.
-* Christian Mayer's mother was Agnes Frege (1809-45), the daughter of Christian Gottlob Frege (1780-1821), a banker and financial advisor, and Johanna Henriette Rode.
 * Mayer studied at the Thomas Gymnasium in Leipzig, completing his studies in the autumn of 1857.
 * After the year, Mayer returned to the University of Heidelberg where he was fascinated by the lectures of Otto Hesse, and, after spending one semester at Leipzig, he completed his doctorate at Heidelberg with the degree being awarded on 14 December 1861.
 * Following the award of his doctorate, Mayer went to Königsberg in 1862 where he worked under Friedrich Julius Richelot (1808-1875), a student of Jacobi, and Franz Neumann who was a student of Richelot.
@@ -33,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Another student at Königsberg, also working on his habilitation thesis, was Heinrich Weber; he and Mayer became close friends.
 * Mayer remained at Königsberg until 1865, then he returned to his home town of Leipzig and submitted his habilitation thesis Beiträge zur Theorie der Maxima und Minima einfacher Integrale Ⓣ(Contributions to the theory of maxima and minima of simple integrals) to that university and gained the right to teach at universities in December 1866.
 * In the Mathematical Exercises, to which he devoted much time and energy, Mayer took great care that the tasks he set were actually solved using established or derived principles and not with ad hoc tricks which achieved the goal in a roundabout way.
-* Adolph and Margerete Mayer had four children, the eldest boy being named Christian Adolph Mayer (1874-1946) in the family tradition and he also followed the family tradition by becoming a banker.
 * Mayer was promoted to an honorary ordinary professorship in 1881 and a full ordinary professorship in 1890.
 * Mayer volunteered to serve his country and was a nurse for the duration of the conflict.
 * Mayer worked on differential equations, the calculus of variations and mechanics.

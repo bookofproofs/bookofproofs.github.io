@@ -28,8 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Henri was brought up in Guéret where he attended the Collège de Guéret.
 * Delannoy saw action in 1859 in the Second Italian War of Independence.
 * Delannoy was with this French army and took part in the decisive Battle of Solferino on 24 June which proved to be a tactical victory for the French-Piedmontese forces but at a high cost in terms of soldiers lost and wounded.
-* Delannoy survived unscathed and, after spending time stationed in Brescia and on Lake Garda, returned to Guéret where he married Olympe-Marguerite Guillon, daughter of the chemist Antoine Guillon, on 10 November 1859; they had two daughters and one son.
-* In 1876 Delannoy's wife died after being severely burnt in a tragic accident in her own kitchen.
 * We have not mentioned any mathematical activity by Delannoy, except as part of his schooling, up to this point and this is actually an accurate picture of his involvement in mathematics.
 * However, Delannoy decided that he wanted to retire from the army and pursue his interests in mathematics and also his interests as a historian.
 * The first paper by Delannoy, mentioned above, literally means 'Using a chessboard to solve arithmetical problems' but it would be much more understandable if we translated 'échiquier' as 'array' for indeed this is what Delannoy uses.

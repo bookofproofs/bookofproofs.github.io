@@ -23,14 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James Stirling** was a Scottish mathematician whose most important work _Methodus Differentialis _ in 1730 is a treatise on infinite series, summation, interpolation and quadrature.
 
 ### Mathematical Profile (Excerpt):
-* James was their third son and he was born on the family estate at Garden, about 20 km west of the Scottish town of Stirling.
-* The family were strong supporters of the Jacobite cause and this was to have a significant influence on James Stirling's life.
-* They did, however, offer an alternative to the British crown with an exiled court in France which had strong support from many such as the Stirling family.
-* When James Stirling was about 17 his father was arrested, imprisoned and accused of high treason because of his Jacobite sympathies.
-* Nothing is known of Stirling's childhood or indeed about his undergraduate years in Scotland.
 * Indeed Stirling matriculated at Balliol College Oxford on 18 January 1711 as a Snell Exhibitioner.
 * Stirling's name does not appear in the list of students matriculating at Glasgow (not all student's names occur so this is not very significant).
-* Another fact, which is not insignificant, is that Stirling's father was a graduate of Edinburgh.
 * It would be nice to solve this and many other puzzles associated with Stirling's life but they may always remain as puzzles.
 * Stirling was awarded a second scholarship in October 1711, namely the Bishop Warner Exhibition.
 * However the concession of allowing Stirling not to swear the oath was withdrawn.

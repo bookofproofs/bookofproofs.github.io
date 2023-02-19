@@ -32,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@Osvaldo-de-Oliveira-Duarte,@M-Frank,
 * In addition of being an outstanding mathematician, Hopf had the ability to illuminate the most complex subjects for his colleagues and even for non specialists.
 * Because of this talent many discoveries and demonstrations of other mathematicians became easier to understand when described by Hopf.
 * In 1936, at the end of the MIT contract, Hopf received an offer of full professorship in the University of Leipzig.
-* As a result of this Hopf, with his wife Ilse, returned to Germany which, by this time, was already being ruled by the Nazi party.
 * In Leipzig Hopf undertook research on quantic mechanics (1937), Geodesics on manifolds of negative curvature (1939), Statistik der geod (1939) and on the influence of curvature of a closed Riemannian manifold on its topology (1941).
 * One important event from this period was the publication of the book Ergodentheorie Ⓣ(Ergodic theory) (1937), most of which was written when Hopf was still at the Massachusetts Institute of Technology.
 * In that book containing only 81 pages, Hopf made a precise and elegant summary of ergodic theory.

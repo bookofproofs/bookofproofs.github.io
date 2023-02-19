@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Tibor Szele** was a  Hungarian mathematician who worked in combinatorics and abstract algebra.
 
 ### Mathematical Profile (Excerpt):
-* Tibor was his parents' only child and they lavished great care on him as he grew up.
-* Now since the 16th  century Debrecen had been a stronghold of the Hungarian Reformed Church and, certainly in Szele's day, was known as "the Calvinist Rome." In common with many Hungarian school children with mathematical talents at this time, he entered the mathematics competitions organised by KöMal, the Középiskolai Matematikai és Fizikai Lapok (High School Mathematics and Physics Journal).
 * In 1934, when he was sixteen years old, Szele won first prize in the KöMal competition.
 * Szele entered the 1936 Eötvös Competition, in the year he graduated from the Debrecen Reformed Church Gymnasium.
 * Despite this great success in mathematics, Szele did not enrol for a degree in mathematics at university but rather began to study mechanical engineering at the Technical University of Budapest.

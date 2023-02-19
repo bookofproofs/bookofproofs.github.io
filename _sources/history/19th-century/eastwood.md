@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **George Eastwood** attended the University of London. He taught at Arbroath High School and Beath Secondary School in Cowdenbeath.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Jane Eastwood (born in Warley, Yorkshire about 1842).
 * George Eastwood attended the University of London.
 
 Born 1878, Midgley, Yorkshire, England. Died 27 November 1953, Cowdenbeath, Fife, Scotland.

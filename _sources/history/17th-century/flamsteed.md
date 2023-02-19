@@ -23,15 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Flamsteed** was an English astronomer who published accurate astronomical observations and was the first Astronomer Royal.
 
 ### Mathematical Profile (Excerpt):
-* Flamsteed's mother however died when he was still a child and this affected his upbringing.
-* Flamsteed attended Derby free school which prepared children for a university education.
 * However life did not go smoothly for Flamsteed who, at the age of 14, developed severe health problems.
 * Flamsteed was extremely disappointed but he did not let it prevent him from studying.
 * Between 1662 and 1669 Flamsteed studied astronomy on his own without the help of teachers.
-* In fact he does not seem to have missed the formal teaching but his father continued to oppose his studies and this made far more difficulties for Flamsteed than the fact that he could not attend lectures.
-* Flamsteed's father always maintained that it was because of his son's ill health that he opposed his studying but Flamsteed, in his correspondence in later life, suggested that his father may have had other motives.
-* Since Flamsteed's mother had died when he was young, Flamsteed was useful to his father as someone to look after the home.
-* Whether or not this was his father's motive, certainly Flamsteed felt bitterness towards his father.
 * Flamsteed began systematic observations in 1671.
 * He also began corresponding with Henry Oldenburg and John Collins.
 * These two arranged for Flamsteed to meet Jonas Moore during a visit Flamsteed made to the Royal Society in London in 1670.

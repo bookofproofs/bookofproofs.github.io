@@ -23,13 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jacques Feldbau** was a French mathematician who worked on differential geometry and topology.
 
 ### Mathematical Profile (Excerpt):
-* His father was Hermann (or Armand) Feldbau whose family originated in Poland.
 * Armand Feldbau was a wholesale distributor of butter, eggs and cheese having a business in the Rue Hannong, Strasbourg.
-* Jacques' mother was Dorothée (or Dora) Gittler and the family home was 16 Rue du 22 Novembre, just round the corner from where Armand had his business.
-* Jacques had a sister Jeannette, who had been born on 30 August 1916.
 * Jacques and Janette were very close as they were growing up.
-* Let us note that, although Jacques Feldbau is considered to be a French mathematician, in fact the family were German speaking and German was Jacques' first language.
-* The family moved from Rue du 22 Novembre to 8 Rue des Pontonniers as Jacques was growing up and this reflects the fact that they were well-off and living a comfortable life.
 * This Strasbourg address would remain Feldbau's home address for the rest of his life.
 * On 1 October 1920 Feldbau began his primary school education in the Gymnasium Fustel de Coulanges.
 * Feldbau remained at this school until 10 July 1925.

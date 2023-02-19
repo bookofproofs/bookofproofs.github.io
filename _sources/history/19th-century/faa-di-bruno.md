@@ -23,30 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Faa di Bruno** is best known for his formula for the _n_th derivative of a composition of functions. He was beatified in 1988
 
 ### Mathematical Profile (Excerpt):
-* Francesco was the youngest of his parents' twelve children and he had seven sisters and four brothers.
-* His father was a wealthy landowner with several titles such as Marquis of Bruno, Count of Carentino, Lord of Fontanile, and Patrizio of Alessandria.
 * The village of Bruno is about 18 km south west of Alessandria, a major city roughly equidistant from Turin, Milan and Genoa.
-* Francesco's mother, Carolina, was from a noble family from Milan.
-* Although he is always known as Francesco, the full name of the subject of this biography was Francesco da Paola Virgilio Secondo Maria Faà di Bruno.
-* One of Francesco's brothers, Giuseppe Maria Faà di Bruno, built the church of St Peter in Hatton Garden, London, the most important church for Italian immigrants.
-* Another of Francesco's brothers, Emilio, served in the army and was killed in the Battle of Lissa in 1866.
-* Two of Francesco's sisters became nuns.
-* When Francesco was nine years old, his mother died.
 * The revolutions which broke out across Europe in 1848 led to the First Italian War of Independence in which Faà di Bruno participated in the Piedmontese Brigata Guardie commanded by Vittorio Emanuele.
 * For six weeks the Brigata Guardie attacked the Austrians at Peschiera del Garda and were victorious on 30 May 1848.
 * Faà di Bruno's main task during these months was to draw up maps and he produced his major map of the Mincio area.
 * He undertook his duties with great enthusiasm, realising that the generals commanding the Piedmontese armies did not have recent accurate maps of the Lombardo-Veneto region.
 * Faà di Bruno's horse was killed by Austrian rifle fire, so he mounted another horse only to have that killed too.
-* Charles Albert, the King of Sardinia, resigned following the defeat at Novara and his son Vittorio Emanuele became King of Sardinia.
 * He had two young sons and, realising Faà di Bruno was both an extraordinary person and an exceptional scholar, he asked him to tutor his two young sons.
 * However, Faà di Bruno was known as a devout Catholic and the King immediately came under pressure to appoint a secular tutor for his sons.
-* Vittorio Emanuele decided that, for political reasons, he had to withdraw his offer to Faà di Bruno which he did.
 * Then Faà di Bruno asked permission to leave the army and take up the study of mathematics.
 * At the Sorbonne Faà di Bruno was in the same classes as Charles Hermite and the two became close friends.
 * However, his time in Paris was not all spent on academic studies for he also assisted in the parish of Saint Sulpice and visited the homes of the poor.
 * While in Paris he began publishing mathematical papers: Note sur un nouveau procédé pour reconnaître immédiatment, dans certains cas, l'existence de racines imaginaires dans une équation numérique Ⓣ(Note on a new method for recognizing immediately, in some cases, the existence of imaginary roots in a numerical equation.) (1850); Démonstration d'un théorème de M Sylvester, relatif à la décomposition d'un produit de deux déterminants Ⓣ(Demonstration of Sylvester's theorem on the decomposition of a product of two determinants) (1851); and Démonstration d'un théorème relatif à la réduction des fonctions homogènes à deux lettres à leur forme canonique Ⓣ(Demonstration of a theorem on the reduction of homogeneous functions in two letters to their canonical form) (1852).
 * The Church of San Massimo, in Borgo Nuovo, was completed in June 1853 and, in the following year, Faà di Bruno set up a choral school for women in the church where they were trained every Sunday by Faà di Bruno who played the organ.
-* He now published papers in Italian such as Sullo stabilimento di un osservatorio magnetico e meteorologico in Torino Ⓣ(On the establishment of a magnetic and meteorological observatory in Turin) (1853), and Theorema di geometria Ⓣ(Theorems in geometry) (1853), and also continued to publish in French, for example Note sur un théorème de M Brioschi Ⓣ(Note on a theorem of Brioschi) (1854).
 * In May 1855 Faà di Bruno returned to Paris to undergo further training at the astronomical observatory at Brera.
 * The authorities in Turin promised him that, after he returned from Paris, he would be employed at the Observatory in Turin - a promise they did not keep.
 * However, in Paris Faà di Bruno studied astronomy under Urbain Le Verrier and also undertook research with Cauchy on mathematics.
@@ -68,10 +57,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Frequent epidemics, especially of typhus and cholera, were the result of poor hygiene and Faà di Bruno was able to set up wash rooms in the San Donato area.
 * But his charity work was not restricted to caring for the sick, for he was also passionate about providing educational opportunities for the young people from poor families.
 * In 1864 he set up classes providing training in home economics and, in 1866, he organised courses to train people to become elementary school teachers.
-* We mentioned above that Emilio Faà di Bruno, one of Francesco's brothers, served in the army and was killed in the Battle of Lissa in 1866.
-* Francesco began the building of the church of Nostra Signora del Suffragio in 1866, following the death of his brother.
 * Building the church took around three years and much of the architectural design was due to Faà di Bruno himself.
-* His experience as a soldier, and his brother's death, had greatly affected him and he held daily prayers in the church of Nostra Signora del Suffragio for the souls of all soldiers killed in wars.
 * Despite the many long hours he spent undertaking charity work, Faà di Bruno did not ignore his mathematical research.
 * This fame, however, did not lead to rapid promotion within the University of Turin.
 * The reason for this was the secular nature of the Italian Independence movement with discrimination against those active in the Church.

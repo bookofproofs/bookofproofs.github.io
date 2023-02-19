@@ -4,7 +4,7 @@ categories: history,20th-century
 parentid: bookofproofs$604
 tags: origin-ireland,women
 orderid: 1932
-title: Vernon, Siobhan O&amp;#x27;Shea
+title: Vernon, Siobhan O&amp;amp;#x27;Shea
 born: 1932
 died: 2002
 keywords: siobhán vernon,vernon
@@ -24,10 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Peter Vernon was a geologist, famed for his paper Drumlins and Pleistocene ice flow over the Ards Peninsula/Strangford Lough area, County Down, Ireland (1966).
-* For ten years while she was bringing up the children, Siobhán Vernon reduced her teaching to half-time but after this she returned to full-time teaching.
-* Under her married name of Siobhán Vernon, she published the three papers On power series with non-negative coefficients.
-* Both Siobhán Vernon and her husband Peter Vernon attended.
-* In the autumn of 2000 her daughter Maude Vernon graduated from Cork with a Bachelor of Business Studies.
 
 Born 24 February 1932, Macroom, County Cork, Ireland. Died 18 September 2002, Cork, Ireland.
 

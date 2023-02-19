@@ -28,7 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * it would be a brave historian indeed who saw Carslaw's 'little book' as being better than Hardy's tome, and a downright foolish one to claim it as more influential, nevertheless it did come first.
 * This was to be the main area of Carslaw's research throughout his life.
 * The fact that Jaeger himself collaborated with Carslaw on the Laplace transform work may explain why there are differing opinions here.
-* Carslaw married Ethel Maude Clarke from Rupertswood, Victoria, in 1907 but, sadly, she died within a year of their marriage.
 * Jaeger and Carslaw published Operational methods in applied mathematics in 1941.
 * No other advance has achieved such ready acceptance, and Carslaw and Jaeger's text can take a great deal of the credit.
 * In fact this text was published six years after Carslaw retired.

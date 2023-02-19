@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Archie Alexander** was an African-American mathematician and engineer. He became governor of the U.S. Virgin Islands.
 
 ### Mathematical Profile (Excerpt):
-* Archie was born into a African-American family that lived in an area of Ottumwa which was set aside for poor people, and of course this meant that he would not be expected to have an education.
 * It took the remarkable person that Archie was, together with strong support from his parents, to overcome these disadvantages, both from prejudice against someone of his race and against someone from a poor working class background, and go on to a life filled with achievements.
-* When Archie was eleven years old his family moved from Ottumwa to live on a small farm on the outskirts of Des Moines.
 * Alexander's parents were far too poor to be able to afford to send him to College to study further, yet Alexander was determined to continue his education.
 * To allow him to study at Highland Park College in Des Moines, Alexander took on some poorly paid part-time jobs and his parents also helped out as much as they could.
 * It is important to realise what an achievement it was for Alexander to enter the College of Engineering in Iowa City which was attached to the University of Iowa.

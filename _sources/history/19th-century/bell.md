@@ -25,15 +25,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * James was a fish-curer and fruit grower, a fact which E T Bell did not mention in his autobiographical writings.
 * Eric was the younger of his parents' two sons, the elder being James Redward Bell.
-* He also had a sister Enid Lyall Bell.
-* After the death of Bell's father on 4 January 1896, Eric returned to Britain with his mother, sister and older brother.
 * From 1898 Bell attended Bedford Modern School where excellent mathematics teaching gave him his life-long interest in the subject.
-* In 1902 Bell, but not the rest of his family, returned to the United States.
 * Bell realised that the boarding house he was living in was about to be destroyed by fire and, to save his precious books, he buried them in the garden.
 * This school, which had been established in 1893, was destroyed by fire in 1916, five years after Bell left.
 * In this work Bell further developed Eisenstein's extension of Gauss's determination of the regular polygons constructible with straight edge and compasses only.
-* Two years before he received his doctorate, at the end of 1910, Bell married Jessie Lillian Smith Brown who was a widow he had met at Yreka High School where she taught art and commercial subjects.
-* They had one son who they named Taine Temple Bell, born on 27 September 1917.
 * It was at the University of Washington that Bell gained a reputation as one of the leading mathematicians in the United States.
 * The American Mathematical Society awarded him their Bôcher Memorial Prize in 1924 for his memoir, Arithmetical paraphrases which had appeared in the Transactions of the American Mathematical Society in 1921.
 * In 1922 one of Bell's students began to show remarkable abilities, this student being Howard Percy Robertson.
@@ -60,10 +55,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In addition to popular and high-level books, Bell also wrote many papers in which he gave his strong, often provocative, views on many subjects.
 * the excuse, Bell himself once wrote, being that if these popular novels made money, some publishers might be interested in more serious books.
 * Given the remarkable mathematical output of Bell, it is amazing that he was able to write two or three science fiction books each year.
-* He was helped by his wife who typed and edited the books from Bell's manuscripts.
 * All these juicy horrors are described in such hair-raising detail and with such devilish pleasure that Bell's books almost all land in the can't-put-it-down class - even for some of Bell's squeamish academic colleagues who never meant to take them up at all.
 * Although Bell (as John Taine) was known as one of the leading science fiction writers of his day, these books have not become classics and are today little read.
 * Most people knew that Bell and Taine were the same man but the editor of the Pasadena Star-News decided to make a joke of it by asking John Taine to review E T Bell's 1934 book The Magic of Numbers.
+* with matchless wit and insight, Eric Temple Bell has made 'The Magic of Numbers'  ...
 * The Bell garden, in its heyday, was ablaze with flowers even at that time of year when the neighbors were trying to force up a couple of crocuses.
 * And even the Bell cats seemed somehow bigger and more prolific than most cats.
 * Bell spent the last year of his life in Watsonville hospital.

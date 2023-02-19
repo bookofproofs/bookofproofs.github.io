@@ -27,8 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Although Ionia had produced philosophers such as Pythagoras, up to the time of Anaxagoras this new study of knowledge had not spread to Athens.
 * Anaxagoras is famed as the first to introduce philosophy to the Athenians when he moved there in about 480 BC.
 * During Anaxagoras's stay in Athens, Pericles rose to power.
-* Pericles, who was about five years younger than Anaxagoras, was a military and political leader who was successful in both developing democracy and building an empire which made Athens the political and cultural centre of Greece.
-* Anaxagoras and Pericles became friends but this friendship had its drawbacks since Pericles' political opponents also set themselves against Anaxagoras.
 * In about 450 BC Anaxagoras was imprisoned for claiming that the Sun was not a god and that the Moon reflected the Sun's light.
 * Under this law they persecuted Anaxagoras, who was accused of teaching that the sun was a red-hot stone and the moon was earth.
 * We should examine this teaching of Anaxagoras about the sun more closely for, although it was used as a reason to put him in prison, it is a most remarkable teaching.
@@ -44,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He records information about the painting of stage scenes for the plays which were performed in Athens and says that Anaxagoras wrote a treatise on how to paint scenes so that some objects appeared to be in the foreground while other appeared in the background.
 * This fascinating comment must mean that Anaxagoras wrote a treatise on perspective, but sadly no such work survives.
 * Anaxagoras was saved from prison by Pericles but had to leave Athens.
-* Anaxagoras died there and the anniversary of his death became a holiday for schoolchildren.
 * Even if this story is fictitious, it is likely to be based on the way that Anaxagoras lived his life and so tells us something of the personality of this remarkable scientist who gave a description of the creation of the solar system that took 2000 years to improve upon.
 
 Born 499 BC, Clazomenae (30, km west of Izmir), Lydia (now Turkey). Died 428 BC, Lampsacus, Mysia (now Turkey).

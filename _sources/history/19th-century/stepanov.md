@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Vyacheslaw Stepanov** was a Russian mathematician who worked in analysis, especially in the theory of ordinary differential equations and almost periodic functions.
 
 ### Mathematical Profile (Excerpt):
-* Vyacheslaw's mother was Alexandra Yakovlevna who was also a teacher, teaching in a girl's school.
 * Stepanov was educated at the Smolensk High School and he graduated from the school in 1908 having excelled in science in general and mathematics in particular.
 * In 1912 Stepanov completed his first degree, but Egorov encouraged him to continue his studies so that he might prepare for a professorship.
 * Luzin, who was a little ahead of Stepanov, had travelled abroad visiting Göttingen where he had been inspired by Edmund Landau.

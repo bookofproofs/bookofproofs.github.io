@@ -26,9 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Today it is Białogard, in Poland, but when Joachim was born there it was part of Germany.
 * Joachim Neubüser was only six months old when, in January 1933, Adolf Hitler, the leader of the Nazi Party, became chancellor and head of the German government.
 * At this time Joachim was seven years old and had just begun has schooling.
-* Families now sought safer places and the Neubüser family, like many others, moved west, settling in Oldenburg.
-* German propaganda had painted the Allied troops as evil men who would murder and destroy, so Joachim and his family were terrified when they knew British and Canadian forces were approaching.
-* A group of residents, including the Neubüser family, stood waiting in dread.
 * As the soldiers reached them, the group pushed the twelve year old Joachim out, shaking with fear, to talk to the soldiers since he was the only one who knew a little English.
 * Joachim Neubüser completed his schooling in Oldenburg in 1951 and later in that year he entered the University of Kiel to study mathematics.
 * In 1957 Joachim Neubüser graduated from the University of Kiel with the Staatsexamen (the school teacher qualification), and his doctorate (Dr. rer.

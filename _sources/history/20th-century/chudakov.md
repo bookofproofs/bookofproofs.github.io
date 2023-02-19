@@ -4,7 +4,7 @@ categories: history,20th-century
 parentid: bookofproofs$604
 tags: origin-russia
 orderid: 1904
-title: Chudakov, Nikolai Grigor&amp;#x27;evich
+title: Chudakov, Nikolai Grigor&amp;amp;#x27;evich
 born: 1904
 died: 1986
 keywords: nikolai grigor'evich chudakov,chudakov

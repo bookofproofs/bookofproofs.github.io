@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * John William Strutt had younger siblings, Clara (born about 1845), Richard (born about 1848), Charles (born about 1850) and Edward (born about 1855).
 * Let us say at the beginning of this article that we shall refer to Strutt as Rayleigh throughout this article although he did not succeed to the title until he was 30 years old.
-* Shortly after returning from his trip down the Nile, Rayleigh's father died and Strutt, as he had been up to that time, succeeded to the title becoming the third Baron Rayleigh.
 
 Born 12 November 1842, Langford Grove (near Maldon), Essex, England. Died 30 June 1919, Terling Place, Witham, Essex, England.
 

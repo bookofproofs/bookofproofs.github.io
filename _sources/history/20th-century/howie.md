@@ -23,15 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Howie** was a Scottish mathematician who was Regius Professor of Mathematics at the University of St Andrews for more than 40 years. He was a specialist in semigroup theory.
 
 ### Mathematical Profile (Excerpt):
-* There were three children in the family, with John having an elder sister and a younger brother.
 * The Rev David Howie was a Church of Scotland minister at the Parish Church in Chryston at the time John was born.
-* The family left Chryston in 1937 and moved to Keith, about 45 miles northwest of Aberdeen, where John attended primary school.
-* The family moved again in 1946, this time to Aberdeen, where John's secondary education was at Robert Gordon's College.
 * After graduating from the University of Aberdeen, Howie spent the academic year 1958-59 teaching as an Assistant in Mathematics at the University of Aberdeen.
 * Higman was on leave for part of the time and John was supervised instead by Gordon Preston, who had recently returned to live in Oxford after a two-year stint with A H Clifford in New Orleans.
 * In view of this, it was not surprising that John found himself steered into semigroup theory and he wrote his D.Phil.
 * Howie was awarded his D.Phil.
-* While he was a research student, Howie had married Dorothy Joyce Mitchell Miller, the daughter of Alfred James Miller OBE, from Aberdeen, in King's College Chapel Aberdeen on 5 August 1960.
 * John and Dorothy had met while both were undergraduates in Aberdeen through both being squash players.
 * from the University of Oxford, Howie returned to Scotland where he was appointed as an Assistant in Mathematics at the University of Glasgow.
 * After two years in this temporary position, Howie was appointed to a permanent Lectureship in Mathematics at the University of Glasgow in 1963.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Henry Aldrich** was an English mathematician who published an important work on logic.
 
 ### Mathematical Profile (Excerpt):
-* Captain Aldrich served the Berkeley family for many years, in particular he served John Berkeley who became commissioner of the navy.
 * Henry was born in Westminster, an inner borough of London, lying on the north bank of the River Thames.
 * The Oxford Philosophical Society was founded in October 1683, and Aldrich was a founder member giving a lecture at the first meeting of the Society.
 * Although Aldrich was a natural choice to take over as Dean of Christ Church when the position fell vacant in 1686, the king appointed a Roman Catholic to the position for religious reasons.

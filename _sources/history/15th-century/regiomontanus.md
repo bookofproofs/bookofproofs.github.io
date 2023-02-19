@@ -49,7 +49,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Regiomontanus's interest in the motion of the Moon led him to make the important observation that the method of lunar distances could be used to determine longitude at sea.
 * Regiomontanus describes how the position of the Moon can be used to determine longitude in the Ephemerides for the years 1474-1506 which he published.
 * Regiomontanus realized the potential value of printing for producing identical multiple copies of scientific texts, which could be carefully edited with accurate diagrams.
-* These books were reprinted many times and had great influence, for example both Christopher Columbus and Amerigo Vespucci used Regiomontanus's Ephemerides to measure longitudes in the New World.
 * Pope Sixtus IV summoned Regiomontanus to Rome in 1475 to advise on calendar reform and he left Nuremberg some time after 28 July when he recorded his last observation there.
 * Bernhard Walther, his wealthy pupil who had funded his instrument shop, observatory and printing works, began observations from Regiomontanus's observatory in Nuremberg on 2 August.
 * It is certain that Regiomontanus had left Nuremberg by then.

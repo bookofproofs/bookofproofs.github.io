@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Anders Lexell** made major contributions to spherical geometry and trigonometry.
 
 ### Mathematical Profile (Excerpt):
-* His father, Jonas Lexell, was a jeweller by trade but was also involved in politics as a local councillor.
-* Anders' mother was Magdalena Catharina Björckegren.
 * In 1768 Lexell was invited to St Petersburg.
 * By this time Euler was getting quite old, being 62 years of age when the young mathematician Lexell arrived in 1769.
 * However, working in the same Academy as Euler and other high quality scientists was something which Lexell found exciting and enjoyable.
@@ -38,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He returned to St Petersburg in 1782 and, following Euler's death in 1783, Lexell was appointed to succeed him to the chair of mathematics at the St Petersburg Academy of Sciences.
 * Lexell's work in mathematics is mainly in the area of analysis and geometry.
 * Lexell made a detailed investigation of exact equations differential equations.
-* Lexell did work in analysis on topics other than differential equations, for example he suggested a classification of elliptic integrals and he worked on the Lagrange series.
 * Lexell made major contributions to spherical geometry and trigonometry.
 * In fact trigonometry was the main tool used by Lexell in his work on polygonometry.
 * Specific problems which Lexell studied in astronomy were his calculation of the solar parallax and his calculation of the orbits of several comets.

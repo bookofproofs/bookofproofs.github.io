@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Moritz Cantor** was a German historian of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Isaac, who was a merchant from Amsterdam, was the son of Benedict Cantor and Telly de Vries.
-* Isaac and Nanette Cantor were married in Amsterdam on 14 November 1825.
 * Moritz was brought up in Amsterdam and his early education was from private tutors employed by his parents.
 * Given Cantor's fame as an historian of mathematics, we should note at this point that Arneth was an excellent historian of mathematics who wrote the important work History of Pure Mathematics in its relation to the History of the Human Mind (1852).
 * There is, however, no sign that Cantor was influenced towards the history of mathematics at this stage in his career.

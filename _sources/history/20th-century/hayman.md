@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Walter is therefore related to famous mathematicians, famous educationalists, famous philosophers, and to the brilliant composers Fanny and Felix Mendelssohn (see Kurt Hensel's biography).
 * Franz Haymann (1874-1947) was Professor of Law at the University of Cologne when Walter was born.
-* He emigrated to Britain in 1938, and it will come as no surprise to learn that his son Walter was sent to Scotland to be educated at Gordonstoun School.
 * After graduating from Gordonstoun School, Hayman studied at St John's College, Cambridge.
 * Lars Ahlfors, discussing the second of these papers, explains that "The results seem very accurate, but their formulation is extremely complicated." He also talks of Hayman's "skillful handling of technical points".
 * At Cambridge, Hayman was awarded the 1st  Smith's Prize in 1948 and in the following year he shared the Adams Prize with John Charles Burkill, Subrahmanyan Chandrasekhar and John MacNaughton Whittaker.
@@ -35,15 +34,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Also in 1956 Hayman was elected a fellow of the Royal Society.
 * In 1966 Walter Hayman visited Moscow and when he returned, together with his wife, he founded the British Mathematical Olympiad.
 * The Haymans set and marked the questions for the British Olympiad Competition.
-* Walter and Margaret had three daughters.
 * One of these was Anne Carolyn Hayman, born on 23 April 1951, who was educated at Putney High School for Girls and then went on to obtain a B.A. in Classics and Philosophy.
-* Another daughter is Shiela Hayman who is a film-maker and novelist and who has written about Walter and her family in pieces for The Guardian.
 * While at Imperial College, Hayman published many deep research articles and also superb monographs skilfully written so that only undergraduate mathematics is required as a prerequisite.
 * Hayman's next monograph was Meromorphic functions (1964).
 * Of all the books which Hayman wrote during his thirty years at Imperial College, the most significant was almost certainly the first volume of Subharmonic functions (1976).
 * The project to write the text was a joint one by Hayman and Patrick Brendan Kennedy, but sadly Kennedy died in 1967.
 * Hayman promised a second volume on the theory of subharmonic functions in the plane and he did keep his promise but it took 13 years to complete.
-* Margaret Hayman died in 1994 and in the following year he married the mathematician Dr Waficka al-Katifi who had published On the Asymptotic Values and Paths of Certain Integral and Meromorphic Functions in the Proceedings of the London Mathematical Society in 1966.
 * One further important text by Hayman that we should mention is the second edition of Multivalent functions published in 1994.
 * We have already mentioned some of the honours that Hayman has received.
 * As an international figure, Professor Hayman has influenced researchers of all nations and of all ages during his periods at both Imperial College and the University of York.

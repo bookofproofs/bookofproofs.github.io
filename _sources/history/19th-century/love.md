@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * John Love was a surgeon who, later in his career, took up an appointment as a police surgeon for the borough of Wolverhampton.
-* Augustus had one older brother and two sisters.
 * Augustus was educated at Wolverhampton School, which he entered in 1874, but there he failed to show the brilliance which he was to show later in his life.
 * These years were highly productive ones during which Love produced outstanding work which led to his election to the Royal Society in 1894.
 * Love was appointed to the Sedleian chair of natural philosophy at Oxford in 1899.
@@ -32,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * An expert on spherical harmonics, Love discovered the existence of waves of short wavelength in the Earth's crust.
 * The ideas in this work are still much used in geophysical research and the short wavelength earthquake waves he discovered are called 'Love waves'.
 * 'Love waves' have proved of considerable importance in the hands of later investigators, who have been able to infer, from their application to seismograms, indications of the thickness of the upper layer of the earth's crust.
-* Love never married and, after the death of his father during the time that he held his fellowship at Cambridge, the younger of his two sisters kept house for him for the rest of his life.
 
 Born 17 April 1863, Weston-super-Mare, England. Died 5 June 1940, Oxford, England.
 

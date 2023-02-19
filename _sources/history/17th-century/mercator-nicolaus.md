@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Nicolaus Mercator** was a German mathematician best known for his series for log(1 + _x_).
 
 ### Mathematical Profile (Excerpt):
-* He later changed his family name, which was a common thing to do at this time, to Mercator which was the Latin form of 'merchant'.
-* Nicolaus's father was Martin Kauffman who was a school master at Oldenburg in Holstein from 1623 until his death in 1638.
-* Although we have no evidence to prove that Nicolaus attended his father's school, it is impossible to believe that he would attend any other than the one in Oldenburg where his father taught.
 * In 1648 Mercator moved to the University of Copenhagen.
 * Probably in the same year Mercator published a text De emendatione annua diatribae duae Ⓣ(Correction to the distribution of days in the year) in which he argues for a new version of the calendar in which there are 12 months with 29, 29, 30, 30, 31, 31, 32, 31, 31, 31, 30, 30 days respectively.
 * After working at the University of Copenhagen for six years, Mercator had to leave when the university was closed due to the plague.

@@ -23,8 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Herbert Seifert** was a German mathematician who made important contributions to topology and knot theory.
 
 ### Mathematical Profile (Excerpt):
-* He moved with his family from Bernstadt, where Herbert was born, to Bautzen which is another town in Saxony.
 * Herbert attended the local primary school for boys, in Bautzen.
+* Seifert took his Abitur in early 1926 at the age of eighteen and, leaving school, he entered the Technische Hochschule in Dresden to study mathematics and physics..
 * Not only did Threlfall turn Seifert into an enthusiastic student of topology, but far more than that, they became firm friends and mathematical collaborators.
 * We should note in passing the considerable age difference between the two with Seifert being twenty years younger than his friend and teacher.
 * It was common practice for German students to spend time at a number of different universities and Seifert spent part of the session 1928-29 at Göttingen University.
@@ -49,7 +49,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Seifert, on leave from Heidelberg University, became Head of a department in the Institut für Gasdynamik.
 * Seifert, still able to do mathematical research, worked on differential equations and wrote a series of papers on the topic through the war years.
 * Seifert was one of only a very few professors accepted by the Allies and he returned to the university when it reopened in 1946.
-* Not long after he returned to Heidelberg in 1949, Seifert married Katharina Korn.
 * Seifert retired in 1975 and enjoyed gardening and entertaining his former colleagues and students.
 * We have already mentioned some of Seifert's work.
 * In particular, in 1934 he published results, using surfaces today called Seifert surfaces, which he used to calculate homological knot invariants.

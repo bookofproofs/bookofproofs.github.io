@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * He was an undergraduate at the University of Colorado, receiving a B.A. in 1934, before moving to the Massachusetts Institute of Technology where he studied aeronautical engineering and was awarded a B.S. in 1936.
-* Spencer married Mary J Halley on 25 July 1936; they had two children Maredith and Marianne.
 * After his marriage he went to England to undertake studies for his doctorate at the University of Cambridge.
 * His thesis advisor was J E Littlewood , but he was also greatly influenced at this time by G H Hardy.
 * Spencer worked on analytic number theory and submitted his doctoral dissertation On a Hardy-Littlewood Problem of Diophantine Approximation  in 1939.
@@ -37,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1942 Spencer moved to Stanford University where he was appointed as an associate professor.
 * There he was influenced by Courant and Spencer's work took a new direction, applying variational methods to the coefficient problem for univalent functions.
 * In 1946 Spencer was promoted to a full professorship at Stanford and he remained there until 1950 when he accepted the position of associate professor at Princeton University.
-* After his first marriage ended in divorce, Spencer married Natalie Robertson Sanborn on 7 July 1951; they had one son Donald Clayton.
 * Spencer was promoted to full professor at Princeton in 1953, holding this position for ten years.
 * During this period he spent the year 1954-1955 at the Collège de France supported by a Fulbright grant for study and lecturing.
 * In 1963 he left Princeton and returned to Stanford University but, after five years, returned again to Princeton.

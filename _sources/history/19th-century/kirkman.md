@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Thomas attended the grammar school in Bolton where he was taught Greek and Latin but no mathematics.
-* He did well at school but although his schoolmaster and the vicar saw that he was a potential Cambridge fellow, Thomas's father could not be persuaded and Thomas was forced to leave school at the age of 14.
-* After 9 years working in the office, Thomas went against his father's wishes and he entered Trinity College Dublin to study mathematics, philosophy, classics and science for his B.A. On returning to England in 1835 he entered the Church of England.
 * As a graduate of Dublin University, Kirkman was naturally interested when Hamilton published his work on quaternions.
 * Kirkman's interest in mathematics was rapidly increasing and his first paper was presented in 1846 when he was 40 years old.
 * This work of Kirkman appeared in the Cambridge and Dublin Mathematical Journal.

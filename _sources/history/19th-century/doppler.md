@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Christian Doppler** was an Austrian mathematician who is best known for the _Doppler effect_ in wave theory.
 
 ### Mathematical Profile (Excerpt):
-* Christian Doppler was born in this family house and, of course, the family tradition would have had him grow up to take over the stonemason's business.
 * Doppler attended primary school in Salzburg and then attended secondary school in Linz.
 * His parents were unsure of his academic potential and consulted the professor of mathematics at the Salzburg Lyceum who recommended that Doppler should study mathematics at the Vienna Polytechnic Institute.
 * The Polytechnic Institute had only been founded in 1815, so it was still a new establishment when Doppler began his studies there in 1822.
@@ -47,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Doppler considered himself totally innocent and demanded that the reprimand be withdrawn.
 * Eventually the reprimand was reluctantly withdrawn by the end of 1844 but Doppler was not well enough to return to his duties until 1846.
 * With such a difficult time in Prague, it is no surprise that Doppler wanted to move and he was offered the professorship of mathematics, physics and mechanics at the Academy of Mines and Forests in Banska Stiavnica.
-* Due to political unrest the situation in Banska Stiavnica became complicated and Doppler was once again seeking refuge.
 * Doppler had reached the high point of his career.
 * What qualities had carried Doppler through the struggles of his early experiences to this important position?
 * However, despite this Doppler did have genius within him.
@@ -74,7 +72,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * On 28 June 1840 Doppler was eleced an associate member of the Royal Bohemian Society after a close ballot of 7 for and 5 against.
 * Other honours which came Doppler's way in 1848 were election to ordinary membership of the Imperial Academy of Sciences in Vienna and an honorary doctorate from the University of Prague.
 * Doppler's time as the first Director of the Institute of Physics at Vienna University was a short one.
-* Doppler's wife, who had given him staunch support throughout their marriage, had remained in Vienna with their three sons and two daughters awaiting his return but, on realising that his end was near, she made the journey to Venice and was with Doppler when he died.
 
 Born 29 November 1803, Salzburg, Austria. Died 17 March 1853, Venice (now Italy).
 

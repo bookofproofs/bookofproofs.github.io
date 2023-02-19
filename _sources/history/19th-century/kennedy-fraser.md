@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **David Kennedy Fraser** studied at Glasgow, Leipzig and Cornell Universities. He returned to Edinburgh as a Lecturer in Education before moving to Jordanhill Training College.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Marjory Kennedy (1857-1930).
-* David's father died when he was two years old.
-* His mother, Marjory, then lived in Mayfield Road, Edinburgh, with her own mother Elizabeth Kennedy and her two sisters Margaret and Jessie.
-* David had a younger sister, Helen (born 1890).
 * David Kennedy Fraser attended George Watson's Boys' College in his home town of Edinburgh from 1893 to 1904.
 * Fraser passed Latin at Higer level in the Scottish Leaving Certificate examinations in 1903, then, also at the Higher grade, Mathematics (Honours), Dynamics, and English in the following year.
 * Kennedy-Fraser was awarded a B.Sc. (Pure) in 1908 and an M.A. with Second Class Honours in Mathematics and Natural Philosophy in 1909.

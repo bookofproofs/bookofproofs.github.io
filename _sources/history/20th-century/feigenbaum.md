@@ -23,12 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Mitchell Feigenbaum** was an American mathematical physicist who discovered the so-called Feigenbaum constant in chaos theory.
 
 ### Mathematical Profile (Excerpt):
-* Mitchell's (or Mitch's as he is known) mother is Mildred Sugar whose parents emigrated to the United States from Kiev.
-* Mitchell was the middle child of his parents three children, having an older brother Edward and a younger sister Glenda.
-* Mitchell entered a public school for gifted children when he was five years old.
-* Unlike Edward who displayed all the characteristics of a child prodigy, reading from a very young age, Mitchell could not read when he entered school and he needed tutoring from his mother to bring him up to the level of the other children.
 * In fact up until the time he went to university Mitchell would not enjoy the company of his fellow pupils.
-* Feigenbaum's mother taught him algebra when he was in the fifth form but reading continued to be something that he did not like much.
 * The school system seemed unable to provide Feigenbaum with the right stimulus for he tried as hard as he could to avoid classes despite making remarkable academic progress and scoring full marks in mathematics and science in the examinations covering the State.
 * Even when he went to Tilden High School in Brooklyn, a school with a fine reputation, Feigenbaum found the education there no more enjoyable, despite once again excelling in examinations.
 * In fact while at school Feigenbaum had usually learnt more in studying by himself than in the formal lessons.

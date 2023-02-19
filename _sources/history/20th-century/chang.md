@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Sun-Yung Alice Chang** is a Chinese born American mathematician  whose research interests include the study of certain geometric types of nonlinear partial differential equations and the related extremal inequalities and problems in isospectral geometry.
 
 ### Mathematical Profile (Excerpt):
-* Soon after this Chang's family moved from mainland China to the Republic of China in Taiwan.
 * In her thesis, Chang worked on problems in classical analysis, in particular the study of boundary behaviour of bounded analytic functions on the unit disc.
 * After receiving her doctorate, Chang was appointed as an assistant professor at the State University of New York at Buffalo for the academic year 1974-1975.
 * In 1980 Chang returned to the University of California at Los Angeles as an associate professor, being later promoted to full professor.
@@ -31,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Perhaps Chang's greatest honour was the award of the 1995 Ruth Lyttle Satter Prize in Mathematics.
 * Chang received the prize at the American Mathematical Society meeting in San Francisco in January 1995.
 * In 1998, in addition to her Professorship at the University of California, Los Angeles, Chang was appointed Professor at Princeton University.
-* Chang is married to Paul Yang, also a Professor of Mathematics at Princeton University; they have one daughter and one son.
 * Chang has received many honours in addition to the Ruth Lyttle Satter Prize in Mathematics which we described above.
 * On 28 April 2009 the National Academy of Sciences announced that Chang had been elected a member.
 * In June 2009 Chang was one of the organisers of '2009 the Program for Women and Mathematics' held at the Institute for Advanced Study at Princeton.

@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * William Rittenhouse built the first paper mill in the British colonies in Germantown in 1690.
-* David showed great promise as a child, particularly displaying a talent for constructing mechanical models and showing considerable mathematical skills.
 * Rittenhouse began to construct clocks, making a wooden one when he was seventeen, then a brass one a little later.
 * Of course Rittenhouse lived through a difficult period with much of the fighting during the French and Indian War from 1754 to 1763 taking place in Pennsylvania.
 * Rittenhouse was elected to the American Philosophical Society in 1768 and, based on calculations which he made, the Society made plans to observe the transit of Venus which was calculated to take place in 1769.
@@ -32,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Rittenhouse continued to do excellent business from his shop where he made steady sales of surveying instruments.
 * Not only did Rittenhouse have an outstanding reputation as the maker of surveying instruments, but also his expertise as a surveyor was very evident and he was in great demand in a land where borders were being defined and boundaries being surveyed.
 * Rittenhouse served as City Surveyor of Philadelphia in 1774.
-* However as the American Revolution approached, Pennsylvania became a centre of military, economic, and political activity, and Rittenhouse began to play an important role.
 * With outstanding expertise in mechanical inventions, Rittenhouse was soon involved in organising the manufacture of armaments such as cannon and ammunition, chains to fortify the harbour, as well as gunpowder.
 * Rittenhouse was, during this period, a member of the Pennsylvania General Assembly.
 * Following this, Rittenhouse again became involved in surveying the boundaries of Pennsylvania.

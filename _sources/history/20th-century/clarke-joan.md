@@ -41,10 +41,8 @@ contributors: @Lynsey-Ann-Lord,bookofproofs
 * Shortly afterwards, Clarke devised a method of her own to also speed up the technique, and she was told, to her surprise, that she had used pure Dillysimus.
 * Clarke and her co-workers successfully performed Banburismus for two years, only stopping in August 1943 when ultra fast Bombes became available.
 * In the spring of 1941, Joan Clarke developed a close friendship with her Hut 8 colleague Alan Turing.
-* Clarke and Turing had actually met previously to working at Bletchley Park, as Turing was a friend of her older brother.
 * Soon after this blossoming friendship, Turing proposed marriage and Clarke accepted.
 * Turing expected this to be the end of their affair, but Clarke was undeterred by his declaration, and their engagement continued.
-* Clarke was formally introduced to Alan Turing's family and vice versa, he gave her an engagement ring, although she did not wear it when in the Hut, choosing to keep their engagement secret from their colleagues.
 * They shared many interests, both were keen chess players and, as Clarke had studied Botany at school, she could become involved with Turing's life long enthusiasm of the growth and form of plant life.
 * When Turing wrote his account of the Enigma Theory for the use of new recruits in Hut 6 and Hut 8, (known at Bletchley Park as "Prof's book") he used Joan Clarke as his 'guinea pig' - she had to read and trial it, checking that it was understandable for them.
 * Clarke was to remain friends with Turing for the rest of his life.
@@ -53,9 +51,7 @@ contributors: @Lynsey-Ann-Lord,bookofproofs
 * However, Joan Clarke remained in Hut 8, becoming Deputy Head in early 1944.
 * In 1947, Clarke was appointed a Member of the British Empire (MBE) for her codebreaking expertise during the war, but due to the restraints of the Official Secrets Act, her work was to remain confidential for many years to come.
 * Clarke transferred to Bletchley Park's successor and there she met a colleague named Lieutenant-Colonel J (Jock) K R Murray, a retired army officer, whom she went on to marry in 1952.
-* It was from her husband that Clarke gained an interest in numismatic history, as he had published many important papers on the Scottish coinage of the 16th  and 17th  centuries.
 * They returned to Cheltenham in 1962 and Clarke rejoined the GCHQ where she remained until retiring at the age of 60 in 1977.
-* In 1986, following the death of her husband, Clarke moved to Headington, near Oxford, where she continued her numismatic research.
 * In 1987, Clarke was awarded the Sandford Saltus Medal - the Society's premier distinction, voted for by its members for scholarly contributions to British Numismatics.
 * After her retirement, Clarke also assisted Sir Harry Hinsley on what became Appendix 30 to Volume 3, Issue 2 of the 1988 British Intelligence in the Second World War, a substantially revised assessment of the Polish, French and British contributions to breaking the Enigma.
 * Whitmore based the character in the play named Pat Smith, on Joan Clarke.

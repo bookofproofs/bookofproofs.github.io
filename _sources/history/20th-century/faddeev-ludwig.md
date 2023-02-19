@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ludvig Faddeev** was a  Russian mathematical physicist who worked in quantum field theory.
 
 ### Mathematical Profile (Excerpt):
-* We note that Vera Nikolaevna Zamyatina has a biography under her married name Vera Nikolaevna Faddeeva.
-* As the German armies rapidly advanced towards Leningrad in August 1941, many people were evacuated from the city including the Faddeev family.
-* For the duration of the siege of Leningrad, the Faddeev family lived in Kazan which is about 800 km due east of Moscow and considered safe from the German invasion.
-* The Faddeev family, together other colleagues, obtained such permits and Ludwig could return with his parents.
 * When Faddeev was young he needed to make a difficult choice between pursuing a career in music or academia.
 * When Faddeev began his university studies Joseph Stalin was Premier of the Soviet Union and people had to conform.
 * Not long after Faddeev began his university studies he was required to appear before the local Comsomol (Communist Youth) Committee.
@@ -37,8 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He attended Fock's course on general relativity but, although Fock had given quantum theory courses in the past, he was not lecturing on that topic at the time Faddeev was an undergraduate.
 * Faddeev, however, was given a copy of Fock's lecture notes which he studied.
 * Faddeev began publishing a series of important papers written in Russian: Uniqueness of solution of the inverse scattering problem (1956), On expansion of arbitrary functions in eigenfunctions of the Schrödinger operator (1957), An expression for the trace of the difference between two singular differential operators of the Sturm-Liouville type (1957), On the relation between S-matrix and potential for the one-dimensional Schrödinger operator (1958), and On continuous spectrum perturbation theory (1958).
-* Around this time Faddeev married Anna Veselova, the daughter of Mikhail G Veselov (1906-1987), a professor of physics at Leningrad State University who worked closely with Vladimir Aleksandrovich Fock and E N Yustova, the latter working on colour vision.
-* Ludwig and Anna Feddeev had two daughters Maria, who became a theoretical physicist, and Elena who became a mathematician.
 * Even though he managed to solve a difficult problem in his dissertation, Faddeev decided to stop research in this area and move to something different.
 * Faddeev taught his students that it is extremely important to change the direction of their research.
 * In 1970 Vladimir Evgen'evich Zakharov introduced Faddeev to the inverse scattering method of solving nonlinear evolution equations in two-dimensional space-time.

@@ -24,15 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Maria Carbona i Balaguer, Àngels Carbona i Balaguer and Ferran Carbona i Balaguer (1909-1979) were first cousins of Ferran Sunyer who were orphaned at a young age and brought up by Àngela Balaguer.
-* Ferran Carbona was three years older than Ferran Sunyer, the subject of this biography.
 * This, we will see, is not irrelevant to a later positive episode in Ferran Sunyer's life.
-* Ricard Sunyer had died of tuberculosis, a few months before the death of Àngela's sister, when his son Ferran was only two years old.
-* Ricard Sunyer had followed the family tradition of becoming a physician, having a father and grandfather who were also doctors.
 * Ferran Sunyer was born with a severe motor disability which soon became apparent.
-* Ferran's mother was very surprised to discover that when he reached the age of four he was able to read.
 * There would have been no possibility of Ferran attending school.
-* The family moved to Barcelona where Sunyer lived for the rest of his life.
-* We have said that Sunyer was educated by his mother but as she knew no mathematics we need to try to understand how this severely disabled boy developed into what many consider to be the leading Spanish mathematician of his day.
 * Sunyer had practically no use of his hands.
 * That notebook full of formulas was the only tool Sunyer used in his work.
 * Discovering an error on the book, Sunyer found a correct proof and, in early 1934, sent a short paper to Émile Picard who was the secretary of the Académie des Sciences in Paris.
@@ -45,13 +39,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In the same year, 1939, Sunyer's first paper in Spanish was published, namely On a theorem of Professor Picard (Spanish), in which he proved the "little" Picard theorem by applying the theory of normal families in a new way.
 * This paper was reviewed for Mathematical Reviews by Ralph Philip Boas Jr so, at this early stage, Boas became familiar with Sunyer's work.
 * In 1942 Sunyer published On some results concerning the theorems of Picard, Landau and Schottky and on a criterion of quasinormality (Spanish).
-* In this paper, using a theorem of Rolf Nevanlinna, Sunyer proved a result about meromorphic functions, proved a criterion for quasi-normality of a family of meromorphic functions, and, deduced from this extensions of Landau's theorem and Schottky's theorem.
 * Sunyer lost contact with him at this time and it was only after Hadamard had spent a year in England and returned to Paris as soon as the war ended that he was able to resume contact sending him a memoir on lacunary Taylor series.
 * This renewed contact, begun in 1946, was extremely important to Sunyer since Hadamard put him in contact with Szolem Mandelbrojt.
 * He advised Sunyer on improvements to his mathematical style and also improvements to his French.
 * Sunyer continued to publish papers such as On a class of transformations of the algorithms for summation of analytic series (Spanish) (1948), On the exclusion of an exceptional function by a gap condition (Spanish) (1948), Une généralisation des fonctions presque-périodiques Ⓣ(A generalization of the almost-periodic functions) (1949), A new generalization of almost periodic functions (Catalan) (1949), and Properties of entire functions (of finite order) represented by lacunary Taylor series (Spanish) (1949).
 * Sunyer applied for a position in the CSIC in January 1948.
-* Let us record at this point how the three women, first Sunyer's mother (she died in 1955) and then his two cousins, cared for him and gave him the opportunity to undertake mathematical research.
 * Mandelbrojt was somewhat reluctant but, with Sunyer determined to talk to Sierpinski, the meeting took place.
 * In any case it is remarkable that thanks to M Sunyer Balaguer, the error has been found 23 years after the appearance of the first edition of my book.
 * Despite only being able to speak with great difficulty, Sunyer was able to lecture at conferences.

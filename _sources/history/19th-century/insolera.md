@@ -30,9 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The first appointment of his scientific career was at the University of Rome as an assistant to Tullio Bagni, an expert in actuarial science, and through him Insolera became interested in the subject which from that time on became the main focus of his academic interests.
 * Insolera, guided by Bagni, quickly distinguished himself in actuarial science and he was appointed Head of the Actuarial Department in the National Institute of Social Security.
 * One of the students that Insolera taught at the Institute in Turin was Maria Luisa Mazzetta.
-* Filadelfo and Maria had three children: Delfino who graduated in engineering and philosophy; Melina who after graduating in humanities taught in high schools; and Italo who became an architect and urban planner being appointed to chairs at the Universities of Venice and Geneva.
 * Insolera published most of his work in the Giornale di Matematica Finanziaria from that time onwards.
-* It was in 1932 that Insolera moved to Rome with his family, spending two years working at the Ministry there.
 * Insolera published an impressive 105 works, nearly all in the Giornale di Matematica Finanziaria.
 * Although this was published in 1947, Insolera completed the work several years earlier while suffering extraordinary difficulties due to World War II.
 * It is interesting to compare the rather different reception that Insolera's work received in different countries.

@@ -23,20 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **David van Dantzig** was a Dutch mathematician who worked in in topology as well as probability and statistics.
 
 ### Mathematical Profile (Excerpt):
-* Abraham van Dantzig, an entrepreneur, was the son of David van Dantzig and Sophia Graveur.
-* Bertha de Kadt was the daughter of Israel de Kadt and Maria van Leeuwen.
-* Abraham and Bertha van Dantzig were married on Thursday, 24 August, 1899 in Rotterdam.
-* David van Dantzig, the subject of this biography, was the eldest of their children having the younger siblings Siegfried van Dantzig, Marijn van Dantzig, and Anne Marie van Dantzig.
-* The van Dantzig family were not well off and not in a position to give their children a good education.
 * David van Dantzig was at secondary school when he wrote his first mathematics paper and, remarkably, he was only thirteen years old at the time.
-* After leaving school he continued with his studies of chemistry at the University of Amsterdam, but he did not enjoy chemistry and when he was forced to give up his academic studies to help support his family van Dantzig took on a number of jobs purely to make money.
 * By now van Dantzig knew that mathematics was the subject which he really wanted to study but he was not in a position to do so, both because he had to earn money and also because he did not have the necessary school qualifications.
 * Van Dantzig attended a seminar at the University of Amsterdam in 1925 which was led by L E J Brouwer but also had Pavel Sergeevich Aleksandrov, Karl Menger, Leopold Vietoris and Witold Hurewicz as participants.
 * Van Dantzig became an assistant to Jan Schouten in 1927 at Delft Technical University.
 * The method used in this paper to handle the projective connexion is the one developed by D van Dantzig, based on the introduction of homogeneous coordinates.
 * There was still another topic that interested van Dantzig during the 1920s and 1930s, namely significs.
 * Then van Dantzig goes on to argue that mathematics is not a type of knowledge but is a way of thinking which can be applied to any process of thought.
-* As he was Jewish, van Dantzig was dismissed from his chair in Delft when the Germans occupied Holland and he was forced to move with his family from the Hague to Amsterdam.
 * In Amsterdam he was the cofounder, with J G van der Corput and J F Koksma, of the research and service institution, the Mathematisch Centrum, in February 1946.
 * This chair had been specially created for van Dantzig.
 * After the Second World War, van Dantzig undertook research mainly on probability and statistics.

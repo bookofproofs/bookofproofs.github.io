@@ -23,12 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ruth Michler** was an American mathematician who became an expert in commutative algebra and algebraic geometry. She organised several special sessions at meetings of the American Mathematical Society. She was killed in a road accident in Boston at the age of 33.
 
 ### Mathematical Profile (Excerpt):
-* There were two children in the family, Ruth having a sister.
 * Gerhard Michler was born in Braunschweig, Germany, on 5 May 1938.
-* He undertook postdoctoral studies at Cornell University in Ithaca, New York, USA, and it was while he was there that his daughter Ruth, the subject of this biography, was born.
-* Ruth Michler spent the first six years of her life in Tübingen but, before she began her schooling, her family moved to Giessen when Gerhard Michler was appointed as a full professor at the Justus-Liebig-Universität Giessen.
-* The family moved to Giessen in March 1973 and Ruth began her elementary schooling there, then progressed to begin her studies at a Gymnasium in the same city.
-* In 1978 the family moved again, this time to Essen when Gerhard Michler was appointed as professor at the Universität Duisburg-Essen.
 * Ruth then entered a Gymnasium in Essen and completed her studies there, graduating in 1985.
 * During her years at school, Ruth greatly enjoyed learning foreign languages and had a particular passion for mathematics, sciences, fine arts and music.
 * It was at the University of Oxford in England that Ruth Michler undertook her undergraduate studies.
@@ -54,9 +49,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Ruth Michler the runner has been mentioned several times in our biography above.
 * At the time of her death Michler was organising two conferences: "Résolution des singularités et géométrie non commutative" Ⓣ(Singularity resolution and non-commutative geometry) to be held at the Centre International de Rencontres Mathématiques at Luminy, France, from 20-22 July 2001; and Algebraic Geometry to be held in Annapolis, Maryland, USA, 25-28 October 2001.
 * Following Michler's death, both conferences were held in her memory and a book was produced of the proceeding of both conferences entitled 'Topics in algebraic and noncommutative geometry' published by the American Mathematical Society in 2003.
-* Her father, Gerhard Michler, an emeritus professor of mathematics at the University of Essen in Germany, filed a civil action suit.
-* More than five years later the Michler family won a sizeable settlement.
-* Now, to pay lasting tribute to Michler's memory and to advance the careers of accomplished young women mathematicians, the Michler family has made a $1 million gift to establish the Ruth I.
 * Michler Memorial Prize of the Association for Women in Mathematics at Cornell.
 
 Born 8 March 1967, Ithaca, New York, USA. Died 1 November 2000, Boston, USA.

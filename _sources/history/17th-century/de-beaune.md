@@ -24,12 +24,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * He was born in Blois, which is in central France on the Loire River and, at the time de Beaune was born there, it was almost a second capital of France.
-* However Florimond senior was made legitimate and inherited the title which eventually went to his son, the subject of this biography.
 * Florimond de Beaune senior was a squire with an estate being the Seigneur de Goulioux.
-* Florimond de Beaune, the mathematician, inherited the estate from his father, so he also became Seigneur de Goulioux.
 * De Beaune was educated in Paris where he went on to study law although his status meant that he had no need to take a degree.
-* He married Philiberte Anne Pelluis on 21 December 1621 but the marriage lasted less than a year since she died in August 1622.
-* He married Marguerite du Lot on 15 December 1623; this second marriage brought considerable wealth to de Beaune.
 * De Beaune bought the office of counselor to the court of justice in Blois, and was only an amateur mathematician.
 * As we noted, his second marriage brought de Beaune a substantial amount of money.
 * The classification by authors shows that de Beaune possessed all the works by Kepler, Galileo, Descartes and J-B Morin published at that time, and most of those of Mersenne and Gassendi.
@@ -40,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He wrote Notes brièves Ⓣ(Brief notes) which was published in 1649 as part of the first Latin edition of Descartes' La Géométrie.
 * Two other papers by de Beaune on algebra appeared as part of the second edition of La Géométrie.
 * In fact de Beaune and Descartes were good friends and corresponded frequently on mathematical topics.
-* Many of the top French scientists of the time corresponded with de Beaune, for example Claude Mydorge, Jacques de Billy and Marin Mersenne, and friends visited him to discuss mathematical topics, for example Descartes and Erasmus Bartholin.
 * When he was very ill near the end of his life, de Beaune entrusted Bartholin with several manuscripts and asked him to arrange for their publication.
 * 'Doctrine de l'angle solide construit sous trois angles plans' for posthumous publication, but the treatise never found its way into print because of the complexity of its accompanying diagrams.
 * The treatise is of interest chiefly because it is a work of pure synthetic geometry consisting of some 125 propositions composed in the style of Euclid by one of the ablest practitioners of the new analytical art typified by the works of Descartes and Fermat.

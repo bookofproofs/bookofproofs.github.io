@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Émile Picard** worked in algebraic geometry as well as elasticity, heat and electricity.
 
 ### Mathematical Profile (Excerpt):
-* It was during this siege that Émile's father died.
-* Picard's mother, the daughter of a medical doctor, was put in an extremely difficult position when her husband died.
 * As well as Émile, she had a second young son, and in order to support them through their education she had to find employment.
 * Only her determination to give her sons a good start, despite the tragedy, allowed Émile to receive the education which gave him the chance to achieve the highest international stading in mathematics.
 * Picard's secondary education was at the Lycée Napoléon, later called the Lycée Henri IV.
@@ -32,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Picard received his agrégation in 1877, being placed first.
 * In 1881 Picard was nominated for membership of the mathematics section of the Académie des Sciences.
 * He had already proved two important theorems which are both today known under Picard's name, yet it was still a little soon to gain admission to the prestigious academy and he would have to wait a few more years.
-* Picard and his wife had three children, a daughter and two sons, who were all killed in World War I.
 * In 1885 Picard was appointed to the chair of differential calculus at the Sorbonne in Paris when the chair fell vacant on the death of Claude Bouquet.
 * The regulations were circumvented by making Picard his own suppléant until he reached the age of thirty which was in the following year.
 * Picard made his most important contributions in the fields of analysis, function theory, differential equations, and analytic geometry.

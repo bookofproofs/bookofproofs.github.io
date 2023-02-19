@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **George Thom** was a Scot who became Rector of Dollar Institution (later to become Dollar Academy). He held this post for 24 years.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Mary Thom (born Auchterless, Aberdeenshire about 1817).
 * George Thom attended the University of Aberdeen and was awarded an M.A. in 1863.
 * Thom was Principal of the Doveton Protestant College until 1876 when he returned to Scotland.
 * The Trustees' Minutes for 1878 indicate that the new Principal was to take charge of Mathematics and Natural Science and of the short leet of three (Thom, Aberdeen; Kinmond, Dollar; Gall, Lucknow) Thom was offered the job mainly because he had most recently taught (and was teaching) Botany.
@@ -39,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It is not too much to say that the school as it stands-which is immensely in advance of what it was fifteen years ago-has been formed entirely under Dr Thom's management, and its efficiency and completeness are a standing monument to his thorough up-to-date knowledge of educational matters.
 * The numbers of pupils fluctuate considerably from year to year, so that it is difficult to know exactly how we stand, but it is a coincidence worth noting, that three years ago the enrolment was exactly the same (405) as it was in the upper school in 1878 and 1879, the year Dr Thom came.
 * On the closing day of last session Dr Thom was presented with a handsome piece of silver plate bearing the following inscription: "Presented to Dr Thom by his pupils, as a mark of affectionate regard.
-* Dr Thom and his family have elected to remain in Dollar, and to carry on part of the work in which they have long been so successful - the charge and tutoring of young gentlemen attending the Academy.
 
 Born 2 July 1842, Forgue near Huntly, Scotland. Died 20 December 1916, Aberdeen, Scotland.
 

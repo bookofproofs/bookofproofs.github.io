@@ -23,14 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hermann Kober** was a Polish-born mathematician who spent much of his life as a school teacher in England but published many papers on analysis.
 
 ### Mathematical Profile (Excerpt):
-* Hermann was born into a successful Jewish family, his father having made a fine reputation for himself.
-* The family was a large one, with Hermann having four older brothers.
 * Breslau was the sixth largest city of Germany and, in that thriving industrial city, Kober attended school.
 * Kober chose to study at Göttingen, famed as a centre for mathematics, where he was one of Landau's first students.
 * Kober was forced out of his teaching post in 1934 but he continued with his teaching career, now at a Jewish school in Breslau.
 * Suddenly Kober's research career went into overdrive.
 * She was herself a mathematician and played a large role in Kober's mathematical research taking off.
-* Kober's wife provided him with the sort of back-up which allowed him to make lengthy visits to Cambridge in England, for she simply took over teaching his classes in Breslau while he spent time at Cambridge doing research.
 * Birmingham awarded Kober an M.Sc. in 1940 and a D.Sc. in 1943.
 * By 1943 Kober had published 30 mathematical papers and he continued to undertake mathematical research for the rest of his life.
 * Kober was a highly productive mathematician working on special functions, functional analysis (in this area Kober's Theorem which appeared A theorem on Banach spaces (1939) is named after him), approximation theory and the theory of functions of a real variable.

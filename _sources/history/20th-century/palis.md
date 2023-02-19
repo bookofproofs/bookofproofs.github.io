@@ -23,11 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jacob Palis** was a Brazilian mathematician who was a leading expert in dynamical systems. He gained many international prizes for his outstanding research contributions and also served as president of the International Mathematical Union as well as several other academies and societies.
 
 ### Mathematical Profile (Excerpt):
-* Jacob Palis Sr married Sames, an immigrant to Brazil from northern Syria.
-* Jacob Jr is the youngest of his parents' family of eight children, having four older brothers and three older sisters.
 * Jacob Palis Sr had a large store in Uberaba, a city in the Brazilian Highlands, which sold everything.
-* Palis attended school in Uberaba then in 1956, when he was sixteen years old, he moved to Rio de Janeiro where he lived with one of his older brothers who by this time was studying engineering at the Federal University of Rio de Janeiro.
-* Palis's brother had a very comfortable apartment that faced the Sugar Loaf Mountain which is on a peninsular jutting out into the Atlantic Ocean.
 * After studying for one year at High School in Rio de Janeiro, Palis sat the entrance examination for the University of Brazil.
 * Although Palis was studying for an engineering degree, the subjects that he loved were mathematics and physics.
 * For example the mathematician Maurício Matos Peixoto was the professor of Rational Mechanics in the National School of Engineering and he strongly influenced Palis.

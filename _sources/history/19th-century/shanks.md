@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Shanks** is famed for his calculation of `$\pi$` to 707 places in 1873, which unfortunately was only correct for the first 527 places.
 
 ### Mathematical Profile (Excerpt):
-* Ten years later, in 1861, he was living at a Private Boarding School in Nesham Place, Houghton-le-Spring, with his wife, mother-in-law, William Routledge (an English teacher), Ann Oliver (cook), Alice Oliver (housemaid) and eleven pupils aged between 7 and 18.
 * Shanks used his leisure hours working on mathematics, particularly on calculating the decimal expansion of π.
 * He was influenced to undertake this task by William Rutherford from Edinburgh.
 * In 1853 Shanks published a book entitled Contributions to mathematics, comprising chiefly the rectification of the circle.

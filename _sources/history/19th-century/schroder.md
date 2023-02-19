@@ -25,11 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Heinrich Schröder was born in Munich on 28 September 1810, studied at the University of Munich and became a professor of physics in high schools.
 * He worked first at the Polytechnic School in Munich, then the Lyceum in Solothurn and, at the time Ernst was born, he was professor of physics and chemistry at the Higher Bürgerschule in Mannheim.
-* His wife Karoline was the daughter of a pastor from Haunsheim and her father, Johann Gottfried Walther (1785-1852), tutored Ernst for two years when he was young.
-* In fact Ernst lived with his grandfather during these two years.
-* Of course Ernst's father was also a big influence on his son and, given what we have said about the work Heinrich Schröder did in fostering science education, it will come as no surprise to learn that he was a major influence on his son taking up a career in science.
-* Ernst was the eldest of his parents four children: Clara was born in 1842; Heinrich was born in 1845 and became the director of a bank; and Walter was born in 1850 and became a businessman.
-* After tutoring by his grandfather, Ernst studied at several different schools in Mannheim where he showed exceptional abilities in languages, chemistry, and mathematics.
 * After graduating from the Mannheim Lyceum, Schröder entered the University of Heidelberg.
 * While Schröder was undertaking research with Hesse as his advisor, several other students, who would soon become famous, were also undertaking doctoral studies with Hesse at Heidelberg.
 * For example, Adolph Mayer (doctorate in 1861) and Heinrich Weber (doctorate in 1863) were students of Hesse at the same time as Schröder, while Olaus Henrici arrived in Heidelberg to begin his studies in 1862.
@@ -53,7 +48,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * While Peirce overall praised Schröder, he nevertheless sometimes ferociously attacked him, in print and in private correspondence.
 * Schröder venerated Peirce, however, and had in abundance what Peirce acknowledged he lacked: self-control.
 * Schröder had many sporting hobbies: cycling, hiking, swimming, ice-skating, horseback riding, and gardening.
-* Schröder's father Heinrich retired in 1873 and, a year after his wife Karoline died in 1875, he moved to Karlsruhe to be close to his sons Ernst and Heinrich; Heinrich Schröder died in 1885.
 * Given what a fit man Ernst Schröder was, it is surprising that he died at the age of 60.
 * The thesis was devoted to a comparison of the logical systems of Ernst Schröder and Bertrand Russell, with special attention to their different treatments of relations.
 

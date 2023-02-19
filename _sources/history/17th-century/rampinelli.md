@@ -25,10 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * For simplicity, however, we will refer to him as Ramiro Rampinelli throughout this biography.
 * We also note that his date of birth is given in various sources as 10 August and as 16 August but the date we have given is that on his baptismal certificate which states that he was baptised on 19 August having been born to Marchesio and Angelica Rampinelli at 3 a.m. on 9 August.
-* Ramiro's parents were wealthy merchants and he was the second of their of their five children.
-* Ramiro certainly found problems in his education due, almost certainly, to the fact that he wanted to follow a different route from that which his father had planned for him.
 * He had two friends Francesco Torriceni and professor Giovanni Battista Mazzini (1677-1743), and they were able to give Rampinelli some mathematics books.
-* This angered Rampinelli's father who set fire to the mathematics books and Rampinelli's reaction was a sudden decision to run away from home and enlist in the cavalry.
 * If it had not been for the elderly Jesuit Gerolamo Bornati, a scholar of philosophy, we would not be writing about Rampinelli's contributions to mathematics today.
 * Rampinelli had not developed any systematic methods of study and had little idea about how to approach his studies.
 * Rampinelli spent two years studying under Gabriele Manfredi at the University of Bologna during which time the two recognised they had certain similarities in their characters, something which greatly helped Rampinelli to adopt the good learning methods that his professor was working to instil in him.

@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Others who strongly influenced Mandelbrojt after he arrived in Paris were Édouard Goursat, Henri Lebesgue, Paul Montel, and Émile Picard.
-* Mandelbrojt and Hadamard jointly published La série de Taylor et son prolongement analytique Ⓣ(The Taylor series and analytic continuation), a monograph which covered the topics in classical analysis which Mandelbrojt had studied for his doctorate.
 * Mandelbrojt was awarded a Rockefeller Fellowship which enabled him to spend 1924-26 in the United States.
 * Returning to France, Mandelbrojt was appointed Maître de Conférences at the University of Lille during 1928-29.
 * Mandelbrojt made very considerable contributions to Bourbaki in its initial stages but later dropped out.

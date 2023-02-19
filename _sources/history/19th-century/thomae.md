@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Carl Johannes Thomae** was a German mathematician who worked in function theory.
 
 ### Mathematical Profile (Excerpt):
-* His father was Karl-August Thomae, the rector of a school in Laucha, and his mother was Emilie Gutsmuths.
-* Carl Johannes was the eldest of his parents two children and was not expected to survive to adulthood.
 * When he was five years old Thomae entered the primary school in Laucha.
-* When Thomae was nine years old his father became his teacher, giving him an excellent grounding to enter the gymnasium.
 * His teacher at the gymnasium, Moritz Hülsen, saw what an outstanding pupil he had in Thomae and coached him with additional work beyond the usual course of study.
 * Thomae's work in mathematics was quite outstanding and it won for him a scholarship which he was awarded from October 1860.
 * Thomae entered the University of Halle in 1861, which was essentially his local university.
@@ -40,12 +37,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After the Seven Weeks' War (as this short war is called) Thomae returned to Göttingen and gave a lectures on determinants and on the differential and integral calculus.
 * In 1867 Thomae was appointed as a privatdozent at Halle where he became a colleague of Heine and Cantor.
 * Thomae was promoted to extraordinary professor at Halle in 1872 and two years later he moved to the University of Freiburg where he was appointed as ordinary professor.
-* Also in 1874 Thomae married Anna Uhde in Balgstädt near his home town of Laucha; their son Walter was born on 5 November of the following year.
 * After spending five years at Freiburg, Thomae moved to Jena in 1879 when he accepted the chair there.
 * Both Thomae and Frege spent the rest of their careers at Freiburg.
 * The relationship between Thomae and Frege is an interesting one.
 * Thomae was Dean of the Philosophy Faculty in 1884, 1891, 1898, and for a fourth time in 1905.
-* Thomae married for a second time in 1892.
 * Thomae retired in 1914 but continued to publish papers up to 1919.
 * The approach of both Riemann and Weierstrass strongly influenced Thomae's study of function theory.
 * One of Thomae's first papers is Die allgemeine Transformation der Thetafunktionen mit beliebig vielen Variablen Ⓣ(The general transformation of theta functions with any number of variables) (1864).

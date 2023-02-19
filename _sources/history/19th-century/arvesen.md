@@ -23,12 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ole Peder Arvesen** was a Norwegian engineer and mathematician who worked in the field of descriptive geometry.
 
 ### Mathematical Profile (Excerpt):
-* Ole had a younger brother Harald Gotfred Arvesen, born in Fredrikstad on 11 June 1898, and a younger sister Ellen Sofie Arvesen, born in Fredrikstad on 9 September 1896.
-* Another sister, Gerda Karine Arvesen born in Kristiania on 9 September 1899 appears to have died as a child.
 * Arvesen's schooling was in Fredrikstad where he finished high school in 1913, and after working at the foundry of a mechanical workshop in Fredrikstad for a few months, he travelled to Trondheim to study at the Norwegian Institute of Technology (Norges Tekniske Høgskole, known as NTH), where he qualified as a structural engineer in 1918.
 * Ole Peder Arvesen dedicated most of his life to the NTH, at first actively engaged in the student community and later as a teacher for 45 years.
 * In 1919, Arvesen was appointed as an assistant at the NTH working with reinforced concrete and stone bridges, but in 1921 he moved on to teaching descriptive geometry, which he would continue doing for the rest of his life.
-* In June 1929, Arvesen married Ingeborg Thallaug (1905-1955), the only daughter of Axel Andreas Thallaug (1866-1938), a lawyer, and Julie Louise Augusta Prytz (1877-1929).
 * Among Arvesen's earliest publications on geometry are Quelques études sur la largeur des courbes Ⓣ(Studies on the width of curves) (1926), Om grundlaeggelsen av den diskriptive geometri ved Monge Ⓣ(On the foundations of descriptive geometry of Monge) (1928), Remarque sur un théorème de Chasles Ⓣ(Remark on a theorem of Chasles) (1929), Sur un théorème de Duhamel Ⓣ(On a theorem of Duhamel) (1931), and Un théorème sur le rayon de courbure de certaines courbes de direction Ⓣ(A theorem on the radius of curvature of certain  direction curves) (1931).
 * From 1938, Arvesen was appointed to a professorship at the NTH which he held until he retired in 1965.
 * Arvesen's scientific production included two popular textbooks, one about nomography and one on descriptive geometry.

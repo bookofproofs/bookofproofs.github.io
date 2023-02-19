@@ -23,7 +23,6 @@ contributors: @R-Paris,bookofproofs
 **Ernest William Barnes** was an English mathematician and scientist who later became a liberal theologian and bishop.
 
 ### Mathematical Profile (Excerpt):
-* In 1883 Barnes' father was appointed Inspector of Schools in Birmingham, a position that he occupied throughout the rest of his working life.
 * Barnes was educated at King Edward's School, Birmingham and in 1893 went up to Cambridge as a Scholar of Trinity College.
 * In the same year he became a lecturer in mathematics, Barnes was ordained deacon by the Bishop of London and from 1906 to 1908 was Junior Dean of Trinity.
 * In 1915, Barnes left Cambridge, and his career as a professional mathematician, upon his appointment as Master of the Temple in London.

@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Fritz Hirzebruch was the headmaster of a secondary school in Hamm, and he also taught mathematics there.
-* When he was at school, Friedrich enjoyed mathematics and learnt more advanced topics by talking to his father and reading his father's mathematics books.
 * In 1937 Friedrich reached the age of ten and at that time he was required to join the Deutsches Jungvolk (German Youth), a subdivision of the Hitler youth for boys aged 10 to 14.
 * In March 1945 Hirzebruch was drafted into the German army at the time when Allied forces were on the point of crossing the Rhine.
 * By April, Allied forces had taken control of much of Germany and Hirzebruch was taken prisoner.

@@ -24,12 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * John William Clerke (born 1814) was a graduate of Trinity College, Dublin, where he had studied classics but had also taken courses in mathematics and astronomy.
-* Agnes' mother Catherine, educated at the Ursuline Convent, Cork, was an intellectual lady with considerable musical talents playing piano and harp.
-* The Clerke family were Protestants while the Deasy family were Roman Catholics.
-* Together with her older sister Ellen (born 1840), Agnes was educated at home by her parents.
-* Agnes's father owned a 4-inch telescope and she grew up regularly observing Saturn's rings and Jupiter's moons.
-* The family moved to Dublin when Clerke was aged 19 for her father changed profession at that stage and became a registrar at the court of his brother-in-law Rickard Deasy who by this time was a High Court Judge.
-* At this time Agnes made university level studies of advanced mathematics, physics and astronomy being tutored by her brother Aubrey who was studying mathematics and physics at Dublin University.
 * Clerke began publishing in that year when her articles Brigandage in Sicily and Copernicus in Italy (both written during her time in Italy) appeared in the Edinburgh Review.
 * The volumes before G had already been completed so when they invited Clerke to contribute it was to write biographies of famous mathematicians and astronomers whose names began with a letter between G and L.
 * Clerke wrote articles for other encyclopaedias such as the article Astronomy for the Catholic Encyclopaedia.

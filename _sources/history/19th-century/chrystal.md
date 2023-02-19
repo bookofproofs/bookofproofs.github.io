@@ -23,15 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **George Chrystal** is best remembered today for _Algebra_: a two volume work which was completed by 1889. He was also involved in educational reform throughout his career and was a major figure in setting up an educational system in Scotland.
 
 ### Mathematical Profile (Excerpt):
-* The family stayed at Mill of Kingoodie, and Chrystal received his early education at the parish school of Old Meldrum, two miles from his home.
-* The family moved to Aberdeen shortly before 1863, the year Chrystal entered Aberdeen Grammar School.
 * Chrystal graduated from Aberdeen in 1871 with first class honours in mathematics and natural philosophy, and received the Town's Gold Medal given to the best student of the year.
 * Chrystal graduated from Cambridge on 30 April 1875 and he was second wrangler placed equal with Burnside (John William Lord of Trinity was first wrangler).
 * On 10 February 1875, Chrystal became second Smith's prizeman, the first Smith's prize being given to Burnside.
 * Shortly after his graduation, Chrystal was elected a fellow and lecturer of Corpus Christi College.
 * In the summer of 1877 the chair of mathematics in the University of St Andrews became vacant and Chrystal applied for the post.
 * Being the Regius Chair of mathematics it was a crown appointment and Chrystal received a telegram from the Home Secretary on Saturday 3 November 1877 informing him that he was successful.
-* On 26 June 1879 Chrystal married Margaret Ann Balfour, whom he had known from his childhood.
 * Before leaving for Germany to marry, Chrystal applied for the vacant chair of mathematics in the University of Edinburgh.
 * Chrystal chose as his subject The History of Mathematics, talking in particular about the former occupants of the Edinburgh chair of mathematics.
 * Chrystal was to hold the Edinburgh chair for the rest of his career.
@@ -53,6 +50,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In these and subsequent papers Chrystal studied seiches in lakes of many different shapes.
 * It is interesting to look at some descriptions of Chrystal's character.
 * Professor Chrystal is perhaps the most approachable of all our professors.
+* There are few classes so completely dominated by their teachers as Professor Chrystal's; he has a fine and tactful sarcasm which he knows well how to use ...
 * But those who only know the Chrystal of the class-room know little of him.
 * There is the Chrystal of the private interview - a kindly, sympathetic, helpful teacher.
 * There is the Chrystal who, as Dean of the Faculty of Arts, advises the timid urchin hesitating on the threshold of his academic career, or guides the inexperienced footsteps of students as they face out into the unknown world.

@@ -25,8 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Both Arend's parents were school teachers and Johannes Heyting was particularly successful in his profession being appointed as head of a secondary school.
 * Arend spent his school years with the intention that he would make a career in engineering.
-* Although Heyting's father was a successful school teacher, the family were still in financial problems when Heyting began his studies in 1916 at the University of Amsterdam.
-* Both Heyting and his father earned the extra money necessary to pay for his studies by taking on private tutoring work.
 * At the University of Amsterdam Heyting was taught by Brouwer who had a large influence on his future work.
 * In 1922 Heyting graduated with a degree of master's standard.
 * At this point in his career Heyting began to follow the same road as his parents by beginning a career as a secondary school teacher.
@@ -38,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This work had another beneficial effect as far as Heyting was concerned for it brought him to the attention of Heinrich Scholz who held the chair of mathematical logic in Münster.
 * Scholz made his extensive library available to Heyting, fortunate since Münster was relatively close to Enschede, and a lifelong friendship arose between the two.
 * Heyting's academic isolation in Enschede no longer seemed the problem that it might have been.
-* By this time Heyting had married Johanne Friederieke Nijenhuis.
 * Heyting attended the Erkenntnis Symposium at Königsberg in September 1930.
 * Although Heyting's version of intuitionist logic differed somewhat from that of Brouwer, it is clear that one of his main aims was to make Brouwer's ideas more accessible and better known.
 * There were others interested in intuitionist logic working on similar problems of formalisation at the same time as Heyting.

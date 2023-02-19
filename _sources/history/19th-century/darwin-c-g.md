@@ -31,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1936 Darwin left Edinburgh to take up the position of Master of Christ's College, Cambridge.
 * Darwin received many honours for his outstanding work in mathematical physics.
 * He was a grandson of the Charles Darwin.
-* He was a godson of the childless Francis Galton, who in formulating the principles of eugenics had been much inspired by the work of the grandfather Darwin, Galton's cousin.
 * By heredity and upbringing, C G Darwin was himself a prime example of good breeding: like many of his illustrious forebears, he achieved intellectual eminence and was a striking demonstration that 'like begets like'.
 * Thus one purpose of this essay is to draw out Darwin's perspectives on eugenics, and some of the factors that helped shape them.
 * Darwin's chronology paralleled that of the British eugenics movement.

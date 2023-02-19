@@ -23,13 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James Gregory** was a Scottish scientist and first Regius Professor of Mathematics at St Andrews who described the first practical reflecting telescope. He worked on using infinite convergent series to find the areas of the circle and hyperbola.
 
 ### Mathematical Profile (Excerpt):
-* His father was John Gregory and his mother was Janet Anderson.
 * John Gregory had studied at Marischal College in Aberdeen, then gone on to study theology at St Mary's College in the University of St Andrews before spending his life in the parish of Drumoak.
-* James seems to have inherited his genius through his mother's side of the family.
-* James was the youngest of his parents three children.
-* He had two older brothers Alexander (the eldest) and David, and there was an age gap of ten years between James and David.
-* James learnt mathematics first from his mother who taught him geometry.
-* His father John Gregory died in 1651 when James was thirteen and at this stage James's education was taken over by his brother David who was about 23 at the time.
 * James was given Euclid's Elements to study and he found this quite an easy task.
 * Gregory's health was poor in his youth.
 * Gregory began to study optics and the construction of telescopes.
@@ -64,9 +58,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We have already mentioned that Robert Moray was a member of the Royal Society with whom Gregory was friendly.
 * Gregory arrived in St Andrews late in 1668.
 * Gregory found that St Andrews was of classical outlook where the latest mathematical work was totally unknown.
-* In 1669, not long after arriving in St Andrews, Gregory married Mary Jamesone who was a widow.
-* After Gregory's death she married for a third time.
-* Mary Jamesone's father George Jamesone was a distinguished Scottish portrait painter.
 * However Gregory was to carry out much important mathematical and astronomical work during his six years in the Regius Chair.
 * Gregory preserved all Collins's letters, writing notes of his own on the backs of Collins's letters.
 * Collins sent Barrow's book to Gregory and, within a month of receiving it, Gregory was extending the ideas in it and sending Collins results of major importance.

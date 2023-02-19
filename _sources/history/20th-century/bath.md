@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Frederick is 6 months old and was born in Islington, London.
 * At the 1911 census they are still living in Bath at 17 Shaftesbury Avenue, Lower Weston, Bath.
-* Edith Matilda Bath is the head of the family but now Frederick has two siblings, Catherine Bath (born about 1906) and Robert Bath (born about 1910).
 * Fraser had the same strong influence on Bath, and he encouraged him to undertake research at Cambridge after he had graduated with First Class Honours in Mathematics from Bristol.
 * Bath entered King's College, Cambridge, where he undertook research with H W Richmond.
 * Bath was awarded his doctorate from Cambridge for his thesis Researches In The Geometry Of Algebraic Curves And Surfaces.

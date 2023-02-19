@@ -27,12 +27,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Although quite a few details (and legends) of al-Kindi's life are given in various sources, these are not all consistent.
 * Certainly all agree that al-Kindi was descended from the Royal Kindah tribe which had originated in southern Arabia.
 * After beginning his education in Kufah, al-Kindi moved to Baghdad to complete his studies and there he quickly achieved fame for his scholarship.
-* Al-Kindi was appointed by al-Ma'mun to the House of Wisdom together with al-Khwarizmi and the Banu Musa brothers.
 * The main task that al-Kindi and his colleagues undertook in the House of Wisdom involved the translation of Greek scientific manuscripts.
-* Al-Kindi continued to be in favour and al-Mu'tasim employed al-Kindi to tutor his son Ahmad.
 * Under both these Caliphs al-Kindi fared less well.
 * In fact most of al-Kindi's philosophical writings seem designed to show that he believed that the pursuit of philosophy is compatible with orthodox Islam.
-* It is claimed that the Banu Musa brothers caused al-Kindi to lose favour with al-Mutawakkil to the extent that he had him beaten and gave al-Kindi's library to the Banu Musa brothers.
 * Al-Kindi "was the most leaned of his age, unique among his contemporaries in the knowledge of the totality of ancient scientists, embracing logic, philosophy, geometry, mathematics, music and astrology.
 * Perhaps, rather surprisingly for a man of such learning whose was employed to translate Greek texts, al-Kindi does not appear to have been fluent enough in Greek to do the translation himself.
 * Clearly he was most influenced most strongly by the writings of Aristotle but the influence of Plato, Porphyry and Proclus can also be seen in al-Kindi's ideas.

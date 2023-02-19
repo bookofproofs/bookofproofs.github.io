@@ -23,15 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Oughter Lonie** was a Scottish teacher whose ideas were influential in the development of Scottish education.
 
 ### Mathematical Profile (Excerpt):
-* His father, also named William Oughter Lonie, was an engineer and his mother was Agnes Morrison.
 * However, this is explained by the fact that Lonie was training to be a teacher and began working in schools in 1838 in parallel with his university studies.
 * He declared the satisfaction it had given him to observe the activity and promise of Mr Lonie.
 * Mr Lonie's mathematical classes occupied the earlier hours of the forenoon.
 * Dr Haldane addressed Mr Lonie with unqualified commendation.
-* Lonie married Eliza Craig in Kinghorn on 12 December 1849.
 * On 22 November 1850 their twin sons were born: Alexander Charles Oughterlonie and William Robert Oughterlonie.
-* Tragedy struck the family soon after this and within a couple of years Eliza had died and William Robert had died in infancy.
-* Alexander Charles Oughterlonie had a poetic temperament inherited from his mother and finished his college course with distinction.
 * Although devoting himself to teaching at Madras College, where he was seen as an educational reformer, Lonie also undertook research.
 * He corresponded with Professor Macdonald at the University of Glasgow about his experiments and the University holds one such letter from Lonie dated 29 January 1853.
 * A related area of interest would lead to Lonie gaining an international reputation.

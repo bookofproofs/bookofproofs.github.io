@@ -44,7 +44,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Introduction to Modern Algebra and Matrix Theory by Schreier and Sperner was published in 1951.
 * We return to our description of Sperner's life and career.
 * From the spring of 1942, Sperner worked as an assistant in the Navy's Weather Service.
-* He married his second wife, Antonie Schwörer, in Biberach an der Riss; their two sons Emanuel Sperner Jr and Peter Sperner both became mathematicians.
 * While still undertaking this war work in 1943, Sperner accepted an appointment as a professor at Strassburg.
 * A request was submitted to transfer Sperner to the University of Hamburg where, not only were there staff shortages, but he had contacts with the naval observatory there though his war work.
 * Wilhelm Süss was the director of the Oberwolfach Institute and Sperner was appointed as deputy director.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Giovanni Battista Riccioli** was an Italian astronomer and a Jesuit priest. He is known for his experiments with pendulums and falling bodies.
 
 ### Mathematical Profile (Excerpt):
-* Giambattista is merely another version of Giovanni Battista so Giovanni, the subject of this biography, was given the same name as his father.
 * Riccioli entered the Jesuit Order on 6 October 1614, when he was 16 years of age.
 * The Jesuits ran three educational establishments in Parma, the university, a college for educating the sons of the nobility, and a Jesuit College, established around 1600, which Riccioli attended.
 * Riccioli spent eight years at the Jesuit College at Parma.
@@ -54,8 +53,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Among the many discoveries made by Riccioli which we have not yet mentioned, is his first recorded observation a double star, namely the star Mizar in Ursa Major.
 * We also did not mention Riccioli's early publication Prododia Bononiensis.
 * This two-volume treatise (Volume 1, 1639; Volume 2, 1640) showed the range of Riccioli's expertise for this book was on metrics and Latin prose style.
-* Throughout his life, Riccioli corresponded with many leading scientists, for example: Johannes Hevelius, the Polish astronomer living in Danzig, now Gdańsk; Christiaan Huygens; Giovanni Domenico Cassini, who had learnt much from Riccioli while in Bologna; and Athanasius Kircher, the German Jesuit priest and scholar who lived in Rome from 1634 onwards and acted in a similar way to Mersenne in corresponding with a wide range of scholars.
-* Riccioli became quite emotional when his ideas were challenged, for example he became very upset when Stephano degli Angeli challenged his "proof" that the earth was stationary.
 * Riccioli's character was described by his contemporaries as sanguine, fiery, choleric, melancholic and phlegmatic.
 
 Born 17 April 1598, Ferrara (now Italy). Died 25 June 1671, Bologna (now Italy).

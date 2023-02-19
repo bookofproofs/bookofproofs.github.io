@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At this meeting Guidy-Wandja was elected as President of the International Committee on Mathematics in Developing Countries.
 * The Chairman of the Committee on Development and Exchange wrote to Guidy-Wandja making clear that the Committee on Development and Exchange was the only body within the International Mathematical Union with a remit for developing countries.
 * He asked why Guidy-Wandja felt it necessary to set up a new organisation.
-* In 1985, in collaboration with Jess Sah Bi, Guidy-Wandja published the children's mathematics comic book Yao crack en maths.
 * In 1992 Guidy-Wandja was awarded a Doctorat d'État en Science Économie for her thesis La dynamique d'intégration commerciale des pays de l'Afrique subsaharienne: cas de la Zone Franc Ⓣ(The trade integration dynamics of the countries of sub-Saharan Africa: the case of the Francophone Zone).
 * The letters CFA have been given different meanings over time, from 'French Colonies of Africa', to 'French Community of Africa', but by the time Guidy-Wandja wrote this article it stood for 'African Financial Community'.
 * A publication by Guidy-Wandja, Excision?

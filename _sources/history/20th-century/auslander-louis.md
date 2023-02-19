@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Both Charles Auslander and Ida emigrated to the United States in 1907 when they were babies.
-* Louis, who was known to his friends and colleagues as Lou, had a older brother Maurice, born in Brooklyn, New York, on 3 August 1926.
 * Maurice Auslander also became a prominent mathematician and has a biography in this archive.
 * Louis Auslander was educated in Brooklyn, New York, where he completed both his primary and secondary education.
 * Louis was a talented and devoted mathematician.

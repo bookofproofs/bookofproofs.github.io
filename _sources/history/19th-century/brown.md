@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ernest Brown** worked on lunar and planetary motion.
 
 ### Mathematical Profile (Excerpt):
-* Ernest was the second of his parents' children, having one older sister.
 * Brown received his B.A. in 1887 when he was ranked Sixth Wrangler in the Mathematical Tripos (meaning he was the sixth best student with First Class honours in mathematics).
 * Brown was appointed as an instructor in mathematics at Haverford College, Pennsylvania in 1891 then, in 1893, he was promoted to full Professor of Applied Mathematics.
 * While he had worked in Cambridge, before going to the United States, Brown had read Hill's Researches in the lunar theory (1878) and published his own ideas on that theory.

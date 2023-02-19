@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Friedrich Bachmann**  was a German mathematician who specialised in geometry and group theory.
 
 ### Mathematical Profile (Excerpt):
-* He was the son of the Lutheran minister and teacher Hans Bachmann who published works such as Das Jesusbild der sogenannten modernen Theologie und der geschichtliche Jesus Ⓣ(The image of Jesus in the so-called modern theology and the historical Jesus) (1912).
-* Friedrich's paternal grandfather was the mathematician Paul Bachmann (1837-1920), who had studied with Dirichlet and Dedekind, had Kummer as the advisor for his PhD and, after his Habilitation in 1868 in Breslau, had become a full professor in Münster.
 * Paul Bachmann is well known as the author of several textbooks in Number Theory and has a biography in this archive.
 * Friedrich Bachmann attended the Gymnasium in Münster and, after graduating, he studied from 1927 in Berlin and Münster.
 * After further work on logic, including starting to prepare the correspondence between Gottlob Frege and Bertrand Russell for publication, Bachmann turned to questions on geometry.
@@ -34,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Bachmann published an extended and updated second edition of this book in 1973.
 * Later Bachmann dealt with an extension of his approach to so-called Hjelmslev groups, which is presented in the 1989, posthumously published, book Ebene Spiegelungsgeometrie.
 * In 1970, in collaboration with Eckart Schmidt, Bachmann had published n-Ecke Ⓣ(n-gons) (an English translation with the title n-gons appeared in 1975).
-* Friedrich Bachmann retired on 31 March 1977, he died on 1 October 1982 in Kiel, leaving his wife Alexandra née von Bredow, who was a great-granddaughter of Bismarck, and a son Sebastian.
 
 Born 11 February 1909, Wernigerode, Germany. Died 1 October 1982, Kiel, Germany.
 

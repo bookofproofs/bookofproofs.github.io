@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Richard Varga** was an American mathematician who worked in numerical analysis and linear algebra.
 
 ### Mathematical Profile (Excerpt):
-* Now Varga's father knew from experience that working with tools was a dirty job and he wanted his son to have a better and cleaner life.
 * He felt that a draftsman would be an ideal trade and Richard was educated with this profession in mind.
 * The Case School of Applied Science, founded in 1880, was renamed the Case Institute of Technology in 1947, about the time Varga entered it, and became part of Case Western Reserve University in 1967.
 * In his second year the Case Institute of Technology introduced a mathematics degree and, having already realised that this was his favourite subject, Varga changed to major in mathematics.

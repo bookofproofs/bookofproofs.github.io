@@ -23,13 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **George  Dantzig** was an American mathematical scientist who worked in operations research, computer science, economics and statistics. He is best known for inventing the simplex algorithm for linear programming.
 
 ### Mathematical Profile (Excerpt):
-* It was into this very poor family that George was born.
-* George was named "George Bernard" after George Bernard Shaw since his parents hoped their first child would become a writer.
-* Similarly George's younger brother was named Henry after Henri Poincaré, and he did indeed become a mathematician.
 * Tobias was working on his most famous work Number: the language of science in the late 1920s and George helped him.
-* After graduating from High School, Dantzig decided to study mathematics at the University of Maryland, where by this time his father was on the Mathematics Faculty.
-* Despite the improved status of his family, Dantzig's parents were still quite poor and not in a position to finance their son through a more prestigious university.
-* The newly married couple moved to Ann Arbour where Dantzig began graduate studies at the University of Michigan as a Horace Rackham Scholar.
 * In 1937 Dantzig was awarded an M.A. in mathematics, having studied under T H Hildebrandt, R L Wilder and G Y Rainer.
 * Unhappy with abstract mathematics, the only courses he enjoyed being on statistics, Dantzig decided to give up his graduate studies.
 * Having read statistics papers by Neyman, Dantzig wrote to him in 1939 asking if there was any possibility he could obtain a teaching assistantship at Berkeley so that he could complete his doctoral studies under Neyman's supervision.

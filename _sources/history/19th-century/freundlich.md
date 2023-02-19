@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Finlay Freundlich** was a distinguished German astronomer who worked with Einstein on measurements of the orbit of Mercury to confirm the general theory of relativity. He left Germany to avoid Nazi rule and became the Napier Professor of Astronomy at St Andrews.
 
 ### Mathematical Profile (Excerpt):
-* Philip Freundlich was a German businessman but his wife Ellen was British.
 * Perhaps it is worth explaining that Finlay Freundlich only called himself "Finlay" after he came to live in Scotland (this being a Scottish name); he was known as Erwin Freundlich for the first fifty years of his life.
-* Finlay Freundlich was one of a family of seven children, five boys and two girls.
 * At eighteen years of age, in 1903, Freundlich completed his school education and went to work in the dockyards in Stettin.
 * The health problem was a heart condition and, when he had recovered, Freundlich decided not to continue his course on naval architecture but rather to enter the University of Göttingen to study mathematics, physics and astronomy.
 * At Göttingen, Freundlich was a student of Klein.
@@ -35,9 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Freundlich worked with Einstein in 1911 attempting to make the measurements of Mercury's orbit required to confirm the general theory of relativity.
 * He confirmed it in a paper of 1913 but Freundlich had to go against the wishes of the Director of the Berlin Observatory who strongly advised him against publishing such a revolutionary idea.
 * It is important to realise how daring this publication by Freundlich was, for it claimed that Newton's theory of gravitation, so long held as one of the greatest achievements of the human mind, was wrong.
-* Freundlich married Käte Hirschberg in 1913.
-* She was Jewish while Freundlich was not a practising Jew (though he had a Jewish grandmother), so the wedding was a civil one taking place in Herder House in Weimar.
-* The observatory in Berlin moved to a new site at Neubabelsberg and a house was built for Freundlich and his wife close to the new observatory.
 * Freundlich was interested in measuring the deflection in a light ray passing close to the sun since again Einstein's incomplete theory of relativity suggested that this test could be used to check the validity of the theory and show that Newton's theory was incorrect.
 * The only way to make such measurements at this time was during an eclipse and Freundlich wanted to journey to somewhere within the path of totality of the eclipse which would happen in 1914.
 * Such expeditions cost considerable amounts of money but Freundlich had the good fortune of being introduced to Gustav Krupp von Bohlen und Halbach by a friend.
@@ -50,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * During this period Freundlich planned three further expeditions to observe an eclipse and measure the deflection of light passing close to the sun.
 * However, one to Sumatra in 1929 was completely successful but the value which Freundlich found for the deflection of light was more than that predicted by Einstein's theory.
 * Having one grandparent of the Jewish religion made someone non-Aryan, so this affected Freundlich.
-* It would have been impossible for him to continue in Germany since his wife was Jewish and in addition his wife's sister had died early in 1933 and Freundlich and his wife had become the guardians of his sister-in-law's two young children Hans and Renate (who of course were also Jewish).
 * In Istanbul Freundlich helped create a modern observatory.
 * Eddington had advised the Principal of the University of St Andrews that Freundlich was an outstanding person to both create the department of astronomy and to organise the construction of an observatory.
 * In St Andrews Freundlich fitted in easily.

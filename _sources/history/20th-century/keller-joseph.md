@@ -31,10 +31,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Keller was awarded a Ph.D. in 1948 for his thesis Reflection and Transmission of Electromagnetic Waves by Thin Curved Shells.
 * A number of Keller's publications had appeared in print before the award of his doctorate.
 * Another paper Reflection and transmission of sound by thin curved shells (1947) was a joint work of Keller with his research advisor Henry Primakoff.
-* In 1948 Keller published a paper Reflection and transmission of sound by a spherical shell written jointly with his younger brother Herbert Keller.
 * Keller's first two single-author papers appeared in 1948: On the solution of the Boltzmann equation for rarefied gases; and The solitary wave and periodic waves in shallow water.
 * Keller was appointed as an Assistant in the Courant Institute of Mathematical Sciences in 1948.
-* On 29 August 1963, Keller married Evelyn Fox; they had two children Jeffrey M Keller and Sarah N Keller.
 * The Kellers were divorced on 17 November 1976.
 * While holding his chair at New York University, Keller spent time at Stanford University, being Visiting Professor of Mathematics there in 1969-1970 and again in 1976-1978.
 * Keller has worked extensively on problems related to national security, including sonar, underwater explosions, atmospheric explosions of hydrogen bombs, and A-bomb explosions on ships and submarines.

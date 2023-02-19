@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * In fact Pierre Gassendi was actually given the name Pierre Gassend and only later used the now familiar Gassendi form.
-* Pierre spent his childhood in the village of Champtercier.
-* His uncle, Thomas Fabry, was the parish priest and he gave the young Pierre a good educational grounding.
 * When Pierre was seven years old he was sent to school in Digne, a much larger town across the valley about 10 km from Champtercier.
 * In 1607, Gassendi left school in Digne and returned to his native village of Champtercier where he spent the next two years.
 * He clearly was an exceptional student for when Fesaye was absent he asked Gassendi to take the lecture in his place.
@@ -47,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After returning to Provence from Paris, Gassendi wrote to Galileo with strong support for his argument that the earth revolves round the sun.
 * Gassendi had been intending to produce six further volumes of his Exercitationes  but at this time he decided to give up the project.
 * Pierre and Jacques Dupuy were librarians at the Bibliothèque du Roi, which dated back to the fourteenth century.
-* Pierre and Jacques Dupuy travelled throughout France amassing books and manuscripts for the library and, after Gassendi met the brothers, he worked at their library undertaking research on Epicurus.
 * In 1632 Gassendi published Mercury seen on the face of the sun, which described his observations of the transit of Mercury which he observed from Paris in November 1631 following the prediction of the event by Kepler in 1629.
 * Gassendi had used a telescope to project the image of the sun onto paper, and so was able to observe the transit.
 * Gassendi continued to publish works on philosophy and astronomy.

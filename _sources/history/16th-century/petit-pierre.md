@@ -24,21 +24,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * The old town in which Pierre was brought up was on a hill dominated by a château.
-* As Petit was much involved in the government of France, we should look briefly at political events of the times in which he lived.
 * In 1633 Petit moved to Paris to play a role in national rather than local government.
 * Being in Paris had another advantage for Petit since it allowed him to become more involved with men of science than he could be in a town like Montluçon.
 * When Petit arrived in Paris in 1633 he was appointed 'Commissaire Provincial de l'Artillerie' by Richelieu.
 * In Paris Petit joined with the group of scientists meeting with Mersenne at the Minims de l'Annociade near Place Royale.
 * In the year Petit arrived in Paris, Mersenne published Traité des mouvements, and in the following year he published Les Mécanique de Galilée which was a version of Galileo's lectures on mechanics.
-* Étienne Pascal had arrived in Paris two years before Petit so that his son could have the best education.
 * Petit was an influential figure with important government positions which enabled him to try to influence national science policy.
 * A firm believer, as were the other members of Mersenne's group, of the experimental method rather than the philosophical approach advocated by Descartes, Petit argued strongly for better astronomical facilities in France.
 * Petit argued that France had fallen behind some other European countries and was relying on observations made in other countries.
 * Petit himself had a fine collection of astronomical instruments and several of these were of his own invention.
 * In particular, late in his life, Petit devised a filar micrometer to measure the diameters of celestial objects such as the Sun, Moon and planets.
 * By this time Petit was 'Intendant Général des Fortifications', a position he was appointed to in 1649, and he wrote a letter which describes the instrument.
+* This was published in the Journal des sçavans  in May 1667 as Extrait d'une lettre de M Petit Intendant des Fortifications ...
 * Petit's instrument was later used by Giovanni Cassini in the Royal Observatory in Paris.
-* Among many collaborations, Petit worked with Étienne Pascal and his son Blaise Pascal in October 1646 in repeating Torricelli's experiment on the barometric vacuum.
 * Petit wrote an account of these experiments which were published as Observation touchant le vuide faite pour la première fois en France  in 1647.
 * Petit kept up a regular correspondence with the secretary of the Royal Society in London after its foundation in 1660 and was one of the first foreign fellows of that Society when elected in April 1667.
 * Petit had written Dissertation sur la nature des comètes  in 1665 which had been highly praised by the Royal Society and must have played a large role in him being elected a fellow.

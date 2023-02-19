@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Schoen left Stanford in 1976 to take up the position of Instructor in Mathematics at the University of California, Berkeley.
 * It was in Berkeley that Schoen met Doris Helga Fischer-Colbrie.
 * She had been a Teaching Assistant at Berkeley while working for her doctorate advised by Blaine Lawson but, when Schoen arrived in Berkeley, she was a Research Assistant.
-* Later, on 29 October 1983, Richard Schoen and Doris Fischer-Colbrie were married; they had two children Alan (born 29 February 1984) and Lucy (born 25 April 1988).
 * Schoen spent two years as an Instructor at Berkeley, then in 1978 he took up an appointment as an Assistant professor at New York University.
 * As indicated by this quote, Schoen was a Visiting Member at the Institute for Advanced Study, Princeton, during 1979-80, a visit that was funded by a Sloan Postdoctoral Fellowship.
 * In the early eighties, Schoen brought the Positive Mass Theorem to bear on the resolution of the famous Yamabe problem, providing more evidence to support the development of the mathematical theory of the constraint equations, and inspiring many others to do so.

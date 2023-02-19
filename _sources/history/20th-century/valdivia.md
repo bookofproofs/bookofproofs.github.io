@@ -32,6 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Following the award of his mathematics doctorate, Valdivia was awarded a fellowship by the "Juan March" Foundation for Research in Mathematics in 1963.
 * In 1969 Valdivia was appointed to the Chair of Algebra and Infinitesimal Calculus at the Escuela Técnica Superior de Ingenieros Agrónomos of the Polytechnic University of Valencia.
 * The pioneering aspect of Valdivia's mathematical research must also be emphasized, since when he began research in the early sixties mathematical research in Spain was practically nonexistent, at least according to international standards, which he immediately attained with multiple functional analysis results.
+* Investigations by Valdivia have focused on a surprising variety of topics: analysis and topology, geometry of Banach spaces, Fréchet spaces and locally convex spaces, compact spaces, real analytic functions, Schwartz distributions, polynomials, multilinear forms, ...
 * We highlight, also as an illustration, his interest in weak compactness in Banach spaces, the study of which led him to define the notion of compact space that has been fertile for many researchers and is now known as the compact space of Valdivia.
 * Three problems posed by Alexander Grothendieck were solved by Valdivia in the papers Solution of a problem of Grothendieck (1979), On quasi-normable echelon spaces (1981) and A characterization of totally reflexive Fréchet spaces (1989).
 * These words can be applied to Professor Valdivia.

@@ -23,13 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Lee Glaisher** was an English mathematician and astronomer who wrote over 400 articles on astronomy, special functions, calculation of numerical tables, number theory and the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Cecilia Louisa Belville and his father, a leading mathematician and astronomer, was named James Glaisher.
-* James senior worked at the Royal Observatory where he was the Superintendent of the Magnetical and Meteorological Department, and he had married Cecilia, the daughter of Henry Belville who was an assistant at the Observatory for forty years.
-* Before examining Lee's biography, let us note that his father was the first to recognise the existence of the stratosphere.
-* Lee was his parents' eldest son, having one brother named Ernest and one sister.
-* Certainly family life was happy during the first decade of Lee's life, but later it became strained.
-* Lee, as one might expect, inherited certain characteristics from each parent: like his father he was extremely conscientious, to the degree that it made both of them difficult people to live with; like his mother he was socially retiring with a love of things artistic.
-* In fact his father played a major role in directing Lee's education at St Paul's to the extent that his fellow pupils were very aware of the unusual degree of his involvement.
 * Lee showed himself a highly gifted mathematician, winning a Campden Exhibition in 1867 to study at Trinity College, Cambridge.
 * In the same year in which he graduated Glaisher joined the Royal Astronomical Society and so began a long association with that Society.
 * His presidential address, given at Leeds on 4 September 1890, was on Mathematical and Physical Science.

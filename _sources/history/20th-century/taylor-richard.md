@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * John Taylor is a mathematical physicist, now Emeritus Professor of Mathematical Physics at the University of Cambridge.
-* Richard's mother, Mary Taylor, was a piano teacher.
-* Richard was born in Cambridge but, when he was two years old, the family moved to Oxford where Richard was brought up and attended school.
 * After completing his school studies at Magdalen College School, Taylor returned to Cambridge where he matriculated at Clare College in 1980.
 * Taylor graduated from the University of Cambridge in 1984 and, after some doubts as to whether he was good enough to undertake research in an area as demanding as number theory, he decided that he would undertake graduate studies at Princeton in the United States.
 * Taylor spent four years at Princeton 1984-88, during which time he undertook research for a Ph.D. advised by Wiles.
@@ -34,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Taylor, still a fellow of Clare College, was appointed Assistant Lecturer (1989-92), Lecturer (1992-94), then Reader (1994-95) at Cambridge University during the six years 1989-95.
 * Taylor moved to Oxford in 1995 when he was appointed Savilian Professor of Geometry.
 * Dr Taylor will be a fellow of New College.
-* Taylor married Christine Jiayou Chang in 1995.
 * As he explains in the above quote, after only one year at Oxford, Taylor moved to the United States when he was appointed as a Professor at Harvard University.
 * In 2002 Taylor was appointed as Herchel Smith Professor of Mathematics at Harvard.
 * Taylor joined the Mathematics Department in the School of Humanities and Sciences of Stanford University in July 2018 when he was appointed as the new Barbara Kimball Browning Professor.

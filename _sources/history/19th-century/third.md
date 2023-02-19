@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **J A Third**  became  Director of Education for Ayrshire. A prize at the University of Aberdeen is named after him.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Ann Sinclair (born in Tyrie, Aberdeenshire about 1840).
-* He was the oldest of his parents' children having younger siblings: James, Alexander, Henry Third, Helen and Andrew.
 * J A Third was educated at Robert Gordon's College and he graduated with Honours in Philosophy and Mathematics from the University of Aberdeen in 1885.
 * In his student days he was one of the editors of Alma Mater, the Aberdeen University student magazine.
 * He was then appointed as an assistant in mathematics at Aberdeen University and later he became a lecturer at Aberdeen Training College.
@@ -50,9 +48,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At the annual meeting of the British Mathematical Association, held on 20 January 1900, Third presented the paper Triangles triply in perspective.
 * In the Mathematical Questions and Solutions section of the Educational Times of 1902 he published The perpendicular from the isogonal conjugate of any point on the Euler line of a triangle to the trilinear polar of the point passes through the orthocentre.
 * The Edinburgh Mathematical Society was not the only British mathematical society that Third joined for, on 9 May 1901, he paid the life-composition fee of the London Mathematical Society and became a member for life.
-* Third married Elizabeth Lamb Ramage.
 * They had a son, John Third, who was awarded an Honours M.A. from Aberdeen in 1914, then later worked for ICI.
-* They also had a daughter Edith Ramage Stewart Third who married Alexander Turnbull, a carpet manufacturer, in Glasgow Cathedral on 15 September 1926.
 * Third was Chairman of the Educational Institute branch in Kintyre and Ayrshire and in this capacity served on many committees.
 * In 1919 he was President-elect of the Educational Institute but resigned the position on being appointed Director of Education.
 * He was Director of Education for Ayrshire from 1919 until he retired in 1927.

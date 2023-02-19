@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Edmond Bour** was a French mathematician and engineer who made  significant contributions to analysis, algebra, geometry and applied mechanics.
 
 ### Mathematical Profile (Excerpt):
-* The family were not particularly well off but Edmond had a good education in Gray before going to Dijon to complete his education and to take the entrance examinations of the École Polytechnique.
 * Having been accepted for admission to the École Polytechnique, Bour entered in 1850.
 * Bour continued his studies at the École des Mines in Paris and worked on a major paper Sur l'intégration des équations différentielles de la mécanique analytique Ⓣ(On the integration of the differential equations of analytical mechanics) which was read before the Académie des Sciences on 5 March 1855 and published in the Journal de mathématiques pures et appliquées.
 * While at the École des Mines Bour wrote two doctoral theses.

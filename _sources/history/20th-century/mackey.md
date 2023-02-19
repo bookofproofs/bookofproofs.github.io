@@ -35,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Mackey has written many beautiful survey articles and in 1992 the American Mathematical Society and the London Mathematical Society in their wonderful series 'History of Mathematics' published The scope and history of commutative and noncommutative harmonic analysis  by Mackey.
 * This consisted mostly of survey articles written by Mackey as expanded versions of lectures given at conferences between 1977 and 1988.
 * Many doctoral students at Harvard having Mackey as a thesis advisor went on to have academic careers.
-* Mackey married Alice Willard on 9 December 1960; they had a daughter Ann Sturges Mackey born in 1963.
 
 Born 1 February 1916, St Louis, Missouri, USA. Died 15 March 2006, Belmont, Massachusetts, USA.
 

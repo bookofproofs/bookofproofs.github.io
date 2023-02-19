@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Donald Pack** was an English mathematician who worked on supersonic airflows. He went on to become principal of Strathclyde University.
 
 ### Mathematical Profile (Excerpt):
-* John Cecil Pack was a shoe machine operator living at 24 College Street, Higham Ferrers, the son of Arthur George Pack, a commercial traveller.
-* Four bridesmaids attended - Miss Ethel Spavins, sister of the bride, wore a dress of marine blue velvet, the Misses Elsie and Florence Pack, sisters of the bridegroom, were suitably attired in white silk.
-* Mr A Pack, brother of the bridegroom carried on the duties of best man.
 * Mr and Mrs Pack were the recipients of many valuable presents.
 * Donald's early years were spent in Higham Ferrers where he attended the Primary School.
 * It had moved to a new site in 1881 and there, as well as the strong academic teaching, Donald was able to enjoy the sporting emphasis with a new pavilion being opened on the playing fields one year before he began his studies there.
@@ -35,10 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After a year at Cambridge working in the Mathematical Laboratory, in 1942 Pack was awarded a BA by the University of Cambridge.
 * After this year at Cambridge, Pack was sent to the Royal Armament Research and Development Establishment at Fort Halstead, near Sevenoaks, Kent, where he was Scientific officer, Ministry of Supply.
 * At Fort Halstead, Pack joined a team led by Nevill Mott (1905-1996), working on problems involving armaments and set up to advise military designers on problems relating to explosives, fragmentation bombs, the attack and defence of tanks and other similar problems.
-* Later that year, on Wednesday 19 November 1947, Pack married Constance Mary Gillam (1922-2010), known as Connie.
 * Connie was also on the staff of the mathematics department in Dundee being, like Pack, an Oxford graduate.
-* The professor at University College, Dundee, was Edward Copson so Donald and Connie asked him if they could have the day off to get married.
-* Few couples can both have given a lecture on the morning of their wedding! Donald and Connie Pack had three children, John Richard Pack, Alan Donald Pack, and Catherine Mary Pack.
 * Pack had never studied for a Ph.D. since he had gone straight from being an undergraduate to undertake war work.
 * Returning to Britain after his year in the United States, Pack was appointed as a lecturer at the University of Manchester taking up the position in the autumn of 1952.
 * The Glasgow Royal Technical College that Pack had joined was an ancient institution, founded in 1796 as the Andersonian Institute.
@@ -56,7 +50,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Donald fetched his violin and the two of them ended up playing duets.
 * Pack was only ever an amateur violinist, playing for pleasure, but for many years he enjoyed playing in a string quartet in his own home.
 * It was in December 1978 that Pack received the first £5000 instalment of a £20000 pump-priming grant from the Carnegie Trust and formally announced the founding of the Orchestra.
-* Pack and his wife usually travelled with the Orchestra when they made tours.
 * Although music was Pack's greatest hobby, he also enjoyed gardening and golf.
 
 Born 14 April 1920, Higham Ferrers, Northamptonshire, England. Died 3 December 2016, Bearsden, Glasgow, Scotland.

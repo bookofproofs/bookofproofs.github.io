@@ -27,8 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1913 Lidstone was appointed as Manager and Actuary of the Scottish Widows' Fund in Edinburgh.
 * The Senatus desires to mark its appreciation of this friendly spirit of co-operation In- including Mr Lidstone's name in the roll of honorary graduates.
 * Lidstone's sight had deteriorated over a number of years and it caused him to give up his Directorships of the Scottish Widows' Fund and of the Royal Bank of Scotland.
-* Lidstone had married Florence Mary Gay and she died in 1942.
-* At Hermiston House, Midlothian on 16 December 1942, Florence Mary Lidstone (formerly Gay), the beloved and devoted wife of George James Lidstone.
 * By now Lidstone was totally blind but he struggled on bravely facing the difficulties alone.
 * All who have had the privilege of visiting Mr Lidstone bear witness to the courage with which he has borne his affliction.
 * Mr William Penman, a Past-President of the Institute, presented the Address in person to Mr Lidstone at his home in Edinburgh.

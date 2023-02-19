@@ -35,6 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * thus it is the geometer's business to refute the quadrature by means of segments, but it is not his business to refute that of Antiphon.
 * However Simplicius failed to properly understand what Antiphon was doing.
 * He thought that Antiphon was claiming to have squared the circle.
+* Antiphon appears to have believed that complete coincidence could be achieved by his method ...
 * This may mean that Antiphon regarded the circle as a polygon with a very large (or possibly infinite) number of sides.
 * Antiphon was involved in an anti-democratic revolution which failed.
 

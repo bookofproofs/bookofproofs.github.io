@@ -24,12 +24,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * In 1928 Johannes de Groot Sr. was appointed professor of Hebrew linguistics and Israelite archeology at the University of Groningen, succeeding Franz M Th Bohl.
-* The de Groot family had been traditionally a farming family.
 * In the 17th century they had settled in the Het Bildt region which had been reclaimed from the Middelsee (or Bordine).
-* The father of Johannes de Groot Sr. had owned a large farm on the border of Groningen and Friesland.
-* Despite being a farming family, the de Groot family was fascinated with mathematical problems and, when there was little farming activity during the winter months, they would entertain themselves solving mathematical problems.
 * De Groot Sr. was interested in mathematics but had decided to study theology and literature at the University of Groningen.
-* Johannes de Groot, the subject of this biography, attended the Christelijk Gymnasium in The Hague for two years and Willem Lodewijk Gymnasium in Groningen for two years.
 * It was his mathematics teacher J Scholten at the Willem Lodewijk Gymnasium who first awakened his interest in mathematics which led to him deciding to study mathematics at university.
 * Among his mathematics lecturers were Johannes Gaultherus van der Corput (1890-1975) and Gerrit Schaake (1892-1945).
 * Van der Corput's area of research was analytic number theory and he was a professor at Groningen from 1923 to 1946.
@@ -53,7 +49,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We mentioned above that Van der Corput, one of de Groot's influential teachers at university, had been the co-founder of the Mathematical Centre in Amsterdam in February 1946.
 * The following year, de Groot was appointed a lecturer in mathematics at the University of Amsterdam.
 * Then, in 1948, he was appointed professor of mathematics at the Technological University of Delft.
-* De Groot married Lutgerdina Steffina Koster in 1949; they had one daughter.
 * actively participating in and in many instances decisively influencing its research activity.
 * Although he worked in Amsterdam for the rest of his career, he made many visits to the United States.
 * He visited Purdue University (September 1959-September 1960), Washington University at St. Louis (September 1963-February 1964), the University of Florida at Gainesville (August 1966-March 1967), and the University of South Florida in Tampa (December 1971-March 1972).

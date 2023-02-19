@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * In 1930, after submitting his dissertation Over stelsels Diophantische ongelijkheden Ⓣ(On systems of Diophantine inequalities), Koksma was awarded his doctorate with distinction on 4 June.
 * Johannes Gerardus Sizoo was appointed as the first professor of physics and Koksma offered the first professorship of mathematics at the Free University.
-* Koksma married Gretchen van der Stouwe on 12 April 1933; they had five sons and two daughters.
 * In 1933 Koksma published the 40 page paper Diophantische Approximationen von Irrationalzahlen mit Kettenbruchnennern von eingeschränktem Wachstum Ⓣ(Diophantine approximations of irrational numbers with continued fraction denominators of limited growth), then in 1935 he published the paper Ein mengentheoretischer Satz über die Gleichverteilung modulo Eins Ⓣ(A set-theoretic theorem on the uniform distribution modulo one).
 * In 1936 Koksma published his most famous work, the book Diophantische Approximationen  Ⓣ(Diophantine approximation).
 * However there were also good times; during the years 1941-43 Koksma was thesis advisor to Nicolaas de Bruijn who wrote an outstanding dissertation Over modulaire vormen van meer veranderlijken Ⓣ(Modular forms in several variables).

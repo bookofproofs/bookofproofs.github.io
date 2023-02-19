@@ -39,7 +39,6 @@ contributors: @Faber-Renato-Fabbris,bookofproofs
 * In 1952 Caccioppoli sketched a revised vrsion of his early work on surface area and related topics, with the article Misura e integrazione degli insiemi dimensionalmente orientati Ⓣ(Measurement and integration of dimensionally oriented sets), (Rend.
 * These finite perimeter sets which were introduced by Caccioppoli are now known as "Caccioppoli sets".
 * His last work dates back to 1952-1953 and deals with pseudoanalytic functions - an original concept introduced by Caccioppoli - extending some properties of analytic functions.
-* The last years of his life were sad ones: Caccioppoli saw his political hopes disappointed, probably felt that his mathematical inspiration had run out, and his wife, Sara Mancuso, eventually left him.
 * In 1992, a film Morte di un matematica napoletono Ⓣ(Death of a Naples mathematician) was made by the Italian Director Mario Martone about the events leading to Caccioppoli's suicide.
 * The Mathematics Department at the University of Naples is named after Renato Caccioppoli.
 

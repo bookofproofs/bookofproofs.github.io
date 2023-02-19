@@ -23,12 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Robert Woodward**  was an American civil engineer, physicist and mathematician who also worked in astronomy.
 
 ### Mathematical Profile (Excerpt):
-* Lysander Woodward, a gentleman farmer, married Peninah Simpson on 11 May 1843 and they bought a large farm near the village of Rochester.
-* Robert was brought up on his parents' farm and was quickly infected by his father's enthusiasm for applying science to agricultural methods.
-* Robert wanted to continue his education at university but his father was strongly opposed to such a course for his son.
-* However, after much persuasion by Robert, his father relented and Robert was allowed to enter the University of Michigan in 1868 to study engineering.
 * Woodward graduated with a C.E. from the University of Michigan in 1872.
-* During his time with the United States Lake Survey he married Martha Gretton Bond of Detroit in that city on 1 March in 1876; they had three sons, Robert Simpson Woodward, Karl W Woodward, and William Lysander Woodward.
 * Woodward went as an assistant to Asaph Hall, the discoverer of the satellites of Mars, to observe in San Antonio.
 * Woodward was appointed as an astronomer to the United States Geological Survey in 1884.
 * As can be seen from these titles, part of Woodward's work consisted of computing latitudes and longitudes and using the data in making maps.

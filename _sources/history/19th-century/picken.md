@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **David Picken** studied at Glasgow and Cambridge universities. After a period as a lecturer at Glasgow he became Professor of Mathematics at Victoria College, Wellington New Zealand. He later moved to the University of Melbourne in Australia.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Margaret Picken (born in Edinburgh about 1847).
 * David Picken attended school at Allan Glen's, Glasgow and then studied at Glasgow University being awarded an M.A. He then went to Cambridge to study the Mathematical Tripos and matriculated at Jesus College, Cambridge in October 1899.
 * Following his graduation Picken was appointed Lecturer and Assistant Professor in the University of Glasgow.
 * In fact Picken was the second master of Ormond College, the first being John MacFarland who had become Vice-Chancellor of the University in 1914.

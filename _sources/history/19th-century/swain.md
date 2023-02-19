@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Lorna Mary Swain**  was a British mathematician who was one of few early female lecturers at the University of Cambridge.
 
 ### Mathematical Profile (Excerpt):
-* Her mother was Mary Isabella Victoria Swain (born at St Paul's, London about 1865).
 * Lorna Swain was educated at South Hampstead High School in London.
 * Swain's mathematical interests were in fluid dynamics so, as Göttingen was out of the question, she went to Manchester to work with Horace Lamb.
 * In 1920 Swain was appointed Director of Studies at Newnham College.

@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * His parents were Thomas Graham and Elizabeth Macdonald.
 * Thomas Graham Senior was station master at Stepps near Glasgow.
-* Tommy had a younger brother, John Macdonald Graham (1908-1982), who became Professor of Systematic Theology at the University of Aberdeen and twice served as Lord Provost of the City of Aberdeen (1952-55 and 1961-64).
 * Thomas and Elizabeth Graham's three sons all attended Glasgow University.
 * Tommy Graham was ranked first in his year and was awarded the Logan Medal and Prize.
 * Tommy Graham wanted to go to the University of Cambridge to undertake research in mathematics for his doctorate but obtaining the necessary funding was not simple.
@@ -42,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One is certainly the extremely high standards that Graham set for himself.
 * Although Graham was as capable and willing as any member of staff to lecture on subjects such as differential equations, he used his influence to ensure that algebra was given its proper place in the curriculum, and it was due to his efforts that the distinguished German algebraist, Hans Zassenhaus spent the year 1948-49 in Glasgow and became his close friend.
 * Graham had an excellent and ready command of English and Scots, and was an able and amusing speaker at students' final year dinners and on similar occasions.
-* Graham married Crease Barr in Glasgow in 1941; they had a daughter and two sons.
 * Tommy Graham attended the Edinburgh Mathematical Society Colloquium held in St Andrews in 1934, 1938, 1951, 1955, 1959, 1964 and 1968.
 
 Born 25 July 1905, Stepps, near Glasgow, Scotland. Died 26 January 1974, Glasgow, Scotland.

@@ -43,7 +43,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In the summer of 1955 Ree received a grant from the National Research Council of Canada and he worked with Jennings on Lie algebras.
 * In 1957 Ree published his first paper on finite simple groups, the topic for which he is best known today.
 * In this paper On some simple groups defined by C Chevalley, Ree identifies many classes of finite simple groups defined by Claude Chevalley in his ground-breaking 1955 paper, with classes of classical simple groups.
-* Analyzing the Suzuki groups, Rimhak Ree noticed that when interpreted from a Lie-theoretical point of view, they were closely related to a certain family of Chevalley groups.
 * The Suzuki and Ree groups together with those of Chevalley and Steinberg are collectively referred to as the simple groups of Lie type.
 * Ree was elected to the Royal Society of Canada in 1964.
 * His fame is proved by the fact that over 90 papers of research on Ree Group were published during the 1984-1994 period.

@@ -24,9 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * John attended primary school in Budapest.
-* Understandably, not all the family wanted to leave their home but Kemeny's grandfather, who refused to leave, died in the Holocaust.
-* An aunt and uncle of Kemeny's also failed to survive the Nazis.
-* Kemeny's family settled in New York and John attended the George Washington High School in New York City.
 * Kemeny entered Princeton in 1945,  after becoming an American citizen, where he studied mathematics and philosophy.
 * Returning to Princeton in 1946, Kemeny worked as a research and teaching assistant and an instructor in mathematics even though he was still an undergraduate.
 * Kemeny was awarded his doctorate in 1949 for a dissertation entitled Type-Theory vs.

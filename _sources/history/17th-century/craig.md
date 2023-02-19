@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Craig** was a Scottish mathematician who published three important textbooks.
 
 ### Mathematical Profile (Excerpt):
-* John was his parents second son, having a brother William six years his senior.
 * Craig was a pupil of David Gregory in Edinburgh.
 * As well as his life as Church of England clergyman, Craig also had a life as a mathematician.
 * Craig published several more papers on topics such as the logarithmic curve, the curve of quickest descent, and on the quadrature of figures.
@@ -31,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1718 Craig published a work on optics Quibus subjunguntur libri duo de optica analytica Ⓣ(Two books on the subject of analytical optics).
 * It is worth noting that despite using Leibniz's notation for the calculus in his earlier works, in this later one Craig used Newton's fluxion notation.
 * We left our description of Craig's church career at the point where he was vicar of Potterne in Wiltshire.
-* His brother William, who had been held the spiritual charge of Gillingham, died in 1721 and on 28 June 1726 Craig was appointed to the Gillingham role formerly held by William.
 * In the last part of his life Craig went to London in the hope that his mathematical abilities would be noticed.
 
 Born 1663, Hoddom, Dumfries, Scotland. Died 11 October 1731, High Holborn, London, England.

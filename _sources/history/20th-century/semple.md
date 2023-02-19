@@ -28,8 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After holding this post for one year (1929-30) he was awarded his doctorate by Cambridge for a thesis on Cremona transformations, was elected a Fellow of St John's College, Cambridge, and, still in the same year 1930, was appointed to the Chair of Pure Mathematics at Queen's University, Belfast.
 * The Department of Mathematics at Queen's University flourished under Semple's leadership.
 * Semple, however, did not try to avoid such duties, rather he took on more than a reasonable share of them being Dean of the Faculty of Arts for three years and serving on the University Senate.
-* Before leaving Belfast, however, he married Daphne Hummel, who was the daughter of one of Semple's older colleagues.
-* They had two children, John Semple who joined the medical profession, and Jessie Semple who worked in the art world.
 * In London he quickly became close friends with the Head of the Mathematics Department, George Temple (to have a Semple and a Temple in the same department must have been very confusing!).
 * The Mathematics Department of King's College was moved to Bristol, and this translation Semple had to organise since Temple was seconded to war work.
 * These were difficult years and it was Semple's leadership that kept the department functioning and having it well placed to reopen in London in 1943.

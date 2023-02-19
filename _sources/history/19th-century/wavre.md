@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Rolin Wavre** was a Swiss mathematician who worked on logic and the philosophy of mathematics as well as on geology and astronomy.
 
 ### Mathematical Profile (Excerpt):
-* William Wavre was born in Neuchâtel on 17 June 1851, the seventh of his parents' eleven children, and after attending College and the Academy in his hometown, he studied philology and archaeology at the universities of Bonn, Leipzig and Strasbourg.
-* On Tuesday 15 October 1878 he married Marie Jeanjaquet and they had eight children: Madeleine Wavre (1880-1972), Claude Wavre (1880-1891), Robert Blaise Alphonse Wavre (1882-1967) who became an engineer, Anne Wavre (1883-1963), Philippe Wavre (1884-1953), Frédéric André Wavre (1886-1963) who became a notary, Hélène Elisa Wavre (1888-1967), and Rolin Wavre (1896-1949), the subject of this biography.
 * We note from this data that Rolin's eldest sibling was 16 years old when he was born and the youngest of his siblings was 8 years old.
 * William Wavre was involved with the archaeological dig of La Tène, which lies on Lake Neuchâtel, where the many finds appear to be associated with an army defeated around 210 B.C. The 'Commission des fouilles de La Tène' was created and William Wavre directed excavations at La Tène from 1907 until his death two years later.
 * Rolin Wavre studied at the Gymnasium in Neuchâtel where he was enthusiastic for mathematics and science, topics in which he excelled.
@@ -46,7 +44,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Wavre was a plenary speaker at the International Congress of Mathematicians held in Zurich from 5 September to 12 September 1932.
 * Should we see in these remarks the reason for the reservation of Wavre with regard to the problems of relativity?
 * In 1948 Wavre, however published the book L'imagination du réel.
-* One winter's evening, one of his brothers, our colleague M Philippe Wavre, who had come hastily to Geneva, told me that his condition had suddenly become worse; the next morning, 9 December 1949, we lost him.
 
 Born 25 March 1896, Neuchâtel, Switzerland. Died 9 December 1949, Geneva, Switzerland.
 

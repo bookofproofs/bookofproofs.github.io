@@ -23,12 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Paul Butzer** is a German mathematician working in approximation theory and harmonic analysis.
 
 ### Mathematical Profile (Excerpt):
-* Anton and Wihelmine Butzer married in 1925 and moved to Mülheim an der Ruhr where Anton worked as an engineer.
-* In fact Anton Butzer took drastic steps to avoid his family becoming swept up in the Nazi wave.
-* He joined Loewy's engineering firm in London but, fearing that Paul and his younger brother Karl (about 30 months old at that time) would suffer for their father's actions, they had been sent to Gemmenich, a town in Belgium just across the border from Aachen.
 * Once their parents were settled, Paul and Karl were able to join them and, by the autumn of 1937, Paul was studying at the Jesuit Wimbledon College.
-* After a six week internment on the Isle of Man in 1940, along with his mother and brother, Butzer was able to continue schooling until the family were sent to New York where Loewy's engineering firm were opening a new branch.
-* Butzer's father got a position with a company in Montreal and in February 1941 he entered Loyola High School.
 * Butzer received an M.A. in 1949, being awarded the Sir Joseph Flavelle Prize the best performance.
 * As this time Lorentz was writing his book Berstein polynomials so work in this area was a natural choice as a topic for Butzer.
 * In 1951 Butzer was awarded a Ph.D. for his thesis On Bernstein Polynomials in which he studied classical Bernstein polynomials and their variant for integrable functions, namely Kantorovich polynomials.

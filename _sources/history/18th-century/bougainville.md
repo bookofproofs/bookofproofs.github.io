@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * He was a notary, that is a public official who authenticates writings such as deeds and takes affidavits, and depositions.
-* It was not a profession which appealed to his son, Louis-Antoine, who made career decisions to avoid following in his father's footsteps.
 * After completing his secondary schooling Bougainville was influenced by d'Alembert and he wrote Traité du calcul -intégral in 1752.
 * This extended de l'Hôpital's book, written more that half a century earlier, to cover the integral calculus and also updated the differential calculus providing an up-to-date text.
 * The Académie des Sciences noticed the work in January 1753.

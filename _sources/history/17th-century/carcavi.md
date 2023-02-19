@@ -27,27 +27,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His parents were Jean de Carcavi, a banker from Cahors, and Françoise Sablé.
 * Jean de Carcavi was an important man, being Receiver General of the districts of Languedoc, Guyenne and Lyonnais.
 * Although no record exists proving that Pierre received a university education, one can deduce from the career he embarked on that he must have studied law.
-* Jean de Carcavi set his son up as a counsellor to the parliament of Toulouse in 1632 and he remained there until 1636.
 * In fact he first met Pierre de Fermat in 1632 when they were both members of the Parliament in Toulouse and they remained close friends.
 * Carcavi clearly was fascinated by mathematics before meeting Fermat, but contact with such an inspirational mathematician fired Carcavi's interest even further.
 * Fermat had already built up a correspondence with the leading mathematicians in France and Carcavi was encouraged by him to correspond with Descartes, Roberval and Torricelli.
-* In 1636 Carcavi, with the financial help of his father, bought an office of counsellor in the Grand Conseil in Paris.
 * The friendship remained and Fermat, clearly having considerable respect for Carcavi as a mathematician, sent details of his mathematical discoveries to him in Paris.
 * For example, in the autumn of 1637 Fermat sent Carcavi Isagoge ad locos planos et solidos Ⓣ(Intoduction to plane loci and solids), an introduction to analytic geometry that he had written in the previous year before the publication of Descartes' Géométrie.
 * In Paris, Carcavi was able to have personal contact with Roberval, with whom he had already corresponded, and with Mersenne and the young Blaise Pascal.
-* He also corresponded with Galileo (for example they discussed falling bodies in a letter of 5 June 1637), Torricelli and Descartes, and he played an important role in transferring information from one to the other.
 * He made many suggestions during this correspondence which were later developed and incorporated in the papers of the other mathematicians.
 * Carcavi had met Louise de Chaponay in Lyon, and they wished to marry but Louise's parents, Humbert de Chaponay and Eléanore de Villares, did not approve.
-* On 10 March, Humbert de Chaponay and his wife disinherited their daughter Louise.
 * Humbert de Chaponay was an influential man, holding important positions including Intendant of Justice, Police and Finances in Lyon as well as being a landowner of considerable wealth.
 * It appears that Carcavi persuaded Humbert de Chaponay to recognise the marriage, for he did so on 26 August 1638.
-* This document states that Carcavi's father had paid off the outstanding debt on his son's purchase of the office of counsellor in Paris, and made his son an annual allowance.
 * Louise's parents made her a small annual allowance; despite the reconciliation, her parents had still only made her a nominal allowance.
-* There is confusion in the literature over Carcavi's marriage, and this is perfectly understandable, since Carcavi himself gave false information saying he had married beneath himself to a penniless girl, presumably to hide the embarrassment of the actual situation.
 * For example, in 1649 Carcavi wrote to Descartes telling him of the publication of Pascal's barometer experiments.
 * He also explained to Descartes the objections Roberval had to his Geometrie.
-* In 1648, however, hard times struck and he was forced to sell his office to pay for the debts of his father who had been declared bankrupt.
-* Carcavi's situation was extremely difficult, being left without a career, little capital to fall back on, and all this at a time when there was considerable political and social unrest in France.
 * To make life even more difficult for Carcavi, Mersenne died in September 1648 and by this time Carcavi was buying and selling books in an attempt to earn some money to bring in much needed cash.
 * It was never a long-term prospect and he was delighted to obtain a post with Roger du Plessis, the Duke of Liancourt.
 * Carcavi was employed as an administrator making use of his legal experience.

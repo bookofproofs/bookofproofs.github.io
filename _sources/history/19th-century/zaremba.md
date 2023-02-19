@@ -31,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Always taking a philosophical view of a problem, Zaremba combined physical intuition with enormous erudition, a method that enabled him to connect seemingly unrelated problems.
 * When the Mathematical Society of Kraków was set up in 1919, Zaremba chaired the inaugural meeting and was elected as the first President of the Society.
 * Zaremba played a crucial role in this transformation.
-* The political circumstances of the period were such that, for a decade or more, Stanisław Zaremba and Kazimierz Żorawski were the only representatives of Polish mathematics in contact with foreign countries.
 * Much of Zaremba's research work was in partial differential equations and potential theory.
 * By this time Zaremba was essentially retired from normal teaching duties but still came to give special lectures and was often seen by the students who held him in great respect and in some awe.
 * There was another side to him, however, for despite this reputation as a hard examiner, Zaremba showed great kindness and understanding to students who approached the oral examination in fear and trembling.

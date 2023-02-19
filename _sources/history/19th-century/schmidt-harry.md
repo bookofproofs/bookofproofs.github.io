@@ -31,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Schmidt published a number of important books between 1920 and 1922, in German, English and Italian.
 * In 1923 Schmidt was appointed as professor at the polytechnic institute in Koethen where he remained until 1937.
 * From August 1937 Schmidt was employed as a ordinary professor for mathematics in the service of the Reich, working at the aviation laboratory in Berlin-Adlershof.
-* This was a difficult period for Schmidt, for his wife died on 22 April 1941.
 * Schmidt's home was destroyed in a bombing raid in August, before the Battle of Berlin which began in November and saw sixteen bombing raids over the winter of 1943-44.
 * For a while after his home was destroyed Schmidt lived with friends in Berlin but in December he found a house in Koethen (Anhalt).
 * Schmidt's employment at the aviation research laboratory came to an end.

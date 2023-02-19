@@ -23,11 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jacques Dixmier** is a French mathematician who worked on  C*-algebras and other operator algebras.
 
 ### Mathematical Profile (Excerpt):
-* Although Jacques was born in Saint-Étienne, near Lyon, he wasn't brought up there since his father was employed in schools in different towns and, of course, the family moved.
-* In 1933, when Jacques was nine years old, the family moved to Versailles.
 * It was in Versailles that Jacques studied for his baccalaureate.
 * After his baccalaureate, Dixmier remained in Versailles to prepare for his university studies in mathematics.
-* His father advised him to study engineering but Dixmier had his heart set on mathematics and his mother supported his plans so his father, slightly reluctantly, agreed that he could aim at being admitted to the École normale supérieure.
 * In October 1942 Dixmier entered the École Normale Supérieure in Paris.
 * In his second year at the École Normale, 1943-44, Dixmier was again taught by Henri Cartan.
 * Dixmier joined the resistance which was a dangerous thing to do.
@@ -35,11 +32,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The next day they released the students, including Dixmier, and Mrs Bruhat and Mrs Baillou but took Georges Bruhat and Jean Baillou prisoner.
 * Dixmier's third year of study was spent working towards the agrégation where the aim was to qualify students to teach.
 * At this point the three year degree was changed into a four year degree but, although technically still at the École Normale, Dixmier worked at the Centre National de la Recherche Scientifique.
-* Now Julia had close links with the Dixmier family, having been a student at the École normale at the same time as Dixmier's father.
-* Julia also lived in Versailles and  his children had been taught by Dixmier's parents.
 * Although both had been students at the École Normale Supérieure, Godement was two years older than Dixmier and they had not known each other at that time.
 * However, Godement now was a great help to Dixmier, telling him about unitary representations and showing him results on this topic which he had proved but had not published.
-* By this time Dixmier was married and his wife continued to work as a secondary school teacher.
 * Living in Paris and working in Toulouse was certainly not an ideal thing for anyone to do, so Dixmier decided that, since Dijon was much closer to Paris, he would apply for the position there.
 * Dixmier was on the faculty at Dijon from 1949 to 1955 when he was nominated for a position at the Institut Henri Poincaré in Paris.
 * Dixmier wrote some excellent books.

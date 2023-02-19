@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gino Loria** was an Italian mathematician and historian of mathematics who worked on projective geometry, special curves, algebraic geometry and elliptic functions.
 
 ### Mathematical Profile (Excerpt):
-* Gino had an older brother, Achille Loria, who was born in Mantua in March 1857.
-* Gino, like his elder brother, was educated at the lyceum in Padua, entering in 1875 and graduating in 1879.
 * Loria was appointed as a Privatdocent at the University of Turin in July 1886.
 * Although Loria continued to undertake research into geometry throughout his life, his main research activity was in the history of mathematics.
 * A full professor of higher geometry at the University of Genoa beginning in 1891, Loria wrote the history of mathematics as a mathematician writing for other mathematicians.
@@ -42,9 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In recognition of his efforts, the Commission conferred the title of Honorary Member on Loria on 15 July 1936.
 * Loria retired from the Chair of Higher Geometry at the University of Genoa in 1935.
 * Loria, in common with all Italian Jews, had to register with the authorities.
-* Jews were faced with extermination, but the Waldenses saved Loria and his brother.
-* The Waldenses saved many Jews from extermination by the Nazis, hiding them in the valley of Torre Pellice; it was there that Loria and his brother were given a safe refuse.
-* However, sadly, Loria's brother Achille died at Luserna San Giovanni (Torre Pellice) on 6 November 1943.
 * Loria returned to Genoa in 1945.
 * For his outstanding mathematical achievements, Loria received many honours and awards.
 * In addition to the historical work we have mentioned above, Loria also wrote around fifty biographies of mathematicians, many of which we have used in writing our biographies and are referenced in this archive.

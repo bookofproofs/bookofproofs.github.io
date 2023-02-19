@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Seth Ward** was an English mathematician and astronomer and a founder-member of the Royal Society.
 
 ### Mathematical Profile (Excerpt):
-* John Ward's father had been a rich man with a sizable estate, but had squandered his wealth.
-* Seth was the second of his parents' three sons, there being six children in the family.
 * He was tutored by Samuel Ward, who was not a relation, and lodged in his lodgings.
 * After disputing the differences between the Julian and Gregorian calendars, he was awarded his BA in 1637.
 * When he returned to Cambridge, Ward introduced ideas from Oughtred's Clavis Mathematicae (1631) into the syllabus there.

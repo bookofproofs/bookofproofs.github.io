@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Roger Lyndon** was an American mathematician who worked in topology and group theory.
 
 ### Mathematical Profile (Excerpt):
-* The Lyndon family originally came from England where the name (meaning the dweller by the lime-trees) went back to the Middle Ages.
-* Percy Lyndon's father, Roger's paternal grandfather, was born in England but came to the United States as a baby.
-* Roger's mother was Ann Aymar Milliken and the Milliken family had been residents of Maine since Ann's father had moved from Louisiana to Maine where he owned a wharf on the Bay of Fundy.
-* Sadly Roger's mother, Ann Lyndon, died when he was two years old and his family, now consisting of Percy, Roger and his sister, moved to various towns (such as Massachusetts and New York) so, as a consequence, Roger's education took place at a number of different schools.
 * Having worked for a year in a bank in Albuquerque, Lyndon returned to Harvard, being awarded a Master's Degree in 1941.
 * The men Lyndon taught went on to serve their country by manning ships, flying planes and commanding troops.
 * On the research front Lyndon took some time working in different mathematical areas.

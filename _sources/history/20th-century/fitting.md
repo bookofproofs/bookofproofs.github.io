@@ -25,8 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Friedrich Fitting is best known today for giving a proof, in 1931, that there are exactly 880 magic squares of order 4.
 * This result appears in his paper Rein mathematische Behandlung des Problems der magischen Quadrate von 16 und von 64 Feldern Ⓣ(Pure mathematical treatment of the problem of magic squares of 16 and 64 squares) and is remarkable since these 880 magic squares had been given by Frenicle de Bessy in 1693 but no proof was found until Friedrich Fitting's 1931 paper appeared.
-* He taught his son Hans in school and was thus able to quickly recognize his son's extraordinary mathematical talent.
-* With his father's challenge to his understanding of the subject, Hans soon progressed far beyond what was customary for his age.
 * From 1925 to 1932 Fitting studied mathematics, physics and philosophy at the Universities of Tübingen and Göttingen, where he was awarded his Ph.D. in 1932 for his work on group theory.
 * Fitting achieved this in his dissertation Zur Theorie der Automorphismenringe Abelscher Gruppen und ihr Analogon bei nichtkommutativen Gruppen Ⓣ(On the theory of automorphism-rings of abelian groups and their analogs in non-commutative groups).
 * Following his Ph.D., Fitting continued his research at the Mathematical Institutes of the Universities of Göttingen and Leipzig, funded by the "Notgemeinschaft der Deutschen Wissenschaften" (which can be translated loosely as the Emergency Association for German Science).

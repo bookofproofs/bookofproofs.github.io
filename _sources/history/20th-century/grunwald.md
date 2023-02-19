@@ -23,12 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Géza Grünwald** was a Hungarian mathematician who worked on analysis. He died in the Holocaust.
 
 ### Mathematical Profile (Excerpt):
-* Géza had a brother Gyula Grünwald, born in Pestszenterzsebet, a suburb of Budapest, in 1912.
 * Ármin Grünwald was a house painter who tried hard to educate his sons but struggled to bring in a sufficient income.
-* Géza attended the St Stephen's Gymnasium in Budapest where he was taught mathematics by Lajos Erdős, the father of Paul Erdős.
-* Lajos Erdős realised that his pupil Géza was very talented and he also realised that his family were not really able to financially support their son's education at this school.
 * Lajos supported Géza both with encouragement and with financial support.
-* There were two mathematicians in Budapest in the 1930s who were both named Grünwald, namely Tibor Grünwald and Géza Grünwald, the subject of this biography, but they were not related.
 * Our archive also contains a biography of Tibor Grünwald but he is listed under the name Tibor Gallai which he adopted during World War II.
 * Géza Grünwald and Paul Erdős, who was about 30 months younger than Géza, used to walk a great deal in Városliget public park surrounding Hero's Square close to the city centre of Budapest.
 * It contained a zoo and botanical gardens but Géza and Paul spent most of the time they were in the park trying to outdo each other in mental challenges and trying to beat each other in chess.
@@ -45,20 +41,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * There was no equivalent opportunity in Szeged so that it was natural that Grünwald became interested in issues discussed in our group.
 * Grünwald's career at Szeged was highly successful.
 * The research laboratory of this electricity company was in Budapest and in September 1937 Grünwald was employed by Zoltán Bay as a mathematician in the research laboratory.
-* On 22 May 1938 Grünwald married Anna Szilágyi who had been born in Miskolc, Hungary, in 1911.
-* Anna, who had been a school friend of Grünwald's, was the daughter of Adolf Szilágyi and Ilona Kálmán.
-* Anna and Géza Grünwald had one child, a daughter Eva Grünwald born in Budapest in 1939.
 * Grünwald published 18 papers in his short life before he was murdered in 1942 or 1943.
 * Today Grünwald is best known for the Grünwald-Marcinkiewicz Theorem.
 * They proved in the same year (1935) the first version of their famous result (as today called) the Grünwald-Marcinkiewicz Theorem (G-M Theorem, for short).
 * And, finally, both were killed during the second world war: Géza Grünwald became a holocaust victim in 1942 while Józef Marcinkiewicz died in 1940 in the Katyn massacre.
 * The Grünwald-Marcinkiewicz Theorem shows that Lagrange interpolation based at the zeros of Chebyshev polynomials can diverge everywhere even for continuous functions.
-* Now we come to Grünwald's death and must say straight away that its date is unclear.
 * At the end of that meeting, Géza told me that he was called up for active military duty in the Labour Service Battalions.
 * Within a few months the entire Battalion was executed except for five lucky survivors, among whom was Mr István Kossa who was a good friend of Grünwald and who stayed with him until his execution According to Kossa and the official paperwork, Grünwald died on 7 September 1943, at the age of 31.
 * István Kossa (1904-1965) was elected Secretary General of the Hungarian Social Democratic Party in 1933 and served as secretary to the United Incandescent Lamp and Electricity Company where Grünwald worked.
 * An István Kossa biography states he escaped the Service Battalion in January 1943 which contradicts the statement that he was with Grünwald until his death on 7 September 1943.
-* We note that the Database also shows that Grünwald's brother Gyula also died after being drafted into a Hungarian Labour Service Battalion after being captured.
 * Some sources state that it was first awarded in 1953 by we have found that Lajos Takács won the second Géza Grünwald Memorial Prize in 1952 for his paper Investigation of waiting time problems by reduction to Markov processes.
 
 Born 18 October 1910, Budapest, Hungary. Died 16 September 1942, Ukraine.

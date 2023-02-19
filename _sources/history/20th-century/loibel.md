@@ -23,22 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gilberto Francisco Loibel** was a Brazilian mathematician who played a major role in the development of mathematical sciences in Brazil. He supervised 19 Master's dissertations and 8 Doctoral theses.
 
 ### Mathematical Profile (Excerpt):
-* Franz Loibel, born in Germany on 30 July 1891, married Gertrud Reyar, born in Germany in about 1894.
-* They worked in Magdeburg, Germany where their first child Gerda Angelica Loibel was born on 13 January 1928.
 * In fact Dr Gertrud Loibel (age 36) and Gerda Angelica Loibel (age 2) sailed from Hamburg, Germany, to Brazil on the ship General Osorio leaving on 3 April 1930.
-* Dr Franz Loibel had travelled to Santos, São Paulo, before his wife and daughter.
 * Gilberto's primary education was in Germany and he also began his secondary education there.
 * When Gilberto attended, it was actually named Colégio Estadual e Escola Normal of Jundiaí, only adopting the name Instituto de Educação in 1953.
-* While at this college, Loibel met Izette Alves Coelho; they became close friends and later married.
 * Loibel completed his studies at the college in 1951 and, in the following year, he was ranked first in the entrance examination for the bachelor's degree in Mathematics at the Faculty of Philosophy, Sciences and Letters of the University of São Paulo.
 * While studying mathematics at the University of São Paulo, Loibel was taught by Omar Catunda, Elza Gomide and Cândido Silva Dias among others.
 * Loibel began undertaking research for a Ph.D., advised by Achille Bassi and took postgraduate courses taught by Bassi, Jauréz Cecconi and Ubaldo Richard.
-* During this period, Loibel  married Izette Alves Coelho in 1958.
-* Gilberto and Izette Loibel had several children including Selene Maria Coelho Loibel.
-* She dedicates the thesis "To my parents, Izette and Gilberto and to my son Diog." She became a professor of statistics at the Universidade Estadual Paulista.
 * In 1959 Loibel was awarded a doctorate for his thesis Sobre Quase Grupos Topológicos e Espaços com Multiplicação Ⓣ(On almost topological groups and spaces with multiplication).
 * In 1960 Loibel was promoted to Assistant to the Chair of Geometry at São Carlos.
-* Loibel and his wife left São Paulo and arrived in New York on 25 September 1960 on their way to Berkeley.
 * Loibel's host at Berkeley was Edwin Spanier who had been appointed to Berkeley one year earlier and had begun building up a strong group working in geometry and topology by several appointments of topologists.
 * During the visit, Loibel had contact with leading topologists and geometers.
 * Loibel remained in Berkeley until 1962 when he returned to Brazil and was promoted to Regent Professor in the Department of Mathematics in the São Carlos School of Engineering and became Head of Mathematics.

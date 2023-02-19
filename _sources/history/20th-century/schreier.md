@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Otto Schreier** worked in combinatorial group theory, particularly on subgroups of free groups and on knot groups.
 
 ### Mathematical Profile (Excerpt):
-* Theodor Schreier was born in Vienna, the son of the businessman Moritz Schreier and his wife Regina.
 * He studied at the Vienna School of Technology and, from 1899 to 1906, worked as a partner with Ernst Lindner (1870-1956) in the architect firm 'Ernst Lindner and Theodor Schreier'.
-* Theodor married Anna and they had one child, Otto, the subject of this biography.
-* Otto's father, Theodor, had undertaken military service before beginning to work as a partner in the architect's firm and, at the outbreak of war, he served in the Militärbaukommando which was involved in military construction.
 * Otto studied at the Döblingen Gymnasium situated in the northwest of Vienna near the Vienna Woods.
 * At the Gymnasium there were two students who were one year older than Schreier, namely Richard Kuhn (1900-1967) and Wolfgang Pauli.
 * One year younger than Schreier was Karl Menger and the two became close friends.
@@ -43,9 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Thus the young Schreier was already by then an all-round mathematician.
 * In fact Schreier gave lecture courses on group theory and analytic number theory, at the request of the mathematical faculty, before completing his habilitation.
 * Hamburg was an exciting place for someone with Schreier's interests and, among others, he was influenced by Emil Artin.
-* Schreier married Edith Jakoby in 1928.
-* Edith was older than Schreier, had been married before but her first husband had been killed in World War I.
-* A few months after he married, Schreier was offered a professorship at the University of Rostock in 1928 and decided to accept the position but he preferred to wait until the summer of 1929 before taking up the post.
 * During the beginning of the 1928/29 session Schreier lectured on function theory giving parallel courses in Hamburg and Rostock.
 * Although, as we have noted, many mathematicians influenced Schreier, the first were Furtwängler and Reidemeister.
 * Schreier may have been directed towards the main theorem, which proves that certain torus knots were not isomorphic to their mirror images, by Reidemeister.
@@ -63,10 +57,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Emanuel Sperner was a student at Hamburg who had been advised for his doctoral thesis by Wilhelm Blaschke but had been much influenced by Schreier's teaching and help.
 * He stepped in to edit Schreier's lectures and to put them into book form.
 * Let us end by noting that Schreier's death in 1929 meant that he died before Hitler's Nazi party came to power in 1933.
-* Their anti-Semitic policies had a major impact on the Jewish Schreier family.
-* Anna, Otto's mother, died in the Theresienstadt concentration camp in October 1942 and Theodor, Otto's father, died in the same concentration camp in January 1943.
-* At least two of Otto's uncles were also murdered by the Nazis.
-* Schreier's wife Edith was pregnant when Schreier died.
 * Edith returned to Vienna where she was very close to Schreier's parents.
 
 Born 3 March 1901, Vienna, Austria. Died 2 June 1929, Hamburg, Germany.

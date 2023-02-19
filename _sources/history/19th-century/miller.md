@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **George Miller** was an American mathematician who worked mostly on group theory but he was also interested in the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* George was born on a farm into a poor family.
 * Since his parents did not have the financial means to support him through his studies, George began teaching at the age of seventeen to support himself through College.
 * During 1882-83 Miller attended Franklin Academy which was a part of the College of Lancaster.
 * By now Miller was 27 years of age, much older than one might expect, but this was just a consequence of having to support himself financially through his education.

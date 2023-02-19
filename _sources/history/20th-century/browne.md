@@ -24,11 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@Suzanne-Davidson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * However, Browne had a love of mathematics and was determined to study the subject to the highest possible standards.
-* She was the daughter of Mary Taylor Lee and Lawrence Johnson Lee, but unfortunately Browne's mother died when she was just two years old.
-* Instead her father, a railway postal clerk, and stepmother, Lottie Lee, a schoolteacher, raised her.
-* Lawrence Lee was known in the local area to be very good at mental arithmetic and it was this love of mathematics that he passed on to his daughter.
-* Browne was also encouraged to study mathematics by her stepmother.
-* Lawrence Lee was more privileged than most Blacks at the time, and wished to share his good fortune with others, especially his children so he made a point of sending them to the best schools available.
 * Browne was a pupil at LeMoyne High School.
 * By the time Browne left high school she was not only known as a gifted maths student, but also a noted tennis player.
 * Browne's years at university coincided with the Depression.

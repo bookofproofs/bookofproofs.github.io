@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Wilhelm Oseen** was a Swedish mathematician who worked in fluid dynamics.
 
 ### Mathematical Profile (Excerpt):
-* Anders and Betty Oseen had six children: Anna Gundborg Vilhelmina Oseen (1876-1939); Per Anders Arvid Oseen (1877-1912); Carl Wilhelm Oseen (1879-1944), the subject of this biography; Gertrud Severina Elisabeth Oseen (1881-1954); Wendela Signhilda Charlotta Oseen (1884-1954); and Knut Oskar Theodor Oseen (1885-1912).
 * Wilhelm Oseen attended school in Halmstad, where he showed he had many talents.
 * He loved both mathematics and history but found it very hard to decide which of these subjects he wanted to pursue at university.
 * While attending school he wanted to learn more than his teachers were giving him, so he studied both history and mathematics on his own, going well beyond the school syllabus.
@@ -37,11 +36,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His first publication appeared in 1900, namely On the general mapping of geodesic circles of a surface through contact transformations (Swedish).
 * He spent the winter semester of 1900-01 at the University of Göttingen in Germany where he attended David Hilbert's lectures on partial differential equations.
 * Both Hilbert and Felix Klein were strong influences on Oseen who published two further papers in 1901 and also a dissertation.
+* is a continuation of the investigations by H Hugoniot ...
 * The paper only deals with the theories for perfect gases and makes repeated references to Helmholtz's lectures on the mathematical principles of acoustics, edited by A König and C Runge.
 * The additions to Hugoniot's work refer to the expression for the propagation velocity of a wave when an adiabatic wave movement spreads over a slow current, and also to the propagation of a discontinuous wave in space.
 * We also want to emphasise that an analytical derivation of the Doppler principle is given in the course of the investigation.
 * H Hugoniot is Pierre-Henri Hugoniot (1851-1887) who is remembered today in the Rankine-Hugoniot conditions, the Rankine-Hugoniot relations, the Rankine-Hugoniot equation and several other concepts.
 * In contrast, the number of different types in 3-space is considerably larger.
+* Of these groups in space, three were first discovered by Lie and are analogous to the groups on the plane ...
 * Finally Kowalewski has shown that the two primitive groups mentioned are the only primitive groups of contact transformations in space.
 * This paper contains the determination of some other classes of finite, continuous, irreducible groups of contact transformations in space.
 * The classes examined include the two imprimitive groups set up by Lie and also four, it appears, new groups.
@@ -49,9 +50,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He continued to publish with two papers appearing in 1902.
 * He was appointed as a substitute professor of mathematics at the University of Lund on 1 December 1904 and held this position until 1 October 1906.
 * During this period, Oseen's publications were all in pure mathematics with the exception of three papers, Contribution to the theory of wave motion in currents (Swedish) (1901), Contributions to the theory of wave motion in flows (Swedish) (1902) and On a case of vortex motion in a fluid (Swedish) (1902).
-* In Alfshög, Halland, Sweden, on 30 December 1904, Oseen married Klara Charlotta Strandmark (born 18 September 1879 in Alfshög, died 19 December 1943 in Stockholm).
-* Klara was the daughter of Johan Edvard Strandmark, the headmaster of a High School, and Alida Vilhelmina Ewert.
-* Wilhelm and Klara had four children, Birgitta Oseen, born 4 January 1906, Gunnel Oseen, born 25 July 1907, Gärd Oseen, born 9 July 1909, and Jurd Oseen, born 3 March 1914.
 * Tragically, Gärd died at the age of nine on 14 October 1918.
 * The new advance in Lorentz's research was that he took into account the viscosity of the liquid.
 * This had usually been neglected in previous work, mainly because it considerably complicated the mathematical model.
@@ -67,7 +65,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This formula worked in three dimensions but produced contradictions when applied to 2-dimensional flows.
 * Oseen became one of the first Swedish scientists to accept Niels Bohr's atomic model.
 * You will understand what an inspiring it had on one who has not met a scientific colleague for over a year.
-* Through your theory, a-ray absorption is brought into close connection with the question of ionisation by collision, for example the emission of secondary cathode rays.
 * By your theory, how is it possible to explain hydrogen's exceptional status in this question?
 * Weaker binding of the electrons?
 * Once again, thank you.

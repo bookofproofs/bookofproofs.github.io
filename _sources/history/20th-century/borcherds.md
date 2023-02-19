@@ -24,9 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * After the award of an M.Sc. and Ph.D. in physics, Peter Borcherds became a lecturer in physics at the University of Cape Town.
-* Peter and Margaret had four children; two of Richard's three brothers went on to become mathematics teachers, Michael Borcherds being particularly well known as the lead developer of the mathematics teaching package GeoGebra.
 * When Richard was about a year old his parents left South Africa and went to Aldermaston in England.
-* Peter Borcherds went on to became a lecturer in physics at Birmingham University; Peter's particular interests are the use of computers in physics and the involvement of scientists in politics.
 * Richard attended King Edward's School in Birmingham.
 * Borcherds entered Trinity College, Cambridge where he was an undergraduate.
 * Borcherds had been appointed as a Research Fellow at Trinity College, Cambridge, in 1983 and held this post until 1987.
@@ -38,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Another important concept invented by Borcherds is that of a 'vertex operator algebra'.
 * In a marvellous synthesis of the ideas which he has been developing, Borcherds has proved conjectures of Conway and Norton on the 'Moonshine' module for the Monster group.
 * for his contributions to algebra, the theory of automorphic forms, and mathematical physics, including the introduction of vertex algebras and Borcherds' Lie Algebras, the proof of the Conway-Norton moonshine conjecture and the discovery of a new class of automorphic infinite products.
-* Borcherds is married to the topologist Ursula Gritsch and has two daughters.
 
 Born 29 November 1959, Cape Town, South Africa.
 

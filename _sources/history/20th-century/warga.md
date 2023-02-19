@@ -42,8 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Anonymously, Jack also worked extensively for human rights for scientists throughout the world.
 * Kazimierz Malanowski recalled the emails he exchanged with Warga following the conference organised in celebration of Warga's 80th  birthday.
 * Just by chance, it happened that both of them, Jack and Mr Bartoszewski, were born in 1922 and were living on the same Bielanska Street in Warsaw.
-* Warga was married to Faye; they had a son Arthur and a daughter Charna.
-* They were more fortunate in the small town of Radzyn Podlaski, where Jack's grandfather had had a house.
 * The house still exists and Jack was happy to visit it and to talk with the present inhabitants.
 * Jack showed us Faye's study where one of her unfinished paintings was still on the easel and told us that her memory kept returning to him.
 * Although he was 88 years old in June 2011, Warga did not appear to be that old since he was still in excellent physical and mental shape.

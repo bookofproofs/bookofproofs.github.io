@@ -26,11 +26,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Caltech was to play a very important role in Dilworth's life, for it was the Institution that he was associated with for almost the whole of his career.
 * At Caltech, Dilworth's doctoral studies were supervised by Morgan Ward.
 * Dilworth obtained his doctorate in 1939 and was then awarded a Sterling Research fellowship to study at Yale.
-* Dilworth married Miriam White on 23 December 1940 after taking up the Instructor appointment.
 * At this point Dilworth was back at Caltech and he was to remain there for the rest of his career.
 * Back at Caltech, Dilworth was promoted to Associate Professor in 1945 and then full Professor in 1950.
 * Let us now turn to Dilworth's research contributions.
-* Dilworth himself remarked that although Dedekind's papers were excellent introductions to the subject it was unclear what his motivation had been.
 * By the time Dilworth began his research, the motivation behind much of lattice theory was to develop methods to attack problems in group theory.
 * The main topics in lattice theory to which Dilworth contributed are: Chain partitions in ordered sets, in particular his chain decomposition theorem for partially ordered sets; Uniquely complemented lattices; Lattices with unique irreducible decompositions; Modular and distributive lattices, in particular his covering theorem for modular lattices; Geometric and semimodular lattices; and Multiplicative lattices, where he studied, among other topics, abstract ideal theory, and the representation and embedding theorems for Noether lattices and rrr-lattices.
 * One important aspect of Dilworth's research was that he always attacked the big problems in lattice theory.

@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The name Delambre is a form of "de Lambre" which probably comes from "lambeau" meaning "rag".
 * There Delambre studied English and German but in 1764 the Jesuits were banned from France and at this stage he continued his education in Amiens, studying under teachers who had been brought from Paris.
 * Up until this time Delambre had little reason to learn mathematics but now this changed.
-* In 1771 Delambre came back to Paris where he became tutor to the son of Jean-Claude Geoffroy d'Assy, Receiver General of Finances.
 * It was an ideal position for Delambre for he lived at in Geoffroy d'Assy's house and, choosing to accept far less in payment that d'Assy offered, he accepted a small pension and enjoyed living cheaply but learning all he could.
 * He would change "de Lambre" to "Delambre" at the time of the Revolution to avoid its aristocratic appearance.
 * Delambre's interests moved from the study of Greek and Greek literature to Greek science, and he read much on the topic.
@@ -52,13 +51,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * An International Commission for Weights and Measures was set up and Delambre reported his results to it in February 1799.
 * Details of the whole project were published by Delambre in Base du système métrique Ⓣ(The base of the metric system).
 * Let us now look at some other landmarks in Delambre's career.
-* Tragedy struck his family in 1807 when his wife's son, who had previously been Delambre's assistant, died in Naples at the age of 26.
 * Delambre attained further achievements in his career, however, including his appointment to the chair of astronomy at the Collège de France in Paris in 1807.
 * The position had been held by Lalande until his death in that year and Delambre was proud to succeed his former teacher.
 * The award went to Delambre for his work on the meridian.
 * In the last part of his career Delambre became interested in the history of mathematics and astronomy.
 * He published a two volume work Histoire de l'astronomie ancienne Ⓣ(History of ancient astronomy) in 1817, then Histoire de l'astronomie du moyen age Ⓣ(History of astronomy of the middle ages) in 1819, two volumes of Histoire de l'astronomie moderne Ⓣ(History of modern astronomy) in 1821, and his work on the history of astronomy in the eighteenth century was published by Claude Mathieu after Delambre's death.
 * As one would expect, Delambre is especially good on astronomical tables and on methods of observation and calculation.
+* Above all, Delambre spices his presentation with acerb and delightful comments ...
 
 Born 19 September 1749, Amiens, France. Died 19 August 1822, Paris, France.
 

@@ -23,14 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hillel Furstenberg** is a German-born American mathematician working in combinatorics,  probability theory, ergodic theory and topological dynamics.
 
 ### Mathematical Profile (Excerpt):
-* The family settled in New York but suffered financial hardships following the death of Hillel's father.
 * In 1955 Furstenberg graduated from Yeshiva College having been awarded both a B.A. and an M.Sc. He had already published a number of papers with Note on one type of indeterminate form (1953) and On the infinitude of primes (1955) both appearing in the American Mathematical Monthly.
 * Furstenberg went to Princeton University to study for his doctorate, supervised by Salomon Bochner.
 * At this time Bochner was interested in probability, having published his classic text Harmonic Analysis and the Theory of Probability in 1955, the year in which Furstenberg began research.
 * After submitting his thesis Prediction Theory in 1958, Furstenberg was awarded his doctorate.
 * After a year 1958-59 as an Instructor at Massachusetts Institute of Technology, Furstenberg worked at the Mathematics Department in the College of Science, Letters, and Arts of the University of Minnesota.
 * In 1963 the two University of Minnesota Departments of Mathematics were merged into the School of Mathematics in the Institute of Technology and in the following year Furstenberg was appointed a full professor.
-* Harry and Rochelle Furstenberg have five children.
 * Furstenberg remained at the Hebrew University until he retired in 2003.
 * Many important results due to Furstenberg are presented in his classic monograph Recurrence in ergodic theory and combinatorial number theory (1981).
 * The Israel Prize, an award made by the State of Israel that is regarded as the state's highest honour, was presented to Furstenberg in 1993.

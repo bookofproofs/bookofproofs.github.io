@@ -24,19 +24,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Thomas Jevons was an iron merchant but showed lots of talent both as an inventor of iron boats and as a writer on various legal and economic topics.
-* Thomas and Mary Roscoe had eleven children and Stanley was the ninth.
-* The family were Unitarians, a liberal branch of the Protestant Church that bases its religious beliefs on reason, and Stanley was brought up with these beliefs.
 * There is very clear evidence in Jevons later writings of the Unitarian influence.
 * Stanley was sent to London to became a boarder at University College School in 1850.
 * This involved determining the characteristics such as weight, measure, or quality of the coinage, and Jevons was offered the post because of his already impressive abilities at chemistry.
-* Jevons became interested in meteorology (writing a paper on the topic), geology and political economy.
-* To some extent his job in the mint, involved in actually making money, must have influenced Jevons interests in economics, as must the failure of his father's family business.
 * Now, filled with the feelings of mission he described, Jevons gave up his lucrative job and returned to England in 1859 to complete his education.
 * An important influence on Jevons while he was studying in London was De Morgan, not in terms of Jevons thoughts on economics but certainly in terms of his thoughts on logic and probability.
 * Jevons' developing thoughts on economics are evident in his correspondence.
 * After being awarded his Master's Degree, Jevons was appointed as a tutor at Owens College, which went on to become the University of Manchester.
-* In 1867 Jevons married Harriot Ann Taylor, one of the daughter's of the founder and first editor of the Manchester Guardian (founded in 1821 as the weekly, it had become a daily paper in 1855).
-* They had three children, one son Herbert Stanley Jevons following in his father's footsteps and becoming well known as an economist.
 * Jevons remained in Manchester until he moved to University College, London in 1876.
 * Jevons's main contributions outside economics are in mathematical logic.
 * It was Boole, particularly with his book The Laws of Thought (1854), who strongly influenced Jevons' ideas on mathematical logic.

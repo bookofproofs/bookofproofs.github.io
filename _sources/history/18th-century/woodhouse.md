@@ -23,11 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Robert Woodhouse** was an English mathematician and astronomer who attempted to bring continental methods into English mathematics.
 
 ### Mathematical Profile (Excerpt):
-* As well as Robert junior, the subject of this biography, Judith and Robert Woodhouse had a younger son John Thomas Woodhouse who was born in 1780.
 * Robert junior attended grammar school in North Walsham.
 * Woodhouse was made a fellow of the Royal Society on 16 December 1802.
-* Fellows of a Cambridge College were not allowed to be married so Woodhouse had to resign his fellowship in order that he might marry Harriet Wilken on 20 February 1823.
-* In fact Woodhouse would have married sooner but his income was, until he became Plumian professor, insufficient to support a wife.
 * Robert and Harriot had one son.
 * Woodhouse was interested in the theoretical foundations of the calculus, the importance of notation, the nature of imaginary numbers and other similar topics.
 * In essence Woodhouse was dealing with Taylor series of a function, from which he could directly read off the first, second, third etc.

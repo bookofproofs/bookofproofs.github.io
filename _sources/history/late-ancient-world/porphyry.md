@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Both Porphyry's parents were Syrian and he would only get the nickname Porphyry later in his life as we shall explain below.
-* Porphyry was named after his father so for many years he was known as Malchus.
 * As a young man Porphyry tried to gain as broad a knowledge as he possibly could by studying many languages and religions.
 * At that time Athens was the main centre for learning, so it was natural that someone with a thirst for knowledge as Porphyry had should travel there to continue his studies.
 * It was Longinus who gave Porphyry that nickname.

@@ -4,10 +4,10 @@ categories: history,20th-century
 parentid: bookofproofs$604
 tags: origin-russia
 orderid: 1937
-title: Maz&amp;#x27;Ya, Vladimir
+title: Maz&amp;amp;#x27;Ya, Vladimir
 born: 1937
 died: 0
-keywords: vladimir maz'ya,maz&amp;#x27;ya
+keywords: vladimir maz'ya,maz&amp;amp;#x27;ya
 description: Vladimir Maz'ya is a Russian mathematician who works in mathematical analysis and partial differential equations.
 references: bookofproofs$6909
 contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Vladimir Maz'ya** is a Russian mathematician who works in mathematical analysis and partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-* Vladimir's father was killed fighting on the front.
 * Maz'ya was lucky to be able to leave the besieged city at this time.
 * After the war, Maz'ya entered the Faculty of Mathematics and Mechanics of Leningrad State University when he was eighteen years old.
 * As Maz'ya did not make this a secret, his fellow students all decided not to submit their solutions.
@@ -40,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In collaboration with S A Nazarov and B A Plamenevskii, Maz'ya published Asymptotic behavior of solutions of elliptic boundary value problems under singular perturbations of the domain  in 1981.
 * In 1985, together with Tatyana O Shaposhnikova, Maz'ya published Theory of multipliers in spaces of differentiable functions  which was based on results discovered by the authors in 1979-80 and published in a number of papers.
 * We should remark at this point that Tatyana Shaposhnikova is Maz'ya's wife.
-* In the following year Maz'ya made a remarkable contribution to the history of mathematics when he published Jacques Hadamard, a universal mathematician  in collaboration with his wife Tatyana Shaposhnikova.
 * One year later, in 1999, Maz'ya, together with Vladimir Kozlov, published Differential equations with operator coefficients with applications to boundary value problems for partial differential equations.
 * Very high quality books by Maz'ya continue to appear, adding greatly to the mathematical literature.
 * Maz'ya has received, and continues to receive, numerous awards for his remarkable contributions.

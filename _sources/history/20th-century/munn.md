@@ -24,14 +24,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * He did, however, always publish papers under the name "W D Munn".
-* He was the son of Robert Tainsh Munn (3 January 1893-23 April 1945), a railway official born in Johnstone, Renfrewshire, Scotland, and Elizabeth Stevenson (about 1897-1974) who was a teacher.
-* Robert Munn and Elizabeth Stevenson were married on 22 July 1927 in Linwood, Renfrewshire, Scotland.
-* Douglas was the elder of his parent's two children having a younger sister Lesley.
 * My parents, Robert and Elizabeth Munn, were both painters, he in watercolours, she in oils.
 * Douglas (my senior and only sibling) had a distinguished academic career as a "pure mathematician" - the kind, he would engagingly explain, who functioned with pencil and paper, and whose intellectual undertakings had no practical application whatsoever (but had a strong aesthetic content).
 * John writes that Douglas was born in Troon, a town in South Ayrshire, Scotland, situated on the coast about eight miles north of Ayr.
 * The official records, however, state that Douglas was born in Kilbarchan, Renfrewshire, Scotland, which is where his parents were living at the time.
-* Certainly the family moved from Kilbarchan to Troon where Douglas was brought up.
 * Douglas attended Marr College, Troon, Scotland, a secondary school built around 1935 on Dundonald Road, Troon, with money left in the will of Charles Kerr Marr.
 * When Douglas studied there it was a direct-grant school run by a board of governors which, following Marr's wishes, gave free education to everyone irrespective of their background.
 * After secondary schooling, Douglas proceeded to the University of Glasgow, where in 1951 he graduated with an M.A. with First Class Honours in Mathematics and Natural Philosophy.

@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Chow Wei-Liang** was a Chinese mathematician  known for his work in algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-* His family believed that success for China would come through westernisation, so Wei-Liang Chow never attended school in China but was sent to the United States.
 * Chow disliked the atmosphere which had descended on Göttingen due to the Nazis so decided that he would rather go to Leipzig and study for his doctorate under van der Waerden.
 * It was van der Waerden who introduced Chow to algebraic geometry at this time, pointing him towards the work of Severi, Bertini and Enriques.
 * Chow went to Hamburg for a vacation in the summer of 1934 and there he met Margot Victor.
-* Also in July 1936 he married Margot Victor in Hamburg and the newly married couple went to China where Chow began teaching at the National Central University in Nanking in September of that year.
 * In Zur algebraische geometry IX (published in Mathematische Annalen  in 1937) he introduced the notion now known as Chow coordinates.
-* If Chow and his family had been in a difficult position in Germany, forced to leave by the racial policy of the Nazi regime, but he was soon in an equally bad position in Nanking.
 * In August there was savage fighting in Shanghai, but Chow decided that Shanghai was safer than Nanking so in September he escaped from Nanking to Shanghai (which was of course the city of his birth).
 * During the next two or three years Chow was able to have some contacts with European mathematicians, in particular with van der Waerden.
 * Chow had published three further papers in 1939 one of which was Über Systeme von linearen partiellen Differentialgleichungen erster Ordnung  in which he extended results by Carathéodory on Pfaffian systems.

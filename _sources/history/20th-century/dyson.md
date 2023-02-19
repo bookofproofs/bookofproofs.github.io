@@ -24,9 +24,6 @@ contributors: @P-Lindsay,@J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * At the time of Freeman's birth George was teaching music at Wellington College in Berkshire.
-* He had earlier taught at Marlborough College where he was a colleague and close friend of Mildred's brother Freeman Atkey.
-* Their first child Alice was born in 1919, then their second child was Freeman who was named after Freeman Atkey.
-* Shortly after Freeman was born, his father accepted the post of Master of Music at Winchester College, and so Freeman spent his early years in Winchester.
 * Freeman attended a day school run by Miss Scott from the time he was five years old.
 * Despite the fact that the school was so close to his home, Freeman only went home in the school holidays and his parents never visited him in the school.
 * In 1936 Dyson won first place in a scholarship examination to Winchester College; he was twelve.
@@ -49,10 +46,7 @@ contributors: @P-Lindsay,@J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Dyson's famous paper on renormalisation of the SSS-matrix The S matrix in quantum electrodynamics in 1949 became a very highly regarded and influential work in quantum electrodynamics.
 * Dyson started to become a celebrity in scientific circles.
 * In the summer of 1949 Dyson met Verena Esther Haefeli-Huber at the Institute for Advanced Study.
-* Dyson became engaged to Verena in the summer of 1950 and they were married later that year on 11 August.
-* They had two children: Esther Dyson was born on 14 July 1951 in Zürich, Switzerland, and George Dyson born in Ithaca, New York in 1953.
 * George Dyson left home at age 16, moved to British Columbia where he built canoes, explored the Northwest Coast, and made his home in a tree-house.
-* Dyson and his wife were divorced in 1958 and in the same year, on 21 November, he married Imme Jung; they had four daughters, Dorothy, Emily, Mia and Rebecca.
 * After finishing the SSS-matrix paper, Dyson turned to meson theory where he devised a method of separating the calculation of high and low frequency interactions.
 * After further important publications and contributions to international conferences, in May 1950 Dyson took over Feynman's professorship at Cornell.
 * Bethe's admiration for Dyson had by now become great.

@@ -24,26 +24,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@Suzanne-Davidson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Named after the city of her birth, Nightingale was born at the Villa Colombia in Florence, Italy, on 12 May 1820.
-* Her parents, William Edward Nightingale and his wife Frances Smith, were touring Europe for the first two years of their marriage.
-* Nightingale's elder sister had been born in Naples the year before.
 * The Nightingales gave their first born the Greek name for the city, which was Parthenope.
 * William Nightingale had been born with the surname Shore but he had changed it to Nightingale after inheriting from a rich relative, Peter Nightingale of Lea, near Matlock, Derbyshire.
-* When Nightingale was about five years old her father bought a house called Embley near Romsey in Hampshire.
-* The early education of Parthenope and Florence was placed in the hands of governesses, later their Cambridge educated father took over the responsibility himself.
 * Nightingale loved her lessons and had a natural ability for studying.
-* Under her father's influence Nightingale became acquainted with the classics, Euclid, Aristotle, the Bible, and political matters.
-* Although William Nightingale loved mathematics and had bequeathed this love to his daughter, he urged her to study subjects more appropriate for a woman.
 * After many long emotional battles, Nightingale's parents finally gave their permission and allowed her to be tutored in mathematics.
 * Nightingale was said to be Sylvester's most distinguished pupil.
-* Lessons included learning arithmetic, geometry and algebra and prior to Nightingale entered nursing, she spent time tutoring children in these subjects.
 * Nightingale's interest in mathematics extended beyond the subject matter.
 * One of the people who also influenced Nightingale was the Belgian scientist Quetelet.
 * Religion played an important part in Nightingale's life.
 * Her unbiased view on religion, unusual at the time, was owed to the liberal outlook Nightingale found in her home.
 * Although her parents were from a Unitarian background, Frances Nightingale found a more conventional denomination preferable and the girls were brought up as members of the Church of England.
 * On 7 February 1837 Nightingale believed she heard her calling from God, whilst walking in the garden at Embley, although at this time though she did not know what this calling was.
-* Nightingale developed an interest in the social issues of the time, but in 1845 her family was firmly against the suggestion of Nightingale gaining any hospital experience.
-* While Nightingale was on a tour of Europe and Egypt starting in 1849, with family friends Charles and Selina Bracebridge, she had the chance to study the different hospital systems.
 * In early 1850 Nightingale began her training as a nurse at the Institute of St Vincent de Paul in Alexandria, Egypt, which was a hospital run by the Roman Catholic Church.
 * Nightingale visited Pastor Theodor Fliedner's hospital at Kaiserswerth, near Düsseldorf, in July 1850.
 * Nightingale returned to Kaiserswerth, in 1851, to undertake 3 months of nursing training at the Institute for Protestant Deaconesses and from Germany she moved to a hospital in St Germain, near Paris, run by the Sisters of Mercy.
@@ -68,7 +59,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@Suzanne-Davidson,bookofproofs
 * Florence Nightingale deeply believed that her work had been her calling from God.
 * In 1874 she became an honorary member of the American Statistical Association and in 1883 Queen Victoria awarded Nightingale the Royal Red Cross for her work.
 * Nightingale died on 13 August 1910 aged 90.
-* Nightingale never married, although this was not from lack of opportunity.
 * The Crimean Monument, erected in 1915 in Waterloo Place, London, was done so in honour of the contribution Florence Nightingale had made to this war and the health of the army.
 
 Born 12 May 1820, Florence (now Italy). Died 13 August 1910, East Wellow, England.

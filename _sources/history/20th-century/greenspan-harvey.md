@@ -23,11 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Harvey Greenspan** played an important role in establishing Applied Mathematics as a subject in its own right in the United States. He studied fluid dynamics both from a theoretical and from an experimental perspective, making major contributions to fluid flow, wave motion and bio-fluid dynamics.
 
 ### Mathematical Profile (Excerpt):
-* Louis Greenspan was born in New York City, New York on 21 January 1906, the son of parents who were both born in Russia.
-* Louis and Jessie Greenspan were married in Brooklyn, New York City, New York, on 9 March 1927.
-* They had two sons and one daughter: Donald Greenspan, born on 24 January 1928, who became a mathematician and has a biography in this archive; Harvey Greenspan, born 22 February 1933, the subject of this biography; and Rosalie Greenspan.
 * Greenspan was educated in Brooklyn where after his primary education, his secondary education was at the Thomas Jefferson High School, Brooklyn, New York.
-* His brother, Donald Greenspan, began his university studies of mathematics when Harvey was still at an early stage in his secondary school education.
 * Harvey graduated from the High School in 1950 and began studying mathematics at the City College of New York.
 * Greenspan was awarded a Ph.D. by Harvard University in 1956 for his thesis The generation of edge waves by moving pressure distributions.
 * Following the award of his doctorate, Greenspan was appointed as an Assistant Professor of Mathematics at Harvard University, a position he held from 1957 to 1960.

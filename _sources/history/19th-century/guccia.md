@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Giovanni Battista Guccia** was an Italian mathematician who worked in algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-* Giovanni was born in Sicily into an important wealthy Sicilian family.
-* His father was related to the Marquis of Ganzaria and no expense was spared to give Giovanni a good education.
 * Guccia began his studies at the university in Palermo but he later undertook research under Cremona in Rome.
 * While a student at Rome, Guccia attended the French Association for the Advancement of Science which was held at Rheims.
 * In 1880 Guccia submitted his doctoral dissertation on a class of surfaces representable point by point on a plane to the University of Rome and after successfully defending his thesis he returned to his native town of Palermo.

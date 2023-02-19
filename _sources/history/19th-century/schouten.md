@@ -23,25 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jan A Schouten** worked on tensor analysis and its applications.
 
 ### Mathematical Profile (Excerpt):
-* Hulda, born in Wezel on 9 February 1847, married Jan Schouten in 1882.
-* Jan, born in Dordrecht on 14 September 1845, was from a leading family of shipbuilders but had trained as a lawyer and was an advocate and attorney.
-* Jan and Hulda lived first in Overtoom but moved to Nieuwer Amstel (now part of Amsterdam) where their son, Jan Arnoldus, the subject of this biography, was born.
-* The family moved again in 1886, this time moving to Nijmegen where Jan Arnoldus was brought up.
 * We note at this point that Jan Schouten died in Nijmegen on 10 July 1900 at age 54 while Hulda Schouten lived to age 86 dying in Nijmegen on 20 August 1933.
 * Jan Arnoldus attended elementary school, then high school, in Nijmegen.
-* Jan and Hulda's marriage was not a happy one and they separated with Jan Arnoldus living with his mother to whom he was deeply attached.
 * He learnt Dutch and German, becoming fluent in both languages, but his native language was German.
 * He excelled at mathematics at high school and, not having qualifications to enter university, as a consequence entered the Military Academy in Breda.
 * At this time students required a pass in a classical language in their final examination to enter university and Schouten had not studied any classical language.
 * He studied electrical engineering at the Technische Hogeschool and then for several years he was an electrical engineer.
 * After a year of practical experience at Siemens in Berlin he graduated in 1908.
-* He spent his holidays with his mother in Nijmegen where he was a member of the local rowing and sailing club.
 * Here he met Maria Margaretha Backer, who had been a fellow student with Schouten at the high school, but by this time was a law student in Leiden.
 * Maria had been born in Nijmegen on 1 May 1887; her parents were Jean Paul Frederic Backer, a cigar manufacturer, and Dorothea Cornelia Fik.
-* Jan Arnoldus and Maria married on 21 January 1909; they had one son Jan Frederik and two daughters Hilde Margaretha Erica and Petronella Cornelia Maria.
 * Soon after the award of his electrical engineering degree from Delft, Schouten became an inspector at the Department of Local Electricity Works in Rotterdam.
 * He made many trips abroad and was a contributor to the electrification of Rotterdam.
-* However he came from a family with substantial amounts of money and when he inherited money in 1912, still having a deep love for mathematics, he gave up his electrical engineering job and went to Delft University to study mathematics.
 * He was encouraged by Johan Antony Barrau (1874-1953) who had been a student of Diederik Johannes Korteweg and received a doctorate from the University of Amsterdam in 1907.
 * At first Barrau advised Schouten but, after he left Delft for Groningen in 1913 to become Schoute's successor as professor of geometry, Jacob Cardinaal became Schouten's advisor.
 * Jacob Cardinaal (1848-1922) had been a student of Jan de Vries and, in September 1893, had been appointed professor at the Polytechnic University in Delft.
@@ -101,6 +93,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His letters, obviously well-meant, were of the half-patronizing, half-schoolmastering kind that goes against the grain.
 * Having failed to persuade Brouwer to follow the route he favoured, Schouten tried to convince other members of the Committee of Administration, most of whom sided with Brouwer, that he was right.
 * Some of Schouten's arguments and claims had a degree of plausibility, but if they contained some truth, certainly not the whole truth.
+* In particular his protestation that he did not attempt to remove Brouwer seems a bit lame ...
 * It is clear that Schouten's motives were honourable and he wanted to do the best for Brouwer and the journal.
 * However, like many others he found Brouwer difficult to deal with.
 * Taking the initiative he went ahead with proposals to restart the journal without Brouwer's knowledge in late 1949.

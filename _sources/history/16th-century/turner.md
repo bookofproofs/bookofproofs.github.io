@@ -28,7 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Turner had been taken prisoner by the Parliamentary forces in one of the skirmishes and taken to London where he was imprisoned in Southwark.
 * However in 1643 there was an exchange of prisoners between Parliament's side and the King's side and Turner was allowed to return to join the King in Oxford.
 * On 9 November 1648 representatives of Parliament removed Turner from his fellowship at Merton and from the Savilian chair of Geometry.
-* With no means of financial support, Turner went to live with his sister in Southwark.
 * Turner's quality as a mathematician cannot be judged as he left no mathematical publications but we know he wrote very stylish Latin! One might reasonably ask how someone who left behind no evidence of mathematical ability came to hold two of the major mathematical chairs in England.
 * Turner was a highly active member of this committee and so came to Laud's notice.
 * Through Laud, Turner gained the appointment to the Savilian chair of Geometry at Oxford.

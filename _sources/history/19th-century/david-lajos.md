@@ -23,7 +23,6 @@ contributors: @Tünde-Kántor,bookofproofs
 **Lajos Dávid** was  a Hungarian mathematician known for his work on the arithmetic/geometric mean and as a historian of mathematics, particularly on Bolyai.
 
 ### Mathematical Profile (Excerpt):
-* The Dávid family came from Transylvania which is now part of Romania.
 * Lajos Dávid himself was educated at Kolozsvár, attending first the elementary school of the Reformed College.
 * He attended mathematics courses by Gyula Farkas, Lajos Schlesinger and later took a course by Frigyes Riesz who was only one year older than Dávid.
 * He undertook research at the university for his doctorate advised by Lajos Schlesinger and submitted his thesis The Gauss-type medium arithmetico-geometricum in 1903.

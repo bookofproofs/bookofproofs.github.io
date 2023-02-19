@@ -23,13 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Einar Carl Hille** was an American mathematician who worked on analysis and functional analysis.
 
 ### Mathematical Profile (Excerpt):
-* His name was Carl Einar Heuman and he was the son of Carl August Heuman, a civil engineer, and Edla Eckman.
-* Hille's parents separated before his birth and he was brought up by his mother.
-* The name Hille was simply a mistake for Heuman but Hille's mother adopted the name even although it came from an error and called herself Edla Hille.
 * That was the name by which Einar Hille was always known.
-* Hille did not meet his father until 1937.
 * Although he was born in the United States, Hille's parents were Swedish.
-* When Einar Hille was two years old his mother returned to Sweden and lived in Stockholm.
 * Hille would spend the next 24 years of his life in Sweden only returning to the United States when he was 26 years old.
 * In 1900 Einar entered the Palmsgrenska Samskola, a private school in Stockholm.
 * Hille entered the University of Stockholm in 1911 with the intention of reading for a degree in chemistry.
@@ -42,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hille obtained a fellowship to work with Birkhoff in Harvard and he returned to the land of his birth in 1920, spending the academic year 1920-21 at Harvard where, as well as working with Birkhoff, he also studied with Kellogg.
 * In academic year 1921-22 Hille was Benjamin Peirce Instructor at Harvard then, in 1922, he went to Princeton as an instructor.
 * In 1923 Hille was promoted to assistant professor at Princeton, and in 1927 to associate professor.
-* Kirsti and Einar had two children, both sons.
 * Hille was appointed director of graduate studies in 1938 and he held this position, and his chair, at Yale until he retired in 1962.
 * Hille's main work was on integral equations, differential equations, special functions, Dirichlet series and Fourier series.
 * Among Hille's other texts were Analytic function theory Vol 1 (1959), Vol 2 (1964); Analysis Vol 1 (1964), Vol 2 (1966); Lectures on ordinary differential equations (1969); Methods in classical and functional analysis (1972); and Ordinary differential equations in the complex domain (1976).

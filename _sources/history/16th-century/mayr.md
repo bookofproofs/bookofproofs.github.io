@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Simon Mayr** was a German astronomer who may have observed Jupiter's moons before Galileo.
 
 ### Mathematical Profile (Excerpt):
-* His father, Reichart Mayr, was mayor of Gunzenhausen in 1576 which might suggest that the family were reasonably well off.
 * However, Simon was sent in 1586 to Margrave's academy in Heilsbronn, a school for boys who came from poor families yet showed marked academic promise.
 * In 1596 a comet was seen and Mayr made observations which he incorporated in a publication.
 * Brahe died in October of that year, but Mayr had already left since we know he passed through Moravia on 25 September on his way to Vienna and then further south.

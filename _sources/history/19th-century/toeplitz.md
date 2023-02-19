@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Toeplitz** worked on infinite linear and quadratic forms. In the 1930's he developed a general theory of infinite dimensional spaces and criticised Banach's work as being too abstract.
 
 ### Mathematical Profile (Excerpt):
-* Both his father, Emil Toeplitz, and his grandfather, Julius Toeplitz, taught mathematics in a Gymnasium and they also both published mathematics papers.
 * Otto was brought up in Breslau and he attended a Gymnasium in that city.
 * After completing his secondary education in Breslau, Toeplitz entered the university there to study mathematics.
 * In 1906 Toeplitz went to Göttingen.

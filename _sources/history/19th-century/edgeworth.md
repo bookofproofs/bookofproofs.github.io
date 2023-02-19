@@ -23,12 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Francis Edgeworth** was an Irish-born statistician who examined correlation and methods of estimating correlation coefficients in a series of papers.
 
 ### Mathematical Profile (Excerpt):
-* His grandfather was Richard Lovell Edgeworth, an author, inventor and educationalist who was married four times and had 22 children.
-* Among these 22 children were Edgeworth's father and also Maria Edgeworth who was well known as a writer of children's stories and also for novels about life in Ireland.
 * Richard Lovell Edgeworth had an estate at Edgeworthstown, northwest of Dublin, and it was on this estate that Edgeworth was born.
 * Francis Ysidro Edgeworth was originally named Ysidro Francis Edgeworth but transposed his forenames.
 * At this stage in his life Edgeworth had no particular interest in mathematics.
-* Exactly what Edgeworth did in the years after leaving Oxford is unclear but certainly he lived in London with little financial support.
 * One important influence from this period was Jevons who was a friend and near-neighbour of Edgeworth.
 * The surprising part is that somewhere in this varied career Edgeworth studied mathematics.
 * In fact most of his work could be said to be applications of mathematical psychics which Edgeworth saw as analogous to mathematical physics.

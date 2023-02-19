@@ -29,15 +29,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Curry now decided that he would look for a career in electrical engineering and he took a job with the General Electric Company which allowed him to study electrical engineering part-time at the Massachusetts Institute of Technology.
 * Curry graduated with a Master's Degree in physics from Harvard in 1924 but by now he realised that the subject for him was not physics but it was mathematics.
 * Throughout this period of changing topics Curry had other things to keep him busy.
-* His father had died in 1921 and Curry became a trustee of his father's estate.
-* Of course the main part of this estate was the School of Expression in Boston and, three years after the death of Curry's mother in 1924, it became a legal corporation in 1927.
 * Curry acted as treasurer to the Expression Company from the time it was formed, but it was sold in 1928.
 * If one imagines that from 1924 when Curry embarked on his doctorate in mathematics at Harvard he at last found the topic for him, then one would be mistaken.
 * Veblen assured Curry that this was a positive, rather than negative, discovery and, after Alexander had informed him that Schönfinkel was in a mental hospital and therefore not continuing his line of research, Curry sought advice on who would be the best Ph.D. supervisor.
 * In order to improve his chances of financial support, Curry wrote up his ideas on combinators for publication and this became his first paper An analysis of logical substitution which appeared in the American Journal of Mathematics in 1929.
-* Before setting off for Göttingen, Curry married Mary Virginia Wheatley whom he had met at the School of Expression when she was a student there.
 * Returning to the United States, Curry was appointed to State College, Pennsylvania (now Pennsylvania State University) in September 1929.
-* Haskell and Virginia began their family at this time with Anne Wright Curry born on 27 July 1930 and Robert Wheatley Curry born on 6 July 1934.
 * The Great Depression began in 1929 so it was fortunate that Curry obtained his position when he did.
 * The Association for Symbolic Logic was founded in 1936 with Curry as one of the founders.
 * After giving a very clear exposition of the fundamentals of combinatory logic, showing its close relationship to the λ-calculus developed by Church, Curry went on to describe his recent work.

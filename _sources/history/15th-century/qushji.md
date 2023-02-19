@@ -23,10 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ali Qushji** was an Islamic astronomer and mathematician, born in what is now Uzbekistan, who worked at observatories in Samarkand and Constantinople and whose results influenced Copernicus to produce his heliocentric system.
 
 ### Mathematical Profile (Excerpt):
-* Let us begin by explaining that 'Ali Qushji' is basically a nickname meaning 'Ali the Falconer', the name Qushji having been given to the father of the subject of this biography.
 * Although his name was Ala al-Din Ali ibn Muhammed, he is always known as Ali Qushji.
 * Samarkand, the city where Ali Qushji was born, had been conquered by Tamerlane in 1370 and it became the capital of the Timurid Empire.
-* Ali Qushji's father became Ulugh Beg's falconer and Ali Qushji grew up in the atmosphere of culture, particularly mathematics and astronomy, around Ulugh Beg who was himself an outstanding mathematician and astronomer.
 * He became one of Ali Qushji's teachers and Ulugh Beg, who also taught at the Madrasa, became another.
 * Ali Qushji was also taught by Jamshid al-Kashi who had been invited to the Madrasa by Ulugh Beg.
 * It was in this atmosphere that the young Ali Qushji was raised, and this seems to have had a profound effect upon his intellectual outlook.

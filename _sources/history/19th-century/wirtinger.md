@@ -23,16 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Wilhelm Wirtinger** was an Austrian mathematician who worked in complex analysis, geometry, algebra, number theory, Lie groups and knot theory.
 
 ### Mathematical Profile (Excerpt):
-* His father, Dr Johannes Wirtinger, was a senior consultant medical doctor.
 * In fact Johannes Wirtinger was an outstanding scientist and medical researcher who made significant discoveries concerning typhus.
-* Wilhelm spent his childhood in Ybbs an der Donau and he always held a great affection for his birthplace.
 * Wirtinger studied mathematics at the University of Vienna, beginning his course in 1884.
 * Gustav von Escherich had studied at the University of Vienna and worked at Graz before taking up a position in Vienna in 1884, the year Wirtinger began his course.
 * He taught Wirtinger about the new approach to analysis which Weierstrass had developed.
 * However, it was Emil Weyr who inspired Wirtinger with his courses on synthetic geometry and this led to Wirtinger's first two publications and his doctoral thesis.
 * Along with William Osgood he attended Klein's seminar and Wirtinger and Klein became life-long friends.
 * Wirtinger habilitated at the University of Vienna in 1890 and, in addition to teaching there, he was appointed as an assistant to Emanuel Czuber at the Technical University in Vienna.
-* This enabled Wirtinger to get married and, in 1890, he married Amalia Feyertag; they had three sons and two daughters.
 * His most important work during these years, however, was the book Untersuchungen über Thetafunktionen Ⓣ(Studies of theta functions) (1895) which led to Wirtinger receiving the Beneke Prize from the Faculty of Philosophy of Göttingen.
 * In it Wirtinger combined ideas from Riemann's function theory with ideas from Klein to prove results of great significance.
 * It was this book, which he had developed from work begun at Göttingen, that brought Wirtinger's name to the fore as a leading mathematician.

@@ -24,10 +24,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Hans was brought up in Göttingen where he attended school.
-* The Schwerdtfeger family, already in a poor financial state after the death of Hans' father, suffered even more severe hardships that many Germans.
 * Hans attended secondary school in Göttingen but before completing his studies he left to work at Siemens-Schuckert in Berlin.
 * Schwerdtfeger returned to Göttingen to complete his school education, then entered Göttingen University to study mathematics.
 * At Göttingen University Schwerdtfeger attended lectures by David Hilbert, Gustav Herglotz, Richard Courant, James Franck, Max Born and Bartel van der Waerden.
+* After the award for his first degree from Göttingen, Schwerdtfeger went to Bonn University.
+* Opposition to the Nazis was of course extremely dangerous and ultimately would have meant that Schwerdtfeger would have been killed.
+* Schwerdtfeger's son, Peter Schwerdtfeger, lived in Adelaide where he was Professor of Meteorology at Flinders University.
+* Schwerdtfeger began publishing mathematics papers after obtaining a position in Australia.
+* In 1950 Schwerdtfeger published his first major text aimed at beginning graduate students,  Introduction to Linear Algebra and the Theory of Matrices.
+* After moving to Canada, Schwerdtfeger published further important textbooks.
+* Schwerdtfeger's other important textbook is Introduction to group theory (1976).
+* Schwerdtfeger was honoured with election to the Royal Society of Canada in 1964.
+
+Born and Bartel van der Waerden.
 * After the award for his first degree from Göttingen, Schwerdtfeger went to Bonn University.
 * Of course during the years that Schwerdtfeger undertook research for his doctorate in Bonn, the political situation in Germany had changed markedly.
 * Opposition to the Nazis was of course extremely dangerous and ultimately would have meant that Schwerdtfeger would have been killed.

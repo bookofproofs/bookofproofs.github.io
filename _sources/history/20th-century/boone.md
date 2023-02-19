@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One book he much admired was Thomas Wolfe's 'Of Time and the River' whose hero, afflicted with a Faustian thirst for knowledge, moves from the rural South of the United States to Boston and then to England and France, and there is a superficial parallel to this in Bill's all-inquisitive progress from the Mid-West to sophisticated Princeton and subsequent regular visits to Europe.
 * However, Bill never lost the directness and openness that one thinks of as characteristic of the provincial America of his youth, and his vigorous personality and broad Mid-West accent left an abiding impression on all who knew him.
 * Despite his literary interests, Bill decided to turn to mathematics, a subject which seemed to grow in importance for him around this time in his life, and he studied part-time for a degree at the University of Cincinnati.
-* Boone married Eileen Herweh in 1949; they had two sons William and Theodore.
 * In fact Boone had constructed for his doctoral thesis an example of a finitely presented group with no way to decide if a given element lies in the subsemigroup generated a fixed finite set.
 * Following these ideas of Turing's, Boone finally proved the insolubility of the word problem for groups in 1957, two years after Petr Sergeevich Novikov published his proof.
 * Bill's strength as a mathematician was his ability to master, painstakingly and thoroughly, a mass of intricate combinatorial detail and this strength was severely sapped by routine distractions.

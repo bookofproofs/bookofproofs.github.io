@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Mihailo Petrović** was a Serbian mathematician and inventor who worked in differential equations and phenomenology.
 
 ### Mathematical Profile (Excerpt):
-* His father, Nikodim Petrović, was the theology professor at Belgrade, and his mother Milica Lazarević was the daughter of the archdeacon Novica Lazarević.
-* Nikodim died when his son Mihailo was around five years old and he was brought up by his mother and grandfather Novica Lazarević.
 * Petrović attended the First Belgrade Gymnasium, graduating from that High School in 1885.
 * Fishing was not Petrović's only hobby while at school, for he also was very musical and learnt to play the violin.
 * Petrović graduated with his first degree from the Belgrade Grand School in 1889 and decided to pursue further studies in mathematics in Paris.
@@ -32,6 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His professor at Belgrade Grand School had been Dimitrije Nešić, who we mentioned above, and Nešić retired at almost the same time as Petrović returned.
 * The professorship becoming vacant, Petrović applied but he was not the only well-qualified candidate since Petar Vukićević, a slightly older mathematician who had been awarded a doctorate by the University of Berlin in 1894, was also a strong candidate.
 * The competition was very close but Petrović was appointed having received one more vote that Vukićević.
+* Mihailo Petrović's study ...
 * It was a master's letter, written in rough, unskilled handwriting of a river master fisherman, and signed by the president of the commission, that Mihailo Petrović, a professor, has passed the master's exam for a master river fishermen, and is now certified in the fisherman trade, which the undersigned members of commission recognise and confirm.
 * With fishing and music playing such a large part in Petrović's life, one wonders if he had much time left to carry out his job as a professor of mathematics.
 * Petrović was asked to write Intégration qualitative des équations différentielles Ⓣ(Qualitative integration of differential equations) which appeared as No 48 in the series in 1931.

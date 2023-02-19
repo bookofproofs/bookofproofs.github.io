@@ -25,12 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Felix du Bois-Reymond was from Neuchâtel but moved to Berlin in 1804 where he was a teacher at the Kadettenhaus.
 * Napoleon intervened in 1803 with the Act of Mediation which substituted a new Swiss Confederation for the Helvetic Republic, producing even closer ties with France.
-* Felix and Minette du Bois-Reymond had five children, Émile born in 1818, two daughters Julie and Felice, and two further sons one of whom was Paul, the subject of this biography.
-* The du Bois-Reymond family were brought up very strictly with Felix exerting strong authority over his children.
 * It was an upbringing which saw Paul totally fluent in both French and German.
-* There was 13 years difference in age between Paul and the older Émil, and Paul was strongly influenced by Émile who went to the University of Berlin when Paul was only a six year old child.
-* Like his older brother, Paul also attended the French Gymnasium in Berlin and he continued to follow in his brother's footsteps by attending the Collège in Neuchâtel.
-* By this time Émile had become a famous physiologist and Paul decided that he would follow his older brother into the same career.
 * From Neuchâtel, Paul went to the Gymnasium in Naumburg and then entered the University of Zürich in 1853.
 * Émile had been elected to the Prussian Academy of Sciences two years earlier and Paul, striving to follow, began to study medicine.
 * In 1854, Paul du Bois-Reymond published four papers which studied physiological problems.
@@ -38,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After his doctorate du Bois-Reymond was appointed to teach mathematics and physics at a secondary school in Berlin.
 * In 1864, while still teaching at the secondary school, du Bois-Reymond published Beiträge zur Interpretation der partiellen Differentialgleichungen mit drei Variabeln Ⓣ(Contributions to the interpretation of partial differential equations with three variables).
 * Following the publication of this important work, du Bois-Reymond was appointed to a chair at the University of Heidelberg in 1865.
-* Du Bois-Reymond's strong French and Prussian links put him in a somewhat difficult position and his brother Émile was an outspoken critic of the French in this dispute.
 * Finally, after ten years at Tübingen, where he supervised the doctorates of a number of students the most famous of whom was Otto Hölder, du Bois-Reymond was appointed to a chair at the Technische Hochschule Charlottenberg in Berlin.
 * Although du Bois-Reymond got on well with Weierstrass and the two shared many similar mathematical interests and concerns for rigour, the same could not be said for members of Weierstrass's school with whom relations were strained.
 * In particular du Bois-Reymond and Schwarz were not on good terms.

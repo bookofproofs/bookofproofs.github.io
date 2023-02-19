@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Lions was deeply attached to the town that he grew up in, and it always remained as a place to return to whenever possible throughout his life.
-* Jacques-Louis's father Honoré Lions was a contractor and his mother was Annette Muller.
-* They later married, on 21 August 1950, and their only child, Pierre-Louis Lions, was born in 1956.
 * In 1946 Lions left the Collège de Grasse and studied for one year at the Lycée Félix-Faure in Nice.
 * Most students from the École Normale Supérieure went on to become school teachers but Lions, and his friend and fellow student Bernard Malgrange, decided that they wanted to become university teachers.
 * Spending 1950-51 at the École Normale Supérieure, Lions was awarded a grant from the National Centre for Scientific Research to enable him to undertake doctoral studies which he did at the University of Nancy under the supervision of Laurent Schwartz.

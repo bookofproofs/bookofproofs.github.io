@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Kingman** is an English mathematician known for his work in statistics, queuing theory and mathematical genetics.
 
 ### Mathematical Profile (Excerpt):
-* He was determined that his sons would have a good education and not need to become miners so John's father Frank E T Kingman was able to study at the University of Bristol, where he was awarded his Ph.D. He moved to London on taking up a scientific post with the government and there married John's mother Maud Elsie Harley who came from a London family.
-* They had two children, and John and his brother were brought up on the outskirts of London.
 * John was educated at Christ's College, Finchley in London where he won a scholarship to Cambridge.
 * Kingman intended to undertake research with Lindley but he left Cambridge for Aberystwyth.
 * Kingman followed Lindley's advice to stay in Cambridge where he became a PhD student of Peter Whittle.

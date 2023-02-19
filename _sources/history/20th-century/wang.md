@@ -28,20 +28,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In late July further fighting broke out and the Japanese quickly captured Peking and Tientsin.
 * Tsing Hua University was moved to Southwest China where it was amalgamated with Nankai and Peking universities.
 * Wang had to journey to the new site of his university and begin his studies again.
-* Perhaps the political events had a positive effect as far as mathematics was concerned since Wang changed his studies to mathematics when he took them up again at the re-established university.
 * Wang graduated in 1941 and began to study under S S Chern.
 * He was awarded a master's degree in 1944 and began teaching in a school.
 * However, after one year, he was awarded a British Council Scholarship to continue his studies in England.
 * After a while at Sheffield he studied under Newman at Manchester and received a Ph.D. in 1948.
 * On his return to China, Wang took up a research post at the Chinese National Academy of Sciences.
-* However political events were again to play a major part in Wang's career.
 * Between early November 1948 and early January 1949 the Communists and Nationalists fought for control.
 * The Chinese National Academy of Sciences was set up on Taiwan and Wang followed the Academy there.
 * From 1949 Wang lived in the United States.
 * This was not an easy time to obtain a mathematics post in the United States and Wang, although he had an impressive reputation as a mathematician by this time, could only manage a succession of temporary posts.
 * First he taught at Louisiana State, then for two years at Baton Rouge before he spent his first year at Princeton in 1951-52.
 * Again he held temporary posts, this time for two years at Alabama Polytechnic, then 1954-55 at Princeton again, 1955-57 at the University of Washington in Seattle followed by a time at Columbia in New York.
-* Wang married during his time in Seattle.
 * The year 1957 saw Wang receive an offer of a permanent post for the first time.
 * This was at Northwestern University where he remained, having further spells at Princeton during this time, until 1966 when he was appointed to Cornell.
 * Wang worked on algebraic topology and discovered the 'Wang sequence', an exact sequence involving homology groups associated with fibre bundles over spheres.

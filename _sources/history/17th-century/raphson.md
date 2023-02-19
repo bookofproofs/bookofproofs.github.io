@@ -35,6 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Although written in 1671 it was not published until 1736, so Raphson published the result nearly 50 years before Newton.
 * A copy of Raphson's book was presented as "a gift from the author" to the Society on Saturday 17 January 1691.
 * Raphson's relation to Newton is important but not particularly well understood.
+* In 1711, Roger Cotes and William Jones arranged for Raphson to see some of Newton's papers "...
 * Raphson did indeed write his History of Fluxions which did not appear until 1715, after Raphson had died, under the title Historia fluxionum.
 * Certain letters which had passed between Newton and Leibniz appeared as an appendix to a reprint of Raphson's book in 1716-1718.
 * This was not Raphson's only publication relating to Newton's work.

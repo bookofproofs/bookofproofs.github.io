@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * In 1826 Randolph was made Commissary-General of the British Army and was serving in Canada at the time Edward was born.
-* Edward's mother, Marie Louise Taschereau, was Randolph Routh's second wife, his uncle was Cardinal Taschereau, his maternal grandfather father Chief Justice of Quebec.
 * Edward attended University College School and then entered University College, London, in 1847 having won a scholarship.
 * However, Maxwell transferred to Trinity College (perhaps because he felt Routh was too strong competition!).
 * Routh obtained his M.A. from London in 1853, being awarded at that time the Gold Medals for Mathematics and for Natural Philosophy.

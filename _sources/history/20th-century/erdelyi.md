@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Arthur Erdélyi** was a Hungarian mathematician who became a lecturer at Edinburgh and after a period in the USA returned to Edinburgh as a Professor. He was an expert on Special Functions.
 
 ### Mathematical Profile (Excerpt):
-* One might reasonably ask why Erdélyi's father had the family name Diamant and not Erdélyi.
-* Well Arthur Erdélyi was indeed named Arthur Diamant, but his father died when he was young and his mother remarried.
-* Frieda's second husband adopted Arthur and at that time his name was changed to Erdélyi, the name of his adopted father.
 * By the end of 1936 Erdélyi had 18 papers in print, another 11 appearing in 1937.
 * Erdélyi wrote no doctoral thesis, he merely matriculated at the University of Prague, and submitted his papers instead of a thesis.
 * Many of Erdélyi's papers were on the hypergeometric function so it was natural for him to write to Whittaker for help.

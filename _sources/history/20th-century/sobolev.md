@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Sergei Sobolev** was a Russian mathematician who worked on mathematical analysis and partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-* His mother, Nataliya Georgievna, played an important role in Sobolev's upbringing, particularly after the death of Sobolev's father when Sobolev was 14 years old.
 * After graduating from high school in 1925, Sobolev entered the Physics and Mathematics Faculty of Leningrad State University where his talents were quickly spotted by Smirnov who had returned to Leningrad three years earlier.
 * Sobolev became interested in differential equations, a topic which would dominate his research throughout his life, and even at this stage in his career he produced new results which he published.
 * By 1929 Sobolev had completed his university education and he began to teach in a number of different educational establishments.

@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Maurice Audin** was a French mathematician and an activist in the anticolonialist cause, who died under torture by the French state during the Battle of Algiers.
 
 ### Mathematical Profile (Excerpt):
-* Louis Audin was born into a working class family from Lyon in France, while Alphonsine was born into a peasant family from Mitidja in the north of Algeria.
-* Louis  Audin became chief of police in Béja, Tunisia, and he married Alphonsine in 1923 in Koléa, a city in northern Algeria overlooking the Mitidja plain.
 * Tunisia had been occupied by France in 1880 and Louis Audin was in the French military, sent to Béja as part of French control of the country.
-* As the son of a military man, young Maurice was educated in the school in Hammam Righa which educated the sons of the French military.
 * In 1946 Audin transferred to the military school in Autun, Saône-et-Loire, in France.
 * It had been the intention that Audin would become an officer in the military but after two years at the school, in 1948, he gave up ideas of a military career and went to the lycée Émile-Félix Gautier where he studied mathematics.
 * Graduating from the lycée Émile-Félix Gautier, Audin entered the University of Algiers.
@@ -50,14 +47,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Two important things happened, however, the Maurice Audin committee was set up in November 1957 and Audin's thesis was accepted posthumously on 2 December.
 * an initiative of de Possel: why not pass the thesis of Audin at the Sorbonne "in absentia", (in fact a posthumous thesis)?
 * It was decided that de Possel would present Audin's results on the board.
-* Josette Audin was not going to accept the official version of her husband's disappearance and she contacted lawyers who filed a civil suit for kidnapping and murder.
 * This led to Josette Audin's civil suit being dismissed in April 1962.
 * The Audin Committee, however, worked to assemble evidence about Audin's death.
 * In January 1960 the journalist Georges Ras wrote in the Voix du nord that the Audin Committee did not have any proof of its allegations and that it had been deliberately deceiving the public.
 * Eventually, in 1969, judges ruled that Ras had libelled the Audin Committee and awarded the Committee the symbolic amount of 1 franc in damages.
 * General Paul Aussaresses, who was the intelligence officer for the Paratroop Division that arrested Audin, stated in May 2001 that he had ordered Lieutenant Charbonnier to question Audin.
 * With this statement, Josette Audin tried again to bring a complaint for unlawful confinement, but it was dismissed.
-* When Nicolas Sarkozy was elected President of France in 2007, Josette Audin wrote to him asking that he look into the disappearance of her husband; he did not reply.
 * In 2012 François Hollande set up a Ministry of Defence investigation into the circumstances of Audin's death.
 * General Paul Aussaresses had died on 3 December 2013 and on 8 January 2014 the journalist Jean-Charles Deniau reported that Aussaresses had admitted before his death that he had ordered that Audin be killed.
 * François Hollande, however, admitted in June 2014 that the official version that Audin had escaped was false and that there were documents which established that he died in custody.

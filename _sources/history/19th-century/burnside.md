@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Burnside** wrote the first treatise on groups in English and was the first to develop the theory of groups from a modern abstract point of view.
 
 ### Mathematical Profile (Excerpt):
-* William Burnside Senior was of Scottish ancestry, his grandfather having moved from Scotland to London where he was a partner in the booksellers Seeley and Burnside.
 * William Burnside Senior was a merchant who lived at 7 Howley Place, Paddington, where William, the elder of his parents two sons, was born.
 * Christ's Hospital was a school which took in boys whose parents were unable to pay the fees for a boarding school, so it was particularly appropriate for an orphan like Burnside.
 * In 1873 he moved from St John's College to Pembroke College, not for academic reasons but rather because St John's had such an excellent rowing team that Burnside was not good enough to make their first boat.

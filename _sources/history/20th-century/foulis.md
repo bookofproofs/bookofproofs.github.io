@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **David Foulis** was an American mathematician who worked on the algebraic foundations of quantum mechanics.
 
 ### Mathematical Profile (Excerpt):
-* His grandfather, David Foulis (1868-1950), was one of five brothers (David, Jim, Robert, John and Simpson) born in Scotland, three of whom were professional golfers, one, Simpson, was an amateur golfer and one, John, was a bookkeeper and golf ball maker.
 * David and Jim took out a patent on the mashie niblick, a wooden shafted club roughly equivalent to a modern seven iron.
-* Since this archive is based in St Andrews, Scotland, we must note that the five Foulis brothers were all born in St Andrews.
-* David Foulis, the subject of this biography, moved with his family to South Miami, Florida, when he was fifteen years old.
 * After the award of his Bachelor's degree, Foulis studied for a Master's degree in Mathematics beginning his studies in September 1952.
 * In September 1956 Foulis returned to Tulane University where he began undertaking research for his Ph.D. with Fred Boyer Wright Jr as his thesis advisor.
 * Al Clifford invited Gordon Preston to spend the two years 1956-58 working with him at Tulane University and Preston was also a major influence on Foulis.
@@ -35,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Randall, after working in the nuclear industry, obtained a position at the University of Massachusetts and had a close and fruitful collaboration with Foulis for twenty years until his death in 1987.
 * Richard Greechie, who was one of Foulis's graduate students gaining a Ph.D. with his thesis Orthomodular Lattices in 1966, recalls how devoted Foulis was to teaching his students.
 * Finally, we mention that Foulis published seven undergraduate textbooks.
-* Foulis has three children David, Dean and Scott.
 
 Born 26 July 1930, Hinsdale, Illinois, USA. Died 3 April 2018, Amherst, Massachusetts, USA.
 

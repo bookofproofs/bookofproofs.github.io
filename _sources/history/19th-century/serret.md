@@ -24,13 +24,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Joseph was born at 397 Rue St Honoré, Paris.
-* He had an older sister who was also born in Paris; Marie Ernestine Serret was born on 12 September 1812.
 * Serret graduated entered the École Polytechnique in Paris in 1838 and, after two years of study, graduated in 1840.
 * From 1836 the École des tabacs took students exclusively from the École Polytechnique and Serret was in one of the six classes of classes of students which they recruited, namely the mathematics and mechanics class.
 * However, after working in the tobacco factory for a while Serret resigned his position and returned to Paris.
 * For his two theses, following an oral examination, Serret was awarded his doctorate in 1847 and, in the following year, he was appointed as an entrance examiner for the École Polytechnique; he held this position until 1862.
 * Serret took over some of his duties although Francoeur's chair was given to Jean-Marie Duhamel.
-* On 26 November 1853, Serret married Cecile Marie Amélie Thomas, the daughter of Charles Jules Thomas and Cécile Herpin.
 * In 1856 Serret took over some of Urbain Le Verrier's lecturing duties, and he did so again from 1861 to 1863.
 * In 1860 Serret was elected to the Académie des Sciences, the position having become vacant following the death of Louis Poinsot in December of the previous year.
 * Jean-Claude Bouquet took over Serret's lecture courses at the Faculty of Science in 1871 and was appointed professor of differential and integral calculus in 1874.

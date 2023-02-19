@@ -23,14 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hans Reichenbach** was a German philosopher of science and proponent of logical empiricism.
 
 ### Mathematical Profile (Excerpt):
-* Bruno was a prosperous wholesale merchant, and Hans was one of his parents' five children.
 * Both Bruno and Selma Reichenbach were members of the Reformed Church but Bruno's parents were Jewish.
 * Hans attended primary and secondary schools in Hamburg.
 * Reichenbach was also active in the universities outside his immediate academic studies.
 * The thesis had a mathematical part and a philosophy part, and Reichenbach went to several universities trying to find someone to accept the thesis.
 * The topic intrigued Reichenbach and he launched himself into undertaking research on its philosophical aspects.
 * Research, however, was only a part-time job for Reichenbach at this time for he was employed full-time in the radio industry.
-* His views had become known when he was politically active in his student days, and someone with these views, who was as outspoken as Reichenbach, was certainly not acceptable to many in Germany at this time.
 * Appointed to the chair in the philosophy of physics at the University of Berlin in 1926 Reichenbach took a very different approach to teaching than that used throughout the German system at that time.
 * Carl Gustav Hempel, Richard von Mises, David Hilbert and Kurt Grelling all became members of the Berlin Circle and Reichenbach took on another major role in 1930 when, together with Carnap, he took on the editorship of the journal Erkenntnis (Knowledge).
 * During these years in Berlin, Reichenbach published further important works on the problems of space and time associated with the new physics.

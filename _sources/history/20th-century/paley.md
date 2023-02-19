@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Raymond Paley** was an English mathematician who worked in interpolation and allied trigonometrical problems.  He died in a skiing accident.
 
 ### Mathematical Profile (Excerpt):
-* Raymond's father died in Nordrach Sanatorium, Clutton, Somerset on 11 September 1906 before his son (our mathematician) was born and his mother married Neville Edward Anning Gardner, a planter, on 28 June 1910.
 * Raymond Paley was educated at Eton.
 * Paley had already proved impressive results on Fourier series and had collaborated with Littlewood, his supervisor.
 * Zygmund discovered Paley's extraordinary talent and the two worked jointly on existence proofs, brilliantly applying ideas from Borel's Calcul des probabilités dénombrables.

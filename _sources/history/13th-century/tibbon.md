@@ -23,12 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jacob ben Tibbon** was a French Jewish medical doctor who translated Arabic versions of Greek mathematics into Hebrew.
 
 ### Mathematical Profile (Excerpt):
-* The ibn Tibbon family were famed over several generations so we begin by looking at the ancestors of the subject of this biography.
-* We begin with Judah ben Saul ibn Tibbon (1120-1190) who was the great-grandfather of Jacob ben Tibbon.
 * The Almohads expelled the Jews from Muslim Spain in 1148, and Judah ben Saul ibn Tibbon together with many other learned refugees, went to the south of France.
-* His son, Samuel ben Judah ibn Tibbon, was born in Lunel and continued his father's work of translating although he, like his father, was a medical doctor.
 * Samuel ben Judah ibn Tibbon's son, Moses ben Samuel ibn Tibbon, was born in Marseilles.
-* Jacob ben Machir ibn Tibbon, the subject of this biography, was the son of Machir ben Judah ibn Tibbon, Samuel ben Judah ibn Tibbon's brother.
 * Jacob was educated in Lunel and then studied medicine in the medical faculty of the University of Montpellier.
 * Jacob ben Tibbon is himself known as a translator as well as a mathematician and an astronomer.
 * Now Tibbon was much more than a translator, for he was a fine mathematician and astronomer writing original works in addition to the translations.

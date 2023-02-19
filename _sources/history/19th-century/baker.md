@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Henry Baker** spent his whole life in Cambridge and worked on Geometry and Analysis and inspired a younger generation of geometers.
 
 ### Mathematical Profile (Excerpt):
-* His father, also called Henry, was a domestic butler.
 * Baker would remain at Cambridge for the whole of his career, strongly influencing the teaching of pure mathematics in that university and in the rest of Great Britain.
 * Baker, while on a visit to Göttingen, was inspired by Klein to study algebraic function theory.
 * In 1943 Baker published An Introduction to Plane Geometry which was reprinted in 1971.

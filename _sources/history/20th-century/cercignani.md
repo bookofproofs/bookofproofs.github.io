@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Carlo Cercignani** was an Italian mathematician known for his work on the kinetic theory of gases.
 
 ### Mathematical Profile (Excerpt):
-* Carlo's brother, Fausto, who became a renowned essayist, poet and professor of German literature, was born in 1941 also in Sardinia.
-* However the family soon returned to Tuscany and Carlo spent his early years in Pisa, where he attended a Liceo classico, before moving to Milan where he undertook university studies.
 * Interrupting his work on a difficult theorem, he would suddenly begin to translate Jorge Luis Borges, William Shakespeare, Raymond Queneau, Charles Baudelaire, Stéphane Mallarmé or the Milanese dialect of "La Ninetta del Verzee" by Carlo Porta.
 * Cercignani met Silvana Galdabini, a physics student, while she was studying at Milan.
 * Returning to Carlo Cercignani's career, he was appointed as a teaching and research assistant at the University of Milan, but over the following few years spent time at a number of foreign institutions, in particular at the Massachusetts Institute of Technology, the University of California, Berkeley, and the Courant Institute of Mathematical Sciences in New York.
@@ -41,6 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Carlo describes how after death he very joyfully goes to heaven.
 * But strangely enough, the chorus of the angels he hears is a little monotonous, and Carlo cannot refrain from telling them.
 * Requested by Beethoven to give his opinion about his music, Carlo refrains from speaking, but then, as Beethoven insists, with great humility admits he would have expected some more sublime music.
+* ..." So Carlo looks at Beethoven ...
 
 Born 17 June 1939, Teulada, Sardinia, Italy. Died 7 January 2010, Milan, Italy.
 

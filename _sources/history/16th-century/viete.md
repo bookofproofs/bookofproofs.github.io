@@ -23,18 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **François Viète** was a French amateur mathematician and astronomer who introduced the first systematic algebraic notation in his book _In artem analyticam isagoge _. He was also involved in deciphering codes.
 
 ### Mathematical Profile (Excerpt):
-* François' mother was Marguerite Dupont.
-* Given the occupation of his father, it is not surprising that Viète studied law at university.
 * After graduating with a law degree in 1560, Viète entered the legal profession but he only continued on this path for four years before deciding to change his career.
 * In 1564 Viète took a position in the service of Antoinette d'Aubeterre.
-* Viète moved to La Rochelle with his employer and her daughter.
 * In 1570 Viète left La Rochelle and moved to Paris.
 * Although he was never employed as a professional scientist or mathematician, Viète was already working on topics in mathematics and astronomy and his first published mathematical work appeared in Paris in 1571.
 * While Viète was in Paris, Charles IX authorised the massacre of the Huguenots, who were an increasingly powerful group of French Protestants, on 23 August 1572.
 * This must have been an extremely difficult time for Viète for, although not active in the Protestant cause, he was a Huguenot himself.
 * However, on 24 October 1573 Charles appointed Viète to the government of Brittany which was based at Rennes.
 * Viète moved to Rennes to take up his position of counsellor there.
-* The royal court contained factions with different political aims and in 1584 Viète's position as a known Huguenot became untenable and he was banished by his political enemies from the court.
 * Leaving Paris, Viète went to Beauvoir-sur-Mer, on the coast about 130 km northwest of his home town of Fontenay-le-Comte.
 * During the five years that he spent at Beauvoir-sur-Mer, Viète was able to devote himself entirely to his mathematical studies.
 * In many ways Viète's enemies did mathematics a favour, for it was during this period without formal duties that Viète's most important mathematics was done.
@@ -59,7 +55,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He deduces that the work of Viète is not based on that of Sharaf al-Din al-Tusi.
 * Viète also wrote books on trigonometry and geometry such as Supplementum geometriae (1593).
 * In 1593 Viète published a second book, which in many ways was motivated by his lecture course at Tours in the previous year (which we mentioned above), examining various problems such as doubling the cube, trisecting an angle and the construction the tangent at any point on an Archimedian spiral.
-* Finally we should mention that Viète is often called "the father of algebra".
 * On the other hand it is unfair to Viète since his contributions were of much wider mathematical importance.
 * It would also be interesting to know how much Viète's ideas were influenced by those of Harriot.
 * it appears that Harriot's system of analytics or algebra was based on that of his friend and correspondent François Viète as Viète's was avowedly based on that of the ancients.

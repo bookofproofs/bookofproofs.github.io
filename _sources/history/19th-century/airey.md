@@ -23,14 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Airey** graduated from Cambridge and became Principal of the West Ham Technical Institute. He is best known for his work in producing tables of mathematical functions.
 
 ### Mathematical Profile (Excerpt):
-* John's mother, Elizabeth Airey born about 1844 also in Preston.
 * John had three younger siblings, Elizabeth Ann (born 1870), Edwin  (born about 1878) and Maud  (born about 1880).
-* In the 1871 census, when John was 2 years old the family was living at Hunslet and in 1881 they were living at 28 Grosvenor Street, West Leeds.
 * John Airey was educated at Blenheim Board School and Leeds Central High School.
 * Airey taught as a Mathematics Master at Porth Intermediate School, Glamorganshire, until 1903 when, at the age of 35, he gave up his job to matriculate at St John's College, Cambridge to study the Natural Science Tripos.
 * After graduating, Airey became headmaster of Morley Grammar School, holding the post from 1906 to 1912.
-* His brother, Sir Edwin Airey was head of a large firm of building contractors and engineers.
-* In 1910 Airey married Gwenllian (born Ystradyfodwg, Glamorgan about 1880).
 * John R Airey, The Vibrations of Circular Plates and their Relation to Bessel Functions, Proc.
 * John R Airey, Sines and cosines of angles in circular measure, British Association for the Advancement of Science Report 1916, 60-91.
 * John R Airey, The Lommel-Weber Ω Function and Its Application to the Problem of Electric Waves on a Thin Anchor Ring, Proc.

@@ -32,6 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This now presented Tverberg with a challenge on which, by 1963, he had made some progress by proving the 3-dimensional case.
 * Helge Tverberg is friendly and generous, he loves intriguing questions and puzzles.
 * Years later, someone vaguely familiar greeted Tverberg while out skiing, and it turned out that they had been in his class.
+* This erstwhile student confessed regretfully that he could not claim to remember much about the course, but he still recalled that afternoon Tverberg had told them how to catch flies ....
 * In 2001 a part of Discrete Mathematics was devoted to papers to honour Tverberg.
 * The biographical pieces also had a dual purpose: certainly to record the key mathematical events in Helge Tverberg's life; but more to paint a contemporary picture of what it might be like to engage professionally in mathematics, a picture on a more human and accessible scale than that of giants of a distant past, such as Abel or Lie or Sylow, which otherwise would not exist.
 

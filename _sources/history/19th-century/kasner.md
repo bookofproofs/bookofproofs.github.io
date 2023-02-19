@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Edward Kasner** was an American mathematician who worked on differential geometry.
 
 ### Mathematical Profile (Excerpt):
-* They had eight children, Edward being the sixth child with older siblings Annie, Marcus, Alexander, Lottie and Adolf.
-* Kasner was awarded a B.S. in 1896 having studied a range of subjects including mathematics, astronomy, logic, physics, and political science.
 * Having completed his first degree, Kasner went to Columbia University for his graduate studies.
 * Cole, who had studied for several years with Felix Klein in Leipzig, was able to use this experience in advising Kasner who was awarded his Ph.D. in 1899 for his thesis The Invariant Theory of the Inversion Group: Geometry upon a Quadric Surface.
 * Although he had been awarded a doctorate without making the usual visit to Germany, Kasner did not totally break with tradition for he spent the year 1899-1900 in Göttingen attending courses by Felix Klein and David Hilbert.
@@ -37,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Water was obtained by Kasner from a nearby stream, and heated over a fire built from dead branches and leaves which we had gathered.
 * As the sun faded and darkness began to fall, Kasner would arise at the psychological moment signalled by a halt in the conversation, and carefully extinguish the fire with some water kept in reserve - we then knew it was time to start for home.
 * Kasner is best remembered today for the term 'googol' and for his remarkable book Mathematics and the Imagination (1940) co-authored with James R Newman.
-* The name "googol" was invented by a child (Dr Kasner's nine-year-old nephew) who was asked to think up a name for a very big number, namely, 1 with a hundred zeros after it.
 * We should note Kasner's talents as a teacher at all levels.
 * Kasner received many honours.
 * If today this position is patently a leading one, then some significant portion of the credit must be assigned to the work and influence of Edward Kasner.

@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Charles Weatherburn** worked on vector analysis and differential geometry.
 
 ### Mathematical Profile (Excerpt):
-* Henry Weatherburn, the only son of Martin Weatherburn, a railway engine driver born 1805, and Ann Kilby King, was born in Leicester on 31 May 1849.
-* Henry Weatherburn married Amelia on 1 May 1876; they had six children, Edith (born 1877), Martin Henry (born 1879), Margaret Eliza (born 1880), Percy (born 1882), Charles Ernest, the subject of this biography, (born 1884), and Lilly (born 1889).
 * Charles was educated at Blackfriars School, Chippendale, Sydney and the Sydney Boys' High School which he entered in 1897.
 * This was the first building designed as a High School in any of the Colonies and it was in this building that Weatherburn studied.
 * Following the award of his M.A., Weatherburn went to England in 1906, after the award of a scholarship, and studied at Trinity College Cambridge where he attended lectures by Alfred North Whitehead, Edmund Whittaker and G H Hardy.

@@ -27,11 +27,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was at the town of Belozersk that Vera Nikolaevna attended secondary school and, after graduating, she took a course to train to become a primary school teacher.
 * Accepted without any further examinations, Vera Nikolaevna began her studies at the Pedagogical Institute in 1939.
 * This had little effect on life in Leningrad where Vera Nikolaevna met Dmitrii Konstantinovich Faddeev who strongly advised her that she should follow a career in mathematics.
-* When Vera Nikolaevna's mother became seriously ill she left Leningrad and returned to her home village of Krokino.
 * However, in 1945 Vera Nikolaevna decided that she would investigate whether Faddeev's suggestion that she study for a degree in mathematics at Leningrad State University still applied.
 * After three years of study, Vera Nikolaevna graduated from Leningrad State University and was given an appointment as a junior researcher at the V A Steklov Mathematical Institute of the USSR Academy of Sciences in Leningrad.
 * Vera Nikolaevna worked with Kantorovich on this project in a secret Leningrad laboratory until 1955.
-* It is remarkable that, in addition to her family duties and her work with Kantorovich, Kublanovskaya found time to undertake research for her candidate's degree (equivalent to a Ph.D.).
 * Following this Kublanovskaya was promoted to a senior researcher at the Steklov Mathematical Institute.
 * He set up a research group, which Kublanovskaya joined, developing PRORAB, an abbreviation of the Russian for "task manager".
 * That was the beginning of Vera Nikolaevna's activities on developing algorithms of numerical linear algebra.

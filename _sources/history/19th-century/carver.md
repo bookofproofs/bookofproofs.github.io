@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Harry  Carver**  was an American mathematician who worked in mathematical statistics.
 
 ### Mathematical Profile (Excerpt):
-* Their first daughter, Ruth Jane Carver, was born on 17 September 1914.
 * He was setting up this actuarial sciences programme when Carver was a student and he was pleased to be able to appoint Carver as an Instructor in 1916 to continue the building process.
 * One of Carver's early tasks was to assist Glover in this task.
 * In 1921, Carver was promoted to associate professor.

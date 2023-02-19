@@ -24,10 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * However, the Balkan War was fought by Serbia, Bulgaria, Greece, and Montenegro against the Ottoman Empire when Arf was two years old.
-* With the outbreak of fighting, Arf's family escaped to Istanbul.
-* In 1919 Arf's family moved again, this time to Ankara, but they returned to Istanbul for a short period before they finally settled in Izmir.
 * Cahit Arf's interest in mathematics was stimulated during his school years in Izmir by a teacher who encouraged him to solve problems in euclidean geometry.
-* In 1926 Arf's father bought French francs when the currency was devalued and it became a cheaper option for the family to send Arf to school in France.
 * Arf won a scholarship to continued his education in Paris and he returned to France, graduating from the École Normale Supérieure after spending two years there.
 * Arf joined the Mathematics Department of Istanbul University.
 * He completed his doctoral studies in 1938 obtaining, among other results, the theorem now known as the Hasse-Arf theorem.

@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Carl Schoy** was a German historian of mathematics specialising in Arabian mathematics and astronomy.
 
 ### Mathematical Profile (Excerpt):
-* Carl grew up in a Roman Catholic family along with his two brothers and his sister.
-* Since his father was a teacher, there were lots of books in his home and, as Carl grew up, he would read the books, study an atlas, and try to understand the printed music.
-* As for many young boys of that time, there was a built in assumption that he would follow his father and so Carl was expected to become a school teacher.
-* This meant that Carl and his two brothers all attended the teachers' training college in Meersburg on the Bodensee.
 * Schoy did not perform particularly well at the college.
 * Like many German students of this time, Schoy spent a semester at a different university and he chose to spend the winter semester of 1904 at the University of Heidelberg.
 * Schoy had a remarkable desire to study the widest range of subjects but his main effort was put into courses in mathematics and astronomy.
@@ -43,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Teaching at the university in the occupied city was almost impossible so Schoy still could not fulfil his dream of teaching university students.
 * Dr Schoy, who has already done a good deal in this direction for Arab mathematics, points out in the preface to his translation what can be gathered from this modest little treatise.
 * Let us give a little more information about the last years of Schoy's life.
-* In an attempt to restore his health, Schoy and his wife went for a trip to the French Riviera in April and May 1924.
 * On 1 October 1925, Schoy achieved his life long ambition when he took up an appointment as "Lehrauftrag fur Geschichte der exacten Naturwissenschaften im Orient" in the University of Frankfurt am Main.
 * Schoy combined all these qualities, that is, he had gradually combined them at the cost of long studies and in spite of ill health and increasing discomfort.
 * We all felt that Schoy, if he had been granted to live ten or twenty years longer, would have increased considerably our understanding of oriental mathematics and astronomy.

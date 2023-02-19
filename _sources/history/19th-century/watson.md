@@ -23,12 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Neville Watson** studied at Cambridge, and then taught at Cambridge and University College London before becoming Professor at Birmingham. He is best known as the joint author with Whittaker of one of the standard text-books on Analysis.
 
 ### Mathematical Profile (Excerpt):
-* Neville's father was George Wentworth Watson (born 1857 in Calcutta, India, died 1940) who, at the time of Neville's birth, was a schoolmaster at the United Services College, teaching mathematics and geography, but is more famous for his work as a genealogist.
-* George and Mary Watson were married in 1885 and had two children, the eldest being Neville and the younger his sister Muriel Mary Joyce Wentworth Watson (born about 1892).
 * Let us say a little about Westward Ho! where Neville was born.
-* Almost all the boys were boarders and this was the school in which Neville's father was teaching at the time of his birth.
 * The census form shows that Neville and his parents had two servants, a nurse Clara Carter (age 23) and a general servant Mary Ann Hocking (age 20).
-* The Watson family moved from Westward Ho! to Kensington, London, and, certainly by the time of the 1901 census, they were living there with Neville's father described as a private tutor and as an employer.
 * Neville was educated at St Paul's School in West Kensington, London, entering as a Foundation Scholar in 1898.
 * He mixed with equally outstanding pupils, for J E Littlewood, less than a year older than Watson, was also a pupil at the school.
 * At this time there were three young fellows of Trinity all of whom had a major influence on Watson's mathematics.

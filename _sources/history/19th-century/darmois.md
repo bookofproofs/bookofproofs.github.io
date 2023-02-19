@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Georges Darmois**  was a French mathematician and statistician.
 
 ### Mathematical Profile (Excerpt):
-* Georges had an older brother Eugène, born in 1884, who went on to study mathematics and physics, becoming a professor of physics.
 * For his war service, Darmois served in the artillery, in particular being assigned to work on anti-aircraft batteries.
 * After he had been released from military service, Darmois was appointed as a lecturer at the Faculty of Sciences at Nancy.
 * He chose Darmois who, of course, he knew well from working with him before World War I.

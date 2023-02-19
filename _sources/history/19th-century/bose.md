@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Satyendranath Bose** was an Indian mathematician who did important work in statistical mechanics.
 
 ### Mathematical Profile (Excerpt):
-* Bose's father was Surendranath Bose who worked for a while as an accountant before joining the East Indian Railways.
-* Satyendranath was the eldest of Amodini and Surendranath's seven children, having six younger sisters.
 * Satyendranath began his education at an elementary school in Calcutta before entering the Hindu School in 1907.
-* In the year he was awarded his Master's degree, Bose married Ushabala Ghosh.
 * Had Indians been allowed to take administrative posts in the government service, Bose would almost certainly have followed that route.
 * This university was a research institution for postgraduate studies and here Bose was able to study recent European texts on quantum theory and relativity which, before the opening of the new institution, had not been readily available in India.
 * Gibbs book on statistical mechanics stimulated Bose's interest in this topic.

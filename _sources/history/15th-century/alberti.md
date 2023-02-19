@@ -23,13 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Leone Alberti** was an Italian mathematician who wrote the first general treatise on the laws of perspective and also wrote a book on cryptography containing the first example of a frequency table.
 
 ### Mathematical Profile (Excerpt):
-* In fact the success of the city of Florence during this period is to a large extent a consequence of the success of the Alberti family, whose firm had branches spread widely through north Italy.
-* It was for this reason that Lorenzo Alberti came to be living in Genoa at the time his son was born, for there he was safe yet still able to continue his wealthy life style within a local branch of the family firm.
-* As a child Leone Battista received his mathematical education from his father Lorenzo.
-* However, when the plague struck Genoa, Lorenzo rapidly went with his children to Venice where the firm also had a major branch run by members of the Alberti family.
-* However, Lorenzo died shortly after arriving in Venice and Leone Battista began living with one of his uncles.
 * Leone Battista attended a school in Padua then, from 1421, he attended the University of Bologna where he studied law but did not enjoy this topic.
-* By this time the decrees which had forced his family to flee from Florence had been revoked and Alberti went to live in the city where he met Brunelleschi and the two became good friends.
 * They shared an interest in mathematics and, through Brunelleschi, Alberti became interested in architecture.
 * In 1430 Alberti began working for a cardinal of the Roman Catholic Church.
 * Going to Rome was highly significant for Alberti, for there he fell in love with the ancient classical architecture which he saw all around.
@@ -52,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Alberti made numerous innovations in his design with the traditional division into nave and aisles discarded in favour of providing a continuous space.
 * There is certainly a mathematical flavour to the way that Alberti has sequences of small and large chapels alternating along the sides of the main space.
 * In addition to the Church of S Andrea, Mantua, Alberti had earlier articulated the facade of the Santa Maria Novella in Florence, which he began work on in 1447, and the Palazzo Rucellai, mentioned in the quote of Gombrich above.
-* In the square, on the right, is the Loggia dei Rucellai built by Alberti in 1460 as a formal hall for the Rucellai family.
 * In fact Alberti wrote some autobiographical notes which survive in which he boasts of his physical abilities.
 * Even if untrue, these delightful quotes tell us much of Alberti's personality.
 

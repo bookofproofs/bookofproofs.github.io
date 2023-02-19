@@ -23,22 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Tadeusz Ślebarski** was a Polish-born astronomer who taught for many years at the University of St Andrews.
 
 ### Mathematical Profile (Excerpt):
-* He was the son of Władysław Zygmunt Ślebarski and Helena Zuzanna Gacek.
 * Władysław Ślebarski was born in Brzeszcze, Poland, on 13 July 1886.
-* Tadeusz was their first son and a second son, Władysław Jan Ślebarski, was born in Komorowice on 12 April 1916.
-* Władysław, Tadeusz's father, had enlisted as a volunteer in the Austrian army in 1914 to fight for a free Poland and was sent to the eastern front.
-* In 1915 Tadeusz's mother left Malec and, with her young son, returned to the family home in Komorowice where her second son was born.
-* On 13 July 1916 Tadeusz's father was killed during the fighting of World War I.
-* Tadeusz and his brother Władysław finished their secondary education in the Adama Asnyka High School in Bielsko-Biała.
 * Tadeusz then entered the Jagiellonian University in Kraków where he began his studies in mathematics and astronomy.
 * The professor of astronomy at the Jagiellonian University was Tadeusz Banachiewicz (1882-1954) who had been appointed to the chair in 1919.
 * Banachiewicz was delighted with his young pupil Tadeusz, who was called up for military service in 1938 before completing his studies.
 * Tadeusz escaped from Poland while Banachiewicz was arrested by the Nazis, along with other members of the Faculty of the Jagiellonian University, on 6 November 1939.
 * Quite how Tadeusz managed to escape to France is not known but he was evacuated from France in 1940 and arrived in St Andrews with other members of the Polish Army and stationed in the St Andrews area for the remainder of the war.
 * In November 1943 Tadeusz entered the University of St Andrews and was awarded an M.A. in 1945.
-* Tadeusz was taught astronomy by Finlay Freundlich, a German with a Jewish wife who had also fled from the Nazis.
 * Tadeusz graduated with an honours degree in 1947 after an outstanding performance in astronomy.
-* Tadeusz married Giuliana Salvatoré (born 1915 in Scoonie, Leven, to Vincent Salvatoré (born 1889) and Francesca Ferdinando (born 1890)).
 * At the beginning of the academic year 1947-48 Tadeusz began his studies as a research student in astronomy but six months later, in April 1948, he was appointed as an Assistant in Astronomy after the first assistant, Ian Campbell, resigned to take a position with the Admiralty.
 * Tadeusz learnt the skills of astronomical photography from Cisar and began his own observing programme in January 1954.
 * Tadeusz observed asteroids, or minor planets.

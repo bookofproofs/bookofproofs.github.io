@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **David Mumford** is an English-born American mathematician who won a Fields Medal for his work on algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-* Mumford's father worked for the United Nations from its foundations in 1945 and this was his job while Mumford was growing up.
-* Mumford's mother was American and the family lived on Long Island Sound in the United States, a semi-enclosed arm of the North Atlantic Ocean with the New York- Connecticut shore on the north and Long Island to the south.
 * After attending Exeter School, Mumford entered Harvard University.
 * It was at Harvard that Mumford first became interested in algebraic varieties.
 * After graduating from Harvard, Mumford was appointed to the staff there.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ernest Hobson** wrote the first English book on the measure theory and integration of Baire, Borel and Lebesgue.
 
 ### Mathematical Profile (Excerpt):
-* His father, William Hobson, was the editor of the Derbyshire Advertiser, jointly owning the paper and also playing a large role in local politics.
 * Hobson then won a mathematics scholarship to Christ's College, Cambridge, entering in 1874.
 * Hobson was the first appointment to the Stokes lectureship.
 * Probably mainly due to this particularly influential work, Hobson was elected Sadleirian professor at Cambridge in 1910.

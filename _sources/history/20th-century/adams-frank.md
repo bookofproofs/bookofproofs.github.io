@@ -39,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The second part contains excerpts from some famous papers on algebraic topology together with surveys of generalized cohomology theories and complex cobordism written by Adams.
 * Adams' book fills this need nicely and it can be recommended to anyone seeking a substantial overview of the main topics.
 * As is evident from the lecture courses which Adams published, his lectures were well prepared but usually hard.
-* The competitive instinct in Adams was highly developed, for example in his attitude to research.
 * Adams received many awards for his work.
 * Finally we note that seven years after Adams died another book was published based on his lecture courses.
 * The book is based on lectures which Adams gave at Cambridge which he considered to be sequel to his book Lectures on Lie groups (1969).

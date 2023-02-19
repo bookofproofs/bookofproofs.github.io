@@ -24,11 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Theodosius, born in St Petersburg, Russia, was appointed as a docent in church history at the University of Dorpat in 1843 and, by the time Axel was born, he was Professor of Practical and Systemic Theology there.
-* Theodosius and Maria Harnack had five children, one daughter and four sons.
-* The children were: Anna Harnack (1849-1868); Karl Gustav Adolf von Harnack (1851-1930) (known as Adolf) who became a Lutheran theologian and a church historian; Karl Gustav Axel Harnack (1851-1888) (known as Axel), the subject of this biography; Friedrich Moritz Erich Harnack (1852-1915) (known as Erich) who studied medicine and became a pharmacologist, and Rudolf Gottfried Otto Harnack (1857-1914) (known as Otto) who became a professor of history, literature and aesthetics (he committed suicide on 22 March 1914).
 * We note that Adolf and Axel were twins.
-* After the death of Axel's mother Anna in 1857, when Axel was six years old, his father Theodosius married Helene Klementine Amalie von Maydell (1834-1923).
-* Harnack was brought up in Erlangen in Bavaria since his father had been appointed as professor at the Frederick Alexander University of Erlangen in 1853 when Axel was two years old.
 * Axel completed his schooling in Dorpat then, in 1869, he began his university studies in mathematics and physics at the University of Dorpat.
 * He had been appointed Professor of Physics at Dorpat in 1868, the year before Harnack began his university career.
 * Harnack was an outstanding student and, in 1872 he was awarded a prize for a geometrical dissertation which has never been published.

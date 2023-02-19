@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Heinz Rutishauser** was a Swiss mathematician who worked in numerical mathematics and computer science.
 
 ### Mathematical Profile (Excerpt):
-* Heinz, together with his younger brother and sister, then went to live in their uncle's home.
 * Rutishauser served as Saxer's assistant for three years while undertaking research for his doctorate.
 * Eduard Stiefel's aim was to build an institute where the mathematical implications of computers could be studied and he employed two assistants, Heinz Rutishauser and Ambros Speiser.
 * So he sent Heinz Rutishauser and Ambros Speiser on a fact finding visit to the United States in January 1949.

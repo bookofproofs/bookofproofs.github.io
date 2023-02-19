@@ -23,9 +23,6 @@ contributors: @Robin-Whitty,bookofproofs
 **Stanisław Świerczkowski** was a Polish mathematician who worked in many areas including Diophantine approximation, geometry and the foundations of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* His father Antoni Świerczkowski belonged to the Polish nobility.
-* Świerczkowski's parents divorced when he was very young; he was brought up by his mother and was an only child, although he had a half-brother by his father's second marriage.
-* Although Świerczkowski's mother's German connections helped her retain something of a normal life under German occupation they counted against her when the Soviets took control in 1945.
 * Stanisław remained with her until, at the age of fifteen, he was able to take rented accommodation alone in Toruń and resume his schooling.
 * Astronomy was not to be Świerczkowski's calling, however.
 * Hugo Steinhaus was instrumental in developing mathematics at University of Wrocław and one of his questions led to Świerczkowski's best-known result, the three-distance (or three-gap) theorem.
@@ -37,12 +34,10 @@ contributors: @Robin-Whitty,bookofproofs
 * At this time another Wrocław postgraduate, Andrzej Hulanicki, was also in the United Kingdom on a British Council scholarship, attached to Manchester University and Świerczkowski collaborated with him on the theory of algebras.
 * In all, Świerczkowski's first visit to Scotland lasted three years, the academic year 1959/60 being spent at Glasgow University.
 * Świerczkowski was able to resume lecturing at the University.
-* This would have been innovative if published at the time but the manuscript was lost due to the separation, in 1965, of Świerczkowski and his wife Jeanette.
 * Meanwhile Świerczkowski's work with Murray Macbeath at Dundee had led to an invitation from André Weil to spend the year 1965/66 at the Institute of Advanced Studies at Princeton.
 * Świerczkowski felt the same professional discomfort at the University of Washington.
 * Świerczkowski could perhaps have been happy at ANU.
 * Shoenfield." The 'later' came in 1986 when Świerczkowski found himself at a crossroads with no prospects, no money, and no home, his yacht apparently sold by Elisa during an absence.
-* Despite being again very creative mathematically and being promoted to a full professorship Świerczkowski did not survive the internal politics at Sultan Qaboos University and he found himself once more, at the age of 65, without employment.
 * This was nevertheless a productive time for Świerczkowski.
 * In 2011, Halina chose to remain in the United States while Świerczkowski returned to Australia where he could rely on an old-age pension and free health-care.
 

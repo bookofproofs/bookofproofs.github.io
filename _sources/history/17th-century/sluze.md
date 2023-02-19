@@ -24,14 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Perhaps the most common French form of his name is 'Sluse', but the Latin version 'Slusius' is the one form which is always used in his scientific international correspondence.
-* His father and paternal grandfather were both named René de Sluse so we now have to be careful in giving details of three people with the same name; let us temporarily call them René the Younger, René the Elder, and René the Eldest.
-* René the Elder was a lawyer working as clerk of the court, while his father René the Eldest served as mayor of Visé.
-* The mother of René the Younger (René the Elder's husband) was Catherine Waltheri de Castro, a daughter of Walther Plorard who was mayor of Visé on several occasions.
-* Several other members of the family were prominent figures, like for example René's maternal uncle Gualthère Waltheri who also trained as a lawyer and served as the secretary of papal briefs to Innocent X, pope from 1644 to 1655.
 * After the death of Innocent X, he served as secretary of papal briefs to his successor, pope Alexander VII.
-* Another of René's maternal uncles was Jean Waltheri who was first a canon and then the dean of the collegial church in Visé.
-* René had two brothers: Pierre Louis and Jean Gualière who both entered the Church, the latter became a cardinal in the year following René's death.
-* René's family had no doubts the direction that his life should take, namely a training in law leading to an ecclesiastical career, and his education was arranged with this aim in mind.
 * De Sluze studied civil and canon law at the University of Louvain from the autumn of 1638 to the summer of 1642.
 * De Sluze studied at the University of Sapienza and received a doctorate in law in October 1643.
 * After this de Sluze remained in Rome where he greatly enjoyed the scholarly environment and he studied a large number of subjects including many languages such as Greek, Hebrew, Arabic and Syriac, as well as mathematics and astronomy.
@@ -40,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * De Sluze became a canon in the collegiate church in Visé on 8 October 1650, although this appointment was only a nominal one to provide him with an income and de Sluze did not need to return to Visé but remained in Rome.
 * He became abbot of S le Ode at Amay in 1666, conseiller ordinaire in 1673, and vice-provost of the cathedral on 20 January 1676.
 * Given his busy life, the only route left open to de Sluze to interact with other mathematicians was by correspondence.
-* He corresponded with many mathematicians in England, France and other European countries, for example he was in regular contact with Blaise Pascal, Christiaan Huygens, and John Wallis.
 * However, one of his most useful links with other mathematicians and scientists came through correspondence with Henry Oldenburg, the secretary of the Royal Society in London.
 * Before we discuss this, let us look at his earlier mathematical contributions to which correspondence also played a large part.
 * De Sluze wrote to Christiaan Huygens on 14 March 1658 regarding integrating the cissoid, or rather in the language of the time, its quadrature or finding the area under the curve.
@@ -56,6 +48,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One month later de Sluze replied to Huygens saying that he would read it to the best of his ability.
 * Huygens also sent a copy of Horologium Oscillatorium (1673) to de Sluze.
 * He described the aims of the Royal Society and sought an exchange of letters which should inform the English of Sluse's research undertaken since the publication of his 'Mesolabum', which, he said, had been much appreciated in England, although copies were scarce.
+* Oldenburg inquired about the natural history of the country around Liège, a well-known centre for mining, and about "whatever novelties there may be of a mechanical kind" ...
 * Sluse was later to reply fully to all these requests, satisfying the Society's mathematical interests in good measure as well as Oldenburg's expressed interest in natural history and the history of trades.
 * In this first instance he responded only with polite acknowledgements, doubting, he said, whether a sustained correspondence was possible since it had taken three months for Oldenburg's letter to arrive.
 * In fact the return letter took only nine days and a regular correspondence was possible.
@@ -78,6 +71,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * De Sluze was elected a Fellow of the Royal Society on 16 April 1674, having been proposed by Oldenburg.
 * De Sluze did not write exclusively on mathematics.
 * his research ranged from mathematics to astronomy, chronometry, chemistry, medicine, embryology, the development of the thermometer and the barometer, and the transfusion of blood.
+* His literary work also included a defence of the Latin language ...
 * He wrote a book on the death of St Lambert, bishop of Maastricht, who was murdered in 705.
 * De Sluze left hundreds of pages of unpublished work, including a history of Cologne as well as much on mathematics, astronomy, physics and natural history.
 * How de Sluze must have enjoyed being asked by Oldenburg about the history and natural history around Liège.

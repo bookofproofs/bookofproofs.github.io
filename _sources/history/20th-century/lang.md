@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Serge Lang** was a French-born mathematician who spent most of his life in the USA. He is best-known for his outstanding undergraduate text-books.
 
 ### Mathematical Profile (Excerpt):
-* His father Étienne Lang was a businessman and his mother Helene Schlepianoff was a concert pianist.
-* Serge had a twin brother who became a basketball coach and a sister who became an actress.
-* Serge together with his father and sister fled to the United States where they settled in Los Angeles, California.
 * It was there that Lang completed his high school education and then entered the California Institute of Technology.
 * Lang graduated from the California Institute of Technology in 1946 with a B.A. in physics.
 * After returning to the United States, Lang went to Princeton University with the intention of studying for a doctorate in philosophy.

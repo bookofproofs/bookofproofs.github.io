@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Stanisław Lesniewski** was a Russian-born mathemtician who was one of the founders of the Polish school of logic.
 
 ### Mathematical Profile (Excerpt):
-* It was a job which involved Isydor Lesniewski being sent to places where railways were being constructed and at the stage when Stanisław was attending secondary school the family were living in Siberia.
 * Stanisław attended school there in the town of Irkutsk.
 
 Born 30 March 1886, Serpukhov (near Ivanovo-Vosniesiensk), Russia. Died 13 May 1939, Warsaw, Poland.

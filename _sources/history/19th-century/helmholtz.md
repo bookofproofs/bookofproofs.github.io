@@ -23,14 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hermann von Helmholtz** was a German mathematician who trained as a medical doctor and made important contributions to mathematical physics, optics and acoustics as well as to physiology and psychology.
 
 ### Mathematical Profile (Excerpt):
-* Hermann was the eldest of his parents four children.
-* In particular the views on philosophy held by his father restricted Helmholtz's own views.
 * Ferdinand Helmholtz had served in the Prussian army in the fight against Napoleon.
 * It was a poorly paid job and Hermann was brought up in financially difficult circumstances.
 * Ferdinand was an artistic man and his influence meant that Hermann grew up to have a strong love of music and painting.
-* Caroline Helmholtz was the daughter of an artillery officer.
-* Hermann attended Potsdam Gymnasium where his father taught philology and classical literature.
-* Such financial support was only available for particular topics and Hermann's father persuaded him that he should study medicine which was supported by the government.
 * In 1837 Helmholtz was awarded a government grant to enable him to study medicine at the Royal Friedrich-Wilhelm Institute of Medicine and Surgery in Berlin.
 * Given Helmholtz's contributions to mathematics later in his career it would be reasonable to have expected him to have taken mathematics courses at the University of Berlin at this time.
 * Helmholtz strongly argued for founding physiology completely on the principles of physics and chemistry.
@@ -38,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Helmholtz argued in favour of the conservation of energy using both philosophical arguments and physical arguments.
 * That philosophical arguments came right up front in this work was typical of all of Helmholtz's contributions.
 * In fact it played a large role in Helmholtz's career for the following year he was released from his obligation to serve as an army doctor so that he could accept the vacant chair of physiology at Königsberg.
-* He married Olga von Velten on 26 August 1849 and settled down to an academic career.
 * Helmholtz was always prepared to admit his mistakes and indeed he did just this three years later when he published new experimental results showing those of his 1852 paper to be incorrect.
 * Franz Neumann, the professor of physics in Königsberg was involved in disputes concerning priority with Helmholtz and the cold weather in Königsberg had a bad effect on his wife's delicate health.
 * Helmholtz's paper Über Integrale der hydrodynamischen Gleichungen, welche den Wirbelbewegungen entsprechen Ⓣ(On integrals of hydrodynamic equations, which correspond to the vortex motion) began by decomposing the motion of a perfect fluid into translation, rotation and deformation.

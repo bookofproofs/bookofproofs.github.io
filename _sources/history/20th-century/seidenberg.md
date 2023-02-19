@@ -24,9 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * In 1945 Seidenberg was appointed as an instructor in mathematics at the University of California at Berkeley.
-* Seidenberg married the writer Ebe Cagli.
-* After a stay in New York she married Seidenberg.
-* Seidenberg and his wife frequently visited Italy.
 * Ebe Seidenberg died in a clinic in Rome at the age of 87.
 * Seidenberg contributed important research to commutative algebra, algebraic geometry, differential algebra, and the history of mathematics.
 * Seidenberg's papers on differential algebra include Some basic theorems in differential algebra (characteristic p, arbitrary) (1952) and Some basic theorems in partial differential algebra (1958).

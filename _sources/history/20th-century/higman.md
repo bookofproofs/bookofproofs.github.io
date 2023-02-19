@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Graham Higman** was an English mathematician who is known for his outstanding work in all aspects of the theory of groups.
 
 ### Mathematical Profile (Excerpt):
-* He chose Balliol College because that was the College where his elder brother had studied but, since his elder brother had read chemistry, Graham decided he had to be different in some respect and so, despite holding a natural sciences scolarship, he chose to read mathematics.
 * Higman's tutor was Henry Whitehead and it took a while before he realised that Higman was a natural pure mathematician since most students on a natural sciences scholarship would only take mathematics courses to support their science studies.
 * Following a suggestion by Whitehead, Higman founded the Invariant Society (an Oxford undergraduate mathematical society).
 * After taking special topic courses on group theory and differential geometry, Higman received an MA.

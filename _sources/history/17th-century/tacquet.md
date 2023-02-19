@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Andrea Tacquet** was a Flemish Jesuit who wrote some popular teaching works.
 
 ### Mathematical Profile (Excerpt):
-* Pierre Tacquet was a merchant who was quite well off so, although he died when Andrea was only a child, nevertheless left sufficient money for his family to live and for Andrea to have a good start in life.
 * Andrea Tacquet was born pretty much in the middle of the Eighty Years' War which was a war of Netherlands independence from Spain.
-* Andrea was educated at the Jesuit College in Antwerp, where he was described as a 'gifted but somewhat delicate child'.
 * After this Tacquet, showing his versatility, spent a while teaching Greek and poetry at Bruges.
 * From 1640 Tacquet studied theology at Louvain while at the same time he taught mathematics there.
 * Throughout his life Tacquet was totally dedicated to his church and to the Jesuit Order.
@@ -40,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It is less known that about the middle of the 17th  century this remarkable mode of arguing became the subject of an interesting debate, in which the Belgian mathematician Andreas Tacquet and Christiaan Huygens were the main representatives of opposite views concerning its probative force.
 * Also preserved is correspondence between Tacquet and Frans van Schooten.
 * The importance of Tacquet's work is not so much in the actual results he proved, for he was not greatly inventive in this respect, but rather for the clarity of his writings and the fact that in many ways his approach was important in preparing the way for Newton and Leibniz's integral and differential calculus.
-* Tacquet introduced several ways of thinking which proved important in giving a foundation for future progress, for example in noting that one could pass from a finite progression to an infinite series.
 
 Born 23 June 1612, Antwerp, Dutch Republic (now Belgium). Died 22 December 1660, Antwerp, Dutch Republic (now Belgium).
 

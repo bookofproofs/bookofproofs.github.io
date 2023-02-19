@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Shizuo Kakutani** was a Japanese-born American mathematician who worked in probability theory, ergodic theory and complex analysis, and is best known for his fixed-point theorem.
 
 ### Mathematical Profile (Excerpt):
-* Shizuo was the youngest of the two sons in the family, the eldest being Seiichi who was eight years older.
 * Seiichi studied physics at Kyoto University and it was through him that Shizuo was first introduced to mathematics.
 * Shizuo was fascinated and was enthusiastic to learn more mathematics.
 * The first problem was that Kakujiro Kakutani had made the decision that one of his two sons would follow him into law and take over his practice in due course.
-* Clearly Seiichi was training to be a physicist and not studying law so Shizuo would have to be the one to follow his father.
 * After completing his middle school, Shizuo entered Konan High School in Kobe to prepare for his university studies.
-* By the time Shizuo graduated, his father relented seeing that his son was so keen to study mathematics at university.
 * However, Shizuo was now not qualified to enter a mathematics course at either the University of Tokyo or Kyoto University since these had absolute rules regarding entry qualifications.
 * There was one possible route for Shizuo which was to enter Tohoku University in Sendai.
 * Kakutani applied but there were only fifteen places, and seventeen applicants.
@@ -45,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * On his return to Japan Kakutani accepted the appointment as assistant professor at Osaka University.
 * Kakutani, however, managed to continue to produce a stream of papers containing highly original ideas.
 * In 1948 Kakutani was again invited to the Institute for Advanced Study at Princeton.
-* On one of his frequent visits to New York, Kakutani met Kay Uchida and they were married in 1952; they had one daughter Michiko.
 * Kakutani contributed to several areas of mathematics.
 * Kakutani was to remain at Yale until he retired in 1982.
 

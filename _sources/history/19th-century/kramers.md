@@ -33,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Bohr agreed to have Kramers as a student and under his supervision he wrote his doctoral thesis Intensities of spectral lines: On the application of the quantum theory to the problem of the relative intensities of the components of the fine structure and of the Stark effect of the lines of the hydrogen spectrum  which he submitted to the University of Leiden.
 * Kramers also included the effect of fine structure involving corrections for relativistic kinetic energy and coupling between electron spin and orbit.
 * In 1920 the Institute of Theoretical Physics opened in Copenhagen and Kramers, as Bohr's assistant, played a significant role in its establishment.
-* On 25 October 1920 Kramers married Anna Petersen; they had three daughters and one son.
 * In March 1924 Werner Heisenberg visited Kramers and Bohr at the Institute for Theoretical Physics in Copenhagen.
 * At the heart of Kramers' theory are the correspondence principle and the so-called 'virtual field model' of the atom.
 * Kramers returned to the Netherlands in 1926 when he accepted the position of professor of theoretical physics at the University of Utrecht.

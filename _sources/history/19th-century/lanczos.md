@@ -26,6 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lanczos attended a Jewish elementary school where he learn several foreign languages, then he entered the local Gymnasium which was a Catholic school run by the Cistercians.
 * There he had several inspiring teachers who were to make a great impression on Lanczos.
 * His physics teacher was Eötvös who first interested Lanczos in relativity.
+* It is likely that Lanczos was influenced by Fejér's style of lecturing...
 * After graduating in 1915, Lanczos was appointed an assistant at the Technical University of Budapest.
 * Lanczos received his doctorate in 1921 and, because of laws in Hungary against Jews, he went to Germany taking up a post at the University of Freiburg.
 * During the year 1928-29 Lanczos was Einstein's assistant in Berlin, returning to Frankfurt in 1929.

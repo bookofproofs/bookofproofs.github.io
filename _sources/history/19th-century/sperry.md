@@ -26,9 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Pauline was born in Peabody, northeastern Massachusetts, which is 27 km northeast of Boston.
 * In fact the town had been called South Danvers but it was renamed Peabody after the philanthropist George Peabody 17 years before Sperry was born.
 * Since Sperry would turn out to be a philanthropist herself, there is a little coincidence here.
-* Willard Sperry was a Congregational minister and Pauline was brought up with the religious values of her father.
-* From her father Pauline learnt of the importance of education, freedom of conscience, civil and religious liberty and social reform, while she benefited from his openness of outlook.
-* It was Pauline's strong religious upbringing which later saw her join the Quakers and devote the latter part of her life to political action to try to change society for the better.
 * Sperry studied at Smith College which was a liberal arts college for women in Northampton, Massachusetts.
 * This College had a special place in Sperry's life and her undergraduate days there were very happy ones.
 * It was not only mathematics which Sperry enjoyed at Smith, it was also music.
@@ -38,14 +35,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * During this year Sperry began graduate studies at the University of Chicago.
 * The thrill of studying advanced mathematics at Chicago made Sperry determined to carry her studies further and when her travelling fellowship ended she matriculate at the University of Chicago, registering for a Master's Degree.
 * He was on the staff at Chicago from 1910 and, in the year that Sperry was awarded her Master's Degree, Wilczynski was promoted to full professor.
-* Given Wilczynski's interests, it is not surprising that Sperry worked on geometry and astronomy for her doctorate which was awarded in 1916 for the thesis Properties of a certain projectively defined two-parameter family of curves on a general surface in 1916.
 * During the year 1915-16, while Sperry was completing work on her thesis, she also held a teaching fellowship at Chicago.
 * Although Sperry published no further research articles after the work of her thesis, her career progressed well at Berkeley.
 * Nineteen faculty members of the University of California refused; Sperry was one such faculty member.
 * As a Quaker Sperry could not swear any oaths and it was therefore usual to exempt Quakers from the need to take an oath.
 * This was not done, however, in Sperry's case.
 * The assumption was that anyone who would not sign the oath must be a communist sympathiser and must be sacked, so Sperry, as one of those who refused, lost her associate professor position.
-* Sperry was always prepared to make her views known and become involved in politics, and so went further than just refuse to take the oath, she actively campaigned so that everyone would understand the implications of signing the oath.
 * Sperry and a number of others to their case to the appellate court and eventually the courts proclaimed the oath to be unconstitutional.
 * Sperry was given the title associate professor emerita at Berkeley and, four years after winning her case, she was awarded two years back pay for the period during which she had been deprived of her teaching position.
 * Sperry went to Carmel which is a city in western California on the Carmel River and Carmel Bay, adjacent to Monterey.

@@ -23,14 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Carol Karp** was an American mathematical logician whose research was closely linked to algebra. She made a reputation both as a teacher and researcher, and she was undertaking important work on infinitary logic and recursion theory when she died at the age of 46.
 
 ### Mathematical Profile (Excerpt):
-* Carol had a brother Wallace Earl Vander Velde (born in 1929).
-* Carol also had a brother Myron Dale Vander Velde (born 11 March 1939), known as Mike, who was awarded a degree in electrical engineering from Michigan State University in 1966.
-* Having given some information about Carol's parents and her brothers, let us return to her biography.
-* When she was eleven, the family moved to Alliance, Ohio, where Carol attended Alliance High School.
 * We can see that Carol was a very successful student at Alliance High School from information in Red and Blue, the Alliance High School student newspaper.
 * Carol graduated from Alliance High School in 1944.
 * Around the same time Carol moved to Michigan too, enrolling for a Master's degree at Michigan State College (now Michigan State University) in East Lansing.
-* On 21 June 1952 she married Arthur Louis Karp in Los Angeles, California.
 * Arthur Karp (1930-2020) had been born in the Bronx, New York City on 20 June 1930.
 * After her marriage to Arthur Karp, Carol was known as Carol Karp.
 * However Karp was teaching several years before the award of her Ph.D. having accepted a position as instructor at New Mexico College of Agriculture and Mechanic Arts in 1953.

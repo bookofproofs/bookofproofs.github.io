@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gertrude Mary Cox** was an American statistician who worked in experimental design.
 
 ### Mathematical Profile (Excerpt):
-* The Cox family moved to Perry, Iowa, where Gertrude studied at Perry High School, graduating in 1918.
 * As an undergraduate at Iowa State College, Cox worked part-time for the Mathematics Statistical Service.
 * From 1931 to 1933 Cox undertook graduate studies in psychological statistics at the University of California at Berkeley, where she was also a graduate assistant.
 * He wrote at home, and Brandt and Cox were given charge of the administrative and consulting tasks in statistics.

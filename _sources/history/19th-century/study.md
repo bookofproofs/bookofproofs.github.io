@@ -23,13 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Eduard Study** was a German mathematician who became a leader in the geometry of complex numbers.  He also worked on invariant theory.
 
 ### Mathematical Profile (Excerpt):
-* Eduard's talent for mathematics was probably inherited from his mother for his great grandfather Karl Christian von Langsdorff had been a professor of mathematics at Heidelberg from 1806 to 1834 while his grandfather Wilhelm Gustav von Langsdorff (1803-1847) had taught applied mathematics at St Petersburg and Mannheim.
 * Eduard was christened Christian Hugo Eduard Study on 16 April 1862 but he always used the name Eduard.
-* Carl Study, Eduard's father, got a lot of support from the rest of his family.
-* In particular, his sister-in-law Elise was a great help to him bringing up Eduard and Carl married Elsie two years after the death of his first wife.
-* Sadly, Elsie also died of tuberculosis when Eduard was eleven years old and after that, alone with his father, he enjoyed a strict upbringing.
-* Although Eduard seems to have inherited more from his mother than from his father, one love which he did inherit from his father was a love of nature.
-* When Eduard was twelve years old his father sent him for a 3-week holiday in the Upper Bavarian forests.
 * Rather remarkably, he sent the twelve year old Eduard on this holiday on his own.
 * Eduard attended the Coburg Gymnasium where his two favourite subjects were mathematics and biology and, after graduating from school in 1880, he entered the University of Jena to study with the biologist Ernst Häckel (1834-1919).
 * After studying at the University of Jena for a year, Study decided that he wanted to move towards mathematics and in order to do this he went to the University of Strasbourg to work with Theodor Reye.
@@ -52,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This was at Klein's suggestion but this time Study was keen to go.
 * Study had first met Engel in July 1885 just after he had returned from a ten month visit to Sophus Lie in Oslo.
 * From that time on, Study corresponded with both Engel and Lie concerning his mathematical results.
-* Study's father died in 1888 after a long illness.
 * In July 1888, Study left Leipzig and moved to the University of Marburg where he became a privatdocent.
 * The reader will miss in Study's book Elliott's philatelic detail, Capelli's combinatorial skill, Hilbert's and Alfred Young's steam-rolling genius, but will find instead a breadth of conceptual view and philosophical insight that displays Continental mathematical thought in its finest hour.
 * Study became more and more unhappy at Marburg.

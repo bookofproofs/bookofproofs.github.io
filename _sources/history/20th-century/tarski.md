@@ -23,19 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alfred Tarski** made important contributions in many areas of mathematics, including metamathematics, set theory, measure theory, model theory, and general algebra.
 
 ### Mathematical Profile (Excerpt):
-* One might reasonably ask why Tarski's father was not named "Tarski" and we will explain in a moment why Alfred Teitelbaum changed his name to Alfred Tarski.
-* Let us just note for now that Alfred Tarski was actually born with the family name of Teitelbaum, and for about the first 22 years of his life was known as Alfred Teitelbaum.
-* Ignacy Teitelbaum had married Rosa Prussak and, although Rosa never had a career, and therefore never had the opportunity to show her intellect, it was through his mother rather than his father that Tarski inherited his brilliance.
-* Alfred had a brother Wacław Teitelbaum to whom he was close as they were growing up.
-* Alfred grew up in a well off family who valued education.
 * The school gave Alfred a broader education than he would otherwise gave received.
 * There were major changes in Poland during the years that Alfred Teitelbaum was growing up and we need to look briefly at the background in order to understand events.
-* In August 1915 the Russian forces withdrew from Warsaw - at this time Alfred Teitelbaum was studying in high school and we have to see his brilliant school career against the military action and dramatic political change taking place around him.
 * Alfred Teitelbaum (who had still not changed his name to Tarski) spent a short while in the Polish army after leaving school and then entered the University of Warsaw in 1918, beginning a course which he intended would lead to a degree in biology.
 * These appointments were of great significance since Alfred took a course on logic given by Lesniewski who quickly saw his genius and persuaded him to change from biology to mathematics.
 * It was a defining moment for Alfred who now came under the influence not only of Lesniewski but also of Łukasiewicz, Sierpiński, Mazurkiewicz, and the philosopher Kotarbinski.
 * It was around 1923 that Alfred Teitelbaum changed his name to Alfred Tarski.
-* It was not just Alfred who made these two major moves, for his brother Wacław took the name of Tarski and embraced Roman Catholicism at the same time.
 * There is no doubt that Tarski was strongly influenced by these feelings and wished to be a Pole and not a Jew.
 * There was also the realisation that anti-Semitic views in the country made it almost impossible for a Jew to be appointed to a university post and Tarski, nearing the end of his doctoral studies, certainly wished to follow an academic career.
 * Tarski's first paper was published in 1921 when he was only 19 years old.
@@ -44,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Tarski's first major results were published in 1924 when he began building on the set theory results obtained by Cantor, Zermelo and Dedekind.
 * He published a joint paper with Banach in that year on what is now called the Banach-Tarski paradox.
 * Tarski taught logic at the Polish Pedagogical Institute in Warsaw from 1922 to 1925 then in that year he was appointed Docent in mathematics and logic at the University of Warsaw.
-* On 23 June 1929 Tarski married Maria Witkowski who was a teacher at Zeromski's Lycée.
 * Given Tarski's Polish patriotism which we mentioned above, it may be relevant to note that Maria was a Roman Catholic and she had worked as a courier for the army during Poland's fight for independence.
 * This was a time when Tarski's international reputation continued to grow.
 * Tarski was awarded a fellowship to allow him to return to Vienna in January 1935 and he worked with Menger's research group until June.
@@ -55,8 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, it is certainly fair to say that by 1939 Tarski had an outstanding international reputation but was still forced to support himself by teaching mathematics in a high school.
 * In August 1939 Tarski travelled to Harvard University in the United States to attend another Unity of Science meeting.
 * Tarski had been in the United States for two weeks at the time.
-* By this time Tarski had two children, a son Jan and a daughter Ina, and both his wife and children had remained in Poland when he travelled to the United States in 1939.
-* Tarski was successful in obtaining permission to remain in the United States, and he then tried, with the help of many European friends, to arrange for his family to escape and join him in the United States.
 * He failed to achieve this but fortunately all three survived the war and were able to join Tarski in 1946.
 * Certainly Tarski's life was saved by being in the United States but he still had to secure a job.
 * Tarski held a number of temporary research positions: Harvard from 1939 to 1941; City College of New York in 1940; and the Institute for Advanced Study at Princeton in 1941-42 when he held a Guggenheim Fellowship.

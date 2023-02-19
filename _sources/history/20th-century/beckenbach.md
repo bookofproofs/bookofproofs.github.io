@@ -25,9 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * His research at Rice was supervised by Lester Ford, and Beckenbach was awarded his doctorate in 1931 for his dissertation Minimal Surfaces in Euclidean N-Space .
 * After being awarded his doctorate Beckenbach was awarded a National Research Council Fellow for the two years 1931-33 which enabled him to study at Princeton, Ohio State University and the University of Chicago.
-* They had three children, Edwin Simons Beckenbach, Madelene Lenann Beckenbach (later Lenann Nye), and Sonya Suzann Beckenbach (later Suzann Morse).
 * Beckenbach returned to Rice in the autumn of 1933 where he was appointed as an instructor in mathematics.
-* In June 1960 Beckenbach and Madelene were divorced and he married Alice Curtiss Tucker on 24 June 1960.
 * Among Beckenbach's first publications are The area and boundary of minimal surfaces (1932), and two papers written jointly with Tibor Radó and published in the Transactions of the American Mathematical Society in 1933, namely Subharmonic functions and minimal surfaces and Subharmonic functions and surfaces of negative curvature.
 * The topic of inequalities was of interest to Beckenbach for many years.
 * Beckenbach contributed to mathematics with a series of texts for schools and colleges.

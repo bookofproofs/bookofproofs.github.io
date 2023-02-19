@@ -27,6 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * First we note that, in addition to the famous Qui comenza la nobel opera de arithmetica (1484), Borgi wrote the books Addiones in quibus etiam sunt replicae Mathei Boringii (1483), Libro de Abacho de arithmetica, and De arte mathematiche.
 * In Qui comenza la nobel opera de arithmetica Borgi writes that his book is "Prepared for merchants".
 * It was purely mercantile, embodying such material as we commonly fond in the manuscripts of the fourteenth and fifteenth centuries, enriched by Borgi's intimate knowledge of the needs and customs of the merchant princes of Venice.
+* It was not, therefore, for the scholar that Borgi wrote his book ...
 * Borgi began his book by saying that he was not concerned with the Greeks' special numbers such as perfect numbers, abundant numbers, etc.
 * Borgi began discussing multiplication of integers by considering multipliers of one figure; he next gave problems in which the multiplier was a small number of two figures; then one in which it was a number of two figures ending in zero.
 * the rather fanciful problems in the closing chapter of Borgi's book are found, of course in modified form, in most of the algebras of the present day.

@@ -34,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In addition to those listed above, he wrote the Hu Shi Suan Shu Xi Cao (Commentary of Calculations of Arcs and Segments), the Zhong Ke Ce Yuan Hai Jing Xi Cao, and the Ri Fa Shuo Yu Qiang Ruo Kao (Studies of Denominator of Tropical Year).
 * After the compilation was completed Li Rui and Jiao Xun studied mathematics together around 1800.
 * Li Rui continued to contribute to commentaries produced by others, and in 1802 he wrote a postscript to Commentary of Qi Gu Suan Jing by Zhang Dunren (1754-1834).
-* Although the name of Li Rui's wife is not known, we do know that she died in the year he wrote this postscript.
 * Li Huang was one of the commentators on the Nine Chapters on the Mathematical Art.
 * He lived in Beijing and when Li Rui went there in 1810 to take civil service examinations, he lived in Li Huang's home.
 * Li Rui failed his examinations, but he made an important discovery in Li Huang's home for there he found a copy of the Yang Hui Suan Fa ("Yang Hui's Method of Computation").

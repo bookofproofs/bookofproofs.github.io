@@ -24,11 +24,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Gustav Hertz was a Jew who converted to become a Lutheran.
-* Anna, the daughter of a Frankfurt doctor, came from a Lutheran family, so Heinrich was brought up as a Lutheran.
-* Let us note that one of Heinrich's brothers was named Gustav Hertz and he had a son, also named Gustav Hertz who also has a biography in this archive.
 * For ten years Hertz studied at Richard Lange's school.
 * Hertz spent the year 1875-76 in Frankfurt where he gained practical experience in the building industry and also studied for the state examinations in engineering.
-* Hertz's father was supplying the financial support to allow him to undertake higher education so if he were to change direction he would certainly need his father's approval.
 * The university by contrast promised a life of never-ending study and research, one that suited Hertz's scholarly, idealistic tastes; he knew above all he wanted to be a great investigator.
 * Hertz matriculated at the University of Munich in 1877 and spent the first semester gaining the necessary background in mathematics.
 * Immediately, despite only one year of university study behind him, Hertz wanted to start research.

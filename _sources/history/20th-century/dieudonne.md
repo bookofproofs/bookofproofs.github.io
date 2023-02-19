@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jean Dieudonné** was a French mathematician who worked in a wide variety of mathematical areas including general topology, topological vector spaces, algebraic geometry, invariant theory and the classical groups. He was a founder member of Bourbaki and also wrote on the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* As a young child Jean was irresistibly attracted to dictionaries, encyclopaedias, and universal histories.
 * Dieudonné received both his bachelor's degree (1927) and his doctorate (1931) from the École Normale.
-* He worked at the Faculty of Science at Rennes as Maître de Conférences from 1933, and on 22 July 1935 he married Odette Clavel; they had two children Jean-Pierre and Françoise.
 * After teaching at Northwestern University from 1953 to 1959 Dieudonné returned to France to take up an appointment as professor of mathematics at the Institut des Hautes Études Scientifiques.
 * We note that Dieudonné's love was for research and not for teaching.
 * We mentioned above that Dieudonné was a founder member of Bourbaki.

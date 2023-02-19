@@ -25,9 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * From 1931 Thom attended Primary School in Montbéliard, the town of his birth in which his parents were shopkeepers.
 * It was at this primary school that Thom first showed his academic potential winning a scholarship.
-* Thom's parents sent him and his brother south to avoid the conflict although they themselves remained in Montbéliard.
-* Thom and his brother eventually reached Switzerland.
-* After helping with the harvest near Romont, Thom returned to France being taken to Lyon where he lived with a friend of his mother.
 * Thom attended the Lycée Saint-Louis in Paris and applied to enter the École Normale Supérieure but failed to gain entrance in 1942.
 * However, mathematically it was an exciting time for Thom who was to be strongly influenced by Henri Cartan and the Bourbaki approach to mathematics.
 * In 1946 Thom graduated from the École Normale Supérieure and then moved to Strasbourg, taking a CNRS research post, so that he could continue to work with Henri Cartan.

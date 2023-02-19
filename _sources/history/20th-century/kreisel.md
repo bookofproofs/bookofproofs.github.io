@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Georg Kreisel** was an Austrian-born mathematical logician who studied and worked in the United Kingdom and America and chiefly studied proof and computation.
 
 ### Mathematical Profile (Excerpt):
-* Kreisel's parents saw the approaching political problems and, before Hitler took over Austria, they sent Georg and his brother to England.
 * Kreisel studied mathematics at Trinity College, Cambridge graduating with a B.A. in 1944.
 * During his undergraduate years Kreisel was influenced by Wittgenstein who was also at Trinity.
 * Kreisel was sent to do War Service with the Admiralty immediately his university courses were over and he began work at West Leigh near Havant and close to the naval base at Portsmouth.

@@ -23,6 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Sigurður Helgason** was an Icelandic Mathematician research who taught among others at Princeton University working on geometry and differential equations on symmetric spaces. He was made an Honorary member of the Icelandic Mathematical Society in 1997.
 
 ### Mathematical Profile (Excerpt):
+* However, his did not get the position, the successful applicant being Sigurður Thoroddsen.
 * During the first few years, Bjarni Jónsson and Sigurður Helgason both gave lectures and both of them continued to attended meetings regularly and gave many lectures over the following years.
 * The other two honorary members are Leifur Ásgeirsson and Sigurður Helgason.
 * Sigurður Helgason (born 30 September 1927 in Akureyri, Iceland) attended the Gymnasium in Akureyri 1939-45 before entering the School of Engineering, University of Iceland where he studied for two years before going to the University of Copenhagen where he studied between 1946 and 1952.

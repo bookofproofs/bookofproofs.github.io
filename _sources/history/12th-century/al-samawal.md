@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Abul-Abbas was born in Fez in Morocco and later moved to Baghdad where he was living at the time of al-Samawal's birth.
-* Al-Samawal's mother, Anna Isaac Levi, had moved from Basra in Iraq.
-* Certainly al-Samawal was brought up in a family where learning was highly valued and the first topic which interested him was medicine.
 * At about the same time as he began to study medicine, al-Samawal also began to study mathematics.
 * Baghdad at this time was not a great centre for mathematical learning, and al-Samawal had soon mastered all the mathematics which his teachers knew.
 * In order to take his mathematical studies further, al-Samawal had to study on his own.
@@ -44,10 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After writing the al-Bahir al-Samawal travelled in many countries including Iraq, Syria, Kohistan (a mountainous area in Pakistan and Afghanistan) and Azerbaijan (northwestern of Iran).
 * We know from his own writings that he was in Maragheh in Azerbaijan on 8 November 1163, for on that date al-Samawal made a commitment to the faith of Islam.
 * This decision was not taken without a great deal of thought by al-Samawal.
-* Of course al-Samawal's father, being Jewish, would have found his son's conversion to Islam a painful experience and al-Samawal, not wishing to hurt his father, delayed his conversion for four years.
-* After this time al-Samawal wrote to his father setting out his reasons for changing his religion from the Jewish faith to Islam.
-* At this time the much travelled al-Samawal was in Aleppo, in northern Syria, and his father set out at once to see him on receiving the letter.
-* However, al-Samawal's father died on the journey before seeing his son.
 * We mentioned that al-Samawal was trained in medicine in his youth.
 * Several rulers, always keen to have the best possible doctors, became patients of al-Samawal.
 * The only medical work by al-Samawal which has survived is essentially a sex manual which includes many erotic stories.

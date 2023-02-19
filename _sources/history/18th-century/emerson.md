@@ -24,17 +24,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Dudley Emerson was skilled in mathematics and his school was successful.
-* He educated his son William, the subject of this biography, teaching him reading, writing and mathematics, as well as a little Latin.
 * William also studied languages with the local curate who lived in Dudley's house.
 * At this stage William had little interest in learning, spending many hours looking for birds' nests.
 * To complete his education, Dudley sent William to a school in Newcastle and then to one in York.
-* After the death of his father, William took over running the school in Hurworth in 1730.
 * This, however, did not prove successful for although Emerson was a highly intelligent and learned man, he had no patience as a teacher and frequently lost his temper with pupils who were unable to benefit from his high-powered teaching.
-* Emerson's father had left him an estate at Castle Gate, near Eastgate in Weardale, and this brought in an income of between £70 and £80 a year.
-* Two years after the school in Hurworth closed, Emerson married.
 * He treated his scruffy son-in-law with contempt and refused to pay, so Emerson loaded all his wife's clothes in a barrow and wheeled it round to the parsonage, saying he refused "to be beholden to such a fellow for a single rag".
-* We note at this point that William and Elizabeth Emerson had no children.
-* The description of Emerson's behaviour towards his father-in-law looks eccentric and, indeed, we should explain that Emerson was a highly eccentric man.
 * vulgar language was typical of Emerson, as was the coarseness of his dress.
 * In 1743 Emerson published his first mathematical textbook, The doctrine of fluxions.
 * Indeed this view is supported by reading Emerson's long Preface where he spends much time defending the method of fluxions against criticism.

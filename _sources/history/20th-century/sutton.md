@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Oliver Sutton was a schoolmaster and became head of Cwmcarn Elementary School where he gained a reputation as a fine teacher of elementary mathematics.
-* Oliver and Rachel Sutton had four children: William George Leslie Sutton (1899-1987), Oliver Graham Sutton (1903-1977), the subject of this biography, Jack Sutton (1910-1999), and Rachel Margaret Rhydderch Sutton (1911-1984).
 * We note that William George Leslie Sutton and Jack Sutton both went on to study mathematics; William Sutton was awarded a First Class degree in mathematics by the University of Oxford, and Jack graduated with a mathematics degree from the University College of Wales, Aberystwyth.
 * Sutton's mathematics lecturers at Aberystwyth included William Henry Young and George Adolphus Schott (1868-1937) who was the Professor of Applied Mathematics.
 * Sutton won the Welsh Graduate Scholarship and, in 1923 he began studying at Jesus College advised by G H Hardy.
@@ -35,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Blunt (1886-1965), born in Wales with Welsh as his first language, had studied mathematics and physics at University College, Aberystwyth from 1904 to 1907 and, like Sutton, he had been taught by G A Schott.
 * He discussed his research with Sutton while visiting Aberystwyth convincing him that this was an exciting and important application of mathematics.
 * By the time Sutton joined the group there had been useful progress in observing and understanding the complex properties of atmospheric flow relevant to the dispersion of gaseous and particulate material injected locally into the atmosphere.
-* On 2 April 1931 Sutton married Doris Morgan (1902-1985) in Bridgend, Glamorgan, Wales.
 * Graham and Doris Sutton had two sons, Peter Morgan Sutton (1932-2014) and Anthony Graham Sutton (1935-2004).
 * We note at this point that Peter Morgan Sutton studied at Bishop Wordsworth School, Salisbury, Wrekin College, Wellington, University College London and at University College Hospital Medical School.
 * At the Meteorological Office, Sutton began working on turbulent motion in the atmosphere and realised that some of the then current mathematical models for explaining diffusion did not fit the experimental results.

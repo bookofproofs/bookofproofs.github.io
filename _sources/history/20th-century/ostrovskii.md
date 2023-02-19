@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Iossif Ostrovskii** was a Ukrainian mathematician who worked in the theory of integer and meromorphic functions and their application in the theory of probability.
 
 ### Mathematical Profile (Excerpt):
-* For example, during Ostrovskii's student years the staff included: Naum Il'ich Akhiezer who held the Chair of the Theory of Functions, Anton Kazimirovich Suschkevich (1889-1961) who was Head of Algebra and Number theory, Yakov Pavlovich  Blank (1903-1988), Gershon Ikhelevich Drinfeld (1908-2000) who was Head of the Mathematics Department and Deputy Director of the Kharkov Institute of Mathematics (his son Vladimir Gershonovich Drinfeld was awarded a Fields Medal in 1990), Boris Yakovlevich Levin, Vladimir Aleksandrovich Marchenko, Aleksandr Yakovlevich Povzner, and Aleksei Vasilevich Pogorelov.
 * It was in 1954 that Levin organised a research seminar on function theory, and Ostrovskii became one of its most active participants.
 * Ostrovskii graduated from Kharkov State University in 1956 and began undertaking research advised by Levin.
 * From 1958 Ostrovskii taught at Kharkov University, becoming the head of the Department of Function Theory in 1963.

@@ -35,8 +35,6 @@ contributors: @Stefanie-Eminger,bookofproofs
 * When the young Einstein failed the Polytechnic's entry exam in 1895, Herzog recommended him to the Kantonsschule in Aarau, where Einstein indeed obtained the Matura.
 * Having been a keen singer in his student years, Herzog supported the student choir throughout his life.
 * Beside his teaching and administrative duties, Herzog still found time to do research.
-* In 1877, Herzog married Elise Bucher from Regensberg (canton Zürich), the daughter of Nationalrat Bucher.
-* The family lived in Hottingen, and Herzog was president of the municipality's school authority (1889-1893).
 * On the occasion of the Polytechnic's 50th  anniversary in 1905, Herzog was one of its professors who were awarded honorary citizenship of the town Zürich.
 * Herzog was a member of the Polytechnic's alumni association, the Gesellschaft Ehemaliger Polytechniker (GEP) and the Schweizerische Naturforschende Gesellschaft.
 * The original committee invited Herzog to join the organising committee of the first International Congress of Mathematicians in his capacity as Director of the Polytechnic in November 1896.

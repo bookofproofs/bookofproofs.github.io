@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jan Popken** was a Dutch mathematician specialising in number theory.
 
 ### Mathematical Profile (Excerpt):
-* Jan, the subject of this biography, had three siblings Annis Popken, Willem Popken and Pieter Popken.
-* The family were well off with Jan Popken Sr. having a thriving farm.
-* After attending secondary school, Popken was able to study mathematics and physics at the University of Groningen since his parents were well off and able to support their son financially through university.
 * Popken was taught by Johan Antony Barrau (1873-1953) who had been advised by Diederik Korteweg for his doctorate.
 * Another of Popken's teachers, who arrived in Groningen in 1923, was the number theorist Johannes Gaultherus van der Corput (1890-1975).
 * Popken graduated with a candidate's degree (the candidate's degree in the Netherlands is a first degree of the standard of a B.Sc.) on 15 February 1927.
@@ -41,15 +38,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Popken was still able to work as a school teacher but he had no university position until 1945 when the war ended.
 * After the war Popken was appointed as a scientific assistant at the University of Groningen, a position he held from 1945 to 1947.
 * The war had caused a gap in Popken's publication record which had been an average of around two papers a year up to 1940.
-* Popken had married in Groningen on 9 August 1947 to Catharina Cornelia Johanna ten Cate, the stepdaughter of van der Corput.
-* Three children were born from that marriage, Jeannette Popken, born in Utrecht on 19 May 1948, Peter Popken, born in Utrecht on 30 November 1949, and Marion Popken, born in Utrecht on 15 December 1952.
 * On 19 August 1950 Popken arrived in New York having sailed on the Volendam from Rotterdam, Netherlands.
 * H D Kloosterman was chair of this committee with Haantjes as its secretary and Popken as one of the three other members.
 * Popken held the position as professor at the University of Utrecht for eight years before moving to Amsterdam when he was appointed as Professor of analysis, algebra and number theory at the university there on 19 January 1955.
 * The Amsterdam inaugural lecture of Prof dr Popken, also addresses the non-mathematicians in his audience in a richly documented argument.
 * Popken spent the summer of 1959 at the University of California in Berkeley.
 * While at Berkeley, from 18 June to 20 July 1959, Popken delivered the course 'Elementary mathematics for advanced students'.
-* On 31 August 1962 Popken, his wife Catharina, and his three children Jeannette, Peter and Marion flew to New York.
 * Popken was on his way the spend time at the University of California in Berkeley and gave their address in the United States as 1597 Hawthorne Terrace, Berkeley.
 * While in the United States, Popken participated in the 1962 conference 'Studies in mathematical analysis and related topics' held at Stanford University.
 * On 12 April 1965 Popken changed from the position of Professor of Analysis, algebra and number theory to being Professor of Pure Mathematics, still at the University of Amsterdam.

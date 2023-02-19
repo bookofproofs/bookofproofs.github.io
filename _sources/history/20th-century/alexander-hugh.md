@@ -23,8 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Conel Hugh O'Donel Alexander** was an Irish-born British cryptanalyst, chess player  and chess writer.
 
 ### Mathematical Profile (Excerpt):
-* Hugh was the eldest of his parents four children.
-* There Hugh attended King Edward's School where he showed remarkable talent for mathematics and for chess.
+* Hugh attended King Edward's School where he showed remarkable talent for mathematics and for chess.
 * At Cambridge Alexander continued to divide his time between his chess and his study of mathematics.
 * Alexander was appointed as a mathematics teacher at Winchester in 1932.
 * Being a mathematics teacher certainly allowed Alexander to play chess at the highest level.

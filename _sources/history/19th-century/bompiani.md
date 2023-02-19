@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Enrico Bompiani** was an Italian mathematician, specializing in differential geometry.
 
 ### Mathematical Profile (Excerpt):
-* Enrico had three brothers: Gaetano Bompiani was born in 1887 and became a medical professor at Sassari, Bari, Siena, Parma, Pisa, Padua and Rome; Arturo Bompiani was born in 1890 and also studied medicine, publishing important works on anatomy and obstetric physiology; Paolo Bompiani was born in 1891.
-* Despite this family tradition of studying medicine, Bompiani decided that he wanted to go down a different path and study mathematics.
 * At La Sapienza University of Rome, Bompiani was advised by Guido Castelnuovo who, in 1909, suggested to him that he look at a line geometry interpretation in projective 4-space of Eugène Cosserat's results on systems of circles in 3-space.
 * After undertaking research on this topic, Bompiani was awarded his laurea in 1910 for his thesis Spazio rigato a quattro dimensioni e spazio cerchiato ordinario Ⓣ(Four-dimensional space and ordinary circular space).
 * In August 1912 Bompiani was called up to support the Italian war but, despite this, he was able to attend the International Congress of Mathematicians in Cambridge, England, 22 August to 28 August 1912, where he delivered the paper Recenti progressi nella geometria proiettiva differenziali degli iperspazi Ⓣ(Recent advances in differential projective geometry of hyperspace).

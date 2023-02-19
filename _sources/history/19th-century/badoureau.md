@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Charles Badoureau, born 16 January 1824 in Paris, was considered an excellent teacher, became the headmaster of the school and, in 1885, received the Légion d'honneur in recognition of his work as school principal.
-* Albert's paternal grandfather, Jean François Badoureau (1788-1881), was also a teacher and headmaster of one of the leading schools in France, the Collège de Saint Jean de Beauvais in Paris.
 * Badoureau attended the Collège Chaptal, an excellent school which gave a five-year course teaching mathematics, physics, natural sciences, French language and literature, modern languages, history, geography, industrial and artistic drawing, religious instruction, music, gymnastics and military exercises.
 * Poincaré wrote a letter on 17 November 1873 describing the ceremony which took place when he was admitted at which Badoureau gave a speech of welcome.
 * While he was a student at the École Polytechnique, Badoureau wrote the 10-page paper Note sur le Problème des Partis appliqué aux Jeux de Calcul Ⓣ(Note on the partition problem applied to calculating games) which was published in volume 27 of the Journal of the École Polytechnique in 1874.
@@ -42,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Returning to Sans dessus dessous Ⓣ(Topsy-turvy) we note that one of the main characters, Alcide Pierdeux, is a slightly fictionalised version of Badoureau himself.
 * After having designed the broad outlines, we asked our friend, M Badoureau, Mining Engineer, author of the learned exposition of 'Experimental Sciences', which has just appeared in the Quantin bookstore, the exact measurement of the various phenomena described in this novel.
 * - Now we are not used to seeing M Badoureau as a lyric.
-* Not long after he returned from his Scandinavian trip, Badoureau received the Légion d'honneur presented to him by his own father.
 * Marguerite and Albert Badoureau had a son, Yves Olaf René Emile Badoureau, born on 25 December 1893.
 * In the year 1892, Badoureau published a book about mining, namely Les Mines, les minières et les carrières Ⓣ(Mines, miners and quarries).
 * The style suggests that Badoureau collected notes he had made over several years but, perhaps due to deteriorating health, did not combine them smoothly into a well-constructed text.

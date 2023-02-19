@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Stanisław Saks** was a Polish mathematician who worked in topology, set theory and functional analysis. He was one of the frequenters of the _Scottish Café_.
 
 ### Mathematical Profile (Excerpt):
-* Filip and Anna had been married in 1890 and they had two sons, Stanislaw Saks, the subject of this biography, and Wincenty Saks (born in Kalisz on 26 May 1904).
 * Saks completed his studies at this school and received his high school diploma in 1915.
 * Saks entered the newly refounded university on this occasion of great rejoicing for all patriotic Poles.
 * In addition to Dickstein, two of Saks' first teachers at the University of Warsaw were Zygmunt Janiszewski and Stefan Mazurkiewicz who both began teaching there when the university reopened in November 1915.
@@ -34,12 +33,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Saks continued to study mathematics for his doctorate, returning to the University of Warsaw on 21 November 1921.
 * Certainly, therefore, it was an exciting period during which Saks embarked on a research career and he was awarded his doctorate on 26 October 1922, Cum Laude Maxima, for the thesis A contribution to the theory of surfaces and plane domains.
 * Saks' second paper was written in collaboration with Aleksander Rajchman (1890-1940).
-* Like Saks, Rajchman was born in the Polish part of the Russian Empire into a Jewish family.
 * The Saks-Rajchman joint paper was Sur la dérivabilité des fonctions monotones Ⓣ(On the derivability of monotonic functions) (1923).
 * In 1924 Saks published a number of papers: Sur les nombres dérivés des fonctions Ⓣ(On numbers derived from functions); Sur un théorème de M Lusin Ⓣ(On a theorem of M.
 * Even before the doctorate was awarded, Saks began teaching at Warsaw Technical University and from 1926 he also lectured at the University of Warsaw after he habilitated there on 22 October 1926.
 * Stanislaw Saks helped edit the paper and later deepened the result by introducing in its proof the notion of category.
-* Saks married the school teacher Zofia Karolina Korzeniowski (11 September 1902, Warsaw - 3 June 1992, Warsaw).
 * Stanislaw and Zofia Saks had one son, Marek Saks.
 * This gave birth to a class of spaces that are still actively studied and that are now called spaces with the Banach-Saks property.
 * Saks continued to teach at both Warsaw institutions until 1939.

@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Noel Slater** was an English mathematician who worked on the theory of chemical reactions.
 
 ### Mathematical Profile (Excerpt):
-* The unsuspecting reader would be forgiven for believing that Albert Slater was either a doctor of medicine or had a Ph.D. In fact neither was the case, for he was given the first name of Doctor by his parents since he was the seventh son of a seventh son (and so by a Lancashire ancient superstition was believed to have magical powers).
 * Not surprisingly, Albert Slater was somewhat embarrassed by this and used the name D Albert Slater.
-* His son Noel inherited his father's musical talent and became an extraordinarily talented pianist.
 * Slater was brought up in Blackburn where, after attending elementary school, he attended Blackburn Grammar School.
 * In fact although he did not obtain his doctorate until 1941, Slater had been appointed as an Observer at the Solar Physics Observatory in Cambridge in 1939.
 * After the War ended in 1945, Slater took up his career again when he was appointed as a Lecturer in Applied Mathematics at the University of Leeds.

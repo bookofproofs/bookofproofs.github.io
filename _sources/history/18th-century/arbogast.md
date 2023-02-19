@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Arbogast won the prize with his essay and his notion of discontinuous function became important in Cauchy's more rigorous approach to analysis.
 * In 1789 Arbogast moved from Colmar to Strasbourg where he taught mathematics at the École d'Artillerie.
 * Arbogast's career in Strasbourg reached new heights.
-* By this time, however, Arbogast was involved in politics and in 1791 he was elected to the Legislative Assembly.
 * The formal algebraic manipulation of series investigated by Lagrange and Laplace in the 1770s was put in the form of operator equalities by Arbogast in 1800 in Calcul des dérivations.
 * Arbogast was interested in the history of mathematics and classified Mersenne's papers and collected manuscript copies of memoirs and letters of Fermat, Descartes, Johann Bernoulli, Varignon, de L'Hôpital and others.
 * Arbogast was friendly with François Français and together they worked on the calculus of derivations and the operational calculus.

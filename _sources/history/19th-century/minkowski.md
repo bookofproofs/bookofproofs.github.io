@@ -24,11 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Hermann was his parents' third son.
-* Hermann's oldest brother Max (1844-1930) took over the family business, but he was also an art collector and the French consul in Königsberg.
-* The second brother Oskar (1858-1931) was a physician, best known for his work on diabetes, and father of astrophysicist Rudolph Minkowski (1895-1976).
-* Apart from Max and Oskar, Minkowski also had an older sister, Fanny (1863-1954) and a younger brother, Toby (1873-1906).
-* Lewin and Rachel Minkowski were Germans although their son Hermann was born while they were living in Russia.
-* When Hermann was eight years old the family returned to Germany and settled in Königsberg where Lewin Minkowski conducted his business.
 * Minkowski first showed his talent for mathematics while studying at the Gymnasium in Königsberg.
 * His became close friends with Hilbert while at Königsberg, for Hilbert was an undergraduate at the same time as Minkowski.
 * The student Minkowski soon became close friends with the newly appointed academic Hurwitz.
@@ -39,8 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Minkowski's doctoral thesis, submitted in 1885, was a continuation of this prize winning work involving his natural definition of the genus of a form.
 * In 1887, a professorship became vacant at the University of Bonn, and Minkowski applied for that position; according to the regulations of German universities, he had to submit orally to the faculty an original paper, as an Habilitationsschrift.
 * Minkowski taught at Bonn from 1887, being promoted to assistant professor in 1892.
-* Minkowski married Auguste Adler in Strasbourg in 1897; they had two daughters, Lily born in 1898 and Ruth born in 1902.
-* The family left Zürich in the year that their second daughter was born for Minkowski accepted a chair at the University of Göttingen in 1902.
 * It was Hilbert who arranged for the chair to be created specially for Minkowski and he held it for the rest of his life.
 * Minkowski developed a new view of space and time and laid the mathematical foundation of the theory of relativity.
 * By 1907 Minkowski realised that the work of Lorentz and Einstein could be best understood in a non-euclidean space.

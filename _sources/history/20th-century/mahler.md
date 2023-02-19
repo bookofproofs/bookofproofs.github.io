@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Kurt Mahler** was a German mathematician who made important contributions to the theory of transcendental numbers.
 
 ### Mathematical Profile (Excerpt):
-* The Mahler family were Jewish and long established in the Prussian Rhineland.
 * Hermann Mahler had become an apprentice bookbinder, working his way up to become the owner of a small printing and bookbinding firm.
-* In this respect he was following the Mahler family tradition of working in the printing and bookbinding trade.
-* Hermann and Henriette Mahler had eight children with Kurt and his twin sister Hilde being the youngest.
 * Kurt contracted tuberculosis at the age of five years and, as a result, had severe problems with his right knee.
 * Junker, who had a doctorate in invariant theory written with Elwin Christoffel as his advisor, was impressed by Mahler's articles and sent them to Felix Klein who, in turn, passed them to his assistant Carl Siegel.
 * Siegel suggested that Mahler should attend University.

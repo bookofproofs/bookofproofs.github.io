@@ -23,13 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ronald Aylmer Fisher** was a British statistician and geneticist important in developing the use of statistics in genetics and biomathematics.
 
 ### Mathematical Profile (Excerpt):
-* Katie and George had seven children, four boys and three girls.
-* After the birth of Geoffrey in 1876 and Evelyn in 1877, they named their third child, who was born the following year, Alan.
-* He died at a very young age and Katie, being superstitious, decided that all their children from that time on would have a "y" in their name.
 * Ronald Aylmer Fisher was the second of twins, but the older twin was still-born.
-* In 1904 Ronald entered Harrow, but this was a difficult time for the fourteen year old boy, for his mother died in that year of acute peritonitis.
 * Despite this, he excelled at Harrow winning the Neeld Medal in 1906 in a mathematical essay competition open to the whole school.
-* Fisher was awarded a £80 scholarship from Caius and Gonville College, Cambridge, which was necessary to finance his studies since his father had lost his fortune.
 * In October 1909 he matriculated at Cambridge.
 * Although he studied mathematics and astronomy at Cambridge, he was also interested in biology.
 * In his second year as an undergraduate he began consulting senior members of the university about the possibility of forming a Cambridge University Eugenics Society.
@@ -43,10 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His medical test showed him A1 on all aspects except his eyesight, which was rated C5, so he was rejected.
 * He became a teacher of mathematics and physics, teaching at Rugby and other similar schools between 1915 and 1919.
 * The interest in eugenics, and his experiences working on the Canadian farm, made Fisher interested in starting a farm of his own.
-* In these plans he was encouraged by Gudruna, the wife of a college friend, and this led to him meeting Ruth Eileen Gratton Guinness, Gudruna's younger sister.
-* Ruth Eileen and Gudruna's father, Dr Henry Gratton Guinness, had died when they were young and Ruth Eileen, only sixteen years of age, knew that her mother would not approve of her marrying so young.
-* As a result Fisher married Ruth Eileen at a secret wedding ceremony without her mother's knowledge, on 26 April 1917, only days after Ruth Eileen's 17th  birthday.
-* They had two sons and seven daughters, one of whom died in infancy.
 * Fisher gave up being a mathematics teacher in 1919 when he was offered two posts simultaneously.
 * Karl Pearson offered him the post of chief statistician at the Galton laboratories and he was also offered the post of statistician at the Rothamsted Agricultural Experiment Station.
 * This was the oldest agricultural research institute in the United Kingdom, established in 1837 to study the effects of nutrition and soil types on plant fertility, and it appealed to Fisher's interest in farming.
@@ -67,10 +58,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * While at the Agricultural Experiment Station he had conducted breeding experiments with mice, snails and poultry, and the results he obtained led to theories about gene dominance and fitness which he published in The Genetical Theory of Natural Selection (1930).
 * This work on natural selection led Fisher to question the way that in civilised societies weak and relatively infertile people obtained advantages over strong healthy individuals.
 * He felt that the natural survival of the fittest method of improving the human race was being artificially changed by factors that specifically benefited the less well adapted.
-* A strong advocate of measures to counter this trend, he proposed that family allowances should be proportional to income to support the well-adapted healthy members of society.
 * As one might expect, this policy was very unpopular and he found few supporters.
 * In 1933 Karl Pearson retired as Galton Professor of eugenics at University College and Fisher was appointed to the chair as his successor.
-* In fact the post was split in two, with Karl Pearson's son Egon Pearson also being appointed to a chair.
 * Fisher held this post for ten years, being appointed as Arthur Balfour professor of genetics at the University of Cambridge in 1943.
 * Before this, however, he had moved away from London when war broke out in 1939, finding temporary accommodation at Harpenden.
 * He retired from his Cambridge chair in 1957 but continued to carry out his duties there for another two years until his successor could be appointed.
@@ -91,7 +80,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Pearson went much further, however, and claimed that Fisher had done a disservice to statistics by widely publishing erroneous results.
 * The Royal Statistical Society then refused to publish Fisher's papers and he resigned from the Society in protest.
 * Of course Fisher also took every opportunity to attack Pearson, and it would be fair to say that each showed hatred towards the other.
-* Even after Pearson died in 1936, Fisher continued his attack on him, which made the atmosphere in University College a very difficult one with Pearson's son Egon Pearson also holding a chair there.
 * in recognition of his distinguished contributions to the theory of natural selection, the concept of its gene complex and the evolution of dominance.
 * in recognition of his numerous and distinguished contributions to developing the theory and application of statistics for making quantitative a vast field of biology.
 * He was elected to the American Academy of Arts and Sciences in 1934, the American Philosophical Society in 1941, the International Society of Haematology in 1948, the National Academy of Sciences of the United States in 1948, and the Deutsche Akademie der Naturforscher Leopoldina in 1960.

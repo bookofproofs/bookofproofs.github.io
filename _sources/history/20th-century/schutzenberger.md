@@ -38,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was in this area that Schützenberger introduced what have been called Schützenberger groups and Schützenberger representations by Clifford and Preston in their influential book The Algebraic Theory of Semigroups (1961).
 * One topic which we have not mention so far is one which Schützenberger held very strong views - the theory of evolution.
 * Let us look at Schützenberger's character as described by those who knew him best.
-* Schützenberger married Hariati and they had two children, a daughter Hélène  and a son Mahar.
 * Hariati died in 1993, three years before Schützenberger.
 
 Born 24 October 1920, Paris, France. Died 29 July 1996, Paris, France.

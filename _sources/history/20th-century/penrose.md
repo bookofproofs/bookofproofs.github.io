@@ -24,13 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * He was in Colchester carrying out this work at the time Roger was born.
-* Roger's brother, Oliver Penrose, had been born two years earlier.
-* Roger also had a younger brother Jonathan who went on to become a lecturer in psychology.
-* In 1939 Roger's father went to the United States with his family but as all the indications pointed towards the outbreak of war, he decided not to return to England with his family but accepted an appointment in a hospital in London, Ontario, Canada.
-* Roger attended school in London, Ontario but although it was during this period that he first became interested in mathematics it was not his schooling which stimulated this interest, rather it was his family.
-* Roger's father became Director of Psychiatric Research at the Ontario Hospital in London Ontario, but he was very interested in mathematics, particularly geometry, while Roger's mother was also interested in geometry.
-* Roger's father was appointed as Professor of Human Genetics at University College London and Roger attended University College School in London.
-* Penrose entered University College London which he was entitled to do without paying fees since his father was professor there.
 * Roger, however, was set on research in mathematics and on entering St John's College he began research in algebraic geometry supervised by Hodge.
 * Penrose was awarded his Ph.D. for his work in algebra and geometry from the University of Cambridge in 1957 but by this time he had already become interested in physics.
 * Penrose spent the academic year 1956-57 as an Assistant Lecturer in Pure Mathematics at Bedford College, London and was then appointed as a Research Fellow at St John's College, Cambridge.

@@ -26,11 +26,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was Fontaine des Bertins whose enthusiasm for mathematics rubbed off on Vandermonde.
 * Vandermonde's election to the Académie des Sciences did motivate him to work hard for the Academy and to publish other works on science and music.
 * In 1778 Vandermonde presented the first of a two part work on the theory of music to the Académie des Sciences.
-* As one might expect this proved a controversial work with musicians being sharply divided as to whether they agreed with Vandermonde or not.
-* Despite the opposition of many musicians at first, the ideas put forward by Vandermonde gained favour over the years and by the beginning of the nineteenth century the Académie des Sciences had moved music from the mathematical area to the arts area.
 * Positions which Vandermonde held include director of the Conservatoire des Arts et Métiers in 1782 and chief of the Bureau de l'Habillement des Armées in 1792.
 * Like Monge, Vandermonde was a strong supporter of the Revolution which began with the storming of the Bastille on 14 July 1789.
-* The politics of Revolution in France long before this event had been so exciting for Vandermonde that it diverted him from a possible longer mathematical and scientific career.
 * Perhaps the name of Vandermonde is best known today for the Vandermonde determinant.
 * Vandermonde's four mathematical papers, with their dates of publication by the Académie des Sciences, were Mémoire sur la résolution des équations Ⓣ(Memoir on solving equations) (1771), Remarques sur des problèmes de situation Ⓣ(Notes on problems of location) (1771), Mémoire sur des irrationnelles de différents ordres avec une application au cercle Ⓣ(Memoir on various irrational orders with an application to the circle) (1772), and Mémoire sur l'élimination Ⓣ(Memoir on elimination) (1772).
 * Vandermonde's real and unrecognised claim to fame was lodged in his first paper, in which he approached the general problem of the solubility of algebraic equations through a study of functions invariant under permutations of the roots of the equation.

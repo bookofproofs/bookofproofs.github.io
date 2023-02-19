@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Johann Balmer** is best remembered for his work on spectral series and his formula for the wavelengths of the spectral lines of the hydrogen atom.
 
 ### Mathematical Profile (Excerpt):
-* Johann's mother was Elizabeth Rolle Balmer.
 * Johann was the eldest of his parents sons.
 * For his university studies in mathematics Balmer attended the University of Karlsruhe and the University of Berlin.
 * Balmer taught in Basel all his life.

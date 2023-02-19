@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ellen  Hayes**  was an American mathematician and astronomer. She was one of the first female American professors.
 
 ### Mathematical Profile (Excerpt):
-* Ellen's mother Ruth, on the other hand, came from a well-educated family.
-* Ellen Hayes was born in the house of Horace Wolcott, her grandfather.
-* Until she was seven years old Ellen was taught at home by her mother.
 * At age eight Ellen was sent to Centreville school.
 * After completing her own school education, Hayes taught in a country school while she put aside money from her wages to allow her to attend College.
 * Hayes' choice of Oberlin College was a fairly natural one.
@@ -37,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was a career that saw Hayes become professor and Head of the Mathematics Department in 1888.
 * In 1904 the Department of Applied Mathematics was extended and became the Department of Astronomy and Applied Mathematics, with Hayes still as its Head.
 * During her years at Wellesley College, Hayes wrote a number of fine textbooks: Lessons on Higher Algebra (1891); Elementary Trigonometry (1896); Algebra for High Schools and Colleges (1897); and Calculus with Applications, An Introduction to the Mathematical Treatment of Science (1900).
-* However Wellesley College, however, did not find Hayes' views on education and politics easy to live with.
 * Getting views across required a sympathetic press and certainly the press were not sympathetic to Hayes.
 
 Born 23 September 1851, Granville, Ohio, USA. Died 27 October 1930, Wellesley, Massachusetts, USA.

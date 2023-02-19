@@ -23,12 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Francesco Grimaldi** was an Italian Jesuit priest, mathematician and physicist who worked in mechanics, philosophy, astronomy and optics.
 
 ### Mathematical Profile (Excerpt):
-* His father, Paride Grimaldi, was a silk merchant of noble birth who had moved to Bologna in 1589.
-* In about 1614, Paride Grimaldi married his second wife, Anna Cattani, who owned a chemist shop which she had inherited from her grandfather.
 * Francesco was the fourth of his parents six sons, five of whom survived.
-* He had two older brothers (one child having died), the one that he was closest to being Vincenzo Maria Grimaldi who was almost exactly one year older.
-* When Francesco was still quite young, his father died and, at that time, his mother took over running the family chemist shop.
-* Francesco and his brother Vincenzo both joined the Society of Jesus (the Jesuits) on 18 March 1632.
 * We do not know all the places where Grimaldi studied, in particular we are unsure where he spent the two years 1632-34 although it was most likely in Novellara.
 * The Jesuits ran three educational establishments in Parma, the university, a college for educating the sons of the nobility, and a Jesuit College, established around 1600, which Grimaldi attended.
 * Grimaldi was taught by Giovanni Battista Riccioli in Parma in 1635 and both had moved to Bologna at the same time in 1636.

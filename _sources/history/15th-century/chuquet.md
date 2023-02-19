@@ -36,7 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Chasles pointed out, in 1841, that La Roche's work held this distinction, but also pointed to a lost work of Chuquet as being earlier.
 * When Chuquet's manuscript was found it was seen at once that La Roche had copied large parts of Chuquet's Le Triparty en la science des nombres Ⓣ(The science of numbers in three parts).
 * We are left wondering, therefore, what connection La Roche had with Chuquet.
-* According to the registers, his father, then himself from 1483, lived in rue Neuve, a place easy to find on old maps, and which is located two hundred steps from rue de la Grenette; thus Chuquet and Estienne de La Roche lived for eight years in very close proximity.
+* We know, because Aristide Marre had already noted it, that the manuscript of Chuquet's works ...
 * Under these conditions, one can suppose that Chuquet taught him arithmetic and the other mathematical sciences; perhaps even, if one gives to "escripvain" the meaning of tutor, it is he who taught him to read and write.
 * Chuquet finished it in 1484, ten years before Luca Pacioli published Summa de arithmetica, geometria, proportioni et proportionalita Ⓣ(About arithmetic, geometry, proportion and proportionality).
 * Chuquet's book would remain in manuscript for 400 years.

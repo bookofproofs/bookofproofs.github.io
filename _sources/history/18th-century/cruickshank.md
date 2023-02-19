@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Cruickshank** was a Scottish mathematician who reformed both the mathematics teaching and the degree structure at Marischal College, Aberdeen.
 
 ### Mathematical Profile (Excerpt):
-* John Cruickshank was born on the Barnhills farm and lived on the farm for the first seven years of his life until, in 1794, his father James Cruickshank died during a fever epidemic.
-* John's mother was forced to leave the farm and went first to Grange, then to the house next door to her sister Ann Leslie who lived in Knowehead in Marnoch.
-* Ann Leslie was married to William Ogilvie and they had two children William Ogilvie Jr. (1798-1872) and John Ogilvie (1797-1867) who, of course, were John Cruickshank's cousins and we will meet them again a little later.
 * John Cruickshank's first teacher at the local school was Margaret Brown.
 * It is highly likely that John would have heard about his teacher's famous relation and his fame as a lecturer and inventor of astronomical instruments.
 * Certainly John became interested in astronomy and, sent to work as a herd boy, he spent the nights watching the sky and observing the motions of the planets.
@@ -36,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1817 Hamilton and Copland exchanged chairs and, on 9 July 1817, Cruickshank was appointed as "assistant and successor to Professor Hamilton", now the Professor of Mathematics.
 * Although Cruickshank was appointed as Hamilton's successor, in fact it was not until 1824 that Hamilton retired completely from teaching.
 * Once Cruickshank was secure in his position as Professor of Mathematics at Marischal College he was able to marry Janet Mitchell (22 July 1789 - 24 April 1879).
-* John and Janet Cruickshank were married  on 22 October 1818; they had three children, Alexander Cruickshank (born 21 September 1819), Anne Hamilton Cruickshank (born 21 October 1820) and John Forbes Cruickshank (born 25 February 1823).
 * No more worthily-won distinction did his Alma Mater ever confer than when it made him LL.D. Few men knew so much, and fewer still made a better use of what they had than Dr Cruickshank.
 * The trust was further augmented on Anne Cruickshank's death to support several other University institutions including a lectureship in Astronomy, the Science Library and a prize in the Faculty of Law.
 * Cruickshank became involved with a Scottish trigonometrical survey and in particular with the Belhelvie baseline.

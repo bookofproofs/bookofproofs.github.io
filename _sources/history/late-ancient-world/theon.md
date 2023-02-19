@@ -28,17 +28,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Suda also states that Theon was a member of the Museum, which was an institute for higher education set up in Alexandria in 300 BC.
 * Again this is possible, but the Museum certainly did not exist much beyond the time of Theon if indeed it existed in his time.
 * On balance it seems reasonable to accept that he was one of its last members.
-* Theon was the father of Hypatia and it certainly seems to be the case that he died before she was murdered in 415.
 * There does not seem to be any other evidence which would let us give a more accurate guess of the dates of his birth and death other than these few indications of times when he was certainly working.
 * Theon is famed for his commentaries on many works such as Ptolemy's Almagest Ⓣ(The major thesis: from the Arabic 'al-majisti' -- the Arabic translation of the Greek 'Mathematike Syntaxis' later translated into Latin as 'Magna Syntaxis') and the works of Euclid.
 * On one work he gave two commentaries and in the preface to the second he explains that he is giving a more elementary account for the majority of his students are unable to understand geometrical proofs.
 * This again confirms that the vigour had gone out of his teaching establishment and indeed the poor quality of students it seemed to be attracting could have been a telling factor in the closure of the Museum (if as we commented above the Suda is right in giving that as his institution).
 * Theon was a competent but unoriginal mathematician.
-* Theon's version of Euclid's Elements (with textual changes and some additions) is thought to have been written with the assistance of his daughter Hypatia and was the only Greek text of the Elements known, until an earlier one was discovered in the Vatican in the late 19th  century.
 * However, now that the Vatican manuscript has been discovered it is possible to see exactly the changes that Theon made in his version.
 * The approach that Theon makes appears to make is to try to improve the earlier manuscript rather than to try to reproduce an accurate reproduction with comments.
 * Theon also tried to standardise the way that Euclid writes, so when Theon came across an expression which was somewhat different from the norm, he replaced it by the standard form of expression.
 * On the positive side, however, Theon amplified Euclid's text whenever he thought that an argument was overly brief, sometimes adding propositions to make the text more easily read by beginners.
+* While making only inconsiderable additions to the content of the "Elements", he endeavoured to remove difficulties that might be felt by learners in studying the book, as a modern editor might do in editing a classical text-book for use in schools; and there is no doubt that his edition was approved by his pupils at Alexandria for whom it was written, as well as by later Greeks who used it almost exclusively...
 * Theon also produced commentaries on other works of Euclid.
 * Theon's commentary on the Data is written at a relatively advanced level and in it Theon tends to shorten Euclid's proofs rather than to amplify them.
 * The Optics on the other hand is elementary and written in a totally different style and some historians conjecture that it is really a set of lecture notes by one of Theon's students.
@@ -47,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This however is impossible since the contents are a mixture of work dating from Euclid's time together with work which is much later than Euclid's time.
 * The style and elementary nature of the work make authorship by Theon a distinct possibility.
 * Theon also wrote extensive commentaries on the astronomical works of Ptolemy, both on the Almagest Ⓣ(The major thesis: from the Arabic 'al-majisti' -- the Arabic translation of the Greek 'Mathematike Syntaxis' later translated into Latin as 'Magna Syntaxis') and the Handy tables.
-* Again his daughter Hypatia assisted him in the commentary on the Almagest Ⓣ(The major thesis: from the Arabic 'al-majisti' -- the Arabic translation of the Greek 'Mathematike Syntaxis' later translated into Latin as 'Magna Syntaxis') and this is Theon's most major piece of work.
 * Theon wrote two commentaries on Ptolemy's Handy Tables.
 * Although Theon certainly wrote the small commentary after the larger one, since he refers to the larger commentary in the preface to the smaller.
 * However, Tihon discovered that the oldest manuscript which has been preserved, a Vatican manuscript dating from the 9th  century, suggests that Theon never completed the text of his large commentary.

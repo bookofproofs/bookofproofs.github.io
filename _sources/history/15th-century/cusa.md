@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Nicholas of Cusa** was a German philosopher and bishop. He was interested in geometry and logic as well as in philosophy and astronomy.
 
 ### Mathematical Profile (Excerpt):
-* Nicholas was one of his parents' four children.
-* It is claimed that the reason he left home was to escape from ill-treatment by his father (the story being that Nicholas was only interested in books and annoyed his father by being unable to handle an oar).
 * Although this appears in ancient biographies of Nicholas, there is little evidence to support it.
 * Certainly the Brothers of the Common Life, a Roman Catholic religious community founded by Gerard Groote in the 14th  century, would have strongly influenced the young Nicholas with their mixture of mysticism and reason.
 * The first certain information about Nicholas's education is in 1416 when he matriculated at the University of Heidelberg.

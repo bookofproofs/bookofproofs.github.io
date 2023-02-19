@@ -30,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Kiefer moved to Cornell as an instructor in the Department of Mathematics and continued working for his doctorate with Wolfowitz.
 * After Kiefer was awarded his doctorate in 1952 he was promoted at Cornell from an instructor to as assistant professor.
 * Jack aspired at one time to become a proficient pianist.
-* Dooley and Jack were devoted parents of two children, Sarah Elizabeth and Daniel Jonathan Baird, with whom they shared their love of music, stamp collecting, and mushroom hunting.
 * In July 1973 Kiefer was elected the first Horace White Professor at Cornell University, a position he held until 1979 when he retired and joined the faculty at the University of California at Berkeley.
 * Kiefer's main research area was the optimal design of experiments, and about half his 100 publications dealt with that topic.
 * A paper Sequential minimax search for a maximum which Kiefer published in the Proceedings of the American Mathematical Society in 1953 was based on his master's thesis.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jakob Hermann** was a Swiss mathematician who made contributions to dynamics.
 
 ### Mathematical Profile (Excerpt):
-* Jakob, who had a sister Salome born in 1682, was a second cousin of Leonhard Euler's mother.
 * Hermann was taught mathematics by Jacob Bernoulli who, at that time, was working on infinite series.
 * Four of these students were Johann Jacob Fritz, who defended his dissertation on series in 1689, Hieronymus Beck who defended his thesis in 1692, Jakob Hermann who, as we noted above, defended his dissertation in 1696, and Nicolaus Harscher who defended his thesis on series in 1698.
 * It was Jakob Hermann, however, who Jacob Bernoulli considered was the best of his students and he was assigned Theses 36-46 which he defended under the title Positiones arithmeticae  de seriebus infinitis earumque summa finita Ⓣ(Arithmetical results on infinite series with finite sums).

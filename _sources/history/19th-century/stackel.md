@@ -26,7 +26,6 @@ contributors: @Vicky-Ryan,bookofproofs
 * Marie Stäckel died early in her son's life.
 * Ernst Stäckel was the head of a secondary school for girls in the city, as well as being a school inspector, so he clearly knew the value of education and wanted the best for his son.
 * Stäckel applied himself well at school, though he seems to have had no particular inclination for mathematics until his seventh year.
-* In 1866, when Stäckel was four years old, the political situation became somewhat volatile.
 * This was the background against which Stäckel lived, the balance only being disturbed late on in his life by the outbreak of World War I.
 * However, this was far in the future as Stäckel left school and set off on his chosen career path.
 * Having chosen to undertake further study, Stäckel entered the University of Berlin and attended lectures, primarily in mathematics and physics, but also some in philosophy, psychology, history and educational theory.
@@ -37,7 +36,6 @@ contributors: @Vicky-Ryan,bookofproofs
 * It was compulsory for young men to undertake one year of military service and Stäckel completed this in his home city from October 1886 to September 1887.
 * In 1891, Stäckel's habilitation thesis, Integration of Hamiltonian-Jacobian differential equations by means of separation of variables, was accepted by the University of Halle, near Leipzig, and he took up a lectureship there.
 * The move to Halle in February was the first of three defining events in Stäckel's life in that year.
-* On 6 May 1891, Stäckel married his fiancée, (Alwine Eleonore) Elisabeth Lüdecke, in a ceremony in her home town of Wittenberg.
 * Stäckel thrived during his time at Halle, publishing numerous papers, mainly on topics in analysis, mechanics and differential geometry.
 * among the younger lecturers, Stäckel distinguishes himself through his enthusiasm and activity.
 * Working in the department at the time was Cantor and this undoubtedly had an influence on Stäckel and some of the directions his mathematical research took.
@@ -55,11 +53,8 @@ contributors: @Vicky-Ryan,bookofproofs
 * The post was then offered to Stäckel, who relished such a challenge and threw himself into it wholeheartedly.
 * Stäckel also secured the services of a mathematics assistant.
 * The war affected Stäckel on a personal level with the death of his sixteen year old son, Gerd, who had been serving as an officer cadet.
-* Stäckel's thoughts on the loss of his son echo those of many thousands of parents, wives and children who lost loved ones during the Great War.
 * Considering the circumstances, it is quite remarkable that Stäckel was able to remain mathematically so productive during the war years.
 * Towards the end of the war, Stäckel's health deteriorated following an operation.
-* Stäckel left behind his wife, daughter and remaining son.
-* Elisabeth Stäckel outlived her husband by nearly twenty years, passing away on 6 May 1938, on what would have been her 47 wedding anniversary.
 * Walter Stäckel survived the war and went on to study chemistry, receiving his PhD in 1922.
 * Stäckel continued lecturing long after his illness had taken over and hid the signs even from his closest friends with heroic self-control.
 * He describes how Stäckel's death has left a hole which would be felt for years to come.

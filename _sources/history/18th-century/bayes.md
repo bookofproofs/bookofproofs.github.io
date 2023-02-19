@@ -23,13 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Thomas Bayes** was an English clergyman who set out his theory of probability in 1764. His conclusions were accepted by Laplace in 1781, rediscovered by Condorcet, and remained unchallenged until Boole questioned them. Since then Bayes' techniques have been subject to controversy.
 
 ### Mathematical Profile (Excerpt):
-* Thomas's mother was Anne Carpenter.
-* The family moved to Southwark, London, when Thomas was young and there Joshua became an assistant at St Thomas's and also an assistant at the Chapel in Leather Lane, Holborn.
-* Thomas was the eldest of his parents seven children, four boys and three girls.
 * In that case it is likely that he attended Fund Academy in Tenter Alley which was the only school with the right religious connections near where Bayes lived.
 * We do know that in 1719 Bayes matriculated at the University of Edinburgh where he studied logic and theology.
 * At some time Bayes must have studied mathematics but there is no evidence that he did so at Edinburgh University.
-* Thomas Bayes was ordained, a Nonconformist minister like his father, and at first assisted his father in Holborn.
 * It appears that Thomas Bayes left Tunbridge Wells in 1728 and returned in 1731.
 * Bayes apparently tried to retire from the ministry in 1749 but remained minister at Tunbridge Wells until 1752 when he did retire, but continued to live in Tunbridge Wells.
 * Bayes set out his theory of probability in Essay towards solving a problem in the doctrine of chances published in the Philosophical Transactions of the Royal Society of London in 1764.

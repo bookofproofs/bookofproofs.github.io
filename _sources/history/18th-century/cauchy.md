@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Augustin-Louis Cauchy** pioneered the study of analysis, both real and complex, and the theory of permutation groups. He also researched in convergence and divergence of infinite series, differential equations, determinants, probability and mathematical physics.
 
 ### Mathematical Profile (Excerpt):
-* They soon returned to Paris and Cauchy's father was active in the education of young Augustin-Louis.
-* Laplace and Lagrange were visitors at the Cauchy family home and Lagrange in particular seems to have taken an interest in young Cauchy's mathematical education.
-* Lagrange advised Cauchy's father that his son should obtain a good grounding in languages before starting a serious study of mathematics.
 * In 1802 Augustin-Louis entered the École Centrale du Panthéon where he spent two years studying classical languages.
 * From 1804 Cauchy attended classes in mathematics and he took the entrance examination for the École Polytechnique in 1805.
 * In 1810 Cauchy took up his first job in Cherbourg to work on port facilities for Napoleon's English invasion fleet.
@@ -34,14 +31,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Cauchy felt that he had to return to Paris if he was to make an impression with mathematical research.
 * Back in Paris Cauchy investigated symmetric functions and submitted a memoir on this topic in November 1812.
 * An academic career was what Cauchy wanted and he applied for a post in the Bureau des Longitudes.
-* Cauchy obtained further sick leave, having unpaid leave for nine months, then political events prevented work on the Ourcq Canal so Cauchy was able to devote himself entirely to research for a couple of years.
 * In this last election Cauchy did not receive a single one of the 53 votes cast.
 * In 1815 Cauchy lost out to Binet for a mechanics chair at the École Polytechnique, but then was appointed assistant professor of analysis there.
-* Politics now helped Cauchy into the Academy of Sciences when Carnot and Monge fell from political favour and were dismissed and Cauchy filled one of the two places.
 * In 1817 when Biot left Paris for an expedition to the Shetland Islands in Scotland Cauchy filled his post at the Collège de France.
 * Cauchy was the first to make a rigorous study of the conditions for convergence of infinite series in addition to his rigorous definition of an integral.
 * Cauchy did not have particularly good relations with other scientists.
-* By 1830 the political events in Paris and the years of hard work had taken their toll and Cauchy decided to take a break.
 * Political events in France meant that Cauchy was now required to swear an oath of allegiance to the new regime and when he failed to return to Paris to do so he lost all his positions there.
 * In 1831 Cauchy went to Turin and after some time there he accepted an offer from the King of Piedmont of a chair of theoretical physics.
 * In 1833 Cauchy went from Turin to Prague in order to follow Charles X and to tutor his grandson.
@@ -52,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Cauchy was strongly supported by Biot and Arago but Poisson strongly opposed him.
 * Cauchy was elected but, after refusing to swear the oath, was not appointed and could not attend meetings or receive a salary.
 * In 1843 Lacroix died and Cauchy became a candidate for his mathematics chair at the Collège de France.
-* Cauchy should have easily been appointed on his mathematical abilities but his political and religious activities, such as support for the Jesuits, became crucial factors.
 * During this period Cauchy's mathematical output was less than in the period before his self-imposed exile.
 * When Louis Philippe was overthrown in 1848 Cauchy regained his university positions.
 * Liouville and Cauchy were candidates for the chair again in 1850 as they had been in 1843.

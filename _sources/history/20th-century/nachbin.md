@@ -24,16 +24,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * We should give a few details about the extraordinary career of Jacob Nachbin.
-* Leopoldo was born there in January 1922 and shortly after that Jacob and his wife split up.
 * Jacob Nachbin set up a Jewish weekly newspaper and a Yiddish literary periodical in Rio de Janeiro.
-* Around 1930-1931, Jacob Nachbin went to the United States and held chairs at the Northwestern University, in Evanston, Illinois and the New Mexico State University in Las Cruces.
-* When the "Carvajal" manuscript vanished, Jacob Nachbin was accused of stealing it, spent three months in prison before being released for lack of evidence and was deported to the United States.
-* In Recife, another of Nachbin's wives, Léa Drechter, an Austrian Jew whom he had abandoned together with their child, found out about the robbery and also that he was now married to someone else.
+* Around 1930-1931 Jacob Nachbin went to the United States and held chairs at the Northwestern University, in Evanston, Illinois and the New Mexico State University in Las Cruces.
+* The manuscript vanished, Jacob Nachbin was accused of stealing it, spent three months in prison before being released for lack of evidence and was deported to the United States.
 * Nachbin had left her and had gone to Chicago, where he had reinvented himself as an academic.
 * Let us note that Jacob Nachbin always denied stealing the manuscript which reappeared in 2016.
 * Jacob Nachbin went to Spain to fight against Franco and vanished, presumably killed in the fighting.
-* We have given these details about Leopoldo's father since, although he was not involved in his upbringing, the publicity about him clearly must have affected the young boy.
-* Leopoldo was brought up by his mother and attended schools in Recife.
 * At this school, Leopoldo was taught by Luís de Barros Freire (1896-1963), a civil engineer and professor at the Escola Politécnica de Pernambuco who had won the chair of mathematics at the Escola Normal de Pernambuco in 1919 and had taught physics and mathematics at several high schools in Recife.
 * It was Luís Freire who brought out Nachbin's passion for mathematics and encouraged him to go to Rio de Janeiro and study for an engineering degree.
 * In 1939 Nachbin enrolled at the National School of Engineering at the University of Brazil in Rio de Janeiro.
@@ -42,7 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Nachbin also attended lectures at the National Faculty of Philosophy at the University of Brazil by Luigi Sobrero and Gabriele Mammana.
 * In addition to attending courses by Sobrero and Mammana, Nachbin spent much time in a deep private study of the works of Jean Dieudonné and Laurent Schwartz.
 * Remarkably, Nachbin published his first paper Sobre a permutabilidade entre operações de passagem ao limite e de integraçao de equações diferenciais Ⓣ(On the interchangeability between crossing the limit and integrating differential equations operations) in 1941 while near the beginning of his engineering course.
-* Nachbin's next paper was "Un estensione di un lemma di Dirichlet" Ⓣ(An extension of a Dirichlet lemma) written in Italian and published in 1942; this paper on harmonic analysis was sponsored by Sobrero.
+* Nachbin's next paper was Un estensione di un lemma di Dirichlet Ⓣ(An extension of a Dirichlet lemma) written in Italian and published in 1942; this paper on harmonic analysis was sponsored by Sobrero.
 * If the reader is a little surprised that Nachbin's second paper was written in Italian, let us say they will be more surprised to learn that between 1942 and 1946 he wrote papers in Portuguese, Spanish, Italian, English and French.
 * Despite a remarkable publication record in mathematics from a young age, Nachbin had an engineering degree and no mathematics degree.
 * Nachbin became interested in the topics Monteiro was teaching, and became a friend of Monteiro's.
@@ -66,9 +62,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Their proposal was that both Abdelhay and Nachbin should be given chairs of Mathematical Analysis.
 * In fact it is almost unbelievable that the argument, with professors on both sides, went on for 22 years and only in 1972 was the competition held and Nachbin appointed.
 * Nachbin, even before 1952, was making a strong impression both in terms of his research and in terms of building research facilities in Brazil.
-* On 28 July 1956 Nachbin married Maria da Graça Mousinho (born 12 March 1928, in Recife, Pernambuco, Brazil).
-* They had three children: André Nachbin, born on 8 August 1957 in Chicago, Illinois, USA; Léa Nachbin, born on 16 August 1961 in Rio de Janeiro, Brazil; and Luís Nachbin, born 30 July 1964 in Rochester, New York, USA.
-* Nachbin and his wife travelled to Mexico where he was a Rockefeller Foundation Scholar at the Universidad Nacional Autónoma de México during August 1956.
 * They then travelled to the University of Chicago, Illinois, USA where Nachbin continued to hold his Rockefeller Foundation Scholarship from September 1956 to July 1957.
 * This award was given for outstanding research and Nachbin was the first to receive such an award in the area of mathematics.
 * After his stay in Paris, Nachbin went to the University of Rochester in Rochester, New York, USA as a visiting professor.

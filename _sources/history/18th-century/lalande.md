@@ -23,12 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jérôme Lalande** was a French astronomer who made important measurements of the Solar System.
 
 ### Mathematical Profile (Excerpt):
-* There is the obvious question of why Lalande's father was not called Lalande.
 * In fact, for the first twenty years of his life Lalande was known as Jérôme Le Français, but after this he called himself Jérôme Le Français de la Lande.
 * Aristocratic names were certainly to be avoided at the time of the French Revolution, so at this time he made the "le" and "la" part of the following names and wrote Jérôme Lefrançais de Lalande.
 * For simplicity we shall use the name Lalande throughout this article.
-* Returning to Lalande's parents, his father Pierre, who ran a post office and traded in tobacco in Bourg-en-Bresse, had married Marie-Anne-Gabrielle Monchinet.
-* They only had one child so, very unusually for this period, Jérôme grew up an only child.
 * It is somewhat ironical that Lalande, who would later become renowned as an atheist, should have come so close to becoming a Jesuit.
 * It was his parents wish that he study law that stopped Lalande joining the Jesuits, but more surprisingly it was also this wish which turned him into an astronomer.
 * Lalande was fascinated by astronomy and, although he continued to study law, he also attended Delisle's astronomy lectures at the Collège Royale as well as Pierre Lemonnier's lectures on mathematical physics.
@@ -59,11 +56,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lalande took the opportunity to reissue his Dictionary of Atheists with Napoleon's name included which caused the new Emperor to demand that the Institut de France censure Lalande.
 * Delambre, who was at this time the Permanent Secretary to the Institut, tried hard to make Lalande bend to the Emperor's demands without being seen to undermine the highly prized intellectual freedom that members of the Institut enjoyed.
 * Lalande refused to stop putting forward his atheist views.
-* We promised earlier to say something of Lalande's family who played a large role in computing and producing tables.
-* Michel married his illegitimate daughter Amélie whom Lalande then called his niece.
-* Amélie and Michel became important members of the Lalande family team working day and night on many of his projects.
-* For example Lalande's Abrégé de navigation historique, théorétique, et practique, avec des tables horaires Ⓣ(Abstract of historical, theoretical, and practical navigation with timetables) (1793) were navigation tables containing a wealth of calculations carried out by his daughter.
-* Although, as we remarked above, Lalande never married he lived with Louise-Elizabeth-Félicité du Piery.
 * She was the chief investigator on Lalande's large-scale study of lunar astronomy, which was undertaken at the Paris Observatory, and she became the first woman in Paris to teach astronomy.
 * The importance in which Lalande held women's contributions to astronomy, particularly as mathematicians and calculators, is seen in his Astronomie des dames first published in 1785, with new editions in 1795 and 1806.
 * When the French Revolution led to the closure of the Académie des Sciences, Lalande attempted to set up a new organisation which he called Réunion des Sciences to carry on its functions.

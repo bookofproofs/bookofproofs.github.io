@@ -24,11 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * John Tait was a secretary to Walter Francis Scott, the fifth duke of Buccleuch.
-* Peter had two sisters and he began his schooling in the Grammar School in Dalkeith.
-* However, when he was six years old his father died and Peter, with his two sisters and his mother, moved to Edinburgh to live with an uncle John Ronaldson.
 * An Edinburgh banker, John Ronaldson was nevertheless interested in science, in particular in astronomy, geology and with the newly invented photography.
-* He soon interested his young nephew Peter in these subjects and it is fair to say that Peter's interest in science was a direct consequence of his uncle's enthusiasm for the sciences.
-* When the family moved to Edinburgh Peter, of course, had to leave his school in Dalkeith.
 * He next attended a private school in Circus Place Edinburgh, then in 1841, when he was ten years old, he entered Edinburgh Academy.
 * Lewis Campbell, who later became the professor of Greek at the University of St Andrews, and James Clerk Maxwell were one year above Tait at the Academy.
 * In fact Maxwell was slightly younger than Tait so the difference of one year certainly did not reflect their respective ages.
@@ -59,8 +55,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Tait saw that using quaternions he could express the fluid velocity as a "vector function".
 * It was the physical insight which Hamilton's quaternion differential calculus then gave which impressed Tait and he began to work hard developing a physical theory.
 * (The matter which more immediately suggested this to me was a paper by Helmholtz in Crelle's Journal (Vol.
-* If Tait's friendship with Hamilton was to prove important for his future research, then other friendships which Tait formed were important in his family life.
-* Two of his friends at Peterhouse were sons of the Rev James Porter and through them Tait met their sister, Margaret Archer Porter, whom he married in Belfast on 13 October 1857.
 * The Chair of Natural Philosophy at the University of Edinburgh became vacant in 1859, J D Forbes having moved to the University of St Andrews.
 * Tait was a candidate for the chair but so was Maxwell who had been forced to seek another post when Marischal College and King's College in Aberdeen combined.
 * Routh, who had been First Wrangler at Cambridge in Maxwell's year, was also a candidate but the real competition was always going to be between Tait and Maxwell.
@@ -102,6 +96,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1876 Tait began an intense study of knots, attempting to classify them.
 * He published seven papers on knots in the Proceedings of the Royal Society of Edinburgh in the academic year 1876-77.
 * Tait considered alternating knots, namely those which when traversing the projection in 2-dimensional space the crossings go alternately over and under.
+* He labelled the nnn crossings of such a knot A,B,C,...A, B, C, ...A,B,C,...
+* and then the knot would be described by the sequence of crossings of length 2nnn where each of A,B,C,...A, B, C, ...A,B,C,...
 * There were then two basic problems to solve.
 * Firstly which sequences of the above type corresponded to a knot, and secondly how could it be determined when two knots described by such sequences were the same.
 * Without any rigorous theory, which would have been well beyond nineteenth century mathematics, Tait began to classify knots using his mathematical and geometrical intuition.
@@ -111,6 +107,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Another topic which he had worked on over a number of years was the results of the Challenger expedition on deep sea temperatures.
 * In 1881 Tait published an important paper on the topic in which he showed how to correct the temperature readings because of the high pressures on the thermometers.
 * The requisite labour increases with extreme rapidity as the number of crossings is increased.
+* It is greatly desired that someone, with the requisite leisure, should try to extend this list, if possible up to 11 ...
 * Kirkman read the text of Tait's address and began to work on classifying knots with more than seven crossings.
 * He sent Tait his results on knot projections with up to nine crossings in May 1884 but he had not looked at the problem of deciding which of the projections led to equivalent knots.
 * Tait worked on this side of the problem and, considering only alternating knots, solved the equivalence problems within a few weeks.

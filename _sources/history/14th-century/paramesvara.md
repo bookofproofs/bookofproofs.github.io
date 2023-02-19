@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Paramesvara** was an Indian astronomer and mathematician who wrote many commentaries on earlier works as well as making observations.
 
 ### Mathematical Profile (Excerpt):
-* Although his father has not been identified, we know that Paramesvara was born into a Namputiri Brahmana family who were astrologers and astronomers.
 * This village was in Kerala and Paramesvara himself gives its coordinates with respect to Ujjain.
 * From Paramesvara's writing we know that Rudra was his teacher, and Nilakantha, who knew Paramesvara personally, tells us that Paramesvara's teachers included Madhava and Narayana.
 * We can be fairly confident that the dates we have given for Paramesvara are roughly correct since he made eclipe observations over a period of 55 years.

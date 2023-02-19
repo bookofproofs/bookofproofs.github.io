@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Linda Keen** is an American mathematician who is known for her work in hyperbolic geometry.
 
 ### Mathematical Profile (Excerpt):
-* Her father was an English teacher in New York but, despite his area of academic interest, he was happy to see his daughter Linda attend the Bronx High School of Science in New York City which of course specialised in science.
 * Graduating from the Bronx High School of Science, Goldway she entered the City College of New York, gaining a B.S. in 1960.
 * Her doctoral supervisor was Lipa Bers who had worked at the Courant Institute for about 10 years before he began to supervise Keen.
 * He left the Institute in 1964, the year in which Keen was awarded her Ph.D. Her research involved studying the interplay between the analytic and geometric aspects of classifying Riemann surfaces.

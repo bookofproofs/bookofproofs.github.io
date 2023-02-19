@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Harald Bohr** worked on Dirichlet series, and applied analysis to the theory of numbers. He is (as far as we know) the only mathematician to win an Olympic medal (a silver for representing Denmark at soccer in 1908).
 
 ### Mathematical Profile (Excerpt):
-* Their father, Christian Bohr, was professor of physiology at the University of Copenhagen.
 * Christian Bohr was famous for his work on the physical and chemical aspects of respiration.
-* Harald and Niels Bohr's mother, Ellen Adler Bohr, came from a wealthy Jewish family with family members who were important in banking and in politics in Denmark.
 * Harald studied mathematics at the University of Copenhagen.
 * It is perhaps surprising that Harald and Niels did not collaborate more frequently.
 * Harald Bohr worked on Dirichlet series, and applied analysis to the theory of numbers.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Pierre Varignon** was a French mathematician who worked on graphical statics and mechanics.
 
 ### Mathematical Profile (Excerpt):
-* The family was poor and could offer Pierre no financial support.
 * Although this seems to be said by Varignon with the suggestion that he was rather hard done by, indeed the technical knowledge he received did prove very valuable to him later in his life.
 * In Caen he became friends with a fellow student Charles Castel, Abbé de Saint-Pierre, who arranged for Varignon to receive an income of 300 livres.
 * The two shared lodgings and it appears that at this time Varignon continued his studies at the University of Caen.
@@ -41,6 +40,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Varignon's work was to have a major influence on Euler in his study on particle dynamics.
 * Varignon played a major role in defending the calculus from attacks.
 * Varignon argued before the Academy of Sciences that Rolle's arguments which suggested that the calculus led to errors was wrong.
+* In 1731, nine years after Varignon's death, his notes for teaching mathematics in schools was published as Élémens de mathématiques ...
 * The book contains what is today known as Varignon's parallelogram theorem: The figure formed when the mid-points of the sides of a quadrilateral are joined in order is a parallelogram.
 * Varignon was elected to the French Academy of Sciences in 1688, the Berlin Academy of Science in 1713 and the Royal Society of London in 1718.
 

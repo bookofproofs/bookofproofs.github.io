@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Carr graduated in 1971 with a first class honours degree in mathematics and his performance had been so good that he was offered a place at the University of Oxford to study for a Master's Degree.
 * at the University of Oxford at the same time as Carr and her thesis was on a similar topic to that of Carr, namely Some topics in functional differential equations (1973).
 * Carr and Dyson published three joint papers in 1974-1975, one being in the proceedings of the conference Ordinary and partial differential equations held at the University of Dundee, Scotland, in 1974 and the other two in the Proceedings of the Royal Society of Edinburgh.
-* While at Oxford, Carr met Teresa; they later married and had three children, Sam, Nancy and Emily.
 * In 1974 Carr was appointed as a lecturer in mathematics at Heriot-Watt University in Edinburgh, Scotland.
 * In 1981 Carr published the book Applications of centre manifold theory.
 * In 1982, the year following the publication of this book, Carr wrote two papers in collaboration with Robert G Muncaster: The application of centre manifolds to amplitude expansions.

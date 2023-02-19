@@ -23,12 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Graves** was an Irish lawyer and mathematician who is credited with inspiring Hamilton to discover the quaternions and with personally discovering the octonions.
 
 ### Mathematical Profile (Excerpt):
-* John and Helena Graves were married in 1806 and they had six children: John Thomas Graves, the subject of this biography; Helena Clarissa Graves (1808-1871); Robert Perceval Graves (1810-1893); James Perceval Graves (1811-1852); Charles Graves (1812-1899), who also has a biography in this archive; and Caroline Graves (1819-1855).
 * We note that Robert Perceval Graves was the author of the 3-volume work Life of Sir William Rowan Hamilton (Hodges, Figgis and Co., Dublin, 1882-1889).
-* In 1814, when John was seven years old, the family moved into a new home, a magnificent Georgian house at 12 Fitzwilliam Square, Dublin.
 * A plot on Fitzwilliam Square had been leased by Viscount Fitzwilliam to the merchant Nathaniel Calwell who employed the builder and master carpenter Richard Knight to build the houses 9 to 12.
-* The Graves family acquired number 12 and members of the family lived there throughout the 19th  century.
-* John, like his younger brother Charles Graves, was educated at a school run by the Rev Samuel Field at Westbury-on-Trym, near Bristol, Gloucestershire in England, where he was prepared for university.
 * Returning to Ireland, he entered Trinity College, Dublin, in 1823.
 * One of his fellow students was William Rowan Hamilton and the two soon became friends.
 * Hamilton had studied Clairaut's Algebra, Laplace's Mécanique Céleste Ⓣ(Celestial Mechanics) and Newton's Principia Ⓣ(Mathematical Principles of Natural Philosophy) before entering Trinity College.
@@ -52,6 +48,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hamilton, however, strongly supported Graves' results and when he spoke at the 1834 meeting of the British Association for the Advancement of Science in Edinburgh, he offered another proof of the results.
 * Hamilton presented the paper On Conjugate Functions or Algebraic Couples, as tending to illustrate generally the Doctrine of Imaginary Quantities, and as confirming the Results of Mr Graves respecting the existence of Two independent Integers in the complete expression of an Imaginary Logarithm.
 * which is more general than the usual expression.
+* This result of Mr Graves appeared erroneous to the author of the excellent Report on Algebra, which was lately printed for the Association; but it is confirmed by Mr Hamilton's theory ...
 * Augustus De Morgan expressed doubts about the correctness of the results in 1836 and, in the same year Graves replied to De Morgan by publishing in the Philosophical Magazine an alternative and shorter proof in his paper On the lately proposed logarithms of unity, in reply to Professor De Morgan.
 * However, Peacock was still not convinced and had published a "proof" that Graves was wrong in his Treatise on Algebra of 1830.
 * Duncan Farquharson Gregory pointed out the error in Peacock's "proof" in 1837 so, in the second edition of his Treatise on Algebra in 1845, Peacock admitted his error and gave a proof of Graves' result.
@@ -93,12 +90,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * On 25 April 1845 the first of twelve lectures by Graves on the law of nations were published in the Law Times.
 * two elaborate articles contributed to the 'Encyclopaedia metropolitana' on Roman law and canon law.
 * He was also a contributor to Smith's 'Dictionary of Greek and Roman Biography', his articles including very full lives of the jurists Cato, Crassus, Drusus, and Gaius, and one on the legislation of Justinian.
-* On 24 March 1846 Graves married Amelia Tooke, the daughter of William Tooke and Amelia Shaen.
-* They had no children.
 * William Tooke was a lawyer who become President of the Society of Arts.
 * Before his marriage Graves had resigned his chair of Jurisprudence at University College, London, giving as the reason for his resignation the 'discouragingly low enrolment for his classes'.
 * He stated that his lectures on Roman law, on international law and on general jurisprudence had been poorly attended in contrast with his lectures on practical topics such as the law of equity.
-* In the same year that he married he was appointed as an assistant poor-law commissioner.
 * In 1847 he was promoted to one of the poor-law inspectors of England and Wales, a position which came into existence because of the Poor Laws that came into force in that year.
 * He is immensely strong on your point of teaching the science of Observation to all men, especially the young of all classes, and he has reported the same to the Government in perhaps the very words you would have used.
 * This letter by Hooker does not mean that Graves had changed his profession since we see that Graves continued to write reports as a poor-law inspector up to at least 1866.

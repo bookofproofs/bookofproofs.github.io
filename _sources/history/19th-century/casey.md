@@ -34,8 +34,6 @@ contributors: @Roderick-Gow,bookofproofs
 * 1902) which is remarkable for its large store of exercises, collected and devised by himself and Richard Townsend, which occasioned the publication of a separate Key to the exercises of Casey's Elements of Euclid (1885) by Casey's son, Joseph.
 * It was in his Sequel to Euclid that Casey presented for the first time in a textbook those extensions of the theorems of Euclid that became known as the newer geometry of the triangle; indeed, he and the French mathematician Émile Lemoine (1840-1912) are held to be the founders of the so-called Modern Geometry of the circle and triangle.
 * Casey's work was much appreciated in Belgium and France, and Professor Joseph Neuberg of Liège made substantial additions to later editions of Sequel to Euclid.
-* Casey married Catherine Ryan in 1847; they had four children, two boys and two girls.
-* Casey's daughter Catherine married Patrick Dowling, later Registrar of the Royal College of Science in Dublin, who edited revisions of some of Casey's textbooks.
 * Casey was a member of the Royal Irish Academy (1866) and fellow of the Royal Society (1875), and held honorary doctorates in laws from Trinity College Dublin (1869) and the Royal University of Ireland (1885).
 * From 1874 or 1875 onwards, Casey lived at 86 Iona Terrace, which is part of the South Circular Road in Dublin and close to Casey's place of work at St Stephen's Green.
 * Casey died of bronchitis on 3 January 1891 and was buried at Glasnevin Cemetery.

@@ -24,9 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Jan Urban Jarník (1848-1923) had graduated from the University in Vienna where he had studied Czech, German, French, Italian, English, Sanskrit and comparative grammar of Indo-European languages.
-* Jan Urban Jarník married Enrikou Eysselt-Klimpély (born 1856) in 1876.
-* The first of their children was Hertvík Jarník (1877-1938) who followed his father in becoming a professor of Romanic philology in Brno.
-* Vojtěch was the youngest of his parents' six children.
 * Jarník attended the First Czech Real Gymnasium, similar to the German Realschule, in Ječná Street in Prague.
 * At the Charles University, Jarník attended mathematics lectures delivered by Karel Petr (1868-1950), Bohuslav Hostinsky (1884-1951), Karel Rychlík (1885-1968), Jan Sobotka (1862- 1931), Bohumil Bydzovsky (1880-1969) and Václav Láska (1862-1943).
 * Jarník also attended physics lectures by Bohumil Kucera (1874-1921), Václav Posejpal (1874-1935), Vladimír Václav Heinrich (1884-1965) and František Závisška (1879-1945).

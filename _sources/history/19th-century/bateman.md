@@ -30,8 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This prompted Bateman to use the methods being developed there to study the propagation of earthquake waves.
 * Bateman emigrated to the United States in 1910 having published four papers in 1909 and seventeen papers in 1910.
 * The appointment of Bateman was a brilliant move to bring an extremely active young research mathematician into the College.
-* The year 1912 was the one during which Bateman married Ethel Horner Dodd on 11 July.
-* They had one son Harry Graham who died while he was only a child, and they adopted a daughter Joan Margaret.
 * There is one strange aspect to Bateman's career which will not be evident from our description above.
 * In fact when Bateman arrived there in 1917 the College had gone through a marked transition.
 * A number of superb appointments, such as that of Bateman and also the physicist Robert A Millikan, helped achieve Hale's aim.

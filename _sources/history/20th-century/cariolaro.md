@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **David Cariolaro** was an Italian mathematician who worked in graph theory. He died following an accident in China.
 
 ### Mathematical Profile (Excerpt):
-* Gianfranco and Tina had two sons, David and his brother Dimitri Cariolaro.
-* Gianfranco Cariolaro trained as an electrical engineer and, in the year before his son David was born, gained the right to teach at the University of Padua.
 * David Cariolaro entered the Liceo Scientifico "Enrico Fermi" in Padua in 1983, graduating from the high school in 1988.
 * Cariolaro spent four months in 1993-94 as an Exchange Student at Konstanz University in Germany.
 * Carlo Bertoluzza and Cariolaro published the joint paper On the measure of a fuzzy set based on continuous t-co-norms in 1997.
@@ -34,12 +32,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After the year in Aalborg, in 2000 Cariolaro also went to the University of Reading, England, where his thesis advisor was also Anthony J W Hilton.
 * During his first two years at Reading, Cariolaro was a Teaching Assistant in the Department of Mathematics.
 * His supervisor, Professor Anthony Hilton, reports that David was a diligent, hard-working student, who found it quite difficult to get to grips with his research topic, but eventually showed considerable insight and imagination.
-* In fact Cariolaro married Shu-Ning Chen on 7 May 2004; they had two children, Elena and Gabriele Marco.
 * After leaving Reading, Cariolaro served as a postdoctoral fellow at several different institutions.
 * In September 2009, Cariolaro was appointed as a Lecturer in the Department of Mathematical Sciences at Xi'an Jiaotong-Liverpool University in Suzhou, China.
 * Cariolaro ran a web site which provided a discussion forum for those interested in graph theory.
 * Tragedy struck on 20 September 2013 when Cariolaro was seriously injured in an accidental fall.
-* On 20 September David had a serious accident and is currently struggling for his life in the hospital in Sozhu, assisted by his wife and father, Prof Gianfranco Cariolaro of the University of Padua.
 * David's condition is very critical and requires complex medical care whose cost, unfortunately not covered by any insurance, is so high that it has consumed our life savings in a few weeks.
 * The purpose of this site is to present this dramatic story to as many people as possible, friends and acquaintances of David and Gianfranco, and to facilitate individual contributions giving everyone the possibility offering help and support.
 * The struggle to get David Cariolaro back to Italy was reported on regularly in the newspaper Padova Oggi.

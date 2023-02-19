@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Keill** was a Scottish mathematician who acted as a propagator of Newton's philosophy.
 
 ### Mathematical Profile (Excerpt):
-* John's father was Robert Keill who was an Edinburgh lawyer.
-* James Keill who became a physicist, was John's younger brother born two years later.
 * John attended school in Edinburgh, then studied at Edinburgh University under David Gregory obtaining his degree in 1692 with distinction in both mathematics and physics.
 * Keill went to Oxford with David Gregory in 1692 and, after obtaining a scholarship to finance his studies, studied at Balliol College.
 * Keill was appointed deputy to the Sedleian professor of natural philosophy in 1699, a post he held until 1704.
@@ -38,10 +36,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Keill did write a reply in the Journal Litéraire which he intended as a defence of national honour.
 * Although Keill and Newton seemed very friendly at this time it appeared that Newton grew tired of Keill's stirring up trouble.
 * Newton made it up with Johann Bernoulli although Keill never did.
-* In 1717 Keill married Mary Clements.
 * Perhaps the attraction for Keill was the fact that she was twenty-five years younger.
 * Keill's work Euclides elementorum libri priores sex Ⓣ(The first six books of Euclid's 'Elements') published in 1715 studies trigonometry and logarithms.
-* Two years before he died, Keill was left a fortune on the death of his brother James.
 
 Born 1 December 1671, Edinburgh, Scotland. Died 31 August 1721, Oxford, England.
 

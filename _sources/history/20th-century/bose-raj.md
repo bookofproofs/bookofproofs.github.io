@@ -23,17 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Raj Chandra Bose** was an Indian mathematician and statistician who worked in America. He best known for his work in design theory, finite geometry and the theory of error-correcting codes.
 
 ### Mathematical Profile (Excerpt):
-* His father, Protap Chandra Bose, had served as a doctor in the British army before becoming a doctor in the town of Rohtak.
-* Protap Chandra Bose's first wife died without any children being born, and he then married Ushangini Mitra from the town of Hoshangabad who had met while visiting his sister who lived in that town.
-* Raj Chandra, the eldest of his parents' four children, was born in Hoshangabad since his mother had returned to her parents' home to have her first child.
-* Anything other than top of the class was considered a failure so, for example, when Raj Chandra only came second in the geography examination in the eighth grade his father demanded that he learn the geography textbook by heart - something which he did not find too hard since he had a photographic memory.
 * After completing his schooling at the Government High School in Rohtak, Bose entered the Hindu College in Delhi in April 1917.
-* Despite the loss of his mother, Bose came first in the 1919 Intermediate Examination at the Punjab University.
-* In January 1920 Bose's father died from a stroke and he was left as the eldest in the family with all the responsibility that gave yet little money to either educate himself or look after the family.
-* In 1921 his brother completed his schooling and Bose brought him and his sisters to Delhi where they all lived in a single room.
 * Raj Chandra Bose was lost in his books.
 * Raj Chandra took his B.A. examination and passed it successfully.
-* Bose wanted to continue his studies, but now the family had no income and even if he won a scholarship it would not start for some months.
 * However Bose's teaching job prevented him attending most of the lectures for the MA courses up to April 1923 when his position at St Stephens High School came to an end.
 * After the award of an MA in Pure Mathematics, First Class, in 1927, Bose remained in Calcutta (its official name today is Kolkata) working as a research associate from January 1928 to December 1929.
 * From 1935 he had a full-time position at the Indian Statistical Institute as did Samarendra Nath Roy who had been appointed to a part-time post a few months after Bose.
@@ -47,7 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Many honours were bestowed on Bose both from his native country of India and from the United States.
 * Following his death, the Indian Statistical Institute held its 'Conference on Combinatorial Mathematics and Applications' in memory of Bose in Calcutta in December 1988.
 * In December 2002 the Indian Statistical Institute held the 'R C Bose Centennial Symposium on Discrete Mathematics and Applications' in Calcutta.
-* Mrs Bose always drove the car: RC never learned how! They had two delightful daughters, Purabi (born 1934), now in Washington DC, and Sipra (born 1938), now in Poughkeepsie, NY.
+* One of his friends said of Bose "...
 * Mrs Bose lives between them near Philadelphia.
 * Finally let us record that Bose had several hobbies other than travelling which was noted in the quote above.
 

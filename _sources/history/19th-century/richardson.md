@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Lewis Fry Richardson** was an English mathematician, physicist and meteorologist who pioneered modern mathematical techniques of weather forecasting.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Catherine Fry who came from a family of corn merchants, and his father was David Richardson who came from a family of tanners, and he had gone himself into the family business.
-* David and Catherine Richardson had seven children, and Lewis was the youngest of this large family.
 * Richardson held a large number of posts.
 * Being a conscientious objector, however, did not mean that Richardson was not involved in the War.
 * However in 1920 the Meteorological Office became part of the Air Ministry which would have meant that Richardson would have become part of the military.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **George Hill** was an American astronomer and mathematician. who worked on the three-body problem and  later on the four-body problem.
 
 ### Mathematical Profile (Excerpt):
-* In 1846, when Hill was eight years old, his family moved to a farm near West Nyack, in New York, where George attended school.
 * It had been an institution of higher education from 1766 and had been renamed Rutgers College thirty years before Hill studied there.
 * Hill had graduated just before the Morrill Act of 1862 led to Rutgers College becoming New Jersey's land-grant college in 1864.
 * Certainly Hill's undergraduate studies at Rutgers College were highly unusual for American students of this period.

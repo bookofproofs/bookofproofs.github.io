@@ -42,10 +42,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Note that 'Herivelismus' was the name that was given to Herivel's brilliant suggestion on breaking Enigma codes.
 * The well-known actor Simon Callow was taught by Herivel at the University of Belfast but only discovered about his remarkable codebreaking achievements after he died, when he read his book.
 * Herivel, who was elected a member of the International Academy of History of Science in 1976, retired from his position in Belfast in 1978 and went to live in Oxford where he was made a visiting fellow at All Souls College.
-* We noted above that Herivel had three daughters but in all the obituaries which appeared after his death only two daughters, Susan and Mary, are mentioned.
 * In 1978, the year Herivel retired, Josephine (then aged 22) was one of six women arrested for assault and obstructing the police in London.
-* Herivel and his family made attempts to contact Josephine but these were unsuccessful.
-* Herivel's daughter Susan is an Oxford potter living in the house in Lonsdale road where her parents lived.
 * She has made a plaque which has been installed on the house which reads "John Herivel Mathematician and Codebreaker lived here 1975-2011".
 * Let us end this biography by giving a quote from Herivel.
 * A colleague recalled a conversation with Herivel in which they discussed the difference between genius and talent.

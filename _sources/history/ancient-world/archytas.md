@@ -35,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Another interesting mathematical discovery due to Archytas is that there can be no number which is a geometric mean between two numbers in the ratio (n+1):n(n+1) : n(n+1):n.
 * Archytas built on this earlier work and his discoveries are then largely those presented by Euclid in the Elements Book VIII.
 * Archytas is sometimes called the founder of mechanics and he is said to have invented two mechanical devices.
-* When it came to a philosophy of politics and ethics, again Archytas based his ideas on mathematical foundations.
 * Finally we quote again from the writings of Archytas about his theory of how to learn.
 
 Born about 428BC, Tarentum, Magna Graecia (now Taranto, Italy). Died about 350 BC.

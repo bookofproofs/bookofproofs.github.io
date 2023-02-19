@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * John senior was a priest who was both the rector of Colmer and also a respected schoolteacher.
-* John junior, the subject of this biography, was the eldest of his parents four children, the others being Nicholas, Thomas and Edward.
-* Taught by his father until his death in 1616, John was able to enter Balliol College, Oxford, in the following year aged fifteen.
 * At Merton he became a friend of the Savilian professors Henry Briggs and John Bainbridge.
 * With support from John Bainbridge and Peter Turner, Greaves was appointed as Professor of Geometry at Gresham College, London, in February 1631.
 * Greaves set out on his travels in 1637, along with Edward Pococke.

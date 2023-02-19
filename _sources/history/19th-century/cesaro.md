@@ -27,10 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In fact on 17 March 1861, almost exactly two years after Ernesto's birth, the Kingdom of Italy was formally created.
 * Luigi Cesàro strongly supported the move towards Italian unification but this was not an easy time for farmers in Italy (nor for many others) and Ernesto grew up difficult financial circumstances.
 * The newly created country of Italy suffered many problems but it also had a new confidence in education from which Cesàro benefited in his early years.
-* In 1873 Cesàro's father sent him to join Guiseppe who was by that time a lecturer in mineralogy and crystallography at the École des Mines in Liège.
 * Cesàro entered the École des Mines as a student but, preferring to study in Italy, made application for a university place there.
-* Cesàro returned to Torre Annunziata in Italy for a number of years after the death of his father in 1879.
-* The death of Cesàro's father had given the family even more financial problems than they had before, but eventually Cesàro won a scholarship to allow him to study further at Liège and in 1882 he returned to Belgium to continue his studies.
 * Sur diverses questions d'arithmétique Ⓣ(On various  arithmetical problems) was the first of a series which Cesàro wrote on the theory of numbers.
 * Cesàro visited Paris during the period of his studies at Liège and there he attended lectures by Hermite, Darboux, Serret Briot, Bouquet and Chasles at the Sorbonne.
 * Hermite in particular was interested in the results which Cesàro had obtained and he quoted these in his own work of 1883.
@@ -43,7 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In addition to differential geometry Cesàro worked on many topics such as number theory where, in addition to the topics we mentioned above, he studied the distribution of primes trying to improve on results obtained in this area by Chebyshev.
 * Cesàro's interest in mathematical physics is also evident in two very successful calculus texts which he wrote.
 * Cesàro died in tragic circumstances.
-* Cesàro went to rescue his son but sustained injuries which led to his death.
 
 Born 12 March 1859, Naples, Kingdom of the Two Sicilies (now Italy). Died 12 September 1906, Torre Annunziata, Italy.
 

@@ -23,11 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Marguerite Lehr** was an outstanding lecturer and, as one of the first to present a course of mathematics on television in 1952-53, she was in great demand both as a lecturer and as a consultant for presenting mathematics on film or TV.
 
 ### Mathematical Profile (Excerpt):
-* She was the daughter of George Lehr (born October 1870) and Margaret Kreuder (born August 1871).
-* They had married in 1897 and had five children: Marguerite Lehr (1898-1987), the subject of this biography; Elizabeth Lehr (1900-1985), Charollete Lehr (1904-1967), who was also known as Charlotte, Charles G K Lehr (1908-1993) and George Kreuder Lehr (1911-1996).
 * George Lehr was a grocer who had been born in König, Hesse, Darmstadt, Germany and emigrated to the United States in either 1890 or 1892 (both dates appear on official forms).
 * Before giving details of Marguerite's biography, let us give some details of her siblings.
-* Elizabeth became an instructor in a school, Charollete became a librarian in the Enoch Pratt Library, Charles became a draftsman working for telephone companies, and George Kreuder Lehr became a bookkeeper for a metal firm and married Jane Leigh Warner in 1943.
 * Marguerite was educated in Baltimore, attending both primary and secondary schools in that city.
 * She was strongly influenced by Clara Bacon who taught many of the courses Lehr studied.
 * Lehr graduated with a B.A. in 1919.

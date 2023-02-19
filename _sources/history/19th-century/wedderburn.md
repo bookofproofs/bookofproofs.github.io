@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Joseph Wedderburn** worked for most of his life in Princeton. He made important advances in the theory of rings, algebras and matrix theory.
 
 ### Mathematical Profile (Excerpt):
-* Alexander Wedderburn came from a family of Ministers of the Church with his father being the Parish Minister of Kinfauns and his grandfather (Joseph's great-grandfather) being Parish Minister of Blair Atholl.
-* Joseph's mother was Anne Ogilvie and she came from a family of lawyers; Anne's father had been a lawyer in Dundee.
-* Anne and Alexander Wedderburn had a large family, Joseph being one of fourteen children, eight boys and six girls.
-* In fact Joseph was the tenth child of the family.
 * Joseph was brought up in Forfar, north of Dundee, and he attended Forfar Academy from the age of five until he was thirteen.
 * It was a time when Wedderburn made remarkable progress with his mathematics and in addition during 1902-03 he worked as an assistant in the Physical Laboratory of the University.
 * Wedderburn then pursued postgraduate studies in Germany spending session 1903-1904 at the University of Leipzig and then the summer semester of 1904 at the University of Berlin.

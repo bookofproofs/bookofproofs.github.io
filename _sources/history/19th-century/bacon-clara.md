@@ -24,14 +24,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Larkin Bacon had been born 2 March 1818 in Jonesborough, Tennessee.
-* They had four children: Mary Ann Bacon (1843-1936), George W Bacon (1848-1867), Joseph Barnes Bacon (1854-1936) and Fannie Bacon (1864-1864).
-* Larkin Bacon married his second wife Louisa Latimer on 20 October 1864 in McDonough, Illinois.
-* Larkin and Louisa Bacon had four children, Clara Latimer Bacon (1866-1948), the subject of this biography, Nancy Bacon (1867-1880), Willie Larkin Bacon (1871-1880) and Agnes Latimer Bacon (1874-1930).
-* Although Clara was the oldest of her parents four children, she had quite a number of half-siblings.
 * For example, at the 1870 US census, Clara is three years old and five older half-siblings are living at the same home, namely Eugene, Joseph B, James H, Harvey M and Louie.
-* The Bacon family lived in Hills Grove, a small town where early settlers lived.
 * At the time Clara was growing up it had a primary school, which she attended.
-* On 24 October 1877 Larkin Bacon died in Hills Grove and soon after that Clara's mother Louisa moved to Abingdon, Knox County, Illinois.
 * Clara began her secondary education at North Abingdon High School.
 * Clara was awarded the degree of PhB (Bachelor of Philosophy), an undergraduate bachelor's degree.
 * After the award of her PhB degree, Bacon taught for the school year 1886-87 at a private school in Dover, Kansas.
@@ -39,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Later in her Ph.D. thesis, Bacon gave special thanks to Ellen Hayes for her help while she was at Wellesley College.
 * After graduating from Wellesley College, Bacon was appointed as a teacher in a private school in Litchfield, Kentucky.
 * In 1897 Bacon was appointed as an instructor at the Woman's College of Baltimore which was renamed Goucher College in 1910.
-* Agnes Latimer Bacon, Clara's sister, had studied for an A.B. in physics at Wellesley College, and she moved to Baltimore City where Clara, her mother and her sister Agnes set up home together.
 * At the time of the 1900 US census, the three of them are living at 2316 Calvert Street in Baltimore City with both Clara and Agnes giving their occupation as "teacher'.
 * Clara Bacon now began to study for more advanced degrees and, while continuing to work full time at the Woman's College, she studied each summer from 1901 to 1904 at the University of Chicago for a Master's Degree.
 * After she retired, Bacon wrote to Oskar Bolza on 23 April 1936.
@@ -48,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Agnes Bacon worked at the Johns Hopkins School of Hygiene and Public Health and published several articles in the field of biometrics during the early 1920s.
 * Bacon was awarded a Ph.D. in 1911 for her thesis The Cartesian oval and the elliptic functions ℘ and σ.
 * Bacon was promoted to professor at Goucher College in 1914 and continued to teach there until she retired in 1934.
-* One of Bacon's favourite ways to relax was to travel with her sister Agnes with whom she lived until Agnes's death in 1929.
 * After Clara retired in 1934 she set out on a fifteen month trip in June 1934, travelling first to England then going to Scotland, Italy, Egypt, and Palestine before returning to Baltimore in October 1935 sailing from Hamburg, Germany, to Baltimore on the SS City of Norfolk.
 * Bacon continued to live at 2316 Calvert Street with her servant Ida Lindsay, who was far more than a servant, being also a companion and friend.
 * In 1958 Goucher College renamed North House, "Bacon House" in her honour.

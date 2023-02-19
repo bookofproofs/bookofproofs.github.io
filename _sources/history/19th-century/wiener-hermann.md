@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At the time of Hermann's birth, Christian Wiener was professor of descriptive geometry at the Technische Hochschule of Karlsruhe, having moved there five years earlier when appointed to the chair.
 * Hermann entered the Gymnasium in Karlsruhe in 1866 and he took his final examinations ten years later.
 * After graduating from the Technische Hochschule in Karlsruhe in 1879, Wiener went to the Technische Hochschule in Munich to study for his doctorate.
-* In addition to teacher training, Wiener was also undertaking research for his habilitation thesis with his father at the Technische Hochschule in Karlsruhe.
 * Wiener submitted his habilitation thesis Rein geometrische Theorie der Darstellung binärer Formen durch Punktgruppen auf der Geraden Ⓣ(Geometric theory of representing binary forms by point groups on the line)  to the University of Halle in 1885.
 * Wiener was a founder member of the German Mathematical Society, as were  Cantor, Gordan, Hilbert, Klein, Minkowski, Study and Heinrich Weber who all gave lectures at the Bremen meeting.
 * Also in 1890 Wiener published three papers: Die Zusammensetzung zweier endlichen Schraubungen zu einer einzigen Ⓣ(The composition of two finite Screw transformations into a single one); Zur Theorie der Umwendungen Ⓣ(On the theory of inversions); and Über geometrische Analysen Ⓣ(On geometric analysis).

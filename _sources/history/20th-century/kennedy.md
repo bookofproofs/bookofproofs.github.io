@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Patrick Brendan Kennedy** was an Irish mathematician who worked in complex analysis. As a young man he was an outstanding chess player.
 
 ### Mathematical Profile (Excerpt):
-* Pat and Kit Kennedy were married in 1920 and had five children: Tadhg Kennedy, Mary Anne (Nancy) Kennedy, Patrick Brendan Kennedy, Kitty Kennedy and Joan Kennedy.
-* Pat Kennedy, Paddy's father, had been an apprentice carpenter in his father's firm but, despite being the eldest son, had gone against the tradition of following the family trade and he had joined the police force in 1923.
-* Paddy's mother Kit was the daughter of the blacksmith Patrick O'Sullivan from near Castlemaine.
-* The family moved to Ballylongford in 1936 when Pat Kennedy was stationed there.
 * In 1937 when Paddy was eight years old, after a year in Ballylongford, he did manage to achieve the transfer to Cork and, in 1941, Paddy entered the North Monastery secondary school in Cork.
 * In 1946, while at the North Monastery School, Kennedy won the Honan Scholarship to University College Cork.
 * Kennedy entered University College Cork in 1946 aiming at a science degree.
@@ -41,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Kennedy's first paper was On a conjecture of Heins which he submitted to the Proceedings of the London Mathematical Society on 12 September 1953.
 * Kennedy promises a further paper giving an example of a class of integral functions which shows these positive results are best possible and provides a counter-example to Heins' conjecture.
 * Kennedy was appointed as an assistant lecturer in mathematics at Aberystwyth in autumn 1953.
-* He married Pamela Fishwick in March 1954 in Aberystwyth; they had three children, David Patrick Kennedy, Anne Deirdre Kennedy, and Jane C Deborah Kennedy.
 * Some of Kennedy's papers listed below also acknowledge the same source of support.
 * Paddy Barry was a research student at Cork advised by Kennedy.
 * Kennedy was appointed Professor of Mathematics at Cork in 1956.

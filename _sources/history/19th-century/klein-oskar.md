@@ -34,7 +34,6 @@ contributors: @Ian-T-Durham,bookofproofs
 * Klein agreed and began what would prove to be quite a fruitful relationship that eventually would lead him to his first teaching position.
 * After his successful defence, Klein returned to Copenhagen, later assisting Bohr on a trip to Göttingen.
 * Around this time Klein turned to publishing semi-popular writings on physics.
-* In 1923, Oskar Klein married Gerda Agnete Koch and moved to Ann Arbor, Michigan to take up a post at the University of Michigan, a post he won with no small thanks to his venerable friend Niels Bohr.
 * For the time (1923), this was a fairly large problem to tackle, but Klein did not stop there.
 * Klein chose to solve the problem by essentially extending his work to a fifth dimension, though his early unification ideas centred around quantum physics as the catalyst.
 * After a time Klein argued less and less that quantum physics could lead to a unified picture, in fact he later abandoned the idea entirely.

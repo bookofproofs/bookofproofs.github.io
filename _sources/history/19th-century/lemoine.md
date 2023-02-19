@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Émile  Lemoine**  was a French civil engineer, mathematician and geometer.
 
 ### Mathematical Profile (Excerpt):
-* Émile Lemoine's father was involved in the founding of the military Prytanée of La Flèche at this time and, because of this, Émile was awarded a scholarship to enable him to be educated there.
-* While at this school, Lemoine published Note sur une conique et son cercle directeur Ⓣ(Note on a conic and its director circle) in the Nouvelles annales de mathématiques in 1858.
 * In this paper, Lemoine describes himself as a pupil in the Spéciales of the Prytanee impérial of La Flèche.
 * Graduating from the Prytanée Militaire in 1860, Lemoine entered the École Polytechnique in Paris.
 * Lemoine was very musical and while at the École Polytechnique he founded an amateur musical group named "La Trompette" which, several years later, was good enough to have Saint-Saëns write music especially for it.
 * Saint-Saëns composed Septet in E flat major Op 65, at Lemoine's request.
-* In fact Saint-Saëns and other leading musicians of the day would perform with Lemoine's "La Trompette".
 * Saint-Saëns composed other works for Lemoine.
 * For example he gave Lemoine the work Préambule as a present for Christmas 1879.
 * It was played at a concert in January 1880 and Saint-Saëns was so pleased with the result that he promised Lemoine that he would write a complete work with Préambule as its first movement, which he had done by the end of 1880.
@@ -48,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The usual construction required over 400 of Lemoine's operations but he was able to reduce the number to 199.
 * Why are these results of Lemoine not found interesting?
 * Lemoine gave up active mathematical research in 1895 but continued to support the subject.
-* Lemoine had been helped to found the journal by Charles-Ange Laisant (1841-1920), who had been a fellow student at the École Polytechnique and had then served in the military before entering politics.
 * Let us end by quoting David E Smith's personal comments about Lemoine and his music.
 * To this justly celebrated mathematician, M Laurent, is due the name of M Lemoine's soirées, "La Trompette".
 * Long ago he one day remarked to M Lemoine in a jesting way, as the latter was excusing himself to attend one of his musical reunions, "Stay here with me, let the trumpet alone." Struck by the name, Lemoine adopted it, and La Trompette has ever since designated the delightful soirées with which the Paris cultured world is familiar.

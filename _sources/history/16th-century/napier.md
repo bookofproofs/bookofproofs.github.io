@@ -23,24 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Napier** was a Scottish scholar who is best known for his invention of logarithms, but other mathematical contributions include a mnemonic for formulas used in solving spherical triangles and two formulas known as Napier's analogies.
 
 ### Mathematical Profile (Excerpt):
-* (We shall comment shortly on the different spellings of Napier's name.) The family also owned estates at Lennox and at Menteith and a residence at Gartness.
-* Archibald Napier married Janet Bothwell, the sister of the Bishop of Orkney, in 1549 when he was only 15 years old.
-* Their son John Napier was born the following year.
 * Archibald Napier was a justice-depute and was knighted in 1565.
 * Before continuing we should comment on the spelling of John Napier.
 * The name John is most easily dealt with as John Napier, and almost everyone else around his time, used the old spelling "Jhone".
 * The forms Napeir, Nepair, Nepeir, Neper, Napare, Naper, Naipper are all seen but John Napier would most commonly have been written Jhone Neper at that time.
 * Napier was educated at St Andrews University, entering the university in 1563 at the age of 13.
-* His mother arranged for him to live in St Salvator's College and special arrangements were made for the Principal of the University, John Rutherford, to take care of him personally.
 * Napier's name appears on the matriculation roll of St Salvator's College for 1563.
-* Shortly after Napier matriculated his mother died.
 * We know that Napier spent some time at St Andrews University and he wrote himself many years later that it was in St Andrews that he first became passionately interested in theology.
 * However Napier's name does not appear in the list of those being awarded degrees in the subsequent years so he must have left St Andrews to study in Europe before completing a degree.
 * Napier did not acquire his knowledge of higher mathematics at St Andrews nor did he acquire his deep knowledge of classical literature there.
-* By 1571 Napier had returned to Scotland for he was present at his father's second marriage which took place in that year.
 * It was in 1571 that Napier himself began to make arrangements for his own marriage but it was at nearly two years before that took place.
-* In 1572 most of the estates of the Napier family were made over to John Napier and a castle was planned for the estate at Gartness.
-* When the castle was completed in 1574, Napier and his wife took up residence there.
 * Napier devoted himself to running his estates.
 * Napier took part in the religious controversies of the time.
 * He was a fervent Protestant and published, what he considered his most important work, the Plaine Discovery of the Whole Revelation of St. John (1593).

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Patrick Hardie** graduated from Edinburgh University. He spent most of his career teaching in Egypt at Alexandria and Cairo.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Jane Hardie (born Culross, Perthshire (now in Fife) about 1837).
 * Patrick Hardie had siblings: James (born about 1860), George (born about 1864), Jane (born about 1866), and Alexander (born about 1875).
 * Patrick Hardie's school education was at Newington School, Edinburgh, followed by George Heriot's School, Edinburgh.
 * Hardie studied Chemistry and Practical Chemistry with Crum Brown, Botany and Practical Botany with Balfour, Zoology and Practical Zoology, Mathematics with Chrystal, and Natural Philosophy with Tait.

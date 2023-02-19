@@ -23,10 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William J Greenstreet** graduated from Cambridge and became headmaster of Marling School Stroud. He is best-known as the long-running editor of the _Mathematical Gazette_.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Catherine S Greenstreet, (born in Letterkenny Donegal about 1831).
 * William had two younger siblings, Rosalie (born about 1864) and Cecil (born about 1866).
 * William J Greenstreet was educated at St Saviour's Grammar School, Southwark and entered St John's College, Cambridge in 1879, graduating in 1883.
-* William John Greenstreet married Ethel de Medina Spender from Bath in 1889.
 * Ethel de Medina Greenstreet drowned in 1903.
 * Full details of William J Greenstreet's life and contributions to mathematics are given in an obituary which appeared in The Mathematical Gazette in 1930.
 

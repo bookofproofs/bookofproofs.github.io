@@ -33,6 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Schwinger was joint winner of the Nobel Prize for Physics (1965) for his work in formulating quantum electrodynamics and thus reconciling quantum mechanics with Einstein's special theory of relativity.
 * Using the method of renormalization which he also developed Schwinger was able to prove that a small anomalous contribution should be added to the value of the magnetic moment accepted until then.
 * Schwinger's calculation was indeed earlier than and very important for the proper interpretation of these measurements.
+* Schwinger had developed the formalism of the new quantum electrodynamics in several fundamental papers ....
 * From 1972 until his death in 1994 Schwinger worked at the University of California, Los Angeles.
 * Schwinger gave his students much more than guidance on their research.
 * He gave them a depth of understanding and a mastery of the field which permitted each to become not a Schwinger disciple, but an independent scientist.

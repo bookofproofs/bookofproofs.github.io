@@ -44,7 +44,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * As well as being Professor of Astronomy at Leipzig, Mollweide was also director of the university observatory.
 * All this concentration on war had made Mollweide's life extremely difficult for he was forced to concentrate on geographic studies to assist the war effort.
 * Mollweide, always more enthusiastic towards mathematics than astronomy, decided in 1814 to move from being Professor of Astronomy to Professor of Mathematics, still at the University of Leipzig.
-* The year of 1814 not only marked Mollweide's move from astronomy to mathematics, but it was also the year he married.
 * From 1820 to 1823 Mollweide was Dean of the Leipzig University Faculty of Philosophy.
 * We referred above to the two contributions for which Mollweide is best remembered today.
 * Mollweide was admired as a lecturer because of his ability to present dry topics in an interesting manner by drawing connections to other topics.

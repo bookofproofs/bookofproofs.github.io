@@ -25,15 +25,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * However, he greatly disliked this version and always made it known that he wished to be Henry F Talbot or H F Talbot.
 * We shall at least go some way towards his wishes and refer to him as Talbot (or Henry) throughout this article.
-* Henry's father was William Davenport Talbot and his mother was Elisabeth Theresa Fox-Strangways.
-* Davenport Talbot owned Lacock Abbey in Wiltshire which had been in the possession of the Talbot family since the 1500s but this only happened because two husbands took their wife's name of Talbot to keep the Talbot family name from dying out.
-* Lady Elisabeth Fox-Strangways was the eldest child of Henry Thomas Fox-Strangways, second earl of Ilchester, and was from a family which moved in the highest political circles.
 * Given the status of the families one might expect Henry to be born into a wealthy but, on the contrary, when he was born, Lacock Abbey was £30,000 in debt, this being a substantial sum in those times.
-* Financial problems was not the only difficulty the family had, for Davenport Talbot died was Henry was only five months old leaving Lady Elisabeth in a somewhat tricky situation.
-* Henry's mother was a rather remarkable woman, however, being highly intelligent and very well educated.
 * Her skilful management of the Lacock Abbey estate would mean that Henry would eventually face no financial problems.
-* Of course Lady Elizabeth's family owned a number of properties and Henry and his mother lived in a number of these at different times.
-* He was a devoted step-father to Henry who never lacked a father's love from that time.
 * In 1810 Henry went to Harrow school where he remained until 1815 after which his preparation for university was completed with two years private tuition at home.
 * Talbot received a healthy income from the estate.
 * Talbot wrote papers on elliptic integrals, building on work of Euler, Legendre, Jacobi and Abel.

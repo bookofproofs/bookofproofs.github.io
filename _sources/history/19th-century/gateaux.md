@@ -25,16 +25,12 @@ contributors: @Laurent-Mazliak,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Another very famous mathematician was born 222 years before Gateaux in the same small town, Abraham de Moivre, who had to leave for London where he spent all his outstanding scientific career.
 * Not much is known about René's parents.
-* His father Henri Eugène Gerasime was born in 1860.
-* The couple had two children; René was the elder, the second one, Georges was born four years later on 27 August 1893.
-* René's father died young, on 28 July 1905, aged 44.
 * We do not know precise details of the school career of René Gateaux.
 * On 24 February 1906, Gateaux signed a letter to the Ministry of Education to get permission to sit for the examination for admission to the École Normale Supérieure (science division) in 1906, though he had not attained the regular minimum age of 18 (he was to be 17 in May 1906).
 * In October 1907, Gateaux entered the École Normale Supérieure, which was in these years the very centre of intellectual life in France.
 * It is without noise that Gateaux's personality blossomed, following the way he judged to be the best possible, and his personality unceasingly and smoothly strengthened.
 * During his second year at the École Normale, Gateaux became a member of the Roman Catholic Church.
 * A strong Catholic group attended the École Normale in these days (let us only mention Pierre Poyet, one of Gateaux's comrades among the 1907 pupils, who took orders and became a Jesuit) and Gateaux had certainly the occasion to move in these circles.
-* This beautiful childish ingenuousness is what was most impressive in Gateaux and this is probably why he acceded so easily to a religious life.
 * In 1910, Gateaux passed the agrégation of mathematical sciences.
 * On July 8th , 1912 a ministerial decree appointed Gateaux as Professor of Mathematics at the Lycée of Bar-le-Duc, the main town of the département of Meuse, 250 km east of Paris, and not very distant from his native Vitry-le-François.
 * Nevertheless, before taking up this post, Gateaux had the boring but necessary task to fulfil his military obligations.
@@ -47,10 +43,11 @@ contributors: @Laurent-Mazliak,bookofproofs
 * A David Weill grant was awarded to Gateaux for the year 1913-1914.
 * As he exposed them in a letter to Volterra, we know precisely what were the mathematical aims of Gateaux when he went to Rome.
 * Gateaux considered two main points of interest for his future researches.
+* In a last paragraph, Gateaux mentions the possible applications of such an integration of functionals, such as the residue theorem ...
 * About Gateaux's stay in Rome, we do not have many details.
 * An interesting document, found among the documents of the Académie des Sciences in Paris, is the draft of a report Gateaux had to write at the end of his visit, probably for the David Weill foundation.
-* As Gateaux only mentions that he followed two of Volterra's lectures in Rome (one of Mathematical Physics, the other about applications of functional calculus to Mechanics), it is probable that the delay refers to Volterra's political involvements as Senator.
 * Gateaux seems to have worked quite actively in Rome.
+* Moreover, on the postcard sent by Borel to Volterra on 1 January 1914 with his best wishes for the new 1914 year (a sentence which sounds strange to the ears of one knowing what was going to happen soon ...), Borel mentioned how he was glad to learn that Volterra was absolutely satisfied with Gateaux in Rome.
 * On 14 February 1914, Gateaux delivered a lecture at Volterra's seminar; his lecture notes were kept among his papers.
 * Gateaux mainly dealt with the notion of functional differentiation.
 * Gateaux probably came back to France at the beginning of the summer, in June 1914.

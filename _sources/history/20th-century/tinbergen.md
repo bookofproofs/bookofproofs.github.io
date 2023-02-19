@@ -23,21 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jan Tinbergen** was a Dutch economist who was awarded the first Nobel Prize in Economics.
 
 ### Mathematical Profile (Excerpt):
-* Dirk Tinbergen married Jeannette van Eek (1877-1960), who was a primary school teacher before the marriage, in Scheveningen in 1902.
-* Jan, the subject of this biography, was the eldest of his parents' five children, four boys and one girl.
-* One of his younger brothers, Nikolaas Tinbergen (1907-1988), became a famous physiologist and won the Nobel Prize for physiology in 1973.
-* His youngest brother, Luuk Tinbergen (1916-1955), became a famous ornithologist.
 * Jan's other two siblings were Jacomiena (born 1905) and Dik (born 1909).
-* The mother, Jeanette van Eek, personified the order and regularity of the family in terms of both her modest way of conducting the Tinbergen household and her mathematical interest.
 * Jan attended primary school gaining a certificate stating he was "a most excellent pupil".
 * These schools allowed entry to the university system after passing additional examinations in Latin and Greek and this Tinbergen did.
-* However, Tinbergen also had political interests associated with his left wing views.
 * In fact some of Tinbergen's first publications were articles he wrote for the socialist newspaper Het Volk in which he examined the effects of the economic depression of 1920-22 on unemployment and how the lives of the poor had been affected.
 * After completing his undergraduate degree at Leiden, Tinbergen continued to study at Leiden for his doctorate under Ehrenfest's supervision.
 * Tinbergen was assigned to an administrative position at Rotterdam State prison where he was to serve for fifteen months.
-* His father, however, tried to get a better and more satisfying position for his son and, due to his intervention, it was agreed that Tinbergen could transfer to the Dutch government's Central Bureau of Statistics in The Hague.
 * Tinbergen submitted his thesis Minimumproblemen in de natuurkunde en de ekonomie Ⓣ(Minimum problems in physics and in economics) in 1929.
-* In the introduction Tinbergen thanks Ehrenfest for pointing out to him a topic which could allow him to combine mathematical theories with his political interests.
 * The importance of this work of Tinbergen was that it was one of the first examples of a new idea in mathematics, namely mathematical modelling.
 * Of course mathematical physics had been studied throughout the history of mathematics but Tinbergen's work saw a new path for the applications of mathematics, where the applications could be to a wide variety of areas.
 * Tinbergen, who had only just finished his dissertation and entered the staff of statisticians, was given charge of this new unit.

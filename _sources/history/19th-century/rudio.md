@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * At the time that Ferdinand was born, the Duchy of Nassau was an independent region under the rule of the Duke of Nassau having Wiesbaden as its capital.
 * However, in 1866, when Ferdinand was ten years old, the Duke supported Austria in the Seven Weeks' War so, after they lost to Prussia, the district was taken over by Prussia becoming the Hesse-Nassau region of that country.
-* Ferdinand had a good upbringing in a stable, comfortably-off, middle-class family.
 * It was only in the year before Rudio entered the Polytechnikum that Geiser had been appointed to a full professorship of higher mathematics and synthetic geometry, with special responsibility for teaching mathematics to engineering students and to mathematics students.
 * Rudio also had Kurt Culmann (1821-1881), Wilhelm Fiedler and Hermann Schwarz as lecturers.
 * From 1877 until 1880 Rudio studied at the University of Berlin where he attended the seminar of Eduard Kummer and Karl Weierstrass.
@@ -33,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1881 Rudio habilitated at the Eidgenössische Polytechnikum Zürich and became a privatdocent there.
 * Rudio gave a short biographical talk on Euler at the seminar, an event which in itself was pretty minor but would become much more significant 25 years later when Rudio published the text of his 1883 talk as part of the 1907 celebrations of the 200th  anniversary of Euler's birth.
 * In 1885, Rudio was promoted to extraordinary professor and, in 1889, he was appointed to a full professorship of mathematics.
-* Maria was from Rheinfelden, near Basle on the Swiss-German border; Ferdinand and Maria Rudio had three daughters.
 * He died in December 1893 and, in 1894, Rudio was appointed to fill this position as head of the library.
 * The chairman of the organising committee was Karl Geiser, who was elected president of the Congress, and Rudio was one of the two secretaries.
 * Rudio complemented this idea with the proposal of creating a biographical dictionary of current mathematicians, which would include portraits of the most important.

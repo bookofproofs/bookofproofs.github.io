@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * The Observatory measured the position of celestial objects for purposes of timekeeping and navigation and in 1904, six years before Ritt took a job there, the Observatory broadcast the world's first radio time signals.
-* Ritt really wanted to continue his education but he had to earn money to help with the family finances.
 * While he was in Washington D.C. Ritt did manage to continue his education as well as working at the Observatory.
 * He studied at the George Washington University (it had university status from 1873 but had adopted its current name only six years before Ritt began to study there).
 * He was awarded a B.A. in 1913 and, following the award, he took a summer graduate course at Columbia University (Columbia College had been renamed Columbia University in the year before Ritt took the course).

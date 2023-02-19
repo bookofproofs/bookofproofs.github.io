@@ -46,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Milnor's work has opened several new directions in this field, and has given us many basic concepts, challenging problems and nice theorems.
 * Milnor has received many awards and honours for his extraordinarily important contributions.
 * Milnor has written eight important books: Morse theory (1963); Lectures on the h-cobordism theorem (1965); Topology from the differentiable viewpoint (1965); Singular points of complex hypersurfaces (1968); Introduction to algebraic K-theory (1971); (with Dale Husemoller) Symmetric bilinear forms (1973); (with James D Stasheff) Characteristic classes (1974); and Dynamics in one complex variable (1999).
-* There were several reasons for moving there, one being Dusa McDuff with whom Milnor had been friends for many years and eventually married.
 * She had been appointed to the University of Warwick in 1976 but resigned her tenured post there two years later and accepted an untenured post at the State University of New York at Stony Brook so that she could be close to Milnor.
 
 Born 20 February 1931, Orange, New Jersey, USA.

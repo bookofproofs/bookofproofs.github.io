@@ -23,19 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Pelageia Kochina** was a Russian applied mathematician, known for her work on fluid mechanics and hydrodynamics.
 
 ### Mathematical Profile (Excerpt):
-* Pelageia was the second eldest of the family of four children, having one older and one younger brother and a younger sister.
 * It was in Astrakhan, the city of her birth, that Pelageia began her schooling.
-* At first she was supported by her family but her father Yakov Stepanovich died in 1918 and so Pelageia Polubarinova took a job at the Main Geophysical Laboratory to bring in enough money to allow her to continue her education.
 * Pelageia Polubarinova recovered and went on to complete her degree course, graduating with a degree in pure mathematics in 1921.
 * After graduating Pelageia Polubarinova continued working at the Main Geophysical Laboratory under A A Friedmann.
 * It was this work with Friedmann which turned Pelageia Polubarinova's interests towards hydrodynamics and this would be the focus of much of the work she undertook throughout her life.
 * As an undergraduate he had already met Pelageia Polubarinova and the two found that they had much in common for Kochin's research was on meteorology, gas dynamics and shock waves in compressible fluids.
-* In 1925 Pelageia Polubarinova and Nikolai Yevgrafovich Kochin married by simply registering the event.
-* Kochina had two daughters Ira and Nina following her marriage.
 * Kochina gave up the teaching that she had been doing and turned her attention to full time research.
 * Kochina continued her researches in the Mechanics Institute and in the following year she was awarded a Doctorate in Physical and Mathematical Science.
 * Of course the year 1940 when Kochina received her doctorate was after the start of World War II.
-* The German armies reached the outskirts of Moscow in late 1941 and Kochina and her two daughters were evacuated to Kazan.
 * By 1943 the German army had suffered defeats by Soviet troops and Moscow was safe enough for Kochina to return.
 * At the time of his death he had been in the middle of lecture courses and Kochina took over the courses and completed delivering them.
 * On the 4 December 1946 Kochina was elected a Corresponding Member of the Division of Technical Sciences of the USSR Academy of Sciences.

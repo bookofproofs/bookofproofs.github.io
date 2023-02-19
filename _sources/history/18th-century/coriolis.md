@@ -24,11 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Gaspard-Gustave Coriolis was born in June 1792 and on 21 September of that year the monarchy was abolished.
-* Coriolis's father fled to Nancy where he became an industrialist.
 * Coriolis was brought up in Nancy and attended school there.
 * He sat the entrance examination for the École Polytechnique in 1808 and he was placed second of all the students entering that year.
 * On graduating he entered the École des Ponts et Chaussées in Paris.
-* After his father died Coriolis had to support the family and, with his health already poor, he decided to accept a post in the École Polytechnique in 1816 tutoring analysis.
 * He had been recommended for this position by Cauchy.
 * Coriolis became professor of mechanics at the École Centrale des Artes et Manufactures in 1829.
 * Coriolis was offered Cauchy's position at the École Polytechnique but by this time he was highly involved in his research and decided not to take on any further teaching duties.

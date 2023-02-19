@@ -23,13 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Norman Levinson** was an American mathematician who worked with Fourier transforms, complex analysis, non-linear differential equations, number theory and signal processing.
 
 ### Mathematical Profile (Excerpt):
-* Norman's mother was illiterate but, despite the poverty, she managed to feed Norman and his sister Pauline.
-* Norman's father changed jobs, working for Forbes Lithograph, and the family bought a little house in Revere.
-* Norman's mother did a remarkable job of providing for the family, planting fruit trees and vegetables behind the house.
-* Norman attended Revere High School but the family doctor said that as he suffered from rheumatic fever he should not take any physical exercise.
 * These school years were not easy for Norman but he helped his fellow pupils with their homework which put him on good terms with them.
 * These years had a lasting effect on Norman, however.
-* To try to help the family finances, Norman worked in the evenings in a grocery store while studying at Revere High School.
 * Levinson entered the Massachusetts Institute of Technology in 1929 but he did not register for a mathematics degree, rather he studied for a degree in Electrical Engineering.
 * The turning point in Levinson's studies had come when he signed up for Wiener's graduate course on Fourier series and integrals in 1933-34.
 * After the award of his Master's degree in electrical engineering, Levinson applied to MIT to begin studying for his doctorate in mathematics.
@@ -45,14 +40,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The university's provost, Vannevar Bush, turned down Wiener's recommendation that Levinson be offered a position as Instructor but Hardy, on a visit to MIT, went with Wiener to the provost's office to protest against the decision.
 * If it isn't, why not hire Levinson.
 * Levinson was appointed as an Instructor at MIT in February 1937 having been released from his Fellowship by Princeton before its term was complete.
-* Levinson was promoted to Assistant Professor in the year that his first daughter was born.
 * In 1940 Levinson published Gap and density theorems in the American Mathematical Society Colloquium Publication Series.
 * subsumes much of Levinson's brilliant early research in harmonic and complex analysis.
 * By 1954 Levinson had been a professor for five years.
 * Levinson believed in employment for all, fighting anti-Semitism, and fighting discrimination against blacks.
 * When he learnt of the direction that Stalin had taken Communism in Russia, Levinson left the American Communist Party.
 * The Committee demanded that Levinson name other members of the American Communist Party but, although he agreed to talk freely about what he did as a member of the Party, he refused to name others since he knew the consequences that would have.
-* It did mean some difficult years for Levinson and his family, but they came through them.
 * Let us return to discuss further Levinson's mathematical contributions.
 * Levinson wrote only two papers on time series, but these had a large impact.
 * The horseshoe map was directly stimulated by Levinson's research on forced periodic oscillations of the Van der Pol oscillator, and specifically by his seminal work initiated by Cartwright and Littlewood.

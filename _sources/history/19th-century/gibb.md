@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **David Gibb** graduated from Edinburgh University and went on to become a lecturer and reader there.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Joanna Gibb (born Largo, Fife about 1855).
 * David Gibb had younger siblings: Edith (born about 1881), William (born about 1886) and Annabella (born about 1890).
 * David Gibb's home was Bellavue, Innerleven, Methil, Fife.
 * In his first year of study at university, Gibb took courses in Mathematics and Natural Philosophy at the Ordinary level passing Mathematics with the excellent mark of 89% but finding Natural Philosophy somewhat harder with a pass at 57%.

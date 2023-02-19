@@ -24,15 +24,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * George Jeffery Sr had been born in Southwark, Surrey, England in about 1865.
-* George and Elizabeth married in 1889 in St Saviour, Southwark, London.
-* George Barker Jeffery, the subject of this biography, was born shortly after the 1891 census.
 * His siblings were Elizabeth McDonald McKenzie Jeffery (born about 1893), David Leslie Geoffrey Jeffery (born about 1895), and Mary Christina Jeffery (born about 1897).
 * Let us note here that Elizabeth McDonald McKenzie Jeffery, also born in Lambeth, became a clerk for a Mechanical Engineering company while David Leslie Geoffrey Jeffery, again born in Lambeth, became a clerk for a shipping agency.
 * Mary Christina Jeffery was born in Brixton, London.
 * George Barker Jeffery was educated at Strand School, a boys grammar school in the basement of King's College in London's Strand, and at Wilson's Grammar School, Camberwell.
 * After schooling, Jeffery entered University College London in 1909 without a scholarship but his work in mathematics was so outstanding that at the end of his first year he was elected to a scholarship.
 * He returned to University College where, after the award of his B.Sc. in 1912, he became a research student and assistant to Louis Napoleon George Filon.
-* In 1915 Jeffery married Elizabeth Schofield in Blackburn, Lancashire; they had one son and two daughters.
 * Jeffery had begun publishing on relativity in 1920 with the paper On the path of a ray of light in the gravitation field of the sun, followed by The gravitational field of a particle on Einstein's theory (1921), and The identical relations in Einstein's theory (1922).
 * In 1924 Jeffery published the book Relativity for Physics Students.
 * The first chapter was an Introduction consisting of Jeffery's Inaugural Lecture mentioned above.

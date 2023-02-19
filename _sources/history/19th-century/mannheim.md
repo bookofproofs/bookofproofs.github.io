@@ -40,8 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After graduating from the École d'Application in Metz, Mannheim became an officer of the French artillery.
 * After several years in the military, Mannheim was appointed to the École Polytechnique in Paris, while continuing his army career.
 * In the following year Mannheim was appointed as Professor of Descriptive Geometry at the École Polytechnique.
-* On 12 August 1868 Mannheim married Eugénie Adèle Mathilde Oulif (1838-1906).
-* They had two children (and perhaps more), namely Nelly Mannheim (28 September 1869-4 December 1941) and Charles Amédée Mannheim (18 March 1872-31 October 1943).
 * We mentioned above that Charles Nicolas Peaucellier was a fellow student of Mannheim's at the École Polytechnique.
 * Like Mannheim, he made a career in the French army.
 * Inspired by Mannheim, in 1864 he reported on his invention of a mechanism to convert rectilinear motion into circular motion.

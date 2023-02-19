@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Raymond Wilder** was an American mathematician who worked in topology as well as producing works on philosophy.
 
 ### Mathematical Profile (Excerpt):
-* Music played a large part in the family, and Raymond learnt to play the piano, in particular playing to accompany silent films in local cinemas.
 * Wilder then taught mathematics at Brown during 1920-21 while studying for his master's degree in actuarial mathematics which he received in 1921.
 * Wilder moved to the University of Texas in 1921 where again he was appointed as an instructor while he worked for his doctorate.
 * After Wilder persuaded Moore to let him take the course, Moore proceeded to ignore him until he solved one of the hardest problems Moore posed to the class.
@@ -38,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Wilder's ideas continued to develop along the lines of cultural anthropology.
 * In 1981 Wilder published another major text Mathematics as a cultural system  which has a similar title to the talk he gave to the International Congress of Mathematicians thirty years earlier.
 * After Wilder retired from the University of Michigan in 1967 he moved to the University of California at Santa Barbara.
-* At the time of Wilder's death in Santa Barbara there were 23 grandchildren and 14 great-grandchildren in his family.
 * Wilder contributed much to American mathematics.
 * Wilder played a major role in the Mathematical Association of America being its president during 1965-66.
 

@@ -24,18 +24,10 @@ contributors: @Natalie-English,@J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Miles Beale was enthusiastic about English literature, particularly Shakespeare, and he even delivered lectures on Shakespeare in Chelsea.
-* Miles Beale's wife, Dorothea, had relatives who had a strong influence of the education of the children.
-* Miles and Dorothea Margaret Beale had eleven children, six boys and five girls.
-* Dorothea, the subject of this biography, had two older sisters and one older brother.
-* Until the age of seven, Dorothea had lessons with her mother, then with a governess and, when this lady married, her father became her teacher.
-* Dorothea was fortunate as her mother had been brought up in an educated household and was able to assess the quality of a new governess.
 * Up to the age of thirteen, Dorothea was partly educated at home but she also attended a boarding school in Stratford, Essex.
 * From age thirteen to sixteen Beale educated herself at home.
-* Although Beale's father considered arithmetic to be a waste of time, Beale's parents did not actively prevent her from learning mathematics.
 * So, during her three years of self-education, Beale taught herself arithmetic with Bishop Colenso's Arithmetic Exercises with Answers (1843).
 * Beale also attended the lectures by the Gresham Professor of Astronomy, Joseph Pullen, at Crosby Hall.
-* Beale's younger brothers attended Merchant Taylor's School, where the education was no better or worse than the other public schools of the time.
-* At the age of 16, Beale and her two older sisters were sent to a school for English girls in Paris which was run by Mlle Bray.
 * Despite being considered as offering the best education at the time in both English and French, Beale found the rote learning boring and uninspiring.
 * When Beale returned to England, she began studying at Queen's College, London.
 * Mathematics was Beale's subject of predilection; she received first-class teaching in mathematics from Thomas Astley Cock (approx 1811-1885).
@@ -49,7 +41,6 @@ contributors: @Natalie-English,@J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Beale had her work cut out bringing these girls up to standard in mathematics.
 * Beale was also an advocate of sending the girls down the path of discovery that had been pursued by the original investigators.
 * This had been a large part of Beale's own mathematical education; she had read mathematics books, attended lectures she was interested in, and solved problems on her own.
-* Beale's method of teaching mathematics was to interest the class in a mathematical problem, leave the minds of the children at the end of the class impressed and roused but still unclear about the solution.
 * Under Beale's leadership Cheltenham Ladies' College flourished.
 * By the time of Beale's death in 1906 there were nearly 1000 pupils at the school.
 * In 1864 the Schools' Inquiry Commission was set up to inquire into the condition of post-elementary education in the country and Beale was summoned to give evidence before the Commission on 19 April 1866.

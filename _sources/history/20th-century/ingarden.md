@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Roman Witold Ingarden studied philosophy and mathematics in Lemberg (now Lviv in Ukrain) and Göttingen, and received a doctorate in 1918 with Edmund Husserl as his advisor.
-* When Roman Stanisław, the eldest of his parents' three sons, was born his father was a secondary school teacher.
-* In 1924 Roman Witold habilitated at the University of Lwów (now Lviv in Ukraine) and it was in Lviv that his son Roman Stanisław was educated.
 * Although he had begun teaching at the University of Lviv in 1928, Schauder had continued with his position as a secondary school teacher which greatly benefitted the young Ingarden.
 * Ingarden studied for six years at the Third National Gymnasium, then spent the years 1936-38 at the National Gymnasium.
 * Ingarden continued his studies for a while but soon things changed again for, on 22 June 1941, Germany invaded the Soviet Union.
@@ -35,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Ingarden did not remain for long at the Silesian University of Technology for, on 20 August 1945, he moved to the Department of Theoretical Physics, University of Wrocław, where he was appointed as an assistant.
 * Ingarden obtained a Master's degree from the Jagiellonian University in Kracow in 1946 and then worked for his doctorate supervised by Rubinowicz.
 * Ingarden discussed with Aleksander Jablonski, the founder of physics research at the Nicholaus Copernicus University at Toruń, a possible move to the Nicolaus Copernicus University.
-* This University, established in the autumn of 1945, is the largest university in northern Poland and Ingarden had a particular love of Toruń since he had lived there as a young child.
 * At the Nicholas Copernicus University, Ingarden was director of the Institute of Physics (1969-1986), held the Chair of Thermodynamics and the Theory of Radiation (1966-1969) and the Chair of Theoretical Physics (1969-1986).
 * In 1970 Ingarden founded the journal Reports on Mathematical Physics.
 * We must mention Ingarden's fascination with Japan and all things Japanese.

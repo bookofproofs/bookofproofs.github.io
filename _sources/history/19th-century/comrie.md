@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Peter Comrie** graduated from St Andrews and after a series of teaching posts became Rector of Leith Academy.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Elizabeth Ritchie and his father was Peter Comrie, a master blacksmith in the village.
 * Comrie received his school education at Muthil School and then at Morrison's Academy, Crieff, Perthshire.
 * Comrie was awarded the Carstairs Prize (awarded to the best mathematics student in each of the three years) in 1892, the Gray Prize (awarded for an essay on a prescribed subject) in 1891, and the Arnott Prize (awarded on examination in Natural Philosophy at the end of the session) in 1892.
 * Comrie was elected a Fellow of the Royal Society of Edinburgh on 15 March 1909 having been proposed by Sir James Donaldson, P R Scott Lang, James Gordon MacGregor, and George A Gibson.

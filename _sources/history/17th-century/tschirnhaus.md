@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ehrenfried Tschirnhaus** was a German mathematician who worked on the solution of equations and the study of curves. He is best known for the transformation which removes the term of degree _n_-1 from an equation of degree _n_.
 
 ### Mathematical Profile (Excerpt):
-* He was the youngest son and seventh child of his parents Christoph von Tschirnhaus and Elisabeth Eleonore Freiin Achyll von Stirling.
-* When Tschirnhaus was six years old his mother died but he was brought up by a loving stepmother.
 * In 1672 war broke out between Holland and France and Tschirnhaus enlisted in the student force.
 * Tschirnhaus began a European tour in 1674.
 * Tschirnhaus became a regular participant in the debating club which Spinoza ran and this gave him the desire to run an Academy which he later tried to set up.
@@ -36,9 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * While making this long journey, Tschirnhaus continued to report his observations and discoveries to Leibniz by letter, receiving helpful replies.
 * In his letter Leibniz also criticises Tschirnhaus's solution of algebraic equations.
 * After ending his long journey in 1679, Tschirnhaus lived for a time back in his home town of Kieslingswalde.
-* Also in 1682 he married Elisabeth Eleonore von Lest in Kieslingswalde.
-* In 1684 Tschirnhaus's father died leaving him the family estate at Kieslingswalde.
-* Tschirnhaus's wife took over managing the estate to allow him the time to continue his scientific researches.
 * Tschirnhaus worked on the solution of equations and the study of curves.
 * Nevertheless Tschirnhaus published his transformation in Acta Eruditorum in 1683 and, in this article, showed how it could be used to solve the general cubic equation.
 * Around this time Tschirnhaus was planning to write a major work explaining his philosophy.
@@ -48,7 +43,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After the publication of Medicina mentis Ⓣ(Philosophy of the mind), Fatio de Duiller correctly claimed that a method presented by Tschirnhaus in the book to find tangents to curves was incorrect.
 * As well as his work in philosophy and mathematics, Tschirnhaus was a scientist, and among other things, he experimented making porcelain from clay mixed with fusible rock in the 1680s.
 * Glass factories were established in Dresden and Glücksburg around 1699 and their construction was supervised by Tschirnhaus.
-* Tschirnhaus's wife Elisabeth had died in 1692 and in February 1704 he remarried, his second wife being Elisabeth von der Schulenburg zu Mühlbach.
 * This put Tschirnhaus in considerable difficulty regarding his porcelain factories.
 * There was great competition from governments to obtain his porcelain techniques but Tschirnhaus kept them to himself and ended his life deeply in debt.
 * Only days after this breakthrough, Tschirnhaus succumbed to dysentery and died.

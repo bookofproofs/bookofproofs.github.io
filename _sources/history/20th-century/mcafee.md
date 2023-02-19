@@ -23,11 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Walter McAfee** was an African-American scientist and astronomer, best known for his part in the world's first lunar radar echo experiments.
 
 ### Mathematical Profile (Excerpt):
-* Luther McAfee's father was a minister in the Colored Methodist Episcopal Church which had originated from a movement begun in 1866 within the Methodist Episcopal Church, South, from which the black members set up an independent Church.
 * Luther McAfee had been educated at Texas College, which was run by the Colored Methodist Episcopal Church, and then became a carpenter.
-* Walter's mother Suzie was the daughter of a farmer.
-* She came from a well-educated family with one of her brothers, an uncle of Walter, was a medical doctor who had first been awarded a Bachelor's Degree.
-* Walter McAfee was the second of his parents nine children.
 * Walter attended High School in Marshall graduating in 1930.
 * McAfee was awarded a Bachelor's Degree with distinction from Wiley College June of 1934 and began to look for jobs.
 * McAfee was only 19 years old so did not worry too much when he did not quickly find a teaching job.

@@ -23,12 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Joao Baptista Lavanha** was a Portuguese engineer who wrote on mathematics and navigation.
 
 ### Mathematical Profile (Excerpt):
-* His father, Luis de Lavanha, was a gentleman in the Portuguese Court while nothing is known of his mother except her name, D Jerónima Dança.
-* Nothing is known of Lavanha's childhood or is youth but he is said to have been sent by his patron, the king of Portugal D Sebastian (1554-1578), to study in Rome under the professor of mathematics there.
 * In an attempt to correct this, Philip founded an Academy of Mathematics in Madrid with Lavanha as its first professor.
 * Lavanha was appointed cosmographer to the king in 1591 (although he did not assume the full duties of that position for a few years) and about the same time he moved from Madrid to Lisbon where he taught mathematics to sailors and navigators.
-* Lavanha was given a special task of writing the history of the Spanish royal family.
-* In fact Lavanha himself had married in the 1590s.
 * Lavanha is best known for his contributions to navigation.
 * a work printed by Lavanha shortly after being appointed chief cosmographer of Portugal.
 * Lavanha gives rules for determining latitude and tables of declination of the Sun.

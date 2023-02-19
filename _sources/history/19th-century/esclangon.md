@@ -23,12 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ernest Esclangon** was a French astronomer and mathematician who worked on almost-periodic functions.
 
 ### Mathematical Profile (Excerpt):
-* François Honoré and Anais Désirée Esclangon had a son Joachim Étienne Esclangon (1863-1945) who married Joséphine Arnoux (1867-1961) on 29 April 1886; we mention him again below.
-* Anais Désirée died in 1865 and, on 11 October 1865, François Honoré Esclangon married the seamstress Marie Caroline Maigre (1845-1915).
-* François and Marie Esclangon had two sons and two daughters; Honoré Esclangon (born 1871), Ernest Esclangon (the subject of this biography, born 1876), Mazélie Esclangon (born 1876) and Louise Esclangon (born 1878).
 * Ernest was born in Misson which consisted of scattered hamlets and buildings in addition to three main villages.
-* Now Joachim Étienne Esclangon, Ernest's half-brother, became a schoolmaster at the College in Manosque, the largest town in Alpes-de-Haute-Provence about 50 km south of Sisteron.
-* This school is now known as the Lycée Félix Esclangon, named after Jules Félix Esclangon who was the son of Joachim Étienne Esclangon and born in 1905.
 * Ernest was educated at this school in Manosque before going to the Lycée in Nice to prepare for entry into the Grand Écoles of Paris.
 * Although Esclangon accepted a post at the university observatory, he continued to work on mathematical topics for his doctorate and also taught mathematics at the Faculty of Sciences at Bordeaux University.
 * As was standard procedure at the time, candidates for a doctorate had to submit a second thesis and Esclangon's second thesis was Théorie des tourbillons Ⓣ(Theory of vortices); it was not published.

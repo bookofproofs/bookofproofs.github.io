@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Richard Sleeman (1904-2002) was born in Launceston, Cornwall on 6 October.
 * Brian Sleeman was educated in London and attended the Battersea College of Technology (now the University of Surrey), being awarded a B.Sc. in 1963.
-* On 7 September 1963 he married Juliet Mary Shea; they have three children, Elizabeth Anne Sleeman, Matthew Alexander Sleeman, and David James Sleeman.
 * Continuing his studies in London, Sleeman undertook research at the University of London advised by Felix Medland Arscott.
 * Sleeman was awarded a Ph.D. in 1966 for his thesis Some Boundary Value Problems Associated with the Heun Equation.
 * Sleeman's address on this paper, when it was submitted on 11 October 1965, was Department of Mathematics, Battersea College of Technology, London.

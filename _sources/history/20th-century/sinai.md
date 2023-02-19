@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Yakov Grigorevich Sinai **is a Russian mathematician known for his work on dynamical systems.
 
 ### Mathematical Profile (Excerpt):
-* However the family had strong mathematical connections since Yakov Grigorevich's grandfather (Nadezda Kagan's father) was Benjamin Fedorovich Kagan, the Head of the Department of Differential Geometry at Moscow State University where he founded an important School of Differential Geometry.
 * He retired from his chair at Moscow State University in 1952, the year in which his grandson Yakov Grigorevich entered the Faculty of Mechanics and Mathematics.
 * Sinai's first advisor at Moscow State University was Nikolai Guryevich Chetaev who was an expert on analytical mechanics, particularly on stability of motion.
 * Sinai quickly became interested in the dynamical systems on which Chetaev worked.
@@ -47,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Statistical mechanics is one of the most active and rewarding areas of modern mathematics, and Yakov Sinai is its recognized leader today.
 * Many mathematical societies and academies have elected Sinai to membership or honorary membership: the American Academy of Arts and Sciences (1983); the USSR Academy of Sciences (1991); the London Mathematical Society (1992); the Hungarian Academy of Sciences (1993); the United States National Academy of Sciences (1999); the Brazilian Academy of Sciences (2000); the Academia Europaea (2008); and the Royal Society of London (2009).
 * Sinai has also been invited to give many prestigious lectures or lecture courses including: Loeb Lecturer, Harvard University (1978); Plenary Speaker at the International Congress on Mathematical Physics in Berlin (1981); Plenary Speaker at the International Congress on Mathematical Physics in Marseilles (1986); Distinguished Lecturer, Israel (1989); Solomon Lefschetz Lectures, Mexico (1990); Plenary Speaker at the International Congress of Mathematicians, Kyoto (1990); Landau Lectures, Hebrew University of Jerusalem (1993); Plenary Speaker at the First Latin American Congress in Mathematics (2000); Plenary Speaker at the American Mathematical Society Meeting "Challenges in Mathematics" (2000); Andreevski Lectures, Berlin, Germany (2001); Bowen Lectures, University of California at Berkeley (2001); Leonidas Alaoglu Memorial Lecture, California Institute of Technology (2002); Joseph Fels Ritt Lectures, Columbia University (2004); Leonardo da Vinci Lecture, Milan, Italy (2006); Galileo Chair, Pisa, Italy (2006); John T Lewis Lecture Series, Dublin Institute for Advanced Studies and the Hamilton Mathematics Institute, Trinity College, Dublin, Ireland (2007); and Milton Brockett Porter Lecture Series, Rice University, Houston, Texas (2007).
-* Yakov Grigorievich Sinai is married to Elen B Vul who is a mathematician and physicist.
 
 Born 21 September 1935, Moscow, Russia.
 

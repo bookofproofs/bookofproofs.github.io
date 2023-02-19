@@ -23,12 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Giovanni Saccheri** was an Italian Jesuit who did important early work on non-euclidean geometry.
 
 ### Mathematical Profile (Excerpt):
-* As a child Saccheri 'was notably precocious'.
 * The building in which Saccheri studied was designed by Bartolomeo Bianco and built around 1640; today it is called the Palazzo Balbi and forms the main building of the University of Genoa.
 * In this Jesuit College Saccheri taught grammar and studied philosophy and theology.
-* Tommaso had remained at the College and taught there for forty years, while his brother Giovanni Ceva had been appointed as mathematician to the Duchy of Mantua in 1684.
 * Both exerted a major influence on Saccheri, Tommaso through personal contacts at Brera College and Giovanni through correspondence.
-* Mathematics played an important part in the lives of both Ceva brothers, and they soon imparted this enthusiasm to Saccheri.
 * Perhaps Giovanni Ceva had the greatest mathematical influence for his passion for geometry, seen in his book De lineis rectis Ⓣ(Straight  lines) (1678), encouraged Saccheri to work in this area.
 * It was through the influence of Giovanni Ceva that Saccheri published his first mathematical work Quaesita geometrica Ⓣ(The search for geometry) (1693), although the book was also written with considerable advice and help from Tommaso Ceva.
 * In this book, which Saccheri dedicated to Guzman who was the governor of Milan, he solved many problems in elementary geometry.
@@ -43,7 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, Saccheri warns that other authors have not fully appreciated the distinction and have been led to false proofs by giving a definition which they assume to exist when in actual fact it is impossible.
 * In recognition of his appreciation of the appointment by the Senate of Milan, Saccheri dedicated his next work Neo-statica Ⓣ(Neo-statics), published in 1708, to them.
 * However, the main reason that Saccheri is remembered today is because of another work which was only rediscovered by Eugenio Beltrami 150 years after its first publication.
-* It is unclear whether Saccheri was aware of Omar Khayyam's Discussion of Difficulties in Euclid or whether his approach was totally innovative.
 * It matters little whether he was aware of Omar Khayyam's insights, for Saccheri's work is certainly a masterpiece.
 * Saccheri took a line segment, say ABABAB, with two equal segments ACACAC and BDBDBD each perpendicular to ABABAB.
 * Saccheri knew that if he could prove that the angles at CCC and DDD were right angles without using the Parallel Postulate, then he could deduce the Parallel Postulate from the other axioms.

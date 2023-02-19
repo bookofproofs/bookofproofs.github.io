@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Harold Davenport** worked on number theory, in particular the geometry of numbers, Diophantine approximation and the analytic theory of numbers. He wrote a number of important textbooks and monographs including _The higher arithmetic _ (1952).
 
 ### Mathematical Profile (Excerpt):
-* Nancy and Percy had two children, Harold having a younger sister Grace.
 * Harold attended Accrington Grammar School from the age of about ten years.
 * There were other subjects which interested Harold too, for he loved reading and read every Dickens classic that he could borrow from the local Public Library.
 * Davenport was most attracted by Littlewood's lectures on the theory of primes and those of Besicovitch on almost periodic functions.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Otto Bruun** was a Finnish statistician and president of the Finnish Statistical Society.
 
 ### Mathematical Profile (Excerpt):
-* The first Vice-President of the Society was Otto Bruun (1886-1969) who was a Finnish statistician, the son of Johan Edmund Bruun.
 
 Born 1886. Died 1969.
 

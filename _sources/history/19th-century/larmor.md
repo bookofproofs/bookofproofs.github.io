@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Joseph Larmor** worked on electricity, dynamics and thermodynamics.
 
 ### Mathematical Profile (Excerpt):
-* Anna Wright was the daughter of Joseph Wright, and Joseph Larmor was named after his maternal grandfather.
 * Hugh Larmor was a farmer at the time Joseph was born but he gave up farming when Joseph was around six or seven years old to become a trader with a grocer's shop in Belfast.
-* Joseph was the eldest of a large family.
 * By the time Joseph was of an age to attend school, his parents had moved to Belfast so it was in that city that he attended the Royal Belfast Academical Institution.
 * After leaving school, Larmor continued his education in Belfast, studying for his B.A. and M.A. at Queen's University, Belfast.
 * It is interesting to note that J J Thomson, who like Larmor would make an important contribution to the understanding of the electron, was Second Wrangler (taking second place in the Mathematical Tripos examinations to Larmor).
@@ -33,6 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Larmor's contributions came at a time when there were major revolutions in physics with the passing of classical physics to be replaced by quantum theory and relativity.
 * The main underlying idea was the principle of least action, which would be of fundamental importance in all Larmor's work throughout his career, and its implications were first set out by him in his paper Least action as the fundamental formulation in dynamics and physics which he published in the Proceedings of the London Mathematical Society in 1884.
 * During these three years (1894-97) the most basic principles of Maxwell's theory of electromagnetism were abandoned, and the entire subject was reconstructed on a new foundation - the electron - by Joseph Larmor in consultation with George FitzGerald.
+* Larmor initially tackled the problem of the earth's motion through physical optics and thermodynamics, but ...
 * In this specifically electromagnetic context, Larmor confronted the problem of the null result of the Michelson-Morley experiment, adopted the famous FitzGerald-Lorentz contraction hypothesis, and became the first physicist to employ what are now called the 'Lorentz' transformations.
 * Larmor wrote Aether and Matter in 1900 (renamed by Lamb Aether and no matter ) which was a winning entry for the Adams Prize at Cambridge in 1898.
 * Indeed, none of the recent scholarly studies of Larmor's scientific work even mention the now famous formulae and theorem.

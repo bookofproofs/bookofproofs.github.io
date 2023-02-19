@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Proclus was brought up at Xanthus, on the south coast of Lycia, where he attended school.
-* It was intended that Proclus should follow his father and enter the legal profession.
 * Proclus was not entirely satisfied with the education he was receiving in philosophy in Alexandria so, while still a teenager, he moved from Alexandria to Athens where he studied at Plato's Academy under the philosophers Plutarch of Athens and Syrianus (a pupil of Plutarch).
 * He progressed from being a student at the Academy to teaching there then, on the death of Syrianus, Proclus became head of the Academy.
 * At the Academy Proclus appears to have been well off and to have helped his friends and relations financially.

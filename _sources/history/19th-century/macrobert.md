@@ -25,11 +25,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * The Rev MacRobert was a minister in the church at Dreghorn, a position he held for 57 years.
 * The Rev MacRobert was also prominent in the Congregational Union and served as its President.
-* The political and religious influences on the young MacRobert as he grew up remained important factors throughout his life.
 * MacRobert entered the University of Glasgow in 1901.
 * After completing his undergraduate studies at Glasgow, MacRobert took the route many other leading Scots took at that time and followed his degree from a Scottish University with a degree at Cambridge.
 * MacRobert spent his whole career at Glasgow.
-* In 1914 MacRobert married Violet McIlreaith; they had one daughter and two sons.
 * From the description above it is clear that MacRobert was appointed to Glasgow without having undertaken research.
 * We should say something of MacRobert's involvement with three Scottish societies; the Edinburgh Mathematical Society, the Royal Society of Edinburgh and the Glasgow Mathematical Association.
 * After much discussion and changes in proposed publication strategy by the Society, MacRobert finally resigned from the Committee early in 1931 and later that year he withdrew Glasgow's invitation to hold meetings of the Society there.

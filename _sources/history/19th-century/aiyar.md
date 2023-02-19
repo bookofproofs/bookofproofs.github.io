@@ -24,13 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * We, however, will refer to him as Ramaswami throughout this biography.
-* His paternal grandfather, S Ramaswami Aiyar, had the degree of B.A. and became a District Collector of Coimbatore.
-* Ramaswami Aiyar's father died in 1872, when his young son was only around six months old.
-* Ramaswami Aiyar was bought up by one of his uncles, R Ramachandra Aiyar, who was an Executive Magistrate.
-* The pial schools, or tinnai schools, were places where the children were taught to repeat verses without understanding their meaning and pupils learnt little except how to read and write.
 * He was often found pouring over his books, while his companions were engaged in play and amusing themselves.
-* Ramaswami then began studying at Coimbatore college where he was taught mathematics by R Krishna Aiyar, another of his uncles.
-* Ramaswami then studied at Presidency College, Madras, graduating in 1890 with a B.A. Although he wanted to continue his education at this point, because of the poor financial circumstances of his family, he had to accept a poorly paid position as clerk in the Collectorate of the Indian Administrative Service.
 * The Editor of the Educational Times addressed him as "Professor Ramaswami", judging from his contributions that he should be a College Professor.
 * This title of 'Professor' stuck to him ever afterwards.
 * In 1893 Ramaswami was awarded a Master's Degree and in August 1894 he sat the Mysore Civil Service Examination along with his friend C Hanumantha Rao, also a graduate of Presidency College, Madras.
@@ -62,7 +56,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Ramaswami served as President of the Indian Mathematical Society in 1926-30.
 * Ramanujan's only recommendation was his 'Ponderous' Note-book, which has now become famous and is preserved in the Madras University Library.
 * It was little known at that time that the notebook contained anything of value.
-* On pursuing the contents of the Note-Book, Ramaswami Aiyar was struck by the extraordinary results recorded therein, and declining to smother his genius by an appointment in his department, recommended him to his mathematical friends in Madras holding high positions.
 * The story is well-known how eventually Ramanujan was made a Research Student of the Madras University, was deputed to the Cambridge University and achieved distinction as the Greatest Indian Mathematician.
 * those remarkable notebooks in which he had recorded the numerous results of his discoveries.
 * There was little or no explanation given but the results were of a very striking character.

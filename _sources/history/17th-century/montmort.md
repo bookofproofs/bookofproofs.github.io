@@ -24,31 +24,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * His parents were François Rémond, Sieur de Breviande, and Marguerite Rallu.
-* Pierre was born into a noble well-off family and was the second of his parents three sons.
 * François Rémond was said to be very severe and very uncompromising.
-* His advice to his son Pierre was that he should study law and François had everything organised for his son with a vacant magistracy ready for him to step into after he had qualified.
-* Pierre, however, was rebellious and chose not to follow his father's advice.
 * Tired of studying law, he left home at the age of eighteen and decided to go abroad.
 * The Treaty of Ryswick, signed in September 1697, ended the Nine Years' War between France and the forces of England, Spain and the Netherlands.
 * One result of this treaty was the Frenchmen could travel freely in Europe and Pierre took full advantage of this.
 * He visited his cousin, M de Chamoys, in Regensburg in Germany.
 * M de Chamoys was a French representative on the Diet of Regensburg.
 * While living in M de Chamoys' home he found Malebranche's La Recherche de la Vérité Ⓣ(The Search for Truth) in his cousin's library and read the book.
-* Rémond decided that he should make his peace with his father.
 * By the age of 21 he was back in France where he began to study under Malebranche.
-* His father died in the following year and so at the age of 22 Rémond found himself a very wealthy young man.
 * Particularly given Rémond's earlier behaviour, one might have expected him to live a life of leisure once he had the financial means to do so.
 * Malebranche taught Rémond philosophy and Descartes' physics.
 * Rémond went on to study the latest mathematics, in particular studying algebra and geometry with M Carré and M Guisnée.
 * For three years he and another young mathematician François Nicole (1683-1758), together taught themselves about the latest mathematical developments.
 * In 1700 he made a second visit to London and at this time he briefly met with Isaac Newton.
-* Returning to France, he followed the advice of his brother and accepted an appointment as a canon at Notre Dame de Paris.
-* We already mentioned that soon after Rémond returned to France in 1699 he came into a large inheritance from his father.
 * In 1704, he used this wealth to purchase an estate at Montmort (and therefore became Pierre Rémond de Montmort).
 * From this point on we shall refer to him as Montmort.
-* He also used his wealth to aid science, for example in 1709 he arranged and paid for the printing 100 copies of Isaac Newton's De Quadratura Ⓣ(On integration).
 * He lived most of his life in the Château de Montmort on his estate and often invited top mathematicians to visit him.
-* In 1706 Montmort married Mademoiselle de Romicourt, the niece of the Duchess of Angouleme.
 * The Duchess of Angouleme lived at the Château Mareuil, a neighbouring property to the estate at Montmort, and Montmort had met the Duchess's niece while making a courtesy call on his neighbours.
 * Before his marriage, he had given up his position as canon at Notre Dame de Paris.
 * Montmort's reputation was made by his book on probability Essay d'analyse sur les jeux de hazard Ⓣ(Essay on the analysis of gambling) which appeared in 1708.
@@ -80,7 +71,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At a time of high feelings in the Newton-Leibniz controversy it says a lot for Montmort that he could be close friends with followers of both camps.
 * Montmort had been elected to be a Fellow of the Royal Society of London in 1715 while he was on this trip to England.
 * He was elected an associate member of the Académie Royal des Sciences in 1716.
-* The correspondence between Montmort and Taylor goes far beyond the discussion of scientific topics, and Montmort wrote about intimate family matters.
 * This close friendship did not stop them carrying out a fascinating discussion regarding the merits of the physics of Descartes and that of Newton.
 * We are as divided on physics as theologians, but at least we can see a bit more clearly in science than in religion.
 * You deserve good proofs.

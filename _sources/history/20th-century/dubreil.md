@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Paul Dubreil** was a French mathematician who worked in algebraic geometry. He was married to fellow mathematician Marie-Louise Dubreil-Jacotin.
 
 ### Mathematical Profile (Excerpt):
-* Paul had an older sister Marie-Rose Dubreil, born in Le Mans on 5 October 1900.
-* Léon-René Dubreil's second child was Paul Dubreil, the subject of this biography, who was three and a half years younger than his sister.
 * These were difficult times for the young Dubreil who was fourteen years old when the war ended.
 * Graduating from the lycée Montesquieu in 1921, Dubreil went to Paris where he studied at the Lycée St Louis, preparing for the entrance examinations to one of the École Normale Supérieure or the École Polytechnique.
 * Not only did Dubreil have outstanding teachers at the École Normale Supérieure, but he also had some excellent mathematicians as fellow students including René de Possel and Pierre Honnorat.
@@ -38,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In Frankfurt, Dubreil also met Max Dehn and his students Wilhelm Magnus and Ruth Moufang.
 * Dubreil returned to Paris briefly to defend his doctoral thesis Recherches sur la valeur des exposants des composants primaires des ideaux de polynomes Ⓣ(Research on the value of the exponents of the primary components of the ideals of polynomials) in October 1930.
 * Certainly Dubreil was going to get the most out of his Rockefeller scholarship and he next went to Rome where he discussed problems with the geometers Guido Castelnuovo, Federigo Enriques and Francesco Severi.
-* In Rome, Dubreil and his wife lived in the Hotel Vittoria on the Via Sardegna in the Pincio district.
 * While in Rome, Dubreil was invited to a dinner given by Levi-Civita in honour of Solomon Lefschetz who, along with his wife, was spending a sabbatical year in Europe.
 * Dubreil's main interest at that time was algebraic varieties and he believed that he had learnt most from Noether so, before returning to France, his final visit was again to Göttingen to visit Noether.
 * Once there, he met Lars Ahlfors who, like Dubreil, was supported with a Rockefeller scholarship.
@@ -50,7 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Anatoly Malcev, Alfred Clifford and Dubreil became major figures in the new subject.
 * He was directing a large number of theses, and the weekly meetings of the Dubreil-Pisot seminar were rallying points of researchers, coming even from distant universities to listen to a very wide variety of guest lectures.
 * In 1946 Dubreil published his book Algèbre.
-* In collaboration with his wife Marie-Louise Dubreil-Jacotin, he published Leçons d'algèbre moderne Ⓣ(Lessons in modern algebra) in 1964.
 
 Born 1 March 1904, Le Mans, Maine, France. Died 9 March 1994, Soisy sur École (near Paris), France.
 

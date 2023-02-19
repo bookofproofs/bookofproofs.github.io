@@ -23,15 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jacques Français** was a French mathematician who published a version of Argand's work on complex numbers.
 
 ### Mathematical Profile (Excerpt):
-* The brothers were the children of Jacques Frédéric Français, who was a grocer in Saverne, and Maria Barbara Steib.
 * Jacques entered the College at Strasbourg and excelled in his studies there.
-* Jacques' brother François Français also joined the government army in 1793 which was being assembled to put down the rebellion.
 * In September 1794 Jacques Français became an assistant in the engineering corps.
 * In the autumn of 1797, when François Français left the army, Jacques Français entered the École Polytechnique and in the spring of the next year he moved to the École du Génie.
 * We discuss below the mathematics which Jacques Français produced at this time due mainly to the encouragement of Malus.
 * By 1810 Français had reached the position of first in command at the staff headquarters of the École d'Application in Metz and, in 1811, he was appointed professor of military art in Metz.
 * The first mathematics memoir which Jacques Français seems to have written was submitted in 1800.
-* Although with encouragement from Malus Jacques Français had begun to publish mathematics, a second boost to his mathematics occurred after the death of his brother François Français.
 * In September 1813 Français published a work in which he gave a geometric representation of complex numbers with interesting applications.
 * This was based on Argand's paper which had been sent, without disclosing the name of the author, by Legendre to François Français.
 * This changed after Français' paper since a vigorous discussion between Français, Argand and Servois took place in Gergonne's Journal.

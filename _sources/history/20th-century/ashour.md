@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Attia Ashour** was an Egyptian mathematician who worked in electromagnetism.
 
 ### Mathematical Profile (Excerpt):
-* Attia's father was a farmer and the family lived in a house just outside the southern side of Damietta, surrounded by fields.
-* At this stage his father was keen that Attia, as the eldest boy, should finish his education at this stage and work on the farm with him.
 * Ashour moved to Cairo to continue his education.
 * The standard course was for four years of secondary education which Ashour completed in 1939.
 * At this stage Ashour had to make a decision as to what subjects to study at university.

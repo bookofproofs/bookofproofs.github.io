@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Whatever be the other effects, it certainly led to an increased awareness and appreciation of the rich mathematical heritage of India and a renewal of interest in the study of mathematics.
 * This renaissance in Tamil Nadu showed itself in the coming up of a number of gifted teachers, well versed not only in mathematics, but also in the mathematical legacy of the country.
 * A A Krishnaswami Ayyangar was prominent among them.
-* Krishnaswami Ayyangar married Seshammal and they had four sons, A K Srinivasan, A K Ramanujan, A K Rajagopal, A K Vasudevan, and two daughters Mrs Vedavathi Bhogishayana and Mrs Saroja Krishnamurthi.
 * In 1918 Krishnaswami Ayyangar left Chennai and joined the Mysore Educational Service and worked in the Mathematics Department of Maharaja College.
 * He also worked for some time as a Reader in the Department of Statistics, Andhra University at Waltair.
 * During nearly three decades during which he taught and undertook research at Mysore he made many contributions to geometry, statistics, astronomy, the history of Indian mathematics, and other topics.

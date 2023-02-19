@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Wilhelm Schickard** was a German astronomer who invented a calculating machine long before Pascal. He worked on astronomy, mathematics and surveying.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Margarete Gmelin, the daughter of a Lutheran pastor, and his father was Lucas Schickard.
-* The Schickard family was originally from the County of Nassau but had moved south in the middle of the 15th  century.
-* Lucas Schickard's father, who was a sculptor, had settled in Herrenberg about 30 km south of Stuttgart.
-* Lucas Schickard trained to be a carpenter, as did his brother Heinrich Schickard, who was Wilhelm's uncle.
 * Heinrich Schickard became an architect and went on to become the main architect of the Renaissance in south-western Germany.
 * Wilhelm was brought up in Herrenberg but, at an early age, won a scholarship to attend the monastery school in Bebenhausen, just north of Tübingen.
 * In 1613 Schickard became a Lutheran minister and was assigned to churches in towns around Tübingen.
@@ -49,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We should note that, at a time when the Church was trying to insist that the Earth was at the centre of the universe, Schickard was a staunch supporter of heliocentric system.
 * We have mentioned above Schickard's correspondence with Kepler but he corresponded with many other astronomers including Ismael Boulliau and Pierre Gassendi.
 * The Thirty Years War (1618-1648) affected much of the later part of Schickard's life.
-* Over the next year Schickard's wife and all his children died from the plague.
 * Although Schickard's contributions were not fully recognised during his lifetime, be is remembered  today with the Wilhelm-Schickard-Institut für Informatik at the University of Tübingen and the Wilhelm-Schickard-Schule in Tübingen.
 
 Born 22 April 1592, Herrenberg (near Tübingen), Württemberg (now Germany). Died 24 October 1635, Tübingen, Württemberg (now Germany).

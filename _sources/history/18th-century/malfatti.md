@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gianfrancesco Malfatti** was an Italian mathematician who worked on geometry, probability and mechanics and made contributions to the problem of solving polynomial equations.
 
 ### Mathematical Profile (Excerpt):
-* His parents were Giovanni Battista Malfatti and his wife Giuseppa.
 * Leaving Bologna, in 1754 Malfatti went to Ferrara where he was appointed as curator of the extensive library of the Marquis Cristiano Bevilacqua which had officially opened in the previous year.
 * This appointment suited Malfatti well since the Marquis had set up a well equipped physics laboratory in his house where he held frequent meetings for the local scholars.
 * This enabled Malfatti to continue to undertake research both on physics and on mathematics and to teach these two topics.
@@ -34,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The University of Ferrara was re-established in its 16th-century buildings in 1771 and, the president of the University, Giovanni Maria Riminaldi (1718-1789), knowing that by this time Malfatti was gaining a reputation as a leading mathematician, wanted to appointed him to the chair of mathematics.
 * This, however, presented a problem since Malfatti, although he had been educated by the Jesuits, was not himself a member of the Order and it was expected that professors would be Jesuits.
 * Despite the difficulties, Malfatti's scholarship won the day and he was appointed to the chair.
-* Although this did not affect Malfatti directly, it did have a major impact on Alessandro Zorzi (1747-1779) who was given employment by the Marquis Bevilacqua as a tutor for his grandchildren.
 * In this way Malfatti got to know Zorzi and became interested in the project that Zorzi was planning to undertake.
 * Soon Malfatti agreed to write articles for the encyclopaedia and Zorzi enlisted the help of other scholars such as Gerolamo Tiraboschi (1731-1794), Larraro Spallanzani (1729-1799), Gregorio Fontana (1735-1803), Paolo Frisi, Antonio Mario Lorgna, Giuseppe Louis Lagrange (1736-1813), Giuseppe Toaldo (1719-1797), Giambattista Beccaria (1716-1781), Leopoldo Marco Antonio Caldani (1725-1813), Saverio Bettinelli (1718-1808) and several others.
 * In addition to Malfatti, four men played major roles in founding the Society.
@@ -45,11 +43,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Malfatti took his obligations to the Society very seriously, and membership spurred him on to undertake intensive research.
 * One of the topics that Malfatti worked on was the logarithmic curve.
 * As we have seen above, Malfatti wrote an important work on equations of the fifth degree.
+* Ruffini's exchanges with Malfatti ...
 * Malfatti replied to a 1802 proof by Ruffini by publishing Dubbi proposti al socio Paolo Ruffini sulla sua dimostrazione dell'impossibilità di risolvere le equazioni superiori al quarto grado Ⓣ(Doubts proposed to Paolo Ruffini on his demonstration of the impossibility of solving equations above the fourth degree) (1804).
 * However, Ruffini was not the only mathematician with whom Malfatti had a dispute.
 * In 1802 Malfatti considered the problem of describing in a triangle three circles that are mutually tangent, each of which touches two sides of the triangle, the so-called Malfatti problem.
 * Malfatti intuitively reduced this problem to another, now commonly referred to as the "Malfatti problem": To inscribe within a triangle three circles each of which be tangent to the other two and to two sides of the triangle.
 * Malfatti considered this reduced problem as equivalent to the original problem.
+* That such is not the case was indicated in 1929, when Lob and Richmond pointed out that in the case of the equilateral triangle the inscribed circle and two of the smaller circles that can be fitted into the corners have a combined area which is greater than that given by the Malfatti arrangement ...
 * Jacob Bernoulli had solved the Malfatti problem for an isosceles triangle while, after Malfatti, the problem was also solved by an elegant geometric solution by Jacob Steiner in 1826 and Clebsch solved it using elliptic functions.
 * Let us give a generalisation of the Malfatti problem.
 * Malfatti's interests extended beyond the results we have mentioned above for his papers dealt with many subjects from probability to mechanics.

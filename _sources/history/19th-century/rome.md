@@ -23,11 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Adolphe Rome** was a classical philologist who worked on the history of ancient Greek mathematics and astronomy, particularly the work of Archimedes, Ptolemy, Heron and especially Pappus and Theon of Alexandria.
 
 ### Mathematical Profile (Excerpt):
-* When Adolphe was born, his father Eugène Rome was a professor at the Saint-Remacle Institute in Stavelot.
-* The Rome family was financially wealthy and very talented academically; they were devout Roman Catholics.
-* Adolphe was the oldest of the three boys having younger brothers Remacle Rome (1893-1974) and Paul Rome (1896-1989).
-* Of Adolphe's two sisters, Marie-Benoit Rome and Marie-José Rome, the first became a Benedictine nun and the second studied medicine and became a doctor (extremely unusual for a girl at the beginning of the 20th century).
-* As a child, Adolphe was taught by his father but for his secondary education he studied at the Royal Athenaeum of Mechelen where his father was a professor.
 * Rome had joined the Red Cross and fled with many Belgium refugees making their way to England.
 * Rome may have been forced into Classical Philology rather than mathematics, but when we see the title of his thesis, Les Fonctions Trigonometriques dans Heron d'Alexandrie Ⓣ(Trigonometric functions in Heron of Alexandria), we see that he had managed to satisfy his passion for mathematics by his choice of Classical Philology topic.
 * During the years 1919-1922, Rome continued to undertake research having a particular interest in ancient Greek manuscripts.

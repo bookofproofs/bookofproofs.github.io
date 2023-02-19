@@ -25,8 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * He wanted Joseph to follow an artistic career and his schooling was arranged with this aim.
 * After excelling at primary school, Joseph was sent to the Academy of Fine Arts.
-* However Joseph became an orphan at the age of fourteen when his father died, his mother having died one year earlier.
-* A brother of Joseph's mother who was a lawyer, a M Thirion, took over bringing up Joseph and his two sisters.
 * Joseph had a serious illness around this time and for a while could not attend the Academy.
 * Although the training at the Academy was mainly in the arts, Plateau's interests were in science.
 * These were not simply for his own amusement, for the young Plateau was putting on a show to entertain an audience.
@@ -35,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was Quetelet who arranged for Plateau and his friends to frequently visit the National Observatory which encouraged his interest in astronomy.
 * In 1822 Plateau graduated from the Athenaeum having achieved outstanding success.
 * However, although Plateau had shown great ability in these subjects, they were not the ones which interested him.
-* Plateau now was responsible for providing for his sisters and he took this responsibility seriously.
 * It was through Quetelet's influence that Plateau was offered the position of extraordinary professor of physics at the University of Ghent in 1835.
 * In fact 1840 was important for another reason for Plateau, for in that year he first began experiments which would lead him to study minimal surfaces.
 * Although Plateau had carried out his experiment of staring at the sun in 1829, he had retained reasonable vision until 1841.

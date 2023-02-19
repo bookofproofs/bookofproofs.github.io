@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Edward Blades** graduated from Edinburgh University. He held posts at Moray House Training College, at Heriot Watt College and at George Watson's Ladies' College, all in Edinburgh. He became Director of Education for West Lothian. After he retired he made contributions to Army Education.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Janet Blades (born in Cumbernauld, Dumbartonshire about 1832).
 * Edward Blades had four older siblings: Daniel (born about 1864), Annie (born about 1866), James (born about 1868) and Alexander (born about 1870).
 * Edward Blades was brought up in Armadale, West Lothian, where he lived in Academy Street.
 * After leaving university, Blades attended the Training College, where he was awarded the first prize in the final year.

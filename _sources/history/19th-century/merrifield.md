@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Charles Merrifield**  was an English mathematician who worked on elliptic functions and played an important role in the development of mathematical ssocieties.
 
 ### Mathematical Profile (Excerpt):
-* Charles's father was John Merrifield who was originally from Tavistock, Devon, but at the time that Charles was born was practising as a barrister in London.
 * Charles was well educated and in 1847 he began working at the Department of Education.
 * It was in this department that Merrifield began working in 1847, and the Department went on to become the Ministry of Education.
 * Although none of Merrifield's papers were of major importance, nevertheless he wrote over 100 papers which he published in the leading journals.

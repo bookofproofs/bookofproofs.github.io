@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Dorothy Foster **studied at Bedford College and was awarded a Ph.D. by the University of London in 1960. Except for a few years as an Assistant Lecturer in Mathematics at Royal Holloway College, London, she spent her whole career at the University of St Andrews. She was an expert on geometric number theory.
 
 ### Mathematical Profile (Excerpt):
-* Sydney Foster (born 1902) had married Elizabeth Flintoff (born 1896) in 1932 in Darlington, County Durham.
 * This came through Dorothy's maternal grandparents who were William Flintoff (1851-1903) and Mary Amy Dixon (1849-1914).
 * Dorothy Foster grew up in Darlington, living at 15 Dale Road.
 * Dorothy excelled at Polam Hall School, consistently ranked 1st or 2nd in her class.

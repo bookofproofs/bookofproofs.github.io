@@ -23,23 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Marion Ilse Walter** was born in Berlin and escaped the Nazis on the Kindertransport to England. She emigrated to the United States in 1948 and after earning her doctorate, founded the Mathematics Department at Simmons College. She published over 40 journal articles, several children's books, and the popular book _The Art of Problem Posing_.
 
 ### Mathematical Profile (Excerpt):
-* Her mother was Erna Else Walter.
-* She had a sister, Ellen Paula Walter, who was two and a half years older than her.
 * Marion, who was just starting school, remembers that nobody would sit beside her although at this time she did not understand why that was happening.
-* Her mother explained that when Marion was at home she was not allowed to say 'Heil Hitler', but in school she had to say 'Heil Hitler'.
 * The teacher said she would not report Marion on this occasion since she was the best in her class at arithmetic.
 * Marion said that maybe this made her try extra hard to be good at arithmetic after that.
 * Mathematics became for Marion a safe subject while many others were not.
 * Later, in late 1935, Marion was sent to a Jewish boarding school near Ulm.
 * Marion came back to Berlin before the end of 1938 for her Christmas holidays.
-* Marion's parents arranged for her and she sister to go to England where they had a distant relative.
-* Marion explained that she never asked her parents, "What was it like to see your children leave on the Kindertransport." Only at the 60th reunion event which took place in London did people start to talk about it.
-* Marion and her sister got on the train which had six children in each compartment.
 * However, Marion was given a banana which she thought was a wonderful little act of kindness.
 * Once in England, Marion was sent to Eastbourne Boarding School but soon after she arrived the school stopped for the Easter holidays.
-* Easter that year was on 9 April and Marion and her sister had to stay in the school during the holidays since they had nowhere else to go.
-* During the summer of 1939 Marion's parents were able to get out of Germany and come to England so the family met up again.
-* Marion waited for days with her suitcase packed, then the remaining school children were evacuated to Wykey in Shropshire.
 * Marion liked it there and she spent the rest of the war in the Abbey.
 * Marion sat the Cambridge University School Certificate examinations at the age of 16.
 * The local mathematics teacher had resigned, replacements were hard to find at this time, and so Marion was asked to teach mathematics at the Wykey school.

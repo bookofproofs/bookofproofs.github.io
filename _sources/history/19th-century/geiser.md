@@ -23,11 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Karl Geiser** was a Swiss mathematician who worked in algebraic geometry and minimal sufaces. He organised the first International Mathematical Congress in Zurich.
 
 ### Mathematical Profile (Excerpt):
-* His father was Friedrich Geiser, a butcher who ran a local inn.
-* Karl's mother was Elisabeth Begert.
-* There was a famous mathematician in Karl's family for his great uncle was Jakob Steiner; this certainly helped Karl in his career, particularly when he went to the University of Berlin.
 * Then he spent a further four semesters at the University of Berlin where he was taught by Karl Weierstrass and Leopold Kronecker.
-* Coming from a family with little money to support the education of their children, Geiser had to support himself while studying in Berlin.
 * At Zürich Polytechnikum, Geiser was appointed as an extraordinary professor in 1869, and then in 1873 he was appointed to a full professorship of higher mathematics and synthetic geometry, with special responsibility for teaching mathematics to engineering students and to mathematics students.
 * Geiser had a number of famous colleagues at Zürich Polytechnikum, first Georg Frobenius between 1875 and 1892, and then Adolf Hurwitz who filled Frobenius's chair.
 * Geiser taught algebraic geometry (his own research topic), differential geometry and invariant theory at Zürich.

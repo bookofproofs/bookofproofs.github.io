@@ -33,7 +33,6 @@ contributors: @Tomaz-Pisanski,bookofproofs
 * Ivo Lah was a prolific writer and he published several hundred newspaper articles.
 * His most important mathematical result, published in 1955, is the so-called "Lah identity" where he shows how the rising powers can be expressed in terms of falling powers.
 * The unsigned Lah numbers L(n,k)L(n, k)L(n,k) have an interesting combinatorial interpretation.
-* Marija Lah, the daughter of Ivo Lah for the material that is used in this presentation.
 
 Born 5 September 1896, Strukljeva vas near Cerknica, Austrian Empire (now Slovenia). Died 23 March 1979, Ljubljana, Yugoslavia (now Slovenia).
 

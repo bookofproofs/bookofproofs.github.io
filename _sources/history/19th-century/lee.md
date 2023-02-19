@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alice Lee **was awarded a D.Sc. in 1899, and had an outstanding career as a statistician working in both Bedford College and University College in London. Her work was important in disproving the belief that skull size was related to intelligence, the argument that was being used at that time to "prove" women were intellectually inferior to men.
 
 ### Mathematical Profile (Excerpt):
-* William Lee was a master coach builder and he had married Matilda Baker on 29 July 1846 in St Mary the Virgin church in Dedham, Essex.
-* At the time of the 1861 census William and Matilda Lee were living in Dedham with their first five children, George (aged 12), Catherine (aged 10), and Mary A (aged 9), Alice E, the subject of this biography, (aged 2), and Anna G (aged 9 months).
-* Alice and her two younger sisters were studying at school in Dedham.
 * In 1876 Lee became a student at Bedford College, London.
 * In 1874, just before Lee began her studies there, the College moved from its first site in Bedford Square to two houses in York Place, close to Baker Street, in Marylebone.
 * At first Harding, like all his predecessors, did not teach mathematics to degree level but in 1879-80 Lee attended the first higher mathematics classes that Bedford College had just started up due to increased demand.
@@ -52,7 +49,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Until 1907 Lee continued to work for Karl Pearson and to lecture at Bedford College.
 * So bad indeed that Dr Alice Lee has resigned, which will be a great loss to me, although she had recently been a little difficult to work with.
 * Despite resigning, Lee continued to occasionally work at the Eugenics Laboratory and to publish joint papers such as On the Correlation of Death-Rates (1910) and On the distributions of the correlation coefficient in small samples.
-* In retirement Lee, who never married, settled in Woodlands Avenue, Rustington, Sussex, and died at the Peter Pan nursing home, Rustington, on 5 October 1939.
 
 Born 28 June 1858, Dedham, Essex, England. Died 5 October 1939, Rustington, Sussex, England.
 

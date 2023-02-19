@@ -4,7 +4,7 @@ categories: history,18th-century
 parentid: bookofproofs$52
 tags: astronomy
 orderid: 1748
-title: De Tinseau, D&amp;#x27;Amondans Charles
+title: De Tinseau, D&amp;amp;#x27;Amondans Charles
 born: 1748
 died: 1822
 keywords: charles tinseau,de
@@ -24,13 +24,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * However, there was still much pro-Spanish feeling in the region when Charles was growing up there.
-* His parents were Marie-Nicolas de Tinseau and Jeanne Petramand of Velay and Charles was one of their seven children, in fact the youngest but one.
 * It seems highly unlikely that Tinseau would have become a mathematician but for the inspiring teaching and encouragement of Monge.
 * For twenty years, from 1771 to 1791, Tinseau was an officer in the engineering corps.
 * Certainly given his noble birth, one would expect Tinseau to be a supporter of the French monarchy and this was indeed the case; he was a passionate supporter of the Bourbons despite the problems that they were encountering.
 * Tinseau joined in the efforts to support the doomed Bourbon monarchy but by this time the situation was out of control.
 * There he led a collection of émigrés including Tinseau.
-* Charles-Philippe, Comte D'artois (later Charles X) was the fifth son of the dauphin Louis and Maria Josepha of Saxony.
 * Charles-Philippe travelled to Austria, Prussia, Russia, and England.
 * Tinseau also lived in exile and conducted a vigorous campaign in support of the Bourbons and against the Revolution.
 * He published a series of anti-Revolution writings from 1792 onwards and tried to organise uprisings in France, as did Charles-Philippe who made an unsuccessful attempt to land in the Vendée to lead a royalist rising there.

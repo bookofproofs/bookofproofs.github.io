@@ -23,13 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Federigo Enriques** was an Italian mathematician who made important contributions to geometry and to the history and philosophy of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Federigo was known in the family as Ghigo.
 * Paolo Enriques became Professor of Zoology at the University of Padua and did important work on genetics.
-* The Enriques family moved from Livorno to Pisa in 1878 where Federigo was educated at the Liceo di Pisa.
-* When Enriques's daughter asked him, many years later, whether his parents had been pleased with his enterprise, he flashed a smile and replied, "They never knew about it." The eleven-year-old had shown even then a streak of independence he never lost.
 * Two years later, when he was thirteen, Federigo met geometry for the first time and became very enthusiastic about the subject.
 * Of course, she was wrong about Enriques's new found love for geometry - it lasted his lifetime.
-* Mr Rodolfo, who is mentioned in the quote above, was employed by the Enriques family to tutor the three children.
 * Although it is not clear exactly what he taught Federigo, it is reasonable to assume that he made a highly significant contribution to the young boy's education teaching him topics not covered in the school syllabus.
 * Federigo took his final school examinations in the summer of 1887.
 * After his laurea degree, Enriques continued to study at Pisa for a year.

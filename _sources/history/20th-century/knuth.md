@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Donald Knuth** is an American mathematician and computer scientist most famous for his contributions to the study of algorithms and inventing the TeX typesetting language.
 
 ### Mathematical Profile (Excerpt):
-* Donald's father Ervin was a school teacher who taught in a Lutheran school.
-* He played a very important role in determining Donald's interests, and it was through his father that Donald gained his love for education, music, and mathematics.
 * Ervin played the church organ at the Sunday church services and Donald soon became a passionate lover of the organ.
 * Donald attended Lutheran schools and from the special emphasis that was placed on English grammar in these schools came Knuth's love of investigating sentence structure.
 * During these first years at secondary school there were other signs of where Knuth's interests would eventually lead.
@@ -49,8 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In the autumn of 1960 Knuth entered the California Institute of Technology and, in June 1963, he was awarded a Ph.D. in mathematics for his thesis Finite semifields and projective planes.
 * In fact in addition to the work for his doctorate in mathematics, Knuth had from 1960 begun to put his very considerable computing expertise to uses other than writing papers becoming a software development consultant to the Burroughs Corporation in Pasadena, California.
 * Despite Knuth's remarkable mathematical productivity he did find time for other things.
-* During his years as a graduate student Knuth married Nancy Jill Carter on 24 June 1961.
-* Their two children John Martin Knuth and Jennifer Sierra Knuth were born in 1965 and 1966 respectively.
 * We noted above that the title of Knuth's Ph.D. thesis was Finite semifields and projective planes.
 * After completion of his doctorate in 1963 Knuth became an Assistant Professor of Mathematics at the California Institute of Technology, being promoted to Associate Professor in 1966.
 * Discussions led to a decision that Knuth should produce a seven volume work covering much more than compilers.

@@ -23,19 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Sylvia Skan** was an English applied mathematician who worked on fluid dynamics and aerodynamics. For most of her career, she worked for the Aerodynamics Department of the National Physical Laboratory. She wrote many papers and the two volume book _Handbook for computers_.
 
 ### Mathematical Profile (Excerpt):
-* Sylvia Skan's father was Sidney Alfred Skan (30 August 1870-19 December 1939), born in Bickenhill, Warwickshire.
-* Sylvia's mother was Jane Alkins, born in Bakamoor, Staffordshire on 5 April 1873.
-* Sylvia was the eldest of her parents' five children.
-* She had a younger brother Douglas Alkins Skan (1899-1978) born on 13 December 1899 in Richmond, Surrey, England.
-* Sylvia also had two younger sisters, Mabel Irene Skan born 30 June 1902 in Richmond, Surrey, England, and Isabel Lilian Skan born 14 May 1903 in Kew, Surrey, England.
 * On 9 August 1903 Mabel Irene Skan was baptised in Kew, Surrey.
-* At this time her father Sidney Alfred Skan was a botanist at the Royal Gardens.
 * Mabel Skan became an assistant compiler for the Royal Botanical Gardens.
 * Isabel Lilian Skan was baptised in Kew on the same day.
-* Sylvia's youngest sibling was her brother Lawrence Gilbert Skan, born 21 Feb 1914, and baptised at St Mary the Virgin, Twickenham, England.
-* At the time of the 1901 census, when Sylvia Skan was three years old, the family were living in Richmond, Surrey, the town of her birth but, ten years later at the time of the 1911 census, on 2 April, they were living at 37 Holmes Road, Twickenham, Middlesex, England.
 * Skan worked her whole career in the Aerodynamics Department of the National Physical Laboratory.
-* In 1930 she was living with her parents Sidney Alfred Skan and Jane Skan, together with her sisters Mabel Irene Skan and Isabel Lilian Skan at Cole Park Road, Twickenham.
 * Although Skan must have been working on translations at least as early as 1939, the first that we have found is in 1946, in fact we have found three German works which were translated by Skan in that year.
 * These were Solution of Possio's integral equation for an aerofoil oscillating harmonically in a compressible medium by reduction to a system of linear equations by Martin Eichler with Skan's translation from German to English appearing in March 1946.
 * In the same month, Skan's translation from German to English of The numerical solution of Possio's integral equation for an oscillating aerofoil in an two-dimensional subsonic stream by Th Schade appeared.

@@ -25,12 +25,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Ludwig was baptised into the Catholic Church.
 * His parents were both very musical and Ludwig was brought up in a home which was always filled with music, Brahms being a frequent guest.
-* Ludwig's parents had eight children who were all highly gifted both artistically and intellectually.
 * There were three girls, Gretl, Hermine, and Helene, and five boys Hans, Kurt, Rudolf, Paul, and Ludwig.
-* Perhaps at this stage we should make some comments on Ludwig's brothers and sisters, for it will help to understand something of Ludwig's lifestyle as he grew up and also what he went through.
-* Ludwig was the youngest of the children and he was educated at home until he was fourteen years of age.
 * In 1903 Wittgenstein began three years of schooling at the Realschule in Linz, Austria, which specialised in mathematics and natural science.
-* Coming from a cultured background into a school filled with working class children gave Wittgenstein a difficult and unhappy time.
 * The school enhanced Wittgenstein's love of technology, however, and made him decide to study engineering at university.
 * Intending to study for his doctorate in engineering, Wittgenstein went to England in 1908 and registered as a research student in an engineering laboratory of the University of Manchester.
 * At this stage Wittgenstein was much more practically minded than one might suppose, given his later highly theoretical work, and he not only studied the theoretical design of the propeller but he actually built and tested it.
@@ -44,8 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * During this period at Cambridge, Wittgenstein continued to work on the foundations of mathematics and also on mathematical logic.
 * During these four years of active service Wittgenstein had written his great work in logic, the Tractatus, and the manuscript was found in his rucksack when he was taken prisoner.
 * Having written what he believed was his final word on philosophy, Wittgenstein's intention was now to give up his study of the subject.
-* But although Wittgenstein was a strong believer in these principles and tried with great enthusiasm to provide the children that he taught in the mountain village of Wiener Neustadt with the best possible education, there were factors working against his success.
-* Perhaps the biggest difficulty that Wittgenstein faced was that giving away the family fortune did nothing to enable someone with his highly privileged background to fit into the culture of the children of farmers whom he taught.
 * During this period Wittgenstein was again desperately unhappy and came close to committing suicide on a number of occasions.
 * Eventually, feeling largely that he had failed as a primary school teacher, Wittgenstein gave up in 1925.
 * Although Wittgenstein had not wished to return to academic life during this period he was not completely isolated from the study of mathematical logic, the foundations of mathematics, and philosophy.

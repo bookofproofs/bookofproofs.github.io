@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Juan was a highly intelligent boy and by the age of twelve he was constructing his own astronomical tables.
-* As well as being taught by his father, Juan had several private tutors before starting his first formal education at a Jesuit school where he learnt grammar and rhetoric.
 * Caramuel was a Cistercian and in his writings he attacked Jansenism, a movement within the Catholic Church which considered itself following the teachings of St Augustus, but was attacked by its opponents, particularly the Jesuits, as having views close to Protestants.
 * Caramuel, therefore, found favour with the Jesuits and also from the highly influential Fabio Chigi.
 * Caramuel continued to write and publish many works, the most significant being Theologia moralis fundamentalis, praeterintentionalis, decalogica, sacramentalis, canonica, regularis, civilis, militaris Ⓣ(Fundamental moral theology, including the ten commandments and sacramental, regular, civil, military and canonical matters,) (1652).

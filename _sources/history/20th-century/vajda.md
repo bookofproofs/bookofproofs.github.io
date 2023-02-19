@@ -32,15 +32,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Returning to Vienna, Vajda was still unable to obtain a job but van der Waerden was able to direct him towards an actuarial position in Braila, Romania.
 * These years in Vienna were ones in which Vajda joined in the high level of intellectual activity which was taking place in that city.
 * As well as being influenced by members of this group, Vajda also became friendly with Karl Popper who was studying philosophy and psychology in Vienna.
-* Largely the Germans were rapturously welcomed in Vienna by the Austrians but Vajda and his family saw that they had to leave as rapidly as possible.
-* Hedy, now aged 8, and Robert, now aged 5, were sent to Sweden while Vajda and his wife tried to make arrangements to leave.
-* Vajda was keen to join his family in England but was unable to obtain a visa.
 * Vajda contacted him and Popper was able to arrange for Vajda to be offered a position in New Zealand.
-* The family planned to sail to New Zealand and Vajda began to make the necessary arrangements.
 * Vajda coming from Vienna was now an enemy alien so he could not continue with his plans to go to New Zealand but was sent to an internment camp on the Isle of Man.
 * After six months in the internment camp, during which time he taught mathematics in a makeshift university that the refugees had set up, the authorities realised that Vajda was not a danger to the British and he was released.
 * In 1944, when the Admiralty was setting up a new department of statistics to work on methods of maximising their use of resources in the war in the Pacific, Vajda was an obvious person to invite to join them.
-* Vajda had left his parents in Vienna and his younger sister Ilonka living in Prague, married to a Czechoslovakian, when he fled in 1939.
 * In 1949 Vajda became assistant director of operational research for the Admiralty, becoming head of the Mathematics Group at the Admiralty Research Laboratory at Teddington in 1952.
 * In 1965, at the age of sixty-four, Vajda retired from the Admiralty but he was appointed as Professor of Operational Research at the University of Birmingham.
 * At an age when most people are about to retire, Vajda was beginning his academic career.
@@ -49,6 +44,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Ledermann and Vajda jointly edited most of the core volumes in the Handbook of Applicable Mathematics series.
 * Vajda received many honours for his contributions.
 * Not even the extremely hot weather in Israel in July 1995 discouraged Steven from taking part in the physically demanding 2-days' excursion to Galilee organized in conjunction with EURO XIV conference.
+* Those gifts were granted to Steven Vajda, still teaching and writing in his 94th  year before he passed away after a short illness ...
 
 Born 20 August 1901, Budapest, Hungary. Died 10 December 1995, Brighton, Sussex, England.
 

@@ -24,16 +24,10 @@ b>Ali Moustafa Mosharrafa was an Egyptian theoretical physicist who contributed 
 
 ### Mathematical Profile (Excerpt):
 * This meant that Ali Moustafa and his four younger siblings Nafisa, Mustafa, Attia and Hassan were brought up with strong religious beliefs in the Quran.
-* Let us note that most sources give the family name as Mosharafa with a single "r" but he certainly published his papers under the name Mosharrafa with "rr" so we will use that version.
-* In later life Ali Moustafa felt that his upbringing had robbed him of his childhood.
-* Ali Moustafa was born in the Mazloum district of Damietta and the first years of his childhood were spent in Raghad and Bala.
-* Ali's father Mustafa Attia died on 8 January 1910 when Ali was eleven years old and one month later he took his primary school examinations and was awarded his primary certificate being ranked first nationwide.
-* The family moved to Cairo where they lived with Ali's maternal grandmother in a rented apartment in the Abdeen neighbourhood.
 * Mosharrafa spent a year studying at the Abbasiya High School in Alexandria, where he was in the free section for those unable to afford the fees.
 * He was the youngest student in his class, but the most knowledgeable and his teachers showed him great respect realising that he was an exceptionally profound thinker.
 * It was re-founded in 1925 as a state institution but when Mosharrafa qualified with his Baccalaureate in 1914 it had nothing to offer in terms of mathematics, the subject that he was keen to pursue.
 * These options did not attract Mosharrafa so he enrolled in the Teachers' College where at least some mathematics was taught.
-* Before agreeing to travel to England, Mosharrafa saw that his three younger brothers Mustafa, Attia and Hassan were all enrolled at boarding schools.
 * Seeing that his siblings were all doing well, Mosharrafa travelled to England and matriculated at the University of Nottingham in the autumn of 1917.
 * When Mosharrafa was in the middle of his studies at Nottingham, in 1919, a revolution broke out in Egypt against British colonial rule led by Saad Zaghlul as head of the Wafd Party.
 * Mosharrafa had a friend, Mahmoud Fahmy El Nokrashy (1888-1948) who was a leading member of the Wafd Party.
@@ -52,7 +46,6 @@ b>Ali Moustafa Mosharrafa was an Egyptian theoretical physicist who contributed 
 * As a result of the shortage in qualified personnel this degree was made sufficient for a university teaching post.
 * We noted above that Mosharrafa was appointed as Professor of Applied Mathematics at the University of Cairo in 1926.
 * Professor Mosharrafa has been acting as head of the department of Pure Mathematics.
-* Mosharrafa married Dawlat H Zayed (1910-1989); they had one son Mostafa Ali Mosharrafa, born in Cairo on 22 February 1936 and died in July 1992 in Houston, Texas, USA.
 * The Royal Institute of Oriental Music is co-operating by nominating competent instrumentalists to do the work of tuning.
 * Mosharrafa Pasha was a prominent University figure.
 * Not only was Mosharrafa Pasha active within the Sphere of University, but he devoted himself also to the creation of a scientific milieu in Egypt.
@@ -63,7 +56,6 @@ b>Ali Moustafa Mosharrafa was an Egyptian theoretical physicist who contributed 
 * There is a puzzle over the death of Mosharrafa much more significant than the difference of one day in its date.
 * Mossad was only formed on 13 December 1949, and there seems no reason why Israel should want Mosharrafa killed.
 * The fact that Mosharrafa was strongly opposed to using science for military purposes is the usual reason cited for the second possibility.
-* That Mosharrafa died from a heart attack certainly seems highly plausible and his brother was very definite that this indeed was the cause of his death.
 
 Born 11 July 1898, Damietta, Egypt. Died 15 January 1950, Cairo, Egypt.
 

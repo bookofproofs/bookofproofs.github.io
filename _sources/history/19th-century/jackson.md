@@ -23,13 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Jackson** graduated from Glasgow and Cambridge. He went to the Royal Observatory at Greenwich but his career there was interrupted by World War I. He was then appointed HM Astronomer at the University of Cape Town.
 
 ### Mathematical Profile (Excerpt):
-* John Jackson also had an older sister Jeanie  (born about 1885) and two younger siblings, Margaret  (born about 1889) and William (born about 1892).
 * John Jackson's secondary school education was at Paisley Grammar School.
 * Entering the University of Glasgow, Jackson decided not to specialise in his best school subject of chemistry but instead studied mathematics and physics.
 * It was astronomy which become his main passion, through outstanding teaching by Ludwig Becker, during his final years at Glasgow and Jackson decided that he wanted to make a career in the subject.
 * In 1914 a vacancy arose at the Royal Observatory in Greenwich for a Junior Chief Assistant and the Astronomer Royal Sir Frank Dyson appointed Jackson to the post.
 * In 1933 Jackson was appointed His Majesty's Astronomer at Cape Observatory, Cape Town, South Africa.
-* Jackson, who went out to South Africa with his wife Mary Beatrice Marshall, also became Director of Cape Observatory, and he filled this position until he retired in 1950.
 * Jackson's special concern was the stellar parallax programme; he undertook the necessary reductions and observations personally, at a time when two thirds of his staff were "up north".
 * Jackson retired in 1950, having measured the distances of over 1600 southern stars with greatly improved accuracy and having advanced or completed all the major projects which had been going on at the time of his appointment.
 * Jackson was thus left in charge of the observations for this important event.

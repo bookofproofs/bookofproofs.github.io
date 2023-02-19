@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Wilhelm Blaschke** was an Austrian mathematician whose research was on various aspects of geometry. He also initiated the study of topological differential geometry.
 
 ### Mathematical Profile (Excerpt):
-* Josef also favoured concrete geometrical problem over more abstract ones and he influenced his son Wilhelm to take a similar approach to mathematics.
 * There is another way that Josef Blaschke influenced his son, which was significant given the problems that he would later face, and this was to give him an international outlook making him very open minded in his approach to those from different countries.
 * Wilhelm was brought up in Graz and it was there that he attended secondary school, graduating at the age of eighteen.
 * Blaschke became extraordinary professor of mathematics at the Deutsche Technische Hochschule in Prague in 1913, remaining there for two years before moving to Leipzig in 1915.
@@ -35,13 +34,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Blaschke was appointed to the Commission as a member of the Executive Committee of the German Mathematical Society.
 * In June 1933 Blaschke organised a petition trying to persuade the government that forcing Reidemeister to retire at 40 years of age was detrimental to both the teaching of mathematics and mathematical research in Germany.
 * Blaschke's petition was successful and Reidemeister was appointed to Hensel's chair at Marburg in what was considered a smaller and less prestigious university.
-* Two sharply opposing views were put to the German Mathematical Society, one championed by Bieberbach being that they should enforce Nazi policies on German mathematics and race, the other led by Blaschke arguing that the Society should remain international, open and develop its policies for the best mathematical and not political reasons.
 * The arguments were bitter and Blaschke won the day being himself elected Chairman of the German Mathematical Society in September 1934.
 * However Bieberbach managed to prevent changes to the statutes of the Society that Blaschke attempted to introduce and the Reich Ministry of Education intervened forcing both Bieberbach and Blaschke to resign.
 * Blaschke resigned the Chairmanship of the German Mathematical Society in January 1935 and at the same time also resigned from the Commission set up by the International Mathematical Union.
 * Although up to this time Blaschke had strongly resisted certain Nazi policies, he seems to have had a change of heart in 1936.
 * It was a process which Blaschke certainly supported, so when Germany invaded Austria on 12 March 1938 and Hitler annexed Austria on the following day, Blaschke approved.
-* In fact when the Germany invasion of Austria occurred Blaschke was on a visit to Messina in Italy and the political events must have presented him with an awkward situation.
 * Blaschke was at this time in the rather difficult position of still being viewed with suspicion in Germany given his fight for internationalism.
 * In 1939 Blaschke took part in a Congress in Rome from 22 to 28 October.
 * Blaschke had made an attempt to prevent Bieberbach being named by the Reich minister as head of the German delegation, fearing that such an appointment would create trouble with both German and Italian mathematicians.

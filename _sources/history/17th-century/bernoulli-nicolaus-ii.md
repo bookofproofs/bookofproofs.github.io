@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Nicolaus (II) Bernoulli** was the favourite of three sons of Johann Bernoulli. He made important mathematical contributions to the problem of trajectories while working on the mathematical arguments behind the dispute between Newton and Leibniz.
 
 ### Mathematical Profile (Excerpt):
-* Nicolaus worked as his father's assistant helping him with correspondence.
 * Nicolaus worked on curves, differential equations and probability.
 
 Born 6 February 1695, Basel, Switzerland. Died 31 July 1726, St Petersburg, Russia.

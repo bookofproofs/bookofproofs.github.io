@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Thomas Walker had been born on 1 November 1833 to John Walker and Mary Haslehurst at Dronfield, Derbyshire.
-* They had eight children: Jessie Sarah Walker (born 1863); Charlotte Mary Walker (born 1865); Francis Walker (born 1866); Frances F Walker (born 1866); Gilbert Thomas Walker (the subject of this biography, born 1868); Mildred Walker (born 1871); Howard W Walker (born 1874); and John George Walker (born 1875).
-* Thomas Walker had become Borough Surveyor of Rochdale in 1865, the town where Gilbert was born, but in 1871 the family moved from Rochdale to South Croydon when Thomas was appointed as the Borough Engineer and Surveyor to the Croydon Local Board of Health.
 * On 11 September 1876 Gilbert entered Whitgift School in Croydon, London.
 * In 1881 Walker won a scholarship to St Paul's School, a private school founded in 1509 occupying a site beside St Paul's Cathedral in London at this time.
 * The headmaster at the time was Frederick William Walker (1830-1910), who was not related to Gilbert Walker, and the Senior Mathematical Master was Charles Pendlebury (1854-1941) who had been appointed to this position in 1877.
@@ -43,8 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Walker applied for the post and was clearly a strong applicant having Lord Kelvin supporting his application.
 * Eliot explained that he was seeking a person who had a strong mathematical background so, despite Walker having no experience in meteorology, his name was suggested.
 * Aware of his lack of experience in meteorology and climatology, Walker decided that he had better gain some experience before moving to India.
-* On 13 May 1908, at St James Church, Southampton, England, Walker married May Constance Carter (1877-1955).
-* Gilbert and May Walker had a daughter, Verity Micheline Walker (1910-1996) who became a dietitian, and a son Michael Ashley Walker (1917-1983) who became a civil servant.
 * In India Walker worked at the Indian Meteorological Department at Simla where he had the ideal environment in which to develop and enjoy his wider interests.
 * Scientific attempts to forecast the monsoon rains had started approximately twenty-five years before Walker's arrival in India, with official forecasts being issued beginning in 1886.
 * Walker's first paper after taking up his post in India was Correlation in seasonal variation of climate (1909).

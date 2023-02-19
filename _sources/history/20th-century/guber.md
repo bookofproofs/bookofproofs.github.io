@@ -33,25 +33,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Rebeca took the B.Sc. in mathematics option while Cecilia opted for an accounting degree.
 * Later Rebeca would persuade Cecilia to take a mathematics degree and they would become colleagues.
 * Rebeca began her university studies of mathematics in the National University of La Plata.
-* It was at the National University of La Plata that Rebeca met José Guber (1925-1995), the son of the Polish born businessman Wolf Guber and his wife Etta, who was training to be an engineer; they later married.
 * At the National University of La Plata, Rebeca was fortunate to be taught by Manuel Sadosky and Luís Antoni Santaló.
 * After her first degree Rebeca continued to study for a Ph.D. advised by Santaló to study problems in differential and integral geometry.
 * She defended her doctoral thesis El estudio de los invariantes afines asociados de las curvas del espacio y de ciertos elementos geométricos ligados con las mismas de manera afín Ⓣ(The study of the associated affine invariants of the curves of space and of certain elements) in December 1949.
 * The six projective invariants determined by P Buzano in the general case (1948) are included among those obtained here.
-* We have been unable to give a precise date for when Rebeca married José Guber.
-* She travelled with José Guber but, at this time, they were nor married.
 * José Guber's friend Julio Broner started up the Wobron automobile parts company in 1951 with José Guber as a minor partner so he had a good income.
 * Juan Perón had been elected president of Argentina in 1946 and in 1949 introduced Constitutional Reforms.
 * These were not supported by all and were opposed by the Radicals who declared the Peronists did not have the required majority to make constitutional changes.
-* Both Rebeca Guber and her husband had left-wing views which prevented Rebeca from taking a university position.
 * By 1952 Perón's government became more determined that only supporters of the party could teach in universities.
 * Rebeca earned her living giving private mathematics classes and created an institute in which she taught Mathematical Analysis to Engineering students.
 * She worked with Manuel Sadosky writing the book Elementos de cálculo diferencial e integral Ⓣ(Elements of differential and integral calculus) which was published in 1956.
 * The book was not aimed primarily at mathematics students but rather it was written for engineers and users of mathematics.
-* In 1955 Guber and her husband went to Europe, spending some time in France.
 * He had began to lose the support of the military and, after a failed coup in June 1955, another in September 1955 succeeded and Perón fled to exile in Spain.
 * In October 1955, Rebeca Guber began to work at the Faculty of Exact and Natural Sciences of the University of Buenos Aires.
-* On 13 October 1957 Rebeca and José Guber's only child, Rosana Guber, was born.
 * The university authorities to set up a Computational Institute and purchased a computer; a Special Commission comprising of Alberto González Domínguez, Manuel Sadosky and Simón Leonado Altmann was, on 18 November 1957, given the responsibility to study the "organisation and governance of the Computational Institute and present draft regulations and a plan for its needs." Before looking at Guber's contribution to computing, we note that in 1957 her third paper on differential geometry Developable surfaces related in an affine manner with a space curve was published.
 * In it she finds necessary and sufficient conditions that a certain ruled surface be developable.
 * The reason for such delay was that the chosen room to place the computer, being prepared on the second floor of the new building of the School of Exact and Natural Sciences, was not yet ready and did not suit the required strict Ferranti specifications.
@@ -68,7 +62,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This project considered mathematical models of traffic flow and parking, and was probably the largest carried out in Latin America.
 * In 1970 Guber and the other two founders sold the company to some of those workers.
 * In 1971 Rebeca and José Guber were divorced.
-* José Guber said that their family relations deteriorated after the 'Night of the Long Batons' in July 1966.
 * In 1977, after a year in which she had been unable to get a job, Guber went to Venezuela.
 * In Venezuela she served as an advisor to the Fundación Gran Mariscal de Ayacucho, later becoming director of the Information Technology Department, and coordinated the Mathematics Department of the Faculty of Architecture of the Central University of Venezuela.
 * In 1983 Argentina became a democracy under President Raúl Alfonsín.
@@ -79,7 +72,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Guber put in very effective support to make this successful but after four years its funding was withdrawn.
 * Unfortunately, a new official, almost by definition, destroys what the previous one did.
 * For the rest of her career, Guber was an advisor to many different organisations such as the Scientific Research Commission of the Province of Buenos Aires.
-* Rosana, Guber's daughter, published the book De Chicos a Veteranos.
 * Nación y Memorias de la Guerra de Malvinas Ⓣ(From boys to veterans.
 * Guber continued to work until her 85th birthday in 2011.
 * She died aged 94, one of the victims of the COVID-19 pandemic.

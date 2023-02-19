@@ -25,11 +25,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Ivan Georgievich, however, decided to study science at university.
 * After graduating from the Sevsk high school in 1917, Petrovsky entered Moscow University with the intention of studying biology and chemistry.
-* Petrovsky returned to Sevsk and then in 1918 the whole family moved to Yelizavetgrad in the Ukraine (the city was renamed Zinovyevsk in 1924, Kirovo in 1936, and Kirovograd in 1939).
 * Petrovsky worked for a while as a clerk and then entered the technical school for machine construction.
 * With the ending of the Russian Civil War in November 1920 and stability returning, Petrovsky returned to Moscow University in 1922 but by now his interests were so firmly in mathematics that he did not take up the course he had been intending to follow five years earlier, but read for a degree in mathematics.
 * Arriving at the given address, Ivan Georgievich learned that the position of stoker was already taken by another student.
-* Working at the orphanage had one very positive result, however, for while there he met Olga Afanasyevna Kornilaeva who, like Petrovsky, was a student at Moscow University; they later married.
 * Charles de la Vallée-Poussin's text based on his course on mathematical analysis was one of Petrovsky's favourite.
 * It is remarkable that Petrovsky did not have a catalogue but knew his way round the library very well and was able to find his favourite books quickly.
 * Petrovsky taught at Moscow University beginning in 1929 and, in 1933, he was appointed as a professor.

@@ -23,15 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Bibhutibhushan Datta**, born in what is now Banglsdesh, was a historian of [Indian mathematics][bookofproofs$1636].
 
 ### Mathematical Profile (Excerpt):
-* Bibhutibhushan was the third of his parents' eleven children, all boys.
-* He had two older brothers Rebati Raman Datta and Bhupati Mohan Datta.
-* His eight younger brothers were, in order of their ages, Nirode Lal Datta, Binode Behari Datta (who became Registrar and Controller of Examinations at the University of Calcutta), Harihar Datta, Pramatha Ranjan Datta, Subimal Datta (who became an Ambassador to the USSR), Sukomal Datta, Parimal Datta, and Ranjit Datta.
 * From his youth, Datta was deeply religious.
 * When Datta was at school he was already wishing to do away with worldly possessions such as clothes.
 * Datta learnt much about the mystic way of life through the teachings of Ramakrishna (1836-1886), known to his followers as Paramahamsa.
 * Datta studied these religious teachings, reading many books on religion, and lived his life according to this philosophy.
 * Datta was awarded a Bachelor of Science degree in 1912 and continued to study for a Master's degree.
-* His eldest brother Rebati Raman Datta found him in Haridwar (near the Himalayas) and brought him home, taunting him that he had run away for fear of failing the examination.
 * But Datta said he would receive a first class degree, which in fact he did in 1914 when he passed the Master's examination in Pure and Applied Mathematics.
 * It is also not surprising the Datta did exceptionally well in the Master's examinations he took in 1914 for he had already had two papers accepted for publication by the Calcutta Mathematical Society, namely On a physical interpretation of certain formulae in the theory of elasticity (1910-11) and On the figures of equilibrium of a rotating mass of liquid for laws of attraction other than the law of inverse square (1911-12).
 * On the results of his Master's examinations, Datta was awarded a scholarship to study for his doctorate at Calcutta University.

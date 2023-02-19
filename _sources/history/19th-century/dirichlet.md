@@ -29,8 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Dirichlet set off for France carrying with him Gauss's Disquisitiones arithmeticae Ⓣ(Investigations in arithmetic) a work he treasured and kept constantly with him as others might do with the Bible.
 * In Paris by May 1822, Dirichlet soon contracted smallpox.
 * From the summer of 1823 Dirichlet was employed by General Maximilien Sébastien Foy, living in his house in Paris.
-* Dirichlet was very well treated by General Foy, he was well paid yet treated like a member of the family.
-* In return Dirichlet taught German to General Foy's wife and children.
 * Dirichlet's first paper was to bring him instant fame since it concerned the famous Fermat's Last Theorem.
 * Dirichlet proved case 1 and presented his paper to the Paris Academy in July 1825.
 * On 28 November 1825 General Foy died and Dirichlet decided to return to Germany.
@@ -39,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The problem was nicely solved by the University of Cologne giving Dirichlet an honorary doctorate, thus allowing him to submit his habilitation thesis on polynomials with a special class of prime divisors to the University of Breslau.
 * From 1827 Dirichlet taught at Breslau but Dirichlet encountered the same problem which made him choose Paris for his own education, namely that the standards at the university were low.
 * The Military College was not the attraction, of course, rather it was that Dirichlet had an agreement that he would be able to teach at the University of Berlin.
-* Dirichlet was appointed to the Berlin Academy in 1831 and an improving salary from the university put him in a position to marry, and he married Rebecca Mendelssohn, one of the composer Felix Mendelssohn's two sisters.
 * Dirichlet had a lifelong friend in Jacobi, who taught at Königsberg, and the two exerted considerable influence on each other in their researches in number theory.
 * However, Jacobi was not a wealthy man and Dirichlet, after visiting Jacobi and discovering his plight, wrote to Alexander von Humboldt asking him to help obtain some financial assistance for Jacobi from Friedrich Wilhelm IV.
 * Dirichlet then made a request for assistance from Friedrich Wilhelm IV, supported strongly by Alexander von Humboldt, which was successful.

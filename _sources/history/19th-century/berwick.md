@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Berwick** studied at Cambridge and lectured at Bristol, Bangor and Leeds before returning to Cambridge and eventually became Professor at Bangor. He worked in algebraic number theory. His widow endowed the Berwick prizes of the London Mathematical Society in his name.
 
 ### Mathematical Profile (Excerpt):
-* William had had an older sister Mary (born about 1884).
 * William Berwick was educated at a small private school before entering Bradford Grammar School where he soon showed his mathematical potential.
 * It is interesting to look at Berwick's fellow students, particularly those who were ranked above him in the Tripos.
 * Daniell went on to become professor of mathematics at the University of Sheffield, but the most famous of Berwick's fellow students was L J Mordell.
@@ -32,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * By the time that Berwick's first paper was published he had left Cambridge to take up an assistant lectureship at the University of Bristol.
 * For two of these four years Berwick undertook valuable war service on the Technical Staff of the Anti-Aircraft Experimental Section of the Munitions Inventions Department at Portsmouth.
 * During session 1919-20 the head of the mathematics department at Bangor was absent and Berwick was acting Head of Department.
-* While Berwick was in Leeds he married Daisy May Thomas in 1923.
 * Two years later Berwick received another recognition of his mathematical distinction when he was awarded a Sc.D. by the University of Cambridge in 1925.
 * The Chair of Mathematics at Bangor fell vacant and in 1926 Berwick was appointed to the post.
 * Berwick wrote only 13 research papers, a monograph, and a number of other articles on mathematical recreations and puzzles.

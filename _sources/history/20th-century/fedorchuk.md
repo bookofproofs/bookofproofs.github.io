@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Vitaly Fedorchuk** was a Russian mathematician who worked various areas of topology.
 
 ### Mathematical Profile (Excerpt):
-* Vitaly Vasilyevich Fedorchuk (1918-2008) was born into a family of farmers in the Ukraine, studied at a military school, and served in Ukraine with Smersh, the military counterintelligence service, from 1943 to 1947.
-* We are unable to confirm from any independent sources that the mathematician Vitaly Vitalievich Fedorchuk, the subject of this biography, was his son.
 * However, given that Vitaly Vasilyevich Fedorchuk worked for Smersh and the K.G.B. it is quite believable that his son's existence would be kept a secret.
-* Vitaly Fedorchuk, the subject of this biography, entered Moscow State University in 1959.
 * Fedorchuk began research while an undergraduate and published On w-mappings of paracompact spaces (Russian) in 1963.
 * While undertaking research, Fedorchuk published Ordered sets and the product of topological spaces (Russian) (1966) and Ordered spaces (Russian) (1967).
 * This paper only contained announcements of the results and Fedorchuk published the proofs in his paper Perfect irreducible mappings and generalized proximities (Russian) (1968).

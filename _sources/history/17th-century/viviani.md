@@ -30,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Galileo, who by this time was totally blind, was very impressed by Viviani's knowledge and abilities.
 * In 1639, he took Viviani into his home as a companion, student and collaborator, and Viviani continued in this role until Galileo died in January 1642.
 * Viviani learnt much from Galileo over this period, working with him on physics and geometry.
-* However, as Viviani relates himself, their relationship went well beyond that of scientist and assistant, becoming much more like that of a father and son.
 * In October 1641, Galileo and Viviani were joined in the villa at Arcetri by Evangelista Torricelli when he moved from Rome.
 * In 1644 Viviani, as Torricelli's collaborator, carried out the experiment which proved a major scientific advance and led to the development of the barometer.
 * When Torricelli died in 1647, Viviani was appointed to fill the lectureship at the Accademia del Disegno in Florence, holding this post for two years.
@@ -53,12 +52,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, the Academy had informally existed for some time before that with Viviani organising a group of natural philosophers to carry out a variety of scientific experiments.
 * On 10 October 1656, together with Giovanni Borelli, Viviani used a pendulum as a timing device to show that sound travels twice a fixed distance in twice the time taken to travel the original distance.
 * After the Academy was formally founded, Viviani was involved in most of the experimental work they carried out, such as experiments with Torricelli's barometer and experiments relating to properties of freezing water.
-* It appears that Viviani found these easy and did not consider it worthwhile to publish his solutions but Prince Leopoldo, brother of the Grand Duke, had strongly encouraged him to do so.
+* Another important work by Viviani is Quinto libro degli Elementi d'Euclide: ovvero Scienza universale delle proporzioni spiegata colla dottrina del Galileo, con nuov'ordine distesa Ⓣ(Fifth Book of the 'Elements' of Euclid: the universal science of proportions explained by the theory of Galileo ...).
 * As he was an engineer all his life Viviani also published on engineering.
 * We have not yet commented on the thing for which Viviani is best known, namely his Racconto istorico della vita di Galileo Galilei Ⓣ(A history of Galileo).
 * Prince Leopoldo asked Viviani to write a sketch of Galileo's life for inclusion in Manolessi's edition of his works.
 * However, things did not go as planned for although Viviani wrote his Life of Galileo it did not appear in the edition of Galileo's Collected Works published by Manolessi in Bologna 1655-56.
-* It would appear that Viviani, and the Medici family, felt that Manolessi's edition was not grand enough to honour Galileo.
 * Viviani wanted to publish his own edition of Galileo's Collected Works so he kept the Life of Galileo which he had written intending to include it in a publication of Galileo's Collected Works which he hoped to edit.
 * In 1659 Viviani wrote a second essay on Galileo's work Lettera di Vincenzio Viviani al Principe Leopoldo de' Medici intorno all'applicazione del pendolo all'orologio.
 * Neither essay was published in Viviani's lifetime, but his Racconto istorico was published in 1717.

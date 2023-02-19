@@ -35,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Warschawski was immensely grateful to Wolff for helping him to escape from the Nazis, but Wolff himself suffered the fate he helped others avoid for he died during the Nazi occupation of the Netherlands.
 * Warschawski published a major 30 page paper On the higher derivatives at the boundary in conformal mapping in the Transactions of the American Mathematical Society in 1935 but had to move from one short term post to the next until he was offered a permanent position in 1939 at Washington University in St Louis.
 * Bergman, also forced to leave Nazi Germany, was on the faculty at Brown when Warschawski joined, as was Bers who was also undertaking research relevant to the war effort.
-* After a year at Brown, Warschawski moved to the University of Minnesota and in March 1947 he married Ilse Kayser.
 * Warschawski was appointed chairman of the Mathematics Department in the Institute of Technology at the University of Minnesota in 1952 and was highly successful in building the Department over the following eleven years.
 
 Born 18 April 1904, Lida, Russia (now Belarus). Died 5 May 1989, San Diego, California, USA.

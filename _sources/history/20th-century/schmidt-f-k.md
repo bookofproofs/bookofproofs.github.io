@@ -30,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hasse, who moved from Kiel to Halle in 1925, corresponded with F-K Schmidt by letter - 150 letters from Schmidt to Hasse, which begin in 1926, were found in his papers at the time of his death.
 * The influence of Krull and Hasse on F-K Schmidt can be seen in the outstanding work that he began to produce on the algebraic theory of function fields in one variable, on algebraic number theory and on valuation theory.
 * The first main achievement of F K Schmidt is the discovery that the classical theorem of Riemann-Roch on compact Riemann surfaces can be transferred to function fields with finite base field.
-* In 1927 F-K Schmidt married Josefine Baumann, who had been a mathematics student in the same class as Schmidt at Freiburg.
 * F K Schmidt sent a letter to Hasse and said that now he can go farther than they were able to in Halle; he announces a more detailed letter soon.
 * F K Schmidt explains, what is of course evident, that "unique" in this context means "unique up to equivalence" of valuations.
 * Two weeks later, in a letter of 29 February 1930, F K Schmidt tells Hasse that now he has completely solved the problem, including the case of non-discrete valuations, and he attaches to his letter a corresponding manuscript.
@@ -41,6 +40,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * F-K Schmidt was a Roman Catholic, and not Jewish, but he was quickly out of favour with the Nazis when he refused to remove Richard Courant's name from the title page of the Springer series.
 * In October 1934 F-K Schmidt was called to Jena as ordinary professor of mathematics and director of the mathematical institute.
 * Ferdinand Springer wanted to send his main mathematical adviser, Friedrich Karl Schmidt, to the United States as a spokesman for his interests in mathematical reviewing.
+* When Süss learned about this, he pressed Dames in the Ministry of Education and Research to refuse Schmidt permission to travel ...
 * Süss was strongly opposed to Schmidt's journey.
 * Schmidt, he had said, still had close ties to Jewish emigrants, and he suggested that he, Süss himself, should go to the United States instead.
 * Süss explicitly characterised the 'Zentralblatt' as a foundation of "a group of Jewish mathematicians and their friends" and suggested that Schmidt's travel permission should be revoked and immediately because Schmidt intended to leave for the States the following week.
@@ -51,6 +51,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Schmidt went on his mission to the United States, but nonetheless the 'Mathematical Reviews' came into being in 1939.
 * In fact, when he returned from the United States, F-K Schmidt wrote a report for the Ministry of Education and Research saying that the founding of Mathematical Reviews could still be prevented but fusing de Gruyter and Springer would anger the Americans pushing them into founding Mathematical Reviews.
 * The Ministry accepted Schmidt's report keeping de Gruyter and Springer separate but, in May 1939, the American Mathematical Society moved to found Mathematical Reviews which, when the Germans learnt of it, caused Schmidt problems.
+* followed Schmidt's outline ...
 * F-K Schmidt took up the chair at the University of Münster from October 1946.
 * As a lecturer F-K Schmidt was held in high regard.
 * We have indicated areas on which F-K Schmidt undertook research throughout this biography.

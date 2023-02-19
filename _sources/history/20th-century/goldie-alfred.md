@@ -25,15 +25,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Alfred attended Wolverhampton Grammar School where he won a scholarship to St John's College, Cambridge.
 * Snow realised that, despite Goldie's training in the Officers Training Corps, he would make a more valuable contribution to the war effort using his mathematical skills in Ballistic Research.
-* Reuter warned him that as a married man Goldie would not be able to afford another year as a student.
 * Goldie requested that he be allowed to begin studies for a Ph.D. at London University, and he was allowed to take some time off from his work at Woolwich Arsenal to undertake mathematical research.
 * Since he wanted to undertake research in algebra, Goldie was advised to write to Hall seeking advice.
 * This was readily given, and Hall suggested that Goldie read van der Waerden's Moderne Algebra, a difficult task for someone who did not speak German, but with the help of a dictionary Goldie soon mastered this fundamental text largely based on Emmy Noether's revolutionary contributions to algebra.
-* Goldie exchanged letters with Hall, and also met Hall on some weekends when he was at his mother's home in Hampstead.
 * Goldie continued to work at Woolwich Arsenal for another year, only leaving in September 1946 when he was appointed Assistant Lecturer in Mathematics at Nottingham University.
-* Alfred and Mary's first child, a son, was born a few weeks after they moved to Nottingham.
 * This led Goldie to the results in universal algebra which he published in The Jordan-Hölder theorem for general abstract algebras (1950) and The scope of the Jordan-Hölder theorem in abstract algebra (1952).
-* A heavy lecture load and difficult living conditions for Goldie and his family, made his two years in Nottingham quite difficult.
 * Kurt Hirsch was appointed to a Readership while Frank Bonsall and Alfred Goldie were appointed to Lectureships.
 * Hirsch advised Goldie to concentrate on an area of algebra other than universal algebra, so he decided that ring theory would provide a good area which would complement the active UK research area of group theory which was led by Philip Hall.
 * Thus it is not really surprising that Goldie's early work in ring theory was influenced by Jacobson's papers and books.
@@ -45,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It is pertinent to note that a 1987 graduate text which aimed to describe the result and to survey some of its consequences ("Noncommutative Noetherian Rings" by J C McConnell and J C Robson) uses about 50 pages to establish Goldie's Theorem and over 500 pages to outline consequences.
 * Goldie had been promoted to Senior Lecturer at Newcastle, then in 1963 he was appointed Professor of Pure Mathematics at Leeds University.
 * Goldie visited the U.S. many times, with extended stays at Yale, Tulane, and the University of California at San Diego.
-* His wife Mary died in 1995 and Goldie married Margaret Turner in 2002.
 * Among the honours Goldie received for his outstanding contributions, we mention the Senior Berwick Prize from the London Mathematical Society in 1970.
 * Alfred Goldie was a very practical man, particularly enjoying working with wood.
 

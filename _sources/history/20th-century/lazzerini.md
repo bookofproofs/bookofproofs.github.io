@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Guacolda Antoine Lazzerini **was a mathematics teacher at both school and university level in Chile. She made many contributions to the development of education in Chile during her long active life.
 
 ### Mathematical Profile (Excerpt):
-* Guacolda, the subject of this biography, was their first child born in 1908.
-* She was named Guacolda since her father wanted to emphasise that she was Chilean; Guacolda is a name from Mapuche mythology.
 
 Born 11 April 1908, Santiago de Chile, Chile. Died 22 August 2015, Santiago de Chile, Chile.
 

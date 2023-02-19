@@ -35,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Again we have a nice description of Thue's opinion of Berlin and the mathematicians who lectured there in a letter he wrote to Holst in June 1891.
 * Back in Olso, Thue held a scholarship in mathematics from 1891 to 1894.
 * Lucie had been born on 4 August 1873 and was ten years younger than Thue.
-* Axel and Lucie Thue had seven children over the following years.
 * After his scholarship ended,  Thue was appointed to Trondheim Technical College where he worked from 1894 until 1903.
 * Although this was an excellent college, considered the best in the country to train engineers, Thue was not happy there.
 * However, the period from 1906 to 1916 was when Thue did his best work, although it was not accomplished in easy circumstances.
@@ -45,6 +44,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Many of his results were rediscovered by mathematicians who were unaware of Thue's contributions.
 * In particular, Thue systems, semi-Thue systems and his work on the combinatorics of words are well-known.
 * Thue's 1910 paper deals with transformations between trees, and is thus a more direct predecessor of his 1914 paper.
+* Thue's 1914 paper ...
 * is mainly famous for proving an early example of an undecidable problem, cited prominently by Emil Post in 'Recursive unsolvability of a problem of Thue' (1947).
 * If this work seems a little strange for a professor of applied mathematics then some quotes from Thue will clarify where he stood on the issue of applications.
 * One characteristic of Thue's work should be mentioned.

@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Griffith Evans** was an American mathematician whose work dealt with potential theory, functional analysis, integral equations and minimal surfaces. He was head of mathematics at Berkeley for many years.
 
 ### Mathematical Profile (Excerpt):
-* It was a family in which mathematics played a major role for George Evans was a mathematics teacher at the English and Latin High School in Boston.
 * In fact George Evans had published a number of school level mathematics texts including Algebra for schools which had given him a good reputation as a teacher of mathematics.
-* Griffith attended the school at which his father taught and completed his studies there in 1903 at the age of sixteen.
 * It was under Bôcher's supervision that Evans began research at Harvard, being awarded his Master's degree in 1908 and his doctorate in 1910.
 * Already before completing his Ph.D., Evans had been employed as an instructor at Harvard in session 1909-10.
 * Most of this time Evans spent in Rome studying with Volterra but he also had an interest in applied mathematics and so he spent a summer in Berlin studying with Planck.

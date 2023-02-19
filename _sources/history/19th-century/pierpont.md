@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James Pierpont** was an American mathematician who worked on the Galois theory of equations.
 
 ### Mathematical Profile (Excerpt):
-* The Pierpont family had lived for many generations in New Haven.
 * One of the early members, also named James Pierpont (1659-1714), was a graduate of Harvard University and a founder of The Collegiate School of Connecticut in 1701 which shortly after was named Yale College.
-* James, the subject of this biography, was one of his parents' four children.
 * Of course one has to realise that the college education that Pierpont had received in no way prepared him for doctoral studies so he had to go through the full range of undergraduate and postgraduate studies in Europe.
 * However, it was Kronecker's algebraic school that influenced Pierpont most and this influence could clearly be seen in Pierpont's work for many years.
 * The last few years of Pierpont's European training were spent at the University of Vienna where he undertook research for his doctorate.

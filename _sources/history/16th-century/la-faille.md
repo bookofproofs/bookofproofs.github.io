@@ -23,11 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jan-Karel della Faille** or **Jean Charles de La Faille** was a Flemish Jesuit who was the first to determine the centre of gravity of the sector of a circle.
 
 ### Mathematical Profile (Excerpt):
-* His father was Jean-Charles de La Faille, seigneur de Rymenam, while his mother was Marie van de Wouwere.
 * De la Faille became a disciple of Saint-Vincent, whom he met in Antwerp where he was also influenced by François d'Aguilon.
 * De la Faille taught at the Jesuit College of Louvain from 1626 until 1628 when, after a short stay in Lier, he left for Spain on 23 March 1629 where he was appointed as a professor at the Imperial College in Madrid.
 * De la Faille advised Philip IV on questions of defence and of military engineering during this period.
 * La Faille also taught mathematics and military engineering in Madrid.
+* In 1638 Philip IV named della Faille Chief Cosmographer of the Council of the Indies ...
 * De la Faille helped Philip IV by serving as adviser on fortifications to the Duke of Alba along the Spanish-Portuguese border from 1641 until 1644.
 * Della Faille soon became the prince's trusted advisor, and accompanied him on his military campaigns.
 * The education that Juan José de Austria received from della Faille must have exerted a decisive influence on his interest in modern science, for he subsequently became Maecenas to Spanish scientists, employing as his personal physician such significant figures in Spanish scientific renewal as Juan Bautista Juanini.
@@ -37,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * De la Faille wrote Theses mechanicae in 1625.
 * La Faille ended his work with four corollaries which revealed his ultimate goal: an examination of the quadrature of the circle.
 * One of de la Faille's close personal and scientific friends was van Langren.
-* At the request of his family, the Belgian painter Anthony Van Dyck painted de la Faille's portrait.
 * In this famous portrait, de la Faille is in religious habit and is represented with his mathematical instruments such as a compass, a square and a globe.
 
 Born 1 March 1597, Antwerp, Dutch Republic (now Belgium). Died 4 November 1652, Barcelona, Spain.

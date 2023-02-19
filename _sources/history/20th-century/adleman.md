@@ -36,7 +36,6 @@ contributors: @Saikat-Biswas,bookofproofs
 * Rivest stayed up all night, preparing the manuscript describing the code before he handed it to Adleman.
 * He had listed the paper's authors in alphabetical order - Adleman, Rivest, Shamir.
 * Adleman was made president, Rivest chairman of the board and Shamir the treasurer.
-* MIT provided Adleman with an intellectually stimulating atmosphere but he yearned for California where he wanted to settle down and have a family.
 * In that same year, Adleman, along with R S Rumely and C Pomerance, published a paper describing a 'nearly polynomial time' deterministic algorithm for the problem of distinguishing prime numbers from composite ones.
 * Adleman, who was Cohen's supervisor, was immediately convinced that the idea would work the moment he learned about it.
 * A key turning point in Adleman's life came during the early 90's when he directed his enthusiasm towards the field of immunology.

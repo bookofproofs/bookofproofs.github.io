@@ -23,13 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Torrence Tate** was an American mathematician who won both the Wolf and Abel prizes for his work in Number Theory.
 
 ### Mathematical Profile (Excerpt):
-* John Tate Sr (born Lennox, Iowa, 28 July 1889) had a father of Scottish descent and a mother of Irish descent.
-* John Tate Sr. was a full professor of physics at the University of Minnesota when his son John Torrence Tate Jr was born.
-* John Tate Jr, the subject of this biography, was brought up in Minneapolis.
-* In 1939 John's mother died.
-* John grew up with a fascination for mathematical puzzles, in particular reading books by Henry Dudeney that his father owned.
 * It was pure coincidence that his thesis advisor had made major contributions to the topics that had most fascinated Tate when he was a schoolboy.
-* Returning to 1950, the year Tate was awarded his doctorate, we note that his father died in May of that year.
 * Tate was appointed as a research assistant and instructor at Princeton in 1950.
 * The Artin-Tate seminar on class field theory given at Princeton University in 1951-1952 covered cohomology theory of groups, the fundamentals of algebraic number theory, a preliminary discussion of class formations, local class field theory, global class field theory, and the abstract theory of class formations and Weil group.
 * Parts of this was written up as the book Class field theory by Artin and Tate and published in 1968.

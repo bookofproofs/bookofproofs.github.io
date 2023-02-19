@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Wilhelm Winkler** was a Czech-born statistician and politician whose work covered a wide field of theoretical and applied statistics.
 
 ### Mathematical Profile (Excerpt):
-* He came from a large German speaking family of eight children, Wilhelm being the fourth child.
-* The size of the family naturally stretched Julius and Anne's finances so Wilhelm had to work to augment the income from the time he was 13 years old.
 * It was a time of financial hardship and difficulty for Winkler.
 * After graduating, Winkler practised law for a short time before volunteering to serve for a year in the Austrian army.
 * However Winkler was not happy with the status of statistics in central Europe.
@@ -32,12 +30,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * When the war ended in 1918 Winkler became Secretary of State for Military Affairs, but his progressive ideas meant that this was an unpopular appointment as far as certain traditionally minded colleagues were concerned.
 * In this role Winkler attended the Versailles Peace Conference in 1919 as a member of the Austrian delegation.
 * From 1921 Winkler began what is effectively two careers.
-* Winkler also was by now a married man, having married Clara Deutch in 1918.
 * Both Winkler's careers progressed in parallel.
 * Winkler's work in statistics achieved international recognition for him at this time.
 * Political pressure was put on Winkler' who was forced to resign from both his government post and his university professorship.
 * There followed an extremely difficult period for Winkler through the years of World War II.
-* Despite the hardship he and his family suffered, Winkler worked on a book Basic Course in Demography which was eventually published in 1956.
 * It was only after the war ended in 1945 that Winkler was reinstated to his university post when he was appointed to a chair in the University of Vienna.
 
 Born 29 June 1884, Prague, Bohemia, Austro-Hungarian Empire (now Czech Republic). Died 3 September 1984, Vienna, Austria.

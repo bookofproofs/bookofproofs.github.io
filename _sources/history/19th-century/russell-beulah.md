@@ -24,15 +24,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * All later documents give her name as Beulah Russell (or Bulah Russell) and she does not appear to have used the name Beatrice.
-* Beulah Russell was the daughter of the farmers James Russell (1824-1895) and Havana Victoria Roberts (1842-1924).
-* James Russell was born on 5 March 1824 in Tennessee and he married Sarah Ann Higginson on 16 November 1846 in Union County, Kentucky.
-* They had four children: Pamela E Russell (born 1847); Eliza E Russell (born 1848); George W Russell (born 1850); and Mary A Russell (born 1853).
 * Sarah Ann Russell died on 6 September 1855.
-* James Russell married Havana Victoria Roberts in Hopkins, Kentucky on 2 April 1872.
-* James and Havana Russell had five children: Edgar Roberts Russell (1872-1949); Beatrice Beulah Russell (1878-1940), the subject of this biography; Vera Russell (1881-1953); Dora Russell (born 1884); and Marion Russell (1885-1966).
 * It was in Boxville that Beulah Russell received her school education, after which she became a school teacher before beginning her College education.
-* At the time of the 1900 census, Beulah is 21 years old and is living with her two brothers and two sisters.
-* Beulah is a school teacher while both her sisters are attending school.
 * In 1900 Beulah Russell entered Randolph-Macon Woman's College.
 * This College, with strong Methodist connections, had been founded in Lynchburg, Virginia in 1891 by William Waugh Smith who was the president of the College when Russell studied there.
 * The College, which had opened in 1893, aimed to provide Virginia women with "an education equal to that given in our best colleges for young men." The academic standards were high and Russell majored in mathematics and graduated in 1903 with a B.A. She was then appointed as an Instructor in Mathematics at Lafayette College in Easton, Pennsylvania.

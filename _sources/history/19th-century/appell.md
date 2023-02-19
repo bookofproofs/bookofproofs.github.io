@@ -23,18 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Paul Appell** was a French mathematician who worked in analysis, geometry and mechanics.
 
 ### Mathematical Profile (Excerpt):
-* Appell's father was a dyer at Ritterhus and the whole family, including two half-brothers, worked in the business.
-* In 1866 Appell's family were forced to leave Ritterhus and his father died the following year.
 * Appell rejected the Catholic views of his parents but he retained their strong patriotic French views.
-* Appell's youngest half-brother Charles, who Appell was very close to, joined the French forces.
 * The Germans captured Strasbourg after a 50-day siege in which Appell suffered greatly.
 * Strasbourg was annexed by the Germans and Appell moved to Nancy to become a French citizen and prepare himself to study at university in Paris.
 * Appell became a life-long friend of Poincaré while at Nancy.
-* In 1881 Appell married Amelie, niece of Bertrand and of Hermite and a cousin of Émile Picard.
 * Appell now worked in Paris but returned for each vacation to German held Alsace.
-* Basically Appell and his brother Charles were acting as spies and informants for France against Germany.
 * In 1892 Appell was elected to the Académie des Sciences.
-* One of the major political events which gripped France during much of the time that Appell held top posts was the Dreyfus Affair.
 * Dreyfus, like Appell, came from Alsace.
 * Appell was very much involved with the case.
 * When Dreyfus was granted a retrial in 1904, Appell served as an expert on the commission that, by July 1906, had cleared Dreyfus and reversed all previous convictions.

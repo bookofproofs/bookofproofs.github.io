@@ -25,13 +25,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * We choose to use the name Péter throughout this biography.
 * Rózsa Péter studied at Pázmány Péter University (renamed Loránd Eötvös University in 1950) in Budapest.
-* Her older brother was already studying medicine and Rózsa's father thought that if Rózsa studied chemistry she could usefully collaborate with her brother.
 * Another one to have an important influence on Rózsa Péter was László Kalmár who was a fellow student at Pázmány Péter University.
 * After graduating in 1927, passing the examinations to qualify as a Gymnasium teacher of mathematics, Péter had to settle for odd jobs.
 * Péter had no possibility of getting a permanent teaching position and earned a living tutoring mathematics and giving private lessons.
 * During the war years Péter worked on writing a book.
 * Péter was sent to the ghetto but in January 1945 the Soviet army took control of Budapest and, although the Nazis had planned to massacre the Jews in the ghetto, they were saved.
-* Although Péter survived, her brother and many of her friends died during the war.
 * For a while Péter was so discouraged that she turned away from mathematics.
 * This experience not only restored Péter's self-confidence, but it also pointed her research in the direction she would follow from then on.
 * All her subsequent papers appeared under the Hungarian version of her name, Rózsa Péter, that she adopted around 1932.

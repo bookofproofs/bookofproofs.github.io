@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * They settled in France and Wendelin was brought up there.
-* He has an older brother, Benjamin Werner, who was born in Munich in June 1966.
 * Benjamin Werner, an outstanding researcher in computer science, was, of course, also brought up in France.
 * Wendelin took French nationality at the age of nine.
 * After leaving the Lycée Franco-Allemand, it was to the Lycée Hoche, close to the Palace of Versailles, that Werner went to prepare for his university studies.
@@ -36,6 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 2001 Werner was invited to deliver the Second Rollo Davidson Lecture in Churchill College, Cambridge.
 * In April 2005 Werner delivered the 4th  Thomas Wolff Memorial Lectures in Mathematics at the California Institute of Technology.
 * Werner has been invited to give several other named lectures, in addition to those mentioned above, such as the Mark Kac seminar in Utrecht, the James and Marylin Simons lectures at the Massachusetts Institute of Technology, the Levy lecture in Barcelona, and the Goran Gustafsson lectures in Stockholm.
+* Werner's work, together with his collaborators such as Greg Lawler, Oded Schramm and Stas Smirnov, involves applications of Probablity and Conformal Mapping Theory to fundamental issues in Statistical Physics ...
 * Namely, mathematicians such as Werner are not only providing rigorous proofs of already existing claims in the Physics literature, but beyond that are providing quite new conceptual understanding of basic phenomena - in this case, a direct geometric picture of the intrinsically random structure of physical systems at their critical points (at least in two dimensions).
 * Yet a third source of pleasure concerns the collaborative nature of much of Werner's work.
 * But the highly interactive style, of which Werner, together with Lawler, Schramm and his other collaborators, is a leading exemplar, appeals to many of us as simultaneously good for the soul while leading to work stronger than the sum of its parts.

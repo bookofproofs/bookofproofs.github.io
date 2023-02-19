@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Philipp  von Seidel** was a German mathematician who worked on dioptics and mathematical analysis.
 
 ### Mathematical Profile (Excerpt):
-* His father, Justus Christian Felix Seidel, worked for the German post office and his job entailed him moving frequently.
 * This meant that Philipp attended several different schools during his upbringing.
 * Although Seidel completed his school studies in the autumn of 1839 he did not enter university immediately but received private coaching in mathematics before beginning his university career.
 * This was valuable coaching for Seidel, particularly since Schnürlein was a good mathematician who had studied under Gauss.
@@ -36,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Seidel progressed rapidly at Munich.
 * An interesting aspect of Seidel's astronomical work involved, as we mentioned above, the use of probability theory.
 * Problems with his eyesight forced Seidel into early retirement.
-* Since he had never married he had no immediate family to help him when he became ill, but he had an unmarried sister Lucie Seidel who looked after him until 1889.
 
 Born 24 October 1821, Zweibrücken, Germany. Died 13 August 1896, Munich, Germany.
 

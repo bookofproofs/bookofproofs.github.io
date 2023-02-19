@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Already at this time the Soviet Army was in control of Mühlhausen, the city in which Hans was living, and it became part of the German Democratic Republic in 1949.
 * Hans began his school education in Mühlhausen.
-* This led to the erecting of the Berlin Wall in August 1961 but by this time the Meinhardt family had become one that had "deserted the Republic", to use a GDR term.
 * The rest of Hans Meinhardt's education was in West Germany.
 * Meinhardt attended the University of Heidelberg and the University of Cologne where he studied mathematics and physics.
 * The Institute of Genetics, the first institute at a German university that was exclusively dedicated to research in molecular biology, was opened in 1962 and at the opening ceremony Niels Bohr gave the lecture "Light and life revisited." Meinhardt, a student at Cologne at this time, attended this lecture.
@@ -40,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Meinhardt's book is principally a detailed account of the correlation of this model with a wide variety of experimental phenomena.
 * Meinhardt's second book was The Algorithmic Beauty of Sea Shells: The Virtual Laboratory (1995).
 * Meinhardt retired in 2003 but, like so many research scientists, he continued to work on a variety of projects.
-* He was married to the psychotherapist Edeltraud Putz who, after her marriage was known as Edeltraud Putz-Meinhardt.
 * Hans Meinhardt was a happy and dedicated scientist.
 * As Hans was fond of saying: "So wird's gemacht" - that's how it's done.
 

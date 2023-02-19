@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Leonty Magnitsky** was a Russian teacher who wrote the first guide to mathematics published in Russia.
 
 ### Mathematical Profile (Excerpt):
-* Nothing is known for certain about Leontii Filippovich's childhood except that he had to work hard yet learned to read and write.
 
 Born 9 June 1669, Ostashkov, Russia. Died 30 October 1739, Moscow, Russia.
 

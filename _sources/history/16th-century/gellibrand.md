@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Henry Gellibrand** was an English clergyman who worked on magnetic declination and who made mathematical contributions to navigation.
 
 ### Mathematical Profile (Excerpt):
-* Henry Gellibrand senior was a fellow of All Souls College, Oxford, and Henry, the subject of this biography, was his eldest son.
 * Gellibrand succeeded Gunter to the chair of astronomy in Gresham College, London in 1627.
 * Gellibrand's most famous scientific discovery was the change over the years in magnetic declination.
 * Gellibrand published his findings in A discourse mathematical of the variation of the magneticall needle together with its admirable diminution lately discovered (1635).

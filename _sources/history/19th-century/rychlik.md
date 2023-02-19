@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Karel Rychlik** was a Czech mathematician who worked in the fields of algebra, number theory, mathematical analysis and the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* The family only lived in Benesov for the first three years of Karel's life before they moved to Vlasim.
 * It was in Vlasim, which is only about 18 km south east of Benesov, that Karel began his primary education.
-* Certainly his family moved frequently, for towards the beginning of 1900 they moved yet again, this time to Prague, and Karel completed his schooling at the Academical Gymnasium School in Prague graduating with distinction in July 1904.
 * After graduating from the Gymnasium, Rychlik entered the Charles-Ferdinand University in Prague in October 1904.
 * Already before his doctorate had been conferred, Rychlik was appointed as an assistant at the Charles University in Prague although for the first year he was unpaid.
 * In this role Rychlik gave lectures on the Theory of Algebraic Fields  and on the Theory of Algebraic Functions.
-* In 1913 Rychlik's younger brother Vilém died at the age of 26.
 * For Rychlik, having a position at the Charles University of Prague was a good thing in terms of status but it did not provide a sufficient income for him to live.
 * Rychlik took over his lecture courses at the Technical University.
 * Rychlik's contributions cover a number of different areas.

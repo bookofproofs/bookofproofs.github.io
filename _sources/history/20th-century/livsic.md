@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Moshe Livsic** was a Ukrainian-born mathematician who worked in functional analysis.
 
 ### Mathematical Profile (Excerpt):
-* The family were Jewish and Livsic brought up in a very religious household.
 * Livsic graduated from school in 1931 and, with a school friend, planned his future studies.
 * However to be successful in the physical sciences Livsic and his friend would first have to become knowledgeable in mathematics.
 * Livsic began studies at Odessa technical College aimed at his becoming a radio technician but, in 1933, he entered the Department of Physics and Mathematics at Odessa State University.

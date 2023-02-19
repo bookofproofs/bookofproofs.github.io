@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Kazimierz Zarankiewicz** was a Polish mathematician who worked in topology.
 
 ### Mathematical Profile (Excerpt):
-* When we say that Zarankiewicz was brought up in Poland, this must be seen in relation to the political circumstances of the time.
 * Zarankiewicz completed his secondary school education and entered the University of Warsaw in 1919.
 * Janiszewski and Mazurkiewicz were conducting a topology seminar there from 1917 onwards, Sierpiński arrived in 1918, and in 1919, the year Zarankiewicz arrived, Kuratowski had just graduated and was beginning his doctoral studies.
 * With such a concentration on topology, and the excitement of those studying this new discipline in their newly freed country, it is not surprising that this was the area which attracted Zarankiewicz.

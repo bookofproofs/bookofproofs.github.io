@@ -25,15 +25,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Alexander Craig was a mining engineer who had emigrated from Scotland and was working in the coal mining industry of Luzerne county.
 * Thomas's school education was in the local Pittston schools where he showed himself to be talented, bright and very successful.
-* It was one of the first colleges in the United States to offer an engineering qualification and Craig, who at this time was intent on following his father into a career in engineering, sought a qualification in this subject.
 * Craig's time at Lafayette College was more eventful than his outstanding record in school in Pittston would have predicted.
 * After four years studying at Lafayette College, Craig graduated with a C.E., a civil engineering degree, in 1875.
 * Craig entered the university in 1876 when it opened, one of fifteen students, and he was appointed as a fellow while he worked for his doctorate.
 * Even before he received his Ph.D. Craig was lecturing at Johns Hopkins.
 * Craig owned a manuscript of Karl Weierstrass's lectures on the 'Calculus of Variations' which Weierstrass delivered in Berlin in the summer semester of 1879.
 * It seems more likely that Craig was given a copy of a manuscript of these lectures rather than that he attended Weierstrass's course in Berlin.
-* After his fellowship ended in 1879, Craig was appointed as a member of staff at Johns Hopkins University but, to supplement his income, he also took a part-time job with the United States Coast and Geodetic Survey in Washington, D.C. Craig married Emily Louise Alvord, daughter of General Benjamin Alvord of the United States Army, on 4 May 1880 in Washington, D.C. Emily had been born in Fort Vancouver, Washington on 20 October 1858.
-* Thomas and Emily Craig had two children: Ailsa Craig, born in Washington D.C. on 28 August 1883; and Ethel Craig, born in Baltimore, Maryland, on 26 October 1891.
 * In 1881 Craig ended his part-time appointment with the Coast and Geodetic Survey but, of course, continued in his position at Johns Hopkins University.
 * In publishing in this top quality European journal, Craig was one of the first Americans to publish papers outside the United States.
 * Let us look a little at Craig's teaching by taking an example of the year 1881-82.
@@ -47,8 +44,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Dr Craig was an admirable lecturer.
 * It is well known that, as a lecturer, Dr Craig thought quickly, spoke rapidly, and wrote with great celerity.
 * Those who knew Dr Craig only in his declining years, need to be told of the enthusiasm, the diligence, and the learning which for a long period were his distinguishing characteristics.
-* Although he died in Baltimore, Craig was buried at the town of his birth, Pittston, Pennsylvania, beside his mother who his died ten years before.
-* Craig's father outlived him by ten years.
 * Professor Craig possessed great power of research, and wrote much for various mathematical journals.
 * Professor Craig occupied a place in the very front rank of American mathematicians.
 

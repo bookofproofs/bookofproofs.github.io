@@ -24,12 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Nicole-Reine met Jean-Andre Lepaute on this occasion and their friendship blossomed.
-* Nicole-Reine helped her husband in his work, in particular keeping the Lepaute accounts.
-* It was not  long after Nicole-Reine married that Jérôme Lalande, who was at that time a law student, became fascinated by astronomy and was given a room above the porch of the Palais du Luxembourg to use as an observatory.
 * Lalande quickly became a friend of Nicole-Reine and Jean-Andre Lepaute.
 * He was sent to the Cape of Good Hope to make astronomical observations and, returning to Paris in 1753 after a very successful trip, he was elected to the Academy of Sciences.
 * Jean-Andre Lepaute had designed a clock with a new type of escapement and Lalande was asked by the Academy to evaluate it for astronomical use.
-* This work contains the first mathematical work by Nicole-Reine Lepaute who calculated the tables of oscillations of a pendulum which were contained in her husband's work.
 * In June 1757 Lalande decided that he would like to attempt to calculate a precise date for the return of Halley's comet.
 * It was known to have been seen in 1305, 1380, 1456, 1531, 1607 and 1682 and Halley, taking into account perturbations to the orbit caused by the gravitational effects of Jupiter, had predicted that the comet would return reaching perihelion in December 1758.
 * Lalande approached Alexis Clairaut for help and Clairaut provided a basic programme of work requiring an extraordinary amount of computation.

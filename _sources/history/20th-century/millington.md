@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * By the time that Ashworth studied there it no longer served as an orphanage school but simply as a good grammar school.
 * Clearly Ashworth's performance meant that a research career beckoned.
 * Ashworth went with Atkin spending the year at these two universities working on various problems related to modular forms.
-* In 1968, the year in which she completed her doctorate, Ashworth married Lieutenant A H Millington of the Royal Electrical and Mechanical Engineers.
 * Then Lieutenant Millington was given a two-year posting to Germany and Margaret Millington went with him teaching mathematics at an Army Education Centre.
 * Margaret Millington had little opportunity to make a significant mathematical contribution.
 * In Subgroups of the classical modular group Millington gives a classification of subgroups in terms of their cusp split and shows that that certain arithmetically possible combinations of type and cusp split do not occur for any subgroup.

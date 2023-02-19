@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Pierre Boutroux** was a French mathematician and historian of science.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Aline Catherine Eugénie Boutroux who was a sister of Poincaré and so he was also related to the other men of great distinction in that family.
 * Boutroux was educated in Paris at the École Normale Supérieure and he received his licentiate with a thesis, which was published by the University of Paris, L'imagination et les mathématiques selon Descartes Ⓣ(Imagination and mathematics according to Descartes).
 * Although Boutroux held this chair in Poitiers for twelve years he spent much of the time at other institutions.
 * During the war Boutroux served bravely in the French army.

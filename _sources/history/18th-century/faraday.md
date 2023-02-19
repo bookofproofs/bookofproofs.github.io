@@ -23,13 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Michael Faraday** was an English physicist whose discoveries in electricity had an enormous influence on the development of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Faraday's father, James Faraday, was a blacksmith who came from Yorkshire in the north of England while his mother Margaret Hastwell, also from the north of England, was the daughter of a farmer.
-* They already had two children, a boy Robert and a girl, before they moved to Newington Butts and Michael was born only a few months after their move.
-* By 1795, when Michael was around five years, the family were living in Jacob's Wells Mews in London.
-* Times were hard particularly since Michael's father had poor health and was not able to provide much for his family.
 * The religious influence was important for Faraday since the theories he developed later in his life were strongly influenced by a belief in a unity of the world.
 * Michael attended a day school where he learnt to read, write and count.
-* When Faraday was thirteen years old he had to find work to help the family finances and he was employed running errands for George Riebau who had a bookselling business.
 * In 1805, after a year as an errand-boy, Faraday was taken on by Riebau as an apprentice bookbinder.
 * From 1810 Faraday attended lectures at John Tatum's house.
 * In 1812 Faraday attended lectures by Humphry Davy at the Royal Institution and made careful copies of the notes he had taken.
@@ -42,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Faraday met Ampère and other scientists in Paris.
 * Heading north again they visited Milan where Faraday met Volta.
 * On his return to London, Faraday was re-engaged at the Royal Institution as an assistant.
-* In 1821 Faraday married Sarah Barnard whom he had met when attending the Sandemanian church.
 * Faraday was made Superintendent of the House and Laboratory at the Royal Institution and given additional rooms to make his marriage possible.
 * The year 1821 marked another important time in Faraday's researches.
 * Davy became interested and this gave Faraday the opportunity to work on the topic.
@@ -53,7 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In the ten years from 1821 to 1831 Faraday again undertook research on chemistry.
 * This was a difficult time for Faraday since Davy was at this time President of the Royal Society and could not see the man whom he still thought of as his assistant as becoming a Fellow.
 * Faraday never held the incident against Davy, always holding him in the highest regard.
-* Faraday introduced a series of six Christmas lectures for children at the Royal Institution in 1826.
 * In 1831 Faraday returned to his work on electricity and made what is arguably his most important discovery, namely that of electro-magnetic induction.
 * In 1832 Faraday began to receive honours for his major contributions to science.
 * During this period, beginning in 1833, Faraday made important discoveries in electrochemistry.

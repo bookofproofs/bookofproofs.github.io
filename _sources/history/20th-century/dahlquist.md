@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Germund Dahlquist** was a Swedish mathematician who worked in the theory of numerical analysis as applied to differential equations.
 
 ### Mathematical Profile (Excerpt):
-* Germund's mother was a poet, but also wrote a number of well-known hymns.
 * Dahlquist entered Stockholm University in 1942 to begin his study of mathematics.
 * These are qualities that Dahlquist shared to a high degree.
 * Bohr took the time to discuss mathematics with his young student and inspired Dahlquist's early interests, which centred on analytic number theory, complex analysis, and analytical mechanics.
@@ -40,6 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Tragically, my mentor, friend, and coauthor Germund Dahlquist died on February 8, 2005, before this first volume was finished.
 * In 1990 Dahlquist retired from the Royal Institute of Technology in Stockholm, but remained very active in research.
 * Dahlquist wrote to Marchuk pleading the dissident's case.
+* After a long time with no response, two staff members of the Soviet Embassy called at Germund's office one day, bringing greetings from Marchuk and a package, that turned out to contain ...
 * On one visit to the USA, with a few colleagues in a fine restaurant, Germund heard a female bar pianist whose music was obviously the highlight of the evening for him.
 * When it was time to leave, Germund told the pianist how much he had enjoyed her stylish playing, adding that it had reminded him of one of his favourites, the great jazz pianist Art Tatum.
 * He succeeded, in an extraordinary way, to relate stability concepts to accuracy and proved the deep results which are nowadays called the first and second Dahlquist barrier.

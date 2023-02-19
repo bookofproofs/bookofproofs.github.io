@@ -31,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The outbreak of war in 1939 was distressing to Prager and the German advances by 1940 made him decide that he would be best placed if he could emigrate to the United States.
 * This, however, was not easy at this difficult time, even for a scientist with the high international reputation enjoyed by Prager.
 * Brown University, in Providence Rhode Island, took the opportunity to expand its graduate programme by offering Prager the position of Director of Advanced Instruction and Research in Mechanics.
-* Prager had to remain in Turkey until October 1941, and then the journey from Istanbul to Providence, Rhode Island, took him and his family about six weeks.
 * J L Synge was visiting professor at Brown University in 1941 when Prager arrived there.
 * They soon began collaborating and publishing papers in the Quarterly of Applied Mathematics  which Prager founded in April 1943 and edited for over 20 years.
 * In the Walker-Ames Lectures, Prager developed the hypercircle method applying it to statically indeterminate structures and to the equilibrium of elastic solids.

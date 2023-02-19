@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Charles Boys** was an English physicist, known for his careful and innovative experimental work.
 
 ### Mathematical Profile (Excerpt):
-* Charles was one of a large family, being his parents' eighth child, and he was brought up in the vicarage at Wing.
 * From there Boys went to the Royal School of Mines where he was taught physics by Frederick Guthrie.
 * The school had no mathematics department so Boys learnt mathematics from books including Todhunter's Integral Calculus.
 * Boys is famed as a physicist and inventor of instruments.
@@ -31,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was by using a quartz fibre suspension in Cavendish type experiments that Boys was able to improve the value obtained for the gravitational constant.
 * In 1888 Boys was elected a Fellow of the Royal Society.
 * In 1887 Boys took up an applied science post of Metropolitan Gas Referee and he held this post until the Referees were abolished in 1939.
-* Boys divorced his wife in 1910 after 18 years of marriage.
 * Boys received many honours in addition to election to the fellowship of the Royal Society which we mentioned above.
 * The University of Edinburgh awarded Boys an honorary degree in 1932.
 

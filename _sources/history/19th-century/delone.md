@@ -23,11 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Boris Delone** was a Russion mathematician who worked on algebra and the geometry of numbers. He was an outstanding mountain-climber.
 
 ### Mathematical Profile (Excerpt):
-* Boris Nikolaevich's mother was Nadezhda Alexandrovna and his father was Nikolai Borisovich Delone, a professor of mechanics and physics at St Petersburg University.
-* As one might expect of the son of a university professor, Boris Nikolaevich had an excellent education that developed his many skills and talents.
-* His music teacher insisted that the gifted boy should study music composition at the conservatory after graduating from his high school, while his drawing teacher strongly advised the Delone family that their talented son should continue his education at the Art Academy.
 * Meanwhile, Boris Nikolaevich was also falling in love with science turning the room in his home into a physics laboratory and, at the age of fifteen, building his own telescope with a bronze mirror which he polished himself.
-* In the middle of his years at high school the Delone family had moved from St Petersburg to Kiev where Nikolai Borisovich completed his secondary education.
 * In 1908-1909 the eighteen-year-old Delone flew the gliders he was constructing, so becoming one of the first Russian glider pilots.
 * At this stage in his career, Grave was undertaking research in algebra and number theory, particularly Galois theory and the theory of ideals, and it was these topics that formed Delone's areas of research.
 * We should also mention Delone's influence on Nikolai Grigorievich Chebotaryov, who began studying under Grave in 1912.
@@ -36,9 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Delone moved to Petrograd in 1922.
 * Petrograd was the name that St Petersburg had been given in 1914 and, two years after Delone began working there, in 1924, it was again renamed, this time to Leningrad.
 * Delone worked at Leningrad University from 1922 until 1935.
-* Delone married and on 22 May 1926 his son Nikolai Borisovich Delone was born.
 * Nikolai Borisovich became a professor of physics with a high international reputation in nuclear physics.
-* Nikolai Borisovich's son Vadim Delone (grandson of the subject of this biography) was a famous poet and human-rights activist.
 * However the Society was reformed in 1921 as the Petrograd Physical and Mathematical Society and Delone joined in the following year after his move to Petrograd.
 * In this field Boris Nikolaevich originated two deep methods - "The method of the empty sphere" and "The method of the foliated construction".
 * In number theory, Delone studied cubic fields, in particular investigating the correspondence between binary cubic forms and rings in cubic fields.
@@ -52,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Delone published a number of important monographs.
 * Delone was also involved with secondary school mathematics, and in 1934, together with his pupil V A Tartakovskii, initiated and organized the first School Mathematics Olympiad.
 * At Moscow State University, Delone taught a course on computers and in 1952 published A short course in mathematical machines.
-* As a final comment let us note that in 1947 Delone published On a duplicator linkage of Prof N B Delone containing a four-line proof of a result on linkages due to his father Nikolai Borisovich Delone.
 
 Born 15 March 1890, St Petersburg, Russia. Died 17 July 1980, Moscow, Russia.
 

@@ -32,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * On Einstein's recommendation Frank succeeded him to the chair of theoretical physics in the German University of Prague in 1912.
 * Frank, Hahn and von Mises became part of the somewhat larger group active during the 1920s in the Vienna Circle of Logical Positivists.
 * The friendship between Frank and von Mises developed into a collaboration in the mid 1920s.
-* Frank had married on 16 November 1920, his wife being Hania Gerson.
 * Frank remained at the German University in Prague until 1938.
 * Political pressure was put on Frank and other members of the Vienna Circle, and the group disbanded with many of its members including Frank fleeing to the United States.
 * In the United States Frank was first appointed as a visiting lecturer, then made a lecturer in physics and mathematics at Harvard.

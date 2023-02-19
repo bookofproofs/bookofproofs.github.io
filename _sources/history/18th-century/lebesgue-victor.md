@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Victor Amédée Lebesgue's parents were Simon Pierre Lebesgue (born 8 May 1752) and Marie Catherine Denis (born 8 November 1750 in Amblainville, Oise).
-* At the time Victor Amédée was born, his father Simon Pierre was a commissioner at the court for the district of Grandvilliers.
 * Victor Amédée began his schooling at the Lycée in Amiens and there he met and became friends with Charles Alexandre (born 19 February 1797 in Amiens; died 6 June 1870 in Paris).
 * Their interests were very different, with Lebesgue more interested in mathematics while Alexandre was interested in ancient languages.
 * However, many years later Alexandre played a role in helping Lebesgue with his career.
@@ -32,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Once he had completed his schooling, Lebesgue was required to undertake military service and he enlisted in the army at the end of 1809.
 * After serving for one year, Lebesgue decided he wanted to return to civilian life and the only way to do that was via the 'remplacement militaire' system.
 * After graduating, Lebesgue was appointed as a master at the Lycée at Reims.
-* Continuing in his career as a private tutor, Lebesgue next took a position as a tutor to a Russian family and he moved to Russia where he stayed until 1830.
 * At this stage in his career Lebesgue was helped by his friend Charles Alexandre who was head of the Royal Bourbon College and later, in 1840, was appointed inspector-general of studies in place of M Poullet-Delise who retired at this time.
 * Alexandre asked Poisson if he could arrange a position for Lebesgue, giving him an excellent recommendation.
 * Poisson arranged for Lebesgue to obtain a position as a lecturer at the Royal College of Nantes, then in the following year as professor at the college of Epinal, where he remained for two years.

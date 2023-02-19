@@ -24,28 +24,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * To understand the events of Ernst Öpik's life we need to give a very brief overview of the history of Estonia.
-* Karl and Leontine married in 1885 and had ten children including: Anna (1886-1955), who taught herself 13 languages, including Sanskrit, and translated Homer's Odyssey into Estonian; Paul (1888-1967), President of the Pikalaen Bank, 1928-1940; Heinrich (1890-1890), died less than one year old; Ernst (1893-1985), the subject of this biography; Oskar (1895-1974), Estonian ambassador to France and Germany as well as at the League of Nations; Armin (1898-1983), Professor of Geology and Palaeontology at the University of Tartu, later Member of the Australian Academy of Sciences.
 * In 1900 Ernst left Kunda and went to Tallinn where he attended the Nikolai High School.
 * Ernst, however, reacted against the Russification by being active in a secret literary circle who made an introduction to Estonian literature.
 * Öpik graduated from the high school in 1911 with the gold medal.
 * In the autumn of 1912 Öpik began his studies at the University of Moscow.
-* Öpik was not the only member of his family in Moscow at that time for his brother Oskar and sister Anna were also there.
 * Öpik was totally opposed to the Bolsheviks so he joined the White Army, travelling to Yaroslavl where the Red Army was stationed.
 * Öpik had a mysterious girlfriend in Yaroslavl which proved useful when he was captured by the Bolsheviks and sentenced to death.
-* In 1921 after only knowing each other for a short time, Öpik married Vera Oreshkina in 1921.
 * Publishing was difficult, in fact almost impossible, for Öpik in Tashkent and he decided to make efforts to return to Estonia, his beloved native land, which at that time had become an independent country.
 * On 1 December 1921 Öpik was appointed to the University of Tartu where he worked at the Astronomical Observatory.
-* In 1922 Ernest and Vera Öpik's first daughter, Maija, was born.
 * Öpik was by this time publishing a remarkable number of papers: in 1922 eight of his papers appeared totalling 143 pages; in 1923, eight of his papers appeared totalling 152 pages; in 1924 nine works were published having a total of 479 pages.
 * At the Astronomical Observatory in Tartu, Öpik had a research assistant Alide Piiri, who had been born on 30 June 1899, in Torila, Tartumaa.
-* In 1926 Öpik had two children, a daughter called Inna with his wife, and a son, Uno, by Alide.
-* Öpik set up a second home with Alide, had a second daughter Elina with his wife Vera, followed by two daughters Helgi and Tiiu with Alide.
 * In 1930 Öpik went to Harvard University in the United States where he spent much time over the following four years as a Visiting Scientist and Lecturer.
 * Already in 1932, Öpik discussed the influence of stellar perturbations on nearly parabolic ellipses, which 18 years later was to be an important mechanism in Oort's concept of the Comet Cloud surrounding the Sun.
 * It is for this reason that Whipple, who started his professional career in 1931 at the Harvard College Observatory and who entered the field of meteor research because of Öpik's influence, always speaks of the "Öpik-Oort Comet Cloud".
 * Ernst refused to let the small matters of war get in the way of his research.
-* Ernst had also helped two of his daughters by Vera, Maija and Inna, to escape.
-* Arriving in Germany, Öpik, with Alide and family, went to Hamburg Observatory and was given hospitality until the war ended.
 * After this a Baltic University was set up in Hamburg in March 1946 to provide education for displaced students and Öpik became Professor of Astronomy and the Rector for Estonian students.
 * This University was always going to be a short-term venture so Öpik had to find permanent employment.
 * In fact the University closed in 1949 but Öpik had left in 1948.
@@ -58,8 +50,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In Northern Ireland, Eric Lindsay initiated the founding of the Irish Astronomical Journal in 1950 edited by Öpik.
 * Other than astronomy, the other passion in Öpik's life was music.
 * Öpik received many honours for his outstanding contributions to astronomy.
-* As a final comment, we note that Öpik's only son was Uno Öpik (1926-2005) who studied at Tartu High School, then left with his parents for Germany in 1944.
-* Uno Öpik married Liivi Vedo and their eldest son was Lembit Öpik (born 1965) who became a Liberal Democrat member of the British Parliament from 1997 to 2010.
 
 Born 22 October 1893, Kunda, Russian Empire (now Estonia). Died 10 September 1985, Bangor, Northern Ireland.
 

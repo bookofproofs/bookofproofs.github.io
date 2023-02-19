@@ -4,7 +4,7 @@ categories: history,15th-century
 parentid: bookofproofs$601
 tags: ancient-arab,origin-spain
 orderid: 1412
-title: Al Qalasadi, Abu&amp;#x27;l Hasan ibn Ali
+title: Al Qalasadi, Abu&amp;amp;#x27;l Hasan ibn Ali
 born: 1412
 died: 1486
 keywords: al-qalasadi,al

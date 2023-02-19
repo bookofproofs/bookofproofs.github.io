@@ -24,14 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Georg Waldemar Cantor was born in Denmark and he was a man with a deep love of culture and the arts.
-* Georg's mother, Maria Anna Böhm, was Russian and very musical.
 * Certainly Georg inherited considerable musical and artistic talents from his parents being an outstanding violinist.
-* Georg was brought up a Protestant, this being the religion of his father, while Georg's mother was a Roman Catholic.
-* After early education at home from a private tutor, Cantor attended primary school in St Petersburg, then in 1856 when he was eleven years old the family moved to Germany.
-* Cantor's father had poor health and the move to Germany was to find a warmer climate than the harsh winters of St Petersburg.
 * At first they lived in Wiesbaden, where Cantor attended the Gymnasium, then they moved to Frankfurt.
 * Cantor studied at the Realschule in Darmstadt where he lived as a boarder.
-* However, in 1862 Cantor had sought his father's permission to study mathematics at university and he was overjoyed when eventually his father consented.
 * Cantor moved to the University of Berlin where he became friends with Hermann Schwarz who was a fellow student.
 * Cantor attended lectures by Weierstrass, Kummer and Kronecker.
 * While at Berlin Cantor became much involved with a student Mathematical Society, being president of the Society during 1864-65.
@@ -46,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Twenty years later, in this 1874 work, Cantor showed that in a certain sense 'almost all' numbers are transcendental by proving that the real numbers were not countable while he had proved that the algebraic numbers were countable.
 * Cantor pressed forward, exchanging letters throughout with Dedekind.
 * The year 1874 was an important one in Cantor's personal life.
-* They married on 9 August 1874 and spent their honeymoon in Interlaken in Switzerland where Cantor spent much time in mathematical discussions with Dedekind.
 * A major paper on dimension which Cantor submitted to Crelle's Journal in 1877 was treated with suspicion by Kronecker, and only published after Dedekind intervened on Cantor's behalf.
 * Cantor greatly resented Kronecker's opposition to his work and never submitted any further papers to Crelle's Journal.
 * Between 1879 and 1884 Cantor published a series of six papers in Mathematische Annalen designed to provide a basic introduction to set theory.
@@ -62,6 +56,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Firstly Cantor realised that his theory of sets was not finding the acceptance that he had hoped and the Grundlagen was designed to reply to the criticisms.
 * At the end of May 1884 Cantor had the first recorded attack of depression.
 * Mathematical worries began to trouble Cantor at this time, in particular he began to worry that he could not prove the continuum hypothesis, namely that the order of infinity of the real numbers was the next after that of the natural numbers.
+* All was not going well in other ways too, for in 1885 Mittag-Leffler persuaded Cantor to withdraw one of his papers from Acta Mathematica when it had reached the proof stage because he thought it "...
 * Mittag-Leffler meant this as a kindness but it does show a lack of appreciation of the importance of Cantor's work.
 * The correspondence between Mittag-Leffler and Cantor all but stopped shortly after this event and the flood of new ideas which had led to Cantor's rapid development of set theory over about 12 years seems to have almost stopped.
 * In 1886 Cantor bought a fine new house on Händelstrasse, a street named after the German composer Handel.
@@ -76,13 +71,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * By the time of the Congress, however, Cantor had discovered the first of the paradoxes in the theory of sets.
 * Cantor began a correspondence with Dedekind to try to understand how to solve the problems but recurring bouts of his mental illness forced him to stop writing to Dedekind in 1899.
 * Whenever Cantor suffered from periods of depression he tended to turn away from mathematics and turn towards philosophy and his big literary interest which was a belief that Francis Bacon wrote Shakespeare's plays.
-* Extra stress was put on Cantor with the death of his mother in October 1896 and the death of his younger brother in January 1899.
 * In October 1899 Cantor applied for, and was granted, leave from teaching for the winter semester of 1899-1900.
-* Then on 16 December 1899 Cantor's youngest son died.
 * Cantor also spent some time in sanatoria, at the times of the worst attacks of his mental illness, from 1899 onwards.
 * In 1905 Cantor wrote a religious work after returning home from a spell in hospital.
 * Cantor had hoped to meet with Russell who had just published the Principia Mathematica.
-* However ill health and the news that his son had taken ill made Cantor return to Germany without seeing Russell.
 * The following year Cantor was awarded the honorary degree of Doctor of Laws by the University of St Andrews but he was too ill to receive the degree in person.
 * Cantor retired in 1913 and spent his final years ill with little food because of the war conditions in Germany.
 * A major event planned in Halle to mark Cantor's 70th  birthday in 1915 had to be cancelled because of the war, but a smaller event was held in his home.

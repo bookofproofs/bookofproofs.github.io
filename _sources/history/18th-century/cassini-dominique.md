@@ -24,22 +24,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Dominique Cassini is also known as Cassini IV.
-* His mother, Charlotte Drouin de Vandeuil, married César-François Cassini in 1747 and they lived in the Paris Observatory where Jacques Cassini was effectively the director, although this official position was only created somewhat later.
-* Dominique was born in the Observatory and was the eldest of his parents two children.
-* When he was eight years old his grandfather Jacques Cassini died.
 * Dominique received his early education in the Paris Observatory, then he attended the Collège du Plessis in Paris and the Collège Oratorien run by the Congregation of the Oratory at Juilly.
-* Dominique Cassini, however, did not wish to join the priesthood but wished to follow in the family tradition, so he continued his education by studying physics, mathematics and astronomy.
 * In the same year of 1770, actually on 23 July, Cassini was elected to the Académie des Sciences.
-* In 1771 Cassini's father, Cassini de Thury, was made Director of the Paris Observatory by the King with the conditions that succession would be preserved for the Cassini family.
-* At this stage Cassini knew that he would become Director of the Observatory on the death of his father and so he lived his life with this in mind.
-* In 1773 Cassini married Claude-Marie-Louise de la Myre-Mory.
-* After the death of his father in 1784, Cassini assumed the role of Director of the Paris Observatory.
 * Only two sheets of Brittany required completion but the project was not finished until 1790 when Cassini presented the map to the National Assembly.
-* While he was completing his father's map, Cassini worked on another surveying project.
 * The Government appointed Cassini as a commissioner, along with Legendre and Méchain, to triangulate the French side.
 * Cassini had Méchain as his assistant but he took control and made the measurements with the repeating circle while Méchain was given the task of checking the results with older equipment.
 * They forced Cassini to take them into the cellars beneath the building but they found nothing of use to them.
-* In 1791 tragedy struck Cassini when his wife died and he was left with five young children to bring up.
 * Although Cassini de Thury had surveyed almost exactly this in 1740, it was the invention of the Borda repeating circle which made the Academy confident that a new much more accurate measurement could be achieved.
 * In April 1791 the Academy appointed Cassini, Legendre and Méchain to carry out the task.
 * On 19 June Cassini, Legendre, Méchain, and Borda had an audience with King Louis XVI.
@@ -55,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Cassini was humiliated and resigned on 6 September 1793.
 * The Académie des Sciences had already been disbanded in August 1793, despite Cassini's best efforts to prevent this happening, so he could not turn there for help.
 * The National Assembly then took the Cassini map as their own property and when he complained he was arrested and imprisoned on 14 February 1794.
-* Cassini was later released and went to live in the family château at Thury.
 
 Born 30 June 1748, Paris, France. Died 18 October 1845, Thury, France.
 

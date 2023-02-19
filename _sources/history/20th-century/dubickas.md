@@ -24,7 +24,6 @@ contributors: @Leticija-Dubickaite,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Artūras Dubickas was born in 1964 in Tauragė, a city in western Lithuania, not far from the Baltic Sea.
-* His father Kazys Dubickas was an electrical engineer and his mother Elena was working as an economist.
 * In 1982 Dubickas graduated from Secondary School with a Gold Medal and in September of that year matriculated at Vilnius University Mathematics Department.
 * In two years Dubickas attended his first mathematical conference in Minsk, Belarus: Constructive Methods and Algorithms in Number Theory.
 * Hence most of Dubickas's fellow classmates started working in various businesses and banks, due to higher salary (they could earn 10-20 times more than doing scientific research).
@@ -38,7 +37,6 @@ contributors: @Leticija-Dubickaite,bookofproofs
 * In total Dubickas has been a scientific advisor for seven students (between 2008 and 2013), all of whom defended their PhD theses.
 * Three dissertations written by Dubickas's students were selected as the best dissertations of the year in a competition organized by Lithuanian Society of Young Researchers (Paulius Drungilas, Heights of Algebraic Numbers, in 2008, Jonas Jankauskas, Heights of Polynomials, in 2012 and A Novikas, Composite Numbers in the Sequences of Integers, in 2012).
 * Overall, Dubickas is actively involved in the mathematical community and does not only partake in scientific, but also editorial and organizational work.
-* Dubickas's daughter, Leticija Dubickaite, is currently (2017) an undergraduate mathematics student at the University of St Andrews, Scotland.
 
 Born 27 November 1964, Tauragė, Lithuania.
 

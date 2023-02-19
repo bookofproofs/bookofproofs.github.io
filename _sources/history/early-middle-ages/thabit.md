@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * This language was Thabit ibn Qurra's native language, but he was fluent in both Greek and Arabic.
 * Some accounts say that Thabit was a money changer as a young man.
-* Muhammad ibn Musa ibn Shakir, who visited Harran, was impressed at Thabit's knowledge of languages and, realising the young man's potential, persuaded him to go to Baghdad and take lessons in mathematics from him and his brothers (the Banu Musa).
 * In Baghdad Thabit received mathematical training and also training in medicine, which was common for scholars of that time.
 * There Thabit's patron was the Caliph, al-Mu'tadid, one of the greatest of the 'Abbasid caliphs.
 * At this time there were many patrons who employed talented scientists to translate Greek text into Arabic and Thabit, with his great skills in languages as well as great mathematical skills, translated and revised many of the important Greek works.
@@ -49,7 +48,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Thabit had a student Abu Musa Isa ibn Usayyid who was a Christian from Iraq.
 * Thabit's concept of number follows that of Plato and he argues that numbers exist, whether someone knows them or not, and they are separate from numerable things.
 * In other respects Thabit is critical of the ideas of Plato and Aristotle, particularly regarding motion.
-* This archive contains information on other members of Thabit's family.
 * His son, Sinan ibn Thabit, and his grandson Ibrahim ibn Sinan ibn Thabit, both were eminent scholars who contributed to the development of mathematics.
 * Neither, however, reached the mathematical heights of Thabit.
 

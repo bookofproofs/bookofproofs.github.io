@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Miller** studied at Glasgow and Göttingen. He returned to Glasgow to the Royal College of Science and Technology (the precursor to Strathclyde University).
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Mary Miller (born in Eaglesham, Renfrewshire about 1847).
 * John Miller attended John Street School, followed by the Free Church Training College for Teachers.
 
 Born 19 October 1871, Glasgow, Scotland. Died 14 July 1956, Victoria Infirmary, Glasgow, Scotland.

@@ -33,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This way of working would be a characteristic of Prüfer's approach throughout his life as was his independence of thought.
 * For his military service, Prüfer was drafted to work at the Königlich Preussische Landesaufnahme in 1917-18.
 * It had been Schur's mathematics which had attracted Prüfer most so, after completing his first degree, he undertook research for his doctorate under Schur's supervision.
-* During the time that Prüfer worked with Schur, students such as Alfred Brauer and his brother Richard Brauer attended Schur's seminar.
 * Early in his years as a research student working on algebra, Prüfer published his first paper Neuer Beweis eines Satzes über Permutationen Ⓣ(New proof of a theorem on permutations).
 * For his doctorate, Prüfer was examined on 28 April 1921.
 * The mathematics oral was conducted by Issai Schur and Erhard Schmidt who, respectively, evaluated Prüfer as very good and as excellent.

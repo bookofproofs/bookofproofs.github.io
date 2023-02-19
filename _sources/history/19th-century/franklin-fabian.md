@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Fabian Franklin** was a Hungarian born American mathematician who worked on combinatorics. He was married to Christine Ladd-Franklin.
 
 ### Mathematical Profile (Excerpt):
-* Morris Franklin (born 1821) and his wife Sarah (born 1821) were both born in Poland.
-* They had eight children: Helen Franklin born 1841 in Poland; Emily Franklin born 1843 in Hungary; Etel Franklin born 1845 in Hungary; Rose Franklin born 1847 in Hungary; Julia Franklin born 1848 in Hungary; Fabian Franklin, the subject of this biography, born 1853 in Hungary; Diana Franklin born 1858 in Philadelphia, USA; and Flora Franklin born 1860 in Philadelphia, USA.
 * Franklin was educated in Washington, D.C. He won a scholarship to Columbian College in 1864 when he was eleven years old and the then new elective system allowed him to graduate in 1869 with the degree of Ph.B. This college had been set up in 1821 after the U.S. Congress had granted it a charter to be a "non-denominational College in the District of Columbia".
 * When Franklin studied there the College was just restarting after the Civil war when it had been used as a hospital and military barracks.
 * After graduating from Columbian College, Franklin worked as an engineer and a surveyor for the Pittsburgh and Connellsville Railroad.
@@ -49,15 +47,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1879 Franklin had been given an assistantship at Johns Hopkins and the assistantship was renewed for the academic year 1880-81.
 * We saw from the quote above that both Franklin and Ladd attended Sylvester's number theory course.
 * Franklin was about five years younger than Ladd but the two soon became close friends.
-* They married on 24 August 1882 and Franklin's wife took the name Christine Ladd-Franklin.
-* Within two years two children were born, although one died while an infant the other, Margaret Ladd Franklin (1884-1960), survived.
 * Let us return to Sylvester's number theory course which both Franklin and Ladd attended.
 * As he had done earlier, Franklin came up with a brilliant new idea about Sylvester's lectures.
 * This paper brought Franklin international acclaim.
 * Mr Halphen, one of our most eminent young mathematicians, who has just won the Academy's Grand Prix in mathematics, found Franklin's method so remarkable that he lectured on it in one of the most recent sessions of the Philomathic Society.
 * Please tell Mr Franklin that his talent is appreciated, as it deserves to be, by the mathematicians of the old world.
 * Franklin went on to publish many other papers, such as (with J J Sylvester) A Constructive Theory of Partitions, Arranged in Three Acts, an Interact and an Exodion (1882), (with P A MacMahon) Note on the Development of an Algebraic Fraction (1983/84), Proof of a Theorem of Tchebycheff's on Definite Integrals 91885), Two Proofs of Cauchy's Theorem (1887), Some Theorems Concerning the Centre of Gravity (1888), Note on the Double Periodicity of the Elliptic Functions (1889), Note on Induced Linear Substitutions (1894), and Note on Linear Differential Equations with Constant Coefficients (1897).
-* The professional mathematician, on noting a characteristic flash of genius or originality in one of Franklin's short papers, may well wish that he had not been so versatile nor so interested in politics or world affairs; but such wishes are idle.
 * Having been promoted to associate in 1882, associate professor in 1887 and professor in 1892, Franklin gave up his professorship in 1895 to begin the third of his three careers, namely as a journalist and author.
 
 Born 18 January 1853, Eger, Heves County, Hungary. Died 9 January 1939, New York, New York, USA.

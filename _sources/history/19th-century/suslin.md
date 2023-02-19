@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Mikhail Suslin** was a Russian mathematician who worked in general topology and descriptive set theory.
 
 ### Mathematical Profile (Excerpt):
-* Mikhail Yakovlevich, known to friends and family as Mishanya, was his parents' only child.
 * At this school, situated across the road from the Suslins' home, he was taught by Vera Andreevna Teplogorskaya-Smirnova who quickly recognised Suslin's potential.
 * She deserves great credit, not only for spotting his talents in the few months he studied there, but also in persuading the better-off people in the village to provide funds to allow Suslin to continue his education.
 * This private school only opened in 1905 and, five years later while Suslin was still a pupil, it became a state grammar school.

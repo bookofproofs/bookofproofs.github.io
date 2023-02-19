@@ -4,7 +4,7 @@ categories: history,early-middle-ages
 parentid: bookofproofs$608
 tags: ancient-arab,origin-syria,special-numbers-and-numerals
 orderid: 920
-title: Al-Uqlidisi, Abu&amp;#x27;l Hasan Ahmad ibn Ibrahim
+title: Al-Uqlidisi, Abu&amp;amp;#x27;l Hasan Ahmad ibn Ibrahim
 born: 920
 died: 980
 keywords: al-uqlidisi,al-uqlidisi
@@ -32,9 +32,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, al-Uqlidisi showed how to modify the methods for pen and paper use.
 * Al-Uqlidisi's work is historically important as it is the earliest known text offering a direct treatment of decimal fractions.
 * Al-Uqlidisi uses decimal fractions as such, appreciates the importance of a decimal sign, and suggests a good one.
+* 1436/7) who treated decimal fractions in his "Miftah al-Hisab", but al-Uqlidisi, who lived five centuries earlier, is the first Muslim mathematician so far known to write about decimal fractions.
 * Following Saidan's paper, some historians went even further in attributing to al-Uqlidisi the complete credit for giving the first complete description and applications of decimal fractions.
 * The argument depends on how one interprets the following passage in al-Uqlidisi's treatise.
-* Unlike al-Samawal, al-Uqlidisi never formulates the idea of completing the sequence of powers of ten by that of their inverse after having defined the zero power.
+* unlike al-Samawal, al-Uqlidisi never formulates the idea of completing the sequence of powers of ten by that of their inverse after having defined the zero power.
 * There is no disagreement on the fact that al-Uqlidisi made a major step forward.
 
 Born about 920, possibly Damascus, Syria. Died about 980, possibly Damascus, Syria.

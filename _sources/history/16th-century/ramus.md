@@ -23,13 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Peter Ramus** was a French mathematician who wrote a whole series of textbooks on logic and rhetoric, grammar, mathematics, astronomy and optics.
 
 ### Mathematical Profile (Excerpt):
-* Peter Ramus's father Jacques de la Ramée was a labourer and his mother was Jeanne Charpentier.
 * Ramus was educated at home until, in 1527 at the age of twelve years, he entered the Collège de Navarre in Paris.
 * After this Ramus taught, first at the Collège de Mans, then at the Collège de l'Ave Maria.
 * It was mathematics and the plague which came to Ramus's rescue.
 * Mathematics since when he was forbidden to teach and publish philosophy he turned to mathematics, and the plague for it created staff shortages which resulted in Ramus being reinstated as a teacher.
 * Not only was Ramus back as a teacher, but he also returned to publishing texts.
-* In 1562 Ramus, whose teaching were becoming more involved with political and religious issues, abandoned the Catholic Church and became a convert to Calvinism.
 * Other changes which Ramus proposed was the abolition of student fees (which 450 years later is again a topic of vigorous debate in Britain!).
 * Near the end of 1562, Ramus was forced to flee Paris for fear of his life as the Calvinists were ordered out of the city.
 * It granted certain rights of conscience to the Huguenots and Ramus saw it as sufficient to allow him to return to Paris.

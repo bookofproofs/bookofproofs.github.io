@@ -23,24 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Leone Burton** became a leading British expert in mathematical education. She did pioneering work on equity and gender issues in mathematics education.
 
 ### Mathematical Profile (Excerpt):
-* Leone was given the name Minna after this grandmother.
-* There was exceptional mathematical talent in the family with Marcus and Minna Levy's son, Leone's uncle, being Hyman Levy.
 * They settled in Sydney where Leone was born.
 * Leone attended all-girl schools in Australia, both primary and secondary, and in these schools she was taught exclusively by female teachers.
 * From San Francisco, Leone travelled across the United States, ending up eventually in New York.
 * To earn some money to help finance her travels, Leone gave talks about Australia.
 * Levy had been Head of the Mathematics and Mechanics Department of Imperial College of Science and Technology, London, but had retired in 1955, a few years before Leone came to London.
 * His wife, Marion Aitken Fraser, was an "upright Scottish Protestant" and Leone quickly became very fond of her.
-* Leone's contacts with the Levys and their friends made a big impression on her and she loved the political and academic discussions.
 * In an environment where there were lots of ideas, yet one in which she had time to think about her own future, Leone decided that she wanted to return to education.
 * Up to this time Leone had no idea what career she wanted but she now decided that what she wanted to do was to teach.
 * Leone nearly changed her area of study but decided not to allow herself to be intimidated.
 * While studying at the University of London, Leone lived at 5 Camden Court, Rousden Street, St Pancras, Camden.
 * Leone graduated from the University of London with a degree in mathematics in 1963 and, immediately after finishing the course, she flew back to Australia on 13 July 1963, flying from London to Fremantle, Western Australia, on Qantas Empire Airways.
-* Around May 1966 she married John W Burton and they settled on a farm in Kent where their son Mark Burton was born in 1968.
-* We note that the marriage did not last long and Leone Burton essentially brought up her son Mark herself.
 * It merged with the Polytechnic of the South Bank in 1976 and Burton gave her address as the Polytechnic of the South Bank when she published The Teaching of Mathematics to Young Children Using a Problem Solving Approach in 1980.
-* In 1980 Burton was awarded a Ph.D. from the University of London for her thesis The impact of education on political development.
 * However, Burton had left the Polytechnic of the South Bank before the first name change and joined Avery Hill College.
 * At Avery Hill College Burton became Head of the Mathematics Department.
 * The College became part of Thames Polytechnic in 1985 and Burton continued to work there until 1992 when she joined the University of Birmingham as Professor of Science and Mathematics Education.

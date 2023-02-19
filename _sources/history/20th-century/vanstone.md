@@ -26,12 +26,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hanno Rund had been appointed as an Assistant Professor of Applied Mathematics at the University of Toronto in 1954 and Vanstone attended courses that Rund taught.
 * Vanstone also attended courses on geometry given by Donald Coxeter.
 * On their return they will reside at 9 Harbord Street in Toronto, where Mr Vanstone is studying for a postgraduate degree in mathematics.
-* After completing his Master's Degree, Vanstone travelled to South Africa with his wife so that he could study for a Ph.D. supervised by Rund.
-* A few months later, Vanstone, his wife and their baby son returned to Canada.
 * Travelling to Toronto, Vanstone took up an appointment as a lecturer in mathematics in October 1959.
 * We note that Dipak K Sen was a colleague of Vanstone's at the University of Toronto with interests in relativity and gravitation, and mathematical physics.
 * In 1961 Vanstone was promoted to Assistant Professor and then, in 1965, was promoted to Associate Professor with tenure.
-* Ray and Ann Vanstone had two further children; Roderick, born at Toronto General Hospital on 5 October 1962, and Kirsten.
 * Vanstone was on the programme committee of the Thirteenth Biennial Seminar of the Canadian Mathematical Congress which was devoted to differential topology, differential geometry and applications.
 * The programme committee, consisting of A E Fekete, W H Greub, Ngo Van Que, H Rund, U Suter and J R Vanstone was supplemented by A J Tingley the chairman of the mathematics department of Dalhousie University, the host institution.
 * Vanstone's most famous work was the 3-volume, three author monograph Connections, curvature, and cohomology.

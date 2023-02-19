@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alonzo Church** made important contributions to mathematical logic and theoretical computer science.
 
 ### Mathematical Profile (Excerpt):
-* They had three children, Alonzo Jr, Mary Ann and Mildred.
 * Church spent two years as a National Research Fellow, one year at Harvard University then a year at Göttingen and Amsterdam.
 * There was Church together with his students Rosser and Kleene.
 * Alan Turing, who had been thinking about the notion of effective calculability, came as a visiting graduate student in 1936 and stayed to complete his Ph.D. under Church.

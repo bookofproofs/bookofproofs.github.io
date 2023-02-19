@@ -46,6 +46,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In September 1612 Welser published a second tract by Scheiner under the pseudonym Apelles entitled De maculis solaribus et stellis circa Jovem errantibus accuratior disquisitio Ⓣ(On Solar Spots and the Stars Wandering around Jupiter.
 * The controversy did not seem to cause problems for Scheiner who began publishing major works: (with Johann Georg Locher) Disquisitiones mathematicae Ⓣ(On  mathematical investigations) (1614); Sol ellipticus Ⓣ(The elliptical Sun) (1615); (with Georg Schönberger) Exegeses fundamentorum gnomonicorum Ⓣ(Exegeses foundations gnomonicorum) (1615); and Refractiones coelestes Ⓣ(Refraction in the sky) (1617).
 * In 1617 the Archduke requested Scheiner's permanent presence in Innsbruck as his advisor.
+* Scheiner's whereabouts in this seven-year period, ...
 * In 1624 Scheiner was called to Rome by the pope.
 * Although Galileo almost certainly did not have Scheiner in mind, Scheiner did not see it that way.
 * Galileo believed, correctly, that Scheiner's interpretation of sunspots was wrong and, by this time, Scheiner accepted Galileo's argument that they were on the surface of the sun.

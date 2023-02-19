@@ -23,14 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **George Yule** was an English mathematician who is best known for his book: _Introduction to the Theory of Statistics_.
 
 ### Mathematical Profile (Excerpt):
-* George Udny Yule senior was one of three brothers, the other two being Robert Yule (killed during the Indian Mutiny while commanding the 9th  Lancers at Delhi), and Henry Yule (a colonel in the Royal Engineers but also a leading scholar who edited Marco Polo's Travels and was knighted).
-* George Yule senior was involved in administration in the Bengal Civil Service in India and, like his brother Henry, was knighted for his services.
-* George Yule senior married Henrietta Peach Pemberton who was the daughter of Captain Robert Boilean Pemberton of the Indian Army.
-* The Yule family had a strong reputation for scholarship, with the grandfather of the George Udny Yule of this biography, William Yule, being a renowned scholar in Persian and Arabic.
-* George, the subject of this biography, was born at Beech Hill, a house in Morham near Haddington in Scotland.
 * Remaining in London, they moved from Tooting to Bayswater where George attended day-school in Orme Square.
 * It was at this school that the physics teacher W B Croft gave George encouragement to excel in his studies.
-* In 1886, while George was at Winchester, his father died and his family moved from Bayswater.
 * George remained at Winchester until he was sixteen years of age when, in 1887, he entered University College, London, to read for an engineering degree.
 * In 1890 Yule graduated with a degree in engineering and then for two years he was involved in the practical side of the subject, working in engineering workshops.
 * Yule spent a year in Bonn undertaking research in experimental physics under Hertz.
@@ -41,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1895 Yule was elected to the Royal Statistical Society and over the next few years, inspired by Pearson, he produced a series of important articles on the statistics of regression and correlation.
 * Yule's work entitled On the Theory of Correlation was first published in 1897.
 * Let us illustrate the types of statistical problems that Yule worked on by quoting from his own introduction to one of his papers, namely On the association of attributes in statistics: with illustrations from the material of the Childhood Society etc.
-* The reason for Yule needing a better salary was that he had married May Winifred Cummings, the daughter of the Principal of the Guildhall School of Music in 1899.
 * This change of job did not lessen Yule's research output in statistics, nor did it end his association with University College, London, for over the next few years he gave the annual Newmarch Lectures in Statistics.
 * These lectures became the basis for Yule's famous text Introduction to the Theory of Statistics which he first published in 1911.
 * It was a book clearly reflecting Pearson's approach to statistics, but containing many of the notable contributions made by Yule.

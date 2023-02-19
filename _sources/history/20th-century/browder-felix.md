@@ -23,17 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Felix Browder** was a Russian-born American mathematician known for his work in nonlinear functional analysis.
 
 ### Mathematical Profile (Excerpt):
-* Felix was the eldest of his parents' three children; the two younger are Andrew Browder and William Browder.
 * All three boys have become leading mathematicians and so we should begin by giving some details of their parents Earl and Raissa Browder.
-* Earl Browder (1891-1973), the eighth of ten children, was educated at home in Wichita by his unemployed schoolteacher father William Browder and from him received his first Socialist teachings.
-* Earl Browder had married in 1911 but was separated from his wife.
-* The first two of their three children were born in Moscow; Felix (the subject of this biography) in 1928 and Andrew in 1932.
 * Earl Browder returned to the United States in 1929 but Raissa remained in Moscow until 1933.
 * For the next sixteen years the Browders waged a legal battle to prevent her deportation.
 * In 1934 their third son, William Browder, was born in New York.
-* Felix was a child prodigy, reading at a very sophisticated level from the age of four and terrorising all his grade school teachers with his breadth of knowledge and sophistication.
 * In fact Felix is said to have read at least a book a day from the time he was five years old.
-* These family difficulties seemed to have little effect on Felix's school performance and, at the age of sixteen, he took part in the New York State competition for university scholarships.
 * After the award of his first degree, Browder entered Princeton where he undertook research advised by Solomon Lefschetz.
 * In 1948 Browder was appointed as a C L E Moore Instructor in Mathematics at the Massachusetts Institute of Technology.
 * In 1951, when his term as C L E Moore Instructor ended, Browder was appointed as an Instructor in Mathematics at Boston University.

@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * These include Sushkevich, Suskevic, and Suschkewitsch, in addition to the form Suschkevich that we shall use throughout this biography.
-* His father, Kazimir Suschkevich, was a railway engineer.
 * As he was growing up, Suschkevich had two passions, one being mathematics and the other being music.
 * Those like Suschkevich who chose mathematics almost all continued their interest in music throughout their lives.
 * At age seventeen, when he had completed his schooling in Russia, Suschkevich still wanted to keep both his interest in mathematics and his interest in music open.

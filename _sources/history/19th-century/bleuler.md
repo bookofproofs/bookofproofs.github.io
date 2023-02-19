@@ -23,16 +23,12 @@ contributors: @Stefanie-Eminger,bookofproofs
 **Hermann Bleuler** was a Swiss engineer and artillery officer in the Swiss army.
 
 ### Mathematical Profile (Excerpt):
-* Hermann's mother Sophie Regula née Arter (1811  - 1880) came from a family of merchants.
-* Hermann, the second oldest child of the family, had two sisters and three brothers, one of whom became a doctor; the other two became planters in Guatemala.
 * Afterwards Bleuler attended the Gymnasium and then the Industrieschule in Zürich.
 * Bleuler had a stellar career in the Swiss army, in which he enrolled in 1861.
 * Bleuler became a member of the Federal School Board in 1881, the year when the Polytechnic's regulations were revised.
 * Bleuler became Vice-President after Alfred Escher's death in 1882, and in 1888 he succeeded Karl Kappeler as president of the School Board.
 * Both the President and Vice-President used to be appointed for life, but Bleuler retired in 1905 due to health reasons.
 * Following Kappeler's method, Bleuler often attended lectures of teaching candidates incognito to assess their qualities.
-* In 1873, Bleuler married Emma Huber whose father had also been a silk manufacturer.
-* In 1887, the family moved into the so-called "Villa Bleuler", which was built for them.
 * Bleuler signed the invitation circular for the first International Congress of Mathematicians from January 1897 in his capacity as School Board president.
 * Hermann Bleuler died on 7 February 1912 after a long illness.
 

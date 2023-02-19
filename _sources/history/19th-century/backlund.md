@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Hans was working as an accountant at the Höganäsverken when Victor was born but left in 1852 after which time he was an accountant at the Skane Enskilda Bank in Helsingborg.
-* Victor had an older sister Eleonora who was born in 1838.
 * Hill was not a good teacher and, as a consequence, it was not his lectures that attracted Bäcklund to mathematics.
 * Rather it was the seminars of the assistant professor, Edvard von Zeipel (appointed to Lund in 1861), that turned Bäcklund towards mathematics.
 * After his Candidates' Degree, Bäcklund continued to undertake research at Lund for his doctorate, advised by Möller, which was awarded in 1868.

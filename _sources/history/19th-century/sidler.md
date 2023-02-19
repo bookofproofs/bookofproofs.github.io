@@ -23,18 +23,12 @@ contributors: @Stefanie-Eminger,bookofproofs
 **Georg Sidler** was a Swiss mathematician and astronomer.
 
 ### Mathematical Profile (Excerpt):
-* Both of Georg's parents came from old-established families in canton Zug; many of his ancestors had been involved in local and cantonal politics.
-* His paternal grandfather Georg Damian held a number of offices; most notably he served as a Landvogt (bailiff) in the Valle Maggia in Ticino.
-* Georg's father Georg Joseph made a name for himself as a politician, first in his home canton Zug, then in Zürich and in the newly established federal government.
-* Sidler senior was a liberal politician, but as the conservatives gained power in Zug his influence dwindled, and as a result the family moved to Unterstrass, near Zürich, in 1839.
 * Sidler senior also had a great interest in astronomy and mathematics, having attended lectures in both subjects during his law studies.
 * Sidler senior did not publish any scientific papers, but it is likely that he helped spark his son's interest in mathematics and astronomy.
 * Let us now return to Georg Sidler junior.
-* The son Carl Cramer (1831-1901), a future botanist, became a life-long friend of Sidler.
 * Sidler attended the Gymnasium in Zürich from 1843-1850, excelling in mathematics and ancient languages.
 * In 1852, Sidler moved to Paris to study there for a further two years.
 * It was Puiseux's lectures that inspired Sidler's doctoral dissertation Sur les inégalités du moyen mouvement d'Uranus dues à l'action perturbatrice de Neptun Ⓣ(On the inequalities of the mean motion of Uranus due to the disturbing action of Neptune), published after his return from Paris in 1854.
-* His father had offered to pay for a trip to England, but Sidler was anxious to get back to Switzerland and receive his doctorate.
 * Ⓣ(On the movements in the solar system and general attraction.) A more succinct version of Sidler's thesis was published as Über die Acceleration des Uranus durch Neptun in Astronomische Nachrichten in 1858.
 * After having received his doctorate, Sidler habilitated as Privatdozent at the University of Zürich with a lecture entitled Methode der kleinsten Quadrate Ⓣ(Method of least squares).
 * Sidler often went for a walk with Steiner; the two mathematicians stayed in touch for the rest of Steiner's life.
@@ -48,7 +42,6 @@ contributors: @Stefanie-Eminger,bookofproofs
 * The promotion was proposed by his colleagues, who recognised Sidler's contribution to mathematics and astronomy both at the university and in Switzerland; in particular they highlighted his commitment to the university's observatory.
 * Sidler remained a member of the university's academic staff and lectured occasionally even after resigning from his post.
 * We note that Sidler had a particular interest in the geometry of triangles and collected books on this topic.
-* Sidler spent his free time visiting Berlin's many museums with his wife Hedwig née Schiess, whom he had married in 1866.
 * The University of Zürich renewed Sidler's doctorate in 1904 to mark the 50th  anniversary of obtaining it.
 * Furthermore, Geiser dedicated his paper Die konjugierten Kernflächen des Pentaeders Ⓣ(The conjugated kernel surfaces of the dodecahedron) and Rudio his paper Die Möndchen des Hippokrates Ⓣ(The Lune of Hippocrates) to Sidler.
 * Two years later, Sidler's 50th  year in the Bernese educational service was celebrated officially as well, on Graf's instigation.
@@ -67,6 +60,7 @@ contributors: @Stefanie-Eminger,bookofproofs
 * Schläfli was Sidler's colleague at the University of Bern for thirty-five years.
 * Whilst he mainly lectured on analytic geometry, infinitesimal calculus, theory of functions and number theory, Sidler primarily gave lectures on theoretical astronomy and synthetic geometry.
 * No doubt one can imagine the autodidact Schläfli's interest when he asked Sidler to tell him about the famous lectures in Paris and Berlin, and how valuable Sidler's exemplary lecture notes were to him.
+* Sidler introduced his older friend to the theory of spherical harmonics, ...
 * and when Schläfli mastered this area through his inventions, Sidler, as a student, looked up to him without envy.
 * Although described as lank and bookish, Sidler enjoyed good health throughout his lifetime.
 * could ever forget Georg Sidler! Today we live in completely different times than just a few decades ago, and as the times change, so do the faces.

@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Piers Bohl**  was a Latvian mathematician, who worked in differential equations, topology and quasi-periodic functions.
 
 ### Mathematical Profile (Excerpt):
-* Piers' family background was not an academic one.
-* He had a younger brother Edgar Bohl, born in 1867 and possibly other siblings.
 * Piers received his first lessons from private tutors and studied at the municipal elementary school in Walka (also known by the German name of Walk).
 * Perhaps at this point it is worth briefly looking at the history of the region where Bohl was brought up and educated.
 * Although it was part of the Russian Empire during the time Bohl was growing up, it was an autonomous region ruled by German nobles and the language of the people was German.
 * Piers was ill for half a year and had trouble making up for what he had missed in class.
-* School fees were usually paid for the lessons, but Piers Bohl's name (more often than that of his brother) can also be found on the scholarship list.
 * From the archive records it can be seen that Piers found mathematics easy from the start and that he was one of the best students in class in this subject.
 * Nothing further seems to be known about Edgar Bohl.
 * At the Fellin Grammar School, Bohl was taught mathematics by Edward Hugo Weidemann (1854-1887), known as Hugo.
@@ -55,7 +52,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Bohl taught at Riga Polytechnic Institute from 1895.
 * Bohl's doctoral dissertation applied topological methods to systems of differential equations.
 * Grave was one of the examiners of Bohl's doctoral thesis and he claimed it was not worthy of the degree.
-* It is unclear whether Grave was not familiar with research mathematics to make a correct judgement or whether he was against Bohl because of the Russification policy which had got him the professorship.
 * Eventually, despite Grave's objections, Bohl was awarded his doctorate in September 1900.
 * The Russification had another impact on Bohl.
 * Although Bohl was able to do this he had never been particularly happy with that language and this must have presented him with difficulties.

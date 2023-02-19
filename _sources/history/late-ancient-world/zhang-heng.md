@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * At the time of Zhang Heng's birth the Emperor was Chang-ti, the third of the Eastern Han emperors.
 * Over the years that Zhang Heng grew up, Chinese influence and prestige were growing rapidly and reached their peak in around 90 when he was about 12 years old.
-* Zhang, who had been born into an important family, was educated in the moral and political philosophy of Confucianism.
 * We shall give more information below on these aspects of Zhang's achievements as well as examples of his poetry.
 * Zhang was thirty years old before his interests turned from literature to scientific matters, and at that time he became particularly interested in astronomy.
 * If China began to suffer due to ambitious people seeking to further their own influence, this was certainly not the case for Zhang.

@@ -23,11 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Harish-Chandra ** was an Indian-born mathematician and physicist who worked mainly in America and did fundamental work in representation theory, especially on Lie groups.
 
 ### Mathematical Profile (Excerpt):
-* Since Harish-Chandra's father spent most of his time travelling around the country inspecting canals, Harish-Chandra spent most of his childhood living in his maternal grandfather's home in Kanpur.
-* Harish-Chandra, despite being a rather weakly child, did sometimes spend time travelling with his father.
 * Harish-Chandra worked as a postgraduate research fellow on problems in theoretical physics under Homi Bhabha, at the Indian Institute of Science at Bangalore in Southern India.
 * Harish-Chandra began publishing papers on theoretical physics while at Bangalore, and he published a couple of joint papers with Bhabha extending some of Dirac's results.
-* For the first six months he spent in Bangalore he lived with Dr Kale, a botanist from Allahabad, and his wife who had taught Harish-Chandra French when he was an undergraduate.
 * Bhabha and Harish-Chandra's teacher, K S Krishnan at Allahabad University, recommended him to Dirac for research work at Cambridge which would lead to Ph.D. degree.
 * In 1945 Harish-Chandra went to Gonville and Caius College, Cambridge, where he studied for his doctorate under Dirac's supervision.
 * However Harish-Chandra saw comparatively little of his supervisor, giving up attending Dirac's lecture course when he realised that Dirac was essentially reading from one of his books.

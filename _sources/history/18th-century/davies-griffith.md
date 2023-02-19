@@ -25,12 +25,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * We note that Griffith Davies is the English form of his name but he was known by the Welsh form Gruffyd Dafydd for the first part of his life in Wales.
 * Only when he reached London at the age of twenty did he become known as Griffith Davies.
-* Owen and Mary Davies had seven children, four sons and three daughters.
-* The other five children were John Davies, Ann Davies, David Owen, Margaret Davies and Catherine Davies.
 * Note that the mix of Owen and Davies as surnames is due to the Welsh patronymic naming system still being sometimes used at this time.
-* Griffith was a frail child who had been baptised on the day he was born for fear he might not live.
 * Griffith, however, was always grateful to William Evans for teaching him to read Welsh and also to write a little Welsh.
-* This Griffith only achieved with difficulty since he was a delicate child with very poor health.
 * When he was seven years old, Griffith began to learn English.
 * Griffith had an aunt who was in service at a house where the school master boarded.
 * He ran a newly opened English school in an adjacent parish and one day he asked Griffith to run an errand for him.
@@ -55,12 +51,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Charles Babbage was about to publish a book entitled A Comparative View of the Various Institutions for the Assurance of Lives and, in early 1825, Davies learnt about this.
 * In fact Babbage's book was not published until 1826 while, in 1825, Davies published Tables of Life Continencies.
 * Davies was now acknowledged to be a leading actuary and was asked to report on many funds.
-* Davies' wife Mary died in 1836 when their daughter Sarah was sixteen years old.
-* Davies' mother died in 1837 and, although he had always intended to return to work in Wales, he now decided that he would continue to work in England for the rest of his career.
 * Griffith and Mary had one son, also named Griffith Davies (1841-1927), who went on to work for the Alliance Office.
-* By this time Davies was very well off which was fortunate since as well as his new wife he was supporting her sons, his father and his first mother-in-law.
 * We see from this quote that Davies' health was poor in 1848.
-* In 1854 Davies' father Owen died, aged 93, and later that year, on 5 December, Davies had a stroke.
 * Davies was deeply religious and for many years had attended a chapel in Jewin Street for Welsh Calvinistic Methodists, a body of Dissenters, where the services were conducted in Welsh.
 * In the last few years of his life Davies had only left his house to either attend Jewin Chapel or his office.
 

@@ -23,21 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hensel** invented the _p_-adic numbers, an algebraic theory which has proved important in later applications.
 
 ### Mathematical Profile (Excerpt):
-* His father was Sebastian Hensel who was a landowner at the time that Kurt was born, but later moved to Berlin becoming a director of a construction firm.
-* Kurt's mother was Julie von Adelson, the daughter of the businessman Jacob Ludwig von Adelson.
-* Fanny was the eldest sister of the famous composer Felix Mendelssohn, and she married the Prussian court painter Wilhelm Hensel in 1829.
-* Sebastian Hensel, the son of Fanny and Wilhelm Hensel, was born in 1830.
-* Sebastian, who was Kurt's father, wrote a biography of the Mendelssohn family based partly on Fanny's diaries and letters, which provide a great deal of information about her brother Felix.
-* While the family lived in Königsberg, Hensel did not attend school but was taught at home by his parents up to the age of nine.
-* After the family moved to Berlin, Hensel attended the Friedrich-Wilhelm Gymnasium and there he was taught mathematics by K H Schellbach.
 * Schellbach was an outstanding teacher of mathematics and with such a talented pupil he was soon able to give Hensel a deep love of the subject in addition to a sound technical knowledge.
 * Hensel's studies were in Berlin and Bonn.
 * It was Kronecker who was the greatest influence on Hensel and supervised his doctoral studies at the University of Berlin.
 * Hensel submitted his thesis Arithmetische Untersuchungen über Diskriminaten und ihre ausserwesentlichen Teiler Ⓣ(Arithmetic research on discriminants and their non-essential factors)  to Berlin in 1884 and he continued to work there, submitting his habilitation thesis and becoming a privatdozent in 1886.
-* Hensel married Gertrud Hahn in Berlin in 1887.
-* Gertrud, who was born in 1866, was the daughter of the industrialist Albert Hahn and aunt of the educationalist Kurt Hahn.
 * Kurt Hahn is known in Scotland as the founder (in 1934) of the internationally famous Gordonstoun School, near Elgin in the north east of the country, and known in Germany for his school at Salem.
-* Gertrud and Kurt Hensel had one son and three daughters, including Albert, Ruth and Charlotte.
 * Hensel was appointed to a full professorship at the University of Marburg in 1901.
 * Note that, remarkably, these dates span Hensel's career almost exactly, with the first volume appearing in the year between his doctorate and his habilitation, and the last volume appearing in the year he retired.
 * Two other major volumes edited by Hensel were also devoted to Kronecker's works.

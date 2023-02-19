@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Orymbek Akhmetbekovich was fascinated by the Russian language and was very diligent in carrying out all the tasks his teacher gave him.
 * There Orymbek Akhmetbekovich learnt the rules of arithmetic and soon became highly proficient.
-* At the Karabulak school, the teachers were impressed with Orymbek Akhmetbekovich's passion for arithmetical problems and his father decided to send his talented boy to a more prestigious school in the county town of Karkaralinsk.
 * He was taught mathematics by Sergei Mikhailovich Ponomarev, a graduate of the Leningrad Pedagogical University, and Zhautykov graduated in 1930.
 * Zhautykov studied at the Kazakh Pedagogical University during the years when the first five-year plan was taking effect.
 * Zhautykov spent time there, but was also sent by Komsomol, the Communist Soviet youth organisation, to the collective farms of the Zhana-Arka region.

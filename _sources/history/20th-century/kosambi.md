@@ -24,16 +24,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * was largely devoted to a single cherished goal: popularising the Buddha's message among his fellow Maharashtrians.
-* He dropped out of school because of health problems and married Balabai when he was fourteen years old; early marriage was a social custom.
-* Their first child, a daughter Manik, was born in 1899 and shortly after he left his wife and child in Goa, going to Pune where he studied hard.
-* After many travels in India and surrounding countries without his family, he began to teach at the University of Calcutta in 1906.
-* His wife and child joined him there, but because of health problems, they returned to Goa in December 1906 where their second child, Damodar Kosambi, the subject of this biography, was born in July 1907.
-* They had two further daughters, Manorama (born 1910) and Kamala (born 1918).
 * Dharmanand Kosambi gave up his university position in 1908 and, after lecturing throughout India, he spent a year in Pune, then went to the United States, spending two years at Harvard.
 * After returning, he moved to Fergusson College in Pune where he taught for six years.
-* Kosambi lived in Goa for the first five years of his life with his maternal grandfather.
-* After his father went to Pune in 1912 he lived there with the rest of his family.
-* These were the only years of his life he would spend with his father, mother, and three sisters.
 * During this time in Pune, from 1912 to 1918, Kosambi began his schooling.
 * He studied at the New English School where he showed himself to be a brilliant pupil.
 * In 1915 he began his secondary schooling, although he was much younger than all the other pupils in his class.
@@ -43,34 +35,25 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Father was somewhat strict and used to scold him.
 * In addition he was quite short-tempered and stubborn.
 * He would get angry if anyone dared touch any of his things.
-* In 1918 Kosambi's father planned a second trip to Harvard University in the United States.
-* He planned to leave his wife Balabai with their children in Pune to complete their schooling.
-* Balabai, however, became ill and returned to Goa with the two younger girls but it was decided that Kosambi was too sickly to be left in Pune on his own, so he and his older sister Manik accompanied their father to the United States.
 * The sea journey took four months followed by a train journey across the United States to Harvard University in Cambridge, Massachusetts.
 * Kosambi began his studies at the Rinz Technical High School but his poor health and weak physique meant to found the physical tasks difficult.
 * The principal advised that he transfer to a more academic education, so he was enrolled in the Harvard Grammar School.
 * He had his tonsils removed which led to a large improvement in his health.
 * After a year at the Harvard Grammar School he entered the Cambridge High and Latin School in 1920.
 * He now became interested in all academic subjects but also became physically very fit exercising in the gym, swimming, taking part in athletics and ice skating.
-* His older sister graduated from Radcliffe College in 1922 and she returned to India with her father leaving Kosambi to complete his education in America on his own; he moved into a hostel.
 * No other discipline unlocked the door to the atom or to the movement of celestial bodies equally well, as mathematics did.
 * Aptitude granted, mathematical research needed the least financial resources of any science.
 * Mathematical results possess clarity and give an intellectual satisfaction above any others.
 * They have absolute validity in their own domain, due to the rigorous logical process involved, independent of experimental verification upon which applications to the exact sciences must depend.
-* Leo Wiener taught Slavic languages at Harvard and he became a friend of Kosambi's father.
-* Leo Wiener had a son Norbert Wiener who was twelve years older than Kosambi and became a strong influence on the young schoolboy.
 * They became friends for life.
 * Kosambi graduated from the Cambridge High and Latin School in 1924 and was awarded a scholarship to study at Harvard University.
 * He postponed his studies, however, and returned to India, sailing first to London then departing on 19 July on the ship Katori Maru for India.
-* For two years he wandered about India, visiting family and friends.
-* In January 1926 Kosambi returned to America along with his father who was making a third visit to that country.
 * Kosambi began his studies at Harvard University in January 1926.
 * Although his main interest was mathematics, he spread himself very widely across an amazing range of subjects, taking 18 courses in one year.
 * He was taught mathematics by G D Birkhoff who worried about the number of courses Kosambi was taking, advising him to concentrate on mathematics.
 * In 1929 Kosambi was awarded the degree of Bachelor of Arts 'summa cum laude' but he was not awarded a fellowship to enable him to continue his studies for a doctorate.
 * One reason was the start of the Depression which meant fewer fellowships were available, but the main reason seems to have been the fact that Kosambi had not taken G D Birkhoff's advice of concentrating on mathematics and had continued having many other interests.
 * Stopping off in France he went to Paris to try to meet Élie Cartan but, failing in this, he sought out Tullio Levi-Civita in Rome but again had no luck.
-* Back in India he went to Bangalore where he lived for a while with his eldest sister.
 * Soon, he was appointed to the Banaras Hindu University where he taught mathematics and gave German classes on the side.
 * This was not a happy experience for Kosambi who wanted to teach at a higher level and wanted to undertake research.
 * In this early work, DDK displays a sophisticated ability to integrate many strands of thought, to generalise observations from one context to another, while retaining sufficient rigour.
@@ -78,9 +61,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Kosambi was not happy with the Banaras Hindu University but the senior staff were not very happy with him since he soon had a reputation of being rude to his seniors.
 * He was soon looking for another position and was delighted when André Weil invited him to take up a lectureship at the Aligarh Muslim University.
 * André Weil had completed his doctorate in 1928 and after undertaking military service had been appointed as professor of mathematics at Aligarh Muslim University in 1930.
-* In 1931, the year in which Kosambi took up the lectureship, he married Nalini, the daughter of Shri Balwantrao Madgaonkar who was a rich man and a close friend of Kosambi's father.
 * The marriage to Nalini, who had graduated in mathematics and Sanskrit from Wilson College, was an arranged one.
-* Damodar and Nalini Kosambi had two daughters, Maya born 10 April 1935, and Meera born 14 April 1939.
 * Kosambi's next paper, On a generalization of the second theorem of Bourbaki, was published in 1931.
 * As described by André Weil, the prank was designed to deflate a senior colleague's ego, presumably by demonstrating the greater familiarity that Kosambi had with modern methods and the then current literature.
 * André Weil left the Aligarh Muslim University in 1932 and Kosambi decided he would leave too.
@@ -101,7 +82,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Many times he would lose his temper for small negligible mistakes and offend others.
 * He took great pride in his intelligence.
 * His intellect was not matched with humility and because of this he tended to underestimate others.
-* In addition he had a childlike impishness and indulged in teasing people.
 * He was also given to using shock treatment to stir people out of their habitual thinking by taking an extreme stand.
 * He would never attempt to interact or mingle with others and if anyone dared to communicate with him he seemed to disappoint them as far as possible.
 * Kosambi resigned from Ferguson College in 1945.
@@ -110,10 +90,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He continued to live in Pune, travelling by train to the Tata Institute in Bombay.
 * What was now becoming typical, the sixteen years he spent at the Tata Institute started well but deteriorated.
 * Homi Bhabha arranged for Kosambi to become president of the Mathematics Section of the 34th Indian Science Congress that was held in Delhi 1-8 January 1947.
+* By this time he had tried his hand at fabricating at least one, his "universal" calculating machine, the Kosmagraph ...
 * DDK did not proofread this paper, and thus it is not in the form that he would have wished.
-* Dharmananda had prohibited even his own family from visiting him.
-* So not only Damodar but his mother too was not near him when the end came.
-* Damodar was much too disturbed during this period of his father's fast unto death.
 * Dhannananda must have had great influence on Damodar's growth.
 * However their minds had progressed in two different directions.
 * There he talked with, among others, Albert Einstein, J Robert Oppenheimer, Hermann Weyl, John von Neumann, Marston Morse, Oswald Veblen and Carl Ludwig Siegel.
@@ -149,7 +127,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In a fundamental way, Kosambi embodied the multidisciplinary approach, channelling diverse interests - indeed combining them - to create scholarship of high order.
 * The first is his search for a method in the editing of Sanskrit literary texts, and the second his search for a theory in the reading of these texts.
 * In the former case, if judged by the practices of editing Sanskrit literary texts in India at the time, Kosambi emerges as a remarkable pioneer, his concrete accomplishments hardly in danger of being superseded anytime soon.
-* In the latter, he is exceptional in the history of Indology for his awareness that the method of philology is always inseparable from a theory of philology, itself produced by a tradition of writing and reading, and from a cultural and political criticism specific to that tradition.
 * If Kosambi's theory has proven to be flawed, we have only come to know the flaws and sought ways to overcome them because he had the courage to enunciate the theory in the first place.
 * A theoretical framework that was new to the study of Indian history supported his reconstruction of the religion of the Indus valley, as well as his explanations for the spectacular rise and fall of Buddhism, and the enduring appeal of the Krishna myths.
 * From today's perspective his work betrays a few blind spots, but it remains largely relevant for the intellectual leap it took in exploring the essential relation between faith and socio-economic factors, and its consciously creative use of Marxism.
@@ -158,7 +135,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The high value he placed on research saw his exit from Banaras Hindu University and Aligarh Muslim University.
 * His attempt to impart real knowledge of mathematics saw him sacked from Fergusson College, Pune.
 * His insistence on ethical and relevant research led to his exit from the Tata Institute of Fundamental Research where, too, the diversity of his interests was portrayed negatively, though he continued his mathematical research till the end of his life.
-* The first two sections are inevitably drawn largely from secondary sources, given my lack of adequate intellectual credentials and Kosambi's general unwillingness to share personal reminiscences or work-related matters with his family.
 
 Born 31 July 1907, Kosben, Goa, now India. Died 29 June 1966, Pune, India.
 

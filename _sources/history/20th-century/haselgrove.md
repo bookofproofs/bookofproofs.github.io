@@ -28,11 +28,9 @@ contributors: @Jenifer-Leech,@Edmund-Robertson,bookofproofs
 * Haselgrove's first published research paper was on number theory.
 * Among the results proved by Haselgrove in the 1951 paper is an extension of Linnik's method for proving the Goldbach-Vinogradov three prime theorem, namely that any sufficiently large odd integer is the sum of at most three primes.
 * However Haselgrove was involved in much more than number theory.
-* Haselgrove's wife Jenifer and his fellow mathematics student John Leech were also working in the Laboratory at the time.
 * In 1953 Haselgrove implemented the first computer program to carry out coset enumeration of subgroups of finite index in a finitely presented group.
 * ACE includes an implementation of the HLT method of coset enumeration named after the work by Haselgrove, Leech and Trotter.
 * Another topic which Haselgrove worked on at this time was the problem of stellar evolution, collaborating with Fred Hoyle.
-* One night even the rheostat adjustment wasn't enough and Fred Hoyle, with whom my husband Brian Haselgrove was working on stellar evolution, rang up the electricity board and said "Can you hike your volts up a bit?".
 * In 1958 Haselgrove published his most famous number theory result in A disproof of a conjecture of Pólya.
 * R S Lehman and W G Spohn had verified the conjecture for all numbers xxx up to 800,000 but Haselgrove found a counterexample using methods based on those developed by Ingham with the help of computations carried out on the EDSAC 1 computer at Cambridge.
 * In the same paper Haselgrove announced that he had also disproved a number theory conjecture of Turán.

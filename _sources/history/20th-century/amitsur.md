@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * We need to understand a little of the background to the creation of the state of Israel in order to put Amitsur's life into perspective.
 * It was in the state under direct British rule that Amitsur (at that time known as Kaplan but for the sake of simplicity we'll refer to him throughout as Amitsur) was brought up.
-* The city had been built to form a European style city for the Jews in a predominantly Arabic area and had a population of around 40,000 when Amitsur's family moved there.
 * The principal of the school that Amitsur attended was himself a mathematician who had written a number of mathematics textbooks.
 * He, as well as Amitsur's teachers, soon saw the boy's potential but Amitsur's parents were in no position to support him while undertaking university studies.
 * The principal set up a fund to finance Amitsur's studies at the Hebrew University.
@@ -33,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Despite the misgivings, the British army formed a brigade of Jewish volunteers which Amitsur joined.
 * Amitsur was involved in this action.
 * Amitsur was awarded an M.Sc. in 1946 and by the time he was awarded a Ph.D. in 1950 the State of Israel was already two years old, having been declared on 14 May 1948.
-* Exactly when Amitsur changed his name is unclear but it must have been around the time that the  State of Israel came into being.
 * The reason was certainly to adopt a Hebrew name and a paper On a lemma of Kaplansky he had published in Hebrew in 1949 already gives the name of the author as Amitsur.
 * However, the report on Amitsur's thesis which Levitzki wrote in 1950 is entitled "Report on the Thesis of Shimshon Amitsur" but in the text of the report Levitzki refers to the author as Kaplan.
 * Amitsur published several papers immediately after the 1949 paper we mentioned above.

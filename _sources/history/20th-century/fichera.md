@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gaetano Fichera** was an Italian mathematician who worked in mathematical analysis, linear elasticity, partial differential equations and several complex variables.
 
 ### Mathematical Profile (Excerpt):
-* Giuseppe and Marianna had four children, all sons, and Gaetano was the eldest.
 * Giuseppe Fichera had graduated with his laurea in mathematics from the University of Catania in 1921.
 * He had been a student of Bernardino Gaetano Scorza, who taught at Catania from 1916 to 1920, and Giuseppe had become an expert on the theory of group representations.
 * After Scorza moved to Naples, Giuseppe Fichera became an assistant to Mauro Picone who was appointed Head of Mathematics at Catania in 1921.
-* However, after Giuseppe Fichera's second son was born, he left university teaching to become a secondary school teacher of mathematics.
 * However, Giuseppe Fichera remained a close friend of Picone all his life and this was to have a considerable beneficial effect on the young Gaetano.
-* Having an excellent mathematician for a father, it is not surprising that the young Gaetano quickly developed a deep love for the subject.
 * However, by the time Fichera was studying with her, Nalli had become interested in tensorial calculus.
 * After two years at the University of Catania, Fichera went to Rome in 1939 to study with Mauro Picone.
 * Therefore, the output of Gaetano Fichera belongs in part to pure mathematics, in part to its applications to physical mathematics.
@@ -52,6 +49,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In fact he had also been a referee one year earlier when Fichera received his 'Libero Docente'.
 * After this Fichera and Caccioppoli remained close friends until Caccioppoli's death in 1959.
 * In 1956 Fichera moved to Rome when appointed to the chair of mathematical analysis at La Sapienza, the University of Rome.
+* Fichera had by no means a narrow view of his subject and was led to contribute to other parts of mathematics, one being the theory of functions of several complex variables ...
 * The results of Gaetano Fichera in this field give useful information on the analytical structure of the 'memory kernel'.
 * In addition to this work in pure mathematics and mathematical physics, Fichera also made some important contributions to the history of mathematics.
 * Fichera was an outstanding lecturer, giving fascinating valuable lectures.

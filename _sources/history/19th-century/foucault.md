@@ -23,12 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Léon Foucault** was a French mathematician and astronomer who is best known for his invention of a pendulum which demonstrates the rotation of the earth.
 
 ### Mathematical Profile (Excerpt):
-* When Léon was young his father retired, since his health was rather poor, and the family moved from Paris to Nantes.
-* However retirement did not result in any improvement in his father's health and he died in Nantes in 1829 when Léon was nine years old.
-* His mother decided that they would return to Paris and from the age of ten Léon lived with his mother in a rather fine house on the junction of rue de Vangirard and rue d'Assas.
-* It was not only Léon's father who suffered from poor health, for Léon himself was a very frail child.
 * It gave him a rather awkward appearance and this was made worse by the fact that Léon became self-conscious about his appearance, tending to prefer being by himself.
-* Lissajous, who was about two and a half years younger than Foucault, was one of his few childhood friends.
 * Foucault did, however, make a good friend of one of the students at the Collège Stanislas, namely Hippolyte Fizeau.
 * If academic school  work was not to Foucault's liking, he did begin to exhibit other talents.
 * Just before starting work as Donné's assistant, Foucault had attended talks by Daguerre on his photographic methods.
@@ -55,9 +50,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Soon Foucault was creating superb telescopes for the Observatory with many innovative features.
 * Foucault accompanied Le Verrier on an expedition to Spain in 1860 to observe the eclipse on 18 July.
 * By October 1867 Foucault began to feel numbness in his hands.
-* The illness progressed rapidly despite the efforts of Foucault's mother to help her son recover.
 * It is likely that the illness was the result of the chemicals, in particular mercury, that Foucault had experimented with all his life.
-* Of course, as we noted at the beginning of this biography, Foucault's father died young so perhaps hereditary factors also played a part.
 
 Born 18 September 1819, Paris, France. Died 11 February 1868, Paris, France.
 

@@ -24,20 +24,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * These are most commonly Lavrent'ev, Lavrentev, Lavrentieff, Lavrentiev, Lavrentyev or Lavrentjev.
-* His father, Aleksii Mikhailovich Lavrent'ev, taught mathematics at a technical college in Kazan and later was a professor of mathematics at Kazan University.
-* His mother was Anisa Mikhailovna.
-* When Mikhail Alekseevich was nearly ten years old, his father went to Germany to study at Göttingen and took his family with him.
-* During the year 1910-11 that Aleksii Mikhailovich studied mathematics at Göttingen, his son Mikhail Alekseevich attended school in the city.
 * It was during this trip to Göttingen that Aleksii Mikhailovich met another Russian, Nikolai Nikolaevich Luzin, who was studying there with Edmund Landau.
 * Aleksii Mikhailovich and Nikolai Nikolaevich became good friends and, after returning to Russia, Luzin often visited the Lavrent'ev home in Kazan.
 * Luzin had a very strong influence on Aleksii Mikhailovich's young son.
-* After this year in Germany, the Lavrent'ev family returned to Kazan and Mikhail Alekseevich continued his education at a six-year commercial college.
 * At this stage in his studies, it was chemistry that interested Lavrent'ev most.
 * When his parents returned and saw the damage to their home they told Lavrent'ev that he had to give up chemistry.
-* However, in 1921 Lavrent'ev's father was appointed as a professor of mathematics at Moscow State University and the family moved to Moscow.
-* Lavrent'ev moved with his family and continued his studies at Moscow State University, graduating in 1922.
 * After arriving in Moscow, in addition to his studies, Lavrent'ev taught mathematics at Moscow Higher Technical School.
-* At Moscow University, Lavrent'ev had been taught by his father's friend Nikolai Nikolaevich Luzin among others and, after graduating, he continued to undertake research on set theory and topology advised by Luzin.
 * At this stage in his career, Lavrent'ev stopped his research in set theory and topology, moving towards the theory of complex variables.
 * The year 1929 was one of great importance for Lavrent'ev.
 * Also in 1929 he was invited by Sergei Alekseevich Chaplygin to accept the post of senior engineer at the Zhukovsky Central Institute of Fluid Dynamics.
@@ -60,7 +52,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One of the projects Lavrent'ev worked on was the creation of a silencer for a gun.
 * By the end of 1943 Soviet troops had liberated Kiev and in the following year Lavrent'ev returned to the city when the Ukrainian Academy of Sciences returned.
 * Lavrent'ev moved to Novosibirsk when he was vice-president of the USSR Academy of Sciences between 1957 and 1975.
-* The residents often called Lavrent'ev the 'grandfather' of Akademgorodok.
 * Then, in 1975, Lavrent'ev returned to Moscow where he worked at the Institute of Physics and Technology until his death.
 * We have already indicated some of the areas on which Lavrent'ev worked but we now summarise his contributions.
 * The 1940s was a period of industrialisation and construction and, after 1945, Lavrent'ev founded new areas of research in mechanics and applied physics which were aimed at laying the theoretical foundation necessary for the large construction projects of building dams, canals and bridges on the Volga, Dnieper and Don rivers.

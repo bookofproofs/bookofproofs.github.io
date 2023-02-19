@@ -49,6 +49,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This statement itself suggests that de la Roche was not trying to hide his dependence on others, for many mathematicians of this period would have made no acknowledgement to others at all.
 * Indeed de la Roche took parts of Chuquet, parts of Pacioli and parts of Philippe Friscobaldi, a French banker who is considerably less well known as a mathematics writer than the other two.
 * The unfortunate part is that de la Roche lacked any real skill in forming them into his teaching book.
+* It then passed into the famous library of Jean Baptiste Colbert (1619-1683), the finance minister of King Louis XIV who was also the founder of the French Academy ...
 * As de la Roche's birth date is unknown, so is his death date.
 * It appears he was still alive when his Larismetique nouellement composée  Ⓣ(Arithmetic newly presented) was published in 1520, but since Gilles Huguetan revised the work for publication in 1538, de la Roche must have died a few years before 1538.
 

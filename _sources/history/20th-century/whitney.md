@@ -23,17 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hassler Whitney** was an American mathematician who did important work in manifolds, embeddings, immersions, characteristic classes and geometric integration theory.
 
 ### Mathematical Profile (Excerpt):
-* Edward's father was William Dwight Whitney who was a linguist and one of the foremost Sanskrit scholars of his time, noted especially for his classic work, Sanskrit Grammar (1879).
-* Certainly Hassler had two very famous grandfathers.
 * Whitney attended Yale University where he received his first degree in 1928, then continued to undertake mathematical research at Harvard  University from where his doctorate was awarded in 1932.
 * Whitney was a keen mountaineer all his life and he made a particularly famous climb while an undergraduate.
 * Whitney subscribed to the "fast and light" school of mountaineering (and rock climbing).
 * Hassler moved quickly with less protection than is considered usual today.
 * On the Whitney Gilman ridge, he climbed without pitons (or anything else) for protection.
-* Whitney married Margaret R Howell on 30 May 1930; they had three children, James Newcomb Whitney, Carol Whitney, and Marian Whitney.
 * Hassler Whitney, then at Harvard, joined the group at Columbia working on questions concerning fire control systems, that is, systems which control the aiming of weaponry, especially on aircraft and rockets.
 * Harvard made Whitney a full professor in 1946 and he held this professorship until he accepted an offer from the Institute for Advanced Study at Princeton of a professorship in 1952.
-* After Whitney and his wife were divorced he married Mary Barnett Garfield on 16 January 1955; they had two children, Sarah Newcomb Whitney and Emily Baldwin Whitney.
 * Whitney's doctoral thesis was on graph theory, in particular making a major contribution to the four colour problem.
 * Continuing work started by Veblen and Henry Whitehead, Whitney produced fundamental work in differential topology in 1935.
 * The term Stiefel-Whitney characteristic classes is often used today.
@@ -42,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In addition to research at the frontiers of mathematical research, Whitney was also interested in mathematics teachings in schools.
 * Outside mathematical research and teaching mathematics Whitney contributed in many ways to his subject.
 * Princeton was to remain Whitney's base from 1952 until he retired in 1977.
-* After Whitney was divorced from his second wife he married Barbara Floyd Osterman on 8 February 1986.
 
 Born 23 March 1907, New York, USA. Died 10 May 1989, Mount Dents Blanches, Switzerland.
 

@@ -23,14 +23,10 @@ contributors: @Ian-T-Durham,bookofproofs
 **Hans Bethe** was a mathematician and physicist who worked on quantum mechanics.
 
 ### Mathematical Profile (Excerpt):
-* Hans' parents were Albrecht, a physician, and Ella whose father was a professor of medicine at the university in Strasbourg.
-* Hans was an only child whose father was a protestant and whose mother had converted from Judaism to Lutheranism, though religion was by no means a major force in his childhood.
-* Hans, it is safe to say, was well above his age in mathematical ability as a child.
 * In 1929 Hans was awarded a Rockefeller Foundation fellowship that allowed him to spend time in Cambridge working with Ralph Fowler and time in Rome working with Enrico Fermi.
 * The paper by Bethe, Beck, and Riezler was later officially retracted.
 * While in Rome that year, Hans found the atmosphere even more informal than Cambridge.
 * Fermi taught Bethe the value of qualitative reasoning and that physics need not -- in fact should not -- be drudgery, but rather enjoyable.
-* With Hitler's rise to power in 1933 and the enactment of the racial laws, Hans lost his job due to his mother's Jewish heritage.
 * As it happened, Bragg was visiting Cornell at the very time that Hans was searching for a position and at the very time Lloyd P Smith, who had studied with Hans in Münich, recommended him for a vacant theorist position at Cornell.
 * Bragg spoke very highly of Hans, passing along Sommerfeld's praise as well, and the job was his.
 * Hans was to remain at Cornell for the rest of his life.

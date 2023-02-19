@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Paolo Ruffini** was an Italian mathematician who gave a proof that the quintic equation could not be solved earlier than Abel.
 
 ### Mathematical Profile (Excerpt):
-* The family moved to Reggio, near Modena in the Emilia-Romagna region of northern Italy, when Paolo was a teenager.
 * Among his teachers of mathematics at Modena were Luigi Fantini, who taught Ruffini geometry, and Paolo Cassiani, who taught him calculus.
 * Cassiani's course at Modena on the foundations of analysis was taken over by Ruffini in 1787-88 although he was still a student at this time.
 * On 9 June 1788 Ruffini graduated with a degree in philosophy, medicine and surgery.
@@ -31,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Fantini, who had taught Ruffini geometry when he was an undergraduate, found his eyesight deteriorating and in 1791 he had to resign his post at Modena.
 * Ruffini was appointed to fill the position of Professor of the Elements of Mathematics in 1791.
 * However, Ruffini was not only a mathematician.
-* Napoleon's troops occupied Modena and, much against his wishes, Ruffini found himself in the middle of the political upheaval.
 * Although not wishing to get involved, Ruffini found himself appointed as a representative to the Junior Council of the Cisalpine Republic.
 * He was required to swear an oath of allegiance to the republic and this Ruffini found he could not bring himself to do on religious grounds.
 * Ruffini did not seem greatly disturbed by the loss of his chair, in fact he was a very calm man who took all the dramatic events around him in his stride.
@@ -46,6 +44,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * So how did Ruffini react?
 * At least Ruffini received comments from Malfatti concerning this paper, but unfortunately Malfatti had not understood Ruffini's arguments and raised a fallacious objection.
 * Ruffini published further proofs in 1808 and 1813.
+* It is no surprise that it should resemble Ruffini's proof, since Wantzel says in his paper ..."using works of Abel and Ruffini...".
 * Ruffini did not stop trying to have his work recognised by the mathematical community.
 * One has to feel desperately sorry for Ruffini.
 * If some mathematician had written to him showing him there was an error or even a gap in the proof, then at least Ruffini would have had the chance to correct it.

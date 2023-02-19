@@ -24,10 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Ramchundra's early education was at home, a standard for India at that time, but he also attended school in Panipat from the age of six.
-* The family moved back to Delhi but Ramchundra's father Sunder Lal died in 1831 leaving the family in a very difficult financial position.
-* Ramchundra's mother had to care for six young boys.
-* Ramchundra married a deaf and dumb girl in 1832 when he was eleven years old.
-* This was an arranged wedding (the girl was the daughter of a wealthy businessman and came with a sizeable dowry) and Ramchundra only learnt after the wedding that his wife was deaf and dumb.
 * In 1833 Ramchundra entered the English Government School in Delhi.
 * The College incorporated the English Government School which Ramchundra attended.
 * In 1841 Ramchundra competed for a scholarship and was awarded a senior scholarship of thirty rupees per month.

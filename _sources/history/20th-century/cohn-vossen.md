@@ -34,6 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The book was of great importance but this presented problems to the Nazis who had dismissed Cohn-Vossen from his post because of his race.
 * The way that they overcame the difficult conflict between mathematical quality and anti-Semitism was to reduce the role of Cohn-Vossen to that of an amanuensis.
 * In fact Ludwig Bieberbach, who allowed Nazi ideology to completely override his mathematical judgement, took care to emphasise that his only citations to Anschauliche Geometrie were those that were ascribable solely to Hilbert and definitely not Cohn-Vossen.
+* brilliant intuitive and concrete approach to geometry provided by Hilbert and his collaborator Cohn-Vossen ...
 * After Cohn-Vossen was dismissed from his position at the University of Cologne in 1933 he left Germany and went to Switzerland.
 * Cohn-Vossen had been appointed as a professor at Leningrad University in 1935, working at the Steklov Mathematical Institute of the USSR Academy of Sciences.
 * The Steklov Mathematical Institute moved to Moscow in the following year and Cohn-Vossen moved with the Institute - again he was appointed as a professor at the University in Moscow.

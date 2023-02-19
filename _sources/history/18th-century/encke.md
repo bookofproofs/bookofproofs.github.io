@@ -23,13 +23,6 @@ contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,
 **Johann Franz Encke** was a German astronomer. He worked on the calculation of the periods of comets and asteroids, measured the distance from the earth to the sun, and made observations of the planet Saturn
 
 ### Mathematical Profile (Excerpt):
-* His grandfather, Georg Friedrich Encke, had also been a pastor, in Altluneberg, near Bremen.
-* His mother Marie Misler (1755-1811), was the daughter of Johann Gottfried Misler, a civil servant, and Maria Schramm.
-* Marie and Johann Michael Encke had nine children together, three daughters and six sons (though one son died soon after birth).
-* Encke, the subject of this biography, was the second youngest.
-* Encke's father died when he was still young, shortly after having been made an archdeacon.
-* Encke's mother Marie was sick, so he initially wanted to become a doctor.
-* Tragically, his mother died before he could enter university, so, under Hipp's advice, Encke decided to pursue further studies in mathematics.
 * Gauss was impressed with Encke's talents in astronomical observation and tried to have him work as an assistant in a small observatory in Ofen (another name for Buda, not part of Budapest).
 * However, war interrupted Encke's studies and, in March 1813, he enlisted to fight against Napoleon.
 * Encke was discharged in July 1814 and returned to his studies, but he was again interrupted in March 1816, when Napoleon escaped from the island of Elba.
@@ -42,8 +35,6 @@ contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,
 * Encke observed it in December 1818 and computed its orbit in January 1819.
 * Encke identified the comet with the ones observed by Pierre François-André Méchain (1786), Caroline Herschel (1795) and Pons (1805).
 * Because of the comet's short period, Encke was able to observe it a number of times.
-* They had five children, three sons and two daughters, including Bertha Henriette Encke; Heinrich August Encke; Johann Hermann Encke and Sophie Marie Blase.
-* One of the sons would later become a clergyman, like Encke's father and grandfather had been.
 * Considering the observatory in Berlin to be inadequate, Encke decided to move to a new building, equipped with better instruments (including a large Fraunhofer refractor).
 * Though Encke had been promised a new observatory when he took office, the promise would have not been realised so soon were it not for Alexander von Humboldt, who in 1828 appealed for aid to King Frederick William III.
 * Encke was in charge of the Astronomisches Jahrbuch (Astronomical Yearbook), founded by his predecessor, Johann Elert Bode, who edited it for fifty years.

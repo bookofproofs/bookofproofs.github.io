@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Elemér Kiss** was a Hungarian mathematician and historian of mathematics, best known for his work on János Bolyai.
 
 ### Mathematical Profile (Excerpt):
-* His father was István Kiss (1904-1996) and his mother was Berta Csedő (1904-1985).
-* His father, István, was a beekeeper as well as a school teacher, and the respect for nature and local region that Elemér inherited from his parents was evident later on in papers he wrote on bees, namely The Bees and Geometry and Construction of Bees.
 * He began his studies at the Catholic Gymnasium in 1940 and, after eight years at the school, Kiss went to Cluj where he attended the Bolyai University, beginning his studies in 1948.
 * For a short history of the Bolyai University we refer the reader to our biography of Gyula Maurer who was also a student at the Bolyai University when Kiss entered, but two years ahead of him.
 * At the Bolyai University Kiss had Samu Borbély, Ferenc Radó and Jenő Gergely among his professors.

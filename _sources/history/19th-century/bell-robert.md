@@ -23,11 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Robert Bell** graduated from Glasgow University. He was appointed to a professorship at the University of Otago in New Zealand. He worked in Geometry.
 
 ### Mathematical Profile (Excerpt):
-* His father was the Rev George Bell, a congregational minister and his mother was Margaret Walker Scott.
 * Robert studied at Hamilton Academy, Lanarkshire, and then entered the University of Glasgow.
 * He was awarded an M.A. with First Class Honours in Mathematics and Natural Philosophy by Glasgow in 1898, then remained at the University employed as a tutorial assistant.
 * At this time he lived at Portland Park, Hamilton.
-* He married Agnes Thomson in 1902.
 * Bell was promoted to Lecturer in Mathematics at Glasgow and awarded a D.Sc. by the University in 1911 for his treatise Coordinate Geometry of Three Dimensions.
 * He continued to work in Glasgow until 1920 when he was appointed Professor of Pure and Applied Mathematics at the University of Otago, Dunedin, New Zealand.
 * Three universities honoured Bell with honorary degrees; he received LL.D. from Glasgow in 1932, Sc.D. from Cambridge in 1948, and LL.D. from Otago in 1962.

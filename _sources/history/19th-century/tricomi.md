@@ -39,13 +39,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Enrico D'Ovidio had retired from the University of Turin in 1922 and in November 1925 Tricomi was called to the University of Turin as an extraordinary professor of algebraic analysis and in charge of complementary mathematics.
 * The sympathies of Tricomi went without hesitation to the first group, also because of the solid friendship that bound him to Fubini and Alessandro Terracini.
 * However, Tricomi was also strongly appreciated by Peano who, as early as 1925, proposed to him to exchange his teaching of complementary mathematics with that of infinitesimal calculus.
-* In 1931, Tricomi married Susanna Fomm (1904-1959) in Germany.
-* Tricomi was a vigorous anti-Fascist so the political situation became more and more troublesome to him.
 * One consequence was that it led to Tricomi giving all the support he could to people and organisations which fascism opposed.
 * Gino Fano was one of Tricomi's colleagues at Turin and, because of the racial laws, he was deprived of his chair in 1938.
 * Tricomi did his utmost to assist Fano, getting books and journals for him so that he could continue his mathematics.
 * Tricomi also helped his colleague Alessandro Terracini (1889-1968) publish the high school algebra textbook Algebra elementare ad uso dei licei Ⓣ(Elementary algebra for high school use) (1940) under Tricomi's name.
-* This put Tricomi and his family in extreme danger in Torre Pellice and they went into hiding, eventually being able to make their way to Rome.
 * When there, Tricomi continued to help Jewish colleagues and friends, such as Guido Castelnuovo and Federigo Enriques both of whom had been forced into hiding but were running an illegal school instructing Jewish students who were suffering discrimination.
 * After Rome was freed by the Allies, Castelnuovo asked Tricomi to remain in Rome and help him with the reconstruction of mathematics in the university there.
 * Tricomi returned to Turin in 1944 where he resumed his university teaching.
@@ -57,7 +54,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Tricomi was an editor of Aequationes Mathematicae from the time the journal was founded in 1968 until his death.
 * Tricomi had a deep interest in problems concerning the history of mathematics and he published many important articles on this topic.
 * In fact, references to articles on Giovanni Plana, Guido Ascoli, Bernhard Riemann, Salvatore Pincherle, Jacques Hadamard, Tommaso Boggio, Giuseppe Veronese, Francesco Gerbaldi, Duilio Gigli, Cesare Arzelà, Giuseppe Basso, Giuseppe Vitali, Federigo Enriques, Roberto Marcolongo, Guido Fubini, Giovanni Ricci, Ernesto Pascal and Mauro Picone written by him appear in this Archive.
-* His wife died in her middle 50s in 1959 and, having no children, Tricomi spent his final years as a rather lonely figure after he retired in 1972.
 
 Born 5 May 1897, Naples, Italy. Died 21 November 1978, Turin, Italy.
 

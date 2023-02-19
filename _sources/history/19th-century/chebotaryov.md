@@ -23,10 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Nikolai Chebotaryov** proved his density theorem generalising Dirichlet's theorem on primes in an arithmetical progression.
 
 ### Mathematical Profile (Excerpt):
-* His mother was a strong influence on his education and her lack of knowledge of mathematics seems to have been one of the main reasons that Nikolai went in that direction.
 * Nikolai entered the University of Kiev in 1912 where he became a student of Grave.
 * In this same year, 1922, Nikolai was to prove the theorem for which he is best known, the density theorem, which had been conjectured by Frobenius in a paper written in 1880 but only published in 1896.
-* By 1924 Nikolai had a permanent job in Moscow but he had been appointed to the post Egorov had been dismissed from for political reasons.
 * It was an unhappy situation and Chebotaryov resigned after a few months.
 * Chebotaryov received his doctorate from the Ukrainian Academy of Sciences with a doctoral thesis based on his 1922 result, the density theorem.
 * Chebotaryov worked on the algebra of polynomials, in particular examining the distribution of the zeros.

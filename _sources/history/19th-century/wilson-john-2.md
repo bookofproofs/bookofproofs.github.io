@@ -24,11 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * John Wilson was an undergraduate at the University of Edinburgh and graduated with an M.A. He then entered the New College where he was trained for the ministry, becoming a licensed preacher in the Free Presbytery of Edinburgh.
-* Wilson's father retired from being rector of the Academy and Wilson took charge of the school until 1887 when it was merged with the Public School.
 * Wilson joined the Edinburgh Mathematical Society in February 1885, two years after the Society was founded.
 * The Royal Society of Edinburgh elected Wilson to a fellowship of the Society on 4 February 1878.
 * Wilson's obituary, written by C G Knott, appeared in John Wilson, Proc.
-* John Wilson, M.A., F.R.S.E., 25 Buccleugh Place, Edinburgh, who was at one time Rector of Bannockburn Academy, having succeeded his father in that office.
 * Mr Wilson was a mathematician of a high order, and took a deep interest in the advancement of his favourite science.
 * Mr Wilson, who was for long an elder of the Free High Church, was a modest, unassuming, warm-hearted, kindly man, and his death brings with it keen and lasting regret to a large circle of friends.
 

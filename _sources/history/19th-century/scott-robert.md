@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Robert Scott**  spent most of his career as Bursar and Master of St John's College Cambridge. He published a book on Determinants.
 
 ### Mathematical Profile (Excerpt):
-* Robert's mother was Mary Forsyth, son of the Edinburgh advocate Robert Forsyth.
 * Robert Scott was educated at the High School, Edinburgh, then in Stuttgart before becoming a student at University College, London.
 * From London, Scott entered St John's College, Cambridge where he studied the Mathematical Tripos.
 * Scott then studied law, becoming a Barrister in 1880, and a Bencher of Lincoln's Inn in 1922.

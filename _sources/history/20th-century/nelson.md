@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Although her parents had struggled when they first arrived in Canada, by the time Evelyn was born they were comfortably off running a clothing business.
 * Evelyn attended Westdale High School in Hamilton, Canada, and soon showed that she had quite outstanding gifts but it is very much to her parents credit that they encouraged her talents in science and mathematics although they themselves had little experience of these topics.
 * After graduating from Westdale High School in Hamilton, Evelyn entered the University of Toronto.
-* Soon after her return to Hamilton she married Mort Nelson, who was an undergraduate at McMaster and, of course, he was the reason for her move from Toronto.
 * At McMaster, Nelson decided to concentrate on mathematics and she registered for the Honours Mathematics course there and performed so well that she even took a graduate course for credit as part of her undergraduate degree.
 * After completing her M.Sc. Nelson continued to study at McMaster for her Ph.D. under the supervision of Günther Bruns.
 * Nelson spent her whole career at McMaster.

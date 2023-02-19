@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Robert Carmichael** was an American number theorist best known for discovering what are now called Carmichael numbers.
 
 ### Mathematical Profile (Excerpt):
-* Amanda was the daughter of Robert Alexander Lessley (whose parents were Irish) and Frances Elizabeth Thompson, while Daniel was the fifth child of Daniel Carmichael (whose father was born in Argyllshire, Scotland) and Margaret Monroe (whose father was also born in Scotland).
-* Robert was the oldest of his parents' ten children.
 * Carmichael attended Lineville College in Lineville, Clay County, Alabama and graduated with an A.B. in 1898.
-* He married Eula Smith Narramore (1872-1953) from Randolph, Alabama, on 24 November 1901; they had four children, Eunice Annie (born 1902), Erdys Lucile (born 1904), Gershom Narramore (born 1905), and Robert Leslie.
 * Carmichael trained as a Presbyterian Minister and was living in Hartselle, Alabama, in early 1905 when he began submitting problems to the American Mathematical Monthly.
 * Following the award of his doctorate, Carmichael was appointed as an Assistant Professor of Mathematics at Indiana University.
 * Carmichael was promoted to Associate Professor at Indiana in 1912 and in the autumn of that year he delivered a short course on the theory of relativity.

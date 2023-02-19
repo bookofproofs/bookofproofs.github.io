@@ -35,7 +35,6 @@ contributors: @Stefanie-Eminger,bookofproofs
 * Franel did not give a talk himself, but he read out Poincaré's talk in the first general meeting, which he is remembered for.
 * Despite having been general secretary, Franel never had the chance to edit the congress proceedings in French.
 * Franel was a member of the organising committee of the 1932 ICM in Zürich again, but did not give a talk at the congress.
-* Franel was married and he had two daughters, Jeanne (born 1889) and Marie-Louise (born 1893).
 
 Born 29 November 1859, Travers, Neuchâtel canton, Switzerland. Died 21 November 1939, Zürich, Switzerland.
 

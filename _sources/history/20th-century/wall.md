@@ -34,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Wall retired in 1999 and was made Emeritus Professor at the University of Liverpool.
 * Retirement certainly did not mean that Wall was less in demand as a plenary speaker at international conferences.
 * Wall continues to publish important research articles, and an outstanding book Singular points of plane curves in 2004.
-* Outside mathematics Wall has many interests including home wine making, reading, gardening, walking and an interest in politics which has seen him as treasurer of the Wirral Area SDP from 1985 to 1988.
 
 Born 14 December 1936, Bristol, England.
 

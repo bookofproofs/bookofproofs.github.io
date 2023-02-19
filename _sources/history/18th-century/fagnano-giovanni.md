@@ -24,11 +24,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Giovanni was born into one of the leading families in Sinigaglia.
-* Giovanni's father Giulio Fagnano held high office in Sinigaglia.
 * He was appointed gonfaloniere in 1723 when Giovanni was eight years old.
-* Giovanni was one of many children in his family but the only one to follow his father's interest in mathematics.
 * In 1755 Fagnano was appointed as archpriest, a very high rank to achieve.
-* Fagnano continued his father's work on the triangle and wrote an unpublished treatise on the topic.
 * Some of Fagnano's publications appear in the Nova acta eruditorum Ⓣ(New scholarly results) in 1774.
 
 Born 31 January 1715, Sinigaglia (now Senigallia, Italy). Died 14 May 1797, Sinigaglia (now Senigallia, Italy).

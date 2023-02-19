@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Willard Van Orman Quine** was an American philosopher and logician in the analytic tradition.
 
 ### Mathematical Profile (Excerpt):
-* His mother, Harriet Van Orman, was a teacher.
-* Willard (or Van as he became known to his friends) was the youngest son of the family.
-* After leaving school Quine studied at Oberlin College, Oberlin, Ohio, where his brother William had also studied.
 * A fellow student suggested that he would find reading Bertrand Russell's works interesting and indeed reading Russell and Whitehead's Principia Mathematica quickly convinced Quine that he should study mathematics as his major subject with the philosophy of mathematics as a secondary topic.
 * Quine completed his doctorate in two years supervised by Alfred North Whitehead.
 * It was Whitehead who introduced him to Russell, who was visiting Harvard to lecture there, and from that time Quine began a correspondence with Russell.
@@ -37,9 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Quine was appointed onto the staff at Harvard in 1936 as an Instructor in Philosophy.
 * The year 1940 was an exciting one for Quine at Harvard for in that year both Carnap and Tarski visited Harvard and the three debated logical positivism.
 * Although Quine was a firm friend of Carnap the two took somewhat different stands on many philosophical issues which led to lively discussions and challenges.
-* In 1945 Quine and his wife, having had two daughters, separated and they were divorced two years later.
-* Quine and his second wife had two children, a daughter and a son.
-* The son, Douglas B Quine, has written an obituary of his father.
 * During 1953-54 Quine was Eastman Visiting Professor at Oxford and during that time he published a book From a Logical Point of View which was a collection of his earlier articles.
 * Quine became Edgar Pierce Professor of Philosophy at Harvard in 1956, a post he retained until he retired in 1978.
 * We have commented above about Quine's work in mathematical logic.

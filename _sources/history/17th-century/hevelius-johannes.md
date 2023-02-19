@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Among all these forms we have not given the one by which he is today known, namely Johannes Hevelius.
-* Johannes was one of a large family, having three brothers and six sisters.
 * When Johannes was seven years old, he entered the Gymnasium in Danzig, studying there for six years.
 * However, by 1624 problems caused the Gymnasium to be temporarily closed and Johannes's parents sent him to a school in the small village of Gondeltsch near Bromberg (Polish Bydgoszcz).
 * The mathematics teacher, Peter Krüger, was inspirational and, having an interest in astronomy, he soon transmitted this interest to the young Hevelius.
@@ -35,11 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, his old teacher Krüger was by now nearing the end of his life and Hevelius visited him early in 1639.
 * His interest had been awoken sufficiently by Krüger that Hevelius observed the eclipse and the old love of astronomy came flooding back.
 * Hevelius had a brewery to run which could have taken up much of his time.
-* However, his wife Katharina took over much of the administrative work associated with the brewery so that Hevelius could devote much of his time to constructing astronomical instruments, grinding lens for telescopes, making mounts for quadrants, sextants and other essential tools for a well equipped 17th  century observatory.
 * In 1641 he was elected an alderman of Danzig, an event which meant that despite his wife's efforts running the brewery, Hevelius was again busy with duties which kept him away from astronomy.
-* In 1649 his father died and Hevelius had sole responsibility for running the brewery.
-* In March 1662 Hevelius's wife Katharina died.
-* Hevelius had no children with his first wife but with his second wife he had a son and three daughters.
 * Hevelius continued to increase his reputation across Europe, being awarded a pension by the French in 1663 and being elected to the Royal Society of London in 1664.
 * In fact Hevelius had been in correspondence with Oldenburg, the secretary of the Royal Society, from January 1663 and they exchanged around 80 letters over the next 14 years (Oldenburg died in 1677).
 * Hevelius also corresponded with most of the leading astronomers including Wallis, Flamsteed and Halley in England, and Gassendi and Boulliau in France.

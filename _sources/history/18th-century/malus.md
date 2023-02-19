@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Étienne Louis was first educated at home where he was instructed in literature and mathematics.
 * There he was taught by Monge who realised Malus had special mathematical talents.
-* In 1793 Malus left the school, having been dismissed for political reasons.
 * On leaving Mézières, Malus joined the army and was posted to Dunkerque.
 * While studying at the École Polytechnique Malus began to undertake original research, writing papers on the path of light through materials of differing refractive indices.
 * After graduating from the École Polytechnique Malus rejoined the army, this time taking part in campaigns on the Rhine in 1797.

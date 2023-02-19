@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Margaret Rayner** was a British mathematician who did important work on isoperimetric inequalities, mathematical education, and the history of mathematics. She became vice principal of St Hilda's College, Oxford and president of the Mathematical Association.
 
 ### Mathematical Profile (Excerpt):
-* Margaret was born into a farming family with her parents, and almost all her relations, being farmers.
 * The one exception was an aunt who was the headmistress of a village school and she was very supportive of Margaret having a high quality education.
-* This was more important than it might look at first since farming was so much of a family tradition that all other members of the family expected Margaret to become a farmer.
-* Margaret was brought up on Six Bells Farm, a dairy farm, at Alcester, Warwickshire, where Ridgway and Fanny were assisted by Ridgway's brother Henry and sister Lizzie.
 * Margaret attended the King's High School for Girls in Warwick.
 * She was near the end of her career when Rayner entered the school but, nevertheless, she was an important influence.
 * Rayner was a Prefect at the King's High School for Girls in 1947, the year she graduated.

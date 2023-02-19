@@ -23,6 +23,7 @@ contributors: @Elizabeth-Lewis,bookofproofs
 **C V Mourey** was a French mathematician who is known solely from one work in which he introduces the ideas of complex numbers.
 
 ### Mathematical Profile (Excerpt):
+* On the title page of this first edition the author's address is given as 'Paris ...
 * Rue des Quatre-Vents, no.
 * This address constitutes the only biographical information on Mourey currently available.
 * In this later edition no address is given for the author, which suggests that by 1861 Mourey was deceased.
@@ -59,7 +60,6 @@ contributors: @Elizabeth-Lewis,bookofproofs
 * He may have been employed as a draughtsman by MM.
 * Hacks et compagnie, whose workshops were on the Grand Rue du Faubourg, Saint-Antoine, no.
 * In 1828, aged thirty-seven, Mourey would have made sufficient money from his inventions to enable him to publish a book.
-* In Paris, on 21 October 1829, Claude-Victor Mourey married Marie Claire Klein, daughter of Henry Klein and Marie Françoise Grégorie.
 * He died in Paris on 30 July 1830, aged thirty-nine; just two years after La Vraie Théorie des quantités négatives et des quantités prétendues imaginaires Ⓣ(The true theory of negative numbers and numbers called imaginary) was published and after only nine months of marriage.
 * Making a positive identification of this Claude-Victor Mourey with our mathematician is difficult because almost all the civil records for Paris prior to 1860 were destroyed by a fire at the Hôtel de Ville (where the paper records were stored) in May 1871 during the Paris Commune uprising: between five and eight million records were destroyed.
 

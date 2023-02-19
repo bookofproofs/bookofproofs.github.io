@@ -23,12 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **André Lichnerowicz** was a French mathematician who worked in differential geometry and mathematical physics.
 
 ### Mathematical Profile (Excerpt):
-* In France he married a woman from the Auvergne and their two children Jean Lichnerowicz, the father of André the subject of this biography, and his sister Jeanne Lichnerowicz achieved much.
-* Jean Lichnerowicz, André's father, received the agrégation in classics and went on to achieve fame in the literary world, becoming a professor of literature.
 * Although Jean Lichnerowicz was an expert in the arts, he had quite an interest in mathematics which he had studied for his own enjoyment.
-* André's mother had received her university education at the École Normale Supérieure de Jeunes Filles at Sèvres just outside Paris.
 * André, his parents' only son, was brought up in a home where learning and culture played a huge role.
-* We have painted a picture of a rather idyllic childhood, but André had very poor health which made life very difficult for him.
 * Perhaps at this point we should note that Lichnerowicz was known as André to his friends, but as Lichné to his students.
 * However, for the rest of this biography we will refer to him as Lichnerowicz.
 * Lichnerowicz entered the École Normale Supérieure on Rue d'Ulm in 1933.
@@ -36,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In fact Lichnerowicz only just survived the war years.
 * In November 1943 the Germans carried out a raid on the University of Strasbourg, in Clermont-Ferrand, and they arrested Lichnerowicz.
 * After the war ended in 1945, the University of Strasbourg returned to the city of Strasbourg where Lichnerowicz continued to perform his duties.
-* The physicist Georges Bruhat (1887-1945), the father of Yvonne Choquet-Bruhat and François Bruhat, had been appointed as deputy director of the École Normale Supérieure in 1935 and held that position for most of the time that Lichnerowicz studied there.
 * Lichnerowicz followed Bruhat's suggestion for the first of these books, and set about writing the textbook, Algèbre et Analyse Linéaires Ⓣ(Linear Algebra and Analysis) based on lectures he gave at Strasbourg.
 * In 1949 Lichnerowicz was named professor at the University of Paris, where he established the diploma Mathematical Methods in Physics.
 * In 1952 Lichnerowicz was elected to a chair at the Collège de France which he continued to hold until he retired in 1986.
@@ -45,7 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * A great intellectual, Lichnerowicz was also very human.
 * Lichnerowicz considered himself responsible for everyone who had been his student, and he had many of them.
 * In 1963, at the age of only 48, Lichnerowicz was elected to the Académie des Sciences in Paris.
-* Lichnerowicz was married Susa and they had a son Jérôme Lichnerowicz.
 * An after-conference dinner with the Lichnerowicz couple (she often accompanied him on his scientific trips) was surely an enriching experience.
 * André's knowledge of French history, literature and geography, of French food and wines paralleled his deep learning in mathematics, and he could entertain his neighbours at the table on any subject.
 * Lichnerowicz received many honours, in addition to election to the Academy of Sciences we mentioned above, including election to the Pontifical Academy and the Accademia dei Lincei.

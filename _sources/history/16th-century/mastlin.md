@@ -23,11 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Michael Mästlin** was a German astronomer who was Kepler's teacher and who publicised the Copernican system.
 
 ### Mathematical Profile (Excerpt):
-* His father, Jakob Mästlin, and his mother, Dorothea Simon, were both devout Lutherans and Michael was brought up in that faith and remained strongly committed to it throughout his life.
 * Mästlin was awarded a Master's degree with distinction in 1571.
-* Mästlin then married Margarete Burkhardt, daughter of a professor at Tübingen; they had eight children.
 * Mästlin is famous for his excellent, very accurate, observations of the comet of 1577, observed while he was in Backnang, and published in Tübingen in 1578 as Observatio et demonstratio cometae aetherae qui anno 1577 et 1578 constitutus in sphaera Veneris apparuit cum admirandius eius passionibus varietate scilicet motus loco orbe distantia a terro centro etc.
-* Mästlin was very generous both to his family and to others.
 * Mästlin had several students who became noted mathematicians, the most famous being Kepler.
 * Mästlin also maintained interests in Biblical chronology and geography.
 * However for the more advanced lectures he adopted the heliocentric approach - Kepler credited Mästlin with introducing him to Copernican ideas while he was a student at Tübingen (1589-94).

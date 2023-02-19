@@ -24,11 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Jerry Talbot, born on 14 September 1870 in Forest Depot, Virginia, USA, was a foreman working on street paving.
-* Carrie Payne, born on 10 March 1880 in Campbell County, Virginia, USA, married Jerry Talbot on 29 November 1899 in Allegheny, Pennsylvania, USA.
 * We note that on at least one official document, Carrie's year of birth is given as 1877.
-* Jerry and Carrie Talbot had five children, one dying as a baby.
-* The four surviving children were Helen V Talbot (1901-1951), Reginald P Talbot (1904-1981), Jerry W Talbot Jr (1907-1944), and Walter Richard Talbot (1909-1977), the subject of this biography.
-* At the time Walter was born the family were living in a rented home at 5635 Mignonette Street, Pittsburgh, together with Carrie's father Richard Payne and her brother William Payne.
 * parents and grandparents had attained their education in spite of limited opportunities for formal schooling.
 * The two chemistry teachers were sincere and encouraging.
 * Dr Gorgas regularly hired a coloured (term in vogue then) girl as departmental secretary.
@@ -55,21 +51,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He has served as advisor to the class of '38 since its freshman year.
 * Talbot was promoted to associate professor and then to full professor.
 * in post-college days there were colleagues such as President Sherman Scruggs of Lincoln University (Mo.), who tolerated differing points of view at a time when many presidents did not, and college teachers who knew not only their fields but also good procedures through familiarity with the literature of the very active accreditation organizations.
-* Talbot married Kathleen Almira Mitchell who was born on 22 May 1915 in Greensboro, Guilford, North Carolina, USA.
-* She was the daughter of George Henry Mitchell (1875-1933) and Lucy Case Smith (born 1888) and attended Woodward High School, Cincinnati, Ohio.
-* Walter and Kathleen Talbot had two children, Walter Richard Talbot Jr., born 11 December 1938 in Jefferson City, and Kathleen Talbot, born 18 December 1940 in Cincinnati, Ohio.
 * Walter Richard Talbot Jr. became an oral surgeon and died on 22 December 2004.
 * Two pieces of data from 1940 are as follows.
-* In the 1940 Census Talbot is living at 504 Lafayette Street, Jefferson City with his wife Kathleen Talbot and his son Walter Talbot.
 * He registered for the Draft on 16 October 1940 giving an address of 720 Lafayette Street, Jefferson City.
-* It states he is living with his mother who is his 'Next of Kin' and gives his appearance as follows: Complexion - Light Brown; Eye Colour - Brown; Hair Colour - Black.
-* By October 1940, his wife had gone back to her parents to await the birth of her second child.
 * We note that the house at 504 Lafayette Street was known as "The Monastery" in the 1930s and 1940s and was a popular gathering place for Lincoln University intellectuals and their guests.
 * The local Jefferson City newspapers give a lot of information about Talbot.
 * For example, in April 1941 he was building a five rooms, brick and tile home on Lafayette Street.
-* On Friday 30 October 1942 it states that Walter R Talbot, of 1008 Lafayette street, entertained for the week-end Mr and Mrs N A Sweets and daughter.
 * Nathaniel A Sweets was a graduate of Lincoln University who became the publisher of the St Louis American newspaper which was a driving force in the St Louis campaign for equal rights, fair housing practices, and better schools for African-Americans.
-* The same Friday 30 October 1942 Jefferson City newspaper reports that the Talbot's young daughter Kathleen returned to Cincinnati with her grandmother, Lucy Mitchell.
 * Raymond Kemp (1907-2002) was the Director of Health, Physical Education and Athletics, and coached varsity football, basketball and track and field at Lincoln University.
 * On Friday 29 September 1944 it is reported that Walter R Talbot resigned as dean of men and became head of the department of mathematics.
 * He was chairman of the University Defense council and registrar from 1946 to 1948.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Giovanni Benedetti** was an Italian mathematician who anticipated some of Galileo's work on free fall.
 
 ### Mathematical Profile (Excerpt):
-* Giovanni was taught philosophy, music and mathematics by his father.
 * Benedetti studied the first four books of Euclid's Elements under Niccolo Fontana, better known as Tartaglia, probably about 1546-1548, although later they seem to have fallen out with each other.
 * Certainly during the period that Benedetti was Tartaglia's pupil, Tartaglia was involved the public challenge with Ferrari in which he lost his reputation.
 * This must have had a significant effect on his pupil and, as a consequence, it is not surprising that in Benedetti's later work he is highly critical of Tartaglia's writings.
@@ -38,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Of course at this time Aristotle's views were accepted without question and what Benedetti was putting forward was in complete contradiction to Aristotle.
 * As one might expect those who read Benedetti's work did not accept his ideas.
 * Benedetti himself remarks that he had critics in Rome who said that Aristotle was always right, so his work must be wrong.
-* In 1554, the year Benedetti's Demonstratio was published, his daughter was born in Turin.
 * Returning to the 1550s, we record Benedetti's appointment as court mathematician to Duke Ottavio Farnese at Parma from 1558 until 1566.
 * Benedetti was quite rich so when the Duke failed to pay him for long periods, he was not at all worried financially.
 * In 1587 Benedetti became ducal mathematician and philosopher, employed by Emanuele Filberto the Duke of Savoy, a post he held until his death.

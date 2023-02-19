@@ -23,16 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Georg Simon Ohm** was a German mathematician best known for _Ohm's Law_ on electrical resistance.
 
 ### Mathematical Profile (Excerpt):
-* His father, Johann Wolfgang Ohm, was a locksmith while his mother, Maria Elizabeth Beck, was the daughter of a tailor.
-* Although his parents had not been formally educated, Ohm's father was a rather remarkable man who had educated himself to a high level and was able to give his sons an excellent education through his own teachings.
-* Had Ohm's brothers and sisters all survived he would have been one of a large family but, as was common in those times, several of the children died in their childhood.
-* Of the seven children born to Johann and Maria Ohm only three survived, Georg Simon, his brother Martin who went on to become a well-known mathematician, and his sister Elizabeth Barbara.
-* When they were children, Georg Simon and Martin were taught by their father who brought them to a high standard in mathematics, physics, chemistry and philosophy.
 * Georg Simon entered Erlangen Gymnasium at the age of eleven but there he received little in the way of scientific training.
-* This contrasted strongly with the inspired instruction that both Georg Simon and Martin received from their father who brought them to a level in mathematics which led the professor at the University of Erlangen, Karl Christian von Langsdorf, to compare them to the Bernoulli family.
 * It is worth stressing again the remarkable achievement of Johann Wolfgang Ohm, an entirely self-taught man, to have been able to give his sons such a fine mathematical and scientific education.
 * In 1805 Ohm entered the University of Erlangen but he became rather carried away with student life.
-* Ohm's father, angry that his son was wasting the educational opportunity that he himself had never been fortunate enough to experience, demanded that Ohm leave the university after three semesters.
 * Ohm went (or more accurately, was sent) to Switzerland where, in September 1806, he took up a post as a mathematics teacher in a school in Gottstadt bei Nydau.
 * Karl Christian von Langsdorf left the University of Erlangen in early 1809 to take up a post in the University of Heidelberg and Ohm would have liked to have gone with him to Heidelberg to restart his mathematical studies.
 * Langsdorf, however, advised Ohm to continue with his studies of mathematics on his own, advising Ohm to read the works of Euler, Laplace and Lacroix.

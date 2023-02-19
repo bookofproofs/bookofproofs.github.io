@@ -23,18 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Wilhelm Süss** was a German mathematician important as the founder of the Oberwolfach Mathematical Institute.
 
 ### Mathematical Profile (Excerpt):
-* Wilhelm's father was a school teacher and came from a musical family including professional musicians.
 * Wilhelm inherited their love and talents for music.
 * At his high school Wilhelm excelled in all his subjects and he had quite a difficult decision to make when entering university as to which subject he would study.
 * Süss submitted his thesis Begründung der Inhaltslehre im Raum ohne Benutzung von Stetigkeitsaxiomen Ⓣ(Justification of the inclusion rule in space without the use of continuity axioms) to Frankfurt in March 1920.
-* At this time Süss met Irmgard Deckert, a mathematics student at the University and the daughter of a lecturer in geography.
 * Süss moved from Frankfurt to Berlin to become Bieberbach's assistant but seems to have spent more time working for the German Mathematical Society than for Bieberbach.
 * In January 1923 Süss accepted a position in Kagoshima, Japan and began his new job in March.
 * It was not really a mathematical job but rather saw Süss using his skills in German language and literature.
 * After five years in Japan, Süss corresponded with Karl Reinhardt who was professor at Greifswald.
-* The two had known each other from their childhood and the exchange of letters led to Reinhardt telling Süss that if he submitted his papers to Greifswald he could habilitate there and obtain a position.
 * Süss accepted the idea and returned from Japan in 1928 to take up the lecturing post at Greifswald.
-* Hellmuth Kneser, the son of Adolf Kneser, had been appointed as professor at Greifswald three years before Süss came onto the staff there.
 * This was a difficult time in Germany and Süss soon felt that the country was suffering unfairly.
 * Supporters of each view can point to evidence to support their case and it is doubtful whether it will ever be possible to clarify Süss's motives.
 * Exemption was given to those who were members of the Stahlhelm, a veteran's organisation, so Süss joined the Stahlhelm.
@@ -46,15 +42,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Some see his chairmanship as saving the German Mathematical Society, while others see it as a period when Süss enthusiastically cooperated with the National Socialists.
 * Süss certainly initiated the expulsion of Jews from editorial boards, specifically asking that Issai Schur be removed from the board of Mathematische Zeitschrift in 1938.
 * There is no doubt that during his period as Chairman, from 1938 to 1945, Süss worked in close collaboration with Nazi government officials.
-* Among those who defend Süss's actions are Hildegard Abetz, Süss's daughter, and her husband [see P Abetz and H Abetz, Mitt.
 * They emphasise that things in the Third Reich were much more subtle than people who condemn Süss realise.
 * Today Süss is remembered as the creator of the Oberwolfach Mathematical Institute.
 * Hasse wrote to Süss on 24 March 1944 suggesting he leave Freiburg and move to Göttingen.
-* However Freiburg were keen to keep Süss who was at that time the most important figure in mathematical politics in Germany.
 * Süss was not only the founded of the Institute but he became its first director.
 * Süss was suspended from his position at Freiburg at the end of the war.
 * Süss too claimed that he had always opposed Nazi policies and that he had supported colleagues suffering under Nazi policies.
-* Letters from colleagues such as Carathéodory, Tietze, Hopf and Perron told of many colleagues who Süss had saved from political persecution.
 * Süss was reinstated after two months, and Freiburg elected him Rector of the University in 1958.
 * Süss worked hard to make the Institute truly international.
 * From 1949 to 1953 three to five meetings were held every year; the number increased to about a dozen per year after Süss secured funding from the federal government.

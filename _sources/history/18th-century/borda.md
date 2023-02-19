@@ -25,14 +25,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * The town, which was a famous spa with thermal springs, was on the Adour River, about 80 km north of the Pyrenees and the border with Spain.
 * His parents were Jean-Antoine de Borda, Lord of Labattut, and Marie-Thérèse de la Croix.
-* Charles had five older brothers and four older sisters.
-* There was another member of the family, his cousin Jacques-François de Borda, who would have a major influence on Charles as he grew up.
 * At the age of seven, Charles entered the Collège des Barnabites at Dax.
 * The Barnabites were a religious order founded in the 16th  century, taking their name from the ancient church of St Barnabas in Milan, and they were devoted to the study of the Letters of St Paul.
 * Borda was sent there and studied classics, science, mathematics, and metaphysics, following a course which would lead to an career in the army.
 * In 1748, when he was fifteen years old, Borda completed his studies at La Flèche.
-* The Jesuits there strongly encouraged him to join their Order but this did not appeal to him, for he had little interest in religion, and he returned to his parent's home to try to persuade his father to let him follow a career in the military engineering corps.
-* Despite the strong military connections of the family, Borda's father had wanted him to become a magistrate but he allowed his son to follow his wishes and, at this stage, Borda began a career as a mathematician in the army.
 * In 1753, at the age of twenty, Borda produced his first memoir on geometry and sent it to d'Alembert.
 * While in this post Borda undertook research on ballistics and, on 29 May 1756, he submitted a memoir studying the theory of the projectiles to the Académie des Sciences in Paris.
 * The Seven Years' War began in 1756 and the French defeated the Duke of Cumberland at the Battle of Hastenbeck in Hanover in July 1757.
@@ -65,9 +61,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Borda, however, reported on the 19 March 1791 that the Commission had decided on a different standard, namely that one metre should be one ten millionth of the distance from the North Pole to the equator.
 * Borda argued that the day should be divided into 10 hours with an hour divided into 100 minutes each of 100 seconds.
 * Under Borda's leadership the project to accurately measure the distance from the North Pole to the equator using the Borda repeating circle was carried out.
-* In early 1793 it looked as though political events would prevent the project being completed and Borda, Lagrange and Laplace made a provisional estimate of the metre based on a survey previously carried our by Cassini de Thury.
 * The value they came up with was actually more accurate than the one achieved by the Delambre-Méchain survey of the arc of the meridian from Dunkerque to Barcelona.
-* Borda retired to his family estate during the Terror, which lasted from September 1793 to July 1794, but then resumed his work with the metric system.
 * As Chairman of the Commission of Weights and Measures, Borda made other important proposals.
 * Substitution weighing had its advent and found wider application during the French Revolution, when, under the direction of Jean-Charles de Borda, new standards for measures and weights, the metre scale and the kilogram, were introduced.
 * There is another topic to which Borda made important contributions.

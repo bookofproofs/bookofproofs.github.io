@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Girolamo Cardan** or **Cardano** was an Italian doctor and mathematician who is famed for his work _Ars Magna _ which was the first Latin treatise devoted solely to algebra. In it he gave the methods of solution of the cubic and quartic equations which he had learnt from Tartaglia.
 
 ### Mathematical Profile (Excerpt):
-* Girolamo Cardano was the illegitimate child of Fazio Cardano and Chiara Micheria.
 
 Born 24 September 1501, Pavia, Duchy of Milan (now Italy). Died 21 September 1576, Rome (now Italy).
 

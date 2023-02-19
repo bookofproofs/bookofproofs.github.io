@@ -23,18 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Macnaghten Whittaker** worked in Quantum Mechanics and Complex Analysis.  He became Vice-Chancellor of Sheffield University.
 
 ### Mathematical Profile (Excerpt):
-* John's father was Edmund Taylor Whittaker, a distinguished mathematician who has a biography in this archive.
-* One of his sisters, Beatrice Mary Whittaker, married Edward Copson while one of his brothers, Eddy Whittaker, became Vice-President of the Prudential Insurance Company in Newark, New Jersey, United States.
 * Whittaker attended Fettes from 1918 until 1920 during which time he was introduced to calculus.
 * One of the first papers the Whittaker wrote solved a problem mentioned by Pollard in his lectures and it appears that Pollard's lectures had the most influence on the direction of his mathematical interests.
-* He spent two years as an Assistant Lecturer in Mathematics at the University of Edinburgh (1927-29) where his father E T Whittaker held the Chair of Mathematics, and during this time he was awarded a D.Sc. by Edinburgh University and a Smith's Prize by Cambridge.
 * Whittaker accepted the chair of pure mathematics at the University of Liverpool in 1933.
 * The teaching of pure mathematics was his responsibility, while teaching applied mathematics was the responsibility of L Rosehead who was appointed to the Applied Mathematics Chair at the same time as Whittaker.
 * Jack and Iona had two sons, John Edmund Whittaker born on 19 November 1934 and Richard James Whittaker born on 6 February 1938.
 * By 1938 war seemed almost inevitable so Whittaker joined the emergency research officers.
 * Whittaker returned to his chair at Liverpool in October 1945 and became involved in administrative duties such as being Dean of Science from 1947 to 1950.
 * Let us now look at Whittaker's contributions to mathematics.
-* He extended results of his father E T Whittaker on the cardinal function.
 * He was interested over many years in expanding functions in a series of polynomials and Whittaker's constant is named after him.
 * The first of these contains a result, which Whittaker correctly attributed to Takenaka, which shows that, with an added technical condition, an entire function every derivative of which has a zero in the unit disk is necessarily a constant.
 * The constant has become known as Whittaker's constant despite the result being originally due to Takenaka.

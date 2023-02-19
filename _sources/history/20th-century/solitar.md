@@ -38,14 +38,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At Adelphi, Solitar and Karras founded the highly successful National Science Foundation Summer Institute for High School Teachers, a program designed for teachers who wished to deepen their knowledge of mathematics and to see it put in an historical context.
 * Also during this time the classic text Combinatorial group theory: Presentations of groups in terms of generators and relations by Wilhelm Magnus, Abe Karrass, and Donald Solitar, was published.
 * In 1968 Solitar was appointed as a professor and Chair of the Mathematics Department of York University in Toronto, Canada.
-* In the winter of 1976 in Toronto, Solitar met J Francien Hageman who was born in Amsterdam; they married soon after meeting.
 * We have exchanged Christmas greetings ever since then and ever year we bring out a little "NOEL" train as part of our Christmas decoration which Donald gave us.
 * In 1982 Solitar was elected a Fellow of the Royal Society of Canada, Mathematics Academy III.
 * Donald was an inspiring teacher, and in 1985 received an Ontario Confederation of University Faculty Associations Teaching Award.
 * His last hours were filled with writing a poem in honour of the birthday of his lifelong friend Abe Karrass, who passed away exactly ten years ahead of Donald.
-* We were actually celebrating Abe's birthday together with Abe's wife Lina, when Donald fell ill and passed.
 * Donald's body has been cremated and his ashes will be interred on June 15, 2008.
-* Donald is greatly missed by his family and by his many friends.
 * As indicated by this quote, Donald loved to write poetry.
 
 Born 5 September 1932, Brooklyn, New York, USA. Died 25 April 2008, Toronto, Canada.

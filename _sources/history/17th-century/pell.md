@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Pell** was an English mathematician best known for _Pell's equation_ which in fact he had little to do with.
 
 ### Mathematical Profile (Excerpt):
-* Mary was from Halden in Kent and her husband was from Southwick where their son John, the subject of this biography, was born.
 * John Pell senior had a fine library and this proved valuable to John junior as he grew up.
 * Pell spent five years from 1638 teaching mathematics in London.
 * Pell realised that war was imminent and that he would be in an extremely difficult position in Breda once war broke out.
@@ -35,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Its complete theory was worked out by Lagrange, not Pell.
 * It is often said that Euler mistakenly attributed Brouncker's work on this equation to Pell.
 * However the equation appears in a book by Rahn which was certainly written with Pell's help: some say entirely written by Pell.
-* Pell published a number of works, for example Idea of Mathematics (1638) and the two page A Refutation of Longomontanus's Pretended Quadrature of the Circle (1644) (reprinted in Latin as Controversiae de vera circuli mensura (1647)).
 * The Refutation was written because of a dispute Pell was involved in over the value of π.
 * Pell also translated Lansberge's tables, which were published in 1632, and worked on astronomy.
 * Pell was elected to the Royal Society on 20 May 1663.

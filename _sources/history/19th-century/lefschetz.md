@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Lefschetz** was the main source of the algebraic aspects of topology.
 
 ### Mathematical Profile (Excerpt):
-* His father Alexander Lefschetz and his mother Vera were both Turkish citizens but since Alexander Lefschetz worked as an importer he was required to travel a great deal.
-* Shortly after Solomon was born his family set up home in Paris.
 * Since Lefschetz was educated in France from a young age, French was his first language.
 * Fully understanding this, in November 1905 at the age of 21, Lefschetz went to the United States.
 * As one might imagine this accident had a major mental impact on Lefschetz in addition to the physical disability he suffered.

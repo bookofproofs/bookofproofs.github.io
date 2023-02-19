@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Todd** was an Irish-born numerical analyst. He was married to Olga Taussky.
 
 ### Mathematical Profile (Excerpt):
-* Jack was the eldest of his parents' five children; he had three brothers, William, Herbert and George Stewart, and a sister Margaret Louise.
-* In 1917, when he was six years old, his father became a teacher at a primary school nearer to Belfast and Jackn became a pupil at this school.
 * After graduating from Methodist College Belfast, Todd entered Queen's University Belfast in 1928 where he was influenced by A C Dixon.
 * Todd failed in his attempt to gain a scholarship to Cambridge so he completed his undergraduate degree at Belfast, graduating in 1931.
 * However, since he had a first class degree from Queen's University Belfast, the rules did allow Todd to enter Cambridge as a postgraduate student and this is precisely what he did.
@@ -32,11 +30,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Before that Todd had attended the International Congress of Mathematicians in Oslo in 1936 and, following that, had visited mathematicians in Poland including Kuratowski, Saks and Sierpiński.
 * The group theory problem was to describe groups in which the normal subgroup relation is transitive (a difficult problem which is still the subject of research) and it led to Todd asking Olga Taussky, who was at Westfield College, for advice on it.
 * Todd was told that he was not needed to teach and should find another job.
-* Todd and his wife wrote six mathematical papers while sitting in bomb shelters.
 * After failing to get a job in weather forecasting, Todd was appointed in 1940 to the Methodist College, Belfast, where he had himself studied, and also did some teaching at Queen's University, Belfast.
 * Observing the mathematicians and physicists working on war-time research made Todd realise where the weaknesses lay.
 * For this Todd became known as "The Saviour of Oberwolfach".
-* Todd and his wife moved to the United States in September 1947.
 * Todd had already become interested in practical mathematics as his article in Nature  in 1946, written with Erdélyi, shows.
 * Over this period Todd's publications included: The condition of a certain matrix (1950); On the relative extrema of the Laguerre orthogonal functions (1950); Notes on modern numerical analysis.
 * The following year, they arrived at the Institute, where Todd developed the first undergraduate courses in numerical analysis and numerical algebra, prerequisites to learning computing.

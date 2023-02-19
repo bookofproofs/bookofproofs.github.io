@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Her name in the official register of births is Judit Zoffmann, but she always used the Serbian form of Judita Cofman.
-* Judita's mother, Lujza Kozics, came from a Hungarian family of lawyers on her father's side.
 * There were no Hungarian secondary schools in Vrsac so Cofman attended a Serbian High School.
 * In this first year there were 66 students studying mathematics in the Faculty of Philosophy at Novi Sad, one of them being Cofman.
 * As Cofman progressed at Novi Sad, the younger students came to rely on her help since their professors were living and teaching in Belgrade and only travelled to Novi Sad to carry out their teaching duties there.
@@ -40,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Cofman spent 1970 as a visiting professor funded by the Consiglio Nazionale delle Ricerche at the University of Perugia in Italy.
 * Cofman gave the lecture On automorphism groups of finite geometries and it was published in the Proceedings of the conference which was published in 1971 by the Istituto di Matematica, Università degli Studi di Perugia.
 * At this stage in her career, Cofman made a major change of direction when she became a school teacher and her research interests moved from finite geometries to mathematical education.
-* Cofman wrote about the problems posed to children at these summer camps.
 * In 1993 Cofman left high school teaching and returned to universities when she was appointed as professor of didactics of mathematics at the University of Erlangen, Nürnberg.
 * In the last decade of her professional career, Judita Cofman published three books for young mathematicians, where she presented various mathematical problems and tasks, experiences in their solving, as well as an outstanding methodical approach to solving non-standard mathematical problems.
 

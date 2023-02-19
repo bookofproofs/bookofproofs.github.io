@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Harry Pitt** was an Engish mathematician who worked in real analysis and probability theory.
 
 ### Mathematical Profile (Excerpt):
-* His father, also named Harry Pitt, was a motorcar engineer who had no formal education beyond the age of thirteen.
-* Harry Pitt Senior married Florence Harriet Draper and they had two children; Harry and Sybil (born 1921).
-* Harry, the subject of this biography, entered Greets Green Primary School when he was five years old.
 * In his final year at King Edward's School, Pitt won a scholarship to read mathematics at Peterhouse, Cambridge.
 * Pitt undertook research on Tauberian Theorems, an area that had been greatly developed by Norbert Wiener in the early 1930s.
 * Pitt was awarded a doctorate by the University of Cambridge in 1938 for his thesis General Tauberian Theorems.

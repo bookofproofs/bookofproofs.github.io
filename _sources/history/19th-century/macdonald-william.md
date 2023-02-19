@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William James Macdonald** was a Scottish school teacher who was a pioneer of the introduction of modern geometry to the mathematical curriculum.
 
 ### Mathematical Profile (Excerpt):
-* The family moved to St Andrews when William was young and he was educated at Madras College.
 * The school had grown rapidly after its foundation and when Macdonald attended the number of pupils there was many times the number of students at the University in St Andrews.
 * Macdonald was dux of Madras College in 1868.
 * After completing his school education, Macdonald entered the University of St Andrews, giving the Latin version of his name "Gulielmus Jacobus Macdonald" when he matriculated.

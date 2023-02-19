@@ -41,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In addition Poinsot worked on number theory and on this topic he studied Diophantine equations, how to express numbers as the difference of two squares and primitive roots.
 * As well as his research in geometry, Poinsot contributed to its increasing importance by creating a chair of advanced geometry at the Sorbonne in 1846.
 * Poinsot intended the chair for Chasles and indeed he was appointed to the new chair which he occupied until his death in 1880.
-* Poinsot did, as many academics at this time in France, become involved in politics.
 
 Born 3 January 1777, Paris, France. Died 5 December 1859, Paris, France.
 

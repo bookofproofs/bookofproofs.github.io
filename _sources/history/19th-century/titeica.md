@@ -30,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Țițeica's research contributions were mainly in geometry, in particular affine differential geometry.
 * His book Géométrie différentielle projective des réseaux Ⓣ(Differential geometry of projective networks) (1923) consisted mostly of Țițeica's own results.
 * Further investigations of such structures led Țițeica to develop further beautiful theory which he set out in his book The projective differential geometry of lattices (1927).
-* This paper, written by Țițeica's daughter Gabriela, illustrates his thoughts on such matters by quoting passages from his notebooks.
 * As well as being famed for this geometrical research, Țițeica also gave a famous geometry course at Bucharest University over many years.
 * Another important contribution made by Țițeica was his work with the Journal of Mathematics, which published research contributions, and Natura, a magazine he co-founded which published popular scientific articles.
 * He notes in particular the non-parochial emphasis Țițeica placed on learning about, and incorporating, the experiences of other countries, while at the same time keeping in mind their relevance to Romanian national spirit and culture.

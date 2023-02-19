@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **David Drysdale** graduated from Edinburgh University and then taught at George Heriot's School Edinburgh, at the Royal Academy Irvine and at Arbroath High School.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Janet Drysdale (born in Dunfermline about 1849).
 * David Drysdale had siblings Magdalene (born about 1880), William (born about 1884) and  John Drysdale (born about 1889).
 * David Drysdale entered McLean's Public School, Dunfermline, when he was seven years old.
 * He was in the same class as David Johnstone and the two became friends (they went together when they first matriculated at Edinburgh University and appear in the Matriculation Album as consecutative entries).

@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Giuseppe Peano** was the founder of symbolic logic and his interests centred on the foundations of mathematics and on the development of a formal logical language.
 
 ### Mathematical Profile (Excerpt):
-* His parents bought a house in Cuneo but his father continued to work the fields at Tetto Galant with the help of a brother and sister of Giuseppe, while his mother stayed in Cuneo with Giuseppe and his older brother.
-* Giuseppe's mother had a brother who was a priest and lawyer in Turin and, when he realised that Giuseppe was a very talented child, he took him to Turin in 1870 for his secondary schooling and to prepare him for university studies.
 * Giuseppe took exams at Ginnasio Cavour in 1873 and then was a pupil at Liceo Cavour from where he graduated in 1876 and, in that year, he entered the University of Turin.
 * Among Peano's teachers in his first year at the University of Turin was D'Ovidio who taught him analytic geometry and algebra.
 * In his second year he was taught calculus by Angelo Genocchi and descriptive geometry by Giuseppe Bruno.
@@ -69,7 +67,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1903 Peano expressed interest in finding a universal, or international, language and proposed an artificial language "Latino sine flexione" based on Latin but stripped of all grammar.
 * Peano's career was therefore rather strangely divided into two periods.
 * Peano may not only be classified as a 19th  century mathematician and logician, but because of his originality and influence, must be judged one of the great scientists of that century.
-* Although Peano is a founder of mathematical logic, the German mathematical philosopher Gottlob Frege is today considered the father of mathematical logic.
 
 Born 27 August 1858, Cuneo, Piemonte, Kingdom of Sardinia (now Italy). Died 20 April 1932, Turin, Italy.
 

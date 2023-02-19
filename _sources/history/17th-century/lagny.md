@@ -27,14 +27,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He had nobody to help him in his study of mathematics, no mathematics teacher, nor anyone with whom he could discuss mathematical ideas, yet while at the College he was able to teach himself a broad range of mathematical techniques.
 * However, he never seems to have become familiar with the latest mathematical developments which were taking place at this time and he always adopted a fairly classical approach to problems he tackled.
 * He published Dissertation sur l'or de Toulouse  in the Annales de la ville de Toulouse  in 1687.
-* In 1686 De Lagny became a mathematics tutor to the Noailles family in Paris, a position he held for about 10 years.
 * By this stage he had acquired the title of de Lagny which came from a property which he had acquired.
 * He collaborated with de L'Hôpital while in Paris and it was during this time that he began to publish mathematics papers.
 * He returned to Lyon and was there when, on 11 December 1695, he became a member of the Academy of Sciences.
 * Lagny worked at the Institute of Hydrography which was associated with the military port.
 * He also held positions as librarian at Bibliothéque du Roi for a time and spent two years from 1716 to 1718 as deputy director of the Banque Générale.
 * It was the Marechal Duc de Noailles, president of the Conseil des Finances, who set up this post for Lagny.
-* He had been taught by Lagny during his time as tutor to the Noailles family in Paris.
 * When the Banque Générale became the Banque Royale in 1718, Lagny resigned his position at the Bank.
 * In the following year he was awarded a pension by the Academy of Sciences so could undertake research in mathematics without having to earn his living.
 * In 1723 he became a pensionnaire géomètre at the Academy, replacing Varignon who had died in December 1722.

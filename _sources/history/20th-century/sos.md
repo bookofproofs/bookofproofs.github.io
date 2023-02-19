@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Vera Sós** is a Hungarian mathematician who specialises in number theory and combinatorics. She worked at the Alfréd Rényi Institute of Mathematics and has won many prizes including the Tibor Szele Medal (1974) and the Széchenyi Prize (1997).
 
 ### Mathematical Profile (Excerpt):
-* Vera's father was a teacher in 1919 when there was a Communist take-over of Hungary.
 * Vera studied at the Jewish High School on Abonyi Street in Budapest and it was at this school that her passion for mathematics developed.
 * The biggest influence on Sós at the Abonyi Street High School was Tibor Gallai.
 * Six of them became mathematicians and one of them, Vera T Sós, became one of the leading mathematicians in Hungary.
@@ -31,8 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Rózsa Péter was always interested in talented young mathematicians and she tested Sós out by giving her some logical problems.
 * She wanted to find out not how much mathematics Sós knew but rather how she thought.
 * Sós graduated from the Abonyi Street High School in 1948 and entered the Mathematics-Physics Faculty of Eötvös Loránd University.
-* Erdős's mother, Anna, was in exactly the same position as Sós's father.
-* She was Jewish and had been a teacher promoted to school Principal at the time when the Communists came to power in 1919, but, after a right wing government took over in 1920, she suffered the same fate as Sós's father having to earn money through private tutoring.
 * At Eötvös Loránd University, Sós's teachers included Lipót Fejér, Frigyes Riesz, György Hajós (1912-1972), Paul Turán, Pál Szász (1901-1957), and Alfréd Rényi.
 * Sós made a geometry presentation to this Congress.
 * Vera Sós is known as an outstanding expert in number theory and combinatorics but so far we have not described any contributions she has made to these areas.
@@ -41,9 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This was the beginning of Sós's work on graph theory and combinatorics.
 * This time it was Sós who went to Poland where she talked to Hugo Steinhaus who told her about a problem on Diophantine approximation.
 * Sós immediately began working on the problem sitting in a cafe in Krakow, and there proved her first results in number theory.
-* Her first paper on the topic was again joint with her husband: 'Vera Sós and P Turán, On some new theorems in the theory of Diophantine approximations, Acta Mathematica Hungarica 6 (3-4) (1955), 241-255'.
 * Sós had produced far more results than are required for a thesis and she was awarded the degrees Doctor Rherum Naturarum from Eötvös Loránd University, Candidate of the Mathematical Sciences from the Hungarian Academy of Sciences, and Doctor of the Mathematical Sciences from the Hungarian Academy of Sciences in 1957 for A geometric treatment of continued fractions and its application to the theory of diophantine approximation (Hungarian).
-* Beginning in 1957, every summer Sós and her husband Paul Turán visited the resort of Mátraháza in the Mátra mountains in northern Hungary.
 * Discussions with Erdős did not lead to any further papers on combinatorics by Sós for a few years, and she continued to work on number theory.
 * In 1962, however, there appeared the 3-author paper On a problem in the theory of graphs co-authored by Erdős, Rényi and Sós.
 * In 1961 Sós began teaching a combinatorics course at Eötvös Loránd University and, in the first year she taught it, Béla Bollobás took the course.
@@ -51,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1965 she initiated and launched the famous weekly Hajnal-Sós seminar at the Mathematical Institute of the Hungarian Academy of Sciences.
 * Since the mid sixties, Sós has been the driving force behind the periodic international conferences in combinatorics under the auspices of the Bolyai Society.
 * in July 1976, at the meeting on combinatorics at Orsay in Paris, Vera Sós gave me the terrible news (which she had known for six years) that Paul had leukaemia.
-* In fact a few days before his death Vera and their son George (also a mathematician) tried to persuade him to dictate some parts of his book to Halász or Pintz.
 
 Born 11 September 1930, Budapest, Hungary.
 

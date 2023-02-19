@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Francis Macaulay** was an English mathematician who worked in algebraic geometry and commutative algebra.
 
 ### Mathematical Profile (Excerpt):
-* He sent his son Francis to a school for the sons of Methodist Ministers in Bath, namely Kingswood School.
 * Graduating from Kingswood School in 1879, Macaulay entered St John's College, Cambridge, from which he graduated with distinction, being eighth Wrangler (ranked eighth in the list of First Class students) in the Mathematical Tripos of June 1882.
-* Francis Macaulay was not the only member of his family who excelled at mathematics.
 * After graduating from Cambridge, Macaulay returned to Kingswood School in Bath in 1883, where he himself had studied, and taught mathematics there for two years.
 * In 1915 Macaulay discovered the primary decomposition of an ideal in a polynomial ring, which is the analogue of the decomposition of a number into a product of prime powers.
 * The passage of time since Macaulay published The algebraic theory of modular systems in 1916 has shown us what a remarkable work this is in the development of modern mathematics.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alexander Merriles** graduated from Edinburgh University and afterwards taught at Edinburgh Provincial Training College and George Watson's Ladies' College in Edinburgh.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Alice J Merriles (born in England about 1844).
 * Alexander Merriles attended North Berwick Public School from 1890 to 1895, and then North Berwick High School from 1895 to 1899 where he was a pupil-teacher.
 * At Edinburgh University, among the courses Merriles took at Ordinary level were Latin, Education, Mathematics, Natural Philosophy, and English.
 * During his period as an undergraduate at Edinburgh University, Merriles also taught arithmetic and mathematics at Moray House Practising School, both Elementary and Upper, between May 1902 and October 1904.

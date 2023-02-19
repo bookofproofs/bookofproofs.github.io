@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Philip Hall** was the main impetus behind the British school of group theory and the growth of group theory to be one of the major mathematical topics of the 20th Century was largely due to him.
 
 ### Mathematical Profile (Excerpt):
-* They were not married and George left without making any provision for Laura or their newly born son Philip.
 * Laura called herself Mrs Hall and she brought Philip up in her parents home in Hampstead, London, until he was seven years old.
-* At the time Philip was born Laura was employed as dressmaker as was her twin sister Lois, and also her two elder sisters, who were also twins, Ada and Ethel.
-* In 1909, while living in his grandfather Joseph Sayers' house, Philip entered New End Primary School.
 * Philip attended Sunday School and was baptised in 1911.
 * Hall entered Christ's Hospital in May 1915 at age eleven.
 * It was at Christ's Hospital that Hall came to love mathematics.
@@ -58,6 +55,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hall received many honours for his work.
 * Hall was a great supporter of the London Mathematical Society, and he was awarded its Senior Berwick Prize (1958) and the De Morgan Medal and Larmor Prize in 1965.
 * In this talk Hall spoke about word problems in general and specifically mentioned word problems for groups, semigroups, and cancellative semigroups.
+* Hall's elegant works (both in content and exposition) are allowed to speak for themselves ...
 * We have made various comments about Hall's character in this article, but we should end by making a few more.
 
 Born 11 April 1904, Hampstead, London, England. Died 30 December 1982, Cambridge, England.

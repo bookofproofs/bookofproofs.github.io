@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Monteiro da Rocha** was a Portuguese mathematician who made important contributions to applied mathematics and astronomy.
 
 ### Mathematical Profile (Excerpt):
-* He was the eldest of his parents four children, having younger brothers Germano Manuel Pereira, João Pereira and Goalter Pereira Rocha.
 * Monteiro was born in Canaveses, a small town in the Vila Real district about 100 km east of Porto.
 * The modern boundaries of Brazil were essentially set by the Treaty of Madrid, but the Jesuits with many missions in that part of the world resisted giving these up.
 * With this background, it is not too surprising that, on joining the Jesuits in 1752, da Rocha was sent to the Jesuit College of the Bay of All Saints in the city of São Salvador da Bahia in Brazil.
@@ -42,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * For example he drew up regulations for the Astronomical Observatory which required those working at the Observatory to make scientific foreign trips to update their knowledge.
 * In 1779 da Rocha was appointed as Principal of the Royal College of Nobles of the three Provinces of the North.
 * On 21 March 1800, da Rocha had been appointed as Councillor to the Prince Regent and, in recognition of his services, he received the Commendation of the Order of Christ of Portalegre.
-* In 1804 da Rocha retired from the University of Coimbra when he was appointed as preceptor to the crown prince Peter (Pedro), the second son of King John VI.
 * From that time on Da Rocha lived on his estate at São José de Ribamar, near Lisbon.
 * Our description of da Rocha's life has shown his importance in the progress of science in Portugal through his administrative skills.
 * Da Rocha was responsible too for the translations into Portuguese (carried out between 1773 and 1775) of a set of fundamental French textbooks (Bézout, Marie and Bossut) to be used at lessons.

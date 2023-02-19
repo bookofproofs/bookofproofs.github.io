@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hans Rademacher** was a German-born mathematician who worked in analytic number theory, mathematical genetics, the theory of functions of a real variable and quantum theory.
 
 ### Mathematical Profile (Excerpt):
-* In addition to Hans, his Lutheran parents had two other children, Martin and Erna.
 * Hans grew up with broad interests; he both enjoyed and had a talent for modern languages, was interested in both natural and mathematical sciences, but by the time he was eighteen his main interest was in philosophy.
 * Rademacher was awarded his doctorate in 1917.
 * Of the mathematical research undertaken by Rademacher during this period, he is remembered most for the system of orthogonal functions (now known as Rademacher functions) which he introduced in a paper which was published in 1922.
@@ -33,10 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In April 1925 Rademacher left Hamburg to become an ordinary professor at Breslau.
 * It was a difficult decision for Rademacher, particularly since Hecke was so keen for him to stay in Hamburg.
 * Had Hecke succeeded in his attempt to get Hamburg to offer Rademacher an ordinary professorship then he would almost certainly have remained there, but the university would not make the offer that Hecke requested and, after much thought, Rademacher went to Breslau.
-* In different political circumstances one would have expected Rademacher to remain at Breslau for the rest of his career.
 * Normal expectations were completely overturned for most people and in particular for Rademacher the expectation that he would remain in Breslau vanished.
-* However for a short time between being dismissed from his professorship and leaving for the United States, Rademacher moved with his daughter Karin to a small Baltic town where he met and married Olga Prey.
-* Olga remained in Germany, where their son Peter was born in 1935, while Rademacher held the Visiting Fellowship in the United States.
 * Despite this, Rademacher was ever after to remain loyal to the University of Pennsylvania for providing him refuge from the horror that had engulfed his native land.
 * In fact 1947 was also the year in which Rademacher's second marriage also ended in divorce.
 * Rademacher's early arithmetical work dealt with applications of Brun's sieve method and with the Goldbach problem in algebraic number fields.
@@ -45,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Three years later Rademacher was again invited to address the American Mathematical Society and this time he chose the topic Trends in research: the analytic number theory.
 * Rademacher was invited to deliver an address to the International Congress of Mathematicians in Cambridge, Massachusetts, in 1950.
 * We mentioned above that Rademacher's second marriage ended in divorce in 1947 and he moved from Swarthmore to Philadelphia.
-* Irma was a concert pianist and the Rademacher's home was soon filled with musicians, mathematicians, and other friends.
 * Although he remained at the University of Pennsylvania for the rest of his career, Rademacher did spend time in other places, such as a semester at the Institute for Advanced Study at Princeton in 1953, the Tata Institute of Fundamental Research in Bombay in 1954-55 and also at the University of Göttingen during the same academic year.
 * Rademacher  was invited to be Hedrick Lecturer for the summer meeting of the Mathematical Association of America in Boulder, Colorado, in 1963.
 * Rademacher did not edit his notes for publication before his death but had asked Grosswald to edit them for publication.

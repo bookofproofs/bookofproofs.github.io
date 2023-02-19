@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Albert Ingham** was an English mathematician who worked in number theory and in particular on the prime number theorem.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Annie Gertrude Ingham (born about 1876 in Northampton).
-* Albert Edward Ingham (our mathematician) had an older brother Christopher Augustus (born about 1897), and two younger sisters Phyllis Gertrude (born about 1904) and Lilian Grace (born about 1910).
 * Albert Ingham was educated at Stafford Grammar School, and from there he won a scholarship to Trinity College, Cambridge, in December 1917.
 * In 1926 Ingham was appointed a Reader at Leeds University but four years later returned to Cambridge as a university lecturer and a fellow of King's College, on the death of Ramsey, and remained there for the rest of his life.
 * Many of the ideas here, as in other work of Ingham's, came from the joint work undertaken by Harald Bohr and Littlewood.

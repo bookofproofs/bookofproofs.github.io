@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Chevalley's theorem was important in applications made in 1954 to quasi-algebraically closed fields and applications made the following year to algebraic groups.
 * Chevalley groups play a central role in the classification of finite simple groups.
 * His name is also attached to Chevalley decompositions and to a Chevalley type of semi-simple algebraic group.
-* He also did fundamental work on spinors which was described by Pierre Cartier and Catherine Chevalley, Chevalley's daughter.
 * But Chevalley's approach to Clifford algebras was quite new in the 1950s, at a time where universal algebra was blossoming and developing fast.
 * Chevalley's exposition of the algebraic theory of spinors contains a number of interesting innovations.
 * But Chevalley was an algebraist at heart, and gives no hint of the applications to theoretical physics.

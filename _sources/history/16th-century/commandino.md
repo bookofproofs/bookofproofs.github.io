@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Frederico Commandino** was an Italian mathematician who published important translations of works of the Ancient Greek mathematicians.
 
 ### Mathematical Profile (Excerpt):
-* Battista had designed the fortifications of Urbino while his father, Frederico's grandfather, had been the secretary to the Duke of Urbino.
 * There is little information about Commandino's youth and all we know of his early education is that he studied Latin and Greek at Fano under the humanist G Torelli.
 * There they had a mathematics tutor for one of their sons, and this same tutor taught Commandino mathematics.
 * Commandino's talents were quickly recognised by his tutor.
@@ -35,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Also in 1558 Commandino published the work which he had begun in Rome, namely Commentarius in planisphaerium Ptolemaei in which he gave an account of Ptolemy's stereographic projection of the celestial sphere.
 * What is interesting here is that Commandino recognised that Ptolemy's stereographic projection is related to the perspective studies made by architects in designing stage scenery.
 * This is actually an important connection and it shows that Commandino has a deep understanding of the works which he edited.
-* The reason that this was relevant was that the dowry that Commandino had to find for his two daughters had taken nearly all his capital and so to continue publishing his editions of the classical mathematical texts he required continued support from Cardinal Farnese, his patron, and he also hoped for a promise of support in his old age.
 * In the letter Commandino outlined his plans for further publications including Ptolemy's De analemmate and an edition of Apollonius.
 * In fact Commandino had only a manuscript of a Latin translation of an Arabic version of this book by Ptolemy to work from.
 * John Dee visited Commandino in Urbino in 1563.
@@ -44,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In the preface to this work Commandino refers to his edition of Archimedes' De iis quae vehuntur in aqua libri duo; De Insidentibus Aquae (On floating bodies) being in the press.
 * No ancient treatment of such a problem was then known, and Commandino's was the first modern attempt to fill in the gap.
 * These two works were published in Bologna but Commandino did not spend long in that city since Cardinal Farnese died on 28 October 1565, after which Commandino returned to Urbino.
-* However the son of the Duke requested that Commandino prepare a Latin translation of Euclid's Elements and he set to work enthusiastically on this major task.
 * By this time the excessive workload that Commandino had put on himself over the years was taking its toll.
 * We should mention one further achievement of Commandino, namely his improvement of the reduction compass, helping develop it into the proportional compass.
 * The next step forward from the efforts of Commandino and del Monte was that of Galileo in 1606 when he developed the proportional compass into a type of slide-rule.

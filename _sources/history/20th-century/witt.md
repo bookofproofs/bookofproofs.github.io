@@ -23,21 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ernst Witt** was a German mathematician and a leading algebraist. He proved important results on Lie algebras.
 
 ### Mathematical Profile (Excerpt):
-* Heinrich Witt's father, also named Heinrich Witt, was a school teacher passionately dedicated to religious education in schools.
-* Heinrich Witt, Ernst's father, was the seventh of thirteen children and his very religious upbringing led him to study theology at Halle University.
 * He always intended to become a missionary and, after the Liebenzell Mission was set up in Hamburg in November 1899 they appointed Heinrich Witt to be their first missionary in China in March 1900.
 * It was during this two years leave that Ernst was born on the island of Alsen.
 * The island and was returned to Denmark by plebiscite in 1920, nine years after Witt's birth there, and is now known as Als.
 * When Ernst was two years old, his parents returned to China to continue their missionary work.
 * Heinrich Witt became head of the Liebenzell Mission in Changsha.
-* Ernst spent the next nine years of his life in China with his elder sister and four younger siblings.
 * However, Heinrich Witt was very involved in his missionary work which took him on many long journeys through China.
-* Then in the spring of 1920 Ernst and his younger brother Otto were also sent to live with their uncle in Müllheim.
 * The home was strictly run and did not provide a very stimulating environment for the young Witt.
 * After graduating from the Realschule in Müllheim, Witt went to Freiburg in 1927 were he attended the Oberrealschule.
 * At this time his parents returned from China for another two year leave and they were in Germany for the years when Witt was at the Oberrealschule.
 * At this school Witt was fortunate to have a talented mathematics teacher, Karl Öttinger, who quickly realised the extraordinary talent of his pupil and did everything he could to allow him to progress rapidly to advanced topics.
-* In 1929 Witt's parent returned to China leaving all their children in Germany.
 * Witt took his Abitur examination in the same year, then entered the University of Freiburg to study mathematics and physics.
 * It was usually for students at German universities at this time to move between institutions and after two terms at Freiburg, Witt moved to Göttingen for the start of the 1930 summer term.
 * Herglotz quickly realised that Witt had remarkable mathematical gifts.

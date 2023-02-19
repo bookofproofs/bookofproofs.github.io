@@ -23,15 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Thomas MacFarland Cherry** was an Australian mathematician who was Professor of Mathematics  at the University of Melbourne for many years.
 
 ### Mathematical Profile (Excerpt):
-* Thomas Cherry's father, also named Thomas Cherry, was born in Gisborne, Victoria, Australia, although his father, Edward Cherry, had been born in England and had emigrated to Australia in 1855.
-* Thomas Cherry Senior was a Bacteriologist and Agricultural scientist and employed giving a bacteriological service to doctors and hospitals in Melbourne at the time that his second Thomas, the subject of this biography, was born.
-* Thomas (or Tom as he was known to his family and friends) had an older brother John Howard Cherry, and two younger brothers Henry Lister Cherry and Richard Ormond Cherry and a sister Margaret Lilias Cherry.
 * Thomas was brought up in Glen Iris on the outskirts of Melbourne which at that time was almost in the country.
 * An indication of the rural nature of Glen Iris is that Thomas had to walk over 6 km each day to attend primary school.
 * In 1924 Cherry won the Smith prize for applied mathematics and was elected a fellow of Trinity College.
 * Cherry also spent one term teaching at the University of Edinburgh in 1927 substituting for Charles Galton Darwin (son of George Howard Darwin).
 * During his time as a fellow of Trinity College, Cherry spent time with his two main hobbies, mountaineering and scouting.
-* Although Cherry returned to Australia in 1929, he came back to England to marry Olive on 24 January 1931 in Holy Trinity parish church, Cambridge; they had one daughter Jill.
 * In fact Cherry had returned to Australia in March 1929 to take up a professorship at the University of Melbourne.
 * Let us look more closely at a few of Cherry's papers to give at least an indication of the topics on which he undertook research.
 * In the second part of the paper, published two years later, Cherry extended his results to cover the case where circulation is not zero.

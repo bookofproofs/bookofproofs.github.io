@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Lajos Martin**  was a Hungarian mathematician and engineer best known for his works in transportation and aerodynamics.
 
 ### Mathematical Profile (Excerpt):
-* Lajos was the seventh of his parents' children.
 * The years during which Martin was growing up in Buda were ones during which the three towns developed rapidly with the building of town houses, palaces, public buildings and churches.
 * It was a time of optimism with the setting up of the Hungarian Academy of Sciences in Pest just two years before Martin was born.
 * It was at this university in Pest (known as the Loránd Eötvös University since 1949) that Martin studied, taking courses in the faculty of Arts in his first two years of study.
@@ -34,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Martin became rector of the university during 1895-96 and he spoke in his Rector's Address of the importance he expected aircraft to acquire in the future for passenger traffic, warfare and commerce.
 * In his theoretical research, Martin accepted the Maclaurin-Euler formula but also assumed that the best ship screw and air vane must be some sort of conoid.
 * Making physically and technically untenable simplifications, he put down the equation he had figured out, and although the contraptions constructed on its basis all failed at the testing, martin deemed it justified to publish his theoretical findings.
-* Kálmán Szily, for example, revealed with scathing sarcasm that Martin's surface did not satisfy either of the hypotheses: it was not a conoid and it did not fulfil the Maclaurin-Euler formula.
 * Having noticed this, Martin did not rest with arms folded.
 * Martin held the professorship in Kolozsvár until his death at the age of seventy.
 

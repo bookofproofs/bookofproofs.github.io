@@ -24,12 +24,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * He had siblings Joseph Antoine Cournot, who was born in 1803 but died in the following year, Judith Xavière Cournot (1805-1876) and Eugène Cournot (1810-1880).
-* His parents seem to have had little influence on the young child who lived with a paternal uncle, two maiden aunts and Augustin's grandmother Marguerite Josèphe Cournot.
 * Augustin attended the secondary Collège de Gray between the years 1809 and 1816.
 * Cournot had heard vague reports of the École Normale at Paris, and had determined to take this opportunity to find out from the inspectors the conditions of admission to the scientific department of the famous school.
 * In 1821 Cournot began his studies at the École Normale Supérieur in Paris.
 * Cournot found himself in the latter group, being considered lacking in piety.
-* The suspicion was most unjust for Cournot was always a loyal, though unostentatious, son of the Church.
 * Cournot, along with his fellow student and friend Lejeune Dirichlet, was taught mathematics at the Sorbonne by Sylvestre Lacroix and Jean Hachette.
 * The two friends Cournot and Dirichlet would attend meetings of the Academy of Sciences and were particularly interested in observing Laplace, the leading mathematical scientist.
 * In 1823 Cournot had became a secretary to Marshal Gouvion Saint-Cyr, who wanted assistance in writing his military memoirs, and also a tutor to his son.
@@ -39,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In fact Cournot had begun publishing papers on mechanics before he submitted his thesis.
 * On 24 October 1835 Cournot became professor of mathematics at Grenoble and rector there.
 * He replaced Louis Antoine Stanislas Ferriot (1779-1859) who had himself replaced Armand Berroyer, who had taught Cournot mathematics at Besançon.
-* Three years later Cournot became inspector general of public education and, on 10 September 1838, he married Colombe Antoinette Petitguyot in Gray, Franche-Comté; they had one son, Pierre Cournot (1839-1894).
 * This work makes Cournot a pioneer of mathematical economics, 25 years before Stanley Jevons.
 * Jevons had not seen Cournot's work when he wrote The Theory of Political Economy in 1871 but by the time of Jevons' second edition in 1879 he had read Cournot's 1838 book.
 * Cournot also worked on probability and, although his investigations into a logical foundation for it were unsuccessful, his work did lead the way to future important developments.
@@ -54,8 +51,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Cournot wrote his autobiography on scraps of paper, in tiny, barely legible writing.
 * This manuscript was then hidden by Cournot, who did not want it to be published during his lifetime.
 * After his death, his son, Pierre Cournot, did not consider it necessary to publish it either.
-* He contented himself with having three copies made in 1880 of which only one survived, given to Eugène Cournot, Augustin Cournot's younger brother.
-* Finally, in 1913, Cournot's memoirs were published by the Abbé E Paul Bottinelli from this copy which was by then in the hands of Antoinette Donnaud, grandniece and goddaughter of Augustin Cournot.
 
 Born 28 August 1801, Gray, Haute-Saône, Franche-Comté, France. Died 31 March 1877, Paris, France.
 

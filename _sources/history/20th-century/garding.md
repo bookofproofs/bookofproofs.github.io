@@ -24,7 +24,6 @@ Lars Gårding was a Swedish mathematician who studied partial differential equat
 
 ### Mathematical Profile (Excerpt):
 * Jonas Ruben Gårding was an engineer working at Motala and it was in Motala that Lars grew up.
-* Lars had a younger brother Per Fredrik Gårding, born in 1920.
 * When Lars Gårding began his studies at the University of Lund in 1937 he intended to become an actuary.
 * Riesz had been appointed to the chair of mathematics at the University of Lund in 1926 and by the time that Gårding studied there Riesz had turned a somewhat mediocre mathematics department into an exciting place of international fame.
 * Gårding undertook research for a Ph.D. supervised by Marcel Riesz and was awarded a Ph.D. in 1944 for his thesis On a class of linear transformations connected with group representations.
@@ -36,7 +35,6 @@ Lars Gårding was a Swedish mathematician who studied partial differential equat
 * Gårding was working on similar topics and published The Solution of Cauchy's Problem for Two Totally Hyperbolic Linear Differential Equations by Means of Riesz Integrals which he submitted to the Annals of Mathematics in June 1946.
 * In 1947 Gårding was at Princeton University, in the United States, when he submitted Note on continuous representations of Lie groups.
 * In fact the Institute for Advanced Study at Princeton was a place where Gårding spent time on eight separate occasions between 1949 and 1977.
-* He was accompanied by his wife Eva Gårding, the two having recently married.
 * Passing over this very strange note we should say a little about Gårding's marriage at this point.
 * In 1952, after Marcel Riesz retired from his chair, Gårding was appointed as a professor at the University of Lund and, in the following year, he was elected as a member of the Royal Swedish Academy of Sciences.
 * On the other side of our apartment wall lived Lars Gårding.

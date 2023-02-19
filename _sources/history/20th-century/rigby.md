@@ -24,19 +24,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Fred Frankland Rigby had been born in Westhoughton, near Bolton, Lancashire, on 13 February 1904.
-* He was the eldest child of Matthew Frankland Rigby, a calico printer in the cotton industry, and his wife Margaret Alice Hampson.
-* Fred Frankland Rigby married Bessie May Hodkinson at St Bartholomew's Church, Westhoughton, on 6 April 1931.
-* John Frankland Rigby, their only child, was born at Westhoughton on 22 April 1933.
-* In 1935 Fred Frankland Rigby took up a new teaching position in Bournemouth and the family made their home at "Moorland", Wallisdown Road.
-* Bessie, however, suffered from chronic tuberculosis and tragically died on 31 August 1936, leaving three year old John without a mother.
-* He soon had a step-mother for his father, Fred Frankland Rigby, married the teacher Zora Lilian Crampion (1902-1990) on 27 March 1937, at St Luke's Church, Parkstone, Dorset.
 * After elementary school, John Frankland Rigby studied at Manchester Grammar School, entering the school in 1943 and graduating in 1950.
 * For example, there are various reports of Rigby playing chess for the school.
 * John Rigby was involved in both music and amateur dramatics while at Manchester Grammar School.
 * performance of young Lucius (J F Rigby) and his singing to his own accompaniment on the lyre of the Elizabethan love song "Go to bed, sweet maid," which was both dainty and charming.
-* Both Rigby and his father were highly skilled recorder players and, in the Lent term of 1950, which began in January, a concert of recorder music was given by Rigby and his father at the school.
 * In addition, in the December 1949 Scholarship Examinations, Rigby was awarded a Scholarship to Trinity College, Cambridge.
 * In 1959 Rigby was appointed to the School of Mathematics at the University of Cardiff.
+* in John's first year as a member of staff ...
 * we tried to wheedle out of him what went on in this mysterious establishment, but John was typically tight-lipped - not a comma nor full-stop could be drawn out of him.
 * Rigby's papers in the London Mathematical Society were not his first publication.
 * Although Rigby's research for his doctorate had been in group theory, his interests turned towards geometry.
@@ -57,7 +51,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Many of the patterned 'kneelers' in Llandaff Cathedral were designed by John.
 * It has the only dedicated choir school in the Church in Wales and Rigby's love and expertise in music meant that for many years he was involved with the choir.
 * Rigby retired from the University of Cardiff in 1996 but for some years continued to work part-time.
-* In their turn, those friends took pleasure in the strong sense of humour which had been with John from childhood.
 * John's acute powers of observation, his lack of self-pity, his sharp wit, the one-liners and repartee never left him.
 * John had disarming charm, and will be remembered with appreciation, affection, and respect by his many friends and colleagues at Cardiff University.
 

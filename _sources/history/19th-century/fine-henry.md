@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Henry  Fine**  was an American  mathematician responsible for developing the mathematics department at Princeton.
 
 ### Mathematical Profile (Excerpt):
-* Henry was the eldest of his parents four children, having a younger brother and two younger sisters.
-* His brother John became the founder of the Princeton Preparatory School, while one of his sisters, May Margaret, became the founder of Miss Fine's School.
 * Fine entered the College with the intention of studying classics and he began to study these subjects as well as Sanskrit.
 * Halsted inspired Fine to turn towards mathematics.
 * After receiving his A.B. in 1880, Fine was appointed a fellow in experimental science at Princeton but, never happy with experimental work, he happily changed to be a tutor in mathematics in 1881.
@@ -36,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Fine's most important contributions were to the American Mathematical Society and to Princeton University.
 * It was in 1903, shortly after becoming president, that Wilson appointed Fine as Dean of the Faculty.
 * Together Wilson and Fine worked to lift the standards at Princeton, both by improving the curriculum  and in making strong faculty appointments.
-* After Wilson left Princeton in 1910 to move forward in his political career by becoming governor of New Jersey, Fine stood in to run the university for two years until a new president was appointed (many expected that Fine would be appointed president but it was not to be).
 * The end of Fine's life was tragic.
 * Fine Hall, home of the Princeton Mathematical Department, is a memorial which keeps his name before mathematicians at one of the most important centres of mathematics in the United States, and the world.
 

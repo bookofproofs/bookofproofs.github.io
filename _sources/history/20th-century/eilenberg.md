@@ -30,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was there that Eilenberg met Banach, who led the Lwów mathematicians.
 * Most of Eilenberg's publications from this period were on point-set topology but there were signs, even at this early stage of his career, that he was moving towards more algebraic topics.
 * It was one of a truly remarkable collection of papers published by Eilenberg for, from his days as an undergraduate up until 1939 when he left Poland for the United States, he published 37 papers.
-* In 1939 Eilenberg's father convinced him that the right course of action was to emigrate to the United States.
 * This was an excellent place for Eilenberg to begin his teaching career in the United States for there he could interact with leading topologists.
 * Eilenberg lectured at the conference on Extension and classification of continuous mappings.
 * Eilenberg was only an instructor for one year, then in 1941 he was promoted at assistant professor at the University of Michigan.

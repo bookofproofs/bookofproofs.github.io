@@ -36,7 +36,6 @@ contributors: @Stefanie-Eminger,bookofproofs
 * For several years Weber tried to get the Swiss government's permission to build at least an extension of the existing institute, though he really wanted laboratories that could cater for any future developments in (electrical) engineering.
 * Weber's ideas turned out to be highly successful: for a number of years the institute was the finest of its kind in the world and thus added to the Polytechnic's growing reputation.
 * Weber joined the organising committee of the first International Congress of Mathematicians at the preliminary meeting in July 1896.
-* Weber married Anna Hochstetter in 1875.
 
 Born 7 November 1843, Magdala, Thuringia, Germany. Died 24 May 1912, Zürich, Switzerland.
 

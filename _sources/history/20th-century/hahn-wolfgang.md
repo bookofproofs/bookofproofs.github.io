@@ -32,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After his year in Göttingen, Hahn returned to Berlin where he continued to undertake research advised by Schur.
 * Since he was not Jewish, Hahn was not directly affected by this law but, nevertheless, it did have consequences for him.
 * Hahn spent the years from 1933 to 1940 as a school teacher.
-* They later married and had one son Gerold Hahn who went on the become a secondary school teacher of mathematics in Kassel.
 * During these years as a school teacher Hahn published some research articles: Bericht über die Nullstellen der Laguerreschen und Hermiteschen Polynome Ⓣ(Report on the zeros of Laguerre and Hermite polynomials) (1935); Über die Jacobischen Polynome und zwei verwandte Polynomklassen Ⓣ(On the Jacobi polynomials and two related polynomial classes) (1935); Über höhere Ableitungen von Orthogonalpolynomen Ⓣ(On higher derivatives of orthogonal polynomials) (1935); and Über Orthogonalpolynome mit drei Parametern Ⓣ(On orthogonal polynomials with three parameters) (1939).
 * In 1940 Hahn was drafted into the Wehrmacht.
 * Hahn remained in Germany until the war ended in 1945 and, following the victory by the Allies, he was prevented from returning to Germany until 1946.

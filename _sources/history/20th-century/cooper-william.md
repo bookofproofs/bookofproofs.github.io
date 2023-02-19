@@ -23,14 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Bill Cooper** was an American operational researcher, known for his applications of linear programming to management science.
 
 ### Mathematical Profile (Excerpt):
-* His father, also named William Wager Cooper, was born in Illinois in 1879 and had a variety of jobs from bookkeeper to distributor for the American brewing company Anheuser-Busch.
-* William, the subject of this biography, was the oldest of his parents' children, having a younger sister Emilie and brother Leon.
-* When William was three years old the family moved to Chicago where his father had a prosperous business owning sixteen gasoline stations.
 * Despite Leon being five years younger than William, the boys were very close as they grew up.
-* At this time they were known as Wager and Young Wager, both tough children because they had to survive growing up in a difficult part of Chicago.
 * William became a good street fighter, something that was necessary in the area in which they lived.
 * Cooper attended grammar schools in Chicago before entering Tuley High School in that city.
-* Cooper's father became ill and lost everything in the Depression.
 * William dropped out of high school and started to work to earn money.
 * He had 63 bouts, winning all but five (3 losses and 2 draws) fighting under a number of names, usually Bill Williams.
 * Kohler was amazed at Cooper's talents and suggested that Cooper apply for entry at the University of Chicago.
@@ -39,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * By the middle of 1940 this work was complete and Cooper, who had won a fellowship to study for a Ph.D. at the in the Business School of Columbia University, left to begin his doctoral studies.
 * Having successfully completed the course work for his doctorate, Cooper submitted his doctoral thesis to Columbia in 1942.
 * Cooper later said that he "fought the committee to a draw." He left Columbia University without being awarded a Ph.D. By this time Kohler was undertaking war work for the U.S. Bureau of the Budget and Cooper joined him as Principal Economist.
-* By this time Cooper had married Ruth Fay West (1917-2000), the wedding taking place in September 1944.
 * Perhaps more surprisingly, Leon went with William and Ruth Cooper on their honeymoon.
 * William and Ruth settled in South Ellis Avenue, near the university, where Ruth studied for an A.B. while working for the Chicago Commission on Race Relations.
 * In 1946 Cooper was appointed as an Assistant Professor at Carnegie-Mellon University in Pittsburgh, Pennsylvania.

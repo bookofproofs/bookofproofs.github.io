@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Abraham Wald** was a mathematician born in what is now Romania who worked on decision theory, geometry and econometrics.
 
 ### Mathematical Profile (Excerpt):
-* At this time both primary and secondary schools in Hungary required pupils to attend on Saturdays and the Wald family could not allow their son to attend school on the Jewish Sabbath.
-* As a result Abraham did not attend either primary of secondary school and was educated at home by members of his family.
 * Wald was allowed to attend the University of Cluj but it appears that this was not made easy for him because he was Jewish.
 * The only way that Wald could support himself so as to be able to continue with his research was to take employment.
 * During this period Wald published 10 papers on economics and econometrics, and he also published an important monograph in 1936 on seasonal movements in time series.
@@ -44,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The optimum property of the sequential probability ratio test was conjectured by Wald in 1943 and, in a joint paper with Wolfowitz in 1948, he proved this property.
 * One of Wald's continuing interests from his time working with Karl Schlesinger was economics.
 * It was not only in research that Wald had a remarkable influence on statistics, but although he only taught for about ten years, he also had a marked influence as a teacher.
-* After Wald emigrated to the United States he met Lucille Lang and the two were married.
 * In 1950 Wald received an invitation from the Indian government to lecture on statistics in that country.
 
 Born 31 October 1902, Kolozsvár, Hungary (now Cluj, Romania). Died 13 December 1950, Travancore, India.

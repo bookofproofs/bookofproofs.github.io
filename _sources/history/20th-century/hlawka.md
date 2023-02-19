@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * This is an official document which we believe to be correct but as he appears never to have used his middle name, or even its initial, we have simply listed him as Edmund Hlawka.
-* Edmund Hlawka was born in Bruck an der Mur but his parents moved to Vienna when he was a young child so it was in that city that he was brought up and educated.
 * Hlawka graduated from the Gymnasium in 1934 and later that same year he entered the University of Vienna where he studied mathematics, physics and astronomy.
 * It was the number theory that he was taught by Nikolaus Hofreiter that interested Hlawka most and he undertook research for his doctorate advised by Hofreiter.
 * He habilitated in 1933, the year before Hlawka began his studies at the University of Vienna.

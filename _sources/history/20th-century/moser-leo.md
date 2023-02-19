@@ -24,9 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Leo attended primary school in Winnipeg, where his parents had set up home, and continued his secondary education there.
-* His younger brother Willy Moser also went on the become a mathematician and has his biography in this archive.
 * Remaining in Winnipeg, Leo then entered the University of Manitoba to study mathematics.
-* Moser married Eva on 10 September 1946; they had four children, Barbara, Melanie, David, and Sheryl.
 * For his doctoral studies, Moser went to the University of North Carolina at Chapel Hill.
 * Alfred Brauer's interests were in number theory and so this was the area in which Moser began his research.
 * Even before he had submitted his dissertation, Moser had several papers published.

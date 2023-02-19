@@ -23,14 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Olive Clio Hazlett** was an American mathematician who worked in algebra. Between 1914 and 1930 she published fourteen papers that were presented at meetings of the American Mathematical Society. She did outstanding work for the Cryptanalysis Committee during World War II.
 
 ### Mathematical Profile (Excerpt):
-* Robert, who worked for the Railway Mail Service in Cincinnati, married Olive in Washington, Ohio, USA on 15 November 1888.
 * Olive studied at the Laura Memorial Woman's Medical College in Cincinnati and, after being licensed to practice medicine in 1898, she became a doctor at the Reformatory Prison for Women in Sherborn Town, near Boston, in 1899.
-* Her daughter Olive Clio, then eight years old, went with her mother to the Reformatory Prison for Women.
-* On the Census taken on 1 June 1900, Olive Clio Hazlett is living at the Reformatory Prison for Women in Sherborn Town, as a boarder in the house of the watchman George L Works, his wife Eliza A Works and his fourteen year old daughter Emma S Works.
-* A few days later, on 12 June 1900, the Census shows nine year old Olive C Hazlett in Zanesville City, Muskingum County, Ohio living with her paternal grandparents, William R and Rebecca D Hazlett, her parents Robert and Olive Hazlett, and Robert's elder sister Lucy R Hazlett.
-* Olive Clio attended various schools, for example the Malden High School in Malden, Middlesex, Massachusetts, United States where she studied in session 1904-05.
-* Her father died before the end of the 1905 school session and, in September 1905, Olive and her mother spent a year in Europe, spending time in France and England.
-* In the 1910 census, Olive and her mother were living at 306 Talbot Avenue, Boston.
 * After graduating from the Dorchester High School, Olive Clio Hazlett entered Radcliffe College in 1909.
 * Hazlett graduated from Radcliffe College in 1912 and then went to the University of Chicago to undertake research in algebra.
 * Miss Hazlett was unable to pursue research work in France and Germany, and spent the year in Cambridge, Massachusetts, attending certain Harvard University lectures, but chiefly in research work along the lines of her doctor's thesis, 'Classification and Invariantive Characterization of Nilpotent Algebras'.
@@ -45,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * which Hazlett spent mainly in Colorado, first in Denver and then in Estes Park.
 * A court order committed Hazlett to the Neuropsychiatric Institute of the University of Illinois in Chicago in November 1944.
 * She was released but the Champaign County Court committed Hazlett to Kankakee State Hospital in Kankakee, Illinois in March 1945.
-* Hazlett was fascinated by puzzles and the brothers from the Carmelite community, having been given many of her puzzles before her death, donated them to the Smithsonian and they were displayed in 1984.
 * Hazlett could not claim the exclusive rights for these ideas, however, since Dickson presented the same generalisation at the same meeting.
 * (This, perhaps, represented a bitter sweet moment for Dickson (and Hazlett, for that matter), bitter in that he was not the only one presenting a more general theory but sweet in that he had trained his student well.) Like Dickson, Hazlett certainly placed a high value on research mathematics.
 * In particular, although she continued to draw from his work, Hazlett apparently neither tended to consult Dickson directly about her employment dilemmas nor to keep him informed of her research.

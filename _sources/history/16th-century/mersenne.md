@@ -24,9 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@Jessica-Daniell,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * So, despite their financial situation, Marin's parents sent him to the Collège du Mans where he took grammar classes.
-* Later, at the age of sixteen, Mersenne asked to go to the newly established Jesuit School in La Flèche which had been set up as a model school for the benefit of all children regardless of their parents' financial situation.
 * It turns out that Descartes, who was eight years younger than Mersenne, was enrolled at the same school although they are not thought to have become friends until much later.
-* Mersenne's father wanted his son to have a career in the Church.
 * Mersenne, however, was devoted to study, which he loved, and, showing that he was ready for responsibilities of the world, had decided to further his education in Paris.
 * This experience so inspired Mersenne that he agreed to join their Order if one day he decided to lead a monastic life.
 * They wore a habit made of coarse black wool with broad sleeves and girded by a thin black cord (as seen in the portraits of Mersenne).
@@ -69,7 +67,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@Jessica-Daniell,bookofproofs
 * In some of his non-mathematical works Mersenne looks at permutations and combinations.
 * During the final four years of his life, Mersenne spent a lot of time investigating the barometer.
 * Mersenne was doubtful that the air pressure actually supported the mercury and on his return attempted to re-do the experiment but did not have the necessary equipment.
-* Mersenne explained the problem to Étienne Pascal, his son Blaise Pascal, Petit, Roberval, and others in Paris.
 * Certainly Mersenne had briefed both Huygens and Le Tenneur but it was not until three weeks after Mersenne's death in 1648 that these experiments were carried out.
 * An interesting question is how Mersenne managed to pursue his scientific ideas freely at a time when the Church (of which he was a devoted member) moved to prevent such discussion.
 * However, the attitude of Mersenne, who was both a faithful member of a religious order and a central figure in the development of French science, does not support such a conclusion.

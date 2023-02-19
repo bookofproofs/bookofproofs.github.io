@@ -23,10 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Posidonius** was a Greek philosopher, astronomer and mathematician. He followed the Stoic doctrine and attemped to estimate the size of the Sun and moon.
 
 ### Mathematical Profile (Excerpt):
-* Although he was born in Apameia in Syria, Posidonius was from a Greek family and he was brought up in the Greek tradition.
 * Posidonius travelled widely in the western Mediterranean region and he made many scientific studies on his travels relating to astronomy, geography and geology.
 * Some time not long after 100 BC Posidonius became the head of the Stoic School in Rhodes.
-* In Rome Posidonius visited Gaius Marius, the Roman general and politician who was consul seven times.
 * Marius died on 13 January 86 BC while Posidonius was still in Rome.
 * While there Posidonius became friends with Pompey the Great who had been educated in the Greek tradition.
 * Pompey the Great kept up his friendship with Posidonius and visited him in Rhodes on a number of later occasions when on his military campaigns.

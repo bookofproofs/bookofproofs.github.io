@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * From 1942 until 1946 Luke served in the U.S. navy, being stationed in Hawaii.
-* Yudell and Laverne Luke had two more children making a total of four girls.
 * Luke was appointed to the Midwest Research Institute soon after he returned to Kansas City in 1946.
 * in addition to his own research activities and the supervision of the research members of the Applied Mathematics Group, Professor Luke had a variety of responsibilities including that of procuring research projects for the Institute from government and industrial organisations.
 * In 1955 Luke had been appointed a lecturer at the University of Missouri in Kansas City.

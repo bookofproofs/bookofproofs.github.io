@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Charles Briot** was a French mathematician who worked on elliptic functions. He also published on light and heat.
 
 ### Mathematical Profile (Excerpt):
-* It was in this town in Doubs, Franche-Comté near the border with Switzerland that Charles, the oldest child of his parents large family, was born.
-* Charles was left with a stiff arm after a childhood accident and so he needed to train for an occupation where his disability would not hamper him too badly.
 * Briot was two years ahead of Bouquet at school and after leaving in 1837he taught for a year.
 * In 1841 Briot completed the course for the agrégation in mathematics and he had improved on his position as the second best student which he achieved when he entered, for now he was placed first.
 * Despite his marked academic success in research, Briot still wanted to follow his chosen career as a teacher and it was as a teacher of mathematics in a Lycée that he began his career.

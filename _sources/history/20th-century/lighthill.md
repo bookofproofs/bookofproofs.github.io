@@ -23,14 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James Lighthill** was one of the foremost English applied mathematicians of his day. He worked on aerodynamics.
 
 ### Mathematical Profile (Excerpt):
-* His father, Ernest Balzar Lighthill was a mining engineer who was working in Paris at the time his son was born.
-* In fact the original family name had been Lichtenberg, the family being Alsatian, but Ernest Lichtenberg had changed his name to Ernest Lighthill in 1917.
-* James's mother, Marjorie Holmes, was the daughter of an engineer and she was 18 years younger than her husband.
 * Ernest Lighthill was 54 years old when James was born, and three years later, in 1927, he retired and returned to live in England.
 * James was educated at Winchester College and, at the age of 15, he won a scholarship to Trinity College, Cambridge.
 * While at Cambridge, Lighthill met Nancy Dumaresq who was studying mathematics at Newnham College.
 * Lighthill tried to get a job in the Royal Aircraft Establishment at Farnborough after he graduated, since Nancy already had a job there.
-* Lighthill married Nancy in 1945, the year he finished his job at the National Physical Laboratory.
 * Lighthill was elected a fellow of Trinity College in 1945 and he held this fellowship until 1949.
 * In 1950 Lighthill was promoted to Beyer Professor of Applied Mathematics at Manchester University.
 * In 1959 Lighthill moved from Manchester to become director of the Royal Aircraft Establishment at Farnborough.

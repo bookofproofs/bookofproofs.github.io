@@ -25,21 +25,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * There are a few limits which can be put on the dates of Diophantus's life.
 * On the one hand Diophantus quotes the definition of a polygonal number from the work of Hypsicles so he must have written this later than 150 BC.
-* On the other hand Theon of Alexandria, the father of Hypatia, quotes one of Diophantus's definitions so this means that Diophantus wrote no later than 350 AD.
 * However this leaves a span of 500 years, so we have not narrowed down Diophantus's dates a great deal by these pieces of information.
 * Psellus also describes in this letter the fact that Diophantus gave different names to powers of the unknown to those given by the Egyptians.
 * However, the quote given above has been used to date Diophantus using the theory that the Anatolius referred to here is the bishop of Laodicea who was a writer and teacher of mathematics and lived in the third century.
 * From this it was deduced that Diophantus wrote around 250 AD and the dates we have given for him are based on this argument.
 * we must entertain the possibility that Diophantus lived earlier than the third century, possibly even earlier that Heron in the first century.
 * The most details we have of Diophantus's life (and these may be totally fictitious) come from the Greek Anthology, compiled by Metrodorus around 500 AD.
-* So he married at the age of 26 and had a son who died at the age of 42, four years before Diophantus himself died aged 84.
 * Equations which would lead to solutions which are negative or irrational square roots, Diophantus considers as useless.
 * There is no evidence to suggest that Diophantus realised that a quadratic equation could have two solutions.
 * The reason why there were three cases to Diophantus, while today we have only one case, is that he did not have any notion for zero and he avoided negative coefficients by considering the given numbers a,b,ca, b, ca,b,c to all be positive in each of the three cases above.
 * There are, however, many other types of problems considered by Diophantus.
 * Diophantus would solve this by creating a single quadratic equation in x.
 * Another type of problem which Diophantus studies, this time in Book IV, is to find powers between given limits.
-* Heath looks at number theory results of which Diophantus was clearly aware, yet it is unclear whether he had a proof.
 * Of course these results may have been proved in other books written by Diophantus or he may have felt they were "obviously" true due to his experimental evidence.
 * Diophantus also appears to know that every number can be written as the sum of four squares.
 * Although Diophantus did not use sophisticated algebraic notation, he did introduce an algebraic symbolism that used an abbreviation for the unknown and for the powers of the unknown.
@@ -52,8 +49,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We do know three lemmas contained in The Porisms since Diophantus refers to them in the Arithmetica.
 * Bombelli did borrow many of Diophantus's problems for his own Algebra.
 * The most famous Latin translation of the Diophantus's Arithmetica is due to Bachet in 1621 and it is that edition which Fermat studied.
-* We began this article with the remark that Diophantus is often regarded as the 'father of algebra' but there is no doubt that many of the methods for solving linear and quadratic equations go back to Babylonian mathematics.
-* Diophantus was not, as he has often been called, the father of algebra.
 
 Born about 200, (probably) Alexandria, Egypt. Died about 284, (probably) Alexandria, Egypt.
 

@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Eventually it had been divided with the part in which Szafraniec was born becoming a part of Poland.
-* After graduating from secondary school, it was still unclear which topic Szafraniec would study at university.
-* Szafraniec's father wanted his son to study in Kraków while his mother would have preferred her son to go to the more local Wrocław University.
 * After some deliberations, a decision was made at the last minute that Szafraniec would apply to study mathematics at the Jagiellonian University in Kraków.
 * Szafraniec became a member of Ważewski's school and, after his undergraduate studies, undertook research advised by Ważewski.
 * The co-workers and former students of Professor Szafraniec may be found in all major Kraków universities.

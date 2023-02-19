@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gilbert Baumslag** had a long career as one of the leading researchers on infinite group theory. In the last part of his career he used his skill in group theory applying it to cryptography.
 
 ### Mathematical Profile (Excerpt):
-* Gilbert was the oldest of his parents' three children, having a younger brother Benjamin Baumslag who became a group theorist working in much the same area as Gilbert, and a younger sister.
 * Gilbert was born in Johannesburg and attended schools in that city.
 * Ismail Mohamed was a student on the same course as Gilbert and he had taught himself group theory despite it not being part of the course at Wits.
 * He persuaded the university to put on an honours group theory course which Gilbert took.
@@ -34,10 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * While Baumslag was undertaking research at Manchester, Joachim Neubüser spent a postdoctoral year 1957-58 there.
 * While studying at Manchester, Baumslag returned to South Africa in the summer of 1956, sailing from Southampton to Cape Town on the Carnarvon Castle on 7 June, returning on the ship the Capetown Castle from Cape Town to Southampton arriving on 5 October 1956.
 * We note that Baumslag's fellow postgraduate students Ian D Macdonald and Mike Newman graduated with  PhDs in 1960; Ian Macdonald with the thesis On Groups with Conditions like Finiteness of Conjugacy Classes and Mike Newman with the thesis On Groups All of Whose Proper Homomorphic Images are Nilpotent.
-* After the award of his Ph.D., Baumslag spent the year 1958-59 as a lecturer in Manchester before returning to South Africa where he married Sybil on 3 July 1959.
-* Gilbert and Sybil Baumslag had two children but we note at this point that Gilbert and Sybil were divorced on 17 September 1971 at Harris, Texas, USA.
 * They were travelling to Princeton where Baumslag had been appointed as an Instructor in Mathematics.
-* Baumslag and his wife spent the summer of 1961 in Europe, returning to the United States on 23 August 1961.
 * After a year, Baumslag was promoted to associate professor.
 * Baumslag became an American citizen on 2 July 1980.
 * All accepted our invitation and Gilbert chose to give his course of four lectures on A survey of groups with a single defining relation.
@@ -48,7 +44,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The New York Group Theory Seminar was started by Wilhelm Magnus in around 1955 but after he retired in 1987 Baumslag took over running the seminar.
 * Later in his career, Baumslag became interested in the interaction between group theory and computer science.
 * Gilbert Baumslag's work on cryptography led to him publishing papers on the topic, the first three of which all appeared in 2006: Cryptosystems using linear groups; A proposed public key cryptosystem using the modular group; and Designing key transport protocols using combinatorial group theory.
-* Baumslag was married to Mary Kennedy and they lived in Manhattan and Long Island.
 * The remaining two authors dedicate the paper to the memory of Gilbert and to all the work that he inspired.
 * In 1985, at Groups St Andrews, Gilbert Baumslag gave a short course on one-relator groups which provided a look at the subject up to that point.
 * We look at the solution by Wise of Baumslag's residual finiteness conjecture and discuss a new Baumslag conjecture on virtually free-by-cyclic groups.

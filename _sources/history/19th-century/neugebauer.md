@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Otto Neugebauer** was an Austrian mathematician who made important contributions to the history of ancient mathematics and astronomy.
 
 ### Mathematical Profile (Excerpt):
-* Both parents died when Otto was a young child and he was brought up by an uncle.
 * After he was released from the prison camp, Neugebauer moved around.
 * It was to be Neugebauer's first and last paper on mathematics as such for his work at this point took a definite turn.
 * Neugebauer was an expert in languages and he had studied Egyptian.
@@ -36,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This was completed in 1929, with support from the Rockefeller Foundation, and Courant and Neugebauer jointly directed the Institute until 1932.
 * However, Neugebauer had before this started the first of two projects which would be among the most important contributions anyone has made to mathematics.
 * In 1931 the first issue of Zentralblatt für Matematik  appeared, edited by Neugebauer.
-* However, the political situation in Germany as the Nazis came to power was to bring about changes which completely changed the course of Neugebauer's career.
 * I'm sure that Neugebauer is right, yet his very quote may aid us a little in our understanding of the situation.
 * Fortunately Neugebauer had a good friend in Harald Bohr, and he invited Neugebauer to move to the University of Copenhagen in January 1934.
 * Neugebauer took the editorial office of Zentralblatt für Matematik  to Copenhagen with him and from 1934 until 1938 Zentralblatt  continued to flourish from its headquarters there.
@@ -49,7 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Neugebauer continued as editor of Mathematical Reviews  until 1945 when a full-time executive editor was appointed.
 * Neugebauer policy regarding reviews was an interesting one.
 * In 1947 Neugebauer was appointed Professor of the History of Mathematics at Brown University.
-* Neugebauer, an independent thinker who in his youth was a partisan of left-wing politics, flew no ideological flag in his scholarly work.
 * Neugebauer received many awards, prizes, and honorary degrees.
 * From the 1940s onwards, although still on the faculty at Brown University, Neugebauer spent considerable time at the Institute for Advanced Study at Princeton.
 

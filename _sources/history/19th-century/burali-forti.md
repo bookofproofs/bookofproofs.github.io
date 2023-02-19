@@ -27,7 +27,6 @@ The paradox resulted from the assumption that a set of all [ordinals][bookofproo
 * After schooling in Arezzo, Cesare attended the Military College in Florence, completing his secondary level studies there in 1879.
 * Burali-Forti studied at Pisa from 1879 to 1884.
 * For the first part of Burali-Forti's studies at Pisa, Volterra was a research student but he became Professor of Mechanics in 1883.
-* With rapidly developing political events in the new country of Italy, several of Burali-Forti's lecturers were also involved in politics.
 * Among the courses taken by Burali-Forti we mention those on infinitesimal analysis and higher analysis by Dini, and courses on rational mechanics, celestial mechanics and mathematical physics taught by Betti.
 * Immediately after graduating Burali-Forti taught at the Technical Institute in Augusta, Sicily, where he was appointed on 29 August 1886, but he moved to Turin in 1887 when he was successful in the competition for an extraordinary professorship at the Military Academy of Artillery and Engineering.
 * Burali-Forti spent the rest of his career at the Military Academy.
@@ -47,6 +46,7 @@ The paradox resulted from the assumption that a set of all [ordinals][bookofproo
 * One reason certainly seems to be that Burali-Forti had confused Cantor's well-ordered sets with what he called 'perfectly ordered sets'.
 * Even after Bertrand Russell had discovered his own "set of all sets" paradox in 1903, he did not seem to realise that it had any connection to Burali-Forti's paradox.
 * observed that he could not accept Burali-Forti's conclusion that ordinal numbers are not necessarily comparable, preferring to accept Cantor's results in this connection as established.
+* He urged that Burali-Forti's contradiction could be simply resolved by denying the premise that the series of all ordinal numbers is well-ordered, "...
 * Burali-Forti's language was new and strange, and intelligible to but few mathematicians.
 * Peano also inserted in the fourth volume of the 'Formulario' (1902-03) some notions of projective geometry taken from Burali-Forti's three reports entitled 'Il metodo di Grassmann nella Geometria proiettiva' Ⓣ(The Grassmann method in projective geometry).
 * Not only was Burali-Forti a prolific writer, with over 200 publications, he was also very interested in how to teach mathematics.

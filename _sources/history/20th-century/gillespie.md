@@ -29,8 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He was elected to the Royal Society of Edinburgh on 6 March 1933, his proposers being Thomas Murray MacRobert, Neil McArthur, Richard Alexander Robb, William Arthur.
 * An obituary, written by Robert A Rankin, appears in the Royal Society of Edinburgh Year Book 1978, pages 31-32.
 * In this RSE obituary Gillespie's books Integration (Edinburgh, 1939) and Partial Differentiation (Edinburgh, 1951), both published in Oliver & Boyd's series of university mathematical texts, are mentioned.
-* Robert Gillespie was married to Maisie Bowman, the daughter of Professor A A Bowman.
-* Their son Alastair Gillespie is a mathematician who has also been President of the Edinburgh Mathematical Society, serving in this capacity from 2001 to 2003.
 
 Born 21 November 1903, Johnstone, Renfrewshire, Scotland. Died 1 January 1977, Edzell, Angus, Scotland.
 

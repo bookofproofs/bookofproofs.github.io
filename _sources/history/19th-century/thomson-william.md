@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1895 Thomson moved out of the academic side of the university to become Registrar of the University of the Cape of Good Hope, Cape Colony.
 * Thomson was an assistant at Edinburgh University when the Edinburgh Mathematical Society was founded in 1883 but he did not join the Society at this time, rather he joined in December 1888 when he was Professor of Mathematics at Stellenbosch, Cape Colony.
 * He was elected to the Royal Society of Edinburgh on 6 March 1882, his proposers being George Chrystal, Peter Guthrie Tait, Alexander Crum Brown, Sir William Turner.
-* William Thomson married Annie C van der Riet in 1884, a year after moving to South Africa.
 
 Born 31 December 1856, Kirkton of Mailer, Perthshire, Scotland. Died 6 August 1947, Dunedin, Glencairn, Simonstown, South Africa.
 

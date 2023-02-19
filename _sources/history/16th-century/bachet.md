@@ -24,9 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Since the links between Savoy and other regions had a strong influence on Bachet's life we will examine the background.
-* Bachet's father Jean Bachet, however, was a counsellor to the Duke of Savoy while his mother Marie de Chavanes was a noblewoman.
 * Twenty years before Bachet was born, Emmanuel Philibert duke of Savoy moved the capital of Savoy to Turin and made Italian the official language (before this it had been Latin).
-* By the time Bachet was six years old both his mother and father had died.
 * For most of his life Bachet lived in comparative leisure on his estate at Bourg-en-Bresse.
 * We should say a little about one of Bachet's friends, Claude Favre Vaugelas.
 * Vaugelas was an important literary figure and he composed Italian verse with Bachet.

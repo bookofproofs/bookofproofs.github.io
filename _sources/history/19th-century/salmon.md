@@ -23,10 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **George Salmon** made many discoveries about ruled surfaces and other surfaces.
 
 ### Mathematical Profile (Excerpt):
-* Michael and Helen Salmon has four children; George being their only son.
 * George attended Mr Porter's school in his home town of Cork, in the south of Ireland, and then entered Trinity College, Dublin, in 1834.
 * This was not a problem for Salmon, who was an Anglican, but in order to take up the Fellowship that Trinity offered him in 1841 he was required to take holy orders in the Church of Ireland, which indeed he did, being ordained deacon in 1844 and a priest in 1845.
-* In 1844 Salmon married Frances Anne Salvador, the daughter of the Reverend J L Salvador.
 * The mathematics department in Trinity College had some outstanding mathematicians on the staff when Salmon joined them in 1841.
 * Although the main topic of interest was synthetic geometry, Salmon only worked in this area for a short time before moving into the area of algebraic geometry.
 * Salmon became interested in the algebraic approach to geometry taken by Cayley, Sylvester, Hermite and later by Clebsch.

@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * When Borsuk entered the University of Warsaw to study mathematics it was an exciting centre for research in topology; Saks and Mazurkiewicz were both teaching at the University and making major advances in the topic.
 * Borsuk obtained his master's degree from the University of Warsaw in 1927 and then, from 1929, he taught at the University.
-* On 26 April 1936 Borsuk married Zofia Paczkowska.
 * Borsuk visited there and during one such visit began a collaboration with Ulam.
 * It was a joint paper with Borsuk, published in the Bulletin of the American Mathematical Society.
 * In Lwów Borsuk joined the mathematicians in the Scottish Café and contributed to the open problems which they wrote down in the famous book.

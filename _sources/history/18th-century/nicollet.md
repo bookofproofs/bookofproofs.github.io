@@ -39,6 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Nicollet was at Fort Snelling, Minnesota by October 1836 and he remained there until the summer of 1837.
 * It was the Nicollet expedition, which was sent to the Northwest by the United States government to explore and map the vast region between the upper Mississippi and the Missouri.
 * The leader of the party was the French explorer, Joseph N Nicollet, and his assistant was John C Frémont, then an unknown young lieutenant.
+* Among the Nicollet Papers in the Library of Congress is an account in the explorer's own handwriting of the departure from Traverse des Sioux ....
 * Again John Frémont was his assistant but of course today Frémont is better known than Nicollet; Frémont went on to lead major expeditions, and was the first candidate for the Republican Party for President of the United States.
 * Nicollet made an astronomical observation at his encampment, on the Coteau du Missouri, Yanktonan Indian country on 6 July 1839.
 * From this point, Nicollet and his companions set out for Devil's Lake, a region of confrontation between the Sioux and combined Chippewas and Metis allied to the Hudson's Bay Company post in the lower Red River valley.

@@ -25,21 +25,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * He adopted the English version of his name, Charles Loewner, later in life after going to the United States.
 * We shall refer to him in this article as 'Charles' or as 'Loewner' even during the period when he certainly was not using these versions.
-* Charles was born into a Jewish family who lived in the village of Lany, about 30 km from Prague.
-* Charles was brought up in a large family, having four brothers and five sisters; only eight of the nine children survived childhood however.
-* In keeping with his father's wish to have his children educated in the German tradition, Charles was sent to a German Gymnasium in Prague where not only the tradition but also the language was German.
 * He graduated from the school in 1912 and, in that year, he began his studies in the German section of the Charles University of Prague.
 * In Prague Loewner's research supervisor was Georg Pick who was himself a student of Leo Königsberger.
 * Loewner worked on geometric function theory for his doctorate and after submitting his thesis he received a Ph.D. in 1917.
 * It was not a mathematically stimulating environment for Loewner who found that his colleagues were not involved in deep research.
 * When Loewner was offered a position at the University of Berlin in 1922 he took up the offer enthusiastically, even though it meant that he was still going to be an Assistant.
-* Although it was a lowly position, Loewner now had colleagues such as Schmidt, Schur, Alfred Brauer and his brother Richard Brauer, Hopf, von Neumann, and Szego.
 * This is a stunning array of talent which the provided the mathematically stimulating environment which Loewner had lacked at the German Technical University in Prague.
 * Mathematical life was at a high pitch; for the first time in his life Loewner was surrounded by his mathematical equals.
 * Loewner began to move up the academic hierarchy from being an assistant to teaching as a Privatdozent in Berlin.
 * Then in 1928 he was appointed as extraordinary professor at Cologne, a position he held for two years before returning to the Charles University of Prague in 1939.
 * Of course this did not affect Loewner in Prague, but as he watched the suffering of his Jewish colleagues in Germany he began to become increasingly uneasy.
-* Loewner took piano lessons so that he could accompany his wife as she practised her singing.
 * Preparing for the inevitable after the Germans marched into Austria, Loewner took English lessons so that he would be ready for the day he had to leave his homeland.
 * Among the students Loewner supervised in Prague was Lipa Bers.
 * Bers said that at first he failed to understand Loewner, since he felt he took little interest in his work.
@@ -49,9 +44,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * As we have already mentioned, Loewner's research was on geometric function theory.
 * We should also note that Loewner's proof uses the Loewner differential equation which has been studied extensively since he introduced it, and was used by de Branges in his celebrated proof of the Bieberbach conjecture.
 * Another important paper written by Loewner during this period is devoted to properties of nnn-monotonic functions.
-* Although aware of the increasing danger that he and his family were in, Loewner was still in Prague when the Nazis occupied the city.
+* The functions which Loewner called nnn-monotonic turned out to be of importance for electrical engineering and for quantum physics ...
 * Loewner was immediately put in jail and he spent a week there trying to leave the country.
-* It was at this point that he changed his name to Charles Loewner, a definite signal that he wished his family to make a new start in a new country.
 * Von Neumann arranged a position for him at Louisville University and the committee set up in the United States to deal with refugees such as the Loewners agreed to pay his salary for the first year.
 * Finally Loewner taught his advanced course in a local brewery before the arrival of the morning shift.
 * The house in Los Altos was the first real home the Loewners had since Prague.

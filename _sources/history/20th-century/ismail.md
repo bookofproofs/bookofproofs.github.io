@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gamal Ismail** is an Egyptian mathematician who became Professor of Pure Mathematics at the University College of Women for Art, Science and Education at Ain Shams University in Cairo in 1995.
 
 ### Mathematical Profile (Excerpt):
-* They had three children, Assmaa Ismail, Ayman Ismail and Ihab Ismail.
 * After being awarded a Master of Science Degree, Ismail was appointed as an assistant lecturer in mathematics at Ain Shams University in 1976.
 * Ismail was awarded a Ph.D. in 1985 for her thesis Accuracy of the multi-step methods for solving differential equations.
 * No papers by Ismail appear to have been published for ten years after the award of her thesis, but in 1995 she was promoted to associate professor and appointed as manager of the Computer Unit at the Women's College of Ain Shams University.

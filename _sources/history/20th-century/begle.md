@@ -27,6 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Begle gave new definitions of these concepts which allowed him to use other techniques and simplify the study of generalized manifolds.
 * Following the award of his doctorate, Begle taught for the year 1940-41 at Princeton.
 * In the last mentioned paper, Begle generalised the Vietoris homology theory of compact metric spaces to the bicompact Hausdorff spaces by considering their finite open coverings instead of the metric.
+* Out of this grew Begle's elementary calculus text, which was unique at the time in that it contained serious mathematics written not for colleagues but for the students themselves ...
 * This textbook was Introductory Calculus, with Analytic Geometry which Begle published in 1954.
 * In the reviewer's opinion Begle's book does make such a contribution and should be examined carefully by all instructors of beginning calculus.
 * Begle also played major roles in what one might refer to as the 'administration of mathematics.' In 1951 he was elected secretary of the American Mathematical Society and undertook the duties associated with this important position with great diligence for the next six years.
@@ -36,8 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * how, you may ask, have we in the UK viewed Professor Begle's achievements as head of that (to us) vast organisation of the School Mathematics Study Group?
 * Among the many notes Begle wrote on mathematical education, let us mention: The School Mathematics Study Group (1958), Comments on a note on "variable" (1961), Remarks on the Memorandum 'On the Mathematics Curriculum of the High School' (1962), A Study of Mathematical Abilities (1962), The Role of Axiomatics and Problem Solving in Mathematics (1967), and SMSG: The first decade (1968).
 * Edward Begle was an independent man.
-* The big, handsome house on Bryant Street in Palo Alto always offered a warm reception, reflecting the kind of family life the Begles had.
-* The dark, oak-paneled study where Edward Begle did most of his writing was lined with pictures of the seven children: Cornelia, Sarah, James, Emily, Elsie, Edward, Douglas.
 * Begle received many awards for his contributions to mathematical education including election as a fellow of the American Association for the Advancement of Science (1960) and the Award for Distinguished Service to Mathematics made by the Mathematical Association of America (1969).
 * The mathematical and scientific part of American life in the middle third of this century may well be judged to have been outstanding; if the history of it is ever properly written, E G Begle's role therein will clearly have an exceptional place.
 * Begle died of emphysema at the age of 63 while working on a review of research in mathematics education.

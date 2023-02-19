@@ -23,12 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hendrik van Heuraet** was a Dutch mathematician who made some contributions to integration.
 
 ### Mathematical Profile (Excerpt):
-* His father was Abraham van Heuraet, an immigrant from Hamburg who had settled in Haarlem where he was a cloth merchant.
-* In 1636, when Hendrik was two years old, his mother died.
-* On 28 May 1651, when Hendrik was about seventeen years old, his father remarried.
-* The eighteen year old Hendrik lost his father and gained a brother soon after.
 * However he studied mathematics as well as medicine, studying privately under van Schooten with fellow students Huygens and Hudde.
-* Little is known of van Heuraet's life after he inherited his father's money, all that is known is that he went with Hudde to the Protestant university in Saumur, a town on the river Loire in western France, in 1658.
 * From Saumur he wrote a letter to van Schooten entitled Epistola de transmutatione curvarum linearum in rectas Ⓣ(Letter on rectification of a curve).
 * Van Schooten published this letter in 1659 and we describe below its contents.
 * Van Heuraet returned to Leiden in the following year and again enrolled to study medicine.

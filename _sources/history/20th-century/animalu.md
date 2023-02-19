@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alexander Animalu** is a Nigerian theoretical physicist known for his work in superconductivity and solar energy.
 
 ### Mathematical Profile (Excerpt):
-* It was a large family with Alexander being his parents' fifth child.
 * After attending these three Church Mission Society primary schools, Alexander progressed to secondary education and attended Dennis Memorial Grammar School (1952-58).
 * During the period that Animalu attended the Memorial Grammar School, its principals were Rev P J Ross (1952-54) and S J Cookey (1954-59).
 * Animalu earned Grade 1 in the West African School Certificate in 1956 and, specialising in science subjects, a Cambridge Higher School Certificate in 1958.

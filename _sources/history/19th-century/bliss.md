@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * George Bliss was the president of the Chicago Edison Company which, by 1907, supplied all of Chicago's electricity.
-* Bliss was born in the suburbs of Chicago into a wealthy family.
-* Bliss's family were no longer able to support him through College so he had to find a way to support himself.
 * Bliss was one of the first American mathematicians to complete his studies in the United States before travelling to Europe.
 * His interest in the calculus of variations came through two sources, firstly from lecture notes of Weierstrass's 1879 course, of which he had a copy, and secondly from the inspiring lectures by Bolza which Bliss attended.
 * Bliss received his doctorate in 1900 for a dissertation The Geodesic Lines on the Anchor Ring  which was supervised by Bolza.
@@ -34,9 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Returning to the United States, Bliss was appointed to the University of Chicago in 1903, then in 1904 he was appointed as an assistant professor at the University of Missouri.
 * At Princeton Bliss joined a strong group of young mathematicians including Eisenhart, Veblen, and Robert Moore.
 * Bliss was appointed as an associate professor at the University of Chicago on the death of Maschke and he remained at Chicago until he retired.
-* Bliss married Helen Hurd in 1912 and they had two children before Helen tragically died in the influenza epidemic of 1918.
-* Bliss and his two children survived.
-* Bliss married again in 1920, his second wife being Olive Hunter; there were no children from this marriage.
 * Bliss's main work was on the calculus of variations and he produced a major book, Lectures on the Calculus of Variations , on the topic in 1946.
 * As a consequence of Bliss's results a substantial simplification of the transformation theories of Clebsch and Weierstrass was achieved.
 * The form in which the results are presented here is that preferred by Bliss himself.

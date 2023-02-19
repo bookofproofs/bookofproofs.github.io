@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Tommaso Boggio** was an Italian mathematician who worked in mathematical physics, differential geometry, analysis, and financial mathematics.
 
 ### Mathematical Profile (Excerpt):
-* His parents, Francesco Boggio and Anna Fassino, were a family of modest means whose ancestors had lived in the region since 1500.
-* The family moved from Valperga Canavese to Turin when Tommaso was a child and it was in Turin that he was educated.
 * Pieri left Turin in 1900 and Boggio continued to teach projective and descriptive geometry.
 * While he tutored geometry at the university in his assistant position, Boggio was undertaking research in applied mathematics.
 * In the first of these, Boggio obtained a solution for the problem of an elastic membrane, displaced in its own plane with known displacements on the boundary.
@@ -44,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Several papers have been written during the last five years which generalise these and other results by Boggio.
 * The famous Boggio-Hadamard conjecture about the sign-definiteness of the Green function of the clamped plate in smooth and convex domains was disproved by Duffin in 1948.
 * Boggio taught Higher Geometry from 1938 to 1940, then both Higher geometry, and Analytic and Projective geometry in 1940-41.
-* Boggio suffered many family difficulties.
 * These tragedies shook Boggio greatly but he bore the pain with great resignation.
 
 Born 22 December 1877, Valperga Canavese, Italy. Died 25 May 1963, Turin, Italy.

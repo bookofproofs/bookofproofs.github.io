@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gino Fano** was an Italian mathematician whose work was mainly on projective and algebraic geometry. He is best known as the founder of the finite geometry.
 
 ### Mathematical Profile (Excerpt):
-* Ugo Fano came from a wealthy family and he had no need for employment.
 * Ugo Fano was a follower of Giuseppe Garibaldi and strongly in favour of Italian unification.
 * In fact on 17 March 1861, ten years before Gino's birth, the Kingdom of Italy was formally created but it was only just before Gino was born that Italian troops captured Rome.
 * Gino grew up in the newly created country which suffered many problems but also had a new confidence in education.
@@ -37,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Fano became Castelnuovo's assistant in Rome in 1894, a position he held for four years.
 * Following this assistantship, Fano went to Messina in the extreme northeastern Sicily where he worked from 1899 to 1901.
 * By this time Fano was far away in Turin where he had been appointed as professor at the University in 1901.
-* In 1911 Fano married Rosetta Cassin and their two children, both of the sons, became professors in the United States.
 * After this Fano went to Switzerland where he taught Italian students at an international camp near Lausanne.
 * Fano's work was mainly on projective and algebraic geometry.
 * Fano was a pioneer in finite geometry and one of the first people to try to set geometry on an abstract footing.

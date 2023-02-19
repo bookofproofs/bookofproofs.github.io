@@ -26,16 +26,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Pierre-François, a plasterer who specialised in plastering ceilings, was a man of modest means.
 * Pierre was born in Loan, a medieval town in the Picardy region of northern France.
 * It was in Loan that Pierre was educated by the Jesuits and as a young boy his aim was to become an architect, although his main hobby was astronomy.
-* In 1716 the Bridge and Highway Corps had been founded in Paris and, in 1747 when Méchain was still a small child, it became the École Nationale des Ponts et Chaussées.
-* Studying there was, however, expensive and Méchain's father did not have the necessary resources to be able to support his son.
-* Méchain had to interrupt his studies and take on the role of tutor to two young boys from a noble family some 50 km from Paris.
 * His tutoring position put Méchain on a firmer financial footing and he was able to save enough to buy some good quality astronomical instruments so that he could pursue his hobby.
 * This romantic story may not be true for Delambre, who knew Méchain very well over a period of ten years, stated in his biography of Méchain, written many years after his death, that there was no evidence to support the story.
 * Whether the story is true or not, what is undoubtedly the case is that Méchain made contact with Lalande who sent him proofs of the second edition of his Traité d'astronomie Ⓣ(Treatise on astronomy).
 * Méchain's assistance with the proofs soon impressed Lalande, as did his enthusiasm and abilities, so, seeing the benefits of having him enter his profession, he arranged a position for him in the cartography department in the Depôt de la Marine in Versailles in 1772.
 * The position was not well paid and, certainly at first, Méchain had to tutor mathematics to make enough money to live on.
 * Méchain went to Paris in the permanent position of calculator in the Depôt de la Marine, living there from around 1774.
-* In 1777 Méchain married Barbe-Thérèse Marjou, whom he met while working in Versaille.
 * For the next ten years from 1780 to 1790 Méchain undertook surveys to produce maps and also worked in astronomy where he is particularly famed as a discoverer of comets.
 * The Government appointed Méchain as a commissioner, along with Legendre and Dominique Cassini, to triangulate the French side.
 * Initially Méchain used older surveying equipment to check Dominique Cassini's measurements with the repeating circle, but later in the project he took over measurements with the repeating circle.
@@ -51,8 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Although Delambre sent him all the data that he was collecting, Méchain refused to let anyone see his data.
 * The agony that Méchain suffered was because he had extremely high standards and he believed that the Borda repeating circle could attain essentially any desired accuracy.
 * In January 1798 the Académie des Sciences set up an international conference to take place in September of that year to give an international standing to the new value of the metre which the Delambre-Méchain survey had still to finalise.
-* Yet by May Méchain still was making no progress and Delambre and Borda arranged for Méchain's wife to travel from Paris to join her husband and ensure that he finish his task.
-* When Méchain met his wife in Rodez in July it was the first time they had seen each other for six years.
 * She returned to Paris unable to convince Méchain to complete his task.
 * Delambre went to help Méchain who by this time had suffered a nervous breakdown.
 * It may have been the promise that he would be made director of the Paris observatory which tempted Méchain back to Paris.

@@ -23,29 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **André Weil** was a French mathematician who worked on algebraic geometry and  number theory.
 
 ### Mathematical Profile (Excerpt):
-* His mother, Salomea Reinherz (1879-1965) known as Selma, came from a family of Russian Jews who had emigrated to Austria, while his father, Bernard Bernhard Weil (1872-1955), was a medical doctor whose family had lived in Strasbourg, Alsace.
-* where details are also given of André's sister Simone Adolphine Weil (1909-1943).
-* We should mention that the Weil family originally used the spelling Weill, for example André's grandfather was Abraham Weill.
-* The Weil family being from Alsace had the right to opt for French nationality and they had done this and moved to Paris.
-* Bernard and Selma Weil were married in Paris in 1905.
-* When André was born in the following year, in addition to his parents, his paternal grandmother and several uncles were living in Paris but his paternal grandfather Abraham Weill had died in Strasbourg.
-* André's maternal grandmother Hermine Reinherz, who was an excellent pianist, lived in his family home with the Weil family which, until 1912, was on the Boulevard de Strasbourg.
-* André's mother supervised his education for the first few years of his life and he had learned to read between the ages of 4 and 5.
-* The family moved from the Boulevard de Strasbourg to the Boulevard Saint-Michel before André began his second year at the lycée.
-* André's father became an army doctor tending the wounded soldiers.
-* He worked in a variety of military hospitals and André, his mother and sister (and usually his grandmother), always moved to be with Bernard Weil.
-* When Bernard was sent to Algeria the family didn't go with him but went to Chartes where André attended the lycée.
 * Every year Weil won the mathematics prize and chose himself (with Hadamard's advice) books for his prize.
 * He graduated from the Lycée Saint-Louis in 1922 and, later that year, Weil entered the École Normale Supérieure in Paris.
 * Right from the time he entered the École Normale Supérieure, Weil attended Hadamard's seminar at the Collège de France.
 * Weil chose not to follow his supervisor's advice.
 * At this time military service was compulsory in France, so Weil undertook these duties in the year 1928-29, leaving with the rank of lieutenant.
-* René was married to Eveline and Weil met her when Bourbaki was being set up.
-* René and Eveline were divorced and, after waiting a considerable time for the divorce to come through, Weil married Eveline de Possel on 30 October 1937.
 * The war was a disaster for Weil who had decided before hostilities broke out that he would avoid military service by going to the United States.
 * Weil was arrested in Finland in November 1939 and when letters in Russian were found in his room (they were actually from Pontryagin describing mathematical research) things looked pretty black.
 * One day Nevanlinna was told that they were about to execute Weil as a spy, and he was able to persuade the authorities to deport Weil instead.
-* Weil was certainly in great danger at this time, partly because he was Jewish, partly because he had a sister Simone Weil who was a mystic philosopher and a leading figure in the French Resistance.
 * The dangers of his predicament made Weil decide that being in the army was a better bet and he was able to argue successfully for his release on the condition that indeed he did join the army.
 * Having used the army as a reason to get out of prison, Weil had no intention of serving any longer than he possibly could.
 * In 1947 Weil returned to the United States and he was appointed to the faculty of the University of Chicago, a position he continued to hold until 1958.

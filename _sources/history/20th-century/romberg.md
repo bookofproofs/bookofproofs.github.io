@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Werner was brought up in Berlin where he attended school.
-* Lénárd was a Nazi whose political views were abhorrent to Romberg.
 * It was standard practice for German students at this time to study at several different universities and, after two years at Heidelberg, Romberg moved to Munich in 1930 where he continued his studies.
 * Romberg's mathematics lecturers at Munich included Constantin Carathéodory and Oskar Perron.
 * However, in the early 1930s the Nazi party was gaining ground and Romberg, who had staunch left-wing views, was bitterly opposed to them.
@@ -52,7 +51,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Besides its usefulness, Romberg's method also showed to non-specialists that convergence acceleration methods can be quite powerful.
 * In 1963 Jean-Pierre Laurent published a rigorous analysis of Romberg integration and after that the method became widely known and widely used.
 * Let us return to give some further details of Romberg's career.
-* Nevertheless, Romberg lacked the political strength and skills needed to realise a pioneering project in Trondheim, and none of his attempts got any support from the funding authorities.
 * Romberg had then given a short introduction to mechanical and electrical computers, without going into detail on how to program or use them.
 * In 1968, Romberg returned to Germany when he was appointed to the chair of Mathematical Methods in Science and Numerical Analysis at the University of Heidelberg.
 * It is because of these characteristics that Werner Romberg was my role model and always will be.

@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Yves-André Rocard** was a French physicist who worked in a variety of fields including radio-astronomy and development of the French atomic bomb.
 
 ### Mathematical Profile (Excerpt):
-* Louis Rocard, whose parents were Adolphe Rocard and Elisabeth Gaudin, married his cousin Jeanne, the daughter of Simon-Eugène Rocard and Elisabeth Lamblin, on 23 August 1902.
-* They had three sons, Yves the subject of this biography, born 1903, Marc born 1904, and Robert born 1913.
 * Yves had a problem which became evident when he was five years old - he was deaf.
 * Rocard attended the Lycée Louis-le-Grand in Paris before entering the École Normale Supérieure in 1922.
 * These five were Yves Rocard, André Weil, Jean Delsarte, Paul Labérenne (1902-1985), and Jean Barbotte.
@@ -36,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In this role, Rocard contributed to the development of the pentode, a vacuum tube widely used in electronic equipment before the invention of the transistor.
 * On the academic side, Rocard was selected to give the Cours Peccot.
 * The Caisse Nationale des Sciences was founded in 1930 and, two years later, Rocard was appointed as a senior scientist.
-* On 24 October 1929 in Sèvres, Rocard married the school teacher Renée Favre, born 23 May 1904 in Reignier, Haute-Savoie, France.
 * Their son, Michel Rocard was born on 23 August 1930.
 * Yves and Renée Rocard were divorced on 20 June 1963.
 * Returning to Rocard's academic career, in 1938 he was appointed as a lecturer in physics at the Faculty of Science at Clermont-Ferrand.

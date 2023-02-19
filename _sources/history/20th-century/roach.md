@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * There Roach attended Southwell Minster School where he excelled as a sportsman.
 * After graduating with his first degree, Roach joined the Royal Air Force.
-* During the years when he was working for BP and also studying for his M.Sc., Roach met and married Isabella Grace Willins Nicol, a young girl from Fife, Scotland.
 * Back in the UK, Roach was appointed as a lecturer at Strathclyde University in Glasgow, Scotland.
 * Roach was vice-convener of the committee from 1992 to 1996 and convener in 1996-97.
 * Roach's research was mainly in the area of applied analysis.

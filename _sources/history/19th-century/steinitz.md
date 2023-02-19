@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Sigismund, whose parents were Mosche Laib Steinitz and Philippine Prager, was born in Gleiwitz in Silesia (now Gliwice in Poland) and worked on the waterways that linked the industrial coal-producing area of Silesia to the northern cities.
-* The family were Jewish and Ernst was the eldest of his parents three sons: Kurt (born in 1872) was only a year younger than Ernst but Walter (born in 1882) was eleven years younger.
 * After a year at the University of Breslau, Steinitz went to Berlin to study mathematics attending lectures by many famous scientists including Georg Frobenius, Leopold Kronecker and Max Planck.
 * In 1897 Steinitz was appointed Privatdozent at the Technische Hochschule Berlin-Charlottenburg after submitting his habilitation thesis.
 * He soon came in contact with Issai Schur and Edmund Landau who were both studying in Berlin for their doctorates when Steinitz was appointed.
@@ -32,9 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Steinitz spent many happy evenings in Hensel's home playing chamber music.
 * Steinitz joined the German Mathematical Society (Deutsche Mathematiker-Vereinigung) in 1897 and there he met Otto Toeplitz.
 * In 1909 Steinitz was considered for an extraordinary professorship at the University of Würzburg.
-* In the following year, he married his cousin Martha (1875-1942) whose parents were Julius Steinitz (1844-1919) and Rosalie Freund (1847-1937).
 * Steinitz had taught Martha to play the piano when he was at school, continuing the lessons while he was a student.
-* Ernst and Martha Steinitz had one child; a son Erhard was born on 6 August 1912.
 * Below Steinitz he listed Felix Hausdorff and Ludwig Bieberbach.
 * A second chair of mathematics at Kiel had become vacant at about the same time and this was filled by Steinitz's friend Otto Toeplitz who was already an extraordinary professor at Kiel.
 * Steinitz took up his appointment on 30 April 1920 and during his years at Kiel he taught a wide-ranging collection of courses including courses on algebra, polyhedra, number theory, complex analysis, topology, geometry, vector analysis and mechanics.
@@ -42,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Heinrich Heesch, Toeplitz and Steinitz had played music together.
 * There is a story, probably originating from Heesch, that at a symphony concert in Kiel Steinitz spontaneously came to the aid of an indisposed soloist and played the Schumann piano concerto.
 * Steinitz died from heart problems in 1928, was cremated on 3 October 1928 in Lübeck but his ashes were buried in Breslau.
-* Sadly Erhard Steinitz, who married Ilse Schlesinger, died in 1948 at the age of 36.
 * The direction of Steinitz's mathematics was much influenced by Heinrich Weber and by Hensel's results on ppp-adic numbers in 1899.
 * These results were given by Steinitz in 1900, when he was a Privatdozent at the Technische Hochschule Berlin-Charlottenburg, at the annual meeting of the Deutsche Mathematiker-Vereinigung in Aachen.
 * In his talk Steinitz introduced an algebra over the ring of integers whose base elements are isomorphism classes of finite abelian groups.

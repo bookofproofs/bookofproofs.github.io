@@ -29,6 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Moving to Osaka Imperial University led to Yosida changing the direction of his research.
 * Yosida became interested in functional analysis through discussions with these two mathematicians.
 * Yosida's main task at Professor of Mathematics was to promote and expand the newly established Department of Mathematics and this he did very successfully, through much hard work, along with his colleagues.
+* It is now called the Hille-Yosida theory ....
 * The influence of this theory was far-reaching: Yosida and many others applied it to numerous areas in analysis such as diffusion equations, Markov processes, hyperbolic equations, and potential theory.
 * Yosida published Topological Analysis in Japanese in 1951.
 * This book was expanded and modernised by Yosida when he published his classic work Functional Analysis (1965).

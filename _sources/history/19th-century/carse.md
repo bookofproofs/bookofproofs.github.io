@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **George Carse** studied at Edinburgh and Cambridge and went on to become a Reader in Physics at Edinburgh.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Jane Carse (born in Glasgow about 1855).
-* George Alexander Carse had two younger sisters, Magdalene (born about 1883) and Jane (born about 1888).
 * George Carse was brought up in Edinburgh, living at 120 Lauriston Place.
 * Then in 1891 he entered George Heriot's School, Edinburgh, being dux of the school in 1898.
 * There he studied mathematics under George Chrystal, physics under P G Tait, and chemistry under Crum Brown.

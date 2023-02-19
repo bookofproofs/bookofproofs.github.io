@@ -39,6 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * For the Master's degree Ávila was advised by Elon Lages Lima but soon came into contact with Welington de Melo.
 * Ávila asked de Melo if he would be his Ph.D. advisor and he began his studies in 1998.
 * At this conference it was arranged that early in 1999 de Melo and Ávila would travel to Stony Brook and discuss a Ph.D. topic for Ávila with Lyubich.
+* It was his proposal that Artur explore this line of research." ...
 * "That was in March", remembers Artur.
 * The joint work of Ávila, de Melo and Lyubich, completed by Ávila's "weird idea", was published in an impressive 100-page paper Regular or stochastic dynamics in real analytic families of unimodal maps in which they proved a result that had been attacked unsuccessfully by many mathematicians.
 * This was only one of several outstanding papers produced by Ávila around this time.

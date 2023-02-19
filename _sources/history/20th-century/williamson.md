@@ -31,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * On 1 February 1924, when he was a Lecturer in Mathematics at the University of St Andrews, Williamson joined the Edinburgh Mathematical Society.
 * Williamson read the paper The irreducible covariants belonging to the concomitant system of three quadrics  to the meeting of the Society in St Andrews on Saturday 14 June 1924.
 * At the meeting on Friday 16 January 1925 a joint paper by Williamson and Turnbull On the general invariant theory of two quadratics in n variables  was read.
-* Williamson married Lydia Stevenson, who had been a student at St Andrews.
 
 Born 23 May 1901, Kinross, Scotland. Died 1949, Baltimore, USA.
 

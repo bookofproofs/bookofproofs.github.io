@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Landau** gave the first systematic presentation of analytic number theory and wrote important works on the theory of analytic functions of a single variable.
 
 ### Mathematical Profile (Excerpt):
-* Edmund Landau's mother, Johanna Jacoby, was from the Jacoby family of leading bankers.
-* Edmund was born into a wealthy family who were well connected, so he grew up knowing the important people in Berlin.
 * From a young age Edmund showed remarkable talents.
 * Landau attended the French Lycée in Berlin, graduating at the age of 16 which is two years earlier than was normal.
 * His doctoral work there was supervised by Frobenius, and Landau received his doctorate in 1899 for a thesis on number theory.

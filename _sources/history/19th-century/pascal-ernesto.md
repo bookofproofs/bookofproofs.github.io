@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ernesto Pascal** was an Italian mathematician best known for a wide range of textbooks that he produced.
 
 ### Mathematical Profile (Excerpt):
-* Of course, the name Pascal sounds French and indeed it is since Stefano Pascal's family were originally from France, coming from the town of Tarascon which is about 20 km south west of Avignon.
-* Ernesto had a brother, Carlo Pascal (1866-1926), who was born on 21 October 1866, also in Naples.
-* He was an outstanding scholar, probably at least as eminent in his own field as his brother Ernesto was in the field of mathematics.
 * Ernesto Pascal's education was in his home town of Naples and, after attending school there, he entered the University of Naples.
 * Pascal graduated with a laurea in mathematics in 1887 but, even before the award of the degree, he had begun to publish mathematical papers.
 * This journal had been founded in Naples by Giuseppe Battaglini together with Nicola Trudi (1811-1894) and Vincenzo Janni (1819-1891) two years before Pascal had been born.

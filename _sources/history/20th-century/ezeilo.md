@@ -25,8 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Josiah Ezeilo was a catechist at various Anglican missions in Eastern Nigeria while Janet was trader.
 * Josiah and Janet had four sons, with James being the second.
-* His older brother was Japhet Ezeilo, while his two younger brothers were Walter Nwanko Ezeilo and Gabriel Chukwujekwu Ezeilo.
-* The family moved to various places in Eastern Nigeria as James grew up and for a while they lived in Umunjam, Imo State.
 * During the period that Ezeilo attended the Memorial Grammar School its principal was E D C Clark who raised the standards of the school in arts, science and technical subjects.
 * Ezeilo graduated from the Dennis Memorial Grammar School in 1948 and, having achieved the highest marks in the University Entrance Examination, he entered the new University College Ibadan (now the University of Ibadan) in 1949 to study mathematics.
 * Ezeilo had a highly successful undergraduate career winning many departmental prizes, faculty prizes, and the University of Ibadan Major Scholar Award.

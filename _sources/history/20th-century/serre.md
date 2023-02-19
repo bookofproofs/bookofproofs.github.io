@@ -24,12 +24,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * In 1932 Jean-Pierre began his primary school education at the École de Vauvert.
-* In particular his father had a lot of chemistry books which Jean-Pierre read when he was fifteen or sixteen years old.
 * He coached Serre for the Concours General in mathematics which he sat in 1944 and was placed first.
 * Serre was awarded his Bachelier ès sciences et ès lettres in 1944 but remained at the Lycée until 1945 preparing to take the entrance examination to enter the École Normale Supérieure in Paris.
 * From 1945 to 1948 Serre studied at the École Normale Supérieure and was awarded his Agrégé des sciences mathematique in 1948.
 * Around the time that Serre joined the Bourbaki group, others such as Roger Godement, Pierre Samuel and Jacques Dixmier also joined.
-* Serre married Josiane Heulot (1922-2004) on 10 August 1948; they had one child, a daughter Claudine born on 29 November 1949.
 * From 1948 to 1954 Serre held positions at the Centre National de la Recherche Scientifique in Paris, first as attaché and then as chargé de recherches.
 * One of Serre's fellow students was Alexander Grothendieck and he also attended the seminar.
 * Grothendieck and Serre became friends at this time.

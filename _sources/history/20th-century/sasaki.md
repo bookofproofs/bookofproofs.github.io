@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Shigeo Sasaki** was a Japanese mathematician working on differential geometry.
 
 ### Mathematical Profile (Excerpt):
-* Shigeo was the second of his parents sons but he never knew his mother who died when he was only two years old.
-* So Shigeo was brought up by his uncle.
 * Shigeo lived in a dormitory, rather than at home, and the mathematics teacher at the school looked after the boys in the dormitory.
 * He loved to explain mathematics to Shigeo and there were many opportunities.
 * In 1929 Shigeo moved from middle school to high school, entering the Second High School at Sendai.

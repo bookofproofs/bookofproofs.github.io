@@ -50,8 +50,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The ideas in Shannon's paper were soon picked up by communication engineers and mathematicians around the world.
 * They were elaborated upon, extended, and complemented with new related ideas.
 * The subject thrived and grew to become a well-rounded and exciting chapter in the annals of science.
-* On 27 March 1949 Shannon married Mary Elizabeth Moore.
-* They had three sons and one daughter; Robert, James, Andrew Moore, and Margarita.
 * He continued his work showing how Boolean algebra could be used to synthesise and simplify relay switching circuits.
 * He also proved results on colouring the edges of a graph so that no two edges of the same colour meet at a vertex.
 * Another important paper, published in 1949, was Communication theory of secrecy systems.

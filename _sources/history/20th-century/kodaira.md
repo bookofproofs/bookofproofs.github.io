@@ -23,19 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Kunihiko Kodaira** was a Japanese mathematician who won a Fields Medal for his work in algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-* Gon-ichi, Kunihiko's father, had studied agriculture and politics at Tokyo Imperial University and, at the time his son was born, was working at the Ministry of Agriculture.
-* Ichi, Kunihiko's mother, was the daughter of the schoolmaster Kyuji Kanai.
-* Kunihiko was the eldest of his parents' sons, having a younger brother Nobuhiko (born 1919).
 * Kunihiko entered elementary school in 1921 but these were not easy years for the young boy.
 * When she produced puppies, Kunihiko hid them and the dog was upset searching until he returned them to her.
 * However, when he hid a couple of the puppies the dog seemed happy so the ten year old Kunihiko decided that "dogs can't count".
-* Gon-ichi, Kunihiko's father, spent time in Germany in 1921-22 and, with German inflation out of control, he found that the strong Japanese yen could buy large quantities of goods very cheaply.
-* He brought back to Japan many gifts for his children and the young Kunihiko had much enjoyment from the wonderful German construction kits his father gave him.
 * This toy made Kunihiko decide at a young age that he wanted to be an engineer.
 * Kodaira completed his primary education in 1927 and entered the middle school.
-* One of the many things that Kodaira's father had brought back from his 1921-22 trip to Germany was a piano.
 * When he was fifteen years old, Kodaira began to learn to play the piano and had a student from Tokyo University, Mr Nakajima, as his piano teacher.
-* When Mr Nakajima graduated from the university and moved away, his sister Tazuku Nakajima acted as Kodaira's music teacher although she was a violinist rather than a pianist.
 * After middle school, Kodaira studied at the First High School where he was taught by Hideo Aramata (1905-1947) who was an excellent mathematician writing books on matrices and determinants as well as interesting papers on the zeta-function.
 * Kodaira saw how much Aramata enjoyed mathematics and realised that it was the subject for him.
 * In 1935 Kodaira began his university education at the University of Tokyo.
@@ -43,11 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1936-37 Kodaira attended Iyanaga's course on modern analysis which was based on the ideas of von Neumann.
 * Kodaira graduated from the University of Tokyo in March 1938 with a Bachelor of Science in mathematics.
 * Tazuku Nakajima organised concerts and Kodaira accompanied the violinists on the piano.
-* The Kodairas also had two daughters, Yasuko and Mariko.
 * Kodaira had been appointed as a Lecturer in the Department of Physics of the Imperial University of Tokyo in April 1941 and then as an Associate professor in the Department of Mathematics of Tokyo Bunri University in April 1942.
-* After Kodaira completed his teaching in Tokyo at the end of the autumn term, he joined his family in Karuizawa.
-* On 13 April, an air raid destroyed their home in Tokyo and Kodaira and his family moved to Yonezawa where his father owned a house.
-* Kodaira returned to the Institutes a couple of weeks after they reopened, leaving his family in Yonezawa.
 * Rather amazingly, Kodaira was able to quickly restart his seminar and began again producing remarkable results.
 * At this time Kodaira was interested in topology, Hilbert spaces, Haar measure, Lie groups and almost periodic functions.
 * Despite this Kodaira was able to obtain papers to read of mathematical developments and he was most influenced by reading the works of Weyl, Stone, von Neumann, Hodge, Weil and Zariski.
@@ -66,7 +55,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Kodaira received many honours for his outstanding research.
 * Professor Kunihikio Kodaira made a profound study of harmonic integrals with incisive, important applications to algebraic and complex geometry.
 * Seiko Kodaira had to push the papers away when preparing the meal.
-* Kodaira's wife, Seiko, died in January 2000, two and a half years after her husband.
 
 Born 16 March 1915, Tokyo, Japan. Died 26 July 1997, Kofu, Japan.
 

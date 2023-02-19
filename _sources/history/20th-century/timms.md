@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Geoffrey Timms** studied at Leeds and Cambridge and then took up a post at St Andrews. During World War II he served at Bletchley Park and Cheltenham and joined the Foreign Office afterwards.
 
 ### Mathematical Profile (Excerpt):
-* Geoffrey Timms had a younger brother Alan (born about 1905).
 * Geoffrey Timms was an undergraduate at the University of Leeds, graduating with First Class honours in mathematics in 1925.
 * Timms then went to Cambridge where his doctoral work was supervised by H F Baker.
 * After being awarded a Ph.D. in 1928 Timms was appointed as Assistant in H W Turnbull's department in St Andrews in October 1929.

@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Rinze Bottema had a position with the railways and was subsequently station manager at a few village stations in the north of the country.
-* Their son was given the name Oene since this was his grandfather's name, Oene Wiltjes Bottema (1834-1897).
 * After attending elementary school, Bottema entered the Rijks Hogere Burgerschool in Groningen.
 * Bottema was one of the first to benefit from this change, and in 1918 he entered the Department of Mathematics and Physics of the University of Groningen.
 * One of Bottema's professors at Groningen was Julius Wolff (1882-1945) who, after studying for a doctorate advised by Diederik Korteweg, had spent ten years as a school teacher, then was appointed professor of differential calculus, theory of functions and higher algebra at Groningen in 1917.
@@ -41,9 +40,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In his thesis Bottema's elegant style in mathematics is already present.
 * The award of a doctorate did not mean that Bottema gave up being a school teacher.
 * Although Bottema taught in schools from 1924 to 1941, he also taught some university courses as a docent.
-* In 1930 Bottema married Femmina Catharina Johanna Berendsen on 21 August 1930 at Hengelo, Overijssel.
 * Femmina, known as Femmy, was more than one year younger than Oene Bottema.
-* Oene and Femmy Bottema had a daughter Willemina Wytske Bottema, born in Groningen, and a son born in Deventer.
 * In 1938 Bottema published his first book, De elementaire meetkunde van het platte vlak Ⓣ(The elementary geometry of the plane).
 * In 1941 Bottema left his position as director of the Rijks Hogere Burgerschool in Deventer when he was appointed as professor at the Technical University in Delft.
 * To avoid any bad feeling that might arise, the university decided to appoint Bottema to the chair which W A Versluys had held until 1935 but which had never been filled.

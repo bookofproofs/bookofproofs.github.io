@@ -30,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was claimed by Theodore Meliteniotes in around 1360 that Ptolemy was born in Hermiou (which is in Upper Egypt rather than Lower Egypt where Alexandria is situated) but since this claim first appears more than one thousand years after Ptolemy lived, it must be treated as relatively unlikely to be true.
 * In fact there is no evidence that Ptolemy was ever anywhere other than Alexandria.
 * His name, Claudius Ptolemy, is of course a mixture of the Greek Egyptian 'Ptolemy' and the Roman 'Claudius'.
-* This would indicate that he was descended from a Greek family living in Egypt and that he was a citizen of Rome, which would be as a result of a Roman emperor giving that 'reward' to one of Ptolemy's ancestors.
 * We do know that Ptolemy used observations made by 'Theon the mathematician', and this was almost certainly Theon of Smyrna who almost certainly was his teacher.
 * Most of Ptolemy's early works are dedicated to Syrus who may have also been one of his teachers in Alexandria, but nothing is known of Syrus.
 * If these facts about Ptolemy's teachers are correct then certainly in Theon he did not have a great scholar, for Theon seems not to have understood in any depth the astronomical work he describes.

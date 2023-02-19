@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James Watt** was an Edinburgh lawyer and actuary. He was interested in science, being a member of the Scottish Meteorological Society and the Royal Scottish Geographical Society.
 
 ### Mathematical Profile (Excerpt):
-* James Watt married Menie Jamieson (born in Glasgow in about 1872) in 1899; they had one daughter, Jessie and four sons.
 * Watt was a Fellow of the Faculty of Actuaries, a member of the Scottish Meteorological Society, and a fellow of the Royal Scottish Geographical Society which he serve as Vice-President.
 * He was elected to the Royal Society of Edinburgh on 20 February 1911, his proposers being James Campbell Dewar, Charles Scott Dickson (Lord Dickson), Sir James Dewar, A Crum Brown.
 

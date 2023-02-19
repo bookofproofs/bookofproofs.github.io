@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * From 1932 to 1934 Ehresmann studied at Princeton in the United States.
 * Ehresmann's doctorate was awarded by Paris in 1934.
 * Ehresmann followed the moves of the university then, in 1955, a chair of topology was specially created for him in the University of Paris.
-* Although he was 70 years old when he retired, Ehresmann did not give up lecturing for at this time he moved to Amiens, where his second wife was a professor of mathematics, and he taught there.
 * Ehresmann was one of the creators of differential topology.
 * Beginning in 1941, Ehresmann made major contributions toward establishing the current view of fibre spaces, manifolds, foliations and jets.
 * After 1957 Ehresmann became a leader in category theory and he worked in this area for 20 years.

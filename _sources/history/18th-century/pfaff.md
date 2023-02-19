@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Johann Friedrich was the second of his parents seven sons and, although perhaps the one to attain the greatest fame, he was certainly not the only one to excel in science.
-* The youngest of the family, Johann Wilhelm Pfaff who was born in 1774, also became a mathematician and held chairs in Würtzburg and Erlangen.
 * The second youngest, Christoph Heinrich Pfaff was born in 1773 and, with interests in chemistry, medicine and pharmacy, he worked with Volta on electricity in animals.
 * There was a school in Stuttgart, the Hohe Karlsschule, which was run to train sons of government officials of Württemberg and Johann Friedrich attended this school from the age of nine.
 * Pfaff did not learn much in the way of mathematics there despite attending the school until he was nearly twenty.
@@ -38,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He attended Pfaff's lectures and even lived in his house.
 * By the time Gauss studied with Pfaff at Helmstedt, the university was under threat of closure.
 * Pfaff fought hard to prevent this and for a few years he was successful.
-* Pfaff married in 1803 to Caroline Brand but sadly their first child died as an infant.
 * By 1810 Pfaff's attempts to preserve the University of Helmstedt finally failed with the closure of the university.
 * The staff were given a number of different choices as to which university they might move to, and Pfaff chose to move to Halle.
 * Pfaff did important work in analysis working on partial differential equations, special functions and the theory of series.

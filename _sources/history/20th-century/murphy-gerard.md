@@ -24,13 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Larry Murphy, who died on 22 October 1987 at the age of 82, was a window cleaner.
-* Gerard had seven younger siblings, two brothers and five sisters: John, Derek, Rita, Linda, Joan, Carol and Lauren.
 * Gerard attended the school Our Lady of Good Counsel in Mourne Road, Dublin.
 * The fourteen year old Murphy's first job was as a telegram boy making deliveries from the Post Office in O'Connell Street, Dublin.
-* He was fortunate since the Simms family were one of his father's customers and they were happy to lend Murphy books from their collection.
-* The Simms family lent Murphy an encyclopaedia consisting of several volumes which he read avidly.
 * After five years working as a window cleaner and studying in his free time, Murphy made the decision to give up work and concentrate full time on studying at home.
-* As one might imagine, this did not go down well with other members of his family, but Murphy showed great determination for following the course of action on which he had decided.
 * Murphy was not studying completely on his own, however, for he had occasional help from David Simms.
 * When he felt confident in his abilities, Murphy had to make a journey to England so that he could sit the examinations in London.
 * Murphy was still aiming to study engineering at university but this was a course which was oversubscribed at Trinity College and the university made decisions on which students to accept based mainly on secondary school reports.
@@ -51,7 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Before this book was published, however, Murphy had published four joint papers with Trevor West, namely Spectral radius formulae (1979), Decomposition algebras of Riesz operators (1980), Removing the interior of the spectrum (1980), and Decomposition of index-zero Fredholm operators (1981).
 * In 1980 Murphy, supported by Peter Fillmore from Dalhousie University, Halifax, Canada, was awarded a two-year fellowship from the Canadian Government.
 * In 30 November 1981, while in Dalhousie, Murphy submitted his paper Hyperinvariant subspaces and the topology on Lat, A for publication.
-* During his second year in Dalhousie, Murphy married Mary O'Hanlon; they had four children: Alison Murphy, Adele Murphy, Neil Murphy and Elaine Murphy.
 * After spending two years in Dalhousie, Murphy moved to the United States where he worked for a year as an Associate Professor at the University of New Hampshire, Durham, followed by a year at Oregon State University.
 * In the second of these papers both Fong and Murphy give their address as the University of Toronto.
 * In 1984 Murphy returned to Ireland where he was appointed as a lecturer in Mathematics at University College, Cork.

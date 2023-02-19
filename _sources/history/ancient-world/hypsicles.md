@@ -24,10 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * What little is known of Hypsicles' life is related by him in the preface to the so-called Book XIV.
-* He writes that Basilides of Tyre came to Alexandria and there he discussed mathematics with Hypsicles' father.
-* Hypsicles relates that his father and Basilides studied a treatise by Apollonius on a dodecahedron and an icosahedron in the same sphere and decided that Apollonius's treatment was not satisfactory.
 * In the so-called Book XIV Hypsicles proves some results due to Apollonius.
-* He had clearly studied Apollonius's tract on inscribing a dodecahedron and an icosahedron in the same sphere and clearly had, as his father and Basilides before him, found it poorly presented and Hypsicles attempts to improve on Apollonius's treatment.
 * Arab writers also claim that Hypsicles was involved with the so-called Book XV of the Elements.
 * We do not know for certain that Hypsicles wrote a text on polygonal numbers, but it is fairly certain that he did write such a text which has been lost.
 * This work on polygonal numbers is related to the ideas on arithmetic progressions that appear in another work by Hypsicles, making it more likely that indeed Hypsicles had indeed done original work on this topic.

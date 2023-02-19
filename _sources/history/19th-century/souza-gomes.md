@@ -24,15 +24,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * He was the grandson of José Antônio Gomes de Souza.
-* The Gomes de Souza were of Portuguese origin and by the end of the 18th and beginning of the 19th century they played an important role in the politics and the economy of the Brazilian State of Maranhao.
-* José Antônio Gomes de Souza, Joaquim's grandfather, was a wealthy man involved in the export trade.
 * He had a military career becoming a lieutenant colonel and was also an alderman of the Chamber of São Luís.
-* Joaquim's father, Inácio José Gomes de Souza, was a major in the army, owned land, made investments and held a high social position which made him financially well off and able to give his children a high quality education.
-* Joaquim was born in Itapecuru-Mirim into a large family, the seventh of nine children.
-* He was given the nickname of Souzinha when he was still a child and he was widely known by that name for the rest of his life.
 * It was an important city partly because of the Catholic Seminary there, which was built at the time of the Portuguese colonisation, and also for the Faculty of Law of Olinda which is now part of the Federal University of Pernambuco.
-* Souzinha was sent there to join an elder brother who was studying in the city.
-* As we have seen, the Gomes de Souza family had strong connections with the military so, in 1843, when he was fourteen years old, Souzinha was sent to continue his studies at the Escola Militar of Rio de Janeiro.
 * This College dates back to 1792, and was modelled on the Military Academy in Lisbon.
 * It became the Royal Military Academy in 1811, then the Imperial Military Academy in 1822 when Brazil gained its independence.
 * It became the Academia Militar da Corte in 1832 and, in 1840, it was renamed the Escola Militar.
@@ -61,10 +54,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The anthology contains poems in seventeen languages, each poem in its original language, German, English, French, Italian, Portuguese, Spanish, Russian, Polish, Serbian, Bohemian, Hungarian, Dutch, Danish, Swedish, Modern Greek, Latin, and Ancient Greek.
 * Why would anyone buy such a book consisting of poems most of which were in languages they could not understand?
 * How many times has man truly fond of literary art felt, in moments of solitude, when their mind needs a diversion after very serious reflections, and a quiet occupation, the desire to have in hand a meeting of the most perfect literatures all nations possess, in order to let their thoughts wander and find feelings that correspond to the dispositions of their spirit?
-* While he was in Germany, Souzinha received the news from one of his brothers that he had been nominated for the position of deputy general for the province of Maranhao.
 * Back in Brazil, Souzinha was sworn in as Deputy on 19 May 1857 and made his first speech on 25 June 1857.
-* On 18 February 1861, his wife died of typhoid fever contracted on a trip he made to the countryside of Maranhao to introduce his wife to his family and to meet his electorate, as he was running for a second term of deputy.
-* Two years later, in 1863, his son died in São Luís, a victim of a sudden illness which, despite his medical training, he had not realised was serious.
 * Souzinha's own health was also deteriorating and, suffering from the lung disease hemoptysis, he had returned to Maranhao for health reasons in 1862.
 * He wanted to continue his duties despite his health problems and returned to Rio de Janeiro taking up residence on the Santa Teresa hill.
 * Hoping for good medical treatment in England, he made the trip in March 1864, but he died two months later.

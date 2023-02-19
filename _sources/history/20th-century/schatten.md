@@ -24,6 +24,7 @@ contributors: @E-W-Cheney,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * To his former students, Schatten will be remembered as a dedicated teacher who was genuinely concerned with the intellectual development of his students.
+* Who could forget what a sequence was after hearing Schatten describe a long corridor, stretching as far as the eye could see, with hooks regularly spaced on the wall and numbered 1, 2, 3, ...?
 * Schatten had some eccentricities which endeared him to his friends.
 * Schatten's principal mathematical achievement was that of initiating the study of tensor products of Banach spaces.
 * In this subject, the Schatten Classes perpetuate his name.

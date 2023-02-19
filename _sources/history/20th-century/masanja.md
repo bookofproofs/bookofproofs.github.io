@@ -32,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After completing her doctorate, Masanja returned to Tanzania and took up her position at the University of Dar es Salaam where she was promoted to professor.
 * Masanja has written papers relating to the fluids work that she undertook for her doctoral thesis, and she has also written papers on gender issues and mathematical education.
 * Although Masanja remained on the academic staff of the University of Dar es Salaam until December 2010, she has also taught in Rwanda since 2006.
-* Masanja is the mother of four children.
 
 Born 12 October 1954, Bukoba, Tanganyika (now Tanzania).
 

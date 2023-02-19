@@ -25,19 +25,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * He himself always used the name Hans Rohrbach but one source gives his full name as Hans Joachim Albert Rohrbach while Bernhard Neumann said that he believed his full name was Hans Wolfgang Rohrbach and he was certain his middle initial was W.
 * Amid this confusion we have decided to simply give his name as Hans Rohrbach.
-* His parents, Paul Rohrbach and his wife Clara Müller, were married in Berlin in 1897.
 * Paul Rohrbach, whose full name was Karl Albert Paul Rohrbach, was born on 29 June 1869.
 * Hans entered the Gymnasium of Berlin-Friedenau in the autumn of 1909 and continued his education there until the autumn of 1917.
 * After leaving the Gymnasium of Berlin-Friedenau in the autumn of 1917, Hans entered the Fichte Gymnasium in Berlin-Wilmersdorf.
 * Later, Rohrbach was taught by some outstanding mathematicians including Erhard Schmidt, Issai Schur, and Ludwig Bieberbach.
-* In the winter of 1923 Rohrbach went with his father on a visit to the United States.
 * Rohrbach was, at this time, head of the Berlin student organisation Mathematisch-Physikalische Arbeitsgemeinscaft.
 * Rohrbach called his visit a "propaganda trip" and he travelled round American Universities trying to collect money for Berlin students.
 * In the autumn of 1924, Rohrbach took up his studies again at the University of Berlin and was enrolled there until 1929.
 * During his studies at Berlin, Rohrbach attended lectures, exercise classes and seminars by many leading mathematicians whom he names in his doctoral thesis as: Ludwig Bieberbach, Eugen Blasius, Max Dessoir, Georg Feigl, Heinz Hopf, Wolfgang Köhler, Max von Laue, Karl Löwner, Richard von Mises, Max Planck, Hans Rademacher, Heinrich Rubens, Wilhelm Schlenk, Erhard Schmidt, Issai Schur, Gabor Szegő, Arthur Wehnelt, and Wilhelm Westphal.
 * While studying at the University of Berlin, Rohrbach had met a student Rose Gadebusch (born 1905) who began her studies of mathematics in 1925.
 * Like Rohrbach, Rose Gadebusch took a major role in the Mathematisch-Physikalische Arbeitsgemeinscaft while she was a student.
-* Hans Rohrbach married Rose Gadebusch (we have not been able to determine the exact date of their marriage but indirect evidence suggests that it was in 1932).
 * In 1936 Rohrbach was appointed as a senior assistant at the University of Göttingen.
 * Let us now describe a puzzle that Rohrbach introduced in 1937 that has been the source of much interest and research ever since.
 * In the 1937 paper just quoted, Rohrbach finds asymptotic bounds for nnn with hhh fixed and kkk large.
@@ -58,9 +55,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The file also states that Ernst Mohr was assigned to be Rohrbach's replacement in Prague during his activities in the Foreign Office in Berlin.
 * After the war ended, Rohrbach was not allowed to teach for a number of years.
 * Finally, let us return to Rohrbach's "missionary concerns" which we mentioned above.
-* After the war, Rohrbach and his wife Rose became enthusiastic Christians with a missionary zeal to bring others to the faith.
 * Rohrbach was the first president of Studentenmission in Deutschland, an organisation which aimed to spread Christian values in German schools and universities.
-* In 1977 Rohrbach and his wife Rose moved to Bischofsheim an der Rhön where they built the Christian Conference Centre 'Christlichen Tagungsstätte Hohe Rhön' Ⓣ(Christian Meeting House for Hohe Rhön).
 
 Born 27 February 1903, Berlin, Germany. Died 19 December 1993, Bischofsheim an der Rhon, Germany.
 

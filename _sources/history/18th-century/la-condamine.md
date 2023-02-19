@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Notice that Charles was 23 years older than his wife.
-* They had two children Charles-Marie de La Condamine, the subject of this biography, and Louise Hélène de La Condamine (1706-1771).
 * Charles-Marie was baptised in the Saint-Roch church in Paris.
 * Charles-Marie de La Condamine studied at the Jesuit College of Louis-le-Grand in Paris.
 * Porée was a friend of Voltaire (1694-1778) and soon La Condamine would also become a friend of Voltaire who had himself been a student at Louis-le-Grand.
@@ -34,6 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, he soon decided that army life did not suit him and he left the army seeking other exciting occupations.
 * Back in Paris, he lived in a house in the cul-de-sac St Thomas du Louvre near the Louvre Gallery close to the Seine.
 * He began to study mathematics, in particular conic sections, mechanics, chemistry and physics, where he was particularly interested in the declination of the magnetic needle.
+* Later, Pierre-Louis Moreau de Maupertuis took the reins, an astronomer with whom La Condamine would collaborate throughout his career ...
 * La Condamine was adept at mathematics both through the excellent teaching at Louis-le-Grand and his own studies, and he applied his skills to make lots of money for himself and his friend Voltaire.
 * The French government had set up a lottery in 1728 in an effort to raise money but they miscalculated the prizes offered.
 * For anyone willing to make the massive initial investment, La Condamine had realised with devious mathematical prowess that the poorly designed lottery would pay out more money than it actually took in.
@@ -61,7 +61,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He had already published his map in Carte du cours du Maragnon ou de la Grande Rivière des Amazones Ⓣ(Map of the course of the Maranon or Great River of the Amazons) (1745).
 * of the course of a river that traverses vast lands nearly unknown to geographers.
 * La Condamine's account, however, is a mixture of accurate precision surveys and unverified reports of locals.
-* For some of these he did indeed provide scientific evidence, for example concerning the bark of the Cinchona tree famed as a cure for fevers (it contains the anti-malarial drug quinine).
 * Many believe that he accepted such legends simply because they made his reports far more interesting and exciting to the French public.
 * La Condamine spent five months in Cayenne on his journey home and here he repeated Richer's experiments on the variation of weights at different latitudes.
 * In February 1745 La Condamine made the final leg of his journey arriving in Paris on 23rd   of that month.
@@ -76,7 +75,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * When both scientists published further papers and books relating to the expedition again arguments raged.
 * We should make it clear that all these arguments were not related to the scientific content, but simply arguments over who should get the most credit.
 * In 1756 La Condamine went to Italy.
-* His purpose was to seek permission from the pope, Benedict XIV, to allow him to marry his niece Charlotte Bouzier d'Estouilly (1726-1779), the daughter of his sister Louise Hélène de La Condamine and her husband Antoine Bouzier d'Estouilly.
 * However, La Condamine could not make a trip to Italy without making scientific observations.
 * He read two papers on this topic to the Academy in 1754 and 1758 but when he tied to publish a third paper in 1764 he ran into problems.
 * The Committee of the Academy which decided on publications had become anti-inoculation.

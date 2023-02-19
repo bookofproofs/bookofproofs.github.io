@@ -24,11 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * His parents were Vasyl and Maria Petryshyn.
-* In 1956, while at Columbia University, Petryshyn married Arcadia Olenska (1934-1996).
 * After completing his doctorate, Petryshyn was appointed as a postdoctoral fellow at New York University.
 * Petryshyn's main work has been in iterative and projective methods, fixed point theorems, nonlinear Friedrichs extension, approximation-proper mapping theorem, and topological degree and index theories for multi-valued condensing maps.
 * Petryshyn received several significant honours for his excellent mathematical contributions.
-* Finally we should mention the Vasyl and Maria Petryshyn Memorial Lectures in Ukrainian Studies established at the Harvard Ukrainian Research Institute in 1991 through a major gift donated by the estate of the late Vasyl and Maria Petryshyn, with additional funds provided by their son Volodymyr Petryshyn, and other family members.
 
 Born 22 January 1929, Liashky Murovani, Lwów, Poland (now Murovane, Lviv, Ukraine).
 

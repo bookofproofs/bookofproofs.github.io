@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Hamilton** was a Scottish philosopher whose approach to logic influenced Boole, De Morgan and others.
 
 ### Mathematical Profile (Excerpt):
-* William, the subject of this biography, was one year older than his brother Thomas, and in 1790 William Hamilton senior died and Elizabeth had to bring up the two young boys on her own.
 * William was educated at a variety of Scottish and English schools before entering the University of Glasgow when he was 12 years old to study Greek and Latin.
 * In 1807, having been award a Snell exhibition, Hamilton matriculated in Balliol College, Oxford.
 * on the personal side, Hamilton was aggressive and opinionated in discussion, and in a university that took the literary qualities of the classics more seriously than their philosophical qualities, his erudition may have seemed more awkward than attractive.
@@ -35,11 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Boole, De Morgan and Venn followed him, but Hamilton helped begin this development and his work, although not of great depth, influenced Boole to produce a much more sophisticated system.
 * Sadly, however, Hamilton claimed that De Morgan was guilty of plagiarism which was a ridiculous suggestion.
 * One important aspect is that Hamilton stimulated an interest in metaphysics and introduced Kant and other German philosophers to the British public.
-* After moving to Edinburgh, Hamilton's mother came from Glasgow to live with him in 1815.
-* A couple of years later Hamilton's cousin Janet Marshall joined him and his mother.
-* This arrangement continued until January 1827 when Hamilton's mother died.
-* The two were very close and Hamilton was deeply troubled by his mother's death.
-* They had three sons and a daughter, Elizabeth Hamilton, who through her contribution to Encyclopaedia Britannica is the best known of the children.
 * Hamilton had a stroke in 1844 which left him partially paralysed.
 
 Born 8 March 1788, Glasgow, Scotland. Died 6 May 1856, Edinburgh, Scotland.

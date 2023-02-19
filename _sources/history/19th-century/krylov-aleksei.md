@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Aleksei Krylov** was a Russian applied mathematician who worked in many areas including shipbuilding, magnetism, artillery, mathematics, astronomy, and geodesy.
 
 ### Mathematical Profile (Excerpt):
-* Around the time that Aleksei was born, his father was Deputy Marshal of the Nobility and became the first president of the Alatyr District Council.
-* The family were certainly not wealthy, but as the son of an army veteran, Aleksei was entitled to a free education.
 * Krylov's work in the unit was supervised by Ivan Petrovich de Collong who was an outstanding scientist and the founder of the theory of magnetic deviation of the compass.
 * In 1888 Krylov joined the department of ship construction of St Petersburg Maritime Academy.
 * Krylov benefited greatly from Korkin's tuition and he graduated First Class in 1890 after only two years of study.
@@ -47,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Finally let us mention some of the classic texts which Krylov published.
 * The first edition of Lectures on Approximate Calculations appeared in 1911, the second edition in 1932, the third in 1935, and the fourth in Krylov's collected works.
 * The first edition of On Some Differential Equations of Mathematical Physics Having Application to Technical Problems appeared in 1913, the second edition in 1932, and the fourth appeared in 1948 as part of Krylov's collected works.
-* Krylov married Elisaveta Dmitrievna Dranitsyna; their daughter Anna, later became Anna Kapitsa after marrying the famous physicist Pyotr Leonidovich Kapitsa who won the Nobel Prize for Physics in 1978 for his research in magnetism and low-temperature physics.
 * Krylov died in Leningrad (now St Petersburg) and is buried in the Volkovo cemetery.
 
 Born 15 August 1863, Visyaga, Simbirskoy (now Ulyanovskaya), Russia. Died 26 October 1945, Leningrad, USSR (now St Petersburg, Russia).

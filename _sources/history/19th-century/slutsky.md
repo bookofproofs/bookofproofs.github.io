@@ -23,12 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ** Evgeny Slutsky** was important in the application of mathematical methods in economics.
 
 ### Mathematical Profile (Excerpt):
-* The family moved from Yaroslavl province, in western Russia, to the Ukraine and there Slutsky entered a classical gymnasium where the main emphasis was on the study of mathematics and the physical sciences.
 * After leaving school Slutsky entered the University of Kiev in 1899 to study mathematics.
-* Two students had been expelled from the University for their political views and Slutsky participated in illegal meetings of the student body which gave its support to the two expelled students and demanded their reinstatement.
 * That is precisely what happened to Slutsky in January 1901, but he was not given a particularly long spell and he was soon back at Kiev University.
 * Slutsky had little choice if he wanted an education so he went abroad and entered Munich Polytechnikum entering in 1902.
-* The ban on Slutsky attending Russian higher education institutions was meaningless in the new political situation so he could study again at the University of Kiev.
 * Leontovich was a physiologist who had been studying the statistical ideas of Gauss and Pearson and he gave Slutsky material on statistical techniques.
 * Slutsky was quickly involved with this work, and still in 1912 he published a text in Kiev entitled The theory of correlation.
 * Slutsky had been a supporter of the revolution when a student but now he became much more careful in making his views known.

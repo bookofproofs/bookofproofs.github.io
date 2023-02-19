@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Pierre-Simon Laplace** proved the stability of the solar system. In analysis Laplace introduced the potential function and Laplace coefficients. He also put the theory of mathematical probability on a sound footing.
 
 ### Mathematical Profile (Excerpt):
-* Laplace's mother, Marie-Anne Sochon, came from a fairly prosperous farming family who owned land at Tourgéville.
-* Many accounts of Laplace say his family were 'poor farming people' or 'peasant farmers' but these seem to be rather inaccurate although there is little evidence of academic achievement except for an uncle who is thought to have been a secondary school teacher of mathematics.
 * Laplace attended a Benedictine priory school in Beaumont-en-Auge, as a day pupil, between the ages of 7 and 16.
 * At the age of 16 Laplace entered Caen University.
 * However, during his two years at the University of Caen, Laplace discovered his mathematical talents and his love of the subject.
@@ -54,14 +52,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Although Laplace soon returned to his study of mathematical astronomy, this work with Lavoisier marked the beginning of a third important area of research for Laplace, namely his work in physics particularly on the theory of heat which he worked on towards the end of his career.
 * In 1784 Laplace was appointed as examiner at the Royal Artillery Corps, and in this role in 1785, he examined and passed the 16 year old Napoleon Bonaparte.
 * In fact this position gave Laplace much work in writing reports on the cadets that he examined but the rewards were that he became well known to the ministers of the government and others in positions of power in France.
-* Laplace served on many of the committees of the Académie des Sciences, for example Lagrange wrote to him in 1782 saying that work on his Traité de mécanique analytique was almost complete and a committee of the Académie des Sciences comprising of Laplace, Cousin, Legendre and Condorcet was set up to decide on publication.
 * Laplace served on a committee set up to investigate the largest hospital in Paris and he used his expertise in probability to compare mortality rates at the hospital with those of other hospitals in France and elsewhere.
 * Laplace was promoted to a senior position in the Académie des Sciences in 1785.
 * Two years later Lagrange left Berlin to join Laplace as a member of the Académie des Sciences in Paris.
-* Laplace married on 15 May 1788.
 * His wife, Marie-Charlotte de Courty de Romanges, was 20 years younger than the 39 year old Laplace.
 * Laplace was made a member of the committee of the Académie des Sciences to standardise weights and measures in May 1790.
-* Before the 1793 Reign of Terror Laplace together with his wife and two children left Paris and lived 50 km southeast of Paris.
 * Although Laplace managed to avoid the fate of some of his colleagues during the Revolution, such as Lavoisier who was guillotined in May 1794 while Laplace was out of Paris, he did have some difficult times.
 * Laplace knew well that the proposed scheme did not really work because the length of the proposed year did not fit with the astronomical data.
 * In 1795 the École Normale was founded with the aim of training school teachers and Laplace taught courses there including one on probability which he gave in 1795.
@@ -92,9 +87,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Many of Laplace's other physical theories were attacked, for instance his caloric theory of heat was at odds with the work of Petit and of Fourier.
 * However, Laplace did not concede that his physical theories were wrong and kept his belief in fluids of heat and light, writing papers on these topics when over 70 years of age.
 * At the time that his influence was decreasing, personal tragedy struck Laplace.
-* The child, however, survived and it is through her that there are descendants of Laplace.
-* Laplace's son, Charles-Émile, lived to the age of 85 but had no children.
-* Laplace had always changed his views with the changing political events of the time, modifying his opinions to fit in with the frequent political changes which were typical of this period.
 * In 1814 Laplace supported the restoration of the Bourbon monarchy and cast his vote in the Senate against Napoleon.
 * On the morning of Monday 5 March 1827 Laplace died.
 * Surprisingly there was no quick decision to fill the place left vacant on his death and the decision of the French Academy of Sciences in October 1827 not to fill the vacant place for another 6 months did not result in an appointment at that stage, some further months elapsing before Puissant was elected as Laplace's successor.

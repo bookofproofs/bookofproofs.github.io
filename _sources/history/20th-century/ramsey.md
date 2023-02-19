@@ -24,13 +24,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Arthur Ramsey was President of Magdalene College, Cambridge, and a tutor in mathematics there.
-* Frank was the oldest of his parents four children.
-* He had one brother and two sisters and his brother Michael Ramsey went on to become Archbishop of Canterbury.
 * Ramsey entered Winchester College in 1915 and from there he won a scholarship to Trinity College, Cambridge.
 * At Cambridge, Ramsey became a senior scholar in 1921 and graduated as a Wrangler in the Mathematical Tripos of 1923.
 * After graduating, Ramsey went to Vienna for a short while, returning to Cambridge where he was elected a fellow of King's College Cambridge in 1924.
 * It is worth noting that this was a most unusual occurrence, and in fact Ramsey was only the second person ever to be elected to a fellowship at King's College, not having previously studied at King's.
-* In 1925 Ramsey married Lettice C Baker and they had two daughters.
 * It was a short career, for sadly Ramsey died at the beginning of 1930.
 * Although Ramsey was a lecturer in mathematics, he produced work in a remarkable range of topics over a short period.
 * As well as starting up the new area of mathematics now called 'Ramsey theory', which we say more about below, he wrote on the foundations of mathematics, economics and philosophy.

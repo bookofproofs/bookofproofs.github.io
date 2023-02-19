@@ -23,11 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Richard Feynman** was a Nobel prize winner famous for his unusual life style and for his popular books and lectures on mathematics and physics.
 
 ### Mathematical Profile (Excerpt):
-* After their marriage Lucille and Melville Feynman moved into a Manhattan apartment and, in the following year, their first child Richard was born.
-* Melville wanted his first child to be a son and he also wanted him to become a scientist so, overjoyed when he got the son he wanted, he did all he could to interest Richard in science throughout his childhood.
-* Tragedy struck the family when Richard was five years old for Lucille and Melville had a second son who died when four weeks old.
 * It meant that a sadness fell over the household which must have greatly affected the young Richard.
-* The family moved several times during these years but when Richard was ten they settled in Far Rockaway.
 * Richard, or Ritty as his friends called him, learnt a great deal of science from Encyclopaedia Britannica and taught himself elementary mathematics before he encountered it at school.
 * At school Feynman approached mathematics in a highly unconventional way.
 * His mathematics lecturers presented him with the view that one did mathematics for its own sake so Feynman changed courses, taking electrical engineering.
@@ -46,9 +42,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Feynman began work on the Manhattan project at Princeton developing a theory of how to separate Uranium 235 from Uranium 238, while his thesis supervisor Wheeler went to Chicago to work with Fermi on the first nuclear reactor.
 * Wigner, in Wheeler's absence, advised Feynman to write up his thesis and after Wheeler and Wigner examined the work he received his doctorate in June 1942.
 * Feynman had a difficult personal problem at this time.
-* Shortly after he was awarded his doctorate Feynman married Arlene with no family members present.
 * Shortly after his marriage Feynman went to the newly constructed Los Alamos site to work on the atomic bomb project.
-* Feynman would marry twice more and have two children with his third wife.
 * In 1950 Feynman accepted a position as professor of theoretical physics at the California Institute of Technology.
 * He remained at Cal tech for the rest of his career, being appointed Richard Chace Tolman Professor of Theoretical Physics there in 1959.
 * Feynman's main contribution was to quantum mechanics, following on from the work of his doctoral thesis.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alessandro Padoa**  was an Italian mathematician and logician.
 
 ### Mathematical Profile (Excerpt):
-* The family was Jewish and Alessandro was brought up in the Jewish faith.
 * He was greatly influenced by Peano who was to direct Padoa's research.
 * Padoa was awarded a mathematics degree from the University of Turin on 26 November 1895 and he continued to study at Turin for his Diploma in Mathematical Education which was necessary for him to become a high school teacher.
 * After graduating, Padoa became a secondary school teacher of mathematics following the advice of Enrico D'Ovidio, teaching first at the high school in Pinerolo as well as at the Technical Institute "Michele Buniva" in that city where he acted as a substitute for Carlo Vercesi.
@@ -43,8 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Padoa was also a well-respected contributor of papers on the teaching of elementary mathematics and on mathematical education.
 * Padoa was invited by Guido Castelnuovo to participate in the International Commission on Mathematical Instruction founded at the International Congress of Mathematicians at Rome in 1908.
 * In 1934 Padoa was awarded the mathematics prize of the Accademia dei Lincei and in the following year he was presented with a prize by the Royal Academy of Italy.
-* Finally we note that Padoa married Elisabetta Padoa (born at Bologna on 30 August 1870), the daughter of Felice Padoa and Ginevra Vivanti: they had three children, Baldo (born at Turin on 13 December 1893), Gino (born at Pinerolo on 8 February 1898) and Giovanna (born at Bologna on 14 October 1901).
-* Padoa was a man of broad cultural interests including art, poetry and politics.
 
 Born 14 October 1868, Venice, Italy. Died 25 November 1937, Genoa, Italy.
 

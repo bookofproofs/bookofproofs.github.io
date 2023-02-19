@@ -24,11 +24,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Mu-Han Hsiung received a good education at the Advanced School in Nanchang and there he studied mathematics from English textbooks.
-* Mu-Han Hsiung married Tu Shih and they had four sons and a daughter who was the youngest in the family.
 * Chuan-Chih was the third of the four sons.
 * The second of Mu-Han and Tu Shih's sons, C Y Hsiung, also went on the become a professor of mathematics writing books such as Elementary theory of numbers (1992).
-* Chuan-Chih's family moved from Shefong to Nanchang when he was three years old.
-* Chuan-Chih was taught mathematics by his father who gave him a great love of the subject.
 * In this Hsiung expresses certain invariants of curves in a space of four dimensions found by Buchin Su, and published by him in 1937, in terms of double ratios of covariant points.
 * Guy Grove not only reviewed this paper but also Hsiung's papers Sopra il contatto di due curve piane (1940), The canonical lines (1941), A graphical construction of the sphere osculating a space curve (1941), On the curvature form and the projective curvatures of a space curve (1942), Asymptotic ruled surfaces (1943), Projective differential geometry of a pair of plane curves (1943), Theory of intersection of two plane curves (1943), An invariant of intersection of two surfaces (1943), and Projective invariants of a pair of surfaces (1943).
 * Grove was very impressed with Hsiung's mathematics and tried to arrange for him to come to Michigan State University to study for a doctorate.

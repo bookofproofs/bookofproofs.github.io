@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Poland did not formally exist at the time of Dickstein's birth and much of the pattern of his life was dominated by the aim of Poles to restore their country.
 * In 1846, three years before Dickstein was born, there was an attempted revolution by Polish nationalists.
-* During the following years when Dickstein was a young child Poles sought independence but were kept down by armed force.
 * Some reforms were put in place in the Russian areas of Poland (which included Warsaw where Dickstein lived) but these only seemed to invoke anger among young patriotic Poles.
 * For a year Dickstein, a youth aged 12, saw the Polish uprising being crushed.
 * The victorious Russian occupiers then carried out executions, confiscations, and deportations, and one can only imagine how a young man like Dickstein might have felt knowing that Poles could not hope to rule their own country again in the foreseeable future.
@@ -41,7 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Dickstein's work was mostly in algebra and the history of mathematics.
 * Ulam, at age 23, met Dickstein, who was then in his eighties, at the International Mathematical Congress in Zürich in 1932.
 * Dickstein's teacher had been a student of Cauchy in the early nineteenth century, and he still considered Poincaré, who died in 1912, a bright young man.
-* Dickstein died in the Nazi bombing of Warsaw in 1939 and all his family died during the German occupation of Poland.
 
 Born 12 May 1851, Warsaw, Russian Empire (now Poland). Died 29 September 1939, Warsaw, Poland.
 

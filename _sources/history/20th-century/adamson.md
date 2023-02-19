@@ -23,10 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Iain Adamson** was a Scottish mathematician who worked in algebra and published several widely appreciated text-books.
 
 ### Mathematical Profile (Excerpt):
-* Iain's mother, Margaret, died shortly after he was born at the age of twenty-five (she was born in 1903), and Iain was brought up in Dundee by his father and his father's sisters.
 * Iain's secondary education was at Morgan Academy in Dundee and, in 1945, he graduated as Dux of the Academy.
 * After graduating from the University of St Andrews, Adamson went to Princeton University in the United States where he undertook research in algebra supervised by Emil Artin.
-* Iain married Robin in Dundee in 1967; their daughter Margaret was born in 1969.
 * Also in 1967, Queen's College became the new University of Dundee and Iain automatically changed from being employed by the University of St Andrews to being a lecturer in the University of Dundee.
 * We will look at other aspects of Adamson's life later in this biography, but first we want to look at his greatest mathematical contribution which was as a writer of textbooks.
 * Adamson's first textbook was Introduction to field theory (1964).

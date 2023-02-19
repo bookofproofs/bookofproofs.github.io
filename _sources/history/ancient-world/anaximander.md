@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * We should emphasise that Apollodorus, although writing in the second century BC, was still 500 years later than Anaximander while Diogenes wrote almost 500 years after Apollodorus.
-* Possible details of Anaximander from these sources suggest that he was the son of Praxiades and a pupil of Thales.
-* One ancient text states that Thales was related to Anaximander - possibly his uncle.
 * None of Anaximander's writings survive but we do know something about his works which were still available to Aristotle and Apollodorus.
 * One should not come away with the impression that this makes his ideas plausible in light of modern knowledge, but nevertheless the attempt to bring scientific and mathematical principles into areas which had been largely the domain of mysticism until that time must mean that Anaximander plays an important role in the development of science.
 * Anaximander believed that the earth was a cylinder.

@@ -23,17 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Adrien Auzout ** was a French astronomer who improved measuring instruments.
 
 ### Mathematical Profile (Excerpt):
-* Adrien and Jeanne were married in 1618 and they had seven children.
-* Adrien, the subject of this biography, was the eldest of the children, having three younger brothers and three younger sisters.
 * Adrien Auzout Senior was an administrator in the Rouen law courts.
-* Adrien, the subject of this biography, grew up in Rouen in a difficult period; the government had imposed very high taxes to pay for the Thirty Years War and epidemics of the bubonic plague swept the area in the 1620s and 1630s.
-* Adrien Auzout was fortunate to be the eldest of the children, for the family finances would not have stretched to educating the younger children.
 * He was able to study at the Jesuit College in Rouen and, although there is no record of Auzout knowing Blaise Pascal around 1640, both must have attended the Rouen Jesuit College at this time, so probably did know each other.
 * Some sources claim that Auzout and Pascal collaborated after Pascal settled in Rouen in 1639.
 * Certainly Auzout was present when Pascal gave public demonstrations in Rouen of variations on Torricelli's experiments inverting a column of mercury in a tube and observing the space above it which he correctly claimed must be a vacuum.
-* Auzout's father expected his eldest son to follow the family tradition, which certainly stretched back at least two generations, and become an administrator in the law courts.
 * It was not to be for Auzout had other ideas about his future.
-* When his father died in 1652, Auzout inherited some money but, given the financial state of the family, it would not have been a lot.
 * By these and perhaps other means Auzout evidently made enough money to survive in Paris, even if he was not necessarily a wealthy man.
 * We do have a couple of pieces of information concerning people for whom Auzout undertook work.
 * Auzout's interest in mathematics led to him arguing that a treatise on the quadrature of the circle was in error.

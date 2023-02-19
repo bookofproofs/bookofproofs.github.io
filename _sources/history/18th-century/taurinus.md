@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Franz Taurinus** was a German mathematician best known for his work on non-Euclidean geometry.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Luise Juliane Schweikart who had a younger brother F K Schweikart, only fourteen years of age when Taurinus was born.
-* F K Schweikart went on to become professor of law at the University of Königsberg and it is fair to say that Taurinus's uncle Schweikart played a major role in influencing his ideas and academic achievements.
-* Following his uncle's academic discipline, Taurinus studied law at Heidelberg, Giessen and Göttingen.
-* Taurinus not only corresponded on mathematical topics with his uncle but he also corresponded with Gauss about his ideas on geometry.
 * At first Taurinus tried to prove that Euclidean geometry was the only geometry but, in 1826, he accepted the lack of contradiction in other geometries.
 * In this last mentioned publication Taurinus accepts that a third system of geometry exists in which the sum of the angles of a triangle is less than 180q .
 * Taurinus came up with the important idea that elliptic geometry could be realised on the surface of a sphere, an idea taken up by Riemann.

@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alfred Young** was an English mathematician who worked in group theory. Both _Young diagrams_ and _Young tableaux_ are named after him.
 
 ### Mathematical Profile (Excerpt):
-* Alfred was the first son of his father's second marriage.
-* In 1879, when Alfred was six years old, the family moved from Lancashire to Bournemouth.
 * After being educated at home with a private tutor, who also taught the sons of Edward Young's first marriage, Alfred went to Monkton Combe school near Bath.
 * It was at this school that the extent of Alfred's talents in mathematics were recognised.
 * Entering Clare College in 1892, Young combined sporting and academic interests.
@@ -47,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1934 Young realised the significance of the sequence in which the standard tableau can be written and the following year he again related his work to that of Frobenius and Schur.
 * We should not give the impression that Young only contributed to group representations.
 * Among the honours that Young received for his mathematical contributions we should mention that in 1931 he was awarded an honorary degree from the University of St Andrews and in 1934 he was elected a Fellow of the Royal Society of London.
-* Young's wife Edith gave details of his death.
 
 Born 16 April 1873, Widnes, Lancashire, England. Died 15 December 1940, Birdbrook, Essex, England.
 

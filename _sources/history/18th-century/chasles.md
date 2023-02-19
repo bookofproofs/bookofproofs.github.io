@@ -24,15 +24,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Epernon, the town where Chasles was born, is in the region of Chartres lying about one third of the way from the town of Chartres to Paris.
-* Chasles was born into a fairly well off Catholic family.
 * In fact  Chasles was christened Floréal Chasles by his parents after the month of the Republican calendar.
 * This calendar fell out of use and a court order was obtained to change his name from Floréal to Michel a few days after his sixteenth birthday.
 * Chasles attended the Lycée Impérial for his secondary education.
 * Chasles was called up to take part in the defence of Paris in early 1814.
 * Chasles was able to return to his studies at the École Polytechnique.
 * Having obtained a place in the engineering corps, Chasles decided not to accept it but to give his place to one of his fellow students who was in financial difficulties.
-* At this point Chasles returned to living at home but his father insisted that he join a firm of stockbrokers in Paris.
-* This was not the occupation for Chasles but he obeyed his father's wishes and went to join the firm in Paris to learn the trade of a stockbroker.
 * However, Chasles was interested in history and in mathematics and he was not successful as a trainee in the firm.
 * In 1837 Chasles published his first major work Aperçu historique sur l'origine et le développement des méthodes en géométrie Ⓣ(Historical overview of the origin and development of methods in geometry) which quickly made his reputation as both a mathematician and as an historian of mathematics.
 * In Aperçu historique Ⓣ(Historical overview)  Chasles studied the method of reciprocal polars as an application of the principle of duality in projective geometry; in the same way the principle of homography leads to a great number of properties of quadric surfaces.

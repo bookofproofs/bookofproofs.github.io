@@ -27,9 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His son, Felix Junior, also attended the Herderschule in Berlin, showing exceptional talents not only for mathematics but also creative writing.
 * Behrend studied number theory for his doctorate at the University of Berlin with Erhard Schmidt as his advisor.
 * Of course 1933, the year that Behrend was awarded his doctorate, was also the year that Hitler came to power in Germany.
-* We have not mentioned earlier that the Behrend family were Jewish since it had not seemed particularly significant prior to 1933.
-* This did not affect Behrend directly since he was not in employment at this time, but it quickly affected the family.
-* Behrend's father was, by this time, headmaster of a leading Berlin school and he was first demoted and later dismissed from his post.
 * After the award of his doctorate Behrend decided to leave Germany and continue his studies away from Nazi influence.
 * After his release in 1942, Behrend was appointed as a tutor at the University of Melbourne.
 * Behrend was promoted to lecturer in the Mathematics Department of the University of Melbourne in 1943, then to senior lecturer in 1948, and finally to associate professor 1954-62.

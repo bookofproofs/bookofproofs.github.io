@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Ibrahim's most important work was on the quadrature of the parabola where he introduced a method of integration more general than that of Archimedes.
-* His grandfather Thabit ibn Qurra had started to view integration in a different way to Archimedes but Ibrahim realised that al-Mahani had made improvements on what his father had achieved.
 * Ibrahim is also considered the foremost Arab mathematician to treat mathematical philosophy.
 * We know of Ibrahim's works through his own work Letter on the description of the notions Ibrahim derived in geometry and astronomy in which Ibrahim lists his own works.
 * For example Ibrahim uses an arithmetical term to denote the product of two geometrical lines.

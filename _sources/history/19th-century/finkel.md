@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Benjamin Franklin Finkel** was a mathematician and educator most remembered today as the founder of the _American Mathematical Monthly_ journal.
 
 ### Mathematical Profile (Excerpt):
-* John Philip Finkel had been born in Frederick, Maryland, into a family that had emigrated from England around the middle of the 18th  century.
-* After her first husband died, Louisa Kibler married John Philip Finkel.
-* Benjamin was the second of his parents' five children, having an older sister Elizabeth Ann (1863-1950) and three younger siblings; Emanuel, John P (who both died as infants) and Theresa (1871-1945).
 * Finkel had not given up his university studies, rather he was having to undertake work as a high school teacher to bring in enough money to allow him to continue studying.
 * It is worth stating at this point the two things for which Finkel is most famous.
 * Taken from the Leading Authors on Arithmetic and Algebra, Many Problems and Solutions from Geometry, Trigonometry and Calculus, Many Problems and Solutions from the Leading Mathematical Journals of the United States, and Many Original Problems and Solutions with Notes and Explanations by B F Finkel.

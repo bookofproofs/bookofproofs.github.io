@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ingrid Daubechies** is a Belgium mathematician and physicist who has done important work on wavelets in image compression. She is on the Board of Enhancing Diversity in Graduate Education, an organisation which helps women get advanced degrees in mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Ingrid's father encouraged her to take an interest in science while she was studying at school.
 * After her school education in Belgium, Daubechies entered the Free University Brussels to read for a degree in physics.
 * Daubechies, however, is one of the few who progressed in the opposite direction, starting off by training in physics.
 * From the time that she was awarded a Bachelor's degree, Daubechies became a Research Assistant in the Department for Theoretical Physics at the Free University Brussels.

@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@J-V-Field,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Although today he is always known as Piero della Francesca, he would have been known in his lifetime as Piero di Benedetto de' Franceschi.
 * As these arguments illustrate, there is no definite evidence when Piero was born, sources giving dates between 1406 and 1422.
-* We know little of Piero's early years but, given the wealth and status of his father (who owned agricultural land, vineyards, urban properties and a fine family home), it is clear that he would have attended school in San Sepolcro.
 * Details of Piero's schooling remain conjecture, but we can deduce something of its nature from the skills he displayed as an adult.
 * Also it is clear that Piero's Italian writing lacked style, and was rather simple and elementary.
 * This suggests that Piero did not spend that long at school and it confirms his lack of Latin since those who could write fluent Latin developed a style when writing Italian that reflected Latin structure.
@@ -35,12 +34,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@J-V-Field,bookofproofs
 * The key seems to be that Piero continued to learn throughout his life.
 * One has the impression that Piero retained everything - the saints' legends read in school, the mathematics of abbaco school, his creative explorations into ancient geometry - and that all his learning enriched his painting.
 * Documents Banker has found show that Piero worked as the assistant of Antonio d'Anghiari in the 1430s.
-* Piero's father Benedetto was witness to the payment.
 * In June of the following year Benedetto received payment for Piero's work "painting the poles of the candles".
 * Benedetto received further payments for work carried out by Piero over the following years during which he was clearly working as an assistant to Antonio.
 * The fact that Piero is described as a "painter" in this document indicates that Piero was not an apprentice by this time but rather an assistant.
 * The real problem is that, fascinating as all the evidence about Piero's youth is, whatever dates are proposed, there always seems to remain some difficulties.
-* The documents show that Piero's father continued to receive payments for work undertaken by Piero, working with Antonio d'Anghiari, in 1435, 1436, and 1437, in particular for painting banners for the Church.
 * A document dated 8 January 1438, again signed by Benedetto, ends Piero's association with Antonio acknowledging that payment has been received for Piero's work on three separate churches and chapels in and around Borgo San Sepolcro.
 * His labour in the artisan culture remained formative in Piero's life and art, not withstanding his great later achievements in painting, mathematics, and geometry that required access to and participation in an elite culture.
 * Piero left Borgo San Sepolcro and went to Florence where, in 1439, he was assisting Domenico Veneziano in painting the chapel of Santa Egidio, in Santa Maria Novella.
@@ -63,7 +60,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@J-V-Field,bookofproofs
 * Piero produced other remarkable paintings, including the Resurrection painted in Borgo San Sepolcro around 1563.
 * Federico was blind in his right eye so Piero shows him in profile so as not to give offence.
 * Piero spent the last years of his life in his home town, becoming prior of the Confraternita di San Bartolomeo in 1480.
-* Finally we note that no evidence exists that Piero ever married.
 * We now give a description, contributed by J V Field, of Piero's mathematical works.
 * Piero almost certainly wrote all three works in the vernacular (his native dialect was Tuscan), and all three are in the style associated with the tradition of 'practical mathematics', that is, they consist largely of series of worked examples, with rather little discursive text.
 * (All these modern names are due to Johannes Kepler (1619).) Piero appears to have been the independent re-discoverer of these six solids.

@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Simplicius informs us that a biography of Eudemus was written by Damas, who is unknown but for this reference, but sadly no trace of this biography has been found.
-* Eudemus was born on Rhodes and we know that he had a brother called Boethus.
 * Aristotle spent time in Athens, Assos and other places and it would certainly be good to understand when Eudemus studied with him.
 * Aristotle had two followers, Eudemus and Theophrastus of Lesbos, who were known as his "companions".
 * We should make it clear, however, that there was another philosopher called Eudemus associated with Aristotle, namely Eudemus of Cyprus and it was this other Eudemus after whom Aristotle named his famous text Eudemus.

@@ -24,12 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * We should record right at the beginning of this article at Wright later dropped his middle name so was known simply as Sewall Wright.
-* Philip Wright was an economist and in 1892 he moved with his family to Galesburg, Illinois, to join the faculty at Lombard College where he taught mathematics, astronomy, surveying, and English composition in addition to economics.
-* Sewall had two brothers Quincy Wright and Theodore Paul Wright; they were all gifted children.
 * Wright had already some experience in such research having studied at the Carnegie Institution of Washington Station for Experimental Evolution at Cold Spring Harbor during the summers of 1911 and 1912.
 * Ernest William Castle visited the University of Illinois in Wright's final year and after, interviewing Wright, offered him an assistantship at Harvard's Bussey Institution.
 * For ten years, from 1915 to 1925, Wright worked for the United States Department of Agriculture.
-* He married Louise Lane Williams, a genetics teacher at Smith College, in 1921; they had three children, Richard Wright, Robert Wright, and Elizabeth Quincy Wright.
 * Wright took up a post at the University of Chicago in 1926 which he held until he retired in 1955.
 * Wright is famed for his work on evolution, in particular in the use of statistical techniques in the subject.
 * Another paper by Wright which shows his mathematical approach to the subject is The differential equation of the distribution of gene frequencies  which he published in 1945.

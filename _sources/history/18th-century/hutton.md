@@ -26,15 +26,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Charles, the youngest of his parents sons, was born in Percy Street, Newcastle-on-Tyne.
 * Charles suffered an unfortunate injury when he was seven years old.
 * Had young Charles told his parents immediately it is probable that doctors could have done enough to allow it to heal over time.
-* Without this injury it is almost certain that Charles would have followed in his brothers footsteps and, like his father and his stepfather, would have gone to work at the colliery.
 * Mr Ivison, a clergyman of the English Church; and on Mr Ivison's removal to a curacy in the county of Durham, Mr Hutton succeeded him in his school at Jesmond.
 * In fact Hutton did work for a short time at Old Long Benton colliery between the time Mr Ivison left the school and when Hutton succeeded him.
 * At this stage Hutton began studying mathematics at evening classes at Mr James' school in Newcastle.
 * In 1760 Hutton opened the Mathematical School in Newcastle but he also taught at the main secondary school in the city.
 * On the other hand these "higher class" people benefited greatly from the high quality of teaching that Hutton provided.
-* One such was Robert Shafto, whose children were taught by Hutton, who not only gave Hutton access to his extensive library but also persuaded him to begin publishing texts.
 * Hutton had some pupils who went on to become more famous than their schoolmaster.
-* Another of Hutton's pupils was Elizabeth Surtees, from an important family of wealthy bankers in Newcastle, who later became John Scott's wife.
 * Encouraged by Shafto, Hutton published his first textbook The Schoolmaster's Guide, or a Complete System of Practical Arithmetic at Newcastle in 1764 which he dedicated to Robert Shafto.
 * The next textbook which Hutton published, again at Newcastle, was A Treatise on Mensuration.
 * Thomas Bewick, born in 1753, was an apprentice in Newcastle when he undertook the illustrations in Hutton's A Treatise on Mensuration (1767-1770).
@@ -54,7 +51,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This academy opened on 4 July 1802 and Hutton's book was immediately adopted for the first intake of cadets, remaining the standard text at the Academy until 1823.
 * Hutton retired from his professorship at Woolwich in 1807 at the age of seventy on a pension of £500 per year and went to live in Bedford Row, London.
 * Construction of the bridge began in 1824, the year after Hutton's death.
-* Hutton was buried in the family vault at Charlton in Kent.
 
 Born 14 August 1737, Newcastle-upon-Tyne, England. Died 27 January 1823, London, England.
 

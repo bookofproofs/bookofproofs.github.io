@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Geoffrey Walker** studied at Oxford and Edinburgh. He taught at Imperial College London, Liverpool and Sheffield before returning to Liverpool as Professor of Pure Mathematics. He worked on Differential Geometry, Relativity and Cosmology.
 
 ### Mathematical Profile (Excerpt):
-* Geoffrey Walker had an older brother Henry Brian Walker who was born about 1907 and died in Hendon, Middlesex in 1968.
 * Geoffrey Walker attended Watford Grammar School and from there, having won a mathematics scholarship in his final year, he entered Balliol College, Oxford.
 * After submitting his Ph.D. thesis to Edinburgh, Walker was examined by Eddington.
 * In 1952, after five years in Sheffield, Walker was to return to Liverpool University, this time as Professor of Pure Mathematics.

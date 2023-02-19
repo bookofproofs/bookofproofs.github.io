@@ -24,15 +24,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * We note that he is also known as Pierre Sergescu.
-* His father, Constantin Sergescu, was born in Curtea de Arges in 1861 and studied at the Veterinary School of Medicine, graduating in 1889.
-* Petre was the eldest of his parents' three children having a younger brother and a sister.
-* Petre's mother put much effort into helping him with reading so that he could overcome the problems with his sight.
 * Petre attended primary and secondary schools in Turnu-Severin.
 * At this school, Sergescu showed himself to be a talented pupil with particular skills in mathematics, philosophy and music.
 * In 1912 he won one of the competitions run by the Gazeta Matematica and this led to Gheorghe Țițeica realising that Sergescu was a young man with great potential in mathematics.
 * Petre Sergescu began his studies in the Mathematics section of the University of Bucharest in 1912.
 * However, Sergescu had interests outside mathematics and he kept these active by attending, in the same period, courses in the Faculty of Philosophy and in the Conservatory of Music of Bucharest.
-* As a musician Sergescu played the violin to a very high standard and had a very fine tenor voice.
 * Sergescu enlisted as a cadet in the engineering corps.
 * In early 1917 Sergescu was taken prisoner by the Germans and, after being held in a number of different camps, was sent to a prisoner-of-war camp at Plovdiv in Bulgaria where he was held for 18 months.
 * Sergescu was awarded a fellowship to study in Paris and, in 1919, he left Romania and travelled to France.
@@ -46,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We should note that Sergescu generously supported these two conferences with large donations of money from his own pocket.
 * In fact the Faculty of Sciences was moved to Timisoara, where Sergescu became an active member of the Mathematical Seminar.
 * In 1943 Sergescu moved to the Technical University of Bucharest where he served as rector of the university in 1945-46.
-* Because of the Communist regime, he was forced to leave Romania and from August 1948, Sergescu and his wife Marya Kasterska lived in Paris.
 * Sergescu published more than 160 scientific papers and took part to numerous international congresses and conferences.
 * Sergescu began to publish papers on the topic such as The history of the numerical calculus (Romanian) (1933), Les sciences mathématiques en France Ⓣ(Mathematical sciences in France) (1933) and Histoire des sciences mathématiques et physiques en Roumaine Ⓣ(History of Mathematics and Physical Sciences in Romania) (1934).
 * At the Fifth International Congress held at Lausanne in September-October 1947, Sergescu was appointed general secretary of the International Academy of the History of Sciences and of the International Union for the History of Sciences.

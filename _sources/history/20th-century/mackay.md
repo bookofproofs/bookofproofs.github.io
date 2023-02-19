@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James Mackay** is a Scottish mathematician and lawyer. As Lord Mackay of Clashfern he served 10 years as Lord Chancellor.
 
 ### Mathematical Profile (Excerpt):
-* Later in his life Mackay spoke of the important role his father played showing great courtesy and gentleness.
-* James' mother was Janet Hymers.
 * Mackay attended George Heriot's School in Edinburgh and then entered the University of Edinburgh where he studied mathematics and natural philosophy (as physics was known in the university at that time).
 * At this stage, rather than take up the scholarship in Cambridge, Mackay took a lectureship in the Mathematics Department of the University of St Andrews.
 * The classes at this time were small, and in 1948-49 Mackay taught a final year honours class of six mathematics students (one of whom went on to become a university lecturer researching in algebra).
 * After these two years teaching mathematics at St Andrews, Mackay went to Trinity College, Cambridge to take up the scholarship he had been awarded to study mathematics there.
-* In 1958 Mackay married Elizabeth Gunn Hymers; they had three children, a son James born in 1958, and two daughters Elizabeth Janet born in 1961 and Shona Ruth born in 1968.
 * In 1965 Mackay was appointed Queen's Counsel and he was Sheriff Principal, Renfrew and Argyll, from 1972 to 1974.
 * In 1979, Mackay was appointed Lord Advocate, the senior law officer in Scotland, and was created a life peer becoming Baron Mackay of Clashfern, of Eddracchillis in Sutherland.
 * Mackay was Lord Advocate until 1984 when he became a Senator of the College of Justice in Scotland for 1984-85, then Lord of Appeal in Ordinary until 1987.

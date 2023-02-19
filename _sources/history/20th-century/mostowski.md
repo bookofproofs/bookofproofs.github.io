@@ -23,12 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Andrzej Mostowski** was a Polish mathematician who worked on logic and the foundations of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Sadly, however, Stanisław died in the year after his son Andrzej was born.
 * Mostowski entered the Stefan Batory Gymnasium in Warsaw in 1923.
 * Mostowski's illness while at high school prevented him serving in the army and he became an accountant after the German invasion of Poland which began on 1 September 1939.
-* One of the students who took the risk was Maria Matuszewska; she married Mostowski in September 1944.
 * Mostowski hoped to habilitate at the Underground University and was close to achieving this in July 1944 when events intervened.
-* During this time Mostowski married Maria Matuszewska.
 * Mostowski had no job so he tried to make a little money by giving private lessons.
 * Things improved shortly after the war ended and Mostowski went to Cracow where he worked for a few months at the Silesian Polytechnic, then for a few months at the Jagellonian University.
 * The Fraenkel-Mostowski permutation method and its application to proving the independence of the well-ordering principle from the linear-ordering principle in the theory of sets with atoms (urelements).

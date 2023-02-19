@@ -23,19 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gotthold Eisenstein** worked on a variety of topics including quadratic and cubic forms, the reciprocity theorem for cubic residues, quadratic partition of prime numbers and reciprocity laws.
 
 ### Mathematical Profile (Excerpt):
-* The family was Jewish but before Gotthold, who was their first child, was born they had converted from Judaism to become Protestants.
-* Their family were not well off, for Johan Eisenstein, after serving in the Prussian army for eight years, found it hard to adjust to a steady job in civilian life.
-* Eisenstein suffered all his life from bad health but at least he survived childhood which none of his five brothers and sisters succeeded in doing.
 * All of them died of meningitis, and Gotthold himself also contracted the disease but he survived it.
-* His mother, Helene Eisenstein, had a major role in her son's early education.
 * This school adopted an almost military style of discipline and a strict formal approach to education which did nothing for Eisenstein's creative nature.
 * In 1837, when he was fourteen years old, Eisenstein entered the Friedrich Wilhelm Gymnasium then moved to the Friedrich Werder Gymnasium in Berlin to complete his schooling.
 * Eisenstein remained at school in Berlin becoming more and more devoted to mathematics.
-* The family tried spending time in Wales and Ireland but Eisenstein's father could not find the right job to give him satisfaction and financial security.
 * As they moved from place to place Eisenstein read Disquisitiones arithmeticae Ⓣ(Investigations in arithmetic) and played the piano whenever it was possible.
 * While in Ireland in 1843 Eisenstein met Hamilton in Dublin, a city he would have dearly liked to have settled in, and Hamilton gave him a copy of a paper that he had written on Abel's work on the impossibility of solving quintic equations.
 * This further stimulated Eisenstein to begin research in mathematics.
-* In June 1843 Eisenstein returned to Germany with his mother who separated from his father at this time.
 * Eisenstein applied to take his final school examinations and was allowed to do so in August/September.
 * Eisenstein enrolled at the University of Berlin in the autumn of 1843 and in January 1844 he delivered Hamilton's paper to the Berlin Academy.
 * Crelle was appointed as referee for Eisenstein's paper and, with his usual intuition for spotting young mathematical talent, Crelle immediately realised that here was a potential genius.
@@ -53,10 +47,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * From 1846 to 1847 Eisenstein worked on elliptic functions and in the first of these years he was involved in a priority dispute with Jacobi.
 * In 1847 Eisenstein received his habilitation from the University of Berlin and began to lecture.
 * Riemann attended lectures that he gave on elliptic functions in that year and we comment below on possible interaction between Riemann and Eisenstein at this time.
-* Eisenstein attended some pro-democracy meetings but did not play any active political role.
 * However, on 19 March 1848, during street fighting in Berlin shots were fired on the King's troops from a house which Eisenstein was in (although it was not his own house) and he was arrested.
 * Despite his health problems Eisenstein published one treatise after another on quadratic partition of prime numbers and reciprocity laws.
-* He was receiving many honours, for example Gauss proposed Eisenstein for election to the Göttingen Academy and he was elected in 1851.
 * Early in 1852, at Dirichlet's request, Eisenstein was elected to the Berlin Academy.
 * Eisenstein died of pulmonary tuberculosis at the age of 29.
 * His great supporter Alexander von Humboldt, by that time 83 years of age, followed Eisenstein's coffin at the cemetery.
@@ -64,6 +56,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * There are three major areas of mathematics to which Eisenstein contributed and we have already mentioned them above.
 * In his work on this topic Eisenstein used Kummer's theory of ideals.
 * The third topic to which Eisenstein made a major contribution was the theory of elliptic functions.
+* particularly concerning the transformation theory of theta-functions ...were introduced by Eisenstein in the fundamental but seldom quoted "Beiträge zur Theorie der elliptischen Funktionen" Ⓣ(Contributions to the theory of elliptic functions) published in Crelle's Journal in 1847, which are based upon entirely original ideas ...
 * This book by Weil shows that Eisenstein's approach is of major importance to the mathematics which is being developed today, a great tribute to a genius who died 150 years ago.
 
 Born 16 April 1823, Berlin, Germany. Died 11 October 1852, Berlin, Germany.

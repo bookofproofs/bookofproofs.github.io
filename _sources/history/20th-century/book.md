@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Another early work by Book on languages was the paper On languages accepted in polynomial time which he published in 1972.
 * A survey of where the theory of formal languages stood in 1972 was presented by Book in Topics in formal language theory.
 * Book was appointed to Harvard and later he moved to Yale.
-* In one day this friendship was established not only between Ron and me but also between Ron and my wife, between Ron and each of my three children.
+* Ron indeed liked this place ...
 * In 1977 Book was appointed Professor of Mathematics at the University of California at Santa Barbara.
 * In the following year Book published When is a monoid a group?
 * He is to be lauded for carrying out his research on a broad front, maintaining an interest in several different research questions, developing his own thoughts and paying careful attention to the results of others.

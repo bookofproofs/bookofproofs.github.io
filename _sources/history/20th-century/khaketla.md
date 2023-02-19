@@ -4,7 +4,7 @@ categories: history,20th-century
 parentid: bookofproofs$604
 tags: african,origin-lesotho,women
 orderid: 1960
-title: Khaketla, &amp;#x27;Mamphono
+title: Khaketla, &amp;amp;#x27;Mamphono
 born: 1960
 died: 0
 keywords: 'mamphono khaketla,khaketla
@@ -27,12 +27,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Bennett Makalo Khaketla was born in Qacha's Nek, a mountainous region of what was then called Basutoland and is now known as Lesotho.
 * Caroline Ntseliseng 'Masechele Khaketla, originally Caroline Ramolahloane, was born in the Berea district of Lesotho.
 * She taught in Thabana Girls' School then went to Morija Training College where she met Bennett Makalo Khaketla.
-* They both taught at Basutoland High School in Morija but he was dismissed for political activities so they went to Nigel in South Africa where Khaketla was the principal of Charterson High School.
 * Bennett Makalo Khaketla published two novels, three plays and a collection of poems between 1945 and 1954.
 * Bennett Makalo Khaketla's book Lesotho 1970 detailed the alledged brutalities of Jonathan and the book was banned in Losotho.
-* The Khaketlas had six children, four sons and two daughters, the eldest being Sechele Khaketla who became a pianist.
-* Another brother Maieane Khaketla became an Anglican priest who, over the years, has been suspended and arrested.
-* 'Mamphono Khaketla attended her mother's 'Iketsetseng Private School' both for her primary and for her secondary education.
 * After the award of the Certificate, Khaketla entered the National University of Lesotho which is in Roma, about 35 km southeast of Maseru.
 * After the award of a Bachelor of Education in 1980 and the Diploma in Education in 1982, Khaketla went to the United States where she studied at the University of Wisconsin-Madison.
 * Both of these were three author works with, as well as Khaketla, Thomas A Romberg who was her thesis advisor and Linda Wilson.
@@ -45,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Mosisili now appointed Khaketla as the Minister of Education and Training, a position she held until 2012.
 * On 30 March 2015 Khaketla was appointed Minister of Finance and, in November 2015, she presided over the 102nd session of the African, Caribbean and Pacific Group of States Council of Ministers.
 * This collapse in the coalition was caused by problems which had Khaketla at its centre.
-* The political difficulties arose through accusations that Khaketla had used her position to demand a large bribe to ensure that the contract for the government's fleet was awarded to Lebelonyane Fleet Solutions Joint Venture.
 * The then finance minister Dr 'Mamphono Khaketla was accused of soliciting a M4 million bribe from the directors of Lebelonyane Fleet Services in exchange for a government fleet tender.
 * Dr Khaketla denied the allegation.
 * The Directorate on Corruption and Economic Offences insists Khaketla allegedly solicited a bribe in exchange for a government fleet tender.

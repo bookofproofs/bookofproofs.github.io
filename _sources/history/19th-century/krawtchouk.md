@@ -24,15 +24,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * The form used here "Krawtchouk" is the spelling used in the papers which he wrote in French.
-* His mother, born in Poland, was fluent in several European languages and taught Mikhail and his three siblings German, Polish, and French.
-* When Mikhail was nine years old, in 1901, the family moved to Lutsk, a city on the Styr River in northwest Ukraine.
 * Krawtchouk then studied at the St Vladimir University in Kyiv and obtained his first degree in 1914.
 * The First World War broke out shortly after Krawtchouk graduated and, because of problems at Kyiv University it was evacuated to Saratov.
 * Krawtchouk, however, chose to move to Moscow.
-* This, however, was a time of severe political problems with one disruption following another for Krawtchouk.
 * Bolshevik power was soon firmly established and Krawtchouk returned to Kyiv.
 * For two years Krawtchouk taught in a number of different institutions until the outbreak of the civil war.
-* Mikhail Filippovich and Esfira Iosifovna Krawtchouk had two children, a son Zhenya and a daughter Natasha.
 * During this stormy period Krawtchouk was headmaster at a country school not far from Kyiv.
 * It was in 1920 that Krawtchouk wrote his 96-page handwritten book Geometry for seven-year labour schools.
 * Krawtchouk's contacts with other mathematicians were extremely valuable, particularly those with Jacques Hadamard, David Hilbert, Richard Courant and Francesco Tricomi.

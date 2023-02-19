@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James MacCullagh** was an Irish mathematician who published on crystalline refraction and reflection.
 
 ### Mathematical Profile (Excerpt):
-* James began his education at the school in Castledamph and then the family moved to Strabane so that he could receive a good education.
 * At the age of fifteen MacCullagh entered Trinity College, Dublin.
 * Not long after failing the Fellowship examination MacCullagh submitted his first papers for publication.
 * Two years later MacCullagh tried again for a Fellowship but this time, after being told that his first answer to the first mathematics question was wrong he refused to answer any further questions.

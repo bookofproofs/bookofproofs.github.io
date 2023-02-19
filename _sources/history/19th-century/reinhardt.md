@@ -23,10 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Karl August Reinhardt** was a German mathematician who worked on various tiling problems He gave a partial solution to Hilbert's eighteenth problem.
 
 ### Mathematical Profile (Excerpt):
-* One of Karl's childhood friends was Wilhelm Süss; the two were almost exactly the same age and they remained friends throughout their lives.
 * Reinhardt attended school in Frankfurt am Main, studying at the Gymnasium there.
 * This caused severe disruption of Reinhardt's university education; he fought briefly in the war, served for a while as an assistant to David Hilbert at Göttingen, and spent some time teaching in secondary schools as part of his war service.
-* Hilbert, who hated nationalist emotions, often talked about the political situation with Reinhardt but his greatest influence was to inspire in Reinhardt a passion for research in mathematics.
 * Not only was this important in developing Reinhardt's character, but their discussions also encouraged Reinhardt to look at various problems that Hilbert deemed the most important.
 * Reinhardt worked on these problems for his doctorate, advised by Bieberbach.
 * In his thesis Reinhardt found five convex pentagons that tile the plane in such a way that the automorphism group acts transitively on the tiles.
@@ -43,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In addition to his innovative research career, Reinhardt was interested in teaching, particularly looking at ways to make mathematics more understandable to students at the beginning of their university careers.
 * On account of this belief Professor Reinhardt has presented us with a book in which integral calculus is developed first, completely independent of differential calculus; in fact the latter appears simply as the inverse operation of the former.
 * By this stage in his career, Reinhardt was in an excellent position with an outstanding research record and a reputation as a fine, thoughtful teacher.
-* He was married with one daughter and Reinhardt's father also lived with the family in Greifswald.
 * However, Reinhardt's health had always been delicate and this prevented his continuing a successful career.
 
 Born 27 January 1895, Frankfurt am Main, Germany. Died 27 April 1941, Berlin, Germany.

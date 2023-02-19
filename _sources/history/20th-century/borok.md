@@ -23,8 +23,6 @@ contributors: @Svetlana-Jitomirskaya,bookofproofs
 **Valentina Borok** was a Ukranian mathematician who worked in partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-* Her father, Michail Borok, had a PhD in chemistry and was an expert in material science.
-* Because of her mother's position, Valentina had a (relatively) privileged early childhood.
 * From that time on, Valentina fully shared the hardships of the majority of the population of Ukraine, including the very difficult years of evacuation during World War II.
 * In 1949, on the advice of her high school teachers, Valentina decided to study mathematics and was admitted as a mathematics student to Kiev State University.
 * In her second year of undergraduate studies, Valentina (along with Yakov) started research under the supervision of Georgii Shilov, and quickly established herself as a serious scientist.
@@ -37,11 +35,9 @@ contributors: @Svetlana-Jitomirskaya,bookofproofs
 * The work of Valentina Borok and her school on boundary value problems in layers forms an important chapter in the general theory of partial differential equations.
 * During her lifetime, Valentina published some 80 papers in top Russian and Ukrainian journals.
 * Valentina continued working with them informally and encouraging them to pursue their research.
-* Valentina was a true mother figure to all of her students, and was very much involved in, and always ready to help with, various aspects of their lives.
 * Valentina Mikhailovna was considered THE teacher of rigorous analysis in Kharkov State University.
 * Valentina Borok was a brilliant lecturer and an extremely dedicated teacher to her undergraduates.
 * In 1994, a grave illness forced Valentina to urgently retire and emigrate to Israel, as the necessary medical treatment was unavailable in Ukraine.
-* Valentina Borok was actively involved in raising and educating her five grandchildren at all stages of their growth.
 
 Born 9 July 1931, Kharkov, Ukraine. Died 4 February 2004, Haifa, Israel.
 

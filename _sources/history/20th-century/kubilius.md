@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jonas Kubilius** was a Lithuanian mathematician who worked in probability theory and number theory.
 
 ### Mathematical Profile (Excerpt):
-* Jonas was born into a farming family in Fermos not far from the village of Erzvilkas.
+* Describing these years, Kubilius used to mention his attempts to write poetry, to make a radio apparatus, ...
 * Kubilius was an outstanding pupil in mathematics and in his final year at school he sometimes helped his mathematics teacher explaining difficult concepts to his fellow students.
 * Kubilius graduated from the Gymnasium in Raseiniai on 16 June and on his graduation day a Soviet tank stood in the centre of the city.
 * Despite the dire situation in the country, Vilnius University was still operating and Kubilius matriculated in the Mathematics and Natural Sciences Faculty in October 1940.
@@ -36,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Following the award of his Candidate's Degree, Kubilius returned to Vilnius where, from 1951, he was in the Institute of Physics and Technology of the Lithuanian Academy of Sciences.
 * The next step for Kubilius was to write a doctoral thesis (equivalent in level to a D.Sc. or habilitation).
 * This was because Moscow had contacted the Lithuanian Communist Party which had sent a telegram to Moscow saying that Kubilius was not reliable.
-* Well, Kubilius's brother Juozas had been a Lithuanian partisan opposed to the Soviets and he had been arrested and sentenced to 25 years in the spring of 1948.
 * Kubilius participated in reorganizing the Institute of Physics and Technology into the Institute of Physics and Mathematics and, in 1956, became an assistant director of the Institute and the head of the Division of Mathematics.
 * It was thought that Kubilius was among the followers of the latter.
 * It was Linnik who advised to Kubilius to call the thesis "a contribution to probability theory".
@@ -48,7 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Despite the work involved in his role as rector, which he undertook for 33 years, Kubilius was able to continue to undertake outstanding research on applying probability theory to the theory of numbers.
 * Much new material was incorporated in this edition, in particular a completely new chapter giving Kubilius's results on the number of distinct prime divisors of an integer m.
 * When Kubilius became rector, the University of Vilnius was the only university in the Soviet Union in which the language of instruction was not Russian.
-* In 1979 Vilnius was 400 years old and Kubilius wanted to ensure that the event to celebrate the occasion enhanced its reputation and did not become highjacked for political purposes.
 * Neither did the rest of the Kubilius's speech at this celebration follow the rules of the Soviet style, since he did not mention Lenin or Marx even once.
 * Kubilius received much international recognition for his achievements, in particular he was awarded honorary degrees from the universities of Greifswald, Prague, Latvia and Salzburg.
 

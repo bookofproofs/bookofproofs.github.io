@@ -24,19 +24,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Bartholomew Lloyd was a mathematician and has a biography in this archive.
-* Bartholomew and Eleanor Lloyd were married in July 1799.
-* They had four sons: Humphrey Lloyd, the subject of this biography; Bartholomew Clifford Lloyd (born 1808); Robert Clifford Lloyd (born 1809); and John Frederick Lloyd (born 1810).
 * Humphrey was a pupil at the Rev William White's School on South Frederick Street, Dublin.
 * However, at Trinity College, Lloyd's main subjects were mathematics and physics.
-* Lloyd was fortunate to benefit from the mathematical reforms that his father had introduced at Trinity a couple of years before he began his studies there.
 * Bartholomew Lloyd had become professor of mathematics at Trinity in 1813 and, taking over a department in which the teaching had been very old-fashioned with no calculus taught, he had quickly introduced the continental approach to calculus teaching from Lacroix's textbook Traité élémentaire de calcul differéntiel et du calcul intégral, from Poisson's Traité de mécanique, and from Laplace's Mécanique Céleste.
 * Humphrey Lloyd was one of the first students to have the advantages of this new up-to-date curriculum and he graduated with a B.A. in 1819 having been placed as the top student of his year and winning the gold medal for science.
 * Lloyd continued to study at Trinity College, Dublin, aiming to gain a fellowship.
 * Now Lloyd, with a strong background in mathematics and physics, undertook research on optics.
 * We can get a good idea of how Lloyd felt about these high teaching loads from the Preface of his book A treatise on light and vision which was published in 1831.
-* In 1831 Lloyd's father resigned from the Erasmus Smith Chair of Natural and Experimental Philosophy when he was appointed as Provost of Trinity College.
 * There is no suggestion that Bartholomew Lloyd made these changes to benefit his own son, but there is no doubt that, given the new arrangements, Humphrey Lloyd was the obvious candidate to fill the Erasmus Smith Chair of Natural and Experimental Philosophy.
-* The reader may ask how, with this requirement, Bartholomew Lloyd could have married and had a son qualified for the chair.
 * Bartholomew Lloyd tried to argue for an exemption to the rule for the holder of the Erasmus Smith Chair but, as soon as he saw that this would be strongly opposed by others, he dropped the idea and the appointment of Humphrey Lloyd to the Erasmus Smith Chair of Natural and Experimental Philosophy went through.
 * Up to 1831 when he was appointed to the chair, Humphrey Lloyd was essentially an applied mathematician.
 * The experiment for which Lloyd is best remembered today was carried out about a year after he was appointed to the chair.
@@ -50,11 +45,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lloyd next turned his attention to the study of the Earth's magnetic field.
 * Lloyd had made a magnetic survey of Ireland in 1834 and 1835 and, near the end of the latter year he contacted Gauss starting their correspondence on geo-magnetism.
 * The work being carried out in Germany prompted the British Association, together with the Royal Society, to set up a committee in 1838 consisting of John Herschel, William Whewell, George Peacock and Humphrey Lloyd.
-* Lloyd's father, Bartholomew Lloyd, had established a magnetic observatory in Dublin after becoming Provost which was built in 1837-38.
 * Humphrey Lloyd had taken charge of the observatory and fitted it out with instruments of his own design.
-* In the second week of July of that year Lloyd married Dorothea Bulwer, the only daughter of the Rev James Bulwer who was rector of Hunworth-cum-Stody in Norfolk, England.
-* Lloyd and his wife spent their honeymoon travelling through Switzerland and northern Italy where they visited the observatory in Milan and Lloyd attended a meeting of the Italian Physical Society at Turin in September.
-* In the summer of 1841, Lloyd and his wife were touring again, this time visiting Paris to study the French contributions.
 * In 1843 Lloyd became a senior fellow of Trinity College, Dublin and at that time resigned from the Erasmus Smith Chair of Natural and Experimental Philosophy.
 * In 1862 Lloyd became vice-Provost of Trinity College, Dublin, then five years later he became Provost, a position he held for 14 years until his death.
 * As a fellow of Trinity, Lloyd was required to take holy orders and he received his D.D. in 1840.

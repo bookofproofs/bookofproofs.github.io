@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Crelle was therefore largely self-taught, studying civil engineering.
-* Had his family had the resources, then Crelle would have studied mathematics at university.
 * Crelle was certainly not a great original mathematician, but he had three qualities which made him as important for the subject as any great researcher might have been.
 * Crelle was very much in control of the journal, and he acted as editor-in-chief for the first 52 volumes.
 * Crelle realised the importance of Abel's work and published several articles by him in this first volume, including his proof of the insolubility of the quintic equation by radicals.

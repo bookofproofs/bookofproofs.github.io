@@ -23,12 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Nathaniel Bowditch** was an American mathematician who published works on navigation and astronomy.
 
 ### Mathematical Profile (Excerpt):
-* Although Nathaniel was born in Salem, Massachusetts, his family moved to Danvers, also in Massachusetts, while he was still a baby.
 * After a few years, when Nathaniel was seven years old, they returned to Salem.
-* This was a hard time for the Bowditch family.
-* Habakkuk Bowditch's business collapsed and the family hit really hard times financially.
-* Although Nathaniel went to school until he was ten years old, his formal education had to end at that point and he began working in his father's cooperage shop.
-* After two years of helping his father, Nathaniel became an apprentice clerk in the ship's chandler shop of Hodges and Ropes in Salem in 1785.
 * In 1790 Bowditch, aged seventeen by this time, changed his employers and began working for the shop of Samuel C Ward.
 * Although Bowditch was working as a clerk, he was educating himself throughout this period.
 * Bowditch's scientific career was largely one of self-education; the United States of his day afforded very little opportunity for research in astronomy and mathematical physics.
@@ -39,8 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Between 1795 and 1799 Bowditch made four sea voyages on merchant ships, and in 1802 he was in command of a merchant ship of which he was also a joint owner.
 * This was not a period when Bowditch put his studies to one side, on the contrary there was much time at sea for him to carry on his studies and he perfected his French at this time.
 * By June 1806 Bowditch had read the first four of Laplace's five volumes (the fifth volume was not published by Laplace until 1825).
-* In March 1798 while Bowditch was back in Salem between voyages, he married Elizabeth Boardman but sadly she died seven months after the wedding.
-* In 1800, before he made his last voyage, Bowditch married for the second time.
 * Bowditch was now coming up in the world and he gave up his career as a sailor in 1804 to move into the business world.
 * During the years of his presidency of this Company Bowditch undertook mathematical and astronomical investigations which gave him a high reputation in the academic world.
 * In fact Bowditch loved to carry out complex mathematical computations and the task of checking and correcting Moore's work was one he greatly enjoyed.

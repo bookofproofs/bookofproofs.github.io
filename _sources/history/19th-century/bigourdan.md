@@ -23,8 +23,6 @@ contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,
 **Guillaume Bigourdan** was a French astronomer who spent twenty years reviewing and describing the positions of 6380 nebulae. He discovered about 500 new objects.
 
 ### Mathematical Profile (Excerpt):
-* The family name 'Bigourdan' shows that the family were originally from Bigorre.
-* Guillaume's younger sister Marguerite was born in 1853 and his brother Sylvestre in 1857.
 * Tisserand was made Director of the Paris Observatory, bringing Bigourdan to Paris with him in 1879.
 * In Paris, Bigourdan had the opportunity to take charge of the great equatorial telescope.
 * Bigourdan was also a participant in expeditions.
@@ -45,11 +43,9 @@ contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,
 * After the First World War, Bigourdan remained director keeping in close touch with Benjamin Baillaud and General Ferrié, other figureheads in the time-keeping spheres of interest.
 * Bigourdan was recognised for his work and achievements in the form of titles and awards.
 * From its commencement in 1919, Bigourdan served as director of the Bureau International de l'Heure.
-* Bigourdan was responsible for ensuring that various works were published, for example, that of A G Pingré's Annales célestes du dix-septiéme siècle Ⓣ(Celestial records of the 17th century).
 * The manuscript was lost, before being found by Bigourdan at the Paris Observatory under an incorrect title.
 * Bigourdan has been credited with a method for adjusting equatorial mount telescopes.
 * Bigourdan's Method allows the setting up of a telescope mount when one cannot locate the celestial pole and does not know the latitude of the place.
-* Up until 1913, the whole Bigourdan family came to Sistels on vacation, even including Mouchez cousins.
 * They got bored on this old farm, in the countryside; Guillaume Bigourdan, however, came alone every summer to spend a few weeks.
 
 Born 6 April 1851, Sistels, Tarn-et-Garonne, France. Died 28 February 1932, Paris, France.

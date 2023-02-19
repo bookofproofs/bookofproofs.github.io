@@ -25,9 +25,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * It was only when life began to return to some sort of normality after the war that Hans-Joachim was able to show his real abilities.
 * Bremermann's doctoral studies were undertaken at the University of Münster.
+* Naturally Bremermann too learned complex analysis and went on to make significant contributions to the field ...
 * In 1951 Bremermann completed his Staatsexamen in mathematics and physics.
 * In the year following the award of his doctorate Bremermann remained at Münster and taught there as an assistant.
-* On 16 May 1954 Bremermann married a Spanish lady Maria Isabel Lopez Perez-Ojeda who was a scholar of romance language and literature.
 * The year 1957 saw Bremermann move into a new area of research when he collaborated with the physicists R Oehme and J G Taylor applying his expertise in complex analysis to work on quantum field theory.
 * In 1959 Bremermann accepted an appointment as associate professor of mathematics at the University of California, Berkeley.
 * Let us now look briefly at Bremermann's research.

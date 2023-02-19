@@ -38,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Although Saunderson was an obvious choice to succeed him, he had no degree having never attended university.
 * On the following day Saunderson was appointed to succeed Whiston becoming the fourth Lucasian professor of mathematics.
 * These were all mathematicians with whom Saunderson formed strong friendships, and he corresponded with some on mathematical topics.
-* Saunderson and his wife had a son John and a daughter Anne.
 * One might reasonably ask how Saunderson was able to carry out difficult mathematical calculations without being able to see.
 * Having lost one of his senses, Saunderson had to rely on his other senses and he had very acute hearing and touch.
 * Much of what Saunderson studied was geometry.

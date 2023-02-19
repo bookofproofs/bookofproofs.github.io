@@ -24,14 +24,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Michio Suzuki studied at the Third High School of Japan in Kyoto, entering the school in April 1942.
-* There were a number of pupils at the Third High School who went on to make major contributions to mathematics, for example Noboro Ito and Hidehiko Yamabe were a class above Suzuki, being slightly older than him.
 * Quite often classes could not be held regularly and Suzuki had to go to work in the fields and factories with his classmates.
 * The war was reaching its climax in April 1945 when Suzuki entered the University of Tokyo to study mathematics.
 * Tokyo was often bombed and on those occasions Suzuki and his fellow students had to escape into the countryside.
 * After his undergraduate studies, Suzuki began research in the University of Tokyo's graduate School in April 1948.
 * In April 1951, while still working on his dissertation, Suzuki was appointed as a lecturer at Tokyo University of Education.
 * Brauer's influence on Suzuki was highly significant and led him towards the most important areas.
-* In September 1952 Suzuki was awarded a post-doctoral fellowship to undertake research at the University of Illinois at Urbana-Champaign and in November he married Naoko Akizuki, the daughter of a professor at Kyoto University; they had a daughter, Kazuko Suzuki.
 * After spending academic year 1956-57 at Harvard University, Suzuki returned to the University of Illinois where he was promoted to associate professor in 1958 and full professor in 1959.
 * Let us explain a little about the area in which Suzuki was working.
 * In 1957 Suzuki made a major breakthrough.

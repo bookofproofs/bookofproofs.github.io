@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **J Ernest Wilkins** was an African-American mathematician and nuclear scientist. He worked on various pure mathematical topics as well as researching in nuclear engineering and optics.
 
 ### Mathematical Profile (Excerpt):
-* His father J Ernest Wilkins Sr was a lawyer who went on to become President of the Cook County Bar Association in the early 1940s (Cook County is in northeastern Illinois and Chicago is in that County), and Assistant Secretary of Labor in the Eisenhower administration of the 1950s.
 * Wilkins entered the University of Chicago in 1936 when only 13 years old and in so doing he became the youngest ever student at that university.
 * Few teenagers can have won a scholarship and studied at the Institute for Advanced Study in Princeton but this is exactly what Wilkins did in 1942 with a Rosenwald Scholarship.
 * They are The first canonical pencil and A special class of surfaces in projective differential geometry both published in Duke Mathematical Journal.
@@ -33,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Wilkins continued to produce a remarkable number of mathematical papers on a wide variety of different topics.
 * In 1944 four of his papers appeared: On the growth of solutions of linear differential equations; Definitely self-conjugate adjoint integral equations; Multiple integral problems in parametric form in the calculus of variations; and A note on skewness and kurtosis.
 * After leaving the Manhattan Project in 1946, Wilkins worked in industry.
-* During this time he married Gloria Stewart in 1947 they had two children, Sharon and J.
 * It was during this time that Wilkins earned himself further degrees when he was awarded a Bachelor of Mechanical Engineering from New York University in 1957, and a Master of Mechanical Engineering three years later.
 * After this Wilkins held a number of academic and non-academic appointments.
 * From 1977 to 1984 Wilkins worked at EG&G Idaho, becoming Vice President and Deputy General Manager for Science and Engineering.

@@ -37,9 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Box, in collaboration with William Hunter (a former research student of Box who was awarded his Ph.D. in 1963) and Stuart Hunter, published Statistics for experimenters  in 1978.
 * In 1987 Box published Empirical model-building and response surfaces  jointly with Norman Draper.
 * On 18 October 1999 George Box was 80 years old.
-* Box married Jessie Ward in 1945.
-* Joan Fisher Box has produced a superb biography of her father entitled R A Fisher: The Life of a Scientist.
-* In 1985 Box married for the third time, his wife being Claire Louise Quist.
 * Box has received many honours for his outstanding contributions to statistics.
 
 Born 18 October 1919, Gravesend, England. Died 28 March 2013, Madison, Wisconsin, USA.

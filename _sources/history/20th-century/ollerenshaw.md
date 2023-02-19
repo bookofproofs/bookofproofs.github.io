@@ -23,9 +23,6 @@ contributors: @Catherine-Felgate,@Edmund-Robertson,bookofproofs
 **Kathleen Ollerenshaw** was an English mathematician and educationalist who overcame deafness and went on to become an important political advisor. She was elected Lord Mayor of Manchester.
 
 ### Mathematical Profile (Excerpt):
-* Kathleen had one sister, Betty (4 years her senior), to whom she was very close.
-* Kathleen inherited otosclerosis from her father's side of the family and was always partially deaf.
-* In September 1918, Kathleen entered Lady Barn House Montessori School in Withington where, at the age of five, she met her future husband Robert Ollerenshaw.
 * Kathleen was good at mathematics, and had always found pleasure in patterns and numbers.
 * Kathleen considers her deafness to be one of the reasons that she took to mathematics so keenly; it was one of the few subjects in which she was not disadvantaged due to her deafness.
 * Mathematics was not Kathleen's only passion whilst at school.
@@ -36,10 +33,8 @@ contributors: @Catherine-Felgate,@Edmund-Robertson,bookofproofs
 * Kathleen returned home and took up ice-skating, gaining many medals in both figure skating and ice dancing.
 * When it came to the Cambridge interview, however, Kathleen scraped through without anyone knowing she was deaf, but struggled to lip-read the questions.
 * In her first term at Oxford, Robert and Kathleen got engaged.
-* After graduating form Oxford, Kathleen learned touch typing and covered her sister's secretarial job while she had her first child.
 * At the beginning of 1936 Kathleen went out to Germany to learn to ski.
 * In September 1936, Kathleen started research on cotton for the Shirley Institute on a temporary basis.
-* Kathleen and Robert married on 6 September 1939 before he was called up for war duty.
 * In 1949, Ollerenshaw was given one of the first hearing aids, which completely revolutionised her life.
 * In 1951, Ollerenshaw began her life of public service when she became a member of the governing body of St Leonard's school; she was president 1981-2003.
 * In 1954, Robert and Kathleen bought a house in the Lake District which became their weekend retreat, and the main place that Kathleen did her mathematics.

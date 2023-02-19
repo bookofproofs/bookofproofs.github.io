@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Jitomirskaya completed her undergraduate studies in 1987, graduating with distinction having written the thesis Localization problems in the kicked rotor model.
 * Jitomirskaya was awarded a doctorate from Moscow State University in 1991 for her thesis Spectral and Statistical Properties of Lattice Hamiltonians.
-* In 1991 Jitomirskaya also published Singular spectral properties of a one-dimensional Schrödinger operator with almost periodic potential, Spectral properties of one-dimensional almost periodic operators and, with her husband Vladimir Mandelshtam, 1D-quasiperiodic operators.
 * Appointed as a Visiting Assistant Professor at the University of California at Irvine in 1992, Jitomirskaya published the joint paper Ising model in a quasiperiodic transverse field, percolation, and contact processes in quasiperiodic environments with Abel Klein in the following year.
 * Jitomirskaya has received prestigious awards for her outstanding contributions.
 * In January 2006 Jitomirskaya gave a plenary address to the Joint American Mathematical Society/Mathematical Association of America Annual Meeting in San Antonio and in August of that year she gave a plenary address to the XV International Congress of Mathematical Physics in Rio de Janeiro.

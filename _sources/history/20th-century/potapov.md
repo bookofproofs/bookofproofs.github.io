@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Vladimir Potapov** was a Ukrainian mathematician who worked on matrix functions.
 
 ### Mathematical Profile (Excerpt):
-* Potapov's father taught him mathematics, history, literature and languages.
 * Potapov entered Odessa conservatory to study music and for three years he followed the course.
 * At Odessa University, Potapov was a student of Livsic and he was also taught by Livsic's teacher Krein.
 * In 1941 Potapov was evacuated from Odessa which is in south-western Ukraine on the Black Sea coast.

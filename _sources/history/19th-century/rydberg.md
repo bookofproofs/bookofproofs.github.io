@@ -23,14 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Johannes Robert Rydberg** was a Swedish mathematician and physicist whose most important work was on spectroscopy.
 
 ### Mathematical Profile (Excerpt):
-* His father, Sven R Rydberg, was a merchant who also owned several boats, while his mother was Maria Beata Andersson.
-* However, Sven Rydberg died when his son Janne was only four years old and the family was left in an extremely difficult financial position.
 * Now Rydberg had performed very well in all his school subjects but his favourite one had been mathematics so this was the major topic of his undergraduate studies.
 * Rydberg received his bachelor's degree in 1875 from the University of Lund.
 * While he was studying mathematics, Rydberg also taught physics at the Lund Physics Institute where he had been appointed as an assistant in 1876.
 * In 1882 Rydberg moved from an assistant lectureship in mathematics to become an assistant lecturer in physics at the University of Lund.
 * This new Institute would eventually become Rydberg's place of work for the rest of his career.
-* With an extremely poor salary, Rydberg was forced to take a position as an accountant in a local saving bank so that he could supplement his income sufficiently to allow him to support his family.
 * In 1897 Rydberg applied for the chair of physics at the University of Lund which became vacant when Karl Albert Viktor Holmgren (1824-1905) retired.
 * We look at the details of this, and in particular at the referee's assessment of Rydberg, in a separate article.
 * After his appointment, Bäcklund tried to get Rydberg promoted to professor.

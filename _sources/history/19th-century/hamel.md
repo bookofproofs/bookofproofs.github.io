@@ -26,9 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At this time Klein was running a seminar which studied the theory of elasticity, descriptive geometry, and mechanics, and Hamel participated in this seminar.
 * Hamel was appointed Professor of Mechanics at the German Technical University of Brünn on 3 October 1905.
 * Klein spoke highly of Hamel in his reference but considered Carathéodory superior for the particular position, and Carathéodory was appointed.
-* In August 1909 Hamel married Agnes Frangenheim in Cologne.
 * Hamel was appointed to the chair of mechanics at the Rheinisch-Westfälische Hochschule in Aachen on 1 October 1912, then in 1919 he moved to the Technical University of Charlottenburg in Berlin where he was appointed as professor of mathematics and mechanics.
-* Hamel was a leading member of the German Mathematical Society and was much involved with the political moves which went on in that Society.
 * Hamel was clearly associated with the views of National Socialism and in 1933 spoke of a spiritual bond between mathematics and the "Third Reich".
 * Blaschke resigned the Chairmanship of the German Mathematical Society in January 1935 and Hamel was appointed chairman to replace him.
 * Although Hamel met with approval by the National Socialists, his leadership was based on mathematical scholarship despite his close links with Nazi policies.

@@ -37,6 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After successfully defending his thesis, Tikhonov was appointed as a professor at Moscow University in 1936 and then, three years later, he was elected as a Corresponding Member of the USSR Academy of Sciences.
 * The extremely deep investigations of Tikhonov into a number of general problems in mathematical physics grew out of his interest in geophysics and electrodynamics.
 * Tikhonov's work on mathematical physics continued throughout the 1940s and he was awarded the State Prize for this work in 1953.
+* One of the most outstanding achievemnets in computational mathematics is the theory of homogeneous difference schemes, which Tikhonov developed in collaboration with Samarskii....
 * In the 1960s Tikhonov began to produce an important series of papers on ill-posed problems.
 * Combining his computing skills with solving problems of this type, Tikhonov gave computer implementations of algorithms to compute the operators which he used in the solution of these problems.
 * Tikhonov was awarded the Lenin Prize for his work on ill-posed problems in 1966.

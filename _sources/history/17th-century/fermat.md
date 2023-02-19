@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Pierre de Fermat** was a French lawyer and government official most remembered for his work in number theory; in particular for Fermat's Last Theorem. He is also important in the foundations of the calculus.
 
 ### Mathematical Profile (Excerpt):
-* Pierre had a brother and two sisters and was almost certainly brought up in the town of his birth.
 * Certainly in Bordeaux he was in contact with Beaugrand and during this time he produced important work on maxima and minima which he gave to Étienne d'Espagnet who clearly shared mathematical interests with Fermat.
 * From Bordeaux Fermat went to Orléans where he studied law at the University.
 * So by 1631 Fermat was a lawyer and government official in Toulouse and because of the office he now held he became entitled to change his name from Pierre Fermat to Pierre de Fermat.
@@ -37,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Roberval and Mersenne found that Fermat's problems in this first, and subsequent, letters were extremely difficult and usually not soluble using current techniques.
 * They asked him to divulge his methods and Fermat sent Method for determining Maxima and Minima and Tangents to Curved Lines, his restored text of Apollonius's Plane loci and his algebraic approach to geometry Introduction to Plane and Solid Loci to the Paris mathematicians.
 * His reputation as one of the leading mathematicians in the world came quickly but attempts to get his work published failed mainly because Fermat never really wanted to put his work into a polished form.
-* However some of his methods were published, for example Hérigone added a supplement containing Fermat's methods of maxima and minima to his major work Cursus mathematicus Ⓣ(A course of mathematics).
 * The widening correspondence between Fermat and other mathematicians did not find universal praise.
 * Frenicle de Bessy became annoyed at Fermat's problems which to him were impossible.
 * He wrote angrily to Fermat but although Fermat gave more details in his reply, Frenicle de Bessy felt that Fermat was almost teasing him.
@@ -53,11 +51,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Finally there was the plague of 1651 which must have had great consequences both on life in Toulouse and of course its near fatal consequences on Fermat himself.
 * However it was during this time that Fermat worked on number theory.
 * Fermat is best remembered for this work in number theory, in particular for Fermat's Last Theorem.
-* These marginal notes only became known after Fermat's son Samuel published an edition of Bachet's translation of Diophantus's Arithmetica with his father's notes in 1670.
 * It is now believed that Fermat's 'proof' was wrong although it is impossible to be completely certain.
 * The truth of Fermat's assertion was proved in June 1993 by the British mathematician Andrew Wiles, but Wiles withdrew the claim to have a proof when problems emerged later in 1993.
 * Fermat's correspondence with the Paris mathematicians restarted in 1654 when Blaise Pascal, Étienne Pascal's son, wrote to him to ask for confirmation about his ideas on probability.
-* Blaise Pascal knew of Fermat through his father, who had died three years before, and was well aware of Fermat's outstanding mathematical abilities.
 * Fermat however, feeling his isolation and still wanting to adopt his old style of challenging mathematicians, tried to change the topic from probability to number theory.
 * However Pascal was certainly not going to edit Fermat's work and after this flash of desire to have his work published Fermat again gave up the idea.
 * Everyone failed to see that Fermat had been hoping his specific problems would lead them to discover, as he had done, deeper theoretical results.

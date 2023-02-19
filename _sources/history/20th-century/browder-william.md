@@ -23,13 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Browder** is an American mathematician, specialising in algebraic topology, differential topology and differential geometry.
 
 ### Mathematical Profile (Excerpt):
-* William was the youngest of his parents' three children; the two older are Felix Browder (who has a biography in this archive) and Andrew Browder.
 * All three boys have become leading mathematicians and so we should begin by giving some details of their parents Earl and Raissa Browder.
-* Earl Browder (1891-1973), the eighth of ten children, was educated at home in Wichita by his unemployed schoolteacher father William Browder and from him received his first Socialist teachings.
-* Earl Browder had married in 1911 but was separated from his wife.
 * Earl Browder returned to the United States in 1929 but Raissa remained in Moscow until 1933.
 * For the next sixteen years the Browders waged a legal battle to prevent her deportation.
-* In 1934 their third son, William Browder (the subject of this biography), was born in New York City.
 * This convinced Browder that his talents were in mathematics rather than physics so, after graduating with a B.S. from MIT in 1954, he began graduate studies in mathematics at Princeton University.
 * Browder was appointed as an Instructor in Mathematics at the University of Rochester in 1957.
 * Browder received a Ph.D. from Princeton in 1958 for his thesis Homology of Loop Spaces.

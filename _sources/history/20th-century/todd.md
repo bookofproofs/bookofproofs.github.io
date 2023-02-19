@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Todd** graduated from Cambridge and stayed on to do research under Baker. After a period at Manchester and Princeton he returned to Cambridge where he spent the rest of his career. He worked on invariant theory, group theory and canonical systems.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Agnes Todd (born in Bingley, Yorkshire about 1878).
 * John Todd was educated at Liverpool Collegiate School and, having sat the scholarship examination for Cambridge, he was awarded an entrance scholarship to Trinity College.
 * After graduation Todd remained at Trinity to study for his doctorate in geometry under H F Baker's supervision.
 * After an impressive prize winning record Todd hoped for a Research Fellowship at Trinity but he failed in three attempts, on one occasion losing out to Coxeter who won the Fellowship.
@@ -45,7 +44,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Todd-Coxeter procedure became the most fundamental idea in the development of computational group theory yet the authors found difficulty in getting their paper published.
 * It was at a British Mathematical Colloquium (Todd attended the Colloquium for each one of its first 25 years) where Todd talked on Mathieu groups, a subject to which he made considerable contributions.
 * Some young research students in the audience heckled Todd, presumably they considered his mathematics old fashioned.
-* After Todd retired, to the surprise of his colleagues, he married.
 
 Born 23 August 1908, Liverpool, England. Died 22 December 1994, Croydon, England.
 

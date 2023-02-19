@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * As a young boy Smullyan loved both music and science and he was extremely talented musically.
-* When Smullyan was thirteen years old his family moved to Manhattan.
 * However, the school did not in the end give Smullyan what he wanted.
 * Soon Smullyan moved to Reed College, and then he went to San Francisco where he studied the piano.
 * Returning to New York from San Francisco, Smullyan studied mathematics and logic on his own and it was at this time that he began to compose chess puzzles.

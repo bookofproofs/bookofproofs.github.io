@@ -27,13 +27,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * David Mohrendal was a tradesman who also worked as an inspector of hospitals.
 * Georg was educated by his parents and learnt enough mathematics from them to want to study further.
 * Mohr was little known in his own day as a mathematician.
+* In the body of the book Mohr does not state the issue until the very last paragraph ...
 * Mascheroni, who is credited with proving that all Euclidean constructions can be carried out with compasses alone, did not prove this until 125 years after Mohr's book was published.
 * Mohr spent part of his life in Holland and part in Denmark.
 * Mohr corresponded with a number of mathematicians including Leibniz who had received a work written by Mohr on root extraction.
 * It had been sent to him by Oldenburg, the secretary of the Royal Society in London, in 1675 and Leibniz replied to Oldenburg in the following year praising Mohr's skill in geometry and analysis.
 * Mohr was back in Denmark around 1681 but, having decided not to accept a post from King Christian V as supervisor of his shipbuilding, he returned to Holland in 1687.
-* In 1695 Mohr accepted the offer of a job from Tschirnhaus and he went to Kieslingswalde, with his wife and son, to take part in Tschirnhaus's mathematical projects.
-* Mohr's son claimed that his father had written three books on mathematics and philosophy which were all well received.
 
 Born 1 April 1640, Copenhagen, Denmark. Died 26 January 1697, Kieslingswalde (near Görlitz), Germany.
 

@@ -4,7 +4,7 @@ categories: history,17th-century
 parentid: bookofproofs$339
 tags: algebra,physics
 orderid: 1661
-title: De L&amp;#x27;Hôpital, Guillaume
+title: De L&amp;amp;#x27;Hôpital, Guillaume
 born: 1661
 died: 1704
 keywords: guillaume de l'hôpital,de
@@ -24,11 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * There are various spellings of the name Hôpital, the earlier versions being l'Hospital or Lhospital with l'Hôpital being a relatively modern form of the name.
-* His father was Anne-Alexandre de l'Hôpital, a Lieutenant-general in the King's Army; he was Comte de Sainte-Mesme and Duc d'Orléans.
-* Guillaume's mother was Elisabeth Gobelin, the daughter of Claude Gobelin who was an Intendant in the King's Army and a Councillor of State.
-* As a child, l'Hôpital had no talent for subjects like Latin, but he developed strong mathematical abilities and a real passion for the subject.
 * A few days later l'Hôpital had solved the problem.
-* Given his family background it is not surprising that Guillaume de l'Hôpital followed a military career and served as a captain in a cavalry regiment.
 * It is not just that he retired there to study, it was also to hide his application to study.
 * For it must be admitted that the French nation, although as well mannered as any other, is still in that sort of barbarism by which it wonders whether the sciences, taken to a certain point, are incompatible with nobility, and whether it is not more noble to know nothing.
 * It is almost certain that l'Hôpital would be totally unknown in the world of mathematics today but for a chance meeting between him and Johann Bernoulli towards the end of 1691.
@@ -64,7 +60,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Only in 1921 did a manuscript copy of the course given by Johann Bernoulli to L'Hôpital come to light and it was seen how closely the book followed the course notes.
 * Also when the agreement between the two men was seen, more understanding of the events became possible.
 * In fact Bernoulli had not been in a position to complain when L'Hôpital's book was published because of the agreement between them.
-* L'Hôpital, being a noblemen, was accustomed to pay for the services of others, and what he did would not have been considered wrong had Bernoulli been a politician, a lawyer, perhaps even an architect.
 * Certainly it was nothing for L'Hôpital to be proud of.
 * Careful examination of the letters in which L'Hôpital reported his mathematical progress to Leibniz and Huygens shows that with one or two possible exceptions L'Hôpital did not lie, but rather referred to Bernoulli in a condescending tone without acknowledging any debt whatever to him and in matters of provenance wrote in such a way as to suggest without actually asserting.
 * So why did Johann Bernoulli agree so quickly to L'Hôpital's proposal?
@@ -79,7 +74,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, his nobility made election under the normal processes impossible but after the reorganisation of the Academy in 1699 he was given honorary status.
 * L'Hôpital considered publishing a work on integration but, on learning that Leibniz was going to publish a work on the topic, he dropped his plans.
 * A manuscript of a book was discovered following his death and this was published under the title Traité anlytique des sections coniques Ⓣ(Analytic treatise on conic sections) in 1707.
-* L'Hôpital married Marie-Charlotte de Romilley de La Chesnelaye; they had one son and three daughters.
 
 Born 1661, Paris, France. Died 2 February 1704, Paris, France.
 

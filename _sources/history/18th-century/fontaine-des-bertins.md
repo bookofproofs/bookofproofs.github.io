@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Jacques Fontaine was a royal notary, so he served the king in a legal capacity.
-* Alexis enjoyed an upbringing in a fairly well off family and he was educated at the Collège de Tournon.
 * In 1732 Fontaine went to live near Paris, where he had acquired a residence, and he began to study mathematics under Castel.
 * As a result of these papers Fontaine was elected to the Academy in 1733 as an adjoint mécanicien and he was promoted geometer (a term used to mean mathematician at this time) in 1739.
 * In 1732 Fontaine gave a solution to the brachistochrone problem, in 1734 he gave a solution of the tautochrone problem which was more general than that given by Huygens, Newton, Euler or Jacob Bernoulli, and in 1737 he gave a solution to an orthogonal trajectories problem.

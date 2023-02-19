@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Since he is now known almost exclusively by the name Giuseppe Piazzi so we follow this standard practice.
 * His parents came from one of the wealthiest families in the Lombardy region where Giuseppe was born, around 100 km north east of Milan.
-* His parents had ten sons, with Giuseppe as the second youngest, but very few of his siblings survived their childhood.
 * In fact Giuseppe was so frail when he was born that his parents feared to would not survive long enough to be baptised in a church so thy baptised him at home.
 * Piazzi was then sent to Sant'Andrea della Valle, the Theatines basilica in Rome, to study theology.
 * While in Rome, Piazzi studied under Thomas Le Seur (1703-1770) and François Jacquier (1711-1788) who were based in the College of Trinità dei Monti.
@@ -35,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * As a mathematician Piazzi was knowledgeable about the latest developments in the subject and was regarded as an excellent teacher.
 * The Prince of Caramanico made Piazzi professor of astronomy on 19 January 1787 and put him in charge of a project to build an observatory at Palermo.
 * At this time he had little, if any, experience as an astronomer and, in recognition of this, Piazzi was given a grant to allow him to visit astronomers in France and England.
-* In March 1787 Piazzi set off for Paris where he met Dominique Cassini who had become Director of the Paris Observatory in 1784 following the death of his father César-François Cassini de Thury.
 * Piazzi then went to England where he met Nevil Maskelyne, Jesse Ramsden and William Herschel.
 * The most important result of Piazzi's English visit, however, was the great five-foot vertical circle, a masterpiece of eighteenth-century technology, that he commissioned from Ramsden.
 * The Palermo Observatory officially opened in 1790 with Piazzi appointed as its director and, encouraged by having the accurate Palermo Circle, he set up an observing programme to take full advantage.

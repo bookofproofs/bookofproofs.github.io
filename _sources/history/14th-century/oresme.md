@@ -37,6 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Oresme was the first to prove Merton's theorem, namely that the distance travelled in a fixed time by a body moving under uniform acceleration is the same as if the body moved at a uniform speed equal to its speed at the midpoint of the time period.
 * Another work by Oresme De proportionibus proportionum contains the first use of a fractional exponent, although, of course, not in modern notation.
 * Oresme also worked on infinite series and argued for an infinite void beyond the Earth.
+* None of these claims is, in fact, true, although each is based on discussion by Oresme of some penetration and originality ...
 * In Livre du ciel et du monde (1377) Oresme opposed the theory of a stationary Earth as proposed by Aristotle and in this work he proposed rotation of the Earth some 200 years before Copernicus.
 
 Born 1323, Allemagne (west of Riez), France. Died 11 July 1382, Lisieux, France.

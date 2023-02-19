@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * By the time he was awarded his doctorate, Freudenthal was already in Amsterdam having been invited to go there in 1930 as Brouwer's assistant.
 * Being out of Germany had the advantage to Freudenthal that, when the Nazis came to power in 1933 and passed legislation to deprive Jews of their jobs, he could continue with his teaching and research in Amsterdam.
 * The Nazi invaders now did not allow Freudenthal to continue to undertake his duties at the University.
-* Freudenthal and his family had to remain in hiding.
 * In one such competition in 1944, Freudenthal's work, a novel, was awarded first prize.
 * But the ruse succeeded and the prize money reached Freudenthal, a most welcome support during the last war year.
 * In May 1945 Amsterdam was liberated by Canadian troops and soon after this Freudenthal was able to resume his duties at the university.

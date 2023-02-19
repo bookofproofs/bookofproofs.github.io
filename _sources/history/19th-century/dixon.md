@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alfred Dixon** graduated from London and Cambridge and then had professorial appointments in Galway and Belfast. He worked on ordinary and partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-* He was the older brother of Arthur Dixon.
 * Alfred was educated at the Quaker School in Kendal.
 * Dixon was appointed a Fellow of Trinity College in 1888 and was awarded the second Smith's prize.
 * Dixon was appointed to the Chair of Mathematics at Queen's College, Galway, Ireland in 1893.

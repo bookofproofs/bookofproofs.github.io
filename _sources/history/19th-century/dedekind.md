@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Richard Dedekind**'s major contribution was a redefinition of irrational numbers in terms of Dedekind cuts. He introduced the notion of an ideal in Ring Theory.
 
 ### Mathematical Profile (Excerpt):
-* Richard was the youngest of four children and never married.
 * The school, Martino-Catharineum, was a good one and Dedekind studied science, in particular physics and chemistry.
 * However, physics became less than satisfactory to Dedekind with what he considered an imprecise logical structure and his attention turned towards mathematics.
 * The two departments combined to initiate a seminar which Dedekind joined from its beginning.
@@ -52,7 +51,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Collegium Carolinum in Brunswick had been upgraded to the Brunswick Polytechnikum by the 1860s, and Dedekind was appointed to the Polytechnikum in 1862.
 * Dedekind remained there for the rest of his life, retiring on 1 April 1894.
 * After he retired, Dedekind continued to teach the occasional course and remained in good health in his long retirement.
-* The only spell of bad health which Dedekind had experienced was 10 years after he was appointed to the Brunswick Polytechnikum when he had a serious illness, shortly after the death of his father.
 * Dedekind made a number of highly significant contributions to mathematics and his work would change the style of mathematics into what is familiar to us today.
 * One remarkable piece of work was his redefinition of irrational numbers in terms of Dedekind cuts which, as we mentioned above, first came to him as early as 1858.
 * Dedekind loved to take his holidays in Switzerland, the Austrian Tyrol or the Black Forest in southern Germany.

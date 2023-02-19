@@ -34,8 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The first Bourbaki Congress was held at Besse-en-Chandesse in July 1935.
 * Descriptions of these congresses by founder members of Bourbaki are fascinating.
 * There were, however, some clear decisions taken by the Bourbaki group on how to present mathematics which set the pattern for how the whole work would develop.
-* Also, it was decided that Bourbaki would never generalise from special cases but would always deduce special cases from the most general.
-* the construction of real numbers starting from the rationals is for [Bourbaki] a special case of a more general construction: the completion of a topological group (Chapter 3 Book III).
+* Also it was decided that Bourbaki would never generalise from special cases but would always deduce special cases from the most general.
 * But that is not Bourbaki's intention.
 * For Bourbaki, a general concept is useful only if it is applicable to a number of more special problems and really saves time and effort.
 * If Bourbaki members considered it their duty to work out everything from the ground up, they did so with the hope of placing in the hands of future mathematicians an instrument that would make their work easier and enable them to advance further.
@@ -46,7 +45,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We discuss this second phase in the article Bourbaki: the post-war years.
 * In particular Roger Godement, Pierre Samuel, Jacques Dixmier and Jean-Pierre Serre joined Bourbaki in the late 1940's.
 * Armand Borel first became acquainted with the Bourbaki team in 1949.
-* A Bourbaki member is supposed to take an interest in everything he hears.
+* a Bourbaki member is supposed to take an interest in everything he hears.
 * These chapters set up the basic properties of integration theory which, as far as Bourbaki is concerned, means integration on locally compact spaces.
 * The "third generation" of Bourbaki members joined around the time that the project to produce the six books was well on its way to completion.
 * Bourbaki will always remain young and lively; like mankind he renews himself constantly.

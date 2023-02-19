@@ -25,14 +25,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * There are at least three commonly used: the Italian version Ruggero Giuseppe Boscovich, the Croatian version Ruđer Josip Bošković, and the English version Roger Joseph Boscovich.
 * Two less common forms are the French version Rogér Joseph Boskovic and the Latin version Rogerio Josepho Boscovich.
-* Ruggero's father was Nikola Boscovich, a merchant from Dubrovnik, and his mother was Pavica Bettera, the daughter of Baro Bettera who was also a merchant.
-* Baro Bettera came from Bergamo in Italy, so Boscovich, the subject of this biography, was half Italian; he lived for a large part of his life in Italy and some today consider him an Italian.
-* Certainly they needed a large house for Ruggero was the eighth of the nine children in the family which consisted of six boys and three girls.
 * The Dubrovnik Republic was, in the first few years of Boscovich's life, isolated from the wars and fighting which went on around it.
 * Despite appearing in the middle of a war zone, the city was peaceful and it is doubtful whether the young Boscovich was aware of the fighting.
-* He certainly was aware, however, of his father's ill health for Nikola died when Boscovich was ten years old having been confined to bed during these ten years.
-* Boscovich's mother Pavica was a very active and able woman who continued to keep the family happy despite the health problems of her husband.
-* Of the nine children, only Boscovich's eldest sister Mare married.
 * The first education that Boscovich received was from the local priest who taught him the basics of reading and writing.
 * Boscovich left Dubrovnik on 16 September 1725, crossed the Adriatic, then travelled by stage-coach to Rome.
 * In fact the year 1740 also marked the advent of a new Pope, Benedict XIV, and he would soon involve Boscovich in important roles.

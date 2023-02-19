@@ -33,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It is a subject to which Alan kept returning to the end.
 * Day wrote papers on splitting modular lattices, frames and coordinate rings, critical configurations for the Arguesian identity, modular congruence varieties, and application of modular lattices to database theory.
 * Alan Day was certainly a leader in the new wave of computer enthusiasts.
-* Day was married to Lise Minville.
 
 Born 9 October 1941, Sault Ste Marie, Ontario, Canada. Died 26 November 1990, Thunder Bay, Ontario, Canada.
 

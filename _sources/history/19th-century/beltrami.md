@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Eugenio Beltrami** contributed to work in differential geometry on curves and surfaces and gave a concrete realisation of the non-euclidean geometry.
 
 ### Mathematical Profile (Excerpt):
-* The young Eugenio certainly inherited artistic talents from his family, but in his case in addition to the mathematical talents he would acquire, it was music rather than painting that became important in his life.
 * Beltrami studied at Pavia from 1853 to 1856, and there he was taught by Brioschi who had been appointed as professor of applied mathematics at the University of Pavia the year before Beltrami began his studies.
 * Beltrami would have liked to continue his mathematical studies but he was suffering financial hardship so in 1856 he had to stop his studies and take up a job.
 * While Beltrami was in Milan the Kingdom of Italy was established in 1861.

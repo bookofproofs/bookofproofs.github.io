@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James Mercer** was an English mathematician who worked in analysis -- in particular in integral equations.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Sarah Alice Mercer (born in Liverpool about 1858).
 * James had eight younger siblings: Mary (born about 1885), Alice (born 1887), Richard (born 1889) and Thomas (born about 1891), Frank (born about 1893), Eric (born 1894), Sarah (born about 1897) and Ernest (born about 1899).
 * James Mercer was educated in Liverpool, attending University College there before entering Trinity College Cambridge to study the mathematical Tripos.
 * Hardy had just come onto the staff at Trinity and he acted as a private tutor to Mercer.

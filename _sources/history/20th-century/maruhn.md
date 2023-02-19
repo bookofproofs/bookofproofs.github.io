@@ -23,14 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Karl Maruhn** was a German mathematician who worked in aerodynamics, hydrodynamics and potential theory.
 
 ### Mathematical Profile (Excerpt):
-* Karl, the subject of this biography, studied at the Königin-Carola-Gymnasium in Leipzig.
 * This prize-winning work was published as a joint paper by Maruhn and Garten in Mathematische Zeitschrift in 1932.
 * Maruhn was awarded his doctorate from the Faculty of Philosophy of the University of Leipzig in 1930 for his thesis Ein Beitrag zur mathematischen Theorie der Gestalt der Himmelsjörper Ⓣ(A contribution to the mathematical theory of the shape of heavenly bodies).
 * His thesis advisor was Leon Lichtenstein (1878-1933) and in the years before obtaining his doctorate Maruhn had been Lichtenstein's assistant.
 * Maruhn's doctoral thesis was published as a 20-page paper in Mathematische Zeitschrift in 1931.
 * Maruhn sat the State examination to become a Gymnasium teacher in 1931 and he then taught at a number of different schools in Leipzig until 1935.
 * All these papers continue work done by Maruhn's former research advisor Leon Lichtenstein.
-* In 1934 Maruhn married Eva Feldt.
 * In 1935 Maruhn became a research associate at the German experimental station for flight, the Deutschen Versuchsanstalt der Luftfahrt, which was situated in Berlin-Adlershorst.
 * During most of the time Maruhn worked there the director was Günther Bock.
 * In 1937 Maruhn habilitated at the Technische Hochschule in Berlin-Charlottenburg and began lecturing there in the following year.

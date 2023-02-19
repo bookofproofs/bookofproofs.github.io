@@ -23,10 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John McWhan** studied at Glasgow and Göttingen. He returned to a post at Glasgow University.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Maggie McWhan (born in Ireland about 1855).
 * John McWhan attended Whitehill School, Glasgow.
 * In 1910 McWhan was appointed as an Assistant in Mathematics at Glasgow University.
-* Mr M'Whan, who was 58 years of age, was a son of the late Mr John M'Whan, headmaster of Cambuslang School.
 
 Born 22 January 1885, Cambuslang, Glasgow, Scotland. Died 14 July 1943, Glasgow, Scotland.
 

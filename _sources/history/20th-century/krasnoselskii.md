@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Mark Krasnoselsky** was a Ukrainian mathematician who worked in nonlinear functional analysis and its applications.
 
 ### Mathematical Profile (Excerpt):
-* Mark Aleksandrovich was the youngest of his parents' two children, having an older brother Iosif.
-* When Mark was twelve years old the family moved to Berdyansk, a port in southeast Ukraine on the Berdyansk Gulf of the Sea of Azov.
 * At first the war had relatively little effect on Krasnosel'skii's university studies but in June 1941 German troops invaded and rapidly advanced towards Moscow, Leningrad and Kiev.
 * Krasnosel'skii then graduated from the United Ukrainian University in 1942 and at that point joined the Soviet army.
 * In August 1946 Krasnosel'skii returned to Kiev where he was able to continue his studies, but he also worked, first as an lecturer in descriptive geometry at the Kiev Highway Institute and later as a junior scientist at the Institute of Mathematics of the Ukrainian Academy of Sciences.

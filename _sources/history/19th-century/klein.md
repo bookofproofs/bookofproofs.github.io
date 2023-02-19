@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Felix Klein** was a German mathematician whose synthesis of geometry as the study of the properties of a space that are invariant under a given group of transformations, known as the _Erlanger Programm_, profoundly influenced mathematical development.
 
 ### Mathematical Profile (Excerpt):
-* Klein's father was secretary to the head of the government.
-* That son was Felix Klein.
 * The revolution against the Prussians, which resulted in such a dramatic birth for Felix Klein, was completely crushed by the summer of 1849.
 * Klein attended the Gymnasium in Düsseldorf.
 * Plücker held a chair of mathematics and experimental physics at Bonn but, by the time Klein became his assistant, Plücker's interests had become very firmly rooted in geometry.
@@ -40,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However Klein did not build a school at Erlangen where there were only a few students, so he was pleased to be offered a chair at the Technische Hochschule at Munich in 1875.
 * There he, and his colleague Brill, taught advanced courses to large numbers of excellent students and Klein's great talent at teaching was fully expressed.
 * Among the students that Klein taught while at Munich were Hurwitz, von Dyck, Rohn, Runge, Planck, Bianchi and Ricci-Curbastro.
-* Also in 1875 Klein married Anne Hegel, the granddaughter of the philosopher Georg Wilhelm Friedrich Hegel.
 * After five years at the Technische Hochschule at Munich, Klein was appointed to a chair of geometry at Leipzig.
 * The years 1880 to 1886 that Klein spent at Leipzig were in many ways to fundamentally change his life.
 * His career as a research mathematician essentially over, Klein accepted a chair at the University of Göttingen in 1886.

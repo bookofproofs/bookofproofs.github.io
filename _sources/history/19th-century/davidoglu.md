@@ -24,9 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Cleante Davidoglu was a medical doctor who served the villages around Bârlad, a town in the east of Romania not far from the border with Moldova.
-* Anton had an older brother, named Cleante Davidoglu after his father.
 * Cleante Davidoglu Jr. (1871-1947) had a career in the military and became a famous Romanian major general during World War I.
-* The paternal grandfather of the two Davidoglu boys was a seller of salep, a flour made from orchids used to make winter drinks, their great-grandfather was a professional cavalrymen in the Ottoman army, and their great-great grandfather was an infantryman in the Ottoman army.
 * Anton Davidoglu had both his primary and secondary education in his hometown of Bârlad and, being an outstanding pupil, he decided to go Paris for his university education instead of continuing to study at one of the two Romanian universities.
 * Davidoglu graduated with a first degree in 1897 having impressed his teacher Hadamard.
 * Davidoglu then continued his studies at the École Normale Supérieure, undertaking research for his doctorate.

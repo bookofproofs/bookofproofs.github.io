@@ -23,10 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Li Shanlan** was the greatest Chinese mathematician of the 19th century who translated Western works and gave many summation formulas.
 
 ### Mathematical Profile (Excerpt):
-* Li had a brother, Li Xinmei who also became a fine mathematician.
 * There are two slightly different versions of how Li first came upon mathematics.
 * One suggests that when he was eight years old he found a copy of the Nine Chapters on the Mathematical Art in the library of a private school.
-* The second version suggests that when Li was ten years old he studied the Nine Chapters on the Mathematical Art under his family tutor.
 * In 1825, when he was fourteen years old, Li studied the first six books of Euclid's Elements which had been translated into Chinese in 1607 by Xu Guangqi and Matteo Ricci.
 * One was the Ce yuan hai jing Ⓣ(Sea mirror of circle measurements), originally written by Li Zhi in 1248, which was of fundamental importance in the development of Chinese algebra.
 * The other was Gougu geyuan ji Ⓣ(Record of measuring segments of a circle) which was a trigonometry text written by Dai Zhen, who is famous as an editor of the Nine Chapters on the Mathematical Art, and had been appointed as an editor for compiling an encyclopaedia of knowledge by the Emperor Qianlong in 1773.
@@ -34,8 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Although he had been largely self educated in mathematics, Li now made contact with others having the same interests.
 * He wanted to make a career for himself in mathematics but at this time in China the subject was not considered of sufficient importance that one could make a living as a professional mathematician.
 * The best way for a scholar to earn his living, yet have sufficient time to push forward his research, was to be employed as a private tutor.
-* This is the route Li was forced to take and he was fortunate to be employed in 1845 by a family who had a deep love of education.
-* We have not yet referred in this article to the political situation in China during Li's life.
 * This is because up until about 1850 it had relatively little impact on him.
 * The British claimed that they were supporting the Chinese people against their leaders (always a good policy!).
 * Certainly the Chinese government had not been popular and after this its prestige declined further.
@@ -54,8 +50,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * During this period the Taiping Rebellion had at first had great success with the capture of Nanking in 1853.
 * However, internal conflicts between those who led the rebellion weaken it but in 1860 they tried to re-establish their progress and take Shanghai but the attempt failed.
 * Li left Shanghai, probably before the attack on the city, and moved to join the staff of Xu Youren who was Governor of Jiangsu province.
-* Li worked for him for three years and then he was approached by Zeng Guofan and his younger brother Zeng Guoquan who asked him to work for them.
-* The Zeng brothers were both scholars and army generals, and in the latter capacity they had gained a strong reputation for the suppressing the Taiping Rebellion.
 * They financially supported the publication of Li's complete mathematical works which were published in Nanking in 1867.
 * Li was recommended to the newly established T'ung-wen-kuan (College of combined learning) in 1864.
 * However Li did not take up the appointment until 1866 for he did not wish to be part of a translating school.

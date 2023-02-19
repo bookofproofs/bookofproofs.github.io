@@ -24,9 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Josef Hoëné was educated in Poznań and Warsaw but in 1794 he became involved in the Kosciuszko Uprising.
-* Hoëné Wronski (we use this name although he did not adopt Wronski until around 1810 just after he married) joined Kosciuszko as second lieutenant in the artillery.
 * Hoëné Wronski was also taken prisoner, and made to serve in the Russian army which he did until 1797 when he was released having reached the rank of lieutenant colonel.
-* By this time Hoëné Wronski's father had died and left him money which allowed him to spend the next years in Germany studying philosophy at a number of different universities.
 * It was at this time that he adopted the surname Wronski but he did not use it consistently, rather alternately used Wronski and Hoehne.
 * When writing papers, however, he used the name Hoëné Wronski without the use of any first name.
 * Wronski also had a difficult personality, and has been accused, not without plausibility, of arrogance, charlatanry, paranoia, and other blemishes of character.

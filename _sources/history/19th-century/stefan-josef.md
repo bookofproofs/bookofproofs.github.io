@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Josef Stefan** was an Austrian physicist, mathematician, and poet.
 
 ### Mathematical Profile (Excerpt):
-* His father, Ales Stefan (1805-1872), worked as a miller of flour and as a baker.
-* Josef's mother, Marija Startinik (1815-1863), was employed as a maidservant.
 * Josef showed his brilliance when at elementary school in Klagenfurt and he showed himself to have both the desire and ability to do well at the Gymnasium which was recommended by his teachers.
-* However, as an illegitimate child he would not be allowed to attend a Gymnasium so, when he was eleven years old, his parents married to give Josef to opportunity of a good education.
 * Stefan entered the Gymnasium in Klagenfurt in 1846.
 * On 13 March 1848, eleven days before Stefan's thirteenth birthday, a Revolution began in Austria.
 * Stefan was at an impressionable age and the Revolution made him much more aware of the various ethnic groupings and his own Slovenian origins.
@@ -42,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Other work by Stefan includes studies of surface tension and evaporation, during which he proposed what today is called 'Stefan's number' and 'Stefan's law'.
 * The life which Stefan led was totally dedicated to science.
 * Of course with such total dedication to his work, Stefan had little time for friends and had hardly any social life.
-* For most of his life Stefan was unmarried, too dedicated to his profession to have space for wife or family.
 
 Born 24 March 1835, St Peter (near Klagenfurt), Austria. Died 7 January 1893, Vienna, Austria.
 

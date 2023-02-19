@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Andrei Petrovich Kiselev** wasa Russian mathematician known mainly for his textbooks.
 
 ### Mathematical Profile (Excerpt):
-* His father Petr Kiselev was born around 1815 and his mother Anna N was born around 1818.
-* Andrei was the youngest of his parents' six children having older siblings Nicholas (born about 1838), Pelagia (born about 1848), Petr (born about 1848), Mari (born about 1850), and Alexandr (born about 1851).
 * Kiselev attended the district school in Mtsensk and from there he went to the Gymnasium in Oryol, the main city in the region.
-* There is no way that Kiselev's family could have afforded to give him this high quality school education but he was able to attend these school partly through the generosity of merchant friends who helped support him and partly through scholarships he was awarded by the schools because of his outstanding performance.
 * It is worth recording at this point that at least two of the mathematics teachers who taught Kiselev during his school years taught from textbooks that they had written themselves.
 * Perhaps this influenced Kiselev to become a writer of textbooks when he himself became a school teacher.
 * At St Petersburg University, Kiselev was taught by a number of world-class mathematicians.
@@ -51,7 +48,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * But consider then that Kiselev precedes the definition with a reasonably developed theory of limits.
 * Kiselev rightly observes that to justify it one needs methods that would go beyond elementary mathematics.
 * So, based on the theory of limits developed in the first part (Planimetry), Kiselev proves (although without ever employing the symbol lim) the principle for triangular pyramids and uses the occasion to mention Hilbert's third problem.
-* We should say a little about two further aspects of Kiselev's life, namely his ideas as a teacher and his involvement in politics.
 * Kiselev spoke about the various "aberrations" in the schools: the fact that classes were overcrowded, the fact that there was not enough time properly to interview and assess all of the students in a class, the fact that school schedules were poorly designed, as a result of which there were "empty" lessons at the end of the year, which students spent playing games.
 * During his lifetime Kiselev was awarded the Order of St Anne 3rd   degree (1894), the Order of St Stanislaus 2nd   degree (1896), the Order of St Anne 2nd   degree (1899), and the Order of the Red Banner of Labour (1934).
 * For example Sergei Alekseevich Chaplygin was taught in Voronezh by Kiselev.

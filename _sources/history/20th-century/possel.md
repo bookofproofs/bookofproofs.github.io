@@ -35,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His views on integration are to be found in the expository article Les théories modernes de l'intégration Ⓣ(Modern theories of integration)  which he published in 1946 and in which he sketched an abstract form of the Riemann-Stieltjes integral.
 * On many issues de Possel and André Weil were on opposite sides in the arguments.
 * At the first Bourbaki congress in July 1935 de Possel was still an active member of the group and much involved with contributing but, largely due to differences with Weil, he dropped out of the project.
-* De Possel married Yvonne Liberati on 12 August 1935; they had three children, Yann, Maya, and Daphné.
 * In 1936 he published an important book on game theory, namely Sur la théorie mathématique des jeux de hasard et de réflexion Ⓣ(On the mathematical theory of gambling and reflection).
 * De Possel was appointed as professor in the Faculty of Science at Bresançon, then in 1938 professor in the Faculty of Science at Clermont.
 * We look briefly at the mathematics papers which de Possel published during these year.

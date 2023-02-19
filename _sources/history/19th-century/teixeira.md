@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gomes Teixeira**  was a Portuguese mathematician and historian of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Gomes had two brothers, Pedro who became a military engineer, and Sebastiao who became a trader in Sao Cosmado.
 * Gomes was baptised on 6 February in the church of his home town.
 * His godparents were his cousin Dr Francisco Gomes de Carvalho and Maria Jose Teixeira.
 * Gomes began his education in his home town of São Cosmado, which is about 80 km east of Porto.
@@ -31,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This college had been founded in 1859 and, at the time that Teixeira studied there, the director was the founder of the College, António Joaquim Lopes Roseira.
 * As Teixeira's education progressed he was drawn in two different directions.
 * The cousin, whom he was staying with, saw that Teixeira was a talented scientist and suggested that he should study mathematics and physics at university.
-* His father asked young Teixeira which of these options he would prefer and, perhaps surprisingly, he said he was happy to follow either the theology or the science option.
 * It turned out to be a lucky toss of the coin but, as we see from the quote above, at this stage Teixeira was more attracted to physics than to mathematics.
 * In 1869 Teixeira enrolled in the Mathematics Faculty of the University of Coimbra and he lived in the house of Filipe Quental (1824-1892).
 * Things did not go well at first for Teixeira, mainly because his health was poor.
@@ -44,14 +42,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1877 Teixeira founded the journal Jornal de Ciências matemáticas e astronómicas which was published by Coimbra University Press.
 * In the second volume of this journal, which appeared in 1880, Teixeira published a paper on the integration of second order linear partial differential equations and an obituary of Giusto Bellavitis.
 * Teixeira was named as third astronomer at the Astronomical Observatory of Lisbon in that year.
-* As well as his mathematical interests, Teixeira was involved in politics and in 1879 he joined the Regenerator Party and was elected to the Parliament.
 * At the time that Teixeira was elected, the leader of the party was Fontes Pereira de Melo who was Prime Minister of Portugal from January 1878 to May 1879 and again from November 1881 to February 1886.
 * Although Teixeira does not seem to have played a major role in the Regenerator Party, it is clear from a number of letters that he received that he was very well respected by the other members.
 * In November 1879, Teixeira took charge of the teaching of mathematical analysis at Coimbra and, in February of the following year, he was named as Professor.
-* In 1881, Teixeira married Ana Arminda Cardoso who was 17 years old.
-* Gomes and Ana Teixeira had a son who was stillborn, and three daughters.
-* In 1883, for family reasons, Teixeira moved to Porto where he was appointed to the Polytechnic Academy.
-* In Porto, the Teixeira family lived in Rua de Costa Cabral in the house where Ana's parents lived.
 * At the Polytechnic Academy, Teixeira occupied the chair of differential and integral calculus.
 * The problem was posed again in 1895 and, in 1899 Teixeira was awarded the prize for his entry which was published as Tratado de las Curvas Especiales Notables Ⓣ(Treatise on notable special curves) in 1905.
 * When Teixeira moved to Porto, the city had no university.

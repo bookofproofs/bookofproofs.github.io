@@ -23,13 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Giovanni Prodi** was an Italian mathematician who was important in the development of Italian mathematical education.
 
 ### Mathematical Profile (Excerpt):
-* It was a large family with Giovanni being the eldest of his parents' nine children, having two sisters and six brothers.
-* To give an impression of this remarkable family, we record that Romano Prodi became an economist and politician, Vittorio Prodi became a physicist and politician, Giorgio Prodi became a physician and writer, Paolo Prodi became a historian, and Franco Prodi became a physicist with particular interest in the atmosphere.
-* Outside the world of mathematics, Romano Prodi is the best known member of the family, having been Prime Minister of Italy (17 May 1996 - 21 October 1998, and 17 May 2006 - 8 May 2008), and President of the European Commission (1999 - 2004).
 * Giovanni studied at the Liceo Ariosto in Reggio nell'Emilia, the main city of the region which lies about 12 km north of Scandiano.
 * Prodi's school education continued, being relatively unaffected by the war.
 * Prodi continued his education, entering the University of Parma to study mathematics.
-* Prodi was called up into the Repubblica Sociale Italiana army, an order he complied with through fear that his family would suffer retaliation if he refused, and he was sent to Germany to be trained in a camp with other Italian soldiers.
 * Prodi, however, was part of the German force.
 * In the spring of 1944, along with many of his comrades, Prodi deserted from the Repubblica Sociale Italiana army and fled back to Parma.
 * Prodi was held in PWE 337 along with some famous Italian generals and others of high status.

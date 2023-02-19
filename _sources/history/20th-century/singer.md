@@ -30,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1953 Kaplansky asked Singer what derivations the algebra of continuous complex-valued functions on a compact Hausdorff space possessed.
 * Singer had answered the question by the following day, showing the answer was 0, and this led to considerable work on the topic including further work by Singer, jointly with J Wermer, published in the paper Derivations on commutative normed algebras (1955) in which they showed that all bounded derivations on a semisimple commutative normed algebra are 0.
 * Singer returned to the Massachusetts Institute of Technology in 1954 where he was appointed as an Assistant Professor.
-* In 1961 he married Sheila Ruff and they had a daughter Natascha Singer (who is a reporter for the NYTimes).
 * In 1977 Singer went to the University of California at Berkeley where he spent two years as a Visiting Professor.
 * Moreover, in addition to his work in pure mathematics, Singer has laboured for two decades to bring together mathematicians and theoretical physicists.
 * This renaissance of serious interaction between mathematicians and physicists, which dates from the mid-1970s, has had a dramatic effect on mathematics, and Singer has played a major role in this development.

@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Andor Kertész** was a Hungarian mathematician who worked in the theory of Abelian groups, modules and  rings. He was also interested in the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Andor had two older brothers, Lajos Kertész (born 1925), who became a pianist, and Gábor Kertész (born 1927), who became an architect.
-* Andor also had one younger brother Attila Ker     tész (born 1944) who studied history and became a teacher.
 * Andor Kertész attended elementary and secondary school in Gyula.
 * Béla Csákány was ten years old when he entered the Roman Catholic Gymnasium "Karácsonyi János" in Gyula in 1942 and there met, for the first time, Andor who was at that time thirteen years old.
 * For us he was, like for many of his later friends and colleagues, "Bandi" Kertész.
@@ -32,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Although his interests were broad, including music, history, philosophy and literature, Kertész chose to make his career in mathematics.
 * His scientific career was substantially influenced by Tibor Szele, one of the most outstanding Hungarian mathematicians, whose personality and achievements attracted Kertész' interest in modern algebra.
 * Kertész graduated from Kossuth Lajos University in Debrecen in 1952 and continued to undertake research there.
-* Andor and Ilona had two children, Andor Kertész (born 8 March 1956) and Gabriella Kertész (born 27 December 1959), both of whom went on to be awarded doctorates and become academics.
 * Kertész was transferred to the University of Szeged in 1953.
 * This move did not last long and soon Kertész was back in Debrecen.
 * Kertész defended his thesis entitled Operator modules and semi-simple rings in 1954.

@@ -31,10 +31,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * González Domínguez and Rey Pastor were two of the twelve; González Domínguez was elected secretary of the Argentina Mathematical Union and Rey Pastor was elected Vice-President for 1936-38.
 * González Domínguez continued to serve on the Board of the Union from 1938 to 1945.
 * In June 1939 González Domínguez submitted his doctoral thesis Un nuevo teorema límite del cálculo de probabilidades Ⓣ(A new limit theorem for the calculus of probabilities) to the Faculty of Exact and Natural Sciences of the University of Buenos Aires and was awarded the degree on 7 August.
-* While he was studying at the University of Buenos Aires, González Domínguez married Matilde V de Gonzalez who had been born in Buenos Aires on 8 December 1906.
 * González Domínguez had been awarded a John Simon Guggenheim Memorial Fellowship to study with Jacob Tamarkin at Brown University in Providence, Rhode Island, USA.
 * The passenger list gives the following details for González Domínguez: age, 35, height 5 ft 7 in, complexion dark, hair colour brown, eye colour brown.
-* Alberto and Matilde González Domínguez had a son Alvaro V González Domínguez born in 1943.
 * At Brown University, González Domínguez worked on the Fourier integral, Hille functions and, more generally, on integral equations.
 * González Domínguez made two research trips to Paris in the 1950s.
 * In addition to his work at the University of Buenos Aires, González Domínguez had other appointments which increased his influence on the development of mathematics in Argentina.

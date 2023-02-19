@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Denjoy** was a French mathematician who did outstanding work on the functions of a real variable.
 
 ### Mathematical Profile (Excerpt):
-* Arnaud's mother was Camille Henriette Maria Jayez; she came from Catalonia.
-* Arnaud had an older sister Marie Antoinette Dejoy, born 16 April 1881.
 * Arnaud was born and attended a secondary school in Auch which is the capital town of the Gers region in southwestern France.
 * After attending the Lycée d'Auch, Arnaud completed his schooling at the lycée in Montpellier, which is a city close to the Mediterranean coast in southern France.
 * At the lycée in Montpellier, Denjoy showed a great talent for arts subjects and his rhetoric teacher gave him the following advice: "Denjoy, you have a lot of ideas for your age, don't do mathematics, you can become someone." Denjoy did not follow this advice and he took the special mathematics class which was designed to train pupils to sit the entrance examinations for the École Polytechnique and the École Normale Supérieure.
@@ -39,8 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * From Paris, Denjoy moved back to Montpellier in 1909 when he was appointed "Maitre des conferences" at the University of Montpellier on 14 October.
 * Baire had left Montpellier before Denjoy took up this appointment, but he was an important figure in the development of Denjoy's mathematics.
 * Denjoy was one of a small number of people who appreciated Baire's innovative ideas when he first produced them.
-* They had three children, all sons: Jean Fabrice Denjoy (born 1 January 1925), who became a doctor of medicine and married Caroline-Adams Byrd; René Denjoy (born 17 September 1927), who also became a doctor of medicine and surgeon; and Bernard Denjoy (born 23 June 1926), who became an architect and married Anne-Marie Roederer.
-* We note that Denjoy asked Nikolai Luzin to he godfather to René Denjoy.
+* but look at Denjoy - he understood it, hence it must not be so difficult ...
 * Denjoy worked on functions of a real variable in the same areas as Borel, Baire and Lebesgue.
 * These four volumes were an expanded version of work which had appeared in a series of papers by Denjoy beginning in 1920.
 * Included in these papers was his introduction of the Denjoy index for the points of a perfect set.
@@ -52,9 +49,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Let us end by saying something of Denjoy's character.
 * Finally the strikers, after much urging, agreed to return to the lecture hall but on one condition: that Denjoy should cease lecturing in English and instead lecture in French.
 * We learn much of Denjoy's interests by reading his account of his trip to Rome in 1908 to attend the International Congress of Mathematicians.
-* In 1954 he attended the Congress in Amsterdam, accompanied by his son Bernard Denjoy, and Bernard's wife.
 * Denjoy was not a man lacking interests outside mathematics: on the contrary he was fascinated by topics such as philosophy, psychology, and social studies.
-* Although Denjoy did not aspire to the political career of Herriot, who served in nine different cabinets and was premier of France three times, Denjoy's involvement with the Radical Party led to him serving as a town councillor for Montpellier in 1912, and as county councillor for Gers from 1920.
 * For his outstanding contributions to the theory of functions of a real variable, Denjoy received many honours.
 
 Born 5 January 1884, Auch, Gers, France. Died 21 January 1974, Paris, France.

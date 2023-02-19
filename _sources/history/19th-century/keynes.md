@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Maynard Keynes** published works on probability, but is best known as an economist.
 
 ### Mathematical Profile (Excerpt):
-* His father, John Nevile Keynes, was a lecturer at the University of Cambridge where he taught logic and political economy.
 * John Nevile published Formal Logic four months after John Maynard was born.
-* John Maynard's mother, Florence Ada Brown, was a remarkable woman who was a highly successful author, and also a great pioneer in social reform.
 * It is worth commenting at this stage that, although John Maynard Keynes lived to the age of 63, his parents both outlived him.
 * At the age of seven, Keynes entered Perse School Kindergarten but he learnt more from lessons given at home.
 * The following year Keynes sat the entrance examination for Eton and came tenth out of the twenty boys who were accepted into the school in that year.

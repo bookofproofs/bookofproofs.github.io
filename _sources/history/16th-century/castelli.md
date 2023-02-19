@@ -25,9 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Benedetto was not the name that he was given when he was baptised, rather it was Antonio.
 * He took the name Benedetto in 1595 when he entered the Benedictine order.
-* The ban was lifted only after Carlo and Benedetto, as the subject of this biography was called by this time, paid a large sums of money to allow Quinto to return.
 * Castelli joined the Benedictine order in the monastery of Saints Faustino and Giovita in Brescia on 4 September 1595.
-* Although exact details are unclear, we know that before 1604 Castelli had attended lectures by Galileo and watched him making various experiments, particularly with the thermometer.
 * At first Castelli was certainly one of Galileo's students, but later the two became close friends.
 * When Castelli was sent to the Benedictine abbey of La Trinità della Cava in the Finestre Hills outside Cava dei Tirreni in 1607 he corresponded regularly with Galileo and, when he was in Brescia in 1610, he wrote to Galileo thanking him for the copy of Sidereus Nuncius Ⓣ(The starry messenger).
 * It is now impossible to prove whether this idea occurred to both Galileo and Castelli at the same time, or whether this letter of Castelli made Galileo turn his telescope on Venus to see if it showed phases.
@@ -44,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This was an unpleasant experience for Castelli, who suffered severely from seasickness, and, despite his best efforts, the celatone did not achieve success.
 * Castelli, and later Galileo, gave the Archduke their opinions.
 * In 1624 Castelli's appointment as professor at Pisa was confirmed as one for life.
-* His pupil's elder brother, Francesco Barberini, arranged for Castelli's appointment as reader in mathematics at La Sapienza university in 1627.
 * In 1628 Castelli published Della misura dell'acque correnti Ⓣ(On measuring running water), his famous book on hydraulics.
 * This second notion has not yet been fully acknowledged because Castelli only hinted at it by criticizing Giovanni Fontana's measurements of the Tiber and his use of the term 'acqua premuta'.
 * The acknowledgment of the incompressibility of water was nonetheless an essential prerequisite of Castelli's mathematical formulation of the continuity law of running water.

@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Although Chance C Wilks trained as a banker and spent a few years in banking, he decided to move to farming and operated a 250 acre farm near Little Elm in Texas.
-* He married Bertha in 1905 and they had three children, Samuel Stanley Wilks (the subject of this biography), Syrrel Singleton Wilks (1907-1974) and William Weldon Wilks (1915-1983).
 * Since both Sam and Syrrel published under the name "S S Wilks" there is sometimes confusion between the two.
 * After studying at Little Elm School, Wilks attended high school in Denton.
 * In his final year at the high school, Wilks would miss lessons so that he could take a mathematics course at North Texas State Teachers College.
@@ -34,11 +33,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1928 Wilks received an M.A. in mathematics but he had already started teaching at the university, in fact from 1927 until 1929 he was an instructor in mathematics.
 * Strongly encouraged by Dodd, Wilks applied for a fellowship to study mathematical statistics at the University of Iowa.
 * After receiving his doctorate in June 1931 for his thesis On the distributions of statistics in samples from a normal population of two variables with matched sampling of one variable, which studied the small sample theory of 'matched' groups in educational psychology, Wilks continued research at Columbia University in session 1931-32.
-* On 1 September 1931 Wilks married Hattie Eugenia Orr (1906-2000), known as Gena.
-* They had one child, a son named Stanley Neal Wilks born in 1932.
 * The Wilks and the Orr families had been close friends for many years, and Sam Wilks and Gena Orr had been pupils at the same high school in Denton.
 * In 1932 Wilks received a two-year appointment as a National Research Council International Research Fellow and went to England where he spent the first of these years in Karl Pearson's department in University College, London.
-* This was Karl Pearson's last year before retiring and Wilks was able to work with both him and his son Egon Pearson who was appointed as a professor shortly afterwards.
 * Wilks completed work on several papers which appeared in print soon after he submitted them: Moments and distributions of estimates of population parameters from fragmentary samples (1932); On the sampling distribution of the multiple correlation coefficient (1932); The standard error of a tetrad in samples from a normal population of independent variables (1932); and Certain generalizations in the analysis of variance (1932).
 * Following his two-year stay in England, Wilks was appointed instructor of mathematics at Princeton in 1933.
 * Wilks had written to many American Universities while in England but all had replied that no position was available.

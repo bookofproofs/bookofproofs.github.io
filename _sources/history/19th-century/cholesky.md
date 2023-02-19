@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * From January to June 1902, Cholesky carried out a mission in Tunisia, then he was sent on a second mission from November 1902 to May 1903.
 * On 31 December 1903 Cholesky began a period of service in Algeria.
 * To solve the condition equations in the method of least squares, Cholesky invented a very ingenious computational procedure which immediately proved extremely useful:  it is now known as the Method of Cholesky and we describe it below.
-* Cholesky and his wife had three children; a son and two daughters.
 * Cholesky was sent to Crete on 7 November 1907 as one of the three officers assigned to carry out the task.
 * After his fellow officers were dispatched to other duties, Cholesky carried out a triangulation as well as making a topographical survey of the French and British sectors.
 * Political events, however, prevented land surveys being carried out and Cholesky left Crete on 25 June 1908.

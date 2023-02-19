@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Dionis du Séjour attended the Collège Louis-le-Grand in Paris and the studied at the Faculté de Droit.
 * Dionis du Séjour applied the latest analytic mathematical methods to the study of problems in astronomy.
 * Dionis du Séjour also worked on the theory of equations, not attaining the depth of results of Bézout or Lagrange.
-* The French Revolution caused problems for Dionis du Séjour, both in his political roles and in his scientific work.
 * On 30 September 1791 the Constituent Assembly was replaced by Legislative Assembly and Dionis du Séjour's role came to an end at this time.
 * On 31 November 1791 Dionis du Séjour was appointed as a judge of the Paris tribunal but later he resigned and retired to his estate in Argeville.
 * However from 5 September 1793 to 27 July 27 1794 there was the Reign of Terror during which 17,000 were officially executed.

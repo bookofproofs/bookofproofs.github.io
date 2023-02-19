@@ -23,12 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **August Gutzmer** was a German mathematician who worked on differential equations.
 
 ### Mathematical Profile (Excerpt):
-* The family were members of the Evangelical Lutheran Church, and August was baptized into this church.
 * Gutzmer had not studied foreign languages at school so he did not gain the required passes in his final examinations to obtain university entrance.
 * Among those who lectured to Gutzmer in mathematics were L Kronecker, K Weierstrass and L Fuchs.
 * Gutzmer, therefore studied with two of the three great Berlin mathematicians, Kronecker and Weierstrass, in the last years of their careers.
-* Soon after the award of his doctorate Gutzmer married Helene von Bannasch from Friedland, Kreis Beeskow.
-* She owned a manor and Gutzmer was employed in the administration of the manor for the first year of his married life.
 * However the manor was sold and the couple moved to Berlin where Gutzmer was an assistant at the Technischen Hochschule of Charlottenburg.
 * From 1 October 1894 to 9 January 1895 Gutzmer was in the army but dismissed as being unfit for duty.
 * On 3 August 1905 Gutzmer took up an appointment to an ordinary professorship at the University of Halle-Wittenberg.

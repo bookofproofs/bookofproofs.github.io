@@ -23,15 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Martin Kruskal** was an American mathematician and physicist who worked in plasma physics as well as soliton equations, asymptotic analysis, and surreal numbers.
 
 ### Mathematical Profile (Excerpt):
-* Martin was one of five children, having two sisters and two brothers.
-* Both brothers William Kruskal and Joseph Kruskal Jr went on to become famous mathematicians.
-* When Martin was very young, the family moved to New Rochelle, a suburb of New York.
 * Martin attended Fieldston High School in Riverdale, New York, and after graduating entered the University of Chicago.
-* We mentioned above that the Kruskal family lived in New Rochelle.
 * He soon persuaded Kruskal that he should undertake research at his new Institute and managed to obtain a position for him as Assistant Instructor in the Mathematics Department.
 * Kruskal became an assistant in 1946 and, after studying for his M.S. was awarded the degree in 1948.
 * In 1959, while continuing to hold his post in Project Matterhorn, Kruskal was also appointed as a lecturer in astronomy at Princeton.
-* An important paper on astronomy was Maximal extension of Schwarzschild's metric (1960) which showed that, using what are now called Kruskal coordinates, certain solutions of the equations of general relativity which are singular at the origin are not singular away from the origin, so allowing the study of black holes.
 * The award of a National Science Foundation Senior Fellowship saw Kruskal spend 1959-60 at the Max Planck Institute in Munich.
 * In 1961 Kruskal was promoted to Professor of Astronomy at Princeton but continued his position within Project Matterhorn until 1964.
 * Continuing his different roles at Princeton, Kruskal was appointed as director of the Applied Mathematics programme in 1968, a role he held for 20 years.

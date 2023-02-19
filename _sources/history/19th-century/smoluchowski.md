@@ -23,11 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Marian Smoluchowski** was an Austrian physicist who was a pioneer of statistical physics.
 
 ### Mathematical Profile (Excerpt):
-* Marian had a brother Tadeusz who was four years older and was a significant influence on him as he grew up.
-* Marian's father Wilhelm had trained as a lawyer then worked in the Imperial Office as a high ranking member of Franz Joseph's privy council.
-* Marian's mother Teofila was much younger than his father.
-* In addition to his parents, an important influence on Marian as he grew up was Benigna Wolska, his mother's sister, who lived in a hill top suburb of Florence.
-* Marian spent several week there every year throughout his childhood and enjoyed Benigna's home which was always filled with music.
 * Marian attended the Collegium Theresianum in Vienna between 1880 and 1890.
 * At this school Marian was at first attracted by the humanities and it was not until late in his school education that he became fascinated by physics and astronomy.
 * With Fritz Hassenöhrl, Smoluchowski not only shared a love of physics (Hassenöhrl also became a physics professor) but also a love of climbing and a love of music.

@@ -25,16 +25,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Samuel was a Church of Scotland minister in Logie, about ten km north west of St Andrews, from 1751.
 * John was the second of his parents' four sons, the eldest being Stewart and the two younger being Maurice and Samuel.
-* There were also five girls in the family, two born before John and three later.
-* John's father Samuel West died in 1766, the year that Stewart matriculated at the University of St Andrews.
-* The family were now in financial difficulties and although they were helped out by the kindness of the presbytery clerk who donated his small salary from that role, Margaret West had a hard struggle to educate her sons.
 * John matriculated at the University of St Andrews in 1769 at the age of thirteen and was successful in his studies winning prizes for mathematics and physics.
 * Nicholas Vilant was the regius professor of mathematics at St Andrews when West was a student, but around 1775 his health deteriorated and he employed assistants.
 * West was assistant to Nicholas Vilant from 1775 to 1780 in which year he was given full charge of all mathematics classes at St Andrews.
-* His mother had died in 1777 and since both his brothers Stewart and Maurice West had emigrated to Jamaica, it left John as the eldest son responsible for supporting his sisters.
 * While teaching at St Andrews, West taught John Leslie and James Ivory.
-* By this time two of his four sisters had already emigrated to Jamaica and the two sisters who had remained in Scotland now emigrated with John West.
-* In the year he left Manning's School, West married Anne Kelly; they had several children.
 * Let us look now at West's Elements of Mathematics (1784).
 * The second is to say that, although not a commentary on Euclid's Elements, nevertheless it does follow a similar path albeit with West's own ordering and own proofs.
 * Two manuscript treatises were sent, after his death, to John Leslie, but these were not published until 1838.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Erich Kähler** was a German mathematician who worked in geometry and mathematical physics. His work is valuable in string theory.
 
 ### Mathematical Profile (Excerpt):
-* Erich's mother was Elsa Götsch.
 * Erich attended school in Leipzig.
 * After wanting to to follow Hedin and be an explorer, Erich developed an interest in astronomy which by about the age of 12 developed into a love for mathematics.
 * He gave these to Kähler who, through studying them, learnt about the work of Gauss and about elliptic and abelian functions.

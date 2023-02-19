@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Forsyth** wrote important works on analysis which were responsible for introducing continental methods into the subject in Britain.
 
 ### Mathematical Profile (Excerpt):
-* John Forsyth was an engineer working in the Glasgow shipyards and his family came from Paisley.
-* However John Forsyth moved to Liverpool and, taking his family with him, Andrew was soon to show his exceptional mathematical abilities at secondary school in that city.
 * Forsyth entered Trinity College, University of Cambridge in 1877 and there he studied under Cayley, graduating in 1881.
 * This type of fellowship was competitive and candidates had to submit a thesis; Forsyth's thesis proved deep results on double theta functions.
 * Although Forsyth was back in Liverpool, the city which had become his home, he did not remain there for very long, accepting a lectureship at Cambridge in 1884.

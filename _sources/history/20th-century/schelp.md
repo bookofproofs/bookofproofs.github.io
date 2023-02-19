@@ -23,11 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Richard Schelp** was an American mathematician who researched in graph theory and combinatorics.
 
 ### Mathematical Profile (Excerpt):
-* Herbert was the son of Friedrich Ludwig Schelp and Dorothea Christine Sophie Doris Haesemeyer.
 * Herbert and Ida Schelp adopted Carol and Richard was their only son.
 * Schelp did not follow the standard route to become a university professor doing research in graph theory and combinatorics.
-* He held this position for five years during which time he married Billie Swopes and their children Lisa and Richard were born.
-* After five years earning a good salary, and having a family to support, it was a courageous decision for Schelp to give it all up to begin studying for a Ph.D. at Kansas State University.
 * His thesis advisor was Richard Joseph Greechie who had obtained his Ph.D. from the University of Florida in 1966 with a thesis on lattice theory.
 * Greechie's thesis advisor had been David J Foulis and Schelp's first paper Coordinatization of orthocomplemented and orthomodular posets (1970), written in collaboration with Stanley P Gudder, generalised Foulis's results that an orthomodular lattice can be coordinatised by a Baer *-semigroup.
 * Schelp's 114-page thesis, Partial Baer *-semigroups and partial Baer semigroups, earned his a Ph.D. in 1970.

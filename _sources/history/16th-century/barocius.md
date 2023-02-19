@@ -24,9 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * To understand events in Barozzi's life we need to look briefly at the history of Crete.
-* Francesco Barozzi's father was Iacopo Barozzi, a Venetian nobleman, and his mother was Fiordiligi Dorro the daughter of Nicolò; Dorro from Rettimo, a Cretan town which had been sacked by the Turks in 1534.
 * Francesco attended school in Padua where he learnt Greek and Latin, then he studied at the University of Padua where mathematics was part of his course.
-* Barozzi married Florida Florido, the daughter of Iacopo di Prato in 1572 but she died two years later after they had one son and one daughter.
 * Barozzi translated many other works including ones by Heron, Pappus and Archimedes.
 * Barozzi was tried by the Inquisition and found guilty in around 1583, although it is not known exactly what were the charges against him.
 * Found guilty of this, Barozzi had to provide silver crosses at the cost of 100 ducats and he received a suspended prison sentence.

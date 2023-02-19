@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Cristoforo Alasia** was an Italian school teacher who produced papers on astronomy, geometry, rational mechanics and the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Francesco married Giovanna Francesca de Quesada (1842-1922) from Sassari-Sardegna, daughter of Cristoforo and Speranza Cugia Paliacio on 28 January 1864.
-* Vincenzo and Giovanna had three sons, Cristoforo (the subject of this biography), Tommaso, who became a magistrate, and Enrico, born 1866, who became a doctor.
 * Let us note that there are problems with Cristoforo Alasia's year of birth.
 * Halsted wrote his article during Alasia's lifetime and indeed had corresponded with Alasia before writing the article.
 * If, as we believe, the 1864 date is correct, we suggest the error occurred by Halsted misreading Alasia's handwriting.
@@ -34,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * As well as papers, the journal contained reports of work published in other journals, reviews of books, some reviews by Alasia himself, and problems with solutions to them given in a later part.
 * Its director, its creator, Professor Alasia, has won the confidence and is attracting the attention of the mathematical world.
 * The monthly journal of pure and applied mathematics founded by Professor Alasia, "Le Matematiche," has had an extraordinary success.
-* Professor Alasia has been able to win the support and friendship of many of the most illustrious of living mathematicians, for example, Poincaré.
 * Alasia returned the compliment with an appreciation of Halsted on the occasion of his appointment as President of the Mathematics and Astronomy Section of the American Society for the Advancement of Science.
 * Alasia's 5-page article "George Bruce Halsted" came with a portrait and appeared in the second volume of Le Matematiche Pure ed Applicate Ⓣ(Pure and Applied Mathematics).
 * However, in the first part of the 1903 volume which was published in January of that year, Alasia announced a temporary halt to publications because of excessive commitments of the typesetter who was working on publishing the proceedings of the Third International Congress of Historical Sciences, which took place in Rome in the first week of April 1903.

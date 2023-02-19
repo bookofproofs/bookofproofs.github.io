@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alexander Ostrowski** was a Ukranian-born mathematician who worked on a wide variety of topics in both analysis and algebra.
 
 ### Mathematical Profile (Excerpt):
-* Alexander's mother was Vera Rashevskaya.
 * For three years Ostrowski participated in Grave's seminar while completing his course at the School of Commerce.
 * Ostrowski had not been a mere observer in Grave's seminar during these years, however, for by the time he completed his studies at the College of Commerce he had already found original results on Galois fields and had written his first paper with Grave's assistance.
 * Ostrowski did poorly in this lottery and permission was not granted so Grave wrote to Edmund Landau and Hensel in Germany asking for their help.
@@ -33,8 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hensel pleaded with the authorities on Ostrowski's behalf and although his movements remained severely restricted, he was allowed to use the library at Marburg University.
 * When the war ended in 1918, Ostrowski was free to move around Germany and he went to Göttingen where Klein, Hilbert and Landau were major influences on him.
 * After being awarded a Rockefeller Research Fellowship, Ostrowski spent the academic year 1925-26 in Britain, spending periods at each of the universities of Oxford, Cambridge and Edinburgh.
-* Ostrowski married Margaret Sachs in 1949.
-* From this time onwards Ostrowski concentrated fully on his mathematics while his wife completely organised the rest of their lives.
 * It was an arrangement which suited Ostrowski very well indeed.
 * When we remarked above that Ostrowski "remained at Basel until he retired" this was not meant to imply that he did not travel.
 * Ostrowski had an impressive publication record of around 275 works.

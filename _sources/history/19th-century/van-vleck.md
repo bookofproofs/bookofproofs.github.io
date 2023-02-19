@@ -24,12 +24,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * John Van Vleck was a teacher of mathematics and astronomy at the Wesleyan University from 1853 until his death in 1912.
-* Edward was known as Ned by his father and friends.
 * Edward Van Vleck attended Middletown High School, then Wilbraham Academy before entering the Wesleyan University in 1880.
 * In 1885 Van Vleck became a graduate student at Johns Hopkins University where his interests still ranged through mathematics, physics and astronomy.
 * At the University of Göttingen, Van Vleck attended lectures by Klein, Burkhardt, Fricke, Schur, Schwarz, Woldemar, Voigt, Weber and others.
 * After returning to the United States in 1893 Van Vleck was appointed as an instructor at the University of Wisconsin.
-* In the same year he married Hester Laurence Raymond; they had one son, John Hasbrouck Van Vleck, who was born on 13 March 1899.
 * We should record here that John Hasbrouck Van Vleck was educated at the University of Wisconsin, Madison, and then at Harvard University where he received his doctorate in 1922.
 * Returning to describe the career of Edward Burr Van Vleck, after being an instructor in mathematics at the University of Wisconsin from 1893 to 1895, he returned to the Wesleyan University as an associate professor.
 * Almost all Van Vleck's research papers were in the fields of function theory and differential equations.
@@ -38,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Finally, it is shown that the Van Vleck zero-one law, which in generality falls between that of Borel and that of Kolmogorov, is further distinguished in that it provides the key step in establishing what may be the earliest example in ergodic theory of a metrically transitive transformation.
 * as the years went on, the self-imposed demand for elegance and simplicity exercised a inhibitive influence upon Van Vleck's production.
 * Van Vleck was American Mathematical Society Colloquium lecturer in 1903 giving six lectures on divergent series and continued fractions.
-* The American Mathematical Society was fortunate to have Van Vleck's support as well as that of his father.
 * Van Vleck was an editor of the Transactions of the American Mathematical Society  from 1905 to 1910, vice-president in 1909, and president from 1913 to 1914.
 * In 1916 the University of Chicago celebrated its first 25 years and as part of the Quarter-Centennial Celebration they awarded Van Vleck an honorary doctorate on 6 June 1916.
 * On this occasion Van Vleck delivered an address on Current tendencies of mathematical research.

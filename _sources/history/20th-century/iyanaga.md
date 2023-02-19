@@ -25,6 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * In his second year of study Iyanaga took further courses by Takagi which developed group theory, representation theory, Galois theory, and algebraic number theory.
 * Although it was this latter topic which would eventually attract Iyanaga, at this stage of his undergraduate career he was attracted to differential equations.
+* Iyanaga posed the question of finding some intuitive or geometrical reasons why ...
 * Iyanaga's paper was so good that Yosiye had it published in the Japanese Journal of Mathematics.
 * Surprisingly Iyanaga wrote a second paper while in his second undergraduate year.
 * Both Iyanaga's two papers appeared in print in 1928.

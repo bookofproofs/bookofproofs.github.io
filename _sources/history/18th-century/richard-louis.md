@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Louis Richard** was a French mathematician who is best-known as the teacher of Evariste Galois.
 
 ### Mathematical Profile (Excerpt):
-* Louis was the eldest of his parents' four children and his parents would certainly have expected him to follow in his father's footsteps and join the military.
 * Richard continued his friendship with Vincent after he left Douai.
 * These military connections must have been to Richard's liking.
 * In 1920 he went to Paris where he was appointed to teach mathematics at the Collège Saint-Louis.

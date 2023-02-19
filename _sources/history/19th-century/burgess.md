@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alexander Burgess** graduated from Edinburgh and taught at Merchiston Castle School Edinburgh and at Rothesay Academy. He became Rector of the latter school.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Annie McIntosh Burgess (born in Cullen, Banffshire in about 1840).
-* Alexander Burgess had an older sister Annie (born about 1871) and three younger sisters Frances (born about 1875), Mabel (born about 1877), and Elizabeth (born about 1880).
 * Alexander Burgess attended Wishaw Academy, then spent four years at George Watson's College, Edinburgh, before entering the University of Edinburgh in October 1890.
 * In his first year of study Burgess took courses in Latin, Greek and Mathematics.
 * In addition to taking Honours courses in Mathematics and Natural Philosophy over the next two sessions, Burgess also took the Ordinary course in Logic and Metaphysics.

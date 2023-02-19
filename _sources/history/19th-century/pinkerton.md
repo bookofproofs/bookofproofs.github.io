@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Peter Pinkerton** studied at Glasgow and Dublin. After teaching at various schools he became Rector of Glasgow High School.
 
 ### Mathematical Profile (Excerpt):
-* Peter Pinkerton had five older brothers: William (born about 1855), David (born about 1857), John (born about 1859), Robert (born about 1862) and James (born about 1864).
 
 Born 8 June 1870, Kilmarnock, Scotland. Died 22 November 1930, Glasgow, Scotland.
 

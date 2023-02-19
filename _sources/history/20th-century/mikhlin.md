@@ -23,7 +23,6 @@ contributors: @Vladimir-G-Maz'ya,@Tatyana-O-Shaposhnikova,@Daniele-Tampieri,book
 **Solomon Grigoryevich Mikhlin** was a Belarussian mathematician of who worked in the fields of linear elasticity, singular integrals and numerical analysis.
 
 ### Mathematical Profile (Excerpt):
-* Later S G  Mikhlin married Eugenia Yakovlevna Rubinova, born in 1918, who became his companion throughout the rest of his life.
 * Sergei Lvovich Sobolev studied in the same class as Mikhlin.
 * The latter became Mikhlin's master thesis supervisor: the topic of the thesis, defended in 1929, was the convergence of double power series.
 * In 1944 Mikhlin returned to Leningrad State University as full professor.
@@ -35,8 +34,6 @@ contributors: @Vladimir-G-Maz'ya,@Tatyana-O-Shaposhnikova,@Daniele-Tampieri,book
 * Perhaps, the most illuminating example is the election of Mikhlin into the Accademia dei Lincei.
 * As already mentioned, in June 1981, Solomon G Mikhlin was elected a Foreign Member of the class of Mathematical Sciences of the Academy.
 * Thus, Mikhlin was elected as a Foreign Member of the Academy.
-* On the 29th  of August 1990, Mikhlin left home to buy medicines for his wife Eugenia.
-* Mikhlin's wife Eugenia survived him by only a few months.
 * In mathematical elasticity theory, Mikhlin was concerned with three themes: the plane problem (mainly from 1932 to 1935), the theory of shells (from 1954) and the Cosserat spectrum (from 1967 to 1973).
 * Mikhlin studied its convergence and gave applications to special applied problems.
 * Concerning the theory of shells, there are several Mikhlin's articles dealing with it.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **David Enskog**  was a Swedish mathematical physicist who helped develop the kinetic theory of gases.
 
 ### Mathematical Profile (Excerpt):
-* David, the fifth of the twelve children, was subject to the family's strict religious code as he grew up.
 * Enskog was by this time around six years older than those entering secondary school so he thought that he had missed his chance.
 * The chemist who owned the shop then made strenuous attempts to make it possible for Enskog to continue his education.
 * The chemist also helped provide Enskog with books for his studies and through 1900 Enskog worked on his own to bring himself up to the level of the fifth year of secondary school.

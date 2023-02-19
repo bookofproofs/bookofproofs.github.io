@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Étienne Montucla** was a French historian of mathematics who wrote in 1754 a history of the problem of squaring the circle.
 
 ### Mathematical Profile (Excerpt):
-* It was in that town that his son Étienne was born, was brought up, and began his education.
-* Étienne was educated in the Jesuit College in Lyon but, in 1741, while he was studying there his father died and he was left an orphan.
 * Étienne was interested in a wide range of studies at the Jesuit College.
-* In 1745 Montucla's grandmother died and at this point he went to Toulouse where he began to study law.
 * The advice from Jombert, d'Alembert and Diderot set Montucla on the road of publishing on the history of mathematics.
 * His first work was Histoire des recherches sur la quadrature du cercle Ⓣ(History of research on squaring the circle) which was published by Jombert in Paris in 1754, and the high regard in which this work was held can be judged by the fact that on the strength of this work alone Montucla was elected a corresponding member of the Berlin Academy.
 * Although the history of the problem of squaring the circle has changed greatly since Montucla's day this book is still a classic of its kind.

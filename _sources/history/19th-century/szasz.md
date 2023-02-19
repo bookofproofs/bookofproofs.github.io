@@ -31,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * A few years before Szász began his mathematical researches, Sergei Bernstein had made major contributions to the theory of approximation.
 * Bernstein stated a problem concerning the completeness of a certain set of powers on an interval and, although Szász did not solve this problem, he did make contributions which were themselves important in the development of the theory of approximations.
 * Other work by Szász made major contributions to questions posed by Landau on the maximum modulus of the partial sums of a power series.
-* In fact Szász worked on problems associated with both Riesz brothers, and he gave a very simple proof a theorem by Marcel Riesz on rational functions with given bounds on the unit circle.
 * Some of Szász's contributions to Fourier series related to results proved by Bernstein, Hardy, Littlewood and Fejér.
 * All these results were achieved before 1933 and many of the mathematicians we have mentioned, such as Perron, Pringsheim, Edmund Landau, and Fejér were all Szász's personal friends.
 * We must not give the impression, however, that Szász did not make any research contributions after emigrating to the United States.

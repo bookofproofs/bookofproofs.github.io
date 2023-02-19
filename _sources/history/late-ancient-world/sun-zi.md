@@ -35,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Xu argues convincingly that Sun Zi's procedure differs from the earlier method in significant ways and so should be recognized as an outstanding and original contribution.
 * Can we deduce anything of Sun Zi himself?
 * Well first notice that since the work of modern historians has placed the Sunzi suanjing much later than was thought in ancient times, we can now see that as nothing was known of Sun Zi within say 100 years of his death.
-* Unlike many Chinese mathematicians, Sun Zi cannot have been an important government official, nor to have been from a family of high social standing.
 
 Born about 400, China. Died about 460, China.
 

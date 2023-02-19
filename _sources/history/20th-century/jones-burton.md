@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Floyd Burton Jones** was an American mathematician who worked mainly in topology.
 
 ### Mathematical Profile (Excerpt):
-* This had the effect of making Jones grow up wishing to be a lawyer, for his father mixed with the top lawyers of the County.
 * Jones won a Regents' Scholarship to study at the University of Texas and when he entered the University he was certainly still intending to become a lawyer and he enrolled in the pre-law program.
 * Law is a subject which requires a student to be able to memorise large amounts of information and Jones soon discovered that this was not one of his strengths.
 * Lawyers do not need to study mathematics but chemists do, and so at this point Jones took mathematics courses.

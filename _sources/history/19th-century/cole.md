@@ -29,15 +29,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Cole returned to Harvard and wrote a thesis A Contribution to the Theory of the General Equation of the Sixth Degree  which, as the title indicates, studied equations of degree 6.
 * Cole presented this thesis to Harvard University, not to Göttingen University, for his Ph.D. which was awarded in 1886.
 * While he completed writing his doctoral thesis, Cole had already begun to lecture at Harvard and he continued to lecture there until 1887.
-* During the year 1887-88 Cole was a tutor at Harvard, then in the summer at the end of that academic year he married Martha Marie Streiff of Göttingen on 26 July; they had one daughter and three sons.
 * In 1895 Cole was appointed professor at Columbia University, a post which he held until his death.
 * Another important contribution to the theory of groups made by Cole was his work in publishing his English translation of Netto's book on group theory.
 * In fact Netto revised the German text of his book so that the English translation by Cole could incorporate some improvements.
 * As a lecturer Cole was described as "truly inspiring" by Osgood, who was not in general one to give praise easily.
 * He established the Frank Nelson Cole Prizes in algebra and number theory and today these are highly prestigious awards.
 * The way this came about was that when Cole ended his spell of twenty-five years of secretarial and editorial duties for the American Mathematical Society his fellow members of the Society were so appreciative of his contributions that they collected money to give him to show their recognition.
-* In fact Cole took his love of trees and wild flowers from his father, and in fact, as we mentioned near the beginning of this article, inherited his love of mathematics from the same source.
-* The biographical details we have given suggest that Cole's life was a rather straightforward one of devotion to mathematics and his family.
 * The reason's for Cole's unusual behaviour, which generated much comment and speculation, were only partially explained after his death.
 
 Born 20 September 1861, Ashland, Massachusetts, USA. Died 26 May 1926, New York, USA.

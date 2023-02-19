@@ -23,12 +23,7 @@ contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,
 **Viktor Ambartsumian** was an Armenian astrophysicist who was born in what is now Georgia. He was one of the founders of theoretical astrophysics and worked in the field of the physics of stars and nebulae.
 
 ### Mathematical Profile (Excerpt):
-* His father, Amazasp Asaturovich Ambartsumian, was a philologist, who was responsible for a translation of Homer's Iliad into Armenian.
-* Victor's mother was Ripsame Ambartsumian.
-* Victor was one of three children, having an older sister who became the chairman of the Department of Probability Theory at Yerevan University and a younger brother who died at the age of 23 while working on a geophysical expedition as an operator.
 * It was Amazasp who encouraged the development of Victor's aptitude for mathematics and physics.
-* He was failed and when his father angrily (Victor said his father was a hot-headed man) demanded to know why his son had been failed he was told that the problem was a hard one and all steps of the working were necessary.
-* Victor's father then said he would teach his son himself and he would go straight into the senior class.
 * Ambartsumian loved mathematics and became interested in astronomy at the age of twelve after reading a Russian translation of The Planetary and Stellar Worlds (1848) by Ormsby McKnight Mitchel (1809-1862).
 * His teacher at the Gymnasium wrote on one of his reports, "this boy can become in future the founder of an astronomical observatory in Armenia." Ambartsumian gave lectures on astronomy while at the Gymnasium and, discovering that a Moscow trained astronomer Nikolai Ignatevich Sudakov was teaching at another Tiflis school he transferred there.
 * Ambartsumian completed the Gymnasium courses rapidly and graduated before his sixteenth birthday.

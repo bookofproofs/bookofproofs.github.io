@@ -25,14 +25,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 Suppose the largest natural number is `$N$`. Then if `$N>1$` we have `$N^2>N$` contradicting the definition. Hence (!), `$N=1$`.
 
 ### Mathematical Profile (Excerpt):
-* Heinrich, the son of leather trader Valentin Perron (1807-1888) and Katharina Schaaff (1818-1865), married Auguste Leinenweber (1857-1924) from Pirmasens on 30 May 1876.
 * Oskar began his schooling at the Volksschule in 1886 before moving to the Latin School in the autumn of 1889.
 * In 1898 Perron was awarded his Abitur and later that year he began his studies of mathematics and physics at the University of Munich.
 * After the award of his doctorate, Perron studied at Tübingen University and Göttingen University, where he worked with David Hilbert.
 * It had been lectures at Munich by Alfred Pringsheim on continued fractions that had been a major influence on Perron and this 1905 paper on continued fractions continued Pringsheim's work on the topic.
 * Perron also published Über eine Anwendung der Idealtheorie auf die Frage nach der Irreduzibilität algebraischer Gleichungen Ⓣ(On an application of ideal theory to the question of the irreducibility of algebraic equations) in 1905.
 * Perron went on to complete his habilitation at Munich and was appointed a lecturer there in 1906.
-* On 28 July 1906, he married Hermione Perron, who was related to him via a number of different routes.
 * Perron's work on continued fractions led to him publishing the book Die Lehre von den Kettenbrüchen Ⓣ(The law of continued fractions) in 1913.
 * In 1910 Perron accepted the offer of a post as extraordinary professor at Tübingen and then, on 13 December 1913, he became an ordinary professor at Heidelberg, taking up the appointment in 1914.
 * His work in analysis is certainly remembered through the Perron integral.

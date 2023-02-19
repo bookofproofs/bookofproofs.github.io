@@ -23,11 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Annie Hutton Numbers** graduated from Edinburgh University and worked in the Chemistry department in Edinburgh. She taught in schools in Ipswich and High Wycombe.
 
 ### Mathematical Profile (Excerpt):
-* Her father was Alexander Anderson Numbers (1864-1939), born in Dysart, Fife on 26 June 1864, who was a joiner and cabinetmaker.
-* Alexander and Maggie Numbers were married in Dunfermline in 1893.
-* Annie Numbers had a younger sister Isabella Anderson Numbers (born 10 July 1898, died 14 February 1933 in Edinburgh).
-* In addition to her parents and sister, the 56-year old Helen Numbers, who was a cousin of Alexander, is living with them.
-* By the time of the 1911 census two further siblings of Annie have been born, a brother Alexander Numbers, born 20 June 1906 and a sister Elizabeth "Lizzie" C Numbers born 11 January 1902.
 * Annie Numbers began her education at Mrs Steele's Private School in Upper Gray Street in Edinburgh.
 * After graduating from Edinburgh Ladies' College, Annie Numbers then went to Edinburgh University, beginning her studies in 1914 and graduating with the degrees of MA (Hons), Mathematics and Natural Philosophy, in 1918.
 * After completing her undergraduate studies, Annie enrolled on a course of professional training, to become a Specially Qualified Teacher of Science in Intermediate and Secondary Schools.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Naonobu Ajima** was a Japanese mathematician and astronomer who developed a theory of integration.
 
 ### Mathematical Profile (Excerpt):
-* His father was chairman of the Treasury of the clan, and Ajima was born in the official Shinjo residence.
 * Ajima was over thirty years of age before he began his studies with Yamaji.
 * While studying with him, Ajima wrote books on astronomy and helped his teacher to compile an almanac.
 * It was only after Yamaji's death that Ajima began to write works on mathematics.

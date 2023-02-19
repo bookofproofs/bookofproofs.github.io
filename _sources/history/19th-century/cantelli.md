@@ -31,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1925 Cantelli was called to Naples where he taught actuarial and financial mathematics.
 * However others made important contributions, and a number of Italians, including Cantelli, Castelnuovo and de Finetti, did outstanding work in this area.
 * Although his name is frequently connected with the name of E Borel, Cantelli's approach to probability is very different from that of Borel.
-* Cantelli's first publications on probability examined the foundations of the subject in connection with logic, for example in Sui fondamenti del calcolo delle probabilità Ⓣ(On the foundations of probability) (1905).
 * Cantelli, in his work on the law of large numbers, was developing ideas which had been first suggested by Jacob Bernoulli in the 17th  century.
 * Around the time that Cantelli worked on the law of large numbers, Borel was also interested in the topic.
 * In spite of these aspects, the Cantelli treatment of stochastic convergence turns out to be exceptionally transparent and quite satisfactory even with respect to the present expositions of the subject.

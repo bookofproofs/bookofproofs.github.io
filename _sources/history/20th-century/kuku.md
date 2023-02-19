@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Aderemi Kuku** is a Nigerian mathematician who specialised in K-theory. He taught a wide range of mathematical courses at both undergraduate and graduate levels.
 
 ### Mathematical Profile (Excerpt):
-* His father, Busari Adeoye Kuku's mother (Barikisu Kuku) was a great grand daughter of Oba Ofiran and he, Otunba (Professor) Kuku belongs to Adetuyo Ruling House of Owa of Okun-Owa.
-* Busari Adeoye Kuku believed in education for his children and they all went to school.
-* Aderemi had two older brothers; the eldest became an expert in telecommunications, the second eldest became an electrical technician, while his younger brother became a professor of Electronics.
 * Aderemi Kuku's first school was Bishop Oluwole Memorial School, Agege, Lagos State.
 * This school had been founded in 1913 and when it celebrated its centenary on 13 January 2013, Kuku was honoured with a special award for distinguished accomplishments during the centenary dinner held at the Banquet Hall of the Nigerian Law School, Victoria Island, Lagos, Nigeria.
 * At this stage Kuku had options.
@@ -38,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Kuku went to the library and began to study the papers that were being produced in this new area.
 * This was somewhat of a challenge since he had a supervisor who was not in a position to be much help and, in addition, Kuku had to teach courses at the University of Ife.
 * Kuku was awarded an M.Sc. by the University of Ibadan in 1968.
-* Kuku married Felicia Osifunke Kalesanwo on 28 December 1968; they have four children Dolapo Kuku, Solape Kuku, Yemisi Kuku and Kemi Kuku.
 * Dr (Mrs) Kuku was at various times President, Nigerian Association of University Women (Ibadan Branch), a member of Zonta International, Ibadan and member of National Council of Women Societies (Ibadan).
 * After receiving an invitation from Hyman Bass to undertake research at Columbia University, New York City, and, after arranging leave from the University of Ibadan, Kuku spent the year 1970-71 at Columbia University.
 * During this year Hyman Bass acted as a thesis advisor to Kuku who returned to the University of Ibadan and submitted his thesis On the Whitehead group of p-adic integral group-rings of finite p-groups.

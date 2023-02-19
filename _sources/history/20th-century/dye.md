@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The results which Dye proved in this paper led to marked progress in the theory of von Neumann algebras.
 * In 1953 Dye published The unitary structure in finite rings of operators.
 * In the paper Dye promised a second paper giving a detailed discussion of certain parts of his theory, and indeed this second instalment appeared in the same journal in 1963.
-* Dye married Anne Garvey and they had a son John who became a professor of mathematics, and a daughter Constance.
 * In 1981 Henry and Eugenie Dye visited the University of Warwick in England when Dye was a Senior Visiting Fellow of the U.K. Science research Council.
 * Henry's research students learned a lot from him about mathematical culture.
 * Dye's health deteriorated after he passed fifty years of age and for quite a few years he continued to work hard for UCLA despite being in poor health.

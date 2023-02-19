@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * My first impressions of David were to realise what thoughtful, kind person he was, and then quickly to appreciate his outstanding abilities as a lecturer.
 * As a result, there were, in almost every year during Fowler's first 25 years at Warwick, more mathematicians visiting the university's Mathematics Department than there were mathematical visitors to all other English universities combined - a remarkable record for a new university.
 * In that book, David Fowler anticipated many of my difficulties.
-* Fowler married Denise Stroh; they had two children Stephan and Magali.
 * Denise was French and David and Denise Fowler had worked together on a translation from French to English of René Thom's famous book Structural Stability and Morphogenesis.
 * But Fowler's worldwide reputation is as an historian who came up with mould breaking ideas.
 * quickly fascinated Fowler.

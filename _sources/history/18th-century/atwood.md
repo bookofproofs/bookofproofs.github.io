@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **George Atwood** was an English mathematician best known for his invention of a low-friction pulley system.
 
 ### Mathematical Profile (Excerpt):
-* George was the eldest of his parents sons and he had two younger brothers James and Thomas.
 * In his final year at the school in 1764 George was captain of the school.
 * Atwood was a very popular lecturer at Cambridge, giving many demonstrations in his lectures.
 * William Pitt, British prime minister (1783-1801, 1804-06), was one of the many students who attended Atwood's popular lectures and later, when Pitt had achieved high office, he employed Atwood in the Treasury.
@@ -42,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * These records have survived, among them the last games that Philidor played which were against Atwood at Parsloe's Club in London on 20 June 1795.
 * Atwood was highly involved with mathematical calculations which were needed by governments to run the country effectively.
 * It was said that this intense work and calculation had broken Atwood's health.
-* Atwood's brother Thomas had succeeded his father as curate at St Margaret's, Westminster, and he still held that position at St Margaret's when Atwood was buried there.
 
 Born October 1745, Westminster, London, England. Died 11 July 1807, Westminster, London, England.
 

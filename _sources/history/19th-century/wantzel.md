@@ -23,10 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Pierre  Wantzel** was a French mathematician who proved that several ancient geometric problems were impossible to solve using only ruler and compass constructions.
 
 ### Mathematical Profile (Excerpt):
-* Pierre Wantzel attended primary school in Ecouen, near Paris, where the family lived.
 * He soon surpassed even his master, who sent for the young Wantzel, at age nine, when he encountered a difficult surveying problem.
 * In 1826, while still only 12 years old, Wantzel entered the École des Arts et Métiers de Châlons.
-* Unhappy with the less academic nature of the school in 1828, Wantzel entered the Collège Charlemagne after being coached in Latin and Greek by a M Lievyns (whose daughter he was later to marry).
 * Wantzel was not one to take life easy and he took on additional duties taking charge of the entrance examinations at the École Polytechnique in 1843 and in addition taught various mathematics and physics courses at various schools around Paris, including at the Collège Charlemagne.
 * Wantzel is famed for his work on solving equations by radicals.
 * In this 1837 paper Wantzel was the first to prove these results.

@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Edray Herber Goins** is an Afro-American mathematician working on elliptic curves and icosahedral Galois representations.
 
 ### Mathematical Profile (Excerpt):
-* Edray Goins was brought up along with his brother.
-* Eddi Beatrice Brown became a teacher, married Goins, and in 1972 she gave birth to Edray Herber Goins, the subject of this biography, in South Central Los Angeles.
 * The Preliminary Scholastic Assessment Test at the time that Goins was at high school consisted of a mathematics section and a verbal section.
 * In 1989 Goins received a National Merit Scholarship Honourable Mention, and in the following year he graduated from High School and was awarded a National Achievement Scholarship.
 * Indeed Goins' American Physical Society Scholarship was renewed for the year 1992-93.
@@ -38,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Another lovely paper is Goins' paper Palindromes in different bases: A conjecture of J Ernest Wilkins (2009).
 * Goins was awarded many research grants, most having the theme of promoting mathematical participation by minority groups.
 * Shortly after writing this article, Goins resigned from Purdue University and accepted a position at Pomona College from July 2018.
-* For a Black Mathematician, What It's Like to Be the 'Only One', published in The New York Times in February 2019, looks at Goins' decision and comments on the reaction, both positive and negative.
 
 Born 29 June 1972, Los Angeles, USA View four larger pictures.
 

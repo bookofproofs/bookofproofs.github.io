@@ -23,10 +23,8 @@ contributors: @Cáit-Ní-Shúilleabháin,@Edmund-Robertson,bookofproofs
 Trained as a mathematician **Éamon de Valera** went on to beccome head of the government of the Irish Republic.
 
 ### Mathematical Profile (Excerpt):
-* He was born in midtown Manhattan and spent the first two and a half years of his life in America under the care of his father, mother, and an employed minder, Mrs Doyle.
 * Just over three years later, de Valera began his primary level education by attending Bruree National School.
 * young teacher and a brilliant mathematician who made a great impression on his famous pupil.
-* As de Valera's family were labourers, the fees required for attending a private school were beyond their means.
 * The best way for progressing in life and education was to attend one of the Christian Brothers Schools (C.B.S.) which provided 'people, irrespective of social status, the opportunities of a higher education' in the hope of winning an exhibition or scholarship which would enable a student to attend one of the private second level institutions.
 * De Valera began his second level education at Charleville C.B.S. in 1896 and the following year he successfully won an exhibition worth £20, retainable for three years.
 * He was accepted in Blackrock College, Dublin in 1898, and he was described as a 'fanatic for mathematics'.
@@ -75,8 +73,8 @@ Trained as a mathematician **Éamon de Valera** went on to beccome head of the g
 * former scholars are to be found in chairs in many parts of the world, and the school may feel reasonably proud that Ireland has, with profit to herself, made an international contribution to physics.
 * The foundation of DIAS, among other acts, culminated in de Valera's election as an honorary Fellow of the Royal Society of London in 1968.
 * the President's great regret is that the time he can devote to maths is necessarily very limited.
+* However, he has read from time to time articles on modern physics -- atomic particles, quantum dynamics ...
 * During this time de Valera's poor sight had deteriorated, and using dark linoleum was the only way he could practice mathematics.
-* After he retired from politics, one of de Valera's official biographers,   Néill, wrote to J L Synge detailing de Valera's continuing interest in mathematics.
 * the way in which he would agree to take a walk, on doctor's instructions, only when his secretary had read to him a mathematics problem which he could ponder over as he walked.
 
 Born 14 October 1882, Manhattan, New York, USA. Died 29 August 1975, Dublin, Ireland.

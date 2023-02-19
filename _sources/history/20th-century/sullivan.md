@@ -47,7 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One of Sullivan's most important contributions was to forge the new mathematical techniques needed to rigorously establish the predictions of Feigenbaum's renormalization as an explanation of the phenomenon of universality in dynamical systems.
 * Sullivan's "no wandering domains" theorem settled the classification of dynamics for iterated rational maps of the Riemann sphere, solving a sixty-year-old conjecture by Fatou and Julia.
 * Sullivan's work has been consistently innovative and inspirational.
-* Sullivan is married to a mathematician also on the faculty at Stony Brook.
 
 Born 12 February 1941, Port Huron, Michigan, USA.
 

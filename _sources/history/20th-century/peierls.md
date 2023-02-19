@@ -24,18 +24,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Heinrich Peierls was director of the Berlin-Oberschöneweide factory of Allgemeine Elektrizitätsgesellschaft when Rudolf was born, and the following year he became a member of the board.
-* When Rudolf was fourteen years old his mother died of Hodgkin's disease, and his father married Else Hermann (who was not Jewish) soon after.
-* Peierls wanted to follow a career in engineering but his father doubted that his son had the necessary dexterity and practical skills to excel in this, so he put pressure on Rudolf to enrol in physics courses.
 * Peierls was then forced to go down the route he had been trying to avoid and take courses in mathematics and theoretical physics.
 * After a year at Berlin, Peierls moved to the Department of Theoretical Physics in Munich University in 1926.
 * It was Sommerfeld who introduced Peierls to quantum mechanics during these two years and this proved highly significant for Peierls' career.
 * In the spring of 1929 Heisenberg also went off on a world tour so Peierls moved university again, this time going to the Eidgenössische Technische Hochschule in Zürich to work with Wolfgang Pauli.
 * At Zürich, Peierls worked with Lev Landau who was visiting Zürich.
 * In the summer of 1930 Peierls went to a conference in Odessa where he met not only with Lev Landau, but also many of his colleagues.
-* After six months of intense correspondence by letter, Rudolf Peierls travelled to Leningrad again in March 1931, and during his brief stay - much to the dismay of his surprised family - married Genia.
-* Genia and Rudolf married on 15 March 1931; they had three daughters Joanna, Gaby and Catherine, and one son Ronald who became a computational mathematician.
 * Peierls was awarded a Rockefeller Fellowship and he spent the first half of the year 1932-33 in Rome with Enrico Fermi, and the second half in England where he worked at Cambridge with Paul Dirac and Ralph Fowler.
-* The deteriorating political situation in Germany led to Peierls attempting to gain British citizenship in May 1938 and, at the same time, he tried to reject his German citizenship.
 * However, undertaking war work was still difficult and this would prove particularly so when, together with Otto Frisch (an Austrian), he made it known to the British government through the 3-page Frisch-Peierls memorandum that he had the theoretical knowledge to make an atomic bomb from uranium-235 a possibility.
 * The government set up the MAUD committee to examine the Frisch-Peierls memorandum and at first, because of Peierls and Frisch's German and Austrian backgrounds, they were prevented from taking part.
 * Soon, however, the realisation that it was impossible to prevent the two scientists who had proposed the idea from knowing about it came home to the committee and Peierls and Frisch were invited as members of a technical subcommittee.

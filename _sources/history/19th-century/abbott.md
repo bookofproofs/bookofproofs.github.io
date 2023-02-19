@@ -23,12 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Edwin Abbott** was an English schoolmaster who wrote the popular book _Flatland_ as an introduction to higher dimensions.
 
 ### Mathematical Profile (Excerpt):
-* His mother Jane was a first cousin of his father, so both had the name of Abbott which explains Edwin Abbott Abbott having 'Abbott' as both a surname and a middle name.
 * Edwin Abbott was headmaster of the Philological School at Marylebone.
 * Abbott was educated at the City of London School which had gained a fine reputation under Dr G F W Mortimer who was headmaster throughout the years during which he studied there.
 * Following a fine school education, Abbott entered St John's College, Cambridge, in 1857.
 * At this time College fellows were not allowed to marry so, when Abbott wished to marry Mary Elizabeth Rangeley from Unstone, Derbyshire, in 1863, he had to resign the fellowship.
-* Edwin and Mary had one son and one daughter.
 * After leaving Cambridge, Abbott taught at King Edward's School, Birmingham, and then at Clifton College.
 * It was a post which Abbott held for 24 years until he retired in 1889.
 * Of course Abbott was relatively young when he retired being only 50 years old.

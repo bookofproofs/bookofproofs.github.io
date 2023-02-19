@@ -35,11 +35,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After the fall of France, Pisot was offered a position in a French university but instead he chose to move to Germany.
 * Although this may sound a little strange, one must remember that Pisot was born in Alsace at a time when it was part of Germany.
 * Pisot, now known in Germany as Karl Pisot, was given a temporary appointment at the University of Freiburg in 1940.
-* In April 1943 an official at the education ministry wrote that a rectification of Pisot's situation in Germany was called for on grounds of both justice and politics.
 * The official died, and in October 1944 Pisot was still not a German citizen.
 * Constantin Carathéodory had recommended Pisot for a permanent appointment in 1942 but the citizenship issue prevented this taking place.
 * By the summer of 1944 Pisot was working with Wilhelm Süss at his Research Institute at Freiburg.
-* Pisot's family lost everything they possessed in this bombing raid.
 * In early 1945 Süss was arguing strongly for Pisot's German citizenship to be settled so that he could be appointed to the University of Freiburg, the Research Institute at Oberwolfach, or to both.
 * Pisot went with Süss, and other mathematicians from military establishments and colleagues from Freiburg, to Oberwolfach and lived there until the end of the war.
 * After the war ended, Pisot returned to France and, in 1946, was appointed as an assistant professor at the University of Bordeaux.

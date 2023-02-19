@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Francesco Siacci** was an Italian mathematician whose most important work was in application of mechanics to artillery.
 
 ### Mathematical Profile (Excerpt):
-* However this was a period of instability in Italian affairs and Siacci was deeply involved with the political events of the time.
 * The position of Rome presented problems and, for Siacci based in Rome, this was not the place to be.
 * Since Siacci was already an excellent mathematician it was felt that he could make the best contribution to the army at the Military Academy in Turin.
 * Siacci took part in this campaign against the Austrians but was quickly sent back to teach ballistics at the Military Academy in Turin before the campaign ended.

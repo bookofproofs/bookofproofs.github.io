@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Georges Reeb** was a French mathematician who worked in differential topology, differential geometry, topological dynamics and non-standard analysis.
 
 ### Mathematical Profile (Excerpt):
-* Georges, who had one brother, was born in Saverne which is about 40 km north west of Strasbourg in Alsace.
 * Reeb began his university studies at the University of Strasbourg before the start of World War II.
 * Reeb was part of the evacuation and continued his studies in Clermont-Ferrand.
 * Reeb, like all the staff and students, had to endure difficult times during the occupation.

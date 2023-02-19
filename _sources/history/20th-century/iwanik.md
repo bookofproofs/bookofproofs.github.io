@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Anzelm Iwanik** was a Polish mathematician who worked on functional analysis, topological dynamics, spectral theory and ergodic theory.
 
 ### Mathematical Profile (Excerpt):
-* There were three children in the family, Anzelm being the youngest.
 * In 1972 Iwanik was awarded a Master's degree in mathematics from Wrocław University for his thesis Complete algebras with infinite support.
 * Iwanik investigated algebras < A;FA ; FA;F > for which AAA is infinite and FFF contains unary operations only.
 * After the award of his Master's thesis in mathematics, which he was awarded with distinction, Iwanik moved from the Institute of Electric Metrology to the Institute of Mathematics remaining in the Technical University of Wrocław.

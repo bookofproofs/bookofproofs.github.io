@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Elias was nine years old when the German armies invaded Belgium in May 1940.
-* In the following year the Stein family escaped from the Nazi controlled country and sailed to the United States.
 * There they settled in New York and Elias attended Stuyvesant High School.
 * After the award of his bachelor's degree in 1951, Stein remained at Chicago studying for his Master's degree.
 * Stein held an NSF Postdoctoral Fellowship during 1955-56 and was appointed as an Instructor in Mathematics at the Massachusetts Institute of Technology in 1956.

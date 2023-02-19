@@ -38,13 +38,10 @@ In a long and varied career **Russell** published a vast number of books on logi
 * In much the same way that Russell wanted to use logic to clarify issues in the foundations of mathematics, he also wanted to use logic to clarify issues in philosophy.
 * As one of the founders of "analytic philosophy", Russell is remembered for his work using first-order logic to show how a broad range of denoting phrases could be recast in terms of predicates and quantified variables.
 * Here, as in mathematics, it was Russell's hope that by applying logical machinery and insights one would be able to resolve otherwise intractable difficulties.
-* Following the death of his mother (in 1874) and of his father (in 1876), Russell and his brother went to live with their grandparents.
-* (Although Russell's father had granted custody of Russell and his brother to two atheists, Russell's grandparents had little difficulty in getting his will overturned.) Following the death of his grandfather (in 1878), Russell was raised by his grandmother, Lady Russell.
 * Educated at first privately, and later at Trinity College, Cambridge, Russell obtained first class degrees both in mathematics and in the moral sciences.
 * Although elected to the Royal Society in 1908, Russell's career at Trinity appeared to come to an end in 1916 when he was convicted and fined for anti-war activities.
 * (The details of the dismissal are recounted in Bertrand Russell and Trinity (1942) by G H Hardy.) Two years later Russell was convicted a second time.
 * Married four times and notorious for his many affairs, Russell also ran unsuccessfully for Parliament, in 1907, 1922, and 1923.
-* He became the third Earl Russell upon the death of his brother in 1931.
 * While teaching in the United States in the late 1930s, Russell was offered a teaching appointment at City College, New York.
 * During the 1950s and 1960s, Russell became something of an inspiration to large numbers of idealistic youth as a result of his continued anti-war and anti-nuclear protests.
 * Together with Albert Einstein, he released the Russell-Einstein Manifesto in 1955, calling for the curtailment of nuclear weapons.

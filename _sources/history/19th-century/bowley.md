@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Arthur Bowley** was a leading statistician with an international reputation for his work on poverty. His expertise in mathematics meant that he played an important part in developing the mathematical basis of economics. He was a prolific author publishing many influential books.
 
 ### Mathematical Profile (Excerpt):
-* On 15 July 1856, James married Ann Elizabeth Jackson (1826-1861), to whom he had been engaged for eight years, at St Philip, Dalston; they had three children James Lyon Bowley (born 1857), Mary Elizabeth Bowley (born 1858) and Florence Ann Bowley (born 1859).
-* James and Maria Bowley had four children, all born in Bristol, Robert Lyon Bowley (born 1864), Ellen Maria Bowley (born 1866), Francis Bulmer Lyon Bowley (born 1868) and Arthur Lyon Bowley (born 1869), the subject of this biography.
 * James Bowley died on 1 January 1871 when Arthur was one year old.
-* At the 1871 Census, Maria Bowley is living at 26 Kingsdown Parade with her stepson James Lyon Bowley and her four children.
 * We have treated Arthur Bowley's background in some detail, particularly since it influenced his career being a factor in his research into poverty.
 * In 1879 James Bowley began his education at Christ's Hospital School in Newgate Street London.
 * This school was another strong influence on Bowley's character, giving him a life-long interest in social problems.
@@ -39,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At the London School of Economics, Bowley was promoted to Reader in 1908 and, in 1915, he became a professor.
 * Three of us were interviewed, and Professor Bowley, a statistician who was head of the department, appointed a Scotch football player.
 * Bowley retained this Chair for six years but resigned in 1913 when he was appointed to the Chair of Statistics at the University of London.
-* Bowley married Julia Hilliam (1871-1959) in St George's Church, Reading on 26 March 1904.
 * With the undergraduate, groping his way in an endeavour to achieve a statistical frame of mind, Bowley assumed an ability to follow an argument that was not always justified.
 * There was perhaps a tendency for Bowley's lectures to develop on occasion into a confidential monologue addressed to the blackboard, as he chalked up line after line of formulae.
 * Thus it was that those students who took statistics as a subordinate or voluntary subject were apt to become impatient; but those who were taking statistics as their main subject came sooner or later to realise that the necessity of helping themselves was itself a very real element in the education that Bowley provided and by them he soon became acknowledged as the very great man he was.

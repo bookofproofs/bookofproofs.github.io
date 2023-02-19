@@ -24,10 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * His parents were Nikolai Mikhailovich Bogolyubov and Olga Nikolaevna.
-* Nikolai Mikhailovich was a priest in the Russian Orthodox Church who taught theology and philosophy, and his wife Olga was a music teacher.
 * Nikolai Nikolaevich was eight years old when the October Revolution of 1917 started the events which would lead to the Soviets taking power and the creation of the Soviet Union in 1922.
-* It became increasingly difficult for Nikolai Nikolaevich's father to provide a good education for his son since the increasing Soviet domination led to restrictions on children of Russian Orthodox priests.
-* Therefore, in 1921, the family decided to move to Kiev where Nikolai Nikolaevich could receive a top quality education.
 * Indeed in 1922, although he was only thirteen years old, he began attending research seminars at Kiev University run by Nikolai Mitrofanovich Krylov.
 * Both Dmitry Aleksandrovich Grave and Nikolai Krylov quickly realised the potential of their young student and helped him greatly.
 * In 1923 Bogolyubov began to undertake mathematical research assisted by Krylov and produced his first original results.
@@ -52,6 +49,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * All this enabled Bogolyubov to establish large scientific schools of non-linear mechanics, mathematical physics, and theoretical physics.
 * One aspect of Bogolyubov's work which we have not mentioned yet is his activities in the secret city for nuclear research and nuclear arms production named Arzamas-16.
 * Bogolyubov and his students organized the mathematical section at this site.
+* The enormous erudition and talent of Bogolyubov came in very handy! ...
 * Bogolyubov himself completed a series of brilliant papers on the theory of stability of a plasma in a magnetic field and on the theory and applications of the kinetic equations, and he began his construction of axiomatic quantum field theory.
 * Bogolyubov was sent to the steppes of Kazakhstan for the tests.
 * Bogolyubov worked at that site for over three years; he was then just over 40.

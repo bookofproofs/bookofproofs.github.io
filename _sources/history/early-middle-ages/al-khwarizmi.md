@@ -4,7 +4,7 @@ categories: history,early-middle-ages
 parentid: bookofproofs$608
 tags: algebra,ancient-arab,ancient-babylonian,ancient-indian,astronomy,origin-iraq,number-theory,special-numbers-and-numerals
 orderid: 790
-title: Al-Khwarizmi, Abu Ja&amp;#x27;far Muhammad ibn Musa
+title: Al-Khwarizmi, Abu Ja&amp;amp;#x27;far Muhammad ibn Musa
 born: 790
 died: 850
 keywords: al-khwarizmi,al-khwarizmi
@@ -24,6 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * the pious preface to al-Khwarizmi's "Algebra" shows that he was an orthodox Muslim, so Al-Tabari's epithet could mean no more than that his forebears, and perhaps he in his youth, had been Zoroastrians.
+* Al-Tabari's words should read: "Muhammad ibn Musa al-Khwarizmi and al-Majusi al-Qutrubbulli ...", (and that there are two people al-Khwarizmi and al-Majusi al-Qutrubbulli): the letter "wa" was omitted in the early copy.
 * This would not be worth mentioning if a series of conclusions about al-Khwarizmi's personality, occasionally even the origins of his knowledge, had not been drawn.
 * This is not the last disagreement that we shall meet in describing the life and work of al-Khwarizmi.
 * However before we look at the few facts about his life that are known for certain, we should take a moment to set the scene for the cultural and scientific background in which al-Khwarizmi worked.
@@ -39,14 +40,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Al-Khwarizmi has neither definitions, nor axioms, nor postulates, nor any demonstration of the Euclidean kind.
 * Al-Khwarizmi continues his study of algebra in Hisab al-jabr w'al-muqabala by examining how the laws of arithmetic extend to an arithmetic for his algebraic objects.
 * Al-Khwarizmi's scientific achievements were at best mediocre.
-* In a sense, al-Khwarizmi is more entitled to be called "the father of algebra" than Diophantus because al-Khwarizmi is the first to teach algebra in an elementary form and for its own sake, Diophantus is primarily concerned with the theory of numbers.
 * The next part of al-Khwarizmi's Algebra consists of applications and worked examples.
 * Al-Khwarizmi also wrote a treatise on Hindu-Arabic numerals.
 * The Arabic text is lost but a Latin translation, Algoritmi de numero Indorum in English Al-Khwarizmi on the Hindu Art of Reckoning  gave rise to the word algorithm deriving from his name in the title.
 * The first use of zero as a place holder in positional base notation was probably due to al-Khwarizmi in this work.
 * al-Khwarizmi's work was the first to expound it systematically.
 * Another important work by al-Khwarizmi was his work Sindhind zij on astronomy.
-* The Indian text on which al-Khwarizmi based his treatise was one which had been given to the court in Baghdad around 770 as a gift from an Indian political mission.
 * There are two versions of al-Khwarizmi's work which he wrote in Arabic but both are lost.
 * The main topics covered by al-Khwarizmi in the Sindhind zij are calendars; calculating true positions of the sun, moon and planets, tables of sines and tangents; spherical astronomy; astrological tables; parallax and eclipse calculations; and visibility of the moon.
 * Al-Khwarizmi wrote a major work on geography which give latitudes and longitudes for 2402 localities as a basis for a world map.

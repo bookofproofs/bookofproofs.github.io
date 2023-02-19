@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Colson** was an English clergyman and mathematician who translated several of Newton's books into Engish.
 
 ### Mathematical Profile (Excerpt):
-* His father, Francis Colson, was vicar-choral of Lichfield cathedral and his mother was Elizabeth.
-* The family were closely related to the historian John Strype (1643-1737).
-* John Colson attended Lichfield grammar school and we know from letters from Francis Colson written to John Strype in 1696 that his son John had visited London and called on John Strype but not found him at home.
 * John Colson matriculated at Christ Church College, Oxford, on 26 May 1699 but does not appear to have graduated with a degree.
 * In 1707 Colson published The universal resolution of cubic and biquadratic equations viz.
 * This was the most original piece of research that Colson produced in his whole career.

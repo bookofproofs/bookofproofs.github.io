@@ -23,10 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Artin** made a major contribution to the theory of noncommutative rings and later worked on rings with the minimum condition on right ideals, now called Artinian rings.
 
 ### Mathematical Profile (Excerpt):
-* Emil's mother was Emma Laura-Artin and she was an opera singer.
 * All his life Emil would have a love of music which essentially equalled his love of mathematics.
 * Although the town today is called Liberec, and is in the northern Czech Republic, at the time that Emil was educated there it was a mainly German speaking city.
-* Artin's childhood was not a particularly happy one and he recounted later in his life how he had felt lonely.
 * However Artin did begin his university career, enrolling at the University of Vienna.
 * At Hamburg Artin lectured on a wide variety of topics including mathematics, mechanics and relativity.
 * These were particularly productive years for Artin's research.

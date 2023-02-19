@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ernst Zermelo** was a German mathematician who did pioneering work on the foundations of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* His father was a college professor so Zermelo was brought up in a family where academic pursuits were encouraged.
 * At this time it was the custom for students in Germany to study at a number of different universities and indeed that is precisely what Zermelo did.
 * This was an impressive collection of inspiring lecturers and Zermelo began to undertake research in mathematics after completing his first degree.
 * After the award of his doctorate, Zermelo remained at the University of Berlin where he was appointed assistant to Planck who held the chair of theoretical physics there.

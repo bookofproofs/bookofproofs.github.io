@@ -26,8 +26,6 @@ contributors: @Stefanie-Eminger,bookofproofs
 * Bützberger was the 11th  of Schläfli's 12 doctoral students.
 * Bützberger became a mathematics teacher at the Kantonsschule in Zürich in 1896.
 * The collection of Bützberger's papers is now stored in the ETH Library Archive.
-* Bützberger was married to Rosa Kohler.
-* The couple had two children: a son, Fritz, and a daughter, Marie.
 * There is little information about Bützberger's personal life in the obituaries and his estate.
 
 Born 26 March 1862, Bleienbach, Bern canton, Switzerland. Died 1 November 1922, Bern, Switzerland.

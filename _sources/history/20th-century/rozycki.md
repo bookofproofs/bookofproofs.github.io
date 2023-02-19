@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jerzy Rozycki **was a Polish mathematician who, along with his colleagues Marian Adam Rejewski and Henryk Michal Zygalski, did amazingly valuable work decoding messages sent by the German Enigma machines. Although impossible to quantify, many lives must have been saved since, it is claimed, their work contributed to the shortening of World War II by between three to five years.
 
 ### Mathematical Profile (Excerpt):
-* His older siblings were Aleksandra Rozycka (born 1903), Halina Rozycka (born 1905, died 1978), whose married name was Skierczyvska, and Eugeniusz Rozycki (born 1907, died 1925).
 * Jerzy was born in Olszana in the Russian Empire, now called Vilshana in Ukraine.
 * Rozycki attended secondary school in Wyszkow, graduating in 1926.
 * At school in Wyszkow, Rozycki had been drawn to mathematics and modern languages, and wished to study both subjects at university.
@@ -40,10 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Rozycki's contribution to the development of Enigma was significant.
 * In this way, Rozycki independently developed a method that was the first theoretically described by the American cryptologist William Frederic Friedman in the 1920s under the name "Index of coincidence".
 * The year 1938 proved important for Rozycki.
-* Jerzy and Maria had one child, a son Jan Rozycki.
 * Increased German aggressive military activity led to Jerzy Rozycki and his colleagues meeting with British and French cryptologists in Warsaw in the summer of 1939 to explain to them the Polish achievements in deciphering the Enigma.
-* Rozycki with his wife and son, together with Rejewski and Zygalski were evacuated from Warsaw on 5 September.
-* Rozycki left his family in Brest: he would never see them again.
 * Rozycki, Rejewski and Zygalski were given a car to take them to Romania; they crossed the border into Romania on 17 September.
 * Rozycki was questioned by the Italian police in Turin who were suspicious that the young man had not been drafted into the army but they allowed him to continue.
 * three young Poles - Jerzy Rozycki, Marian Rejewski and Henryk Zygalski.
@@ -55,6 +51,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In the summer of 1941 Rozycki was sent back to Algiers, where he supervised the reading of the dispatches sent by the Germans and Italians.
 * There were 93 survivors of the disaster, but sadly Rozycki drowned; his body was never recovered.
 * The fact that Rozycki had no grave was not rectified until 2019.
+* For Jerzy Rozycki ...
 * The primary task for the Board of the National Pantheon Foundation was to create a symbolic grave for Jerzy Rozycki, for whom, despite the benefits he gave to his country and the world, there was no place that could be described as his eternal resting place.
 * On 21 February 2000, Polish President Aleksander Kwasniewski posthumously awarded Rozycki the Grand Cross of the Order of Polonia Restituta for outstanding contributions to his homeland.
 

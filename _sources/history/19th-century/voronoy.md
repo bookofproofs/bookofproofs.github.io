@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Georgy Voronoy** was a Ukranian mathematician best known for the _Voronoi diagram_ which is a partitioning of a plane into regions based on distance to a finite set of points.
 
 ### Mathematical Profile (Excerpt):
-* His father owned property at  Zhuravka, Poltava province, where Georgy was born.
 * Georgy completed his high school education at the gymnasium in Priluki, graduating in 1885.
 * Voronoy did not have a particularly easy time at university.
 * Voronoy had to tutor mathematics, often for rather small fees, and, taking such work very seriously and putting much effort into it, he found giving lessons exhausting.

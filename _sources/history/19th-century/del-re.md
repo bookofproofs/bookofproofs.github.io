@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * He was born in the Kingdom of the Two Sicilies at a time when major changes were occurring due to the move towards the unification of Italy.
-* Alfonso's father, Raffaele Del Re, was a tailor.
 * Alfonso began his education in his home town but, when he was fifteen years old, he went to Naples to complete his secondary school studies.
 * After graduating from a private high school in Naples, he entered the University of Naples.
 * Del Re's first paper, Relazione tra due determinanti Ⓣ(Relationship between two determinants), was published in the Giornale di Matematiche (Battaglini) in 1881.
@@ -44,7 +43,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Luigi Berzolari was appointed, ranked first with 45/50 points, second equal were Del Re and Mario Pieri with 41/50 points.
 * When Domenico Montesano won the competition for the chair at Naples in 1893, he moved from the University of Bologna leaving vacant the extraordinary professorship in descriptive and projective geometry there.
 * What followed was a drawn out battle for the position which is now known as the "Bologna Affair." Given the results of the two earlier competitions, Del Re and Pieri were considered the leading candidates.
-* With no competition announced, Del Re made a request to the minister of education that he be transferred from the University of Modena to Bologna for family reasons.
 * Since by this time Del Re held a full chair in Modena and was requesting a move to an extraordinary position at Bologna, this seemed a strong request.
 * The Faculty at Bologna repeatedly requested the minister to hold a competition but no competition was held.
 * The minister replied to the Faculty that he could not accept their request for a competition and saw no reason not to appoint Del Re and said he would appoint him immediately if the Faculty agreed.
@@ -53,7 +51,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It then became clear that there were three candidates with strong cases, Enriques, Del Re and Pieri and the Faculty requested the minister to set a commission to decide between these three without opening a competition.
 * The Faculty at Bologna now split with Arzelà favouring Del Re's transfer with Pincherle and others opposed.
 * lamenting the number of recommendation letters that Del Re had secured, and complaining that Del Re was always there lobbying and had gained so much ground that Pincherle feared a major coup.
-* Del Re was arguing that he needed to relocate his family to Bologna.
 * Enriques was appointed but Del Re does not appear to have entered the competition.
 * In 1899 Del Re went back to the University of Naples when he was appointed to the Chair of Descriptive Geometry at the Institute of Mathematics.
 * Because of his versatility and his in-depth studies in many fields of the exact sciences, he was able to obtain important results which he presented in one hundred and twenty five publications.
@@ -80,7 +77,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Bernstein himself deduced the sufficiency of these from the series of postulates indicated by A Del Re in his 'Logical Algebra', adding new evidence to those implicit in the reference to Huntington.
 * In a postscript to an Italian translation of 1918, Dr Rosaria Giordano reports on the content of the letter that Bernstein himself sent to Del Re on 8 April 1917.
 * In the same postscript he took note of a small necessary change, advising that all that remains is the integration of the reading of the text of 'Algebra della Logica' with the reading of the Memoir of Del Re of 1911.
-* Finally we note that Abbagnano, a famous philosopher, married Del Re's daughter Rosa Del Re in 1924, three years after Del Re's death.
 
 Born 8 October 1859, Calitri, Avellino, Kingdom of the Two Sicilies (now Italy). Died 5 September 1921, Sorrento, Italy.
 

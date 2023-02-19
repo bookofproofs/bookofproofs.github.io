@@ -25,10 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Andrew Gray was a famous scientist and mathematician who was born in Lochgelly, Fife in 1847.
 * James Gray had seven siblings: John (born 1872), Annie (born 1874), Margaret (born 1879), Isabella (born 1882), Thomas (born 1884), Kenneth (born 1886), and Euphemia (born 1889).
-* Although James was born in Glasgow, his father was at this time professor at Bangor and James attended Friars Grammar School, Bangor, Caernarvonshire.
 * After completing his school education, Gray entered the University College of North Wales.
-* In 1899 Gray's father was appointed to the Glasgow Chair and he moved to Glasgow to continue his undergraduate studies.
-* The second son of Professor Gray, F.R.S., Professor of Natural Philosophy in the University, Dr Gray has for some years been performing the duties of a Professor of Applied Physics, conducting the classes in physics in the University for engineering students and for students of medicine.
 * Gray was a member of the Edinburgh Mathematical Society, joining in March 1909.
 * He was elected to the Royal Society of Edinburgh on 18 January 1909, his proposers being Andrew Gray, William Jack, Cargill Gilston Knott, George Chrystal.
 * Professor Gray occupied the Chair of Applied Physics, and was widely known for his experiments and original scientific work.

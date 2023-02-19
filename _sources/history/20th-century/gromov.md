@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * His parents were Leonid Gromov and Lea Rabinovitz.
 * Gromov attended Leningrad University, graduating with a Masters degree in Mathematics in 1965.
-* Before the award of his doctorate, Gromov had been married to Margarita Gromov in 1967 and appointed as an Assistant Professor at Leningrad University in the same year.
 * The papers which Gromov published in the late 1960s include the following (all written in Russian): On a geometric hypothesis of Banach (1967); The number of simplexes in subdivisions of finite complexes (1968); Transversal mappings of foliations (1968); Transversal mappings of foliations (1968); Simplexes inscribed on a hypersurface (1968); and Stable mappings of foliations into manifolds (1969).
 * Moreover, in one and the same setting, Gromov also proved generalizations of both the Hirsch-Smale immersion theorem and the A Phillips submersion theorems.
 * Slowly, Gromov's papers (some in collaboration with Ya M Eliashberg and V A Rokhlin) filtered to the West in the early seventies.

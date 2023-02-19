@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ennio De Giorgi** was an Italian mathematician who worked on partial differential equations and the foundations of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* His father, Nicholas De Giorgi, was a teacher whose interests included the Arabic language, history and geography.
-* Sadly Ennio's father died in 1930, and after this Stefania did a wonderful job of bringing up her family.
 * Ennio attended the "G Palmieri" high school in his home town and showed exceptional talents.
 * After graduating from secondary school in 1946 and obtaining his liceo, he travelled to Rome to enter the University there but, given his interests in gadgets, it was the Faculty of Engineering that he entered with the intention of taking a degree in engineering.
 * Despite his decision of the topic to study, De Giorgi had already discoved while at school the joy of finding proofs of mathematical theorems which were different from those written in the textbooks.

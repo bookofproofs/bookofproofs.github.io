@@ -33,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It may come as a surprise to many Ph.D. students to hear that Kronecker was questioned at his oral on a wide range of topics including the theory of probability as applied to astronomical observations, the theory of definite integrals, series and differential equations, as well as on Greek, and the history of philosophy.
 * Eisenstein, whose health was also poor, lectured in Berlin around this time and Kronecker came to know both men well.
 * The direction that Kronecker's mathematical interests went later had much to do with the influence of Jacobi and Eisenstein around this time.
-* However, just as it looked as if he would embark on an academic career, Kronecker left Berlin to deal with family affairs.
 * Certainly Kronecker did not need to take on paid employment since he was by now a wealthy man.
 * In 1856 Weierstrass came to Berlin, so within a year of Kronecker returning to Berlin, the remarkable team of Kummer, Borchardt, Weierstrass and Kronecker was in place in Berlin.
 * Of course since Kronecker did not hold a university appointment, he did not lecture at this time but was remarkably active in research publishing a large number of works in quick succession.
@@ -64,10 +63,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Kronecker was of very small stature and extremely self-conscious about his height.
 * Here Schwarz was joking about the small man Kronecker and the large man Weierstrass.
 * Kronecker did not see the funny side of the comment, however, and never had any further dealings with Schwarz (who was Weierstrass's student and Kummer's son-in-law).
-* Others however displayed more tact and, for example, Helmholtz who was a professor in Berlin from 1871, managed to stay on good terms with Kronecker.
 * Despite the bitter antagonism between Cantor and Kronecker, Cantor invited Kronecker to address this first meeting as a sign of respect for one of the senior and most eminent figures in German mathematics.
-* However, Kronecker never addressed the meeting, since his wife was seriously injured in a climbing accident in the summer and died on 23 August 1891.
-* Kronecker only outlived his wife by a few months, and died in December 1891.
 * We should not think that Kronecker's views of mathematics were totally eccentric.
 * Kronecker's ideas were further developed by Poincaré and Brouwer, who placed particular emphasis upon intuition.
 

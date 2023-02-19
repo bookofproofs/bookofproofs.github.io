@@ -23,11 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Simon Stevin** was a Flemish mathematician who presented the first elementary and thorough account of decimal fractions and introduced their use in mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Anthuenis and Cathelijne were not married but Simon's mother Cathelijne later married a man who was involved in selling carpets and in the silk trade.
 * Nothing is known of Simon's early years or of his education although one assumes he was brought up in the Calvinist tradition.
 * Stevin became a bookkeeper and cashier with a firm in Antwerp.
 * Stevin's move to the north Netherlands certainly coincided with their move to independence from the King of Spain.
-* There were other possible reasons for Stevin to move, however, for we have already mentioned that Stevin was brought up in a Calvinist family after his mother remarried.
 * Certainly Stevin was not alone in fleeing from the south Netherlands around this time, with many going to the north, but others fleeing to England or Germany.
 * While Stevin was at the University of Leiden he met Maurits (Maurice), the Count Of Nassau, who was William of Orange's second son.
 * The two became close friends and Stevin became mathematics tutor to the Prince as well as a close advisor.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Arnold Droz-Farny** was a Swiss mathematician best known for the Droz-Farny line theorem.
 
 ### Mathematical Profile (Excerpt):
-* He was named Arnold Droz, and was the son of Édouard Droz and his wife Louise.
 * On marriage they both changed their name to Droz-Farny.
 * In 1880 Droz-Farny was appointed as a professor of physics and mathematics at the cantonal School in Porrentruy near Basel in Switzerland.
 * Droz-Farny is best known for results published in the publications of 1899 and 1901 mentioned in this quote.

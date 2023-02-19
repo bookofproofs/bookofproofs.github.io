@@ -23,13 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Maurice Fréchet** was a French mathematician who made major contributions to the topology of point sets and defined and founded the theory of abstract spaces.
 
 ### Mathematical Profile (Excerpt):
-* It was a Protestant family and at the time Maurice was born his father was the director of a Protestant orphanage in Maligny.
-* There were six children in the family, Maurice being the fourth.
-* While he was still a very young child, his father Jacques Fréchet was appointed as head of a Protestant school in Paris and the family moved there with high expectations of a good future.
-* However, political decisions were to severely damage the comfortable life of the Fréchet family.
 * Before Maurice was born the constitution of the Third Republic had been drawn up.
 * Jacques Fréchet lost his job as headmaster and was unemployed.
-* Maurice's mother came to the financial rescue of the family by setting up a boarding house for foreigners.
 * This had the benefit that Maurice grew up surrounded by those speaking foreign languages and he developed an international outlook which was to remain with him throughout his life.
 * After the French education system settled down from the impact of the legal restraints put upon it, Jacques Fréchet was able to find a job teaching within the new secular system.
 * Maurice entered secondary education at the Lycée Buffon in Paris.

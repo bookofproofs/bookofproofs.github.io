@@ -23,17 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Fabio Conforto** was an Italian mathematician who worked in algebraic geometry, projective geometry and analytic geometry.
 
 ### Mathematical Profile (Excerpt):
-* Fabio was the second of his parents' children, born in Trieste which at that time was part of the Austro-Hungary Empire.
-* Ruggero and Irene Conforto decided to move to a part of Austria that was more peaceful and, when Fabio was only forty days old, the family moved to Vienna.
 * Ruggero and Irene Conforto were Italian speaking, but of course in Vienna they were now living in a German speaking city.
 * The young Fabio heard Italian spoken at home but when he began attending elementary school everything was in German.
 * Vienna, of course, is the city of music and this had a major impact on young Fabio.
-* His sister had piano lessons and Fabio took the opportunity to watch during these lessons and quickly became proficient himself.
-* The Conforto family returned to Trieste where Fabio completed his secondary education.
-* Life, however, for the Conforto family was not easy after they returned from Vienna.
 * Fabio faced problems at school too, since he could only read and write in German and now had to rapidly learn to read and write in Italian.
 * Conforto completed his schooling at a Liceo Scientifico, undertaking the work of the final two years in a single year and taking the State Examination one year early.
-* During his final years at school the Conforto family had lived in a house with balconies facing the bay.
 * Conforto loved to watch ships approaching the harbour, the sparkle of the sun on the water fascinated him, but even more than the sun he enjoyed watching thunderstorms.
 * To help with the expense of the boat trip, Conforto worked for a number of hours a day serving the crew and passengers.
 * Conforto was able to take over his role and gave brilliant performances.
@@ -43,18 +37,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Conforto graduated with his laurea on 3 July 1931 and, having won a scholarship to enable him to study abroad, was able to go to Germany in the autumn of 1931 where he spent the academic year 1931-32 at the University of Göttingen.
 * After training, Conforto was attached to the 13th  Artillery Regiment in Rome.
 * Castelnuovo retired from teaching in 1935 and at this time Conforto became Enrico Bompiani's assistant.
-* On 15 April 1936, Conforto married Antonietta Pellegrini.
 * In addition to his duties as an assistant in algebraic geometry, Conforto also worked at Mauro Picone's National Institute for the Applications of Calculus.
 * Conforto entered the competition to fill Scorza's chair but war intervened at a crucial stage in Conforto's career.
 * Conforto was one of the first to be called for military service and he joined his regiment in Foligno, in central Italy.
 * Conforto returned to Rome to take up his professorship but his stay there was short-lived.
 * For the third time, Conforto was called up for military service and he was sent to the French front.
-* After some time, Conforto returned to Rome and brought his family back to their home there.
 * Conforto, worried by these events, volunteered in August for military service again to defend his country.
 * Conforto joined the Italian army in Reggio Calabria.
 * Conforto was taken prisoner and paraded through the streets of Reggio Calabria along with other prisoners.
 * Conforto was released and sent to Lecce, an area under Allied control, where he worked at the Ministry of War and taught at the Military Academy.
-* On 4 June 1944 Rome fell to the Allies and only after that was Conforto able to contact his family and discover that they had survived the war.
 * The range of Conforto's mathematical publications is great with contributions to algebraic geometry, projective geometry, and analytic geometry.
 * In 1947 Conforto was sent by the Ministry of Education to Bressanone, in the South Tyrol, as a commissioner to the German language schools.
 

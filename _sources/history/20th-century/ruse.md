@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Harold Ruse** graduated from Oxford and held a position at Edinburgh University. he later became a professor at Southampton and Leeds. He worked on Harmonic Spaces.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Lydia Ruse (born Brighton, Sussex about 1879; died 20 September 1954 at Royal East Sussex Hospital, Hastings).
 * Harold Ruse was educated at Hastings Grammar School, Sussex, before matriculating at Jesus College, Oxford University.
 * During this time Ruse spent session 1933-34 in Princeton where he was supported by a Rockefeller Research Fellowship.
 * In 1937 Ruse was appointed as Professor of Mathematics at University College, Southampton.

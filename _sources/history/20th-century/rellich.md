@@ -25,16 +25,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Rellich entered the Gymnasium in Graz in 1916, studying there until 1924.
 * Of course the Nazi party destroyed the remarkable mathematical school at Göttingen but, before we look at how Rellich was affected by this, we need to explain his connection with that outstanding mathematician van der Waerden.
-* In July of that year he met Camilla Rellich, Franz Rellich's sister, and they married in September 1929.
-* Rellich and van der Waerden, therefore, became brothers-in-law during the time Rellich was completing his doctorate.
 * As well as being Courant's student, Rellich was also his assistant at Göttingen, and he habilitated there in 1933.
 * Rellich was a staunch opponent of National Socialism and, as a consequence, he suffered considerable problems throughout the early part of his academic career.
+* Rellich had only a low-level appointment and ...
 * Furthermore, in mid-December, Rellich was ordered to report on January 7 for ten weeks to a field-sports camp near Berlin.
 * This was, in fact, a mistake, since Rellich, as an Austrian citizen, was not subject to such forced training regimens.
 * However, on December 27, the Curator had, after some hesitation, replaced Rellich with Werner Weber as acting director of the Mathematical Institute.
 * Rellich himself would lose his position at Gottingen six months later, on June 18.
 * During the years 1933-34 at  Göttingen, Rellich has taught courses on Integral Equations and Spectral Theory (1933) and Partial Differential Equations (1934).
-* Despite producing outstanding mathematics, Oswald Teichmüller and Erhard Tornier (1894-1982) considered Rellich part of the 'Courant clique' at Göttingen and, for that political (or, perhaps more accurately, racist) reason, had driven him out.
 * After being dismissed from Göttingen, Rellich was appointed as a privatdozent at the University of Marburg in 1934.
 * In that year Rellich was appointed to a full Professorship to fill Siegel's chair.
 * As director of the Mathematical Institute Rellich was deeply interested in creating a wide, stable base for scientific development.

@@ -32,9 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Alexiewicz was one of the academics working there, but he also taught in an underground university, and continued to undertake research towards his doctorate.
 * In fact, several years later, Alexiewicz submitted a two-part paper On sequences of operations based on his thesis to Studia Mathematica which was published in volume 11 in 1949-50.
 * Now, as the war entered its final stages, Alexiewicz realised that Lwów would not remain a part of Poland when the war ended.
-* By this time Alexiewicz was married with children; his son Władysław Alexiewicz, who became a famous physicist, was born in November 1943.
 * This made Poznań a natural choice for Alexiewicz since he would remain a colleague of Orlicz.
-* Together with his family, Alexiewicz arrived in Poznań on 5 May 1945.
 * Orlicz, who held the chair of mathematics, and Alexiewicz then faced a major task rebuilding the department of mathematics at Poznań which had been completely destroyed during the war.
 * The reopened Polish University of Poznań, to which Orlicz and Alexiewicz were appointed, was a small institution with hardly any infrastructure and few teaching staff.
 * Alexiewicz was awarded a doctorate in July 1945 on the basis of his thesis which had been examined in Lwów.

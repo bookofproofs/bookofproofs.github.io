@@ -44,6 +44,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Boltzmann was seconded by Felix Klein.
 * The battle between Boltzmann and Ostwald resembled the battle of the bull with the supple fighter.
 * The arguments of Boltzmann carried the day.
+* We, the young mathematicians of that time, were all on the side of Boltzmann ...
 * Ostwald led the opposition to Boltzmann's ideas which were opposed by many European scientists, they misunderstood them, not fully grasping the statistical nature of his reasoning.
 * However some, including Mach, thought the arguments were too violent, and this certainly appeared to be the case when Boltzmann attempted suicide while a colleague of Ostwald.
 * In 1904 Boltzmann visited the World's Fair in St Louis, USA.

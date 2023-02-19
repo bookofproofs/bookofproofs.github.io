@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Siguenza y Gongora** was a Mexican astronomer and philosopher.
 
 ### Mathematical Profile (Excerpt):
-* Siguenza was educated at home, his father being well able to provide the education his son needed.
 * In 1662 Siguenza took his first religious vows in the Jesuit College in Tepoztlan where he had begun his training for the Church.
 * From there he moved to Puebla to continue his religious studies at the College of the Holy Spirit.
 * The town of Puebla, 130 km southeast of Mexico City, was characteristically Spanish and had been founded over one hundred years before as Puebla de los Angeles in 1532.

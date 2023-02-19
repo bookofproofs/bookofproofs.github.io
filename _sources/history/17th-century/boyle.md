@@ -23,30 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Robert Boyle** was an Irish-born scientist who was a founding fellow of the Royal Society. His work in chemistry was aimed at establishing it as a mathematical science based on a mechanistic theory of matter.
 
 ### Mathematical Profile (Excerpt):
-* His father was Richard Boyle, Earl of Cork, who had left England in 1588 at the age of 22 and gone to Ireland.
-* Robert's mother, Catherine Fenton, was Richard Boyle's second wife, his first having died within a year of the birth of their first child.
-* Robert was the seventh son (and fourteenth child) of his parents fifteen children (twelve of the fifteen survived childhood).
 * Richard Boyle was in his 60s and Catherine Boyle in her 40s when Robert was born.
-* Indeed, Robert was fortunate to have the richest man in Great Britain for a father although, one would have to say, the Earl of Cork had acquired his fortune by somewhat dubious means.
-* Robert was sent away to be brought up in the country while his father continued to aim for higher and higher political success.
-* However, during this time in Dublin Robert's mother died and some time after this Robert returned from his stay with his country nurse to rejoin his family.
-* Robert was sent, together with one of his brothers, to study at Eton College in England in 1635.
 * At this stage of his time at Eton, Boyle's education was clearly going well.
 * However, perhaps he had been given too much special attention by Harrison for, when Harrison retired, Boyle seemed unable to fit in with the educational discipline the new headmaster brought to the school.
-* After this Boyle was tutored privately by one of his father's chaplains.
-* At the age of 12 Boyle was sent by his father, with one of his brothers, on a European tour.
 * In Geneva Boyle studied with a private tutor French, Latin, rhetoric and religion.
 * In 1641 Boyle learnt Italian in preparation for visiting there.
 * In September of that year Boyle and his tutor were in Venice, then by the beginning of 1642 they were in Florence.
 * Galileo died in his villa in Arcetri, near Florence, while Boyle was living in the city.
 * If any one event shaped Boyle's life and directed him towards science, then it was this.
 * Boyle became a strong supporter of Galileo's philosophy and believed strongly from this time in the new approach to studying the world through mathematics and mechanics.
-* By May 1642 Boyle and his tutor were in Marseilles waiting for money from Boyle's father so that he could complete the journey home.
 * He did send £250 to pay for Boyle's return, but the money never reached him.
-* Boyle returned to Geneva where he seems to have lived mainly on his tutor's earnings, while his father continued to fight the Irish at Lismore Castle.
-* Robert Boyle was still living in Geneva when his father died.
-* Back in England, Boyle lived for a while with his sister Katherine.
-* Boyle had property in England, the manor of Stalbridge, left to him by his father but the situation in the country made things difficult.
 * In fact although Boyle inspected his new home after four months, it was much longer before he was able to move in.
 * Although Boyle did not intend to spend long at Stalbridge, he remained there for around six years.
 * This "new philosophical college" is also called by Boyle the "Invisible College" later in the letter.
@@ -73,7 +59,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Boyle was a founding fellow of the Royal Society.
 * It is for this reason that we have decided to include Boyle into this archive of mathematicians for, although he did not develop any mathematical ideas himself, he was one of the first to argue that all science should be developed as an application of mathematics.
 * Although others before him had applied mathematics to physics, Boyle was one of the first to extend the application of mathematics to chemistry which he tried to develop as a science whose complex appearance was merely the result on simple mathematical laws applied to simple fundamental particles.
-* In 1668 Boyle left Oxford and went to live with his sister Lady Ranelagh in London.
 * Some however, were keen to find Boyle a wife.
 * Boyle seemed to have successfully avoided such attempts to marry him off.
 * The religious side of Boyle is one which we have not mentioned in this biography, yet it was an important force in his life.

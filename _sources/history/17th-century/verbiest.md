@@ -25,15 +25,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Just Verbiest had been born in Bruges in 1593/94 and studied at the Bogaardenschool there.
 * Verbiest found, in this manner, his way into the administration, and the municipal government asked him many times to draw up and write official papers and letters for the municipality, the church and the public assistance committee.
-* While in Tielt, three of Just and Ann's seven children were born: Judoca Verbiest (1618-1634); Katherin Verbiest (born 1620); and John Baptist Verbiest (1622-1659).
-* In late 1622, the Verbiest family moved to Pittem, which is only about 4 km west of Tielt, and lived in a large house in the market square near the church.
 * Just Verbiest now took on the role of bailiff and was a tax collector for the lord of Pittem, Don Ferdinando de Zuniga, a nobleman from Madrid.
-* Four of Just and Ann's seven children were born after the family moved to Pittem: Ferdinand Verbiest (1623-1688), the subject of this biography; Jemina Verbiest (1626-1678); Albert Verbiest (1628-1694); and Ann Verbiest (1630-1681).
 * Before continuing with Ferdinand's biography, let us say a little about his siblings.
 * Judoca Verbiest died aged 16 from the plague.
-* Katherin Verbiest married the merchant R Van de Vinck in Kortrijk in 1658.
-* John Baptist Verbiest had the same occupations as his father, bailiff, tax collector and judge, but did not have his father's administrative abilities and ended up as tax collector for the Hospital of Our Lady in Kortrijk where he died a poor man.
-* Jemina Verbiest married John Lust in 1650.
 * Albert Verbiest was awarded a law degree, then was bailiff in Pittem in 1651.
 * Ann Verbiest became a nun at the Hospital of Our Lady in Kortrijk.
 * Let us return to the biography of Ferdinand Verbiest who lived in his home town of Pittem until 1635 when he was twelve years old.

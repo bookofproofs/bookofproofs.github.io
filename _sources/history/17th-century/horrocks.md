@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jeremiah Horrocks** was an English astronomer who improved Kepler's tables and worked on the lunar theory.
 
 ### Mathematical Profile (Excerpt):
-* There is some evidence that Horrocks' father came from the Deane district of Bolton, although this is far from certain, but we do know that his mother was from a notable Toxteth Park family.
-* Certainly some members of the family were watchmakers and it is said that a watchmaker brother of Mary Aspinwall first interested Jeremiah in astronomy.
-* We have no certain information concerning the size of the family, although we do know that Jeremiah had a brother named Jonas.
 * We know nothing of Horrocks' early education, but we do know that he entered Emmanuel College, Cambridge, on 11 May 1632.
 * Although no record of Horrocks' university education exists, we know that at this time all students studied a set course which covered classical languages, literature, and divinity.
 * Since Horrocks left Cambridge with a deep knowledge of the latest ideas in astronomy due to Copernicus and Kepler, as well as the expertise in mathematics to further develop their ideas, this tells us that he studied mathematics and astronomy in his own time.
@@ -42,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The last letter we have from Horrocks written in Much Hoole was on 20 April 1640.
 * Although he is best known for his observations of the transit of Venus in 1639, Horrocks' most important work was his lunar theory.
 * In fact Horrocks' lunar theory was used for around 100 years, a remarkable achievement.
-* The remainder passed into the hands of an antiquary, who also managed to obtain letters by Horrocks from the Crabtree family.
 * From the late 1650's until their eventual publication, Horrocks' manuscripts were widely circulated.
 
 Born 1618, Toxteth, Liverpool, England. Died 3 January 1641, Toxteth, Liverpool, England.

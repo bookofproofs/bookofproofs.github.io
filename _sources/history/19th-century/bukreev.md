@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Boris Yakovlevic** was a Russian mathematician who worked on the theory of functions of a complex variable, on mathematical analysis, on algebra, on the calculus of variations, and on differential geometry.
 
 ### Mathematical Profile (Excerpt):
-* The family had a tradition of school teaching, with Boris Yakovlevic's paternal grandfather also being a teacher.
 * In the autumn of 1878 Bukreev entered the Faculty of Physics and Mathematics of Kiev University.
 * In particular Vasilii Petrovich Ermakov (1845-1922), who was especially interested in the pedagogy of mathematics, taught Bukreev.
 * Among all Bukreev's lecturers, Ermakov was the one who exerted the greatest influence on him as an undergraduate.

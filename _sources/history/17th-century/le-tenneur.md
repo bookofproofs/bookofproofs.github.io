@@ -27,10 +27,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We know from his letters that he was proud to describe himself as an amateur and a self-educated person.
 * M Le Tenneur appears as a convinced "Galilean" full of admiration for Gassendi's atomism.
 * Of Gassendi he particularly appreciates the insertion of scientific ideas into an organic philosophical background as well as his talent as experimenter.
+* As many others in those years, Le Tenneur was fascinated by Descartes' physics, but, as he wrote to Mersenne, he admired Descartes' insightful arguments, but did not find them at all convincing ...
 * (Le Tenneur to Mersenne, 9 July 1647).
 * It is known for certain that by 1646 Le Tenneur was in Clermont in the Auvergne region of central France.
 * Clermont was the town that Pascal had been born in 23 years before.
-* It is highly likely that Le Tenneur was involved with the political feuding of the Fronde.
 * Galileo wrote down his ideas on falling bodied in Du Motu Ⓣ(On movement) around 1590 but never published them.
 * In 1646 Honoré Fabri published Tractatus physicus de motu locali Ⓣ(Treatise on local physical movement) which set out to refute Galileo's theory of motion of falling bodies and to substitute a theory of his own.
 * Mersenne, clearly aware that Le Tenneur was a firm believer in Galileo's theory, wrote to him late in 1646 asking him to support Galileo's theory against the attacks by Fabri.
@@ -39,6 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * As Zeno's paradoxes had shown in antiquity, the idea of a mathematical instant led to difficulties.
 * Fabri had argued that mathematical instants do not exit and hence Galileo's theory breaks down immediately since he assumes their existence.
 * Le Tenneur then argues that Galileo's theory is superior to that of Fabri since it did not depend of the unit of time used for measurements.
+* the multiplication of times according to any proportion whatsoever always confirms the uniform proportion among the spaces, and it does not happen that you get a larger or a smaller space if the equal times get longer or shorter ....
 * Nor will there be a larger ratio between four spaces and two spaces, than between two spaces and one space; nor will there occur a larger or smaller space.
 * Another part of Fabri's argument was that it was impossible for a body sliding down an inclined plane and another body in free fall to both pass through an infinite number of velocities.
 * This argument really claims that two lines of different lengths cannot both contain an equal number of points.
@@ -46,7 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Fabri asked Mousnier to reply which he did in a letter to Mersenne on 1 October 1647.
 * Le Tenneur's letter to Mersenne formed the basis of his most important work De motu naturaliter accelerato tractatus physico-mathematicus Ⓣ(Physico-mathematical treatise on naturally accelerated motion), published in 1649, where he showed that he understood Galileo's arguments for free falling objects while Fabri and others did not.
 * Most people at that time believed that the speed of a body in free fall was proportional to the distance it had fallen.
-* Le Tenneur had been present in 1647 when Florin Périer, Pascal's brother-in-law, repeated Torricelli's experiment in Clermont.
 * Someone said that they would only believe in a vacuum if a hole was made in the tube and the mercury seen to fall.
 * Le Tenneur offered a 100 to 1 bet that it would fall, but attempts to make a small hole in the glass failed.
 * Mersenne wrote to Le Tenneur in January 1648 suggesting he carry out such an experiment on the Puy-de-Dôme.

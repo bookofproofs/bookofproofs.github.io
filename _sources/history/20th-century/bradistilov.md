@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Georgi Bradistilov** was a Bulgarian mathematician who worked on nonlinear differential equations and their applications to mechanics and electrotechnics.
 
 ### Mathematical Profile (Excerpt):
-* Delcho and Nona Bradistilov had three children, two girls Penka Delcheva Bradistilova (1897-1972) and Raina Delcheva Bradistilova (1901-1923), and one son Georgi, the subject of this biography.
-* Georgi was the youngest of his parents' children.
 * Bradistilov attended the Third Gymnasium of Sofia, completing his studies in 1923.
 * When Bradistilov began his studies he was one of around 2400 students.
 * In fact while he was studying at the university the construction of new university buildings was taking place but they were not opened until several years after Bradistilov graduated.

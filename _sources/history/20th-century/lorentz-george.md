@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **George Gunter Lorentz** was a Russian-born American mathematician who worked in  approximation theory, interpolation theory of operators, and functional analysis.
 
 ### Mathematical Profile (Excerpt):
-* His mother, Milena Nikolaevna Chegodaev, came from the large Chegodaev family of princes and George claimed he was a descendant of Genghis Khan through Princess Chegodaev.
 * Rudolf Fedorovich was ethnically German while Milena Nikolaevna was ethnically Russian.
-* The family spoke Russian at home so Russian was George's first language.
 * We should say a few words about Lorentz's name.
 * Following the Russian tradition his name was originally Georg Rudolfovich Lorentz.
 * We shall explain later why he became known as George G Lorentz.
@@ -39,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His work was of such a high standard that his teachers advised him to transfer to Leningrad State University.
 * St Petersburg, the city of his birth, had been renamed Petrograd in 1914 but had been renamed Leningrad four years before Lorentz entered the university there in 1928.
 * At this time Leningrad was an excellent mathematical centre and Lorentz thrived there.
-* However, the political situation began to impact the academic one.
 * Independent thinkers were being persecuted and the President of the Leningrad Mathematical Society, a man with a reputation for courage and independent thought, was in such danger that the Leningrad Mathematical Society was disbanded in 1930 in a successful attempt to save the life of the President and the lives of other mathematicians.
 * Lorentz was awarded his diploma in 1931 but, with the government insisting that research be applied in nature, he could not register to study for a candidate's degree (equivalent to a Ph.D.).
 * He was employed as a teaching assistant at the University and, after a while, he also lectured at the Herzen Pedagogical Institute.
@@ -53,19 +50,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The war was to bring the population of Leningrad horrible sufferings.
 * During the severe winter of 1941-42, there was artillery fire into the city, but no air raids.
 * For private use, there was no electric power, no water (the water piping was frozen), no public transportation.
-* After several attempts to be evacuated with my wife Tanny, some of them illegal, we succeeded in joining a group of faculty and students of the Herzen Pedagogical Institute.
 * At the beginning of April 1942 we crossed the still frozen Lake Ladoga in trucks and joined a train.
 * While in Kislovodsk he found Antoni Zygmund's Trigonometrical series in the library of a small nearby college - the book proved significant in his mathematical development.
 * However, in August 1942 Kislovodsk was taken by the Germans and the library burned down so he could not return Zygmund's book.
-* Lorentz and his wife were registered as ethnic Germans and sent to refugee camps in Poland, first in Kalush and then in Toruń.
 * In 1943 he sent two papers with his latest results to Konrad Knopp, who held the chair of mathematics at Tübingen University, hoping that they might be published in Mathematische Zeitschrift.
-* Knopp arranged for the Lorentz family (by this time they had a newborn son, Rudolph) to come to Tübingen and there he became an assistant to E Kamke, who had been dismissed from his teaching position at the University of Tübingen, but was allowed to write books.
 * Kamke was writing a book on differential equations.
 * Lorentz submitted his thesis Eine Fragen der Limitierungs theorie to Tübingen and was awarded a doctorate.
+* the French authorities classified me as an undesirable foreigner, ...
 * We mentioned at the beginning of this biography that Lorentz's name was originally Georg Rudolfovich Lorentz.
 * In 1946 he began to use the name Georg Gunter Lorentz in an attempt to hide his Russian origins.
 * 'Gunter' was made up and he only used it for a short while, afterwards using the name Georg G Lorentz.
-* Although mathematically his time in Germany was very fruitful, nevertheless the family planned to emigrate which they did in 1949.
 * Offered a Lady Davis Foundation fellowship at the University of Toronto, Canada, he began work there as an Instructor in Mathematics in July 1949.
 * Despite giving Lorentz low academic status, having already successfully supervised the doctorates of two students at Tübingen, he was immediately asked to supervise four doctoral students in Toronto - two of these being G M Petersen and P L Butzer.
 * is a well-known expert in this field, and his careful up-to-date and easily readable account of problems and progress, the first in book form, should be welcome to a large class of advanced students of mathematical analysis.
@@ -80,6 +74,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We looked briefly above at Lorentz's first book, namely Bernstein polynomials (1953).
 * Here the author goes out of his way to keep the discussion elementary (not easy!).
 * Chapters nine, ten, and eleven concern entropy and Kolmogorov's solution of Hilbert's thirteenth problem.
+* Fascinating, but highly special, and not self-contained for non-specialists ...
 * The book abounds with amusing and interesting insights.
 * There are problems and notes which extend the results in the text and give their history.
 * A special feature is the coverage of the Russian literature of this field.

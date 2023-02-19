@@ -41,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * A scholarship enabled him to continue his research at the University of Naples under the supervision of Caccioppoli and Miranda, and he also undertook tutorial work to assist the Professor of Algebraic Analysis, although this was done on a voluntary basis.
 * Stampacchia felt that contact with Caccioppoli and Miranda was important for him and Leonida Tonelli advised him to take a position as an assistant at the Naval Institute at Naples.
 * In addition to teaching at the Naval Institute he taught at the University on a voluntary basis and was able to add to both the teaching there and to the vigorous research team which Miranda had begun to build at the Institute.
-* Miranda had married Ersilia Sterlacci and they lived in Naples at 31 Via F Crispi; they had one daughter Elena.
 * Earlier than this, in 1949, Miranda had published his lecture notes for the academic year 1948-49 on Problemi di esistenza in analisi funzionale Ⓣ(Existence problems in functional analysis).
 * Although Miranda was assisted by Caccioppoli in building a school of mathematics in Naples for over ten years, this tragically ended in 1959 with Caccioppoli's suicide.
 * Miranda was, by this time, Dean of the Faculty of Sciences at Naples, a role he held for ten years from 1958.

@@ -26,9 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Carl's siblings were Franz Ernst Christian Neumann (1834-1918), Friedrich Julius Neumann (1835-1910), and Luise Neumann (1837-1934).
 * Let us note at this point that Franz Ernst Christian Neumann became a pathologist and director of the Pathological Institute at Königsberg, and Friedrich Julius Neumann became an economist, holding professorships in Königsberg, Basel, Freiburg and Tübingen.
 * Luise Neumann became a painter creating landscapes and portraits, as well as interiors of cultural and historical buildings in Königsberg.
-* Carl received his school education, both primary and secondary, in the city of Königsberg where his father was the Professor of Physics at the University.
 * His secondary education was at the Altstadt Gymnasium which, when he began his studies, was situated in the street Danziger Keller near Königsberg Castle but, after a period in temporary accommodation, the school moved to a new building in Altstädtischer Kirchplatz in which Carl completed his schooling.
-* His two younger brothers, Friedrich Julius Neumann and Franz Ernst Christian, also attended this school.
 * Neumann entered the University of Königsberg where he became close friends with two of his teachers, Otto Hesse and Friedrich Julius Richelot (1808-1875).
 * Richelot had been a student of Carl Jacobi and taught at the University of Königsberg from 1831, becoming a full professor in 1844.
 * After graduating with a qualification to teach mathematics in secondary schools, Neumann continued to study at Königsberg for his doctorate which was awarded in 1855 for his thesis De problemate quodam mechanico, quod ad primum integralium ultraellipticorum classem revocatur Ⓣ(On a problem in mechanics, whose integral is called ultraelliptical).
@@ -39,13 +37,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After a slightly longer time, namely three years, spent in Tübingen, from 1865 to 1868, Neumann was on the move again, this time to a chair at the University of Leipzig.
 * The notes had been taken by Wilhelm Scheibner who was now Neumann's colleague in Leipzig.
 * Now, like Jacobi, Neumann took his goal to be to start from some unanalyzable basic assumptions or principles and to deduce general theorems from them, in this way constructing a physical theory of the field under consideration.
-* Neumann held the chair at Leipzig until he retired in 1911 but sadly, as we indicated above, his wife died in 1875.
-* Ernst Richard Julius Neumann (1875-1955) was the son of Neumann's brother, the pathologist Franz Ernst Christian Neumann.
 * Ernst Neumann became a mathematician and studied at Königsberg, Heidelberg and then at the University of Leipzig from 1893 to 1898.
-* In Leipzig he was a student of his Carl Neumann, the subject of this biography.
 * Ernst Neumann went on to become a professor at Breslau and Marburg.
 * Neumann made assumptions some of which followed those made by Wilhelm Weber.
-* This is not surprising since Neumann's father, Franz Neumann, had adopted the same assumptions.
 * This led to a debate between various scientists, in particular between Helmholtz and Neumann.
 * with one and the same relatively simple mathematical expression." He noted with satisfaction that Neumann had required many hypotheses to reach a similar result.
 * Neumann stuck to his guns, however, although he acknowledged that conservation of energy was a basic principle of physics, and he admitted that Helmholtz's theory appeared to have a simpler structure.

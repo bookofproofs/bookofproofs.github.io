@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Johnson** was an English mathematician, logician and economist.
 
 ### Mathematical Profile (Excerpt):
-* It was a large family with William having one older brother and three older sisters.
-* Two of William's brothers, George William Johnson and Reginald Brimley Johnson, went on to become authors.
-* William, the subject of this biography, was a pupil at the school in Cambridge where his father was the headmaster.
 * Johnson viewed probability as expressing logical relations between evidence propositions and hypothesis propositions.
 * In the 1920s the Cambridge philosopher William Ernest Johnson in effect characterized symmetric Dirichlet priors for multinomial sampling in terms of a natural and easily assessed subjective condition.
 * Johnson's proof can be generalized to include asymmetric Dirichlet priors and those finitely exchangeable sequences with linear posterior expectation of success.

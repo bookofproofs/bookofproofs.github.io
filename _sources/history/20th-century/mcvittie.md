@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * George entered the University of Edinburgh in 1923.
-* In 1934 McVittie married Mildred Bond Strong.
 * McVittie held appointments as follows: Assistant Lecturer at Leeds University 1930-34; Lecturer at the University of Edinburgh 1933-34; Reader at King's College, University of London 1936-48; Professor at Queen Mary's College, University of London 1948-52; Professor at Illinois University Observatory 1952-1972; and Honorary Professor at the University of Kent at Canterbury 1972-1988.
 * McVittie was elected to the Royal Society of Edinburgh on 1 March 1943, having been proposed by David Gibb, Ivor M H Etherington, Robert Schlapp, and Alexander C Aitken.
 * An obituary, written by M A H MacCallum, appeared in: George Cunliffe McVittie (1904-1988) (obituary), Quarterly Journal of the Royal Astronomical Society 30 (3) (1989), 119-122.

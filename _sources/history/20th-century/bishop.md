@@ -23,13 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Errett Bishop** was an American mathematician who worked in analysis.
 
 ### Mathematical Profile (Excerpt):
-* He died in 1933 when his son Errett was five years old.
-* Despite dying before he could personally influence Errett towards mathematics, in fact he did have a very substantial influence since when Errett was a young boy he began to study the mathematics the textbooks which had belonged to his father.
-* The family remained in the same family home in Newton after Albert's death and his books remained to excite young Errett.
-* It is clear that Errett was a child prodigy but it was remarkable that he had a sister, Mary, who was two years younger than he was an was also a mathematical prodigy.
 * Errett did not find High School at all challenging and when he was sixteen, wanting to progress with his education in a way that was not happening at school, he applied and was accepted for a special scholarship program at the University of Chicago.
 * Starting his university studies in 1944, Bishop graduated with a B.S. from Chicago in 1947 and continued to study for his Master's degree which was awarded in 1947.
-* Bishop was joined in Chicago by his younger sister Mary who, as he had been, was accepted for the special scholarship program at the University of Chicago.
 * Bishop had been taught by Paul Halmos when he was studying for his B.S. and it was Halmos who supervised his doctoral studies.
 * However Bishop spent 1950-52 in the U.S. army.
 * After completing his basic army training Bishop was sent to undertake mathematical research at the National Bureau of Standards.

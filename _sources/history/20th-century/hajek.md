@@ -28,8 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This first publication by Hájek was on the subject of sampling surveys.
 * The name "Hájek predictor" now labels his contributions to the use of auxiliary data in estimating population means.
 * Hájek's secondary school education had been disrupted by the war but this was not the end of the disruption to his career for after receiving his Diplom he had to spend two years doing military service.
-* The year he received his doctorate, Hájek married Alzbeta Galambos, who was known as Betty.
-* This was a happy time for Hájek as he and his wife enjoyed bringing up two daughters born in the first five years of their marriage.
 * For twelve year Hájek worked as a Senior Research Worker in the Mathematical Institute of the Czechoslovak Academy of Sciences.
 * There Lucien Le Cam was the Chairman of the Department and, despite the pressures of that role preventing him from doing as much work with Hájek as he would have liked, it was still a very useful visit.
 * In 1962 Hájek wrote Asymptotically most powerful rank order tests which deals with contiguity.

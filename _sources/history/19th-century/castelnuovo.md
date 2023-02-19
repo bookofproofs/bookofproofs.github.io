@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Castelnuovo** was an Italian mathematician who worked in algebraic geometry. He also worked in probability and relativity.
 
 ### Mathematical Profile (Excerpt):
-* Enrico Castelnuovo, a strong supporter of Italian unification, merits an entry in the Dizionario Biografico Degli Italiani of comparable size to that of his son Guido Castelnuovo.
 * Guido attended the Foscarini grammar school in Venice, where his mathematics teacher was Aureliano Faifofer.
 * There Castelnuovo was taught by Veronese who gave him an interest in geometry.
 * Castelnuovo graduated from Padua in 1886 and spent the following year in Rome on a postgraduate scholarship.

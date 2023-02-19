@@ -24,18 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Christopher Wren senior was a well educated man, having graduated from St John's College Oxford before entering the Church.
-* Their son Christopher was born in 1632 then, two years later, another daughter named Elizabeth was born.
-* In 1634 Christopher Wren senior was offered the position of Dean of Windsor, a post held by his brother Mathew Wren who was becoming Bishop of Hereford.
-* Christopher Wren senior was installed as Dean on 4 April 1635 and there the young Christopher was brought up by his father and by an older sister who slotted into the role of a mother to him.
-* He grew up with the close friendship of another relation, for his uncle Mathew Wren had a son, also called Mathew Wren, who became part of Christopher's close family.
-* Physically Christopher was a rather frail child who was quite small in stature.
 * Christopher had a private tutor during his early years, then when he was nine years old he was sent to Westminster School in London.
-* At this school Christopher quickly became proficient in Latin and this is shown by letters he wrote in Latin to his father which still survive.
-* The Wren family, obviously much favoured by the King, were staunch Royalists.
 * This led to difficulties when, not long after Christopher began his schooling at Westminster, the English Civil War broke out between King and Parliament.
 * Matthew Wren, who was by this time the Bishop of Ely, was imprisoned in the Tower of London for eighteen years.
-* The deanery at Windsor was attacked and Christopher's father was forced to move out.
-* At first he went to Bristol but, when Christopher was eleven years old his sister married William Holder and shortly after this Christopher Wren senior went to live in the rectory in Bletchingham, Oxfordshire, the home of his daughter and son-in-law.
 * William Holder was a mathematician and was to have a very strong influence on Christopher who spent much time at Bletchingham.
 * Holder essentially took on the role of mathematics tutor to Wren and also encouraged him to experiment with astronomy.
 * In 1646 Wren left Westminster school but he did not enter university immediately.
@@ -70,9 +61,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * For example in 1670 he was architect for the following London buildings: The Custom House, St Christopher-le-Stocks, Threadneedle Street, St Dunstan in the East, St Benet Fink, Threadneedle Street, St Vedast, Foster Lane, St Dionis Backchurch, Fenchurch Street, St Michael, Wood Street, St Mildred, Poultry, St Olave, Old Jewry, St Mary-at-Hill, Thames Street, St Mary, Aldermanbury, and St Edmund King and Martyr, Lombard Street.
 * It is worth noting that despite the remarkable number of designs Wren was working on at this time, he still held the Savilian Chair of Astronomy at Oxford.
 * In 1669 Wren was appointed as Surveyor of St Paul's Cathedral.
-* This appointment may also have convinced Wren that he was now secure enough to marry, for he married Faith Coghill, the daughter of Sir John Coghill of Bletchingham.
-* Wren had spent much time with his brother-in-law William Holder in Bletchingham and had known Faith for a long time.
-* Wren, left with two young children, soon married again, this time to Jane Fitzwilliam in 1677.
 * Wren's second marriage was, sadly, shorter than his first since Jane died of tuberculosis in 1679.
 * Wren is best known today at the architect for St Paul's Cathedral.
 * His first design for the new cathedral was rejected by London City Council as not sufficiently grand and Wren produced a second plan together with a model in 1674.

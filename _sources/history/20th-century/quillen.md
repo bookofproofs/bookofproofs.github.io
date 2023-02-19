@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Quillen felt that Bott had played a huge part in his development as a mathematician.
 * Unlike Bott, who made a performance of having everything explained to him many times over, Quillen did not seem at all slow to others, yet he saw himself as someone who had to think things out very slowly and carefully from first principles and had to work hard for every scrap of progress he made.
 * Michael Atiyah first met Quillen when he was working for his Ph.D. at Harvard.
-* While just beginning to study for his Master's Degree at Harvard for his Ph.D., on 3 June 1961, Quillen married Jean Plesset.
 * They first saw each other when Quillen took a first year chemistry class in his second year of undergraduate study, but it was their common love of music that brought them together for they met regularly through the Harvard orchestra.
 * Jean played the viola and Quillen always claimed that he played the triangle.
 * Jean, however, always claimed that Quillen was the orchestra's librarian and occasional trumpeter.
@@ -51,6 +50,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * On 22 May 2006 the '39th  K-theory Day' at Oxford was set up to celebrate Quillen's 65th  birthday.
 * Having reached the age of 65, Quillen retired in 2006.
 * Quillen's death came after an extremely sad number of years during which Alzheimer's disease took an increasing toll on him.
+* Daniel Gray Quillen, 69, may have been heading toward Westside Park ...
 * officers were in the area looking for Quillen, who is described as 5-foot-6, 160 pounds with thinning gray hair.
 * Police provided a clothing description that said Quillen should be wearing a green plaid shirt, khaki shorts and sandals.
 * Among the many honours given to Quillen, in addition to the Fields Medal, we mention that he was a plenary speaker at the International Congress of Mathematicians at Vancouver in August 1974 when he gave the lecture 'Higher Algebraic KKK-Theory'.

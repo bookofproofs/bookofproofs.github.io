@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **József Kürschák** was a Hungarian mathematician who founded the theory of valuations.
 
 ### Mathematical Profile (Excerpt):
-* After the death of his father, József was brought up in Budapest by his mother.
-* It is correct to say that József, although born in Buda, was brought up in Budapest after the death of his father since Budapest was created by the unification of Buda, Obuda and Pest in 1872.
 * Kürschák attended secondary school in the flourishing city that became not only the capital of Hungary but also a major centre for industry, trade, communications, and architecture.
 * Kürschák entered the Technical University of Budapest in 1881 and graduated in 1886 with qualifications to teach mathematics and physics in secondary schools.
 * A trigonometric argument can be used to show that its area of the dodecagon is 3 but Kürschák gives a purely geometric proof.

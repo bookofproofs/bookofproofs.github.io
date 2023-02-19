@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Michael Freedman** is an American mathematician who won a Fields Medal for his work on the Poincaré conjecture.
 
 ### Mathematical Profile (Excerpt):
-* She married Benedict Freedman on 29 June 1941.
-* Benedict Freedman's father, David, was born in Romania.
 * Benedict and Nancy Freedman are joint authors of several well-known novels.
-* They had three children, Johanna, Michael and Deborah.
 * Michael showed exceptional talents in mathematics as he grew up.
 * Freedman enjoyed playing Go and he knew that the mathematician Ralph Fox at Princeton was a champion Go player.
 * After graduating Freedman was appointed a lecturer in the Department of Mathematics at the University of California at Berkeley.

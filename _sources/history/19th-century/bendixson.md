@@ -23,12 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Bendixson** taught at Stockholm, then from 1913 to 1927 he was rector of Stockholm University. He worked on set theory and differential equations. He is best remembered for the Poincaré - Bendixson theorem.
 
 ### Mathematical Profile (Excerpt):
-* Ivar was born into a middle class family.
 * After attending a new primary school, Ivar studied at a secondary school in Stockholm.
 * In 1879 Bendixson went to Uppsala University, the oldest institution of higher learning in Sweden, and he graduated with the equivalent of a Master's degree on 27 January 1881.
 * By the time Bendixson graduated from Uppsala, Stockholm University was open and he studied there.
 * On 10 June 1890 Bendixson was appointed as a docent at Stockholm University.
-* Anna, who was about eighteen months older than Bendixson, was the daughter of the banker Johan Lind.
 * In 1899 Bendixson substituted for the Professor of Pure Mathematics at the Royal Technological Institute and then he was promoted to professor there on 26 January 1900.
 * Bendixson showed his exceptional talent for mathematics from the beginning of his student days and, as he progressed, these talents became more and more obvious.
 * As a young student Bendixson made his name by proving a theorem which he included in a letter which he wrote to Cantor, the letter being published in Volume 2 of Acta Mathematica.
@@ -47,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Poincaré had obtained a qualitative description of the integral curves but it was Bendixson who gave a quantitative description near the singular points.
 * The Poincaré-Bendixson theorem, which says an integral curve which does not end in a singular point has a limit cycle, was first proved by Poincaré but a more rigorous proof with weaker hypotheses was given by Bendixson in 1901.
 * To do this Bendixson used successive approximations.
-* Bendixson became more involved in politics as his career progressed.
 * As a teacher Bendixson was always well prepared.
 * For his outstanding contributions, Bendixson received many honours including an honorary doctorate on 24 May 1907.
 

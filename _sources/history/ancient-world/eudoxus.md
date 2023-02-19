@@ -63,7 +63,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Perhaps it is just too modern a way of thinking to wonder how Eudoxus could have developed such an intricate theory without testing it out with observational data.
 * Many of the early commentators believed that Plato was the inspiration for Eudoxus's representation of planetary motion by his system of homocentric spheres.
 * As a final comment we should note that Eudoxus also wrote a book on geography called Tour of the Earth which, although lost, is fairly well known through around 100 quotes in various sources.
-* The work consisted of seven books and studied the peoples of the Earth known to Eudoxus, in particular examining their political systems, their history and background.
 * Eudoxus wrote about Egypt and the religion of that country with particular authority and it is clear that he learnt much about that country in the year he spent there.
 * In the seventh book Eudoxus wrote at length on the Pythagorean Society in Italy again about which he was clearly extremely knowledgeable.
 

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Sophus Lie** was a Norwegian mathematician who made major advances in the theory of continuous groups of transformations and differential equations. Lie groups and Lie algebras are named after him.
 
 ### Mathematical Profile (Excerpt):
-* His parents had six children and Sophus was the youngest of the six.
 * Sophus first attended school in the town of Moss, which is a port in south-eastern Norway, on the eastern side of the Oslo Fjord.
 * At university Lie studied a broad science course.
 * There was certainly some mathematics in this course, and Lie attended lectures by Ludwig Sylow in 1862.
@@ -48,7 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Jordan seems to have succeeded in a way that Sylow did not, for Jordan made Lie realise how important group theory was for the study of geometry.
 * Lie started to develop ideas which would later appear in his work on transformation groups.
 * While in Paris Lie discovered contact transformations.
-* While Lie and Klein thought deeply about mathematics in Paris, the political situation between France and Prussia was deteriorating.
 * However, Lie was a Norwegian and he was finding mathematical discussions in Paris very stimulating.
 * In August, the German army trapped part of the French army in Metz and Lie decided it was time for him to leave and he planned to hike to Italy.
 * Only after the intervention of Darboux was Lie released from prison.

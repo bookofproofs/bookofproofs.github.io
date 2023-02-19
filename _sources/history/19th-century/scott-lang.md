@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Peter Scott Lang** became Regius Professor of Mathematics at St Andrews. He held this position for 42 years.
 
 ### Mathematical Profile (Excerpt):
-* Peter Scott Lang was the youngest of his parents' six children.
 * Scott Lang was educated at the Edinburgh Institution, then at the University of Edinburgh.
-* Scott Lang married Alice M Dickson (born in Colinton, Midlothian about 1859) and they had a daughter Edith Mary Lang.
 
 Born 8 October 1850, Edinburgh, Scotland. Died 5 July 1926, St Andrews, Fife, Scotland.
 

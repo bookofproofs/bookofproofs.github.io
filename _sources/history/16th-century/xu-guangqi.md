@@ -29,6 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He taught mathematics to Chinese students and one of these was the high-ranking public official Xu Guang-qi.
 * Xu Guang-qi became the first native of China to publish translations of European books into Chinese.
 * The first six books of Euclid's Elements were translated into Chinese in 1607 by Ricci and Xu Guang-qi.
+* Ricci and Xu Guang-qi's translation respects the order of Clavius's work completely; however, it is much less verbose ...
 * Clearly Xu Guang-qi was a total convert to Western thinking but most other Chinese mathematicians stuck to their traditional way of thinking, questioning what to them was absurd such as "a point has no part".
 * The Chinese approach to mathematics had been highly practical and to try to fit the Elements into that tradition Xu Guang-qi explained in his preface how the contents had application to the problem of the calendar, to music and to technology.
 * However the new Chinese terminology which Xu Guang-qi had to invent for point, curve, parallel line, acute angle, obtuse angle etc.

@@ -23,16 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Luigi Amoroso** was an Italian mathematician and economist who wrote on integral equatioins but is best known for his economic works.
 
 ### Mathematical Profile (Excerpt):
-* Nicola Amoroso was an engineer who married Maria Mascoli in 1885.
 * Luigi was the eldest of his parents' six sons.
 * Let us note at this point that there appears to be some confusion as to Luigi Amoroso's date of birth, some biographies giving 26 March 1886.
-* Despite his heavy workload, in the evenings, after supper, the father would dedicate his time to research in pure mathematics, thereby setting an example and demonstrating the importance of study to his six sons, of whom Luigi was the eldest.
 * Amoroso began his studies of mathematics at the Scuola Normale Superiore in Pisa in 1903.
 * In 1909 three of Amoroso's papers were published.
 * This shows that, at this early stage of his career, Amoroso was undertaking research in mathematical problems and also that he had become interested in mathematical economics, particularly through studying the work of Vilfredo Pareto (1848-1923).
 * Despite the move from research in mathematics to research in mathematical economics, Amoroso still produced more papers on mathematics than on economics during this early part of his career.
 * Although today Amoroso is remembered as a mathematical economist, despite his interest in this topic starting at the beginning of his career, his move towards this was slow with only a small proportion of his papers being on this topic for many years while he published more papers on mathematics and mathematical physics.
 * In 1914 Amoroso was appointed to the chair of financial mathematics at the University of Bari.
+* Amoroso"s digressions ...
 * At this point Amoroso still believes in a distinction between industries with increasing returns to scale (manufacturing industry) and industries with decreasing returns to scale (agriculture), a notion which he would later dismiss in favour of a general U-shaped average cost curve.
 * Mathematical economics, as an abstract analytical science, came for Amoroso to coincide with economic mechanics, that is, with the study of the relations between (psychological) forces on the basis of which the economic facts and the obstacles that oppose the action of these forces are produced: in every instant forces and obstacles determine the connections that are then realised among the quantities in the economy as a whole.
 * Amoroso spent five years at the University of Naples before being appointed to the chair of economics in the Faculty of Political Science in the University of Rome in 1926.

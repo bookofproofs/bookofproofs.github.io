@@ -23,13 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jürgen Moser** was a German-born American mathematician who worked in Hamiltonian dynamical systems and partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-* Jürgen was only five years old when the Nazis came to power but from that time on his father Kurt found life increasingly difficult.
 * Kurt Moser was a neurologist and came under pressure to fit in with the Nazi views on eugenics.
 * When Jürgen was ten years old his parents were encouraged to send him to such a school but Kurt, fully aware of the situation, was able to ensure that Jürgen did not fall under the Nazi influence by avoiding having Jürgen sent there.
 * Jürgen attended the Gymnasium in Königsberg but when he was fifteen years old all the boys were forced into a military auxiliary force and trained to man anti-aircraft guns.
 * Jürgen was not very strong physically so he was put to work computing trajectories.
 * Moser, along with the other sixteen year old boys from his class, were sent to defend the city from the Russians.
-* Moser's elder brother also died in the fighting during these terrible two months.
 * Moser escaped from some of the horrors by occupying himself in mathematics whenever he had a free moment.
 * Before the siege ended in April 1945 Moser and his parents were evacuated by boat towards the British held zone.
 * Moser and his parents survived but were separated in the terrible chaos.

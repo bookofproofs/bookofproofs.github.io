@@ -28,7 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * When Fischer arrived in Erlangen it was natural for Noether to work with him.
 * She refers in her papers at this time again and again to conversations with Fischer.
 * Fischer is best known for one of the highpoints of the theory of Lebesgue integration, called the Riesz-Fischer Theorem.
-* Fischer was 42 years old, his wife being 26; they had one daughter.
 * From 1920 Fischer worked at the University of Cologne, remaining there until he retired in 1938.
 * Let us note again the major result, the Riesz-Fischer Theorem, for which he is best known as Weyl noted in the above quote.
 * In 1907 Ernst Fischer studied orthonormal sequences of functions and gave necessary and sufficient conditions for a sequence of constants to be the Fourier coefficients of a square integrable function.

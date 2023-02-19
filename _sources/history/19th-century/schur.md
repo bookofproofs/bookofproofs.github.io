@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Schur then made major steps forward, both in work of his own and work done in collaboration with Frobenius.
 * In 1901 Schur obtained his doctorate with a thesis which examined rational representations of the general linear group over the complex field.
 * Functions which Schur introduced in his thesis are today called SSS-functions, where the SSS stands for Schur.
-* Interest in the results of Schur's thesis continues today; for example J A Green published an account of these results in a modern setting in 1980.
 * In 1903 Schur became a lecturer at Berlin University and then, from 1911 until 1916, he held a professorship in mathematics at the University of Bonn.
 * Schur is mainly known for his fundamental work on the representation theory of groups but he also worked in number theory, analysis and other topics described below.
 * One of the most fundamental results which he discovered at this time is today called Schur's Lemma.
@@ -42,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The school which Schur built at Berlin was of major importance not only for the representation theory of groups but, as indicated above, for other areas of mathematics.
 * Schur's charismatic leadership inspired those around him to push forward with research on group representations.
 * Schur's own impressive contributions were extended by his students in a number of different directions.
-* Among the students who completed their doctorates under Schur were Richard Brauer, Alfred Brauer (Richard Brauer's brother), Robert Frucht, Bernhard Neumann, Richard Rado, and Helmut Wielandt.
 * There were others who worked under Schur such as Kurt Hirsch, Walter Ledermann, Hanna Neumann and Menahem Max Schiffer.
 * In 1922 Schur was elected to the Prussian Academy, proposed by Planck, the secretary of the Academy.
 * Planck's address which listed Schur's outstanding achievements had been written by Frobenius, at least five years earlier, as Frobenius died in 1917.

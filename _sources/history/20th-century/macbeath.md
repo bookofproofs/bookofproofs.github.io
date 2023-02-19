@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Murray Macbeath** was a Scottish mathematician who worked at Bletchley Park during the war. He specialised in discrete and transformation groups.
 
 ### Mathematical Profile (Excerpt):
-* Alexander Macbeath, Murray's father, was a Highlander born in Applecross, Ross, Scotland.
-* Alec Macbeath was a lecturer in Moral Philosophy at the University of Glasgow when their first child, a son Murray the subject of this biography, was born.
-* Murray was the eldest of his parents' four children, having a sister Catriona Kennedy Macbeath (1925-2013) who was born in Glasgow, and two brothers, Innis Stewart Macbeath (1928-1996) and Alan Macbeath (1930-2001), both born in Belfast.
-* Murray and his younger siblings were all brought up in Belfast where their father worked for the rest of his career.
 * Murray's school education was in Belfast and he continued his university studies there at Queen's University, graduating with a B.A. with first class honours in Mathematics in 1942.
 * Macbeath was assigned to Hut 7 which had the task of breaking the Japanese navy codes.
 * Others, such as Gordon Welchman, have taken a different approach and so much of the work done by Macbeath and others at Bletchley Park is now well known.

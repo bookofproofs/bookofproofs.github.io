@@ -23,14 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Mai Wending** was a Chinese mathematician and astronomer who wrote on simultaneous equations and advocated the use of Western ideas in Chinese mathematics.
 
 ### Mathematical Profile (Excerpt):
-* He had three younger brothers, two of whom, Mei Wennai and Mei Wenmi, were both skilled mathematicians and astronomers.
-* Mei Wenmi, Mei Wending's youngest brother, produced an excellent star catalogue.
-* Continuing for a moment to give further family details, we note that Mei Wending's son Mei Yiyan, who died young, also became a skilled mathematician assisting his father.
 * Also Mei Wending's grandson, Mei Juecheng, became a particularly well-known as a mathematician.
-* To avoid confusion, from now on let us adopt the system of referring to Mei Wending as Mei, while referring to all other members of the Mei family by their full names.
-* These issues regarding the Chinese calendar were important ones during the years that Mei and his brothers were growing up, and they studied the mathematical and astronomical topics necessary for calendar design under the Daoist teacher Ni Guanghu.
 * China was in a transitional state during the years that Mei was growing up.
-* Mei's family remained loyal to the old Chinese Ming dynasty keeping themselves independent of the Manchu led administration.
 * Mei also tried to steer a course between the best of the old Chinese learning and the new European learning.
 * In his historical studies, Mei stressed that Chinese astronomy had improved from generation to generation, progressing from coarseness to accuracy.
 * This was Mei's historical rationale for synthesizing Western and Chinese knowledge.
@@ -49,11 +43,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Jihe tongjie (Complete Explanation of Geometry) contains Mei's approach to Euclidean geometry.
 * Around 1701 he wrote Lixue yiwen (Inquiry on Mathematical Astronomy) which greatly interested the Emperor Kangxi who then summoned Mei to an audience in 1703.
 * By this time Mei was seventy years old and went to Baoding to meet Emperor Kangxi taking his grandson Mei Juecheng with him.
-* Although this was the first meeting between Mei and the Emperor, earlier Mei had taught mathematics to the son of Li Guangdi, the Emperor's mathematical advisor, along with his own grandson Mei Juecheng at Baoding.
 * Mei was too old by this time to serve the Emperor but the discussions between Mei and the Emperor led eventually to the establishing of the Mengyangzhai (the Academy of Mathematics) in 1713.
 * Its main aim was to supervise the compilation of mathematical and astronomical works, and many of the mathematicians trained by Mei, including his grandson Mei Juecheng, were chosen to work at the Academy.
 * The ancient Chinese calendar makers had used a method of interpolation in their work and Mei explained their methods in his 1704 work Pinggliding sancha xiangshuo Ⓣ(A Detailed Account of third degree interpolation).
-* Mei Juecheng compiled and edited his grandfather's works and published them in Mei shi congshu jiyao Ⓣ(Collected Works of the Mei Family) in 1761.
 * For more details see Mei Juecheng's biography.
 
 Born 1633, Xuangcheng, now Xuanzhou, Anhui province, China. Died 1721, China.

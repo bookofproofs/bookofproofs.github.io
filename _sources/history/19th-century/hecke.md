@@ -37,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Although Hecke achieved important results following this line of investigation, he considered that his attempts had been unsuccessful.
 * However it was highly successful in the sense that the results which Hecke obtained were to lead him to further major discoveries.
 * Probably Hecke's most important work was in 1936 with his discovery of the properties of the algebra of Hecke operators and of the Euler products associated with them.
-* Hecke married and had a son who tragically died young.
 * Hecke himself died of cancer before reaching his 60th  birthday.
 
 Born 20 September 1887, Buk, Posen, Germany (now Poznań, Poland). Died 13 February 1947, Copenhagen, Denmark.

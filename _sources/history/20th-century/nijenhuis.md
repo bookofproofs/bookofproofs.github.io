@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Nijenhuis was able to continue his studies at the Gymnasium where, at the age of fourteen, he became fascinated by mathematics.
 * The Germans evacuated Arnhem, the Gymnasium there was closed down and Nijenhuis' schooling came to an end.
-* The Nijenhuis family were forced to leave the town.
 * When the Arnhem Gymnasium closed, Nijenhuis was seventeen years old and had only one year of schooling left.
 * Nijenhuis was awarded his Candidat degree, equivalent to a Bachelor's degree, in 1947.
 * In 1952 Nijenhuis was awarded a Ph.D. for his 238-page thesis Theory of the geometric object which was published by the University of Amsterdam in that year.

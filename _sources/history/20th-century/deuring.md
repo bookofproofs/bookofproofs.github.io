@@ -30,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After short spells at the University of Rostock and the University of Groningen, van der Waerden had been appointed professor of mathematics at the University of Leipzig in 1931 and Deuring was appointed as his assistant.
 * By 1935, with an excellent publication record behind him, including his famous book Algebren Ⓣ(Algebras)  published in that year, Deuring wanted to qualify as a lecturer and submit his habilitation thesis.
 * Helmut Hasse was by this time director of the Mathematical Institute at Göttingen and he encouraged Deuring to habilitate there.
-* However, Erhard Tornier, a staunch Nazi supporter, although accepting the quality of Deuring's work, nevertheless found him politically unacceptable.
 * Tornier was supported by militant Nazi sympathisers among the students, and Deuring was refused the right to lecture by the Ministry.
 * Perhaps Deuring's greatest mathematical idea came in 1936.
 * However before that we will follow the rest of Deuring's career.

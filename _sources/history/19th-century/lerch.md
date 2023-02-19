@@ -25,10 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Like most people from that part of the world in that period he has both a German version of his name, Mathias, and a Czech version, Matyáš.
 * However there is no evidence that he ever used the name Matěj and he always used Matyáš.
-* His parents were Vojtěch Lerch and Barbora Adamovská, who worked on a farm, and had five children who survived past the baby stage, two boys and three girls.
-* The remaining children, Matyáš (the subject of this biography), Ružena and Marie all grew to adulthood.
 * Lerch should have begun his education at an elementary school at the age of six.
-* When Lerch was eight years old the family moved to Sušice, about 5 km from the small village of Milínov.
 * After the elementary school, which he left older than other pupils because of his late start, Lerch progressed to the lower secondary burgher school of Sušice.
 * After studying at the burgher school, Lerch reached the end of his compulsory schooling in 1877.
 * It seems that a religious dispute with one of his teachers led to Lerch leaving the school in Pilsen and attending a secondary school at Rakovník, due west of Prague, in 1879.
@@ -47,7 +44,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At the University of Fribourg, Lerch lectured in French and German on elliptic functions and similar topics.
 * Lerch was Dean of the Faculty of Science in the academic year 1900-01.
 * A year after the founding of Czechoslovakia, a new university, named the Masaryk University after the first president, was founded in Brno and Lerch became the first professor of mathematics there in 1920.
-* Lerch married Roůžena Sejpková on 13 January 1921.
+* Also, the Lerch zeta-function is a well-known generalization of Riemann's zeta-function due to him ...
 * As we mentioned above, Lerch won the Grand Prize of the Paris Academy of Sciences in 1900 with a work on number theory, a great honour for any mathematician and an even greater achievement for a mathematician from outside France.
 * Lerch suffered from diabetes which cased his health to progressively worsen over the years although staying at health resorts in the vacations improved things temporarily.
 

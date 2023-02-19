@@ -24,17 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * René Descartes' parents were Joachim Descartes (1563-1640) and Jeanne Brochard (1566-1597).
-* Joachim, the son of the medical doctor Pierre Descartes (1515-1566), studied law and was a counsellor in the Parliament of Brittany which sat at Rennes.
-* Jeanne was the daughter of the military man René Brochard who formed part of the garrison stationed at Poitiers.
-* One of Jeanne's brothers, also named René Brochard, became one of René Descartes' two godfathers; René Descartes was named after his godfather René Brochard.
-* Jeanne's widowed mother, Jeanne Sain Brochard, lived at La Haye, near Tours, and it was in her home that René was born.
-* Joachim and Jeanne Descartes were married on 15 January 1589 and lived at Châtellerault.
-* They had two surviving children older than René, a girl named Jeanne (born 1590) and a boy named Pierre (born 1591).
 * René was baptised in the Roman Catholic Church of Saint George in La Haye when he was four days old.
-* At this time, René was sent back to his grandmother's home in La Haye where he was cared for by Jeanne Sain Brochard.
-* Joachim Descartes remarried in 1600 to Anne Morin and they had a boy named Joachim (born 1602) and a girl named Anne (born 1611).
-* René therefore had a older brother and an older sister, as well as a younger half-brother and younger half-sister.
-* Now René's health was poor when he was a child.
 * Descartes was educated at the Jesuit college of La Flèche in Anjou.
 * School had made Descartes understand how little he knew, the only subject which was satisfactory in his eyes was mathematics.
 * Comparatively little is known of Descartes' life between 1614 and 1618.

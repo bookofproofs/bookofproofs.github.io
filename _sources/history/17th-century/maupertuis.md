@@ -24,13 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * He had received his title shortly before the birth of Pierre-Louis who was his eldest son.
-* Pierre-Louis's mother played a large part in forming his character by being excessively protective.
-* One effect of this treatment was that Maupertuis' younger brother, Moreau de Saint Ellier, was very jealous of the fact that his older brother was treated so much more favourably than he was, and he came to hate Maupertuis because of this.
 * In 1714 Maupertuis was sent to study at the Collège de la Marche in Paris.
 * Malebranche had studied at this famous college sixty years earlier and now Maupertuis studied philosophy under Le Blond.
-* After two years in Paris, however, Maupertuis' mother insisted that he come home to Saint Malo.
 * He began to study music in 1717 but soon he developed a strong interest in mathematics.
-* The navy seemed like an attractive career to Maupertuis but his mother felt it was too dangerous so he was forbidden from pursuing this choice.
 * Although this was the sort of position that most young men of the time could only dream about, it did not suit Maupertuis.
 * His early interest in mathematics now blossomed and, with instruction in the higher reaches of the subject from these men, he soon acquired a deep understanding.
 * Maupertuis became an adjoint in the Académie des Sciences in 1723 and in the following year he produced his first paper Sur la forme des instruments de musique which studied the effect of the shape of an instrument on the characteristics of the note it produced.
@@ -65,7 +61,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He decided to accept the position and returned to Paris in the spring of 1745 to tidy up his affairs before taking up his new role.
 * Maupertuis had now committed himself to Berlin, and the Paris Academy cancelled his membership in September 1745 after a campaign against him led by Jacques Cassini.
 * On 12 May 1746 Maupertuis was officially appointed as president of the Berlin Academy, a post which he was to hold for eight years.
-* His presidency did not get off to a good start, however, for in June his father died and he returned to Paris, remaining there until September.
 * Although he tried very hard to make a success of his role as president of the Berlin Academy, things were rather against him.
 * On the one hand he did not speak German, and although the official business of the Academy was conducted in French or Latin, Maupertuis was rather cut off from the day to day administration which was conducted in German.
 * His other problem was that Frederick wanted his Academy to be world class, but he was not prepared to put up the necessary funds to attract the top people.
@@ -79,6 +74,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One reason is that indeed it was late in his career that he proposed the principle.
 * It was in 1746, soon after becoming director of the Berlin Academy, that he first enunciated the Principle of Least Action and it was four years later that he published it in Essai de cosmologie Ⓣ(Essay on cosmology).
 * Maupertuis hoped that the principle might unify the laws of the universe and combined it with an attempted proof of the existence of God.
+* These laws, so beautiful and so simple, are perhaps the only ones which the Creator and Organizer of things has established in matter in order to effect all the phenomena of the visible world ...
 * Samuel König was a mathematician whom Maupertuis had known for a long time.
 * Both had been students of Johann Bernoulli, both had taught du Châtelet, both had studied the shape of the Earth, and Maupertuis had proposed Samuel König for election to the Berlin Academy.
 * The strange affair began in 1751 when König visited Berlin and gave a paper to Maupertuis to be considered for publication.
@@ -93,7 +89,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * lampooned Maupertuis's amorous adventures in the North.
 * Frederick tried to support the president of his Academy, but Maupertuis's failing health collapsed under the strain and he left Berlin for Paris in 1753.
 * He remained there for over a year, being pressed by Frederick to return to Berlin who claimed that the Academy was out of control now its director was absent.
-* This Maupertuis did in 1754 but then he was apparently blackmailed by a girl who claimed that he was the father of her child.
 * Shortly after this Maupertuis's membership of the Académie des Sciences was renewed and he was awarded a pension from the Paris Academy.
 * He spent seven months in Bordeaux but eventually reached Basle in October 1758 where he was a guest in the home of Johann Bernoulli.
 * he reveals remarkable powers of perception in heredity, in understanding the mechanism by which species developed, even in immunology, but no fully elaborated theory.

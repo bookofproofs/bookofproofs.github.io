@@ -47,7 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One mark of this is the fact that MathSciNet lists around 100 papers with a concept named after Wiman in the title.
 * For example, Wiman-Valiron theory, Wiman-Valiron discs, Wiman theorems for quasiregular mappings, Wiman surfaces, the Wiman inequality, Wiman's sextic, the Wiman-Valiron method for difference equations, the conjecture of Wiman, and the Wiman bound.
 * Let us look now at Wiman's character and his influence on those around him.
-* Wiman was the only member of his rural family who went to study.
 * Wiman often talked about this with a shade of disappointment.
 * Otherwise Wiman looked on the world with a positive eye - he was a composed and harmonic human being of a kind rarely met.
 * Wiman, throughout his life, maintained a keen interest in the teaching of mathematics in secondary schools.

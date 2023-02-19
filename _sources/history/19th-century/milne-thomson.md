@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Louis was the eldest of his parents' sons.
 * Milne-Thomson entered Clifton College in Bristol in 1906 as a classical scholar and in his final year at the College he won a scholarship to study mathematics at Corpus Christi College, Cambridge.
 * Milne-Thomson was appointed as an assistant mathematics master at Winchester College in 1914.
-* On 12 September 1914, shortly after he took up his appointment, Milne-Thomson married Gertrude Frommknecht; the marriage produced three daughters.
 * After teaching for seven years at Winchester College, Milne-Thomson left in 1921 to take up an appointment as professor of mathematics at the Royal Naval College in Greenwich.
 * The most important topic that Milne-Thomson undertook research on near the start of his career was compiling tables.
 * Of course the main mathematical tool used in constructing tables was the method of finite differences and in 1933 Milne-Thomson published his first textbook, The Calculus of Finite Differences, a text in which he set out to explain to students the techniques which he used in table making.

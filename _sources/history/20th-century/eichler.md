@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Martin's parents gave him his early education before he entered the Gymnasium in Gütersloh in 1923.
 * Eichler was awarded his doctorate in 1936.
 * Following the award of his doctorate, Eichler was appointed as an assistant in the Mathematical Seminar at the University of Halle.
-* Eichler was dismissed from his assistantship for political reasons but fortunately Hasse found him a temporary position as an editor for a new version of the Enzyklopädie der Mathematischen Wissenschaften Ⓣ(Encyclopedia of Mathematical Sciences).
 * After Eichler worked on this for a while, Hasse managed to arrange a position for him as an assistant at Göttingen.
 * It now appeared that, after a difficult period, Eichler's mathematical career was back on track thanks mainly to the efforts of Hasse.
 * Eichler was sent to Peenemünde to work at the Heeresversuchsanstalt, an extensive rocket development and test site which had been set up in 1937.

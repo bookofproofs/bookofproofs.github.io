@@ -27,17 +27,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * From 1991 onwards he has papers with his name given as W Norrie Everitt.
 * The authors of this article knew him as Norrie and we will use that name throughout this biography.
 * Norrie Everitt's parents were Charles Ernest Everitt, a shipping transport director born 6 May 1895, and Elizabeth Cloudsley Ross, born 10 January 1895.
-* Norrie had an older sister Eileen M Everitt, born 3 February 1922.
 * Norrie Everitt was educated at Kings Norton Grammar School in Birmingham.
-* In 1939 Charles and Lizzie Everitt and their daughter Eileen were living at 154 Alcester Road South, Moseley, Birmingham.
-* At this time Norrie was fifteen years old, a school pupil, and living with Bernard F W Workman and his wife Edith M Mary Workman at 179 Tredworth Road, Gloucester.
 * After graduating from Kings Norton Grammar School, Everitt matriculated at the University of Birmingham where he studied electrical engineering.
 * After the award of his M.A., Everitt continued to undertake research at Balliol College for his doctorate advised by Edward Charles Titchmarsh.
 * Everitt was awarded a DPhil  in 1955 for his thesis Eigenfunction Expansions Associated with Fourth-Order Differential Equations.
 * This paper, submitted in December 1956, was not Everitt's first since he had submitted Inequalities for Gram determinants (1957) in October 1956.
 * Before the award of his D.Phil., Everitt had been appointed to the Royal Military College of Science in Shrivenham in 1954.
 * They had two sons, Charles Everitt (born 7 January 1956) and Timothy Everitt (born 1957).
-* The family lived at 39 Faringdon Road, Abingdon, which was only 12 km from Oxford and Everitt made the trip to Oxford on Friday afternoons to attend the analysis seminar at the University.
 * Everitt published papers such as Some properties of Gram matrices and determinants (1958), A note on positive definite matrices (1958), Integrable-square solutions of ordinary differential equations (1959), On a generalization of Bessel functions and a resulting class of Fourier kernels (1959), On the Hölder inequality (1961), Self-adjoint boundary value problems on finite intervals (1962), Integrable-square solutions of ordinary differential equations.
 * This impressive list of high quality papers led to Everitt being appointed to the Baxter Chair of Mathematics, Queen's College, Dundee, in 1962, taking up the post in the following year.
 * When Everitt was appointed to Queen's College, Dundee, it was still a college of the University of St Andrews, and it remained as such until 1 August 1967 when the University of Dundee received its royal charter.
@@ -57,7 +53,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * As technology evolved, Norrie adapted and skilfully delivered Beamer-type presentations.
 * Everitt died in 2011, a month after his 87th birthday.
 * The conference "Spectral analysis and differential equations, A memorial meeting to mark the life and work of  Professor W N Everitt" was held at the University of Cardiff on the 15-17 May 2014.
-* Everitt's wife Kit died in 2013.
 
 Born 10 June 1924, Birmingham, England. Died 17 July 2011, Birmingham, England.
 

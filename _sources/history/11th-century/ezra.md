@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Rabbi Ben Ezra** worked in Islamic Spain and wrote works which introduced Islamic mathematics and Indian number systems to Europe.
 
 ### Mathematical Profile (Excerpt):
-* Little is known of his life except that he was on friendly terms with the eminent poet and philosopher Judah ha-Levi, whom some historians believe was ibn Ezra's father-in-law.
 * Ibn Ezra made his reputation as a scholar and a poet.
 * From 1140 to 1160 ibn Ezra's life changed markedly.
 * In addition to these topics, ibn Ezra wrote on permutations and combinations, the calendar, the astrolabe, and Biblical studies.

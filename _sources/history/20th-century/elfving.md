@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Erik Gustav Elfving**  was a Finnish mathematician and statistician who worked in the optimal design of experiments.
 
 ### Mathematical Profile (Excerpt):
-* Frederik and Thyra Elfving were married in 1897 and Gustav was the youngest of their four children, having one older brother Rabbe Fredrik Elfving (1899-1966) and two older sisters Brita Elfving (1900-1917) and Astrid Elfving (1902-1982).
-* In fact it was in the Botanical Institute that Gustav was brought up, so he spent his childhood in the idyllic surroundings of the Botanic Gardens.
 * Elfving graduated from the Gymnasium in the spring of 1926 and, later that year, entered the University of Helsinki with the intention of studying astronomy.
 * Elfving changed from majoring in astronomy to majoring in mathematics and graduated in 1930 with astronomy and physics as minor subjects.
 * Elfving's undergraduate career saw him achieve top marks and he was awarded the Donner Prize in 1930 for his dissertation Zur Reduktion von Echolotungen Ⓣ(On the reduction of echo soundings).
@@ -46,9 +44,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The revolutionary impact of Elfving's contribution was due to the confluence of several factors.
 * Elfving was primarily interested in fundamental ideas.
 * In 1981, Elfving published the book The history of mathematics in Finland, 1828-1918.
-* Elfving provides necessary background of past and contemporary research, at home and abroad, but also Finnish culture, society, and politics.
 * Elfving was honoured with election as a fellow of the Institute of Mathematical Statistics, as a member of the International Statistical Institute, and as an honorary member of the Royal Swedish Academy of Sciences.
 * Colleagues and friends came to see the more personal side of Gustav Elfving: a considerate and warm human being as well as an open-minded man who enjoyed conversation, contributing to it with charm and wit.
+* Elfving wrote poems and enjoyed philosophical discussions ...
 * Elfving died at his home in Helsinki and was buried in the Hietaniemi Cemetery in Helsinki.
 
 Born 25 June 1908, Helsinki, Finland. Died 25 March 1984, Helsinki, Finland.

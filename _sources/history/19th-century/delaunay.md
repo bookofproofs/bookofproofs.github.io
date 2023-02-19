@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Charles-Eugène Delaunay** was a French mathematician and astronomer whose theory of lunar motion advanced the development of planetary-motion theories.
 
 ### Mathematical Profile (Excerpt):
-* His father was Jacques Hubert Delaunay, a surveyor, and his mother was Catherine Choiselat, the daughter of a farmer.
-* Charles was very close to his mother as a young child and remained so throughout his life.
-* In 1818, when Charles was two years old, his father acquired the office of a bailiff in Ramerupt, which is about 20 km north east of Troyes.
-* When he was still young Charles was sent to Troyes to live with one of his uncles who was a manual worker.
 * When Delaunay graduated in 1836 he was ranked first among all students across all academic disciplines.
 * Delaunay had graduated before the prize was instituted but Mme de Laplace requested that he become the first recipient of the prize which consisted of the complete works of Laplace.
 * It turned out to be a decision which changed the course of Delaunay's career, for reading Laplace's great works gave him a passion for celestial mechanics and he decided that he would make a career in that subject.

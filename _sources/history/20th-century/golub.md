@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gene Golub** was an Amercian mathematician who worked in numerical linear algebra.
 
 ### Mathematical Profile (Excerpt):
-* They met for the first time in Chicago and later married, having two sons with Alvin the older and Gene the younger.
 * Golub's home was not in the Jewish area of Chicago, but he attended Haugan Elementary School which was in the Jewish area.
 * In his final semester Golub had taken the Digital Computer Programming course and he was offered a position as an assistant in the computing laboratory.
 * Had it not been for the Korean War, Golub may have ended his education at this point but remaining at the University of Illinois to study for a doctorate allowed him to get a draft deferment.

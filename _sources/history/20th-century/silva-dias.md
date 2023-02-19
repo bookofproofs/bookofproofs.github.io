@@ -23,11 +23,9 @@ contributors: @Paulo-Cesar-Xavier-Duarte,bookofproofs
 **Cândido Silva Dias** was a Brazilian mathematician who worked in analytic function theory.
 
 ### Mathematical Profile (Excerpt):
-* Since his childhood he used to play with numbers because his father was an engineer and he enjoyed stimulating Silva Dias to do mathematics.
 * As a result of this time playing with numbers, Silva Dias had an early start with arithmetic.
 * Teachers and also the students had the possibility to live at the school, and this was where Silva Dias boarded.
 * During his summer vacation of 1938-39, Silva Dias presented a course on Mathematical Analysis which some engineers had requested.
-* Silva Dias married Odila Leite Ribeiro in 1937; they had four children: Cândido Leite da Silva Dias (born 1938), now retired, Maria Odila Leite da Silva (born 1940), a University Professor now retired, Guilherme Leite da Silva Dias (born 1942), a University Professor now retired, and Pedro Leite da Silva Dias, a University Professor.
 * Silva Dias remained in this position until 1941.
 * In August 1943 Silva Dias took part in the examining board for the doctoral examinations of the graduate Benedito Castrucci (1909-1995).
 * On 6 July 1943 Silva Dias presented the work "Application of the theory of the analytical functionals to the study of a solution for a differential equation of infinite order" to the Brazilian Academy of Sciences, communicated by Francisco de Oliveira Castro, which was published in its Annals.

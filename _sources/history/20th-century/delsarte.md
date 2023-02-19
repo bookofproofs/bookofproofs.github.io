@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jean Delsarte** was a French mathematician known for his work in mathematical analysis.
 
 ### Mathematical Profile (Excerpt):
-* Jean's father bravely remained in Fourmies trying to save the remnants of his destroyed factory.
 * Jean had been a brilliant pupil at primary school in Fourmies where he studied during 1913-14 at the Collège St-Pierre, and later he did outstandingly well in his secondary education at the Lycée Corneille in Rouen.
 * In 1922 Delsarte entered the École Normale Supérieure in Paris.
 * In particular he met with mathematics student André Weil and the physicist Yves Rocard who were both in the same year as Delsarte.
@@ -33,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was a collaboration in which Delsarte took a leading role and, looking at reports of their meetings, one is struck with the humour, the passion, and the self-belief that these young men of the École Normale displayed.
 * Delsarte graduated from the École Normale in 1925.
 * In fact Delsarte was to remain on the staff at Nancy for the rest of his career but his first promotion was to Maître de Conférences in October 1928.
-* In the following year Delsarte married Thérèse Sutter, the daughter of a doctor.
 * In 1932 Delsarte's outstanding research was recognised with an invitation to address the International Congress of Mathematicians in Zürich.
 * Not only did Delsarte teach some outstanding mathematics courses at Nancy but he taught a public course on astronomy from 1929, continuing to give this when at Nancy for the rest of his career.
 * It was during his regular visits to Paris during 1934-35 that Delsarte became heavily involved in the Bourbaki project to write a new analysis textbook which expanded into the remarkable Éléments de Mathématique Ⓣ(Elements of mathematics).

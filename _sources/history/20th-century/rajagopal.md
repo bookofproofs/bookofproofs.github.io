@@ -24,11 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Cadambathur Tiruvenkatacharlu worked in the Revenue Department of the Madras State.
-* C T Rajagopal (we'll call him Rajagopal although he was known as CTR or Raju) had two younger brothers and one sister, the youngest of the four siblings.
-* Rajagopal's eldest brother was C T Venugopal (1907-1972), known as Venu, who became an Indian civil servant who was recruited by the Indian Railway Accounts Service in 1930 and worked on the division of the assets of the railway when India and Pakistan became separate countries in 1947.
-* Rajagopal's younger brother was Cadambur Tiruvenkatachari Krishnamachari Chari (1909-1993) who studied philosophy and became Head of the Department of Philosophy at Madras Christian College.
 * He wrote on the theory of relativity, quantum mechanics and the paranormal.
-* Rajagopal's youngest sibling was Kamala who married R P Sarathy, who became the first defence secretary after India after the split with Pakistan.
 * Rajagopal was educated in Madras, (now Chennai) India, where he attended the Hindu High School.
 * This school began in 1860 when two boys schools in the Triplicane area of Madras were merged.
 * The name Hindu High School was adopted in 1897 after a large new building was constructed.
@@ -44,7 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In fact, there is an interesting parallel between the careers of these two men, which begins even earlier than their first contact, viz., their highly proficient studentship in the two renowned institutions, the Hindu High School and the Madras Presidency College.
 * Ananda Rau could notice the exceptional intelligence of young Rajagopal.
 * It is noteworthy that Tirukkannapuram Vijayaraghavan (1902-1955), who influenced Rajagopal in his later career, was a senior college-mate in the Honours classes of Rajagopal.
-* In the year that he graduated, 1915, Rajagopal married Rukmini; their only son was C R Srinivasan.
 * Rajagopal spent over a year in clerical service at the Madras Accountant General's office, and another year 1930-31 teaching in Annamalai University.
 * This university had only been founded in 1929.
 * From 1931 to 1951, he taught in the Madras Christian College.
@@ -76,7 +71,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After he retired Rajagopal continued to undertake research both on summability and on medieval Kerala mathematics.
 * In fact he published eighteen papers in the nine years of his retirement.
 * He was so healthy and was so regular in habits that nobody could believe that destiny would snatch him away so soon.
-* The end was painless and his wife who was by his side could not believe that he had left her.
 * His teaching was marked by very detailed treatment of the topic, be it either real or complex analysis or statics or dynamics; it did not only adhere to the main text prescribed for the topic but covered additional ground throwing light on the teacher's original study of the topic.
 * Thus he catered very well to the average students while inspiring the bright ones towards original work.
 * As with his teacher, his way with research workers was to encourage and expect them to formulate their own problems and then to discuss the problems with them.
@@ -105,7 +99,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * If he ever became angry, it was always in defence of his colleagues and students.
 * The Rajagopals were highly hospitable.
 * The author and some of his colleagues cannot forget the long hours spent at their home.
-* There was always a stream of visitors to their house in Tambaram where each one of the visitors was personally welcomed and treated by Rajagopal and his gracious wife Rukmini.
 
 Born 8 September 1903, Triplicane, Madras, (now Chennai) India. Died 25 April 1978, Madras, (now Chennai) India.
 

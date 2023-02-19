@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Dmitry Grave** was a Russian mathematician who worked in algebra and number theory.
 
 ### Mathematical Profile (Excerpt):
-* The family, consisting of Dmitry Aleksandrovich, his parents and his sister, lived in the town of Kirillov, about 500 km east of St Petersburg.
 * Their home was a one-story wooden house on the shore of Lake Siverskoye and it was in this house that Dmitry Aleksandrovich had been born.
-* The town was dominated by the Kirillo-Belozersky monastery and Dmitry Aleksandrovich's childhood memories were of this monastery, the historic town and its people.
-* Now Grave was a very talented as a musician and he would have liked to have studied music at the conservatory in parallel with his mathematical studies at the university.
 * Grave graduated with his first degree in 1885, having written a dissertation On minimal surfaces, which was published in the Notes of the Physics and Mathematics Association of St Petersburg University Students.
 * For his Master's Degree, Grave had undertaken work on Jacobi's methods for the three body problem, a topic which had been suggested by Korkin.
 * Grave took their advice and became professor at Kharkov in 1897 and, from 1899, he was appointed professor at the Saint Vladimir University of Kiev, where he remained for the rest of his life.
@@ -37,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This led Grave to think about applications of mathematics to insurance, and various actuarial problems.
 * Grave had to discontinue his famous Kiev algebra seminar in the 1920s, give up teaching and research in algebra, and move to applied mathematics topics.
 * It would not be before the 1950s, well after Grave's death, that Kiev would again play a major role in algebra research.
-* The five years 1915-1920 were exceptionally difficult for Grave because, in addition to the political turmoil which tore the country apart, these were years of personal tragedy with the deaths of his children.
 * Grave chaired the Applied Mathematics Commission of the Academy of Sciences of the Ukraine in the 1920s.
 * After Grave stopped work on algebra, he began to study mechanics and applied mathematics, but he never completely gave up algebra.
 * The Institute of Mathematics of the Academy of Sciences was founded in Kiev in 1934 and Grave served as the first director of the Institute from its foundation until his death in 1939.

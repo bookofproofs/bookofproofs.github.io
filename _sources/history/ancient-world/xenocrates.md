@@ -30,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Despite Xenocrates having been chosen to head the Academy by Speusippus, an election took place to find a successor to Speusippus after his death.
 * It was a close battle between Xenocrates, Menedemus of Pyrrha and Heraclides Ponticus but Xenocrates triumphed by just a few votes.
 * Although Xenocrates had been many years in Athens he had refused to become a citizen of that state since he did not approve of its close relations with Macedonia.
-* In 322 BC Xenocrates found himself in a directly political post when he headed a team negotiating a political settlement with Macedonia.
 * The fact that Xenocrates was not an Athenian citizen became a sore point with the Macedonians and he was deemed to be illegitimate as an ambassador for Athens.
 * Xenocrates remained head of the Academy in Athens for the rest of his life.
 * Xenocrates wrote on philosophy and mathematics.

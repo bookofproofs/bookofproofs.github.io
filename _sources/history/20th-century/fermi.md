@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Enrico Fermi** was an Italian physicist who created the world's first nuclear reactor. He made important contributions to the development of quantum theory, nuclear and particle physics and to statistical mechanics.
 
 ### Mathematical Profile (Excerpt):
-* Enrico was the third of his parents' children having an older sister Maria (born in 1899) and older brother Giulio (born in 1900).
-* In line with the custom of the time, Enrico was brought up by a nurse away from the family until he was about 30 months old.
 * When he was six years old Enrico began to attend an elementary school which was chosen because it was a secular establishment).
-* In January 1915, when Enrico was 14, tragedy struck the family when Giulio died undergoing a minor operation for a throat abscess.
 * This, of course, had a deep and lasting affect on Enrico who, already somewhat introverted, became even less outgoing.
 * At this time he became friends with Enrico Persico, who was in the same class as school.
 * But in these adolescent talks Enrico brought a precision of ideas, a self-assurance, and an originality which continually surprised me.
@@ -46,16 +43,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Perhaps it was good that Fermi lost for in 1926 another competition was announced, this time for the chair of theoretical physics at the University of Rome.
 * This time, despite being very young for such a position, Fermi was appointed by the committee which recognised the exceptional quality of his scientific work.
 * At Rome Fermi began to built up the physics institute, which was surprisingly small when he arrived.
-* Fermi married Laura Capon on 19 July 1928; they had one daughter Nella born 31 January 1931 and one son Giulio born on 16 February 1936.
 * Certainly he deserved the honour on academic grounds but one should not assume that his appointment by Mussolini meant that Fermi supported fascism.
-* Perhaps it is more likely that because Fermi was pretty non-political, Mussolini felt that at least he was not appointing an political opponent.
 * The Academy appointment provided Fermi with a substantially additional salary.
 * Fermi gave lectures on quantum theory.
 * In 1934 Fermi carried out his most important work on the artificial radioactivity produced by neutrons.
 * Fermi was awarded the Nobel Prize in Physics in 1938.
 * Another important paper, published by Fermi in 1935, was Sulla quantizzazione del gas perfetto monoatomico.
 * In this paper he presented Fermi statistics, giving a statistical model of the atom and nucleus.
-* Fermi was not Jewish but his wife was and, although his two children were Roman Catholics, the family's situation became uncomfortable.
 * Fermi decided to write to universities in the United States looking for a position.
 * Amusingly, Fermi had to pass an arithmetic test before being granted a visa for the United States.
 * Fermi's work at Columbia University, in collaboration with other members of his team, soon showed possible applications of his research.

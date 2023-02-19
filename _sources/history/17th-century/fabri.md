@@ -23,14 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Honoré Fabri** was a French Jesuit who worked on astronomy, physics and mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Lukens comments that he "cannot explain these discrepancies." Wherever Fabri was born, certainly Honoré d'Urfé was his godfather.
-* Fabri's family were judges in the Valromey region, related to the Vaugelas family, and the most likely cause for the confusion over Fabri's place of birth is that he lived in Virieu-le-Grand when he was a child.
 * After teaching Fabri for two years in Lyon, Boniel returned to Avignon where he was appointed as Rector of the College.
 * After completing his studies of Scholastic Philosophy at Lyon, Fabri taught grammar for two years (1630-32) at the College in Roanne.
 * After leaving Arles, Fabri continued teaching in Jesuit colleges.
 * For six years from 1640, Fabri was professor of logic and mathematics at the Collège de la Trinité in Lyon.
 * Fabri was the first of many famous professors produced by the Collège de la Trinité: his students included Pierre Mousnier, who later edited many of his teacher's lectures; the mathematician François de Raynaud, who became famous through his friendship with Newton; Jean-Dominique Cassini; and Philippe de La Hire.
-* Gabriel Thibaut wrote to his fellow Minim brother Marin Mersenne in June 1648 saying that the Jesuit Fathers were doing everything they could to expel Fabri from the Jesuit Order, having unsuccessfully tried to prevent publication of his lectures.
 * In 1648, however, Pierre Mousnier was able to publish Fabri's metaphysical lectures which he had given at Lyon, under the title Metaphysica demonstrativa.
 * It is reasonable to ask why his writings were seen to be 'dangerous' by Fabri's superiors.
 * The main reasons appear to be Fabri's rejection of Aristotle's physics and his belief that space and time were composed of indivisibles.

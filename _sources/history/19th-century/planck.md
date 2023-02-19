@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Max Planck** initiated the study of quantum mechanics when he announced in 1900 his theoretical research into the radiation and absorption of heat/light by a black body.
 
 ### Mathematical Profile (Excerpt):
-* Both Max's parents were relatively old when he was born, his father being 41 and his mother being 37.
 * Max began his elementary schooling in Kiel.
 * He attended secondary school there, entering the famous Maximilian Gymnasium in May 1867.
 * Fortunately Planck decided to study physics despite the bleak future for research that was presented to him.
@@ -39,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Planck received the Nobel Prize for Physics in 1918 for his achievement.
 * Planck who was 42 years old when he made his historic quantum announcement, took only a minor part in the further development of quantum theory.
 * This was left to Einstein with theories of light quanta, Poincaré who proved mathematically that the quanta was a necessary consequence of Planck's radiation law, Niels Bohr with his theory of the atom, Paul Dirac and others.
-* Two years after the death of his first wife, Planck married again, to Marga von Hösslin the niece of Marie his first wife, on 14 March 1911.
 * Karl, the younger of Planck's sons from his first marriage, was killed in 1916 during World War I.
 * Planck always took on administrative duties, in addition to his research activities, such as Secretary of the Mathematics and Natural Science Section of the Prussian Academy of Sciences, a post he held from 1912 until 1943.
 * Planck was much involved with the German Physical Society, being treasurer and a committee member.

@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Pia Nalli** was an Italian mathematician known for her work on algebraic geometry, functional analysis and tensor analysis.
 
 ### Mathematical Profile (Excerpt):
-* Pia was the fourth of Giovanni and Carmela Nalli's seven children.
-* Among their other children, we mention at this stage that her brother Vitangelo Nalli (1876-1932) entered the medical profession (but was well-known as a passionate proponent of the Esperanto language and an author of books on that topic), and her brother Paolo Nalli (1887-1967) became a writer and librarian holding positions as head of some of the main libraries of Italy, for example at Emilia, Lombardy, Naples, and Verona.
 * Pia was educated in Palermo and after graduating from the local school, entered the University of Palermo.
 * While Nalli was studying at the University of Palermo, Sicily was hit with a 7.1 magnitude earthquake on 28 December 1908.
 * However, one consequence of the earthquake was that Giuseppe Bagnera, who was on the staff at Messina at the time, joined the University of Palermo and was advisor to Nalli during the final stages of writing her thesis.

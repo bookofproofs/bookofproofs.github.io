@@ -25,9 +25,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * He was born Regnier Gemma and only adopted the name Frisius when he later became a scholar for, like many scholars from his country, he adopted a Latin version of his name.
 * So Regnier Gemma became Gemma Frisius.
-* Left an orphan and a cripple, he was brought up by his stepmother who on a special feast day, when Gemma was six years old, took him to the shrine of St Boniface in Dokkum.
 * Gemma attended school in Gröningen then, in 1526, he entered the University of Louvain.
 * Gemma Frisius applied his mathematical expertise to geography, astronomy and map making.
+* carefully corrected and with all errors set to right by Gemma Frisius ...
 * Gemma's edition contained very few changes to the original text, but Gemma had made some alterations to some of the maps, particularly to 'America'.
 * Gemma showed 'America' as two disconnected continents with the one south of the equator being named America while the one to the north of the equator was left without a name.
 * It is reasonable to ask why Gemma Frisius would produce a new edition of Cosmographia within five years of the original with relatively few changes.

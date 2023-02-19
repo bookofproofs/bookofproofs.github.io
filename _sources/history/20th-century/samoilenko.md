@@ -38,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * As well as having a reputation as an outstanding researcher, Samoilenko is renowned as a fine teacher.
 * Another aspect of Samoilenko's contributions is his editorial work for many different journals.
 * Samoilenko has received widespread recognition for his outstanding achievements.
-* Anatoly Mykhailovych Samoilenko was married to Lypa Hryhorivna; they had a son Anatolii who is a geneticist with a doctorate from Göttingen University.
 
 Born 2 January 1938, Potiivka, Radomyshl, Zhytomyr oblast, Ukraine. Died 4 December 2020, Kyiv, Ukraine.
 

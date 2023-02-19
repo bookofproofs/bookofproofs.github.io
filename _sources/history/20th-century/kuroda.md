@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His professor at Tokyo Imperial University was Teiji Takagi, who was a leading researcher in algebraic number theory, and he gave Kuroda a lasting interest in that topic.
 * However, Kuroda decided to specialise in the foundations of mathematics and, for that reason, Takagi is said to have called his student a "lazybones".
 * Kuroda's first three papers were all entitled Zur Algebra der Logik Ⓣ(On the algebra of logic) published in the Proceedings of the Imperial Academy of Tokyo.
-* Kuroda married Yaeko, the third of Takagi's daughters; they had three sons who became mathematicians including Sige-Yuki Kuroda (1934-2009).
 * Sigekatu Kuroda served as an Assistant at Tokyo Imperial University in 1932-33 before being appointed as a Professor at Ochyanomizu University, Tokyo, in 1933.
 * In many ways Kuroda's work on the foundations of mathematics and mathematical logic had made it difficult for him to become a central figure in Japanese mathematics.
 * In 1942 Kuroda was appointed as Professor at the newly founded Imperial University of Nagoya, Chikusa-ku, Nagoya, Japan, where he worked for over 20 years building up a strong Department of Mathematics.

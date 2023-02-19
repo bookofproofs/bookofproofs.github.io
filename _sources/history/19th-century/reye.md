@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Georg Reye had been born in Ritzebüttel and he lived there all his life, being a local businessman.
-* Theodor was one of his parents' ten children who were all born in Ritzebüttel.
-* Theodor was the only one of his parents' children to follow an academic career, the other boys becoming businessmen like their father or, in the case Adolf, a brewer.
 * Theodor attended school in Hamburg, being a pupil at the famous Johanneum.
 * In Zürich, Reye was taught by Kurt Culmann (1821-1881), who had held the Chair of Engineering Sciences since the Polytechnikum was founded in 1855.
 * The Chair of Mathematical Physics at the Polytechnikum in Zürich had been held by Rudolf Clausius since the founding of the Polytechnikum and, despite the influence of Culmann which we mention below, it was Clausius who influenced Reye to move from mechanical engineering to mathematical physics.
@@ -40,8 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Culmann's fundamental monograph Die graphische Statik (Graphical Statics) was published in 1865 but Reye was by this time deeply involved in studying geometrical methods similar to the ideas of projective geometry contained in von Staudt's Geometrie der Lage Ⓣ(Geometry of position) (1847).
 * The second volume of Reye's Geometrie der Lage Ⓣ(Geometry of position) appeared in 1868.
 * When Reye published a third edition between 1886 and 1892, it was as a three volume work and two further three-volume editions were published - the fourth between 1899-1910, and the fifth between 1909-1923.
-* While in Zürich, Reye married Marianne Sattler (1847-1933) in 1868.
-* Only the first of these children was born in Zürich for, in 1870, the family left Zürich and moved to Aachen in Germany when Reye was appointed to the Chair of Geometry and Graphical Statics at the newly founded Polytechnikum in Aachen (now the Rheinisch-Westfälische Technische Hochschule).
 * Reye had been an assistant to Joseph Wolfgang von Deschwanden (1819-1866), the professor of descriptive geometry, and taught descriptive geometry at Zürich after Deschwanden became ill.
 * Reye also taught projective geometry believing that the two courses should be linked.
 * This unhappy situation for Reye was solved by his move to Aachen.
@@ -50,8 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Reye, who was a geometer in the tradition of Steiner and von Staudt, produced about a dozen doctorates during this time.
 * In 1872 Reye published the book Die Wirbelstürme, Tornados und Wettersäulen in der Erd-Atmosphäre mit Berücksichtigung der Stürme in der Sonnen-Atmosphäre Ⓣ(Hurricanes, tornadoes and weather pillars in the earth's atmosphere with consideration of the storms in the solar atmosphere).
 * After he retired in 1909 Reye remained in Strasbourg until the end of World War I.
-* His daughter Katharina had married Ludwig Jost who was appointed Professor of Botany at the University of Strasbourg in the year that Reye retired.
-* Reye and his wife moved to Würzburg where they lived with one of their married daughters.
 * Reye's work in geometry included a study of conics, quadrics and projective geometry.
 * Reye's standing as a mathematician is illustrated by the fact that Gösta Mittag-Leffler, the founder of the journal, interrupted his honeymoon so that he could personally speak to Reye and ask for his support for the new journal by submitting a paper for publication.
 * Reye's book Synthetische Geometrie der Kugeln, mit einer Einleitung in die analytische Geometrie der Kugelsysteme Ⓣ(Synthetic geometry of spheres, with an introduction to the analytic geometry of the sphere systems) was published in 1879 with an Italian translation being published two years later.

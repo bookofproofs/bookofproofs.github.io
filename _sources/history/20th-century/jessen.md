@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Børge Jessen** was a Danish mathematician best known for his work in analysis and in geometry.
 
 ### Mathematical Profile (Excerpt):
-* Børge was the youngest of his parents' five children, namely: Sten Jørgen Jessen (1900-1981); Inger Jessen (1902-1990) (who married Alfred Johannes Rosenkrantz); Bjørn Jessen (1903-1943); Gert Andreas Jessen (1905-1971); and Børge Christian Jessen (1907-1993), the subject of this biography.
 * Jessen became fascinated by mathematics while at school in Copenhagen.
 * Certainly Pal (he dropped the accent on the "a" when he moved to Denmark) was a demanding teacher who suggested to Jessen that he read the recently published four volume work on mathematical analysis Laerebog i matematisk analyse Ⓣ(Textbook of mathematical analysis) by Harald Bohr and Johannes Mollerup.
 * This was a demanding task for a school pupil but Jessen had mastered large parts of this work before he graduated from the Sankt Jørgens Gymnasium in 1925.
@@ -35,10 +34,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * A grant from the Carlsberg Foundation allowed Jessen to spend two months in Szeged, Hungary, later in 1929, where he had lengthy discussions with Frigyes Riesz, Alfréd Haar and Lipót Fejér.
 * After a short trip to Paris, Jessen was appointed as a docent at the Royal Veterinary and Agricultural School in Copenhagen in the autumn of 1930.
 * Jessen was able to spend from April 1933 to June 1934 on research leave funded by the Rockefeller Foundation.
-* On 23 September 1933 Jessen and his wife sailed from Southampton, England, to New York, USA, on the Cunard ship Berengaria.
 * Jessen was elegant, reserved, rigorous, scrupulous, Wintner was impassioned, a compulsive eater, overflowing with projects and works in progress, all done with great noise.
 * For some time he had been studying the limiting laws of series of independent random variables of the type considered by Steinhaus, Jessen and others, what was called at the time the problem of infinite convolutions, on the line or in a finite-dimensional space.
 * Wintner had obtained interesting results on the subject, which was one that Jessen had also come near to either alone or with Harald Bohr.
+* Sometime in 1934, probably in the spring, Jessen and Wintner decided to pool their experience and write an article "Distribution functions and the Riemann zeta function" ...
 * While based at Princeton, Jessen also visited Harvard University, Yale University and Brown University.
 * They were back in Denmark in time for Jessen to attend the 8th Scandinavian Congress of Mathematicians in Stockholm 14-18 August 1934.
 * On 1 June 1935 Jessen was appointed as Professor of Geometry at the Technical University of Denmark in Copenhagen.

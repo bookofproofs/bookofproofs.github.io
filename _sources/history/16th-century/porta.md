@@ -23,13 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Giambattista della Porta** was an Italian scholar who worked on cryptography and also on optics. He claimed to be the inventor of the telescope although he does not appear to have constructed one before Galileo.
 
 ### Mathematical Profile (Excerpt):
-* Giambattista's mother was a sister of Adriano Guglielmo Spadafora, a man of learning who worked as a conservator in the archives in Naples.
-* Although no definite proof exists, since Giambattista exercised rights in the church at Vico Equense which were only for those born in the town, it is almost certain that he was born in the family mansion there, the Villa delle Pradelle.
-* He was the third of his parents' four sons, but one older brother died in childhood leaving Giambattista with an older brother Gian Vincenzo and a younger brother Gian Ferrante.
-* Giambattista was well educated by private tutors but an important part of his education came about since his father was an intellectual whose home became a meeting place for philosophers, mathematicians, poets, and musicians.
-* Given that Giambattista's father was keen on learning, it would be natural to assume that he supervised his sons' education but certainly in the case of Giambattista this appears not to be so for it was Adriano Guglielmo Spadafora, his mother's brother, who drew up the programme of topics.
 * Della Porta is known today as a playwright, but we are particularly interested in his important contributions to science that we shall examine below.
-* it is safe to suppose that he first tried his hand at playwriting in boyhood, and that some of his published comedies were revisions of scripts he originally produced for the amateur players among his family and friends, a conclusion supported by several of his contemporaries' later references to Della Porta's literary precocity.
 * Around the same time, probably when aged about fifteen, della Porta was conducting science experiments with magnets and chemicals.
 * After the first decade of the sixteenth century, when Della Porta was still active, science and especially the image of science evolved rapidly.
 * Whereas in Della Porta's day, the astronomer was still an astrologer and the physicist a magician, by the end of the seventeenth century astrology had been severed from astronomy, and magic was either frowned upon or reinterpreted along recognizably rational lines.
@@ -42,8 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This looks like della Porta's own version for he was always prepared to bend the truth to make himself look good; he did over several other issues, such as his age.
 * During the years that the Accademia dei Segreti was operating, Della Porta travelled widely in Italy, France and Spain always returning to his estate near Naples where he was able to study in peace.
 * We learn from this work that della Porta's memory was more due to his ability to categorize and organize than a natural talent.
-* At some stage della Porta married but the name of his wife is unknown and it seems likely that she died young.
-* If della Porta's marriage produced any further children, they died before their father as Cinzia is his only child mentioned in his will.
 * In November 1579 della Porta was invited to join the service of Luigi, cardinal d'Este.
 * Della Porta reported to the cardinal on his experiments and also sent him two of his plays, a comedy and tragi-comedy; the first of these was staged.
 * After a period of illness (della Porta frequently suffered fevers) he joined the cardinal in Venice in December 1580.

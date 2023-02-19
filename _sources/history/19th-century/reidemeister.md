@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Kurt Reidemeister** was a pioneer of knot theory and his work had a great influence on group theory.
 
 ### Mathematical Profile (Excerpt):
-* Hans Reidemeister, a senior government official in the Brunswick government, married Sophie on 17 November 1892 in Helmsted.
-* Hans and Sophie Reidemeister had three children, all born in Brunswick: Kurt Werner Friedrich Reidemeister (the subject of this biography, born 1893), Hellmuth Gustav Otto Reidemeister (born 1895), and Marie Sophie Luise Reidemeister (born 1898).
-* Richard Dedekind was a family friend and, although he retired a few months after Kurt was born, he lived an active life for the first 22 years of Kurt's upbringing.
-* Dedekind, who Kurt called "uncle", gave him excellent advice throughout his school and early university years.
 * Kurt was certainly interested in mathematics when at the Gymnasium in Brunswick, but he had other broad interests, particularly in philosophy and in art history.
 * Reidemeister graduated from the Brunswick Gymnasium in 1911 and entered the Albert-Ludwig University in Freiburg im Breisgau, one of the oldest universities in Germany founded in 1457.
 * Reidemeister also attended lectures by the philosopher Heinrich Rickert (1863-1936) at Freiburg.
@@ -56,7 +52,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After he went to Marburg, Reidemeister's interests became almost exclusively philosophy, the foundations of mathematics and the history of mathematics.
 * Reidemeister spent the two years 1948-50 at the Institute for Advanced Study at Princeton in the United States.
 * In 1955 Reidemeister left Marburg when he was appointed to the University of Göttingen.
-* In Göttingen, both Reidemeister's own health and that of his wife began to deteriorate.
 
 Born 13 October 1893, Brunswick, Germany. Died 8 July 1971, Göttingen, Germany.
 

@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This Institute was part of the Academy of Sciences of Ukraine, and Pastur began work in the Department of Mathematical Physics which was headed by Vladimir Aleksandrovich Marchenko.
 * We note that Marchenko had just been appointed as Head of the Department when Pastur began research, and Evgenii Yakovlevich Khruslov began research as Marchenko's student at the same time.
 * Pastur was, at this time, appointed as a Junior Research Fellow.
-* Ilya Mikhailovich Lifshitz (1917-1982), the younger brother of Evgenii Mikhailovich Lifshitz, began working with Pastur in 1963.
 * Pastur was promoted to Senior Research Fellow at the Institute for Low Temperature Physics and Engineering in 1968 and awarded his Doctor of Science degree (equivalent in standard to a D.Sc. of the habilitation) in 1975 for his thesis Problems in the theory of disordered systems.
 * Since the above quote mentions two important monographs co-authored by Pastur, we should give a few further details of the second at this point.
 * Let us give details of Pastur's career at the Institute for Low Temperature Physics and Engineering in Kharkov.

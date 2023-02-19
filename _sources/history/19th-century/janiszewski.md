@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Janiszewski** produced important results in topology and the foundations of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* His father, Czeslaw Janiszewski, was a graduate of the University of Warsaw and was an important person in finance, being the director of the Société du Crédit Municipal in Warsaw.
 * After attending secondary school in Warsaw, Janiszewski decided to go abroad for a university education.
 * The first thing to note is that when Janiszewski graduated from secondary school in 1907, Poland did not formally exist.
 * Russia controlled much of the rest of the country and in the years prior to Janiszewski's birth there had been strong moves by Russia to make "Vistula Land", as it was called, be dominated by Russian culture.

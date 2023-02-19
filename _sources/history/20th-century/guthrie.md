@@ -27,9 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After graduating from Cambridge, Guthrie was appointed as an Assistant in Mathematics at the University of St Andrews.
 * However the committee proposed that the second university be established at Coleraine rather than Londonderry and Guthrie resigned from Magee College on 30 September 1968, the day before the new University of Ulster opened at Coleraine.
 * Guthrie was a Fellow of the Royal Astronomical Society, a member of the Irish Astronomical Society, and of the Edinburgh Astronomical Society.
-* Guthrie married Thelma Pate.
-* The engagement is announced between William Gilmour Guthrie, M.A. Ph.D., F.R.S.E., Professor at University College, Londonderry, son of Rev.
-* W A Guthrie, D.D., and Mrs Guthrie, 13 Crawfurd Road, Edinburgh, and Thelma, only daughter of Mr and Mrs Gibson Pate, Schoolhouse, St Boswells, Roxburghshire.
 
 Born 2 September 1905, Cowdenbeath, Fife, Scotland. Died 15 September 1978, Edinburgh, Scotland.
 

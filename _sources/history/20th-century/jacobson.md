@@ -23,12 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Nathan Jacobson** was an American algebraist who is best known for his work in ring theory and for his text-books.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Pauline Rosenberg and his father was Charles Jacobson (at least this was what Jacobson calls his "Ellis Island name").
-* It was a Jewish family, and Nathan was born in the Jewish ghetto of Warsaw.
-* Nathan had a brother Solomon who was about eighteen months older.
-* When Nathan was five years old his father emigrated to the United States leaving his family behind in Warsaw until he had earned sufficient money for them to make the trip.
-* The family soon moved to Birmingham, Alabama, where Nathan attended elementary school, and then High School.
-* The Jacobson family moved to Columbus, Mississippi where Nathan completed the two final years of his school career at the S D Lee High School.
 * Having attended a course by Wedderburn on matrices in which he ended by developing his classical structure theory of finite dimensional algebras over finite fields, Jacobson was given the task of studying division algebras which were idealizers of one-sided ideals of polynomial rings.
 * Jacobson's career began with relatively short periods in a number of universities throughout the United States.
 * Jacobson had heard Emmy Noether lecture on class field theory in Princeton in the spring semester of 1935 and again at the summer meeting of the American Mathematical Society where she made comments on Jacobson's thesis results which he presented there.

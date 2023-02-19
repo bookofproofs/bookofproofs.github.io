@@ -24,29 +24,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * H." by his parents; he had no other names.
-* His father, Rupert Henry Bing, was a teacher who became Superintendent of the Oakwood School District in Texas.
-* It was in this letter role that he met Bing's mother, Lula May Thompson, who was a primary school teacher in Oakwood.
-* After they married, Bing's father decided to leave teaching and became a farmer.
 * He became the manager of several farms and owned a store.
-* However he died when Bing was only five years old so the family had to live very frugally.
-* His mother had two children to bring up for by this time Bing had a younger sister.
-* Bing's mother was a large influence on his education.
 * Bing missed a year out at school going into the third year at his primary school after finishing his first.
 * He found this quite hard, particularly since the other boys, being older, were bigger than he was and better at athletics.
-* His mother needed to return to teaching to bring in enough money to give her children an good education.
-* My mother was coach of the team and she taught shortcuts enabling one to do computations quickly.
 * We learned to approximate answers to harder problems.
-* The money that Bing's mother made as a teacher was hardly sufficient to allow for her to support her son through college.
 * Bing took a job in the college cafeteria when he went to the Southwest Texas State Teacher's College to help pay the tuition fees.
-* Realising that his mother, even with the addition of the money he was making, could never support both him and his sister at college at the same time so he worked hard so that he managed to complete the course in only two and a half years.
 * He was awarded his B.S. in 1935.
-* Once he had completed the course his sister trained at the same college.
 * Now a trained school teacher, Bing did just that and taught mathematics for four and a half years at three different high schools in Texas, the first being at the Palestine High School in Palestine, Texas.
 * As well as teaching mathematics he coached the football and track teams, and taught other classes, one of which was typing.
 * During this time he did more than just teach, however, taking mathematics courses at the University of Texas over the summer.
 * The reason for this was that the Texas Legislature had devised a policy where a teacher with a Master's degree would receive a higher salary than a teacher with a Bachelor's degree.
-* Bing was awarded an M.Ed. from the University of Texas in 1938, the same year in which he married Mary Blanche Hobbs on 26 August.
-* They met in one of the classes they both took at the University of Texas and went on to have one son and three daughters.
 * At the University of Texas Bing met R L Moore who, after initially believing that Bing could not be any good at mathematics since he had spent years as a school teacher, soon realised that he had great potential.
 * Bing worked for his doctorate under R L Moore's supervision, undertaking research on simple plane webs.
 * He wrote a paper on the work of his thesis which was published in the Transactions of the American Mathematical Society but although it was a fine piece of mathematics it was not of much interest to mathematicians at the time.
@@ -85,7 +72,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He was a kind man and respected people for their own merits rather than measuring them on a single scale.
 * He suffered from cancer and heart troubles during his last years; but he never complained about his health problems nor did he allow discomfort to dampen his enthusiasm and good spirits.
 * He was an exemplary person.
-* His friends, his family, and his students have been enriched beyond bound by his character, his wisdom, and his unfailing good cheer and continue to be enriched by his memory.
 
 Born 20 October 1914, Oakwood, Texas, USA. Died 28 April 1986, Austin, Texas, USA.
 

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Wolfgang Schmidt** is an Austrian mathematician who did his most important work in number theory.
 
 ### Mathematical Profile (Excerpt):
-* Wolfgang has a sister Dietlinde who married the mathematician Wilfried Nöbauer (1928-1988) on 9 December 1958.
 * Wolfgang attended schools in Vienna and by the time he was in the 3rd grade of "Middle School" his favourite subjects were mathematics and physics.
 * At the University of Vienna, Schmidt specialised in mathematics and physics.
 * Given this impressive collection of lecturers, it is not surprising that Schmidt should become interested in number theory.
@@ -35,9 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * These two papers by Schmidt are the first of 202 publications listed in MathSciNet (when consulted in December 2019).
 * After graduating, Schmidt continued to undertake research at the University of Vienna first as a research assistant and then as a librarian at the Mathematical Institute.
 * Schmidt habilitated at the University of Vienna in 1960, submitting his habilitation thesis Maßtheorie in der Geometrie der Zahlen Ⓣ(Measure theory in the geometry of numbers).
-* When in Missoula, Montana, Schmidt met Patricia C Meyer, the daughter of Urban Joseph Meyer (1899-1945) and Caroline Weinzierl (1903-1932).
 * She then moved to Missoula, Montana, where she met Wolfgang Schmidt.
-* Wolfgang and Pat were married on 2 July 1960 in Vienna, Austria.
 * From 1960 to 1965 Schmidt spent time at the University of Vienna, at the University of Colorado in Boulder, USA and Columbia University, New York, USA.
 * After moving back to Vienna, Wolfgang and Pat's two sons Michael and Johannes were born.
 * In 1965 Schmidt became a professor at the University of Colorado in Boulder, a position he held until he retired in 2001.
@@ -52,7 +49,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Apart from solving important, long-standing problems, Professor Schmidt has been widely influential in formulating new and exciting programmes of research.
 * Some of you graduating here today will have come directly into contact with Professor Schmidt's work - two of his books are recommended texts for our fourth year number theory course.
 * Professor Schmidt has received many honours including the American Mathematical Society Cole Prize, the Humboldt Prize and a Guggenheim Fellowship.
-* Schmidt's wife Pat died on 26 November 2016.
 * For example, Schmidt developed the so-called theory of heights of polynomials.
 * In the late 1980s algebraic geometer Bombieri applied Schmidt's results in order to prove effective assertions concerning the number of rational points of elliptic curves.
 * With the help of Schmidt's theory.

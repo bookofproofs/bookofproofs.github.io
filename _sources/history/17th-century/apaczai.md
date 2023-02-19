@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * This background information is necessary to understand Apáczai's aims.
-* Apáczai studied in Kolozsvár (today Cluj) and in Gyulafehérvár (Alba-Iulia) but, having no family, it proved difficult for him to support himself financially during his education, and twice he was forced to interrupt his studies because he did not have the financial means to continue.
 * Alsted and Bisterfeld were two German professors who had been appointed to Gyulafehérvár as part of the upgrading in 1629 and they were to have a big influence on Apáczai while he was a student there.
 * In this same year of 1648 Bisterfeld persuaded Bishop István Katona to award Apáczai a scholarship to allow him to study abroad, and he went to study in Franeker, Leiden and Utrecht.
 * Apáczai was awarded the degree of Doctor of Theology from the University of Harderwijk in April 1651.

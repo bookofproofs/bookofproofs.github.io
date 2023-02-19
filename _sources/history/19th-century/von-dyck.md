@@ -24,9 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * He was ennobled with the "von" only much later in his life.
-* Walther's father was Hermann Dyck while his mother was Marie Royko.
 * Hermann Dyck was a painter and he was the Director of the Kunstgewerbeschule in Berlin, that is the Berlin School of Industrial Art.
-* Walther certainly inherited his father's artistic abilities but in addition he had a wide range of skills across the arts and sciences.
 * Dyck went to Leipzig to take up a position as Klein's assistant and there he submitted his habilitation thesis, receiving the university lecturing qualification in 1882.
 * During this period Dyck made important contributions to group theory with the publication of two papers; Gruppentheoretische Studien Ⓣ(Group theoretical studies) in Mathematische Annalen the first in 1882 and the second in the following year.
 * Klein would remain at Leipzig until 1886, but Dyck left two years before that when he was appointed professor at newly established Munich Polytechnikum.

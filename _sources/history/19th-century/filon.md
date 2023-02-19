@@ -23,30 +23,20 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **L N G Filon** was French-born English mathematician, best known for his work on classical mechanics and elasticity.
 
 ### Mathematical Profile (Excerpt):
-* Augustin Filon was born in Paris on 28 November 1841, the son the historian Charles Auguste Désiré Filon (1800-1875), and was educated at the École normale.
 * He taught at the lycées in Nice and Grenoble, and was a prolific author and theatre critic sometimes writing under the pseudonym Pierre Sandrié.
-* Madeleine Poirel was the daughter of Pierre Etienne Emile Poirel (born 1814) and Jeanne Marguerite Adelaide Tardieu (born 1817).
-* She made her debut on the Paris stage in April 1868 under the name Mlle Clary in the comedy Cent mille francs et ma fille Ⓣ(One hundred thousand francs and my daughter) by Julien Deschamps at the Théâtre Déjazet.
 * She appeared as Sparkeion in Thespis, or The Gods Grown Old, Gilbert and Sullivan's first collaboration, at the Gaiety Theatre in London, premièred on 26 December 1871.
-* Augustin Filon married Madeleine Poirel in or near Paris in 1875 (the banns were issued on 24 January 1875).
-* Their only child Louis Napoleon George Filon was born in Saint Cloud, a western suburb of Paris, on 22 November 1875.
-* We have to go back a little to understand how Filon, the subject of this biography, was brought up in England.
-* They joined their son Louis-Napoléon who, supported by Augustin Filon, had escaped to England in September 1870.
 * Augustin Filon suffered a severe illness in 1877 which left him almost completely blind.
 * In 1878 he settled permanently in England, living first at Margate.
 * He began Latin and Greek before he was six.
-* His own memories of this time were of regular Latin essays on Roman History and of walks with his father in which Latin was the only permitted language of conversation.
 * His ambition was to be a sailor.
 * He was always drawing pictures of boats at sea, and some good models of ships he made at this time are still in existence.
 * In 1888 Filon began his studies at Herne House School in Margate.
 * This boarding school for boys opened in 1881, founded by William Taylor Jones who was the headmaster.
-* The other teacher at the school was the headmaster's son Edward Taylor Jones.
 * At the time of the 1891 census, Filon is a 'scholar' at this school and is living at home in the Thanet district of Margate with his parents.
 * They have a general domestic servant, Grace Fanner.
 * Filon and his parents are French subjects at this time and only later does Filon become naturalised British.
 * While at Herne House School, Filon showed no interest in mathematics and when he entered University College, London in 1894 he started on the standard B.A. course.
 * He won the medal for Greek but he had quickly showed that he had an exceptional talent for mathematics and graduated in 1896 with honours in mathematics.
-* At University College, London, he was twice awarded the Mayer de Rothschild Scholarship for Pure Mathematics.
 * He also received the Ellen Watson Scholarship for Applied Mathematics, and the Malden Medal and Scholarship.
 * He was awarded an M.A. in 1898 with the Gold Medal.
 * He was taught by Karl Pearson who had been appointed as Goldsmid Professor of Applied Mathematics at University College in 1885.
@@ -67,11 +57,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He was awarded a D.Sc. by the University of London in 1902.
 * In 1903 he was appointed as a lecturer in pure mathematics at University College, London, in the department headed by M J M Hill.
 * Micaiah John Muller Hill (1856-1929) had been appointed to the chair of mathematics at University College, London, in 1884 and continued to hold this position until he retired in 1924.
-* Filon married Anne Godet in 1904.
-* Anne was born in Switzerland in 1880, the daughter of the author Philippe Ernest Godet (1850-1922) (born in Neuchâtel, Switzerland) and his wife Louise Marie Eugénie Leuba (also born in Neuchâtel, Switzerland).
-* Anne's brother, Marcel Godet, was director of the Swiss National Library from 1909 to 1945.
-* Louis and Anne Filon had three children, a son Sidney Philip Lawrence Filon (20 September 1905-19 October 1996) and two daughters, Madeline Amelia Filon (born 9 May 1909) and one younger daughter.
-* At the time of the 1911 census the family are living at 40 Blenheim Crescent, South Croydon.
 * They have a cook and a nurse.
 * Filon was not a pure mathematician in the way that the term is understood today; for him mathematics was a tool to be used in solving physics problems.
 * As a lecturer in pure mathematics he was expected to teach the subject but this led to difficulties when he proposed teaching a course on the differential equations of mathematical physics.

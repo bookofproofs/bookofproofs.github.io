@@ -34,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In the year after Jack's retirement, the William Jack Prize was founded in commemoration of his services to Glasgow University.
 * In commemoration of his fifty years of service as teacher of mathematics, a fund of three hundred pounds has been secured, the income of which will be known as the William Jack prize.
 * Let us note that MacRobert, who succeeded Gibson as professor of Mathematics at Glasgow University himself won the William Jack Prize in 1916.
-* Jack married Agnes Jane Nichol, the daughter of John Pringle Nichol, Regius Professor of Astronomy at the University of Glasgow and the sister of John Nichol, Regius Professor of English Literature at the same University.
 * William Jack was elected an honorary member of the Edinburgh Mathematical Society in March 1902.
 
 Born 29 May 1834, Stewarton, Ayrshire, Scotland. Died 23 March 1924, Glasgow, Scotland.

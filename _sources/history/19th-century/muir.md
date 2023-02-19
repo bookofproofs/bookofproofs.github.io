@@ -35,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Muir received several awards from the Royal Society of Edinburgh.
 * Muir was knighted in 1910, four years after he had reworked his 1890 publication to become Volume 1 of History of determinants which covered the origins to Leibniz in 1840.
 * Muir was working on Volume 6 1920-1940 at the time of his death.
-* In 1919 Muir's wife Margaret died.
 * In 1930, at the age of 86, Muir published Contributions to the history of determinants.
 * It is worth thinking exactly what Muir was attempting here.
 

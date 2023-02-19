@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Pierre Duhem** was a French physicist, mathematician, historian and philosopher of science who worked on hydrodynamics and elasticity.
 
 ### Mathematical Profile (Excerpt):
-* Pierre, the eldest of his parents four children, was born in the Rue des Jeûneurs in Paris after his parents moved there.
-* Duhem's father wanted him to study science at the École Polytechnique since he wanted his son to follow a technical career.
-* Duhem's mother, on the other hand, wanted him to study Latin and Greek at the École Normale, principally because she feared that a study of science would turn him away from the Roman Catholic beliefs that she had instilled in her children.
 * Duhem was ranked first in the entrance examinations of both institutions but he chose to please neither of his parents by studying pure scientific at the École Normale.
 * When Hadamard arrived at the École Normale Duhem was beginning his third year of study there.
 * In 1884, while still at the École Normale, Duhem published his first paper which was on electrochemical cells.

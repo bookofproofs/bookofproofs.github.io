@@ -23,11 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William John Youden**  was an Australian born American statistician who formulated new statistical techniques in statistical analysis and in the design of experiments.
 
 ### Mathematical Profile (Excerpt):
-* His father was also named William John Youden and he was an engineer who had been born in Dover.
-* Youden's mother, Margaret Hamilton, came from Carluke in Scotland.
-* Although Youden was born in Australia, his family returned to England he was two years of age.
 * For five years they lived in Dover, then when Youden was seven they emigrated to the United States.
-* Arriving in Connecticut in 1907, Youden's family soon moved to the Niagara Falls.
 * Youden was sixteen years old when he began to live in Rochester and he was nearing the age to begin his university education.
 * In September 1922 Youden entered Columbia University to study, first for his Master's Degree which was awarded in 1923, then for his doctorate which was awarded in 1924.
 * So far we have seen nothing which might indicate why Youden would be the right person to include in this history of mathematics archive.

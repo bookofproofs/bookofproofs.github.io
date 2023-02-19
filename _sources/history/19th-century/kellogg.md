@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Oliver Kellogg** was an American mathematician best known for his work on potential theory.
 
 ### Mathematical Profile (Excerpt):
-* However Oliver's father was also an academic and he later left the priesthood to take up a professorship of English literature at the University of Kansas.
 * Day Otis Kellogg was also important as the American editor of Encyclopaedia Britannica.
 * Oliver studied as an undergraduate at Princeton University, entering in 1895.
 * After receiving his A.B. in 1899, Kellogg continued his studies for a Master's Degree at Princeton.
@@ -42,6 +41,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This volume also includes the first statement of the celebrated Kellogg-Evans Lemma (proven in generality by Griffith C Evans in 1933).
 * Kellogg also wrote a number of papers on the existence of certain sets of functions in analysis as well as generalisations of polynomials due to Sergei Bernstein.
 * Kellogg continued to work at Harvard until his death which resulted from a heart attack which he suffered while climbing near Greenville, Maine.
+* The full story of Kellogg's many successful efforts to help others would be an extraordinary one ...
 
 Born 10 July 1878, Linwood, Pennsylvania, USA. Died 26 July 1932, Greenville, Maine, USA.
 

@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Louis went to a Hebrew school but he did not want to learn Hebrew.
 * Louis attended Baron Byng High School in Montreal where he had excellent teachers.
 * After he graduated Nirenberg thought that he would carry on to graduate studies in theoretical physics.
-* Ernst Courant had married a girl from Montreal who Nirenberg knew, so he asked her if, when she next visited him, she could ask Richard Courant for advice on the best place to study theoretical physics.
 * The advice came back that Nirenberg should first do a Master's Degree in mathematics at New York University, and then go on to study physics.
 * Nirenberg went for an interview with Courant and Friedrichs in New York and they offered him an assistantship.
 * After the award of a Master's Degree by New York University in 1947, Nirenberg remained there working for his doctorate.

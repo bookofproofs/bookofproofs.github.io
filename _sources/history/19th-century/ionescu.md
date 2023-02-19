@@ -23,22 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ion Ionescu** was a Romanian mathematician and engineer. He was one of the founders of the _Gazeta Matematica_ and contributed a remarkable number of articles and problems to the journal. One of these problems is now known as the Ionescu-Weitzenböck inequality. He is also famed as an engineer for building bridges.
 
 ### Mathematical Profile (Excerpt):
-* He was the son of Nicolae Ionescu and Atina Diamandescu.
-* Nicolae and Atina Ionescu had five children, all boys: Constantin, Ion, Iosif, Cristu and Alexandru.
-* Ion was, therefore, the second oldest of the children.
-* Nicolae Ionescu was the administrator of the Stoienoaia estate, about 30 km from Bucharest, which was owned by the two brothers Constantin and Iosif Darvari.
 * In 1878, when he was seven year old, Ion began his primary school education in nearby Carbuneşti.
-* In 1880, while Ion was still at primary school, the family received a severe blow when Nicolae Ionescu died.
-* A few days before his death, Nicolae, who was being treated at the Colea Hospital, asked to see his son Ion.
 * Realising that he was close to death Nicolae gave Ion advice which would be decisive for his life and career.
-* During the school holidays Ion Ionescu worked as an accountant to earn extra money and after graduating from the business school, he took a job as Iosif Darvari's accountant on the estate where his family lived.
 * After a while his studies began to be aimed at a specific goal, namely to allow him to compete in the recently instituted competition for admission to the National School of Bridges and Roads set up in 1881.
 * This competition aimed at enrolling students of the highest quality to the National School.
 * Let us note here that the National School of Bridges and Roads became the Polytechnic School of Bucharest and then in 1992 became the Polytechnic University of Bucharest.
 * In 1889 Ionescu took the entrance examination, was placed first and awarded a scholarship.
 * This meant he could study the preparatory year course, at the end of which he took the even more demanding examination which allowed entry to the first year of studies.
 * Ionescu was not only a diligent, brilliant student in examinations but he provided substantial help to his teachers by assisting in writing the course of rational mechanics with Kirilov.
-* In addition, Ionescu worked as a tutor, translated books, and earned money to support his entire family.
 * Of his teachers, perhaps the one who influenced him most was Istrati who was a model lecturer, giving clear presentations, and his style did much to influence Ionescu's style when he became a lecturer.
 * Ionescu graduated from the National School of Bridges and Roads in 1894 with an engineering degree.
 * After graduating in 1894, Ionescu was employed as a railway engineer, working on the Cernavoda-Fetesti 21 km line connecting the Cernavoda-Constanta railway line and the new Bucharest-Fetesti railway line.

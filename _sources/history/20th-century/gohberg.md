@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Gohberg's teachers at the College of Education were so impressed with his abilities that persuaded him to move to a university.
 * After graduating from University of Kishinyov, Gohberg went to the University of Leningrad to study for his doctorate which he received in 1954.
 * Gohberg was appointed to the Academy of Sciences in Kishinyov where, in 1964, he became the Head of Functional Analysis.
-* By 1969 Gohberg had made the decision to try to emigrate to Israel but only after great difficulty, and a long wait, did Gohberg and his family obtain the visa necessary for them to leave.
 * After obtaining the visa in 1974, he emigrated to Israel.
 * Once in Israel, he was appointed to a professorship at Tel Aviv University and he also was appointed to the Weizman Institute in Rehovot.
 * In addition to Gohberg's outstanding work in analysis and in particular in operator theory and matrix methods, he founded the major international journal Integral equations and operator theory in the late 1980s.

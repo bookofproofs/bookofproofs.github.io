@@ -24,13 +24,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * At this time India was ruler by the British although through the first eighteen years of Puri's life there was increasingly violent Hindu-Muslim conflict and vigorous protests demanding Indian independence.
-* Puri's family were in the region which was to become Pakistan and they fled as refugees to Delhi.
-* Over a million people died in the fighting which ensued but Puri and his family survived.
 * Puri was studying mathematics at Punjab University when the split occurred.
 * Puri was awarded his B.A. degree in 1948 from the Punjab University in India and continued to study there for a master's degree which was awarded in 1950.
 * In September 1957 Puri moved to the United States being appointed as an instructor and graduate student at the University of Colorado in Boulder.
 * There his doctoral studies were supervised by Erich Lehmann and Puri was awarded his doctorate in 1962 after submitting his thesis Asymptotic Efficiency of a Class of C-Sample Tests.
-* Also in 1962, on 24 August, Puri married Uma Kapur; they had three children.
 * After the award of his Ph.D., Puri was appointed as an assistant professor at the Courant Institute of Mathematical Sciences in New York.
 * MathSciNet contains a list of 238 items authored by Puri.
 * The medal with which Professor Puri was adorned is testimony to his scholarly contributions to the world of statistics and to Indiana University over his illustrious career.

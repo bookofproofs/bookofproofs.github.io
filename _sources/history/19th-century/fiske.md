@@ -23,12 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Thomas Scott Fiske**  was an American mathematician who was the founder of the American Mathematical Society.
 
 ### Mathematical Profile (Excerpt):
-* However, it mentions his father, Thomas Scott Fiske Sr., who was the first son of David Fiske (born 1792) and his first wife Abigail Nourse.
-* David and Abigail Fiske married in January 1823.
 * David Fiske was a farmer and deacon in the Congregational Church of Amherst.
-* Thomas Scott Fiske Sr. (born 22 November 1823) was David and Abigail Fiske's first child.
 * Both Thomas Scott Fiske Sr. and Clara Pittman were descended from English families.
-* Thomas Scott Fiske Jr, the subject of this biography, had a younger brother James Porter Fiske who was born in New York City on 22 November 1866.
 * James Porter Fiske became a surgeon and we shall say a little more about him later in this biography.
 * Thomas Scott Fiske Jr attended the Old Trinity Church School in New York City, then the Pingry School in Elizabeth, New Jersey.
 * Fiske entered Columbia College in 1882, thirty years before it became Columbia University, receiving his A.B. in 1885 and his A.M. in 1886.
@@ -38,9 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Fiske is of little importance as a research mathematician.
 * Fiske's monograph Theory of Functions of a Complex Variable was published by John Wiley & Sons in 1906.
 * Fiske designed the size and colour of the cover to be the same as James Glaisher's Messenger of Mathematics where he had published papers written using the material from his thesis.
-* Fiske served the new Society in a variety of ways, for example as secretary from 1888 to 1895, as treasurer from 1890 to 1891, as editor-in-chief of the Bulletin of the American Mathematical Society from 1891 to 1899, as vice-president of the Society from 1898 to 1901, as editor of the Transactions of the American Mathematical Society from 1899 to 1905 and as president of the Society from 1903 to 1904.
 * On 29 December 1904 Fiske delivered his Presidential Address to the Eleventh Annual Meeting of the American Mathematical Society.
-* On 1 February 1913, Fiske married Natalie Page of New York City.
 * We promised above to give more details of Fiske's roles both within Columbia University and also broader roles.
 * Fiske was teaching two courses: 'Fundamental concepts in mathematics'; and 'Theory of functions'.
 * is in part not only a tribute to the mathematical and logical ingenuity of one C S Peirce but to that most enthusiastic promoter of the cause of mathematics, Thomas S Fiske.

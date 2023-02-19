@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Fatma Moalla** is a Tunisian mathematician who has undertaken research on Finsler spaces. In 1961 she became the first Tunisian to have been awarded the Agrégation in Mathematics in France and, in 1965, the first Tunisian woman to be awarded a doctorate in mathematics in France.
 
 ### Mathematical Profile (Excerpt):
-* Fatma's eldest sister was born in Sfax before Mohamed Moalla moved with his family to Tunis where he continued to work as a bookseller.
-* Mohamed Moalla's family consisted of six girls, all but the eldest being born in Tunis after they moved there.
 * During the next three years, from 1957 to 1960, Moalla studied at the Institut des Hautes Études de Tunis which is situated at 8 Rue de Rome.
 * Moalla was not satisfied with stopping her studies at this level and she was very keen to obtain a doctorate in mathematics.
 * Moalla spent one year in which she prepared for CAPES, the Certificate for teaching in secondary education, and the Agrégation.

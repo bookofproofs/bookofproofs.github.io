@@ -24,14 +24,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Hopkins senior was a farmer, not in the sense of working on a farm but in the sense of owning a farm and employing others to do the hard work.
-* William junior was supposed to follow in his father's footsteps so his education was not considered important.
 * William showed little progress, particularly when he was taken to Norfolk and instructed in the practical matters concerned with the running of a farm.
-* Sticking with the plan that his son would become a farmer, William Hopkins senior purchased a small farm near Bury St Edmunds in Suffolk.
-* William junior and his wife (he had by now married a Miss Braithwaite) made an unconvincing attempt to run the farm.
-* When his wife died, Hopkins saw the chance to start a new life that he would enjoy.
-* Hopkins sold the small farm which his father had bought him and with the money he was able to pay off his debts.
 * In 1822, at the age of twenty-nine, Hopkins entered Peterhouse, the oldest of the Colleges of the University of Cambridge.
-* Hopkins married for a second time, to Caroline Boys, while he was an undergraduate at Cambridge.
 * After graduating Hopkins became a private tutor at Cambridge, having Tait, Thomson, Stokes, Maxwell and Todhunter among his pupils.
 * Hopkins made relatively little contributions to pure mathematics, other than in his tutoring and with a two volume text Elements of Trigonometry written in 1833 and 1847 which contains interesting historical comments.
 * Hopkins accompanied Sedgwick to Barmouth on many of these trips and through this work, which he greatly enjoyed, he began to feel that geology would benefit by being put on a firm mathematical basis.

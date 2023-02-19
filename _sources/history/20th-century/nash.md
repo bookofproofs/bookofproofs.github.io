@@ -23,32 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Nash** was an American mathematician who won the Nobel Prize for Economics for his work in game theory. He achieved fame through the film _A Beautiful Mind_.
 
 ### Mathematical Profile (Excerpt):
-* John Nash Senior was born in 1892 and had an unhappy childhood from which he escaped when he studied electrical engineering at Texas Agricultural and Mechanical.
-* John F Nash's mother, Margaret Virginia Martin, was known as Virginia.
-* She was a school teacher for ten years before meeting John Nash Senior, and the two were married on 6 September 1924.
-* Johnny Nash, as he was called by his family, was born in Bluefield Sanitarium and baptised into the Episcopal Church.
-* but he was brought up in a loving family surrounded by close relations who showed him much affection.
-* After a couple of years Johnny had a sister when Martha was born.
-* He seems to have shown a lot of interest in books when he was young but little interest in playing with other children.
-* It was not because of lack of children that Johnny behaved in this way, for Martha and her cousins played the usual childhood games: cutting patterns out of books, playing hide-and-seek in the attic, playing football.
 * However while the others played together Johnny played by himself with toy airplanes and matchbox cars.
-* His mother responded by enthusiastically encouraging Johnny's education, both by seeing that he got good schooling and also by teaching him herself.
-* Johnny's father responded by treating him like an adult, giving him science books when other parents might give their children colouring books.
 * Johnny's teachers at school certainly did not recognise his genius, and it would appear that he gave them little reason to realise that he had extraordinary talents.
 * They were more conscious of his lack of social skills and, because of this, labelled him as backward.
 * Although it is easy to be wise after the event, it now would appear that he was extremely bored at school.
 * By the time he was about twelve years old he was showing great interest in carrying out scientific experiments in his room at home.
 * It is fairly clear that he learnt more at home than he did at school.
-* Martha seems to have been a remarkably normal child while Johnny seemed different from other children.
 * His parents encouraged him to take part in social activities and he did not refuse, but sports, dances, visits to relatives and similar events he treated as tedious distractions from his books and experiments.
 * Nash first showed an interest in mathematics when he was about 14 years old.
-* Quite how he came to read E T Bell's Men of Mathematics is unclear but certainly this book inspired him.
 * He tried, and succeeded, in proving for himself results due to Fermat which Bell stated in his book.
 * The excitement that Nash found here was in contrast to the mathematics that he studied at school which failed to interest him.
 * He entered Bluefield College in 1941 and there he took mathematics courses as well as science courses, in particular studying chemistry, which was a favourite topic.
 * He began to show abilities in mathematics, particularly in problem solving, but still with hardly any friends and behaving in a somewhat eccentric manner, this only added to his fellow pupils view of him as peculiar.
 * He did not consider a career in mathematics at this time, however, which is not surprising since it was an unusual profession.
-* Rather he assumed that he would study electrical engineering and follow his father but he continued to conduct his own chemistry experiments and was involved in making explosives which led to the death of one of his fellow pupils.
 * Nash won a scholarship in the George Westinghouse Competition and was accepted by the Carnegie Institute of Technology (now Carnegie-Mellon University) which he entered in June 1945 with the intention of taking a degree in chemical engineering.
 * There he came in contact with John Synge who had recently been appointed as Head of the Mathematics Department and taught the relativity course.
 * Synge and the other mathematics professors quickly recognised Nash's remarkable mathematical talents and persuaded him to become a mathematics specialist.
@@ -58,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was a failure in Nash's eyes and one which he took badly.
 * The Putnam Mathematics Competition was not the only thing going badly for Nash.
 * Although his mathematics professors heaped praise on him, his fellow students found him a very strange person.
-* Physically he was strong and this saved him from being bullied, but his fellow students took delight in making fun of Nash whom they saw as an awkward immature person displaying childish tantrums.
 * He behaved oddly, playing a single chord on a piano over and over, leaving a melting ice cream cone melting on top of his cast-off clothing, walking on his roommate's sleeping body to turn off the light.
 * He showed homosexual tendencies, climbing into bed with the other boys who reacted by making fun of the fact that he was attracted to boys and humiliated him.
 * They played cruel pranks on him and he reacted by asking his fellow students to challenge him with mathematics problems.
@@ -105,7 +91,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He recently heard of the unsolved problem about imbedding a Riemannian manifold isometrically in Euclidean space, felt that this was his sort of thing, provided the problem were sufficiently worthwhile to justify his efforts; so he proceeded to write to everyone in the math society to check on that, was told that it probably was, and proceeded to announce that he had solved it, modulo details, and told Mackey he would like to talk about it at the Harvard colloquium.
 * So it is generally conceded he is getting nowhere and making an even bigger ass of himself than he has been previously supposed by those with less insight than myself.
 * But we've got him and saved ourselves the possibility of having gotten a real mathematician.
-* He's a bright guy but conceited as Hell, childish as Wiener, hasty as X, obstreperous as Y, for arbitrary X and Y.
 * Ambrose, the author of this letter, and Nash had rubbed each other the wrong way for a while.
 * They had played silly pranks on each other and Ambrose seems not to have been able to ignore Nash's digs in the way others had learned to do.
 * From 1952 Nash had taught at the Massachusetts Institute of Technology but his teaching was unusual (and unpopular with students) and his examining methods were highly unorthodox.
@@ -126,25 +111,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One of Nash's students at MIT, Alicia Larde, became friendly with him and by the summer of 1955 they were seeing each other regularly.
 * He also had a special friendship with a male graduate student at this time: Jack Bricker.
 * Eleanor found out about Alicia in the spring of 1956 when she came to Nash's house and found him in bed with Alicia.
-* Alicia did not seem too upset at discovering that Nash had a child with Eleanor and deduced that since the affair had been going on for three years, Nash was probably not serious about her.
-* In 1956 Nash's parents found out about his continuing affair with Eleanor and about his son John David Stier.
-* The shock may have contributed to the death of Nash's father soon after, but even if it did not Nash may have blamed himself.
-* In February of 1957 Nash married Alicia; by the autumn of 1958 she was pregnant but, a couple of months later near the end of 1958, Nash's mental state became very disturbed.
 * At a New Year's Party Nash appeared at midnight dressed only with a nappy and a sash with "1959" written on it.
 * He spent most of the evening curled up, like the baby he was dressed as, on his wife's lap.
 * One student immediately dropped the course! Nash asked a graduate student to take over his course and vanished for a couple of weeks.
 * When he returned he walked into the common room with a copy of the New York Times saying that it contained encrypted messages from outer space that were meant only for him.
 * For a few days people thought he was playing an elaborate private joke.
 * Norbert Wiener was one of the first to recognize that Nash's extreme eccentricities and personality problems were actually symptoms of a medical disorder.
-* After months of bizarre behaviour, Alicia had her husband involuntarily hospitalised at McLean Hospital, a private psychiatric hospital outside of Boston.
 * Upon his release, Nash abruptly resigned from MIT, withdrew his pension, and went to Europe, where he intended to renounce his US citizenship.
-* Alicia left her newborn son with her mother, and followed the ill Nash.
 * She then had Nash deported - back to the United States.
 * After their return, the two settled in Princeton where Alicia took a job.
 * Nash's illness continued, transforming him into a frightening figure.
 * He spent most of his time hanging around on the Princeton campus, talking about himself in the third person as Johann von Nassau, writing nonsensical postcards and making phone calls to former colleagues.
-* They stoically listened to his endless discussions of numerology and world political affairs.
-* In January 1961 the despondent Alicia, John's mother, and his sister Martha made the difficult decision to commit him to Trenton State Hospital in New Jersey where he endured insulin-coma therapy, an aggressive and risky treatment, five days a week for a month and a half.
 * A long sad episode followed which included periods of hospital treatment, temporary recovery, then further treatment.
 * Alicia divorced Nash in 1962.
 * Nash spent a while with Eleanor and John David.
@@ -157,7 +134,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Nash was awarded (jointly with Harsanyi and Selten) the 1994 Nobel Prize in Economic Science for his work on game theory.
 * for a seminal contribution to research.
 * striking and seminal contributions to the theory of nonlinear partial differential equations and its applications to geometric analysis.
-* A few days after picking up the prize in Norway, Nash and his wife Alicia were killed in an accident to their taxi on the New Jersey turnpike.
 
 Born 13 June 1928, Bluefield, West Virginia, USA. Died 23 May 2015, New Jersey, USA.
 

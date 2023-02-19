@@ -23,28 +23,22 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gottfried Leibniz** was a German mathematician who developed the present day notation for the differential and integral calculus though he never thought of the derivative as a limit. His philosophy is also important and he invented an early calculating machine.
 
 ### Mathematical Profile (Excerpt):
-* Leibniz's mother was Catharina Schmuck, the daughter of a lawyer and Friedrich Leibniz's third wife.
-* However, Friedrich Leibniz died when Leibniz was only six years old and he was brought up by his mother.
 * Certainly Leibniz learnt his moral and religious values from her which would play an important role in his life and philosophy.
 * At the age of seven, Leibniz entered the Nicolai School in Leipzig.
 * Although he was taught Latin at school, Leibniz had taught himself far more advanced Latin and some Greek by the age of 12.
 * Leibniz was clearly not satisfied with Aristotle's system and began to develop his own ideas on how to improve on it.
 * In later life Leibniz recalled that at this time he was trying to find orderings on logical truths which, although he did not know it at the time, were the ideas behind rigorous mathematical proofs.
-* As well as his school work, Leibniz studied his father's books.
 * In 1661, at the age of fourteen, Leibniz entered the University of Leipzig.
 * Leibniz then went to Jena to spend the summer term of 1663.
 * At Jena the professor of mathematics was Erhard Weigel but Weigel was also a philosopher and through him Leibniz began to understand the importance of the method of mathematical proof for subjects such as logic and philosophy.
 * Weigel believed that number was the fundamental concept of the universe and his ideas were to have considerable influence of Leibniz.
 * By October 1663 Leibniz was back in Leipzig starting his studies towards a doctorate in law.
-* A few days after Leibniz presented his dissertation, his mother died.
 * After being awarded a bachelor's degree in law, Leibniz worked on his habilitation in philosophy.
 * In this work Leibniz aimed to reduce all reasoning and discovery to a combination of basic elements such as numbers, letters, sounds and colours.
 * Despite his growing reputation and acknowledged scholarship, Leibniz was refused the doctorate in law at Leipzig.
-* However, there is also a story that the Dean's wife persuaded the Dean to argue against Leibniz, for some unexplained reason.
 * Leibniz was not prepared to accept any delay and he went immediately to the University of Altdorf where he received a doctorate in law in February 1667 for his dissertation De Casibus Perplexis Ⓣ(On Perplexing Cases).
 * Leibniz declined the promise of a chair at Altdorf because he had very different things in view.
 * By November 1667 Leibniz was living in Frankfurt, employed by Boineburg.
-* During the next few years Leibniz undertook a variety of different projects, scientific, literary and political.
 * Another of Leibniz's lifelong aims was to collate all human knowledge.
 * Certainly he saw his work on Roman civil law as part of this scheme and as another part of this scheme, Leibniz tried to bring the work of the learned societies together to coordinate research.
 * Leibniz began to study motion, and although he had in mind the problem of explaining the results of Wren and Huygens on elastic collisions, he began with abstract ideas of motion.
@@ -54,8 +48,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His first object in Paris was to make contact with the French government but, while waiting for such an opportunity, Leibniz made contact with mathematicians and philosophers there, in particular Arnauld and Malebranche, discussing with Arnauld a variety of topics but particularly church reunification.
 * In Paris Leibniz studied mathematics and physics under Christiaan Huygens beginning in the autumn of 1672.
 * On Huygens' advice, Leibniz read Saint-Vincent's work on summing series and made some discoveries of his own in this area.
-* Also in the autumn of 1672, Boineburg's son was sent to Paris to study under Leibniz which meant that his financial support was secure.
-* Boineburg died on 15 December but Leibniz continued to be supported by the Boineburg family.
 * In January 1673 Leibniz and Boineburg's nephew went to England to try the same peace mission, the French one having failed.
 * Leibniz visited the Royal Society, and demonstrated his incomplete calculating machine.
 * At the meeting of the Royal Society on 15 February, which Leibniz did not attend, Hooke made some unfavourable comments on Leibniz's calculating machine.
@@ -85,9 +77,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Leibniz continued to perfect his metaphysical system in the 1680s attempting to reduce reasoning to an algebra of thought.
 * Leibniz published Meditationes de Cognitione, Veritate et Ideis Ⓣ(Reflections on Knowledge, Truth, and Ideas) which clarified his theory of knowledge.
 * In February 1686, Leibniz wrote his Discours de métaphysique Ⓣ(Discourse on Metaphysics).
-* Another major project which Leibniz undertook, this time for Duke Ernst August, was writing the history of the Guelf family, of which the House of Brunswick was a part.
 * As always Leibniz took the opportunity to meet with scholars of many different subjects on these journeys.
-* Although Leibniz published nine large volumes of archival material on the history of the Guelf family, he never wrote the work that was commissioned.
+* In 1684 Leibniz published details of his differential calculus in Nova Methodus pro Maximis et Minimis, itemque Tangentibus...
 * In 1686 Leibniz published, in Acta Eruditorum, a paper dealing with the integral calculus with the first appearance in print of the ∫  notation.
 * This time delay in the publication of Newton's work resulted in a dispute with Leibniz.
 * Another important piece of mathematical work undertaken by Leibniz was his work on dynamics.

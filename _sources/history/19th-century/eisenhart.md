@@ -24,11 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Luther was the second of his parents' six sons.
-* He was brought up in a religious home with much of the family's social life being centred around St Paul's Lutheran Church.
 * He also excelled at baseball, a sport that the young Eisenhart boys had been passionate about as they grew up.
 * As Eisenhart indicated in the above quote, this work was heavily influenced by Darboux's treatise on the subject and he received little supervision for his doctorate.
 * Eisenhart spent most of his career at Princeton where he became an instructor in mathematics taking up his appointment in September 1900.
-* In 1908 he married Anna Maria Dandridge Mitchell; they had one son Churchill Eisenhart.
 * After Henry Fine died following a bicycle accident in December 1928, Eisenhart became Head of Mathematics at Princeton and Dod Professor of Mathematics, continuing in these roles until he retired in 1945.
 * The plan was adopted in 1923 and, as we can see from the details we gave above of Eisenhart's own education, it was very much based on the experiences he had gone through.
 * However Eisenhart was prepared to fight for what he believed in, and his arguments won the day.

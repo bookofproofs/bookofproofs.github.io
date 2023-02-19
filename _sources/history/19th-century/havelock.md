@@ -23,14 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Thomas Havelock **was an English applied mathematician, hydrodynamicist and mathematical physicist. He became a professor at the Armstrong College in Durham. He had close contacts with the Department of Naval Architecture for many years.
 
 ### Mathematical Profile (Excerpt):
-* Michael Havelock, the son of the engine smith William Havelock, had been born in Newcastle upon Tyne and had become an engine fitter and then a marine engineer.
-* Michael and Elizabeth Havelock had six children two of whom died as infants.
-* The other four were Mary Elizabeth Havelock (1871-1956), William John Havelock (1873-1956), Thomas Henry Havelock (1877-1968), the subject of this biography, and Alice Michaelina Havelock (1882-1968).
 * Thomas was a pupil at Singleton House School on Clayton Road, Jesmond, Newcastle upon Tyne.
 * Havelock was placed first in mathematics in 1890 and presented with the book 'The Young Carthaginian' by G A Henty, as his prize.
 * Havelock sat the Cambridge University Junior Local Examinations in 1891 and was awarded a distinction in botany, French and mathematics.
-* Michael Havelock attempted to find an apprenticeship for his son and corresponded with the Neptune Works of Swan, Hunter & Wigham Richardson, Newcastle upon Tyne during 1893-94 trying to persuade the shipbuilding firm to take on his son as an apprentice draftsman.
-* There was no vacancy and Benjamin Shaw persuaded Michael Havelock to allow his son to continue his education, at least while waiting for an opening at the Neptune Works.
 * So, in 1893, at the age of sixteen, Havelock entered Durham College of Physical Science.
 * Havelock, who studied in Newcastle, was particularly attracted to mathematics and physics so when a vacancy occurred at the Neptune Works and he was offered a place there in March 1894, he turned it down.
 * Part way through Havelock's time at the Durham College of Physical Science, Henry Palin Gurney became its principal in 1894.
@@ -62,10 +57,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Second, we feel that the increased accessibility of these important contributions of Sir Thomas which bear directly on many of today's urgent problems will prove to be of great value to the hydrodynamic research community.
 * Since the first introduction of hydrodynamical research many years ago, the editor has always regarded Professor Havelock's work with the greatest admiration and respect.
 * And, for nearly forty years, after making personal acquaintance with Professor Havelock, the editor has received much very kind advice and assistance from him, which he is very glad to acknowledge here.
-* Throughout his life, Cambridge was the only place that Havelock lived other than Newcastle upon Tyne where he lived in Gosforth with his brother William John Havelock and his younger sister Alice Michaelina Havelock.
 * For example, in 1939 they were living at 8 Westfield Drive, Gosforth: William Havelock was a shipping company director, Thomas Havelock was a University Professor of Mathematics, and Alice Havelock's occupation is given as 'Unpaid Domestic Duties'.
-* After William died in 1956, Havelock continued to live with his sister who cared for him.
-* Havelock died on 1 August 1968 and his sister Alice Michaelina died only a few weeks later on 22 September.
 
 Born 24 June 1877, Newcastle upon Tyne, Northumberland, England. Died 1 August 1968, Gosforth, Northumberland, England.
 

@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1858, together with Betti from Pisa and his own student Casorati, Brioschi visited Göttingen, Berlin and Paris.
 * When they returned to Italy they began to publish Italian translations of Riemann's works and Brioschi began to lecture on these ideas.
 * Casorati was not the only student that Brioschi had in Pavia, for he also advised the doctoral students Cremona (doctorate in 1853) and Beltrami (doctorate in 1856).
-* Brioschi was living through a very dramatic period in Italian politics as the country moved towards unification.
 * In 1859 he appointed Brioschi to a committee which had as its remit the reform of secondary schools.
 * From 1861 to 1862 Brioschi was secretary of the Italian Ministry of Education.
 * Brioschi also continued to work more generally for improving Italian education and, from 1870 to 1882, he was on the Executive Council of the Ministry of Education.

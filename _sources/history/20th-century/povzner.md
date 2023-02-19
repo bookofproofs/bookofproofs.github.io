@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Aleksandr Povzner** was a Ukranian-born mathematician who worked in the spectral theory of differential operators.
 
 ### Mathematical Profile (Excerpt):
-* At this time Poltava had a large Jewish community of which the Povzner family were a part.
 * Aleksandr was brought up in Poltava where he attended a seven-year school and then a school for metal workers.
 * Povzner spent much time with Chebotaryov in Kazan while undertaking research in algebra.
 * Povzner solved this in the case of abelian groups in his first published paper.

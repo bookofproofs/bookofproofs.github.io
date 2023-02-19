@@ -4,7 +4,7 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: origin-england
 orderid: 1875
-title: Bromwich, Thomas John I&amp;#x27;Anson
+title: Bromwich, Thomas John I&amp;amp;#x27;Anson
 born: 1875
 died: 1929
 keywords: thomas bromwich,bromwich

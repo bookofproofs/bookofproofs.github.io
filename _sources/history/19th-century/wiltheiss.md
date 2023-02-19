@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Eduard Wiltheiss** was a German mathematician who made major contributions to the theory of abelian functions.
 
 ### Mathematical Profile (Excerpt):
-* His father was Johann Georg Wiltheiss, a book binder, and his mother was Elisabeth Mohr.
-* The family were members of the Evangelical Lutheran Church, and Eduard was baptized into this church.
 * In April 1874, immediately following his Abitur examinations, Wiltheiss entered the University of Giessen to study mathematics.
 * However Gordan had undertaken research on abelian functions before becoming fascinated by invariant theory, and Wiltheiss went on to undertake research on that topic, making a major contribution to the theory of abelian functions.
 * From Giessen Wiltheiss went to Berlin in 1876 to continue his mathematical studies.

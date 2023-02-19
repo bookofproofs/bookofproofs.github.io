@@ -23,12 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alexis Clairaut** was a French mathematician who worked to confirm the Newton-Huygens belief that the Earth was flattened at the poles.
 
 ### Mathematical Profile (Excerpt):
-* Alexis's mother, Catherine Petit, had twenty children although only Alexis survived to adulthood.
-* Jean-Baptiste Clairaut educated his son at home and set unbelievably high standards.
 * Alexis used Euclid's Elements while learning to read and by the age of nine he had mastered the excellent mathematics textbook of Guisnée Application de l'algèbre à la géométrie Ⓣ(Application of algebra to geometry) which provided a good introduction to the differential and integral calculus as well as analytical geometry.
 * In the following year, Clairaut went on to study de L'Hôpital's books, in particular his famous text Analyse des infiniment petits pour l'intelligence des lignes courbes Ⓣ(Infinitesimal analysis for the understanding of curves).
 * Few people have read their first paper to an academy at the age of 13, but this was the incredible achievement of Clairaut's in 1726 when he read his paper Quatre problèmes sur de nouvelles courbes Ⓣ(Four problems on new curves) to the Paris Academy.
-* Although we have already noted that Clairaut was the only one of twenty children of his parents to reach adulthood, he did have a younger brother who, at the age of 14, read a mathematics paper to the Academy in 1730.
 * Clairaut began to undertake research on double curvature curves which he completed in 1729.
 * In July 1731 Clairaut became the youngest person ever elected to the Paris Academy of Sciences.
 * Maupertuis was 15 years older than Clairaut but despite this, at the age of 33, he was also a young member of the Academy.
@@ -45,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After his work on Théorie de la figure de la Terre Ⓣ(Theory of the shape of the Earth) Clairaut began to work on the three-body problem in 1745, in particular on the problem of the moon's orbit.
 * Clairaut, more confident with Euler's support, announced to the Paris Academy on 15 November 1747 that the inverse square law was false.
 * Rather remarkably, just before Clairaut made his announcement, d'Alembert deposited a paper with the Academy which showed that his calculations agreed with those of Clairaut.
-* Some attacked Clairaut's announcement, for example Buffon who used a metaphysical argument based on the simplicity of the inverse square law.
 * However, by the spring of 1748, Clairaut realised that the difference between the observed motion of the moon's apogee and the one predicted by the theory was due to errors coming from the approximations that were being made rather than from the inverse square law of gravitational attraction.
 * Clairaut announced to the Academy on 17 May 1749 that his theory was now in agreement with the inverse square law.
 * Euler still felt he did not properly understand what Clairaut had done so he tried to tempt him to write it up properly by having the St Petersburg Academy set the problem of the moon's apogee as the prize topic for 1752.

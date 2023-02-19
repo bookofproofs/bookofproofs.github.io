@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * William Chauvenet senior was a farmer but later became a businessman.
-* The school was run by Dr Samuel Jones who was so impressed with the abilities of William, the subject of this biography, that he persuaded his father to give up the idea that his son would become a businessman and allow him to obtain a university education at Yale university.
 * Although William was extremely good at mathematics and this was the natural subject for him to study at university, he had to also be knowledgeable in Latin and Greek in order to be accepted onto a degree course.
 * After graduating Chauvenet was appointed as assistant to Alexander D Bache at Girard College in Philadelphia.
 * Girard College had been founded by the American financier and philanthropist Stephen Girard in 1833 and Chauvenet worked there making observations of the terrestrial magnetic field.

@@ -24,15 +24,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * André Berge (1902-1995) was a physician and psychoanalyst who, in addition to his professional work, had published several novels.
-* He was the son of the René Berge, a mining engineer, and Antoinette Faure.
-* André Berge married Geneviève in 1924 and Claude, the subject of this biography, was the second of their six children.
 * Claude attended the École des Roches near Verneuil-sur-Avre about 110 km west of Paris.
 * At this stage in his life Claude was unsure about the topic in which he should specialise.
 * Berge examined properties of such games with a thorough analysis.
-* Berge married Jane Gentaz (born 7 January 1925) on 29 December 1952; they had one child, Delphine, born on 1 March 1964.
 * In 1952, before the award of his doctorate, Berge was appointed as a research assistant at the Centre National de la Recherche Scientifique.
 * Returning to France from the United States, Berge took up the position on Director of research at the Centre national de la recherche scientifique.
 * A computer search through Mathematical Reviews changed my mind: with each of these two books, Claude left a lasting mark on the subject.
+* The theorem - first stated, and proved by C Berge - gives conditions under which ...".
 * It is amusing to speculate that, just as Claude Berge is a combinatorist to many of us combinatorists, he may be a game theorist to some game theorists and he may be a topologist to some economists.
 * For example, Berge wrote an introductory article on graph theory which appeared in the American Mathematical Monthly in 1964.
 * Among the non-Hungarians at the meeting were Arthur Harold Stone (1916-2000), Cedric Austen Bardell Smith (1917-2002), Bill Tutte and Berge.
@@ -52,7 +50,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Berge was very much a product of the old school and 'clean' and 'pretty' proofs mattered to him almost as much as the proof itself.
 * A visit to the Berge residence would find him curled up on a sofa, smoking his favourite pipe and gazing intently and lovingly at an 'objet d'art'.
 * Being one of Berge's foreign students in France, it was my privilege to be invited to his house for Christmas dinners.
-* Berge could either be in a good mood or sulking like a spoilt child.
 
 Born 5 June 1926, Paris, France. Died 30 June 2002, Paris, France.
 

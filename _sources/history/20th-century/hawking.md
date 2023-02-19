@@ -23,16 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Stephen Hawking** was one of the world's foremost theoretical physicists famous for his work on black holes.
 
 ### Mathematical Profile (Excerpt):
-* The family were soon back together living in Highgate, north London, where Stephen began his schooling.
-* In 1950 Stephen's father moved to the Institute for Medical Research in Mill Hill.
 * Stephen attended St Albans High School for Girls (which took boys up to the age of 10).
 * However Stephen was ill at the time of the examinations and remained at St Albans school which he had attended from the age of 11.
 * Hawking wanted to specialise in mathematics in his last couple of years at school where his mathematics teacher had inspired him to study the subject.
-* However Hawking's father was strongly against the idea and Hawking was persuaded to make chemistry his main school subject.
-* Part of his father's reasoning was that he wanted Hawking to go to University College, Oxford, the College he himself had attended, and that College had no mathematics fellow.
 * In March 1959 Hawking took the scholarship examinations with the aim of studying natural sciences at Oxford.
 * From Oxford, Hawking moved to Cambridge to take up research in general relativity and cosmology, a difficult area for someone with only a little mathematical background.
-* Hawking had noticed that he was becoming rather clumsy during his last year at Oxford and, when he returned home for Christmas 1962 at the end of his first term at Cambridge, his mother persuaded him to see a doctor.
 * After completing his doctorate in 1966 Hawking was awarded a fellowship at Gonville and Caius College, Cambridge.
 * In 1979 Hawking was appointed Lucasian Professor of Mathematics at Cambridge.
 * Between 1965 and 1970 Hawking worked on singularities in the theory of general relativity devising new mathematical techniques to study this area of cosmology.

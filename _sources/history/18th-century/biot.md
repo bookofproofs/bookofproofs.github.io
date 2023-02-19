@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Jean-Baptiste was educated at the college of Louis-le-Grand in Paris, where he specialised in classics.
-* Joseph Biot then sent his son to Le Havre to become a clerical assistant to a merchant.
 * His job there consisted of copying vast numbers of letters (we have to be thankful for photocopiers!) which bored Biot so much that he volunteered for the army.
 * After the battle Biot, suffering from an illness, decided to leave the army and return to his parents.
 * He took Biot in his carriage to Paris where he (Biot) was arrested as a deserter (he was still in uniform) and brought before a revolutionary committee.
@@ -33,18 +32,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It took Biot some months to recover from the illness during which time he continued with his studies of mathematics.
 * The École Polytechnique was founded later in 1794 (actually named 'École centrale des travaux publics' for its first year) and Biot transferred there in November of that year.
 * Gaspard Monge, one of the founders of l'École Polytechnique who taught the first intake of students, quickly realised Biot's potential.
-* Biot, however, quickly became involved in student politics and was made a section leader.
 * There was an attempted insurrection by the royalists against the Convention and Biot took part.
 * He had found a patron in Sylvestre-François Lacroix who was highly influential in helping Biot develop his career.
 * It might seems remarkable that even someone as able as Biot could move from being an undergraduate straight into a professorship.
-* Biot got to know of the vacant mathematics professorship through his friendship with Barnabé Brisson, the son of Antoine François Brisson de Beauvais, while studying at l'École Polytechnique.
-* Through Barnabé Brisson, Biot had got to know his sister Gabrielle.
-* Although Gabrielle was only sixteen years old, they married in 1797 soon after Biot took up his position at Beauvais.
 * Biot taught Gabrielle mathematics and physics so that she might translate into French a German text by Ernst Gottfried Fischer.
 * It was Claude Louis Berthollet who had asked Biot to make the translation which was published as Physique mécanique Ⓣ(Mechanical Physics) in 1806.
-* Biot's wife was well educated and fluent in German, so her translation was excellent.
 * However, in line with the practice of the time, the book records Biot himself as the translator rather than his wife.
-* Biot and his wife had a son Édouard Constant Biot who was born in 1803.
 * It was largely through Lacroix that Biot had been appointed at Beauvais and Lacroix advised him frequently through the first years that he worked there.
 * In fact in late 1799 Biot approached Laplace, who had taught him at l'École Polytechnique, and offered to proof-read the Mécanique céleste Ⓣ(Celestial mechanics) which at that time was with the publisher.
 * Biot was, by this time, an entrance examiner at the École Polytechnique so was frequently in Paris.

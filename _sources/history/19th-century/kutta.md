@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Wilhelm Kutta** was a German engineer who is best known for his work on the numerical solution of differential equations (the Runge-Kutta method).
 
 ### Mathematical Profile (Excerpt):
-* Tragically Kutta's parents died when he was still young and, together with his brother Karl, he went to Breslau to be brought up by an uncle.
 * After graduating from the Gymnasium, Kutta studied at the University of Breslau from 1885 to 1890.
 * Kutta was appointed to a post at the Technische Hochschule at Munich as an assistant in mathematics and physics from 1894.
 * It contains the now famous  Runge-Kutta method for solving ordinary differential equations.

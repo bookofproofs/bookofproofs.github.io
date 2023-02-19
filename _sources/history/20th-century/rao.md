@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ** C R Rao**  is an Indian-born mathematician and statistician who has worked most of his life in America. His statistical work has been applied in many fields.
 
 ### Mathematical Profile (Excerpt):
-* We should explain that the name Rao is part of his given name - in fact all the male children in his family were named Rao.
-* His other given name Radhakrishna comes from the god Krishna (who was the eighth of his parents children and, for that reason, the custom was to name the eighth child after Krishna).
 * Calyampudi Radhakrishna completed his first two years schooling in Gudur, his next two in Nuzvid, and then grades 6 and 7 in Nandigama, all towns in the state of Andhra Pradesh.
 * The most significant result CR obtained during this period is now called the Cramér-Rao inequality and gives a bound for the variance of an unbiased estimate of a parameter.
 * Least squares and alternatives (1995), and (with M B Rao) Matrix algebra and its applications to statistics and econometrics (1998).

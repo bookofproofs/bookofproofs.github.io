@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jakob Steiner** was one of the greatest contributors to projective geometry.
 
 ### Mathematical Profile (Excerpt):
-* Jakob was the youngest of the children and spent his early years helping his parents with the small farm and business that they ran near the village of Utzenstorf, about 24 km north of Bern.
 * Jakob, however, wanted something better for himself but his parents were delighted to have his help with their business.
 * Pestalozzi ran his innovative school in the town from 1805 to 1825 and Steiner entered in the spring of 1814.
 * The fact that Steiner was unable to pay anything towards his education at the school was not a problem, for Pestalozzi wanted to try out his educational methods on the poor.
@@ -56,7 +55,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Steiner disliked algebra and analysis and believed that calculation replaces thinking while geometry stimulates thinking.
 * Despite being a mathematical genius, in other ways Steiner was a difficult person.
 * The last ten years of Steiner's life were increasingly difficult through illness.
-* Steiner never married and, perhaps as a consequence, left a fortune on his death.
 * One third of this fortune went to the Berlin Academy to found the Steiner Prize.
 
 Born 18 March 1796, Utzenstorf, Switzerland. Died 1 April 1863, Bern, Switzerland.

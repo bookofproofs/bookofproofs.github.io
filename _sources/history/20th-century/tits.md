@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Tits' first papers, following the work he had undertaken for his doctoral dissertation, were on generalisations of triply transitive groups.
 * In Groupes triplement transitifs et généralisations Ⓣ(Triply transitive groups and generalizations) (1950), Tits went on to look at generalisations of nnn-tuply transitive groups, defining an almost nnn-tuply transitive group.
 * In Sur les groupes triplement transitifs continus; généralisation d'un théorème de Kerékjártó Ⓣ(On triply transitive continuous  groups; generalization of a theorem Kerékjártó) (1951) Tits looked at triply transitive groups of transformations of a topological space using his earlier results which characterised the projective groups among triply transitive groups.
-* Tits married Marie-Jeanne Dieuaide, a historian, on 8 September 1956.
 * Among Tits' doctoral students in Brussels we mention Francis Buekenhout who was awarded his doctorate in 1965.
 * In 1973 Tits accepted the Chair of Group Theory at the Collège de France.
 * Tits held this chair until he retired in 2000.

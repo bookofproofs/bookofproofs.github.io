@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Leonid Kantorovich** was a Soviet mathematician and economist who can be regarded as the founder of linear programming.
 
 ### Mathematical Profile (Excerpt):
-* Leonid Vital'evich had two elder sisters Lidiya and Nadezhda, and two elder brothers Nikolay and Georgiy who followed their father in becoming medical doctors.
-* The first events to impact on the young child Leonid was the general strike and disorder that broke out in St Petersburg in February 1917 and then the violent revolution of October 1917 when workers stormed the Winter Palace and disposed the government.
-* Civil war then raged throughout the country during 1918-20 and the Kantorovich family went to Belarus (then known as Byelorussia) where they spent a year of this difficult period.
 * The two lectures that made the greatest impression on Kantorovich were the opening address by Otto Yulyevich Schmidt on "The role of mathematics in construction of socialism" and Sergei Natanovich Bernstein's deep and wide-ranging address "State of the art and problems of the theory of approximations of functions of one real variable by polynomials".
 * Kantorovich spoke on 25 June in the session on 'Theory of functions and theory of series' chaired by Dmitrii Evgenevich Menshov.
 * Kantorovich gave two lectures, "On conformal mappings of domains" and "On some methods of approximate solution of partial differential equations".

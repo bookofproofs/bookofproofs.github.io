@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * They were 26 and 24 years of age, respectively, at the time of Henri's birth.
-* Henri was born in Nancy where his father was Professor of Medicine at the University.
-* Léon Poincaré's family produced other men of great distinction during Henri's lifetime.
 * The second of Antoine Poincaré's sons, Lucien Poincaré, achieved high rank in university administration.
 * In 1862 Henri entered the Lycée in Nancy (now renamed the Lycée Henri Poincaré in his honour).
 * Henri was described by his mathematics teacher as a "monster of mathematics" and he won first prizes in the concours général, a competition between the top pupils from all the Lycées across France.

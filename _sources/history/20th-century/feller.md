@@ -24,14 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * In fact his first name was not William.
-* His mother was a Roman Catholic and so he was christened Vilibald Srecko, but chose to be known as Vilim in his homeland from 1923 onward, and Willy in Germany and Scandinavia (he even used the name Willy Feller on his papers into the 1940s).
-* William's father Eugen, who was born in Lemberg (now Lviv), was a chemist working in industry.
-* Eugen's father David Feller, the paternal grandfather of our mathematician, was Jewish but had converted to Roman Catholicism when marrying Elsa Holzer.
-* William, the ninth of his parents' twelve children, was baptised on 19 July 1906 in the church of St Marko in Zagreb.
-* The girl who was older than William was Elza (born 1899), the oldest of all the children, while the three younger sisters were Marcia (born 1907), Krista, and Zora.
-* The family was well-off having made much money from Elsa fluid (named after William's paternal grandmother) which claimed to cure everything from headaches to colds to stiff joints.
-* The wealthy family built a home in Jurjevska street in Zagreb which was designed by William's uncle Mathias Feller.
-* Built in 1911, the large grandly decorated house at 31a was William's home for most of his childhood.
 * William was educated by private tutors as well as attending secondary school at the First Realgymnasium, Zagreb.
 * William graduated from the Realgymnasium in June 1923 and entered the University of Zagreb in October of that year.
 * However, Vladimir Varicak was the lecturer who influenced Feller most.
@@ -41,8 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hitler came to power in Germany in 1933 and there was no way that Feller would accept the requirements placed on academics to sign a Nazi oath.
 * Feller went to Copenhagen where he remained until 1934, then he moved to the University of Stockholm where he joined the probability group in the Institute for Insurance Mathematics and Mathematical Statistics headed by Harald Cramér.
 * Being a research associate of Cramér was valuable to Feller, as was the fact that he was able to have useful discussions with Marcel Riesz who was also working in Sweden.
-* In 1938 Feller married Clara Mary Nielsen who had been his student in Kiel; they had no children.
-* Feller and his wife emigrated to the United States in 1939 and he became an associate professor of mathematics at Brown University, in Providence Rhode Island.
 * Feller was still in Copenhagen at this time.
 * Feller became the first executive editor of Mathematical Reviews which started reviewing articles which appeared from July 1939 and the first issue appeared in January 1940.
 * Its successful launch was largely the result of both Neugebauer and Feller's major efforts to get the journal established.
@@ -56,6 +46,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Feller's most important work was Introduction to Probability Theory and its Applications (1950-71), a two volume work which he frequently revised and improved with new approaches, new examples and new applications.
 * The first edition was published in 1950 but Feller began writing it in 1941.
 * We are by now so used to Feller's ideas that we tend to forget how much mathematics today goes back to his "recurrent events"; the theory of formal grammars is one outlandish example.
+* Such choice of material gives Feller's book a special place among the reference books on the probability theory ...
 * By his choice of problems Feller exposes their solutions by 'direct' and especially probabilistic methods.
 * This tendency to see probabilistic sense behind their analytical transformations represents the most valuable feature of Feller's book.
 * Feller was invited to address the International Congress of Mathematicians in Cambridge, Massachusetts, in 1950.

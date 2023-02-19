@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Phillip was an undergraduate at Wake Forest College in Winston-Salem, North Carolina.
-* Griffiths married Ann Lane Crittenden in 1958 while he was still an undergraduate; they had two children Jan Kirsten and David.
 * Donald Spencer became Griffiths' advisor partway through his first year of study.
 * Griffiths was advised to read certain texts and papers which were to have a huge impact on the direction his mathematical research would take.
 * After the award of his doctorate, Griffiths returned to Berkeley where he was Miller fellow at the University of California during the two years 1962-64.

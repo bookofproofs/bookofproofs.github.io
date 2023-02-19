@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Luiz Henrique Jacy Monteiro** was a Brazilian mathematician who played a major role in the development of Brazilian mathematics in the middle of the 20th century. He did much to introduce modern mathematics to Brazilian school teachers as well as to university students.
 
 ### Mathematical Profile (Excerpt):
-* Luiz Henrique had an older brother Roberto Jacy Monteiro (born 1918) and a younger sister Maria da Gloria Jacy Monteiro (born 1923).
 * Ernesto Jacy Monteiro was a mining engineer with a talent for languages which he employed as a translator.
-* Some facts support the 1921 date such as having Osvaldo Sangiorgi (born 1921) as a close childhood friend, and the fact that Jacy Monteiro began his university studies in 1940.
 * At Vila Galvão, Sangiorgi and Jacy Monteiro enjoyed bicycle rides and they swam in the Lago dos Patos close to the Jacy Monteiro house.
 * Jacy Monteiro showed great abilities in mathematics and in languages when at school.
 * Silva Dias encouraged Jacy Monteiro to leave the Escola Politécnica and study at the Department of Mathematics in the Faculdade de Filosofia, Ciências e Letras.
@@ -36,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Omar Catunda wrote to Jacy Monteiro from Miami on 14 September 1946 thanking him for his work and asking about printing costs and money received from selling the booklets.
 * Eventually Catunda worried that he was expecting so much of Jacy Monteiro in producing these booklets that he may not have time to undertake other work.
 * Jacy Monteiro was employed as an assistant to Jean Dieudonné in 1947 but later that year he took up the Rockefeller scholarship he had received.
-* By the time that Jacy Monteiro's Rockefeller scholarship was approved, on 9 June 1947, he had married Martha Anna Dorothea Wallbaum and they had a child, Luiz Henrique Jacy Monteiro Filho, who was one year old.
 * A fellowship for Luiz Henrique Jacy Monteiro is hereby approved for a period not to exceed twelve months beginning approximately September 15, 1947, with stipend of $175 per month and provision for necessary fees and travel expenses.
 * Jacy Monteiro's paper Derivations of a field (Portuguese), was published in 1947.
 * Zariski's assessment of Jacy Monteiro proved very accurate.
@@ -51,6 +48,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At both of these Jacy Monteiro delivered a course on Modern Algebra.
 * Jacy Monteiro became its director of publications.
 * Jacy Monteiro's 1971 book listed above is published by GEEM and is a printed version of one of the courses he gave.
+* Martins: Given by Jacy ...
 * D'Ambrosio: Given by Jacy, a great teacher.
 * There is no doubt that Zariski's assessment of Jacy Monteiro at an early stage in his career was very accurate.
 * In 1975, when still in his 50s, Jacy Monteiro underwent a surgical operation.

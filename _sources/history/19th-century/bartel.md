@@ -24,9 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * In fact it became part of Austria when Poland was partitioned in 1772 and it was still a part of that country when Bartel was born there - so officially he was born in Lemberg.
-* Kazimierz's father was a railway engineer and, after Kazimierz had spent a short time in primary education at the Stryj Primary School, his father placed him with a friend to train as an apprentice fitter.
-* Kazimierz was lucky for this family friend taught at the Lemberg State Industrial School and, as well as training him to be a fitter, he encouraged the young boy to attend classes at this school but he also worked in the Stryj railway workshops as a locksmith.
-* During his time as a student, Bartel became actively involved in politics.
 * Bartel was awarded his doctorate in 1911 and, three years later, he was made a professor at the Lemberg Polytechnic.
 * Bartel was conscripted into the Austro-Hungarian army for the duration of World War I.
 * For Bartel, as for many Poles, the war was seen as a positive step which could lead to Poland regaining its sovereignty.
@@ -40,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * During these years when Bartel was again an academic, he applied his knowledge and skills in geometry to a historical study of perspective in European painting.
 * This text of Bartel's is admirably straightforward in its methods.
 * After Bartel's death, a third edition was prepared by Antoni Plamitzer who only made minor changes to the text of the third edition.
-* In 1937 Bartel returned to politics when he was appointed a Senator of Poland.
 * In 1940 Bartel was appointed to Moscow and offered a seat in the Soviet parliament.
 * During the following night 36 other professors, Bartel's colleagues, were likewise arrested.
 * Bartel was not murdered with them.

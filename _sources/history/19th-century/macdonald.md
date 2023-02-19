@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hector Macdonald** graduated from Aberdeen and Cambridge Universities. He stayed on at Cambridge and won the Adams prize. He returned to Aberdeen as Professor. He did important work on electromagnetic waves.
 
 ### Mathematical Profile (Excerpt):
-* Hector was the older of his parents two sons and, as a young child, he lived in Edinburgh.
-* Even today this is a fairly isolated community and it would have been much more so when the Macdonald family moved there.
 * After arriving in Fearn, Hector attended the local school before attending the Royal Academy in Tain which is no more than a small village about 5 km north west of Fearn.
 * As many Scottish mathematicians of this era, Macdonald proceeded to Cambridge to take the Mathematical Tripos after completing his first degree in Scotland.
 * Macdonald began his research career at Cambridge working on topics in pure mathematics.

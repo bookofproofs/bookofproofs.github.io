@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * There was a major earthquake and fire in 1923 and when Morishima entered the Department of Mathematics of the College of Science of the university it had been reconstructed.
-* Morishima married Ei Miyamoto in 1927 while he was studying at university; they had three sons.
 * Morishima had been very active in mathematical research from the time he graduated in 1928.
 * All his papers are full of good ideas but they are extremely difficult to read since Morishima did not present enough detail.
 * Morishima's high research activity seems to have greatly lessened after 1935.

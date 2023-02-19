@@ -23,12 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **A Adrian Albert** was an American mathematician who worked on associative and non-associative algebras.
 
 ### Mathematical Profile (Excerpt):
-* His father, Elias Albert, came to the United States from England and had set up a retail business.
-* His mother, Fannie Fradkin, had come to the United States from Russia.
-* Adrian was the second of Elias and Fannie's three children, but he also had both a half-brother and half-sister from his mother's side.
 * It was in Chicago that Adrian undertook most of his education; in fact this was his home town for most of his life.
 * He began his education there entering primary school in 1911.
-* In 1914, however, the family moved to Iron Mountain in Michigan where he continued his schooling until the family returned to Chicago in 1916.
 * Back in the town of his birth, Adrian entered the Theodore Herzl Elementary School where he studied until 1919 then, in that year, he entered the John Marshall High School.
 * In 1922 he graduated from the High School and began his studies at the University of Chicago.
 * Albert completed his B.S. degree in 1926 and was awarded his Master's degree in the following year.
@@ -36,10 +32,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * That Dickson, the leading American mathematician in the fields of number theory and algebra, was on the Chicago faculty was a piece of good fortune for Albert.
 * Not only did Dickson strongly influence the course of all Albert's later research, but also his style as a teacher and academic rubbed off on Albert.
 * He was awarded his Ph.D. in 1928 for a doctoral dissertation entitled Algebras and their Radicals and Division Algebras.
-* By the time that he received his doctorate Albert was a married man, having married Freda Davis on 18 December 1927.
 * The economic situation in the United States was deteriorating at this time with the advent of the depression.
 * Sensitive as he was to the suffering of others, he deeply felt the economic hardship that so many of his friends were undergoing.
 * He, too, did not have an easy time of it economically.
+* In addition he was beset by a series of illnesses ...
 * In his doctoral thesis Albert had made considerable progress in classifying division algebras.
 * It was an impressive piece of work and it led to him being awarded a National Research Council Fellowship to enable him to undertake postdoctoral study at Princeton.
 * He spent nine months at Princeton in 1928-29 and this was an important period for Albert since during his time there Lefschetz suggested that he look at open problems in the theory of Riemann matrices.
@@ -56,10 +52,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He was an integral part of the university, and the university was an integral part of his life.
 * He knew and was known by almost everybody at the university, and his influence went well beyond the realm of the physical sciences.
 * Of all the honours and responsibilities that came to him, the one that he probably enjoyed most, and which meant the most to him, was that of being Dean of Physical Sciences in his beloved university.
-* We should say a little about Albert's family life which was filled with great happiness until the tragic death of his son Roy.
-* He was one of their three children (the other two being Alan and Nancy) and Roy's death at the age of 23 in 1958 brought a deep sadness which Albert and his wife never got over.
 * One should say, though, that it was in his nature not to allow his grief to be too visible publicly.
-* The blow was softened, if ever the loss of a child could ever really be softened, by the happiness that Albert and his wife enjoyed from their other two children and from their five grand-children.
 * We have already said a little above about Albert's mathematical contributions but we should now give further details.
 * His main work was on associative algebras, non-associative algebras, and Riemann matrices.
 * He worked on classifying division algebras building on the work of Wedderburn but Brauer, Hasse and Emmy Noether got the main result first.
@@ -81,11 +74,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lectures by Weyl on Lie algebras in 1934-35 introduced Albert to the theory of non-associative algebras.
 * It was not until 1942, however, that he published his first major work on non-associative algebras.
 * At times a particular line of attack failed to fulfil the promise it had shown; he would then exercise his sound instinct and good judgement by shifting the assault to a different area.
+* In fact, he repeatedly displayed an uncanny knack for selecting projects which later turned out to be well conceived ...
 * Albert received many honours for his outstanding achievements.
 * He was elected to the National Academy of Sciences in 1943, the Brazilian Academy of Sciences in 1952, and the Argentine Academy of Sciences in 1963.
 * He served as chairman of the Mathematics Section of the National Research Council from 1958 to 1961, and President of the American Mathematical Society in 1965-66.
 * He viewed the profession of mathematician with a great deal of pride and he did everything he could to have it recognised as he felt it deserved.
 * He constantly fought for the improvement of working conditions, salaries, and student support in his chosen field.
+* Although he had a strong set of principles in life and a definite attitude to moral and professional behaviour, he was endowed with an enormous tolerance for the changes that were taking place around him ...
 
 Born 9 November 1905, Chicago, Illinois, USA. Died 6 June 1972, Chicago, Illinois, USA.
 

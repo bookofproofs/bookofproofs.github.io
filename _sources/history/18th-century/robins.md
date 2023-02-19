@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Benjamin Robins** was an English engineer who wrote on Newton's mathematics and invented the ballistic pendulum.
 
 ### Mathematical Profile (Excerpt):
-* John and Sarah were Quakers and they married in 1700, according to the Quaker monthly meeting records, "decently without any superfluity either in meats, drink or apparel." John Robins was a tailor and the family was rather poor financially.
-* Benjamin was his parents' only child.
-* It is unclear whether Benjamin attended school in Bath; some biographers claim that he did, but no record of his attendance has been found.
 * An answer was returned by Mr Robins that gave a very advantageous idea of his taste, as well as invention.
 * Pemberton soon had Robins reading, in English translations, the classic Greek texts on geometry by Apollonius, Archimedes and by Pappus.
 * Robins loved this geometrical approach to mathematics and retained a preference for geometry over algebra or analysis throughout his life.
@@ -41,9 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Robins invented the ballistic pendulum which allowed precise measurements of the velocity of projectiles fired from guns.
 * As described by Robins, a large wooden block is suspended in front of a gun.
 * In 1747 Robins received the Copley medal of the Royal Society to recognise his achievement in developing the new science of ballistics.
-* In his papers Robins often mixed science with a political message.
-* Robins father, John Robins, was still living in Bath aged 85 when his son died.
-* Robins never married.
 
 Born 16 April 1706, Bath, England. Died 20 July 1751, Madras, (now Chennai) India.
 

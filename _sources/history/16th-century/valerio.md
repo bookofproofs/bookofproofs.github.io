@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Luca Valerio** was an Italian mathematician who applied methods of Archimedes to find volumes and centres of gravity of solid bodies. He corresponded with Galileo.
 
 ### Mathematical Profile (Excerpt):
-* In fact Luca was brought up in Greece, to be precise on the island of Corfu where his mother's family were members of the nobility.
 * His skill as a teacher was amply repaid by the remarkable mathematical achievements of his pupil Valerio who remained at Collegio Romano after taking his first degree and was awarded a doctorate in philosophy and theology.
 * After taking his doctorate, Valerio continued to live in Rome teaching both private pupils and having public teaching appointments.
 * From about 1600 Valerio, still at Sapienza, began to teach mathematics which he continued to do for the rest of his life.

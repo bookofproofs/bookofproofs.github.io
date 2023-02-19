@@ -37,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hachette edited this publication until he was forced out of the School in 1816.
 * Another educational establishment, the École Normale, was set up to train secondary school teachers and from 1810 Hachette taught there and at the Faculty of Sciences in Paris in addition to the École Polytechnique.
 * However, in 1816 the Government reorganised the École Polytechnique and Hachette found himself excluded from the school.
-* The usual reason for such decisions would be political and so it must be that Hachette was out of favour.
 * Hachette worked on descriptive geometry, collected work by Monge and edited Monge's Géométrie descriptive Ⓣ(Descriptive Geometry) which was published in 1799.
 * The final area which interested Hachette was physics.
 

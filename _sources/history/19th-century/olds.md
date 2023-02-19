@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Edwin Glenn Olds** was an American mathematician and statistician. He was mainly interested in probability and was regarded as an outstanding teacher.
 
 ### Mathematical Profile (Excerpt):
-* Edwin Nelson and Effie Ruth were married on 14 April 1897 and Edwin, the subject of this biography, was their first child.
-* In fact Edwin was ten years old before another child was born, namely Ada Ruth born in Mapleton, Niagara County.
-* The family was not completed until 1915 when Doris, a second sister for Edwin, was born.
 * Olds studied for a B.A. at Cornell University in Ithaca, New York.
 * Olds undertook graduate studies at the University of Pittsburgh and was awarded a Master's degree.
 * Today the Carnegie Institute of Technology is part of Carnegie Mellon University but this was only created with the merger of the Carnegie Institute and the Mellon Institute a few years after Olds' death.

@@ -24,13 +24,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Joseph Bortkiewicz came from the Russian nobility.
-* Ladislaus certainly was influenced by his father's academic interests.
-* Bortkiewicz studied law at St Petersburg, graduating in 1890 and then went on to study political economy and statistics for a year of postgraduate work.
-* Bortkiewicz became an ordinary professor of statistics and political economy at the University of Berlin in 1920 and he spent the rest of his life there.
 * An unfortunate argument with an Italian statistician Gini, who accused Bortkiewicz of plagiarism, led to an unhappy episode near the end of Bortkiewicz's life.
-* Bortkiewicz worked on mathematical statistics and applications to actuarial science and political economy.
 * Bortkiewicz was interested in the law of small numbers and he used the divergence coefficient Q, deducing its expectation and standard deviation.
-* We also mentioned that Bortkiewicz worked on political economy.
 * Other areas to which Bortkiewicz applied his statistical methods include radioactivity (1913), order statistics, and applications to legal studies.
 * Bortkiewicz was critical of the approach of Karl Pearson to statistics.
 * This, claimed Bortkiewicz, was worthless.

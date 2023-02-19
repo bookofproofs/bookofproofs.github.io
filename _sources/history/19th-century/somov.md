@@ -30,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Other topics Somov studied included elliptic functions and their application to mechanics.
 * The first in Russia to deal with the solution of kinematic problems, Somov included a chapter on this topic in his textbook on theoretical mechanics.
 * Somov's theory of higher-order accelerations of a point, and of an unchanging system of points, was a significant contribution.
-* Somov had a son Pavel Osipovich Somov who was born in 1852 and who went on to become a famous mathematician.
 * Pavel Somov created the Russian school of the theory of mechanics of machines.
 
 Born 1 June 1815, Otrada, Moscow gubernia (now oblast), Russia. Died 26 April 1876, St Petersburg, Russia.

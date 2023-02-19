@@ -34,8 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In particular they point out that America produced a total of only 28 Ph.D.'s in mathematics in 1925 (one of whom was Cox), while this was the erea of the Ku Klux Klan with 31 African-Americans being murdered by lynching in 1926.
 * After receiving his doctorate Cox was appointed as professor of physics at West Virginia State College.
 * Cox was only the second faculty member to hold a doctorate and he set about trying to raise the level of the College which did not even possess a science library.
-* On 14 September 1927 Cox married Beulah P Kaufman, the daughter of a former slave, who was an elementary school teacher.
-* They had three children, James, Eugene, and Elbert.
 * In the year after his marriage, Cox was appointed associate professor of mathematics at Howard University in Washington, D.C. The University was open to students of any race, colour, or creed, but it had been founded in 1867 (named after General Oliver Otis Howard who persuaded Congress to provide funding) to provide advanced studies for black students.
 * Cox had little opportunity to continue with his research.
 * However Cox was an outstanding teacher of mathematics.

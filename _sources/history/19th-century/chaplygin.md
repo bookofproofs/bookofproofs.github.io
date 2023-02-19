@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Sergei  Chaplygin** was a Russian physicist and mathematician who did important work in hydrodynamics and aerodynamics.
 
 ### Mathematical Profile (Excerpt):
-* His mother was keen for Sergei Alekseevich to have an education so, when he was eight years old, she hired a tutor to bring his education up to the standard required for taking the entrance examinations to the preparatory classes.
-* As we have indicated, the family were poor so they would have had great difficulty paying Sergei Alekseevich's school fees.
 * Sergei Alekseevich has a great future.
 * In the autumn of that year, at age seventeen, Chaplygin packed a small suitcase and, with 200 rubles in his pocket, set off from Voronezh to Moscow to begin his university studies of mathematics.
 * At the University of Moscow Chaplygin studied in the Physics and Mathematics Faculty and, for the first two years, he concentrated exclusively on mathematics courses.
@@ -34,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After the award of his Master's Degree (equivalent to a Ph.D.), Chaplygin worked on two classic problems of theoretical mechanics.
 * Three decades later, however, Chaplygin's dissertation served as a starting point for many studies by aerodynamics specialists and provided the basis for the solution of problems of subsonic flows.
 * In fact Chaplygin wrote his remarkable dissertation while he was on vacation at a resort in the Crimea.
-* The political situation in Russia led to problems in Moscow University that had major consequences for Chaplygin.
 * Nevertheless it continued to operate as an excellent university, providing Chaplygin with a very good education.
 * Chaplygin was one of the professors who resigned in 1911 along with a number of his colleagues in mathematics such as Boleslav Kornelievich Mlodzeevskii (1858-1923), who was very active in the Moscow Mathematical Society.
 * Zhukovsky was the president of the Moscow Mathematical Society at this time which gave Chaplygin more reason to maintain a high level of involvement.

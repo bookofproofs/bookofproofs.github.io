@@ -35,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * When Professor George Hill, principal of St Mary's College in St Andrews (the divinity College of the University), died it was Haldane who succeeded him as principal of St Mary's College and professor of theology on 21 September 1820.
 * Haldane followed the custom and was appointed to the parish church.
 * Haldane did not publish a single item on mathematics.
-* Haldane never married.
 
 Born 27 January 1772, Overton, Lecropt, Perthshire, Scotland. Died 9 March 1854, St Andrews, Scotland.
 

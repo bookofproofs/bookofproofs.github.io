@@ -29,8 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Ovide was always active and spent a large portion of his career organizing and teaching.
 * At closing session in the 2003 Alcala meeting, Dr Rafa Bravo, the chair of the Second Mathematical Ecology meeting referred to Ovide as the brain of the conference and expressed his admiration for Ovide's ability to work literally 24 hours a day.
 * Even the greatest brain is physiologically limited in the amount of work it can perform and Ovide left us a few weeks after the Alcala meeting.
-* Ovide was much more than a great scientist: he was very much a family man, extremely generous, always ready to lend a helping hand and a great conversationalist.
-* Ovide is survived by his wife Elizabeth, three sons Julien, Emilien and Lucien, one daughter Lisa and one grandson Samuel.
 * Following Arino's death, several tributes to him have been made.
 * In May 2004, the SFBT awarded the Prix Ovide Arino during its first international conference.
 * In June 2004, the Université Abou Bekr Belkaid, Tlemcen, Algeria, awarded the Prix Ovide Arino 2004 to Tarik Touaoula.

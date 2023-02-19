@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Robert Gibson had taught himself Latin to be able to carry out research for a book he wrote on the history of Greenlaw.
 * George attended the Free Church School in Greenlaw until he was sixteen years old when he matriculated at the University of Glasgow.
-* In fact Gibson married while still an undergraduate.
 * Because of his health problems, Gibson only took an ordinary degree rather than an honours degree.
 * Gibson remained an Assistant until 1891 when a new Ordinance came into force which meant that from November of that year he became a Lecturer in Mathematics.
 * In 1895 Gibson was appointed as professor of mathematics at the Glasgow and West of Scotland Technical College (now Strathclyde University).

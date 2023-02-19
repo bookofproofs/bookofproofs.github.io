@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Stanisław Gołąb** was a Polish mathematician who worked in particular on the field of affine geometry.
 
 ### Mathematical Profile (Excerpt):
-* Stanisław had begun his primary education in Travnik but, after his family moved, he completed his primary education in Kraków.
 * Hoborski was quick to spot the mathematical talents in his young pupil, and he guided him through his secondary school career, giving  Gołąb a deep love of geometry.
 * Entering the Jagiellonian University in Kraków in 1920,  Gołąb studied mathematics in the Faculty of Mathematics and Physics.
 * However, although only two years into an undergraduate degree, in 1922  Gołąb was given a position as a teaching assistant in the Mining Academy in Kraków.

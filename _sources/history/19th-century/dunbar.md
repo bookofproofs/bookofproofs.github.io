@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Robert Dunbar** graduated from Edinburgh University. After service in World War I he lectured in Physics at Edinburgh. He later moved to University College Cardiff and became Professor of Physics there.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Elizabeth Dunbar (born in Old Cumnock, Ayrshire about 1855).
 * Robert  Dunbar had eight older siblings: Isabella (born about 1876), Elizabeth (born about 1877), John (born about 1879), Marguerite (born about 1881), Mary (born about 1883), James (born about 1885), Thomas (born about 1886) and William (born about 1887).
 * Robert Dunbar entered the Eastern School, Broughty Ferry when he was five years old, moving to the Western School, Broughty Ferry after a year.
 * Dunbar appears to have taken eight years from first matriculation to the award of his degree and this seems puzzling.

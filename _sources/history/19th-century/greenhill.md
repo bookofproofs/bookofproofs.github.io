@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **George Greenhill**  became Professor of Mathematics at the Royal Military Academy at Woolwich. His main work was on Elliptic Functions but he published widely on applications of mathematics to practical problems.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Louisa Greenhill (born in Oxford, Oxfordshire about 1811).
 * George Greenhill attended Christ's Hospital School, where he was awarded a Thompson Mathematical Gold Medal, and from there he went up to St John's College, Cambridge in 1866.
 * After a short time as Professor of Applied Mathematics at the Royal Indian Engineering College, Coopers Hill, Greenhill returned to Cambridge in 1873, becoming a fellow and lecturer at Emmanuel College.
 * under the martial regime of Chesney, who was at that time President, Greenhill's independent spirit was ill at ease.

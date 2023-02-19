@@ -29,9 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His advisor Tiberiu Popoviciu sadly died in 1975 so Lupas was advised by Dimitrie D Stancu for the final months of his work.
 * We noted above that Lupas was appointed to the University of Sibiu in 1976.
 * Lupas was a major figure in the affairs of the university through this difficult period.
-* Lupas was married to Luciana who was herself an eminent mathematician on the staff of the university.
 * Alexandru and Luciana Lupas, together with Heiner, were editors of the Proceedings of the conference Mathematical analysis and approximation theory which consisted of papers presented to the 5th  Romanian-German Seminar on Approximation Theory held in Sibiu from 12 to 15 June  2002.
-* His unexpected death, occurring only one year after the death of his wife Luciana Lupas, also a distinguished mathematician at the University "Lucian Blaga" in Sibiu, shocked not only his family, but also his friends, disciples, PhD students and students.
 
 Born 5 January 1942, Arad, Romania. Died 14 August 2007, Sibiu, Romania.
 

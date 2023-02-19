@@ -25,11 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * He remained there for the rest of his career.
 * He retired, becoming professor emeritus, and died at his summer home in Union, Maine in August 1946.
-* This home was on a farm in Maine which had belonged to his wife, inherited from her mother, Drucilla Cole.
-* Both Gustav and his son Stephen considered this farm their 'real home.' Gustav wrote books such as The problem of medical charity (1904) and Profit and wages: A study in the distribution of income (1916).
-* Stephen's mother was Alice Lena Cole who was a poet and writer of plays.
 * Before marrying she published poems such as The lawsuit published in The Youth's Companion (1892), The dead bee published in The Century (1899), The lost spell published in Atlantic Monthly (1900) and Escape published in Atlantic Monthly (1900).
-* Play in Four Acts (1914) under her married name Alice Cole Kleene.
 * He then went to Princeton University where his doctoral studies were supervised by Alonso Church.
 * It had been Oswald Veblen who had proposed that the development of logic required careful analysis by mathematicians.
 * Church, one of Veblen's students, had been appointed to Princeton in 1929 and was making remarkable advances in this area.
@@ -41,8 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * By carrying out the construction on the basis of a certain subset of Church's formal axioms, we show that this portion at least of the theory of positive integers can be deduced from logic without the use of the notions of negation, class, and description.
 * After the award of his doctorate Kleene taught at Princeton until he joined the University of Wisconsin at Madison as an Instructor in 1935.
 * He was promoted to Assistant Professor at Wisconsin in 1937 before leaving in 1941 (unhappy at his failure to be promoted) to become Assistant Professor back at Amherst College where he had studied for his first degree.
-* In 1942 he married Nancy Elliot; they had four children, Paul, Kenneth, Bruce, and Pamela.
-* Nancy Elliot  was the daughter of George Roy Elliott, professor of English at Amherst College and a literary critic who specialized in Shakespeare.
 * Also in 1942 Kleene left Amherst College to undertake war service with the US Navy as a navigation instructor at the Naval Reserve Midshipmen's School in New York.
 * Later he was a project director at the Naval Research Laboratory in Washington DC.
 * He returned to the University of Wisconsin at Madison in 1946 as an associate professor being promoted to full professor two years later.
@@ -50,7 +44,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He served two terms as the Chair of the Department of Mathematics and one term as the Chair of the Department of Numerical Analysis (later renamed the Department of Computer Science).
 * He also served as Dean of the College of Letters and Science in 1969-74.
 * During his years at the University of Wisconsin he was thesis advisor to 13 Ph.D. students.
-* In 1970 Kleene's wife Nancy died.
 * Kleene's research was on the theory of algorithms and recursive function theory, an area which he created and retained an interest in throughout his life.
 * He developed the field of recursion theory with Church, Gödel, Turing and others.
 * He contributed to mathematical Intuitionism which had been founded by Brouwer.

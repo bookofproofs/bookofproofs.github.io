@@ -35,18 +35,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After completing his doctorate, in 1973 Mañé was appointed as an assistant professor at the IMPA in Rio de Janeiro.
 * In collaboration with Paulo Sad and Denis Sullivan, Mañé wrote the paper On the dynamics of rational maps published in 1983.
 * Mañé attended the 1982 International Congress of Mathematicians held in Warsaw in August 1983.
-* It must be said that some of the topics covered by Mañé (the ergodic theory of Anosov diffeomorphisms for example) are technical and difficult.
 * In 1984 Mañé made a research visit to Paris, France, to work with Jean-Christophe Yoccoz, a leading expert on dynamical systems.
 * Yoccoz was a close friend of Jacob Palis and had been very excited when told about the Mané-Sad-Sullivan theorem, which had led to Mañé's visit to Paris.
 * Mañé was a John Simon Guggenheim Fellow, awarded in 1985.
 * Mañé's colleagues believed that his outstanding contributions deserved a Fields Medal in 1986 when only three Fields Medals were awarded.
 * It could have been Ricardo Mañé, but, producing mathematics on the fringes of the Atlantic Forest, on the fringes of the great research centres and at a time when information circulation was so less than today, it would be surprising if anyone remembered him.
-* Early in 1988 Jacob Palis's young daughter Laura was going to be baptised and Mañé asked if he could be her godfather.
 * It was attended by around 200 students and Mañé gave the course on Ergodic Theory with Marcelo Viana helping him by running the exercise classes.
 * Mañé attended the Congress and delivered the lecture Ergodic variational methods: new techniques and new problems.
 * Although Mañé worked in Brazil throughout his career, he was not eligible for a fellowship of the Brazilian Academy of Sciences since he was not a Brazilian citizen.
 * In fact Mañé died before the award ceremony for The World Academy of Sciences Prize and the prize was received by one of his colleagues.
-* We mentioned at the beginning of this biography that Mañé's cousin Juan Andrés Ramírez was involved in politics.
 * Juan Andrés Ramírez was one of four candidates in the election and Mañé travelled to Montevideo to vote for his cousin.
 * Mañé remained in Montevideo and gave a seminar at the Mathematics Centre in the middle of December.
 * There are two rather different accounts of Mañé's illness and we will give both.

@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Fejér**'s main work was in harmonic analysis working on Fourier series and their singularities. Fejér collaborated to produce important papers with Carathéodory on entire functions and with Riesz on conformal mappings.
 
 ### Mathematical Profile (Excerpt):
-* The reader will have noticed that Fejér's father had the name Weiss and, indeed, Lipót Fejér was given the name Leopold Weiss when he was born.
 * Weiss in German means "white" while the Hungarian for white is "feher" but he chose the name "Fejér" which is an archaic spelling for the Hungarian for "White".
-* Samu Weiss, Lipót's father, was a shopkeeper in Pécs.
-* Lipót's schooling was in Pécs but at first things did not go well and his father took him out of school for a while and acted as his teacher.
 * In that year Fejér entered the Polytechnic University of Budapest where he studied mathematics and physics until 1902, except for the year 1899-1900 which he spent at the University of Berlin.
 * In Berlin he attended courses by Georg Frobenius and Lazarus Fuchs but it was his discussions with Hermann Schwarz that led him look at the convergence of Fourier series and prove the highly significant "Fejér's theorem" published in Sur les fonctions bornées et intégrables Ⓣ(On bounded  and integrable functions).
 * Also, at that time the theory of functions of one real variable had produced a number of strange anomalies (like continuous, nowhere differentiable functions), and Fejér's theorem, by its simplicity, reassured mathematicians who were disturbed by these pathological results.

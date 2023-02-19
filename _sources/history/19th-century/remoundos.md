@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The originality and depth of the research carried out by Remoundos made an excellent impression on his professors.
 * It had been donated by the professors of the University of Paris, a sign of the great appreciation and love towards the young Greek mathematician Georgios Remoundos.
 * A few days later, on 6 February, Paul Appell, the Dean of Science, wrote an enthusiastic letter to the Prime Minister of Greece, Georgios Theotokis, giving high praise for Remoundos's work.
-* On 25 June 1906 Remoundos married Antigoni Karabetsos; they had four children, John, Dionysios, Athanasios and Maria.
 * Subsequently, Remoundos was also appointed by the Ministry of Education as a member of the committee of the revision of secondary education text books.
 * Let us look briefly at the mathematical areas on which Remoundos worked which largely focused on Mathematical Analysis and especially on its two fundamental branches, namely: Theory of Functions and Theory of Differential Equations.
 * After Remoundos was awarded his doctorate by the University of Paris in 1906, Émile Borel asked him to write a book entitled: Sur les fonctions algébroïdes Ⓣ(On algebraic functions), which would be part of the famous Collection de monographies sur la théorie des fonctions sous la direction de M Émile Borel Ⓣ(Collection of monographs on the theory of functions under the direction of Émile Borel).
@@ -50,7 +49,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His death was reported by the Rector of the University of Athens with the following telegram: "On the ship 'Frindon', Georgios Remoundos, professor of the University, died suddenly.
 * Finally let us look at Remoundos's interests other than those mentioned above, and say few word about his character.
 * Remoundos was a good and kind man.
-* Remoundos was summarised by those who knew him as a brilliant scientist, an excellent teacher, an outstanding family man, and a man of unlimited kindness.
 
 Born 3 March 1878, Athens, Greece. Died 27 April 1928, the Steamboat Frindon, Mediterranean Sea.
 

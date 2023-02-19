@@ -25,8 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Italy was unified three years before Luigi was born and he grew up in a country that was coming to terms with this important event.
 * At the time when Luigi was born, Naples, the city of his birth, was the largest in Italy but it was a city of poverty and disease.
-* Luigi's father was killed in the fighting round the major fortress at Gaeta so, from the age of four, he was brought up by his mother.
-* After the death of Luigi's father, his mother returned to her home town of Mortara, in Lombardy, where Luigi attended elementary school.
 * In 1880 Berzolari entered the University of Pavia and he lived in Ghislieri College, an ancient college founded by pope Pius V in 1567.
 * Berzolari entered the competition for the chair of analytic and projective geometry at the University of Rome in 1891.
 * Among the candidates who were eligible to enter the competition, in addition to Berzolari, there was Guido Castelnuovo, Alfonso Del Re, and Mario Pieri.

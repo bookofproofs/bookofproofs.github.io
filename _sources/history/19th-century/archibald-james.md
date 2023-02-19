@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James Archibald** graduated from Edinburgh University and eventually became headmaster of Dalry School Edinburgh.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Jane Porteous Archibald (born in Yarrow, Selkirkshire about 1833).
 * Mr James Archibald, MA, F.R.S.E., until recently headmaster of Dalry School, Edinburgh, has been made the recipient of gifts from the pupils and staff of the school, and from associates during his career as a teacher Mr Herbert, acting head master, made the presentation.
 * Mr Archibald had a serious breakdown in health during the winter, and this has necessitated his giving up active service.
 * For many years Mr Archibald was an active and enthusiastic member of the Mathematical Society.

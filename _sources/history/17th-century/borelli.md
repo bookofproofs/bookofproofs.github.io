@@ -24,15 +24,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * The first obvious question must be to ask about the name Borelli.
-* It is a somewhat complicated story, but the subject of this biography was baptised Giovanni Francesco Antonio Alonso.
 * The Spanish soldiers were stationed in the three forts of Naples, the Castel Sant'Elmo, the Castel dell'Ovo, and the Castel Nuovo where Miguel Alonso was when Giovanni was born.
-* His mother, Laura Porrello, was a local girl and Giovanni was the eldest of his parents' six children; five boys, Giovanni, Domenico Onofrio, Salvatore, Filippo, Diego and one girl, Caterina.
 * We will see below why, later in his life, Giovanni wanted to change his name.
-* He adopted Alfonso, as the Italian version of his father's name Alonso, and the surname Borelli which was a version of his mother's surname Porrello.
-* His brother Filippo (born 9 March 1614) also changed his name to Borelli.
-* Giovanni's other brothers and sister did not reach adulthood.
-* He remained there until his death in 1624 but Borelli's mother Laura continued to live at the Castel Sant'Elmo, probably undertaking some type of work for the troops there, until her death in 1640.
-* We do not have any details of Borelli's life after his father returned to Naples in 1617.
 * It is likely that Borelli was one of these students.
 * It is also likely, but not certain, that Borelli attended medical lectures at the University of Naples.
 * No record of his attendance exists, but being a student of Campanella and also attending the university would explain Borelli's educational standards when he went to Rome in around 1628 - he was about 20 years of age.
@@ -40,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It must have been around this time that Borelli arrived in Rome and was introduced by Campanella to Benedetto Antonio Castelli who had come to Rome after being professor of mathematics at Pisa.
 * Borelli also got to know another of Castelli's students, Evangelista Torricelli, who at this time was acting as a secretary to Castelli.
 * Both Torricelli and Castelli were supporters of Galileo so 1632-33 must have been a difficult time for Borelli seeing the Inquisition banning Galileo's works and putting him on trial.
-* He fled to Paris in 1634 accompanied by Filippo Borelli, the brother of the subject of this biography.
 * Giovanni Alfonso Borelli remained in Rome gaining a reputation as an exceptionally good mathematician.
 * Borelli was appointed as a lecturer in mathematics at the University of Messina in Sicily after being recommended by Castelli.
 * Borelli was appointed before 1637, the year in which he climbed Mount Etna, but his name only appears in the university records from 1639 when he was promoted to the chair of mathematics.
@@ -67,7 +59,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This was an attempt by Borelli to present the material in Euclid's Elements in a clearer manner.
 * Another project came Borelli's way soon after he arrived in Pisa.
 * Borelli could not read Arabic, but his work with the Maurolico restoration allowed him, from the figures in the text, to realise that the manuscript contained an Arabic translation of books 5, 6 and 7 of the Apollonius's Conics which up to that time had been lost.
-* In the summer of 1658 the Medici brothers Ferdinando and Leopold encouraged Borelli to go to Rome to discuss the manuscript with the linguist Abraham Ecchellensis (1605-1664).
 * Abraham Ecchellensis assisted with the Latin and J A Borelli dealt with the geometry) (Florence, 1661).
 * A comet appeared towards the end of 1664 and Borelli made continuous observations of it.
 * Motivated by his interest in the comet, Borelli established an observatory in the fortress of San Miniato in the summer of 1665.
@@ -78,12 +69,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In this text Borelli says that it will surprise some that he has published an astronomy text when it is well known that for years he has been working on anatomy, particularly studying the motion of animals.
 * Influenced by Malpighi, Borelli began making biomechanical experiments.
 * The Accademia del Cimento, although never formally closed down, ceased to operate when Borelli left Pisa.
-* Borelli had always opposed Spanish rule of Sicily and, back in Messina, he became involved in politics.
 * In 1672 the Spanish rulers decided to move against those they knew to be working against them and they sought to arrest Borelli.
 * Never one to do nothing, Borelli still made use of his mathematical talents by teaching mathematics at the Scuole Pie di San Pantaleo.
 * Borelli dedicated to work to her, but he died of pneumonia before the work was through the press.
 * This allowed Borelli to calculate the movements of the fibres on the basis of Euclidean proportion theory.
-* Euclid's second book on geometrical algebra was particularly relevant for Borelli in this study, since, for example, he could articulate geometrically his argument about how tendons and fibres contract according to their shapes.
 * In 1984 the American Society of Biomechanics named its the most prestigious honour the 'Giovanni Borelli Award'.
 
 Born 28 January 1608, Naples, Kingdom of Naples (now Italy). Died 31 December 1679, Rome, Papal States (now Italy).

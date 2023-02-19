@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **David Johnstone** graduated from Edinburgh University and taught at Spier's School Beith and George Heriot's School Edinburgh before moving to the Provincial Training College in Edinburgh.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Helen Johnstone (born Perth, Perthshire about 1848).
-* David Johnstone had an older brother James  who, like his father, became a printer compositor.
 * David Johnstone entered St Leonard's Public School, Edinburgh, in 1883.
 * Johnstone gave his home address as 27 St Leonard Street when he first matriculated.
 * At George Heriot's, Johnstone sat the Leaving Certificate examinations and passed at Higher level English, Mathematics, French, and Latin (some in June 1894, some in June 1895).

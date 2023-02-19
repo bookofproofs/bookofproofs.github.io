@@ -23,15 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Banach** founded modern functional analysis and made major contributions to the theory of topological vector spaces. In addition, he contributed to measure theory, integration, and orthogonal series.
 
 ### Mathematical Profile (Excerpt):
-* The first thing to notice is that Banach was not his father's surname, but Banach was given his father's first name.
-* Stefan Greczek was a tax official who was not married to Banach's mother who vanished from the scene after Stefan was baptised, when he was only four days old, and nothing more is known of her.
-* The name given as Stefan's mother on his birth certificate is Katarzyna Banach.
-* She is thought by some to have been the servant of Stefan's mother, while others claim that she was a laundress who took care of Stefan when he was very young.
-* In later life Banach tried to find out who his mother was but his father refused to say anything except that he had been sworn to secrecy over her identity.
 * Stefan Greczek was born in a small village called Ostrowsko, some 50 km south of Kraków.
-* It was to Ostrowsko, to his grandmother's home, that Banach was taken after his baptism.
-* However, when Banach's grandmother took ill, Stefan Greczek arranged for his son to be brought up by Franciszka Plowa who lived in Kraków with her daughter Maria.
-* Although Banach never went back to live with his grandmother, he did visit her frequently as he grew up.
 * Maria's guardian was a French intellectual Juliusz Mien and he quickly recognised the talents that Banach had.
 * Banach attended primary school in Kraków, leaving the school in 1902 to begin his secondary education at the Henryk Sienkiewicz Gymnasium No 4 in Kraków.
 * By a fortunate coincidence, one of the students in Banach's class was Witold Wilkosz who himself went on to become a professor of mathematics.
@@ -40,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Also, while Banach was faster in mathematical problems, Wilkosz was phenomenally fast in solving problems in physics, which were of no interest to Banach.
 * On leaving school Banach and Wilkosz both wanted to study mathematics, but both felt that nothing new could be discovered in mathematics so each chose to work in a subject other than mathematics.
 * Banach chose to study engineering, Wilkosz chose oriental languages.
-* Banach's father had never given his son much support, but now once he left school he quite openly told Banach that he was now on his own.
 * Banach left Kraków and went to Lemberg (now Lviv in Ukraine) where he enrolled in the Faculty of Engineering at Lemberg Technical University.
 * It is almost certain that Banach, without any financial support, had to support himself by tutoring.
 * Lemberg was, at the time Banach studied there, under Austrian control as it had been from the partition of Poland in 1772.
@@ -53,7 +44,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The war delayed publication but the paper, Banach's first, appeared in the Bulletin of the Kraków Academy in 1918.
 * From the time that he produced these first results with Steinhaus, Banach started to produce important mathematics papers at a rapid rate.
 * Of course it is impossible to say whether, without the chance meeting with Steinhaus, Banach would have followed the route of research in mathematics.
-* It was also through Steinhaus that Banach met his future wife Lucja Braus.
 * Banach lectured to the Society twice during 1919 and continued to produce top quality research papers.
 * Banach was offered an assistantship to Lomnicki at Lwów Technical University (in what is now Lviv in Ukraine) in 1920.
 * This was, of course, not the standard route to a doctorate, for Banach had no university mathematics qualifications.
@@ -69,7 +59,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The way that Banach worked was unconventional.
 * The next day Banach was likely to appear with several small sheets of paper containing outlines of proofs he had completed.
 * Banach had been on good terms with the Soviet mathematicians before the war started, visiting Moscow several times, and he was treated well by the new Soviet administration.
-* Banach's father came to Lwów fleeing from the German armies advancing towards Kraków.
 * Life at this stage was little changed for Banach who continued his research, his textbook writing, lecturing and sessions in the cafés.
 * Sobolev and Aleksandrov visited Banach in Lwów in 1940, while Banach attended conferences in the Soviet Union.
 * The Nazi occupation of Lwów in June 1941 meant that Banach lived under very difficult conditions.

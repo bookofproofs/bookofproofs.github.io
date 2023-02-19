@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Thomas Digges** was an English mathematician who wrote on platonic and archimedian solids. He became the leader of the English supporters of Copernicus.
 
 ### Mathematical Profile (Excerpt):
-* Thomas received his early education from his father but, when he was fourteen years old, his father died and at that time Thomas decided that he wanted to continue his father's work.
-* John Dee essentially seems to have stepped in to act as a father to the young Thomas who received advanced mathematical instruction from Dee.
 * Digges wrote on platonic solids and archimedian solids and his contributions appear in Pantometria Ⓣ(Universal measurement) which he finished in 1571.
-* This work included contributions by Digges's father Leonard who had been working on it at the time of his death.
 * The completed work contains Digges' description of how lenses could be combined to make a telescope.
 * Although Digges and Dee were working together at this time making accurate astronomical observations there is no evidence that they actually constructed a telescope with which to observe celestial objects.
 * We know that Digges, among other instruments used a cross-staff to determine the positions of stars, planets and comets but when a new star appeared in 1572 he used a six foot ruler which he suspended from a tree which he used to determine whether the new star moved in relation to the other stars close to in in the sky.

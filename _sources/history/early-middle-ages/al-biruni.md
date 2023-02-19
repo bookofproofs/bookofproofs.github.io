@@ -30,9 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The comparatively quiet life that al-Biruni led up to this point was to come to a sudden end.
 * The end of the 10th  century and beginning of the 11th  century was a period of great unrest in the Islamic world and there were civil wars in the region in which al-Biruni was living.
 * Another kingdom which was rapidly rising in influence was the Ghaznavids whose capital was at Ghazna in Afghanistan, a kingdom which was to play a major role in al-Biruni's life.
-* The Banu Iraq were the rulers of the Khwarazm region and Abu Nasr Mansur, al-Biruni's teacher, was a prince of that family.
 * Al-Biruni fled at the outbreak of the civil war but it is less clear what happened to his teacher Abu Nasr Mansur at this stage.
-* Exactly where al-Biruni went when he fled from Khwarazm is unclear.
 * Al-Khujandi discussed these observations, and his large sextant, with al-Biruni who later reported on them in his Tahdid where he claimed that the aperture of the sextant settled by about one span in the course of al-Khujandi's observations due to the weight of the instrument.
 * Al-Biruni is almost certainly correct in pinpointing the cause of al-Khujandi's errors.
 * Since al-Khujandi died in 1000, we can be fairly certain that al-Biruni spent part of the time between 995 and 997 at Rayy.
@@ -59,7 +57,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Al-Biruni studied Indian literature in the original, translating several Sanskrit texts into Arabic.
 * Al-Biruni was amazingly well read, having knowledge of Sanskrit literature on topics such as astrology, astronomy, chronology, geography, grammar, mathematics, medicine, philosophy, religion, and weights and measures.
 * Clearly al-Biruni was unsure who would succeed for he chose not to give a dedication in his India which appeared at this time.
-* Better to have no dedication than to choose the wrong one! Mas'ud proved to be a ruler who treated al-Biruni more kindly than his father had done.
 * If al-Biruni had been a virtual prisoner before, he now seems to have become free to travel as he pleased.
 * By this time al-Biruni was an old man but he continued his enormous output of scientific works right up to the time of his death.
 * The total number of works produced by al-Biruni during his lifetime is impressive.

@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * This was an unfortunate time for a non-Aryan such as Fritz John to be completing his doctoral studies.
 * John published his first paper in 1934; it dealt with Morse theory.
-* After receiving the doctoral degree in 1934 from Göttingen, John was assisted by Richard Courant to go with his wife to Cambridge, England.
 * However, the Council did not have the necessary funds to support the academics who were arriving in Britain and it only became possible to give John support because St John's College, Cambridge offered help.
 * This enabled John to spend a year in St John's College as a research scholar.
 * The University of Kentucky at Lexington offered John an appointment as assistant professor in 1935 and he emigrated to the United States becoming naturalised in 1941.

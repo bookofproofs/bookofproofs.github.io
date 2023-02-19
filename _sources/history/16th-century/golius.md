@@ -26,9 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His parents were Dirck Pietersz Gool and Anna Hemelaers.
 * Dirck Gool had been a resident of the city of Leiden and had lived through the siege of that city by the Spanish from May until October 1574.
 * Dirck Gool held various important administrative positions in the Court of Holland in The Hague and was first clerk in the State Council.
-* Constantin Huygens was, in fact, born in the same year as Jacob, the subject of this biography.
-* Little is known of Jacob's mother, Anna, but it is recorded that Jacob was named after the pastor Jacob Starck who was a great uncle of his mother.
-* Jacob had a brother Petrus Gool.
 
 Born 1596, The Hague, Netherlands. Died 28 September 1667, Leiden, Holland.
 

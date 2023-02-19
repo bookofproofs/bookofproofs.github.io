@@ -27,8 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Bruno gave up his teaching post at the Collegio Nazionale in 1861, having accepted a post at the Technical Institute the previous year.
 * One of Bruno's students, Corrado Segre, became his assistant in the mid 1880s.
 * All Bruno's publications deal with research into geometry.
-* Bruno had few friends and almost never left the circle of his family.
-* Bruno was a man of duty, playing for his family, servants, and students the role of benevolent despot.
 
 Born 21 June 1828, Mondovi (now Italy). Died 4 February 1893, Turin, Italy.
 

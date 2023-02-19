@@ -23,19 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Rowan Hamilton** was an Irish astronomer and mathematician who discovered the quaternions.
 
 ### Mathematical Profile (Excerpt):
-* Archibald Hamilton had not had a university education and it is thought that Hamilton's genius came from his mother, Sarah Hutton.
 * By the age of five, William had already learned Latin, Greek, and Hebrew.
-* He was taught these subjects by his uncle, the Rev James Hamilton, who William lived with in Trim for many years.
 * William soon mastered additional languages but a turning point came in his life at the age of 12 when he met the American Zerah Colburn.
 * Colburn could perform amazing mental arithmetical feats and Hamilton joined in competitions of arithmetical ability with him.
 * It appears that losing to Colburn sparked Hamilton's interest in mathematics.
 * Hamilton's introduction to mathematics came at the age of 13 when he studied Clairaut's Algebra, a task made somewhat easier as Hamilton was fluent in French by this time.
 * Hamilton entered Trinity College, Dublin at the age of 18 and in his first year he obtained an 'optime' in Classics, a distinction only awarded once in 20 years.
-* In August 1824, Uncle James took Hamilton to Summerhill to meet the Disney family.
-* It was at this point that William first met their daughter Catherine and immediately fell hopelessly in love with her.
 * Unfortunately, as he had three years left at Trinity College, Hamilton was not in a position to propose marriage.
 * However Hamilton was making remarkable progress for an undergraduate and submitted his first paper to the Royal Irish Academy before the end of 1824, which was entitled On Caustics.
-* The following February, Catherine's mother informed William that her daughter was to marry a clergyman, who was fifteen years her senior.
 * He was affluent and could offer more to Catherine than Hamilton.
 * In his next set of exams William was given a 'bene' instead of the usual 'valde bene' due to the fact that he was so distraught at losing Catherine.
 * In 1826 Hamilton received an 'optime' in both science and Classics, which was unheard of, while in his final year as an undergraduate he presented a memoir Theory of Systems of Rays to the Royal Irish Academy.
@@ -45,17 +40,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This appointment brought a great deal of controversy as Hamilton did not have much experience in observing.
 * His predecessor, Professor Brinkley, who had become a bishop, did not think that it had been the correct decision for Hamilton to accept the post and implied that it would have been prudent for him to have waited for a fellowship.
 * It turned out that Hamilton had made an poor choice as he lost interest in astronomy and spend all time on mathematics.
-* Before beginning his duties in this prestigious position, Hamilton toured England and Scotland (from where the Hamilton family originated).
-* One of Hamilton's sisters Eliza wrote poetry too and when Wordsworth came to Dunsink to visit, it was her poems that he liked rather than Hamilton's.
 * Hamilton liked to compare the two, suggesting that mathematical language was as artistic as poetry.
 * Hamilton took on a pupil by the name of Adare.
 * They were a bad influence on each other as Adare's eyesight started to present problems as he was doing too much observing, while at the same time Hamilton became ill due to overwork.
 * It was on this occasion that Hamilton met Lady Campbell, who was to become one of his favourite confidants.
 * William also took the opportunity to visit Catherine, as she was living relatively nearby, which she then reciprocated by coming to the observatory.
 * Hamilton was so nervous in her presence that he broke the eyepiece of the telescope whilst trying to give her a demonstration.
-* In July 1830 Hamilton and his sister Eliza visited Wordsworth and it was around this time that he started to think seriously about getting married.
 * Hamilton thought this was her way of discouraging him tactfully and so he ceased to pursue her.
-* However he was proved to be mistaken as she married the following year and did leave Curragh! Fortunately, one good thing transpired from the event as Hamilton became firm friends with Ellen's brother Aubrey although a dispute about religion in 1851 made them go their separate ways.
 * Catherine aside, Hamilton seemed quite fickle when it came to relationships with women.
 * William told Aubrey that she was "not at all brilliant" and, unfortunately, the marriage was fated from the start.
 * They spent their honeymoon at Bayly Farm and Hamilton worked on his third supplement to his Theory of Systems of Rays for the duration.
@@ -70,9 +61,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Helen then left Dunsink for nine months leaving Hamilton to fight the loneliness by throwing himself into his work even more.
 * In 1835 Hamilton published Algebra as the Science of Pure Time which were inspired by his study of Kant and presented to a meeting of the British Association for the Advancement of Science.
 * Hamilton was knighted in 1835 and that year his second son, Archibald Henry, was born but the next few years did not bring him much happiness.
-* At this point, William became depressed and started to have problems with alcohol so his sister came back to live at Dunsink.
-* Helen returned in 1842 when Hamilton was so preoccupied with the triplets that even his children were aware of it.
-* On 16 October 1843 (a Monday) Hamilton was walking in along the Royal Canal with his wife to preside at a Council meeting of the Royal Irish Academy.
 * Hamilton felt this discovery would revolutionise mathematical physics and he spent the rest of his life working on quaternions.
 * Shortly after Hamilton's discovery of the quaternions his personal life started to prey on his mind again.
 * In 1845, Thomas Disney visited Hamilton at the observatory and brought Catherine with him.
@@ -82,12 +70,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hamilton persisted in his correspondence to Catherine, which he sent through her relatives.
 * It is no surprise that Hamilton gave in to alcohol immediately after this, but he threw himself into his work and began writing his Lectures on Quaternions.
 * Perhaps Hamilton's lack of skill as a teacher showed up in this work.
-* Hamilton helped Catherine's son James to prepare for his Fellowship examinations which were on quaternions.
 * Hamilton went straight to Catherine and gave her a copy of Lectures on Quaternions.
-* As a way of dealing with his grief, Hamilton plagued the Disney family with incessant correspondence, sometimes writing two letters a day.
 * Determined to produce a work of lasting quality, Hamilton began to write another book Elements of Quaternions which he estimated would be 400 pages long and take 2 years to write.
 * The title suggests that Hamilton modelled his work on Euclid's Elements and indeed this was the case.
-* In fact the final chapter was incomplete when he died and the book was finally published with a preface by his son William Edwin Hamilton.
 * Not everyone found Hamilton's quaternions the answer to everything they had been looking for.
 * Hamilton died from a severe attack of gout shortly after receiving the news that he had been elected the first foreign member of the National Academy of Sciences of the USA.
 

@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Jackson received the award and entered Peterhouse in 1886 when only just sixteen years old.
-* We have noted above that Jackson wanted to read classics at Cambridge, but his father thought that mathematics would lead to his son gaining better paid employment so Jackson began to study the Mathematical tripos.
 * Considerably younger than his fellow students, Jackson did well to graduate as a Wrangler when he was awarded an A.B. in 1889.
 * Being a Wrangler meant that his performance had been first class but Jackson was ranked lowest in the list of Wranglers and so had no real opportunity to continue his study of mathematics at Cambridge.
 * Jackson now decided that he would enter the Church and he was ordained, becoming a Curate of Bemerton, Salisbury in 1896.

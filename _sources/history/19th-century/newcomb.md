@@ -23,12 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Simon Newcomb** was a Canadian-born mathematician whose work on mathematical astronomy was very important. He also wrote on economics.
 
 ### Mathematical Profile (Excerpt):
-* His father, John Burton Newcomb, was a school master in Canada.
-* John moved around teaching in different parts of the country, particularly in different villages in Nova Scotia and Prince Edward Island, and Simon received no formal education other than from his father.
 * When he was sixteen years old Simon took a job with a herbalist, called Dr Foshay, in New Brunswick.
 * They entered an agreement that Newcomb would serve a five year apprenticeship during which time Foshay would train him in using herbs to treat illnesses.
 * Indeed he did literally walk out, for Newcomb walked about 120 miles to the port of Calais in Maine where he met the captain of a ship who agreed to take him to Salem in Massachusetts if he was prepared to work as a sailor on board ship.
-* In about 1854 he joined his father in Salem (John Newcomb had moved earlier to the United States), and the two journeyed together to Maryland.
 * After arriving in Maryland, Newcomb taught for two years from 1854 to 1856; for the first year in a country school in Massey's Cross Roads, Kent County, then for a year at a school not far south in Sudlersville.
 * Newcomb had arrived in the United States at a very difficult time with tensions rising between the southern and northern states.
 * In 1861 Newcomb was appointed as professor of mathematics and astronomer at the Naval Observatory at Washington to fill a vacancy created by one of these resignations.

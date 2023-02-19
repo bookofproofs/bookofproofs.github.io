@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Bruns studied in Berlin from 1866 to 1871, obtaining a doctorate under Weierstrass and Kummer in 1871 for his thesis De proprietate quadam functionis potentialis corporum homogeneorum Ⓣ(The property of a potential function of a homogeneous body).
-* When Bruns worked there the director was Otto Vasiliyevich Struve, son of the first director.
-* At the Pulkovo Observatory Bruns met another calculator, Marie Wilhelmine Schleussner who was two years younger than Bruns, and the two married.
 * In 1873 Bruns left Pulkovo to take up the position of observer at the Dorpat Observatory (now Tartu, Estonia).
 * Peter Carl Ludwig Schwarz had taken over from Thomas Clausen when he retired as director in the year before Bruns arrived at the Observatory.
 * After three years at Dorpat, Bruns was appointed as Professor of Mathematics at the University of Berlin where he remained until 1882.

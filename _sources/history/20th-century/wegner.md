@@ -29,23 +29,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Wegner also spent a period as an assistant at the University of Bonn, and finally at the University of Göttingen.
 * During the years 1929-31 at Göttingen, Wegner was Richard Courant's assistant.
 * What was known in 1931 led to some turmoil, but Wegner's appointment was not prevented.
-* Up to this point we have not mentioned Wegner's political views but we must do so now since they play an important role in the events which took place over the next few years.
 * Wegner had been a supporter of this party before this and so for him this promised to help him in his career.
 * Wegner joined the SA (the Sturmabteilung which functioned as the original paramilitary wing of the Nazi Party) in 1933, but there is no evidence he took an active part in SA activities.
 * Wegner was a strong candidate but in the end it was decided that, despite his strong support of the National Socialists, his mathematical ability was not suitable for a chair at Göttingen.
 * The chair was then offered to Wegner who accepted it on 19 November 1936.
 * In a normal appointment process, as was customary prior to National Socialism, Wegner would certainly not have been appointed at Heidelberg.
-* It is true that the Baden Ministry of Culture was particularly keen on appointing Wegner, certainly because of his political views.
 * Herbert Seifert who was also a mathematics professor at Heidelberg, stated in 1947 that Wegner would have had little chance of being appointed to Heidelberg in a properly conducted appointment process.
-* Wilhelm Süss, in a letter written in November 1944, stated that "The scientific achievements of Udo Wegner are highly controversial." These statements seem a harsh judgement on Wegner's mathematical achievements and are no doubt coloured to some extent by his political views.
 * However, they must also be seen in the light of the comments made by Wilhelm Süss about Wegner's character.
 * Süss claimed that Wegner was a pathological liar who was mistrusted and shunned by his colleagues.
-* Wegner declared that a decree existed according to which inadequate academic performance could be compensated for by political service.
 * The dispute between Wegner and Seifert over Helmut Joachim Fischer's habilitation thesis was the first of several arguments between the two.
 * The next confrontation came in 1938 when Wegner invited Ludwig Bieberbach to lecture in Heidelberg.
 * The invitation to Bieberbach to give this lecture was typed above the signatures of Wegner and Seifert.
 * However, in January 1940 Seifert made a visit to Braunschweig and, while he was absent, Wegner approved Ringleb's habilitation.
-* Wegner claimed that his approval was given using a law that stated that a lack of scientific achievements could be offset by political merits.
 * Wegner tried hard to improve the situation arguing that Heidelberg, the oldest German university, should not fall behind universities like Frankfurt and Tübingen.
 * Wegner tried to create an aeronautical research institute at Heidelberg in 1943 but despite drawing up ambitious plans nothing came of the idea.
 * Wegner himself was working on applications of function theoretical methods to fluid dynamics, looking at applications of conformal mappings to aeronautical research.

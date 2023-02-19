@@ -40,11 +40,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In June 1802 Gauss visited Olbers who had discovered Pallas in March of that year and Gauss investigated its orbit.
 * Olbers requested that Gauss be made director of the proposed new observatory in Göttingen, but no action was taken.
 * Gauss began corresponding with Bessel, whom he did not meet until 1825, and with Sophie Germain.
-* Gauss married Johanna Ostoff on 9 October, 1805.
 * In 1807 Gauss left Brunswick to take up the position of director of the Göttingen observatory.
 * Gauss arrived in Göttingen in late 1807.
-* In 1808 his father died, and a year later Gauss's wife Johanna died after giving birth to their second son, who was to die soon after her.
-* Gauss was married for a second time the next year, to Minna the best friend of Johanna, and although they had three children, this marriage seemed to be one of convenience for Gauss.
 * Gauss's work never seemed to suffer from his personal tragedy.
 * Gauss's contributions to theoretical astronomy stopped after 1817, although he went on making observations until the age of 70.
 * Much of Gauss's time was spent on a new observatory, completed in 1816, but he still found the time to work on other subjects.
@@ -53,14 +50,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Gauss was pleased to accept and took personal charge of the survey, making measurements during the day and reducing them at night, using his extraordinary mental capacity for calculations.
 * Because of the survey, Gauss invented the heliotrope which worked by reflecting the Sun's rays using a design of mirrors and a small telescope.
 * Gauss often wondered if he would have been better advised to have pursued some other occupation but he published over 70 papers between 1820 and 1830.
+* In 1822 Gauss won the Copenhagen University Prize with Theoria attractionis Ⓣ(Theory of attraction)...
 * From the early 1800s Gauss had an interest in the question of the possible existence of a non-Euclidean geometry.
 * Gauss confided in Schumacher, telling him that he believed his reputation would suffer if he admitted in public that he believed in the existence of such a geometry.
-* In 1831 Farkas Bolyai sent to Gauss his son János Bolyai's work on the subject.
 * Gauss had a major interest in differential geometry, and published many papers on the subject.
 * In fact, this paper rose from his geodesic interests, but it contained such geometrical ideas as Gaussian curvature.
 * The period 1817-1832 was a particularly distressing time for Gauss.
 * Gauss, however, never liked change and decided to stay in Göttingen.
-* In 1831 Gauss's second wife died after a long illness.
 * Gauss had known Weber since 1828 and supported his appointment.
 * Gauss had worked on physics before 1831, publishing Über ein neues allgemeines Grundgesetz der Mechanik Ⓣ(On a new general fundamental law of mechanics), which contained the principle of least constraint, and Principia generalia theoriae figurae fluidorum in statu aequilibrii  Ⓣ(General principles of the theory of the shape of fluids in a state of equilibrium) which discussed forces of attraction.
 * These papers were based on Gauss's potential theory, which proved of great importance in his work on physics.
@@ -72,7 +68,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Gauss and Weber achieved much in their six years together.
 * However, this was just an enjoyable pastime for Gauss.
 * The Magnetischer Verein Ⓣ(Magnetic Society) and its journal were founded, and the atlas of geomagnetism was published, while Gauss and Weber's own journal in which their results were published ran from 1836 to 1841.
-* In 1837, Weber was forced to leave Göttingen when he became involved in a political dispute and, from this time, Gauss's activity gradually decreased.
 * Gauss spent the years from 1845 to 1851 updating the Göttingen University widow's fund.
 * Two of Gauss's last doctoral students were Moritz Cantor and Dedekind.
 * Gauss presented his golden jubilee lecture in 1849, fifty years after his diploma had been granted by Helmstedt University.

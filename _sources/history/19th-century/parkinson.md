@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Stephen Parkinson** became famous when he was Senior Wrangler, pushing William Thomson into second place. He had a highly successful career at a lecturer and tutor at St John's College Cambridge.
 
 ### Mathematical Profile (Excerpt):
-* (We note that several sources give Stephen's mother's name incorrectly as Mary.) He was baptised on 7 September 1823.
-* Stephen Parkinson Sr died in December 1832 when his son was nine years old and Stephen was brought up by his mother Malley and older sisters, Elizabeth, Sarah and Mary.
 * Parkinson sat the examinations for a Sizarship at St John's College, Cambridge in 1841.
 * There was another quite outstanding student who had matriculated at the same time as Parkinson at Peterhouse, namely William Thomson.
 * As the Tripos examinations approached in 1845, Parkinson saw William Thomson as his greatest rival but it is unlikely that Thomson considered Parkinson any threat to his being Senior Wrangler.
@@ -46,9 +44,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * A large number of pupils have just presented to Dr Parkinson a handsome and costly gift as a token of goodwill and kindly remembrance.
 * Dr Parkinson and Mr Scott have been appointed members of the Watch Committee.
 * Professor J F B Mayor prefaced his remarks by reading a letter from Dr Parkinson who, while regretting that through ill health he had been unable to be present that day, showed his great interest in the new church by making a contribution of £500 towards the building fund.
+* Mrs Parkinson the communion table ...
 * Some points of Dr Parkinson's character will be best brought out by reference to some of the letters written after his death by those who knew him well.
 * One states the case of a pupil who, in consequence of pecuniary losses, would have been unable to finish his University course if Dr Parkinson had not supplied his need, and enabled him to stay in College till he had taken his degree.
-* The veil of domestic sorrow is too sacred to be lifted; but no memoir of Parkinson could omit all mention of the unselfish and loving nature which made him the most devoted of husbands and brothers, and as true as steel to all whom he called his friends.
 
 Born 1 August 1823, Keighley, Yorkshire, England. Died 2 January 1889, Newnham, Cambridge, England.
 

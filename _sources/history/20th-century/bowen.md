@@ -24,9 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * His parents were William Emery Bowen, known as Emery, and Marie Jane DeWinter.
-* Emery Bowen was the son of Wilfred Farmer Bowen and Ethel Blanche Jane Emery who had both emigrated to the United States from Abergavenny in Wales and worked as cooks on the railways.
 * She became a schoolteacher and met Emery Bowen while skiing.
-* The Bowen's second son Robert, the subject of this biography, was born one month later in Vallejo, California.
 * Robert attended elementary and high schools in Fairfield.
 * At the graduation ceremony he was awarded the University Medal as the most distinguished graduating student, the Dorothea Klumpke Roberts Prize awarded to the top ranked mathematics student, and he received the Mathematics Department Citation.
 * Let us look first at some of early papers by Bowen which were on graph theory.
@@ -38,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Bowen extended Gibbs's work on invariant measures associated with dynamical systems.
 * In 1975 Bowen published the book Equilibrium states and the ergodic theory of Anosov diffeomorphisms in the Springer Lecture Notes in Mathematics Series.
 * Another short 45-page book by Bowen appeared in 1978, the year of his death.
-* Bowen died of a cerebral haemorrhage at the age of 31 while on a summer vacation with his wife to northern California.
 * Bowen worked in mathematical dynamics systems theory.
 
 Born 23 February 1947, Vallejo, California, USA. Died 30 July 1978, Santa Rosa, California, USA.

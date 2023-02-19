@@ -36,14 +36,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1832 Quetelet was assigned the task of drawing up mortality tables for the new Belgium State and he asked Verhulst to assist him in this.
 * On Quetelet's recommendation, in 1834 Verhulst was appointed as a Répétiteur at the Academy to teach calculus.
 * On 28 September 1835 Verhulst was appointed professor of mathematics at the Université Libre of Brussels.
-* Verhulst married in 1840 to Miss De Biefve, whose brother Édouard De Biefve (1808-1882) was well-known as a painter; they had one daughter.
 * Verhulst had to resign from his position at the Université Libre of Brussels since it had been decreed that those teaching at the Military Academy could not teach in any other educational establishments.
 * However, one project by Verhulst which Quetelet praised highly was his work on elliptic functions.
 * This came about since Verhulst bought an edition of the complete works of Legendre in a public sale.
 * Verhulst then wrote Traité élémentaire des fonctions elliptiques Ⓣ(Elementary treatise on elliptic functions) (1841) which was a critical résumé of these important contributions to the theory of elliptic functions.
 * Quetelet praised the work highly and it must have been a contributory factor in Verhulst's election to the Belgium Academy of Science later in 1841.
 * Quetelet does not seem to have appreciated Verhulst's most important contribution, however, namely his work on the logistic equation and logistic function.
-* Verhulst's research on the law of population growth is important and his first important contribution was Notice sur la loi que la population suit dans son accroissement Ⓣ(Remarks on the law that  population follows in its growth) (1838).
 * The assumed belief before Quetelet and Verhulst worked on population growth was that an increasing population followed a geometric progression.
 * In the paper Verhulst argued against the model for population growth that Quetelet had proposed and instead proposed a model with a differential equation now known as the logistic equation.
 * Another possible root of the term logistic could have been the French word "logis" (place to live) which was of course related to the limited resources for subsistence of a population, Verhulst was dealing with in his model.

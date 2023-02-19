@@ -25,17 +25,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * As a hobby, Xiong Guodong was interested in calligraphy and painting.
 * We have given Xiong Qinglai's date of birth according to the Georgian calendar as 20 October 1893 but it was 11 Ninth Month 1893, the year of the snake, in the Chinese lunar calendar.
-* In 1907, Xiong Qinglai came to Kunming with his father, and was admitted to Yunnan Higher School for preparatory studies.
 * Xiong Qinglai was given a demerit by the school for participating in the anti-fascist and anti-Qing demonstrations to "take back the mining rights".
 * The life people led and the struggle they had, made Xiong Qinglai realise that: To make the country prosperous and strong, it is necessary to master science, and science can strengthen the country and enrich the people.
 * Jiang Juyuan was also sixteen years old; in fact she was born on 18 October 1893, two days before Xiong Qinglai.
-* The most famous of their children was Xiong Bingming (1922-2002), also known as Hsiung Ping-Ming.
 * Xiong Qinglai immediately applied for the examinations.
 * Xiong Qinglai decided to seek safety in France and he journeyed there going first to the Netherlands, then to the United Kingdom before finally reaching France.
 * After graduating from the Lycée St Louis in 1915, Xiong Qinglai began his undergraduate studies later that year at the University of Grenoble.
 * In the spring of 1921, Xiong Qing returned to Kunming in China where he taught at the Kunming Yunnan Industrial School and the Yunnan Road School.
 * Kuo Ping-Wen invited Xiong Qinglai to become a professor of mathematics at the National Southeastern University, and to establish a Department of Mathematics there.
-* Xiong Qinglai went with his wife and son to Nanjing in September 1921 and began teaching at the National Southeast University and also at Nanjing Higher Normal School.
 * Once, Xiong Qinglai even sold the leather robe he was wearing to send money to Liu Guang.
 * In the autumn of 1925, Xiong Qinglai taught at Northwestern University for one semester, and after that he returned to Southeast University in the spring semester of the following year.
 * The president of Tsinghua College, Cao Yunxiang, on the advice of the Dean of Science Ye Qisun, invited Xiong Qinglai to join the mathematics department which, at that time, was headed by Zheng Tongsun.

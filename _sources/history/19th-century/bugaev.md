@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Nicolai Vasilievich Bugaev** was a Russian mathematician, born in Georgia, who worked mainly on analysis and number theory.
 
 ### Mathematical Profile (Excerpt):
-* When Bugaev was ten years old his father sent him to Moscow to be educated.
 * It was not an easy life for the young Bugaev for he had to earn extra money giving tuition in order to make have enough money to live on.
 * In 1855 Bugaev entered the Faculty of Physics and Mathematics at Moscow University.
 * At this point Bugaev was not concentrating on mathematics, although his courses had included a very strong background in mathematics.

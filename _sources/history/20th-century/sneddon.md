@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ian Sneddon** was the Simson Professor of Mathematics at the University of Glasgow and worked on partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-* There Ian, their only child, was born but shortly afterwards the family moved to Partick on the outskirts of Glasgow.
 * Ian was brought up in a loving, caring, but poor, home.
 * Ian attended Thornwood Primary School from where, at the age of 10, he was successful in competing for a place at the newly opened Hyndland Secondary School in Glasgow.
 * This school provided Ian with an outstanding education in the full range of subjects and at age 15 he became Dux of the school.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Julian Coolidge** was an American mathematician best known for his texts on geometry and on the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Julian's mother was Julia Gardner.
 * Coolidge was educated at Harvard from where he received his B.A. degree summa cum laude in 1895.
 * After studying at Oxford, Coolidge returned to the United States where he taught at Groton school in Connecticut from 1897 to 1899.
 * Another interesting note is that one of the pupils that Coolidge taught at this school was Franklin D Roosevelt and the two remained friends for life.
@@ -33,6 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1927 Coolidge was appointed as chairman of the Mathematics Department at Harvard.
 * Coolidge wrote many good texts on geometry including The Elements of Non-Euclidean Geometry (1909), A Treatise on the Circle and the Sphere (1916), The Geometry of the Complex Domain (1924) and A Treatise on Algebraic Plane Curves (1931).
 * The first four books listed above on geometry follow the style of Eduard Study and Corrado Segre but contain many original ideas due to Coolidge himself.
+* one of the subject's first treatments in English and one of Coolidge's best known works ...
 * Coolidge served both the Mathematical Association of America and the American Mathematical Society as vice-president, the first in 1924 and the second in 1918.
 
 Born 28 September 1873, Brookline, Boston, Massachusetts, USA. Died 5 March 1954, Cambridge, Massachusetts, USA.

@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Lawrence Certaine, born in Hansometown, Duval, Florida, USA, worked as a carrier for the US Government, then later as a postman for the US Mail.
-* He married Sadie Hall, born in Maryland, USA, and they had nine children, five boys and four girls, with Jeremiah, the subject of this biography, being their sixth child.
 * Jeremiah was brought up and attended school in Philadelphia.
 * Certaine was awarded a B.A. by Temple University in 1940 and was accepted to continue studying mathematics at Temple University for a Master's Degree which he was awarded in 1941.
 * Name: Jeremiah Certaine; Race: Black; Age: 21; Birth Date: 6 June 1920; Birth Place: Philadelphia, Pennsylvania, USA; Residence Place: Philadelphia, Philadelphia, Pennsylvania, USA; Registration Date: 1 July 1941; Registration Place: Philadelphia, Philadelphia, Pennsylvania, USA; Height: 5 ft 11 ins; Weight: 150 lbs; Complexion: Light Brown; Hair Colour: Black; Eye Colour: Brown; Next of Kin: Sadie Certaine.

@@ -33,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Curtis T McMullen made a major advance, however, when he showed that it is possible to decide in part on the basis of the Mandelbrot set which associated dynamic system is "hyperbolic" and can therefore be described in more detail.
 * McMullen's results were suspected already in the sixties, but nobody had previously been able to prove this exact characterization of the Julia set.
 * In addition to the Salem Prize in 1991 and the Fields Medal he was awarded in 1998, McMullen had received a large number of other distinctions for his outstanding contributions.
-* Despite his stunning contributions to the latest mathematical research, McMullen has given excellent lectures to school children as for example the Arnold Ross Lecture he gave in 2002 on From Triangles to Infinity.
 * As the title of the talk suggests, there were many different areas of mathematics touched on by McMullen, including: Fermat's Last Theorem, Zeno's Paradoxes, hyperbolic and spherical geometry, the harmonic series, and tiling.
 * Near the end of his talk, McMullen showed a path that a human could take to elude the lion and used results about infinite series to demonstrate the path's effectiveness.
 * Many students sought out McMullen after his talk to ask questions, and some even asked for his autograph.

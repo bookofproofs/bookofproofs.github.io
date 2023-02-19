@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hubert Stanley Wall** was an American mathematician who worked in the field of continued fractions.
 
 ### Mathematical Profile (Excerpt):
-* Samuel and Gratia were married on 26 February 1902 and had three sons, Hubert (the subject of this biography), Louis (1905-1905) who died when three weeks old, and Harold (1906-1989).
 * Hubert began his education in his home town of Rockwell City, attending the High School there.
 * At Cornell College, Wall studied a wide range of subjects, including languages, physics, chemistry and mathematics.
 * Elmer Earl Moots (1882-1970) taught Engineering and Mathematics at Cornell College and he inspired Wall to study mathematics at university.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Egbert van Kampen** was a Belgian mathematician who made important contributions to topology and algebra.
 
 ### Mathematical Profile (Excerpt):
-* Egbert's father was employed as an accountant, working at the Minnerva car factory in Antwerp.
 * After the war ended they moved again, this time to The Hague where Egbert attended Eerste Christelijke school.
 * Following his graduation from school, van Kampen entered the University of Leiden.
 * In 1927 he travelled to Göttingen where he met van der Waerden who was undertaking research there for his habilitation.
@@ -42,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Wintner had worked at Johns Hopkins since 1930, the year before van Kampen arrived, and his interests were in almost-periodic functions and differential equations.
 * Van Kampen had become involved with the study of almost-periodic functions when he had visited Princeton, and von Neumann had explained to him how Pontryagin's duality results could be extended using almost-periodic functions.
 * Van Kampen published a paper on almost-periodic functions in the Journal of the London Mathematical Society in 1937, having published his first joint paper with Wintner On the canonical transformations of Hamiltonian systems in the American Journal of Mathematics in the previous year.
-* By the late 1930s van Kampen was complaining of headaches in letters which he wrote to his family back in Belgium.
 * In April 1941 van Kampen entered hospital and doctors operated to remove the malignant growth.
 * At first the operation was thought to have been successful and van Kampen resumed teaching in the autumn of 1941.
 * With his health rapidly deteriorating, van Kampen entered hospital again in December 1941 and another operation was carried out in January 1942.

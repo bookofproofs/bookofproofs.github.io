@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Joachim Jungius** was a German mathematician who was one of the first to use exponents to represent powers and who used mathematics as a model for the natural sciences.
 
 ### Mathematical Profile (Excerpt):
-* His father, Nicolaus Junge, was a teacher at the Gymnasium St Katharinen in Lübeck and his mother was Brigitte Holdmann, the daughter of Joachim Holdmann who was a minister in the Lutheran Cathedral in Lübeck.
-* However, Nicolaus Junge was murdered when Joachim was only two years old and, in 1589, Brigitte married Martin Nordmann who was a teacher at the Gymnasium St Katharinen in Lübeck.
-* Joachim was brought up by his mother and step-father.
 * On leaving Rostock, Jungius matriculated at the University of Giessen in May 1608 and he was awarded an M.A. on 22 December 1608.
 * In 1612, along with his Gissen colleague Christoph Helvig, Jungius went to Frankfurt for the coronation of Matthias, King of Hungary and King of Bohemia, as the Holy Roman Emperor.
 * Jungius was very interested in Ratke's ideas and together they discussed starting schools in Augsburg and Erfurt which would teach according to Ratke's system.
@@ -38,6 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * While at the Academic Gymnasium in Hamburg, where he taught until 1640, Jungius delivered "physics" lectures which were published by Christopher Meinel in the 1980s.
 * The Logica Hamburgensis Ⓣ(Hamburg logic) (1638) of Jungius, composed for the use of pupils at the Akademisches Gymnasium, presented late medieval theories and techniques of logic.
 * While Leibniz administered a princely library, Jungius assembled an extensive private book and manuscript collection over a long and intellectually ecumenical career.
+* At different times in his career, Jungius's scholarly "centre of gravity" ...
 * In mathematics Jungius proved that the catenary is not a parabola (Galileo assumed it was).
 * As well as mathematics, Jungius was interested in natural science.
 * From it we learn that Jungius was confident of predicting and explaining natural phenomena by adopting the natural laws that he distinguished.

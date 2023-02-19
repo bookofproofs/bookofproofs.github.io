@@ -37,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Professor Perthame elaborated the Fundamental Principle of Dynamics described by the Newton equations.
 * Professor Perthame shared his latest research result on Partial Differential Equations (PDEs).
 * Perthame has received many prizes and awards for his contributions to mathematical biology including the Blaise Pascal Medal in Mathematics from the European Academy of Sciences (2013), and the French Académie des Sciences Grand Prix Inria (2015).
-* Perthame is married to Catherine Cintract, daughter of Henri and Michel Cintract.
 
 Born 23 June 1959, Marcq-en-Baroeul, Hauts-de-France, France.
 

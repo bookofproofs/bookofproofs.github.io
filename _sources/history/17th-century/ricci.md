@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Michelangelo Ricci** was an Italian churchman who made some early applications of induction.
 
 ### Mathematical Profile (Excerpt):
-* His father, Prosper Ricci, came from Como while his mother, Veronica Cavalieri, came from Bergamo.
 * Michelangelo quickly profited by these educational opportunities, quickly mastering Latin and Greek.
-* Throughout his life, Ricci suffered from epileptic fits, a condition which began when he was a child.
 * Ricci became a friend of Evangelista Torricelli who came to Rome in 1627; in fact both were taught by the Benedictine monk Benedetti Castelli (his name was Antonio Castelli but he took on the name Benedetti when he entered the Benedictine Order).
 * When Castelli was away from Rome, Torricelli took over his teaching and, in this way, he also taught Ricci.
 * In addition to mathematics, Ricci studied theology and law in Rome, principally because he needed a career which would provide him with a steady income.
@@ -48,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Beginning in 1666, the Academy published Saggi di naturali esperienze fatte nell'Academia del Cimento sotto la protezione del Serenissimo Principe Leopoldo di Toscan e descrittedal segretario di essa Accademia Ⓣ(Essays on experiments in the Academy of Cimento, under the protection of the Most Serene Prince Leopold of Tuscany and described by the secretary to the Academy) and Ricci acted as an editor for this important journal.
 * In 1668, Ricci, in collaboration with Giovanni Giusto Ciampini (1633-1698) and Francesco Nazari (1634-1714), founded the wide-ranging journal Giornale de letterati.
 * Ricci was a major figure in the production of the journal until 1675 when he handed over control to his younger colleagues.
-* Other regular correspondents of Ricci included Leopoldo de' Medici, brother of the Grand Duke of Tuscany, who was a patron of the arts with interests in science, technology, rare books and paintings.
 * She had broad literary and scientific interests, and the group of scholars she eventually gathered round her in Rome included Ricci.
 * However, the Pope's wishes were paramount and Ricci was forced the accept the honour.
 * After his death, only a few months later, Ricci's funeral was held in the church of Santa Maria in Vallicella in Rome on 14 May 1682.

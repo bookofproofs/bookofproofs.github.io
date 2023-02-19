@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Willem de Sitter** was a Dutch mathematician, physicist, and astronomer who made major contributions in physical cosmology.
 
 ### Mathematical Profile (Excerpt):
-* Lamoraal Ulbo de Sitter was a judge and firmly in the de Sitter family tradition of becoming lawyers.
-* His son Willem was expected to follow the family tradition, but he took a different career path with his love of mathematics and science.
 * Willem attended secondary school in Arnhem, studying at the Arnhem Gymnasium.
 * After graduating from the school, he entered the University of Groningen with the intention of taking a mathematics degree.
 * In addition to his love for mathematics, his enjoyment of physics and carrying out physical experiments grew during his undergraduate years.
@@ -34,14 +32,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He received a Bachelor's Degree in 1897 and left for Cape Town in the summer of that year arriving in August.
 * It was at Gill's suggestion that de Sitter also worked towards his doctorate studying heliometer observations of Jupiter's moons which had been made by Gill in 1891.
 * After de Sitter returned to Groningen in 1899 he was appointed as an assistant in the Astronomical Laboratory and also continued to work towards his doctorate, advised by Kapteyn.
-* On 6 December 1898 de Sitter had married Eleonora Suermondt in Cape Town, South Africa.
 * Eleonora was born in Surabaya, the second largest city in the Dutch East Indies, and she had met de Sitter in the Cape where she was working as a school teacher.
-* Let us record a few details of the lives of two of these children at this point.
 * Lamoraal Ulbo de Sitter became well-known as a structural geologist and died in Nistelrode in 1980.
 * Aernout de Sitter served as director of the Bosscha Observatory in Lembang, Dutch East Indies.
 * After the Japanese invasion of the Dutch East Indies he was arrested and put into a detention camp where he died on 5 September 1944.
 * Hendricus Gerardus van de Sande Bakhuyzen had been Professor of Astronomy and Director of the University Observatory at the University of Leiden from his appointment in 1872.
-* De Sitter was appointed to the chair of astronomy while Ernest-Frederich van de Sande Bakhuyzen, H G van de Sande Bakhuyzen's brother, was appointed as Director of the Observatory.
 * On taking up the chair, de Sitter gave his inaugural lecture on The New Methods in Celestial Mechanics.
 * E F van de Sande Bakhuyzen died in 1918 and in the following year de Sitter was appointed Director of the Leiden Observatory in addition to his professorship.
 * He undertook a complete reorganisation of astronomy at Leiden dividing it into three divisions: Fundamental Astronomy of position or astrometry; Astrophysics; and Celestial Mechanics or theoretical astronomy.
@@ -69,6 +64,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Another study which de Sitter undertook was to refine the data for the fundamental constants of astronomy.
 * Simon Newcomb had published values for these constants in 1895 and in a rather remarkable international agreement in Paris in 1896, it had been decided that the ephemerides of every country in the world should use Newcomb's values for these constants.
 * In 1915 de Sitter published his first paper on improving the values, this one being concerned almost entirely with the figure and composition of the earth.
+* We have, of course, the set of constants officially adopted in the national ephemerides ...
 * His second paper on the fundamental constants was published in 1927 and dealt with the constants associated with precession, nutation, solar parallax, lunar parallax and the mass of the moon.
 * At the time of his death, de Sitter had almost completed a new updating of these constants.
 * Many honours were given to de Sitter for his outstanding contributions.
@@ -78,7 +74,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He was elected as President of the International Astronomical Union and served in this capacity from 1925 to 1928.
 * De Sitter suffered from chest complaints for several years but seemed to overcome them.
 * He is not a cold, dispassionate juggler of Greek letters, a balancer of equations, but rather an artist in whom wild flights of the imagination are restrained by the formalism of a symbolic language and the evidence of observation.
-* Only the musician can fully grasp what it must have meant to de Sitter to see the cosmos shaping itself in new ways in his formulas.
 * Here we have something of the direct personal experience of the outer world, of the significance of nature's wonders, that comes only to a Beethoven or a Milton.
 * The expanding universe of de Sitter must be regarded as something more than an inexorable conclusion drawn from the strictest kind of logic with which the human mind is familiar.
 

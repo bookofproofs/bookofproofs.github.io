@@ -26,9 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Although Dorothy was born in Argentina, Ada and Hugh were British and they returned to Surbiton, which is 19 km southwest of central London, where Dorothy was brought up.
 * Let us give some details of Dorothy's parents to understand how she came to be born in Argentina.
 * Hugh Wrinch was born in Woodbridge, Suffolk, attended Woodbridge Grammar School, then worked for the firm of Whitmore & Binyon who made steam engines and mills of all different types.
-* They were married in St Bartholomew's Anglican Church in Rosario on 11 November 1893 and their first child, Dorothy Wrinch, the subject of this biography, was born in the following year.
 * Rosario benefitted greatly from Hugh Wrinch's work in heading a project to provide running water to the houses of the town.
-* On 14 July 1899 Dorothy's sister, Muriel Louise Wrinch, was born.
 * Dorothy Wrinch began her education at Surbiton High School in January 1899.
 * Wrinch gained certificates in History, English, Mechanics, French, Latin, Mathematics (elementary) and Mathematics (advanced).
 * Many students took two years before taking these examinations and Wrinch might have been better to have followed that route.
@@ -40,15 +38,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1917 Wrinch also wrote the essay Transfinite types which was considered for Girton College's Gamble Prize.
 * Wrinch was awarded the Gamble Prize.
 * During this time, as well as undertaking research for her doctorate, Wrinch was working closely with Harold Jeffreys.
-* Harold grew close to the Wrinch family; his photographs are the only ones we have of them in those years.
 * In their views of probability they were influenced by William Ernest Johnson, whose lectures Wrinch had attended, and John Maynard Keynes.
 * Jeffreys continued to work on these topics and always acknowledged that it was built on his joint work with Wrinch.
 * Also while working for her doctorate, in 1921 Wrinch joined the British Committee on Mathematical Tables.
-* Some of the work she carried out for the Committee was done in collaboration with her father Hugh E H Wrinch.
 * After her marriage Wrinch moved to Oxford where she taught mathematics at different women's colleges.
 * A measure of her research activity during this period is that from 1918 to 1932 Wrinch published twenty papers on pure and applied mathematics, and sixteen papers on scientific methodology and the philosophy of science.
-* Sadly Wrinch's marriage became a difficult one as her husband turned increasingly towards alcohol.
-* By 1930 things reached such a state that Wrinch and her husband separated and she brought up their child Pamela.
 * This remarkable work led to Wrinch being awarded a Rockefeller Foundation fellowship to support her study of the application of mathematics to biological molecular structures.
 * Pauling and Wrinch engaged in an increasingly acrimonious debate through the pages of the Journal of the American Chemical Society.
 * Wrinch blamed Pauling for her difficulty in finding an academic position in the United States after immigrating there in 1939.
@@ -58,8 +52,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After emigrating to the United States, Wrinch focused on the application of mathematical principles to the interpretation of X-ray crystallographic data of complex crystal structures.
 * A meeting between von Neumann, Langmuir, Wrinch and A D Booth did indeed take place in Schenectady on Wednesday 16 April 1947.
 * In fact the end of Wrinch's life was much sadder than this quote tells us and we should relate the tragic circumstances.
-* Wrinch's daughter Pamela was awarded a B.A. and an M.A. by Michigan University, then a Ph.D. in international relations by Yale.
-* Dorothy Wrinch was devastated to lose her daughter and died around two months later.
 
 Born 12 September 1894, Rosario, Argentina. Died 11 February 1976, Falmouth, Massachusetts, USA.
 

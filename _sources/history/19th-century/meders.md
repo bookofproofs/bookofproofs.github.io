@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alfreds  Meders** was a Latvian mathematician who worked on differential geometry and mathematical analysis.
 
 ### Mathematical Profile (Excerpt):
-* Alfreds' family were of German origin and he was brought up with German as his first language.
 * In 1887 Russian was made the language of instruction, instead of German and Estonian, and in 1893 while Meders studied at the University of Dorpat, the Russians made an effort to convert the establishment to a Russian one.
 * He greatly influenced Meders who graduated from Tartu University's Faculty of Physics and Mathematics in 1895 (notice that Dorpat had changed its name to Tartu by this time).
 * Two years later Meders was appointed to Riga Polytechnic Institute where at first he was an assistant of K Kupfer, but later became a dozent.

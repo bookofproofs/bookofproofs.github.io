@@ -30,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At the monastery, Gerbert learnt literature, theology, history, and philosophy, but would not have studied any mathematics and only a very little logic.
 * The year 967 was one of great importance for Gerbert since in that year he gained the opportunity to learn mathematical skills which were almost totally lacking throughout Europe.
 * The abbot of the monastery, Gerauld, asked Count Borrell whether there were scholars of the arts in Spain and, when he replied that there were many men of learning, Gerauld persuaded Count Borrell to take one of his students back to Barcelona with him so that he might profit from the learning there.
-* The brothers at the monastery decided that Gerbert was the one who might benefit most so he accompanied Count Borrell to Barcelona.
 * There he lived in the cathedral school of Vich, close to Barcelona, for three years.
 * Bishop Atto was in charge of the cathedral school of Vich and he was officially Gerbert's teacher during these years but it was not from Atto that Gerbert learnt about the leading Islamic scholarship of the day.
 * We know about Gerbert's studies in Spain from a number of sources, the most important of which was written by Richer of Saint-Remi, a student of Gerbert's, who wrote Historia Francorum around  996.
@@ -41,13 +40,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * These tools portray an ingenious and original method of familiarizing students with the names and positions of the zodiacal constellations and with planetary astronomy and also of providing a basic knowledge of how to tackle problems of positional astronomy.
 * This was as good a position as any scholar could ever hope to have and one might have expected Gerbert to make full use of the opportunity.
 * The reason he wanted to go to Rheims was that Garamnus, perhaps Europe's leading logician, was there and he had offered to teach Gerbert logic in exchange for Gerbert teaching him music and mathematics.
-* The two had met in Rome in 972 where they were both attending the wedding of Otto I's son to a Greek princess.
-* Garamnus, who was an archdeacon, was at the wedding as a representative of the king of France.
 * Once Gerbert was settled in Rheims, he quickly impressed Archbishop Adalbero of Rheims who appointed him to take charge of the cathedral school in Rheims.
 * Gerbert designed the syllabus and quickly made this school into perhaps the leading European centre of learning of its time.
 * Some of Euclid's propositions occur further on; but the major portion of the work is concerned with finding the area of figures and fields, the heights of mountains, the widths of rivers, and such like questions, which are generally considered the province of mensuration or trigonometry today.
 * At Rheims Gerbert also taught his students how to use astronomical instruments and, with a breadth of learning which covered the full range of academic subjects, he taught his students the classic Latin authors Terence, Cicero, Virgil, Lucan, Persius, Juvenal and Statius.
 * Here it was that Gerbert's powers found their fullest play in inventions of all kinds for the simplification of the subject and the advancement of science.
+* So astonishing was his skill, that the simple folk of his day, in sheer bewilderment, accepted without question the belief that his knowledge was universal ...
 * It is to be noticed that Gerbert was the first to introduce into the schools instruments as an assistance to the study of arithmetic, astronomy, and geometry.
 * In arithmetic he first introduced the abacus, a tablet divided lengthwise into twenty-seven parts, on which the student moved about the nine numerical signs, which Gerbert caused to be cut out in horn to the number of one thousand.
 * A blank space was left to replace the figure 0, which was unknown to Gerbert.

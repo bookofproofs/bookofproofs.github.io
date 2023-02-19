@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Adriaan van Roomen** or **Adrianus Romanus** was a Flemish mathematician who calculated `$\pi$` to 16 decimal places using Archimedes' method.
 
 ### Mathematical Profile (Excerpt):
-* His father, who was also named Adriaan van Roomen, was a merchant in Antwerp before settling in Leuven and his mother was Maria van den Daele.
-* Adriaan and Maria van Roomen had three children, Jan, Maria and Adriaan (the subject of this biography).
 * After studying ancient languages in his hometown, van Roomen studied mathematics and philosophy at the Jesuit College in Cologne.
 * Van Roomen was professor of mathematics and medicine at Leuven from 1586 to 1592 and, for six months during 1592, he was rector of the University.
 * In Chapters 10 and 11 van Roomen would study the circle.
@@ -32,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After these years in Leuven, van Roomen went to Würzburg where again he was appointed professor of medicine giving his first lecture on 17 May 1593.
 * Van Roomen's appointment by Prince Bishop Julius Echter von Mespelbrunn was officially confirmed on the last day of August 1593.
 * It is likely that van Roomen was glad to have an opportunity to leave the Netherlands since there was much unrest and fighting over the Spanish held territory.
-* It was around the end of 1593 that van Roomen married Anna Steeg, the niece of Godefrid Steeg who was the doctor to Prince Bishop Julius Echter von Mespelbrunn.
 * Although he was employed as a professor of medicine, it was mathematics that was van Roomen's real love.
 * Van Roomen had proposed a problem which involved solving an equation of degree 45 in Ideae mathematicae (1593).
 * Van Roomen solved it using two hyperbolas, publishing the result in 1596.
@@ -51,8 +48,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He noted the days that van Roomen spent in Kraków in his travels between Würzburg and Zamosc.
 * Van Roomen arrived in Kraków on 24 August 1611 after spending about a year in Zamosc.
 * It is clear that by this time van Roomen was sufficiently concerned about his health that, in 1613, he travelled to Leuven where he made a will.
-* Some of his possessions were left to Prince Bishop Julius Echter while his property was left to his sister Maria van den Brouck.
-* Although van Roomen had no children with his wife Anna, nevertheless he had two sons Jacob and Koenraad with Catharina Trauthmann.
 * Van Roomen died in Mainz while on a journey from Leuven to Würzburg.
 * One of van Roomen's most impressive results was finding π to 16 decimal places.
 * Van Roomen's interest in π was almost certainly as a result of his friendship with Ludolph van Ceulen.

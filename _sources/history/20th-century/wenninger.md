@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Magnus Wenninger** was an American mathematician who constructed polyhedron models, and wrote books about them.
 
 ### Mathematical Profile (Excerpt):
-* Magnus (we will refer to him by that name although at the time he was called Joe) was the second of his parents' seven children.
 * Magnus attended St Anthony Elementary School in Park Falls from 1925 to 1933.
-* His parents expected the oldest of their boys to follow his father in becoming a baker, and Magnus as the second child to become a priest.
 * When Magnus was about thirteen years old his parents saw an advertisement for Saint John's Preparatory School, Collegeville, Minnesota, in a German newspaper Der Wanderer.
 * The school prepared boys for the Benedictine college, St John's University, so Magnus's parents thought this would be the right place for Magnus to receive his education.
 * After graduating in 1937, Wenninger entered Saint John's University, Collegeville.

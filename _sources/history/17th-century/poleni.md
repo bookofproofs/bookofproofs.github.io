@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Giovanni Poleni** was an Italian mathematician who worked on hydraulics, physics, astronomy and archaeology.
 
 ### Mathematical Profile (Excerpt):
-* Giovanni inherited his father's title.
 * As a young man Poleni showed brilliance in a wide variety of different subjects and it was clear that he was extraordinarily talented.
 * based on reports that Poleni had received of those of Pascal and Leibniz.
 * Poleni actually built this machine which was reportedly very simple and easy to operate; but when he heard of another machine presented to the Emperor by the Viennese mechanician Brauer, he destroyed his own and never rebuilt it.

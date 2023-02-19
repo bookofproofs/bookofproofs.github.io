@@ -39,11 +39,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lindemann had proposed saturation bombing of working class areas of German cities and Champernowne showed considerable moral courage to criticise this strategy, both on the grounds that it was not effective and that it was not moral.
 * Champernowne was moved to the Department of Statistics and Programming in the Ministry of Aircraft Production.
 * After the war ended in 1945, Champernowne returned to university positions but not at Cambridge, rather at the University of Oxford where he was appointed as a fellow of Nuffield College, Oxford.
-* David Champernowne married Mieke on 30 March 1948 in Oxford; they had two sons Richard and Arthur.
 * In the same year of 1948 Champernowne was appointed as professor of statistics at Oxford.
 * Champernowne's friendship with Alan Turing had continued and, after the war, the two began to investigate writing a computer program to play chess.
 * Both Champernowne and Turing were good chess players and Turochamp certainly could not have given them a good game.
-* However, Mieke could not play chess so Champernowne taught his wife the basic moves so that Turochamp might be tested against a total beginner.
 * Champernowne did not find the University of Oxford as good an environment as he had the University of Cambridge.
 * In addition his famous mathematics paper and to many articles on statistics and economics which he published in journals, Champernowne published three major books.
 

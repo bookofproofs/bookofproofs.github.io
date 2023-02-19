@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **J C Burkill** was an English mathematician who worked on analysis and introduced the Burkill integral. He is best-known for his analysis textbooks.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Bertha Bourne from a family of farmers and builders based in Woodchurch, Kent.
-* His father was Hugh Roberson Burkill, known as Rob, a schoolmaster who came from a farming family from Winteringham in Lincolnshire.
-* To avoid the problem of different names, we will refer to the subject of this biography as Burkill throughout.
 * Burkill began his secondary education at Richmond county school which he entered in 1911.
 * Three years later he entered St Paul's School, London, where he was an outstanding scholar of classical Greek and Latin as well as showing considerable talent for mathematics.
 * However he was soon commissioned but then demobbed after the war ended.
@@ -33,11 +30,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After taking his first degree in 1921 he remained at Cambridge as a research student being elected to a fellowship in the following year after submitting a dissertation on surface areas.
 * He then won a Smith's prize in 1923 for Functions of intervals and the problem of area.
 * In 1924 Burkill accepted the chair of pure mathematics at Liverpool and two years later Besicovitch joined him on the staff.
-* He married Margareta Braun on 1 August 1928 and, at her insistence, he was known to all as Charles from that time on.
-* Greta Braun (as she was called) had been born in Germany, having a German father and a Russian mother.
-* Greta and Charles had three children, a son and two daughters.
 * In 1929 Burkill returned to Cambridge taking up a a university lectureship and a lectureship at Peterhouse where he was also elected to a fellowship.
-* Several other children became for a time in effect members of the Burkill family while being helped to build new lives.
 * He remained at Cambridge while many others took up war service, but he now had to take on administrative duties to cover for his absent colleagues.
 * He also joined the university training corps and had reached the rank of major in the Royal Engineers section by the time the war ended.
 * He resumed his research in mathematics winning the Adams prize in 1948 for an essay on integrals and trigonometric series.
@@ -54,6 +47,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1961 Cambridge promoted Burkill to be Reader in Mathematical Analysis.
 * it was as keeper of the college and its traditions that Burkill saw his role.
 * Coming to office at a time of widespread student unrest, he took a far-sighted view of its eventual course, and devised effective machinery for consultation and dialogue with junior members without saddling the college with a statutory commitment to full participation in its government more easily incurred than shed.
+* His relationship with the fellows was also based on consultation, and in particular on cultivating a spirit of trust and co-operation between the master and the tutors ...
 * After retiring as Master, he served as editor of the Mathematical Proceedings of the Cambridge Philosophical Society.
 * However he continued his interest in integration theories and published a short paper Fourier-Stieltjes integrals in 1973.
 * It examines problems in Fourier analysis that led to the development of the theory of generalised functions.
@@ -65,7 +59,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * As a boy he had been given to practical joking, and though in later life his sense of humour was well under control it was never far from the surface.
 * Fellows of Peterhouse were familiar with (and were indeed known to imitate) the slight sideways vibration of the body which betokened amusement and often precluded a mildly ironical or deflationary quip.
 * Greta Burkill died in 1984 and Burkill did a large amount of work in putting her papers on her refugee work into order so that they could be deposited in the Cambridge University Library.
-* We mentioned above that the Burkills took over the responsibility of educating two refugee children who went on to become professional mathematicians.
 * One of these was Harry Burkill who was on the staff at Sheffield University.
 * After his health failed, Burkill lived in a Sheffield nursing home.
 * He died there of bronchopneumonia although he had suffered from Alzheimer's disease for some time.

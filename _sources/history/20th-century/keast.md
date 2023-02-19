@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * His parents were John Keast (born in Broxburn in 1913), a bus driver, and Rose Gorman (born in Broxburn in 1918).
-* At the Academy, Keast met Kathleen Duffin; they married in 1967.
 * In October 1960, Keast began his studies at the University of Edinburgh taking courses in mathematics, physics and chemistry.
 * It was Jim Fulton's honours course on numerical analysis which was particularly influential in inspiring Keast to become a numerical analyst.
 * At Edinburgh University, Keast was in a class which contained a number of students who went on to academic careers including Colin Campbell, whose career was at the University of St Andrews, and Alistair Watson, whose career was at Dundee University.
@@ -35,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Keast also worked with Edward Copson who was the Regius Professor of Mathematics at St Andrews.
 * In the following year, 1967, Keast published his second paper with Ron Mitchell, Finite difference solution of the third boundary problem in elliptic and parabolic equations.
 * In 1967 Keast was awarded a Ph.D. for his thesis on numerical analysis and he was promoted to lecturer.
-* We noted above that Keast married Kathleen Duffin in Bathgate, West Lothian, in 1967.
 * Colin Campbell, who had been in the same class as Keast as an undergraduate at Edinburgh, had spent 1964-65 studying for a Master's degree at McGill in Canada before being appointed to St Andrews in 1965.
 * He and Keast wrote the joint paper The stability of difference approximations to a selfadjoint parabolic equation, under derivative boundary conditions which was published in 1968.
 * Keast was a keen sportsman and an enthusiastic cyclist taking part in competitive events.

@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hermann Bondi** was an Austrian-born scientist who made contributions to a wide variety of areas in mathematics and physics and was associated with the "Steady-state" theory of the universe.
 
 ### Mathematical Profile (Excerpt):
-* Samuel had married Helene Hirsch (1892-1960) on 12 May 1914, and Hermann was the second of their two children, the eldest being Gabriele born in Vienna on 29 March 1915.
-* Bondi's problems during his years at the Realgymnasium were not academic, however, but related to the political situation in Austria at the time.
-* Bondi, in his mid teens, became very interested in theoretical physics and astronomy, as well as mathematics, and when Eddington visited Vienna, Bondi's mother engineered an opportunity for her son to meet him.
 * Encouraged by Eddington to study at Trinity College, Cambridge, this seemed such a superb opportunity for Bondi, who was unhappy with the ever increasing anti-Semitism to which he was subjected.
 * Very happy to be free from the problems back in Austria, Bondi began to become increasingly worried about the situation that his parents were in.
 * The moves made by Hitler in February 1938 to force Austria to comply with his wishes under threat of force made Bondi act.
@@ -38,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Bondi, among other things, led a research team with all its cumbersome equipment to the top of Snowdon (Hoyle's idea), to make systematic measurements of these effects.
 * During the time that Bondi, Hoyle and Gold worked together on this wartime project they were discussing theoretical astronomy, and their collaboration which began at that time lasted for many years.
 * Bondi became a research fellow at Trinity College in 1943 and was appointed as Assistant Lecturer in Mathematics at Cambridge University in 1945, then, in the following year, he became a British subject.
-* Hermann and Christine Bondi had five children: Alison Joy (Alice) (born 19 June 1949, Cambridge), Jonathan Richard (John) (born 1 November 1951, Cambridge), Elizabeth Anne (Liz) (born 24 June 1955, Reigate), David Keith (born 29 June 1957, Reigate), and Deborah Jane (Debbie) (born 20 October 1959, Reigate).
 * In 1948 Bondi was promoted to lecturer in mathematics at Cambridge, and in 1954 he became Professor of Mathematics at King's College, London.
 * Bondi is perhaps best known as a creator of the steady-state theory of the universe which goes further than the accepted theory that the universe looks essentially the same from every place, and proposes in addition that the universe essentially remains 'the same' for all time.
 * As a consequence of this, in order to explain how this might be possible in an expanding universe Bondi, Gold and Hoyle proposed that matter was continually created so that the average density remains constant despite the expansion.

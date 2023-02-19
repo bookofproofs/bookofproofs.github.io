@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Mark Kac** pioneered the modern development of mathematical probability, in particular its applications to statistical physics.
 
 ### Mathematical Profile (Excerpt):
-* Mark Kac's father was an academic with a degree in philosophy from the University of Leipzig and a degree from Moscow in history and philology.
-* One of the topics he tutored was geometry and Mark, although only five years old, became fascinated by what his father was teaching and he persuaded his father to teach him some geometry.
-* In 1921 the family returned to Poland and Mark was taught by a French governess.
 * Kac studied Latin and Greek at school as well as mathematics, physics and chemistry.
 * Kac entered the Jan Kasimir University of Lwów where he was taught by Steinhaus.
 * Kac then tried to go to the United States, helped by Steinhaus who was not only his teacher but also by this time his friend.

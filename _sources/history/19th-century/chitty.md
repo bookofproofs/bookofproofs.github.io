@@ -24,11 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Herbert Chitty, born 13 January 1863 in Marylebone, London to Joseph William Chitty and Clara Jessie Pollock, became a barrister at law.
-* Herbert and Mabel Chitty had three children: Christopher Chitty (1893-1953); Letitia Chitty (1897-1982), the subject of this biography; and Patience Penelope Chitty (1904-1988).
-* Several of the references give five children and name two other girls, Jessie Elizabeth Chitty and Helen Louisa Chitty.
-* We cannot find any evidence for these two being Letitia's sisters, and certainly at the time of the 1911 census there are only three children in the family.
-* In 1907 Herbert Chitty, Letitia's father, became bursar of Winchester College but he had broad interests being also an antiquary and genealogist.
-* Letitia, therefore, grew up in a well-off family; at the time of the 1911 census the family were living at 51 Campden House Road, Kensington, a house with ten rooms, and they had three servants, a nurse, a cook and a house parlour maid.
 * Letitia was privately tutored and attended Kensington High School between 1903 and 1916.
 * Having gained from a strong mathematical education at Kensington High School, Chitty was admitted to Newnham College, Cambridge, in 1916 to study mathematics.
 * Chitty worked at the Admiralty Air Department with Alfred John Sutton Pippard (1891-1969) on a mathematical investigation of stress analysis for the experimental planes being built.
@@ -43,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was the occasion on which Miss Chitty received the Telford Gold Medal.
 * In fact Chitty had retired from her lectureship at Imperial College in 1962.
 * From the description of Chitty's career we have given above, it might appear that she devoted her entire energies to mathematical theory and to experimentation in civil engineering.
-* She continued to attend the then annual University Teachers Christmas party for the children of staff on her own, long after her nieces and nephews had outgrown them: Letitia was still hugely entertained by the conjuring acts.
 * Chitty also achieved fame outside the academic world, being interviewed by Vogue Magazine in her later years.
 
 Born 15 July 1897, Kensington, London, England. Died 29 September 1982, Englefield Green, Surrey, England.

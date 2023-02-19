@@ -38,6 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The reason Albanese was sent to Brazil in 1936 was as part of the move to establish universities there.
 * Albanese spent the rest of his life in São Paulo, holding the chair of Analytical, Projective and Descriptive Geometry, except for the year 1942 when he returned to Pisa because of World War II.
 * Soon after the war ended, Albanese, who was by then back in São Paulo, became closely acquainted with André Weil, who taught there from 1945 to 1947.
+* the attribution of this concept to Albanese is dubious ....
 * geometry with Giacomo Albanese.
 
 Born 11 July 1890, Geraci Siculo (near Palermo), Italy. Died 8 June 1948, São Paulo, Brazil.

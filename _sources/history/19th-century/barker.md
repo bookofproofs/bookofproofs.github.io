@@ -23,11 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Thomas Barker **had an outstanding undergraduate career, being Senior Wrangler in the mathematical tripos at Cambridge and 1st Smith's Prizeman in 1862. He went on to play an important role in Owens College, Manchester where he was professor of pure mathematics for twenty years.
 
 ### Mathematical Profile (Excerpt):
-* Thomas Barker Sr, the son of George Barker and Margaret Youngson, had been born on 19 January 1772.
-* Margaret had been born on 21 January 1798 at Belhelvie, Aberdeenshire, Scotland and she married Thomas at Old Machar, Aberdeen on 24 July 1832.
-* Thomas and Margaret Barker had four children but Thomas, the subject of this biography, was the only one to survive infancy.
 * At the time of the 1841 census, Thomas Barker Sr (aged 68), Margaret Barker (aged 42) and Thomas Barker (aged 2) are the only Barkers recorded living at their home but William Knowles (aged 76) is also living with them.
-* Thomas' father died in 1849 when Thomas was eleven years old and at the time of the 1851 census he was living with his mother Margaret, Ann Knowles (aged 43) and Jane Knowles (aged 14) at their home.
 * Thomas attended Aberdeen Grammar School, one of the oldest grammar schools in the country founded in the 1250s.
 * Barker graduated from the Grammar School and continued his education at King's College, Aberdeen.
 * We should make it clear that at the time Barker entered King's College, it was a separate university from Marischal College.

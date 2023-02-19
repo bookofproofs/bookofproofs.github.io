@@ -47,7 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Once in Spain, Zygalski and Rejewski were arrested.
 * After a short time in prison, Zygalski and Rejewski were released and went first to Madrid then, at the end of July 1943, they fled to Portugal.
 * Once in England, Zygalski and Rejewski became part of the Polish Signals Battalion stationed at Boxmoor near London.
-* Although some returned, as for example Rejewski did, nevertheless the majority, including Zygalski, decided to remain in Britain.
 * Zygalski was appointed to teach at the Polish University College from the time it was set up.
 * Zygalski, however, was one of the eight.
 * Zygalski was at last was on the staff of a university but, sadly, his time as a university teacher was short for he suffered a stroke in 1968.

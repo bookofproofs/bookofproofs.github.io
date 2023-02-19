@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Veblen** made important contributions to projective and differential geometry, and topology.
 
 ### Mathematical Profile (Excerpt):
-* Andrew Veblen's father was a Norwegian cabinet maker but became a farmer after emigrating from Norway to the United States in 1847.
-* One of Andrew Veblen's brothers, Thorstein Bunde Veblen, was a well-known economist and social critic.
-* Andrew Veblen, was the eldest of his parents twelve children and he was a teacher at Luther College in Decorah, Iowa, at the time Oswald was born.
-* He left Luther College when his son Oswald was one year old and he became professor of mathematics and physics at the University of Iowa.
 * Veblen attended school in Iowa City before entering the University of Iowa in 1894, receiving his A.B. in 1898.
 * After a year spent as a laboratory assistant at the University of Iowa, Veblen spent a year at Harvard University where he was awarded a second B.A. in 1900, before going to the University of Chicago to undertake research.
 * In fact Veblen first impressed Moore when he attended his seminar in 1901.
@@ -35,8 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In it Veblen gave an axiom system based on point and order rather than on the traditional notions of point, line and plane.
 * During this period Veblen worked on putting his own thesis into a form for publication and A system of axioms for geometry  appeared as a 41 page paper in the Transactions of the American Mathematical Society  in 1904.
 * Leaving Chicago, Veblen taught mathematics at Princeton University from 1905 to 1932.
-* Veblen married Elizabeth Mary Dixon Richardson in 1908.
-* Veblen and his wife Elizabeth had no children.
 * Two years after his marriage, in 1910, Veblen was promoted to professor of mathematics at Princeton.
 * Veblen headed the Division of Experimental Ballistics which was the mathematical research facility at the Proving Ground.
 * Veblen was honoured by Princeton in 1926 when they named him Henry B Fine Professor of Mathematics.

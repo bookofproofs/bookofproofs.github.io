@@ -23,17 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Dorothy Bernstein** was awarded a Ph.D. in 1939 and had an excellent career overcoming prejudice against her as a woman and as a Jew. She became the first woman president of the Mathematical Association of America.
 
 ### Mathematical Profile (Excerpt):
-* Jacob Bernstein was Jewish and had been born on 2 January 1880 in Lisovich, Russia, the son of Nuchem Bernstein and Dobche Karsunsky.
 * Jacob and Tillie Bernstein were both naturalised in 1914.
-* Dorothy Bernstein, the eldest of her parents children, was born in Chicago in 1914.
-* Two sisters for Dorothy were born in Chicago before the 1920 census, Naomi Ruth Bernstein (1915-1996) born 22 November 1915, and Myrtle Bernstein (1917-1992) born 30 November 1917.
-* In 1918 the family moved to Jackson, Wisconsin where they were living at the time of the 1920 census in which Dorothy's father is recorded with the occupation "farmer".
-* Two further children were born in Jackson, Elinor Bernstein who was born in the summer of 1919 but died of gastroenteritis on 8 February 1920, and Clarice Bernstein (1922-2010) born 19 May 1922.
 * Sheldon Bernstein (1927-2014), Dorothy's youngest sibling, was born in Milwaukee on 23 March 1927.
 * Before we continue with Dorothy Bernstein's biography, let us give a brief description of the lives of her four surviving siblings.
-* Naomi Bernstein attended Washington High School in Milwaukee, married Eziel Golan on 10 September 1939 in New York, and was awarded a Ph.D. in Social Work from The University of Chicago in 1969.
-* Myrtle Bernstein attended Washington High School in Milwaukee, married Edwin LeBow on 29 December 1951 in Milwaukee, was awarded an MD degree and died in Jerusalem, Israel in January 1992.
-* Sheldon Bernstein attended Washington High School in Milwaukee, married Estelle Lou Katz on 27 June 1948 in Milwaukee.
 * Since Dorothy's four siblings all attended Washington High School in Milwaukee, we might expect her to have also been a pupil there but that is not the case.
 * After attending a public primary school in Milwaukee, Dorothy Bernstein entered the Roosevelt Junior High School in Milwaukee in 1926, the year the school opened.
 * And among Dorothy's many virtues is the happy faculty of making firm friends.

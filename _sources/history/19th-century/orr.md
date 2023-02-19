@@ -29,8 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Queen's College, Belfast, was one of the colleges of the Royal University of Ireland and it was there that Orr studied.
 * At St John's College he was taught by Joseph Larmor and the two became life-long friends with Orr obtaining much advice from his teacher.
 * Orr became one of several eminent professors who struggled to keep up their research because of heavy teaching loads.
-* In 1892 Orr married Elizabeth Campbell, known as Lizzie, a daughter of Samuel Watson Campbell, of Melbourne, Australia.
-* William and Elizabeth Orr had three children, all girls: Elizabeth Lowry Orr was born on 18 May 1894 and baptised on 14 October 1894; Annie Gwendoline Holmes Orr was born on 19 June 1896 and baptised on 12 January 1897; and Edith Kathleen Orr was born on 7 June 1900 and baptised on 14 December 1900.
 * We learn something of Orr's problems in his new job from a letter he wrote from Rathgar, Dublin, to Joseph Larmor on 8 October 1895.
 * In this letter Orr asks Larmor for information regarding Captain Abney's knowledge of mathematics.
 * Captain William de Wiveleslie Abney (1843-1920) was a scientific photographer particularly interested in applications of photography to astronomy.

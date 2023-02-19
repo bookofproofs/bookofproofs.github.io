@@ -23,12 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Maurice Kendall** was a British statistician, widely known for his contributions to correlation and statistics.
 
 ### Mathematical Profile (Excerpt):
-* As a young boy Maurice sometimes helped his grandfather who owned a public house, The Woolsack, in Kettering.
 * It is rather a miracle that Maurice ever survived to adulthood, for he contracted cerebral meningitis, a disease which at that time was almost always fatal.
 * It was in Derby that Maurice received his early education but he showed little signs of the great academic achievements which were to come.
 * The Headmaster of the Central School must be given much credit for making the highly unusual move of arranging for Maurice to attend the Grammar School in his final year.
 * It is rather remarkable that Maurice's improvement was such that he was awarded a scholarship to study at St John's College, Cambridge.
-* Maurice was always extremely grateful to his mother who supported him in wishing to take up the scholarship.
 * In 1935 Kendall met Yule for the first time.
 * Yule remembered his meeting with Kendall and after discussions joint authorship of a new edition was agreed, the work being undertaken in 1937.
 * This work prompted an even greater enthusiasm for statistics from Kendall who attended lectures in advanced statistical topics at University College London, and began publishing a stream of high quality papers on statistical topics.

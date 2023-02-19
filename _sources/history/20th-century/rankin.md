@@ -24,17 +24,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * The Rev Oliver Rankin became Professor of Old Testament Language, Literature and Theology in the University of Edinburgh in 1937.
-* Robert was named after his grandfather, Robert Rankin, who was Minister of Lamington, Lanarkshire.
 * Robert attended Garlieston School and from there went to Fettes College, an independent school in Edinburgh.
-* Rankin graduated in 1937 and in the same year his father became Professor of Old Testament Language, Literature and Theology at the University of Edinburgh.
 * At Cambridge Rankin began to undertake research in number theory under Ingham's supervision.
 * The research which Rankin undertook at this time, on the difference between two successive primes, won him the Rayleigh Prize in 1939.
 * Rankin was elected a Fellow of Clare College in 1939.
 * At Fort Halstead Rankin worked on the development of rockets.
 * The British Government, however, paid little attention to the work of Rankin and his team.
 * Of course during the war his work on rockets was classified information, but once the war was over the information was declassified and Rankin was released early from his war service on the condition that he wrote up the theoretical work which he had done on rockets.
-* During the war Rankin had married Mary Llewellyn in 1942; they would have four children, one son and three daughters.
-* Rankin returned to Cambridge with his wife in 1945 where he became a Faculty Assistant Lecturer.
 * In 1951 Rankin left Cambridge when he was appointed Mason Professor of Pure Mathematics at Birmingham University.
 * He was not to spend long in Birmingham for, in 1954, T M MacRobert retired from the Chair of Mathematics at the University of Glasgow and the Principal of that university tempted Rankin to move back to Scotland to fill the vacancy.
 * Rankin wrote over 100 research papers, mostly on the theory of numbers and the theory of functions.

@@ -64,7 +64,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At the Gertsen Research Institute for cancer research P E Kunin, who was a physicist and a student of Kronrod, set up a laboratory for differential diagnostics for lung cancer and central pneumonia.
 * When working there Kronrod achieved some significant results.
 * During that time Kronrod also organized mathematical classes in middle schools and developed teaching methods.
-* He, along with many other mathematicians, signed a letter of support for the mathematician and logician Alexander Esenin-Volpin, a son of the poet Sergei Esenin, who had been sent to an insane asylum for his anti-Communist views.
 * This led to Kronrod receiving a reprimand from the Communist Party, and he was dismissed from the Moscow Institute for Theoretical and Experimental Physics in 1968.
 * The reprimand was really used as an excuse for his dismissal, for the physicists thought that Kronrod was taking up precious computer time "playing games." Later that year he became the head of the mathematical laboratory at the Central Scientific Research Institute of Patent Information.
 * After failing to find common ground with the newly appointed director, Kronrod left the Institute.

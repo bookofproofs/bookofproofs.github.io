@@ -39,6 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Campanus also published his own set of astronomical tables.
 * Campanus determined the time of each planet's retrograde motion and gave precise instructions on using the tables.
 * Let us now look a bit further at Campanus's mathematical contributions.
+* we have in the commentary by Campanus, considering its respectable strength, occasionally its remarkable strength, additional evidence of the promising beginning of science which was made in the thirteenth century ...
 * The edition by Campanus relied to some extent on Adelard of Bath's Latin translations of Euclid's Elements from Arabic sources.
 * Campanus, however, borrowed most of his definitions, axioms, postulates and enunciations from this work by Robert of Chester.
 * Campanus shows that he is familiar with the work of Arab mathematicians and, in Book V, he quotes from Gherard of Cremona's Latin translation of Ahmed ibn Yusuf's treatise on ratio and proportion.

@@ -23,15 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Julius Weisbach** was a German mathematician who wrote on mechanics, hydraulics and surveying as well as mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Julius's father was the foreman at a mine, so the family were not well off, particularly since there were nine children.
-* Of the children, Julius was the second youngest.
 * Weisbach was educated at the lyceum in Annaberg near his home town, then at the Bergschule in Freiberg.
 * Having completed the courses at these schools by 1822, Weisbach wanted to continue his education.
 * In 1827 Weisbach was advised by Friedrich Mohs to study at Göttingen.
 * Weisbach followed Mohs' advice and spent two years in Göttingen before moving to the University of Vienna.
 * In Vienna, Weisbach studied mathematics, physics and mechanics.
 * During 1830 Weisbach travelled on foot for six months through Hungary, the Tyrol, Bavaria, and Bohemia.
-* In this same year of 1832, Weisbach married Marie Winkler and they would have a son who was to became the Professor of Mineralogy at the Bergakademie in Freiberg.
 * In 1836 Weisbach was promoted to professor, and his expertise was now such that in addition to mathematics he was professor of mine machinery and of surveying.
 * This interest in hydraulics seems to have been as a result of Weisbach visiting the Paris Industrial Exposition in 1839.
 * His interests were always wide and this is reflected in the range of courses that Weisbach was teaching around this time: descriptive geometry, crystallography, optics, mechanics and machine design.

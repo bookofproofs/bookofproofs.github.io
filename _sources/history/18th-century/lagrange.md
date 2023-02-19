@@ -24,13 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * They certainly have some justification in this claim since Lagrange was born in Turin and baptised in the name of Giuseppe Lodovico Lagrangia.
-* Lagrange's father was Giuseppe Francesco Lodovico Lagrangia who was Treasurer of the Office of Public Works and Fortifications in Turin, while his mother Teresa Grosso was the only daughter of a medical doctor from Cambiano near Turin.
-* Lagrange was the eldest of their 11 children but one of only two to live to adulthood.
 * Turin had been the capital of the duchy of Savoy, but became the capital of the kingdom of Sardinia in 1720, sixteen years before Lagrange's birth.
-* Lagrange's family had French connections on his father's side, his great-grandfather being a French cavalry captain who left France to work for the Duke of Savoy.
-* Lagrange always leant towards his French ancestry, for as a youth he would sign himself Lodovico LaGrange or Luigi Lagrange, using the French form of his family name.
-* Despite the fact that Lagrange's father held a position of some importance in the service of the king of Sardinia, the family were not wealthy since Lagrange's father had lost large sums of money in unsuccessful financial speculation.
-* A career as a lawyer was planned out for Lagrange by his father, and certainly Lagrange seems to have accepted this willingly.
 * Lagrange's interest in mathematics began when he read a copy of Halley's 1693 work on the use of algebra in optics.
 * Perhaps most surprising was the name under which Lagrange wrote this paper, namely Luigi De la Grange Tournier.
 * This work was no masterpiece and showed to some extent the fact that Lagrange was working alone without the advice of a mathematical supervisor.
@@ -62,9 +56,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lagrange succeeded Euler as Director of Mathematics at the Berlin Academy on 6 November 1766.
 * Lagrange was greeted warmly by most members of the Academy and he soon became close friends with Lambert and Johann(III) Bernoulli.
 * However, not everyone was pleased to see this young man in such a prestigious position, particularly Castillon who was 32 years older than Lagrange and considered that he should have been appointed as Director of Mathematics.
-* Just under a year from the time he arrived in Berlin, Lagrange married his cousin Vittoria Conti.
-* They had no children, in fact Lagrange had told d'Alembert in this letter that he did not wish to have children.
-* Turin always regretted losing Lagrange and from time to time his return there was suggested, for example in 1774.
 * However, for 20 years Lagrange worked at Berlin, producing a steady stream of top quality papers and regularly winning the prize from the Académie des Sciences of Paris.
 * Although Lagrange had made numerous major contributions to mechanics, he had not produced a comprehensive work.
 * Caraccioli, who was by now in Sicily, would have liked to see Lagrange return to Italy and he arranged for an offer to be made to him by the court of Naples in 1781.
@@ -74,7 +65,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Mécanique analytique Ⓣ(Analytical mechanics) which Lagrange had written in Berlin, was published in 1788.
 * With this work Lagrange transformed mechanics into a branch of mathematical analysis.
 * Lagrange was made a member of the committee of the Académie des Sciences to standardise weights and measures in May 1790.
-* Lagrange married for a second time in 1792, his wife being Renée-Françoise-Adélaide Le Monnier the daughter of one of his astronomer colleagues at the Académie des Sciences.
 * The weights and measures commission was the only one allowed to continue and Lagrange became its chairman when others such as the chemist Lavoisier, Borda, Laplace, Coulomb, Brisson and Delambre were thrown off the commission.
 * Lavoisier intervened on behalf of Lagrange, who certainly fell under the terms of the law, and he was granted an exception.
 * On 8 May 1794, after a trial that lasted less than a day, a revolutionary tribunal condemned Lavoisier, who had saved Lagrange from arrest, and 27 others to death.

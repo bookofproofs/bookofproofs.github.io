@@ -4,7 +4,7 @@ categories: history,20th-century
 parentid: bookofproofs$604
 tags: origin-belarus
 orderid: 1901
-title: Akhiezer, Naum Il&amp;#x27;ich
+title: Akhiezer, Naum Il&amp;amp;#x27;ich
 born: 1901
 died: 1980
 keywords: naum il'ich akhiezer,akhiezer
@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * The town of Cherikov, called Cherykau in Belarusian, had around 5500 inhabitants when Naum Il'ich was born.
-* His brother Alexander Il'ich Akhiezer was ten years younger than Naum Il'ich and went on to become a famous theoretical physicist.
 * Naum Il'ich attended the local Gymnasium in Cherikov, graduating in 1918.
 * Akhiezer studied at the Kiev Institute of Public Education, entering in 1922 on a three-year course of study.
 * Akhiezer and Krein became friends and around ten years later collaborated on mathematical projects.

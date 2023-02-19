@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jean-Louis Loday** wasa French mathematician whoo worked in the field of cyclic homology.
 
 ### Mathematical Profile (Excerpt):
-* His father, Louis Loday, was mayor of Le Pouliguen at the time Jean-Louis was born, holding this position from 1945 to 1969.
 * Loday was awarded his agrégation de mathématiques in 1969 and he went to the University Louis Pasteur in Strasbourg where he undertook research for his doctorate.
 * Loday, who was Karoubi's first doctoral student, was awarded his Ph.D. in 1975 for his thesis K-théorie algébrique et représentations de groupes Ⓣ(Algebraic K-theory and group representations).
 * The 1973 publication was in the proceedings of the Conference "Classical algebraic K-theory and connections with arithmetic" which Loday attended in Seattle in the United States.

@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * It is as a Hebrew linguist that Dov Jarden is best known today, but he wrote a number of papers on number theory and, what was almost certainly his greatest contribution to mathematics, he founded the mathematics journal Riveon.
-* Dov Jarden's son Moshe Jarden has written a fascinating biography of his father specially for this archive, so we wish to give no further details here about Dov Jarden but simply redirect the reader to the appropriate page.
 
 Born 17 January 1911, Motele, Russian Empire, now Motal, Belarus. Died 29 September 1986, Jerusalem, Israel.
 

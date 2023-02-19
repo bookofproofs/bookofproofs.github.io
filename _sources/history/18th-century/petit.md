@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Aléxis Petit** was a French mathematician who worked on the theory of heat.
 
 ### Mathematical Profile (Excerpt):
-* Alexis was a child prodigy.
 * By the age of ten and a half Petit had achieved the entry standard to become a student at the École Polytechnique but the entrance requirements insisted that students could not enter until they were sixteen years old.
 * Petit did not sit and do nothing for these five years but rather continued his education at the École des Sciences et Belles-lettres.
 * It was Hachette who had a reputation as someone who went out of his way to help the best students take on advanced projects and indeed he was the person who did most for Petit at the École des Sciences et Belles-lettres.
@@ -31,13 +30,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1809 Petit graduated from the École Polytechnique and his performance had been so remarkable that, being totally in a class of his own, he was ranked "hors de ligne" and the student who was the second best was actually ranked "first".
 * The second minor thesis that Petit submitted was the Programme for the Astronomy thesis, entitled La théorie des réfractions astronomiques Ⓣ(The Theory of astronomical refraction), which he submitted on 18 December 1811.
 * However, by the time Petit submitted his theses, he was already teaching physics at the Lycée Bonaparte where he had been appointed in 1810.
-* Petit married Adélaïde Françoise Louise Carrier (born 25 June 1790) on 4 November 1814.
-* She had married François Arago three years before Petit was married.
-* Let us note that Pierre Louis Dulong, who plays a large role in the work we describe below, was a witness at Petit's wedding.
 * Petit and Arago collaborated on experiments on the refraction of light in gases.
 * Petit had been taught physics at the École Polytechnique of the conventional nature of his time.
 * Competitors were asked to measure the expansion of mercury in a thermometer between 0°C and 200°C and then to determine the rate at which a body cooled both in a vacuum and in certain specified gases (air, hydrogen and carbon dioxide) at different temperatures and pressures.
-* It is unclear how Petit and Dulong became friends but clearly they were close before the announcement of the prize since Dulong was Petit's witness at his wedding in 1814.
 * However, they did not continue with the experiments proposed in this paper and in 1816 they published it in its original form, clearly at this stage having given up their aim of entering the competition for the Grand Prix.
 * The judges for the competition declared they had not received entries of sufficient merit and so the same topic was proposed for the Grand Prix for the following year.
 * In 1818 Petit and Dulong won the Academy Prize for their work on the law of cooling but at this stage they had not yet discovered the Dulong-Petit law for which they are best known.

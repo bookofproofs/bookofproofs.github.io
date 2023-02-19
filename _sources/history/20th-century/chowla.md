@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Sarvadaman Chowla**  was a British-born Indian American mathematician, specializing in number theory.
 
 ### Mathematical Profile (Excerpt):
-* Gopal Chowla visited England with his wife Shankuntala so that he could study at Cambridge University.
 * It was during the visit to England that Sarvadaman Chowla was born.
 * At the age of 21 Chowla was awarded his master's degree from Government College in Lahore.
 * After returning to India, Chowla was appointed professor of mathematics at St Stephen's College in Delhi, then at Benares Hindu University in Benares, then at Andhra University in Waltair, and finally at Government College of Punjab University in Lahore where he was Head of the Department of Mathematics from 1936 to 1947.

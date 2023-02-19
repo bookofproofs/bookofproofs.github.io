@@ -29,6 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Not only did Sporus work on squaring the circle and duplicating the cube but he also constructively criticised others work in these areas.
 * There seems little doubt that Sporus's criticism is valid.
 * Sporus also criticised Archimedes for not producing a more accurate approximation of π.
+* Hence we cannot regard as appropriate the censure of Sporus of Nicaea, who seems to charge Archimedes with having failed to determine with accuracy the length of the straight line which is equal to the circumference of the circle, to judge by his passage in his Keria where Sporus observes that his own teacher, meaning Philon of Gadara, reduced the matter to more accurate numerical expression than Archimedes did ...
 * Sporus also wrote on the size of the Sun and on comets.
 * Sporus's writings and teaching clearly had a large impact on Pappus who describes him as having a high reputation.
 

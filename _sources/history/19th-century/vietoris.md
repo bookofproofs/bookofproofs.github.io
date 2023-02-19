@@ -49,7 +49,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Vietoris then completed the proof of the full result for homology groups in 1930 which he published in Über die Homologiegruppen der Vereinigung zweier Komplexe Ⓣ(On the homology groups of the union of two complexes) (1930).
 * Today this result is known as the Mayer-Vietoris sequence.
 * In 1927 Vietoris left Vienna to take up a position as associate professor at the University of Innsbruck.
-* In the following year, Vietoris married her sister, Maria Josefa Vincentia Riccabona von Reichenfels (1901-2002).
 * Back in Innsbruck, Vietoris was drawn to the mountains that he loved so much.
 * In due time, Vietoris started publishing himself on the blockstream of the Hochebenkar, a glacier-like formation of rock débris pasted together by ice, which he had come to know like no one else.
 * For his outstanding achievements Vietoris received many awards.

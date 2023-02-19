@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Edsger Wybe Dijkstra** was a Dutch mathematician and computer scientist best known for his shortest-path algorithm in graph theory.
 
 ### Mathematical Profile (Excerpt):
-* In 1951 Dijkstra's father saw an advertisement for a three-week course in computer programming to be given at the University of Cambridge in England in September of that year.
 * Aad van Wijngaarden, who was the director of the Computation Department of the Mathematical Centre in Amsterdam, had taken the same course in Cambridge in the previous year and when he learnt that Dijkstra had completed it, he offered him a position as a programmer of the Mathematical Centre.
 * Dijkstra accepted the position from March 1952 but it only as a part-time position for he was still registered as a student of theoretical physics at the University of Leyden.
 * Having taken the decision, Dijkstra completed his studies in theoretical physics at the university, graduating in 1956.

@@ -23,11 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ferrari** was an Italian scholar who started as Cardan's secretary and went on to devise the solution of the quartic equation.
 
 ### Mathematical Profile (Excerpt):
-* Bartholomew Ferrari had two sons, Vincent Ferrari and Alexander Ferrari, the latter being the father of Lodovico who is the subject of this biography.
-* Initially brought up in his father's house, Lodovico went to live with his uncle Vincent after his father was killed.
-* Vincent Ferrari had a son named Luke, a difficult young man, who decided to run away from home and seek employment.
-* Cardan contacted Vincent Ferrari requesting that he send his son back to continue his employment as a servant in his house.
-* Vincent, however, saw his chance to keep his own son at home and offload the responsibility of supporting his cousin Lodovico, so instead of sending Luke back to Cardan in Milan, he sent Lodovico.
 * Lodovico arrived at Cardan's house on 30 November, a fourteen year old boy ready to take over his cousin Luke's position and become a servant.
 * Ferrari repaid his master by helping him with his manuscripts and, when he was eighteen years old, he began to teach.
 * When Cardan generously resigned his post at the Piatti Foundation in Milan to make way for him in 1541, Ferrari easily defeated Zuanne da Coi, his only rival for the post, in a debate and, at the age of twenty, became a public lecturer in geometry.
@@ -46,8 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Ferrari clearly understood the cubic and quartic equations more thoroughly than his opponent who decided that he would leave Milan that very night and thus leave the contest unresolved, so victory went to Ferrari.
 * On the strength of this challenge, Ferrari's fame soared and he was inundated with offers of employment, including a request from the emperor himself, who wanted a tutor for his son.
 * Ferrari fancied a more financially rewarding position though, and took up an appointment as tax assessor to the governor of Milan, Ferrando Gonzaga.
-* He moved back to his home town of Bologna where he lived with his widowed sister Maddalena, and was called to a professorship of mathematics at the University of Bologna in 1565 but, sadly, Ferrari died later that year.
-* Certainly, according to Cardan, Maddalena refused to grieve at her brother's funeral and, having inherited Ferrari's fortune, she remarried two weeks later.
 
 Born 2 February 1522, Bologna, Papal States (now Italy). Died 5 October 1565, Bologna, Papal States (now Italy).
 

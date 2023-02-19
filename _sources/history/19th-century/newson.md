@@ -25,8 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Her parents were Thomas Winston, a country doctor, and Caroline Eliza Mumford.
 * Thomas Winston had been born in Wales but had come to the United States at the age of two years when his parents emigrated.
-* Mary was one of her parents' seven surviving children.
-* In 1884, when she was fifteen years old, Mary and her older brother Ambrose Paré Winston (5 October 1867-4 December 1959), who was seventeen, entered the University of Wisconsin.
 * Ambrose earned his bachelor's degree in 1887 but Mary took a year out to teach in a high school before graduating with an A.B. from the University of Wisconsin in 1889.
 * However, it was left considerable funds by Jason Downer in 1883 and was providing general education for women when Winston taught there.
 * After teaching at Downer College for a year, Winston applied for a mathematics fellowship at Bryn Mawr College in Pennsylvania.
@@ -40,24 +38,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In fact Maschke wrote to Klein in April 1893, before his trip to the United States, telling him about Winston's wish to study in Germany.
 * He decided that it was, but Winston required financial support to be able to study for a doctorate in Germany so she applied to the Association of Collegiate Alumnae (now called the American Association of University Women).
 * Christine Ladd-Franklin had proposed that this organisation establish a European Fellowship in 1888 and, when the Association of Collegiate Alumnae decided not to support Winston, Christine Ladd-Franklin wrote to her offering a grant of $500 to study abroad.
-* Christine Ladd-Franklin had met Winston during the summer of 1893 when her husband Fabian Franklin attended the Evanston Colloquium.
 * Although she did not know whether Göttingen would accept her, Winston travelled to Germany for the beginning of the 1893-94 academic year.
 * The Association of Collegiate Alumnae gave Winston a fellowship to fund her during the academic year 1895-96.
 * Grace Chisholm had been awarded a doctorate in 1895, so Winston became the second woman, and the first American, student to be awarded a doctorate by Göttingen.
-* She was married on 21 July 1900 to Henry Byron Newson in Chicago.
 * Henry Newson (1860-1910) was a professor of mathematics at the University of Kansas and had published the book Continuous groups of projective transformations treated synthetically (1895).
-* Mary Newson, as she now became, resigned her position at the Kansas State Agriculture College and over the next ten years she brought up their three children, a daughter Caroline born in 1901, a second daughter Josephine born in 1903 and a son Henry born in 1909.
 * Although she was not now employed as a mathematician, Winston did translate Hilbert's 'Mathematical problems', which he had delivered in 1900, into English and her 40-page translation (made with Hilbert's permission) was published in the Bulletin of the American Mathematical Society in 1902.
 * In 1910 Henry Newson died following a heart attack.
-* This meant that Mary Newson was in an extremely difficult financial position with no income and three young children to bring up.
-* Also working for the University of Kansas was not possible since Mary's younger sister Eugenie had just been appointed to the English Department.
-* Mary Newson lived in Laurence, Kansas with her parents for three years after her husband died then, in 1913, she was appointed as an assistant professor at Washburn College in Topeka, Kansas.
-* It was only about 45 km (28 miles) from Topeka to Laurence and Newson left her children to be looked after by her parents in their Laurence home while she lived in Topeka during the week but she was able to return to Laurence to spend every weekend with her children.
 * After she finished teaching at Eureka College, Newson moved to Lake Dalecarlia in Lowell, Indiana.
 * This was a village beside a picturesque artificial lake which Newson loved and had spent vacations there throughout her life.
-* In 1956, when she was 87 years old, she moved into a nursing home in Poolesville, Maryland, where she was close to her daughter Caroline Beshers.
-* She died one day after the death of her brother Ambrose Paré Winston who had been a professor of economics.
-* After her death, her children founded the Mary Winston Newson Memorial Lecture on International Relations at Eureka College.
 * The reason that the lecture is on International Relations, is that this was one of Newson's hobbies.
 
 Born 7 August 1869, Forreston, Illinois, USA. Died 5 December 1959, Poolesville, Maryland, USA.

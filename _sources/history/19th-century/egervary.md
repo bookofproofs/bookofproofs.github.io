@@ -36,14 +36,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Now it seems unlikely that Egerváry was physically unfit since he was a remarkable sportsman and mountaineer.
 * After his discharge, Egerváry was employed again as a high school teacher at the Upper State Industrial School of Budapest.
 * For the next two years the university operated in Budapest and Egerváry habilitated there with his dissertation Applications of Analysis (Hungarian) teaching at the university from 1919.
-* It is unclear what Egerváry did at this time.
 * He gives has name as "E Egerváry" on the first on these but as "Eugen von Egerváry" on the second.
 * In 1927 Egerváry's right to lecture at the Ferenc József University was revoked.
 * Certainly shortly after this Egerváry was teaching at the University in Budapest.
 * In this separation Egerváry determined sectors in the complex plane, where each sector contains a root of the equation, and the sum of the angles of these sectors is of order π/2.
 * Egerváry localized the roots in annulus form.
 * describes the duality theorem for the weighted bipartite matching problem, which is called today the assignment problem, proves the integrality result, and develops the underlying idea of the first primal-dual type algorithm that is called throughout the literature the 'Hungarian Method', a name introduced by H Kuhn who actually used Egerváry's ideas to develop an efficient algorithm.
-* This work by Egerváry means that today he is considered to be one of the founding fathers of 'Combinatorial Optimisation'.
 * For his outstanding mathematical contributions, in 1932 Egerváry was awarded the Gyula König Prize of the Eötvös Lóránd Mathematical and Physical Society.
 * In the same year Egerváry was appointed to the Institute for Training Secondary School Teachers and he taught there until 1938 when he again became a docent, this time at the Technical University of Budapest submitting the dissertation Analysis and its mathematical and physical applications.
 * In all the works of Egerváry and in his lectures there is an unmistakable striving for clarity, precision, and elegance.

@@ -37,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * During his time at Cernauti University Vrănceanu became known as one of the leading geometers in the world.
 * Meanwhile Vrănceanu made new discoveries in global geometry.
 * At Bucharest University Vrănceanu began to organise the mathematics library in a similar way to the one in Iasi.
-* Besides his major contributions to science, Vrănceanu took an active interest in politics.
 * Vrănceanu organised the Mathematical Institute of the Romanian Academy, a very important step for theoretical and applied researches in his country.
 * During his career, Vrănceanu published over 300 articles in journals throughout the world.
 * Vrănceanu won many honours, both in his own country and elsewhere.

@@ -28,8 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He had many interests at school, being in the Ski team, the Boys' Chorus, the Glee Club and the Chemistry Club, of which he was the Vice-President.
 * Segel went from Harvard to the Massachusetts Institute of Technology where he originally thought he would study computer science but changed to applied mathematics for his graduate studies.
 * Segel was awarded a Ph.D. from the Massachusetts Institute of Technology in 1959 for his thesis Applications of Conformal Mapping to Boundary Perturbation Problems.
-* Segel married the lawyer Ruth Maureen Galinski in London, England, on 30 August 1958.
-* After marrying in London the couple spent the first two years of their married life in that city before returning to the United States in 1960 when Segel was appointed to the Department of Applied Mathematics at Rensselaer Polytechnic Institute.
 * This Institute, founded in Troy, New York, in 1824, is a private research university which had as its founding aim "application of science to the common purposes of life." The Segels lived in Troy, New York, at 40B Ahern Avenue.
 * The first publications by Segel were Application of conformal mapping to viscous flow between moving circular cylinders (1960), A uniformly-valid asymptotic expansion of the solution to an unsteady boundary-layer problem (1960), and Application of conformal mapping to boundary perturbation problems for the membrane equation (1961).
 * Segel was on leave in the academic year 1963-64, at the Massachusetts Institute of Technology, where he was partially supported by the National Science Foundation.
@@ -44,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * L A Segel has performed a singular service to all interested scientists in the preparation of the present volume, which records the contributions of the twenty-one authors of the course notes.
 * From the time he arrived at the Weizmann Institute of Science, Segel taught a one semester course to first-year graduate students in the biological sciences about techniques of mathematical modelling.
 * Lee laced every interaction with humour, and no pun was beneath him; many were subtle enough to make their way past editors into his published papers.
-* Lee had a tremendous sense of responsibility to family, students, and community.
 * Segel died in 2005 and the publisher Springer, in conjunction with the Society for Mathematical Biology established prizes in his memory.
 * The Lee Segel Prizes are awarded every two years, starting in 2008.
 * Segel's final book A primer on mathematical models in biology was published in 2013, eight years after Segel's death.

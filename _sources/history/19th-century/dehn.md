@@ -23,11 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Dehn** wrote one of the first systematic expositions of topology (1907) and later formulated important problems on group presentations, namely the word problem and the isomorphism problem.
 
 ### Mathematical Profile (Excerpt):
-* Let us begin by giving some details of Max Dehn's family.
-* His father, Maximillian Moses Dehn (15 March 1841 - 16 April 1897), was a medical doctor.
-* Maximillian was one of a large family having nine siblings: Arnold, Henne Hannah, Gustav, Rudolf Joseph, Otto Carl Isaak, Hannah Bertha, Martin, Elizabeth Charlotte, and Moses Wilhelm.
-* Maximillian married Berta Raf Hirsch (15 April 1845 - 2 February 1926) in Hamburg, Germany, on 2 May 1867.
-* They had nine children: Rudolph Bernhard, Elizabeth Hanne Adeline, Henriette Marianne, Max Wilhelm (the subject of this biography), Berta Meta, Karl Arnold, George Ernst, Charlotte, and Marie Auguste.
 * Max was brought up in Hamburg where he attended the Wilhelm Gymnasium.
 * This school prepared students for university and, after graduating, Dehn entered the University of Freiburg.
 * At Freiburg, Dehn studied mathematics but, as was common for students at this time, he did not spend his whole time at one university.
@@ -42,11 +37,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Dehn thus positioned "mathematical ability" at a basic anthropological level.
 * Dehn qualified under this exemption clause so continued to head the mathematics seminar at University of Frankfurt.
 * Dehn was forced to resign but remained in Frankfurt.
-* Dehn lectured in a number of European countries over the next couple of years and spent from January to April 1938 in England with his daughters.
-* Dehn and his wife were in Frankfurt on Kristallnacht (so called because of the broken glass in the streets on the following morning), the 9-10 November 1938.
 * On 11 November 1938 Dehn was arrested but, with so many Jews being held, the prisons were full and he was released later on the same day.
 * Immediately Dehn and his wife, fearing re-arrest, fled to the home of Willi Hartner, friends in Bad Homburg north of Frankfurt.
-* After a few weeks the Gestapo became less active in their persecution of Jews and Dehn and his wife risked fleeing to Hamburg where they lived for a while at the home of one of Dehn's elder sisters before escaping, first to Denmark in January 1939 and from there to Norway.
 * Dehn was soon given a temporary position at he Technische Hochschule in Trondheim as a replacement for Viggo Brun (1885-1978) who was on leave.
 * Dehn fled the city but, despite the great risks, was back in the city by June and began to plan his move to the United States.
 * In October 1940 the Dehns emigrated to the USA, travelling from Norway to Stockholm in Sweden, then on to Moscow in Russia from where they took the trans-Siberian train to Vladivostok.

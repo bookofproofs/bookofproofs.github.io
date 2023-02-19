@@ -26,9 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After elementary schooling in Mszczonów, Roman attended the Adam Skwarczynski Gymnasium in the nearby town of Zyrardów.
 * Sikorski began his university studies in 1937 and, of course, his physics course involved taking various mathematics options.
 * With the university closed, Sikorski left Warsaw and returned to his home in Mszczonów.
-* With help from others and working on his own, Sikorski continued to study at what he would later jokingly call the "University of Mszczonów." On 17 January 1945 Warsaw was liberated by Russian troops but at this stage, with the city and university largely destroyed, it was unclear whether the city and its university would be rebuilt.
 * However staff and students who had survived the war began returning to the university and Sikorski was among them.
-* During 1945 he married Krystyna Bobinskich (born 1917); they had one son Krzysztof Lech Sikorski (born 1946), who went on to study engineering and became a construction engineer.
 * Sikorski at this stage was both a student but also an assistant, helping to teach other students.
 * In 1946 Sikorski obtained the only scholarship available in Poland to fund study abroad, and he went to Zürich where he spent eight months.
 * Sikorski was awarded his Master's degree in 1947 and, advised by Mostowski, he undertook research for his doctorate.

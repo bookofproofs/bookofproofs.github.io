@@ -23,18 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Herbert Turnbull** was Regius Professor of Mathematics at University of St Andrews from 1921 to 1950. He was an expert in Invariant Theory and an enthusiast for the History of Mathematics.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Fanny Turnbull (born Wolverhampton, Staffordshire about 1854).
-* Herbert Turnbull had four younger brothers Edwin  (born about 1888), Peveril (born about 1889), Derwent (born about 1891) and Allan (born about 1894).
-* Turnbull's father was interested in mathematics and transmitted his enthusiasm for the subject to his young son Herbert.
-* This means that Turnbull's father gave the lecture on Newton in the 1870s.
 * Herbert was educated at Sheffield Grammar School.
 * After graduating, Turnbull taught at St Catharine's College, Cambridge (1909), and then at the University of Liverpool (1910).
-* Turnbull married Ella Drummond Williamson in 1911.
-* Herbert and Ella Turnbull had one child.
 * After his year as a lecturer at the University of Liverpool, Turnbull taught at the Hong Kong University, becoming master at St Stephen's College in Hong Kong in 1911, and warden of the University Hostel two years later.
 * Turnbull had duties as a mathematics lecturer at the University in addition to being warden of the hostel.
 * On his return to England, Turnbull worked as a school teacher for three years in the leading independent school at Repton in the county of Derbyshire in the north of England.
-* Following this Turnbull became an a Schools Inspector, entering at this stage the same profession as that of his father.
 * As an undergraduate at Cambridge Turnbull had become fascinated by the topic of invariant theory.
 * Turnbull was appointed Regius Professor of Mathematics in the United College of St Salvator and St Leonard at the University of St Andrews in 1921.
 * Before he was appointed to the Regius Chair of Mathematics at St Andrews Professor Turnbull had been a missionary in China.

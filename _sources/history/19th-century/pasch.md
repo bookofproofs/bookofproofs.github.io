@@ -26,8 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Pasch attended the Elisabeth Gymnasium in Breslau, graduating in 1860.
 * Pasch was awarded his doctorate on 21 August 1865 for his thesis De duarum sectionem conicarum in circulos projectione Ⓣ(The two conic section in circular projection).
 * His thesis advisor was Schröter and Pasch dedicated his thesis to him and to Kambly his mathematics teacher at the Gymnasium.
-* Pasch's father died in Breslau on 24 October 1866 and he gave up his research towards his habilitation in order to help care for his family.
-* Pasch married Laura Reichenbach from Breslau on 15 September 1875, three weeks after being made a full professor.
 * In addition to remarkable research contributions which we mention below, Pasch was interested in the administration of the university and he devoted considerable effort as chairman of the committee responsible for the examination of prospective high school teachers.
 * Drawing on the work of his predecessors, Pasch was the first to explicitly state all the basic concepts and axioms necessary for his construction of projective geometry.
 * But no one before Pasch had laid a basis for dealing logically with such observations.

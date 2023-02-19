@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In Paris, Antoine was awarded a baccalaureate in Latin and Sciences in 1905 and, in the following year, a baccalaureate in mathematics.
 * Gaston Julia, who was four years younger than Antoine, entered the École Normale Supérieure in 1911 and, despite the fact that they did not overlap at the École for very long, Antoine and Julia became firm friends.
 * Following his graduation, Antoine became a mathematics teacher at the Lycée de Dijon in Saint-Cyr.
-* The future for Antoine as a school teacher who would soon be married to his sweetheart seemed secure when political events in Europe turned their world upside-down.
 * Events had been moving quickly and Antoine, who was a reserve lieutenant in the 72nd  Infantry Regiment of Amiens, was mobilised on 2 August as France geared up for war.
 * Antoine and his section were sent to Belgium to meet the German advance.
 * In a trench near Ramscapell, Antoine was wounded by shrapnel on 25 August but was able to continue fighting.

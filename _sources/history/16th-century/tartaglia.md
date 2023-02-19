@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Tartaglia** was an Italian mathematician who was famed for his algebraic solution of cubic equations which was eventually published in Cardan's _Ars Magna_.
 
 ### Mathematical Profile (Excerpt):
-* However, his mother's tender care ensured that the youngster did survive, but in later life Niccolò always wore a beard to camouflage his disfiguring scars and he could only speak with difficulty, hence his nickname Tartaglia, or stammerer.
-* Tartaglia was self taught in mathematics but, having an extraordinary ability, his mother was able to find him a patron.
 * As a lowly mathematics teacher in Venice, Tartaglia gradually acquired a reputation as a promising mathematician by participating successfully in a large number of debates.
 * Fior began to boast that he was able to solve cubics and a challenge between him and Tartaglia was arranged in 1535.
 * For the contest between Tartaglia and Fior, each man was to submit thirty questions for the other to solve.

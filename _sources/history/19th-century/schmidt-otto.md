@@ -23,13 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Otto  Schmidt** was a Soviet scientist, mathematician, astronomer, geophysicist, statesman and explorer. His mathematical work was in group theory.
 
 ### Mathematical Profile (Excerpt):
-* Of course, Schmidt sounds like a German name and this is precisely where Otto Schmidt's ancestors on his father's side came from.
-* Otto's father, Julius Fridrihovich Schmidt, tried to make a living trading goods.
-* Otto's mother, Anna Fridrihovna Ergli, was from a farming family in Courland; in fact she met Julius since she was a near neighbour.
-* It was a large family with Otto being one of five children.
-* The family moved around as Otto was growing up, trying to improve their fortunes and find a better life, but Otto was given a good educations at schools in Mogilev, Odessa and Kiev.
 * Although nobody else in the school was interested in studying Greek, the headmaster found a teacher to teach Schmidt in a class of one.
-* Another move saw the family go to Kiev in 1907 and Schmidt, as he had done throughout his school years, continued with self-study outside the classroom, in particular reading classic books, studying foreign languages, and higher mathematics.
 * At university, Schmidt continued to work long hours as he had during his school years, often spending the whole night studying.
 * Grave had founded the Kiev school of algebra and, at the time Schmidt studied there, Kiev was the leading centre for algebra.
 * Schmidt's progress was so marked that, while still an undergraduate, he published three excellent papers on group theory in 1912-13 including Über die Zerlegung endlicher Gruppen in direkte unzerlegbare Faktoren Ⓣ(On the decomposition of finite groups into direct irreducible factors) (1912) and Sur les produits directs Ⓣ(On direct products) (1913).
@@ -40,11 +34,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Schmidt had, like other members of the university, lived in Saratov during 1915-16 and it was only after the university returned to Kiev that he began his career as a university teacher.
 * On 14 July Schmidt was appointed as a clerk in the Ministry of Food but remained on the staff of Kiev University.
 * Schmidt was appointed as head of one of the divisions.
-* In March of the following year operations were moved from Petrograd to Moscow and Schmidt relocated to Moscow where his first son Vladimir Ottovich was born in March 1920.
 * However, in addition to these roles, Schmidt began to teach in secondary schools in 1920 and, in the same year, he was appointed as a lecturer at the Forestry Institute.
 * In 1921 Schmidt was appointed as director of the State Publishing House and under his leadership publishing of scientific journals and research monographs restarted.
 * This was a very large undertaking and, as well as enlisting numerous scientists and experts in the arts to write articles, Schmidt himself authored many articles over a period of many years.
-* As a child Schmidt had suffered from tuberculosis and, although he had made a good recovery, the illness recurred periodically.
 * We have already noted that Schmidt used the term 'special group' and given a definition above.
 * It is rather remarkable that we still have not reached the events of Schmidt's life for which he is best known today, namely his work as a scientist and explorer of the Russian and Siberian Arctic.
 * Clearly the Soviet Union was keen to establish a permanent presence in their newly annexed land but there was a reason why Schmidt was a good choice as far as the Soviet leadership was concerned.

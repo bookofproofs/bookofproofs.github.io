@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Herbert Richmond** studied at Cambridge and spent his whole career there, His main interest was in Algebraic Geometry.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Charlotte Mary Richmond (born Ewell, Surrey about 1836).
 * Herbert William Richmond had younger siblings, George (born about 1865), Margaret (born about 1867), Ethel (born about 1869) and Alfred (born about 1872).
 * Herbert entered Merchant Taylors' School in London in 1875 and studied there until he graduated in 1882.
 * At King's College, Richmond was coached by the famous coach Dr Routh.

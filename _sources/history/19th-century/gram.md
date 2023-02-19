@@ -31,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We give more details below of this research interest which Gram followed for many years.
 * Gram's mathematical career was always a balance between pure mathematics and very practical applications of the subject.
 * Gram later published this work in the Journal für Mathematik and it proved to be of fundamental importance in the development of the theory of integral equations.
-* The year 1879 was important for Gram in another context, for on 30 September of that year, he married Dorthe Marie Sørensen who was the daughter of a blacksmith.
 * Also in 1879 Gram published the second of his four papers on forestry which all appeared in Danish Forestry Journals.
 * In fact Gram never gained the international recognition for this work which he deserved but German researchers, unaware of Gram's contributions, published their own results on the same problems.
 * There is little doubt that their work was far less satisfactory than that of Gram's yet because it was readily accessible it was the Germans and not Gram who gained international acclaim.
@@ -41,8 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Gram also worked on the Riemann zeta function.
 * Although he continued to work for the Hafnia Insurance Company in more and more senior roles, Gram founded his own insurance company, the Skjold Insurance Company, in 1884.
 * From 1895 until 1910 Gram was also an executive of the Hafnia Insurance Company.
-* On 9 April 1895 Gram's wife Dorthe died.
-* Gram married again just over one year later on 15 May 1896, his second wife being Emma Birgitte Hansen.
 * From 1910 until his death in 1916 Gram was Chairman of the Danish Insurance Council.
 * It was through his work for the insurance companies that Gram became close to another Danish mathematician, Thorvald Thiele, who worked as an actuary.
 * Despite not teaching mathematics in a university and as a consequence never having any students, Gram still managed to influence the next generation of Danish mathematicians in a very positive way.

@@ -23,10 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Deane Montgomery** was an American mathematician who worked in algebraic and geometric topology.
 
 ### Mathematical Profile (Excerpt):
-* On 14 July 1933 Montgomery married Katharine Fulton.
 * In 1946 Montgomery left Smith College and accepted an appointment as an associate professor at Yale University.
 * Montgomery returned to the Institute for Advanced Study in 1948 as a permanent member, becoming a professor in 1951.
-* In 1988 Deane and Kay Montgomery moved to Chapel Hill to be near to their daughter Mary Heck and their two granddaughters.
 * Montgomery solved Hilbert's Fifth Problem in dimension three in 1948.
 * By 1952 Montgomery had solved Hilbert's Fifth Problem with the assumption of finite dimensionality and this restriction was finally removed by Yamabe who began working as Montgomery's assistant in 1952.
 * In 1955, in collaboration with Leo Zippin, Montgomery published the monograph Topological transformation groups.

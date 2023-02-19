@@ -32,13 +32,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * She, like Wussing, had completed her secondary education in 1947 and, again like him, was studying a course at Leipzig University to qualify as a secondary school mathematics teacher.
 * In 1951 Hans and Gerlinde took the state examination and they qualified as high school teachers of mathematics and physics.
 * Both Hans and Gerlinde had joined this Party in June 1947, a year after its formation in April 1946.
-* Hans and Gerlinde married in 1952.
-* By this time Wussing was undertaking research towards his doctorate in group theory advised by Walter Schnee while his wife was teaching in the Workers and Peasants Faculty of the University which had been set up to assist children from disadvantaged backgrounds gain access to studying academic subjects.
-* Hans and Gerlinde Wussing's daughter Petra was born in 1953.
-* Hans helped in looking after their only child.
 * Wussing completed his doctoral studies and was awarded a doctorate for his thesis Über Einbettungen endlicher Gruppen Ⓣ(On embedding finite groups) in 1957.
 * The direction that Wussing's career would take after 1957 was less than clear.
-* The head of the Workers and Peasants Faculty where Wussing's wife was teaching, and in which Wussing himself had taught for two years, was Annemarie Harig, the sister of Gerhard Harig (1902-1966).
 * Through her Wussing learnt that Gerhard Harig was about to take over as head of the Karl Sudhoff Institute at Leipzig University and that he aimed to make it an Institute, which had previously only covered the history of medicine, into the Karl Sudhoff Institute for the History of Medicine and Science.
 * Harig was looking to appoint staff in the area of the history of mathematics and science to the Institute and although Wussing was not qualified as a historian of science, nevertheless he was a member of the Socialist Unity Party which was highly influential at the university.
 * Both Harig and Wussing shared beliefs in a Marxist philosophy which strongly influenced their writing.
@@ -46,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Following Harig's death in 1966, Wussing became acting director of the Karl Sudhoff Institute in 1967.
 * Following in the tradition of Gerhard Harig, Hans Wussing was one of the most important persons in the field history of mathematics and history of science in the German Democratic Republic and one of their representative in the international scientific community.
 * We have already noted Wussing's Marxist beliefs.
-* It is unclear whether this explains the fact that up to the end of the German Democratic Republic in 1990, Wussing never published in any Western journal although he was an editor of Historia Mathematica from 1974 to 1990.
 * Wussing was, as mention in the quote above, an editor of NTM - Schriftenreihe für Geschichte der Naturwissenschaften, Technik und Medizin (The Journal for the history of science, technology, and medicine) from 1967 and strongly supported this journal by publishing in it and encouraging his students to publish in this journal published in Leipzig.
 * Let us now look briefly at some of the books that Wussing has published.
 * As an illustration of Wussing's own description of his aims in treating the history of mathematics, we quote from the Preface to 'Hans Wussing et al, Vom Zahlstein zum Computer: Mathematik in der Geschichte.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Emanuels Grinbergs** was a Russian mathematician who worked in geometry and graph theory.
 
 ### Mathematical Profile (Excerpt):
-* It was, therefore, to an independent Latvia that Grinbergs' family returned in 1923 on the death of his father.
 * On their return, they lived in Riga where Grinbergs attended high school.
 * Returning to Latvia, Grinbergs studied mathematics at the University of Latvia between 1930 and 1934.
 * Returning to Riga, Grinbergs became a Privatdozent at the University of Latvia in 1937 and began his lecturing career in January 1938 teaching courses on geometry.

@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * This meant that Yakov was based for long periods in several different Black Sea ports and so, as Boris Yakovlevich was growing up, he lived in many different towns.
-* Let us note at this point that although we will refer to the subject of this biography as Levin, he was known as B.
 * After graduating from the high school in Yeysk, a port on the Sea of Azov, Levin was not able to continue to higher education and had to take a job.
 * Levin worked as a welder on pipeline construction for a while, in particular on the pipeline to the refinery in Grozny, and this earned him the right to a university education.
 * Although four years younger than Levin, Efimov had also had a variety of short-term jobs in construction before beginning his higher education studies.
@@ -44,7 +43,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He submitted his thesis 0n the growth of an entire function along a ray, and the distribution of its zeros with respect to their arguments to the University of Rostov in 1936 but, although the thesis was submitted for a Candidate's Degree, the university took the highly unusual step of awarding Levin the higher degree of Doctor of Science (equivalent to a D.Sc.).
 * Levin returned to Odessa when the university reopened again but at this stage the functional analysis school at Odessa was closed down.
 * Vladimir Petrovich Potapov, who had been one of the non-Jewish students in the functional analysis group and had become a Ph.D. student of Levin's in 1939, tried hard to influence the university authorities to reverse their decisions.
-* Selim Krein, like his older brother, worked on functional analysis and, after writing some papers with his older brother and with his advisor, he worked with Levin.
 * These papers were all written in Russian and the last two also had Boris Korenblum as a joint author.
 * Levin used to include his own, yet-unpublished results as well as new original proofs of known theorems.
 * In 1956, the year he published the first edition of his famous book, Levin organised a scientific seminar which attracted many participants and trained a whole generation of first class mathematicians.

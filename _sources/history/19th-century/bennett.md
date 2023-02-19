@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Geoffrey Bennett** was an English mathematician with wide interests including number theory, combinatorics and history.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Selina Bennett born about 1837.
-* Geoffrey had a brother Norman J Bennett born in Clerkenwell, Middlesex about 1871 and a sister Sylvia Selina Bennett born in Highgate, Middlesex in about 1874.
 * Bennett  entered University College School, which had been founded in Gower Street in 1830 as part of University College, London, in 1883.
 * This was an outstanding school which by the time Bennett studied there was within University College itself.
 * Bennett had the distinction of being Senior Wrangler in Mathematical Tripos of 1890 but he did not come top in the examinations; Philippa Fawcett was the best student.
@@ -37,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * These proofs were not written down until Bernard Groeneveld's thesis Geometrical considerations on space kinematics in connection with Bennett's mechanism presented to the Technische Hogeschool te Delft in 1954.
 * In 1922 Bennett published The three-bar sextic curve.
 * Bennett was elected a Senior Fellow of Emmanuel College in 1899.
-* In the 1911 census, Bennett was unmarried.
 * Another aspect of Bennett's mathematical work was as an historian.
 * Outside mathematics Bennett had many interests.
 * The university bicycle club had an annual road race of fifty miles, in which Bennett rode on three occasions, being successively third, second and first.

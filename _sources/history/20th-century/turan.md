@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Paul Turán** was a Hungarian mathematician who worked in number theory.
 
 ### Mathematical Profile (Excerpt):
-* Paul Turán (or Turán Pál in Hungarian) was the eldest son having two brothers and one sister.
 * Paul was a brilliant pupil at secondary school in Budapest, showing at this stage his remarkable mathematical abilities.
 * Turán entered Pázmány Péter University of Budapest already showing his potential for research.
 * In 1933 Turán was awarded his diploma which qualified him to teach mathematics and science, and he continued working for his doctorate.
@@ -35,10 +34,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In fact Turán invented the power sum method while investigating the zeta function and he first used the method to prove results about the zeros of the zeta function.
 * If times had been extremely hard for Turán up to 1938, then any appearance that they were about to get better was short lived for soon they became far worse.
 * In 1940 Turán was sent to a labour camp, and he was in and out of various forced labour camps throughout the war.
-* Erdős wrote to his father, Lajos Erdős, in Budapest, who then wrote to Turán, copying out the relevant parts of his son's letters.
 * Another remarkable fact is that extremal graph theory, an area which Turán founded, was one of the "best ideas" that he had while in the labour camps.
 * Except for the Jews in the forced-labour camps, like Turán, others were sent to the gas chambers of German concentration camps.
-* Turán's two brothers and his sister all died during the war.
 * Turán was liberated from the labour camp in 1944 and was able to resume teaching at the Hungarian Rabbinical Training School in Budapest.
 * Before this, however, Turán was able to make international contacts which let him visit Denmark for six months, then the Institute for Advanced Study at Princeton for six months, in 1947.
 * in July 1976, at the meeting on combinatorics at Orsay in Paris, V T Sós (Mrs Turán) gave me the terrible news (which she had known for six years) that Paul had leukaemia.

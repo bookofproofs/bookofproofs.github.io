@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Robion Kirby** is an American mathematician who specialises in low-dimensional topology.
 
 ### Mathematical Profile (Excerpt):
-* Kirby's father, returning to graduate school, underwent teacher training in 1948 and then became a teaching assistant.
-* This meant that the family were quite poor during the whole of Kirby's childhood and teenage years.
 * Of course, Kirby might have scraped in by the back door but he now needed to be able to fund his graduate studies.
 * With a letter of support from Mac Lane, Kirby was appointed as a teaching assistant at Roosevelt University, in Chicago.
 * First, Kirby had to pass the oral Ph.D. qualifying examination which required that he offer two topics on which to be tested.

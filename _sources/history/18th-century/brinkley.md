@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Brinkley** was an English-born astronomer who became Royal Astronomer of Ireland and worked on the parallax of stars.
 
 ### Mathematical Profile (Excerpt):
-* Sarah Brinkley and John Toler never married and, on 18 October 1770, Sarah married Jacob Boulter of Boot Inn, Great Bealings, Suffolk, who was an innkeeper.
-* Although John Brinkley was illegitimate, he was brought up by his mother and step-father who supported him financially.
 * There is some confusion concerning John Brinkley's date of birth.
 * Brinkley's date of birth of July 1766, which we give above, is a guess based on the following data.
 * Brinkley's schooling was for a year with the Rev Mr Dimsdale in his school in Benhall, Suffolk, and for three years he received private tuition by the Rev Mr Black, of Woodbridge, at the Rev Black's home.
@@ -38,8 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Maskelyne had no hesitation in recommending Brinkley although he was only 24 years old.
 * John Stack (1760-1813), had entered Trinity College Dublin in 1777, and was made a fellow in 1784.
 * Unable to appoint Stack after the veto, the Board had little option but to appoint Brinkley at a meeting on the 11th  December 1790.
-* About a year after he arrived in Dublin, Brinkley married Esther Weld, a daughter of Matthew Weld, the Sheriff of Dublin, of Molesworth Street, Dublin and Elizabeth Kane.
-* John and Esther Brinkley had three children, John Brinkley (1793-1847), Matthew Brinkley (1797-1855) and Sarah Jane Brinkley (1801-1827).
 * When Brinkley took up his roles as professor and Royal Astronomer at Dunsink Observatory, the Observatory was lacking in good equipment for observing.
 * When Brinkley was appointed to Dunsink Observatory, the instrument had still not been delivered and, as years went by, it still failed to be delivered.
 * The problems with lack of quality instruments at Dunsink Observatory must have been a great frustration to Brinkley but, on the other hand, it led to a number of positive outcomes.

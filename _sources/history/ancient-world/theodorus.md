@@ -31,6 +31,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The first point is that Plato does not credit Theodorus with a proof that the square root of two was irrational.
 * This must be because √2 was proved irrational before Theodorus worked on the problem, some claim this was proved by Pythagoras himself.
 * There is no doubt that Theodorus would have constructed lines of length √3, √5 etc.
+* So the question which naturally comes next is how did Theodorus prove that √3, √5, ..., √17 were irrational without giving a proof which would clearly prove that any non-square number was irrational.
+* It is almost impossible to conceive that Theodorus would have used this proof on each of √3, √5, ..., √17 without obtaining a general theorem long before he got to 17.
 * However there is little chance to do more than guess at Theodorus's method.
 
 Born 465 BC, Cyrene (now Shahhat, Libya). Died 398 BC, Cyrene (now Shahhat, Libya).

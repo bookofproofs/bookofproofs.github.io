@@ -23,21 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Olga Taussky-Todd** was an Austrian born mathematician who worked on algebraic number theory and matrix theory.
 
 ### Mathematical Profile (Excerpt):
-* Olga was the middle child of three girls, with three years separating her both from her older sister and from her younger sister.
-* When Olga was three years old the family moved to Vienna.
-* There Olga attended primary school and although she did well, her older sister was the star pupil.
 * Olga received the top or second top grade for arithmetic but her favourite subjects were essay writing and grammar.
-* In 1916 the Taussky family moved again, this time to Linz where Olga's father had a job as director of a vinegar factory which, in addition to vinegar made jams and soft drinks.
 * When she was 14 years old Olga entered the high school where she spent a year before studying at the Gymnasium.
-* Olga's father died when she was in her final year at school so she increased her tutoring to try to help out the family finances.
 * At Vienna Olga was taught by Furtwängler, Hahn, Wirtinger, Menger, Helly and others, while she was a fellow student of Gödel.
-* They spent some time in Belfast with Jack's mother and some time in Oxford where Taussky-Todd's College had moved to avoid the London air raids.
-* At this time Taussky-Todd wrote some papers on group theory, for example studying groups in which, in today's terminology, every subnormal subgroup is normal.
 * Given leave of absence from her College to undertake war work, Taussky-Todd worked at the National Physical Laboratory ay Teddington between 1943 and 1946.
 * Just to illustrate this let us note that during this time Taussky-Todd wrote several papers which were published by the Ministry of Aircraft Production in London.
 * These papers she published under the name Olga Todd, while most of her other papers she wrote under the name Olga Taussky, with a few latter papers written under the name Olga Taussky-Todd.
 * In 1947 Olga and Jack when to the United States, with the original intention of spending a year there, and they worked at the National Bureau of Standards' National Applied Mathematics Laboratory after spending a while at the Institute for Advanced Study at Princeton working on von Neumann's computer project.
-* In 1955 Taussky-Todd and her husband spent a year's leave at the Courant Institute in New York where she taught a matrix theory course and her husband taught a numerical analysis course.
 * In 1957 Olga and Jack both accepted appointments at the California Institute of Technology.
 * Olga's best-known and most influential work was in the field of matrix theory, though she also made important contributions to number theory.
 * Finally we should mention some of the many honours Taussky-Todd received for her mathematical contributions.

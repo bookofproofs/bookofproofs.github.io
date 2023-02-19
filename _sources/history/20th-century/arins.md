@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Arins' parents were Latvian workers but were in exile in Siberia at the time of his birth.
-* Arins mother died in exile in Siberia in 1918, but in 1921 Arins and his father returned to the then independent country of Latvia.
 * Arins attended secondary school in Daugavpils (German Dünaburg, Russian Dvinsk) which is a city in southeastern Latvia on the Western Daugava River.
 * In 1929 Arins graduated from the school in Daugavpils and he entered the University of Latvia in Riga in 1930.
 * During this extremely difficult period the University of Latvia continued to operate and Arins continued his undergraduate studies.

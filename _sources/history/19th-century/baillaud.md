@@ -23,13 +23,8 @@ contributors: @I-J-Falconer,@J-G-Mena,@J-J-O'Connor,@T-S-C-Peres,@E-F-Robertson,
 **Édouard Baillaud** was a French astronomer who specialised in celestial mechanics, in particular the motions of the satellites of Saturn.
 
 ### Mathematical Profile (Excerpt):
-* His father, Joseph Désiré Baillaud (1811-1889) had served in the military for seven years, and had instilled the importance of education in his son.
-* Benjamin was one of seven children, two of whom died young.
-* The family were poor and Benjamin might have had to end his education early to get a job had it not been for his elder sister Emma (1843-1934) who worked as a substitute teacher; Benjamin was for ever grateful for the advantage this gave him.
 * His teachers suggested that he look for a position as a teacher but Baillaud had higher ambitions.
-* There he lived with his uncle Louis Baillaud who had moved to Lyon to help his nephew.
 * Graduating from the lycée in Lyon, Baillaud entered the École Normale Supérieure.
-* These three would remain lifelong friends, and in some sense become each other's family: Baillaud would go on to marry, on 31 December 1873, Marie Hélène Pons (1847-1920), a sister of Bouty's wife; Tannery would go on to marry Baillaud's sister, Esther.
 * Baillaud graduated with a mathematics degree from the École Normale Supérieure in 1869 and was appointed to teach mathematics at the lycée in Montauban.
 * Baillaud, as a teacher, was not called for military service in the Franco-Prussian war of 1870-71.
 * Baillaud, who had succeeded Le Verrier as Professor of Astronomy at the University of Paris, was a candidate for the vacant post in Toulouse.

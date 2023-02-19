@@ -23,12 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Adolph Göpel**  was a German mathematician who wrote an early paper on hyperelliptic functions.
 
 ### Mathematical Profile (Excerpt):
-* This enabled Göpel to spend several years in Italy in his youth for, from the age of ten, he travelled around Italy with this uncle who was taking an interest in science.
-* Although he was only 13 years old at the time, Adolph attended mathematics and physics lectures at the University of Pisa during the winter of 1825-26, while his uncle was there on business.
 * In 1829 Göpel entered the University of Berlin where, in addition to his main area of study which was mathematics, he also took classes in physics, chemistry, and even philosophy, philology, history and aesthetics.
 * After completing his studies at the University, Göpel taught at the Werder Gymnasium and at the Royal Realschule.
 * Göpel's doctoral dissertation studied periodic continued fractions of the roots of integers and derived a representation of the numbers by quadratic forms.
 * This was done by Göpel and Johann Rosenhain in works published almost simultaneously.
+* In 'Theoriae transcendentium' .., Göpel started from 16 theta functions in two variables ...
 * Göpel linked four more of these quadratics through a homogeneous fourth degree relation, later named the 'Göpel relation' which coincides with the equation of the Kummer surface.
 
 Born 29 September 1812, Rostock, Germany. Died 7 June 1847, Berlin, Germany.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Lazarus Fuchs** was a Prussian mathematician who worked on differential equations and the theory of functions.
 
 ### Mathematical Profile (Excerpt):
-* We do not have dates for Lazarus's parents but we know that at the time he wrote his doctoral thesis his mother was deceased but his father was still alive.
 * Mathematics became the subject which, even at this early stage, Fuchs knew was going to dominate the rest of his life.
 * In addition to his school studies, Fuchs had to earn money by giving private tutoring and his abilities for developing hidden skills and talents in his pupils were quickly appreciated so that he became a much sought-after teacher.
 * One of his friends was Leo Königsberger who was four years younger that Fuchs and was also a pupil at the Friedrich Wilhelm Gymnasium in Posen.
@@ -43,8 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1860, Fuchs converted to Evangelical-Lutheran Christianity.
 * Before obtaining his doctorate, Fuchs was appointed to a teaching post at a Gymnasium in Berlin on 19 March 1859.
 * Fuchs also held a second post in Berlin from 23 May 1867 when he was appointed as professor of mathematics at the Artillery and Engineering School.
-* In 1868 Fuchs married Marie Anders (23 July 1849 - 10 May 1917).
-* They had four sons and two daughters including Clara Fuchs (1869-1954) and Richard Fuchs who became a mathematician and has a biography in this Archive.
 * We note that Richard Fuchs and Ludwig Schlesinger jointly edited Lazarus Fuchs' complete works: Gesammelte mathematische Werke von L Fuchs which was published by Mayer & Müller, Berlin in three volumes in 1904, 1906 and 1909.
 * Fuchs took up the professorship in Greifswald on 3 February 1869, the position becoming vacant since Leo Königsberger, who had taught at Greifswald for five years, had been appointed to a chair of mathematics at Heidelberg.
 * After spending five years in Greifswald, Fuchs moved again, this time to Göttingen where he took up an appointment as an ordinary professor on 23 January 1874.

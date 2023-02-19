@@ -31,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Dickson received a Ph.D. from the University of Chicago in 1896 for a dissertation entitled The Analytic Representation of Substitutions on a Power of a Prime Number of Letters with a Discussion of the Linear Group.
 * Dickson then spent some time with Lie at Leipzig and later with Jordan in Paris.
 * However Eliakim Moore and his colleagues in Chicago were keen that Dickson should return there and they offered him a permanent post on the faculty.
-* Dickson married Susan McLeod Davis in 1902; they had two children.
 * Dickson's mathematical output was vast and his list of published works contains 275 items.
 * However we should note that before publishing the book, Dickson had already published 43 research papers in the preceding five years which, with the exception of seven, were all on finite linear groups.
 * Dickson published 17 books in addition to Linear groups with an exposition of the Galois field theory.

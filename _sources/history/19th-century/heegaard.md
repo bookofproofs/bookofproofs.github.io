@@ -23,16 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,@H-J-Munkholm,@Odense-Denmark,bookofp
 **Poul Heegaard** was a Danish mathematician who (with Max Dehn) was the first to classify compact surfaces.
 
 ### Mathematical Profile (Excerpt):
-* His father, Sophus Heegaard (1835-1884), first studied theology, but after taking a degree in that subject he changed to study philosophy.
-* He was a dozent in philosophy at the University of Copenhagen when his son Poul was born, being promoted to full professor in 1875.
-* Poul's mother was Louise Henriette Laurenze Fensmark (1839-1929) and he was the second of his parent's two children, having an older sister Henny.
-* Sadly, however, before Poul began his high school studies his father had a stroke and, around the same time, his sister Henny died.
 * At this stage Heegaard decided that he would benefit for international experience and received a stipend to support a year's study abroad.
 * It has often been assumed that Heegaard's interest in Poincaré's work started in Paris.
 * In order to support himself while working on his dissertation, Heegaard took a number of jobs teaching in high schools as well as undertaking some tutoring at the Polytechnic Institute.
-* The Heegaard's first child was born a year after their marriage and was named Lorenz after Magdalene's father.
 * Heegaard submitted his dissertation Forstudier til en topologisk Teori for de algebraiske Fladers Sammenhaeng  Ⓣ(Preliminary studies towards the topological theory of connectivity of algebraic surfaces) and successfully defended it in 1898.
-* Heegaard had been interested in astronomy since he was a child and in 1901 he began publishing a series of popular article on the topic.
 * His friends encouraged him to apply for Thiele's chair of astronomy following his retiral in 1906 but Heegaard knew he lacked the necessary experience as an astronomer so did not apply.
 * Another important mathematical contribution by Heegaard is his 1907 survey article (with Max Dehn) Analysis Situs where the authors set out the foundations of combinatorial topology.
 * After his dissertation, Heegaard taught at various military schools in the Copenhagen area for more than 10 years.

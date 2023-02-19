@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * She was named Hendrika Cornelia Scott and only became known as Henda Swart after her marriage to the mathematician John Henry Swart (1940-2012).
 * It was at university that she met John Henry Swart who, after undergraduate studies, earned an M.Sc. from the University of Stellenbosch.
-* Let us note at this point that Henda and her husband John Henry Swart had three children, Christine, Sandra and Gustav.
 * In addition to teaching at the University of Natal, Swart undertook part-time studies at the University of Stellenbosch aiming at writing a geometry thesis to obtain her doctorate.
 * Swart's degree was the first D.Sc. in mathematics awarded by the University of Stellenbosch.
 * Swart spent a sabbatical leave at the University of New Mexico, Albuquerque, New Mexico, USA.

@@ -24,22 +24,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Jean Cabannes specialised in optics and was trained in the laboratory of the physicist Charles Fabry (1867-1945) in Marseille.
-* Henri was one of his parents' four children.
 * It was in Montpellier that Henri Cabannes began his schooling.
-* The family had moved to Paris in 1937 when Jean Cabannes was appointed as a professor in the Faculty of Science in Paris.
 * Henri entered the École Polytechnique in 1941 while he was still a pupil in the special preparatory Mathematics class at the lycée Saint-Louis.
 * Cabannes, being born in 1923, was not affected by this but, nevertheless, he decided to interrupt his studies at the École Normale Supérieure and try to reach England or North Africa.
 * The war ended in May 1945 and by July Cabannes was back in France.
-* In addition to this remarkable publication record, Cabannes had married Madeleine Lebon.
 * Henri and Madeleine were both Roman Catholics and met at the Catholic youth gatherings.
-* Henri and Madeleine Cabannes had five children, Jean-Pierre, Jean-Paul, André, Hélène, and Benoît.
 * Cabannes's doctoral thesis was examined by Henri Villat, Joseph Pérès and Georges Valiron.
 * In 1952 Cabannes was promoted to Professor of Rational Mechanics at the Faculty of Science in Marseille and in the following year he became a member of the council of the French Mathematical Society.
-* We said above that we would give more details of the Cabannes' children.
 * Cabannes spent 9 months as a Visiting Professor at Laval University, Quebec, Canada during 1956-57.
-* The three children André, Hélène, and Benoît were born while Cabannes was still working at the Faculty of Science in Marseille.
 * Henri was rather glad of that; he said, "Five is good." Madeleine was helped by a very nice girl living at their home, but her baby, the little Hélène and Jean-Paul did not let her be idle.
-* In 1960 the Cabannes family moved from Marseille to Paris when he was appointed Professor of General Mechanics at the Faculty of Sciences of Paris.
 * We have details of what Cabannes taught since he published Cours de mécanique générale Ⓣ(General mechanics course) in 1962.
 * In 1966 Cabannes published the collection of exercises Problèmes de mécanique générale Ⓣ(General mechanical problems) and in the same year published a second edition of Cours de mécanique générale Ⓣ(General mechanics course.).
 * Cabannes was appointed as Professor of General Mechanics at the Pierre and Marie Curie University (Paris 6) in 1969.

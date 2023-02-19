@@ -24,15 +24,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Jean Pérès was the author of the book L'Art et le Réel, Essai de méta-physique fondée sur l'esthétique Ⓣ(Art and the Real, Essay on meta-physics  based on aesthetics) (1898) and of several papers on philosophy.
-* In 1906 Joseph entered the special class in mathematics at the Lycée in Caen, the school where his father was at that time professor of philosophy.
 * After one year of preparation at this Lycée, Joseph sat the entrance examinations for the École Normale Supérieure and the École Polytechnique.
-* Joseph, like his father, chose to study at the École Normale Supérieure in Paris, entering in 1908 and graduating three years later.
 * At the École Normale Supérieure, the professors who had the most influence on Pérès were Ernest Vessiot, Émile Borel and Jacques Hadamard.
 * Pérès graduated with his agrégé in mathematics in 1911 and was awarded a scholarship to support him while he undertook research for his doctorate.
-* It was during this period, when he was completing work on his thesis, that Pérès married the daughter of Léon Robin (1866-1947), who was an historian of ancient philosophy and a leading expert on Plato.
 * After Pérès returned to France from Italy, he taught at the Lycée at Montpellier and he was there when he submitted his thesis Sur les fonctions permutable do Volterra Ⓣ(On the permutable functions of Volterra)  on 30 January 1915 to the Faculty of Sciences in Paris for the degree of Doctor of Mathematical Sciences.
 * Pérès was examined in May 1915 by three examiners, Émile Borel (President), Ernest Vessiot and Jacques Hadamard.
-* Pérès and his wife had a son Léon Joseph Jean Marie Pérès (1915-1998) who was born in Montpellier while Pérès was teaching at the Lycée there.
 * Pérès taught at Montpellier until 1919, then at Toulouse from 1919 to 1920.
 * It was at Marseilles that Pérès's son, Jean-Marie Pérès, attended the Lycée Thiers and the Lycée Saint-Charles.
 * Despite this setback, Jean-Marie Pérès went on to become an outstanding zoologist and marine ecologist.

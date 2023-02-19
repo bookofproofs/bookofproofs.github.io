@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Thomas Clausen** was a Danish mathematician who wrote over 150 papers on pure mathematics, applied mathematics, astronomy and geophysics.
 
 ### Mathematical Profile (Excerpt):
-* His parents were Claus Clausen (1772-1851), the son of Johan Clausen and Sille Jacobsdatter, and Cecilia Rasmusten (1781-1862), the daughter of Thomas Rasmussen and Marike Peters.
-* The family were poor farmers and Thomas worked on the farm from a young age.
 * When he was twelve years old, Thomas began working for the priest in the neighbouring parish, Georg Holst.
 * Thomas was employed to look after cattle, but Holst quickly realised that he was very intelligent so while still working with the cattle, Thomas also attended the local school.
 * Despite being unable to read or write when he started his lessons, Thomas quickly progressed showing a remarkable aptitude for mathematics.
@@ -39,8 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The reluctance seems to have been on account of Clausen lacking breeding rather than on account of his work.
 * After his first paper, mentioned above, Clausen published two further papers in Volume 2 of Astronomische Nachrichten in 1824: Mondssterne in Altona beobachtet Ⓣ(Observations of  the moon and stars made in Altona), and Anzeige von Druckfehlern Ⓣ(Display of misprints).
 * Three further papers appeared in 1825: Längendifferenzen aus Mondsculminationen Ⓣ(Calculating distances from lunar observations); Auszug aus einem Briefe des Herrn Thomas Clausen an den Herausgeber Ⓣ(Extract from a letter of Thomas Clausen to the editor); and Resultate der Mondssterne beobachtungen Ⓣ(Results observations of the moon and stars).
-* There were, however, distractions for Clausen since his father became ill, their farm was being sold, and three of his siblings were still too young to support themselves.
-* Relations between Schumacher and Clausen went from bad to worse when Clausen fell in love with Schumacher's niece who lived in the same house as her uncle (and Clausen).
 * There was no way that Schumacher would allow his niece to marry someone of Clausen's lowly class so he tried to get him to leave Altona by arranging another position for him.
 * Schumacher suggested Clausen for the position, and the offer was accepted.
 * Clausen was delighted when informed of the job offer and wrote a letter of acceptance on 3 November.
@@ -61,7 +57,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Two years later Clausen received an honorary doctorate from the University of Königsberg.
 * He had been put forward for this honour by Bessel, who thought very highly of Clausen's extraordinary talents.
 * If Clausen had struggled to get positions earlier, this was no longer the case for he received an offer to go to the Observatory in Pulkowa, the leading Russian observatory.
-* Clausen never married and, after moving to Tartu, appears to have had no further contacts with his family back in Denmark.
 * Clausen wrote over 150 papers on pure mathematics, applied mathematics, astronomy and geophysics.
 * Clausen also gave a new method of factorising numbers.
 * Clausen's first love was mathematics, particularly number theory, although he had never received a formal mathematical training.

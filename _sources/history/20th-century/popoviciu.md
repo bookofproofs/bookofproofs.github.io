@@ -39,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Tiberiu Popoviciu is the founder of the Cluj School of Numerical Analysis.
 * The Institute of Numerical Analysis in Cluj, part of the Romanian Academy of Sciences, succeeded in gathering around it a group of gifted mathematicians, under the guidance of Tiberiu Popoviciu.
 * Popoviciu was the director of this Institute which, in 1961, produced one of the first Romanian computers DACICC-1 (Dispozitiv Automat de Calcul al Institutului de Calcul din Cluj).
-* In 1964 Popoviciu married the mathematician  Elena Moldovan, the daughter of Ioan Moldovan and of his wife Rozalia.
 * Some other achievements of Tiberiu Popoviciu were: the reactivation, in 1958, of the journal Mathematica (Cluj), the founding, in 1972, of the journal Revue d'Analyse Numerique et de Theorie de l'Approximation, and the opening, in 1967, of a research seminar: 'The Itinerant Seminar on Functional Equations', later renamed as 'The Itinerant Seminar on Functional Equations, Approximation and Convexity'.
 * Tiberiu Popoviciu was, in November 1948, elected a corresponding member and from 20 March 1963 a full member of the Romanian Academy.
 * Popoviciu published Numerical Analysis.

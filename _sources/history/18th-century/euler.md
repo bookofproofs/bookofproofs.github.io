@@ -25,16 +25,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Paul Euler had studied theology at the University of Basel and had attended Jacob Bernoulli's lectures there.
 * In fact Paul Euler and Johann Bernoulli had both lived in Jacob Bernoulli's house while undergraduates at Basel.
-* Paul Euler became a Protestant minister and married Margaret Brucker, the daughter of another Protestant minister.
-* Their son Leonhard Euler was born in Basel, but the family moved to Riehen when he was one year old and it was in Riehen, not far from Basel, that Leonard was brought up.
-* Paul Euler had, as we have mentioned, some mathematical training and he was able to teach his son elementary mathematics along with other subjects.
-* Leonhard was sent to school in Basel and during this time he lived with his grandmother on his mother's side.
 * This school was a rather poor one, by all accounts, and Euler learnt no mathematics at all from the school.
-* Euler's father wanted his son to follow him into the church and sent him to the University of Basel to prepare for the ministry.
 * Johann Bernoulli soon discovered Euler's great potential for mathematics in private tuition that Euler himself engineered.
 * In 1723 Euler completed his Master's degree in philosophy having compared and contrasted the philosophical ideas of Descartes and Newton.
-* Euler obtained his father's consent to change to mathematics after Johann Bernoulli had used his persuasion.
-* The fact that Euler's father had been a friend of Johann Bernoulli's in their undergraduate days undoubtedly made the task of persuasion much easier.
 * Euler completed his studies at the University of Basel in 1726.
 * By 1726 Euler had already a paper in print, a short article on isochronous curves in a resisting medium.
 * The Prize of 1727 went to Bouguer, an expert on mathematics relating to ships, but Euler's essay won him second place which was a fine achievement for the young graduate.
@@ -46,9 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In St Petersburg he lived with Daniel Bernoulli who, already unhappy in Russia, had requested that Euler bring him tea, coffee, brandy and other delicacies from Switzerland.
 * Euler became professor of physics at the Academy in 1730 and, since this allowed him to become a full member of the Academy, he was able to give up his Russian navy post.
 * Daniel Bernoulli held the senior chair in mathematics at the Academy but when he left St Petersburg to return to Basel in 1733 it was Euler who was appointed to this senior chair of mathematics.
-* The financial improvement which came from this appointment allowed Euler to marry which he did on 7 January 1734, marrying Katharina Gsell, the daughter of a painter from the St Petersburg Gymnasium.
-* Katharina, like Euler, was from a Swiss family.
-* Euler claimed that he made some of his greatest mathematical discoveries while holding a baby in his arms with other children playing round his feet.
 * We will examine Euler's mathematical achievements later in this article but at this stage it is worth summarising Euler's work in this period of his career.
 * The publication of many articles and his book Mechanica (1736-37), which extensively presented Newtonian dynamics in the form of mathematical analysis for the first time, started Euler on the way to major mathematical work.
 * Euler's health problems began in 1735 when he had a severe fever and almost lost his life.
@@ -56,10 +46,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Calinger suggests that Euler's left eye became blind from a later cataract rather than eyestrain.
 * By 1740 Euler had a very high reputation, having won the Grand Prize of the Paris Academy in 1738 and 1740.
 * Euler's reputation was to bring an offer to go to Berlin, but at first he preferred to remain in St Petersburg.
-* However political turmoil in Russia made the position of foreigners particularly difficult and contributed to Euler changing his mind.
 * Accepting an improved offer Euler, at the invitation of Frederick the Great, went to Berlin where an Academy of Science was planned to replace the Society of Sciences.
 * Even while in Berlin Euler continued to receive part of his salary from Russia.
 * Maupertuis was the president of the Berlin Academy when it was founded in 1744 with Euler as director of mathematics.
+* The king also charged Euler with practical problems, such as the project in 1749 of correcting the level of the Finow Canal ...
 * During the twenty-five years spent in Berlin, Euler wrote around 380 articles.
 * In 1759 Maupertuis died and Euler assumed the leadership of the Berlin Academy, although not the title of President.
 * The king was in overall charge and Euler was not now on good terms with Frederick despite the early good favour.

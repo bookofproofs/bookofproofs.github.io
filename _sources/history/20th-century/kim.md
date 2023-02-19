@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * We note that the Korean ordering of his names would be Kim Ki-Hang and, for reasons we will explain below, he also used the name Kim Ki-Hang Butler.
-* For example, when Ki Hang Kim filed a declaration of intent in 1954 to allow him to join the U.S. Air Force, he transliterated his father's name as Jeen Kigng Kim and his mother's name as Mayhryn Hong.
 * The situation with Kim's names is, however, even more complicated since in 1960 he took American nationality and at that time changed his name by decree of Court from Ki-Hang Kim to Keyhany Keem.
 * Despite this change of name, he only seems to have used the new form for a few years before reverting to Ki-Hang Kim.
 * By age 12, Kim already knew some Chinese, Japanese, English and Russian, and had skipped a couple grades of school.
@@ -34,16 +33,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Americans offered Kim the chance of coming with them as they left and gave him six hours to decide.
 * Kim went and left his parents and siblings.
 * Kim travelled with the Americans to Taegu Airbase (sometimes spelt Daegu, and also known as K-2).
-* Kim was always grateful to Colonel Butler and his family.
-* The Butler family were living in Columbus, Georgia, USA, at this time and Kim joined them there.
 * In the Army, Kim served as an interpreter for intelligence units in Korea and Japan.
 * After a year in the Army, Kim passed a high school equivalency exam.
 * Before joining the U.S. Army, Kim filled out a Declaration of Intent for the Immigration and Naturalization Service on 25 November 1954, at this time for the purpose of joining the U.S. Air Force.
 * After two years service, Kim was discharged from the U.S. Army and, in December 1957, entered the Mississippi Southern College in Hattiesburg, Mississippi, USA.
 * In January 1960 Kim received American nationality under the name Keyhany Keem.
 * At this stage Kim would have wished to progress to a Ph.D. but he did not have the funds to set out on such a programme.
-* At Hartford, Kim met Myong Ja Hwang and they were married on 31 July 1963; they had two children John Churl Kim born 1965 and Linda Youngmi Kim born December 1970.
-* Marriage meant that he had to delay starting his Ph.D. so he continued to teach at Hartford until 1966 when he enrolled for a Ph.D. at George Washington University in Washington D.C. With a family to support, Kim had to take a job in addition to his study for a Ph.D. and he took a position teaching at St Mary's College in Maryland.
 * Kim was awarded the degree of Ph.D. in February 1971 for his 125-page thesis On (0,1)-Matrix Semigroups and, before the award of the degree, was employed by Pembroke State University, North Carolina as an associate professor of mathematics.
 * His early papers, published under the name Kim Ki-hang Butler, are Binary relations (1971), On Kim's conjecture (1971), On (0,1)-matrix semigroups (1971), On a Miller and Clifford theorem (1971), and An identity in combinations (1971).
 * The local newspaper Robesonian (Lumberton, North Carolina) regularly reported on Ki-Hang Kim's activities while he served on the faculty of Pembroke State University.
@@ -57,9 +52,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One of them, Anthony Hudson, told me that Dr Kim was one of the best teachers he had ever known.
 * Dr Kim sometimes said that mathematics was his avocation as well as his vocation, and often worked 7 days a week.
 * In his last years he had a number of health problems, including heart problems requiring a quadruple bypass operation and kidney failure requiring dialysis.
-* On 25 October 2003 Kim's daughter, Linda Kim, married Kenneth Suslow.
-* She played a former lover of Tommy Lee Jones's character in ''Men in Black II'' (2002), and also appeared in ''Goldmember.'' A graduate of Boston University, she is the daughter of Myong Kim and Dr Ki Hang Kim of Montgomery, Alabama.
-* Dr Kim is survived by his wife, Myong Kim; son, John (married to Deborah) of Daphne, Alabama; daughter, Linda (married to Kenneth Suslow) of Los Angeles, California; grandchildren, Hayden Suslow and William Suslow; sister-in-law, Marion (Peter) Kwon of New Port, Virginia; brothers-in-law, Young Ho Swang of Glassonbury, Connecticut, Young Hoon Swang of New Jersey, New York.
 * Let us end with the following assessments of Kim's character.
 * Dr Kim was glad to talk with ordinary people like the custodians of our building as well as with famous mathematicians, and he always remembered the custodians generously at Christmas.
 * Kim's story is notable for the ability and drive by which he emerged from difficult circumstances and went on to great success.

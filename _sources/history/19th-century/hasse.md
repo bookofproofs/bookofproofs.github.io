@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Helmut Hasse** did fundamental work in algebra and number theory. He is e.g. known for [Hasse diagrams][bookofproofs$267].
 
 ### Mathematical Profile (Excerpt):
-* Helmut's education was at various secondary schools near to Kassel until in 1913, when he was 15 years of age, his father was appointed to an important position in Berlin and the family moved there.
 * Helmut studied for two years at the Fichte-Gymnasium in Berlin before volunteering for naval service during World War I.
 * In the academic year 1917/18 Hasse was stationed at Kiel on his naval duties and he was able to attend the lectures of Otto Toeplitz.
 * In fact he was most influenced by Hecke despite the fact that Hecke left Göttingen to take up an appointment in Hamburg only a few months after Hasse arrived in Göttingen.
@@ -37,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1930 Hensel retired from Marburg and Hasse was appointed to fill his chair.
 * The year 1933 was to be significant for all of Germany and for Hasse in particular.
 * When Weyl resigned from his professorship in Göttingen, Hasse received an offer as his successor.
-* It is hard to understand exactly what Hasse's views were in the middle of this political mess.
 * At one point, Hasse hoped to increase his influence with the authorities and so he applied for membership in the Nazi Party.
 * But one of Hasse's antecendents was a Jew and, therefore, membership was not granted.
 * From 1939 until 1945 Hasse was on war leave from Göttingen and he returned to naval duty, working in Berlin on problems in ballistics.

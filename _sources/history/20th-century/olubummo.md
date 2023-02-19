@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Yewande Olubummo** is a Nigerian mathematician who works in the United States. In 2006-2010 she was chair of the mathematics department at Spelman College. She publishes papers on functional analysis and dynamical systems. With National Science Foundation support she led a programme to encourage minority undergraduates in mathematics to go on to graduate study.
 
 ### Mathematical Profile (Excerpt):
-* Yewande was the eldest of his parents' there children, having younger siblings Ronke and Gboyega who both studied mathematics.
-* Adegoke Olubummo was a professor of mathematics at the University of Ibadan and for the first ten years of her life, the family lived on the university campus.
-* When Yewande was ten years old, the family moved from their home on the university campus to live in a house in Bodija, a district of Ibadan, Oyo State.
-* The University of Ibadan provided schooling for the children of its staff and Yewande attended the University of Ibadan Staff School for her primary education.
 * The school was designed to provide a good education for pupils to go on to the University of Ibadan and, after graduating from the high school, this is precisely the course that Olubummo followed.
 * Olubummo graduated with a B.Sc. from the University of Ibadan in 1980 and then had to spend a year as a Youth Corper.
 * Olubummo was sent to Keffi, Plateau State, where she taught mathematics at a high school.

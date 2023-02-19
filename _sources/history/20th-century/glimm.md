@@ -26,12 +26,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * William Glimm, born 7 May 1893 in Jersey City, New Jersey, USA, was a superintendent in a paper mill.
 * We note that William F Glimm was elected to the First Ward of the Republican County Committee in 1961.
 * James was born in Peoria, Illinois, but at the time of the 1940 census he was living at 833 Carleton Road, Westfield, Union, New Jersey.
-* At this time, all three children were at elementary school in Westfield, with James in the 1st Grade.
 * James grew up in Westfield and in 1947, when he was twelve years old, he received a First Class Award and a Merit Badge from the District 4, Watchung Area Council, Boy Scouts of America, the presentation taking place in Roosevelt Junior High School.
 * Glimm attended the New Westfield High School, graduating in 1952.
 * After graduating from Westfield High School, Glimm entered Columbia University, New York, where he studied engineering.
 * After graduating with a B.A., Glimm remained at Columbia University undertaking research advised by Richard V Kadison.
-* She was awarded an A.B. from Barnard College in 1958 and, after the birth of James and Adele's daughter Alison, Adele studied at Columbia University receiving an A.M. in 1962.
 * Glimm was awarded a Ph.D.by Columbia University in 1959 for his 40-page thesis On a certain class of operator algebras.
 * Three further papers by Glimm appeared in 1960, namely Unitary operators in C*-algebras, A Stone-Weierstrass theorem for C*-algebras, and Two Cartesian products which are Euclidean spaces.
 * A National Science Foundation Fellowship (1959-1960) allowed Glimm to spend the year from June 1959 to June 1960 at the Institute for Advanced Study at Princeton.

@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * William, who was his parents' only son, attended Lodge School, Barbados, from 1905 to 1915, and then spent 1915-16 at Codrington College, Barbados.
 * Greaves was appointed Chief Assistant at the Royal Observatory, Greenwich, in 1924.
-* While at Greenwich, Greaves had married Caroline Grace Kitto in 1926; their only son George Greaves became a mathematician.
 * Greaves was also elected a Fellow of the Royal Society in 1943.
 
 Born 10 September 1897, Barbados, West Indies. Died 24 December 1955, Blackford, Edinburgh, Scotland.

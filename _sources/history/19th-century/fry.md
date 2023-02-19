@@ -23,7 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Matthew Wyatt Joseph Fry** was one of the oldest members of the London Mathematical Society and left his library to it.
 
 ### Mathematical Profile (Excerpt):
-* M W J Fry left his library to the Society, and annual grants from the Central Societies Committee allow for further acquisitions.
+* M W J Fry also left his library to the Society, and annual grants from the Central Societies Committee allow for further acquisitions.
 * Fry took experimental science as his second subject.
 * In Trinity College, Dublin, much of the administrative work of the college and university is done by the Fellows, and as Fry displayed great aptitude for such work he was called on to fill many executive posts.
 

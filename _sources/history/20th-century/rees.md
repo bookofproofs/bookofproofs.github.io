@@ -25,10 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Moses Rees was born in New York on 26 July 1858 to parents Herman Rees and Mina Spiegel who had emigrated from Germany.
 * Moses Rees became an insurance agent.
-* Moses Rees met Alice Stackhouse in Lebanon Pennsylvania and they were married there on 1 September 1892.
-* Moses and Alice Rees had five children: Elsie Isabella Rees (1893-1975), Albert L Rees (1894-1992), Clyde Harvey Rees (1896-1967), Clarence Eugene Rees (1898-1966), and Mina Spiegel Rees (1902-1997), the subject of this biography.
 * Let us note here (where dates refer to the US census) that: Elsie Isabella Rees was a stenographer in publishing (1910), and had no occupation (1920 and 1930); Albert L Rees was a clerk in a steel company (1910) and was foreman in a gravel company (1920); Clyde Harvey Rees was a shipping clerk in a steel company (1910) and a salesman in a millinery company (1920); and Clarence Eugene Rees was a manager in an electric company (1920 and 1930).
-* When Mina was two years old the family moved from Cleveland to the Bronx in New York City.
 * Mina grew up in New York City and attended public school there but life was quite hard.
 * Rees, however, had already formed the opinion that the lecturers at the College were not well enough qualified.
 * Appointed as an assistant teacher at Hunter High School, Rees continued her studies at Columbia University.
@@ -52,12 +49,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * As more and more women, at all stages in their lives, started attending college and graduate school, Rees clearly saw the need for flexibility.
 * Rees strove to build a program at CUNY that nurtured instead of alienated these new types of students, and advocated for similar programs across the country.
 * Rees received many awards for her outstanding contributions.
-* She tried to hide the fact she had even been nominated from her husband, Dr Leopold Brahdy, a physician.
 * In addition Rees was awarded honorary degrees from around twenty universities and colleges.
 * Mina Rees was eminently intelligent.
 * Mina Rees was eminently civilised.
 * Among Rees's interests other than her academic work we mention oil painting, music, dance, literature, bird watching, travel and cooking.
-* Leopold Brahdy, Rees's husband, died on 30 November 1977.
 * Rees had retired in 1972 and died in the Mary Manning Walsh Home in Manhattan at the age of ninety-five.
 
 Born 2 August 1902, Cleveland, Ohio, USA. Died 25 October 1997, New York City, USA.

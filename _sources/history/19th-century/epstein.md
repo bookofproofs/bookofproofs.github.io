@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Paul Epstein** was a German mathematician best-known for his contributions to number theory.
 
 ### Mathematical Profile (Excerpt):
-* Theobald Epstein was a excellent scientist who had been taught astronomy by Karl Schwarzschild.
-* Paul had an older sister Cäcilie Epstein (7 November 1869 - 12 May 1939).
-* Paul had a step-sister Mathilde "Tilli" Epstein (11 June 1844 - 29 April 1875).
 * Paul studied at the Philanthropin Secondary School, graduating with his Abitur in 1890.
 * Epstein was taught at Strasbourg by Christoffel who became his thesis advisor.
 * After submitting his thesis Zur Lehre von den hyperelliptischen Integralen Ⓣ(On the theory of hyperelliptic integrals) on abelian functions, Epstein received his doctorate in 1895 from the University of Strasbourg.
@@ -41,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Epstein did not attempt to emigrate.
 * The Gestapo broke into Epstein's house but found that he was seriously ill and could not be moved.
 * At this point Epstein must have known that his only chance was to leave Germany.
-* However, Siegel seems to be incorrect in believing that Epstein's sister had already emigrated.
 * Tilly Epstein was a teacher at the Philanthropin Secondary School in Frankfurt from 1901.
 * She emigrated to England, but this was not until 1941 after Paul Epstein had committed suicide.
 * Let us return to the story of Epstein's last days.

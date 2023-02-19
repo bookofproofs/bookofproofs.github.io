@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After completing his National Service, Morton matriculated at Corpus Christi College, Oxford, where he studied mathematics.
 * At Oxford, Morton attended lectures on quantum mechanics delivered by the South African Jacobus Stephanus de Wet (1913-1995), known to all as Jack.
 * Hilbert is one of the most influential mathematicians of his time, and his famous address to the International Congress of Mathematicians in Paris in 1900, where he announced a number of unsolved problems, was to Morton's mind 'crucial' in its plea that mathematics should always remain a single, undivided subject.
-* In 1952 Morton married Patricia Mary Pearson; they had two sons and two daughters.
 * Morton graduated with a B.A. in 1952 and began working in the Theoretical Physics Division of the Atomic Energy Research Establishment at Harwell (which was in Berkshire at the time but, following boundary changes in 1974, is now in Oxfordshire).
 * Morton also published the single-authored paper A generalisation of the antithetic variate technique for evaluating integrals (1957).
 * As a consequence of his contributions to this area, Morton was invited by the Courant Institute of Mathematical Sciences in New York to spend some time there.

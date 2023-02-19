@@ -39,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We have talked about mathematical puzzles invented by Loyd.
 * At first sight one would not expect there to be a unique solution to this problem, but Loyd was well aware that a logical argument would find the one and only one solution.
 * Not only did Loyd produce puzzles, he also gave performances of tricks.
-* He was a skilled ventriloquist and later in his life performed on stage with his son who appeared able to read his mind, but actually mimed while Loyd used his ventriloquist skills to make his son appear to give correct answers.
 * Loyd produced over 10 000 puzzles in his lifetime many involving sophisticated mathematical ideas.
 
 Born 31 January 1841, Philadelphia, Pennsylvania , USA. Died 10 April 1911, New York, USA.

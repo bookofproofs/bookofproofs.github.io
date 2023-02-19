@@ -24,15 +24,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * James Wiegold was born near Caerphilly on 15 April 1934.
-* James, or Jimmy Boy as he was then called, much to his later chagrin, was the fifth child of Walter Wiegold, a mining surface worker originally from London, and his Welsh wife Elizabeth, a woman of remarkable intelligence and forceful personality.
-* Jim and Christine Wiegold had three children, Helen, Alison and Richard.
 * Wiegold had graduated B.Sc. with First Class Honours in Mathematics from Manchester in 1954, then spent a year working for his M.Sc. which he received one year later.
 * The Pure Mathematics Department in the Faculty of Technology was led by Hanna Neumann and Wiegold had already started joint work with her on certain products of groups which they called linked products before he joined the staff at Manchester.
 * In 1963 Wiegold left Manchester and returned to Wales when he was appointed as a Lecturer at the University College of South Wales and Monmouthshire, now Cardiff University.
 * In 1966 Wiegold was promoted to Senior Lecturer.
 * Both Bernhard and Hanna Neumann had left Manchester in the same year that Wiegold went to Cardiff.
 * When Wiegold visited, Hanna Neumann held the chair of pure mathematics in the School of General Studies and Bernhard Neumann was Head of the Mathematics Department at the Institute of Advanced Studies.
-* Wiegold's youngest sister Liz went out to Australia with Jim and his family, and remained at ANU as a history student after they left.
 * Wiegold was promoted to a Readership at Cardiff in 1969.
 * In 1974 Wiegold became a professor when given a personal chair in the University College, Cardiff.
 * We have already indicated the contents of Wiegold's thesis, the main results of which he published in 1959.

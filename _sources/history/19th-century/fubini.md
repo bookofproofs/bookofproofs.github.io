@@ -32,8 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1908 Fubini moved to Turin where he taught both at the Politecnico and at the University of Turin.
 * Fubini's interests were exceptionally wide moving from his early work on differential geometry towards analysis.
 * Fubini was forced to retire from his chair in Turin.
-* Certainly Fubini had no wish to leave Italy but he had two sons who were engineers and, always a man who was devoted to his family, Fubini decided that his sons had no future in a country whose official policy was anti-Semitism.
-* When he received an invitation from the Institute for Advanced Study in Princeton in 1939 Fubini made the decision which he believed was best for his family.
 * They emigrated to the United States immediately, although Fubini himself was in rather poor health by this time.
 * As remarked above, Fubini's interests in mathematics were wide.
 * Fubini also worked on the theory of groups.

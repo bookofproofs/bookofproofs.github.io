@@ -26,12 +26,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Zsigmond Kalmár was a bailiff on an estate in Transdanubia in northwestern Hungary, the estate being located about 30 km from Lake Balaton.
 * Zsigmond Kalmár died while László was a young boy and Rósa Kalmár then moved to Budapest with László.
 * Kalmár began his secondary schooling in Budapest during World War I.
-* However, while still at secondary school Kalmár's mother also died so by the time he entered the University of Budapest in 1922 he was an orphan.
 * As a student at the University of Budapest Kalmár had teachers who were leading mathematicians so he received teaching which brought him to the cutting edge of research.
 * Kalmár would later provide important help to Péter in her career.
 * Kalmár graduated in 1927 and the direction of his work was influenced when he visited Göttingen in 1929.
 * At Szeged Kalmár acted at first as a research assistant to both Haar and Riesz.
-* In 1933 Kalmár married Erzsébet Arvay and they had four children.
 * Kalmár was appointed a full professor at Szeged in 1947.
 * Kalmár was also involved in theoretical computer science and promoted the development of computer science and the use of computers in Hungary.
 * For his outstanding contributions to mathematics and computer science Kalmár received many honours.

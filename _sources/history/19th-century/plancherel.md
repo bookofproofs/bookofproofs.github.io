@@ -23,13 +23,9 @@ contributors: @Norbert-Hungerbühler,bookofproofs
 **Michel Plancherel**'s main research fields were analysis, mathematical physics and algebra.  He is best known for Plancherel's theorem in harmonic analysis.
 
 ### Mathematical Profile (Excerpt):
-* Michel Plancherel's father, Donat Plancherel, was born in 1863 in Bussy, a village in the district de la Broye in the Kanton Fribourg, close to Estavayer-le-Lac.
 * Donat Plancherel was a teacher, first in Villaz-Saint-Pierre and later in Bussy.
-* Michel Plancherel was born January 16, 1885, as the first of 8 children.
 * However two of Michel's siblings died in early life.
-* In 1892, the family moved to Fribourg (Freiburg), where Donat Plancherel worked as administrator of the printing plant St-Paul and as an editor of La Liberté, the local newspaper.
 * Simultaneously, he was a professor at the Collège St-Michel (1896-1912) and at the École secondaire de jeunes filles.
-* Michel's character was coined by his father's sense of order, conciliation, affability and directness.
 * After moving to Fribourg, Michel was sent to school and attended the Collège St-Michel in the section which prepared for ETH Zürich (called Eidgenössisches Polytechnikum at that time).
 * However, Michel chose to study at the faculty of science at the University of Fribourg.
 * Under Lerch's supervision, Michel finished his excellent doctoral thesis Sur les congruences (mod 2m ) relatives au nombre des classes des formes quadratiques binaires aux coefficients entier et à discriminant négatif Ⓣ(On the congruence (mod 2m) on the number of classes of binary quadratic forms with integer coefficients and negative discriminant) in 1907.
@@ -42,8 +38,6 @@ contributors: @Norbert-Hungerbühler,bookofproofs
 * Plancherel collected over 2 million Swiss Francs, an immense sum at that time.
 * During the great depression in the 1930's Plancherel was the director of the service for voluntary work, and, after 1948, president of the Swiss Winterhilfe, an organization to help people during hard winters.
 * It is reported that Plancherel was deeply enrooted in his Christianity: among other activities he presided the Mission Catholique Française in Zürich.
-* Michel Plancherel was married to Cécile Tercier, born January 15, 1891 in Adrey, close to Gryère.
-* Thirteen grandchildren were the joy of Plancherel's older days, after Cécile died November 24, 1952.
 * Michel Plancherel died on March 4, 1967: In full possession of his physical faculties and of unbroken intellectual freshness.
 * Michel Plancherel was buried on March 8, 1967, on the cemetery of Fluntern in Zürich.
 * Michel Plancherel's main research fields were analysis, mathematical physics and algebra.

@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * We know very little of Harriot's youth.
-* It is from this record that his date of birth is deduced to be 1560 and we know that his father was a "commoner" but the very fact that Harriot was entering Oxford means that it is unlikely that he came from the poorest classes.
 * As an undergraduate at Oxford, Harriot was a student at St Mary's Hall.
 * He became friends with Richard Hakluyt and Thomas Allen, both lecturers at the university, but not at St Mary's Hall.
 * Harriot graduated in 1580 and went to London.
@@ -37,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Harriot, together with Drake's ships, landed at Portsmouth in July 1586 and he went immediately to Raleigh to report on the expedition.
 * By the time Harriot had returned, Raleigh had turned his attention to Ireland.
 * Harriot carried out surveys of the Lismore estate, which was owned by Raleigh, beginning in 1589.
-* However the political situation was about to change and this would have dramatic implications for Harriot.
 * Harriot felt that this was a reference to him and he discussed the allegations with John Dee (who also felt that the charges might relate to him).
 * There is no reason to believe that Harriot (or Raleigh) were atheists but certainly they were free thinkers and Harriot's scientific approach to the world was, to say the least, viewed with great suspicion by the church.
 * As well as problems caused by allegations, Dee and Harriot discussed scientific and mathematical matters in the 1590s.

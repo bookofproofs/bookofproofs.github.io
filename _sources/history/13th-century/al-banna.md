@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ibn al-Banna** was an Islamic mathematician who wrote a large number of works including an introduction to [Euclid's Elements][bookofproofs$621], an algebra text and various works on astronomy.
 
 ### Mathematical Profile (Excerpt):
-* It is a little unclear whether al-Banna was born in the city of Marrakesh or whether it was the region of Marrakesh which was named Morocco by Europeans.
 * There is a claim that al-Banna was born in Granada in Spain and moved to North Africa for his education.
 * The strong link between Granada and Morocco may account for the confusion as to which country al-Banna was a native.
 * Morocco was certainly the country that al-Banna was educated in, learning the leading mathematical skills of the period.

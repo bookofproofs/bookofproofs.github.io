@@ -23,15 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Andrei Bolibrukh** was a Russian mathematician known for his work on ordinary differential equations and especially Hilbert's 21st problem.
 
 ### Mathematical Profile (Excerpt):
-* Andrei Andreevich's mother, Tat'yana Ivanovna Pimanikhina, showed a talent for mathematics and entered college before marrying at nineteen and devoting herself to raising her son and his sister Tat'yana.
 * Andrei Vlas'evich was posted to quite a number of different places as Andrei Andreevich was growing up and, as a consequence, the boy attended a variety of different schools in different parts of the country - mainly in Moscow, Tallin, and Kaliningrad.
-* When he was six years old, the family were living in a forest in Belorussia and Andrei's father decided to prepare him to begin his schooling.
-* Although Andrei saw comparatively little of his father, who was busy working, he remembered happy holidays making trips by car or train to interesting places in the Baltic states.
 * Andrei kept a low profile among his extrovert and noisy contemporaries.
 * Bolibrukh graduated with his diploma (equivalent to a Master's Degree) in 1972 having written a thesis on calculations of the cobordism of manifolds with certain relations on the characteristic classes of their tangent bundles.
 * Bolibrukh had begun to take an interest in mathematical topics outside the area of the research he was undertaking for his Candidate's degree, attending an informal seminar organised by A V Chernavskii to study the multi-dimensional Riemann-Hilbert problem.
 * He began working at the Moscow Institute of Physics and Technology but, rather surprisingly, it was two years after completing research for his thesis that Bolibrukh defended it at Moscow State University and was awarded his Candidate's Degree.
-* During these years Andrei and his wife Nina started a family and his son, also called Andrei, and daughter Ekaterina were born.
 * What appeared to be turning into a rather ordinary career for Bolibrukh changed dramatically in 1989 when he solved Hilbert's 21st  problem, also known as the Riemann-Hilbert problem.
 * It was still believed that what was required was a correction in Plemelj's method to give the expected positive answer but Bolibrukh produced a major surprise when he proved in 1989 that certain prescribed conditions on the singularities led to a negative solution.
 * This brilliant work constituted Bolibrukh's doctoral thesis (equivalent to a D.Sc. or habilitation), awarded in 1991, and suddenly he went from being a rather ordinary mathematician to being a real star.

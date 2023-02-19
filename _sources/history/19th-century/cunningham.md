@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ebenezer Cunningham** was an English mathematician who worked in relativity.
 
 ### Mathematical Profile (Excerpt):
-* Ebenezer had an older brother George (born about 1879) and a younger brother Charles  (born about 1884).
 * Ebenezer Cunningham was educated at Owen's School Islington and from there he won an open mathematical scholarship to St John's College, Cambridge, which he entered in 1899.
 * Although Cunningham's early papers were on analysis, he was soon to change topic.
 * Cunningham published The Principle of Relativity in 1914, the first English book on the topic.

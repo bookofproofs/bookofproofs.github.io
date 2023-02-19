@@ -24,10 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * It would be reasonable to ask at this point why Douglas Northcott's name was not Douglas Robertson.
-* Douglas never knew his father since, tragically, he was killed in an accident only weeks after his son was born.
-* His mother was Clara Freda Behl and she remarried when Douglas was two years old so he grew up believing that her husband, Arthur Kynaston Northcott, was his father.
-* Only when he was a teenager was he told about the death of his father, but he had a deep attachment to Arthur Northcott and in 1935 he went through the legal process of changing his name from Douglas Robertson to Douglas Northcott.
-* The Northcott family were poor and Douglas grew up in a somewhat difficult circumstances in a poor area of London.
 * The mathematics master C J A Trimble was a fine teacher and this combined with Northcott's outstanding abilities saw him win, in 1935, a Bayliss Scholarship to enter St John's College, Cambridge to study mathematics.
 * Highly successful undergraduate years saw Northcott become a Wrangler in the Mathematical Tripos of 1937.
 * Hardy was popular as a research supervisor and at this time already had six students but he recognised Northcott's potential and so he took him on as his seventh student.
@@ -44,7 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In particular Emil Artin and Claude Chevalley were running a seminar which Northcott attended and soon found himself attracted to the subject.
 * Artin suggested that he read papers by André Weil and soon Northcott was producing interesting results.
 * After nearly two years at Princeton, Northcott returned to Cambridge where he had been awarded a research fellowship for St John's College.
-* Although Northcott was happy in Cambridge, his family had now outgrown the college flat that he lived in so he decided to look for other openings.
 * Northcott remained the head of a department for 30 years, until his retirement in 1982.
 * In 1960 Northcott published An introduction to homological algebra.
 * Northcott retired in 1982 and in that year the London Mathematical Society held a meeting in Sheffield in his honour.

@@ -24,16 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * As we mention below, Pier Vincenzo Rainaldi was an outstanding scholar and his friends gave him the nickname Dante (or Danti) after the brilliant author of the Divine Comedy.
-* The name stuck, and Pier Vincenzo's son Guilio also became known as Danti.
 * For simplicity, we shall use the name Egnatio Danti throughout this article.
-* Egnatio was born into a family of artists and scholars with mathematical talents.
-* Both his father, Guilio Danti, and grandfather, Pier Vincenzo Rainaldi (Danti), were goldsmiths and architects who had written works on art.
-* Pier Vincenzo Rainaldi (Danti) had a brother Giovanni Battista Rainaldi (Danti) who made contributions to mathematics and mechanics.
 * Egnatio also had an aunt named Teodora who had written a work on Euclid's Elements and also books on art.
-* Egnatio's brother Vincenzo, who was six years older, became famous as a sculptor who was strongly influenced by Michelangelo.
-* As he grew up Egnatio was taught the fundamentals of painting, architecture, and astronomy by his father and his aunt.
 * At the age of 18, on 7 March 1555, Egnatio Danti entered the Dominican Order having already attended courses at the University of Perugia.
-* Since Danti's brother Vincenzo was a sculptor at Cosimo's court, it is likely that it was this family connection which secured Danti this assignment.
 * In 1566 Pope Pius V requested that Danti use his architect's skills to design Santa Croce, the church of the Dominican monastery at Bosco Marengo near Alessandria.
 * Pius V had been born at Bosco Marengo so it was a project of great importance to him and, as well as the church, he asked Danti to design the monastery at Bosco Marengo.
 * Danti designed the church as a Latin cross with a dome over the crossing.
@@ -53,10 +46,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * From 1577 Danti accepted a commission from Ghisilieri, the Governor of his native city of Perugia, to map the area around Perugia but this only took him away from Bologna for short periods and during this period he continued with his duties at the University of Bologna.
 * While he lived in Bologna, Danti continued his interest in astronomical instruments and he built a gnomon at the cathedral.
 * The first edition of Trattato dell' Uso, e della fabbrica dell' astrolabio con l'aggiunta del planisfero il Planisferio del Roias was published by Danti in 1569, while the second edition appeared 1578.
-* e comentata da Frate Ignazio (1571) was Danti's commentary on his grandfather's Italian translation of Sacrobosco's Sphere which we referred to near the beginning of this article.
 * Among Danti's mathematical publications are editions of some of Euclid's works, in particular he published an Italian translation of Euclid's optical treatise under the title La prospettiva di Euclide tradotta e annotata in 1573.
 * The next work by Danti we mention is Usus et tractatio gnomonis magni, quem Bononiae ipse in Divi Petroni templo conferit anno domini 1576 which was published in Bologna but contains no date of publication.
-* In Le scienze mathematiche ridotte in tavole (1577) Danti produced a compendium of mathematical knowledge including a summary of the fifteen books (now all lost except the first) by his brother Vincenzo.
 * Danti's description of a machine he made to measure the wind appears in Anemographia.
 * One of Danti's most interesting publications was Le due regole della prospettiva pratica di m.
 * Finally, among Danti's publications, we mention Trattato del radio latino (1586) which is Danti's work describing his surveying instrument.

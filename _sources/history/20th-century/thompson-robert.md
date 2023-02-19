@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * He entered the University of British Columbia in Vancouver where he received his bachelor's degree, and then continued to study for his master's degree at the same university.
-* For his doctoral studies, however, Thompson moved to the United States, and he became Olga Taussky-Todd's first Ph.D. student at California Institute of Technology, beginning his studies shortly after she arrived there with her husband.
 * Thompson was awarded a Ph.D. in 1960 for his thesis Commutators in the Special and General Linear Groups.
 * In 1961 Thompson published a paper Commutators in the special and general linear groups in the Transactions of the American Mathematical Society which was based on results from his thesis.
 * In the paper he looks at matrices over a field KKK with at least 4 elements.

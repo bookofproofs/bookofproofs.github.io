@@ -23,13 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Brouncker** was an Irish mathematician who was a founder and the first president of the Royal Society of London. He worked on continued fractions and calculated logarithms by infinite series.
 
 ### Mathematical Profile (Excerpt):
-* William Brouncker's mother was Winifred Leigh who came from Newenhan in Warwickshire.
-* In a time in England when King and Parliament would fight the Civil War, the Brouncker family were staunch Royalist supporters.
 * We know little of Brouncker's early life.
 * About the first we know for certain of Brouncker is that he entered Oxford University when he was sixteen years old and there he studied mathematics, languages and medicine.
-* This was a difficult time for Brouncker for the political situation in England was in turmoil.
-* Brouncker and his father were Royalists and were very definitely on the losing side.
-* On 12 September 1645 Brouncker's father became Viscount Brouncker of Castle Lyons.
 * The First Viscount Brouncker of Castle Lyons did not live long to enjoy the peerage he bought for he died two months later.
 * At this time William Brouncker, his mathematician son, succeeded him to the title becoming the Second Viscount Brouncker of Castle Lyons.
 * It was a time for Royalists to keep their heads down if they wanted to survive and that is exactly what Brouncker did.
@@ -42,13 +37,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Brouncker was one of those who signed a Declaration acknowledging Monck's rights.
 * Brouncker stood in the new parliamentary elections and was elected as Member for Westbury in 1660.
 * On Wednesday 28 November 1660 Brouncker was one of a dozen scientists at a meeting in Gresham College which constituted their Society for the Promoting of Physico-Mathematical Experimental Learning which they declared would promote experimental philosophy.
-* Brouncker's father had been vice-chamberlain to Charles when he was Prince of Wales and so Brouncker was well known to the new King who soon repaid him for his loyal support.
 * In 1662 the King appointed Brouncker as Chancellor to Queen Anne and Keeper of the Great Seal.
 * Brouncker worked hard for the Society ensuring that it was active.
 * The Royal Charter which was passed by the Great Seal on 15 July 1662 created the Royal Society of London and the Royal Charter nominated Brouncker as its first President.
 * Given the quality of the founder members of the Society, it might be considered slightly strange that Brouncker, certainly not the most eminent academically, was made President.
 * Well certainly Brouncker was on the best terms with the King and this must have been a major factor, but there were other reasons.
-* Brouncker was a man of independent means, and he was also unmarried, so he had time to devote to the Society which most others would not have had.
 * Again nobody could have been more enthusiastic in promoting the aims of the Society than Brouncker so he was a good choice.
 * Brouncker now took on a number of roles.
 * One of Brouncker's interests was in ships and he built, to his own design, a yacht for King Charles II.
@@ -63,8 +56,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It is believed that Euler made an error in naming the equation 'Pell's equation', and that he was intending to acknowledge the outstanding contribution made by Brouncker.
 * It is interesting to think that if Euler had not made this error then Brouncker, instead of being relatively unknown as a mathematician, would be universally known through 'Brouncker's equation'.
 * Brouncker has gained a somewhat unfortunate reputation.
-* There are other negative comments regarding his character which are believed to be unfair in that the writer has confused Brouncker with his brother Henry Brouncker.
-* It seems a cruel twist that two misidentifications, mistaking him for Pell and also for his brother Henry, has led to Brouncker receiving less than his just deserts.
 
 Born 1620, Castlelyons (N of Cork), Ireland. Died 5 April 1684, Westminster. London, England.
 

@@ -23,19 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alexander Friedmann** was a Russian physicist and mathematician best-known for his work on the theory of relativity and in particular for introducing the possibility of an expanding universe.
 
 ### Mathematical Profile (Excerpt):
-* Friedmann's father was a ballet dancer and his mother was a pianist.
 * However the parents divorced when Alexander was nine years old.
-* Records show that the church sided with the father and Alexander stayed with his father who soon remarried.
 * Alexander entered the Second St Petersburg Gymnasium in August 1897 and his record shows a quite ordinary school performance at first.
 * Soon however Friedmann became one of the top two pupils in his class.
 * In 1905 Friedmann and Tamarkin wrote a paper on Bernoulli numbers and submitted the paper to Hilbert for publication in Mathematische Annalen.
-* The year 1905 was not only one of great scientific importance for Friedmann, it was also one where he was extremely active politically.
 * Friedmann and Tamarkin were student leaders of strikes at the school in protest at the government's repressive measures against schools.
 * Friedmann graduated from school in 1906 and entered the University of St Petersburg in August of that year.
-* There he was strongly influenced by Steklov who had taken up an appointment at St Petersburg in the year Friedmann entered and shared Friedmann's political views.
 * Friedmann was also influenced by Ehrenfest who moved to St Petersburg in 1906.
 * By 1907 Ehrenfest had set up a modern physics seminar which was attended by a number of young physicists and by the two young mathematicians Friedmann and Tamarkin.
-* While Friedmann was an undergraduate at St Petersburg his father died.
 * After he completed his studies in 1910 his scientific advisor, Steklov, wrote a reference for Friedmann to continue his studies.
 * In January of this year, Mr Friedmann submitted to me an extensive study of about 130 pages, in which he gave a quite satisfactory solution of the problem.
 * Friedmann began to study for his Master's Degree and, in 1911, became involved with a circle formed to study mathematical analysis and mechanics.

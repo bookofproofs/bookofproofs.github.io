@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gaspard Monge** is considered the father of differential geometry because of his work _Application de l'analyse à la géométrie _ where he introduced the concept of lines of curvature of a surface in 3-space.
 
 ### Mathematical Profile (Excerpt):
-* His father was Jacques Monge, a merchant who came originally from Haute-Savoie in southeastern France.
-* Gaspard's mother, whose maiden name was Jeanne Rousseaux, was a native of Burgundy and it was in the town of Beaune in Burgundy that Gaspard was brought up.
 * Around the time that Gaspard was born Beaune, after a period of decline, was becoming prosperous again due to the success of the wine trade.
 * Monge attended the Oratorian College in Beaune.
 * It was at this school that Monge first showed his brilliance.
@@ -47,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Realising that he had to obtain advice from the leading mathematicians, Monge approached d'Alembert and Condorcet early in 1771.
 * Condorcet must have been impressed with the depth of the mathematics that Monge showed him, for he recommended that he present memoirs to the Académie des Sciences in each of the four areas of mathematics in which he was undertaking research.
 * The four memoirs that Monge submitted to the Académie were on a generalisation of the calculus of variations, infinitesimal geometry, the theory of partial differential equations, and combinatorics.
-* In 1777 Monge married Cathérine Huart and, since his wife had a forge, he became interested in metallurgy in addition to his wide range of mathematical and scientific interests.
 * After three years of dividing his time between Paris and Mézières, Monge was offered yet another post, namely to replace Bézout as examiner of naval cadets.
 * Monge would have liked to keep all these positions, but after attempting to organise an impossible schedule for about a year, he decided that he would have to resign his posts in Mézières, which he did in December 1784.
 * This was to completely change the course of Monge's life.
@@ -83,8 +80,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After Napoleon was defeated at Waterloo, Monge continued to see him until he was put on board a ship on 15 July.
 * By October Monge feared for his life and fled from France.
 * Monge returned to Paris in March 1816.
-* If Napoleon actually said that Monge loved him like a mistress, it proves that the utmost mathematical clarity can go hand in hand with political blindness.
 * We have commented quite frequently regarding Monge's scientific work above.
+* Practical concerns induced Monge to perceive the object and function of mathematics in a new way, in violation of the formalistic (linguistic) standards set by the approved patrons of mathematics ...
 
 Born 9 May 1746, Beaune, Bourgogne, France. Died 28 July 1818, Paris, France.
 

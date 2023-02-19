@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Joseph Langley Burchnall** was an English mathematician who worked in the theory of differential operators.
 
 ### Mathematical Profile (Excerpt):
-* It was a large family with Henry and his wife Ann Newport having four sons and two daughters - Joseph was their first child.
-* Around 1900, when Joseph was eight years of age, the family moved north-east when his father became a school master in the village of Butterwick, near Boston, in Lincolnshire.
 * Joseph was educated at Boston Grammar School, supported by a Holland County Council Scholarship, where he won the Parry Gold Medal in 1908.
 * It is not entirely clear that an academic career was Burchnall's first choice for, later in life, he told a friend that he would have liked to have joined the Civil Service but thought that with his disability life in London would be too difficult.
 * He played a large part in the discussions on reconstitution, and although the Durham Council's recommendations were not all implemented, it was due to Burchnall and a small group of others that the Durham Colleges emerged from this chastening period with so much of their character intact.

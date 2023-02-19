@@ -23,11 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Paolo Frisi** was an Italian mathematician who wrote on geometry, mechanics and cosmology.
 
 ### Mathematical Profile (Excerpt):
-* Paolo's paternal grandfather, Antonio, was originally from Strasbourg and had arrived in Lombardy as a military man in the Hapsburg army.
-* Paolo's father, Giovanni Mattia, worked in government procurement and was able to provide a comfortable life for his family.
-* Paolo was the second child in a family of eight children.
-* Paolo had three younger brothers, Filippo, Antonio Francesco and Luigi.
-* Paolo's father died young and left the large family in difficult financial circumstances.
 * Frisi entered the Barnabite Arcimbolde school in Milan in or before 1741.
 * Pietro Verri (1728-1797) was the same age as Frisi and they studied together at the Arcimbolde school.
 * He remembered that in 1741-42 Frisi, who was at that time his companion in the Arcimbolde, stood out for his reliability and attendance at the Ambrosiana Library.
@@ -62,7 +57,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * These major works include Algebra e geometrica analitica Ⓣ(Algebra and analytic geometry) (1782), Meccanica Ⓣ(Mechanics) (1783), and Cosmografia Ⓣ(Cosmography) (1785) which contain much of Frisi's earlier work, but written up in a polished form.
 * Frisi was also editor of the newspaper Il caffè.
 * After this, the Scuola Palatina, where Frisi was professor of mathematics, was moved to the Palazzo Brera, which had been a Jesuit College until the suppression.
-* This was far from where Frisi lived in the lodgings of the Barnabite Order, so he requested that he be allowed live with his family.
 * In August 1778 Frisi made a third trip abroad, going to Switzerland.
 * Frisi was honoured by election to many academies; we have indicted when he was elected to several of these academies above.
 * Streets named after Frisi include: the Via Paolo Frisi, Milan; the Via Paolo Frisi, Melegnano; the Via Paolo Frisi, Lissone; the Via Paolo Frisi, Pavia; the Via Paolo Frisi, Rome; and the Via Paolo Frisi, Bologna.

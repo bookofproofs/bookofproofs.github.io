@@ -28,7 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Gergonne gave his support becoming a captain in the National Guard.
 * The Assembly called for 100,000 military volunteers and Gergonne joined the French army being assembled to defend Paris against the Prussians.
 * On 20 September 1792 Kellermann led the French forces at Valmy with Gergonne in his army.
-* Following this great French victory, Gergonne went to Paris where he became a secretary to his uncle.
 * Gergonne returned to the French army, this time as secretary to the general staff of the Moselle army.
 * Gergonne spent a month at the Châlons artillery school in 1794 and after this he was commissioned as a lieutenant.
 * Gergonne was attached to these forces which entered Spain and laid siege to the town of Figueras capturing it.

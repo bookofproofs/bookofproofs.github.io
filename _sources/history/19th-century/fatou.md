@@ -24,13 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Ernest Fatou began his navy career in 1847 and became a Lieutenant in 1861.
-* He was the son of navy pharmacist Jean-Baptiste Fatou and his wife Jeanne Mougeat.
-* Ernest Fatou had four younger brothers, Ambroise (a medical doctor), Eugène (a medical doctor), Émile (a navy captain) and Alfred (a pharmacist).
-* Pierre's mother, Louise Eulalie Courbet, was the daughter of Pierre Courbet, an artillery Lieutenant in the navy, and Félice Fardet.
-* Ernest and Louise Fatou were married on 25 July 1866.
-* Pierre was the youngest of his parents' four children having an older brother Louis Fatou (1867-1957), and two older sisters Ernestine Fatou (1869-1911) and Jeanne Fatou.
-* Louis Fatou followed a family tradition, joining the navy and becoming an admiral.
-* Pierre, the subject of this biography, might have followed the same route into the navy, which it appears his family would have liked, but his health was not sufficiently good for him to pursue this type of career.
 * Fatou studied at the lycée in Lorient.
 * Leaving Lorient in 1894, Fatou went to Paris where he studied elementary mathematics and special mathematics at the Collège Stanislas for three years.
 * Fatou spent the year 1897-98 at the lycée Saint-Louis in Paris preparing for the entrance examinations to the École Normale Supérieure and the École Polytechnique.
@@ -45,9 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Fatou seems also to quite readily suppose that everybody knows or sees the same thing as he does and gives rather few explanations.
 * This report is quite in keeping with the modesty we know that Fatou displayed.
 * After considering Lebesgue's suggestions, he resubmitted the thesis and, on 14 February 1907, Fatou received his doctorate for this important work.
-* His family were very flattered, but some would have preferred that Pierre Fatou had been given a more modest intellectual capacity, less abstract and hence more accessible, but with a less original exterior more consistent with the traditions of his community.
-* At the time he joined the French Mathematical Society in late 1904, Fatou was living with his mother at 172 Boulevard Montparnasse, Paris, close to the Paris Observatory.
-* Following the death of his mother, Fatou continued to live at 172 Boulevard Montparnasse.
 * Fatou enters this history in a rather complicated way and the book does an excellent job in explaining an interesting episode in the history of mathematics.
 * Fatou wrote a long memoir which did indeed use Montel's idea of normal families to develop the fundamental theory of iteration in 1917.
 * Given that the topic had been proposed for the prize, it is not surprising that another mathematician would also work on the topic, and indeed Gaston Julia also produced a long memoir developing the theory in a similar way to Fatou.

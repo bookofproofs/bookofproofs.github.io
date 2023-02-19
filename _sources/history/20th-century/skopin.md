@@ -23,9 +23,7 @@ contributors: @Vitaliy-I-Mysovskikh,bookofproofs
 **Alexander Skopin** was a Russian mathematician who worked in abstract algebra.
 
 ### Mathematical Profile (Excerpt):
-* Skopin's mother was a chemist.
 * Afterwards, the image of Ivan Alexandrovich became an example of a mathematician and professor which inspired Skopin.
-* At the end of the War Skopin had to interrupt his schooling to help his mother feed the family.
 * There Skopin passed the high school examinations without attending classes and entered the Department of Mathematics and Mechanics of Leningrad University where he was an outstanding student.
 * Skopin continued his interest in this area up to the early nineteen sixties.
 * From the middle of the nineteen sixties until the early seventies Skopin's scientific activity was reduced because of a heavy burden of administrative duties.

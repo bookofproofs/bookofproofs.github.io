@@ -23,20 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **George Temple** was an English mathematician who worked on a wide variety of topics including analysis, relativity, aerodynamics and quantum mechanics.
 
 ### Mathematical Profile (Excerpt):
-* George's mother was Frances Compton (born in Broadwell, Oxfordshire in 1857) who was always known as Fanny.
-* James Temple, who was baptised on 4 August 1845, was the second child of his parents, the shepherd John Temple and his wife Ann, having an older brother George, and younger siblings Sarah and Joseph.
-* Fanny Compton, baptised on 8 March 1857, was the daughter of George Compton, a tailor and Clerk of the Parish, and his wife Elizabeth.
-* James Temple married Fanny Compton on 26 December 1896 at St Luke's, Kingston-Upon-Thames, Surrey, England.
-* George Frederick James Temple, the subject of this biography, was their only child, born at 134 Wornington Road, North Kensington, London and baptised on 6 October 1901 at Notting Hill, Christ Church, Kensington and Chelsea, England.
-* The family were living in London because James Temple was working at Paddington Station.
-* At the 1911 UK Census, James Temple was 65 years old and had retired, and the family were living at 15 Altenburg Avenue, Ealing.
 * George was nine years old and attending school.
 * George Temple was educated in London, attending first Northfields Elementary School which was his local school in Northfields, the area of Ealing in which he lived.
 * There he was taught by Ray Gilbert who was the first of three teachers we mention whom Temple often spoke about later in life, stressing his good fortune at having such outstanding people to begin his mathematical education.
 * Temple began his secondary education at Ealing County School, later known as Ealing Grammar School for Boys, in the year it opened in 1913.
 * There he was taught mathematics by P G Goodall, the second of the three teachers praised by Temple.
-* James Temple, George Temple's father, died in February 1914 and was buried on 24 February.
-* This meant that George could not continue in full time education after his secondary schooling, so he left school in 1917, when fifteen years old, to seek employment to provide financial support for himself and his mother.
 * At this stage Temple continued to work for the Prudential Assurance Company as his day job and studied mathematics as an evening student.
 * During the year 1918-19, Temple studied mathematics and physics.
 * He was taught physics by Albert Griffiths (1867-1937) who quickly saw Temple's outstanding potential.

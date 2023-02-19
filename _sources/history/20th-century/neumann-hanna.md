@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hanna Neumann** worked in group theory. Her thesis examined free products with amalgamation. Later she worked on varieties of groups and her book _Varieties of Groups _ (1967) is a classic.
 
 ### Mathematical Profile (Excerpt):
-* He married Katharina Elisabeth Jordan and they had three children; Hanna was the youngest of the children having an older brother Ernst (born 1908) and a sister Dora (born 1910).
-* In addition to the sadness of never knowing her father, Hanna was brought up in difficult circumstances since the family had to survive on a war pension.
 * At the age of six Hanna entered a private school and, two years later in 1922, she began her studies at the Augusta-Victoria-Schule which was a Realgymnasium for girls.
 * This woman, who was to become a trusted friend in the turbulent Nazi years ahead, by the example of her fortitude, sense of humour, tolerance and wisdom, strongly influenced Hanna's view of people and events; her lack of hatred and bitterness, more than anything else, convinced Hanna that they have no place, ever, in human relations.
 * At Easter 1932, Hanna entered the University of Berlin.
@@ -38,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Between taking the Staatsexamen in 1936 and the summer of 1937 when she moved to Göttingen, Hanna took a job as a statistician at an institute of military economics.
 * When Hitler declared his decision to destroy Czechoslovakia at the end of May, Hanna realised that if she remained in Germany to complete her doctorate it could be many years before she would be able to marry Bernhard.
 * Hanna and Bernhard felt they could not openly marry until his parents were safe from possible reprisals.
-* Hanna and Bernhard were secretly married on 22 December 1938 at the local register office in Cardiff where Bernhard was working as a lecturer.
 * Hanna wrote her first paper On the elimination rule which was published in the Journal of the London Mathematical Society in 1940.
 * Bernhard was interned for a few months, following which he was drafted into the army, and Hanna enrolled at Oxford to study for a doctorate supervised by Olgar Taussky-Todd.
 * Hanna's thesis was on the subgroups of free products of groups with amalgamated subgroup, generalising the Kurosh subgroup theorem (proved in the 1930s) which describes subgroups of a free product of groups.

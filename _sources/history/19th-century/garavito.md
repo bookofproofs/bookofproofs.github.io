@@ -23,12 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Julio Garavito** was a Colombian mathematician and astronomer who also contributed to political economy.
 
 ### Mathematical Profile (Excerpt):
-* Hermógenes and Dolores had seven children who were all born in Bogotá: José María Garavito Armero (1860-1904); Jorge Garavito Armero (1862-1920); Julio Garavito Armero (1865-1920), the subject of this biography; José Felipe Hermogenes Garavito Armero (1868-1869); Justino Garavito Armero (1871-1926); Fernando Garavito Armero (1874-1927); and María Teresa Garavito Armero (1877-1927).
 * Colombia had achieved independence from Spain in 1810 becoming the Republic of Gran Colombia, then became the Republic of New Granada before changing its name to the United States of Colombia in 1863, two years before Julio Garavito was born.
 * In 1875, at the age of ten, Julio Garavito began his schooling at the Colegio de San Bartolomé in Bogotá.
 * This college had been run by the Jesuits but, by the time that Julio began his studies there, it had been nationalised and was being run by the state.
-* Hermógenes Garavito faced bankruptcy, probably due to fluctuations in the foreign markets, and moved to Fusagasugá, about 55 km southwest of Bogotá, with the three youngest children Justino, Fernando and María Teresa while Julio and his two older brothers remained in Bogotá for their education.
-* We note that by this time there were only six children, José Felipe Hermogenes Garavito having died in 1869.
 * At the Colegio de San Bartolomé, Julio Garavito was taught mathematics by Luis María Lleras (1842-1885).
 * Garavito graduated from the Colegio de San Bartolomé in 1884 but again in this year the United States of Colombia saw a civil war which grew more serious in 1885, with a rebellion by radical groups from the Liberal Party against the government, leading to the Battle of La Humareda.
 * Luis María Lleras, Garavito's former mathematics teacher, was killed in this battle.
@@ -36,8 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In his final thesis, this one in engineering, Julio Garavito proposed a triangular structure to build bridges just like the Sydney Harbour Bridge.
 * Garavito's mathematical thesis was entitled El Juego de la Aguja Ⓣ(The game of needles) which looked at probabilistic approaches to calculating π in the spirit of the Comte de Buffon's needle experiment.
 * Due to his outstanding performance, Garavito was appointed as head of the National Observatory of Colombia in 1892.
-* Garavito married María Luisa Cadena (1872-1917) on 23 May 1893 in Bogotá.
-* Let us note that María Luisa Cadena had a sister Isabel Cadena who married Julio Garavito's younger brother Justino Garavito who became a mathematician, astronomer and cartographer.
 * Justino Garavito graduated from the National University of Colombia, became a Professor of Mathematics and Engineering and an official at the Office of Longitudes.
 * In 1897 Garavito published Latitud del observatorio de Bogotá Ⓣ(Latitude of the Bogota Observatory) which contained the series of observations he had made to determine the latitude of the Bogotá Observatory.
 * Garavito organised informal teaching sessions, seminars and other activities for this broad range of scientists.
@@ -45,7 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * As an Observatory publication, El Cometa de 1901 Ⓣ(The comet of 1901) by Garavito was also published.
 * Garavito submitted the paper La teoría racional de las curvas planas y de reverso, sus conexiones posibles con la teoría de las covariantes e invariantes Ⓣ(The rational theory of plane and inverse curves, its possible connections with the theory of covariants and invariants) to the third Latin American Scientific Congress that met in Rio de Janeiro in 1905.
 * The Brazilian mathematician Otto de Alencar e Silva (1874-1912) criticised Garavito's paper in various sessions of the Congress and Garavito answered these criticisms in a paper in the Anales de Ingeniería.
-* Garavito continued to publish on mathematical and astronomical topics, particularly on mathematical optics, but, from 1906 onwards, he also published essays on political economy and philosophical criticism.
 * Garavito realised, before anyone else in Colombia, that paper money was nothing more than a forced contribution imposed on the country because it was not prepared for a more rational tax regime.
 * Garavito was interviewed by the press, wrote popular and academic articles such as El cometa Halley 1910 Ⓣ(Halley's comet  of 1910) and tried to demonstrate the unfoundedness of people's apprehensions.
 * Garavito, however, was reluctant to view space as non-euclidean, publishing Bancarrota de la ciencia?

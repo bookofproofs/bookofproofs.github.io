@@ -23,12 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Johannes van der Corput** was a Dutch mathematician who worked in the field of analytic number theory.
 
 ### Mathematical Profile (Excerpt):
-* They had six children: Hendrika Cornelia Adriana van der Corput (born 1883); Cornelis Adrianus Walterus van der Corput (born 1884); Adriana Henrica Cornelia van der Corput (born 1885); Josephus Walterus van der Corput (born 1887); Johannes Gualtherus van der Corput (the subject of this biography) (born 1890); and Gualtherus Adrianus Henricus van der Corput (born 1892).
 * Johannes was always known as Jan by his friends and colleagues.
-* Jan's father, Gualtherus Johannes van der Corput, does not appear to have had any particular mathematical skills but there were other van der Corput's who did have strong mathematical connections.
 * For example Johannes de Corput (1542-1611), also known as Johannes Corputius, was a Dutch engineer, cartographer and military leader.
-* Anna Maria van der Corput (1599-1645) married Jacob Witt (1589-1674) and they had eight children including the two mathematicians and statesmen Jan de Witt and Cornelius de Witt.
-* Jan van der Corput was not the only one of the six children to become a mathematician, for his brother Cornelis Adrianus Walterus van der Corput studied at Delft and became a secondary-school teacher of mathematics.
 * At the time that van der Corput studied there it was situated at the corner of the Coolsingel and the Laurensstraat.
 * In the end the recommendation of his secondary-school teacher, R H van Dorsten, was decisive: Jan should study mathematics, pure mathematics.
 * Van der Corput entered the University of Leiden where Jan Cornelis Kluyver (1860-1932) was the professor with research interests in analysis, differential geometry and number theory.
@@ -50,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * I: Simple integrals) (1934) and Zur Methode der stationären Phase.
 * II: Wiederum einfache Integrale Ⓣ(On the stationary phase method.
 * Van der Corput attended the International Congress of Mathematicians in  Strasbourg in September 1920, the International Congress of Mathematicians in  Zurich in September 1932, and was a plenary lecturer at the International Congress of Mathematicians in Oslo in July 1936 delivering the lecture Diophantische Approximationen Ⓣ(Diophantine approximations) on 17 July.
-* After her divorce, van der Corput married her on 31 August 1942, the birthday of the Dutch queen in exile.
 * At the beginning of 1945 van der Corput and two persons hiding at his house were arrested, but thanks to the help of some unknown person, he was released after three anxious weeks.
 * Van der Corput was a member of this group as was Gerardus J van der Leeuw, a professor of history and religion at Groningen.
 * After the war ended in 1945, van der Leeuw was appointed as Minister of Education for The Netherlands.

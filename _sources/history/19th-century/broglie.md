@@ -28,12 +28,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After being assigned a research topic in history he chose, after worrying greatly about the decision, to study for a degree in theoretical physics.
 * During the War de Broglie served in the army.
 * Taking up research in mathematical physics, de Broglie nevertheless maintained an interest in experimental physics.
-* His brother Maurice de Broglie was at that time carrying out experimental work on X-rays and this proved a considerable interest to de Broglie during the first few years of the 1920s during which he worked for his doctorate.
 * De Broglie's doctoral thesis Recherches sur la théorie des quanta Ⓣ(Researches on the quantum theory) of 1924 put forward this theory of electron waves, based on the work of Einstein and Planck.
 * the physics of matter, based on the concepts of particles and atoms which were supposed to obey the laws of classical Newtonian mechanics, and the physics of radiation, based on the idea of wave propagation in a hypothetical continuous medium, the luminous and electromagnetic ether.
 * But these two systems of physics could not remain detached from each other: they had to be united by the formulation of a theory of exchanges of energy between matter and radiation.
 * The success of Planck's ideas has been accompanied by serious consequences.
-* The wave nature of the electron was experimentally confirmed in 1927 by C J Davisson, C H Kunsman and L H Germer in the United States and by G P Thomson (the son of J J Thomson) in Aberdeen, Scotland.
 * De Broglie's theory of electron matter waves was later used by Schrödinger, Dirac and others to develop wave mechanics.
 * After his doctorate, de Broglie remained at the Sorbonne where he taught for two years, becoming professor of theoretical physics at the Henri Poincaré Institute in 1928.
 * From 1932 he was also professor of theoretical physics at the Faculté des Sciences at the Sorbonne.

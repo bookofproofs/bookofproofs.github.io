@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * However, by the time Steinhaus was born in Jasło, Austria had named the region the Kingdom of Galicia and Lodomeria and given it a large degree of administrative autonomy.
-* Steinhaus's uncle was an important person being a politician in the Austrian parliament.
 * Steinhaus studied for one year in Lemberg, spent one term in Munich but then spent five years studying mathematics at the University of Göttingen.
 * There he was influenced by an amazingly strong group of mathematicians including Felix Bernstein, Carathéodory, Courant, Herglotz, Hilbert, Klein, Koebe, Edmund Landau Landau (although he only arrived in Göttingen after Steinhaus had been there three years), Runge, Toeplitz, and Zermelo.
 * For his doctorate Steinhaus studied under Hilbert's supervision.

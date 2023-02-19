@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Al-Hasan Banu Musa** was one of the three Bana Musa brothers. He wrote about the ellipse.
 
 ### Mathematical Profile (Excerpt):
-* However, there is some information specific to the youngest brother: al-Hasan ibn Musa ibn Shakir.
 * Rashed claims, as we have suggested above, that while Archimedes' texts were being translated into Arabic for the first time, the Banu Musa (perhaps al-Hasan in particular) was trying to give new proofs of the Greek results as well as trying to prove results going beyond what the Greeks had achieved.
 
 Born about 810, Baghdad, Iraq. Died after 873, Baghdad, Iraq.

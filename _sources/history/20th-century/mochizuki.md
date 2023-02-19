@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Horace was brought up on a farm in the Great Central Valley, in California, U.S.A. Horace was only four years old when over 180 Japanese aircraft attacked Pearl Harbour on 7 December 1941.
-* When the war ended Horace was eight years old and for a short while the family lived in New York.
 * Mochizuki was very musical and while at high school he also attended the Music Academy of the West in Santa Barbara where he played the violin.
 * Mochizuki's first three papers were on ring theory.
 * When Mochizuki arrived in Santa Barbara he soon met another young mathematician Seymour Bachmuth and in December 1965 they began a collaboration.

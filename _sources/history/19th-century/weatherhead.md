@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **K K Weatherhead** graduated from Edinburgh University although his studies were interrupted by service in World War I. He became an actuary, working for various Edinburgh insurance companies.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Margaret M Weatherhead born Glasgow about 1875.
 * Weatherhead was born at 18 Kelvinside Terrace, Glasgow.
 * He was educated at Giffnock Academy from 1902 to 1906, Harris Academy, Dundee, from 1906 to 1911, then Dundee High School from 1911 to 1916.
 * After having passed the Preliminary Examination, Weatherhead first matriculated at the University of Edinburgh in October 1916 where he was awarded the John Welsh Mathematical Scholarship.

@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Alexander attended primary school in Smyrna and began his secondary schooling there.
-* In 1922 his parents moved from Smyrna to Athens and Alexander moved with the family to complete the last three years of his secondary schooling there.
 * In 1931 Dinghas began his studies at Berlin.
 * However, many other talented mathematicians and theoretical physicists were also at Berlin and influenced Dinghas.
 * It was the teaching of Schmidt in particular which convinced Dinghas that mathematics rather than physics was the subject for him to pursue.

@@ -28,7 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Ratner graduated in 1961 having studied mathematics and physics as her main subjects.
 * After graduating, Ratner worked for four years in Kolmogorov's applied statistics group and in his special school for gifted high school students.
 * Of course Kolmogorov was an important influence on her during these years but a perhaps even greater influence was Yakov Grigorevich Sinai who was only three years older than Ratner and had been one of Kolmogorov's most outstanding students.
-* During these years, Ratner's daughter was born.
 * In 1969, after submitting her thesis Geodesic Flows on Unit Tangent Bundles of Compact Surfaces of Negative Curvature, Ratner graduated with a degree equivalent to a Ph.D. In this thesis she studied the ergodic theory of geodesic flows on negatively curved surfaces, dynamical systems with very random behaviour which arise geometrically.
 * After applying for a visa to emigrate to Israel, Ratner was dismissed from her position at the Engineering School in 1970.
 * At Berkeley, Ratner was promoted steadily until she reached the rank of full professor in 1982.

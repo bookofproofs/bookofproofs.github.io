@@ -23,12 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Bill Ferrar** was an English mathematician who worked on the convergence of series.  He is best known for his undergraduate text-books. He eventually became Principal of Hertford College Oxford.
 
 ### Mathematical Profile (Excerpt):
-* His father was George William Parsons Ferrar, the son of a journeyman baker George Ferrar, who was born in St Pauls, Bristol in 1869, and died in Yarmouth, Norfolk on 31 October 1918.
-* Bill's mother was Maria Susannah Dale, who was also born in St Pauls, Bristol in 1869, and died in Bristol on 30 January 1965.
-* George and Maria Ferrar were married on 24 October 1892 at St Matthias, Bristol.
-* Bill Ferrar, the subject of this biography, was the eldest of their three children, all boys.
-* He had younger brothers Herbert Hugh Ferrar (1896-1990), born 20 January, and Arthur Marchant Ferrar (1904-1979), born 24 October.
-* The Ferrar family were not well off and Bill's good education was only possible as a result of winning scholarships.
 * Bill Ferrar began his schooling in Ashley Down Infant School, and progressed to Queen Elizabeth's Hospital School, Brandon Hill.
 * Ferrar entered Queen's College Oxford in 1912 after winning a scholarship to the College in the examinations of December 1911.
 * Ferrar's tutor at the Queen's College was C H Thompson and he was very impressed with his young student.
@@ -36,8 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Watson arranged for Ferrar to study infinite series and, in particular, theorems relating to their convergence.
 * This was a very important time for Ferrar since it set him up for the Junior Mathematical Scholarship examinations and also gave him an introduction to the topic on which he spent much time on research for the rest of his life.
 * Immediately Ferrar volunteered for service in the army.
-* On 31 October 1918, Ferrar's father died and he was given a few days compassionate leave and was in Bristol on 11 November 1918 when the war ended.
-* Edna had been born in Nottingham on 15 October 1898 and it had been in Nottingham that Ferrar had met her when he visited his uncle's widow.
 * The death of J E Campbell left a vacant fellowship at Hertford College, Oxford, which Ferrar was invited to fill and he took it up in September 1925.
 * At the Annual Meeting of the Mathematical Association on 3 January 1939, Ferrar gave the talk Algebra in the Higher School Certificate.
 * Ferrar wrote many research papers which deal with the convergence of series, an interest which came from working with G N Watson at Cambridge during a summer vacation while an undergraduate.

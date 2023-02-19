@@ -4,10 +4,10 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: astronomy,origin-ireland
 orderid: 1814
-title: O&amp;#x27;Brien, Matthew
+title: O&amp;amp;#x27;Brien, Matthew
 born: 1814
 died: 1855
-keywords: matthew o'brien,o&amp;#x27;brien
+keywords: matthew o'brien,o&amp;amp;#x27;brien
 description: Matthew O'Brien was an Irish mathematician best known for his theory and application of the vector method.
 references: bookofproofs$6909
 contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Matthew O'Brien**  was an Irish mathematician best known for his theory and application of the vector method.
 
 ### Mathematical Profile (Excerpt):
-* Matthew, the subject of this biography, had an older brother Charles O'Brien, born 1807, who became a military man, serving in India and reaching the rank of Colonel.
 * Matthew's schooling was in Ennis but he left there in July 1830, when he was sixteen years old, and entered Trinity College Dublin.
-* Bartholomew Lloyd was Erasmus Smith professor of Natural and Experimental Philosophy when O'Brien entered but he became Provost of Trinity College Dublin in 1831 and was succeeded as professor of Natural and Experimental Philosophy by his son Humphrey Lloyd.
 * O'Brien graduated from Trinity College Dublin in 1834 and, on 3 November of the same year, he matriculated at Caius College, Cambridge.
 * At Cambridge O'Brien was tutored by William Hopkins and soon showed great promise.
 * In 1838 O'Brien graduated with a B.A. and was Third Wrangler in the Mathematical Tripos, meaning that he was ranked third in the list of candidates graduating with a First Class degree.
@@ -43,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He also sounds surprised that Stokes "was one of the unappointed candidates." We look in a moment at O'Brien's research contributions, but let us say here that Sylvester did not have long to wait to be appointed Professor of Mathematics at the Royal Military Academy in Woolwich since O'Brien died in 1855 and Sylvester filled his chair.
 * After becoming ill, O'Brien had travelled to Petit Ménage, Jersey, in order to recover his health.
 * We know little of O'Brien's private life but we do know that he had a son, Arthur Evanson O'Brien, who was born at Norwood, Middlesex, on 25 January 1849.
-* Arthur O'Brien, who was only six years old when his father died, attended school in Thirsk, Yorkshire, before entering Trinity College, Cambridge in October 1866.
 * We must return now to give an indication of the mathematical contributions that O'Brien made in addition to the books that we have mentioned above.
 * O'Brien found an error in one of Kelland's papers which he pointed out.
 * Kelland replied with a paper justifying his results and O'Brien responded again with a more detailed description of Kelland's error.
@@ -51,6 +48,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It is clear that O'Brien made a substantial contribution with the introduction of the vector and scalar product but, perhaps not surprisingly for this early attempt, there were weaknesses in his approach.
 * O'Brien's notation is different from the modern one.
 * He wrote u × v for what today is called the dot product u.v. O'Brien also uses u.v or Du.v for what today is called the vector product.
+* O'Brien begins by setting out the fundamental equations of motion of a rigid body ...
 * In 1847 O'Brien published another paper on vectors in which he tried to develop ideas of differential geometry.
 * By 1851 O'Brien had realised that his ideas had not made an impact and so he tried to make them more acceptable.
 * O'Brien's work was completely overshadowed by this 'publicity campaign'.

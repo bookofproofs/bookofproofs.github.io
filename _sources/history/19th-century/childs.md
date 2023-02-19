@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Bernard Childs** studied at Birmingham University and then became a lecturer in Physics at Edinburgh University. He was active in adult education.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Emily G Childs (born in Kingston about 1866).
 * In 1911, Charles Bernard Childs, our mathematician, was studying at The College, Hadham Road, Bishop's Stortford.
 * Childs studied at the University of Birmingham, graduating with a B.Sc. in 1920.
 * Childs was appointed as an Assistant Lecturer in Natural Philosophy at Edinburgh University in 1922.

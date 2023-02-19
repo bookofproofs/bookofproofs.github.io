@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Archibald Richardson** graduated from Imperial College London and then taught at the college. He was badly wounded in World War I. He became Professor of Mathematics at Swansea. His main interests were in algebra.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Elizabeth Richardson (born at Exning, Newmarket, Suffolk about 1851).
 * Archibald Read Richardson had siblings Constance (born about 1885), Lionel (born 1888), Charles (born about 1890) and Sarah (born about 1890).
 * Archibald Richardson was a student at Imperial College, London.
 * Richardson was awarded the D.S.O. for his bravery in the battle.

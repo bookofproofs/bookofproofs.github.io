@@ -23,17 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Nikolai Nikolaevich Luzin** was a Russian mathematician who made important contributions to the foundations of mathematics, measure theory and topology. He was head of the "Luzitania" research group at Moscow.
 
 ### Mathematical Profile (Excerpt):
-* Nikolai's father was a businessman, half Russian and half Buryat.
-* Nikolai was the only son of his parents and the family moved to Tomsk when he was about eleven years old so that he could attend the Gymnasium there.
 * For Luzin this was torture.
 * Fortunately the tutor was a talented young man who quickly discovered that, despite Luzin's poor performance in mathematics, he could solve hard problems but often using a novel method that the tutor had never seen before.
 * Soon the tutor had shown Luzin that mathematics was not a subject where one had to learn long lists of facts, but a topic where creativity and imagination played a major role.
-* In 1901 Luzin left the Gymnasium and at this time his father sold his business and the family moved to Moscow.
 * There Luzin entered the Faculty of Physics and Mathematics at Moscow University intending to train to become an engineer.
-* At first Luzin lived in the new family home in Moscow, but Luzin's father began to gamble on the stock exchange with the money he had made from the sale of his business.
-* The family soon hit hard times as Luzin's father lost all their savings and the family had to leave their home.
 * Luzin, together with a friend, moved into a room owned by the widow of a doctor.
-* Luzin stayed on by himself in the room but he clearly got on well with the owners since he later, in 1908, married the widow's daughter.
 * At Moscow University Luzin studied under Bugaev, learning from him the theory of functions which was to influence greatly the direction his research would eventually take.
 * However, although Luzin appeared to lack talent in mathematics, one of his teachers Egorov spotted his great talent, invited him to his home, and began to set him hard problems.
 * This had a major effect on Luzin, who was a close friend of Florensky, as we shall describe below.
@@ -43,8 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After returning to Russia, Luzin studied medicine and theology as well as mathematics.
 * His interest in mathematics slowly returned but it was not until 1909 that Luzin seems to have finally committed himself completely to mathematics.
 * In 1910 Luzin travelled abroad visiting Göttingen where he was influenced by Edmund Landau.
-* In 1914 Luzin and his wife separated for a short time and again Florensky seems to have helped them through the difficult time.
-* Florensky seems to have given good advice since Luzin and his wife returned to a successful marriage.
 * In 1917 Luzin was appointed as Professor of Pure Mathematics at Moscow University just before the Revolution.
 * The Revolution caused Luzin to rethink some of the same thoughts as he had done at the time of his crisis and again he exchanged letters with Florensky.
 * Over the next ten years Luzin and Egorov built up an impressive research group at the University of Moscow which the students called 'Luzitania'.

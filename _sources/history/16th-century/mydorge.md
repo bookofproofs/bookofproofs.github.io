@@ -23,11 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Claude Mydorge** was a French geometer who published books on optics and conic sections.
 
 ### Mathematical Profile (Excerpt):
-* His father Jean Mydorge was a councillor in the Parlement in Paris and a judge in the Grande Chambre.
-* This position was an ideal one for Mydorge for it was a high ranking important position, and therefore a worthy one for a member of a leading French family, yet it had light duties which meant that Mydorge could devote a large amount of his time to the subject he loved, namely mathematics.
 * Mydorge studied geometry and physics.
-* It seems that two English friends of the Mydorge family, William Cavendish, Duke of Newcastle, and Thomas Wriothesley, Earl of Southampton, took it to England, where apparently it disappeared.
 * Mydorge's work simplifies many of Apollonius's proofs.
+* Mydorge's book Examen du livre des récréations mathématiques Ⓣ(Examining the mathematical recreation book) was published in 1630 and many later books, such as one by Denis Henrion Les Récréations mathématiques avec l'examen de ses problèmes en arithmétique, géométrie, mécanique, cosmographie, optique, catoptrique ...
 * Mydorge left an unpublished manuscript Traité de géométrie Ⓣ(Treatise on geometry) of over 1000 geometric problems and their solutions.
 * However Mydorge does not state that the construction is only an approximation.
 * It was not only mathematical problems which interested Mydorge.

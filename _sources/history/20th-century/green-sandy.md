@@ -23,26 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Sandy Green** was an American born British mathematician who worked in finite groups and representation theory.
 
 ### Mathematical Profile (Excerpt):
-* His father was Frederick Charles Green and his mother was Mary Balairdie Gilchrist.
-* Frederick Green, only son of James Green and Jessie Isobel Mathieson, had been born in Aberdeen in Scotland in 1891 and, after being educated at Harris Academy in Dundee, obtained his MA from the University of St Andrews.
 * He met Mary, from Dundee in Scotland, while studying at St Andrews; she was also an undergraduate and later went on to publish translations of French novels by authors such as Zola.
-* Frederick continued his education in Paris and Cologne and married Mary in 1916.
 * Frederick and Mary Green lived in Canada from 1921 to 1925 when Frederick taught French literature at the University of Manitoba, then went to Rochester, New York, where Frederick worked at the University of Rochester.
-* Sandy was born while the family lived in New York but, shortly afterwards, the family moved to Toronto when Frederick was appointed to the University there.
 * They lived in Toronto, where Sandy began his schooling in 1930 at Bedford Park School, until 1935 when Frederick was appointed Drapers Professor of French at the University of Cambridge in England.
-* Sandy was one of his parents' four children, having a younger brother Christopher (who also went on to become a mathematician) and two sisters Dorothy and Isobel (a fifth child, Francis, died when aged less than two).
 * It was in Cambridge that Sandy's secondary schooling took place.
 * After one year, 1935-36, at Preparatory to Perse School in Cambridge, Sandy was a foundation scholar at Perse School from 1936 to 1942.
 * always expected to have an academic career.
 * However, his favourite subject at school was chemistry, so he applied to the University of St Andrews to study that subject.
-* In choosing St Andrews for his undergraduate studies, he was following in his father's footsteps.
 * Fortunately there was no difficulty in changing my course because the curriculum in the Scottish universities is quite flexible.
 * Frederick was released in 1940 but reposted for special duty in 1942 when he served as a Major.
 * Sandy spent two years as an undergraduate at St Andrews, taking courses on Mathematics, Physics, Chemistry, and Astronomy, graduating with a B.Sc. in 1944.
 * By that time M H A Newman's plan to use specially designed electronic computers to assist in the decipherment of the "Fish" series of coded messages was well advanced.
-* It was at Bletchley Park that Green first met Margaret Lord, daughter of Herbert and Elizabeth E Lord, whom he eventually married on 2 August 1950 at Girton, Cambridge.
 * She was in the Women's branch of the Royal Navy and had been posted to Bletchley.
-* Sandy and Margaret Green had three children: Jane Margaret Green (who became an epidemiologist working at the Cancer Epidemiology Unit at Oxford University), Sally Ann Green (who became a senior administrator at the University of Sheffield), and Alastair James Green (who became a computer scientist working as Chief Technology Officer of a software company and later as a technology director in a bank in London).
 * Green spent the year 1944-45 at Bletchley Park, then spent the following year at the Royal Aircraft Establishment at Farnborough.
 * In 1946, after doing some school teaching, Green returned to the University of St Andrews to complete his first degree.
 * Among his lecturers at St Andrews were Herbert Turnbull, Dan Rutherford and Walter Ledermann.
@@ -87,10 +79,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We also mention the lectures given by Sandy Green at Groups St Andrews 1989 when he was a main speaker giving a series of lectures on Schur algebras and general linear groups.
 * The Proceedings contains a beautiful account of these lectures.
 * Other published lectures include Classical invariants and Classical groups both delivered at the University of Coimbra in 1993, and Hall algebras and quantum groups delivered at the University of Coimbra in March 1994.
-* Outside mathematics and his family, Green had a number of interests such as gardening, but the most important was his passion for French literature of 16th  to the 20th  centuries.
 * His voice was never raised; logic and clarity sufficed.
 * His lectures were a model of elegance and precision, with a delivery reminiscent of Brauer's.
-* But while he was a mathematician first, he was never aggressively so, and maintained a balance of interests, whether French literature, gardening or his family, and he brought the same degree of interest and care to all those whom he met professionally, whether faculty or students.
 
 Born 26 February 1926, Rochester, New York, USA. Died 7 April 2014, Botley, Oxford, England.
 

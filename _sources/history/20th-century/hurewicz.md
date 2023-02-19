@@ -24,9 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Mieczyslaw was born in Wilno, Poland on 4 April 1872 to Serge Hurewicz and Fannie Eisenstat.
-* Mieczyslaw and Katarzyna Hurewicz had two children, Stefan (born 3 October 1901 at Łódź, Poland) and Witold (the subject of this biography).
-* At the outbreak of war, the Hurewicz family left Łódź and travelled to Moscow where Witold attended secondary school from 1914 to February 1919.
-* The Hurewicz family returned to Łódź in February 1919 and Witold completed his secondary school studies at the Oswiata Gymnasium in that city.
 * Although Hurewicz knew by this time that he wanted to specialise in mathematics and fully understood that there was a vigorous school of mathematics in Poland, nevertheless he chose to go to Vienna to continue his studies.
 * In this environment Hurewicz turned to set theory.
 * Although Borsuk gives a good indication of Hahn's Vienna School in this quote, it is a little confusing since not all those mentioned were teaching there when Hurewicz was a student.
@@ -39,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His parents, Mieczyslaw and Katarzyna Hurewicz, sailed to New York from Rotterdam on the Niew-Amsterdam in April 1939.
 * Hurewicz was registered for the draft on 16 February 1942.
 * Hurewicz died falling off a ziggurat (a Mexican pyramid) while on a conference outing at the 'International Symposium on Algebraic Topology' in Mexico.
-* At his brother Stefan's request, Hurewicz was cremated and his ashes were shipped back to Mount Auburn Cemetery, Cambridge, Massachusetts.
 * for separable metric spaces, the book by Hurewicz and Wallman remains a model of clarity and strict parallels between the theory and the geometric insight.
 * In addition to this book, Hurewicz is best remembered for two remarkable contributions to mathematics, his discovery of the higher homotopy groups in 1935-36, and his discovery of exact sequences in 1941.
 * the idea was not new, but until Hurewicz nobody had pursued it as it should have been.

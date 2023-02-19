@@ -23,20 +23,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Åke Pleijel** was a Swedish mathematician who worked on differential equations and potential theory.
 
 ### Mathematical Profile (Excerpt):
-* They had two children, Märta Laura Carolina Pleijel (1911-2004) and Åke Vilhelm Carl Pleijel, the subject of this biography.
 * Pleijel graduated from the high school in Östermalm, Stockholm on 11 May 1932 and enrolled at Stockholm University on 23 May 32.
 * After graduating with his first degree, Pleijel began undertaking research advised by Torsten Carleman.
 * Pleijel extended his investigations on the asymptotic behaviour of eigenvalues and eigenfunctions for certain oscillation problems to a number of other areas, including strained plates.
-* Pleijel had married while he was teaching mathematics and studying for his doctorate.
-* Åke and Sonja Pleijel had three children, all daughters, Agneta Christina Pleijel (born 26 February 1940), Sonja Carolina Pleijel (born 3 August 1942), and Eva Maria Pleijel (born 31 March 1945).
 * Let us record at this point that Agneta Christina Pleijel became an author, poet, playwright, journalist and literary critic; Sonja Carolina Pleijel studied at Lund University and became a TV producer, director and screenwriter.
 * On 14 September 1940 Pleijel was appointed as a docent in mathematics and an assistant in the mathematics library at the University of Stockholm, a position he held until he was appointed as a docent at Lund University on 25 April 1941.
-* Pleijel, his wife and three daughters sailed on the Drottningholm from Gothenburg, Sweden to New York, USA arriving on 15 September 1947.
 * While at Princeton, Pleijel worked with Subbaramiah Minakshisundaram (1913-1968), an Indian mathematician with an expertise in parabolic partial differential equations.
 * In fact, the paper contains the famous zeta function, now called the Minakshisundaram-Pleijel zeta function, which is a zeta function encoding the eigenvalues of the Laplacian of a compact Riemannian manifold.
 * Back in Sweden, Pleijel took up his appointment as professor of mathematics at the Royal Institute of Technology in Stockholm on 1 January 1949, where he succeeded Johannes Malmquist, who had retired in 1948.
 * Pleijel had actually been appointed to this position on 22 October 1948 while he was at Princeton.
-* Pleijel  took great interest in the creation of courses suitable for this purpose, but he left the Royal Institute of Technology in Stockholm as early as 1952 to succeed his future father-in-law, Professor Marcel Riesz, upon his retirement from Lund University.
 * The 1959 International Handbook of Universities lists Lund University with Åke Pleijel as Dean of the Faculty of Mathematics and Natural Sciences with a staff of 102.
 * This decision was endorsed by the Swedish Mathematical Society on 30 November 1958 and a joint invitation was issued to the mathematicians of the world, signed by the chairmen of the National Committee and the Society, A Pleijel and G Borg.
 * O Frostman and A Pleijel were entrusted with the initial preparations for the congress together with H Cramer, at that time Chancellor of the Universities of Sweden, and Lars Gårding, all of whom later constituted the Organising Committee.

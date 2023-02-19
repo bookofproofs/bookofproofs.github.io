@@ -24,11 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Joseph Jerrard served in Ireland during the rebellion of 1798, was sent to Egypt in 1805, and served at the siege of Copenhagen in 1807.
-* Joseph Jerrard married Charlotte Wilder (1777-1850) on 6 November 1797 in Comber, County Down, Ireland.
-* However, her father died soon after Charlotte's birth and her mother married George Birch.
-* Catherine was brought up by her step-father, explaining George Birch Jerrard's middle name "Birch".
-* Joseph and Charlotte Jerrard had seven children: Catherine Charlotte Jerrard (1798-1854); Eliza Jane Jerrard (1799-?); Joseph Henry Jerrard (1801-?); Katherine Wilder Jerrard (1803-1850); George Birch Jerrard (1804-1863), the subject of this biography; Frederick William Hill Jerrard (1809-1884); Louisa Jerrard (1816-1816).
-* George's younger brother Frederick William Hill studied mathematics at Gonville and Caius College, Cambridge, being eighth Wrangler in 1833, but later joined the Church and was rector at Long Stratton, Norfolk.
 * It was not at Cambridge, but rather at Trinity College, Dublin, that George studied.
 * Jerrard was a member of the Senate of the University of London and, in January 1839, he proposed the motion "That a Committee be appointed to take into consideration the subject of books which may be required for the use of the University." Within a few months books were being purchased to build the library.
 * Jerrard was also a member of the British Association for the Advancement of Science.
@@ -48,7 +43,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Harley, like Jerrard, worked almost exclusively on quintic equations.
 * in 1862, Cockle published a guarded surrender to Abel and Hamilton which must have been a blow to Jerrard: Cockle had been the best he had had by way of a mathematical supporter.
 * Moreover, by the 1860s, Cockle was being forced to point out in print mistakes of Jerrard, and in this he was joined by Arthur Cayley.
-* Jerrard died at his brother's house, the rectory at Long Stratton, Norfolk.
 
 Born 25 November 1804, Bodmin, Cornwall, England. Died 23 November 1863, Long Stratton, Norfolk, England.
 

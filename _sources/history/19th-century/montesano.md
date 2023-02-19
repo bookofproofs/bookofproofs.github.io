@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Domenico Montesano** was an Italian mathematician who studied the theory of linear congruences and conic bilinear complexes.
 
 ### Mathematical Profile (Excerpt):
-* Two of the boys followed their father to become lawyers, two became medical doctors and Domenico, the subject of this biography, became a professor of mathematics.
-* One of the two sons who took up medicine was Domenico's younger brother Giuseppe Ferruccio Montesano, born in Potenza on 4 October 1868.
 * After attending schools in Potenza, Domenico entered the University of Rome in 1880 and, after studying under Luigi Cremona and Giuseppe Battaglini, graduated in 1884 with the laureate.
 * Italy was unified three years before Domenico was born and he grew up in a country that was coming to terms with this important event.
 * Top Italian mathematicians were offered positions there and Montesano's teachers Battaglini and Cremona were two of these.

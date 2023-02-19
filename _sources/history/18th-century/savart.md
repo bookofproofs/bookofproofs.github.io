@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Félix Savart** was a French mathematician who worked on electricity and enunciated the Biot-Savart law.
 
 ### Mathematical Profile (Excerpt):
-* The family had a long association with Mézières, Gérard's father (Félix's paternal grandfather), also a native of that city, had been involved with the founding of the engineering school there in 1748.
 * Gérard Savart moved to Metz where he was in charge of draftsmen at the engineering school.
-* Félix and his older brother Nicolas (born 1790) had their early schooling in Metz.
-* With a strong family tradition of involvement with military engineering schools, one might have expected Félix Savart to also go down that path.
 * Savart spent around two years from 1808 to 1810 studying at a hospital in Metz.
 * It was at this time, after training in the Metz hospital, that Savart became a regimental surgeon in Napoleon's army.
 * In 1814 Savart was discharged from the army and resumed his medical training.
@@ -52,8 +49,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * When it was realised that, in the case of partial obstruction to the flow of blood, the murmur is produced not at, or proximal to, the site of obstruction but in the fluid beyond, it was presumed that a mechanism like that revealed by Savart was involved.
 * First let us note that although one of Savart's main aims in going to Paris was to publish his translation of Celsus's De medicina  the work never appeared.
 * It seems that Savart became diverted into more interesting directions.
-* As a second postscript we note some facts about Savart's older brother Nicolas Savart.
-* Unlike Félix, Nicolas studied at the École Polytechnique and then followed the family tradition of becoming an officer in the engineering corps.
 * For example he published Quelques faits résultant de la réflexion des ondes sonores Ⓣ(Some facts resulting from the reflection of sound waves) (1839), and at least three further papers after the death of Félix.
 * Félix Savart was honoured by having a street in Mézières named after him.
 

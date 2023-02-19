@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Lars Hörmander** was a Swedish mathematician who won a Fields medal and a Wolf prize for his work on partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-* Lars' mother was Alma Elisabeth Kristiansson (1899-1983) who was born in Mjällby.
-* Lars was the youngest of his parents five children; his siblings included Oskar, born 1921, Olof, born 1923, and Karin.
 * Lars attended his first school in Mjällby, then made a daily train journey to attend a higher level school in a larger nearby town.
 * Fremberg taught Hörmander the material covered in the first semester of Lund University while he was at the gymnasium in Lund.
 * In 1948 Hörmander graduated from the gymnasium and began his studies at the University of Lund.
@@ -33,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After Marcel Riesz retired in 1952 and went to the United States, Hörmander began working on the theory of partial differential equations.
 * He had been well prepared to study this topic from Riesz's excellent lectures and he was also supported by the two new professors, Lars Gårding and Åke Pleijel who were both working on that topic.
 * Before completing his doctorate, Hörmander spent the year 1953-54 doing military service but, since he was mainly undertaking defence research in Stockholm, he was able to continue reading mathematics during this time.
-* Hörmander had married Viveka while he was on military service and their first child, a daughter Gisela, was born in October 1954.
 * When he returned to Lund in the autumn of 1954 he lectured in Lars Gårding's seminar which was held once a week.
 * Hörmander was to give two lectures on Bourbaki style general topology and one of the postgraduate students at Lund, Vidar Thomée, attended his first lecture.
 * The problem was solved by Gårding who told Thomée that he would deliver the second lecture and Hörmander would teach him the necessary mathematics.
@@ -51,7 +48,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Many people have contributed but the deepest and most significant results are due to Hörmander.
 * In 1963 Hörmander made an arrangement which allowed him to spend the academic teaching year in Stockholm while he spent spring and summer at the University of Stanford in the United States.
 * Hörmander spent from 1964 to 1968 at Princeton but felt the pressure of a full time research position so returned to Sweden to take up the chair of mathematics at the University of Lund in 1968.
-* Tragedy struck the family in 1978 when Hörmander's eldest daughter Gisela took her own life.
 * Hörmander's text, An Introduction to Complex Analysis in Several Variables, has become a classic dealing with the theory of functions of several complex variables.
 * As noted above, on 1 January 1996 Hörmander retired and was made professor emeritus by the University of Lund.
 * We should say a little about Hörmander's personality.

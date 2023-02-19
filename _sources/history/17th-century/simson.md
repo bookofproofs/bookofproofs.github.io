@@ -23,9 +23,7 @@ contributors: @R-A-Rankin,@Glasgow,bookofproofs
 **Robert Simson** was a Scottish mathematician best known for the _Simson line_ of a triangle, even though he was not the first discoverer of it.
 
 ### Mathematical Profile (Excerpt):
-* Simson's mother had 17 children, all boys, only six of whom reached manhood.
 * Simson entered the University of Glasgow as a student on 3 March 1702, being 14 years old at the time, and studied under the regent John Tran.
-* His father had intended that Robert should enter the church, and it was only by accident that his interests turned to mathematics.
 * He then set to work to study mathematics seriously, but he had to do this on his own, since at that time, for some reason, there were no lectures given on the subject by the professor Robert Sinclair.
 * During his first year as a student in Glasgow Robert Simson was involved in a rather interesting incident which shows that, even before the Union of the Parliaments, Scottish as well as English students celebrated the 5th  of November with fireworks.
 * On emerging from a close that night Robert was hurt in the face by shot from a pistol belonging to a fellow student Arthur Tran, who with a group of other students was firing a pistol and letting off squibs.

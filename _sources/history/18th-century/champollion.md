@@ -23,51 +23,32 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jean-François Champollion** founded scientific Egyptology and played a major role in the decipherment of Egyptian hieroglyphics and the demotic script.
 
 ### Mathematical Profile (Excerpt):
-* They had seven children: Guillaume Champollion (1773-1773); Thérèse Champollion (born 1774); Pétronille Champollion (born 1776); Jacques-Joseph Champollion-Figeac (1778-1867); Jean-Baptiste Champollion (born 1780); Marie Jeanne Champollion (born 1782); and Jean-François Champollion (1790-1832), the subject of this biography.
 * Jacques Joseph Champollion had been born in La-Roche-des-Engelas which today is known as Valbonnais, Rhône-Alpes, France.
 * Let us say right at the beginning of this biography that Jean-François Champollion was not a mathematician, having very little mathematical training.
-* Jean-François Champollion was the last of his parents' children, born eight years after the next youngest.
-* Among the reasons for suggesting this is the age of Jeanne Françoise in 1790, the fact that Jean-François Champollion never mentioned his mother in any of the many letters he wrote but does mention a woman in Figeac who is dear to him, a marked difference in temperament between Jean-François and his siblings, and the fact that Jean-François was so dark skinned that he could pass as an Arab in Egypt.
-* The family were poor and Jean-François seems to have been brought up by his brother Jacques-Joseph Champollion-Figeac who was twelve years older.
-* We should explain why his older brother is known as Champollion-Figeac.
-* As the brothers grew up Jean-François became known as 'Champollion le Jeune' but eventually he became the more famous and at this stage his older brother began calling himself Champollion-Figeac.
-* Jean-François's mother, Jeanne Françoise, was illiterate so could not teach her son to read and write.
 * When he was about five years old, she taught Jean-François to recite these from memory and he then seems to have been able to teach himself to read by comparing what he had learnt by heart with the printed text in the prayer book.
-* Sometimes their friends would slip into the room and gaze with curiosity at the unheard-of spectacle of the boy, seated on a stool next to the hearth (Champollion always relished physical warmth as a child and as an adult) with his eyes sparkling, bringing alive for his family the ancient stories he had learnt how to read.
-* Jean-François's tutor became worried about his progress, however, writing to Jacques-Joseph in Grenoble to say that his young brother had an apathy to learning, sometimes being keen and at other times refusing to work at all.
-* Jean-François also wrote to his brother explaining his difficulties with studying and in February 1801 Jacques-Joseph asked Jean-François to join him in Grenoble.
 * At the age of thirteen, in 1804, Champollion wrote his first paper Remarks on the fable of the Giants as taken from Hebrew etymologies.
-* Abbé Dussert's school was excellent and Champollion was thriving there but his brother could not afford the fees.
 * Champollion sat the entrance examinations for the Grenoble Lycée and was accepted and given a bursary to cover his boarding expenses.
 * This was not a great success for its extremely strict regime was hated by Champollion.
 * Life became a little better for Champollion during his second year at the school.
-* He shared a love of Egypt with Champollion's brother and was writing Description of Egypt.
 * Fourier was interested to hear about the brilliant pupil Champollion who was not allowed time for private study by the Lycée.
 * Certainly the Lycée recognised Champollion's talents and, in August 1806, he was chosen to give a speech during a school visit by Prefect Fourier.
 * Champollion spoke about the Hebrew text of the Bible and answered questions about Oriental languages.
 * In his report, Fourier noted that he was very impressed by Champollion's wide knowledge which included skills in biology.
-* Champollion continued his independent studies, demanding many texts from his brother.
 * Fourier became more involved with Champollion whose deep interest in Egypt he was able to encourage.
-* On 1 April 1807 Champollion stopped boarding at the Lycée and returned to live with his brother.
 * At this time the Napoleonic Wars were taking place and Champollion would have been drafted had it not been for Fourier arguing that his work studying Egypt was too important to be interrupted.
-* Champollion's brother Champollion-Figeac was a secretary of the Grenoble Society of Arts and Sciences and, with Fourier's approval, arranged for Champollion to deliver the lecture Essay on the geographical description of Egypt before the conquest of Cambyses to the Society on 1 September 1807; Champollion was only sixteen years old.
 * Soon after delivering his lecture, Champollion went to Paris where he studied with Silvestre de Sacy, Louis-Mathieu Langlès, and Raphaël de Monachis.
 * ." All this intensive study, Champollion experienced as great fun.
 * Champollion left Paris and returned to Grenoble in 1810 when he was appointed as Professor of Ancient History at Grenoble University.
 * Although Champollion was not an enthusiastic supporter of Napoleon, after the defeat of Napoleon and the restoration of the royalist in 1813, he decided that Napoleon presented the lesser of two evils.
 * Champollion met Napoleon at this time and he remembered that Champollion had managed to avoid being drafted into the army on the grounds that his Egyptian work was important.
 * Napoleon asked Champollion how it was progressing and requested that he send his Coptic grammar to Paris for publication.
-* Champollion's brother Champollion-Figeac joined Napoleon's army and, after defeat at Waterloo in 1815, both brothers were in danger, being supporters of Napoleon.
 * Champollion lost his professorship at Grenoble and was exiled to Figeac.
 * Continuing in his attempt to understand Egyptian hieroglyphics, Champollion undertook research on the Rosetta stone as well as using many other examples of hieroglyphics.
 * Little progress had been made in understanding hieroglyphics until the work of two men at almost the same time, namely Thomas Young and Champollion.
 * These two men were very different in that Thomas Young was a mathematician, physicist and polymath who made contributions to the most amazingly wide range of topics, while Champollion was completely single minded in his research on Egypt and its languages.
 * Although today there is a belief among many that Thomas Young studied hieroglyphics first, and then Champollion made a major advance building on Young's work, in fact this is a vast over simplification.
 * In fact we saw above that Champollion began studying the Rosetta stone in 1808 but, although it was displayed in London from 1802 onwards, Young did not begin his studies until 1814.
-* But, post-Waterloo, there are strong political differences in France itself between the Royalist, de Sacy and the supporter of Napoleon, Champollion.
 * This said, de Sacy probably knew Champollion well enough to understand the young man's personality.
-* Before continuing with Champollion's achievements, let us note that, on 30 December 1818 in Grenoble, Champollion married Rosine Blanc (1794-1871), who came from a family of glove makers from Grenoble.
-* Their only child was a daughter, Zoraïde Chéronnet-Champollion (1824-1889).
 * "D'Haussez and Pamphile then issued blood-curdling proclamations," writes Robert Alexander, "put Grenoble in a state of siege, and ordered arrests." Champollion was already under suspicion.
 * D'Haussez attacked with renewed ferocity, attempting to have Champollion charged with treason, an offence punishable by death.
 * Champollion escaped this fate thanks to the arrival in Grenoble of Claude-Victor Perrin, Duc de Bellune, who had been sent by the king to prevent destabilising repercussions.
@@ -78,10 +59,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Thomas Young sat beside Champollion at the 27 September meeting at the Academy of Inscriptions and was very impressed by his advances.
 * He was, however, sad not to receive the credit from Champollion that he felt he deserved.
 * Champollion continued to make further major advances, announcing these in April 1823 and then publishing definitive results in Précis du système hiéroglyphique des anciens Égyptiens Ⓣ(Summary of the hieroglyphic system of the ancient Egyptians) (1824).
-* In 1826 he was appointed curator of the Egyptian collections of the Musée du Louvre and, with the help of his brother, Champollion-Figeac, he created an Egyptian exhibition in four rooms at the Louvre.
 * In July 1828 Champollion sailed to Egypt.
-* He had almost completed Grammar and Dictionary of Ancient Egyptian at the time of his death and his brother Champollion-Figeac published this in 1838.
-* Champollion has been honoured with a museum in Figeac and there is a Champollion Museum at the home of his brother in Vif, near Grenoble.
 * Egypt issued a 110 Egyptian millieme stamp in honour of 'Champollion, the Rosetta Stone and Hieroglyphics' on 16 October 1972.
 * Also on 14 October 1972 France issued a 90-centimes stamp for 'Champollion and the Rosetta Stone'.
 * A 5-franc stamp has also been issued by Monaco on 4 September 1990 to commemorate the 200th anniversary of  Champollion's birth.

@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Charles de Bouvelles** was a French priest who wrote works on geometry and philosophy.
 
 ### Mathematical Profile (Excerpt):
-* Charles' father was an aristocrat and Charles was born into the wealthy Bovelles family.
-* However Soyecourt, the town of his birth, was in the Ponthieu region of Picardy and during Charles' childhood the region was being fought over.
 * De Bouvelles was educated in Paris.
 * There he was a student of Jacques Lefèvre d'Etaples (1455-1536) who was a famous humanist, theologian, and translator.
 * Ordained a priest, Lefèvre taught philosophy in Paris from about 1490 and it was about the time that de Bouvelles came to Paris.
 * Lefèvre was, of course, from d'Etaples so like de Bouvelles he came from Picardy.
-* While de Bouvelles was studying under him, Lefèvre began to produce student manuals on physics and mathematics and he began working on new annotated translations of Aristotle's works on ethics, metaphysics, and politics.
 * Lefèvre had considerable influence on his student de Bouvelles, who went on to improve on the methods of his teacher.
 * In 1495 the plague hit Paris and de Bouvelles left without, it appears, taking a degree.
 * In 1501, while trying to solve this problem, he introduced the hypotrochoid (although he did not use this name) which is the curve traced by a point PPP on a circle of radius bbb which rolls round inside a fixed circle of radius aaa.

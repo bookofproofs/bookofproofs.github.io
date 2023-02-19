@@ -24,11 +24,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Pafnuty was born in Okatovo, a small town in western Russia, south-west of Moscow.
-* Pafnuty Lvovich was born on the small family estate into a upper class family with an impressive history.
 * Let us say a little about life in Russia at the time Pafnuty Lvovich was growing up.
-* Pafnuty Lvovich's early education was at home where both his mother and his cousin Avdotia Kvintillianova Soukhareva were his teachers.
 * Later in life Pafnuty Lvovich would greatly benefit from his fluency in French, for it would make France a natural place to visit, French a natural language in which to communicate mathematics on an international stage, and provide a link with the leading European mathematicians.
-* In 1832, when Pafnuty Lvovich was eleven years old, the family moved to Moscow.
 * Chebyshev was, therefore, well prepared for his study of the mathematical sciences when he entered Moscow University in 1837.
 * The Russian university system that Chebyshev entered had undergone considerable change.
 * At Moscow University the person who was to influence Chebyshev most was Nikolai Dmetrievich Brashman who had been professor of applied mathematics at the university since 1834.
@@ -64,8 +61,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * A number of famous mathematicians were taught by Chebyshev and gave a descriptions of him as a lecturer.
 * The first quote we give is by Lyapunov who attended lectures by Chebyshev in the 1870s.
 * Let us quote from a lecture given by Chebyshev in 1856 where he explained how he saw the interaction of the pure and applied sides of mathematics.
-* As to Chebyshev's personal life, he never married and lived alone in a large house with ten rooms.
-* Chebyshev often met her and her husband in Rudakovo at the home of his sister Nadiejda.
 * Chebyshev retired from his professorship at St Petersburg University in 1882; he had been appointed to this particular post 22 years earlier.
 
 Born 16 May 1821, Okatovo, Kaluga Region, Russia. Died 8 December 1894, St Petersburg, Russia.

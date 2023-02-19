@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Allen Shields** was an American mathematician who worked on a wide range of mathematical topics including measure theory, complex functions, functional analysis and operator theory.
 
 ### Mathematical Profile (Excerpt):
-* Allen's mother, Esther, was also a labour journalist.
 * Shields was an undergraduate at the City College New York where his lecturers included Emil Post and Lee Lorch.
 * Despite the fact that Hurewicz was Shields' official supervisor, he was unofficially supervised by Raphaël Salem.
 * This became a standing joke between Allen and me, and perhaps it influenced the evolution of his own lecturing style into the model of clarity and vividness that was his hallmark.
@@ -41,7 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * J H Shapiro was one of Shields' many PhD students.
 * He also notes that Shields advised the greatest number of mathematics PhD theses at the University of Michigan, but as a student was able to give insight into the style of Shields' supervision.
 * Allen kept to the sidelines but always made himself available to guide us to the literature, offer opinions, suggest options, lighten the mood with gentle wisecracks, and generally shout encouragement.
-* Shields married Smilka Zdravkovska who had come to the United States with her daughter Bojana from Skopje, Yugoslavia.
 * P Duren wrote joint papers with Shields.
 * Tragically Shields was struck down with cancer in the summer of 1988.
 

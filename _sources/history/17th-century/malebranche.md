@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Nicolas Malebranche** was a major French philosopher and follower of Descartes whose ideas he developed to bring them more in line with standard Roman Catholic orthodox belief.
 
 ### Mathematical Profile (Excerpt):
-* It is probable that Malebranche's great literary style came from his mother's tuition.
-* Malebranche was the youngest of a large number of children, but his life was much influenced by illness.
 * Malebranche studied philosophy and theology at the Collège de la Marche from 1654 to 1656 and graduated Master of Arts.
 * Malebranche went to the Sorbonne in Paris until 1659, again intending to make theology his life's work but he found it no more to his liking than he had before.
 * De Bérulle was a friend of Descartes and by the time Malebranche studied at the Oratory its teaching were strongly based on Descartes' philosophy.

@@ -24,10 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Georg Weber had been born in the Rhine Palatinate town of Bergzabern, which was at this time under French rule, and studied at Speyer and the University of Erlangen before being awarded a doctorate from the University of Heidelberg in 1832 for his dissertation De Gytheo et rebus navalibus Lacedaemoniorum Ⓣ(On Gytheio and the  Spartan navy).
-* He married Ida Helene Marie Wilhelmine Becher (died 1887) in 1839 and Heinrich was their eldest son.
 * Heinrich's love of mathematics began while he was at the Lyceum in Heidelberg.
-* The Weber family were very involved in education and they strongly encouraged Heinrich to think in terms of an academic career from a young age.
-* The influence of Weber's family was particularly strong since he lived at home throughout his school and university studies in Heidelberg.
 * After graduating from the Lyceum, Weber entered the University of Heidelberg in 1860 to study mathematics and physics.
 * At this time Heidelberg had some outstanding physicists and mathematicians on the staff who gave courses that Weber attended.
 * As was the common practice of German students at this time, Weber spent part of his time studying at a different university.
@@ -37,8 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * There were other students at Königsberg at this time who would become important in the development of mathematics, in particular Albert Wangerin, who studied for his doctorate around the same time as Weber worked for his habilitation, and former students such as Albert Clebsch whose influence was still being felt.
 * In fact Weber mentions the names of nine of his fellow students at Königsberg who went on to high profile careers as scientists.
 * On 11 August 1866 Weber's habilitation thesis Singuläre Auflösungen partieller Differentialgleichungen erster Ordnung Ⓣ(Singular resolutions of partial differential equations of first order) was accepted and he became a privatdozent at Heidelberg in that year.
-* Heinrich and Emilie Weber had seven children, three of whom died young.
-* A daughter, Emilie Weber, gained fame as the translator from French into German of Henri Poincaré's philosophical writings.
 * A son, Rudolph Heinrich Georg Weber, born 16 August 1874 in Zürich, went on to study mathematics and physics.
 * Over the next twenty-five years, Heinrich Weber taught at a surprising number of different institutions.
 * Together with Richard Dedekind, Weber had been editing Riemann's Collected works and this important book was published in 1876.
@@ -48,7 +43,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Weber's final post was to Strasbourg where he was appointed in 1895.
 * It is reasonable to consider why Weber left Göttingen, perhaps the leading mathematical centre in the world at this time, to move to Strasbourg.
 * However, Weber did not move to Strasbourg for mathematical reasons, but rather for personal ones.
-* Strasbourg was quite close to Weber's native city of Heidelberg, and one of Weber's daughters, Lina Weber-Holtzmann, had married Heinrich Holtzmann, the professor of theology at Strasbourg, and was living there.
 * Again Weber served as rector of the university in which he was working, taking on this role at Strasbourg during session 1900-01.
 * Note that Weber served as rector three times during his career at three different universities.
 * Of course, the reader of this biography will have noted the large number of different universities at which Weber worked.

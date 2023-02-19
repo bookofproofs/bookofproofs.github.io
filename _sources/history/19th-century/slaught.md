@@ -24,10 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * The name Ellsworth was chosen by his parents to honour Colonel Ephraim Elmer Ellsworth who had been killed in the civil war on 24 May 1861.
-* Herbert's parents had been married in Hector, New York in 1838 and had lived mainly on their farm on the east shore of Seneca Lake.
-* However, at the time that Herbert was born, his father was working in Watkins, New York and the family had moved there although it was only about 10 km from their farm.
 * Slaught himself has said that he would probably have spent his life working on the farm if it had not happened, and the farm was apparently not a very good one.
-* Slaught, with his invalid mother, a sister and two brothers, moved to Hamilton, New York, in 1875.
 * Slaught attended Colgate Academy in Hamilton until he graduated in 1879.
 * Slaught was quickly promoted at the Peddie Institute, first to assistant principal in 1886, then to principal in 1889.
 * So in 1892 Slaught accepted a two-year appointment to one of the first three fellowships awarded by the Department of Mathematics at the University of Chicago, which was just then opening its doors.

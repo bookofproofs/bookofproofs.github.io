@@ -54,7 +54,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1919 he published Elementary Mathematics for Field Artillery which was prepared and published by direction of the Chief of Field Artillery, Field Artillery Central Officers' Training School, Camp Zachary Taylor, Kentucky.
 * The staff of instructors, recruited chiefly from the candidates who had mathematical training, was ordinarily well over a hundred, and at one time numbered as many as one hundred sixty-nine.
 * Following his contributions to the war effort, Ford joined the faculty at the Rice Institution, Houston, Texas and while there he published papers such as On the closeness of approach of complex rational fractions to a complex irrational number (1925), The Solution of Equations by the Method of Successive Approximations (1925), On motions which satisfy Kepler's first and second laws (1927/28), and The limit points of a group (1929).
-* He married Marguerite Eleanor John (born on 26 January 1890 to Robert A John and Margaret Houston Morrow) on 15 June 1924; their children include Lester Randolph Ford (born on 23 September 1927 in Houston), and Margaret Houston Ford (born 3 September 1930).
 * Lester Randolph Ford, Jr went on to become an outstanding mathematician who worked for the RAND Corporation.
 * Two significant books published by Ford are Automorphic Functions (1929) and Differential Equations (1933, second edition 1955).
 * In addition to his work on point-wise discontinuous functions which we mentioned above, Ford is best known for an "absolutely marvellous geometric interpretation of the Farey series".
@@ -78,10 +77,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The collection of manuscripts was presented to Dr Ford on his birthday by Drs W L Duren, Jr, Karl Menger, and G T Whyburn.
 * Some of the papers are related to the fields of Ford's major interests: complex functions, interpolation, differential equations, and numerical analysis.
 * Other papers were inspired by remarks that Ford made in talks and lectures.
+* Still others have to do with Ford's former activity as editor of the MONTHLY, where he started the series of papers with the titles "What is ...
 * All authors are united in the feeling expressed in the final remark contained in the paper of G T Whyburn.
 * From 1975 onwards a separate award was set up for articles appearing in the Mathematics Magazine so from then on the Lester R Ford Award applied only to papers appearing in The American Mathematical Monthly.
 * The awards are for $500 and up to five are given annually at the Summer Meeting of the Mathematical Association of America.
-* The capital of this fund consists of contributions made by Professor Ford during his lifetime which have been listed anonymously at his request, a bequest in his will, and by gifts made in his memory by his family and friends.
 * It is expected that the principal of the fund will be about $25,000.
 * Former colleagues and students of Professor Ford may wish to contribute to the fund.
 * Payments should be sent to the MAA Buffalo office marked for the Lester R Ford Fund.

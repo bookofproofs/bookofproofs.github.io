@@ -42,14 +42,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He was with the Duke on a visit to Prague in April and May of 1364 and in September of the same year, he went back to Avignon as Austrian ambassador to try to persuade Pope Urban V to agree to the founding of the University of Vienna.
 * He was only partially successful in his mission for, although Pope Urban V agreed to the founding of the University, he did not agree to the founding of a Theology Faculty since this would have provided competition with the Charles University of Prague which had been founded in 1347.
 * However, Albert did secure a papal bull to establish the faculties of Arts, Law and Medicine.
-* The University of Vienna was founded by Rudolf IV and his two brothers on 12 March 1365 but Rudolf died a few months later in July.
 * Albert was left to organise the setting up of the University which he did, modelling the Arts Faculty on the Paris model.
 * He set up, like Paris, four Nations: Austria, Bohemia, Saxony and Hungary.
 * He became the first rector of the University having won certain privileges for the staff and students such as exemption from taxes and military service.
 * The University had its own dress code and its members were subject to University laws, rather than those of the state, which were carried out by the rector.
 * Albert did not hold this position for very long for, on 21 October 1366, he was appointed Bishop of Halberstadt, taking up this appointment in February of the following year.
 * By the time he left Vienna, the Arts Faculty of the University was the only Faculty which had been set up.
-* Perhaps one might think that an appointment as Bishop of Halberstadt would mean that from then on his life was directed towards spiritual matters but, rather the contrary, it now became directed towards politics.
 * In 1367 Albert joined Magnus the Duke of Brunswick-Lüneburg, Dietrich the Archbishop of Magdeburg, Valdemar the Prince of Anhalt, and others in a campaign against Gerhard of Berg the Bishop of Hildesheim.
 * After this unsuccessful military venture, Albert worked hard to form regional peace alliances.
 * No charges were brought against Albert, however, who remained as Bishop of Halberstadt until his death in 1390.

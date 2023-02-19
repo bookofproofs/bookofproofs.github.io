@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Daniel was baptised in the Lisbon parish of Our Lady of the Martyrs on 19 September 1814.
-* He was the second of his parents' children, having an older brother Carlos Bento da Silva (1812-1891) who went on the become a government minister in charge of various offices such as the Treasury, Public Works, Public Instruction, the Navy, and Foreign Affairs.
 * We note that da Silva grew up in Portugal at a time when the country suffered civil wars.
 * In 1820, when da Silva was six years old, there was an uprising in the country.
 * It is certainly the case that da Silva's education took place against a difficult background of tensions and war in the country.
@@ -40,10 +39,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After graduating, da Silva applied for a teaching position in the Polytechnic School of Lisbon.
 * For the next few years da Silva followed a naval career.
 * The Sociedade Escholastico-Philomatica of Lisbon was founded in 1839.
-* Many of the leading politicians and academics were members of the Society and, from 1843, da Silva was associated with it.
 * Da Silva became a substitute lecturer at the Naval School in 1845.
 * stated that da Silva had been seriously ill for a long time, so for that reason he had been able to revise neither the preface nor the final part (from page 117 onwards) of his memoir.
-* They had one child, a son Júlio Daniel da Silva who was born in 1866.
 * Da Silva does not appear to have been well enough to teach between 1852 and 20 October 1965 when he retired as a lecturer.
 * Once retired, da Silva's health improved a little and he taught some courses at the University of Coimbra.
 * Most of da Silva's mathematical contributions were made during the years when he was forced to give up teaching because of ill health.
@@ -58,6 +55,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Da Silva's contribution were recognised with his election to the Grémio Literário (1846), the Academy of Sciences of Lisbon (1850), and the Institute of Coimbra (1855).
 * Da Silva died in Oeiras following a severe bout of pneumonia.
 * This is Daniel da Silva.
+* Daniel da Silva, poet of Mathematics, went to seek in these sciences what they possess that is beautiful ...
 
 Born 16 May 1814, Lisbon, Portugal. Died 6 October 1878, Oeiras, Portugal.
 

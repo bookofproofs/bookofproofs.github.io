@@ -25,9 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Other than Levi ben Gerson, the commonest seem to be Gersonides and Levi ben Gershon.
 * However, others refer to him as Levi ben Gershom, and less commonly as Gersoni, Leo de Bagnols,  Leo de Balneolis, Leo Judaeus, Leo Hebraeus , or by the acronym  Ralbag.
-* Levi ben Gerson certainly came from a family of outstanding scholars.
-* His father was Gershon ben Solomon, a scholar who wrote Sha'ar ha-Shamayim.
-* Levi states that his grandfather was Levi ha-Kohen, and it is believed that he was his mother's father.
 * Levi was also closely related to Nahmanides (1194-1270) who was a Spanish scholar, a rabbi and Jewish religious leader who is known for his work on philosophy, poetry, and medicine.
 * Levi was a cousin of Judah Delesfils whose grandson was Simon ben Zemah Duran (1361-1444), a Spanish Jewish rabbi who wrote several famous works.
 * We know that Levi ben Gerson lived in Orange, a town which today is in France but this was not so when he lived there.

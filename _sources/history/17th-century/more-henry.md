@@ -23,11 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Henry More** was an English philosopher of science whose ideas may have influenced Newton.
 
 ### Mathematical Profile (Excerpt):
-* Alexander More was financially well off and able to give his son a top class education.
-* Little is known of his childhood except for a few comments More makes himself in the Preface of his Collected Works.
 * After attending Grantham Free School (the Grammar School), More was sent to Eton when he was fourteen years old.
 * More came to the belief, which he held strongly throughout his life, that salvation was possible though goodness.
-* During this time his father had put his upbringing in the hands of an uncle who tried to prevent the young More from being so forward by flogging him to try to make him return to the Calvinist ideas about free-will.
 * Flogging certainly did nothing to return More to Calvinism, perhaps it had just the opposite effect.
 * In 1631 More entered Christ's College Cambridge.
 * More graduated with a B.A. in 1636 and remained at Cambridge to continue his studies being elected a Fellow of Christ's College in 1639.
@@ -46,7 +43,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This work repeated More's objections to the mechanical philosophy of Boyle and several other members of the Royal Society.
 * Of course there were deep problems which related to space and matter, action at a distance and the vacuum which scientists were struggling with at this time and More's views provided motivation to many scientists to clarify their own ideas and improve their arguments.
 * One other thing about Henry More which we should discuss is his relation to Newton.
-* More, who was about 30 years older than Newton, often returned to his home town of Grantham and when he did so he lived with one of the two Clark brothers.
 * Therefore when More was a major figure at Cambridge he must have got to know the young pupil Newton.
 * We certainly know that there was contact between Newton and More up till the time More was around 70 years of age.
 * Did More's ideas of space influence Newton?

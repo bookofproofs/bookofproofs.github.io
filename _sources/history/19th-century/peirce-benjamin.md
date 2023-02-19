@@ -23,15 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Benjamin Peirce** was an early American mathematician who worked on celestial mechanics and geodesy on the applied side and linear associative algebra and number theory on the pure side. He has been called the "Father of pure mathematics" in America.
 
 ### Mathematical Profile (Excerpt):
-* Benjamin, the subject of this biography, therefore had the same name as his father who was both a state legislator in Massachusetts and also a librarian at Harvard College.
-* Although Harvard had been established for around 170 years at the time of Benjamin's birth, it was still under fairly tight political control and was not an institution of true national standing.
 * This would change through Peirce's life long association with Harvard as its influence steadily increased.
-* Benjamin was a pupil at Salem Private Grammar School and there he became friends with Henry Ingersoll Bowditch who was one of the eight children of Nathaniel Bowditch and his wife Mary Ingersoll.
 * Peirce entered Harvard College in 1825 and graduated four years later.
 * Bowditch's translation of the first four volumes of Laplace's Traite de mécanique céleste Ⓣ(Treatise on celestial mechanics)  had been completed by 1818 but he had still not published it during the years that Peirce was an undergraduate.
 * While he was an undergraduate, Peirce became involved in Bowditch's project and worked through the text doing proof-reading and suggesting improvements.
 * Peirce taught at George Bancroft's Round Hill School in Northampton, Massachusetts, from 1829 to 1831, and then was appointed as a tutor at Harvard College in 1831, two years after graduating.
-* Benjamin and Sarah Peirce had four sons and one daughter, among them Charles Peirce (who also has a biography in this archive) and James Mills Peirce who taught in the Mathematics Department at Harvard, and then from 1890 to 1895 served as Dean of the Graduate School at Harvard and, after that, as Dean of the Faculty of Arts and Sciences.
 * Their other two sons also enjoyed successful careers, Benjamin Mills Peirce as a mining engineer and Herbert Henry Davis Peirce as a diplomat.
 * It was at Harvard that Peirce spent the whole of his career from 1831.
 * In the early part of his career Peirce published a number of textbooks.
@@ -44,7 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Peirce examined the thirty downward lines in the signature and measured the angle of each.
 * Perhaps it was fortunate that the case was decided on the basis of a legal formality and Peirce's evidence was not crucial in determining the outcome of the case.
 * He used the, now familiar, tools of idempotent and nilpotent elements (terms invented by Peirce) to establish the foundations of a general theory of linear associative algebra and he presented multiplication tables for over 150 new algebras in the book.
-* His son Charles Peirce later edited the work for publication in the American Journal of Mathematics  in 1881.
 * There is another side to Peirce's career which we still have to mention.
 * Benjamin Peirce received many honours for his outstanding contributions to American mathematics.
 * Peirce was one of a committee of five set up by the American Academy of Arts and Sciences in 1847 to organise the Smithsonian Institution.

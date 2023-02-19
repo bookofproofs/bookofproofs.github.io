@@ -23,13 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Richard Courant** was a Polish-born applied mathematician best known for founding the Institute named after him in New York.
 
 ### Mathematical Profile (Excerpt):
-* Richard was the eldest of Siegmund and Martha Courant's children and soon after the birth of their second son Siegmund sold his share in the family business in Lublinitz and they bought a business in Glatz.
-* A third son was born in the year they moved to Glatz, Richard being three at the time.
-* When Richard was nine his family moved again, this time to Breslau.
 * Siegmund worked for an insurance company in Breslau and Richard attended school there, entering the König-Wilhelm Gymnasium.
 * With little previous education Richard struggled at school at first, even being "less than satisfactory" at arithmetic.
 * When Richard was fourteen years old he began to tutor to make enough money to support himself.
-* Other members of the family blamed Richard's parents Siegmund and Martha.
 * Shortly after Siegmund was declared bankrupt and the following two years must have been ones of extreme difficulty for Richard, attending school and still supporting himself tutoring.
 * In 1904 Richard's parents left Breslau and moved to Berlin.
 * Richard was earning enough to support himself, even now that he had to rent accommodation in Breslau.

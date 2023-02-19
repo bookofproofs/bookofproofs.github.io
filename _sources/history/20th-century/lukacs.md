@@ -23,16 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Eugene Lukacs** was a Hungarian-American statistician known for his work on characterisation of distributions and stability theory.
 
 ### Mathematical Profile (Excerpt):
-* The family lived in Vienna where Eugene's father worked in a bank.
-* However Eugene was born in his grandmother's house in Szombathely, then moved to Vienna a few weeks later and he was educated in that city.
 * After primary and the Realgymnasium secondary school, Lukacs entered the Technical University in Vienna in 1925 where he studied mechanical engineering.
 * After taking his first degree, Lukacs continued to study at Vienna for his doctorate.
 * This was no time to get an academic position in a university, so Lukacs took a post as a secondary school teacher in Vienna.
 * All this was bad news for Lukacs, particularly since he was Jewish.
 * Lukacs left school teaching in 1933 and took up a position as an actuary at an insurance company, having E Helly, another of Jewish origin, amongst his colleagues in the insurance company.
-* During this time Lukacs had married Elizabeth Weisz.
 * In 1937 Lukacs left the insurance company.
-* Many Austrians, especially those of Jewish origin, went into exile and Lukacs and his wife decided that they had to take this route.
 * Elizabeth Lukacs left for the United States late in 1938 while Eugene left some time later, reaching the United States in February 1939.
 * While at the University of Vienna, Lukacs had met Wald who was also a Hungarian Jew.
 * Wald was working on statistics and probability and he persuaded Lukacs to take an interest in this topic too.

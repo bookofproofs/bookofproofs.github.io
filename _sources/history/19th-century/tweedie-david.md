@@ -27,8 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Tweedie graduated from the University of Edinburgh in 1886 with an M.A. with First Class Honours in Mathematics.
 * In March 1892 Tweedie joined the Edinburgh Mathematical Society.
 * Tweedie moved to the Government College in Cairo, then in 1904 to the Ministry of Public Instruction in Cairo.
-* Tweedie married Elizabeth Mary Inglis (born in Dublin, Ireland in 1871; died in 1931) on 9 August 1905 in Kildare, Ireland.
-* After Elizabeth died in 1931, David Tweedie married Gladys Emily Jones in Edinburgh on 28 March 1933.
 * After being appointed as Lecturer in Mathematics at the Royal School of Engineering, Cairo in 1915, Tweedie worked there until 1923.
 * The Royal School of Engineering moved to this location in 1905 and this is where Tweedie taught.
 * However, in 1916 during the time Tweedie lectured there, the school started to offer specialized studies in the final two years in five departments: Irrigation, Architecture, Municipal, Mechanical and Electrical Engineering.

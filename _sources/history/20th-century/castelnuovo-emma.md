@@ -24,7 +24,6 @@ contributors: @Fulvia-Furinghetti,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * This award was named after Emma Castelnuovo.
-* Emma's father Guido Castelnuovo and her uncle Federigo Enriques, the brother of her mother Elbina, were prominent researchers in this field, both full professors in university.
 * Emma graduated in mathematics at the University of Rome in 1936.
 * Just after the Second World War, Emma with a university professor and a young colleague organized a successful series of talks held by mathematicians, physicists, philosophers, and educators.
 * Already at the beginning of her career Emma was looking for a way of teaching aimed at actively involving students.
@@ -39,7 +38,6 @@ contributors: @Fulvia-Furinghetti,bookofproofs
 * When Freudenthal succeeded in achieving the two goals of founding a new journal and having a conference dedicated to mathematics education, Emma was an active participant in both events.
 * Emma was a very special teacher for many reasons.
 * Emma's contributions to mathematics education was not only directed to students, but also to her colleagues, especially young colleagues.
-* Emma had cultural influences, for example, her father and Enriques for mathematics education, Jean-Ovide Decroly (1871-1932), Maria Montessori (1870-1952) and Jean Piaget for general pedagogical issues.
 
 Born 12 December 1913, Rome, Italy. Died 13 April 2014, Rome, Italy.
 

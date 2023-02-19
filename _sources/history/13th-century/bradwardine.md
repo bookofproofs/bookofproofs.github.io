@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * These are merely guesses based on the first definite date we know for Bradwardine and that is August 1321 when he became a Fellow of Merton College, Oxford.
-* We know from Bradwardine's writings that his father, at the time of writing, was living in Chichester but since this must have been written more than twenty years after Bradwardine was born, it is somewhat fanciful to assume his father had not moved.
 * Although it is not certain, there is strong evidence to suggest that Bradwardine remained at Merton College until 1335.
 * In 1333 Bradwardine was appointed canon of Lincoln then, in 1335, he joined the group of men surrounding Richard de Bury who was Bishop of Durham.
 * Bradwardine was certainly part of Edward's invasion force.

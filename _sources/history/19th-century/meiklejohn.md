@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Meiklejohn** graduated from Edinburgh and taught at Dundee High School.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Janet Meiklejohn (born in Walls, Orkney about 1831).
 * John Meiklejohn attended Weydale Public School for five years, followed by the Miller Institution for four and a half years.
 * It is perhaps worth noting that Meiklejohn did not seem particularly fond of his middle names since he gave 'John Meiklejohn' as his 'Name in full' when he matriculated.
 * If there were any doubts as to his rapid promotion to the headship after only four years of teaching, these were soon dispelled, for three years later there began an almost unbroken sequence of highly-placed John Welsh Mathematical Bursars at his old University.

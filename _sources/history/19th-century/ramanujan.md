@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ramanujan** made substantial contributions to the analytical theory of numbers and worked on elliptic functions, continued fractions, and infinite series.
 
 ### Mathematical Profile (Excerpt):
-* Ramanujan was born in his grandmother's house in Erode, a small village about 400 km southwest of Madras (now Chennai).
-* When Ramanujan was a year old his mother took him to the town of Kumbakonam, about 160 km nearer Madras.
 * When he was nearly five years old, Ramanujan entered the primary school in Kumbakonam although he would attend several different primary schools before entering the Town High School in Kumbakonam in January 1898.
 * At the Town High School, Ramanujan was to do well in all his school subjects and showed himself an able all round scholar.
 * Ramanujan was shown how to solve cubic equations in 1902 and he went on to find his own method to solve the quartic.

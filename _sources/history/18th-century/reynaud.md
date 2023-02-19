@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Reynaud was attracted to literature when he was young and he wrote a number of plays.
-* Reynaud lived through a time of great political upheaval in France since he was 17 years of age when the storming of the Bastille took place in 1789.
-* The direction of Reynaud's career was changed, however, through pressure by his family who persuaded him to give up his military aspirations in favour of a career as an accountant.
 * In 1796 Reynaud gave up his accountant job and entered the École Polytechnique in Paris.
 * In 1800 a school was founded to prepare pupils for entry to the École Polytechnique and Reynaud began teaching mathematics at the school, although he received no salary for this post.
 * Reynaud was to hold a variety of different posts.

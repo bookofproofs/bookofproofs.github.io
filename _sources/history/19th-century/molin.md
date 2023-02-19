@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Theodor Molien** was born in what is now Latvia and  studied associative algebras and polynomial invariants of finite groups.
 
 ### Mathematical Profile (Excerpt):
-* Theodor attended the Gymnasium where his father taught, and from there he entered the Faculty of Physics and Mathematics at the University of Dorpat.
 * Well it is not strictly accurate to call it the University of Dorpat for, although this is its name today, this was not its name when Molien entered.
 * Molien graduated from the University of Dorpat in 1883 after studying astronomy under A Lindstedt as well as mathematics, and continued to work there to become a university professor.
 * Molien also attended lectures by Carl Neumann, E Study, W Killing and G Scheffers, before returning to Dorpat where he submitted his Master's thesis and was examined.

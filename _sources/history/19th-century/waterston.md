@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John James Waterston**  was a Scottish physicist who worked in the kinetic theory of gases.
 
 ### Mathematical Profile (Excerpt):
-* William and Catherine's son George Waterston, an Edinburgh sealing wax manufacturer and stationer, married Jane Blair from Dunkeld.
-* They had nine children of which John Waterston, the subject of this biography, was the sixth.
 * John Waterston studied at Edinburgh High School, then entered Edinburgh University to study mathematics and physics while at the same time being an apprentice in the engineering firm of Grainger and Miller.
 * At Edinburgh University he was a pupil of John Leslie who gave him an excellent training in mathematical physics.
 * Waterston published his first paper on mathematical physics while a student.

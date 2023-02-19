@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * It is possibly that this is a relative of Rudolff's or even Rudolff himself.
-* It would appear that Rudolff's mother tongue was German and, during his lifetime, Jauer came under Austrian Habsburgs control in 1526.
 * Schreyber taught at the University of Vienna between 1517 and 1521, so we know that Rudolff must have studied there for some period before 1521.
 * Rudolff's book Coss, written in 1525, is the first German algebra book.
 * At this time Brixen was controlled by the Habsburgs and this dedication makes one wonder whether Rudolff had spent some time there.
@@ -46,6 +45,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * For several such problems concerned with "splitting the bill" (Zechenaufgaben) Rudolff supplied all the possible solutions.
 * Rudolff does not work out their solutions because, as he stated, he wanted to stimulate further algebraic research.
 * Another important feature of Coss is that Rudolff uses letters to represent numbers.
+* Adding a diagonal stroke to the points used by earlier cossists, Rudolff introduced ...
 * In brief, Rudolff's role in the development of mathematical studies in Germany was analogous to that of Fibonacci in Italy.
 * As to his influence on later mathematicians, we note that Michael Stifel brought out a new addition to Rudolff's Coss in 1553, adding some important material of his own.
 * In fact when Euler was learning mathematics he made a careful study of Rudolff's work.

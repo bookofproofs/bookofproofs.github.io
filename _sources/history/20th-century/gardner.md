@@ -23,11 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Martin Gardner** was an American popular mathematics and science writer who had a long-running column on mathematical recreations in _Scientific American_.
 
 ### Mathematical Profile (Excerpt):
-* While he was still working for the Smithsonian Institution, he often took his young son Martin on his digs.
-* Martin's mother was a primary school teacher in Lexington before her marriage but, once the children were born, she stayed at home to look after them - she did, however, keep up her hobby of painting.
-* Martin was the oldest of his parents' three children having a younger brother Jim and sister Judith.
-* The family were well-off, the oil business being highly lucrative, and they even had their own tennis court by the time Martin was old enough to begin playing.
-* Today Gardner is famed for mathematical puzzles, many would say that he is the most famous modern writer of mathematical puzzles in the world, and this interest in puzzles came early in his life when his father gave him a copy of Sam Loyd's Cyclopedia of Puzzles.
 * After graduating from high school, Gardner wanted to study physics at the California Institute of Technology.
 * However, the entrance requirements were two years at College so Gardner went to the University of Chicago with the intention of moving to Cal.
 * Gardner moved to New York in 1947 and continued to earn a living contributing articles and becoming an editor of Humpty Dumpty.
@@ -36,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1981, to celebrate Gardner's sixty-fifth birthday, the book The Mathematical Gardner was published.
 * His relationship to the mathematical community makes him unique: Gardner's monthly column in 'Scientific American' has been appearing for more than two decades.
 * Martin Gardner's writing has contributed enormously to improve the accessibility of the subject.
-* For many years the Gardner family lived on Euclid Avenue (everyone remarks on the apt address) in Hastings-on-Hudson, New York, but in 1979 they moved to Hendersonville, North Carolina.
 * Martin Gardner has captured the attention of his readers, obtained their active involvement, and stretched their minds to an extent which is the envy of all of us who teach.
 * Let us end by noting that Gardner has produced a number of mathematical papers, written with leading mathematicians.
 * The results Gardner mentions here under (2) appear in the paper "Fan Chung, Martin Gardner and Ron Graham, Steiner trees on a checkerboard, Math.

@@ -24,14 +24,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * In later life, Wilhelm Wien was known as 'Willy' to his friends and colleagues.
-* Carl Wien was a gentleman farmer and landowner, and Wilhelm was born on the family farm at Gaffken near Fischhausen.
-* Carl took his family to a farm at Drachenstein, near Rastenburg in East Prussia, when Wilhelm was two years old since the one at Gaffken could no longer support them.
 * In the same year that Carl and Caroline Wien moved to Drachstein, Wilhelm's cousin Max Carl Wien was born on Christmas day in Königsberg.
 * Max Carl Wien also became a physicist and worked on high-frequency waves and the behaviour of electrolytes at high electric field strengths.
 * Wilhelm Wien attended the Gymnasium in Rastenburg beginning in 1875 but showed little enthusiasm for academic work.
 * His mathematics tutor Switalski was outstanding and Wien made good progress.
 * Arnold Sommerfeld and Hermann Minkowski were both pupils at this Gymnasium at the time and, perhaps for the first time in his life, Wien made good academic progress.
-* Wien's mother encouraged him to continue his education with study at university.
 * Things certainly changed for Wien in the winter of 1883-84 when he began studying in the laboratory of Hermann von Helmholtz.
 * Most German students of this period would move between different universities and Wien followed this tradition by spending the summer semester of 1884 at the University of Heidelberg.
 * After this semester at Heidelberg, Wien returned to study with Helmholtz in Berlin and was given the topic of 'diffraction of light when it strikes a grating' as the subject for his doctoral dissertation.
@@ -52,7 +49,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Wien received the 1911 Nobel Prize for his work on heat radiation.
 * In 1892 Wien had been promoted to a lecturer in Berlin and he was happy working at the Physikalisch-Technische Reichsanstalt but in 1894 Helmholtz died and Friedrich Kohlrausch was appointed to succeed him.
 * This certainly did not fit in with Wien's approach determined by his extremely independent nature.
-* In Aachen, Wien met Luise Mehler; they married in 1898 and had two sons, Waltraut and Karl, and two daughters, Gerda and Hildegard.
 * Wien had been appointed to fill the chair previously held by Philipp Eduard Anton Lenard who had left Aachen to take up the chair at Heidelberg.
 * Lenard had been undertaking research on cathode rays in Aachen and the equipment he had been using proved extremely useful to Wien who had begun to undertake research into cathode rays while in Berlin.
 * While studying streams of ionized gas in 1898, Wien identified a positive particle equal in mass to the hydrogen atom.

@@ -28,7 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Quickly Sheppard realised that his interests were in education rather than law and, in 1896, he was appointed to the Education Department.
 * Sheppard spent some time in Edinburgh following his retirement and during this time he collaborated with Aitken.
 * He was elected to the Royal Society of Edinburgh on 7 March 1932, his proposers being Sir Edmund T Whittaker, George James Lidstone, Alexander C Aitken, William Ogilvy Kermack.
-* On 10 June 1902, Sheppard married Elsa Stevens; they had three sons.
 
 Born 21 November 1863, Sydney, New South Wales, Australia. Died 12 October 1936, Cardrona, Berkhampsted, Herts, England.
 

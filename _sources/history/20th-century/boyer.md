@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Carl Benjamin Boyer** was an American historian of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Howard Boyer was a topographer and engineer who married Rebecca who came from a family of farmers.
-* Howard and Rebecca had three children, Carl having an older sister Rebecca Eisenhart Boyer (11 October 1903-16 August 1998) and a younger brother Gilbert Eisenhart Boyer (28 June 1908-28 December 1990).
 * Although born in Hellertown, Carl was brought up in New York.
 * In his final year at High School, Boyer was ranked first in his class and won a Pulitzer scholarship which paid his tuition fees at Columbia College.
 * While an undergraduate at Columbia, Boyer took a course on the history of science given by Frederick Barry (1876-1943).
@@ -33,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * While tutoring at Brooklyn, Boyer was also still studying at Columbia College.
 * Boyer became an Instructor in mathematics at Brooklyn College in 1934.
 * At Columbia he held a seminar 'Studies in intellectual history of the closing medieval and early modern centuries' which Boyer attended and at this seminar he met Marjorie Duncan Nice.
-* Marjorie and Carl were married on 29 June 1935.
 * However that may have been, Carl Boyer never allowed himself to be discouraged, and he proceeded to become his own kind of mathematician.
 * Of course, the reality was there before the sociologists analyzed it, but the only indication that Carl ever suffered from this was his advice to one of his four sons, all of whom are in scientific or scholarly life, not to go into mathematics unless confident of his own creativeness.
 * In addition to his work at Brooklyn College, Boyer was a Lecturer in Science at University College, Rutgers University, from 1935 to 1941.

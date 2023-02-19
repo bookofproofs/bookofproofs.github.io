@@ -23,16 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Denis Papin** was a French inventor who worked on the steam engine and invented the pressure cooker and the paddle boat.
 
 ### Mathematical Profile (Excerpt):
-* Denis Papin Sr married Madeleine Pineau, whose family had a tradition of being medical practitioners, around 1640.
-* They had thirteen children with Denis, the subject of this biography, being their fourth child and eldest son.
-* He was presented for baptism by his uncle, Isaac Papin who was 26 years old at the time.
-* When he was six years old, Denis was put into the care of his uncle Nicolas Papin (born 22 January 1625).
-* Nicolas Papin was a medical doctor in Saumur, about 100 km west of Blois, and had married there in 1647 and had three children born in 1648, 1649 and 1653.
 * In Saumur there was a Huguenot Academy and Denis studied at this school.
 * The Charron and the Papin families were both from Blois so Marie Colbert was an obvious person for Papin to approach looking for support.
 * He was looking for an assistant so it was arranged for Papin to fill this role.
 * Indeed, a section of Papin's book closely follows a lecture that Huygens delivered to the Académie Royale in 1668.
 * Dismissive of the debates in which Huygens had been involved, Papin preferred instead to improve the instrument and to narrate observations of natural phenomena occurring inside the rarefied space of the air-pump.
+* Also in 1674, Boyle, unaware of Papin's book, published a collection of short papers that included works about the 'hidden qualities of the air" ...
 * Huygens received Boyle's collection of papers in June 1675, and in the following month Papin travelled to England with his own air-pump to engage directly with Boyle.
 * Huygens gave Papin a letter of introduction to Henry Oldenburg, secretary of the Royal Society.
 * In the letter he asked Oldenburg to arrange for Papin to be introduced to Boyle and Brouncker.
@@ -50,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In fact when Sarotti had returned to Venice, he took with him one of Papin's air pumps.
 * After leaving Italy, there were religious reasons why Papin could not return to France.
 * Papin returned to London in 1684 working again with the Royal Society until 1687.
-* There he was reunited with other Huguenots who had fled France, among them his cousin Marie Papin and her husband, Jacques Maliverne, likewise a professor at the university, who shortly died, leaving his widow to support their small daughter, Charlotte.
 * Papin's desire to marry Marie was opposed by the local pastor on the grounds of consanguinity and only achieved, on 1 January 1691, by special dispensation from the landgrave of Hesse.
 * This time in Hesse-Kassel was not a successful one for Papin who found himself in disagreement with his colleagues.
 * We should mention Papin's friendship with Gottfried Leibniz and also the scientific controversy between the two.
@@ -58,6 +53,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At this time Leibniz was a frequent visitor to Huygens' laboratory and so met Papin on a regular basis.
 * Their scientific controversy occurs in an exchange of letters in 1689-1691, beginning with a letter from Leibniz concerning a paper by Papin which discusses the motion of freely falling bodies.
 * The way Papin reacted was both to reply with a letter but also to write further papers.
+* But as Leibniz was firmly opposed to Papin's intention of submitting the controversy to the scientific community, they remained unedited ...
 * In November, 1692, their correspondence suddenly stopped, presumably because of Papin's troubles with his new appointment in Marbourg.
 * Nevertheless, they later intensively argue over vis motrix from July, 1695 until Papin's travel to Holland in 1700.
 * Papin repeats the grounds of his position throughout the controversy: if we are dealing with bodies which are raised to a certain height by a motion acquired through a previous descent from the same height, we cannot assume that these heights are proportional to the vires motrices, since the forces are diminished by the resistance they must overcome, and not by the distance they traverse.
@@ -67,7 +63,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1707 Papin built the first paddle boat and that same year he returned to London where he lived in obscurity and poverty until his death.
 * Isaac Newton was, at this time, President of the Royal Society and seems to have given no encouragement for Papin's reemployment.
 * In addition, the Society was itself in financial difficulties and was not in a position to give Papin much in the way of financial assistance.
-* Papin continued to write papers, for example he sent eleven papers to the Royal Society in 1711.
 * Although Papin received little in the way of honours in his lifetime, mainly because the importance of his work was not understood until 100 years after his death, nevertheless he has been honoured more recently in his native town of Blois where a bronze statue has been erected and one of the main streets is named after him.
 * A Jean Monnet University building in St Étienne stands in the Rue Denis Papin.
 * The Lycée Professionnel Denis Papin is in La Courneuve, not far from Blois.

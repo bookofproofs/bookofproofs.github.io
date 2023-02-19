@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Charles Bossut** was a French mathematician who was famed for his textbooks which were widely used throughout France.
 
 ### Mathematical Profile (Excerpt):
-* Charles never knew his father for his died when he was only six months old.
-* The arrangement which allowed him to be brought up in a reasonably affluent home was that his father's brother took over the role of his father and Charles was brought up in his home.
 * Montucla was five years older than Bossut and completed his studies at the Jesuit College of Lyon about the time that Bossut entered.
 * Another famous mathematician also studied under Père Béraud at the College, namely Jérôme Lalande who was two years younger than Bossut so the two overlapped at the College.
 * Although his main interests were in mathematics, and particularly in mathematical education, Bossut continued in the Church after his studies at the Jesuit college, and took holy orders becoming an abbé.

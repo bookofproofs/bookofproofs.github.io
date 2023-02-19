@@ -23,11 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Leopold Schmetterer** was an Austrian mathematician who worked on analysis, probability and statistics.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Gisela Busch and it was mainly through her efforts that Leopold survived when a baby during a period of extreme hardship and poverty.
 * Schmetterer attended lectures by Wolfgang Gröbner, Hans Hornich, Karl Mayrhofer and Karl Strubecker.
 * Schmetterer had been a research assistant from October 1940, but in September 1941, after the award of his doctorate, he had to undertake military service.
 * Johann Radon was appointed to Vienna in 1946, and he influenced strongly the direction of Schmetterer's research.
-* On 21 April 1947 Schmetterer married Elisabeth Schaffer who had been a mathematics student: they had four children, sons George (born 1948), Victor (born 1951) and Leopold (born 1964) and a daughter Eva (born 1955).
 * Schmetterer's interests turned towards probability.
 * The outcome of this teaching was Schmetterer's book Einführung in die mathematische Statistik Ⓣ(Introduction to Mathematical Statistics) (1956).
 * Hamburg at this time contained a host of leading mathematicians, and Schmetterer's colleagues included Helmut Hasse, Heinrich Behnke, Wilhelm Blaschke, Ernst Witt, Emil Artin, Emanuel Sperner, Lothar Collatz and Hans Zassenhaus.

@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Wilbur Knorr** was an American historian of mathematics best known for his work on ancient Greek mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Wilbur Jr, the subject of this biography, and his sister Valerie grew up in West Islip on Long Island, New York.
-* After Wilbur's sister Valerie grew up, she graduated from the University of California at Berkeley and became a teacher before marrying Mike Maione.
-* Knorr attended high school in New York where he showed himself to be an exceptionally talented musician playing the violin.
 * Like Knorr, Joseph W Dauben began undertaking research on the history of mathematics at Harvard in 1966.
 * At Harvard, Knorr's thesis advisors were John Emery Murdoch (1927-2010) and Gwilym Ellis Lane Owen (1922-1982).
 * The ideas that led to Knorr's thesis came from lectures given by his thesis advisors.

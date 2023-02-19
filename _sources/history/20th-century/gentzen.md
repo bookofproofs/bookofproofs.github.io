@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gerhard Gentzen** invented a 'natural deduction' which provided a logic closer to mathematical reasoning than the systems proposed by Frege, Russell and Hilbert.
 
 ### Mathematical Profile (Excerpt):
-* It was there that Gerhard spent his childhood years, attending first the elementary school there, and later the Realgymnasium.
 * Gentzen had already begun his secondary schooling at this stage but he continued his education at the Humanistische Gymnasium in Stralsund.
 * Certainly moving schools did not affect Gentzen's academic achievements for when he received his Abitur in 1928 it was with distinction and he was ranked top in his school.
 * Gentzen, as was usual at this time, moved between different German universities.

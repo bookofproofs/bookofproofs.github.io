@@ -28,7 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Gupta publication record is exceptional containing over 200 items.
 * Gupta held academic posts at universities such as the University of Alberta and New York University where he worked at the Courant Institute.
 * For his many contributions to statistics, Gupta was honoured by election as a fellow of several societies such as the American Association for the Advancement of Science, the American Statistical Association, and the Institute of Mathematical Statistics (for which he served a term as president).
-* Gupta married Marianne Heinicke; they had one daughter Maya.
 
 Born 15 January 1925, Saunasi, Mainpuri, India. Died 11 January 2002, West Lafayette, Indiana, USA.
 

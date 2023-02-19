@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Laguerre studied approximation methods and is best remembered for the special functions the Laguerre polynomials which are solutions of the Laguerre differential equations.
 * He also found a continued fraction expansion for the integral, the convergents of which involved the Laguerre polynomials.
 * He went on to investigate properties of the polynomials, proving orthogonality relations and also showing that an arbitrary function could be expanded in a 'Fourier type' series in Laguerre polynomials.
-* Other than mathematics, it was only his family which played a large role in Laguerre's life.
 * Laguerre wrote 140 memoirs which he published in the leading journals of his time so it is reasonable to ask why he is only known for the results mentioned specifically above.
 * Because as brilliant as Laguerre was, he worked only on details - significant details, yet nevertheless details.
 * Laguerre, on the other hand, proved the addition theorem with the help of anallagmatic curves using Poncelet's theorem on inscribed and circumscribed polygons to two conics.

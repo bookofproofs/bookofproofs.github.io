@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **H T H Piaggio** graduated from Cambridge and then worked at the University of Nottingham. He is best known for his text-book on Differential Equations.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Mary Piaggio (born at St Pancras, London about 1855) who was a cloakroom attendant.
-* H T H Piaggio  had a younger sister Edith Mabel (born about 1888) who became a shorthand typist.
-* He also had a younger brother Edward Ernest (born about 1894) who became a clerk.
 * H T H Piaggio was educated at the City of London School and at St John's College, Cambridge.
 * In 1908 he was appointed Lecturer in Mathematics at the University of Nottingham although at that time there was no separate Department of Mathematics there.
 * A chair of mathematics was created at Nottingham and Piaggio was appointed to it in 1919.

@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Norman  Routledge** was an English mathematician and schoolteacher. He was a personal friend of Alan Turing.
 
 ### Mathematical Profile (Excerpt):
-* Norman was his parents' second child; he had one brother and three sisters.
 * The plan was put into operation in September 1939, just when Norman would have been starting school.
-* The evacuation of London in 1939 led to Routledge and his mother going to Letchworth, north of London, where they lived with his aunt Grace.
 * Routledge performed well in most of his school subjects but his weakest one was English literature, something that he blamed on poor teaching.
 * Routledge's parents took the headmaster's advice and Routledge specialised in mathematics and physics.
 * Although he only stayed for a short time before leaving the school to become a university lecturer, Braithwaite had a large influence on Routledge.

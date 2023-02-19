@@ -24,14 +24,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Irwin Appel was born in Russia but emigrated to the United States.
-* As well as Kenneth, the subject of this biography, Irwin and Lillian Appel had a daughter Lois who was about five years younger than their son.
-* Kenneth lived the first few years of his life in Brooklyn but was brought up in Queens, New York, where the family moved after 1935.
 * Appel was educated in New York.
 * After graduating, Appel spent a short spell working as an actuary before serving for two years in the US army.
 * After two years of army service, Appel enrolled in the graduate programme at the University of Michigan in 1955.
 * Another important event in Appel's life happened while he was a graduate student.
-* Carole and Kenneth Appel had three children, Andrew Wilson Appel (1960-) who became professor of computer science at Princeton University, Laurel (1962-2013) who became a professor of biology at Wesleyan University, and Peter (1964-) who is Administrator of the US Research and Innovative Technology Administration.
-* Three months after he was married, Appel began a two-year appointment with the Institute for Defense Analyses.
 * Appel worked at this Center in Princeton using both his mathematical and computing expertise.
 * Following his two years with the Institute for Defense Analyses in Princeton, Appel was offered a assistant professorship at the University of Illinois at Urbana.
 * This result using computers to prove a mathematical theorem, was a technique that Appel used to great effect as we explain below.

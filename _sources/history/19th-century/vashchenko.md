@@ -36,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * For example, the last edition of Euclid's Elements listed by Vashchenko-Zakharchenko as published in France appeared in 1778.
 * Vashchenko-Zakharchenko also wrote an important work on the history of mathematics in 1883 in which he discussed the history of mathematics up to the 15th  century.
 * Despite the fact that Vashchenko-Zakharchenko's translation of Euclid was free and sometimes inaccurate, and that his 'History of Mathematics: Historical treatise on the development of geometry, Volume 1' was little more than a compilation of the works of Western European authors, especially Moritz Cantor, both work were of considerable importance.
-* Vashchenko-Zakharchenko wrote on other historical topics too; for example he wrote a history of the development of analytic geometry.
 
 Born 12 November 1825, Maliivka, Zolotonosha, Poltava, Ukraine. Died 27 August 1912, Kiev, Russian Empire (now Kyiv, Ukraine).
 

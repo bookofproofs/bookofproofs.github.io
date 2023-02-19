@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Paul Finsler** was a German mathematician who worked on set theory, differential geometry, number theory, probability theory and the foundations of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Paul had a brother Hans Finsler who was born in Heilbronn on 7 December 1891.
-* Paul also had a sister Anne Finsler who became a mathematician and wrote Volumen und Oberfläche von Kreuzkern und Kugel Ⓣ(Volume and surface of the cross-core and ball) (1954).
 * Paul attended a grammar school in Urach, then, between 1908 and 1912, he attended a secondary school, the Real Gymnasium in Cannstatt, which emphasised science in its teaching.
 * Kutta had been appointed as an ordinary professor of analysis and analytical geometry at the Technische Hochschule in Stuttgart in 1911, the year before Finsler began his studies there.
 * Finsler also attended lectures at Stuttgart by Rudolf Mehmke (1857-1944).
@@ -60,6 +58,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Finsler continued to develop his ideas despite the criticisms.
 * - It seems to the reviewer that Finsler's solution of the antinomy of the liar is not of the required kind: it does not provide a test for proposed proofs, but rather explains away the antinomy after the fact.
 * However, Finsler omits exactly the main point which makes a proof possible, namely restriction to some well-defined formal system in which the proposition is undecidable.
+* If Finsler had confined himself to some well-defined formal system S, his proof ...
 * The reader will see from the list of Finsler's publications that he undertook research on topics other than differential geometry and the foundations of mathematics.
 * On 4 July 1937, while in Zürich, Finsler discovered another comet, now named Comet 1937 f (Finsler), and immediately informed Copenhagen.
 * This is Professor Finsler's second comet discovery; the first was in 1924.

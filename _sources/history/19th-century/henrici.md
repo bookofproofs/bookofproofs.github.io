@@ -29,9 +29,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Henrici then went to Berlin and studied under Weierstrass and Kronecker.
 * Employing Henrici as an assistant seemed like a good way of reducing his workload so that is precisely what Hirst did.
 * In 1869 Henrici was appointed professor of mathematics at Bedford College for Women.
-* Whether the loss of his assistant was a contributory fact to Hirst taking ill around Easter of 1870 is unclear, but being unable to perform his teaching duties he asked Henrici to take over.
 * Henrici, who at this stage was doing the teaching anyway, was appointed professor of mathematics at University College.
-* Their son, Ernst Olaf Henrici, became a major in the Royal Engineers but was a fine mathematician who collaborated with his father on a paper in 1912.
 * In 1879 Clifford, who had been professor of applied mathematics and mechanics at University College, died, and Henrici was asked to take over his teaching duties.
 * Clearly the duties of the two chairs were too much for one person so in 1880 Henrici was formally installed as professor of applied mathematics and mechanics and resigned his chair of mathematics.
 * Henrici wrote some excellent little books to introduce undergraduates to mathematical ideas such as projective geometry in Congruent Figures (1878), and vector methods in Vectors and Rotors (1903).

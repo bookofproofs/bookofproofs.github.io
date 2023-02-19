@@ -25,19 +25,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Ovsey Cotlar ran a flour mill, but was more famous as an outstanding chess player.
 * Chess was not Ovsey Cotlar's only passion, however, for he was also deeply interested in mathematics and music.
-* Mischa had an older brother Sasha Cotlar, born 7 April 1910, died 1991.
-* In 1928 the Cotlar family, who were Jewish, emigrated from the Ukraine, forced out by the Bolshevik revolution, and arrived in Montevideo.
 * Mischa was only 15 at this time and had only had one year of formal education.
-* The Cotlar family were poor, living in a single room in Montevideo, and they all had to work to earn a living.
 * Sasha worked on the tramway while Mischa played the piano from 4 p.m. to 4 a.m. in a harbour bar.
 * The first possession that Ovsey bought was a piano for Mischa.
-* That this was no ordinary poor family became apparent once Ovsey Cotlar began playing competitive chess.
 * He invited Cotlar to join a mathematical group that met in his home.
 * Before leaving the Ukraine, Cotlar had studied Dmitry Grave's number theory book and solved some of the open problems in the book.
 * Although Cotlar had solved some open problems, other mathematicians had solved them too and published the results but, of course, Cotlar had no way of knowing this.
 * After a short while, Mischa told Cora that he missed playing the piano very much.
 * Cora immediately invited him to play at her home and, after a long argument, convinced Mischa to accept the offer.
-* Cora's mother delighted in Mischa's playing and always considered it a great personal vindication to have met a talented young man willing to use an instrument she had not succeeded in making important to her own children.
 * Mischa, in his desire not to intrude, sat on the very edge of the piano stool, and we were always worried about the stability of the system and imagined the pianist rolling on the floor! Little by little, Mischa carved his place in Buenos Aires.
 * In 1937 Cotlar met Yanny Frenkel, a Ph.D. student of Rey Pastor, who was born in Melitopol, Russia on 21 May 1909.
 * Cotlar, with no formal qualifications, could not obtain an official teaching position.
@@ -47,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1945 Cotlar was appointed as a research instructor at the Universidad National de La Plata when the engineer A Martínez Civelli was rector, but six months later a new rector was appointed and Cotlar was quickly dismissed.
 * George D Birkhoff visited Buenos Aires in 1942 and immediately saw what a talented mathematician Cotlar was and said he would recommend him for a Guggenheim Fellowship.
 * He discovered two exceptional students, Mischa Cotlar and Alberto Calderón, and arranged for Calderón to study at Chicago for a Ph.D. advised by him.
-* Garrett Birkhoff, George Birkhoff's son, came across paper work in his father's papers concerning Cotlar and the Guggenheim Fellowship and he took the application forward.
 * Cotlar was recommended for a Guggenheim Fellowship by Garrett Birkhoff, which he won in 1950.
 * On 24 January 1951 Mischa and Yanny Cotlar flew from Buenos Aires to New York.
 * They spent six months at Yale University, where Mischa studied ergodic theory with Shizuo Kakutani.
@@ -56,7 +50,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In fact, when the university situation changed dramatically in 1956, Mischa and his collaborators were asked to join university faculties all over the country.
 * After DIC was closed, Cotlar was appointed Professor of Mathematics at the School of Sciences of the Universidad de Buenos Aires in 1957.
 * Cotlar resigned, along with 400 other academics, and after a short stay in Montevideo, was appointed to Rutgers University in the United States in 1967.
-* In the following year Cotlar and his wife Yanny both returned to Argentina.
 * Cotlar was appointed as professor at the Universidad de la Plata, where his friend and colleague Rodolfo Ricabarra also joined the faculty.
 * Cotlar left and was appointed to the Central University of Venezuela in Caracas.
 * The influence of Mischa is reflected in the attitude and work capacity of this group, which is beginning to be recognized beyond our borders.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Raphael Robinson** was an American mathematician who was interested in a wide variety of problems including number theory and tilings.
 
 ### Mathematical Profile (Excerpt):
-* He gave his sons romantic names, Raphael being the name he gave to the youngest of his four children, which was in keeping with his nature and his love of poetry.
 * Robinson entered the University of California at Berkeley from where he graduated with a B.A. in 1932 and an M.A. in the following year.
 * The Great Depression began in 1929 while Robinson was an undergraduate and by 1932, when he graduated with a B.A., one quarter of the workers in the United States were unemployed.
 * The Depression lasted for around ten years so when Robinson began to look for a post in 1935 there was still a great scarcity of college positions and those which did exist paid very low wages.
@@ -31,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1939 Robinson taught a course in number theory and one of his students was Julia Bowman.
 * Raphael and Julia began going for walks together; on these he would teach her more mathematics which she found very exciting.
 * When Bowman's job applications failed, Neyman found a small amount of money to allow her to stay on at Berkeley as his assistant and in 1941 she was awarded her M.A. By this time Raphael and Julia planned to marry so Julia turned down a civil service job to remain at Berkeley as a teaching assistant.
-* Raphael married Julia on 22 December 1941 but after this she was no longer allowed to teach in the mathematics department since Raphael was on the mathematics staff.
 * Robinson was steadily promoted, becoming a full professor in 1949.
 * Even in retirement Robinson owned no casual clothes.
 * Julia Robinson died in July 1985 and, in the following year, Raphael established the Julia Bowman Robinson Fund for fellowships for graduate students in mathematics at Berkeley.

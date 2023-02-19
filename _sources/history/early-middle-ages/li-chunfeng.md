@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * He was born during the short lived Sui dynasty which was important in unifying a country which had been divided for over 300 years.
-* Li Chunfeng's father was a Taoist and this had a great influence on Li Chunfeng's thinking.
 * It is a positive religion, emphasising the joyful and carefree sides of the Chinese character.
 * It is also characterized by a positive, active attitude toward the occult and, as we shall see below, Li Chunfeng became to be regarded as a great astrologer and prophet through using numerology.
 * When Li Chunfeng was sixteen years old, the Sui dynasty was replaced by the T'ang dynasty.

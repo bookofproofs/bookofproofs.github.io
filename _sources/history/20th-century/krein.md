@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Mark G Krein** was a Soviet mathematician who worked in functional analysis, operator theory, classical analysis and representation theory.
 
 ### Mathematical Profile (Excerpt):
-* The fact that the family were Jewish meant that Krein grew up in an atmosphere of persecution.
 * This was also highly significant for Krein's subsequent career, for discrimination against Jews in the Ukraine was bad and, by misfortune for Krein, was particularly bad in Odessa where he lived from the age of 17.
 * Krein showed a remarkable talent for mathematics at a young age.
 * However, Krein never completed his undergraduate degree for he left his home in Kiev when he was 17 years old and ran away to Odessa.

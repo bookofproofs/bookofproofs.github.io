@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Platon Sergeevich Poretsky** was a Russian astronomer, mathematician, and logician.
 
 ### Mathematical Profile (Excerpt):
-* These include: various documents related to Poretsky's lectures on mathematical logic for mathematics department students at Kazan University which were intended to be given for three semesters in the autumn of 1887 and all of 1888 but were delivered only during the 1888 Spring semester, a complete mathematical logic program compiled by Poretsky, materials related to Poretsky's father and family, Poretsky's Magister's (master's) dissertation and the decision of the physics-mathematics faculty council to award him the doctorate in astronomy rather than the Magister, a complete list of the sources he used (including Boole, Jevons, Schröder, and Peano), biographical data and materials regarding his illness and subsequent dismissal from Kazan University.
 * We incorporate some information discovered by Bazhanov in the biographical details of Poretsky that we give below.
 * Platon Sergeevich Poretsky attended Poltava Gymnasium and, after graduating, he entered the Physical-Mathematical Faculty of Kharkov University.
 * He reviewed Poretsky's thesis, giving it the highest grade.

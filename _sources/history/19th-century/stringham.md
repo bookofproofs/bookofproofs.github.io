@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Irving Stringham** was an American mathematician who worked in geometry and became head of mathematics at Berkeley.
 
 ### Mathematical Profile (Excerpt):
-* Henry and Eliza Stringham were married on 7 March 1823 in Brookfield, Brookfield County, Connecticut, and they had nine children: Amelia Maria Stringham (born 9 Apr 1824, Fairport, Monroe County, New York); Thomas Henry Stringham (born 29 Mar 1826, Rochester, Monroe County, New York); Ann Eliza Stringham (born 26 Apr 1828, Dansville, Livingston County, New York); Daniel Tomlinson Stringham (born 2 Nov 1830, Geneseo, Livingston County, New York); Cecelia Jane Stringham (born 5 Nov 1832, Franklinville, Cattaraugus, New York); Charles Augustus Stringham (born 22 Jan 1835, Lynden, Cattaraugus, New York); Theodore Lefoy Stringham (born 2 Feb 1839, Lynden, Cattaraugus, New York); Oliver Eugene Stringham (born 31 Jan 1844, Lynden, Cattaraugus, New York); and Washington Irving Stringham, the subject of this biography (born 10 Dec 1847, Delevan, Cattaraugus, New York).
-* Two of Irving Stringham's brothers served in the Northern army during the American Civil War.
-* Oliver Eugene Stringham was one of the two brothers and he was taken prisoner at the Battle of Gettysburg.
 * Stringham was brought up at Yorkshire Centre, in western New York, where he attended the village school.
 * In 1872, Stringham entered the second year of studies at Washburn College (as it was named by this time).
 * However, Stringham now aimed higher and was intent on studying at Harvard College.
@@ -39,8 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Stringham submitted the paper from Schwarzbach, Saxony, in September, 1881.
 * After spending the two academic years 1880-82 in Europe, Stringham would have liked to have remained for another year.
 * Gilman did not come up with a job at Johns Hopkins but, instead, arranged for Stringham to get a professorship at the University of California at Berkeley.
-* On 28 June 1888, Stringham married Martha Sherman Day in New Haven, Connecticut.
-* Martha and Irving Stringham had three children: Harriet Day Stringham (born 21 August 1889); Martha Sherman Stringham (born 5 March 1891); and Roland Irving Stringham (born 24 May 1892).
 * Stringham made several trips abroad, both before and after his marriage.
 * When Stringham was appointed as a professor and head of mathematics at the University of California at Berkeley he was 35 years old.
 * We mention two books that Stringham published while at Berkeley, namely Uniplanar Algebra, Vol.

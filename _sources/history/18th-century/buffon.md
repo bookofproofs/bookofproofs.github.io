@@ -23,28 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Georges Buffon** was a French scientist who was important in the area of natural history. His needle experiment caused much discussion about probability.
 
 ### Mathematical Profile (Excerpt):
-* Georges-louis Leclerc, as was his name until 1725, was the eldest of his parents five children.
-* When Georges was ten years old his mother inherited a large sum of money which allowed Benjamin Leclerc to become lord of Buffon and Montbard.
-* The name Buffon was that of an estate that his mother Anne inherited at this time.
 * At this time Georges entered the Jesuit College of Godrans in Dijon and he was educated there until 1723.
-* Three of his younger brothers went on to join the Church but Georges' father wanted his eldest son to study law.
 * It did not look that Georges would become a star in legal circles for his school performance was not above average.
 * However, he was more interested in mathematics than he was in the law and at the age of 20 Buffon (he was now calling himself Georges-Louis Leclerc De Buffon) discovered the binomial theorem.
 * In 1728 Buffon went to Angers to study mathematics, but he also studied other topics such as medicine and botany.
 * Buffon, the Duke of Kingston and his tutor Nathaniel Hickman, visited southern France and Italy, arriving in Rome early in 1732.
-* When news reached Buffon that his mother had died, he returned to France.
-* His mother had left Buffon her fortune which he inherited despite his father objecting strongly.
 * Buffon decided to settle on what was now his estate at Montbard.
 * He wanted to improve the construction of ships of war, and he asked Buffon to study the tensile strength of timber to assist in this task.
 * As a result of this fine memoir Buffon was elected to the Royal Academy of Sciences in Paris on 9 January 1734.
 * Someone who is skilled in financial affairs and who starts with a large amount of money is usually able to make a considerably larger fortune for themselves, and this is precisely what Buffon did over the years from 1734 to 1740.
 * A new phase in Buffon's life began in July 1739 when he was appointed as keeper of the royal botanical garden, the Jardin du Roi.
 * For fifty years, Buffon spent the summer on his estate, returning to Paris in the autumn.
-* Buffon married Françoise de Saint-Belin-Malain in 1752.
-* By this time Buffon was forty-five years of age but his wife was twenty.
-* They had one son in 1764 but Buffon's wife died five years later.
-* It looked as though Buffon's son had a brilliant future and he was expected to achieve fame at least equal to that of his father.
-* When Buffon's son was seventeen years old his father arranged for the naturalist J-B Lamarck to take him with him on his botanical studies through Europe.
 * The wide range of topics which Buffon wrote on include mathematics, the theory of probability, astronomy and physics, especially optics.
 * Unlike Newton, Buffon believed that everything developed through natural phenomena.
 * Buffon proposed a method of creation of the planets which involved the collision of a comet with the sun.

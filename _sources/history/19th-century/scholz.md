@@ -29,7 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This work persuaded Scholz of the importance of mathematics for philosophy, although he had at that time no deeper knowledge of this science.
 * Toeplitz had been an extraordinary professor of mathematics at Kiel in 1913 and had become an ordinary professor in the year before Scholz arrived in Kiel.
 * Although researching into Hilbert spaces and spectral theory, Toeplitz had broad mathematical interests and encouraged Scholz's growing passion for foundational questions in mathematics.
-* While he was at Kiel, Scholz's first wife died in 1924.
 * Of course for someone like Scholz, who had trained in theology and then philosophy, mathematical logic involved a deep understanding of mathematics which he had never studied.
 * In 1928 Scholz left Kiel and moved to Münster where he was initially appointed as Professor of Philosophy.
 * Heinrich Behnke had been appointed as an ordinary professor of mathematics at Münster in 1927 and, following Scholz's arrival, the two became good friends.

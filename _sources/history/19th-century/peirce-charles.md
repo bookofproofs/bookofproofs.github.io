@@ -24,23 +24,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * We note that this surname is pronounced "Purse".
-* Charles was the second of his parents five children.
-* His older brother was James Mills Peirce who became a mathematician in the Mathematics Department at Harvard, and then from 1890 to 1895 served as Dean of the Graduate School at Harvard and, after that, as Dean of the Faculty of Arts and Sciences.
-* Charles' two younger brothers also enjoyed successful careers, Benjamin Mills Peirce as a mining engineer and Herbert Henry Davis Peirce as a diplomat.
 * Charles was born into a leading American household.
-* His father was perhaps the leading scientist in America and he invited academics, politicians, poets, scientists, and mathematicians into his home.
-* A child prodigy, Charles thrived in the intellectual atmosphere.
-* Benjamin Peirce found it difficult to find students who were bright enough to benefit from his teaching, but in his own children he found the talent that seemed to be lacking elsewhere.
-* He used his own educational ideas in teaching Charles and his other children, and in many ways this did set them up to undertake research.
-* However, realising that the greatest thinkers enjoyed an independence of thought, he refused to discipline his children in case he destroyed this originality.
 * In many ways this upbringing produced the genius that Charles displayed but it also  gave Charles problems of fitting in, which meant that his life was a difficult one.
 * By the age of twelve Charles was reading standard university level texts on logic, and in the following year he began reading Immanuel Kant's Critique of Pure Reason.
 * He remained greatly influenced by Kant throughout his life.
 * He entered  Harvard College in 1855 and graduated four years later with an A.B., continuing to study there at graduate level for a year.
-* By this stage his father, Benjamin Peirce, was working for the United States Coast Survey and Charles began to undertake occasional work for the Coast Survey.
-* In 1861 he entered the Lawrence Scientific School at Harvard, where again his father played an important role, and here he seems to have shone much more than in his undergraduate years.
 * He received a Master's degree from Harvard in 1862 and then a Sc.B. with distinction from the Lawrence Scientific School in 1863.
-* On 16 October of that year he married Harriet Melusina Fay who came from a leading Cambridge family and was an active feminist campaigner.
 * Peirce now undertook a range of different scientific studies.
 * He had studied species classification with Louis Agassiz, a Harvard zoologist.
 * He gave the Harvard lectures on The Logic of Science  in the spring of 1865 and the Lowell Institute lectures on The Logic of Science; or Induction and Hypothesis  in the latter part of 1866.
@@ -50,35 +39,29 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The main task that Peirce carried out in his geodetic work for the U.S. Coast Survey was to measure the force of gravity at various sites both in the United States and abroad.
 * His other task was to use the data from the results of his experiments to determine the shape of the earth.
 * As part of this work he made further trips to Europe, from April 1875 to August 1876, and again for three months from September 1877.
-* Between these two trips he separated from his wife Melusina in October 1876 and this marked the beginning of a problem which would greatly affect his career.
 * For a while Peirce's career continued to move forward.
 * He was elected to the National Academy of Sciences (United States) in April 1877 and published the results of his earlier research in astronomy in a book Photometric Researches (1878).
 * Although his work had been wide ranging in the sciences, he had always been interested in philosophy and logic and, in 1879, he was appointed as Lecturer in Logic in the Department of Mathematics at Johns Hopkins University.
 * Sylvester was Head of Mathematics at Johns Hopkins University at this time and for a while things went well for Peirce.
 * He became interested in the Four Colour Problem, and problems of knots and linkages studied by Kempe.
-* He then extended his father's work on associative algebras and worked on mathematical logic, topology and set theory.
 * However by now Peirce was living with Juliette Froissy Pourtalès, a French gypsy.
-* He was divorced from his first wife Melusina on 24 April 1883 and married Juliette six days later.
-* In 1884 Simon Newcomb, who had just been appointed professor of mathematics and astronomy at Johns Hopkins University, reported to the trustees of the university that Peirce had been living with a French gypsy while still married to Melusina.
 * Not wishing to be involved in a scandal, the trustees chose not to renew Peirce's contract.
 * Peirce would never hold another academic post.
 * Peirce's only steady work was now for the Coast and Geodetic Survey.
 * He went to Washington, D.C. to work on data on gravity measurements which had been returned from the Artic.
 * He moved to New York City in 1886 and continued on his work for the Survey but he became increasingly at odds with his superiors and worked more and more in isolation.
 * The Coast Survey also came under increasing pressure through lack of funding by the government.
-* Peirce moved into a rented house in Milford, Pennsylvania, in April 1887 but after his mother died on 12 October of that year he inherited enough to purchase land and begin building an estate he called Arisbe near Milford.
 * He purchased further land and a farm after he received a small inheritance from a maiden aunt in 1888.
 * When he finally submitted his major report on gravity to the U.S. Coastal Survey in 1890 it was rejected for publication unless he made major revisions.
 * When nothing further was received from him by the end of 1891 the Survey asked for his resignation.
 * Peirce now had no income at all.
-* During this difficult period in his life his wife was suffering from poor health.
 * She was diagnosed as having tuberculosis in the middle of 1889 and before the end of the year she travelled to Europe in an attempt to recover.
 * Returning to the United States in the spring of 1890, she still was not well and in January of 1891 she underwent surgery.
-* Despite these health problems, which coincided with Peirce's difficulties with the U.S. Coastal Survey, Juliette outlived her husband.
 * was the famous logician, Charles S Peirce.
 * His dramatic manner, his reckless disregard of accuracy in what he termed 'unimportant details', his clever newspaper articles describing the meetings of our young Society interested and amused us all.
+* He was always hard up, living partly on what he could borrow from friends, and partly on what he got from odd jobs such as writing book reviews ...
 * He was equally brilliant, whether under the influence of liquor or otherwise, and his company was prized by the various organisations to which he belonged; and he was never dropped from any of them even though he was unable to pay his dues.
-* He infuriated Charlotte Angas Scott by contributing to the New York Evening Post an unsigned obituary of Arthur Cayley in which he stated upon no grounds, except that Cayley's father had for a time resided in Russia, that Cayley had inherited his genius from a Russian whom his father had married in St Petersburg.
+* Shortly afterwards Miss Scott contributed to the Bulletin a more factual, sober article upon Cayley's life and work ...
 * Much of what Peirce wrote from this time onwards was either rejected for publication, or he failed to complete the project.
 * In the first category there is How to Reason (rejected by two publishers in 1894), and New Elements of Mathematics (rejected in 1895).
 * In the second category is Search for a Method (announced in 1893 but not completed), The Principles of Philosophy (twelve volumes announced in 1894 but not completed), and The History of Science (announced in 1898 but not completed).

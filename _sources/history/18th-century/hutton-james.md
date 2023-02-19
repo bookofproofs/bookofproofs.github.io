@@ -23,25 +23,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James Hutton** was a Scottish chemist and geologist best known for his theory of the age of the Earth. He was greatly influenced by Newton's work.
 
 ### Mathematical Profile (Excerpt):
-* James Hutton's mother was Sarah Balfour and his father was William Hutton.
-* James was born into a wealthy family for his father William was a merchant who held the office of Edinburgh city treasurer.
-* William Hutton died when James was about two years old and Sarah Hutton was left to bring up James and his three sisters (James had an older brother who died young).
 * In 1736, when he was ten years old, James entered Edinburgh High School.
 * At the University of Edinburgh Hutton was taught mathematics by Maclaurin and logic and metaphysics by John Stevenson.
 * Hutton, deciding to take the training which involved the most chemistry, returned to the University of Edinburgh in November 1744 to undertake medical studies.
-* In 1747 Hutton fathered an illegitimate child.
-* It may have been that Hutton never intended to practise medicine as a career, or he may have decided to avoid Edinburgh for a while since that was where his illegitimate son was living.
 * While in London, Hutton corresponded with James Davie who had been a school friend and was still living in Edinburgh.
 * In the summer of 1750 Hutton visited Edinburgh, where he and James Davie set up a chemical works.
 * The works was an immediate success and provided Hutton with an income for the rest of his life.
-* Continuing to live in London, Hutton now made frequent visits to the farm at Slighhouses, west of Berwick-upon-Tweed, which he had inherited from his father.
 * In 1752 Hutton moved to a farm in Norfolk where he spent two years.
 * These were important years for Hutton in another way, for it was during these years that his interest in geology began.
 * We should stress that at this time geology would not have been considered as a science in its own right and Hutton would consider himself as a natural philosopher.
 * It was around this time that Hutton began to read books on the topic; reading the works Discourse on earthquakes (1705) by Hooke, New theory of the Earth (1696) by Whiston, Protogaea (1749) by Leibniz and Histoire naturelle by Buffon, as well as Steno's treatise Dissertation concerning a solid body enclosed by the process of nature within a solid.
 * In the summer of 1754 Hutton moved to Slighhouses where he began farming.
-* At first he did not seem very happy at Slighhouses but evidence from a letter he wrote to his friend George Clerk Maxwell (the great great grandfather of James Clerk Maxwell) in 1755 suggests that the cause might well have been a love affair which went wrong.
-* Hutton returned to live in Edinburgh in 1767, living in the family home with his three sisters.
 * The most important of his friends were Joseph Black who discovered carbon dioxide, James Watt who made the first practical steam engine, and Adam Smith the economist.
 * The house in which Hutton lived in Edinburgh now became his laboratory as well as his home and he continued to pursue his theories of the history of the Earth.
 * Hutton looked at the rocks around him to understand the history of the Earth rather than seeking answers from the Bible.

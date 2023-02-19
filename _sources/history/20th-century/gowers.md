@@ -23,14 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Timothy Gowers** won a Fields medal for his important contributions to functional analysis.
 
 ### Mathematical Profile (Excerpt):
-* His parents are Caroline Maurice and William Patrick Gowers, and he has two sisters Rebecca Gowers and Katharine Gowers.
 * Patrick Gowers is a composer, famous for composing the music for many films and also known for his works for the guitar.
 * Rebecca Gowers is a freelance journalist and author.
-* In fact the Gowers family has other exceptionally distinguished members such as Tim Gowers' great-grandfather Sir Ernest Arthur Gowers GCB GBE (1880-1966) who was a civil servant, but best known for work on style guides for writing the English language.
 * Tim Gowers was sent to King's College School, Cambridge where he was a boarder as his parents were living in London at the time.
-* Given what we have already mentioned about his sister Katharine, it will come as no surprise to learn that Gowers is extremely musical and was a chorister at the School.
 * After completing his school education at Eton, Gowers matriculated at Trinity College, Cambridge.
-* Gowers married Emily Joanna Thomas, daughter of Valerie Little and Sir Keith Thomas (historian and President of Corpus Christi College Oxford) in 1988; they had two sons and a daughter.
 * In 1990 Gowers was awarded his doctorate for his thesis Symmetric Structures in Banach Spaces written with Béla Bollobás as his thesis advisor.
 * Dr Gowers' achievements include the following: a solution to the notorious Banach hyperplane problem (to find a Banach space which is not isomorphic to any hyperplane), a counterexample to the Banach space Schröder-Bernstein theorem, a proof that if all closed infinite-dimensional subspaces of a Banach space are isomorphic then it is a Hilbert space, and an example of a Banach space such that every bounded operator is a Fredholm operator.
 * Over the past five years, Gowers has made the geometry of Banach spaces look completely different.
@@ -42,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Let us end this biography with giving some details of two further innovative projects in which Gowers has been involved.
 * The first of these is the book The Princeton Companion to Mathematics (2008) with Gowers as editor, and June Barrow-Green and Imre Leader as associate editors.
 * The project has been very successful although perhaps fewer mathematicians took part than Gowers had hoped.
-* Gowers' first marriage was dissolved in 2007 and in 2008 he married Julie Barrau; they have one son.
 * Gowers was Knighted in the Queen's Birthday Honours List 2012.
 * On 16 June 2012 it was announced that the Knighthood was to Professor William Timothy Gowers, FRS, Royal Society Research Professor, Department of Pure Mathematics and Mathematical Statistics, University of Cambridge: For services to Mathematics.
 

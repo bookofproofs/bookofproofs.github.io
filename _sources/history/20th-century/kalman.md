@@ -42,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Kalman's approach, based on the use of state space techniques and a recursive least-squares algorithm, opened up many new theoretical and practical possibilities.
 * The impact of Kalman filtering on all areas of applied mathematics, engineering, and sciences has been tremendous.
 * Kalman's ideas on statistics are thought-provoking and he has written a number of interesting articles on this topic since retiring.
-* Finally note that Kalman married Constantina Stavrou who studied economics at Johns Hopkins University; they have two children, Andrew and Elisabeth.
 
 Born 19 May 1930, Budapest, Hungary. Died 2 July 2016, Gainesville, Florida, USA.
 

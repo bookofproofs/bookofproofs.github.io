@@ -23,16 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Frederick Almgren** was an American mathematician who worked in geometric measure theory.
 
 ### Mathematical Profile (Excerpt):
-* Frederick Almgren Junior's mother was Sarah Cone Wright who worked as a real estate agent.
-* Frederick had a younger brother David, and a younger sister Linda.
 * Almgren was an undergraduate at Princeton University but he did not major in mathematics, rather his main topic was engineering and it was in that subject that he graduated in 1955.
 * In 1958 Almgren entered Brown University to begin research in mathematics.
 * Federer supervised Almgren doctoral studies and Almgren wrote a thesis The Homotopy Groups of the Integral Cycle Groups  which earned him a Ph.D. in 1962.
 * After completing his studies at Brown University, Almgren was appointed as an Instructor in Mathematics at Princeton University.
 * In 1968 Almgren was promoted to associate professor and then full professor in 1972.
-* Almgren was married twice.
-* Almgren's second wife was his first Ph.D. student, Jean Ellen Taylor; they married on 6 October 1973 (the year Jean was awarded her doctorate) and had one daughter Karen.
-* Almgren was diagnosed with bone marrow cancer in August 1996 and underwent a bone marrow transplant (donated by his sister) in Boston in September.
 * Throughout his career, Almgren brought great geometric insight, technical power, and relentless determination to bear on a series of the most important and difficult problems in his field.
 * Almost certainly Almgren's most impressive and important result was only published in 2000, three years after his death.
 * Around 1974, Almgren started on what would become his most massive project, culminating ten years later in a three-volume, 1700-page preprint containing a proof that the singular set not only has m-dimensional measure 0, but in fact has dimension at most (m - 2).

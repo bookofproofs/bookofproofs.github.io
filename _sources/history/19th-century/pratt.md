@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * John attended Oakham School, Rutland, before matriculating at Gonville and Caius College, Cambridge in 1829.
-* John's father, Josiah, was secretary of the Church Missionary Society and John left university with two strong drives inside him, one coming from his exceptional scientific ability, the other from the missionary zeal coming through his father.
 * Pratt obtained a chaplaincy appointment with the East India Company in 1838.
 * Then in 1850 Pratt was appointed Archdeacon of Calcutta.
 * This work of Pratt's was, as the title indicates, on the shape of the Earth.

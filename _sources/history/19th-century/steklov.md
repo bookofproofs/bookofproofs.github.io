@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Vladimir Steklov** was a Russian mathematician who made many important contributions to applied mathematics.
 
 ### Mathematical Profile (Excerpt):
-* His uncle on his mother's side of the family was a famous literary critic.
-* Vladimir Steklov inherited many of these family talents and he himself had considerable literary and musical talents.
 * Had he not made a career from mathematics he could well have made his profession as an opera singer.
 * Steklov entered the Alexander Institute in Nizhni Novgorod at the age of 10 years.
 * He studied there for eight years graduating in 1884.
@@ -54,10 +52,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We know the lectures that he gave on each day.
 * There were quite a lot of people.
 * His lecture course on the integration of partial differential equations was to third year students and the lectures went on until April 1909.
-* Steklov had strong political views at a time when political feelings in Russia ran high.
 * He was strongly against the Tsarist Regime and sympathised with progressive students.
 * In fact this made him a very popular teacher at St Petersburg and, coupled with his excellent lecturing skills, brought many students to study at the Department of Mathematics and Physics.
 * Among the students that he taught at St Petersburg were Friedmann, Smirnov and Tamarkin.
+* Such trifles are all our tyrants can do ...
 * religious processions and extermination of the Russian people by all possible means.
 * Bastards! Well, just you wait.
 * Then in 1919 he became vice-president of the Academy.

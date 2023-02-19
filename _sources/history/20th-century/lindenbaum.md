@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Adolf Lindenbaum** was a Polish mathematician, logician and topologist. He was executed by the Nazis.
 
 ### Mathematical Profile (Excerpt):
-* Mowsza Lindenbaum owned several companies and made a movie in 1931 but no further details of the family seem to be known except that they were Jewish.
 * There are no records of Adolf's early years although we can assume that he was brought up in Warsaw.
 * At the time that Lindenbaum was born, Poland did not exist as an independent country but had been partitioned between Austria-Hungary, Prussia and Russia.
 * Lindenbaum, who was sixteen at the time, enlisted in an organisation set up by the Polish White Cross to help the soldiers.
@@ -40,21 +39,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Tatarkiewicz was also an expert on aesthetics and the history of art, and taught a course on French art which Lindenbaum attended.
 * In fact Lindenbaum's student career ended in a slightly strange way.
 * From 1929 to 1934 Lindenbaum worked on his habilitation thesis.
+* After the two papers listed above, Lindenbaum published the following papers between 1928 and 1934: Sur quelques propriétés des fonctions de variable réelle Ⓣ(On some properties of functions of a real variable) (1928); Remarques sur une question de la méthode axiomatique Ⓣ(Notes on a question of the axiomatic method) (1930); (with A Kozniewski) Sur les opérations d'addition et de multiplication dans les classes d'ensemble Ⓣ(On the operations of addition and multiplication in the general classes) (1930); Sur les ensembles ordonnés Ⓣ(On ordered sets) (1931); Bemerkung zu den vorhergehenden "Bemerkungen ..." des Herrn J.
 * After presenting his habilitation thesis, Lindenbaum became a docent in the Faculty of Mathematics and Natural Sciences.
 * Courses taught by Lindenbaum were on set theory, measure theory, algebra, actuarial mathematics and the foundations of mathematics.
 * In addition to the research that he was publishing, Lindenbaum and Tarski collaborated on writing the book Theorie der eineinendeutigen Abbildungen Ⓣ(Theory of unambiguous illustrations).
 * As one might imagine, being Jewish, Lindenbaum had problems.
 * In 1935 Polish universities adopted an anti-Semitic policy which meant that Lindenbaum had little chance of being promoted beyond docent.
-* Lindenbaum had married his fellow logician Janina Hosiasson (1899-1942) who was also a Jew.
 * Janina had received a doctorate from Warsaw in 1926 advised by Tadeusz Kotarbiński who had also taught Lindenbaum.
 * Both she and Lindenbaum had delivered papers at the First Congress of Mathematicians from Slavic Countries held in Warsaw in September 1929.
 * Lindenbaum did other things which would later put his life in danger.
 * Lindenbaum realised the danger he was in both as a Jew and as a known Communist.
 * He knew that the Germans had lists of names of Polish Communists and other critics of Hitler's regime which, particularly because of the petitions and letters he had signed, terrified Lindenbaum.
-* On 6 September, he and his wife went to Vilna (now known as Vilnius) where she took up residence but Lindenbaum continued on to Białystok.
 * The Soviets set up the Białystok Pedagogical Institute and Lindenbaum was appointed as a docent at the Institute.
 * Lindenbaum does not appear to have made any efforts to escape which is slightly strange given that he was fully aware of the danger he was in from the Germans.
-* Lindenbaum's wife Janina, who was in Vilnius, was also arrested by the Gestapo in September 1941.
 * It is not known exactly when Lindenbaum was executed but it is believed that he too was murdered at Ponary soon after his arrest.
 * described Lindenbaum as "a man of unusual intelligence".
 * Mostowski once called Lindenbaum the most lucid mind in the foundations of mathematics.

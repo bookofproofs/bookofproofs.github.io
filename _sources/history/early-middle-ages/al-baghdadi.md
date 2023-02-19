@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His full name is Abu Mansur Abr al-Qahir ibn Tahir ibn Muhammad ibn Abdallah al-Tamini al-Shaffi al-Baghdadi.
 * We can deduce from al-Baghdadi's last two names that he was descended from the Bani Tamim tribe, one of the Sharif tribes of ancient Arabia, and that he belonged to the Madhhab Shafi'i school of religious law.
 * We have a few details of al-Baghdadi's life.
-* He did not go to Nishapur alone, but was accompanied by his father who must have been a man of considerable wealth, for al-Baghdadi, without any apparent income himself, was able to spend a great deal of money on supporting scholarship and men of learning.
 * When riots broke out in Nishapur, al-Baghdadi decided that he required a more peaceful place to continue his life as an academic so he moved to Asfirayin.
 * This town was quieter and al-Baghdadi was able to teach and study in more peaceful surroundings.
 * In Asfirayin, al-Baghdadi taught for many years in the mosque.

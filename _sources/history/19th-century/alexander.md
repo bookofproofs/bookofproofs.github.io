@@ -23,14 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James Alexander** was an American mathematician who worked in topology. He is best known for the knot-theory invariant known as the Alexander polynomial.
 
 ### Mathematical Profile (Excerpt):
-* The name Waddell came through his grandfather on his mother's side, John Waddell Alexander who was the President of the Equitable Life Assurance Society.
 * John White Alexander was quite famous in his own right as an artist and painter of murals.
 * Alexander studied mathematics and physics at Princeton, where he was a student of Veblen, obtaining a B.S. degree in 1910 and an M.S. degree in 1911.
 * During this period abroad, Alexander studied at Paris and Bologna.
 * In 1917, after marrying Natalia Levitzkaja on 15 January, later that year Alexander served as a lieutenant in the U.S. Army Ordnance Office at the Aberdeen Proving Ground.
 * By the end of the war Alexander had reached the rank of captain.
 * Alexander, however, never drew a salary from the Institute for Advanced Study.
-* Alexander, who held left-wing political views, began to come under suspicion from authorities who saw imaginary problems everywhere.
 * Alexander had virtually become a recluse after he retired in 1951 and the McCarthy era resulted in his disappearance from public life.
 * Alexander's work around this time went a long way to put the intuitive ideas of Poincaré on a more rigorous foundation.
 * Also before 1920 Alexander had made fundamental contributions to the theory of algebraic surfaces and to the study of Cremona transformations.

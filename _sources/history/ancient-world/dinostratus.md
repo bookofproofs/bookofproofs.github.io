@@ -26,7 +26,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It is usually claimed that Dinostratus used the quadratrix, discovered by Hippias, to solve the problem of squaring the circle.
 * It appears from this quote that Hippias discovered the curve but that it was Dinostratus who was the first to use it to find a square equal in area to a given circle.
 * This makes somewhat less convincing the claim that Dinostratus used the quadratrix, discovered by Hippias, to square the circle since Eudemus does not even mention Dinostratus.
-* Posterity has firmly associated the name of Dinostratus with the quadrature of the circle by means of the quadratrix.
+* posterity has firmly associated the name of Dinostratus with the quadrature of the circle by means of the quadratrix.
 * The second objection relates to Dinostratus's use of the quadratrix to square the circle.
 * Dinostratus probably did much more work on geometry but nothing is known of it.
 

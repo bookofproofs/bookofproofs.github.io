@@ -23,17 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Paul Ehrenfest** was an Austrian mathematician who made important contributions to statistical mechanics and  quantum mechanics.
 
 ### Mathematical Profile (Excerpt):
-* They had five children who survived birth, and Paul was the youngest, having four older brothers Arthur, Emil, Hugo, and Otto.
 * Johanna Ehrenfest worked long hours in their shop and Paul was looked after at home by a nursemaid.
-* As a child Paul's health was poor.
-* His oldest brother was twenty-two years old by the time Paul was five and it was through his brothers that Paul became interested in education.
 * By the time he was six years old Paul could read, write and count.
-* Paul's father was also in poor health, suffering from stomach ulcers.
-* Soon after Johanna's death Paul's father married again, his second wife being Josephine Jellinek, his first wife's younger sister.
-* Josephine was about the same age as Paul's oldest brother.
 * In 1890 Paul began his secondary education at the Akademisches Gymnasium.
-* Arthur, his oldest brother, became his guardian and managed to persuade Paul not to leave school as he wished to do.
-* In the summer of 1899 Ehrenfest successfully took his school examinations, but his experiences of school had been decidedly negative as he showed later in life when he insisted that his own children were educated at home.
 * Ehrenfest became a student at the Technische Hochschule in Vienna in October 1899.
 * Ehrenfest attended Boltzmann's lectures on the mechanical theory of heat during 1899-1900.
 * In 1901 Ehrenfest moved to Göttingen where he studied under Klein and Hilbert.
@@ -41,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Ehrenfest challenged this rule and, after quite a battle, was able to get the rule changed.
 * Ehrenfest returned to Vienna after spending eighteen months in Göttingen.
 * It was considered a good piece of work but Ehrenfest himself never rated it very highly and chose not to publish it after receiving his doctorate on 23 June 1904.
-* After this Tatyana came from Göttingen to join Ehrenfest in Vienna and they married after overcoming the severe problem of having different faiths.
 * In 1905 Ehrenfest published a paper on Planck's theory of black-body radiation.
 * shows Ehrenfest's real interests and particular talents and the beginning of his personal style.
 * Ehrenfest took on the task of writing his obituary.

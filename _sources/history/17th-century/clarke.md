@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Clarke added notes giving a Newtonian perspective to the text which was published in 1697.
 * When he produced further editions in 1702 and 1710, Clarke went even further in producing a text based on Newtonian physics.
 * Whiston introduced Clarke to the Bishop of Norwich and, when Whiston moved on in 1698 (eventually becoming Newton's assistant at Cambridge three years later), Clarke replaced him as chaplain to the Bishop of Norwich.
-* The Bishop gave Clarke the charge of Drayton, near Norwich, and around this time Clarke married Katherine Lockwood, daughter of the rector of Little Maningham in Norfolk.
 * Clarke was considered the greatest metaphysician in England when Locke died in 1704.
 * In 1706 Newton asked Clarke to translate his Opticks into Latin.
 * Clarke attracted great controversy with his religious views having few supporters.

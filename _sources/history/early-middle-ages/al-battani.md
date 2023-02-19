@@ -27,8 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Al-Battani was born in Harran, called Carrhae in earlier times by the Romans, which lies on the Balikh River, 38 km southeast of Urfa.
 * In fact Thabit was also born in Harran and would have still have been living there at the time that al-Battani was born.
 * Al-Battani, unlike Thabit, was not a believer in the Sabian religion, however, for "Abu Abdallah Mohammad" indicates that he was certainly a Muslim.
-* Although the identification is not absolutely certain, it is probable that al-Battani's father was Jabir ibn Sinan al-Harrani who had a high reputation as an instrument maker in Harran.
-* The name certainly makes the identification fairly certain and the fact that al-Battani himself was skilled in making astronomical instruments is a good indication that he learnt these skills from his father.
 * Al-Battani made his remarkably accurate astronomical observations at Antioch and ar-Raqqah in Syria.
 * The town of ar-Raqqah, where most of al-Battani's observations were made, became prosperous when Harun al-Rashid, who became the fifth Caliph of the Abbasid dynasty on 14 September 786, built several palaces there.
 * The town had been renamed al-Rashid at that time but, by the time al-Battani began observing there, it had reverted to the name of ar-Raqqah.

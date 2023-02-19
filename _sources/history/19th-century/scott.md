@@ -23,13 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Charlotte Angas Scott** studied at Cambridge but was not allowed to take her degree. After graduate work at Cambridge she became the first Head of Mathematics at Bryn Mawr College in Pennsylvania USA.
 
 ### Mathematical Profile (Excerpt):
-* He was the son of the Rev Walter Scott who was also a Congregational Church minister and a strong champion of the working classes.
-* Charlotte's mother was Eliza Ann Exley (1837-1899) and she was born in Wakefield, York.
-* Charlotte was the second of her parents' seven children; Elsie Somerville Scott (born 1857), Charlotte Angas Scott (the subject of this biography, born 1858), Charles Herbert Scott (born 1860), Mary Gertrude Scott (born 1862), Walter Scott (born 1863), Margaret Ethel Scott (born 1865), and Maud Lilian Scott (born 1873, but only lived a few months).
 * We note at this point that the Rev Caleb Scott, B.A., LL.
-* The fact that Charlotte was the daughter and granddaughter of Congregational Church ministers is highly relevant to the fact that she was able to become a leading mathematician.
 * In fact there were only two secondary schools in England taking women pupils at this time and neither was anywhere near to where Charlotte lived.
-* However, after he became Principal of the Lancashire Independent College, Caleb Scott could provide tutors for his daughter (who was seven at the time) and it was from these tutors that Charlotte Scott was first introduced to mathematics.
 * This College, the first women's college in England, had been founded in 1869, only a few years before Scott began her studies there.
 * At the top Miss Herschel was standing on a sort of dais, and when we had finished singing she recited an ode to Miss Scott, composed by Miss Welsh for the occasion, and then crowned her with laurels, while we clapped and applauded with all our might.
 * It wasn't only the ladies of Girton who celebrated Scott's success and saw the injustice of the situation.

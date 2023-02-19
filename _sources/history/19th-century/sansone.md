@@ -30,9 +30,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Sansone was, however appointed as a lecturer in algebraic and infinitesimal analysis at the University of Florence in 1924.
 * Sansone continued to undertake research in algebra and number theory, where he studied solutions of cubic equations over finite fields, but it was not a popular area of research in Italy at this time so eventually he moved towards undertaking research in analysis.
 * Vitali had, like Sansone, been educated at the Scuola Normale Superiore in Pisa and had been an assistant to Ulisse Dini during 1899-1901.
-* By the time Sansone had begun his studies at the Scuola Normale Superiore, Vitali was becoming involved in politics as a Socialist councillor but after the Fascists came to power in 1922, he returned to mathematics.
 * Sansone took on the work of editing this book which was published in 1935 as the first volume of a 2-volume work by Vitali and Sansone, the second volume of which was entirely due to Sansone.
 * On the death of the author (1932), the volume was almost completed; G Sansone, with sincere accuracy and conscientious fidelity to the train of thought and the form of representation chosen by the author, has completed the work and arranged its publication.
+* The improvements and additions of Sansone are very pleasing to the harmonious structure of the author; they contribute to making the work a reliable and easy guide for one who wants to know the most beautiful and the highest theories of the modern analysis of the real variable, as well as giving a suitable introduction to the subject matter of which Sansone gives a concise and clear representation in the second volume ...
 * Although Sansone continued to hold the chair at the University of Florence, he taught for the years 1947-49 at the Scuola Normale Superiore in Pisa.
 * We have seen how Sansone's research began with number theory and algebra, and moved to group theory.
 * One of Sansone's great achievements at the University of Florence was building up the library there.

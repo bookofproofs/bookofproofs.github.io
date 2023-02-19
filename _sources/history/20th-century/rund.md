@@ -24,9 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * His parents were Victor Rund and Martha von Neumann.
-* Victor and Martha had two children, the eldest being a daughter Armgard (1921-2014) who was nearly five years older than her brother Hanno, the subject of this biography.
-* The reason that Victor and Martha chose the names Armgard and Hanno for their children was that they were fans of the 1897 novel Buddenbrooks by Thomas Mann about a family from northern Germany and these names were those of two characters in the novel.
-* This made the Rund family decide to emigrate and, later in 1933, they travelled to Eldoret in Kenya.
 * Victor Rund earned a living as a teacher of German, teaching in schools in Natal and the Cape of Good Hope.
 * Hanno, at the age of ten, attended a primary school in Cape Town.
 * The Groote Schuur Primary School, in Rondebosch, a southern suburb of Cape Town, was founded in January 1936 and Hanno Rund attended the school from the time it opened in temporary accommodation.
@@ -38,9 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Rund went to Germany in 1950 spending some time at Oberwolfach before being appointed as a docent at the University of Freiburg in 1951.
 * Rund began publishing papers, the first to appear being Über die Parallelverschiebung in Finslerschen Räumen Ⓣ(On the parallel shift in Finsler spaces) (1951).
 * In 1952 Rund habilitated in Freiburg, sponsored by Wilhelm Süss and Gerrit Bol (1906-1989).
-* Hanno and Marian were married on 27 April 1956 then, three weeks later, they sailed on the Homeric from Quebec, Canada, to Southampton, England, on their way to South Africa.
 * Rund had been appointed Professor and Head of the Department of Mathematics at the University of Natal.
-* On 21 April 1958 Hanno and Marian's daughter Ingrid was born.
 * Rund moved from Natal to the University of South Africa where he was a Research Professor from 1962 to 1966.
 * In 1966 Rund became Professor and Head of the Department of Mathematics at the University of the Witwatersrand in Johannesburg.
 * In 1975 Rund, together with David Lovelock, published the book Tensor, differential forms, and variational principles.

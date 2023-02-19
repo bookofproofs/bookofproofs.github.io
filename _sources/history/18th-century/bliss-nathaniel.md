@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Nathaniel Bliss** was an English mathematician and astronomer who went on to become Astronomer Royal.
 
 ### Mathematical Profile (Excerpt):
-* His father, also named Nathaniel Bliss, was a clothier in the town where his son was born.
-* Nathaniel and Elizabeth Bliss had many children but only four survived him.
 * Bliss then took holy orders, becoming rector of St Ebbe's Church, Oxford in 1736.
 * Following the death of Halley in January 1742, Bradley applied for the position of Astronomer Royal and Bliss applied for the Savilian chair of geometry.
 * Bliss was supported for this post by Bradley, and also by (among others) George Parker, the second earl of Macclesfield, and by William Jones.

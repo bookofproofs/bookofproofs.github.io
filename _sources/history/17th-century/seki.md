@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Takakazu Seki** was a Japanese mathematician who was the first person to study determinants. He also discovered Bernoulli numbers before Jacob Bernoulli.
 
 ### Mathematical Profile (Excerpt):
-* However at an early age he was adopted by a noble family named Seki Gorozayemon.
-* The name by which he is now known, Seki, derives from the family who adopted him rather than from his natural parents.
 * Seki was an infant prodigy in mathematics.
 * He was self-educated in mathematics having been introduced to the topic by a servant in the household who, when Seki was nine years old, realised the talent of the young boy.
 * Seki soon built up a library of Japanese and Chinese books on mathematics and became acknowledged as an expert.

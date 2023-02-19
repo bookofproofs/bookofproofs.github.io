@@ -23,15 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Theodore von Kármán** was a Hungarian born mathematician, aerospace engineer and physicist who worked in the fields of aeronautics and astronautics.
 
 ### Mathematical Profile (Excerpt):
-* Theodore's name in Hungarian was von Skőllőskislaki Kármán Tódor (Tódor corresponds to Theodore and in Hungarian the family name precedes the given name).
-* Theodore was tutored at home by a former student of    his father and his early education was totally dominated by his father.
-* Theodore's three elder brothers realised that he was a mathematical prodigy when he was six years old, for he demonstrated a remarkable ability to perform large mental calculations.
-* Mór, however, fearing that his son would become a freak who ended up performing mathematical tricks, insisted that Theodore be kept away from mathematics for several years, requiring that he should study geography, history and literature.
 * When he was nine years old Theodore entered the Minta Gymnasium in Budapest.
 * In the year that Kármán completed his education at the Minta Gymnasium he won the Eötvös Prize for the best student in mathematics and science in the whole of Hungary.
-* Kármán's father had a nervous breakdown in the year in which he began his engineering course but this only made it totally impossible for Kármán to go against his father's wishes.
 * It is interesting to note that despite Kármán's great theoretical talents, he was not a skilled experimenter.
-* Although it is somewhat harsh to say that Kármán's father pushed him in the wrong direction since he went on to make such significant advances, nevertheless, his talents were always on the mathematical side of engineering and certainly not on the practical side.
 * After graduating Kármán had to undertake compulsory military service for one year and he served as an artillery cadet in the Austro-Hungarian army.
 * But Kármán also held a second position during these years, for he acted as a consultant for a German locomotive manufacturer.
 * For this research Kármán was awarded his doctorate in 1908 and in the same year he accepted a position as privatdocent at Göttingen.
@@ -39,9 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1912 Kármán decided that his prospects of promotion were not good at Göttingen so he accepted the chair of applied mechanics at the Schemnitz mining college in Slovakia (today the town is called Banska Stiavnica).
 * In February 1913 Kármán accepted a post as director of the Aeronautical Institute at Aachen in Germany and also the chair of aeronautics and mechanics at the technical university in Aachen.
 * When the war ended in 1918 Kármán was working in Hungary and he remained there trying to bring in improvements to the teaching of sciences there.
-* The political situation made any educational reforms out of the question, so in 1919 Kármán returned to his previous positions in Aachen.
 * Kármán visited the USA in 1926, at the invitation of the head of the California Institute of Technology, to advise on the design of a wind tunnel.
-* Kármán never married and his mother, then sister, looked after his home for him.
 * In November 1944 the funding was used to set up the Jet Propulsion Laboratory at Caltech with Kármán as director.
 * Kármán received many honours for his outstanding contributions.
 

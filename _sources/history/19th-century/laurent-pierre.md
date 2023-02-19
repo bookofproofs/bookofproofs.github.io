@@ -23,23 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Pierre Laurent** was a French mathematician best-known for his study of the so-called Laurent Series in Complex analysis.
 
 ### Mathematical Profile (Excerpt):
-* Pierre Michel Laurent was born on 22 March 1769 in Nancy, France, to Albert Laurent, a Professor of Mathematics at Nancy, and his wife Elisabeth Mültzer.
-* Pierre Michel and Eleanor Laurent had four children Pierre Edmond Laurent, Camille Claire Laurent, Suzanne Zéli Laurent and Adèle Laurent while living in England.
-* Then either near the end of 1812 or early 1813 the family moved to France arriving at Morlaix from where they journeyed on to make contact with Pierre Michel's sisters living at La Fère in Aisne, Picardy.
-* Pierre Alphonse, the subject of this biography, was born in Paris in 1813.
-* By the end of March 1814, France had suffered military defeat, Paris was occupied by Austrian and Prussian troops so, in April 1814, Pierre Michel and Eleanor Laurent and their five children returned to England.
-* Three more children, including Pierre Michel Albert Laurent and Juste Pierre Laurent, were added to the family.
-* These three were all born in Cheltenham, the last child being Juste Pierre, born in 1821, who went on to become a famous locomotive designer.
 * Pierre Alphonse entered the École Polytechnique in Paris in 1830, in the year of the July Revolution which forced King Charles X from the throne and led to the rule of Louis-Philippe.
 * Laurent graduated from the École Polytechnique in 1832, being one of the best students in his year, and entered the engineering corps as second lieutenant.
 * The French decided to send forces against these resistance leaders and Laurent took part in two of these expeditions.
-* On 11 February 1840, Laurent's mother, who had been living at 14 rue du Regard, Paris, died.
-* Laurent's father outlived his wife by about a year and Pierre Michel Laurent died in Paris on 25 February 1841.
 * Laurent had returned to France from Algeria around 1840 and spent six years directing operations for the enlargement of the port of Le Havre on the English Channel coast.
 * Rouen had been the main French port up to the nineteenth century but the hydraulic construction projects on which Laurent worked in Le Havre turned it into France's main seaport.
 * It is clear that Laurent was a good engineer, putting his deep theoretical knowledge to good practical use.
-* In Hautmont, in north west France near the Belgium border, on 18 October 1841, Laurent married Palmyre Angélique Bernardine Depreux (born 1821), the daughter of Jean Baptiste Depreux and Adrienne Leroy.
-* Laurent and his wife had three sons: Pierre Georges Laurent (1843-1914), Charles Pierre Laurent (1845-1901), and Émile Laurent.
 * Pierre Georges, born in the Military District of Le Havre, was educated in the schools in Avesnes and Douai, studied in Paris at the École Polytechnique from 1861 to 1863 and became a military engineer.
 * It was while Laurent was working on the construction project at Le Havre that he began to write his first mathematical papers.
 * Cauchy reported on Laurent's entry Mémoire sur le calcul des variations Ⓣ(Memoir on the calculus of variations), which contains the Laurent series for a complex function, on 20 May 1843.

@@ -32,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * While at Princeton, Franklin submitted a number of papers on widely different topics which were published in 1921 and 1922.
 * After his year as an instructor at Princeton, in 1922 Franklin went to Harvard University where he was appointed a Benjamin Peirce Instructor.
 * We have not yet mentioned one important outcome of Franklin's time at the Aberdeen Proving Grounds.
-* His friendship with Norbert Wiener led to his meeting Wiener's sister Constance who, like Franklin, was born in 1898.
 * In 1924 Franklin was appointed Instructor in Mathematics at the Massachusetts Institute of Technology.
 * We have already looked at the titles of some of Franklin's papers up to 1922.
 * This is now known as "Franklin's system".
@@ -40,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Franklin's book is an admirable attempt on a much broader scale to combine rigour with completeness in a volume of modest size.
 * Four years after publishing this rigorous text, Franklin published another text Methods of advanced calculus on similar material but now with very different students in mind.
 * In addition to this impressive collection of books, Franklin was editor of the Journal of Mathematics and Physics from 1929.
-* Since Franklin brought topology to MIT in his "analysis situs" form, and Wiener in its "point-set-Lebesgue" form, we see that it came to the Institute through two brothers-in-law.
 * We should mention Franklin's service to the mathematical community through serving on the Board of Governors of the Mathematical Association of America during 1940-42 and again during 1954-56.
 
 Born 5 October 1898, New York, USA. Died 27 January 1965, Belmont, Massachusetts, USA.

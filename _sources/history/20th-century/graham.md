@@ -23,13 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ron Graham** was an American mathematician who  made important contributions to combinatorics. He collaborated extensively with Paul Erdős.
 
 ### Mathematical Profile (Excerpt):
-* Graham saw little of his father after he joined the Merchant Marine and eventually his parents were divorced.
-* His mother then went to live in Florida, and Graham once again had to adjust to a new school.
 * Graham decided to enlist in the U.S. Air Force rather than wait to be drafted.
-* While working towards his doctorate, Graham married Nancy Young who was a mathematics major at Berkeley; they had two children Cheryl and Mark.
 * Graham attended the conference as did Paul Erdős and the two mathematicians met for the first time.
 * Graham also started to collaborate with Erdős and, in total, they published 30 joint papers (many with additional joint authors).
 * Graham even set up an Erdős room in his home.
+* Up until the time of his death in September 1996, Erdős frequently stayed with Graham ...
 * Graham was forced to become an expert on currency exchange rates because honoraria from Erdős's lectures were paid in a wide variety of currencies.
 * There is one further Graham-Erdős link we should mention at this point.
 * This notion (now a part of MathSciNet) was due to Graham in a 1979 paper On properties of a well-known graph or what is your Ramsey number?

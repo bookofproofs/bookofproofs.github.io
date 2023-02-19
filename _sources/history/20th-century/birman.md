@@ -23,11 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Joan Birman** is an American mathematician who worked in in braid theory and knot theory.
 
 ### Mathematical Profile (Excerpt):
-* Lillian and George Lyttle had four daughters; in order of eldest to youngest, Helen, Ruth, Joan (the subject of this biography) and Ada.
-* As a young child Joan developed a love of patterns, for example in primary school she was fascinated by the odd and even patterns which arose in adding and multiplying whole numbers.
-* She married Joseph L Birman in 1950, the same year as she was awarded her M.A. in physics.
-* Birman gave up work when her first child Kenneth was born in 1955.
-* The family spent six months at the University of Pennsylvania where Joseph Birman was a visiting professor.
 * Joan had to give up her part-time job to make this move so she took a computer course at the university.
 * In fact this move owed something to Joseph Birman, not only for his encouragement but also the example he had showed switching from industry to work in the academic world.
 * Birman took linear algebra in her first year, then real and complex analysis in the following year.

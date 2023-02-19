@@ -40,7 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lacroix was particularly well suited to assist with this course since he had been assembling material on descriptive geometry for several years, and he went on to publish Eléments de géométrie déscriptive.
 * On 20 May 1799 Lacroix was elected a member of the Institut, becoming one of the six in the mathematics section on the death of Borda.
 * Lacroix was the writer of important textbooks in mathematics and through these he made a major contribution to the teaching of mathematics throughout France and also in other countries.
-* Lacroix wrote many excellent textbooks to support his lectures, for example Traité élémentaire de calcul differéntiel et du calcul intégral Ⓣ(Elementary treatise on differential calculus and integral calculus) which was published in 1802.
 * The efforts of Lacroix and Legendre to expose or recast the theory of parallels were notable, as were their additions to the theory.
 
 Born 28 April 1765, Paris, France. Died 24 May 1843, Paris, France.

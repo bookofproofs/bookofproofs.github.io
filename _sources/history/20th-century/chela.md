@@ -25,24 +25,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Julián Chela is in fact the Spanish version of his Lebanese name Khalil Chahla, which he adopted in Venezuela.
 * Raimundo, however, said his parents often told him about their days in Lebanon, speaking of the towns of Zagharta and Aioun, famed for its cedars and situated in a beautiful area.
-* The Chela family arrived in Venezuela at a time of transition when the government of José Cipriano Castro Ruiz was replaced by Juan Vicente Gómez Chacón who seized power in 1908.
-* There was conflict in Venezuela for many years after that, but Carúpano, in Sucre state, where Julián Chela lived was a peaceful place without social or political disturbances.
-* Julián and Emilia Chela had eight children, seven girls and one son, Raimundo, the subject of this biography.
 * Raimundo studied at an elementary school in Carúpano, then went to Caracas where he attended Secondary School.
 * Chela had great admiration for Duarte all his life and we quote later in this biography an extract from a speech he gave on the occasion of awarding Duarte and Honorary Doctorate on 28 May 1965.
-* In 1939 Chela married Mercedes Flores, the daughter of the journalist Manuel Flores Cabrera who had been the leader of the struggle against the dictator Juan Vicente Gómez.
-* Raimundo and Mercedes had six children, including Godsuno Chela Flores, born in 1940, and Julián Chela-Flores, born in 1942.
 * Chela graduated with the qualification Teacher of Mathematics in 1942.
 * Chela also taught in two High Schools, the Liceo Aplicación and the Liceo Fermín Toro and at the National Pedagogical Institute where he had been trained.
 * Chela was one of 33 teachers who founded the College of Teachers of Venezuela on 22 June 1943.
 * In the midst of these events, Chela was elected as President of the College of Teachers of Venezuela and had to deal with the consequences of repression.
 * With a scholarship from the Council for Scientific and Humanistic Development of the Central University of Venezuela, Chela went to England to undertake research at the University of London for a Ph.D. In London he studied at King's College where his thesis studies were supervised by Albrecht Fröhlich.
-* Both Godsuno Chela Flores and Julián Chela-Flores went to London with their father and studied at the University of London.
 * Julián Chela-Flores was awarded a Ph.D. in quantum mechanics from the University of London in 1969.
 * Godsuno Chela Flores was awarded a B.A. by the University of London in 1965, and a Postgraduate Diploma in Phonetics, also from London, in 1967.
 * On the last days of 1961 Chela left England and returned to Venezuela.
 * In April 1962 Chela was elected a Corresponding Member of the Academy of Physical, Mathematical and Natural Sciences of Venezuela.
 * in the cafeteria of the Faculty of Humanities, behind Engineering, Raimundo Chela shared a table with several students from the School of Mathematics: José Masón, Federico Martin and myself.
+* Chela recounted the emotion that the end of 'The Song of the Earth' produced in him, how the music slowly faded away and the mezzo-soprano sang softer and softer Ewig, Ewig, Ewig, ...
 * Chela's mathematical culture was very extensive and he could talk about many topics not related to Algebra.
 * Apart from two or three jokes, which were never lacking, Chela was a very serious, upright man, with strong convictions and not at all willing to negotiate, much less to betray his principles.
 * Chela was elected to serve a second term as President of the College of Teachers of Venezuela in 1963-65.

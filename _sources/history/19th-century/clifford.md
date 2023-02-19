@@ -24,10 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * William Clifford Sn., born in Bishops Stortford, Hertfordshire, was a book seller, mainly of religious material, but also a prominent citizen of Exeter being an Alderman and a Justice of the Peace.
-* It is thought that William Clifford, the subject of this biography, inherited much of his genius from his mother.
-* Her son William was only nine years old at the time.
 * William Sn. died quite young too, at the age of 58 in 1878.
-* William was brought up in Exeter where first he lived at 9 Park Place, in the house in which his mother had been born.
 * William showed great promise at school where he won prizes in many different subjects.
 * This school was run by a Mr Templeton and in both 1858 and in the following year, Clifford sat the Cambridge University Local Examinations in a wide range of subjects, performing excellently in most of them.
 * Clifford's first mathematics paper, written while he was at King's College, was The Analogues of Pascal's Theorem and it was published in The Quarterly Journal of Pure and Applied Mathematics in 1863.
@@ -36,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Frederick Pollock, one of his undergraduate friends, gives further details of Clifford's time as an undergraduate in his Introduction to Clifford's Lectures and Essays.
 * In 1870 Clifford was part of the English Eclipse Expedition which sailed to Italy to obtain scientific data from an eclipse.
 * In 1871 Clifford was appointed to the chair of Mathematics and Mechanics at University College, London.
-* William and Lucy Clifford had two daughters, Ellen Clifford and Alice Margaret Clifford.
 * After Clifford's death, Lucy went on to write ten novels, seven collections of short stories and many plays and articles.
 * Let us now look briefly at Clifford's mathematical contributions.
 * Influenced by the work of Riemann and Lobachevsky, Clifford studied non-euclidean geometry.
@@ -50,9 +46,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Not only was Clifford a highly original teacher and researcher, he was also a philosopher of science.
 * Clifford delivered the lecture Right and wrong: the scientific ground of their distinction when he addressed the 'Sunday Lecture Society' on the afternoon of Sunday 7 November 1876.
 * We have already seen that Clifford was a remarkable man in many ways.
-* Although he never rivalled Dodgson's Lewis Carroll books in success, Clifford wrote The Little People, a collection of fairy stories written to amuse children.
 * In 1876 Clifford suffered a physical collapse.
-* Let us leave the final words about Clifford to his wife Lucy.
 * Several events have been organised to honour Clifford's memory.
 * A biographical commentary on William and Lucy will be interspersed with specialist contributions from eminent academics on topical mathematical, scientific, philosophical and literary subjects including the relationship between geometry and physics, the Darwinian controversy over science and religion, and mathematical and scientific education.
 

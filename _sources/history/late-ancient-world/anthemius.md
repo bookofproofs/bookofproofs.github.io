@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Anthemius** was the Byzantine architect who replaced the old church of Hagia Sophia at Constantinople. He described the construction of an _ellipse_ with a string fixed at the two foci and he described the focal properties of the parabola.
 
 ### Mathematical Profile (Excerpt):
-* Anthemius came from a well educated family with two brothers who were doctors, one brother who was a lawyer and another who was described as a man of learning.
 * Anthemius is known both as a mathematician and an architect.
 * There are a number of stories told of Anthemius which may be totally fictitious but, as is often the case with such stories, they may give an indication of his character.
 

@@ -4,10 +4,10 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: origin-italy
 orderid: 1843
-title: D&amp;#x27;Ovidio, Enrico
+title: D&amp;amp;#x27;Ovidio, Enrico
 born: 1843
 died: 1933
-keywords: enrico d'ovidio,d&amp;#x27;ovidio
+keywords: enrico d'ovidio,d&amp;amp;#x27;ovidio
 description: Enrico D'Ovidio was an Italian mathematician and politician who worked in algebraic geometry.
 references: bookofproofs$6909
 contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Enrico D'Ovidio** was an Italian mathematician and politician who worked in algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-* Enrico's brother Francesco D'Ovidio was born in Campobasso in December 1849.
 * In Naples, Francesco studied at the Vittorio Emanuele Gymnasium while Enrico, having completed his secondary education, was considering enrolling for a law degree.
-* However, Enrico's uncle, Achille Sannia (born Campobasso in 1823, died in Naples in 1892) had set up a private mathematical school in Naples in 1856 and, under his influence and guidance, Enrico turned from legal studies to mathematics and began to study at Achille Sannia's school preparing for entry to the School of Bridges and Roads in Naples.
 * He studied there for a time and attended lectures by Giuseppe Battaglini, Emanuele Fergola (1830-1915), Remigio Del Grosso (1813-1876) and Fortunato Padula (1816-1881), whose influence made D'Ovidio become interested in an academic career.
 * D'Ovidio began school teaching at the Umberto High School in Naples and he also taught at the Naval School.
 * In 1869 D'Ovidio, in collaboration with Achille Sannia, published a geometry text for schools.
-* D'Ovidio was reluctant to leave the Naples area of Italy where he was close to his family but he decided to enter the competition and he was offered the chair on 17 November 1872.
 * D'Ovidio was to work for 46 years in the University of Turin, retiring on 11 August 1918.
 * D'Ovidio became a leading figure in Italian mathematics and, as a consequence, often served as a referee for appointing competitions.
 * In 1890 D'Ovidio was a referee for a post at the Polytechnic of Turin.

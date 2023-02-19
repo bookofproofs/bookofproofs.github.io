@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Oskar Bolza** worked on function theory, integral equations and the calculus of variations.
 
 ### Mathematical Profile (Excerpt):
-* Oskar's father manufactured printing presses and it was the family's intention that Oskar should follow in his father's trade.
-* Oskar began his secondary schooling in Neuchâtel but when the family moved to Freiburg he continued his secondary schooling there.
 * This proved to be too demanding for Bolza so he decided to concentrate on physics at the University.
 * From 1878 until 1881 Bolza studied mathematics under Christoffel and Reye at Strasbourg, under Schwarz at Göttingen and under Weierstrass at Berlin.
 * He attended Weierstrass's 1879 lecture course on the calculus of variations which was to have a lasting effect on the direction that Bolza's mathematical interests would take.
@@ -44,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Moore was a fiery enthusiast, brilliant, and keenly interested in the popular mathematical research movements of the day; Bolza, a product of the meticulous German school of analysis led by Weierstrass, was an able, and widely read research scholar; Maschke was more deliberate than the other two, sagacious, brilliant in research, and a most delightful lecturer in geometry.
 * Between 1892 and 1910 the mathematics department was outstandingly successful with thirty-nine students graduating with doctorates (nine of them students of Bolza).
 * Bolza published The elliptic s-functions considered as a special case of the hyperelliptic s-functions  in 1900 which related to work he had been studying for his doctorate under Klein.
-* After the death of his friend Maschke in 1908, Bolza became unhappy in the United States and, in 1910, he and his wife returned to Freiburg in Germany where he was appointed as an honorary professor.
 * Immediately after his return to Germany Bolza continued teaching and research, in particular on function theory, integral equations and the calculus of variations.
 * The first Problem mit gemischten Bedingungen und variablen Endpunkten Ⓣ(Problem with mixed conditions and variable end-points) formulated a new type of variational problem now called 'the problem of Bolza' and the second studied variations for an integral problem involving inequalities.
 * Bolza returned to Chicago for part of 1913 giving lecturers during the summer on function theory and integral equations.

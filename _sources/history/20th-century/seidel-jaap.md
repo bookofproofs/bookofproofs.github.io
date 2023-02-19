@@ -37,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We end this biography with two tributes to Seidel.
 * Many mathematicians, especially young ones, were influenced by Jaap.
 * Jaap's work makes connections with several branches in mathematics, and he had struck friendships with mathematicians all over the world.
-* Many of us have been warmly welcomed by Jaap and Ada into their home and into their family.
 
 Born 19 August 1919, The Hague, The Netherlands. Died 8 May 2001, Eindhoven, The Netherlands.
 

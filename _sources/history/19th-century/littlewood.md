@@ -25,14 +25,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * A very few close friends called him Jack when he was elderly, but otherwise he would be addressed as Littlewood, which was not unusual between friends at that time.
 * Hardy with whom he had a close collaboration for many years would write to him as "Dear L".
-* His father Edward Thornton Littlewood was also a mathematician and was Ninth Wrangler in the Mathematical Tripos at Cambridge in 1882, three years before his eldest son John Edensor was born.
-* Edward and Sylvia Littlewood went on to have three sons, their second being Martin Wentworth Littlewood, who went on to study medicine, and a third son who tragically died when he was eight years old by falling into a lake from a bridge.
-* When John Edensor was seven years old his father had to make a choice between two offers he received, one of a Fellowship at Magdalene College, Cambridge, or the second the position of Headmaster at a new school in Wynberg in South Africa.
-* He chose the second and in 1892 the family sailed to South Africa.
 * If the climate and scenery were superb, certainly the education that the young Littlewood had in South Africa was not.
 * The quality of his school teachers was poor, and he was confused by the mathematics teaching that he received to the extent that he failed an arithmetic examination.
 * He still did quite well and entered the University of Cape Town at a young age but again found that he was not able to benefit from teaching which was less than outstanding.
-* His father soon realised that the University of Cape Town was not going to encourage his son's mathematical talents to blossom and Littlewood's parents made the decision to send their son back to England.
 * We should mention that Littlewood, as we explain in more detail below, suffered from depression for most of his life, beginning while he was at school, and this may have contributed to his difficult days in the South African education system.
 * In 1900 Littlewood, then aged 15, returned to England and entered St Paul's School in London.
 * He understood uniform convergence, and he could discriminate between basic ideas and tricks of manipulation.
@@ -81,11 +76,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In fact although he was President of the London Mathematical Society in 1941-43 he never chaired a meeting, the vice-President taking the chair throughout his period of office.
 * After he retired he did receive treatment for his depression which was quite effective, and after 1957 he felt more able to accept invitations to visit colleagues.
 * Indeed he made many visits to the United States in the ten years following 1957.
-* We note that his problems of meeting people did not extend to those whom he knew well, for example he fully participated in the conversations at dinner in Trinity and greatly enjoyed the company in the familiar surroundings.
 * We should end this biography by saying something about Littlewood's interests outside mathematics.
 * was slightly below average in height, strongly built and agile.
 * At school he had been one of the best gymnasts and a hard hitting batsman.
 * he was a keen follower of ball games and watched cricket at Fenner's on summer afternoons.
+* He had an intense interest in music (classical - particularly Bach, Beethoven and Mozart); he had taught himself as an adult to play the piano ...
 * He was best known to unmathematical undergraduates at Trinity for his skill in circling the seven yards of a pillar of the Library on the narrow ledge of its base and for his daily walk across the court to the baths, with a towel but no shirt.
 * On most days he walked many miles in the country.
 * muscular strength and quickness of reaction made for success in rock climbing and skiing, and he spent many holidays in Cornwall, Scotland and Switzerland.

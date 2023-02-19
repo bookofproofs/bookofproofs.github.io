@@ -34,7 +34,6 @@ contributors: @Stefanie-Eminger,bookofproofs
 * Amberg's deputy was Hirsch.
 * Furthermore, Amberg was in charge of setting the fees.
 * As headmaster of the Gymnasium Zürich Amberg was an official Swiss delegate at the 1932 ICM in Zürich.
-* Amberg was married, but did not have any children.
 
 Born 6 September 1871, Zürich, Switzerland. Died 15 March 1952, Zürich, Switzerland.
 

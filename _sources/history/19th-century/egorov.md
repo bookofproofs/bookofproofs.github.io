@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The teacher to influence him most at this time was Nicolai Vasilievich Bugaev but he also attended lectures from Alexandr Ivanovich Nekrasov, Nikolai Egorovich Zhukovsky, the geometer Vasilii Yakovlevich Tsinger (1836-1907), and the physicists Aleksandr Grigorievich Stoletov (1839-1896) and Aleksei Petrovich Sokolov.
 * Egorov wrote his first paper Some relations in the theory of integrals over divisors while still an undergraduate.
 * After the award of his first degree, Egorov remained at Moscow University working towards his Master's Degree (equivalent to a Ph.D.).
-* Egorov married Anna Ivanovich Grzhimali, the daughter of Ivan Grzhimali who was a top violinist and professor at the Moscow Conservatory.
 * In the Egorov apartment, located on Boris and Gleb Street in the prestigious Arbat region of Moscow, music was often in the air.
 * Egorov worked on triply orthogonal systems and potential surfaces, making a major contribution to differential geometry.
 * Some of the results of Egorov's doctoral dissertation were presented by Darboux in his famous four volume work Leçons sur la théorie général des surfaces et les applications géométriques du calcul infinitésimal (1910).
@@ -41,19 +40,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1917 Egorov became secretary of the Moscow Mathematical Society.
 * In 1923 Egorov became director of the Institute for Mechanics and Mathematics at Moscow State University which had been founded two years earlier.
 * Also in 1923 Egorov was appointed as Chairman of the Mathematics Syllabus Commission of Moscow University.
-* However the Russian Revolution of 1917 had set in motion a political system which began to see Egorov as a problem.
 * when the church building was converted into a student club, dance hall, and auditorium, Egorov pointedly refused to attend any of the events held there, considering them a desecration.
 * From within mathematics, Ernst Kol'man (1892-1979) was a Marxist who began to attack Egorov.
 * A university professor was poorly paid at this time, and Egorov had been teaching part-time at the Civil Engineering Institute in Moscow from the early 1920s to supplement his income.
 * Soon after this Egorov was dismissed from his position at the Institute and Nikolai Grigorievich Chebotaryov was appointed to fill the vacant position.
-* Chebotaryov was a supporter of the Soviet system but once he realised that he had been appointed because Egorov, whom he idealised as a mathematician, had been dismissed for political reasons he became unhappy and resigned the position.
 * Now Egorov was still in a position of power in the Moscow Mathematical Society and he tried to shelter academics who had been dismissed from their posts.
 * The USSR Academy of Sciences seemed at first to offer Egorov their support for on 13 February 1929 he was made a full member.
-* They accused him of "religious zeal and proselytizing," of "ossification, inertia, lack of political zeal in reforming pedagogical research and methodology." Egorov was greatly saddened to see his previous friends and students become his critics, but he absolutely refused to back down.
 * In the spring of 1930 Egorov was dismissed as director of the Institute for Mechanics and Mathematics and given a public rebuke.
 * The Moscow Mathematical Society continued to support Egorov, refusing to expel him, and those who presented papers at the next meeting, including Aleksandr Gennadievich Kurosh, were to be expelled by an "Initiative group" who took over the Society in November 1930.
 * They expelled Egorov denouncing him as a reactionary and a churchman.
 * Prof Egorov, a reactionary and a churchman, headed the society.
+* The Society expelled Egorov and other reactionaries, and replaced them mainly with graduate students ...
 * Egorov spent a short time in prison in Moscow, then was sent to prison in Kazan.
 * He was too ill to be saved, but Maria Smirnitskaia signed Egorov's death certificate before his death and told the guards that he had died.
 * Egorov was buried in the Arskoe Cemetery in Kazan after a funeral attended only by Chebotaryov and Egorov's wife.

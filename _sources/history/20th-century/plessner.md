@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * The city had grown rapidly with the population of 15,000 in around 1850 growing to a population of 300,000 by the time Abraham was born.
-* Over 30% of the population was, like Abraham's family, Jewish.
 * Abraham attended secondary school in Lódz from 1909 to 1918.
 * However, with Polish independence coming at the end of the war, the language of instruction was changed from German to Polish and, for his final year at school, Plessner was taught in Polish.
 * The two best places for mathematics were, Schlesinger said, Göttingen and Berlin; someone as talented as Plessner should certainly study at the top places.
@@ -42,6 +41,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In Eine Kennzeichunung der totalstetigen Funktionen Ⓣ(An identification of absolutely continuous functions) (1929), Plessner characterised the absolutely continuous measures among the class of Borel measures.
 * Returning to Giessen in 1928 as Ludwig Schlesinger's assistant provided Plessner with only a very small income.
 * On 12 February 1929 Plessner's Habilitation thesis Ober Summierbarkeit der trigonometrischen Reihen durch arithmetische Mittel Ⓣ(Upper summability of trigonometric series by arithmetic mean) was submitted to the faculty at Giessen.
+* we became convinced that Plessner will become a brilliant mathematician ...
 * The 54-page manuscript was never published although some of the results, without proofs, are given in two further short papers by Plessner, namely Trigonometrische Reihen Ⓣ(Trigonometric series) (1929) and Über konjugierte trigonometrische Reihen Ⓣ(On conjugate trigonometric series) (1935).
 * On 27 February 1929, Plessner delivered the required lecture to prove his teaching abilities.
 * Despite the fact that his Habilitationsschrift was an outstanding piece of work and he had passed the lecturing requirement, the Senate refused to give its approval since Plessner was a Russian citizen.

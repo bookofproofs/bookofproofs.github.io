@@ -23,11 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Vladimir Arnold** is a Ukranian-born mathematician who won a Wolf prize for his work on dynamical systems, differential equations and singularity theory.
 
 ### Mathematical Profile (Excerpt):
-* Several generations of Arnold's family had been scientists.
 * Arnold continued to study as a postgraduate student at Moscow State University for his Candidate's Degree (equivalent to a Ph.D.) still with Kolmogorov as advisor.
 * Following the award, Arnold was promoted.
 * In 1965 Arnold became a Professor in the Faculty of Mechanics and Mathematics at Moscow State University, a position he held until 1986 when he took up the position of Principal Researcher at the Steklov Institute of Mathematics in Moscow.
-* Arnold married Voronina Elionora Aleksandrova in 1976; they had one son.
 * Arnold's Ph.D. thesis contained a solution to Hilbert's 13th  problem.
 * His work on Hamiltonian dynamics, which includes cocreation of KAM (Kolmogorov- Arnold- Moser) theory and the discovery of "Arnold diffusion", made him world famous at an early age.
 * Arnold's contributions to the theory of singularities complement Thom's catastrophe theory and have transformed this field.

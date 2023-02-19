@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ** Erwin Schrödinger** made important contributions to the development of Quantum Mechanics and received a Nobel prize in 1933.
 
 ### Mathematical Profile (Excerpt):
-* Erwin's mother, Emily Bauer, was half English, this side of the family coming from Leamington Spa, and half Austrian with her father coming from Vienna.
 * Schrödinger learnt English and German almost at the same time due to the fact that both were spoken in the household.
 * Schrödinger graduated from the Akademisches Gymnasium in 1906 and, in that year, entered the University of Vienna.
 * It was Fritz Hasenöhrl's lectures on theoretical physics which had the greatest influence on Schrödinger.
@@ -44,6 +43,23 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * as Schrödinger's monument and a worthy one.
 * Schrödinger accepted an invitation to lecture at the University of Wisconsin, Madison, leaving in December 1926 to give his lectures in January and February 1927.
 * Sommerfeld was ranked in first place, followed by Schrödinger, with Born as the third choice.
+* When Sommerfeld decided not to leave Munich, the offer was made to Schrödinger.
+* Although he was a Catholic, Schrödinger decided in 1933 that he could not live in a country in which persecution of Jews had become a national policy.
+* He spoke to Schrödinger about posts for one of his assistants and was surprised to discover that Schrödinger himself was interested in leaving Germany.
+* Schrödinger asked for a colleague, Arthur March, to be offered a post as his assistant.
+* To understand Schrödinger's request for March we must digress a little and comment on Schrödinger's liking for women.
+* Anny had her own lover for many years, Schrödinger's friend Weyl.
+* Schrödinger had been elected a fellow of Magdalen College.
+* Soon after they arrived in Oxford, Schrödinger heard that, for his work on wave mechanics, he had been awarded the Nobel prize.
+* In the spring of 1934 Schrödinger was invited to lecture at Princeton and while there he was made an offer of a permanent position.
+* In 1935 Schrödinger published a three-part essay on The present situation in quantum mechanics in which his famous Schrödinger's cat paradox appears.
+* In 1936 Schrödinger was offered the chair of physics at the University of Edinburgh in Scotland.
+* However the advancing Nazi threat caught up with Schrödinger again in Austria.
+* From Rome, Schrödinger went back to Oxford, and there he received an offer of a one year visiting professorship at the University of Gent.
+* After his time in Gent, Schrödinger went to Dublin in the autumn of 1939.
+* During his last few years Schrödinger remained interested in mathematical physics and continued to work on general relativity, unified field theory and meson physics.
+
+Born as the third choice.
 * When Sommerfeld decided not to leave Munich, the offer was made to Schrödinger.
 * Although he was a Catholic, Schrödinger decided in 1933 that he could not live in a country in which persecution of Jews had become a national policy.
 * He spoke to Schrödinger about posts for one of his assistants and was surprised to discover that Schrödinger himself was interested in leaving Germany.

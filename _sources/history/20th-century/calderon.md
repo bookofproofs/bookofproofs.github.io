@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alberto Calderón** was an Argentinian mathematician who cooperated with Zygmund to found the Chicago school of "hard analysis".
 
 ### Mathematical Profile (Excerpt):
-* Pedro Calderón, from an old colonial family, was a surgeon who had trained in Buenos Aires and later in Paris under Georges Marion, the famous French surgeon and urologist.
 * Alberto Calderón began his education at the Colegio Marista San Josee de Mendoza.
-* This school was chosen by Alberto's father because he wanted his son to study engineering and the Eidgenössische Technische Hochschule in Zurich had, Pedro believed, the best engineering school in the world.
 * Their relationship began when Alberto committed a mischievous act in the presence of the professor.
 * He saw this as a unique opportunity to attract Alberto to mathematics: he gave the boy a problem in Geometry, promising him that if he could solve it, he would be pardoned.
 * With youthful ambition and energy, Alberto set to work and found a construction that solved the problem.
@@ -38,6 +36,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He was able to get a job in the Institute of Mathematics at the University of Buenos Aires and began research in mathematics under the supervision of Alberto González Domínguez.
 * In 1948 Antoni Zygmund visited the University of Buenos Aires and began to discuss various problems with Calderón.
 * Zygmund posed Calderón a question and the puzzled Calderón replied that the answer was contained in Zygmund's own book 'Trigonometric Series'.
+* Zygmund disagreed: what transpired was that Calderón only ever read the statements of the results, preferring to give his own reasoning and proofs...
 * This originality was to be the hallmark of Calderón's work in the years to follow.
 * This seminar was attended by González Domínguez, Calderón, Mischa Cotlar, and three other young Argentine mathematicians.
 * Finally, he interrupted Calderón abruptly to ask where had read the material he was presenting, and a bewildered Calderón answered that be had read it in Zygmund's book.
@@ -47,16 +46,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was never Calderón's intention to write a Ph.D. dissertation since he wanted to do research and not spend time putting together a thesis.
 * One day Marshall Stone, chair of the mathematics department at the University of Chicago, asked Calderón to come to his office bringing his published papers.
 * Stone picked up Calderón's three single author papers, stapled them together, and said "This is your thesis!" It was an outstanding thesis for which Calderón was awarded his Ph.D. in 1950.
-* Alberto and Mabel were married on 18 November 1950 in Manhattan, New York.
-* They had two children, María Josefina Calderón, who holds a doctorate in French literature from the University of Chicago, and Pablo Alberto Calderón, who studied mathematics in Buenos Aires and New York.
 * Pablo Calderón was awarded a Ph.D. from New York University in 1990 for his thesis On the macroscopic behaviour of a large stochastic system.
 * From 1950 to 1953 Alberto Calderón was an associate professor at Ohio State University, then he spent 1954-55 at the Institute for Advanced Study at Princeton.
-* His wife became ill and Calderón took early retirement from Chicago, returning to Buenos Aires.
 * Mabel Calderón died in Buenos Aires in August 1985.
 * In 1989 Calderón returned to the University of Chicago and worked there on a post-retirement appointment until 1992.
 * The year 1989 was significant for Calderón in another way.
-* The death of his wife Mabel in 1985 was, naturally, a terrible blow to Calderón who, as a consequence, struggled to concentrate on his work.
-* In 1985 her second marriage ended in divorce and in 1989 she married Calderón.
 * Calderón, then a professor at the Massachusetts Institute of Technology, "had a magnificently large office, in keeping with his mathematical stature.
 * There was a shortage of office space in the Mathematics Department and the Chairman asked Alberto if he would mind sharing his office with a visitor.
 * While Calderón was both architect and bricklayer, his lectures emphasised the bricks.

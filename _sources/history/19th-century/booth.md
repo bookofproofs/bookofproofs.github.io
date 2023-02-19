@@ -51,12 +51,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Booth was chairman of the Council in 1855-56 but resigned in 1857 feeling that fellow members thought that he was driving the Society faster and further than it wanted in the direction of national examinations.
 * It was not just mathematical education which now interested Booth for he continued his interest in mathematical research.
 * We have described some of Booth's activities in London, but not said anything about his various roles within the Church.
-* On 28 September 1854 Booth married Mary Watney, a daughter of Daniel Watney, who was a brewer from Wandsworth, and Eleanor Langton.
-* James and Mary Booth had two sons and one daughter.
 * This was in the gift of the Royal Astronomical Society who proposed Booth as vicar.
 * Although Booth was not a fellow of the Royal Astronomical Society, they considered his contributions to science and education made him worthy of the position.
 * Booth made a final attempt to bring his mathematical ideas to the fore.
-* Booth's wife Mary died in 1874 and Booth died at the vicarage at Stone, Buckinghamshire, at the age of 71.
 
 Born 25 August 1806, Lavagh, County Leitrim, Ireland. Died 15 April 1878, Stone, Buckinghamshire, England.
 

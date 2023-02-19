@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James Taylor** was a Scottish mathematics teacher who taught at Dollar Academy.
 
 ### Mathematical Profile (Excerpt):
-* His father was Robert Taylor.
 * After graduating, Taylor was appointed Mathematics Master at New College, Southsea, Portsmouth.
-* James Taylor married Isabella M Ogilvie (born in Fochabers, Morayshire about 1859).
-* They had several children: William J Taylor, Margaret E Taylor, Robert C Taylor, George C Taylor.
 * In addition to his role as a teacher of mathematics, Taylor took in boys as boarders.
 * When Mr Taylor took pen in hand, he showed that he possessed the gift of lucid expression, as is illustrated in the series of articles on "The Transit of Venus" in 1882, which he contributed to The Dollar Magazine of that year.
 * The Edinburgh Mathematical Society was founded in February 1883 and Taylor was present at the first meeting, becoming a founder member.

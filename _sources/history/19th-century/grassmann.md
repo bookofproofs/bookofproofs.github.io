@@ -23,12 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hermann Grassmann** is chiefly remembered for his development of a general calculus for vectors.
 
 ### Mathematical Profile (Excerpt):
-* Johanne and Justus had twelve children, Hermann being their third child.
-* Hermann's brother Robert also became a mathematician and the two collaborated on many projects.
-* When Hermann was young he was taught by his mother, who was a well educated woman.
-* Most of the mathematicians in this archive impressed their teachers from a young age, but surprisingly, despite having excellent educational opportunities in an educationally minded family, Hermann did not excel during his first few years at the Gymnasium.
 * Hermann did find pleasure in music and learnt to play the piano.
-* Having proved himself at least a very competent scholar, Hermann decided that he would study theology, and he went to Berlin in 1827 with his eldest brother to study at the University of Berlin.
 * In the Foreword of his Die Lineale Ausdehnungslehre, ein neuer Zweig der Mathematik Ⓣ(Linear extension theory, a new branch of mathematics) (1844) Grassmann described how he was led to these ideas starting around 1832.
 * In 1834 Grassmann took the theology examinations, at level one, set by the Lutheran Church Council of Stettin but although this might have been his first step towards becoming a minister in the Lutheran Church, instead he went to Berlin in the autumn of that year to take up an appointment as a mathematics teacher at the Gewerbeschule.
 * Grassmann only spent a year at the Gewerbeschule before a new opportunity arose back in his home town of Stettin.
@@ -49,10 +44,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Grassmann felt somewhat aggrieved that he was producing highly innovative mathematics which he felt was important yet he was still teaching in secondary schools.
 * Kummer's report ended any hopes that Grassmann might have had to obtain a university post.
 * It is interesting to see just how many leading mathematicians failed to recognise that the mathematics Grassmann presented would become the basic foundation of the subject in 100 years time.
-* During this revolutionary period of 1848-49 Grassmann, together with his brother Robert, published a political weekly newspaper.
-* After writing a series of articles on constitutional law, Grassmann became increasingly at odds with the political direction the newspaper was going and withdrew form it.
 * One of their sons, Hermann Ernst Grassmann, received a doctorate in 1893 for his thesis Anwendung der Ausdehnungslehre auf die Allgemeine Theorie der Raumkurven und Krummen Flächen Ⓣ(Application of the theory of extension to the general theory of space curves and Krummen surfaces)  written under Albert Wangerin's supervision at the University of Halle-Wittenberg.
-* In March 1852 Grassmann's father Justus died and later that year Grassmann was appointed to fill his father's former position at Stettin Gymnasium.
 * It is worth noting that two of Grassmann's sons, Justus and Max, eventually became teachers at Stettin Gymnasium.
 * Having failed to gain recognition for his mathematics, Grassmann turned to one of his other favourite subjects, the study of Sanskrit and Gothic.
 * But Grassmann also studied problems in physics, in particular publishing a theory of the mixing of colours in 1853 which contradicted that proposed by Helmholtz.

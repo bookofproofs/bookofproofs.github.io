@@ -24,23 +24,17 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Mynott Neville Jr's occupation is given as 'analyst' in the 1891 census, as 'Tar Works Manager' in the 1901 census, and as 'Bookkeeper in Tar Works' in the 1911 census.
-* Mynott Neville married Edith Batt in 1884 in Poplar, London, England.
-* Mynott and Edith Neville had four children: Bernard Mynott Neville (1887-1942); Eric Harold Neville (1889-1961), the subject of this biography; Maurice Raymond Neville (1894-1982); and Edith Hilda Neville (1896-1930).
 * We note that Bernard Mynott Neville became a master at the William Ellis School, London.
 * Maurice Raymond Neville studied mathematics at Peterhouse, Cambridge, was awarded an MC in 1918 for "conspicuous gallantry and devotion to duty as forward observation officer for his battery" and then worked for the General Electric Company.
 * Neville was educated at the William Ellis School at Gospel Oak, London.
 * Cumberland was headmaster for nearly thirty years and had that role throughout Neville's time at the school.
 * Nunn quickly saw that Neville had the potential to become a leading mathematician and he encouraged and inspired him.
 * Neville graduated from the William Ellis School in 1907 and, later that year, entered Trinity College, Cambridge as a scholar.
-* Several others who would become leading mathematicians were studying the mathematical tripos at the University of Cambridge at the same time as Neville, for example both Louis Mordell and Percy John Daniell entered Trinity College in 1907 and William Berwick had entered Clare College, Cambridge, in 1906.
 * Both Neville and Daniell were coached by Robert Alfred Herman (1861-1927).
 * During his undergraduate years Neville became acquainted with G H Hardy and Bertrand Russell who were both fellows of Trinity College both of whom had a considerable influence on his career.
 * Daniell was the Senior Wrangler, Neville the Second Wrangler, Mordell the Third Wrangler, and Berwick the Fourth Wrangler.
 * In 1911 Neville was examined by Bertrand Russell for a Fellowship of Trinity and shortly after being awarded the fellowship he submitted an essay for a Smith's Prize and again was successful.
-* On 15 March 1913 Neville married Alice Maud Emily Farnfield (1875-1956) in the Parish Church of Sidcup, Kent.
 * Perhaps it is unfair to note that Alice's age on the marriage certificate is 34, where she is actually 35, while Neville's is 25 but he is actually 24.
-* Eric and Alice Neville lived at 113 Chesterton Road, Cambridge, and they had one child, Eric Russell Neville, baptised on 27 September 1914 in the Chapel of St John the Evangelist in Sidcup.
-* Sadly the child died in March 1915 and the Nevilles did not have any further children.
 * Neville went to India to deliver lectures in the first half of 1914.
 * Neville's eyesight was too poor for active service but he did not want to leave it there, but wished to declare his opposition to war.
 * Neville worked in a London hospital throughout the war but his Trinity fellowship was not renewed, almost certainly because of his attitude to war.
@@ -58,8 +52,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * She never loved Neville as he loved her, but he would be the one, perhaps the only one, for whom she didn't wear a mask of gaiety.
 * Her letters to Erice, as she almost always spelled his name, are filled with fears, frustrations, and worries; his with love and advice.
 * Neville was a member of the London Mathematical Society from 1913 and he was a member of the Council from 1926 to 1931.
+* a painful illness and prolonged convalescence in 1940 gave Neville time to write a long-meditated volume on Jacobian elliptic functions ...
 * Although the primer was written by 1950, for some reason Neville never published it and after his death the manuscript was found among his papers.
-* Neville was a strong swimmer and received an award from the Royal Humane Society for his gallant rescue of a child from the flooded Cam on a winter's day.
 * Neville's logical skill made him a dangerous opponent in an argument, but a natural tolerance prevented him from dogmatising or attempting to impose his own firmly-held opinions and beliefs on others.
 
 Born 1 January 1889, Bow, London, England. Died 21 August 1961, Reading, England.

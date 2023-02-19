@@ -23,19 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Galileo Galilei** was an Italian scientist who formulated the basic law of falling bodies, which he verified by careful measurements. He constructed a telescope with which he studied lunar craters, and discovered four moons revolving around Jupiter and espoused the Copernican cause.
 
 ### Mathematical Profile (Excerpt):
-* Galileo was their first child and spent his early years with his family in Pisa.
-* In 1572, when Galileo was eight years old, his family returned to Florence, his father's home town.
-* However, Galileo remained in Pisa and lived for two years with Muzio Tedaldi who was related to Galileo's mother by marriage.
-* When he reached the age of ten, Galileo left Pisa to join his family in Florence and there he was tutored by Jacopo Borghini.
 * The Order combined the solitary life of the hermit with the strict life of the monk and soon the young Galileo found this life an attractive one.
 * Vincenzo had Galileo return from Vallombrosa to Florence and give up the idea of joining the Camaldolese order.
 * In 1581 Vincenzo sent Galileo back to Pisa to live again with Muzio Tedaldi and now to enrol for a medical degree at the University of Pisa.
-* Although the idea of a medical career never seems to have appealed to Galileo, his father's wish was a fairly natural one since there had been a distinguished physician in his family in the previous century.
 * Galileo never seems to have taken medical studies seriously, attending courses on his real interests which were in mathematics and natural philosophy.
 * Galileo returned to Florence for the summer vacations and there continued to study mathematics.
 * In the year 1582-83 Ostilio Ricci, who was the mathematician of the Tuscan Court and a former pupil of Tartaglia, taught a course on Euclid's Elements at the University of Pisa which Galileo attended.
-* During the summer of 1583 Galileo was back in Florence with his family and Vincenzo encouraged him to read Galen to further his medical studies.
-* However Galileo, still reluctant to study medicine, invited Ricci (also in Florence where the Tuscan court spent the summer and autumn) to his home to meet his father.
 * Certainly Vincenzo did not like the idea and resisted strongly but eventually he gave way a little and Galileo was able to study the works of Euclid and Archimedes from the Italian translations which Tartaglia had made.
 * Galileo began teaching mathematics, first privately in Florence and then during 1585-86 at Siena where he held a public appointment.
 * A topic which was very popular with the Jesuit mathematicians at this time was centres of gravity and Galileo brought with him some results which he had discovered on this topic.
@@ -46,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Also in 1588 Galileo received a prestigious invitation to lecture on the dimensions and location of hell in Dante's Inferno at the Academy in Florence.
 * Fantoni left the chair of mathematics at the University of Pisa in 1589 and Galileo was appointed to fill the post (although this was only a nominal position to provide financial support for Galileo).
 * Galileo spent three years holding this post at the university of Pisa and during this time he wrote De Motu a series of essays on the theory of motion which he never published.
-* In 1591 Vincenzo Galilei, Galileo's father, died and since Galileo was the eldest son he had to provide financial support for the rest of the family and in particular have the necessary financial means to provide dowries for his two younger sisters.
 * Being professor of mathematics at Pisa was not well paid, so Galileo looked for a more lucrative post.
 * With strong recommendations from Guidobaldo del Monte, Galileo was appointed professor of mathematics at the University of Padua (the university of the Republic of Venice) in 1592 at a salary of three times what he had received at Pisa.
 * However, Galileo argued against Aristotle's view of astronomy and natural philosophy in three public lectures he gave in connection with the appearance of a New Star (now known as 'Kepler's supernova') in 1604.
@@ -95,10 +87,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Galileo's accusation at the trial which followed was that he had breached the conditions laid down by the Inquisition in 1616.
 * However a different version of this decision was produced at the trial rather than the one Galileo had been given at the time.
 * Found guilty, Galileo was condemned to lifelong imprisonment, but the sentence was carried out somewhat sympathetically and it amounted to house arrest rather than a prison sentence.
-* She had been a great support to her father through his illnesses and Galileo was shattered and could not work for many months.
 * After Galileo had completed work on the Discourses it was smuggled out of Italy, and taken to Leyden in Holland where it was published.
 * One would expect that Galileo's understanding of the pendulum, which he had since he was a young man, would have led him to design a pendulum clock.
-* Galileo died in early 1642 but the significance of his clock design was certainly realised by his son Vincenzo who tried to make a clock to Galileo's plan, but failed.
 * He declared the Galileo case closed, but he did not admit that the Church was wrong to convict Galileo on a charge of heresy because of his belief that the Earth rotates round the sun.
 
 Born 15 February 1564, Pisa (now Italy). Died 8 January 1642, Arcetri near Florence (now Italy).

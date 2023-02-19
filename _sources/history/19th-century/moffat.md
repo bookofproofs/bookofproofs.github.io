@@ -28,7 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Moffat became a mathematics teacher, and taught at Dumfries Academy from 1893 to 1897.
 * In December 1912, following the death of James Wood, the Head of Mathematics, Geordie Moffat was appointed to take charge of the Department.
 * At Easter 1934, Moffat went on holiday to Helensburgh, where he died.
-* Suddenly at Helensburgh on Sunday 15 April 1934, George L Moffat, M.A., B.Sc., of 8 Clarence Drive, Hyndland, Mathematical Master, Glasgow Academy, beloved husband of Elizabeth B Hutchison.
 
 Born 18 June 1872, Leith (near Edinburgh), Scotland. Died 15 April 1934, Helensburgh, Scotland.
 

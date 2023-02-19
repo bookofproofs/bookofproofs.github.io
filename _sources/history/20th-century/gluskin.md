@@ -24,14 +24,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * However, Donetsk was formerly (until 1924, so for the first two years of Gluskin's life) Yuzovka, then (1924-61) Stalino.
-* Lazar Matveevich was born into a Jewish family.
 * Walking, riding in railway freight cars, hitchhiking, Gluskin managed to escape.
 * But Gluskin was determined to study mathematics and returned to Kharkov University.
 * There his studies were supervised by Anton Kazimirovic Suschkevic, one of the first mathematicians to make major progress in the theory of semigroups, and in 1949 Gluskin was awarded his Diploma in Mathematics.
 * Although by now a great enthusiast for semigroups, Gluskin could not continue to undertake research at Kharkov University but was forced to take a teaching position at the Kharkov Pedagogical Institute.
-* Gluskin and his wife Tamara lived in a tiny cubicle in a student hostel, and when their first child Irina arrived he was finishing his dissertation using the only "office space" available: the staircase outside their room.
 * However, Kharkov was an important cultural centre and Gluskin was able to mix with many leading mathematicians there.
-* This small town had only one plus for Gluskin, and that was the fact that he was offered an appartment to rent by his employer, so his family's living conditions were vastly improved by the move.
 * The first of Gluskin's papers An associative system of square matrices (Russian) appeared in 1954.
 * In 1961 Gluskin's quality research was recognised when he was awarded a Doctor of Sciences degree from Moscow University.
 * It was A G Kurosh, who held the Chair of Algebra at Moscow University, who organised that Gluskin defend his thesis there for the higher degree.

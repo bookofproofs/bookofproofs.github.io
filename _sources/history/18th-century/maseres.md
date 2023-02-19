@@ -24,9 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Peter Maseres was a doctor who first lived in Broad Street, Soho, London but then moved to Rathbourne Place.
-* Francis had a brother Peter and they were brought up in a family that was well off.
 * Francis attended the Rev Richard Wooddeson's School in Kingston-upon-Thames before matriculating at Clare College, Cambridge, on 4 July 1748.
-* Francis' brother Peter matriculated on the same day and both brothers graduated from Clare College Cambridge in 1752 with a degree in classics and mathematics.
 * Francis was ranked as fourth wrangler meaning that he was fourth out of the students awarded a first class degree.
 * Francis was awarded the first chancellor's classical medal which was presented to him by the Duke of Newcastle.
 * In 1750 Maseres entered the Inner Temple meaning he was training to join the legal profession.

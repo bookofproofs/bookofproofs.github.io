@@ -23,15 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jacopo Riccati** was an Italian mathematician who wrote on philosophy, physics and differential equations. He is chiefly known for the Riccati differential equation.
 
 ### Mathematical Profile (Excerpt):
-* Conte Montino Riccati died when his son Jacopo was ten years old and, although his mother did not remarry, the boy was given a good upbringing by his mother and one of his father's brothers.
-* This uncle of the young Jacopo saw what a talented boy he was and advised his mother to have him well educated at the Jesuit college in Brescia which was recognised as the "school for the nobility".
 * Jacopo entered the college in 1687 when he was eleven years old and there he was given an excellent education during the following six years.
 * Family tradition meant that Riccati would be expected to continue his studies after college by taking a law degree and this is precisely the course he followed when he enrolled at the University of Padua in 1693.
 * Although he entered Padua to read law, Jacopo Riccati was certainly interested in the sciences, particularly in astronomy, so, as well as courses in law, he attended an astronomy course taught by Stephano degli Angeli.
 * Around 1695 he gave his copy of Newton's Principia to Riccati and explained his fascination with the work.
 * This encounter with the Principia encouraged Riccati to study mathematics but he completed his law degree, graduating from the University of Padua on 7 June 1696.
-* Riccati married soon after graduating, on 15 October 1696.
-* The two most famous of these children were Vincenzo Riccati (born 1707) who made important contributions to mathematical physics and has a biography in this archive, and Giordano Riccati (born 1709) who, after studying law, made notable contributions to musical temperament and to architecture.
 * Riccati was of independent means and had a large estate at Castelfranco Veneto, a small town about 30 km north of Padua and about 40 km north west of Venice.
 * The architect Francesco Maria Preti (1701-1774) was born in Castelfranco Veneto and, during the period that Riccati was mayor, he designed buildings in the town including the cathedral completed in 1723.
 * As a mathematician Riccati was, essentially, self-educated studying the works of the leading mathematicians of the day and corresponding with many of them.
@@ -45,15 +41,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In fact Riccati produced detailed lecture notes (consisting of 154 pages) for teaching Suzzi and da Riva which were subsequently published as Delia separazione delle indeterminate nelle equazioni differenziali di prima e di secondo grado, e della riduzione delle equazioni differenziali del secondo grado e d'altri gradi ulteriori Ⓣ(On the separation of variables in differential equations of the first and second order, and on the reduction of differential equations of second and higher orders).
 * In addition to the scientists mentioned above, Riccati also corresponded with the leading mathematicians such as Jacob Hermann, Nicolaus(II) Bernoulli and Maria Gaetana Agnesi.
 * Agnesi's famous text Instituzioni analitiche ad uso della gioventù italiana Ⓣ(Instructions in analysis for the use of Italian youth) (first volume published 1748, second volume 1749) was written while she was corresponding with Riccati about its content.
-* In 1749 Elisabetta, Riccati's wife, died and at this time he moved from Castelfranco Veneto to Treviso where the family had another home.
-* In fact for a few years before Elisabetta's death the Riccati children had lived in the Treviso home for a large part of each year.
-* It was in this family home in Treviso that Riccati died and he was buried in the Cathedral in Treviso where the Riccati family had a chapel.
 * He is chiefly known for the Riccati differential equation of which he made elaborate study and gave solutions for certain special cases.
 * Riccati then discussed, with many examples, the integration methods that he himself had devised.
 * Of these, one involves the reduction of the equation to a homogeneous one, while another more interesting method is that of "halved separation," as Riccati called it.
 * His work had a wide influence on leading mathematicians such as Daniel Bernoulli, who studied the equation in his Exercitationes quaedam mathematicae Ⓣ(Mathematical exercises), and Leonard Euler who extended Riccati's ideas to integration of non-homogeneous linear differential equations of any order.
 * Riccati also worked on cycloidal pendulums, the laws of resistance in a fluid and differential geometry.
-* Riccati's Opere Ⓣ(Works) was published in four volumes in 1765, edited by his son Giordano Riccati.
 
 Born 28 May 1676, Venice, Venetian Republic (now Italy). Died 15 April 1754, Treviso, Venetian Republic (now Italy).
 

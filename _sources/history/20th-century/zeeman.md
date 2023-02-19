@@ -38,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He invented the Zeeman Catastrophe machine which was a mechanical device to illustrate how a small perturbation can give rise to a discontinuous consequence.
 * Among the books which Zeeman has published are the texts Catastrophe theory (1977), Geometry and perspective (1987) and Gyroscopes and boomerangs (1989).
 * A shorter introduction to catastrophe theory than his 1977 book was given by Zeeman in his beautifully written survey article Bifurcation and catastrophe theory [Contemp.
-* In 1978, Zeeman gave the Christmas Lectures at the Royal Institution, out of which grew the Mathematics Master classes for 13-year old children that now flourishes in forty centres in the United Kingdom.
 * Zeeman was knighted in 1991 and he has received many honours in addition to those mentioned above.
 * He leapt out of his office to greet the new postgraduates with "Hi, I'm Chris".
 * Chris Zeeman gave the mathematics lectures and explained to an audience, most of whom had no more than a low level school mathematics qualification, knotting and unknotting spheres in high dimensions.

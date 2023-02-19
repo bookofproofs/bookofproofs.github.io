@@ -23,14 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Heawood** made important contributions to the four colour theorem.
 
 ### Mathematical Profile (Excerpt):
-* He had a brother, Edward Heawood, who went on to become librarian for the Royal Geographical Society, holding the position for over 30 years.
 * Heawood attended Queen Elizabeth's Grammar School in Ipswich being awarded an Open Scholarship to study at Exeter College, Oxford, in 1880.
 * There Heawood was most influenced by Henry Smith and he went on to be a Wrangler in 1883 (the year in which Henry Smith died).
 * Heawood was awarded a Junior Mathematical Scholarship in 1882 and a Senior Mathematical Scholarship in 1886.
 * In 1886 he was also awarded the Lady Herschell Prize.
 * In 1887 Heawood was appointed Lecturer in Mathematics at Durham Colleges (later Durham University).
-* Three years later, in June 1890, he married Christiana Tristram who was the daughter of Canon H B Tristram who was a biblical scholar, traveller and naturalist.
-* They had a son and a daughter and enjoyed over sixty years of marriage, celebrating their diamond wedding in June 1950.
 * In fact Heawood worked at Durham University all his life being appointed to the Chair of Mathematics there in 1911.
 * He served the university in many capacities, in particular he was a member of the Senate from 1905 and served as Vice-Chancellor from 1926 to 1928.
 * He did not retire until 1939 when he was 78 years of age but still went on to enjoy 16 years of retirement.

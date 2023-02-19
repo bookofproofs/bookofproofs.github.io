@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ugo Amaldi** was an Italian mathematician who worked in the fields of geometry and Lie groups.
 
 ### Mathematical Profile (Excerpt):
-* Ugo was the youngest of his parents' three children, having two older brothers, Italo (1864-1940) who became an assistant to Felice Casorati and Ernesto Pascal at Pavia before becoming a professor at various technical institutes, and Paolo (1865-1956) who became a medical doctor and the first director of the Neuropsychiatric hospital in Mendrisio in 1898.
 * It was in Pavia that Amaldi completed his secondary school studies at the high school "Ugo Foscolo".
 * Felice Casorati had been a pupil at this school forty years before Amaldi.
 * At this school Amaldi was taught mathematics by Luigi Berzotari who was both an excellent mathematician and teacher.
@@ -33,8 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * On 28 November 1898 Amaldi graduated after submitting a thesis on the Laplace transform entitled La trasformazione di Laplace e le equazioni differenziali lineari, a coefficienti razionali, di rango 1 Ⓣ(Laplace transformations and nonlinear differential equations, with rational coefficients, of rank 1).
 * While collaborating with Pincherle on writing a treatise, Amaldi published Sulla trasformazione di Laplace Ⓣ(On the transformation of Laplace) (1898) and Sulle sostituzioni lineari commutabili Ⓣ(On commutable linear substitutions).
 * After this publication Amaldi published a remarkable number of papers: Contributo alla determinazione dei gruppi continui finiti dello spazio ordinario Ⓣ(Contribution to the determination of finite continuous groups of ordinary space) and Le superficie con infinite trasformazioni conformi in sè stesse Ⓣ(The surface with infinite conformal transformations of itself) appeared in 1901, then five more papers in 1902 as well as a 655-page textbook Elementi di geometria ad uso delle scuole secondarie superiori Ⓣ(Elements of geometry for use by secondary schools) co-authored with Enriques.
-* Mercedes married the engineer Lodovico Marchesi and had five children: Maria Luisa, Camillo, Ugo, Giovanna, and Ludovica.
-* He married Ginestra Giovene and had four children: Ugo, Paola, Francesco and Daniela.
 * Amaldi transferred to Modena in 1906, where he was appointed a professor in Analytical and Projective Geometry, then in 1919 he moved to Padua where he was a professor of Descriptive Geometry with Applications until 1922.
 * The greatest of Amaldi's research contributions is his classification of infinite dimensional Lie groups acting on three-dimensional space.
 * Amaldi had attended a course by Pincherle on Lie groups which he found fascinating and he was also fascinated by Pincherle's theory of functionals.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Christine Hamill** was an English mathematician who specialised in group theory and finite geometry.
 
 ### Mathematical Profile (Excerpt):
-* Philip and Louisa Hamill had four children: Bernard John Hamill (1920-1996), who became a management consultant; Olivia Ann Hamill (1921-2006), who became a teacher; Christine Mary Hamill, the subject of this biography, and one younger boy.
 * Christine studied first at St Paul's Girls' School where she won a foundation scholarship.
 * When Hamill studied there the head teacher was the classics scholar Ethel Strudwick (1880-1954).
 * Hamill moved to Perse School for Girls in Cambridge, a school which had been founded in 1881 to provide quality education for women.

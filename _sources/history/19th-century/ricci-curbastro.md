@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gregorio Ricci-Curbastro** was an Italian mathematician best known for the invention of tensor calculus.
 
 ### Mathematical Profile (Excerpt):
-* Antonio Ricci-Curbastro, although certainly never achieving anything close to the fame achieved by his son Gregorio, nevertheless was himself well known as an engineer.
-* Neither Gregorio nor his brother Domenico attended school.
 * In 1869 Ricci-Curbastro entered the University of Rome with the intention of studying mathematics and philosophy.
 * When Ricci-Curbastro began his studies in Rome, although the Kingdom of Italy had been created a few years earlier, Rome was not part of that Kingdom being part of the Papal States in which Ricci was born and brought up.
 * Ricci-Curbastro studied at Rome for one year from 1869 to 1870 and then returned to his parents home where he remained for two years before beginning a second university career.

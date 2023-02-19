@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Bryson** was a Greek mathematician who was probably a pupil of Socrates and contributed to the problem of squaring the circle.
 
 ### Mathematical Profile (Excerpt):
-* Aristotle mentions Bryson of Heraclea, who was the son of Herodorus of Heraclea.
 * Bryson was a Sophist and Aristotle criticises him both for his assertion that there is no such thing as indecent language, and also for his method of squaring the circle.
-* Aristotle's criticism appears to have been based on the fact that Bryson's proof used general principles rather than on geometric ones, but it is somewhat unclear exactly what Aristotle meant by this.
 * Diogenes Laertius gives some other biographical details of Bryson, but these cannot all be correct since Bryson's interaction with a number of philosophers is stated, yet certain of these are impossible due to the dates during which these men lived.
 * Perhaps the most likely of the details preserved by Diogenes Laertius is that Bryson was either a pupil of Socrates or of Euclid of Megara.
 * It is a little difficult to reconstruct exactly what Bryson's method of squaring the circle was.
@@ -35,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * If indeed Alexander is right in what he attributes to Bryson then his contribution would not merit inclusion in this archive.
 * However, other commentators attribute a much more significant argument to Bryson.
 * Themistius, another ancient commentator, writes that Bryson claimed that the circle was greater than all inscribed polygons and less than all circumscribed polygons.
-* It is unclear how quite how Bryson continued the argument but it seems likely that he was saying that by taking polygons with larger and larger numbers of sides then the difference the inscribed and circumscribed polygons could be made as small as we like so that a polygon intermediate between them will equal the circle to whatever degree of accuracy we chose.
 * This would be an improvement on Antiphon's argument and Bryson is getting close to the method of exhaustion as rigorously applied by Archimedes.
 * We know little else of Bryson.
 * He wrote Diatribes which some accused Plato of stealing and indeed Bryson is claimed to have associated with Polyxenus who put forward philosophical arguments which appear in Plato's Pramenides and could well be the arguments which were claimed stolen from Bryson's Diatribes.

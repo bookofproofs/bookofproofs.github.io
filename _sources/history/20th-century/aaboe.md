@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Asger Aaboe** was a Danish mathematician who is known for his contributions to the history of ancient Babylonian astronomy.
 
 ### Mathematical Profile (Excerpt):
-* as Asger once explained, his family name means 'one who lives by (boe) the brook (aa)'.
 * Aaboe graduated in 1940 and entered the University of Copenhagen.
 * However Aaboe was able to study mathematics, astronomy, physics, and chemistry at the University, being particularly influenced by his mathematics lecturer Harald Bohr.
 * Later in 1948 Aaboe returned to Denmark to take up a position at Birkerod Statsskole where he was appointed Adjunkt in Mathematics.
@@ -40,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In carrying off this challenge Aaboe displayed his gift for explaining complicated matters in clear, charming, and witty prose.
 * In Some Seleucid mathematical tables (Extended reciprocals and squares of regular numbers) (1965) Aaboe looks at eight mathematical cuneiform tablets, three of which had not previously been published.
 * In 2001 Aaboe published Episodes from the early history of astronomy, a companion volume to his 1964 Episodes from the early history of mathematics.
-* Aaboe's wife Joan died in 1990 and he retired two years later.
 
 Born 26 April 1922, Copenhagen, Denmark. Died 19 January 2007, North Haven, Connecticut, USA.
 

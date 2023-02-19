@@ -25,24 +25,15 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Wilhelm Weierstrass was a well educated man who had a broad knowledge of the arts and of the sciences.
 * He certainly was well capable of attaining higher positions than he did, and this attitude may have been one of the reasons that Karl Weierstrass's early career was in posts well below his outstanding ability.
-* Weierstrass's mother was Theodora Vonderforst and Karl was the eldest of Theodora and Wilhelm's four children, none of whom married.
 * Wilhelm Weierstrass became a tax inspector when Karl was eight years old.
-* This job involved him in only spending short periods in any one place so Karl frequently moved from school to school as the family moved around Prussia.
-* In 1827 Karl's mother Theodora died and one year later his father Wilhelm remarried.
 * By 1829 Wilhelm Weierstrass had become an assistant at the main tax office in Paderborn, and Karl entered the Catholic Gymnasium there.
-* Weierstrass excelled at the Gymnasium despite having to take on a part-time job as a bookkeeper to help out the family finances.
 * While at the Gymnasium Weierstrass certainly reached a level of mathematical competence far beyond what would have been expected.
-* However Weierstrass's father wished him to study finance and so, after graduating from the Gymnasium in 1834, he entered the University of Bonn with a course planned out for him which included the study of law, finance and economics.
-* However, Weierstrass suffered from the conflict of either obeying his father's wishes or studying the subject he loved, namely mathematics.
 * The result of the conflict which went on inside Weierstrass was that he did not attend either the mathematics lectures or the lectures of his planned course.
 * Weierstrass had made a decision to become a mathematician but he was still supposed to be on a course studying public finance and administration.
-* Weierstrass's father was desperately upset by his son giving up his studies.
-* He was persuaded by a family friend, the president of the law courts at Paderborn, to allow Karl to study at the Theological and Philosophical Academy of Münster so that he could take the necessary examinations to become a secondary school teacher.
 * On 22 May 1839 Weierstrass enrolled at the Academy in Münster.
 * Gudermann lectured in Münster and this was the reason that Weierstrass was so keen to study there.
 * Weierstrass attended Gudermann's lectures on elliptic functions, some of the first lectures on this topic to be given, and Gudermann strongly encouraged Weierstrass in his mathematical studies.
 * Leaving Münster in the autumn of 1839, Weierstrass studied for the teacher's examination which he registered for in March 1840.
-* By this time, however, Weierstrass's father had moved jobs yet again, becoming director of a salt works in January 1840, and the family was now living in Westernkotten near Lippstadt on the Lippe River, west of Paderborn.
 * At Weierstrass's request he was given a question on the paper he received in May 1840 on the representation of elliptic functions and he presented his own important research as an answer.
 * When, in later life, Weierstrass learnt of Gudermann's comments he said that he would have published his results had he known.
 * Weierstrass also commented on how generous Gudermann had been in his praise, particularly since he had been highly critical of Gudermann's methods.
@@ -75,7 +66,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1870 Sofia Kovalevskaya came to Berlin and Weierstrass taught her privately since she was not allowed admission to the university.
 * It was through Weierstrass's efforts that Kovalevskaya received an honorary doctorate from Göttingen, and he also used his influence to help her obtain the post in Stockholm in 1883.
 * Weierstrass and Kovalevskaya corresponded for 20 years between 1871 to 1890.
-* The standards of rigour that Weierstrass set, defining, for example, irrational numbers as limits of convergent series, strongly affected the future of mathematics.
 * He decided to supervise the publication of his own complete works, in his case this would involve a great deal of unpublished material from his lecture courses and Weierstrass realised that without his help this would be a difficult task.
 
 Born 31 October 1815, Ostenfelde, Westphalia (now Germany). Died 19 February 1897, Berlin, Germany.

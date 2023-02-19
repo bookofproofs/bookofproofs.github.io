@@ -30,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Let us look briefly at a couple of the problems to which Szász has made major contributions.
 * The Boltzmann-Sinai conjecture was proved for three balls in 1991 by A Krámli, N Simányi and D Szász.
 * Szász, working with different co-investigators, examined the recurrence of such a system when there is a periodic configuration of scatterers.
-* Szász married in 1975 and has a daughter and two sons.
 
 Born 18 August 1941, Budapest, Hungary.
 

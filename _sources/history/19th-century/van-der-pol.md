@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Balthasar van der Pol** was a Dutch physicist famous for the non-linear _van der Pol equation_.
 
 ### Mathematical Profile (Excerpt):
-* His father, also named Balthazar van der Pol, was a rich tea merchant with broad cultural interests and he provided his son with ample opportunity to develop his many talents.
 * In 1916 van der Pol went to study with John Ambrose Fleming, an English electrical engineer and physicist who was Pender Professor at University College London.
-* On 2 June 1917 van der Pol married Pietronetta Posthuma in London; they had a son and two daughters.
 * After a year working with Fleming, van der Pol remained in England, but went to Cambridge to work with John Joseph Thomson at the Cavendish Laboratory.
 * He was President of the Royal Society during the years that van der Pol worked with him.
 * During his time at the Cavendish Laboratory between 1917 and 1919, van der Pol met and became friends with Edward Appleton who, thirty years later in 1947, was awarded the Nobel Prize of Physics for his contributions to understanding the ionosphere.
@@ -45,7 +43,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Let us look at some of van der Pol's scientific contributions.
 * Let us look first at the last of these topics on which Bremmer and van der Pol collaborated in writing the classic text Operational Calculus: Based on the Two-Sided Laplace Integral.
 * They seem to feel that on the one hand modern applications of the operational calculus require theorems under rather general conditions, and on the other hand the readers they have in mind are not interested in, or not able to follow, proofs under such general conditions.
-* This 1950 book was not the first joint work of van der Pol and Bremmer on the operational calculus, for example they published two papers with the title Modern operational calculus based on the two-sided Laplace integral  in 1948.
+* The mathematical treatment is more advanced than in most other books devoted primarily to applications, and on this account the work is not suitable as a text-book except for a graduate course for engineers or physicists of unusually strong mathematical background ...
 * Of course, to most mathematicians the name of van der Pol is associated with the differential equation which now bears his name.
 * The first observation of the inapplicability of the linear theory to problems of this type was made in radio-engineering by van der Pol.
 * We mentioned above that van der Pol was interested in number theory.

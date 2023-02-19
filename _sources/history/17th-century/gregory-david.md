@@ -24,21 +24,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Perhaps the first thing we should note is the spelling of 'Gregory'.
-* The Scottish spelling of this name was 'Gregorie' and the subject of this biography was known as 'David Gregorie' until he went to live in England.
-* His father, also named David Gregorie, was a doctor practising on the Kinnairdy estate in Banffshire while his mother was Jean Walker of Orchiston.
-* David junior was the fourth of his parents' fifteen children and when he was five years old his father inherited Kinnairdy and the family moved there from Aberdeen.
 * It is uncertain where David attended school, but it is thought that he attended Aberdeen grammar school.
 * We know for certain that Gregory studied at Marischal College, part of the University of Aberdeen, between 1671 and 1675.
-* After his university studies David, still only 16 years old, returned to live with his family at Kinnairdy but by this time his mother had died (her death occurred in the year that he entered Marischal College).
-* At this stage he became more interested in mathematics for after his uncle James Gregory died in October 1675 he left his papers to David's father and David began to study them carefully.
 * While Gregory was on the Continent he took the opportunity to study mathematics, although he began his time abroad as a medical student at the University of Leiden.
 * We have not yet mentioned Gregory's friendship with Archibald Pitcairne.
 * Details of when the two first met are not known but they may have met while Gregory was on the Continent.
 * Between 1681 and 1683 Gregory lived at Kinnairdy where he continued his study of James Gregory's papers.
 * However in 1683 Pitcairne publicly challenged John Young, who had taught mathematics at Edinburgh University since James Gregory's death, as to his suitability to do so.
-* It led to Young being dismissed and, at the age of 24, David Gregory was appointed Professor of Mathematics at the University of Edinburgh, filling the chair previously held by his uncle.
 * At Edinburgh David Gregory taught some Newtonian theories but it now realised that he laid much less influence on this than was at one time thought.
-* Gregory himself published Exercitatio geometria de dimensione curvarum in 1684 while at Edinburgh which was an interesting work developing his uncle's work on infinite series.
 * Gregory sent Newton a copy of his paper on infinite series, taking care to offer extensive praise to Newton.
 * Gregory received a copy of Newton's Principia in 1687, and again he replied with a letter heaping the highest praise on the author.
 * the analysis of these notes suggests that the copy is the one annotated by David Gregory.
@@ -53,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1692 Gregory was made a fellow of Balliol College and was awarded a degree from Oxford for a thesis on optics which he based on the lectures he had given in Edinburgh.
 * Gregory, supported by Newton, was appointed as a mathematics tutor to the young Duke of Gloucester in 1699.
 * However this was not the triumph that Gregory hoped for since the young Duke died in 1700.
-* Had Gregory been mathematics tutor to the Queen's son when she took the throne in 1702 he would have had a position influence of the highest order.
 * David Gregory certainly supported Newton strongly in the Newton - Leibniz controversy arguing, as did Gregory's friend Wallis, that Leibniz had learnt of the calculus through a letter from Collins.
 * In 1702 Gregory published Astronomiae physicae et geometricae elementa which was a popular account of Newton's theories.
 * It continued to be influential well after Gregory's death and second editions of both the English and Latin versions were published in 1726.
@@ -61,7 +53,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In fact 1707 marks the union of the parliaments of England and Scotland, an event which Gregory had strongly supported.
 * Gregory spent some months in Edinburgh in his role with the Scottish mint working on bringing the Scottish currency into line with that of England.
 * Gregory's health had been poor over a number of years and he was advised to go to Bath so that he might be cured.
-* In fact Gregory and his wife had nine children, but seven died while still children.
 
 Born 3 June 1659, Aberdeen, Scotland. Died 10 October 1708, Maidenhead, Berkshire, England.
 

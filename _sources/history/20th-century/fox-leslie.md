@@ -37,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This was not the only book Fox published in 1968 for he also published Computing methods for scientists and engineers  this time collaborating with D F Mayers.
 * Another collaboration between Fox and Mayers led to Numerical solution of ordinary differential equations  published in 1987, four years after Fox retired.
 * In addition to these outstanding texts, Fox continued to produce top quality research articles.
-* We mention that Fox had been divorced from his first wife early in 1973 and had remarried Clemency Mary Holme Clements on 20 July 1973.
 * We also note two further aspects of Fox's career.
 * Fox's laboratory at Oxford was one of the founding organisations of NAG in 1970 and he strongly encouraged the development of the group, offering considerable resources from his own Computing Laboratory.
 * The second aspect we mention is Fox's association with the Institute of Mathematics and its Applications.

@@ -23,23 +23,16 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Eugene Paul Wigner** was a Hungarian-American theoretical physicist and mathematician who won a Nobel prize for his contributions to the theory of the atomic nucleus and  elementary particles.
 
 ### Mathematical Profile (Excerpt):
-* His father, Antal Wigner, was the director of a leather-tanning factory while his mother, Erzsébet Wigner, looked after the family of three children.
 * Paul was born in Pest, the eastmost of the two towns which, together with Buda, formed the Hungarian capital of Budapest.
 * From the time he was five years old Wigner was given private tuition at home.
 * In 1915 Wigner entered the Lutheran High School in Budapest.
 * The school provided a solid education for Wigner in mathematics, literature, classics and religion.
-* He was still at the Gymnasium when the communists took control in Hungary in March 1919 and the whole Wigner family fled the country.
 * They lived in Austria until the communists were overthrown in November 1919 when they returned to Budapest and Wigner completed has school education.
-* When he was in his late teens the whole Wigner family became converts to Lutheranism but it did not mean a great deal to Wigner who in later life described himself as "only mildly religious".
 * In 1920 Wigner left school being one of the top students in his class.
-* Wigner wanted to be a physicist but his father expected him to join the family business and he believed that a degree in chemical engineering would be useful to his son in the family's leather-tanning factory.
-* Wigner followed his father's wishes and took his first degree in chemical engineering spending one year at the Technical Institute in Budapest, then moving to the Technische Hochschule in Berlin.
 * Despite working for a degree in chemical engineering, Wigner studied mathematics and physics in his own time.
 * Wigner obtained the degree of Dr. Ing.
 * Wigner's thesis contains the first theory of the rates of association and dissociation of molecules.
 * Wigner and Polanyi published a joint paper on this work in 1925.
-* Having completed his doctorate, Wigner returned to Budapest to join his father's tannery firm as planned.
-* Wigner's father supported him taking the post in Berlin.
 * The paper ends with Wigner writing that his methods would be prohibitively complicated for atoms with more than three electrons.
 * Wigner, because of his interest in crystals, had already read Heinrich Weber's Lehrbuch der Algebra Ⓣ(Textbook of algebra) and, already having an expertise in matrices from Weber's text, he found Schur's papers easy to understand.
 * Wigner was invited to Göttingen in 1927 to become Hilbert's assistant.
@@ -52,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * While in Wisconsin, Wigner became a U.S. citizen.
 * While in Wisconsin Wigner showed the role of the special unitary group SU(4) in considering nuclear forces and he constructed a class of irreducible unitary representations of the Lorentz group.
 * They were never happy in the United States and for that matter Wigner never really felt at home.
-* They had two children, David Wigner who taught mathematics at the University of California in Berkeley, and Martha who worked on the transportation system in the Chicago area.
 * Wigner received the Nobel Prize for Physics in 1963.
 * A very important step in the investigation of these forces was taken by Wigner in 1933 when he found, deducing from some experiments, that the force between two nucleons is very weak except when their distance apart is very small but that the force is then a million times stronger than the electric forces between the electrons in the outer part of the atoms.
 * Wigner discovered later other important properties of the nuclear forces.

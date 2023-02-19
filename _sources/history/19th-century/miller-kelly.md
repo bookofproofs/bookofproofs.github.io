@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Kelly Miller** was an African-American mathematician, sociologist, essayist, newspaper columnist and author.
 
 ### Mathematical Profile (Excerpt):
-* Kelly Miller Sr was a free African-American tenant cotton farmer who, around the time his son was born, was fighting for the Confederate army in the American Civil War of 1861-65, a war between the federal government of the United States and the eleven Southern States who formed the Confederate States of America.
-* Elizabeth Roberts was a slave and it is interesting at this point to realise that Kelly Miller, the subject of this biography, would become an important figure in seeking fairness for African-Americans.
 * In fact in 1865, when Kelly was two years old, Union troops led by General Sherman destroyed large parts of his home town of Winnsboro.
 * Kelly benefited from a newly set up primary school where he received an education.
 * Richardson, who taught Kelly humanities and classics, realised that he had considerable talents, particularly in mathematics, and he recommended that Kelly continue his education at the Fairfield Institute in Winnsboro, an Institute for African-Americans founded by Richardson who was its first principal.

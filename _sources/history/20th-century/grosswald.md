@@ -32,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The collaboration between Rademacher and Grosswald on Dedekind sums  came about due to Rademacher's illness.
 * Grosswald was asked to deliver the lectures in his place and Rademacher asked Grosswald to edit the notes with a view to publishing them under their joint names.
 * We should mention some other contributions that Grosswald made.
-* Grosswald's wife, Elizabeth Rosenthal, died exactly one month after her husband.
 
 Born 15 December 1912, Bucharest, Romania. Died 11 April 1989, Narberth, Pennsylvania, USA.
 

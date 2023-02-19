@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hilbert**'s work in geometry had the greatest influence in that area after Euclid. A systematic study of the axioms of Euclidean geometry led Hilbert to propose 21 such axioms and he analysed their significance. He made contributions in many areas of mathematics and physics.
 
 ### Mathematical Profile (Excerpt):
-* Otto Hilbert had a brother who was a lawyer and another who was the director of a Gymnasium.
-* After Otto was promoted to become a senior judge, he and Maria moved to 13 Kirchenstrasse in Königsberg and this was the home in which David spent much of his childhood.
-* David was his parents' first child and only son.
 * The usual age for someone to begin schooling was six but David did not enter his first school, the Royal Friedrichskolleg, until he was eight years old.
 * The Friedrichskolleg, also known as the Collegium Fridericianum, had a junior section which David attended for two years before entering the gymnasium of the Friedrichskolleg in 1872.
 * The main approach to learning was having pupils memorise large amounts of material, something David was not particularly good at.
@@ -49,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Klein had told Hilbert that Königsberg may not be a good place for him to habilitate but Hilbert was happy to do so.
 * In Berlin he met Kronecker and Weierstrass who presented the young Hilbert with two rather different views of the future.
 * Hilbert spent eight days in Göttingen before returning to Königsberg.
-* He married his second cousin, Käthe Jerosch, on 12 October 1892; they had one son Franz Hilbert born on 11 August 1893.
 * In 1892 Schwarz moved from Göttingen to Berlin to occupy Weierstrass's chair and Klein wanted to offer Hilbert the vacant Göttingen chair.
 * Klein was probably not too unhappy when Weber moved to a chair at Strasbourg three years later since on this occasion he was successful in his aim of appointing Hilbert.
 * So, in 1895, Hilbert was appointed to the chair of mathematics at the University of Göttingen, where he continued to teach for the rest of his career.
@@ -59,6 +55,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hilbert himself tried at first to follow Gordan's approach but soon realised that a new line of attack was necessary.
 * Hilbert submitted a paper proving the finite basis theorem to Mathematische Annalen.
 * However Gordan was the expert on invariant theory for Mathematische Annalen and he found Hilbert's revolutionary approach difficult to appreciate.
+* Hilbert has scorned to present his thoughts following formal rules, he thinks it suffices that no one contradict his proof ...
 * At the time Klein received these two letters from Hilbert and Gordan, Hilbert was an assistant lecturer while Gordan was the recognised leading world expert on invariant theory and also a close friend of Klein's.
 * However Klein recognised the importance of Hilbert's work and assured him that it would appear in the Annalen without any changes whatsoever, as indeed it did.
 * In 1893 while still at Königsberg Hilbert began a work Zahlbericht Ⓣ(A number theory report) on algebraic number theory.

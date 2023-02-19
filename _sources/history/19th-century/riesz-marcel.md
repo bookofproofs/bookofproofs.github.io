@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Marcel Riesz** was a Hungarian-born mathematician who worked on summation methods, potential theory and other parts of analysis, as well as number theory and partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-* Marcel was the younger brother of Frigyes Riesz.
 * Riesz wrote his doctoral thesis Summierbare trigonometrische Reihen und Potenzreihen Ⓣ(Summable trigonometric series and power series) in 1907 and presented it to the University of Budapest; it was published in the following year.
 * Von Koch, who was the professor at Stockholm, died in March 1924 and several mathematicians, including Ivar Bendixson and Ivar Fredholm, supported Riesz to fill the vacancy.
 * Marcel Riesz's interests ranged from functional analysis to partial differential equations, mathematical physics, number theory and algebra.

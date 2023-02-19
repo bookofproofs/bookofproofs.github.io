@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Returning from Uganda, Broomhead matriculated at Merton College, Oxford, in 1970.
 * He published the two-volume book Molecular Quantum Mechanics in 1970, so Broomhead's project was very much in line with his current interests.
 * One important event in Broomhead's life which occurred while he was at Merton College, Oxford, was meeting Eleanor J Harries who was also studying chemistry.
-* They were later married and had one son, Nathan Thomas Broomhead.
 * After completing his thesis, David Broomhead spent a year as a postdoctoral student at the Atomic Energy Research Establishment at Harwell in Oxfordshire.
 * While at the University of Kyoto, Broomhead wrote the paper The Self Interaction and Mutual Interaction of Limit Cycles.
 * Returning to England, Broomhead took up a postdoctoral position working with George Rowlands in the Physics Department at the University of Warwick in 1980.

@@ -23,13 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **J J Sylvester** did important work on matrix theory. He discovered the discriminant of a cubic equation and first used the name 'discriminant' for equations of higher order.
 
 ### Mathematical Profile (Excerpt):
-* The first strange fact (which the careful reader may already have noticed!) is that Sylvester's father had the surname Joseph, and not Sylvester.
-* Indeed the subject of this biography grew up with the name James Joseph and it was only shortly before he began his university studies that he decided to add the surname Sylvester.
-* We should also mention at this point the fact that Sylvester was born into a Jewish family, and brought up in the Jewish faith, which would lead to difficulties later in his life which we describe below.
 * Sylvester attended two schools in London, the first one being a boarding school in Highgate which he attended up to 1827, after which he undertook a further eighteen months study at a school in Islington.
 * However things did not go well for Sylvester for, when only five months into his studies, he was accused of threatening a fellow student with a knife in the College refectory.
-* Sylvester's family withdrew him from University College immediately after the allegations were made.
-* Realising that, although Sylvester was able to profit from university education, he was not yet mature enough for university life, his family sent him to continue his schooling at the Royal Institution in Liverpool.
 * On 7 July 1831 Sylvester matriculated as a student at St John's College, Cambridge, although his studies were interrupted when he was forced to take most of the two years 1833-34 and 1834-35 out due to a lengthy illness.
 * Two other famous mathematicians took the tripos examination in the same year as Sylvester, namely Duncan Gregory and George Green.
 * Sylvester came second, Green who was 20 years older than the other two came fourth, with Duncan Gregory fifth.

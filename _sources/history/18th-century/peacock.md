@@ -23,12 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **George Peacock** published his _Treatise on Algebra _ which attempted to give algebra a logical treatment comparable to [Euclid's Elements][bookofproofs$621].
 
 ### Mathematical Profile (Excerpt):
-* Thomas Peacock married Ann Hodgson, the daughter of John Hodgson of Denton and his wife Ann, on 9 November 1781.
-* They had several children but Ann Peacock died young and Thomas Peacock remarried on 2 May 1789.
-* His second wife, Jane Thompson, was the mother of his fifth son, George, the subject of this biography.
-* His final child, and third daughter, Hannah Mary Anne Peacock was born to Thomas and Jane Peacock on 12 February 1798.
-* The year that George Peacock was born, 1791, and the year 1798 that his eighth and final child Hannah were born were the years in which Thomas Peacock published mathematics books.
-* George was educated at home by his father and, because of his father's mathematical interests, it is clear that George must have received a good grounding in mathematics from a skilled teacher.
 * Only elementary mathematics was necessary for entry to Cambridge so, although he knew more advanced material, George excelled in the elementary topics taught at Richmond.
 * Peacock completed his schooling in 1809, being ranked as the top student.
 * In the autumn of 1809 Peacock matriculated as a student at Trinity College, Cambridge.
@@ -54,13 +48,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We should fill in some details of Peacock's career which we have passed over in looking at his algebra.
 * Peacock published Observations on the Statutes of the University of Cambridge (1841) and The life of Thomas Young (1855).
 * Peacock's book is therefore invaluable for quoting at length from now vanished original sources.
-* In 1847, at the age of 56, Peacock married Frances Elizabeth Selwyn.
-* George and Frances Peacock did not have children.
+* On the other hand, Peacock is a prolix Victorian writer whose attempt to describe Young's scientific ideas entirely in words, without a single diagram ...
 * Peacock does not seem to have had much respect for the doctors whom he consulted.
 * Among the honors that Peacock received, we note that he was elected to the Royal Society of London in January 1818, and he joined the Royal Astronomical Society in 1820, the year it was founded.
 * Although Peacock was not at the founding meeting, he had discussed the founding of the Society with Babbage and Herschel about ten days before that meeting.
 * Peacock was a reformer for his whole life.
-* We note that his widow, Frances Peacock, married W H Thompson in 1866.
 * Thompson had been one of Peacock's students at Trinity College.
 
 Born 9 April 1791, Thornton Hall, Denton, County Durham, England. Died 8 November 1858, Pall Mall, London, England.

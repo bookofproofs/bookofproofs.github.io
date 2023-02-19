@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **D R Kaprekar** was a largely self-taught Indian mathematician who worked in in number theory.
 
 ### Mathematical Profile (Excerpt):
-* He was brought up by his father after his mother died when he was eight years old.
-* His father was a clerk who was fascinated by astrology.
-* Although astrology requires no deep mathematics, it does require a considerable ability to calculate with numbers, and Kaprekar's father certainly gave his son a love of calculating.
 * Kaprekar attended secondary school in Thane (sometime written Thana), which is northeast of Mumbai but so close that it is essentially a suburb.
 * There, as he had from the time he was young, he spent many happy hours solving mathematical puzzles.
 * He began his tertiary studies at Fergusson College in Pune in 1923.
@@ -33,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This prize was awarded for the best original mathematics produced by a student and it is certainly fitting that Kaprekar won this prize as he always showed great originality in the number theoretic questions he thought up.
 * He graduated with a B.Sc. from the College in 1929 and in the same year he was appointed as a school teacher of mathematics in Devlali, a town very close to Nashik which is about 100 km due east of Dahanu, the town of his birth.
 * He spent his whole career teaching in Devlali until he retired at the age of 58 in 1962.
-* The fascination for numbers which Kaprekar had as a child continued throughout his life.
 * He was a good school teacher, using his own love of numbers to motivate his pupils, and was often invited to speak at local colleges about his unique methods.
 * The same is the case with me in so far as numbers are concerned.
 * Many Indian mathematicians laughed at Kaprekar's number theoretic ideas thinking them to be trivial and unimportant.
@@ -55,6 +51,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Anyone interested could experiment with numbers with more than 4 digits and see if they stabilise to a single number (other than 0).
 * What about other properties of digits which Kaprekar investigated?
 * Notice that when the square is split we can start the right-hand most part with 0s.
+* Of course from this observation we see that there are infinitely many Kaprekar numbers (certainly 9, 99, 999, 9999, ...
 * are all Kaprekar numbers).
 * Of course we have looked at Kaprekar numbers to base 10.
 * The same concept is equally interesting for other bases.
@@ -79,6 +76,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * These are numbers divisible by the sum of their digits.
 * It will be noticed that 80, 81 are a pair of consecutive numbers which are both Harshad, while 110, 111, 112 are three consecutive numbers all Harshad.
 * It was proved in 1994 that no 21 consecutive numbers can all be Harshad numbers.
+* One further intriguing property is that 2!, 3!, 4!, 5!, ...
 * are all Harshad numbers.
 * One would be tempted to conjecture that n!n!n! is a Harshad number for every nnn - this however would be incorrect.
 * The smallest factorial which is not a Harshad number is 432!.
@@ -88,7 +86,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We have taken quite a while to look at a selection of different properties of numbers investigated by Kaprekar.
 * Let us finally give a few more biographical details.
 * We explained above that he retired at the age of 58 in 1962.
-* Sadly his wife died in 1966 and after this he found that his pension was insufficient to allow him to live.
 * One has to understand that this was despite the fact that Kaprekar lived in the cheapest possible way, being only interested in spending his waking hours experimenting with numbers.
 * He was forced to give private tuition in mathematics and science to make enough money to survive.
 * We have seen how Kaprekar invented different number properties throughout his life.

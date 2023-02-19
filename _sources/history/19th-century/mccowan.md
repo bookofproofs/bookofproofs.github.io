@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John McCowan** was a Scottish physicist who was a pioneer in the study of fluid mechanics and  wave theory.
 
 ### Mathematical Profile (Excerpt):
-* William and Mary had been married in Glasgow on 21 March 1862, and John was their first child.
-* William McCowan's father, also named John McCowan like his grandson, had also been a tailor in Bridge of Allan.
-* In a letter written to his sister on 29 April 1869, when his grandson was six years old, John McCowan Senior paints a picture of what Bridge of Allan was like.
 * John McCowan attended the University of Glasgow, taking classes in Latin and Greek in Session 1879-80.
 * In fact references to McCowan in the Minutes of the Edinburgh Mathematical Society in 1885 wrongly put M.A. after his name instead of B.Sc. He had already taken some M.A. courses and in 1883 he was taking further M.A. courses, being the best student in Second Year Mathematics.
 * After graduating with a B.Sc., McCowan was awarded the Thomson Experimental Scholarship for Session 1883-84.
@@ -41,7 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * McCowan presented one further paper to the Society, namely On the operation of division on 10 April 1895.
 * methods of approximation were given by Lord Rayleigh and John McCowan.
 * Sadly McCowan' health deteriorated, forcing him to reduce his research activities.
-* Henderson Street is the main road through the centre of the small town and he now lived with his father William McCowan, who had by this time retired from his occupation as a tailor and clothier.
 * John McCowan died at 6 a.m. on the morning of 24 November 1900.
 * At the meeting of the Edinburgh Mathematical Society on 14 December 1900, the chairman, John Watt Butters, made a sympathetic reference to the death of Dr John McCowan who was president of the society during Session 1894-95.
 * At the meeting of the Society on 11 January 1901 John Steggall explained that the mathematical papers of the late Dr McCowan had been handed over to him "for examination with a view to their ultimate publication".

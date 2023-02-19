@@ -23,19 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Thomas Room** was an Australian mathematician who is best known for the invention of the so-called Room square.
 
 ### Mathematical Profile (Excerpt):
-* Ernest Room was involved in local politics, being chairmen of the local Conservative Party, and serving as mayor of Camberwell in 1923-24.
-* Ernest Room and Emma Henry were married on 11 July 1899.
-* Thomas had two brothers, Leslie Ernest Room (born 1900) and Richard Geoffrey Room (born 1905), and one sister Margaret Alethea Room (born 1911).
 * Thomas was brought up in various homes around London, in Camberwell, East Dulwich and Dulwich Village.
-* Ernest Room was also Chairman of the local Boy Scout Association and Thomas and his younger brother Richard soon became founding members of a Wolf Cub Pack.
 * Music played a special part in Room's life and while he was at Alleyn's School he sang in the school choir.
 * Returning to Cambridge in 1927 saw Room take up his fellowship at St John's College but in 1928 he was appointed as a University Lecturer.
 * One distinguished participant recalls of Room that 'On such occasions most of us were properly dressed, but he often used to rush in, rather later, with shorts revealing bare knees because he, as a Scout-master, had been out with his boys'.
 * Although Room held his fellowship and lectureship for a year, in 1929 he gave up the fellowship to concentrate totally on the University lectureship.
 * Lyons took sabbatical leave in 1933 which he spent at Cambridge working with H F Baker and at this time he became acquainted with Room.
 * Room took charge of the small department at Sydney in which he had only five others to help him, with two of these being temporary.
-* On 6 November 1937 Room married the schoolteacher Jessie Bannerman at Wesley College Chapel, University of Sydney.
-* Thomas and Jessie Room had a son, Robin, followed by two daughters, Rosemary and Geraldine.
 * Shortly after his marriage, Room published the book The Geometry of Determinantal Loci (1938) which he had been working on for fifteen years.
 * The book owed a great deal to Henry Baker and his geometry school at Cambridge but in the Introduction Room also notes that Richard Lyons had made a major contribution in the preparation of the book.
 * It contained much that Room had published in papers during the 1930s such as: The freedoms of determinantal manifolds (1933); Notes on determinantal manifolds (I): pairs of determinantal manifolds of which one is a projection of the other (1934); Notes on the determinantal manifolds (II): the normal spaces of the manifolds represented by the vanishing of minors of highest order, and of order 2 in a matrix of linear forms (1935); Notes on determinantal manifolds (III): the genera of curves and surfaces represented by the vanishing of minors of highest order and of order 2 in a matrix of linear forms (1935); and Notes on determinantal manifolds (IV): the numerical genus of the manifold represented by the vanishing of minors of highest order in a matrix of linear forms (1936).

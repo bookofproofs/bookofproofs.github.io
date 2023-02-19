@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Heinrich Burkhardt** was a German mathematician who worked on the theory of the elliptical functions, series expansions, group theory and the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* His father was Carl Heinrich Theodor Burkhardt, who worked as an assessor in the district court,  and died when Heinrich was six years old.
 * Burkhardt attended the gymnasium in Ansbach, also in Franconia, before entering university to study mathematics in 1879.
 * At this time the standard pattern for German students was to study at a number of different universities and this was precisely the route followed by Burkhardt.
 * Burkhardt was appointed to the post of assistant at the University of Göttingen in 1887 and he habilitated there in 1889.

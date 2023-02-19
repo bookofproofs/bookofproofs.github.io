@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Her parents were John Pairman, a solicitor at the Supreme Courts of Scotland, and Helen Dunlop.
-* Eleanor, called Nora by her family, was the youngest of her parents' four children, having three older sisters, Maxwell, Margaret and Adeline.
 * John Pairman died before Eleanor was five years old.
 * Pairman sat the Scottish Leaving Certificate examinations passing Lower Dynamics and Lower Science, with Higher passes in English, French, Latin, Mathematics, and Analytical Geometry.
 * The First Year Chemistry Course was taught by James Walker, and Pairman did well, but not brilliantly, being ranked Second Class.
@@ -36,15 +35,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * After about five years she informed the Society that her name was now Mrs Eleanor Pairman Brown.
 * In fact Pairman had met Bancroft Huntington Brown when both were graduate students and they had both been awarded a Ph.D. in mathematics in June 1922.
 * The College was founded in 1769 as a men's College with an all male teaching staff and when Bancroft Brown was appointed this was still the case so there was no possibility that Eleanor could teach at the College.
-* Eleanor and Bancroft Brown had four children, a son John Pairman born in 1923, a daughter Barbara in 1925, a second daughter Joanna in 1935 who died as an infant, and a third daughter Margaret Wylde in 1937.
 * In 1927 she published a joint mathematics paper On a class of integral equations with discontinuous kernels with Rudolph E Langer, who was a friend who graduated from Harvard in a June 1922 ceremony as Eleanor Pairman and Bancroft Brown and, like Eleanor, had George Birkhoff as his thesis advisor.
 * However, Eleanor Brown later undertook task to help students who were blind.
 * Although she had not been employed as a mathematician after being awarded her doctorate, Eleanor Brown did take up an appointment as a part-time Instructor in Mathematics at Dartmouth College in September 1955 and taught there for the next four academic years.
 * John Kemeny, who was appointed to the Mathematics Department at Dartmouth in 1953, became chairman of the Department at the same time that Eleanor Brown began her teaching post at the College.
-* Finally let us comment on the careers of Eleanor Brown's three children.
-* Her son John Pairman Brown studied mathematics and classics at Dartmouth College and then went to Union Theological Seminary in New York City where he obtained a doctorate.
-* Eleanor Brown's eldest daughter Barbara was awarded a doctorate in languages and literature from Rutgers University and became a university lecturer of English.
-* Eleanor Brown's youngest daughter Margaret graduated from Brown University and became a medical editor.
 
 Born 8 June 1896, Broomieknowe, Lasswade, near Edinburgh, Scotland. Died 14 September 1973, White River Junction, Vermont, USA.
 

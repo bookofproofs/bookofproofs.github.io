@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Eddington** made important contributions to the theory of general relativity.
 
 ### Mathematical Profile (Excerpt):
-* Arthur Eddington's mother, Sarah Ann Shout, came from Darlington and, like her husband, was also from a Quaker family.
-* On Arthur Henry Eddington's death she was left to bring up Arthur and his older sister with relatively little income.
-* The family moved to Weston-super-Mare where at first Arthur was educated at home before spending three years at a preparatory school.
 * In 1893 Arthur entered Brymelyn School in Weston-super-Mare which was mainly for boarders but he did not board at the school, being one of a small number of day pupils.
 * The school provided a good education within the limited resources available to it and allowed Arthur to excel in mathematics and English literature.
 * The level to which the school was able to take Arthur was, however, not very advanced and his good grounding in mathematics stopped short of reaching the differential and integral calculus.

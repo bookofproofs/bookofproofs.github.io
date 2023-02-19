@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * In the middle of the war, in 1916, Shura entered school, going straight into the third class.
-* The family were poor and, in order to survive, Kurosh had to work as well attend school.
 * Kurosh left school at the age of 15 and went to Moscow to take the examinations for the Textile Institute.
 * He achieved very high grade passes in the entrance examinations but was judged to be too young to enter the Institute.
 * Kurosh never intended to spend his life as an accountant and he studied at evening classes after a full working day.
@@ -60,9 +59,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * During the 1950s he concentrated on Universal algebra and category theory, organising a major seminar on category theory in 1958.
 * Many mathematicians participated in this seminar and it led to the birth of the Moscow School of Category Theory.
 * between the theory of universal algebras and the classical branches of general algebra there exists a big uncultivated space.
+* Research has begun only in a few places, isolated, sometimes random ...
 * One has to expect that it is precisely in this no-man's land where the basic branches of general algebra will move in the next decades.
+* In accordance with the general tendencies of contemporary science ...
 * Kurosh's whole life was involved in teaching at all levels from directing the research of young people, to lecturing, to designing new courses.
-* Not only did Kurosh work with university students but he gave many popular lectures to school children.
 * Twice he organised the Moscow University Olympiads for school mathematics.
 * One way was his long involvement with the Moscow Mathematical Society.
 * In 1931, while he was still an assistant, Kurosh joined the Moscow Mathematical Society and he was elected to its governing body in 1933, only a year after his appointment as a lecturer.

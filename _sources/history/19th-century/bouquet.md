@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Jean-Claude became a school friend of Briot, who was also brought up in the Doubs region, and he went on to work with him for much of his life, collaborating both in teaching and in research.
 * In fact Bouquet was two years younger than Briot but they became friends at the Lycée since both had a fascination for mathematics.
 * Bouquet was brought up in a period of unrest with the revolution of 1830.
-* However by the time Bouquet went to Paris to enter university there, France had entered a period of political stability and relative prosperity.
 * Bouquet entered the École Normale Supérieure in 1839, obtaining his doctorate in 1842 for a thesis Sur la variation des intégrales doubles Ⓣ(On the variation of double integrals)   which he submitted to the Faculty of Science in Paris.
 * Briot had been a school teacher of mathematics for a year before entering the École Normale Supérieure and he took one year longer to obtain his doctorate than Bouquet so the two friends obtained their doctorates in the same year.
 * Bouquet was appointed professor of mathematics at the Lycée in Marseilles, then he went to Lyon as professor of mathematics in the Faculty of Science.

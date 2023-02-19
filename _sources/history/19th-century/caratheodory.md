@@ -23,24 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Carathéodory** made significant contributions to the calculus of variations, the theory of point set measure, and the theory of functions of a real variable.
 
 ### Mathematical Profile (Excerpt):
-* At the time of Constantin's birth, the family were in Berlin since Stephanos had been appointed there two years earlier as First Secretary to the Ottoman Legation.
-* The Carathéodory family spent 1874-75 in Constantinople, where Constantin's paternal grandfather lived, while Stephanos was on leave.
-* In Brussels, Constantin's younger sister Loulia was born.
-* The year 1895 was a tragic one for the family since Constantin's paternal grandfather died in that year, but much more tragically, Constantin's mother Despina died of pneumonia in Cannes.
-* Constantin's maternal grandmother took on the task of bringing up Constantin and Loulia in his father's home in Belgium.
 * Constantin was already bilingual in French and Greek by this time.
 * Constantin began his formal schooling at a private school in Vanderstock in 1881.
 * Twice during his time at this school Constantin won a prize as the best mathematics student in Belgium.
 * At this stage Carathéodory began training as a military engineer.
-* This put Carathéodory in a difficult position since he sided with the Greeks, yet his father served the government of the Ottoman Empire.
 * Carathéodory entered the University of Berlin in May 1900 where Frobenius and Schwarz were professors.
-* Carathéodory had spent time in Brussels with his father Stephanos over the summer of 1907.
 * Study, at Bonn, had proposed Carathéodory as Furtwängler's successor and, after serious thought as to whether he should leave Göttingen, Carathéodory went to Bonn where he became a Provatdozent on 1 April 1908.
-* On 5 February 1909 he married Euphrosyne Carathéodory in Constantinople.
-* In marrying Euphrosyne, who was his aunt and eleven years his junior, Carathéodory was following a family tradition of marrying close relatives.
 * After a year at Bonn, Carathéodory was appointed as Professor of higher Mathematics at the Technical University of Hanover, so becoming Stäckel's successor.
 * The famine of 1917 hit hard but Carathéodory continued to give lecture courses at the university.
-* By this time Constantin and Euphrosyne had two children, Stephanos born in Hanover on 7 November 1909 and Despina born on 13 October 1912.
 * Carathéodory had also accepted editorial positions on the boards of two major mathematics journals, the Rendiconti del Circolo Matematico di Palermo from 1909 and the Mathematische Annalen from 1914.
 * The Greek government had asked Carathéodory to establish a second university in Smyrna.
 * On 14 July the Greek government published a bill setting up a Greek University in Smyrna and soon others were appointed at assist Carathéodory.

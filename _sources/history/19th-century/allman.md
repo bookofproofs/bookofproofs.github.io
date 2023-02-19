@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **George Allman**  was an Irish professor, mathematician, classical scholar and historian of ancient Greek mathematics.
 
 ### Mathematical Profile (Excerpt):
-* William Allman, the son of Thomas Allman, was born in Jamaica but came to Ireland at the age of four years.
-* George was the younger of his parents' two sons and was brought up by his father following the death of his mother Anne in 1831.
 * George Allman studied both pure and applied mathematics at Trinity College, Dublin, and graduated in 1844 coming first equal among the First Class students (with Samuel Haughton who became professor of geology at Trinity College) and winning the gold medal for mathematics.
 * In the same year of 1853 Allman was appointed as Professor of Mathematics at Queen's College, Galway.
 * Among the articles Allman contributed to the ninth edition of the Encyclopaedia Britannica were those on Thales, Pythagoras, Ptolemy and other Greek philosophers.

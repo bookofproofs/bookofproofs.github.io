@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Roland Dee dealt in textiles and, in addition, was a gentleman sewer at the court of Henry VIII.
-* John Dee's mother was Jane Wild.
-* Jane married Roland when she was fifteen years of age and, three years later, John (who was their first and only child) was born.
 * John was educated at a school in Chelmsford in Essex from 1535, then entered St. John's College, Cambridge in November of 1542.
 * One would not expect a modern astronomer to say "observations of the heavenly influences" but Dee, in common with the general practice in his time, believed in astrology.
 * However, Dee sought a scientific explanation for the reasons that the positions of the planets at the moment of a person's birth would affect their future.
@@ -39,11 +37,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In the same year Dee went to Paris where he lectured on Euclid's Elements.
 * In 1551 Dee was offered an appointment as professor of mathematics in Paris but declined.
 * Back in England Dee entered the service of the Earl of Pembroke in February 1552, then he entered the service of the Duke of Northumberland near the end of the same year.
-* Indeed they were right to have such fears as Mary instigated a campaign against eminent Protestants and one person to be arrested was Roland Dee, John Dee's father, who was taken prisoner in August 1553.
-* John, who had expected to inherit considerable wealth from his father and be in a position to carry out scientific studies free from worries about earning an income, was put in a difficult position.
 * On 28 May 1555 Dee was arrested and charged with "calculating".
 * Although he was guilty of the charges brought against him, Dee was released in August after being held for three months.
-* Dee's father died in 1555 without being able to recover his wealth.
 * As to Dee's religious position this seems a little harder to ascertain.
 * Dee presented plans for a national library to Queen Mary on 15 January 1556.
 * The scheme did not receive official backing, but nevertheless Dee, despite his financial difficulties, set out to create his own library.
@@ -58,8 +53,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Certainly Brahe greatly admired Dee's contributions.
 * Dee brought instruments of navigation back from the Continent when he returned in 1551.
 * Dee prepared nautical information, including charts for navigation in the polar regions, for the company during the next 32 years.
-* In 1579 Dee's mother gave her house at Mortlake (which he had lived in for at least 13 years) to him; she died the following year.
-* Dee had married Jane Fromands in February 1578 and together they had eight children.
 * Edward Kelley entered Dee's life in March of 1582.
 * Although this was not the first time Dee had been involved in such practices, at first he was still highly suspicious that Kelley's visions were real.
 * Two things convinced him, however: Kelley was highly skilled in his art, and secondly Dee so longed to understand the ultimate truth about the universe which he had failed to find by other means.
@@ -68,7 +61,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Dee made a proposal to Queen Elizabeth for calendar reform in February 1583.
 * It was, of course, exactly the right course of action and Dee's proposal gained support from several of Elizabeth's advisors.
 * Dee's scheme was, however, a better one than that adopted across Europe after the proclamation by Pope Gregory XIII.
-* The Gregorian calendar was based on the date of the Council of Nicaea in 325, while Dee proposed a calendar with an astronomical base rather than a political one as he clearly pointed out.
 * The failure of Dee's calendar reform proposal would mean that England retained a calendar at odds with that in the rest of Europe until 1752.
 * Dee and Kelley visited Poland and Bohemia (1583-89), giving displays of magic at the courts of princes.
 * On the other hand Dee, still in severe financial problems, returned to Mortlake in December 1589 to discover that much of his library had been stolen, as were his scientific instruments.
@@ -76,7 +68,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1590 Harriot sent Dee a copy of one of his books in which he had written "To my dear friend".
 * For a number of years Dee tried unsuccessfully to gain compensation for the income he had lost over the years.
 * He tried to gain an appointment as Master of St John's Cross which was approved by Queen Elizabeth subject to approval by the Archbishop of Canterbury - but this approval never materialised.
-* In 1605 Manchester was hit by the plague and Dee's wife and several of his children died.
 
 Born 13 July 1527, Tower Ward, London, England. Died 26 March 1609, Mortlake, London, England.
 

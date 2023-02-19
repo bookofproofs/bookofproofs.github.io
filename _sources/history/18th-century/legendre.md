@@ -33,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Legendre submitted his results to the Académie des Sciences in Paris in January 1783 and these were highly praised by Laplace in his report delivered to the Académie in March.
 * Within a few days, on 30 March, Legendre was appointed an adjoint in the Académie des Sciences filling the place which had become vacant when Laplace was promoted from adjoint to associé earlier that year.
 * Over the next few years Legendre published work in a number of areas.
-* In particular he published on celestial mechanics with papers such as Recherches sur la figure des planètes Ⓣ(Research on the shape of planets) in 1784 which contains the Legendre polynomials; number theory with, for example, Recherches d'analyse indéterminée Ⓣ(Research on indefinite analysis) in 1785; and the theory of elliptic functions with papers on integrations by elliptic arcs in 1786.
 * This is fair since Legendre's proof of quadratic reciprocity was unsatisfactory, while he offered no proof of the theorem on primes in an arithmetic progression.
 * Legendre's career in the Académie des Sciences progressed in a satisfactory manner.
 * This work resulted in his election to the Royal Society of London in 1787 and also to an important publication Mémoire sur les opérations trigonométriques dont les résultats dépendent de la figure de la terre which contains Legendre's theorem on spherical triangles.

@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hsu's school education was in Peking and he did not choose mathematics as a career at this stage but rather it was chemistry which he decided to study at university.
 * Hsu passed examinations in 1936 at Peking University and obtained a scholarship to enable him to continue his graduate studies in Britain.
 * Certainly University College, London was an excellent place for Hsu to study as his mathematical interests were in probability and statistics.
-* Egon Pearson, following the retiral of his father Karl Pearson as Galton Professor of Statistics, had been made Reader and became Head of the Department of Applied Statistics three years before Hsu arrived there.
 * Hsu's first two papers were published in the Statistical Research Memoirs which were edited by Jerzy Neyman and Egon Pearson.
 * One concerned what is now known as the Behrens-Fisher problem, while the second Hsu examined the problem of optimal estimators of the variance in the Gauss-Markov model.
 * In 1938 Hsu, while still undertaking research for his doctorate, too up a position as lecturer in Egon Pearson's Department.

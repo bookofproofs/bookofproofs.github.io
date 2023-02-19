@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Eduard Heine** is best remembered for the [Heine-Borel Theorem][bookofproofs$6596]. He was responsible for the introduction of the idea of uniform continuity.
 
 ### Mathematical Profile (Excerpt):
-* Eduard was the eighth of his parents nine children.
 * After his Abitur in the autumn 1838, Heine entered the University of Berlin.
 * After three semesters at Göttingen, Heine returned to the University of Berlin where he  where he was taught by Dirichlet.
 * Heine submitted his thesis De aequationibus nonnullis differentialibus Ⓣ(Some differential equations) and was awarded the degree on 30 April 1842.

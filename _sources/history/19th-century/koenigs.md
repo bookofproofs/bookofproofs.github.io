@@ -32,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It is curious that Koenigs' archives in the Academy do not contain a single paper associated with the IMU.
 * Nor are the activities of Koenigs in the Union mentioned in the memorial address of the French Academy, in his obituary, or in his biography.
 * Others held equally sincere views that the Union's exclusion rules were right, in particular Koenigs strongly believed in the exclusions.
-* Again Koenigs was elected as Secretary General of the Executive Committee of the International Mathematical Union but began to use his position for his own political ends.
 * Despite a general softening of views, Koenigs strongly opposed attendance by Germans but first the Executive Committee had to select a location for the 1928 Congress.
 * Pincherle, as President of the International Mathematical Union, felt he could not press for Bologna but Koenigs went as far as to say that if Stockholm were chosen the unfavourable exchange rate would stop France and many other countries attending.
 * However Koenigs, as the International Mathematical Union's General Secretary, argued that Germany should not attend since although they were eligible to join the International Research Council since 1926 they had not done so.

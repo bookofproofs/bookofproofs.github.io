@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Eliakim Moore** was an American mathematician who worked on abstract algebra, algebraic geometry, number theory and integral equations.
 
 ### Mathematical Profile (Excerpt):
-* David Moore was a Methodist minister and he and his wife gave their son Eliakim an excellent education.
-* As a child Eliakim played with Martha Morris Young and they would later marry.
 * One summer he worked as an assistant to Ormond Stone, who was the director of the Cincinnati Observatory, and from this time on Eliakim knew that he wanted to study mathematics and astronomy at university.
 * In 1879 Moore entered Yale University and took, as he had planned, courses in mathematics and astronomy.
 * Moore's doctoral dissertation was entitled Extensions of Certain Theorems of Clifford and Cayley in the Geometry of n Dimensions and this led to the award of his doctorate in 1885.

@@ -23,14 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Robert Murphy** was an Irish mathematician who worked on the theory of equations and was among the first to consider algebras of operators.
 
 ### Mathematical Profile (Excerpt):
-* Robert was, according to some sources, the third of his parents' seven children and, according to other sources, the sixth child of seven boys and two girls.
 * John Murphy clearly had a reasonable education since he served as the parish clerk.
-* Tragedy struck the family, however, in January 1814 when John Murphy died.
-* Robert was only seven years old at this time and the death of his father meant that from that time on the family were in extreme poverty.
 * It is often the case that misfortune has its positive side and this appears to be true for Murphy for it was during the time that he was confined to bed that he discovered that he had a talent for mathematics.
-* It is not John Mulcahy but rather it is his father, Mulcahy Senior, who played a vital role in Robert Murphy's life.
-* There he learnt to his amazement that the solutions were from Robert Murphy, a child on crutches of around 12 years of age.
-* Mulcahy Senior spoke to Murphy's mother and immediately understood that there was no way that the family could afford to educate their son.
 * He then made strenuous efforts to arrange for Murphy to get an education.
 * He persuaded Croker to help finance Murphy's education and he also spoke to Mr Hopley, the headmaster of the local school, who agreed to cover Murphy's fees and the cost of books at his school.
 * Murphy spent three years between 1819 and 1823 at Mr Hopley's school where he was taught by a Mr Armstrong.
@@ -50,12 +44,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This excellent performance, quite remarkable for someone with Murphy's minimal formal education before beginning his undergraduate studies, led to Murphy being awarded a Perse Fellowship.
 * Already as an undergraduate there is considerable evidence that Murphy could not handle his finances.
 * In December of the following year, at the meeting of the Senior Fellows when Murphy's degree was confirmed, it was "agreed to advance Mr Murphy a loan of fifty pounds".
-* There is another factor in Murphy's problems for his mother, who had given him great moral support during his youth, died in 1832.
 * Also the same meeting of the Senior Fellows in December 1832 it was agreed that "sixty pounds be allowed to Mr Murphy for the present year".
-* William Haughton Stokes, who we mentioned above, was the elder brother of the mathematician George Gabriel Stokes, and like Murphy was Irish.
 * In the two months, October and November 1832, ten Common Room wagers by Murphy are recorded in the College Wager Book and, in 1833, 21 of the total of 60 bets recorded involve Murphy.
 * What sort of bets did Murphy make?
-* Many are on political topics such as, "Mr Stokes bets Mr Murphy that there will be at least forty-five members returned from Parliament at the next election." Many are quite strange, for example "Mr Murphy bets Mr Stokes that Napoleon is said to have sacrificed the life of his wife rather than that of his son," or "Mr Paget bets Mr Murphy that Abraham took to himself a wife after the death of Sarah." We note that Mr Paget is George Edward Paget who became a distinguished physician.
 * Many of the bets involved bottles of wine and there is a suggestion that Murphy had problems with alcohol as well as with betting.
 * Although Murphy lost his position as a junior dean in charge of discipline in 1833, he continued to hold other posts at Gonville and Caius College, being a Hebrew lecturer in 1833, 1834 and 1835.
 * Murphy published On the General Properties of Definite Integrals (1830), On the Resolution of Algebraical Equations (1831), First Memoir on the Inverse Method of Definite Integrals, with Physical Applications (1830) and On Elimination between an Indefinite Number of Unknown Quantities (1832) in the Transactions of the Cambridge Philosophical Society.

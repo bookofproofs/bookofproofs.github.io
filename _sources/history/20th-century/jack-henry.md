@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Henry Jack** was a Scottish mathematician who taught at Dundee University and made contributions to the theory of polynomials.
 
 ### Mathematical Profile (Excerpt):
-* Henry, the subject of this biography, had his birth registered in Benvie, Angus, a few km west of Dundee.
 * Before he entered Meiklejohn's classes, Jack had been more interested in rugby than in any academic subjects but Meiklejohn's teaching changed the course of Jack's life.
 * Meiklejohn encouraged Jack to study mathematics at University and he also encouraged him to enter the Bursary Competition for Edinburgh University.
 * Jack was awarded a Dalhousie Bursary and matriculated at Edinburgh University in the autumn of 1936.

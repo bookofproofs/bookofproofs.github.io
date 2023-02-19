@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Giuseppe Pompilj** was an Italian mathematician who worked in geometry and mathematical statistics.
 
 ### Mathematical Profile (Excerpt):
-* He had a brother Guido Pompilj.
 * Giuseppe was educated in Rome where he entered the university to study mathematics.
 * Pompilj continued to undertake research at the University of Rome and, in 1942, he was appointed as a lecturer.
 * Pompilj was called up for military service and, after being captured by the British, was interred in a POW camp in North Africa.
@@ -47,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Pompilj's main criticism of the theory of significance, taken from those of Gini, is to confuse the 'a posteriori' probability P(A∣B)P(A | B)P(A∣B) with the probative P(B∣A)P(B | A)P(B∣A).
 * For Pompilj it is necessary to depart from Bayes' Theorem to also clarify the mechanisms that operate in the interpretation of facts.
 * In his concept of probability, Pompilj was close to a subjective concept, but did not completely marry it to his theses.
-* Pompilj had numerous pupils and collaborators that appreciated him for his exceptional generosity and rich humanity, that were not affected despite the numerous family tragedies that marred his life.
 * Together with his students, Pompilj also did a considerable amount of more applied work.
 * Pompilj was amongst the founders of the Italian Association in Operations Research.
 * Pompilj's relevance is proven by the fact that a representative of the Istituto di Calcolo delle Probabilità was nominated as a permanent member of the scientific committee.

@@ -23,12 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Argelia Velez-Rodriguez** is a Cuban-American mathematician and educator. She was the first Black woman to earn a doctorate in mathematics in Cuba.
 
 ### Mathematical Profile (Excerpt):
-* Argelia, who was born into a Black Roman Catholic family, was brought up in Cuba at the time of this improving situation.
-* Velez married Raul Rodriguez in 1954 while she was an undergraduate and we will now refer to her as Velez-Rodriguez.
 * After gaining her Bachelor's Degree from the Marianao Institute in 1955, Velez-Rodriguez continued on to graduate studies at the University of Havana.
 * However, as we remarked above, Velez-Rodriguez was Black.
-* During her doctoral studies Velez-Rodriguez's second child, a daughter, was born in 1959.
-* Velez-Rodriguez became increasing unhappy with Communist Cuba and in 1962 the Roman Catholic school which her seven year old son was attending was taken over by the Communist government.
 * Velez-Rodriguez emigrated from Cuba to the United States in 1962.
 * In 1962 Velez-Rodriguez began teaching mathematics and physics at Texas College.
 * It was in 1972 that Velez-Rodriguez became an American citizen.

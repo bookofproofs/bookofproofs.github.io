@@ -23,11 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Henry Plummer** was a mathematician and astronomer who for some years was Royal Astronomer of Ireland and Andrews Professor of Astronomy at Trinity College, Dublin. He left Ireland to take up the Professorship of Mathematics at the Military College of Science at Woolwich. He made important contributions to mathematical astronomy.
 
 ### Mathematical Profile (Excerpt):
-* Henry was born into a family of astronomers.
-* His father William Plummer was the youngest of his parents' four children and had one older brother, John Isaac Plummer (1845-1925).
-* She was the daughter of the licenced victualler Henry Crozier.
-* William's brother John Plummer began his astronomical career as an assistant astronomer at Glasgow Observatory in 1866, then moved to the Durham Observatory in 1868.
-* In June 1874 he was appointed at Orwell Park Observatory so, when Henry Plummer was born in 1875, his father and his uncle were both established astronomers.
 * Henry Plummer was educated in Oxford, attending St Edward's School, Oxford, from 1889 to 1892 when he won a Scholarship at Hertford College.
 * Plummer entered Hertford College in 1892, the year his parents moved away from Oxford when William Plummer was appointed as Director of the Liverpool Observatory.
 * In 1901 Plummer was appointed as an assistant at the Radcliffe Observatory at Oxford University where Herbert H Turner was the Director.
@@ -41,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Mr Plummer's tastes incline in both directions.
 * In 1918, when the war ended, Ireland was hit hard by the Spanish flu pandemic but, far worse as far as Plummer was concerned, was the unrest which eventually led to the establishment of the Irish Free State.
 * The Irish War of Independence then broke out and Plummer, who was a gentle, peace-loving man, shut himself up in the Dunsink Observatory, reluctant to even venture into Dublin.
-* In 1924 Plummer married Beatrice Howard (1867-1946) in St Martin, London.
 * Plummer wrote a number of books.
 * While looking at the books Plummer wrote, we should explain briefly about The Correspondence of Isaac Newton.
 * In fact Plummer had agreed to undertake on the editorship of Isaac Newton's correspondence in 1938 but was still working on the project when he died in 1946.
@@ -51,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The Royal Astronomical Society had elected Plummer as a Fellow on 8 December 1899.
 * He was also honoured by having the crater Plummer on the Moon named after him.
 * After Plummer retired, he moved to 3 Canterbury Terrace, Oxford.
-* His wife Beatrice died on 20 February 1946 and Plummer was devastated.
 
 Born 24 October 1875, Oxford, England. Died 30 September 1946, Oxford, England.
 

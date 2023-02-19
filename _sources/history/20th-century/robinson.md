@@ -23,11 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Abraham Robinson** was a Polish-born mathematician best known for the development of non-standard analysis.
 
 ### Mathematical Profile (Excerpt):
-* Abraham Robinson's father was also named Abraham Robinson and his mother was Hedwig Lotte.
-* He was the second child of the family, his older brother Saul Robinson also went on to have an outstanding career; he became an expert on comparative education.
 * Abraham Robinson senior was also a highly talented man.
-* After studying chemistry he became an important writer and philosopher but Abraham junior never knew his father for he died shortly before Abraham junior was born.
-* It was a Jewish family and although Abraham Robinson senior was a Zionist he had never been to Palestine but he had accepted the position of head of the Hebrew National Library in Jerusalem just before he died.
 * Hedwig Robinson was a teacher and she brought up her two sons in Germany until 1933 when Abraham was fourteen years old.
 * Hedwig, Abraham and Saul Robinson avoided the problems that Jews would have in Germany from 1933 by starting a new life in Palestine.
 * There Robinson completed his schooling and, in 1935, began studying mathematics under Fraenkel and Levitzki at the Hebrew University of Jerusalem.

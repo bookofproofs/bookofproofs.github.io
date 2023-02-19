@@ -25,10 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * His grandparents sent Georges to the Oratorian College of Juilly to become a boarder there.
 * Humbert obtained a doctorate in mathematics in 1885 for his thesis Sur les courbes de genre un Ⓣ(On curves of genus one).
-* Humbert married Marie Jagerschmidt in 1890 and in the following year his son Pierre was born.
 * Pierre Humbert grew up to be a mathematician and has a biography in this archive.
-* Georges Humbert's delight at the birth of his son was short-lived, however, for his wife died in 1892.
-* Humbert married again in 1900 and with his second wife Suzanne Lambert-Caillemar had two further children.
 * On the death of Hermite in 1901, Humbert was elected to fill his place in the Académie des Sciences.
 * Georges Humbert would be better known today if the area of mathematics in which he worked had remained in favour.
 

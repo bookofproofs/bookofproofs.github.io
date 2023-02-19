@@ -23,17 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Paul Bernays** was a Swiss mathematician, who made important contributions to mathematical logic, axiomatic set theory, and the philosophy of mathematics. He is the **B** in the **NBG** axiom system.
 
 ### Mathematical Profile (Excerpt):
-* Julius Bernays (known as Jules) had Swiss nationality and married Sarah Brecher in 1887.
-* In fact Julius and Sarah were quite closely related as both were descended from Paul's great-grandfather Isaac Bernays.
-* His great-grandfather, Isaac ben Jacob Bernays (1792-1849), chief rabbi of Hamburg, was known for both strict Orthodox views and modern educational ideas.
-* His grandfather, Louis Bernays, a merchant, travelled widely before helping to found the Jewish community in Zürich, while his great-uncle, Jacob Bernays, was a Privatdozent at the University of Bonn.
-* Louis Bernays (1830-?), whose mother was Sara Lea Behrend (1804-1858), married but the name of his wife is not known.
-* Jacob Bernays (1824-1881), also the son of Isaac Bernays, was a writer on philosophy who became an extraordinary professor and chief librarian at the University of Bonn.
-* Paul was the oldest of his parents' five children having a younger brother, Adolphe (1890-1957), and three younger sisters.
-* After a short time in London, during which Paul was born, his family moved to Paris.
 * Let us make clear at this point that Bernays, in a CV that he wrote later in life, says that he was of the Jewish faith and a citizen of Switzerland.
-* From Paris the family moved to Berlin where Paul attended the Köllnisches Gymnasium from 1895 to 1907.
-* In later life Bernays was to speak of the happy childhood he had during these years.
 * Bernays's decision was to take up engineering and he entered the Technische Hoschule in Charlottenburg where he began his studies in 1907.
 * However, despite his parents' wish that he put his mathematical talents to practical use, Bernays decided after one semester (the 1907 summer semester) that he must make the change from engineering to pure mathematics.
 * From 1910 until 1912 he studied at Göttingen where he attended mathematics lectures by David Hilbert, Edmund Landau (who moved to Göttingen at the same time as Bernays), Hermann Weyl and Felix Klein, physics lectures by Woldemar Voight and Max Born, and he studied philosophy with Leonard Nelson (1882-1927).
@@ -54,7 +44,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In Bernays, Hilbert had found someone as interested in the foundations of mathematics as he was.
 * Bernays attributes the emotional quality of these arguments to a fundamental "opposition" in Hilbert's feelings about mathematics.
 * Bernays did not always agree with Hilbert about their programme, but he appreciated the fact that, passionate though Hilbert was in their disputation, he never held it against his assistant personally when he took the opposite side.
-* After their work was finished, Hilbert and Bernays often argued about politics.
 * Bernays loved music and had played "four hands" with Hurwitz when he was in Zürich.
 * In 1922 Hilbert recommended Bernays for an extraordinary professorship at Göttingen.
 * Bernays' knowledge is extraordinarily broad and deep, and it extends into the domains of philosophy, physics and biology.
@@ -72,7 +61,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Now Bernays' work in Zürich was influenced by his colleague Ferdinand Gonseth (1890-1975).
 * Bernays' work on an axiomatic basis for mathematics was taken further by Kurt Gödel.
 * As we have already indicated, Bernays held relatively minor posts considering the magnitude of his achievements.
-* Bernays never married but after he moved to Zürich he lived with his mother and two unmarried sisters.
 
 Born 17 October 1888, London, England. Died 18 September 1977, Zürich, Switzerland.
 

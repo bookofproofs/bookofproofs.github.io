@@ -23,12 +23,8 @@ contributors: @Francesca-Webb,@Edmund-Robertson,bookofproofs
 **Elizabeth Scott** was an American mathematician who worked in statistics.
 
 ### Mathematical Profile (Excerpt):
-* When she was four years old Scott's father retired and the family moved to Berkley, California, where she lived for the rest of her life.
-* In Berkeley the family were close to the university where her father enrolled on a Law degree, and Scott's life quickly became centred round the University.
 * When she was old enough, Scott entered the university high school located in Oakland only four miles south of Berkley.
 * As the only girl enrolled in the advanced mathematics courses, Scott quickly stood out as exceptional among the student body and, even at such a young age, was already considering a career in astronomy.
-* In California, Scott's family, like most others, struggled financially at a time when she was completing high school and preparing to enter university.
-* The University of Berkeley was the logical choice for Scott as the tuition fees were low and she could save the family money by living at home.
 * During her time as an undergraduate Scott had no female professors except in physical education.
 * There were times, however, when women would substitute for absent permanent staff and it was on one of these occasions that Elizabeth met one of only two women in the mathematics department, Pauline Sperry.
 * Later when she was a graduate student at Berkeley Scott, with a few other female graduate students, was invited by Sperry to attend lunch at the Women's Faculty Club.

@@ -30,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At University, Brash studied Mathematics, Natural Philosophy and Latin in session 1905-06.
 * The mathematics course was taught by Charles Tweedie and Brash obtained a First Class pass.
 * Brash returned to West Calder after studying in Edinburgh, then in 1915 he moved to Stirling when he was appointed to Stirling High School.
-* William Brash married Marjory Byres and had two sons, Robert (born in 1924) and Thomas (born in 1926).
 * As many Edinburgh mathematics graduates did, Brash joined the Edinburgh Mathematical Society after graduating.
 * In Brash's case he joined in December 1912 although while his application for membership was being processed he had read a paper to the Society entitled Two general results in the differential calculus at the meeting on Friday 14 June 1912.
 

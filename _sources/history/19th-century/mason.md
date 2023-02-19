@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Max Mason** was an American mathematician who work on differential equations, the calculus of variations and electromagnetic theory.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Josephine Vroman, and his father was Edwin Cole Mason who was an accountant and businessman.
 * Max studied at the University of Wisconsin which he entered intending to read for a degree in engineering.
 * On the academic side, which he did take seriously despite his many outside interests, he took some mathematics courses from Charles Sumner Slichter who turned Mason on to mathematics.
 * Mason then went to Germany in the autumn of 1900 where studied for his doctorate at the University of Göttingen, working under Hilbert's supervision.
@@ -42,8 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Mason held the position of president until 1936 when he moved to California to  join the team directing the construction of the Palomar Observatory.
 * George Ellery Hale, the original designer of the 200-inch telescope, died shortly after Mason joined the team and he took over as chairman.
 * Mason used his engineering skills to solve these problems with the telescope which was completed in 1948.
-* We noted above that Mason's wife Mary died in 1928.
-* One year later Mason married Daphne Crane Drake who became his fourth wife.
 * Mason's mathematical research interests lay in differential equations, the calculus of variations and electromagnetic theory.
 * After he retired in 1949, Mason moved to Claremont, California, and taught at Claremont College for a year.
 

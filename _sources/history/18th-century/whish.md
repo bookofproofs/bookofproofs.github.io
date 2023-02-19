@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Charles Whish** was an English civil servant who worked for the East India Company. He was the first to bring to the notice of the western mathematical scholarship the achievements of the Kerala school of astronomy and mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Martin Whish was married three times and Harriett Tyssen was his third wife whom he married in June 1786.
-* Martin Whish had 18 children and 15 of these 18 children were with Harriett.
-* Of these 15 children, 7 were older than Charles Matthew, the subject of this biography, and 7 were younger.
 * Charles Whish studied at the East India College at Hertford, north of London.
 * The College taught mathematics and natural philosophy, with William Dealtry (1775-1847) and Bewick Bridge (1767-1833) being the professors of mathematics at the time when Whish studied there.
 * A third important topic taught at the College was law and since Whish had a legal career in India we must assume that he also studied law at the College at Hertford.

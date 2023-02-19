@@ -25,15 +25,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Alexander Frege was the head of a girls' high school in Wismar and it was in that town that Gottlob was born.
 * It had been administered by the Mecklenburg-Schwerin state since 1803 but at the time when Gottlob was born there, the town was still claimed by Sweden, the country which had controlled it from the Peace of Westphalia in 1648 until 1803.
-* It is thought that Gottlob's mother was from a family which did not originate in that area but was probably of Polish origin.
 * Gottlob grew up in Wismar, attending the local Gymnasium where he was taught by Leo Sachse.
 * Frege was proud to live in the state of Mecklenburg, he loved the ducal house of Mecklenburg, and certainly believed in this form of government rather than a democratically elected one.
-* Before looking at these events, however, we should note that 1866 was the year in which Alexander Frege, Gottlob's father, died.
-* When Frege went to the University of Jena in 1869 it was a politically changed Europe, and during the two years that he studied there more changes were to take place.
 * At Jena Frege was taught by Ernst Abbe and K Fischer.
 * After his two years of study at the University of Jena, Frege continued his education in 1871 entering the University of Göttingen where he studied courses in mathematics, physics, chemistry and philosophy.
 * However Rudolf Eucken was a colleague of Frege's for more than 40 years in the faculty of philosophy with whom he had close scientific contacts.
-* Before Frege had published any of his major pieces of work, his mother died in 1878.
 * Frege was one of the founders of modern symbolic logic putting forward the view that mathematics is reducible to logic.
 * In 1879 Frege published his first major work Begriffsschrift, eine der arithmetischen nachgebildete Formelsprache des reinen Denkens Ⓣ(Concept notation, an arithmetic formula modeled language of pure thought) .
 * In this work Frege presented for the first time what we would recognise today as a logical system with negation, implication, universal quantification, essentially the idea of truth tables etc., but what would not be recognisable today is the notation which Frege used.
@@ -62,8 +58,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Frege's influence in the short term came through the work of Peano, Wittgenstein, Husserl, Carnap and Russell.
 * In the longer term, however, Frege has become a major influence on the development of philosophical logic and the man who seems to have been largely ignored by his contemporaries has been avidly read by many in the second half of the twentieth century, particularly after his works were translated into English.
 * Another statement that one often reads is that Frege was so depressed after Russell's letters that he gave up research.
-* Frege had married Margarete Lieseberg but they never had any children.
-* Frege and his wife did adopt a son, Alfred, who went on to become an engineer, but after Frege's wife died in 1904 he seemed to sink more deeply into himself.
 * Frege, as we have mentioned, was a firm believer of the old style monarchy which operated in the German States before the unification.
 * Frege disliked the move to democracy, and detested it even more as the socialists gained power.
 * For example Thomae, who also taught at Jena, came in for severe personal attacks from Frege.

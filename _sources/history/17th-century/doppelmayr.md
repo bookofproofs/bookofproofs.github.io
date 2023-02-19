@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Johann Doppelmayr** was a German mathematician who wrote on astronomy, spherical trigonometry, sundials and mathematical instruments.
 
 ### Mathematical Profile (Excerpt):
-* His father, Johann Siegmund Doppelmayr, was a merchant but had deep interests in science.
-* Writing about his father later in his life, Doppelmayr explained how his hobby was carrying out experiments in physics.
 * Johann Doppelmayr entered the Aegidien Gymnasium in Nuremberg in 1689.
 * Doppelmayr was to return to this Gymnasium as a professor later in his career.
 * From Nuremberg, Doppelmayr went to the University of Altdorf in 1696 where he studied law, mathematics and natural philosophy.
@@ -33,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * First Doppelmayr went to Berlin in September 1700 from where he moved on to Franeker and Amsterdam in Holland before arriving in Utrecht.
 * Doppelmayr made good use of his time, as he did in every place he visited, learning instrument making skills in Leiden such as how to make telescopes and how to grind lenses.
 * Doppelmayr was appointed professor of mathematics at the Aegidien Gymnasium in Nuremberg in 1704 and he remained there for the rest of his life.
-* In February 1716 he married Susanna Maria Kellner who was eighteen years old at the time (Doppelmayr was 38 years old by this time).
 * Although Doppelmayr was to remain at the Aegidien Gymnasium in Nuremberg for the rest of his life, this was very much his choice since he had opportunities to move to much more prestigious positions.
 * Doppelmayr wrote on astronomy, spherical trigonometry, sundials and mathematical instruments.
 * The French mathematics text Traité de la construction et des principaux usages des instrumens de mathématiques Ⓣ(Treatise on the making and the main uses of mathematical instruments) by Nicolas Bion, published in Paris in 1709, was translated in German by Doppelmayr in 1712 as Neu-eröffnete mathematische Werck-Schule Nicolai Bion Ⓣ(New mathematical works of Nicolai Bion.).

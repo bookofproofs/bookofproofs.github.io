@@ -32,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This was particularly important since, up to the time Klügel studied it, the work had been totally neglected.
 * Other attempts which Klügel examined in his thesis were by Proclus, Nicolas de Malézieu (1650-1727), Nasir al-Din al-Tusi, Johann Andreas von Segner, Johann Gustav Karsten, Samuel König, Abraham Kästner, Giordano Vitale (1633-1711), Friedrich Gottlob Hanke (1751), Christopher Clavius, Andrea Tacquet, Pietro Cataldi, Peter Ramus (with additions from the editor Lazarus Schoner) and Christian Wolff (1679-1754).
 * Klügel remained in Göttingen until 1765 when he moved to Hanover to take up the appointment as editor of the Intelligenzblatt.
-* She was the daughter of the postmaster W A Berendes; Georg and Elisabeth Klügel had eight children.
 * The university, however, was closed in 1810, twenty years after Klügel left it, when it was incorporated into Göttingen University.
 * It was at Easter 1788 that Klügel moved to the chair of mathematics and physics at the University of Halle.
 * It was while he worked at the Universities of Helmstedt and Halle that Klügel made his most important contributions to mathematics.

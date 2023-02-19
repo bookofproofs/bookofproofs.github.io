@@ -31,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Gini introduced what he felt was a more satisfactory index in his 1909 paper Il diverso accrescimento delle classi sociali e la concentrazione della ricchezza Ⓣ(The growth of different social classes, and the concentration of wealth).
 * He produced this in Sulla misura della concentrazione e della variabilità dei caratteri Ⓣ(On the measure of concentration and character variability) (1914) which contains what are now called the Gini coefficient and Gini index.
 * At Padua, Gini established a Statistical Institute in 1920.
-* Gini married Valentina Poggioli in 1921; they had two daughters.
 * Both Gini and Mussolini were interested in demography although Gini's approach, which looked at the evolution and equilibrium of population as similar to a biological organism, did not fit with Mussolini's ideas at controlling population.
 * However, in the years following the First World War, Gini was much involved in the problems of reconstruction in Italy.
 * In 1923 Gini left Padua, when he was appointed to the University of Rome.

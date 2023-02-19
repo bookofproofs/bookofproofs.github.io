@@ -23,17 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Thomas Stieltjes** worked on almost all branches of analysis, continued fractions and number theory.
 
 ### Mathematical Profile (Excerpt):
-* Thomas Stieltjes senior had seven children and Thomas Stieltjes junior had two brothers and four sisters.
 * Stieltjes started his studies at the Polytechnical School of Delft in 1873 but spent his student years reading Gauss and Jacobi in the library rather than attending lectures.
 * It may have been enjoyable to Stieltjes to read the works of these great mathematicians rather than study the coursework but the consequence was that he failed his examinations.
-* Two further failures in 1875 and 1876 had his father in despair, but having a friend H G van de Sande-Bakhuyzen as director of Leiden Observatory, Thomas's father was able to put in a good word for his son.
-* Stieltjes became assistant at Leiden Observatory in April 1877 but his father, who had done so much to help his son, was not to live long after helping his son to obtain this position for he died in Rotterdam on 23 June 1878.
 * Perhaps the most significant event in Stieltjes' life, as far as mathematics was concerned, occurred on 8 November 1882 when he began a correspondence with Hermite which was to last the rest of his life (which would only be 12 more years during which time they exchanged 432 letters).
 * The original reason that Stieltjes wrote to Hermite concerned his work on celestial mechanics.
 * However the correspondence turned quickly to mathematics and Stieltjes began to devote all his spare time to mathematical research.
 * It is a great credit to van de Sande-Bakhuyzen, the director of Leiden Observatory, that he responded quickly to Stieltjes' request on 1 January 1883 to stop his observational work to allow him to work more on mathematical topics.
-* The year 1883 was eventful for Stieltjes for he married Elizabeth Intveld in May.
-* Although clearly an important event in Stieltjes' personal life, this was also an important event for Stieltjes as a mathematician for his wife strongly encouraged him to move from astronomical work to mathematics.
 * In September Stieltjes was asked to substitute at the University of Delft for F J van den Berg who had taken ill.
 * From September to December 1883 Stieltjes lectured on analytical geometry and on descriptive geometry.
 * This confirmed what must have been becoming increasing clear in Stieltjes' mind, that mathematics was the only p[ossible career for him.

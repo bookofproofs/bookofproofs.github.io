@@ -24,11 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Cyrus Thompson MacDuffee was born in Mcduffietown, Seneca, New York, on 11 February 1842.
-* His first wife was Kate M Schwartz, his second wife was Anna Hubbard, then he married Elisabeth Louise Sewirr, the mother of Cyrus Colton MacDuffee.
 * Cyrus Thompson MacDuffee died in Oneida, New York, on 14 July 1917.
 * MacDuffee was educated in New York and went to Colgate University to study for his first degree.
 * MacDuffee graduated from Colgate University with a B.S. degree in 1917 and then went to Chicago University to study for a Master's degree.
-* On 7 September 1921, MacDuffee married Mary Augusta Bean; they had four children, Robert Colton MacDuffee, Fredric Dearborn MacDuffee, Mary Elizabeth MacDuffee, and Helen Sewirr MacDuffee.
 * MacDuffee was appointed as an instructor at Princeton University in 1922 and taught there for three years.
 * MacDuffee left Princeton in 1925 and was appointed as an assistant professor at Ohio State University.
 * This paper contains the theorem which today is known as the Latimer-MacDuffee theorem.

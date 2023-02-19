@@ -23,15 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Robert Ball** was an Irish mathematician and astronomer.
 
 ### Mathematical Profile (Excerpt):
-* Robert (junior) was the second of his parents' seven children, his brothers and sisters being Valentine, Charles, Kate, Mary, Amelia and Annie.
-* His father died in March 1857 and Ball returned from Leamington Spa to Ireland where the family were now in some financial difficulties.
 * Shortly after this, on 13 October, Ball entered Trinity College, Dublin, to study the subjects which he had excelled in at Dr Brindley's school namely mathematics and science.
 * Ball was an outstanding student at Trinity College, Dublin, winning gold medals and prizes, and his financial position was eased when he won a scholarship in 1860.
 * In around 1864 Rosse sought a tutor for his three sons, and Ball was recommended to him for the post.
 * Ball accepted on condition that he could use of the 72-inch telescope, which Rosse was happy to agree to, and he took up the position in 1865.
-* Ball also seems to have been very successful in educating Rosse's children, which he did with lessons given in the mornings and early afternoons, for one of them Charles Parsons, who Ball tutored from age 11 to age 13, went on to become an engineer whose invention of a multi-stage steam turbine revolutionised marine propulsion.
 * After two years working for Rosse, Ball was offered the chair of applied mathematics and mechanics in the Royal College of Science in Dublin which had recently been founded.
-* In 1868 he married Frances Elizabeth Steele from Dublin, whose father was registrar of the Royal Dublin Society and had been a friend of Ball's father.
 * The main mathematical topic on which Ball did research was dynamics, in particular the theory of screws.
 * The Royal Astronomer was based at Dunsink Observatory, 8 km north of Dublin, where Ball had met Hamilton when he (Ball) was a young man.
 * Ball was appointed Royal Astronomer of Ireland and to the Andrews Chair of Astronomy of Trinity College Dublin after successfully submitting a seven-page printed application for these positions.

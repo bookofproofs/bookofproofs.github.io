@@ -23,11 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Dürer** was a German artist who is known for his work as an engraver. The foundations of descriptive geometry are laid in Dürer's treatise on human proportions published in Nuremberg after his death in 1528.
 
 ### Mathematical Profile (Excerpt):
-* The Dürer family came from Hungary, Albrecht Dürer senior being born there, and at this time the family name was Ajtos.
-* The name Ajtos means "door" in Hungarian and when Dürer senior and his brothers came to Germany they chose the name Türer which sounds like the German "Tür" meaning door.
 * The name changed to Dürer but Albrecht Dürer senior always signed himself Türer rather than Dürer.
-* Albrecht Dürer senior was a jeweller who had served his apprenticeship with Hieronymus Holfer, and then married Holfer's daughter.
-* As a young boy Dürer was educated at the Lateinschule in St Lorenz and he also worked in his father's workshop learning the trade of a goldsmith and jeweller.
 * In 1486 Dürer became an apprentice painter and woodcut designer to Michael Wolgemut, the leading producer of altarpieces.
 * After an apprenticeship of four years, Dürer had learnt all he could from Wolgemut and had reached a level of artistic quality exceeding that of his famous teacher.
 * Wolgemut advised Dürer to travel to widen his experience and meet other artists.
@@ -40,8 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Finally Dürer returned home, making visits to Colmar and Strasbourg on the way.
 * It had been a long journey of great importance to Dürer which had taken nearly four years, but after he returned to Nürnberg in 1494 he felt disappointed that he had not visited Italy.
 * Italy was not only a country with new ideas to offer Dürer in art, but it was also leading the world at this time in the revival of mathematics.
-* Before setting out for Italy, however, Dürer married Agnes Frey, the daughter of a learned man Hans Frey who had made quite a lot of money through making jewellery, musical instruments, and mechanical devices.
-* The marriage seems to have been more the idea of the parents of Agnes and Albrecht, and the pair were married on 7 July 1494.
 * It was a marriage which helped raise Dürer's status in Nürnberg, as well as provide him with money which helped him set up his own studio.
 * Before the end of 1494, Dürer was on his travels again, leaving Agnes behind in Nürnberg.
 * In Venice, Dürer, as he had done throughout his journeys, sketched scenes, visited galleries and churches, and met with the local artists.
@@ -55,7 +49,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * For the engraving Adam and Eve made in 1504, Dürer described the intricate ruler and compass constructions which he made to construct the figures.
 * It was not only the mathematical theory of proportion which influenced Dürer's art at this period, but also his mastery of perspective through his study of geometry.
 * During the ten years after 1496 Dürer went from a relatively unknown artist to someone with a wide reputation as both an artist and a mathematician.
-* His father had died in 1502 and Dürer was left to care for his invalid, and nearly blind, mother.
 * It was a difficult life and one in which Dürer's health began to suffer.
 * From 1505 to 1507 Dürer made a second visit to Italy, spending much time again in Venice.
 * It was a very different visit from his first, with Dürer now more interested in his international fame than in learning about art.

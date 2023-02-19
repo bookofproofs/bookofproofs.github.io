@@ -24,10 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * The most common way, other than Aleksandrov, is to write it as Alexandroff.
-* Pavel Sergeevich Aleksandrov's father Sergej Aleksandrovich Aleksandrov was a medical graduate from Moscow University who had decided not to follow an academic career but instead had chosen to use his skills in helping people and so he worked as a general practitioner in Yaroslavskii.
 * Later he worked in more senior positions in a hospital in Bogorodskii, which is where he was when Pavel Sergeevich was born.
-* When Pavel Sergeevich was one year old his father moved to Smolensk State hospital, where he was to earn the reputation of being a very fine surgeon, and the family lived from this time in Smolensk.
-* Pavel Sergeevich's early education was from his mother, Tsezariya Akimovna Aleksandrova, who applied all her considerable talents to bringing up and educating her children.
 * It was from her that Aleksandrov learnt French and also German.
 * In 1913 Aleksandrov graduated from the grammar school being dux of the school and winning the gold medal.
 * Eiges was the role model whom he was aspiring to match at this stage, for Eiges had done more than teach Aleksandrov mathematics, he had also influenced his tastes in literature and the arts.
@@ -64,6 +61,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Here is the house owned since 1935 by Aleksandrov and Kolmogorov.
 * In 1938-1939 a number of leading mathematicians from the Moscow University, among them Aleksandrov, joined the Steklov Mathematical Institute of the USSR Academy of Sciences but at the same time they kept their positions at the University.
 * Aleksandrov wrote about 300 scientific works in his long career.
+* in swimming across the Volga or other broad stretches of water, in skiing excursions lasting for hours on the slopes outside Moscow, slopes to which Aleksandrov gave striking, fantastic names...
 * Many honours were given to Aleksandrov for his outstanding contribution to mathematics.
 * Many other societies elected Aleksandrov to membership including the Göttingen Academy of Sciences, the Austrian Academy of Sciences, the Leopoldina Academy in Halle, the Polish Academy of Sciences, the National Academy of Sciences of the United States, the London Mathematical Society, the American Philosophical Society, and the Dutch Mathematical Society.
 * After Aleksandrov's death in November 1982, his colleagues from the Department of Higher Geometry and Topology, in which he had held the chair, sent a letter to Moscow University's rector A A Logunov proposing that one of Aleksandrov's former students should become Head of the Department, to preserve Aleksandrov's scientific school.

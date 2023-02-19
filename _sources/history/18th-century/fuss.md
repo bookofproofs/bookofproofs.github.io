@@ -28,7 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Fuss's book was not a best seller and never ran to a second edition.
 * Fuss's first papers were written under Euler's direction and dealt with problems in insurance.
 * In 1776, in addition to his other duties, Fuss became an assistant at the St Petersburg Academy and, in 1783, academician in higher mathematics.
-* He gave a mathematics lesson to one of his grandchildren, did some calculations with chalk on two boards on the motion of balloons; then discussed with Lexell and Fuss the recently discovered planet Uranus.
 * From 1790 Fuss was professor of mathematics at the Marine Corps in Petersburg, then from 1800 to 1826 he was permanent secretary to the Academy of Sciences in Petersburg.
 * It was in this role that Fuss wrote to Gauss offering him a post at the Academy.
 * Most of Fuss's papers are solutions to problems posed by Euler on spherical geometry, trigonometry, series, differential geometry and differential equations.

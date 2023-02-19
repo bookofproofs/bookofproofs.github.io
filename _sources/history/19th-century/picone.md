@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Mauro Picone** was an Italian mathematician who worked on ordinary and partial differential equations.
 
 ### Mathematical Profile (Excerpt):
-* There were three children in the family, Mauro having two sisters.
-* Mauro began his elementary schooling in Arezzo and, since he showed great artistic skills and a great love of the paintings of Piero della Francesca in the Basilica of San Francesco, his father sent him to a studio to study drawing.
 * One might have expected that Picone would excel at school, but this seems not to have been the case.
-* Before he completed his studies, however, his father moved to the Technical Institute in Parma and Picone moved there to obtain his final school certificate.
 * Picone's quiet, hardworking, life in Turin was disrupted with the outbreak of World War I.
 * One year later, in April 1916, Picone was called up and assigned to the 6th  Artillery Regiment where he was given the rank of second lieutenant.
 * On learning that Picone was a mathematician, his commander, Colonel Federico Baistrocchi, set him the task of computing new gunnery tables for the artillery.

@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Étienne Bézout** was a French mathematician who is best known for his theorem on the number of solutions of polynomial equations.
 
 ### Mathematical Profile (Excerpt):
-* One might have expected Étienne to follow the same career, for his grandfather had also been a magistrate in Nemours.
-* Étienne's mother was Hélène-Jeanne Filz.
-* As we have already indicated the family tradition almost demanded that Étienne follow in his father and grandfather's footsteps.
 * However the remarkable mathematics of Leonard Euler proved stronger than his parents wishes, for once Bézout had read Euler's works he wished to devote himself to mathematics.
 * In 1758 Bézout was appointed an adjoint in mechanics of the Académie des Sciences and, in the same year, as royal censor.
 * Bézout is famed for the texbooks which came out of this assignment.

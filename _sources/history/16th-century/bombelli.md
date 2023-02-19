@@ -23,12 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Rafael Bombelli** was an Italian mathematician who wrote an influential algebra text and made free use of both negative numbers and complex numbers.
 
 ### Mathematical Profile (Excerpt):
-* The Mazzoli family suffered for many years by having their property confiscated, but the property was returned to Antonio Mazzoli, Rafael Bombelli's father.
-* Rafael Bombelli was their eldest son, and he was one of a family of six children.
 * Rafael received no university education.
 * He was taught by an engineer- architect Pier Francesco Clementi so it is perhaps not too surprising that Bombelli himself should turn to that occupation.
 * Bombelli found himself a patron in Alessandro Rufini who was a Roman noble, later to become the Bishop of Melfi.
-* It is unclear exactly how Bombelli learnt of the leading mathematical works of the day, but of course he lived in the right part of Italy to be involved in the major events surrounding the solution of cubic and quartic equations.
 * Scipione del Ferro, the first to solve the cubic equation was the professor at Bologna, Bombelli's home town, but del Ferro died the year that Bombelli was born.
 * The contest between Fior and Tartaglia (see Tartaglia's biography) took place in 1535 when Bombelli was nine years old, and Cardan's major work on the topic Ars Magna Ⓣ(The great art) was published in 1545.
 * Clearly Bombelli had studied Cardan's work and he also followed closely the very public arguments between Cardan, Ferrari and Tartaglia which culminated in the contest between Ferrari and Tartaglia in Milan in 1548 (see Ferrari's biography for details).
@@ -60,6 +57,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Finally we should make some comments on Bombelli's notation.
 * Bombelli, however, used quite sophisticated notation.
 * Here are some examples of Bombelli's notation.
+* Bombelli is the first to give a treatment of any complex numbers...
 * It seems to be quite fair to describe Bombelli as the inventor of complex numbers.
 * imaginaries had been used long before Bombelli's book, and it is therefore not quite justified to call him the "first discoverer" of complex numbers.
 

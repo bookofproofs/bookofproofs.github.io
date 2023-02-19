@@ -34,6 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Haack did not spend long in Berlin for in 1937 he was appointed to a lectureship in Mathematics and Geometry at the Technische Hochschule of Karlsruhe.
 * Up to this time Haack had produced many excellent papers on geometry, in particular on differential geometry.
 * As soon as war had broken out Haack phoned the head of research at Göring's aviation ministry offering his services.
+* There was a pure mathematician (Haack) who made use of his special expertise (differential geometry) ...
 * With undisguised pride Haack reported on the "success" of his theory of projectiles which allowed for a considerable extension of reach of German anti-aircraft artillery.
 * Reader must think about this point, and form their own opinion, not just as it relates to Haack, but also to hundreds of mathematicians whose advances have been used for destructive purposes.
 * Returning to Haack's career, we note that in 1944, the Technische Hochschule of Berlin tried to persuade him to accept a chair but his war work prevented a move at this time.

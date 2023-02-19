@@ -23,10 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jean Beaugrand** was a French mathematician who published works on Geostatics as well as mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Very little is known about the life of Jean Beaugrand, the subject of this biography, and what we do know has been pieced together from references to him in the correspondence of Descartes, Fermat and Mersenne.
 * It is said that he was a pupil of Viète but since Viète died in 1603 this must have been at a very early stage in Beaugrand's education.
 * Beaugrand was certainly part of this network from a very early stage which, after 1619, became centred around Mersenne and he frequently attended meetings in Mersenne's cell in Paris.
-* Étienne d'Espagnet was the son of Jean d'Espagnet, the president of the Bordeaux parliament, and was a friend of Viète.
 * Beaugrand, as a pupil of Viète, would have known of d'Espagnet and the Bordeaux group, and afterwards he became friends with d'Espagnet.
 * Fermat probably met Beaugrand for the first time in Orléans in August 1626.
 * Beaugrand corresponded frequently with Fermat after he was in Bordeaux and it is through this correspondence that Fermat's work became known in Paris.

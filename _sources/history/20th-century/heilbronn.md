@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hans Heilbronn** was a German mathematician who worked in algebraic number theory.
 
 ### Mathematical Profile (Excerpt):
-* Hans was born into a middle class Jewish-German family.
 * As was the custom of German students at this time, Heilbronn moved from one university to another as he progressed through his studies.
 * There Heilbronn began to undertake research in number theory, his studies being directed by Edmund Landau.
 * By all accounts Heilbronn seems to have participated in the typical student life of that time.
@@ -34,6 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This thesis earned Heilbronn his doctorate in 1933 and by the end of that year he had six publications, some of them joint publications with Landau.
 * Heilbronn seems, however, to have managed very well.
 * On the other hand, those years with Landau were formative ones for Heilbronn.
+* In the shorter term, Landau also clearly exerted an influence on Heilbronn's mathematical style ...
 * It was not only Landau who formed a high opinion of Heilbronn.
 * This was a piece of luck for Heilbronn who realised that he was in an increasingly difficult position in Germany.
 * Heilbronn was dismissed from his position as an Assistant at Göttingen and fled to England, arriving in Cambridge with enough money to support him for around six months.
@@ -57,8 +57,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * many other members of the department, notably the number theoreticians, were stimulated by Heilbronn and helped by his active interest in their research.
 * The situation in British universities began to worry Heilbronn.
 * The required rapid expansion greatly worried Heilbronn who felt that it was inevitable that such a rapid expansion would bring staff into universities who were below standard.
-* Not long before resigning, Heilbronn married Dorothy Greaves who was a widow whom he had known through a shared interest in bridge since his days in Cambridge.
-* After a short stay at the California Institute of Technology at Pasadena as guests of Olga Taussky-Todd, Heilbronn and his wife moved to Toronto where he was appointed to a chair of mathematics at Toronto University.
 * Heilbronn became a Canadian citizen in 1970 and spent the rest of his life in Canada, taking an active part national role in mathematics there.
 * However, Heilbronn was not able to put as much effort into organising the 1974 Congress as he would have liked since he suffered a heart attack in November 1973.
 * Finally we should mention that Heilbronn was president of the London Mathematical Society from 1959 to 1961, and a member of the council of the Royal Society of Canada from 1971 to 1973.

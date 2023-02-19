@@ -23,15 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Leo Königsberger** was a German mathematician who worked on elliptic functions and differential equations. He is known for his biographies of Helmholtz and Jacobi.
 
 ### Mathematical Profile (Excerpt):
-* Jakob had intended to study medicine but on the death of his own father, Leo's paternal grandfather, he had to take over a major manufacturing business to support his mother and siblings.
-* Leo's mother Henriette Kantorowicz (1810-1895) had poor health but devoted herself to the education of her children.
-* Leo was the oldest of his parents twelve children, four of whom died at a young age.
-* It was in the family's beautiful and spacious house in the market square of Poznań that Leo grew up.
 * After attending primary school where he learnt to read, write, and do arithmetic, Leo entered the Friedrich-Wilhelms Gymnasium in Poznań.
 * Fighting between the German Gymnasium students, to which Königsberger belonged, and those of the Polish Mary's Gymnasium were almost daily events.
-* The Revolution of March 1848 saw Königsberger's father take him away from the school as troops entered the middle of the town.
-* A bombardment of the town from the fortress began and Jakob Königsberger decided to take his family away to live with an uncle until the situation had improved.
-* The frightened women and children sat in the living room of the Königsberger home while the men, armed with revolvers and axes, guarded the door to the house.
 * Lazarus Fuchs arrived in Poznań at Easter 1853 and lived for a year in the Königsberger home.
 * Leo learnt a great deal from Fuchs, who acted as a tutor to him during this year, so that by the time Fuchs left at Easter 1854 to begin his studies at the University of Berlin, Königsberger's education was transformed.
 * Fuchs had also given Königsberger a love for mathematics, so from this time on he knew that it was the subject he wanted to study.

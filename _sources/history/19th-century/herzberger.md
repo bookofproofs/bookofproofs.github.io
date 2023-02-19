@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Maximilian Herzberger** was a German-American mathematician and physicist who made impoertant contributions to optics.
 
 ### Mathematical Profile (Excerpt):
-* His father was the merchant Leopold Herzberger (born 1870) and his mother was Sonja Behrendt (1876-1945).
 * There seems some confusion as to his date of birth (some give 17 March) but the date we give is the date which Herzberger himself gives in his doctoral thesis.
 * However, Herzberger expressed heartfelt thanks to Professor Pahl, his mathematics teacher.
 * Despite being excused lessons, Herzberger took the final examinations at the end of each year and his performance was outstanding.
@@ -31,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In addition to those just mentioned, Herzberger states in his thesis that he had been taught by Belovsky, Blasius, E Fischer, Gabriel, Grau, Henning, Fr Koehler, Liebisch, and H Maier.
 * When Herzberger graduated in 1923 the situation in Germany was extremely difficult with daily living dominated by hyperinflation.
 * Herzberger had to decide which industry would suit him best with his outstanding mathematical skills, yet with a lack of laboratory experience and a dislike of the chemistry practical work that he had experienced at university.
-* Obtaining these positions allowed Herzberger to marry Edith Kaufmann in 1925; they had three children, all born in Jena, Ruth (born 1928), Ursula (born 1931) and Hans (born 1932).
 * His attempt to habilitate at the University of Jena in 1930 was rejected by the Thuringian Ministry, despite strong support from the Jena faculty, almost certainly because Herzberger was Jewish.
 * However, worse was to follow for Herzberger.
 * In fact Herzberger was the only mathematician dismissed from the University of Jena under the 1933 Civil Service Law.

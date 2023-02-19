@@ -27,9 +27,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The society which he led, half religious and half scientific, followed a code of secrecy which certainly means that today Pythagoras is a mysterious figure.
 * We do have details of Pythagoras's life from early biographies which use important original sources yet are written by authors who attribute divine powers to him, and whose aim was to present him as a god-like figure.
 * What we present below is an attempt to collect together the most reliable sources to reconstruct an account of Pythagoras's life.
-* As a child Pythagoras spent his early years in Samos but travelled widely with his father.
 * There are accounts of Mnesarchus returning to Tyre with Pythagoras and that he was taught there by the Chaldaeans and the learned men of Syria.
-* Little is known of Pythagoras's childhood.
 * All accounts of his physical appearance are likely to be fictitious except the description of a striking birthmark which Pythagoras had on his thigh.
 * There were, among his teachers, three philosophers who were to influence Pythagoras while he was a young man.
 * One of the most important was Pherekydes who many describe as the teacher of Pythagoras.
@@ -72,7 +70,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It is thought that Pythagoras himself knew how to construct the first three but it is unlikely that he would have known how to construct the other two.
 * (vi) In astronomy Pythagoras taught that the Earth was a sphere at the centre of the Universe.
 * Primarily, however, Pythagoras was a philosopher.
-* Pythagoras's Society at Croton was not unaffected by political events despite his desire to stay out of politics.
 * Pythagoras went to Delos in 513 BC to nurse his old teacher Pherekydes who was dying.
 * In 510 BC Croton attacked and defeated its neighbour Sybaris and there is certainly some suggestions that Pythagoras became involved in the dispute.
 * Pythagoras escaped to Metapontium and the most authors say he died there, some claiming that he committed suicide because of the attack on his Society.
@@ -80,7 +77,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * When this happened Cylon and his friends vowed to make a strong attack on Pythagoras and his followers.
 * Because of this Pythagoras left for Metapontium and there is said to have ended his days.
 * This seems accepted by most but Iamblichus himself does not accept this version and argues that the attack by Cylon was a minor affair and that Pythagoras returned to Croton.
-* The evidence is unclear as to when and where the death of Pythagoras occurred.
 
 Born about 570BC, Samos, Ionia. Died about 490 BC.
 

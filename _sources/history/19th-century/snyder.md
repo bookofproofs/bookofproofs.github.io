@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Virgil Snyder** was an American mathematician, specializing in algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-* The Snyder family were originally from Germany having, at that time, the name Schneider.
-* His descendant Ephraim Snyder was a farmer in Iowa while his wife Eliza Jane, from New England but of English-French descent, had been a school teacher.
 * Virgil attended Iowa State College from 1886 to 1889 being awarded his Sc.B. in 1889.
 * The Club encouraged many students to go to Germany to study for their doctorates and Snyder went to Germany in 1892 having been awarded an Erastus W Brooks fellowship.
 * Snyder studied for his doctorate at Göttingen, attending lectures by Klein and participating in his seminar.
 * Snyder's doctoral dissertation (Göttingen, 1895) was concerned with linear complexes of spheres.
-* Snyder married Margarete Glesinger on 28 December 1894; they had two sons Herbert and Norman.
 * After retiring from Cornell, Snyder was a Visiting Professor at Brown University in 1942-43 and then a Visiting Professor at Rollins College, Winter Park, Florida in 1943-44.
 * Together with Henry White, in fact, Snyder emerged as a principal heir to Klein's geometric legacy.
 * Another significant contribution by Snyder was his textbooks.

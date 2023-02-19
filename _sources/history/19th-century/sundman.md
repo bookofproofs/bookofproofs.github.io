@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Karl Sundman** was a Finnish mathematician who used analytic methods to find a solution to the three-body problem.
 
 ### Mathematical Profile (Excerpt):
-* His father John Frithiof Sundman was a customs officer.
 * Karl's health was poor as he was growing up and he certainly did not have a very easy time studying on his own without a teacher so that he could take the baccalaureate examinations, which he did on 18 May 1893.
 * After qualifying to enter university, Sundman went to Helsinki (Helsingfors) where he began his studies in the autumn of 1883.
 * The University was an ancient one, founded in 1640, and there Sundman excelled academically although he had to battle against financial difficulties.

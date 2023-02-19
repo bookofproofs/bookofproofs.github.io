@@ -24,14 +24,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Giovanni Rota was a prominent anti-fascist and his name appears on a death list constructed by Mussolini.
-* Gian-Carlo was born into a talented family in Vigevano, many members of his family had achieved fame in their areas of expertise, for example one of Gian-Carlo's uncles, Flaiano, wrote scripts for Federico Fellini's films, including La Dolce Vita.
 * Gian-Carlo was educated in Italy up to the age of thirteen in 1945.
-* Giovanni Rota took his family to northern Italy where they hide for a time before crossing the border into Switzerland.
-* The family eventually escaped to Ecuador where Gian-Carlo completed his secondary school education.
 * The positive side to this remarkable escape story was that Rota was fluent in English, Italian, Spanish and French.
 * Rota entered the United States in 1950 at the age of eighteen to undertake his university studies.
 * After graduating, Rota entered Yale University where he studied for his Master's Degree in Mathematics which was awarded in 1954.
-* In this same year that he was awarded his doctorate, Rota married Teresa Rondón and he received a Postdoctoral Research Fellowship to undertake research at the Courant Institute at New York University.
 * After spending the year 1956-57 in New York, Rota was appointed as Benjamin Peirce Instructor at Harvard University.
 * With the exception of two years, 1965 to 1967, when he was at the Rockefeller University, Rota remained at MIT for the rest of his career.
 * Rota was given the title Professor of Applied Mathematics at MIT but in 1972 his title was changed to Professor of Applied Mathematics and Philosophy.

@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Emil Post** was a Polish-born American mathematician and logician who is best known for his work on polyadic groups, recursively enumerable sets, and degrees of unsolvability, as well as for his contribution to the unsolvability of problems in combinatorial mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Arnold and Pearl were Polish Jews and their son Emil was born in Russian controlled Poland and spent the first seven years of his life there.
-* Emil was an extraordinarily bright child but his life was one of great tragedy.
 * After graduating from the High School Post remained on the same campus as he continued his studies at the City College.
 * We now think of Post as a mathematical logician but the first subject which attracted him was astronomy.
 * Although written while he was an undergraduate, Post did not submit the paper to the American Mathematical Society until 1923 and it was not finally published until 1930.
@@ -41,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It would be fair to say that Post's thesis marks the beginning of proof theory.
 * After receiving his doctorate, Post went to Princeton University for a year as Proctor Fellow.
 * In 1924 Post went to Cornell but again became ill.
-* Post chose to work at home, but with a young child this put a strain on the family.
 * Post's early death at the age of 57 was almost certainly a direct consequence of the treatment he received for his mental illness.
 * Post received the electric shock treatment on a number of occasions and it was while he was in a mental institution, shortly after receiving electric shocks, that he suffered a heart attack and died.
 * Post is best known for his work on polyadic groups, recursively enumerable sets, and degrees of unsolvability, as well as for his contribution to the unsolvability of problems in combinatorial mathematics.

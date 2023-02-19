@@ -23,14 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Lloyd Williams** was an American mathematician most important for his role in founding the Canadian Mathematical Society.
 
 ### Mathematical Profile (Excerpt):
-* Nathan and Amanda married in 1887 and Lloyd was born in the following year.
-* However, Lloyd was the only child of his marriage to Amanda.
 * We should comment at this point on Lloyd's full name.
 * He was named after William Lloyd Garrison who helped lead the successful Abolitionist campaign against slavery in the United States.
-* After the death of his mother, the Tomlinsons, who were the parents of Nathan Williams' first wife, took Lloyd to their farm in Indiana where the brought him up.
 * The tutorial system at Oxford suited Williams.
 * Williams undertook research in mathematics at the University of Chicago attending each summer.
-* Anne and Lloyd later married.
 * At Chicago, Williams thesis supervisor was L E Dickson and he suggested the topic for his student.
 * However it appears that he gave little further advice until he suggested in 1920 that Williams should submit.
 * There are two things for which Williams is particularly remembered.

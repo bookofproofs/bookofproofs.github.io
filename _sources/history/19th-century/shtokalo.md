@@ -23,11 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Josif Shtokalo** was a Ukrainian mathematician who worked in the areas of differential equations, operational calculus and the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* However, his family could not afford to support their son financially through this long educational process and Shtokalo had to earn money by teaching his fellow students.
-* Many families, including Shtokalo's family, fled from the fighting which was taking place around them in 1914 and escaped towards the east of Ukraine.
-* Shtokalo himself had been drafted into the Russian army but in the spring of 1915, together with thousands of other Ukrainians, he deserted and joined his family which had settled in Katerinoslav (which is now called Dnipropetrovsk).
 * There Shtokalo completed his secondary education at the Katerinoslav Classical Gymnasium.
-* Shtokalo married and his daughter Miroslava Iosifovna Shtokalo was born in Dneprodzerzhinsk on 24 August 1926; she became a professor of chemistry publishing over 250 papers and two monographs.
 * Shtokalo studied at Dnipropetrovsk University in south-central Ukraine, beginning his studies there in 1927.
 * Shtokalo had been given the task of evacuating the Ukrainian Academy of Sciences from Kharkov to the Urals so by the time Kharkov fell to the Germans, Shtokalo and the Academy had moved far towards the east.
 * Shtokalo had moved to Ufa, the capital of the Bashkortostan republic in western Russia, where the Ukrainian Academy of Sciences had been relocated.

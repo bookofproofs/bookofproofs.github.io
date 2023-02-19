@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Johann Castillon was named Giovanni Francesco Melchiore Salvemini and was known by that name until he was over thirty years of age.
 * As a young man Castillon was irreligious.
-* His mother had admonished him not to dishonour the family name, so he took the name 'Castiglione' (in Italian; 'Castilloneus' in Latin and 'Castillon' in French) after 'Castiglion Fiorentino', the location of the family home.
 * Castillon taught at Vevey, a town on the north shore of Lake Geneva, where he became the director of the humanistic school.
 * Up to this time Castillon had been an atheist, but in 1744 he became a Calvinist.
 * Also in 1745 he published the correspondence between Johann Bernoulli and Gottfried Leibniz; then in 1748 he published the Introductio in analysin infinitorum auctore Leonhardo Eulero, the treatise by Euler which he had edited.
@@ -34,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He obtained a doctorate from Utrecht in 1754, being advised by Johannes Horthemels, and Castillon became an ordinary professor of mathematics and philosophy there in 1755.
 * Three years later Castillon became rector of the University.
 * During these years Castillon had received a number of distinctions being made a Fellow of the Royal Society of London and a member of the Göttingen Academy of Sciences, both in 1753.
-* In 1757 Castillon's wife Elisabeth died; he married to Madeleine Ravène two years later.
 * Castillon replied to Rousseau in Réponse Ⓣ(Response), giving his own defence of progress and modern civility.
 * Published in Amsterdam in 1756, Castillon's work was addressed to Maupertuis, as President of the Berlin Academy of Science.
 * Castillon opposed the views of Rousseau and his supporters, favouring the ideas of thinkers of the English Enlightenment.

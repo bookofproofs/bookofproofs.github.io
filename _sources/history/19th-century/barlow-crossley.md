@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Crossley Barlow** was a mathematical tutor at the University Correspondence College in London who co-authored various publications about mathematical astronomy and geometry together with George Hartley Bryan.
 
 ### Mathematical Profile (Excerpt):
-* Crossley William Crosby Barlow was born on 24 March 1863 in Stratford on Avon, Warwickshire, the son of the Swedenborgian minister William Crosby.
 * For the purpose of explaining the traditional terminology and fundamental notions of the science for the benefit of elementary students Barlow and Bryan's work is admirably adapted.
 * For half a century "Barlow and Bryan" has remained one of the standard textbooks on elementary mathematical astronomy.
 * "Barlow and Bryan" is in essentials the same book as it was on its first appearance over half a century ago: an excellent introduction to the general mathematical and dynamical structure of astronomy.

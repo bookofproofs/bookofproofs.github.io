@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Abraham De Moivre** was a French-born mathematician who pioneered the development of analytic geometry and the theory of probability.
 
 ### Mathematical Profile (Excerpt):
-* The family was certainly not well off financially, but a steady income meant that they could not be described as poor.
 * De Moivre's parents were Protestants but he first attended the Catholic school of the Christian Brothers in Vitry which was a tolerant school, particularly so given the religious tensions in France at this time.
 * When he was eleven years old his parents sent him to the Protestant Academy at Sedan where he spent four years studying Greek under Du Rondel.
 * The Edict of Nantes had guaranteed freedom of worship in France since 1598 but, although it made any extension of Protestant worship in France legally possible, it was much resented by the Roman Catholic clergy and by the local French parliaments.
@@ -49,6 +48,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The definition of statistical independence appears in this book together with many problems with dice and other games.
 * In fact The Doctrine of Chance appeared in new expanded editions in 1718, 1738 and 1756.
 * The 1756 edition of The Doctrine of Chance contained what is probably de Moivre's most significant contribution to this area, namely the approximation to the binomial distribution by the normal distribution in the case of a large number of trials.
+* He even appears to have perceived, although he did not name, the parameter now called the standard deviation ...
 * De Moivre also investigated mortality statistics and the foundation of the theory of annuities.
 * It is almost certain that de Moivre's friendship with Halley led to his interest in annuities and he published Annuities on lives in 1724.
 * derivation of formulas for annuities based on a postulated law of mortality and constant rates of interest on money.

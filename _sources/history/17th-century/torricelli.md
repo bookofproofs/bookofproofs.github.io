@@ -23,13 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Evangelista Torricelli** was an Italian scientist who was the first man to create a sustained vacuum and to discover the principle of a barometer. He also achieved some important results in the development of the calculus.
 
 ### Mathematical Profile (Excerpt):
-* Evangelista was the eldest of his parents three children, having two younger brothers at least one of whom went on to work with cloth.
 * Brother Jacopo saw that Evangelista was given a sound education until he was old enough to enter a Jesuit school.
 * Torricelli entered a Jesuit College in 1624 and studied mathematics and philosophy there until 1626.
-* Certain facts are clear, namely that Torricelli's father died in or before 1626 and that his mother moved to Rome for she was certainly living there in 1641 at the time of her death.
-* Torricelli's two brothers also moved to Rome and again we know for certain that they were living there in 1647.
 * The most likely events seem to be that after Gaspare Torricelli died, Caterina and her two younger sons moved to Rome to be with Evangelista who was either already living there or about to move to that city.
-* At the Jesuit College Torricelli showed that he had outstanding talents and his uncle, Brother Jacopo, arranged for him to study with Benedetto Castelli.
 * There is no evidence that Torricelli was actually enrolled at the university, and it is almost certain that he was simply being taught by Castelli as a private arrangement.
 * As well as being taught mathematics, mechanics, hydraulics, and astronomy by Castelli, Torricelli became his secretary and held this post from 1626 to 1632.
 * There does still exist a letter which Torricelli wrote to Galileo on 11 September 1632 and it gives us some very useful information about Torricelli's scientific progress.
@@ -45,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In April 1641 Castelli travelled from Rome to Venice and, on the way, stopped in Arcetri to give Galileo a copy of Torricelli's manuscript and suggest that he employed him as an assistant.
 * Torricelli remained in Rome while Castelli was on his travels and gave his lectures in his place.
 * Although Galileo was keen to have Torricelli's assistance there was a delay before this could happen.
-* On the one hand Castelli did not return to Rome for some time, while the death of Torricelli's mother further delayed his departure.
 * On 10 October 1641 Torricelli arrived at Galileo's house in Arcetri.
 * In looking at Torricelli's achievements we should first put his mathematical work into context.
 * Torricelli studied the methods being proposed by Cavalieri and at first was suspicious of them.
@@ -62,6 +57,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Also in De motu gravium Torricelli studied projectile motion.
 * The two corresponded on the topic with Torricelli saying that his theory was in fact based on ignoring certain effects which would make the experimental data slightly different.
 * Torricelli not only had great skills in theoretical work but he also had great skill as a maker of instruments.
+* one of Torricelli's telescope lenses ...
 * Much of Torricelli's mathematical and scientific work has not survived, mainly because he published only the one work we referred to above.
 * We referred above to the argument between Torricelli and Roberval concerning the cycloid, and in 1646 Torricelli began gathering together the correspondence which had passed between the two on the topic.
 * It is clear that Torricelli was an honest man who felt that he needed to publish the material to present the truth to the world.

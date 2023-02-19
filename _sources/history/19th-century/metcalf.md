@@ -23,15 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ida Martha Metcalf** was the second woman to be awarded a Ph.D. in mathematics in America. She was never able to gain a position in keeping with her abilities and qualifications. She was open in her criticisms of the education system and of discrimination.
 
 ### Mathematical Profile (Excerpt):
-* Charles Metcalf was born in Ashburnham, Massachusetts on 16 February 1823 and by 1850 he was married and working in Louisiana as a bookkeeper.
-* They had three children, Helen E Metcalf, born in 1850 in Louisiana, Ida Metcalf, the subject of this biography, born in Texas in 1856, and Edward C Metcalf, born in New Orleans, Louisiana in about 1861.
-* Charles died before 1870 and soon after Ida, her brother and her mother travelled to the Boston area by boat.
-* The 1870 census records Martha Metcalf living in Needham, Norfolk, Massachusetts with her father Silas Williams, her sisters Marilla Williams and Mary F Williams, and her daughter Ida and son Edward.
 * In 1874 Metcalf was teaching in Peterborough, New Hampshire.
 * Teacher, Miss Ida M Metcalf: This teacher came from Massachusetts well recommended, and really endeavoured to do her work well and faithfully, but some disturbing elements in the school and out of it, prevented as great success as could have been desired.
 * Ida Metcalf attended Framingham Normal School in Framingham, Massachusetts.
 * Ida M Metcalf, Newton.
-* The 1880 census records Martha Metcalf, her two sisters and her son Edward still living in Needham, Norfolk, Massachusetts.
 * Ida, however, was a student living in Framingham, Massachusetts.
 * In 1883 Metcalf entered Boston University as a special student.
 * At Cornell University's Twenty-First Annual Commencement in the Gymnasium Hall on Thursday 20 June 1889, Metcalf was awarded a Master of Science Degree.
@@ -54,6 +49,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Despite criticism of her advertisement, Metcalf was able to adopt an 8 year old girl, namely Theresa Maria Kalab.
 * Hodelein, Austria; adopted by Dr Ida M Metcalf at age of 8; student Columbia University and Grand Central School of Art and Art League.
 * Metcalf had ever reason to feel highly aggrieved at her treatment as a woman for she was certainly denied the opportunities that would have been open to a man with her qualifications and talent.
+* lda M Metcalf wrote a letter to the editor asking whether, in the combative "charming ...
 * In 1914, when Metcalf wrote, the most famous American prize-fighter was the exiled but still undefeated Jack Johnson, and white men remained uncomfortably aware that prize-fighting was an unstable way to assert white male dominance.
 * does retire from city-service said Ida M Metcalf to take effect January 1, 1922, and hereby awards to her an annual retirement allowance of seven hundred and fifty-one dollars and fifty-five cents, being in part a pension of seven hundred twenty-three dollars and fifty-five cents, based on her years of service and her average annual earnable compensation during her last ten years of city-service.
 * By the time of the 1930 census, Metcalf is recorded as living at 13 Narragansett Avenue, Jamestown, Newport, Rhode Island.

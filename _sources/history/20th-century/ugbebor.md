@@ -24,9 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * For the sake of simplicity we will refer to her as Ugbebor throughout this biography.
-* Three children of the firm competed for this first scholarship, two boys and Ugbebor.
 * Ugbebor had top marks in French and her French teacher wanted her to take A level French but, since Ugbebor was equally good at science, the government policy determined that she take A levels in science subjects.
-* In the same year of 1972 she married the engineer Curtis Ugbebor.
 * In the above quote Ugbebor is describing the time she attended the University of London Institute of Education Course for Lecturers, held from 15-19 September 1975 and was awarded the Certificate of the University Teaching Methods Unit in 1976.
 * Ugbebor has published papers and books on a wide variety of topics.
 

@@ -26,8 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Garrett was educated at home until he was eight years old when he began to attend school.
 * Again, as at his primary school, Garrett progressed very rapidly and despite going to Europe with his parents during his third year of study he was still ready to take the examinations a year early.
 * His parents had encouraged him to do this because they were going on a major year long tour and so, after passing the examinations, Garrett attended a boarding school at Lake Placid for a year, spending much time on sport, before he entered Harvard University in 1928.
-* Before he entered Harvard, Birkhoff's father pressed him to decide on what profession he would eventually follow.
-* Garrett's father, G D Birkhoff, advised him to study mathematical physics and Garrett took undergraduate courses with this aim in mind.
 * With lecturers such as Morse and Whitney, Birkhoff certainly had inspiring teachers at Harvard.
 * Birkhoff graduated from Harvard in 1932 and was awarded a Henry Fellowship to study at Cambridge University in England.
 * Birkhoff published a joint paper will Hall, On the order of groups of automorphisms which appeared in 1936.

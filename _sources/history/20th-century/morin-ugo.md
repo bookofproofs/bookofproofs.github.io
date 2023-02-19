@@ -27,13 +27,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * When Ugo was born in Trieste in 1901, that city too was part of the Austrian Empire but again there was a large number of Italian speaking people.
 * Ugo spent his early years in Trieste but the situation there was difficult with very active groups trying to force that city to become part of Italy.
 * Ugo's parents decided to move to a part of Austria that was more peaceful and there he attended school.
-* This movement had been active in Trieste while Morin lived there as a child.
 * Morin was one of the Italian nationalists who had joined D'Annunzio and then fought under him.
 * Morin undertook university studies in Fiume while the city was occupied by D'Annunzio's troops, studying science there.
 * There were two main interests in Morin's life, the sea and mathematics.
-* His interest in the sea came through his father and at this stage in his life Morin left Fiume and returned to Trieste where he studied at the Nautical Institute.
 * Morin received his laurea in 1926 from the University of Padua and he was then appointed as Comessatti's assistant.
-* Morin married on 18 June 1927 remaining as an assistant at Padua until 1935.
 * Morin was influenced by these men and also by several other leading anti-Fascists in the University of Padua who were in other departments, particularly Egidio Meneghetti (1892-1961), professor of pharmacology at Padua and a leading figure of the Giustizia e Libertà movement and Norberto Bobbio (1909-2004), who started teaching at the University of Padua in philosophy of law in 1942 and who, in that year, joined the Partito d'Azione, a socialist anti-Fascist party.
 * Morin competed for the Chair of Analytic Geometry at the University of Florence in which he was successful, taking up the appointment in December 1942.
 * When Morin moved from Padua to Florence in 1942 he certainly did not give up his association with Padua for he frequently travelled between the two cities.
@@ -51,7 +48,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Let us return to Morin's activities following the end of World War II.
 * Morin went back to his home town of Trieste to help his colleagues there re-establish the Faculty of Science.
 * Morin also edited some textbooks for teaching geometry in secondary schools during the 1950s and in the 1960s worked on texts for teachers of mathematics in secondary schools prepared for the Ministry of Education.
-* Morin did not give up his political ambitions at the end of the war but continued to involve himself in left wing politics.
 * Many honours have been given to Morin, both in his lifetime and following his death.
 * A high school in Mestre and a research centre "Ugo Morin" in Paderno del Grappa, Treviso, have been named after him.
 

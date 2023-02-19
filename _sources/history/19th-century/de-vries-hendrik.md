@@ -24,18 +24,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Before we give his biography we should say a little about two other mathematicians named de Vries who were both roughly the same age as Hendrik and were his colleagues.
-* These were Gustav de Vries (1866-1934) and his older brother Jan de Vries (1858-1928).
 * Gustav de Vries is the de Vries of the Korteweg-de Vries equation and has a biography in this archive.
 * Just to make it harder to distinguish Gustav and Hendrik, they both had Diederik Korteweg as their thesis advisor.
-* Jan de Vries, Gustav's elder brother, studied mathematics and was awarded his doctorate in 1881 by the University of Amsterdam for his thesis Bolsystemen Ⓣ(Sphere systems).
 * He was a classical geometer who, after teaching at secondary school level in Kampen and Haarlem, taught at the technical college in Delft.
 * When we refer to de Vries in this biography, we always mean Hendrik de Vries and when we mention any other de Vries we give their name in full.
 * There is one other de Vries that we should note here, namely Hugo de Vries (1848-1935), a biologist who is also mentioned below.
-* Hendrik de Vries's father was David de Vries who, at the time of his son's birth, was a schoolteacher at the ambachtsschool in Amsterdam.
 * It provided education for those who previously had virtually no opportunity to attend school after completing primary school.
-* David de Vries married Marie Elisabeth Santweer and Hendrik was their only child.
-* When Hendrik was still very young, his father was appointed as the headmaster of a ambachtsschool in Rotterdam and the family moved to that city where Hendrik was brought up.
-* Most of de Vries's school education was in Rotterdam but, in 1884, when he was seventeen years old, the family moved again, this time to Frauenfeld in Switzerland.
 * After four years of study, de Vries graduated from the Eidgenossische Polytechnicum in 1890 and was appointed as an assistant to Wilhelm Fiedler, who had taught him as an undergraduate, to work on descriptive and projective geometry.
 * In 1894, after four years as Fiedler's assistant, de Vries returned to the Netherlands.
 * At the same time he studied for a doctorate in mathematics at the University of Amsterdam with Diederik Korteweg as his advisor.
@@ -56,12 +50,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * De Vries was one of those proposing Brouwer for membership of the Academy on 25 March 1911.
 * De Vries also supported Schuh for election to the Academy and, over the next few years, supported Arnaud Denjoy and David Hilbert.
 * De Vries excelled in providing comments under his breath that heavily taxed Brouwer's facial muscles.
-* Hendrik de Vries married Martha van Zanden on 10 April 1912 in Amsterdam.
 * Martha had been born on 30 December 1884 in Amsterdam to parents Egbert van Zanden (1848-1906) and Maria Elisabeth Broeder (1859-1950).
-* Martha and Hendrik de Vries had two children.
 * In 1913 de Vries was asked if he was interested in the vacant professorship in Groningen.
 * This had been held by Pieter Hendrik Schoute from 1881 until his death in April 1913.
-* The chair at Groningen had many advantages for de Vries, for example he would have a much smaller teaching load giving him more time for research.
 * Also he would be able to teach only geometry whereas in Amsterdam his heavy lecturing load included topics he was less enthusiastic to lecture on.
 * At Amsterdam, he supervised the doctoral studies of a number of students who went on the make important contributions to mathematics, the most famous of these being Bartel van der Waerden who was awarded a doctorate in 1926 for a thesis on the foundations of algebraic geometry.
 * However, in the year 1924-25, De Vries had three doctoral students, namely B L van der Waerden, Max Euwe, and Cornelis Zwikker (1900-1985).
@@ -73,6 +64,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * His lectures took in algebra and analysis, but from 1921-22 onwards, he focused increasingly on his preferred field, giving public lectures on the development of geometry.
 * These culminated in a series of articles in the 'Nieuw Tijdschrift voor Wiskunde' (New Journal of Mathematics), which were later collected, together with some other items, in a three volume publication entitled 'Historische Studien' (1926).
 * De Vries wrote in the introduction that he wanted to focus attention on the historical development of very precisely defined topics, even specific problems or theorems.
+* He knew how to give fascinating talks about the origins of Analytical Geometry, the misunderstood 'Rough draft for an essay on the results of taking plane sections of a cone' of Desargues, the brilliant young man Blaise Pascal, and especially about Gaspard Monge, who as a student at the École Militaire, using some simple constructions, solved an important problem ...
 * and had thereby also invented Descriptive Geometry!  All these issues De Vries treated in his Historical Studies in his own entertaining and vivid way.
 * He made many a witty remark 'en passant'.
 * Hendrik de Vries and Gerrit Mannoury had reached retirement age.

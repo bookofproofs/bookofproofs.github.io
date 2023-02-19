@@ -24,21 +24,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * However, for simplicity, we will use the name Marjorie Senechal throughout this biography.
-* Marjorie's mother was Ada Fay Fischer, born in New York City on 12 July 1915.
-* Abraham and Ada Fay Wikler had four children, the eldest being Marjorie, the subject of this biography.
 * Entering the University of Chicago, Senechal had no idea what she wanted to study.
 * Senechal had not, partly because she had left school after the 11th grade.
 * At the Illinois Institute of Technology Senechal met Lester John Senechal who, like her, was undertaking research for a Ph.D. in mathematics.
 * Lester Senechal's research advisor was Ray Lorch, and he was awarded a Ph.D. in 1963 for his thesis On Uniform Operators.
-* Marjorie Wikler, as she then was, married Lester Senechal while both were undertaking research at the Illinois Institute of Technology.
 * After the award of his doctorate, Lester Senechal was appointed to the University of Arizona.
-* Marjorie Senechal moved to Tucson with her husband, still not having completed her Ph.D. While in Tucson she completed the work and submitted her thesis Approximate Functional Equations and Probabilistic Inner Product Spaces to the Illinois Institute of Technology and was awarded a Ph.D. in 1965.
-* Senechal's first child, a daughter named Diana Louise, was born in Tucson in 1964.
 * Let us note as an aside that Diana Senechal was awarded a Ph.D. in Slavic Languages and Literature from Yale University.
-* Unable to obtain a position at the University of Arizona since a husband and wife were not permitted posts at the same institution, Lester and Marjorie Senechal obtained a Fulbright scholarship and a Fulbright travel grant respectively, to teach at the University of Ceara in Fortaleza, Brazil, from June to December 1965.
 * This provided good opportunities for Senechal to obtain a position and she was appointed to a one year position at Smith College, for the academic year 1966-67, standing in for a woman who was on maternity leave.
-* By this time Senechal was expecting her second child but she persuaded the College that she would be able to teach for the full session with her baby due in the spring vacation.
-* Senechal's second daughter, Jenna Juliet, was born in the spring of 1967 but this had a more major impact on Senechal's career than one would expect all because of a chance occurrence.
 * At Smith College, the woman who had taken maternity leave did not return and in 1967 Senechal was appointed as an assistant professor and given a two year appointment.
 * Senechal published her first paper in her new area of interest in 1975, Point groups and color symmetry in the journal Zeitschrift fur Kristallographie.
 * Nor Senechal was firmly grounded in an international community of researchers that would take her overseas many times.

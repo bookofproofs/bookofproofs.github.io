@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Terence Tao** won a Fields Medal in 2006 for his contributions to partial differential equations, combinatorics, harmonic analysis and additive number theory.
 
 ### Mathematical Profile (Excerpt):
-* His father, Billy Tao, is a Chinese-born paediatrician who has undertaken research on educating gifted children and on autism.
 * Grace Tao taught physics, chemistry, science and mathematics in various secondary schools in Hong Kong before she emigrated to Australia and, once in Australia, also taught in secondary schools there.
 * Terence was small, even for a seven-year-old.
 * is more one of guiding and stimulating Terence's development than one of teaching him.

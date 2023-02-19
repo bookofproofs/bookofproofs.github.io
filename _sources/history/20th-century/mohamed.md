@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Ismael Mohamed worked for a tyre company but became a shopkeeper with a small general store in Bloemfontein where he remained for the rest of his life.
-* Mohamed's early school years were spent in Barkley East where his mother worked as a cook for white families.
-* When Mohamed was twelve years old his mother left for Johannesburg to look for employment there leaving Mohamed with his maternal grandmother, Katrina.
 * After Rose had made a home in Doornfontein, Mohamed joined her.
 * Mohamed, however, was sent to St Joseph's Catholic School for his schooling and, impressed by the nuns' teaching, he was baptised into the Roman Catholic church.
 * English was the language of instruction at St Joseph's School and Mohamed had problems with the language.
@@ -43,16 +41,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1975 Mohamed accepted a position as Professor and Head of the Department of Mathematics at the University of the Western Cape.
 * In June 1976 there were uprisings in Soweto and Mohamed urged the black staff of the university to join the students in protest.
 * Mohamed was released in December 1976 and, because of his detention, his university appointment was terminated.
-* After a period during which Mohamed and his family suffered considerable hardship, he was offered a position as Associate Professor of Mathematics at the University of the Witwatersrand which he accepted.
 * With this new position Mohamed lived in Newclare, Johannesburg, and began working to support his local community.
-* In July 1980, his son Andrew who had just turned 17, fled the country with a group of friends, escaping into exile, but some of his friends were arrested and the Mohameds became involved in the long trial that ensued.
-* The Security Police told the Mohameds that their son had been killed attempting to cross the border.
-* The Mohameds' eldest daughter, Elaine, was detained in 1981 and charged with furthering the aims of the South African Communist Party in 1982.
 * In August 1983 the United Democratic Front was founded and Mohamed, who missed this event through ill health, was elected a Vice-President.
 * Our plenary speakers were four leading group theorists; we mention in particular, Gilbert Baumslag, a South African working at the City University of New York, and Jim Roseblade who we mentioned above when discussing the Heineken-Mohamed groups.
 * Mohamed wrote to us saying he wished to attend Groups St Andrews 1985 and we invited him to lecture to the conference.
 * On 18 February 1985 Mohamed was arrested along with other leaders of the United Democratic Front so could not attend Groups St Andrews 1985.
-* On 20 December 1986 Mohamed and his family hurriedly left South Africa after being warned that they were no longer safe at home.
 * Mohamed was due sabbatical leave and he spent time in both London and in the United States until July 1987.
 * Mohamed was elected as an African National Congress Member of Parliament.
 * Mohamed served three terms as a member of parliament before retiring in 2009.

@@ -24,14 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Julius Zassenhaus was a historian who was the principal of a girls' gymnasium.
-* Julius and Margarete had four children, sons Hans, Guenther and Willfried, and the youngest member of the family was a daughter Hiltgunt born in 1916.
-* Hans spent the first four years of his life in Koblenz-Moselweiss before the family moved to Hamburg in 1916.
 * After graduating from this school, Hans entered the University of Hamburg in the autumn of 1930.
 * Zassenhaus studied for his doctorate under Artin's supervision.
 * During this time he proved the Zassenhaus (butterfly) lemma, a beautiful result on subgroups which can be used to give a simple, and very beautiful, proof of the Jordan-Hölder theorem.
-* However, these years were extremely difficult ones for the Zassenhaus family for two reasons.
-* The second problem for the Zassenhaus family was the deterioration in Julius Zassenhaus's health.
-* By 1933 all four Zassenhaus children were at Hamburg University, Hans was working on his doctoral dissertation, Guenther and Willfried were studying medicine and Hiltgunt began studying Scandinavian languages.
 * Despite all the turmoil in his life, Hans Zassenhaus completed his doctoral dissertation Kennzeichnung endlicher linearer Gruppen als Permutationsgruppen Ⓣ(Identification of finite linear groups of permutations) on 28 July 1934.
 * These groups are called Zassenhaus groups today.
 * In his dissertation Zassenhaus classified all 3-fold transitive Zassenhaus groups.
@@ -39,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Herr Zassenhaus has rendered a most valuable service to all who are interested in this subject, and we shall await the publication of the later volumes with impatience.
 * Zassenhaus became Artin's assistant at Hamburg in 1936.
 * Zassenhaus found that a normal academic career was made impossible for him because of his intense dislike of the Nazi party.
-* Tietz was somewhat afraid of Zassenhaus, who always wore the insignia of a Nazi organisation, but Hecke calmed him by saying that Zassenhaus was their trusted agent who behaved in a politically correct manner so as to protect them.
 * This in fact happened in 1942, when somehow Tietz's presence as a secret student at the university became known and a denunciation was threatened: Zassenhaus warned Tietz, and Hecke immediately cancelled the class, giving back the student fees.
 * In fact, Tietz only discovered much later that Zassenhaus was connected with a resistance effort that helped hide endangered people.
 * The teaching Zassenhaus did at Hamburg University after 1940 was unofficial, he had to join the Nazi party if he was to keep his position and Zassenhaus was not prepared to do this.

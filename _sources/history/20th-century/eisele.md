@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Carolyn Eisele **was a mathematician who spent her whole career teaching at Hunter College. She is famed for her work on Charles Sanders Peirce, particularly in seeing the importance of mathematics in his work on philosophy and logic.
 
 ### Mathematical Profile (Excerpt):
-* Rudolph Eisele, born in New York on 1 November 1879 to a German father and an American mother, was a fireman working for the New York City Fire Department.
-* Rudolph and Caroline Eisele only had one child, Carolyn Eisele, the subject of this biography.
 * Carolyn Eisele entered Hunter College High School which had been founded in 1869 as the "The Female Normal and High School" but had changed its name in 1914, while Eisele was a pupil there, to "Hunter College High School for Intellectually Gifted Young Ladies".
 * Eisele's preference would have been to major in physics but at this time Hunter College did not offer this option.
 * At Columbia University, Eisele took mathematics courses leading to the award of an M.A. in 1925.
@@ -37,17 +35,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Among his students were Elsa Alsen, Kitty Carlisle and Carolyn Eisele.
 * Alsen introduced Eisele to Halpern in June 1934 and he became her voice teacher.
 * After she left Los Angeles in 1935 they exchanged love letters, then Halpern moved to New York to be with Eisele in August 1936.
-* In 1942 Eisele sent Halpern letters telling him about her mother's illness and subsequent committal to a sanatorium.
 * Caroline Eisele died in Manhattan State Hospital on 9 December 1942.
-* Morris Halpern and Carolyn Eisele were married on 24 June 1943.
 * Eisele had known Keyser well (he died on 8 May 1947)) and, obtaining a semester's sabbatical in 1947 to prepare for her history of mathematics course, she began undertaking research in Columbia University's archives.
 * Although this publication began a remarkable collection of papers by Eisele about Charles S Peirce, it was not her first publication.
 * The reader might wonder how Simons could obtain a Ph.D. from Columbia when Eisele could not.
 * Other trips to libraries led Eisele to make further interesting discoveries.
-* In addition to writing papers, Eisele edited and published editions of Charles S Peirce's writings, for example The New Elements of Mathematics (4 volumes) (1976).
 * A collection of thirty essays and papers by Carolyn Eisele was published as the book Studies in the Scientific and Mathematical Philosophy of Charles S Peirce: Essays by Carolyn Eisele (1979), edited by Richard M Martin.
 * It was not only with the Section that Eisele contributed much to the Society, for she also served on the Council of the main History of Science Society and on its Nominating Committee from 1959 to 1962.
-* Morris Halpern, Eisele's husband, died of a stroke in March 1963.
 * Eisele continued to teach at Hunter College where she was made a full professor in 1965.
 * Remarkably, however, the majority of Eisele's research contributions came after her retirement.
 * In 1985, the New York Academy of Sciences recognised Eisele for her seminal contributions to the history and philosophy of science through her publication of Peirce's mathematical and philosophical works.

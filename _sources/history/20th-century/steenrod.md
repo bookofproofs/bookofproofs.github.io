@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Earl Steenrod taught mechanical drawing but had astronomy as a hobby and he interested Norman in this exciting subject while he was still a young boy.
 * Sarah Steenrod had music as a hobby and she gave Norman a lifelong interest in this.
 * Norman attended school in Dayton and he was such an outstanding pupil that he was able to complete the twelve school years in only nine.
-* This was not an arbitrary occupation to put off two years, rather it was his elder brother's trade and Norman had been taught the job by his brother.
 * The job had a very positive effect on Steenrod's finances too, for it gave him the extra cash needed to pay his university expenses.
 * In 1927 Steenrod enrolled at the Miami University at Oxford, Ohio.
 * Steenrod graduated from Ann Arbor in 1932 but did not obtain a fellowship to allow him to undertake research.

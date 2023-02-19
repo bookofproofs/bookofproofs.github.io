@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Bonaventura Cavalieri** was an Italian mathematician who developed a method of indivisibles which became a factor in the development of the integral calculus.
 
 ### Mathematical Profile (Excerpt):
-* His father's name was Bonaventura Cavalieri but when Francesco joined the religious order of the Jesuati in Milan in 1615 he took the name Bonaventura.
 * Although they had some success in recruiting, and in particular Cavalieri joined, nevertheless the order eventually failed and was dissolved by pope Clement IX in 1668.
 * As a Jesuati, Cavalieri would have always worn sandals and flagellated himself daily.
 * In Pisa, Cavalieri was taught mathematics by Benedetto Antonio Castelli, a lecturer in mathematics at the University of Pisa.
@@ -44,6 +43,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Cavalieri's geometry manuscript which had been a factor in his appointment to Bologna, although completed in December 1627, was not published until 1635.
 * This theory allowed Cavalieri to find simply and rapidly the area and volume of various geometric figures.
 * Now, Cavalieri argued, if we slide each member of a parallel set of indivisibles of some planar piece along its own axis, so that the endpoints of the indivisibles still trace a continuous boundary, then the area of the new planar piece so formed is the same as that of the original planar piece, inasmuch as the two pieces are made up of the same indivisibles.
+* Although that is probably the main issue between Cavalieri and Guldin, a more careful reading of the debate will allow us to indicate the existence of other interesting issues ...
 * His first point, however, was to accuse Cavalieri of plagiarising Kepler's Stereometria Doliorum (1615) and Sover's Curvi ac Recti Proportio (1630).
 * However, Cavalieri's indivisibles are different from Kepler's infinitesimals.
 * As to the reference to Sover, Cavalieri, in his defence, pointed out that he wrote his book before Sover's book was published.

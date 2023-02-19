@@ -46,13 +46,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We have already explained Betti's involvement in the 1858-59 war with Austria in which the French at first joined the Italians against the Austrians.
 * Betti served in the government of the new country when he became a member of Parliament in 1862, representing Pistoia, continuing in this role until 1867.
 * In an attempt to improve his health, Riemann made an Italian visit in the autumn of 1863 and renewed his friendship with Betti.
-* Over quite a number of years Betti mixed political service with service for his university.
 * The creation of the new Kingdom of Italy led to a renewed interest in mathematics and its teaching throughout the country and Betti played a major role in this.
 * Betti, without Brioschi's assistance, also translated another school text, namely Joseph Bertrand's Algebra elementare Ⓣ(Elementary algebra).
 * We have already noted that in 1864 Betti succeeded Mossotti when he was appointed to the chair of mathematical physics and he continued to hold this chair for the rest of his life.
 * Carlo Matteucci, another of his teachers, had founded the journal Nuovo Cimento in 1844 and, in 1863 Betti became its editor-in-chief.
 * In 1871 Betti founded the Annali della Scuola Normale - Sezione della classe di scienze fisiche e matematiche, designed as a place where students could publish dissertations or habilitation theses.
-* Betti continued to undertake political roles in the developing country.
 * In his early work in the area of equations and algebra, as we have already seen, Betti extended and gave proofs relating to the algebraic concepts of Galois theory.
 * These had been previously published without proofs and in this task Betti thus made an important contribution to the transition from classical to modern algebra.
 * In 1854 Betti showed that the quintic equation could be solved in terms of integrals resulting in elliptic functions.

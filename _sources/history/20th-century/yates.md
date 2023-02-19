@@ -23,13 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Frank Yates** was an English  statistician whose work was important in the development of the subject.
 
 ### Mathematical Profile (Excerpt):
-* Edith and Percy Yates had five children, with Frank being the eldest with four younger sisters.
 * He was educated at Wadham House, a private school where the mathematics master was both an excellent mathematician and teacher who encouraged Frank into this direction.
 * By chance Yates met R A Fisher and, after applying to him for a post, he was appointed assistant statistician at Rothamsted Experimental Station in August 1931.
 * When Fisher was appointed to a chair in University College London in 1933, Yates became Head of Statistics at Rothamsted.
-* In 1933 Yates and his wife obtained a divorce and he married again on 14 July 1939 to Prascovie (Pauline) Tchitchkine.
-* Pauline's father was Vladimir Choubersky who was a railway engineer, and like Yates she was divorced, having been married to Alexis Tchitchkine.
-* Pauline died in 1976 and after this Yates married for a third time, to Ruth Hunt in 1981.
 * Yates was 79 years old at the time but they still enjoyed 13 years of marriage; Ruth died in 1999.
 * Yates worked on experimental design, often collaborating with Fisher.
 * Yates introduced the 'continuity correction' in 1934 and published an extremely important volume of statistical tables jointly with Fisher in 1936.

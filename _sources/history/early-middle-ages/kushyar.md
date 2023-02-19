@@ -23,10 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Kushyar ibn Labban** was a Persian astronomer who wrote an early work on Hindu numerals.
 
 ### Mathematical Profile (Excerpt):
-* The name Labban, sometimes written as Labbar, was his father's name and means "lion".
 * Very little is known of Kushyar ibn Labban's life.
 * From his works we know that Kushyar was primarily an astronomer who wrote texts on astronomy and geography.
 * Kushyar's Principles of Hindu reckoning was written about 1000 AD.
+* It may be the oldest Arabic mathematical text using Hindu numerals, and ibn Labban's concepts reveal considerable originality ...
 * The first point to note is that Kushyar uses a symbol for zero, but does not use any separating symbol to distinguish the fractional part of a number from the integral part.
 * Kushyar gives methods to construct exact square roots, as well as approximate methods to calculate the square roots of non-square numbers.
 * As a check on the accuracy of his results, Kushyar uses the method of "casting out nines" or "checking the nines" which basically checks that the sums are correct modulo 9.

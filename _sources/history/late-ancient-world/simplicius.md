@@ -39,6 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In particular Simplicius quotes the writing on Eudemus on Antiphon's attempts to square the circle and also the attempts of Hippocrates when he squared certain lunes.
 * Also in this commentary on Aristotle's Physics Simplicius gives important quotations from Geminus's summary of Posidonius's Meteorologica.
 * Simplicius wrote a commentary on Euclid's Elements which survives in an Arabic translation.
+* On the other hand, the work of the commentator is far from being a neutral undertaking or a question of mere erudition; it is chiefly an opportunity to become more familiar with the text under consideration and to elucidate some intricate passages; hence Simplicius's constant concern to obtain reliable documents and to check the historical value of this information...
 
 Born about 490, Cilicia, Anatolia (now Turkey). Died about 560, probably Athens, Greece.
 

@@ -38,9 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Tutte's paper The dissection of equilateral triangles into equilateral triangles (1948) follows a similar theme to his first mathematics paper on squaring rectangles.
 * Donald Coxeter at the University of Toronto had reviewed some of these papers and was certainly fully aware of Tutte's remarkable potential.
 * After the award of his doctorate in 1948 Coxeter invited Tutte to take up a post at the University of Toronto.
-* In the following year Tutte married Dorothea Mitchell; they had no children.
 * Tutte remained at Toronto until 1962 when he joined the faculty at the University of Waterloo.
-* Bill and Dorothea moved to a home in West Montrose, along the Grand River, where Tutte continued to live after his retirement in 1984 until the death of his wife 1994.
 * Tutte wrote many outstanding papers (Mathematical Reviews lists 168 papers by Tutte) and books.
 * Indeed, the style and content of the book betray throughout the influence of Professor Tutte's own work and the distinctive flavour of his personal approach to the subject.
 * Tutte has received many high honours for his work.

@@ -23,14 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Olinde Rodrigues** was a French mathematician best known for his formula for the Legendre polynomials.
 
 ### Mathematical Profile (Excerpt):
-* Olinde Rodrigues's father was Isaac Rodrigues (30 March 1771 - 8 September 1846), a bookkeeper, and his mother was Sara-Sophie Lopes-Fonseca (11 January 1776 - 18 February 1846).
-* Isaac and Sara-Sophie had eight children, of whom Olinde was the eldest.
 * We certainly know that he did not use his first name Benjamin and was known as Olinde Rodrigues.
 * In fact Olinde was not one of his given names.
 * At this point Olinde was added to Rodrigues names.
-* The family were Jewish and wished to obey the directive yet not give Rodrigues the name of a Christian saint.
 * Sometimes in later life he used the name Benjamin-Olinde.
-* Rodrigues was born into a Jewish family which was almost certainly of Spanish origin (although some claim that the family were of Portuguese origin).
 * Olinde entered the Lycée Impérial (now the Lycée Louis-le-Grand) in Paris.
 * Chasles was a contemporary of Olinde at the Lycée Impérial and both sat the entrance examinations for the École Polytechnique and École Normale in 1811.
 * Rodrigues was ranked first in the competitive examination while Chasles was ranked second.
@@ -50,7 +46,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In August 1832 Rodrigues was arrested and charged with organising illegal meetings and outraging public morality.
 * Rodrigues joined the Paris Ethnological Society.
 * These views were much criticised by other members of the Paris Ethnological Society who argued that Rodrigues was being sentimental and that science proved that he was wrong.
-* Most of Rodrigues' writings were on politics and social reform but he also wrote pamphlets on banking.
 * Rodrigues' composition of rotations is basically the composition of unit quaternions.
 * The story of the Rodrigues formula for Legendre polynomials is somewhat more complicated due to the fact that Rodgigues' paper on the subject does not appear to have been noticed at the time, or if it was then it was quickly forgotten.
 * They did not know of the earlier paper of Rodrigues and as a result the formula became known as the Ivory-Jacobi formula for some time.

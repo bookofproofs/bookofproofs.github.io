@@ -26,7 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Robin (as Robert was known to all his colleagues including the authors of this biography) was educated at George Watson's School, Edinburgh, and completed his school education as dux of the School in 1917.
 * Returning to Edinburgh University after the war ended, Schlapp graduated with an M.A. with First Class Honours in Mathematics and Natural Philosophy.
 * Schlapp was then appointed as an Assistant in Natural Philosophy at Edinburgh University.
-* Schlapp married Mary Fleure in 1940; they had two daughters.
 * In January 1923 Schlapp joined the Edinburgh Mathematical Society.
 * As explained in this obituary, Schlapp published little after 1940.
 

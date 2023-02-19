@@ -23,15 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Thomas Heath** wrote important works on the History of Mathematics: in particular on the mathematics of the ancient Greeks.
 
 ### Mathematical Profile (Excerpt):
-* Thomas was the youngest of the three boys and he, like all the children, was musical and academically gifted.
-* Thomas Little Heath was named after his grandfather on his mother's side, who was Thomas Little.
 * Heath was then private secretary to various financial secretaries at the Treasury up to 1907 when he was appointed Assistant secretary to the Treasury.
 * However Heath had two separate careers, one as a civil servant, the other as one of the leading world experts on the history of mathematics.
 * Archimedes was published in 1897 but at this stage the important work called The Method had not been discovered, so Heath added a translation of this in an edition he brought out in 1912.
 * In 1908 Heath's three volume work on Euclid appeared.
 * Heath was elected a Fellow of the Royal Society in 1912 and served for two terms on its council.
 * One might think that having a career in the Civil Service and yet being a leading historian of mathematics would leave Heath little time for other hobbies but in fact this was not so.
-* He was always interested in music and he had married Ada Mary Thomas in 1914, who was a professional musician, reinforcing his interest.
 
 Born 5 October 1861, Barnetby le Wold, Lincoln, England. Died 16 March 1940, Ashtead, Surrey, England.
 

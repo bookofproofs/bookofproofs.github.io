@@ -25,8 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Augustus Noble's parents were English and had sailed to the United States in 1820.
 * They settled in Baltimore, Maryland, and there Augustus Noble was born on 13 December 1823.
-* Augustus and Johanna Noble had six children, five sons and one daughter.
-* Charles had four brothers George (born about 1857), Edward (born about 1859), Frederick (born about 1860) and Walter (born about 1868).
 * As a young boy, Charles Noble lived on the ranch at Soquel but soon developed a dislike of farming.
 * Noble was able to complete his high school education in San Francisco and then he entered the University of California.
 * In 1893 Noble decided that he wanted to undertake research in mathematics for a doctorate.

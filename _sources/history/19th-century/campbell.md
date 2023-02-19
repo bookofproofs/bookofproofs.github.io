@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Campbell** is remembered for the Campbell-Baker-Hausdorff theorem which gives a formula for multiplication of exponentials in Lie algebras.
 
 ### Mathematical Profile (Excerpt):
-* John junior, the subject of this biography, was educated at home when he was young.
 * The Queen's University in Belfast had been established in 1845 and Campbell felt great loyalty towards this institution.
 * Campbell graduated from the Queen's University in 1884 and won a scholarship to study at the University of Oxford in England.
 * Campbell's book Lie's Theory of Finite Continuous Groups (1903) introduced Lie's ideas to British mathematicians.

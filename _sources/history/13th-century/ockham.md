@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We do know that he was ordained a subdeacon by the archbishop of Canterbury in Southwark, London, in 1306 which certainly supports him being trained in London.
 * There is no direct evidence to support which of these alternatives Ockham followed but it must have one of them.
 * At Oxford Ockham lectured on the Book of Sentences of Peter Lombard.
-* Peter was a 12th  century Italian theologian who had written the work to state clearly the position found in the Scriptures and that of the Church fathers on Christian doctrine.
 * It was required that every student working for a higher degree in theology would lecture and comment on the Book of Sentences which is what Ockham did at Oxford in 1317-1319.
 * In June 1318 Ockham was granted a licence to hear confessions and by 1320 he completed study for his bachelor's degree.
 * Ockham lectured on logic and natural philosophy in a Franciscan school from 1321 to 1324 while he waited to return to university to study for his doctorate.
@@ -50,7 +49,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One of the main problems he contributed to was the problem of universals: is there anything in reality which corresponds to our general words and concepts, and if so, what is it like?
 * Here there are strong connections to mathematics, for mathematical notions are not absolute terms for Ockham.
 * He states mathematical terms in conditional form so that it was not necessary for him to suppose the real existence of such mathematical entities as points and lines in order to make useful use of them.
-* Ockham takes a nominalist approach (indeed he is often called the father of nominalism) believing that points, lines, etc.
 * In his studies of mathematical logic Ockham made important contributions to it which are significant today.
 * He considered a three valued logic where propositions can take one of three truth values.
 * This became important for mathematics in the 20th  century but it is remarkable that it was first studied by Ockham 600 years earlier.

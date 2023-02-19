@@ -24,9 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Charles Kelley is described as a "minister" in the 1920 census, and a "travelling salesman in groceries" in the 1930 census.
-* Charles and Estella Kelley, both from Missouri, were married on 2 June 1910 in Winona, Shannon, Missouri.
-* They had four children: Paul Kelley (born about 1912 in Missouri), Lois E Kelley (born about 1915 in Colorado), John Leroy Kelley, the subject of this biography born in Kansas in 1916, and Charles R Kelley, born 22 September 1922 in Oklahoma.
-* We note that, at times, the family used one or other of their two given names, e.g. Paul Kelley appears in this form in the 1930 census but as Archie P Kelley in 1920.
 * John Kelley appears as John L Kelley in 1920 but as Leroy Kelley in 1930.
 * Kelley's final year of high school was in Los Angles.
 * Although he wrote his Ph.D. on number theory, Daus was mainly interested in geometry and taught the geometry courses that Kelley attended.
@@ -39,8 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Kelley was awarded a Ph.D. in June 1940 for his thesis A Study of Hyperspaces.
 * He was appointed to the University of Michigan in 1940 and met Kelley at a topology conference held at the University of Michigan 24 June to 6 July 1940.
 * Following the award of his Ph.D., Kelley took up an appointment at the University of Notre Dame in Indiana.
-* Let us record at this point that Kelley had married Elizabeth Chappell on 9th May, 1938 in Charlottesville, Virginia.
-* His wife was always known as Nancy and they had three children, John L Kelley (2nd) (born 27 July 1940), Charles B Kelley (born 19 December 1946) and Robert P Kelley.
 * On 16 October 1940 Kelley registered for the draft.
 * His personal details were as follows: Employer - University of Notre Dame; Weight - 150 lbs; Complexion - Light; Eye Colour - Hazel; Hair Colour -Brown; Height: 5 ft 10 ins; Next of Kin - Nancy Kelley.
 * He summoned Kelley to join his group, arranging for Kelley to be released from his teaching job at Notre Dame.
@@ -58,10 +53,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Kelley chaired the Mathematics Department during 1957-60, initiating revolutionary changes in both curriculum and composition of the faculty.
 * When Kelley became chair, Berkeley's Department of Mathematics was among the leaders in the areas of analysis and logic-foundations, but it recognized the need to build in other areas, notably geometry-topology and algebra.
 * Kelley had the brilliant idea of trying to hire senior faculty members two-at-a-time.
-* Around 1962, Kelley married to Ying Lee (born in Shanghai in 1932) who grew up in China and Hong Kong, and in the 1970s became the first Asian American elected to the Berkeley City Council.
-* Both Kelley and his wife supported students who demonstrated about issues such as free speech, the Vietnam War and divesting the university's South African funds.
 * Both Kelley and Ying Lee were arrested during the protests.
-* For his year as Fulbright Research Professor, Kelley, his wife Nancy, and their three sons, sailed on the Duivendijk to Liverpool, England, arriving on 24 October 1957 to spend an academic year at Trinity College, Cambridge.
 * Kelley retired in 1985 but he did not give up mathematical research, continuing to collaborate with T P Srinivasan.
 * Besides his accomplishments in mathematics and education, Kelley will be remembered for the twinkle in his eyes, for his infectious smile, and for his warm manner, which made everyone feel comfortable in his presence.
 

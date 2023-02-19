@@ -24,13 +24,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Since he is known in India as Bhaskaracharya we will refer to him throughout this article by that name.
-* Bhaskaracharya's father was a Brahman named Mahesvara.
 * Bhaskaracharya became head of the astronomical observatory at Ujjain, the leading mathematical centre in India at that time.
 * In many ways Bhaskaracharya represents the peak of mathematical knowledge in the 12th  century.
 * Six works by Bhaskaracharya are known but a seventh work, which is claimed to be by him, is thought by many historians to be a late forgery.
 * The six works are: Lilavati (The Beautiful) which is on mathematics; Bijaganita (Seed Counting or Root Extraction) which is on algebra; the Siddhantasiromani which is in two parts, the first on mathematical astronomy with the second part on the sphere; the Vasanabhasya of Mitaksara which is Bhaskaracharya's own commentary on the Siddhantasiromani ; the Karanakutuhala (Calculation of Astronomical Wonders) or Brahmatulya which is a simplified version of the Siddhantasiromani ; and the Vivarana which is a commentary on the Shishyadhividdhidatantra of Lalla.
 * Given that he was building on the knowledge and understanding of Brahmagupta it is not surprising that Bhaskaracharya understood about zero and negative numbers.
-* It is not even certain that Lilavati was Bhaskaracharya's daughter.
 * There is also a theory that Lilavati was Bhaskaracharya's wife.
 * In dealing with numbers Bhaskaracharya, like Brahmagupta before him, handled efficiently arithmetic involving negative numbers.
 * Although this claim is not without foundation, perhaps it is seeing ideas beyond what Bhaskaracharya intended.

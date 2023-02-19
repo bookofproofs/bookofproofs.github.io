@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Wilhelm Specht** was a German mathematician who in worked group theory and representation theory.
 
 ### Mathematical Profile (Excerpt):
-* Benno Specht, who was an engineering graduate, and his wife Anna both were born in Berlin into families with long traditions.
-* Wilhelm was the eldest of his parents' three children.
-* The family lived in Rastatt until Wilhelm was nine years old when his father Benno Specht got a job as director of a factory making trucks in Berlin so the family moved to that city.
 * It was in Berlin that Wilhelm attended school.
 * Specht loved both music and mathematics, and he had a real talent for both.
 * One of the reasons that he started his university career in Munich was that his grandparents lived there and Specht was able to board with them.
@@ -48,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It is in the first of these papers, published in 1935, that the representation that today is known as a 'Specht module' appears.
 * Over a field of characteristic 0, the Specht modules provide a complete set of irreducible representations of symmetric groups.
 * His expertise on the representation theory of groups had been exactly what he needed to solve a problem posed by a physicist and its solution formed the basis for Specht's habilitation thesis.
-* His first attempt to gain a position as docent was rejected by the Nazi Ministry of Education which considered Specht's political position unsatisfactory.
 * There were also a number of more junior colleagues who worked with Specht at Breslau over the following years including Hans-Joachim Kanold, Georg Tautz (1901-1983) and Hans-Heinrich Ostmann (1913-1959).
 * Specht would meet with his colleague Tautz at Radon's home for a musical evening where Specht played the piano, Radon played the violin and Tautz sang tenor.
 * Feigl appreciated Specht both as a mathematical collaborator and as a table tennis partner.
@@ -57,7 +53,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Specht's home became a popular meeting place where students or colleagues came to discuss mathematics, to chat or just to warm up a little when their own supply of fuel had run out.
 * This happy and productive time at Breslau came to an abrupt end in August 1940 when Specht was called up for military service.
 * The war, however, saw tragedy for Specht.
-* Specht's wife, who had served as a Red Cross nurse, was taken prisoner by the Russians and suffered unspeakable hardships before she was eventually able to return to her husband in 1954.
 * All Specht had left was a small suitcase with scientific papers, which he always carried with him throughout the war.
 * For two years Specht worked at an American airfield.
 * He spoke to van der Waerden asking if he knew of promising people to appoint and, without hesitation, van der Waerden strongly recommended Specht.

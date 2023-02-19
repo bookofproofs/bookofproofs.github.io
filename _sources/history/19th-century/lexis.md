@@ -28,7 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was in Freiburg that Lexis made his major contributions to statistics.
 * From 1876-79 Lexis studied data presented as a series over time.
 * Lexis required a binomial dispersion for his series to be stable and this ruled out most interesting series.
-* Lexis left Freiburg in 1884 to take up the chair of economics at the University of Breslau, then in 1887 he made his final career move when he accepted the chair of political science at Göttingen.
 * Rather than concentrate on any one of his diverse interests as his career progressed, Lexis studied and wrote on a wider and wider collection of topics.
 
 Born 17 July 1837, Eschweiler (near Aachen), Germany. Died 25 October 1914, Göttingen, Germany.

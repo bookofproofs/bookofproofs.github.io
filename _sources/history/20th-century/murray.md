@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James Murray** is a Scottish mathematician who is best known for his authoritative and extensive work  _Mathematical Biology_.
 
 ### Mathematical Profile (Excerpt):
-* The family tradition would have seen James become a plumber but after contracting polio as a child, this was not a possibility.
 * He spent three years at Dumfries Academy where the head of the mathematics department, Mr Ross, told him he would never make it as a mathematician! However James said that Mr Ross was an excellent mathematics teacher.
 * This was the result of Mr Ross's opinion of Murray's mathematical abilities.
 * In 1950-51 Murray entered the Junior Honours class in mathematics.
@@ -35,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1954 Mitchell and Murray submitted the paper Two Dimensional Flow with Constant Shear Past Cylinders with Various Cross Sections to Zeitschrift für Angewandte Mathematik und Physik.
 * Having completed the work for his Ph.D. Murray was appointed as a Lecturer in Applied Mathematics, at King's College, Durham University in Newcastle upon Tyne in 1955.
 * After spending a year at King's College in Newcastle, Murray, who had always wanted to go to the United States, went to Harvard University where he spent 1956-57 as a postdoctoral student supported by a Sir James Caird Travelling Scholarship.
-* Murray married Sheila Campbell in 1959; they had two children Mark and Sarah.
 * Murray had continued to work on fluid dynamics and had published papers such as Non-uniform shear flow past cylinders (1957), The flow of a conducting fluid past a magnetized cylinder (1960), The boundary layer on a flat plate in a stream with uniform shear (1961), Strong cylindrical shock waves in magnetogasdynamics (1961), On the mathematics of fluidization.
 * It was while he was at the University of Michigan that Murray became interested in mathematical biology.
 * In 1967 Murray was appointed as Professor of Mathematics at New York University but, after two years he returned to England where he was made a fellow and tutor at Corpus Christi College of the University of Oxford.

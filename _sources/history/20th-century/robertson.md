@@ -24,14 +24,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * His parents were George Duncan Robertson and Anna McLeod.
-* George Robertson's family came from Maryland and he was an engineer who built bridges in the Washington area.
-* In the year he graduated with an M.Sc., Robertson married Angela Turinsky.
 * At the University of Washington Robertson was greatly influenced by E T Bell.
 * It was Bell who strongly encouraged Robertson to move to the California Institute of Technology to undertake research for his doctorate.
 * Robertson was awarded his doctorate from the California Institute of Technology in 1925 after submitting his dissertation On the Dynamical Space-Time which Contains a Conformal Euclidean 3-Space.
-* This was an important time for Robertson who met Hilbert, Courant, Schwarzschild, von Neumann, Wigner, Schrödinger, Heisenberg and Einstein.
 * After two years Robertson was appointed assistant professor at Princeton.
-* It was during his time at Princeton that Bob and Angela Robertson's two children were born; Duncan Robertson who went on to become a surgeon in Arizona, and Marietta who married Peter Fay an historian at Caltech.
 * Although at this stage the United States was not involved in the war, nevertheless Robertson became a member of a group which was to become part of the National Defense Research Committee.
 * After the fall of France in May 1940, Robertson was given the position of liaison scientist with Britain.
 * Given our description of Robertson's activities from 1939 onward it is hard to see how he had time to make a contribution to applied mathematics.
@@ -39,6 +35,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Before we move on to discuss the area for which Robertson is rightly most famed, namely for his work on general relativity and cosmology, we complete the description of his academic career.
 * Princeton tried to counter the offer with inducements for him to remain there but Robertson had been very happy at Caltech before and the chance to return greatly appealed to him.
 * Applying his mathematical skills to cosmology had been an interest of Robertson's from early in his career as the paper On relativistic cosmology (1928) shows.
+* These Robertson-Walker cosmological spaces are still fundamental; A G Walker rediscovered them in 1936 ...
 * In three papers entitled Kinematic and world structure  published in 1935 and 1936 Robertson looked at Milne's theory and Einstein's theory of gravitation and their respective application to cosmology, arguing strongly that Milne's objections to Einstein's theory are not valid.
 * After moving from Princeton to Caltech, Robertson's interests became somewhat more directed towards astronomy.
 * The Poynting-Robertson effect is so named for Robertson's paper Dynamical effects of radiation in the solar system  in which he studied the behaviour of a moving body, subject to the laws of general relativity, which is absorbing and re-emitting solar radiation.

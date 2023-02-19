@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Tullio Levi-Civita** was an Italian mathematician who is best known for his work on the absolute differential calculus and the theory of tensors. He had problems later in his life with the rise of Fascism in Italy.
 
 ### Mathematical Profile (Excerpt):
-* Tullio, born into a Jewish family, attended secondary school in Padua where he showed his outstanding abilities.
 * Two of his teachers were Giuseppe Veronese and Ricci-Curbastro and Levi-Civita later collaborated with the latter.
 * Levi-Civita was appointed to the Chair of Rational Mechanics at Padua in 1898, a post which he was to hold for 20 years.
 * In particular in 1909 Castelnuovo tried hard to persuade him to move, but Levi-Civita was happy to remain in Padua.
@@ -32,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * When Von Kármán approached Levi-Civita in 1922 suggesting a scientific meeting on fluid dynamics he knew that such a meeting could not be an official congress if German and Italian scientists were both involved so he proposed an informal one.
 * Levi-Civita was enthusiastic but when the meeting took place in Innsbruck in September of that year the only scientists from the Allied Powers to participate were Levi-Civita and members of his research group.
 * It was not just the international situation which gave Levi-Civita problems but also the effect of totalitarianism and anti-Semitism on scientific and university life.
-* Although he was deeply opposed to such ideas, Levi-Civita felt that for the sake of his family and his research school in Rome he had to sign despite his strong moral objections.
 * Later in 1936 the International Mathematical Congress was held in Oslo but Levi-Civita, and all other Italian mathematicians, were forbidden to attend by their government.
 * Despite this Levi-Civita was appointed as a member of the Commission for awarding Fields Medals.
 * Levi-Civita was dismissed from his professorship, forced to leave the editorial board of Zentralblatt für Mathematik, and prevented from attending the Fifth International Congress of Applied Mechanics in the United States.

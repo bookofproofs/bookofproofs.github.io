@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Konstantin Alekseevich Andreev** was a Russian mathematician, best known for his work on geometry, especially projective geometry.
 
 ### Mathematical Profile (Excerpt):
-* However, when Konstantin Alekseevich was young his father's business collapsed and the family suffered severe hardship.
-* But financial problems were not all that troubled the family for Konstantin Alekseevich had very poor health as a child.
 * These problems made it impossible for Konstantin Alekseevich to attend school until he was twelve years of age.
 * In 1867 Andreev entered the mathematics department in the Faculty of Physics and Mathematics of Moscow State University.
 * Among the professors who influenced Andreev so much during his undergraduate years, he mentions in particular August Yulevich Davidov and Nicolai Vasilievich Bugaev.

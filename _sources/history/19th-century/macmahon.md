@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Percy MacMahon** was a Maltese-born mathematician who worked in number theory and combinatorics.
 
 ### Mathematical Profile (Excerpt):
-* His father was Brigadier-General P W MacMahon and, it is interesting to note that as a young child he had a fascination with the way that the ammunition was stacked.
 * MacMahon was educated at a school in Cheltenham and was always destined for a military career.
 * MacMahon was a candidate to fill the vacant Savilian Chair, as was Esson, and after Esson was appointed MacMahon wrote to Sir Joseph Larmor expressing his feelings at losing out to Esson.
 * One would have to say that MacMahon was fully justified in feeling aggrieved at losing out to Esson.

@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **David Rees** was a Welsh mathematician who worked on semigroups and on commutatiive algebra. During World War II he worked on cracking codes.
 
 ### Mathematical Profile (Excerpt):
-* The Rees family had a traditional love of mathematics, and in fact David Rees's great-great-grandfather, Thomas Rees, was an early Welsh mathematician.
-* David, the subject of this biography, was the the fourth of a family consisting of Thomas, Doris, Hilda, David and Kathleen.
 * His undergraduate studies were supervised by Gordon Welchman (1906-1985), a fellow of Sidney Sussex College, and Rees graduated in 1939 as Second Wrangler.
 * Rees continued to study at Cambridge but, on 1 September 1939, German troops invaded Poland and Britain declared war on Germany two days later.
 * The outbreak of war caused a complete disruption in Rees's university studies since he was quickly recruited to undertake war work at Bletchley Park, the British codebreaking centre in Buckinghamshire.
@@ -40,9 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Rees was appointed as an assistant lecturer in mathematics at the University of Manchester at the same time and assisted Newman in the pioneering work that led to the construction of the first mainframe computer.
 * Rees was appointed as a lecturer at the University of Cambridge in 1948, becoming a fellow of Downing College.
 * This seminar had two major impacts on Rees's life.
-* Rees married Joan Cushen  in Cambridge on 19th  June 1952.
 * Joan Rees became a Lecturer in Mathematics at the University of Exeter.
-* David and Joan Rees had four daughters: (Susan) Mary Rees (born September 1953), Rebecca Rees (born December 1955), Sarah Elizabeth Rees (born December 1957), and Deborah Rees (born June 1960).
 * Before moving into the area of commutative ring theory, Rees had published two further papers on semigroups, On the group of a set of partial transformations (1947) and On the ideal structure of a semi-group satisfying a cancellation law (1948).
 * The influence of Douglas Northcott on Rees is easily seen since his first two papers on commutative rings are written in collaboration with him, namely Reductions of ideals in local rings (1954) and A note on reductions of ideals with an application to the generalized Hilbert function (1954).
 * Over the next years, Rees continued to produce a whole series of important papers on local rings.

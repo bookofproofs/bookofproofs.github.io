@@ -23,12 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Tim Pedley** is an English mathematician whose principal research interest is the application of fluid mechanics to biology and medicine.
 
 ### Mathematical Profile (Excerpt):
-* He is the son of Richard Rodman Pedley (1912-1973) and Jean Mary Mudie Evans.
 * Richard Pedley was educated at Foster's School, Sherborne, and Downing College, Cambridge, before becoming an Assistant Master at the City of Leicester Boys' School in 1934.
-* Pedley's early years were spent in different cities as his father changed jobs.
-* After his war service ended in 1946, Richard Pedley returned briefly to Leicester where his family had remained during the war, and then took up a position in St Olave's School in York.
 * Tim Pedley became a boarder at Rugby School, where he excelled in all subjects, especially science and mathematics.
-* While he had been undertaking research for his doctorate, Pedley had married Avril Jennifer Martin Uden in 1965.
 * Tim and Avril Pedley have two sons, Jonathan Richard Pedley and Simon Grant Pedley.
 * Tim Pedley published The stability of rotating flows with a cylindrical free surface (1967).
 * Pedley left Imperial College, London, in 1973 when he was appointed as a lecturer in the Department of Applied Mathematics and Theoretical Physics at the University of Cambridge.

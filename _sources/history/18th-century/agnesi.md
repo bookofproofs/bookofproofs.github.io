@@ -23,17 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Maria Agnesi** was an Italian mathematician who is noted for her work in differential calculus. She discussed the cubic curve now known as the 'witch of Agnesi'.
 
 ### Mathematical Profile (Excerpt):
-* Pietro Agnesi had twenty-one children with his three wives and Maria was the eldest of the children.
-* Some accounts of Maria Agnesi describe her father as being a professor of mathematics at Bologna.
 * Pietro Agnesi could provide high quality tutors for Maria Agnesi and indeed he did provide her with the best available tutors who were all young men of learning from the Church.
-* The volume contained 191 philosophical theses which Agnesi would defend in disputes with specially invited audiences of important international and national people who her father would invite to his house.
-* It might look as if this were an extremely distasteful affair, with Agnesi's father showing off his daughter's talents like a circus act.
-* Certainly, although Agnesi always acted in total obedience to her father's wishes, she was not very happy with the spectacle that he put on.
 * Agnesi concentrated her efforts on studying religious books and learning mathematics.
 * Agnesi was fortunate, however, in her bid to learn mathematics for a monk, Ramiro Rampinelli, a mathematician who had been a professor at both Rome and Bologna, arrived in Milan and became a frequent visitor to the Agnesi house.
 * With Rampinelli's help Agnesi studied Reyneau's calculus text Analyse démontrée (1708).
 * Rampinelli encouraged Agnesi to write a book on differential calculus.
-* Agnesi, with her father's money, was able to arrange for the private printing of the book in her own home where she could supervise the whole operation herself.
 * It was Rampinelli who suggested that Riccati might offer Agnesi advice and he had clearly contacted Riccati, who had been one of his own teachers, and Riccati had agreed to read the final draft of Agnesi's book and make suggestions.
 * Riccati replied quickly to Agnesi's first letter and promised to pass the text to his two sons, Vincenzo Riccati and Giordano Riccati, so that they could also comment on the work.
 * Once Agnesi received Riccati's comments on the first part of the text she organised printing of that part while later parts were sent to Riccati also for him to comment on.
@@ -46,8 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Then Agnesi was approached by the president of the Academy of Bologna and three other professors of the Academy and invited to accept the chair of mathematics at the University of Bologna.
 * It is probable that Agnesi neither accepted nor rejected this offer.
 * This does explain the confusion which appears in many accounts as to whether Agnesi ever held a chair of mathematics.
-* Frisi, who was a school friend of one of Agnesi's brothers, visited the Agnesi house after the time that her book was published.
-* After the death of her father in 1752, Agnesi devoted herself entirely to charitable work.
 * Agnesi spent all her money on this charitable work and she died in total poverty in the poorhouse of which she had been the director.
 * The treatise Instituzioni analitiche ad uso della gioventù italiana Ⓣ(Analytical methods for the use of Italian youth) contains no original mathematics by Agnesi.
 * The book includes a discussion of the cubic curve now known as the 'witch of Agnesi'.

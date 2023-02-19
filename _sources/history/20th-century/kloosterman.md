@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hendrik Douwe Kloosterman**  was a Dutch mathematician, known for his work in number theory and representation theory.
 
 ### Mathematical Profile (Excerpt):
-* In addition to his elder half-sister Ebeltje, Hendrik had a younger brother Durk Kloosterman.
 * Hendrik was brought up as a young boy in the village of Rottevalle which is a small farming village.
 * After graduating from the high school in 1918, Kloosterman entered the University of Leiden.
 * Hendrik Lorentz, although officially retired from 1912, continued to lecture at Leiden and his successor Paul Ehrenfest was an outstanding theoretical physicist whose friends Niels Bohr and Albert Einstein were frequent visitors to Leiden.
@@ -31,14 +30,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Kloosterman continued his studies at Leiden with J C Kluyver as the supervisor of his number theory thesis.
 * After Kloosterman arrived in Leiden, rigorous analysis had been established there, and in a short time he proved himself a true master in this field.
 * It was Ehrenfest, however, who looked after Kloosterman as he would his own students, making sure that he had the opportunity to study with the experts on the subject of his thesis.
-* Ehrenfest arranged for Kloosterman to spend some time in Copenhagen working with Harald Bohr, Niels Bohr's brother.
 * The topic which Kloosterman was working on for his doctorate was concerned with Waring type problems.
 * Again it was due to Ehrenfest that Kloosterman was able to visit Hardy in Oxford.
 * Kloosterman presented his doctoral thesis to the University of Leiden in 1924.
 * In this paper Kloosterman introduced what are today called 'Kloosterman sums'.
 * After receiving his doctorate, Kloosterman was required to undertake military service which he did during 1924-25.
 * During his visit to Hamburg, Kloosterman applied his idea of 'Kloosterman sums' to obtain estimates for the Fourier coefficients of modular forms.
-* Hendrik and Margarete Kloosterman were married on 30 August 1932 in Leiden; they had no children.
 * After this two years of travel, Kloosterman was offered a post at the University of Münster.
 * Kloosterman turned out to be an exceptional teacher.
 * This in fact presented an opportunity to Kloosterman to undertake research since he had no teaching duties.
@@ -50,6 +47,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1954 the International Congress of Mathematicians was held in Amsterdam and Kloosterman was chairman of a small committee with the task to draw up a report on structure and regulations of the Congress.
 * It is such an important refinement that some even refer to the circle method as the Hardy-Littlewood-Kloosterman method.
 * This refinement led him to the Kloosterman sums.
+* Kloosterman sums find their applications in many proofs of results in automorphic forms, L-functions, quadratic forms ...
 * Let us mention two honours given to Kloosterman.
 * In 1986 the Department of Mathematics at the University of Leiden founded the Kloosterman Chair.
 

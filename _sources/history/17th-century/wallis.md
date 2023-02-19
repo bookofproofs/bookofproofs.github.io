@@ -23,26 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Wallis** was an English mathematician who built on Cavalieri's method of indivisibles to devise a method of interpolation. Using Kepler's concept of continuity he discovered methods to evaluate integrals.
 
 ### Mathematical Profile (Excerpt):
-* The Reverend Wallis married Joanna Chapman, who was his second wife, in 1612 and John was the third of their five children.
-* When young John was about six years old his father died.
-* John went to school in Ashford but an outbreak of the plague in the area led to his mother to decide that it would be best for him to move away.
 * He also studied logic at this school but mathematics was not considered important in the best schools of the time, so Wallis did not come in contact with that topic at school.
-* It was during the 1631 Christmas holidays that Wallis first came in contact with mathematics when his brother taught him the rules of arithmetic.
 * In 1637 Wallis received his BA and continued his studies receiving his Master's Degree in 1640.
 * one evening at supper, a letter in cipher was brought in, relating to the capture of Chichester on 27 December 1642, which Wallis in two hours succeeded in deciphering.
 * This was the time of the Civil War between the Royalists and Parliamentarians and Wallis used his skills in cryptography in decoding Royalist messages for the Parliamentarians.
-* In this same year his mother died and this left Wallis as a man of independent means since he inherited a major estate in Kent.
 * In 1644 Wallis became secretary to the clergy at Westminster and through this he was given a fellowship at Queen's College, Cambridge.
 * In this passage we have modernised Wallis's English a little to make it more easily understood.
 * We talked above about two events which shaped Wallis's future, the first being cryptography.
 * Wallis wrote a book Treatise of Angular Sections which remained unpublished for forty years.
 * He also discovered methods of solving equations of degree four which were similar to those which Harriot had found but Wallis claimed that he made the discoveries himself, not being aware of Harriot's contributions until later.
-* Cromwell held Wallis in high regard, not just for his political views but also for his scholarship.
 * Wallis held the Savilian Chair for over 50 years until his death and, even if he was appointed for the wrong reasons, he most certainly deserved to hold the chair.
 * This was not the only position which Wallis would hold at Oxford.
 * Certainly Wallis's opponents believed that he became keeper of the University archives because of his support for Cromwell.
 * Even if this were the case, as with the Savilian Chair, Wallis carried out his duties extremely well and fully deserved the post.
-* This was done in good faith for although Wallis used his undoubted political skills to gain what wanted at times, there was never any suggestion that he was anything other than an honest man.
 * Wallis contributed substantially to the origins of calculus and was the most influential English mathematician before Newton.
 * Wallis's most famous work was Arithmetica infinitorum which he published in 1656.
 * Wallis developed methods in the style of Descartes analytical treatment and he was the first English mathematician to use these new techniques.

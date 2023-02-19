@@ -37,8 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Segal's theory, which is a variant of special relativity, is based on the idea that there are two kinds of time.
 * Segal's theory is opposed to the big bang theory and Hubble's law for the expansion of the universe does not hold in Segal's theory.
 * Segal continued to argue for his model of the universe after he retired as Professor of Mathematics at Massachusetts Institute of Technology in 1989.
-* After Segal's marriage to Osa ended in 1977: she married Saunders Mac Lane in 1986 and Segal married Martha Fox in 1985.
-* Irving and Martha Segal had a daughter Miriam Elizabeth.
 * Segal's office was a cozy, lived-in place, cluttered with decades of accumulated papers.
 * Everyone who knows Segal will recall his inability to do things any way other than his own.
 * Let us look briefly at some of the books Segal published in addition to Mathematical Cosmology and Extragalactic Astronomy (1976) which we mentioned above.

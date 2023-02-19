@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Bernhard Landsberg was a businessman, but we have not been able to find any further information about him.
-* We have, however, found background information about his wife, Philippina, the mother of Georg the subject of this biography.
-* Bernhard and Philippina married and had at least two children, Georg, the subject of this biography, and a daughter Regina Landsberg.
 * Philippina Landsberg died on 3 January 1898 in Breslau.
 * Landsberg attended the St Elisabeth Gymnasium in Breslau.
 * New buildings which had been built in the 1830s were being extended while Landsberg was a pupil as the popular school ran out of space.

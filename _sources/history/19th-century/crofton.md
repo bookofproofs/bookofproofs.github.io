@@ -23,17 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Morgan Crofton**  was an Irish mathematician who contributed to the field of geometric probability theory.
 
 ### Mathematical Profile (Excerpt):
-* In fact there is a remarkable coincidence here, for the Reverend William Crofton succeeded the Reverend Gabriel Stokes, father of George Stokes, as rector of Skreen.
-* Of course as the son of a Protestant minister, Morgan was brought up as a Protestant, but later in life he converted to Roman Catholicism which had some effect on his career.
-* Morgan Crofton's mother was  Melesina Woodward (1803-1881).
 * Crofton entered Trinity College, Dublin where he studied mathematics.
 * One would not expect this to be a problem for Crofton, who was an Anglican, but it seems that by this time he was considering changing from being an Anglican to being a Roman Catholic.
 * In 1849 Crofton was appointed as Professor of Natural Philosophy at Queen's College, Galway, five years after it was founded (it later became University College, Galway).
 * Certainly his conversion to the Catholic Church was closely connected with John Henry Newman and so, to understand Crofton's actions, we should say a few words about Newman.
 * Like Crofton, Newman began as an Anglican but he had held a leading role in the Oxford Movement in the Church of England.
 * Newman resigned as an Anglican priest in 1843, about the time Crofton was beginning his undergraduate career at Trinity College, Dublin, and was received into the Roman Catholic Church in 1845.
-* Morgan Crofton married Julia Agnes Cecilia Kernan (born in Monaghan, Ireland, about 1827) on 31 August 1857.
-* Morgan Crofton later married Catherine Charlotte Taylor (1854-1945) in 1892 at Paddington, London.
 * Crofton's entry into the Catholic Church must have come at around the time that he resigned his Chair of Natural Philosophy at University College, Galway.
 * After this Crofton went to France where he taught at a number of different educational institutions run by the Jesuits.
 * Clearly Sylvester was impressed with Crofton's mathematical talents for he recommended him for an appointment as an instructor at the Royal Military Academy.

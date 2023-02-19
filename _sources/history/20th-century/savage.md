@@ -25,20 +25,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * The first question that the reader will naturally ask, therefore, is why Jimmie Savage is named Savage.
 * In fact the reason he was called 'Jimmie Savage' is even more complicated.
-* After Jimmie was born, his mother, who had a high school education and was a trained nurse, was seriously ill and, as a consequence, there was a delay in giving him a name.
-* A nurse at the hospital where he was born put the name "Jimmie" against his entry in the hospital records but when his mother recovered he was given the name Leonard Ogashevitz.
 * However, the name 'Jimmie' stuck and he was known as Jimmie as he was growing up.
-* In 1920 his father changed his name from Ogashevitz to Savage but this name change did not apply to his children.
 * Many years later, when Jimmie was undertaking classified war work, he had his name legally changed from Leonard Ogashevitz to Leonard Jimmie Savage.
 * Although known as Jimmie all his life, he wrote his papers under the name Leonard Savage.
 * Jimmie would not have had as productive a life nor as happy a one.
 * Jimmie had a difficult time growing up.
-* Jimmie was confined to his home (which was protected by a surrounding wall) and educated by a governess but this caused much stress and arguments between Jimmie and his two sisters Joan (born 1921) and Barbara (born 1922).
 * His parents tried to improve matters by sending Jimmie to boarding school but he later described the year spent there as one of the worst in his life.
 * Both Jimmie and Joan had rather unpleasant experiences there.
-* Jimmie's father Louis did everything he could to get his son an education and persuaded one of his friends to recommend Jimmie to Wayne University in Detroit.
 * At the University of Michigan things again went badly for Savage who, because of his poor eyesight, caused a fire in the chemistry laboratory.
-* He was expelled but again his father intervened and Jimmie was allowed to take some mathematics courses with the aim of majoring in physics.
 * Their eldest son, Sam Linton Savage, received his Ph.D. in computer science from Yale University in 1973.
 * In 1941 Savage received his PhD with a thesis was on metric and differential geometry.
 * In 1944, still undertaking war work, he joined the Statistical Research Group at Columbia University as a Research Associate - this move into statistics was suggested by von Neumann who had recognised Savage's talents when he was at Princeton.
@@ -51,7 +45,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Savage left Chicago in 1960 and took up a professorship at the University of Michigan.
 * An important work by Savage, published in 1965 after he took up the chair at Yale, is How to gamble if you must : Inequalities for stochastic processes, written jointly with Lester Dubins.
 * Other articles written by Savage relate to statistical inference, in particular the Bayesian approach.
-* Jimmie Savage was divorced in 1964 and, on 10 July of that year, he married Jean Strickland.
 * Sadly, Savage only had seven years at Yale before he died at the early age of fifty-three.
 * The agreeable professional circumstances during the seven Yale years, and above all his great happiness with Jean, combined to make the last period of Savage's life personally the happiest.
 * He has been honoured with the establishment in 1977 of the Savage Award made each year to two outstanding doctoral dissertations in Bayesian econometrics and statistics.

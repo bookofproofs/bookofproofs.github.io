@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Hunter McCrea** was an English astronomer and mathematician whose research on the composition of the Sun and on star formation led to the development of the big bang theory.
 
 ### Mathematical Profile (Excerpt):
-* His parents were Robert Hunter McCrea and Margaret Hutton; Bill was the eldest of their children.
 * Robert McCrea was a schoolmaster who moved to England when Bill was two years old.
 * In 1928 McCrea followed up a suggestion by Cecilia Payne and by the German astronomer Albrecht Unsöld that in fact hydrogen was dominant.
 * However, Whittaker was not the person in the department to interact most closely with McCrea, rather it was George McVittie who was undertaking research under Whittaker's supervision.

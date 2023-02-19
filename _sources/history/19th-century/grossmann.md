@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Marcel Grossmann**  was a Swiss mathematician and a friend and collaborator  of Einstein.
 
 ### Mathematical Profile (Excerpt):
-* Marcel had a brother named Eugen.
-* Jules Grossmann was Swiss but came from a family originally from Alsace.
 * In 1870, he founded a factory in Budapest where he was known by the Hungarian version of his name, Grossmann Gyula.
 * Jules Grossmann was the joint owner of this successful factory.
 * Marcel was brought up in Budapest where he attended the Dániel Berzsenyi Gymnasium.
 * This famous high school had an excellent educational reputation and gave Grossmann an excellent background in mathematics.
-* In 1893, when Marcel was fifteen years old, his family moved to Switzerland and settled in Basel.
 * After completing his high school education in Basel, Grossmann entered the Zürich Polytechnikum (later named the Eidgenössische Technische Hochschule) to study mathematics with the aim of qualifying as a Gymnasium teacher of mathematics.
 * Two of Grossmann's ten fellow students were Mileva Maric and Albert Einstein.
 * All three became close friends and Einstein, who did not attend many lectures, borrowed Grossmann's lecture notes in order to take his examinations in 1898.
@@ -39,8 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He had taught geometry to Grossmann, Einstein and Maric during their undergraduate studies and it was Grossmann who had excelled in the examinations of the geometry course.
 * Grossmann was advised by Fiedler as he undertook research towards his doctorate which he obtained from Zürich Polytechnikum in 1902 for his thesis Über die metrischen Eigenschaften kollinearer Gebilde Ⓣ(On the metric properties of collinear structures).
 * After Einstein and Grossmann graduated in 1900 they continued their friendship.
-* Einstein was looking for position and Grossmann wrote to him on 13 April 1901 telling him that his father, who was a friend of the Director of the Patent Office in Bern, had recommended Einstein for the next vacancy.
-* Grossmann married Anna Keller, the daughter of the engineer Eduard Keller, in 1903.
 * Einstein certainly did not forget about his friend and when he wrote his thesis in 1905 he wrote on the title page: "Dedicated to my friend Dr Marcel Grossmann".
 * In 1907 Grossmann became professor of descriptive geometry at the Eidgenössische Technische Hochschule in Zürich.
 * He was struggling to extend his special theory of relativity to include gravitation and immediately began collaborating with his old friend Grossmann.

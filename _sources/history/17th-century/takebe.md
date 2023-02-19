@@ -23,14 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Takebe** was a Japanese mathematician who wrote most of Seki's _Encyclopaedia_.
 
 ### Mathematical Profile (Excerpt):
-* He had an older brother Takebe Kataaki (1661-1716) who was also a mathematician and the two brothers were both pupils of Takakazu Seki.
-* Let us note now that when we speak of Takebe in this article, we are referring to Takebe Katahiro and if we refer to his brother we shall use his full name Takebe Kataaki.
-* Takebe was only thirteen years of age when he became Seki's pupil and both brothers remained with their teacher until his death in 1708.
 * The 'Taisei sankei' (Comprehensive Classic of Mathematics), in 20 volumes, was finally completed by Takebe Kataaki in 1710.
 * It gives a good picture of Seki's skill at reformulating problems, as well as Takebe Katahiro's ability to correct, perfect, and extend his master's intuitions.
-* This brought Takebe into contact with the leading members of the Tokugawa family.
 * Takebe served Tokugawa Ienobu during his three years as Shogun, and then served Tokugawa Ietsugu who was Shogun from 1712 to 1716.
-* From 1695 when he began his close association with members of the Tokugawa family, Takebe spent less time on his study of mathematics.
 * Takebe's enthusiasm for the study of mathematics and astronomy was invigorated again from 1716.
 * Encouraged by Takebe, Yoshimune relaxed the edict forbidding the introduction of foreign books, including scientific books, which led to the growth of interest in Western science in Japan.
 * Later in this biography we will describe work undertaken by Takebe specifically at Yoshimune's request.

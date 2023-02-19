@@ -23,12 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Leucippus** was a Greek philosopher who originated the atomic theory of indivisibles developed later by Democritus.
 
 ### Mathematical Profile (Excerpt):
-* At the time that Leucippus would have lived in Abdera it was a prosperous town which politically was a member of the Delian League.
 * The philosopher Protagoras was born in Abdera and he was a contemporary of Leucippus but Protagoras, the first of the Sophists, spent most of his life in Athens and may have left Abdera before Leucippus arrived there.
 * Although now there seems little doubt that Leucippus existed, it is worth remarking that Epicurus, at the end of the fourth century BC, actually believed that Leucippus had never existed since so little was known of him.
 * However we now know enough in the way of independent evidence to be sure that Leucippus did exist.
 * Aristotle refers to Leucippus as a philosopher with rather different views to those of Parmenides.
-* of those who have maintained the existence of indivisibles, some, as for example Leucippus and Democritus, believe in indivisible bodies, others, like Xenocrates, in indivisible lines.
 * Unfortunately Aristotle is not entirely consistent in his references to Leucippus.
 * Some quotes suggest that atomism began with Leucippus, other quotes such as the one above bracket Leucippus and Democritus, while in a few places Aristotle seems to imply that Democritus alone invented atomism.
 * Certainly it seems that Leucippus was much influenced in his thinking by Zeno of Elea and by Parmenides, but it seems relatively unlikely that there is any truth in the later claim that he was a pupil of Zeno of Elea.

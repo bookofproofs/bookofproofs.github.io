@@ -24,20 +24,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Christian Bohr was awarded a doctorate in physiology from the University of Copenhagen in 1880 and in 1881 he became a Privatdozent at the university.
-* Two years later Niels was born on his mother's 25th  birthday in the same stately home, Ellen again having returned to her mother's house for the birth of her child.
-* The third child of the family, who went on to become a famous mathematician, was Harald Bohr who was two years younger than Niels.
-* When Niels was only a few months old his father Christian had been appointed as a lecturer to fill a post left vacant by the death of Peter Panum, the professor of physiology at the University of Copenhagen, and a short while later the family moved into the Panum's professorial house in Copenhagen.
 * In October 1891 Niels entered the Grammelholms school.
-* Niels made some good friends while at school but his best friend throughout his life was his brother Harald.
 * During his last two years at school Niels specialised in mathematics and physics.
 * There is certainly some evidence that he soon realised that the mathematics teacher did not have as good a grasp of the topic as he should have had, and that he became somewhat frightened of his exceptional pupil Bohr.
 * In physics too Bohr studied texts ahead of the class finding errors in them.
 * Bohr studied at the University of Copenhagen which he entered in 1903.
-* He had known both of them for many years since they were close friends with his father and had met as part of a regular discussion group, with both brothers Niels and Harald Bohr taking part as soon as they were old enough to contribute.
 * Bohr was taught mathematics at university by Thorvald Thiele.
 * At university Bohr could not carry out physics experiments since there was no physics laboratory.
 * This paper is the only one that Bohr wrote describing experiments which he had carried out.
-* Bohr dedicated his thesis to the memory of his father who had died from a heart attack a few months earlier in February 1911.
 * By this time Bohr was engaged to Margrethe Norlund.
 * Bohr applied to the Carlsberg Foundation for a travel grant in May 1911 and, after the award was made, went to England in September 1911 to study with Sir J J Thomson at Cambridge.
 * He had intended to spend his entire study period in Cambridge but he did not get on well with Thomson so, after a meeting with Ernest Rutherford in Cambridge in December 1911, Bohr moved to the Victoria University, Manchester (now the University of Manchester) in March 1912.
@@ -45,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In Manchester Bohr worked with Rutherford's group on the structure of the atom.
 * Rutherford became Bohr's role model both for his personal and scientific qualities.
 * Using quantum ideas due to Planck and Einstein, Bohr conjectured that an atom could exist only in a discrete set of stable energy states.
-* Remarkable evidence exists today of Bohr's scientific progress since he corresponded frequently with his brother Harald.
 * Although Rutherford and Bohr had completely different personalities, they shared an enormous enthusiasm for physics and they also liked each other personally.
 * However the relationship was never quite that of close friends since Bohr always saw Rutherford as his teacher.
 * On 24 July 1912, with his paper still unfinished, Bohr left Rutherford's group in Manchester and returned to Copenhagen to continue to develop his new theory of the atom, completing the work in 1913.
@@ -65,10 +58,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was Bohr's view of quantum theory which was eventually to become accepted.
 * Einstein expressed grave doubts about Bohr's interpretation and Bohr, Einstein and Ehrenfest spent many hours in deep discussion, but Bohr's view prevailed.
 * Bohr's other major contributions, in addition to quantum theory, include his theoretical description of the periodic table of elements around 1920, his theory of the atomic nucleus being a compound structure in 1936, and his understanding of uranium fission in terms of the isotope 235 in 1939.
-* In 1937 Bohr, his wife and their son Hans, made a world tour.
-* Bohr, although he had been christened in the Christian Church, had Jewish origins on his mother's side and so, when the Nazis occupied Denmark in 1940, his life became exceeding difficult.
 * However Bohr was deeply concerned about the control of nuclear weapons and from 1944 he tried to persuade Churchill and Roosevelt for the need to have international cooperation.
-* Bohr's son Aage also became a physicist and shared the Nobel prize for Physics in 1975.
 
 Born 7 October 1885, Copenhagen, Denmark. Died 18 November 1962, Copenhagen, Denmark.
 

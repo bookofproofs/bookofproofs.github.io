@@ -4,10 +4,10 @@ categories: history,19th-century
 parentid: bookofproofs$603
 tags: astronomy,origin-england
 orderid: 1896
-title: O&amp;#x27;Connell, Daniel
+title: O&amp;amp;#x27;Connell, Daniel
 born: 1896
 died: 1982
-keywords: daniel o'connell,o&amp;#x27;connell
+keywords: daniel o'connell,o&amp;amp;#x27;connell
 description: Daniel Joseph O'Connell was an English Jesuit priest, astronomer and seismologist who worked on eclipsing binaries and variable stars.
 references: bookofproofs$6909
 contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Daniel Joseph O'Connell** was an English Jesuit priest, astronomer and seismologist who worked on eclipsing binaries and variable stars.
 
 ### Mathematical Profile (Excerpt):
-* Daniel's father died in 1905 and his mother died two years later leaving him an orphan at the age of eleven.
 * O'Connell moved from Clongowes Wood College to Tullabeg, Rahan, the second school to be opened by the Society of Jesus and, in 1913, when he was seventeen years old, O'Connell entered the Society of Jesus at Tullabeg.
 * One of the tasks of the Juniors was to take readings on a seismograph which was being designed and built by Father William O'Leary (1869-1939) at Rathfarnham Castle in 1915, the year O'Connell began his studies there.
 * In fact O'Leary asked O'Connell to help him and the two worked together building the seismograph.
@@ -54,6 +53,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * There was so much interest from leading astronomers in this Study Week, both in the meeting itself and in the Proceedings which O'Connell edited, that he was persuaded to hold another similar meeting.
 * Although it was not a topic that O'Connell specialised in, nevertheless when it was suggested that Nuclei of Galaxies would be a timely topic, he agreed to organise a Study Week on that topic in 1970.
 * In 1970 O'Connell retired from his position at the Vatican Observatory.
+* One of the rare exceptions to this rule is provided by the late Father Daniel O'Connell ...
 * The reason for the exceptional standing of Father O'Connell in the annals of astronomy is the fact that he was not only an astronomer of high repute, but also a remarkably charming and good man with a genuine interest in others rather than himself which made him one of the best known and most like members of the international astronomical community of his time.
 
 Born 25 July 1896, Rugby, England. Died 14 October 1982, Rome, Italy.

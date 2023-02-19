@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Thomas Edvard Sylow was a captain in the cavalry and later became a government minister.
-* He was born in Snasa, Nord-Trondelag, Norway, the son of Peter Ludvik von Westen Sylow and Elisabeth Christine Niemeyer.
-* Peter Ludwig Mejdell Sylow was the eldest of his parents' ten children, having younger siblings Fredrikke Caroline Sophie Sylow (born 1834), Elisabeth Arnolda von Westen Sylow (born 1835), Johan Ernst Mejdell Sylow (born 1837), Carl Christian Weinwich Sylow (born 1838), Sverre Thomas Sylow (born 1839), Halfdan Sylow (born 1840-56), Johanne Hermine Sylow (born 1843), Stephanie Martine Sylow (born 1844), and Martin Kierulf Sylow (born 1848-58).
 * Although Sylow had a good upbringing, learning how to work on his own, being taught the importance of doing one's best and working hard, nevertheless in some ways his upbringing would prove a disadvantage in his career.
 * Sylow attended Christiania Cathedral School, graduating in 1850.
 * Sadly, although Sylow would have made an outstanding university lecturer, he did not make a particularly good school teacher.

@@ -34,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Cassels worked with Simpson and Jimmy Whitworth, another mathematician.
 * They adopted applied Bayes'  Theorem, when it was definitely unorthodox to do so, to combine the weights of the evidence that each speculative codegroup provided, then used logarithms to allow addition and finally rounded the logarithms to two-digit scores which could be added easily by unskilled staff.
 * In this year he was elected a fellow of Trinity College.
-* Also in 1949 he married Constance Mabel Merritt Senior; they had one son and one daughter.
 * Constance Cassels died in 2000.
 * After one year as a lecturer in mathematics at the University of Manchester Cassels returned to Cambridge in 1950 as a lecturer.
 * In 1963 he was appointed Reader in Arithmetic at Cambridge and in the same year he was honoured with election as a fellow of the Royal Society of London.

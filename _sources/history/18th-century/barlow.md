@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Peter Barlow** was an English mathematician who produced important mathematical tables.
 
 ### Mathematical Profile (Excerpt):
-* In addition to these articles, Barlow also published several important books, for example in 1811 he published An elementary investigation of the theory of numbers and three years later he published A new mathematical and philosophical dictionary.
 * These soon became known as Barlow's Tables and this work gives factors, squares, cubes, square roots, reciprocals and hyperbolic logarithms of all numbers from 1 to 10 000.
 * Barlow's second major contribution makes his name still well known by amateur astronomers today.
 * However when there was a move to demolish and replace this old bridge in the 1820s, Barlow was consulted to compute how the tides on the Thames would be affected by the removal of this structure.

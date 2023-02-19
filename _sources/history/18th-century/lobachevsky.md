@@ -23,11 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Nikolai Lobachevsky** published his work on non-Euclidean geometry, the first account of the subject to appear in print.
 
 ### Mathematical Profile (Excerpt):
-* Nikolai Ivanovich was one of three sons in this poor family.
-* When Nikolai Ivanovich was seven years of age his father died and, in 1800, his mother moved with her three sons to the city of Kazan in western Russia on the edge of Siberia.
 * There the boys attended Kazan Gymnasium, financed by government scholarships, with Nikolai Ivanovich entering the school in 1802.
 * In 1807 Lobachevsky graduated from the Gymnasium and entered Kazan University as a free student.
-* We shall return later to discuss ideas of some historians, for example M Kline, that Gauss may have given Lobachevsky hints regarding directions that he might take in his mathematical work through the letters exchanged between Bartels and Gauss.
+* Lobachevsky was highly successful in all courses he took ...
 * A skilled teacher, Bartels soon interested Lobachevsky in mathematics.
 * Since Euclid's Elements and his theory of parallel lines are discussed in detail in Montucla's book, it seems likely that Lobachevsky's interest in the Fifth Postulate was stimulated by these lectures.
 * Lobachevsky received a Master's Degree in physics and mathematics in 1811.
@@ -40,11 +38,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Owing to resolute and reasonable measures taken by Lobachevsky the damage to the University was reduced to a minimum.
 * for his activity during the cholera epidemic Lobachevsky received a message of thanks from the Emperor.
 * Despite this heavy administrative load, Lobachevsky continued to teach a variety of different topics such as mechanics, hydrodynamics, integration, differential equations, the calculus of variations, and mathematical physics.
-* In 1832 Lobachevsky married Lady Varvara Alexejevna Moisieva who came from a wealthy family.
-* At the time of his marriage his wife was a young girl while Lobachevsky was forty years old.
 * However Lobachevsky was not lucky in his marriage.
 * After Lobachevsky retired in 1846 (essentially dismissed by the University of Kazan), his health rapidly deteriorated.
-* Soon after he retired, however, his favourite eldest son died and Lobachevsky was hit hard by this tragedy.
 * Lobachevsky did not try to prove this postulate as a theorem.
 * Lobachevsky categorised euclidean as a special case of this more general geometry.
 * On 11 February 1826, in the session of the Department of Physico-Mathematical Sciences at Kazan University, Lobachevsky requested that his work about a new geometry was heard and his paper A concise outline of the foundations of geometry was sent to referees.
@@ -52,7 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1834 Lobachevsky found a method for the approximation of the roots of algebraic equations.
 * This method is today called the Dandelin-Gräffe method since Dandelin also independently investigated it, but only in Russia does the method appear to be named after Lobachevsky who is the third independent discoverer.
 * In 1837 Lobachevsky published his article Géométrie imaginaire Ⓣ(Imaginary geometry) and a summary of his new geometry Geometrische Untersuchungen zur Theorie der Parellellinien Ⓣ(Geometric Investigations on the theory of parellelism) was published in Berlin in 1840.
-* Two of his friends were Farkas Bolyai, the father of János Bolyai (an independent discoverer of non-euclidean geometry), and Bartels who was Lobachevsky's teacher.
 * This coincidence has prompted speculation that both Lobachevsky and Bolyai were led to their discoveries by Gauss.
 * There are other claims made about Lobachevsky and the discovery of non-euclidean geometry which have been recently refuted.
 * The story of how Lobachevsky's hyperbolic geometry came to be accepted is a complex one and this biography is not the place in which to go into details, but we shall note the main events.

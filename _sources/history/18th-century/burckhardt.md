@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Johann Karl Burckhardt** was a German-born astronomer and mathematician who is remembered for his work in fundamental astronomy and for his lunar theory.
 
 ### Mathematical Profile (Excerpt):
-* However, Burckhardt was sent to a high quality Latin school and his talents were soon recognised by the mathematics master who was able to support his pupil's education to a much higher level than would have been possible had he been totally dependent on family financial support.
 * In addition to being enthusiastic about his studies of mathematics, Burckhardt purchased a German translation of Lalande's astronomy text which inspired him to begin to make astronomical observations.
 * At the Gymnasium in Leipzig Burckhardt had good language tuition and gained expertise in French, English, Spanish, Dutch and Swedish.
 * At Easter 1792, Burckhardt entered the University of Leipzig but his initial intention was not to study mathematics but rather to obtain a law degree.

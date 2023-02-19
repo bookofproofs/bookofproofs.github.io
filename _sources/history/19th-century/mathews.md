@@ -23,13 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **George Mathews** was an English mathematician. Most of his research was on number theory but he also worked on analysis and geometry.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Harriet Hannah Ballard, daughter of George Ballard (1784-1865), an under secretary at the Inland Revenue, and his wife Hannah Alcock (died 1851).
-* George and Harriet Mathews were married at St Mary, Islington, on 8 October 1858.
-* The head of the family is the widowed George Ballard, with his daughter Harriet H Mathews and her husband George Mathews, and one month old George Ballard Mathews.
-* George, the subject of this biography, was baptised at St Paul, Canonbury, Islington, on 8 May 1861.
 * He had two younger siblings, Harriet Hannah Mathews and Arthur Mathews, twins born in July 1865 in Canonbury, Islington.
-* In 1866, following the death of George Ballard, the family moved to Herefordshire.
-* There is George Mathews, now described as a landowner, his wife Harriet and their three children, all of whom are at school.
 * In 1872 George Ballard Mathews entered Ludlow Grammar School in Ludlow, Shropshire.
 * After graduating from Ludlow Grammar School Mathews went to University College, London where he studied mathematics taught by Olaus Henrici and also began to study Sanskrit.
 * In fact in 1879 St John's College, Cambridge offered him a senior scholarship in either mathematics or classics, leaving Mathews to make his choice of subjects.
@@ -43,6 +37,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In addition to his treatises and many papers on the classical theory of numbers, Mathews also wrote some articles for Encyclopaedia Britannica, in particular writing the article on universal algebra and the one on number.
 * Another role Mathews played in mathematics teaching and administration was as an examiner to the Universities of Ireland and to the University of Manchester.
 * His versatility led a colleague at Bangor to assert that Mathews could equally well fill four or more chairs at the college.
+* "Not at all," said Mathews, "there is all the difference in the world between a massive intellect and a dense one!" ...
 * Mathews was exceedingly sensitive, and almost morbidly afraid of appearing to put himself forward in any way, so that he hardly received the recognition which was his due.
 * Mathews was honoured, however, with election to the Royal Society of London in 1897.
 * Many articles by Mathews appeared in Nature during 1920-22, but these were extremely difficult years for him for he was suffering from cancer and underwent a series of operations.

@@ -23,9 +23,6 @@ contributors: @David-O-Forfar,bookofproofs
 **William Morgan** was an early actuary.
 
 ### Mathematical Profile (Excerpt):
-* Although originally intending to follow his father's profession as a doctor, William Morgan did not follow that profession.
-* Instead, following the recommendation from his uncle Dr Richard Price, D.D., F.R.S. (1723-1791) -- a Doctor of Divinity and a honorary LL.D. from Yale University in the U.S.A. -- Morgan joined Equitable Life in 1774 as Assistant Actuary.
-* He was the great grandfather of Augustus de Morgan who married the daughter of William Frend (1758-1827), Actuary of the Rock Insurance Company and who had been 2nd Wrangler in the Cambridge Mathematics Tripos of 1780.
 * It is apparent that, prior to joining the Society, William Morgan knew little mathematics.
 * That reply started William on his career at Equitable Life.
 * The tuition that William Morgan received from Dr Price (and Morgan's will to learn) must have been so good that in 1775, only a year after joining Equitable Life, William Morgan was appointed the Actuary of the Society.
@@ -43,9 +40,7 @@ contributors: @David-O-Forfar,bookofproofs
 * Morgan's analysis is not quite right as he assumes that if two lives, xxx and yyy (xxx being the younger life) both die within a given year (having both been alive at the start of the year), then the probability of yyy dying first is always ½.
 * William Morgan became well-known in insurance circles and by the end of the 18th  century he had established himself as the pre-eminent actuary in the U.K. He was consulted by Government when the National Debt Office began the sale of annuities in 1808.
 * Although he did not know it, Morgan had produced X-rays 110 years before Röntgen in 1895.
-* William's uncle Richard Price had been an adviser to the Society from 1768.
 * William's first son, also called William Morgan (1791-1818), entered Equitable Life but died at the age of 28.
-* William's fourth son, Arthur Morgan (1801-1870), FRS, succeeded his father in 1830 as Actuary to Equitable Life holding the position for another 40 years.
 * William Morgan's grandson, also called William Morgan (1831-1897), entered the Equitable but was never the Actuary.
 * Thus, the Morgan and Price families were associated with Equitable Life for well over 100 years and the name 'Morgan' is, in actuarial circles, forever associated with Equitable Life.
 

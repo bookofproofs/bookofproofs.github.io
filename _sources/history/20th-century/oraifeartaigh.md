@@ -4,10 +4,10 @@ categories: history,20th-century
 parentid: bookofproofs$604
 tags: astronomy,origin-ireland
 orderid: 1933
-title: O&amp;#x27;Raifeartaigh, Lochlainn
+title: O&amp;amp;#x27;Raifeartaigh, Lochlainn
 born: 1933
 died: 2000
-keywords: lochlainn o'raifeartaigh,o&amp;#x27;raifeartaigh
+keywords: lochlainn o'raifeartaigh,o&amp;amp;#x27;raifeartaigh
 description: Lochlainn O'Raifeartaigh was an Irish physicist who worked in the field of theoretical particle physics.
 references: bookofproofs$6909
 contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Tarlach O'Raifeartaigh studied at University College, Dublin and was a Gaelic scholar who became Professor of History at St Patrick's Training College, Drumcondra, Dublin.
-* Lochlainn's mother, Neans, was the daughter of T J Morrissey.
-* Lochlainn, born on Kincora Road, Clontarf, Dublin, was the second eldest of his parents' six children, having an older sister, two younger brothers and two younger sisters.
 * O'Raifeartaigh's primary school education was at St Joseph's school, run by the Christian Brothers, in the Marino district of Dublin.
 * The College had 254 pupils in 1950 when O'Raifeartaigh graduated.
 * Schrödinger retired in 1956 and left Ireland to return to Austria so O'Raifeartaigh went to the Dublin Institute for Advanced Studies where he worked under John Synge who held the post of Senior Professor in the School of Theoretical Physics of the Dublin Institute for Advanced Studies.
@@ -41,7 +39,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * O'Raifeartaigh spent three months over the winter of 1963-64 at the Mathematical Science Institute in Madras where he lectured on local Lie groups and their representations.
 * This result, which became known as O'Raifeartaigh's Theorem, brought to an abrupt end major efforts to effect this combination.
 * Lochlainn O'Raifeartaigh.
-* O'Raifeartaigh and his family had been very happy in Syracuse but they all felt that they should take the opportunity to return to Europe.
+* The 'O'Raifeartaigh no-go theorem' was a hugely controversial result at the time and brought quite a few Ph.D. studies to an abrupt halt  ...
 * O'Raifeartaigh made a second visit to the Institut des Hautes Études Scientifiques in 1983-84.
 * Theoretical physics developed rapidly from the 1970s onwards with many of the new ideas related to areas in which O'Raifeartaigh was a leading expert, namely in using group theoretical methods.
 * After editing General Relativity; Papers in Honour of J L Synge (1972), O'Raifeartaigh wrote a book on the topic for which he is most famous, namely Lecture Notes on Supersymmetry (1975).

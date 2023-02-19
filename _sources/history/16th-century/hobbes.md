@@ -23,18 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Thomas Hobbes** was an English scholar and amateur mathematician who wrote on optics and on geometry. He attacked the 'new' methods of mathematical analysis.
 
 ### Mathematical Profile (Excerpt):
-* Thomas Hobbes senior had an older brother, Francis Hobbes, who was a wealthy merchant with no family of his own.
-* Thomas Hobbes, the subject of this biography, had one brother Edmund who was about two years older than he him.
 * Thomas began his schooling in Westport Church when he was four years old.
-* Blows were exchanged and Hobbes' father ran off.
 * From age eight Hobbes, who was by this time proficient at reading and arithmetic, attended Mr Evan's school in Malmesbury, then later Robert Latimer's private school in Westport.
 * Hobbes showed his brilliance at this school and was an outstanding Greek and Latin scholar by the time he left this school at age fourteen, having already translated Euripides' Medea from Greek into Latin iambics.
 * For around two years Hobbes did little in the way of academic studies, being more of a companion to Cavendish who was only a little younger that he was.
 * In 1610 Hobbes went with Cavendish on a European tour and they visited France, Germany, and Italy.
 * On his return Hobbes took up studying Greek and Latin again.
-* In 1626, on the death of his father, William Cavendish inherited the title the Earl of Devonshire, but two years later William died and Hobbes lost a friend as well as his secretarial post.
-* William Cavendish's son was only eleven years old and Hobbes' services were no longer required by the Cavendish family at this time.
-* Hobbes was tutor to the son of Sir Gervase Clinton of Nottinghamshire, from 1628 to 1631.
 * So far we have not mentioned any interest by Hobbes in mathematics, and perhaps even more surprisingly no particular interest in philosophy.
 * In fact Hobbes was about forty years old before he became fascinated by mathematics.
 * Back in England in 1637 Hobbes worked on The Elements of Law, Natural and Politic which was not published at the time.
@@ -75,7 +69,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hobbes defended his mathematical works to the end of his life.
 * Let us end with the summary of what Hobbes believed that he had achieved in mathematics, written near the end of his life.
 * If Hobbes' mathematics was worthless why has so much effort been expounded on it even in the last few years (as the references show).
-* There is no doubt that Hobbes' mathematics is wrong, but strangely, that does not seem to make it worthless! As a philosopher he was a leading figure, having a major influence on political thought.
 
 Born 5 April 1588, Westport, Malmesbury, Wiltshire, England. Died 4 December 1679, Hardwick Hall, Derbyshire, England.
 

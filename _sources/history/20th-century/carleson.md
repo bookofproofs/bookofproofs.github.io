@@ -38,6 +38,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Carleson lectured on his spectacular result at the International Congress of Mathematicians at Moscow in 1966 when he gave the address Convergence and summability of Fourier series.
 * Carleson received the Wolf Prize 1992 together with John G Thompson.
 * Carleson's work has forever altered our view of analysis.
+* Besides his papers Carleson has published an influential book on potential theory 'Selected problems in the theory of exceptional sets' and helped make accessible the unpublished work of Arne Beurling (i.e., as co-editor with P Malliavin, J Neuberger, and J Wermer of 'The collected works of Arne Beurling' 2 Vols 1989) ...
 * But Carleson's influence extends far beyond his publications.
 * Carleson has received a host of honours for his truly outstanding contributions.
 

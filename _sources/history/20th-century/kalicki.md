@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was in these extraordinarily difficult conditions that Kalicki received his university education, studying mathematics and philosophy.
 * Kalicki survived and after the war ended in 1945 he was awarded an M.A. in both philosophy and mathematics.
 * Financed by a British Council Scholarship for two years, Kalicki studied at the University of London, receiving his doctorate in mathematical logic in July 1948.
-* They had one son who was given the name of Jan Kalicki, the same name as his father.
 * By the time Kalicki was awarded his doctorate Poland was a communist controlled country which Kalicki felt would not encourage free thinking academic studies.
 * Kalicki worked on logical matrices and equational logic and published 13 papers on these topics from 1948 until his death five years later.
 * In On Tarski's matrix method (1948), Kalicki defines the sum , the product and also a partial ordering of logical matrices.

@@ -27,14 +27,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Thales seems to be the first known Greek philosopher, scientist and mathematician although his occupation was that of an engineer.
 * He is believed to have been the teacher of Anaximander (611 BC - 545 BC) and he was the first natural philosopher in the Milesian School.
 * However, none of his writing survives so it is difficult to determine his views or to be certain about his mathematical discoveries.
-* Indeed it is unclear whether he wrote any works at all and if he did they were certainly lost by the time of Aristotle who did not have access to any writings of Thales.
 * Even if the book is fictitious, it is quite probable that Thales did indeed define the constellation Ursa Minor.
 * He discovered many propositions himself, and instructed his successors in the principles underlying many others, his method of attacking problems had greater generality in some cases and was more in the nature of simple inspection and observation in other cases.
 * There is a difficulty in writing about Thales and others from a similar period.
 * Although there are numerous references to Thales which would enable us to reconstruct quite a number of details, the sources must be treated with care since it was the habit of the time to credit famous men with discoveries they did not make.
 * Partly this was as a result of the legendary status that men like Thales achieved, and partly it was the result of scientists with relatively little history behind their subjects trying to increase the status of their topic with giving it an historical background.
 * Certainly Thales was a figure of enormous prestige, being the only philosopher before Socrates to be among the Seven Sages.
-* This comment by Plutarch should not be seen as saying that Thales did not function as a politician.
 * He persuaded the separate states of Ionia to form a federation with a capital at Teos.
 * It is reported that Thales predicted an eclipse of the Sun in 585 BC.
 * The cycle of about 19 years for eclipses of the Moon was well known at this time but the cycle for eclipses of the Sun was harder to spot since eclipses were visible at different places on Earth.
@@ -65,7 +63,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It has also been claimed that Thales explained earthquakes from the fact that the Earth floats on water.
 * Again the importance of Thales' idea is that he is the first recorded person who tried to explain such phenomena by rational rather than by supernatural means.
 * It is interesting that Thales has both stories told about his great practical skills and also about him being an unworldly dreamer.
-* Aristotle, for example, relates a story of how Thales used his skills to deduce that the next season's olive crop would be a very large one.
 * On the other hand Plato tells a story of how one night Thales was gazing at the sky as he walked and fell into a ditch.
 
 Born about 624 BC, Miletus, Asia Minor (now Turkey). Died about 547 BC, Miletus, Asia Minor (now Turkey).

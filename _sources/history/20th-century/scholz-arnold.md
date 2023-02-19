@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Arnold Scholz** was a German mathematician who proved important results in number theory.
 
 ### Mathematical Profile (Excerpt):
-* Arnold's mother was Johanna Diesfeld (1874-1957).
 * In 1911 Scholz began his schooling at a primary school in Charlottenburg and later he moved to the Kaiserin Augusta Gymnasium, also in Charlottenburg, which had been founded in 1818 and named for Princess Augusta of Saxe-Weimar-Eisenach in 1876.
 * While he was at the Gymnasium, Scholz was unsure whether to continue his studies in mathematics or in music.
 * In 1923, while at the Kaiserin Augusta Gymnasium, Scholz was awarded his Abitur, giving him the right to study at university.
@@ -61,12 +60,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Hasse, however, told Scholz he had no chance of a position at Göttingen.
 * Friedrich Karl Schmidt (1901-1977) suggested to Scholz that he might be able to get an appointment in Kiel.
 * There can be no question about Scholz.
-* It is, however, out of the question that such a softy as Scholz would be able to exert a political influence.
 * In 1935 Scholz's grant from the Emergency Association ended and in August he made his first visit to Kiel.
 * Scholz will not understand Nazism.
 * In the summer of 1935 Scholz had applied for a position as an assistant to Friedrich Karl Schmidt at Jena.
 * Scholz certainly considered trying to get a position abroad but he did not want to leave Germany and he was being advised to remain in Kiel.
-* Scholz continued to seek positions, for example in Tübingen.
+* Scholz may also apply for one of these ...
 * While in Kiel Scholz supervised the doctoral studies of Gunter Hannink.
 * However, in May 1940 Scholz was conscripted into the army and sent as a radio operator to the East.
 * At Flensburg, Scholz was a colleague of Ott-Heinrich Keller.

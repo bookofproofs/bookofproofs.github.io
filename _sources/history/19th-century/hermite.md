@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Ferdinand Hermite was a trained engineer and he worked in this capacity in a salt mine near Dieuse.
-* Charles was the sixth of his parents seven children and when he was about seven years old his parents left Dieuse and went to live in Nancy to where the business had moved.
-* Education was not a high priority for Charles's parents but despite not taking too much personal interest in their children's education, nevertheless they did provide them with good schooling.
 * Charles was something of a worry to his parents for he had a defect in his right foot which meant that he moved around only with difficulty.
 * Charles attended the Collège de Nancy, then went to Paris where he attended the Collège Henri.
 * In some ways Hermite was similar to Galois for he preferred to read papers by Euler, Gauss and Lagrange rather than work for his formal examinations.
@@ -61,7 +59,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Poincaré is almost certainly the best known of Hermite's students.
 * He once suggested that Hermite's mind did not proceed in logical fashion.
 * Hadamard had great respect for Hermite as a teacher.
-* In terms of his family life Hermite had married Louise Bertrand, Joseph Bertrand's sister.
 * Hermite, therefore, disliked Cantor's world, in which a new mathematical world was created.
 
 Born 24 December 1822, Dieuze, Lorraine, France. Died 14 January 1901, Paris, France.

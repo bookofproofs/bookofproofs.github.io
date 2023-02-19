@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Claude Mylon** was a French mathematician important because of his correspondence with the leading mathematicians of the day.
 
 ### Mathematical Profile (Excerpt):
-* Claude was his parent's third son and he was brought up in a well-off family.
 * Mylon is important in the history of mathematics, not for his own achievements, but for his role in the Académie Parisienne, the group of scholars which was a continuation of the group formed in Paris by Mersenne, which was to form the foundation on which the Paris Academy of Sciences was formed.
 * Mylon joined Mersenne's mathematical circle in around 1645 when he began to take careful notes of mathematical discussions in the group.
 * Mylon took on the role of secretary of the academy.

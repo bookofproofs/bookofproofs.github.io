@@ -33,9 +33,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1955, after the award of his doctorate, Babuska was appointed as head of the Department of Constructive Methods of Mathematical Analysis of the Mathematical Institute of the Czechoslovak Academy of Sciences.
 * In the following year, 1956, Babuska founded the journal Applications of Mathematics (Applikace Matematiky).
 * In 1960 Babuska was awarded a Dr Sc. (the highest possible degree in Czechoslovakia, equivalent to a D.Sc.) by the Czechoslovak Academy of Sciences.
-* The political situation in Czechoslovakia has not been mentioned up to now in Babuska's biography since it has played a relatively small part.
 * Mathematics was allowed to develop without interference, however, and the applied and computational methods developed by Babuska found favour.
-* Babuska had just been appointed as a professor at the Charles University of Prague but, given the political situation, he travelled with his family to the United States where he spent a year as a visiting professor at the Institute for Fluid Dynamics and Applied Mathematics at the University of Maryland at College Park.
 * After coming to the United States, Babuska became the world-leading expert in finite element analysis.
 * In his landmark paper in 1971, Ivo introduced the discrete inf-sup condition, generalizing the results of J Cea and R Varga, and setting the theoretical framework for stability and convergence analysis of arbitrary linear problems.
 * Ivo has had a unique ability to foresee the development of the field of finite elements.
@@ -44,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Babuska, with Ivan Hlavácek and Jan Chleboun, published Uncertain input data problems and the worst scenario method in 2004.
 * Among the many other services to mathematics which Babuska has given, we mention the many journals which have benefited by his accepting a position on their editorial board: Communications in Applied Analysis; Communications in Numerical Methods in Engineering; Computer & Mathematics; Computer Methods in Applied Mechanics and Engineering; Computers and Structures; Communications in Applied Analysis; International Journal for Numerical Methods in Engineering; Modelling and Scientific Computing; Numerical Mathematics - A Journal of Chinese Universities; Numerical Methods for Partial Differential Equations; and Siberian Journal of Computer Mathematics.
 * The International Astronomical Union named asteroid No. 36030 "Babuska" in his honour in 2002.
-* Ivo Babuska is married to Renots.
 
 Born 22 March 1926, Prague, Czechoslovakia (now Czech Republic).
 

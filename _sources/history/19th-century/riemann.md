@@ -23,17 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Bernhard Riemann**'s ideas concerning geometry of space had a profound effect on the development of modern theoretical physics. He clarified the notion of integral by defining what we now call the Riemann integral.
 
 ### Mathematical Profile (Excerpt):
-* Friedrich Riemann married Charlotte Ebell when he was in his middle age.
-* Bernhard was the second of their six children, two boys and four girls.
-* Friedrich Riemann acted as teacher to his children and he taught Bernhard until he was ten years old.
 * At this time a teacher from a local school named Schulz assisted in Bernhard's education.
 * In 1840 Bernhard entered directly into the third class at the Lyceum in Hannover.
-* While at the Lyceum he lived with his grandmother but, in 1842, his grandmother died and Bernhard moved to the Johanneum Gymnasium in Lüneburg.
 * Bernhard seems to have been a good, but not outstanding, pupil who worked hard at the classical subjects such as Hebrew and theology.
 * He showed a particular interest in mathematics and the director of the Gymnasium allowed Bernhard to study mathematics texts from his own library.
 * On one occasion he lent Bernhard Legendre's book on the theory of numbers and Bernhard read the 900 page book in six days.
 * In the spring of 1846 Riemann enrolled at the University of Göttingen.
-* Riemann was always very close to his family and he would never have changed courses without his father's permission.
 * This was granted, however, and Riemann then took courses in mathematics from Moritz Stern and Gauss.
 * It may be thought that Riemann was in just the right place to study mathematics at Göttingen, but at this time the University of Göttingen was a rather poor place for mathematics.
 * Gauss did lecture to Riemann but he was only giving elementary courses and there is no evidence that at this time he recognised Riemann's genius.
@@ -62,7 +57,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Returning to the faculty meeting, he spoke with the greatest praise and rare enthusiasm to Wilhelm Weber about the depth of the thoughts that Riemann had presented.
 * In the mathematical apparatus developed from Riemann's address, Einstein found the frame to fit his physical ideas, his cosmology, and cosmogony: and the spirit of Riemann's address was just what physics needed: the metric structure determined by data.
 * So this brilliant work entitled Riemann to begin to lecture.
-* Riemann's letters to his dearly-loved father were full of recollections about the difficulties he encountered.
 * Although only eight students attended the lectures, Riemann was completely happy.
 * At this time there was an attempt to get Riemann a personal chair but this failed.
 * One of the three was Dedekind who was able to make the beauty of Riemann's lectures available by publishing the material after Riemann's early death.
@@ -82,9 +76,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This is the famous Riemann hypothesis which remains today one of the most important of the unsolved problems of mathematics.
 * Riemann studied the convergence of the series representation of the zeta function and found a functional equation for the zeta function.
 * Many of the results which Riemann obtained were later proved by Hadamard and de la Vallée Poussin.
-* In June 1862 Riemann married Elise Koch who was a friend of his sister.
 * In the autumn of the year of his marriage Riemann caught a heavy cold which turned to tuberculosis.
-* In fact his mother had died when Riemann was 20 while his brother and three sisters all died young.
 * Riemann tried to fight the illness by going to the warmer climate of Italy.
 * Having spent from August 1864 to October 1865 in northern Italy, Riemann returned to Göttingen for the winter of 1865-66, then returned to Selasca on the shores of Lake Maggiore on 16 June 1866.
 * Finally let us return to Weierstrass's criticism of Riemann's use of the Dirichlet's Principle.

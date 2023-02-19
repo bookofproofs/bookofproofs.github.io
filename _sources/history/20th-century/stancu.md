@@ -24,9 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Calacea is around 25 km north of Timișoara, the capital of Timis county.
-* His family were farmers but his early years were ones of great difficulty.
-* His father died when he was a baby and his mother had to earn a living so she worked as a shepherd.
-* The family were unable to care for Dimitrie, so his oldest brother, who worked as a painter in the city of Arad, took him to the Regina Maria orphanage in Arad where he was brought up.
 * The first two years of his primary school studies, 1937-39, were in the Regina Maria orphanage and his next two years were spent at the Sânnicolaul Mic.
 * After completing his primary education, in 1941 he went to the Gymnasium in "New Arad" where he spent two years before completing his schooling at the Moise Nicoara in the years 1943-47.
 * This school was founded in 1873 when Arad was part of Austria-Hungary and only received the name "Moise Nicoara" in 1919 when Transylvania became part of Romania.
@@ -46,6 +43,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * These are elementary in character, but rather complicated.
 * In some of them, only the cases of 2 or 3 variables are worked out, in order to keep notations reasonably simple.
 * In the case of lattice points with unequal distances, use is made of divided differences.
+* Somewhat simpler results are found in the case of equidistant lattice points ...
 * Some other papers in this series were On polynomial interpolation formulas for functions of several variables (Romanian) (1957), Generalisation of some interpolation formulas for functions of several variables and certain thoughts on the numerical integration formula of Gauss (Romanian) (1957), A generalisation of the Gauss-Christoffel quadrature formula (Romanian) (1957), Generalisation of certain interpolation formulas for functions of several variables (Romanian) (1957), Sur une classe de polinômes orthogonaux et sur des formules générales de quadrature à nombre minimum de termes Ⓣ(On an orthogonal class of polynomials and of the general formulas of quadrature to a minimum number of terms) (1957), Contributions to the numerical integration of functions of several variables (Romanian) (1957), and On the Hermite interpolation formula and on some of its applications (Romanian) (1957).
 * During the academic year 1961-1962 Stancu was awarded a fellowship from the Romanian Ministry of Education to undertake research in the Department of Numerical Analysis of the University of Wisconsin at Madison in the United States.
 * This department was led by Preston C Hammer (1913-1986) and the year he spent there proved important for the future development of Stancu's career.
@@ -78,8 +76,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Stancu (1927 - 2014): his influence on my mathematical work'; Voichita Adriana Radu, 'Academician Professor D.
 * Stancu : a life time dedicated to the numerical analysis and theory of approximation'; and Andrei Vernescu, 'Acad.
 * Stancu, a respectful remember and a deep homage'.
-* Dimitrie D Stancu was married to Felicia, who was also a mathematician teaching at the Babeș-Bolyai University of Cluj.
-* They had two daughters, Angela Stancu (born 1957) and Mirela (born 1958), who both became secondary school teachers of mathematics.
 * He had a warm and sensitive personality.
 * One of the really remarkable things about Dimitrie D Stancu's commitment to mathematics was that he knew how to hand it on others.
 * In this way he inspired many students and colleagues to do some of their best work.

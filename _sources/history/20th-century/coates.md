@@ -23,12 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Coates** was an Australian mathematician who was the Sadleirian Professor at  Cambridge and worked in algebraic number theory.
 
 ### Mathematical Profile (Excerpt):
-* The family settled in Manning Valley as, sometime later, did John's paternal grandfather who was from Ilkley, Yorkshire, England.
-* John's father, J R Coates, taught French at a high school but a series of mental breakdowns led to him retiring from teaching and managing the farm his father owned near the Manning River.
 * By this time John was being educated at a very small school, with only one teacher, in a village about five miles away from the farm on which he lived.
-* John's father managed to arrange for John to go to Taree Primary School for his final primary year.
-* When John was thirteen years old his father collapsed again with similar health problems that had plagued him earlier in his life.
-* After graduating from Taree High School, Coates hoped to continue his education at university but fully understood that his father was not in a financial position to pay his fees.
 * However, John failed to win a scholarship but he had also applied to the Australian National University for a scholarship and was invited for an interview.
 * Kurt Mahler had also been appointed at A.N.U. and he taught Coates a course in elementary number theory during the second semester of his first year of study.
 * Coates was fascinated by number theory and this course played a large role in his decision to move from physics to mathematics.

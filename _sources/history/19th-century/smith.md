@@ -23,11 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Henry Smith** was an Irish mathematician whose most important contributions are in number theory where he worked on elementary divisors.
 
 ### Mathematical Profile (Excerpt):
-* Henry's father John died when he was less than two years old and Mary was left to bring up their four children, of whom Henry was the youngest.
-* One of his older sisters Eleanor Elizabeth Smith, born in 1822, went on to make a major contribution to education, and in particular to women's education in Oxford.
-* Henry was a bright child who was taught first by his mother, then by private tutors in Hyde from 1838.
 * Smith became a fellow, then a tutor at Balliol College.
-* Smith did not marry but lived in Oxford with his mother until her death in 1857.
 * At the time that Eleanor moved in, Smith was living in St Giles' but in 1874 he was appointed as keeper of the University Museum and moved into the keeper's house in the Museum in South Parks Road.
 * Influenced by Gauss, Smith's most important contributions are in number theory where he worked on elementary divisors.
 * Smith also extended Gauss's theorem on real quadratic forms to complex quadratic forms.

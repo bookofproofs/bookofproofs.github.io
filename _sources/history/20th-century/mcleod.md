@@ -23,10 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Bryce McLeod** was a Scottish mathematician who worked on linear and nonlinear partial and ordinary differential equations.
 
 ### Mathematical Profile (Excerpt):
-* Their son John Bryce McLeod, the subject of this biography, was born on 23 December 1929 but, as one would expect, his birth was not registered until January 1930.
-* Bryce's parents, afraid that their son's education would suffer, sent him to be taught by his grandfather when the pupils were not at school.
-* Young Bryce, having seen nothing beyond arithmetic before, had, he later recalled, no idea what these x's and y's were about, but was too in awe of his grandfather to admit it.
-* After this introduction to algebra from his grandfather, Bryce progressed rapidly in his schooling at Aberdeen Grammar School.
 * The University of Aberdeen Bursary Competition was an important event for those in their final year at high school and McLeod had sat the examination and had been awarded a top bursay.
 * At this time McLeod was aiming to become a school teacher.
 * McLeod spent two years at Christ College, Oxford, working for his B.A. His tutor at the college was Theodore William Chaundy (1889-1966) who was also a University Reader in Mathematics.
@@ -48,7 +44,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1962 Ian Michael became McLeod's first research student.
 * At one point in his Naylor lecture of 2012 Bryce emphasised the importance of asking questions.
 * We have already mention that McLeod was awarded the Naylor Prize and Lectureship in Applied Mathematics by the London Mathematical Society in 2011.
-* McLeod retired from Pittsburgh in 2007 and, the family having kept their home in Abingdon during the twenty years they were in Pittsburgh, they were able to take up residence near Oxford again.
 * In fact they had returned to Abingdon most summers during their twenty years in the United States and McLeod had maintained strong contacts with the Oxford Centre for Industrial and Applied Mathematics and the Oxford Centre for Nonlinear PDEs. McLeod spent the last years of his career at the latter Oxford Centre.
 * Let us end with some tributes to McLeod.
 

@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Wenceslaus Karsten** was a German mathematician who wrote about the logarithms of negative and complex numbers.
 
 ### Mathematical Profile (Excerpt):
-* Johann Gustav was the eldest of his parents eight children.
 * Having lost their home and all their possessions, the Karsten's moved to accommodation in Burg Stargard, just south of Neubrandenburg.
-* A short while later it was decided to send the young boy to Güstrow to live with his grandfather Gustav Thiel.
 * Johann Christopher then tried to rebuild the pharmacy in Neubrandenburg but in 1741 he too went to live in Güstrow where he became a notary and ran a small farm.
 * Although Karsten received his education in Güstrow, certainly at first at the Fürstliche cathedral school, it was a schooling which aimed to teach languages and very little attention was given to mathematics or natural science.
 * Later however, beginning in 1748, when he showed great mathematical potential, Karsten was given private instruction in mathematics.
-* Karsten then studied theology and philosophy at Rostock from 1750 to 1752 where he was taught by Aepinus and his brother, and at Jena from 1752 to 1754.
 * Karsten went to Rostock to study for his doctorate which was awarded in February 1755 for his thesis Algebra ejosque differentia ab Arithmetica Respondente Ⓣ(Algebra of differences from an arithmetical point of view), and he was appointed there as a privatdozent at Easter.
 * Aepinus had not yet left Rostock when Karsten took up his post and was able to advise him about teaching.
 * He also introduced Karsten to Euler and the two exchanged a series of letters (38 in all, of which 23 were written by Karsten) between 1758 and 1765.

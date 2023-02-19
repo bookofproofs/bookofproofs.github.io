@@ -24,16 +24,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * She went on holiday to Switzerland with her friend Anna and met Anna's cousin, David Lvovich Landau (born 1866).
-* Their daughter Sonya was born on 8 August 1906, and their son Lyova (the subject of this biography, known as Lev) in January 1908.
-* He taught his son Lev mathematics from a young age.
-* Both Sonya and Lev were very bright but very stubborn children.
 * A Jewish high school opened in Baku in September 1916 and the eight year old Lev began his schooling there.
 * Lev was brilliant in science and mathematics but only mediocre in Hebrew and Yiddish.
-* From his mother, Lev learnt French and German and quickly became fluent.
 * While Lev was at high school, the Russian Revolution took place.
 * Lev was a staunch believer in Communist principles but, as we will see below, came to hate the Soviet leadership.
 * Although calculus was not part of the school syllabus, Lev had studied this own topic his own and, later in life, would say that he could not remember a time when he was not proficient at differentiation and integration.
-* David Lvovich wanted his son to have a career in finance or administration so Lev was sent to Baku Economic Technical School for a year to delay his entry to university studies.
 * Landau was still only fourteen years old when he entered Baku University (later called the Kirov Azerbaijan State University) in 1922 and by this time he was already enthusiastic about mathematics, physics and chemistry.
 * In 1929, supported with a Rockefeller Foundation Fellowship, Landau set off for eighteen months of foreign travel, visiting Germany, Switzerland, Holland, England, Belgium, and Denmark.
 * Landau and Peierls discussed, in German, many topics including astrophysics.

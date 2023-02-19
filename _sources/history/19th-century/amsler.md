@@ -30,9 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Back in Switzerland, Amsler worked for a year at the observatory in Geneva.
 * In 1851, wishing to have more time to devote to his research, Amsler took a position at the Gymnasium in Schaffhausen, a town in northern Switzerland situated on the bank of the Rhine.
 * Amsler extended the theorems of both Ivory and Poisson on this topic.
-* In 1854 Amsler married and this may have been the turning point in his career.
-* His wife, Elsie Laffon, was the daughter of a well known Swiss scientist and, as was the custom in Switzerland at that time,  he was known as Amsler-Laffon from this time on.
-* Elsie and Jacob Amsler-Laffon's children were, however, always known by the name Amsler rather than Amsler-Laffon.
 * Shortly after his marriage Amsler changed his research interests and his career.
 * In 1856 Amsler published a paper Über das Planimeter Ⓣ(On the planimeter) in which he gave details of his idea.
 * In order to make money from his invention, Amsler set up a workshop in Schaffhausen in 1854 specially designed to produce his polar planimeter.

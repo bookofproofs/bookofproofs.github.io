@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Recorde** was a Welsh doctor and mathematician who invented the "equals" symbol '=' which appears in his book _The Whetstone of Witte _ (1557).
 
 ### Mathematical Profile (Excerpt):
-* Thomas Recorde's father was from Wales and Rose Jones was the daughter of Thomas Jones from Machynlleth in Montgomeryshire.
-* Robert was the second son of Thomas and Rose and, although the date is not definitely known, it is thought that he entered the University of Oxford in about 1525.
 * It is likely that following his election to a fellowship in 1531 Recorde taught at Oxford for a few years but there are no records to prove this.
 * The next that we know for certain is that he went to Cambridge and studied there for his M.D. There is a record at Cambridge which states that Recorde received a license in medicine in Oxford twelve years earlier and this almost certainly means that Recorde received the degree of B.M. from Oxford although again no record of this has been found.
 * Recorde was in London, practicing medicine at the time of Edward's succession.
@@ -37,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * When we say that Recorde was back in favour, it must be understood that his quarrel with Sir William Herbert had never been settled and there continued to be animosity between the two.
 * The silver mines in Wexford did not become a successful venture for Recorde.
 * The Earl of Pembroke certainly did not give Recorde support and by 1553, with the mines showing a loss, the project was closed down and Recorde was recalled to England.
-* The Church of England had been established in 1534 by Mary's father and Recorde was a supporter of the Reformation.
 * It was really a very stupid move on Recorde's part, therefore, when in 1556 he attempted to charge Pembroke with misconduct in order to regain his court position.
 * Of course it is almost certain that Recorde had a valid case against Pembroke but there was no way that someone so close to Mary and Philip would allow a minor civil servant like Recorde to get the better of him.
 * Pembroke countered Recorde's charges by suing Recorde for libel, the bill being served on 16 October 1556.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Morrison** was appointed Professor of Physics at Victoria College Stellenbosch in South Africa. He did important work on the magnetic survey of South Africa.
 
 ### Mathematical Profile (Excerpt):
-* John Morrison had an older brother Andrew (born about 1861) and three younger siblings: James (born about 1865), Annie (born about 1868) and William (born about 1869).
 * John Morrison began his schooling in Perthshire at Muthill F.C. School, spending seven years at this school, but attended George Watson's College, Edinburgh, for three years before matriculating at the University of Edinburgh.
 * Morrison left Edinburgh University before completing his B.Sc., taking up a position in physics at Heriot-Watt College, Edinburgh, in 1886.
 * In 1901, in conjunction with John Beattie, Morrison began the study of the magnetic elements as recorded at the Cape of Good Hope, and they were led on to their magnetic survey of South Africa.

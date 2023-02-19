@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Joseph Fourier** studied the mathematical theory of heat conduction. He established the partial differential equation governing heat diffusion and solved it by using infinite series of trigonometric functions.
 
 ### Mathematical Profile (Excerpt):
-* After the death of his first wife, with whom he had three children, he remarried and Joseph was the ninth of the twelve children of this second marriage.
-* Joseph's mother died went he was nine years old and his father died the following year.
 * There Joseph studied Latin and French and showed great promise.
 * In 1787 Fourier decided to train for the priesthood and entered the Benedictine abbey of St Benoit-sur-Loire.
 * Fourier was unsure if he was making the right decision in training for the priesthood.
@@ -33,14 +31,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Certainly Fourier was unhappy about the Terror which resulted from the French Revolution and he attempted to resign from the committee.
 * However this proved impossible and Fourier was now firmly entangled with the Revolution and unable to withdraw.
 * Fourier defended members of one faction while in Orléans.
+* It seems that Fourier ...
 * This incident was to have serious consequences but after it Fourier returned to Auxerre and continued to work on the revolutionary committee and continued to teach at the College.
-* Fourier feared the he would go to the guillotine but, after Robespierre himself went to the guillotine, political changes resulted in Fourier being freed.
 * Later in 1794 Fourier was nominated to study at the École Normale in Paris.
 * The school opened in January 1795 and Fourier was certainly the most able of the pupils whose abilities ranged widely.
 * Fourier began teaching at the Collège de France and, having excellent relations with Lagrange, Laplace and Monge, began further mathematical research.
 * By 1 September 1795 Fourier was back teaching at the École Polytechnique.
 * In 1798 Fourier joined Napoleon's army in its invasion of Egypt as scientific adviser.
-* Fourier acted as an administrator as French type political institutions and administration was set up.
 * While in Cairo Fourier helped found the Cairo Institute and was one of the twelve members of the mathematics division, the others included Monge, Malus and Napoleon himself.
 * Fourier was elected secretary to the Institute, a position he continued to hold during the entire French occupation of Egypt.
 * Fourier was also put in charge of collating the scientific and literary discoveries made during the time in Egypt.
@@ -66,7 +63,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1822 Delambre, who was the Secretary to the mathematical section of the Académie des Sciences, died and Fourier together with Biot and Arago applied for the post.
 * After Arago withdrew the election gave Fourier an easy win.
 * Shortly after Fourier became Secretary, the Académie published his prize winning essay Théorie analytique de la chaleur in 1822.
-* This was not a piece of political manoeuvring by Fourier however since Delambre had arranged for the printing before he died.
 * During Fourier's eight last years in Paris he resumed his mathematical researches and published a number of papers, some in pure mathematics while some were on applied mathematical topics.
 * Biot claimed priority over Fourier, a claim which Fourier had little difficulty showing to be false.
 * Poisson, however, attacked both Fourier's mathematical techniques and also claimed to have an alternative theory.

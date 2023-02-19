@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Littlewood was a very successful mathematics undergraduate being awarded College prizes and the Yeats prize.
 * Littlewood's first appointment was as a school teacher, but, in 1928, he found a post as a temporary part-time lecturer at University College Swansea.
 * Although his research flourished in Swansea, Littlewood was keen to return to Cambridge and, when the chance came in 1947, he accepted a post as university lecturer.
-* Littlewood's family were not happy with the move to Cambridge but he did not remain there long for in 1948 he was appointed to the chair of mathematics at the University College of North Wales, Bangor.
 * Until Littlewood's appointment to Swansea he had no definite research interests.
 * Another reason was certainly the work of Hilbert, but Littlewood tried to remedy the "tensor reason" in a series of papers on tensors and invariant theory.
 * Littlewood's main work, however, began in 1934 after Richardson had suggested that Littlewood study papers by Frobenius and Schur.

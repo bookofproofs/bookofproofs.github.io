@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gerald Whitrow** undertook research on relativity and wrote a number of books, especially on 'time'. He believed that the history of science was important in works describing technical mathematics. He put this into practice in both his papers and his books.
 
 ### Mathematical Profile (Excerpt):
-* George Whitrow, born in Kimmeridge on 28 July 1875 to the shale miner Henry Whitrow and his wife Maria Foot, became a farmer and, at the time Gerald was born, was farming near Kimmeridge.
 * Gerald was the elder of his parents' two sons.
-* Around 1916 the family moved to Clapham, London when George Whitrow began working in Harrods.
 * Soon after the move, Gerald began his schooling at Wix's Lane School.
 * Whitrow impressed Chaundy so much that he arranged for Whitrow to receive a scholarship to study at Christ Church College, Oxford.
 * Whitrow graduated from Christ's Hospital on 29 July 1930 and, in October of that year, began his university studies of mathematics at Christ College.
@@ -55,7 +53,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In this he showed great expertise but, in some ways, it was a restricted view of the history of mathematics as this review by Dirk Struik of one of Whitrow's last papers, Why did mathematics begin to take off in the sixteenth century?
 * After Whitrow died in June 2000, there was a private funeral after which his ashes were scattered on the Christ Church Meadow.
 * Whitrow was a man of complete integrity, who was always totally dedicated to whatever he had in hand and courteous to a fault.
-* Whitrow's wife Magda died in London on 1 February 2011.
 * In 2013 the Commission on Bibliography and Documentation of the International Union of History and Philosophy of Science and Technology/Division of History of Science and Technology founded the Neu-Whitrow Bibliography Prize to be awarded every four years to an individual or team for creating the most innovative research tool for managing, documenting and analysing sources within the history of science and technology.
 * It is named after the outstanding bibliographers John Neu of the University of Wisconsin, and Magda Whitrow.
 

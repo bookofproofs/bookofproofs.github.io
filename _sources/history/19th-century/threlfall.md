@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Threlfall** was a German mathematician who worked on algebraic topology. With Herbert Seifert he wrote a standard work on topology.
 
 ### Mathematical Profile (Excerpt):
-* William Senior was a son of Richard Threlfall of Hollowforth, near Preston in Lancashire, England.
-* Sadly William, the subject of this biography, never knew his father who drowned in the Diala river in India in March 1888 while on a research expedition.
-* Helene Threlfall returned to her home town of Dresden where her son was born and there she lived with her two unmarried brothers, Hugo and Max Koch.
 * William was brought up in Dresden and he attended the Humanistischen Königlichen Gymnasium in Dresden-Neustadt, graduating with his Abitur in 1907.
 * After graduating from the high school, Threlfall entered the University of Jena where his main interest was in chemistry but he also studied mathematics courses.
 * In 1927 Threlfall submitted his habilitation thesis to the Technische Hochschule in Dresden and began lecturing there as a Privatdocent, particularly on his research topic of topology.
@@ -33,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * We should note in passing the considerable age difference between the two with Threlfall being twenty years older than his friend and student.
 * Threlfall's topology course, attended by Seifert as a student, became the basis of their famous book Lehrbuch der Topologie Ⓣ(Textbook of Topology) (1934).
 * Threlfall was appointed as an assistant in the Institute of Engineering Mechanics of the Technical University of Dresden in 1929.
-* In January 1930 Seifert moved into the spacious house in Nordstrasse where Threlfall was still living with his mother and two uncles.
 * Frankfurt had been severely affected by the anti-Jewish legislation brought in by the Nazis (this was one of the reasons that Siegel left) and when Threlfall arrived there were several leading mathematicians, such as Paul Epstein, Ernst Hellinger and Max Dehn, who were still in Frankfurt but not allowed to teach.
 * Let us now look at some of Threlfall's publications.
 * Much of Threlfall's best-known work was done in collaboration with Herbert Seifert.

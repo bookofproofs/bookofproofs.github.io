@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * However, after this Jack's undergraduate years were interrupted with two years of military service.
 * Jack was a member of the Edinburgh Mathematical Society, joining in December 1920 immediately after graduating from Edinburgh with his first degree.
-* David Jack married Isabel Grace Jack in 1927; they had two sons.
 
 Born 7 August 1896, Scarfskerry, Caithness, Scotland. Died 25 March 1975, St Andrews, Fife, Scotland.
 

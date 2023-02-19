@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Richard Price** was a Welsh congregational minister who made contributions to statistics.
 
 ### Mathematical Profile (Excerpt):
-* At quite a young age Richard seems to have adopted somewhat different religious opinions from those of his father, being attracted towards more liberal Christian views.
-* Price left Fund Academy in 1744 and moved to Stoke Newington where he was family chaplain to George Streatfield.
-* In 1756 George Streatfield and an uncle of Price died, and as a result of money left to him Price's financial circumstances improved greatly.
 * Price published Review of the Principal Questions in Morals in 1757 which contains his theory of ethics.
 * Certainly up to this point nothing we have mentioned about Price would suggest that he should be in this archive, but the reason that we have included him is his contributions to statistics.
 * Several of Bayes's papers were therefore given to Price.

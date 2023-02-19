@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Peter obtained a post on there and lectured for 3 years.
-* Peter had been involved in politics in Czechoslovakia, supporting the political movement which hoped to humanise Communist rule by introducing basic civil freedoms, an independent judiciary, and other democratic institutions.
 * During Peter's visit to Warwick the Soviets invaded Czechoslovakia on the night of August 20-21, 1968, installing a Soviet controlled security service.
 * Peter feared that he would be in danger if he returned, and since the reform programme had stopped, he preferred the freedom in Britain.
 * Stefan remained at the University of Warwick where he studied for a Ph.D. which was awarded in 1973.

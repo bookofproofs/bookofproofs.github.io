@@ -23,26 +23,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Louis de Branges** is a French-born American mathematician who is best known for proving the long-standing Bieberbach conjecture.
 
 ### Mathematical Profile (Excerpt):
-* His father, also named Louis de Branges, had been born into a French-American family living in Wayne, a suburb of Philadelphia in the United States.
-* Shortly after Louis de Branges, who was twenty-five years old, sailed with his wife to France where they settled into an apartment in the Square du Roule, Paris.
-* Louis and Diane had three children, Louis (the subject of this biography), Elise (born 1935), and Eéonore (born 1938).
-* One of the perks of working for a shipping company was a free trip to New York each year and this trip was always made by Diane and children so Louis (the subject of this biography), although brought up in France, was in the United States when a child and met his American relations.
 * Louis began his education in Louveciennes, in the western suburbs of Paris, in 1937.
-* Louis's father was among the French troops evacuated but he soon returned by ship to France.
 * Despite the war Louis continued his education at Louveciennes spending his third year at the school although by this time the school buildings could not be used as they had been taken over as a German military headquarters and the de Branges' home was occupied by German soldiers.
-* In 1941 Diane's father persuaded his daughter to return to the United States and she went with her children, taking a train to Lisbon from where they managed to get a passage on a ship sailing to New York.
-* Louis's father remained in France.
-* The family settled first in Rehoboth Beach, Delaware but then moved to a house near Wilmington and de Branges entered Saint Andrew's School in Middletown, Delaware.
-* At Saint Andrew's School, de Branges studied hard aware that his grandmother was finding life harder because of the dependence of his mother and her children.
-* He solved hundreds of algebra problems on his own but he was driven to work hard on a problem given to him by Irénée du Pont, a wealthy friend of de Branges' grandfather.
-* It was de Branges' grandfather who decided that he should go to university, but the choice of the Massachusetts Institute of Technology was probably made at Irénée du Pont's suggestion.
 * In his second year de Branges took Walter Rudin's course on the 'Principles of Mathematical Analysis'.
 * By his third year he had made a decision that he would try to prove the Riemann hypothesis, an aim which would dominate his life from that point on.
 * He attended a symposium on harmonic analysis at Cornell University in the summer 1956 and a problem arose in a lecture on the spectral theory of unbounded functions given by Szolem Mandelbrojt.
 * He was awarded a Ph.D. from Cornell University for this thesis in 1957.
 * After the award of his doctorate, de Branges was appointed as an Assistant Professor of Mathematics at Lafayette College in Easton, Pennsylvania.
 * He spent two years at Lafayette, leaving in 1959 to spend the academic year 1959-60 at the Institute for Advanced Study at Princeton.
-* De Branges remarried on 17 December 1980 to Tatiana Jakimov.
 * Let us now look at the remarkable mathematics de Branges has produced.
 * After completing his doctorate, de Branges worked on Hilbert spaces of entire functions.
 * The treatment of entire functions developed in these and subsequent papers by de Branges was published in his 326-page book Hilbert spaces of entire functions in 1968.
@@ -63,10 +51,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * One is made to the American Mathematical Society for its continued endorsement of research related to the Bieberbach conjecture.
 * The American Mathematical Society has earned a reputation as the world's foremost leader in fundamental scientific research.
 * Another acknowledgement is due to Ludwig Bieberbach as a founder of that branch of twentieth century mathematics which has come to be known as functional analysis.
-* This mathematical contribution has been obscured by his political allegiance to National Socialism, which caused the mass emigration of German mathematical talent, including many of the great founders of functional analysis.
 * The issue which divided Bieberbach from these illustrious colleagues is relevant to the present day because it concerns the teaching of mathematics.
 * Bieberbach originated the widely held current view that mathematical teaching is not second to mathematical research.
-* Progress has been made, for example, in the structure theory of canonical unitary linear systems and its applications to analytic function theory.
 * Progress has also been made towards the initial objective of a proof of the Riemann hypothesis.
 * At the International Congress of Mathematicians held in Berkeley, California, in August 1986, de Branges was an invited plenary speaker and gave the address Underlying concepts in the proof of the Bieberbach conjecture.
 * Now we mentioned earlier that de Branges' life has been dominated by his aim to prove the Riemann hypothesis and he indicated in the above quote that his proof of the Bieberbach conjecture is, in many ways, a consequence of the work he was doing attacking the Riemann hypothesis.

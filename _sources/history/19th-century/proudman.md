@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Joseph Proudman** was a mathematician who made major contributions to oceanography, particularly to the theory of tides. He was Professor of Applied Mathematics, then Professor of Oceanography at the University of Liverpool. He headed the Liverpool Tidal Institute, now called the Proudman Oceanographic Laboratory.
 
 ### Mathematical Profile (Excerpt):
-* John Proudman, the son of Ralph Proudman of "3 Acres Farm" Sevenoaks, was a farm bailiff at Thurston Fold Farm, Unsworth, when he married Nancy Blease in 1887 at Prescot, Lancashire.
-* Nancy was the daughter of the police constable Joseph Blease.
-* John and Nancy Proudman had two sons, Joseph Proudman, the subject of this biography, and William Proudman (1890-1959).
 * Joseph was baptised on 24 February 1889 in the Wesleyan-Methodist Chapel in Unsworth.
 * In 1894, Joseph began his education at the primary school in Unsworth.
 * Proudman's home in Bold Heath was about two and a half miles from Farnworth and Farnworth was a further four miles from Widnes so, between 1903 and 1907, he was walking about thirteen miles (about 21 km) on half the school days.
@@ -39,7 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The paper related to ideas which Proudman had discussed with Bromwich while at Trinity College, and it was submitted to the Royal Astronomical Society by Bromwich.
 * Frank Stanton Carey had been the Professor of Mathematics at the University of Liverpool since 1886 and he offered Proudman a lectureship soon after the results of the Tripos examinations were announced.
 * Although he had to concentrate on teaching, research which Proudman had undertaken before taking up the lectureship at Liverpool led to publications in 1914.
-* Joseph and Rubina Proudman had three children, two sons James Proudman (born 1918) and Ian Proudman (born 1927), and a daughter Nancy Proudman (born 1924).
 * In 1919 Proudman succeed in encouraging two Liverpool shipowners to fund the establishment of the Liverpool Tidal Institute for the University of Liverpool and to provide funds to run it for the first five years.
 * The University of Liverpool established a Chair of Applied Mathematics so that they could promote Proudman to a professorship and, in 1919, he was appointed as the first Professor of Applied Mathematics at the University of Liverpool.
 * A significant step forward occurred in 1923 when Proudman was awarded the Adams Prize by the University of Cambridge for his Essay on the Tides.
@@ -51,7 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * To study turbulence and internal friction in a tidal current, Proudman and some colleagues purchased a fishing boat, the Zepyr which they converted into a research boat and crewed it themselves except for having one professional seaman.
 * They resumed their research on turbulence and internal friction and, as a result, wrote several papers such as Proudman's On the mixing of sea-water by turbulence (1948) and (with K F Bowden) Observations on the turbulent fluctuations of a tidal current (1949).
 * Proudman reached retirement age in 1954 and was made Professor Emeritus.
-* Donald Gould had died in 1958, three years before she married Proudman.
 * We should record a few of the many honours which Proudman received.
 * Since Prof Proudman was unable to be present in person, the medal was accepted in his behalf by Sir Alfred Egerton, secretary of the Royal Society of London.
 

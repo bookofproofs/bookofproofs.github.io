@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Basim Chuaqui was born in Homs, Syria but emigrated to Chile where he met Chilean born Georgina Kettlun.
-* Rolando, the subject of this biography, was the second of his parents' six children, the first child, Wilberto, died at the age of eleven.
 * Chuaqui studied at the National Institute school in Santiago de Chile.
 * This school, officially known as Liceo Ex A-0 - Instituto Nacional General José Miguel Carrera, had been founded in 1813 and was, at the time Rolando studied there, probably the leading high school in Chile.
 * Grandjot began the course which Chuaqui attended with logic and recommended Alfred Tarski's book Introduction to Logic and to the Methodology of Deductive Sciences (1936) and Willard Van Orman Quine's book Methods of Logic (1950).
@@ -35,8 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Grandjot recommended that Chuaqui should study differential and integral calculus but said that he would not teach that.
 * He suggested that for calculus Chuaqui should take some lessons from Egbert Hesse who was a young lecturer in the School of Engineering at the University of Chile.
 * Chuaqui worked as an assistant lecturer in biochemistry while he waited for a decision from Berkeley.
-* Chuaqui married Kathleen Ellen Henderson (1942-2014) in Westwood, Los Angeles, California on 17 August 1963.
-* Rolando and Kathleen Chuaqui had five children, four sons and a daughter.
 * At Berkeley Chuaqui was advised by David Blackwell who had been appointed to a professorship at the University of California at Berkeley in 1954.
 * He advised Chuaqui who submitted his Ph.D. thesis A definition of probability based on equal likelihood in 1965.
 * After the award of his Ph.D., Chuaqui returned to Chile and was appointed to the Department of Mathematics in the Faculty of Sciences of the University of Chile.
@@ -50,8 +47,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Unlike the University of Chile, the rector Fernando Castillo Velasco and other leading members of the Pontifical Catholic University, were enthusiastic about holding the First Latin American Symposium on Mathematical Logic and it took place in July 1970 with Chuaqui as chairman of the organising committee.
 * Chuaqui published many papers over the following years beginning with: Cardinal algebras of functions and integration (1971); A representation theorem for linearly ordered cardinal algebras (1971); and Forcing for the impredicative theory of classes (1972).
 * Chuaqui himself had been criticised by some of his colleagues for remaining in Chile.
-* Guided by the Chuaqui family, including their three young children, Alfred and Maria toured many of the high points of the country both in the north and the south - not to climb but at least to view the mountains and do some easy hikes.
-* Chuaqui, himself, made many research visits, for example: the University of São Paulo in 1971 and 1982; the University of California at Berkeley in 1973-74; Campinas State University in São Paulo in 1976, 1977 and 1978; Stanford University funded by a Guggenheim Scholarship in 1984; and San José State University in California during 1986-89.
 * In 1981 Chuaqui published the book Axiomatic set theory.
 * Chuaqui received many honours for his contributions.
 * Since 1999 the Universidad de Santiago de Chile, the Pontificia Universidad Católica de Chile, the Universidad de Valparaíso, the Universidad de Chile and the Universidad de Concepción have held an annual conference named the 'Rolando Chuaqui Kettlun Conference in Philosophy and Sciences'.

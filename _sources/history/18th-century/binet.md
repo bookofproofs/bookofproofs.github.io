@@ -25,12 +25,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Philippe Binet was born in Paris and a student at the Academy there.
 * However, the French Revolution stopped work on the cathedral and Philippe Binet died before it recommenced.
-* Philippe and Renée were married in Rennes on 1 July 1777 and had five children: Paul René Binet (born 1779); Joseph Philippe Binet (1783-1796); Jacques Philippe Marie Binet (the subject of this biography, 1786-1856); Philippe Thomas Binet (1788-1855); and Adélaide Binet (1792-1810).
-* Paul René Binet was, as we see from the above dates, seven years older than his brother Jacques, the subject of this biography.
 * Since Paul René Binet also became a mathematician, his career was clearly a highly significant influence on Jacques as he grew up.
 * Therefore before giving details of Jacques we look briefly at Paul René Binet.
 * Paul Binet was appointed to teach at the École Centrale de Rennes, then as professor at the Académie d'Orléans.
-* We note also that Jacques' younger brother Philippe Thomas Binet was admitted to the École Polytechnique on 28 September 1809.
 * Jacques Binet was educated first at Rennes.
 * Jacques Binet became a teacher at École Polytechnique in 1807 and, one year later, he was appointed as a répétiteur to assist the professor of applied analysis and descriptive geometry.
 * Binet published his first two papers in the journal Correspondance sur l'École Polytechnique in 1809 and 1810.
@@ -44,10 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1816 not only did Binet become an inspector of studies at the École Polytechnique but he also became an editor of the edition of Lagrange's Mécanique analytique Ⓣ(Analytical mechanics) that was being prepared two years after Lagrange died.
 * Jean-Baptiste-Joseph Delambre was appointed as the professor of astronomy at the College in 1807 and from around 1815 Binet was appointed as his assistant.
 * Delambre died in August 1822 and, in the following year, Binet was appointed to fill the vacant chair of astronomy at the Collège de France.
-* In 1820 Binet had married Marie Eléonore Ménard Dubourg (1798-1860).
-* They had a son Paul Jacques Binet (1822-1878) who married Marie Anne Cramail (1829-1903) in 1856.
-* They had a son Paul Jacques Marie Binet (1865-1940) and we give these details of Binet's son and his grandson since both maintained the family tradition and were students at the École Polytechnique.
-* Binet's son entered in 1842 while his grandson entered in 1884.
 * In 1825 François Arago, who was professor of applied analysis, and Binet, who was inspector of studies, wrote a joint letter in which they complained about the lack of knowledge of practical mathematics attained by Cauchy's students.
 * As with Binet's criticisms, there was no suggestion that what Cauchy taught was anything but top quality, rather the complains were that it was not appropriate for students at the École Polytechnique.
 * We should note that on a personal level Binet and Cauchy were friends both being staunch Royalists.

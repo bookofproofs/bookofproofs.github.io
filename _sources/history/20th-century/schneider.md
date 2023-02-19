@@ -46,12 +46,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Once Schneider was in Göttingen, he was brought by Süss to Oberwolfach in March 1945.
 * In May 1945 Germany surrendered but Schneider remained at the Oberwolfach Mathematical Institute until the autumn of that year by which time Göttingen University had reopened.
 * Schneider's students, writing about her, made it clear how much they appreciated her.
-* Schneider was thirty-nine and Mieke thirty-five when they married.
 * In 1953 Schneider was named as an ordinary professor at Erlangen.
 * Süss had been the first director of the Oberwolfach Institute but, following his death, Hellmuth Kneser served as director of the institute until Schneider was appointed to that role in 1959.
 * Schneider kept his close association with Oberwolfach, however, being an organiser of the number theory meetings (along with Helmut Hasse and Peter Roquette) held every year or two from 1955 to 1972.
 * Let us look briefly at the important monograph  Einführung in die transzendenten Zahlen Ⓣ(Introduction to transcendental numbers) (1957) by Schneider which was also published in French translation two years later as Introduction aux nombres transcendants Ⓣ(Introduction to transcendental numbers).
-* However, Schneider's wife and family gave him the happiness in his final years which had eluded him through the troubled years when he was trying to carve out a career with the odds stacked firmly against him.
 
 Born 7 May 1911, Frankfurt am Main, Germany. Died 31 October 1988, Zähringen, Freiburg, Germany.
 

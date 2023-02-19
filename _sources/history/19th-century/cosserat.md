@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Cosserat** studied the deformation of surfaces which led him to a theory of elasticity.
 
 ### Mathematical Profile (Excerpt):
-* François-Constant had three sons, François-Nicolas (who also has a biography in this archive), Lucien-Constant, and Eugène Cosserat (the subject of this biography).
-* François-Nicolas, born in 1852, was the eldest of the sons, Lucien-Constant, born in 1856, was the middle son, while Eugène, born in 1866, was the youngest and twelve years younger than his eldest brother François.
 * Eugène was only four years old when François Cosserat entered the École Polytechnique in 1870, and nine years old when Lucien-Constant Cosserat entered the same institution in 1875.
 * Eugène was educated first in a primary school in Amiens, moving to the Lycée in Amiens for his secondary education which he entered in the autumn of 1877.
 * During three years of study at the École Normale, Cosserat attended lectures by leading mathematicians including Paul Appell, Gaston Darboux, Gabriel Koenigs and Émile Picard.
@@ -34,11 +32,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1908 Cosserat was appointed to the chair of astronomy at Toulouse, becoming director of the Observatory there for the rest of his life.
 * The role of director of the Observatory was a demanding one, and Cosserat became almost totally occupied with administrative tasks from the time of his appointment and so was forced to essentially give up mathematical research from this time on.
 * Although he was not living in Paris, Cosserat was elected to the Académie des Sciences as a corresponding member on 19 June 1911 and a full member on 31 March 1919.
-* The eldest, Louis Cosserat, became a medical doctor but their younger son died before reaching adulthood.
 * All these various contributions showed great skill and resulted in highly accurate data but much of Cosserat's work on astronomy was carried out at a time when he was also devoting much of his time to the study of mathematics.
 * In his later work, Cosserat studied the deformation of surfaces which led him to a theory of elasticity.
-* This work was carried out in collaboration with his brother, François Cosserat, who was an engineer.
-* By the early 1900s, Cosserat had stopped working on the type of geometrical problems that had interested him at the start of his career and all his research efforts were directed towards working on mechanics with his brother.
 * The Cosserats themselves recognised the value of oriented two-dimensional continua (i.e., curves and surfaces endowed with additional structure in the form of directors) for representing the deformations of rods and shells respectively.
 * Exceptions are also colleagues of Eugène Cosserat in Toulouse, like L Ray and A Buhl.
 * Relativity Theory and Quantum Physics overtook this period in science and the work of E and F Cosserat was almost rediscovered after 1950 because of the use of liquid crystals.
@@ -46,9 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This journal began publication in 1887 and, two years later, Cosserat joined the editorial board.
 * In 1896 Cosserat became secretary to the editorial board of the Annals and he continued to hold this role until 1930.
 * In addition to his administrative work for the Annals, Cosserat also translated articles from Russian and published French versions in the Annals.
-* Cosserat also collaborated with his brother in making French translations of other works.
-* The Cosserat brothers, despite having written highly technical theoretical works on mechanics, approved of Perry's approach.
-* The Cosserat brothers François and Eugène also collaborated in translating the article on 'mechanics' from the German Encyklopädie der mathematischen Wissenschaften Ⓣ(Encyclopedia of mathematical sciences) for a French version of this monumental classic work.
 
 Born 4 March 1866, Amiens, France. Died 31 May 1931, Toulouse, France.
 

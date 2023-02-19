@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Giuseppe Veronese** was an Italian mathematician who worked on the geometry of multidimensional spaces, model theory and transfinite numbers.
 
 ### Mathematical Profile (Excerpt):
-* However, it was a poor family and they could not afford to finance Giuseppe through university.
 * In 1872, at age eighteen, Veronese had give up his education to take a job in Vienna.
 * Veronese was fortunate, however, and the following year he was able to begin his studies again.
 * In 1876 Veronese was appointed as assistant in analytical geometry on the strength of his paper on Pascal's hexagram which he had completed by this time.

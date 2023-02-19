@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Caspar Bartholin was a Danish physician and theologian who wrote one of the most widely read Renaissance manuals of anatomy.
 * He was a professor at the University of Copenhagen when Erasmus was born but died when Erasmus was less than four years old.
-* There were six sons in the family, and Erasmus had a brother, Thomas Bartholin, who was nine years older than himself.
 * Erasmus received his first education from private tutors, then he attended a Latin school.
 * Bartholin edited Introduction to the geometry of Descartes  by van Schooten and also translated Optics  of Larissa into Latin.
 * Bartholin considered the problem in geometric form.
@@ -36,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Bartholin's explanation was based on Descartes' theory of light along with his idea that there were two sets of "pores" in the crystal.
 * Bartholin also prepared for publication the observations of Tycho Brahe.
 * Bartholin is also famed for his medical work, in particular his introduction of quinine in the fight against malaria.
-* Some of his medical contributions were made in conjunction with his brother Thomas Bartholin who was a professor of anatomy at the University of Copenhagen from 1646 to 1661.
 * Thomas Bartholin founded the journal Acta medica et philosophica Hafniensia  to which Erasmus Bartholin contributed papers.
 
 Born 13 August 1625, Roskilde, Denmark. Died 4 November 1698, Copenhagen, Denmark.

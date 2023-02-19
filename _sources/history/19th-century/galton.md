@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Galton's parents, both from important Quaker families, might have served as excellent examples of his ideas on hereditary genius.
-* Galton's father, Samuel Tertius Galton, was a banker from a family which contained many rich bankers and gunsmiths.
-* Francis was youngest of his parents seven children having three older brothers and three older sisters.
 * Francis attended a number of small schools in the Birmingham area before entering King Edward's School in Birmingham in 1836.
 * On his return to England Galton entered Trinity College, Cambridge, to study medicine in the autumn of 1840.
 * No longer needing to think in terms of a career since he was financially secure, Galton decided to follow his passion for travel and made a trip with friends up the Nile to Khartoum.
@@ -34,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Galton aimed to find a passage to the lake from the south west, and with this plan in mind his expedition landed in Walvis Bay (in present day Namibia).
 * In fact Walvis Bay to Ngami Lake is around 550 miles and, despite two attempts to reach the lake, Galton's party failed in both attempts.
 * When Galton returned to England he published an account of his journeys in Tropical South Africa (1953).
-* On 1 August 1853 Galton married Louisa Jane Butler, the daughter of the dean of Peterborough who had previously been headmaster of Harrow School.
 * Perhaps it was the publication of Charles Darwin's Origin of the species in 1859 which marked a change in direction of Galton's interests.
 * Galton was the cousin of Charles Darwin, so perhaps it was natural that he should be one of the first to be converted by the book.
 * Let us examine Galton's contribution to statistics in a little more detail.

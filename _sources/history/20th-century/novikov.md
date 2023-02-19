@@ -26,8 +26,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, even before Novikov entered university, the Russian nation had been plunged into civil war.
 * In the spring of 1920, with the civil war still raging, Novikov joined the Red Army.
 * Novikov graduated in 1929 and then taught at the Moscow Chemical Technology Institute until he joined the Department of Real Function Theory at the Steklov Institute in 1934.
-* Novikov married Lyudmila Vsevolodovna Keldysh in 1935.
-* They had five children; one of their sons Sergei Novikov was awarded a Fields Medal in 1970.
 * Novikov headed the Department of Analysis at Moscow State Teachers Training Institute from 1944.
 * In 1957 Novikov set up a new department at the Steklov Institute, namely the Department of Mathematical Logic, and he was appointed as the first head of that department.
 * Novikov showed, in 1952, that the word problem for groups is insoluble.

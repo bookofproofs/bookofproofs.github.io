@@ -23,14 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Carl Borchardt** was a German mathematician who worked in a variety of areas in analysis. He edited Crelle's Journal for more than 30 years.
 
 ### Mathematical Profile (Excerpt):
-* His father, Moritz Borchardt, was a merchant who was very well off and a very respected member of the community.
-* Carl's mother was Emma Heilborn.
 * Certainly Borchardt was impressed with Franz Neumann and, much later, he was one of three mathematicians who proposed Franz Neumann for external membership of the Berlin Academy in 1853.
 * Borchardt's doctoral work, on non-linear differential equations, was supervised by Jacobi and submitted in 1843.
 * He went with Borchardt and they spent time in both Rome and Naples.
 * Dirichlet and Steiner were also in Rome at the same time and it proved a useful time for Borchardt.
 * He attended a course by Liouville on doubly periodic functions and although Liouville intended to publish the notes which Borchardt took of his lectures, in the end they were not published due to a priority dispute between Liouville and Hermite.
-* Borchardt married Rosa Oppenheim and recently there has been speculation that after Borchardt's death, Rosa had a child with Weierstrass.
 * Borchardt taught at the University of Berlin from 1848 when he was appointed as a Privatdozent.
 * The correct title of the Journal was the Journal für die Reine und Angewandte Mathematik Ⓣ(Journal of Pure and Applied Mathematics)  but it had been known as Crelle's Journal up to the time Borchardt took over as editor.
 * The journal was then often referred to as "Borchardt's Journal" or in France as "Journal de M Borchardt".

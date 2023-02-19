@@ -28,9 +28,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Even before he obtained his first degree in chemistry, Whyburn was undertaking research in mathematics with Moore.
 * Of course with Moore having a deep interest in topology, that was the direction that Whyburn took and it was to become the topic of his research throughout his life.
 * Whyburn had other connections with mathematics at the University of Texas in addition to his work with Moore.
-* His elder brother, William Marvin Whyburn (1901-1972), was also at the University of Texas at the same time as Gordon Whyburn, and unlike Gordon he was studying mathematics.
 * William Whyburn went on to become Chairman of the Mathematics Department at the University of California, Los Angeles and then at the University of North Carolina.
-* Another mathematician at Texas at this time was Lucille Smith, who was also from Lewisville, and Whyburn married Lucille in 1925.
 * Despite having these connections with mathematics and despite Moore strongly encouraging him to move from chemistry to mathematics, Whyburn continued with his chemistry studies being awarded his Master's Degree in 1926.
 * In 1929 Whyburn, together with his wife, was able to go to Europe, financed by a Guggenheim Fellowship, where he spent academic year 1929-30.
 * Back in the United States, Whyburn was appointed associate professor of mathematics at Johns Hopkins University, then in 1933 he was approached by the University of Virginia who asked him to accept an appointment as professor and chairman of the Department of Mathematics.

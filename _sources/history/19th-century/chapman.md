@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Sydney Chapman** was a British mathematician and geophysicist who worked  on gas dynamics, geomagnetism and the ionosphere.
 
 ### Mathematical Profile (Excerpt):
-* Sydney was his parents' second son and he was brought up in a very strict fashion by his Nonconformist parents.
-* After Sydney left school, Joseph, his father, took him to see a friend of the family who worked in engineering with the idea that his son should become an apprentice with the firm.
 * Following this advice, Chapman entered the Royal Technical Institute, Salford (which is now the University of Salford).
 * In 1904, at the age of 16, Sydney entered the University of Manchester and there he studied engineering in the department headed by Osborne Reynolds.
 * In mathematics he was taught by Lamb, the professor of mathematics, and J E Littlewood who arrived from Cambridge in Chapman's final year at Manchester.

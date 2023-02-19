@@ -23,14 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Adolf Kneser** was a German mathematician who wrote on integral equations.
 
 ### Mathematical Profile (Excerpt):
-* Adolf was one of his parents four sons and his mother, after the death of her husband, moved from Grüssow to Rostock where the boys could be educated.
 * Adolf's secondary schooling took place in Rostock, and after this was complete he entered the University there.
 * His remarkable talents are easily illustrated for even at this very early stage in his education, Kneser published his first paper which was on the refraction of sound waves.
 * We should remark, however, that Kneser's interests were surprisingly broad and during his university studies he attended lectures on history, literature and philosophy.
 * Kneser submitted his habilitation thesis to the University of Marburg where he taught for a while, then he moved to Breslau (now Wrocław in Poland) where he also lectured.
-* It was while he held this chair that Kneser married Laura Booth in 1894.
 * The couple had four sons; Hellmuth Kneser was born while they lived in Dorpat.
-* A grandson of Adolf, and son of Hellmuth, was Martin Kneser who became a professor of mathematics holding a chair at Göttingen.
 * In 1900 Adolf Kneser was appointed to the chair of mathematics at the Bergakademie  (Academy of Mining) in Berlin.
 * Adolf Kneser's early work was on algebraic functions and equations.
 * Kneser brought the theory of the so-called second variation to a certain conclusion.

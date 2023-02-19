@@ -23,29 +23,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Karl Feuerbach** was a geometer who discovered the nine point circle of a triangle.
 
 ### Mathematical Profile (Excerpt):
-* Of these eight children, five sons were to be awarded a doctorate, three of them becoming a professor, the most famous being the philosopher (without ever being professor) Ludwig Andreas Feuerbach (1804-72) who was one of the very influential critics of religion and thus of great importance for Marx and Marxism.
 * The other boys were Joseph Anselm Feuerbach (1798-1851), philologist and archeologist, Eduard August Feuerbach (1803-1843), professor of law at the University of Erlangen, and Friedrich Heinrich Feuerbach (1806-1880), an orientalist.
-* Paul Feuerbach had been sixteen years of age when he left home, against his father's wishes, to study philosophy and history at the University of Jena.
-* my youngest son Karl is a healthy, red cheeked, fat youngster, who runs around happily and has little thought for anything except food.
-* The family moved around as Paul Feuerbach's fame took him from one city to another.
 * They were in Jena when Karl was born but soon moved to Kiel.
-* Karl and his elder brother Anselm were attending a Gymnasium in Munich when their father moved to Bamberg and they were left in Munich to complete their schooling.
 * In fact Paul Feuerbach's fame had been recognised by King Maximilian Joseph who had ennobled  him in 1808 and awarded him free university education for all his sons.
 * In 1819 Paul Feuerbach was appointed as President of the Court of Appeals in Ansbach.
-* He wrote a letter in December of that year in which he proudly describes his son Karl's outstanding abilities in mathematics and physics and his achievements at the University of Erlangen.
-* Clearly Paul, coming from a family with a tradition in law, would have liked his sons to follow the 'family profession' but he writes that although Karl has given thought to the legal profession, nevertheless, his intention at the time was to become an engineer in the army.
 * After spending three years studying at the University of Erlangen, Karl Feuerbach moved to the University of Freiburg im Breisgau in 1820.
 * This was a move designed to allow him to study under Karl Heribert Ignatius Buzengeiger (1771-1835) who had taught in Ansbach before been appointed to the University of Freiburg in the previous year; indeed this move was very fruitful as Feuerbach had hoped.
-* Feuerbach's father, however, although as one might imagine very proud of his son's accomplishments, nevertheless was worried that Karl might find problems in Bavaria since he was not a Bavarian by birth.
 * These fears seemed groundless, however, when by the age of twenty-two, Karl Feuerbach had been awarded his doctorate, been appointed to a professorship in mathematics at the Gymnasium at Erlangen and had published an extremely important mathematical work Eigenschaft einiger merkwürdigen Punkte des geradlinigen Dreiecks und mehrerer durch sie bestimmten Linien und Figuren Ⓣ(Property of some strange points of the rectilinear triangle and its lines and figures).
 * There seems little doubt that as a student Feuerbach had been, as many young men, somewhat rebellious.
 * Feuerbach and the other nineteen were imprisoned in the New Tower in Munich.
 * the weeks and months were allowed to drag on without action and that Karl was not allowed to receive letters or visitors.
 * Karl became obsessed by the idea that only his death could free his 19 companions.
-* It was not long after his attempted suicide that Karl Feuerbach was released on condition that he was looked after by Friedrich Wilhelm Thiersch (1784-1860), a classical scholar and educationalist and friend of the Feuerbach family, who had taught Karl when he had attended the Gymnasium in Munich.
 * This release allowed Feuerbach to await trial out of prison and indeed the trial eventually went ahead only to result in the release and total vindication of all concerned (one of the men had died in prison so there were only 19 to be declared 'not guilty').
-* Feuerbach had been undertaking mathematical work while in prison and once released, all he wanted to do was to be with his brothers, sisters and father in Ansbach while he continued with this research.
-* However, Feuerbach was not happy at Hof, missing the quiet life he had with his family at Ansbach.
 * Part of the reason for choosing Erlangen was the knowledge that Feuerbach had been happy there.
 * Feuerbach's fame is as a geometer who discovered the nine point circle of a triangle.
 * Feuerbach also proved that the nine point circle touches the inscribed and three escribed circles of the triangle.

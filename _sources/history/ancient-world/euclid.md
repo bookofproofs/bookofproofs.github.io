@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However little is known of Euclid's life except that he taught at Alexandria in Egypt.
 * This man lived in the time of the first Ptolemy; for Archimedes, who followed closely upon the first Ptolemy makes mention of Euclid, and further they say that Ptolemy once asked him if there were a shorted way to study geometry than the Elements, to which he replied that there was no royal road to geometry.
 * There is other information about Euclid given by certain authors but it is not thought to be reliable.
-* The first type of extra information is that given by Arabian authors who state that Euclid was the son of Naucrates and that he was born in Tyre.
 * The second type of information is that Euclid was born at Megara.
 * In fact there was a Euclid of Megara, who was a philosopher who lived about 100 years before the mathematician Euclid of Alexandria.
 * It is not quite the coincidence that it might seem that there were two learned men called Euclid.
@@ -44,6 +43,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It is worth remarking that Itard, who accepts Hjelmslev's claims that the passage about Euclid was added to Archimedes, favours the second of the three possibilities that we listed above.
 * Again the fact that Euclid undoubtedly based the Elements on previous works means that it would be rather remarkable if no trace of the style of the original author remained.
 * Even if we accept (i) then there is little doubt that Euclid built up a vigorous school of mathematics at Alexandria.
+* Euclid did not work out the syntheses of the locus with respect to three and four lines, but only a chance portion of it ...
 * certainly does not prove that Euclid was an historical character since there are many similar references to Bourbaki by mathematicians who knew perfectly well that Bourbaki was fictitious.
 * Nevertheless the mathematicians who made up the Bourbaki team are all well known in their own right and this may be the greatest argument against hypothesis (iii) in that the 'Euclid team' would have to have consisted of outstanding mathematicians.
 * We shall assume in this article that hypothesis (i) is true but, having no knowledge of Euclid, we must concentrate on his works after making a few comments on possible historical events.

@@ -25,10 +25,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * We will explain below how this came about, but for the moment we record that papers written by Peter Hammer and Peter Ivanescu are by the same person.
 * They are related to Boolean algebras and Hammer investigated the connections in this paper.
-* Let us note that Anca and Peter had two children, Alexander and Maxim.
 * For his outstanding contributions Hammer was awarded the George Tzitzeica prize of the Romanian Academy of Sciences in 1966.
-* In 1967 Hammer and his wife defected to Israel where he was appointed professor at the Technion in Haifa.
-* After two years in Israel, Hammer and his wife emigrated to Canada where he was appointed to the University of Montreal.
 * When Peter was invited to join Rutgers 20 years ago, he was given the task of establishing an Operations Research centre.
 * Peter certainly delivered - RUTCOR was established and is now one of the more active Operational Research centres in the world, with about 10 in-house faculty members, dozens of Ph.D. students and many visitors.
 * RUTCOR played a major role, with Hammer as its director, with regular series of seminars, workshops, and courses put on for the numerous graduate students.

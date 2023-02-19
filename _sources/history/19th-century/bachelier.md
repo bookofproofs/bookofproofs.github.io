@@ -23,7 +23,6 @@ contributors: @David-O-Forfar,bookofproofs
 **Louis Bachelier** was a French mathematician who is credited with being the first person to model the stochastic process now called Brownian motion.
 
 ### Mathematical Profile (Excerpt):
-* The French mathematician, Louis Bachelier is now recognised internationally as the father of financial mathematics, but this fame, which he so justly deserved, was a long time coming.
 * The Bachelier Society, named in his honour, is the world-wide financial mathematics society and mathematical finance is now a scientific discipline of its own.
 * The probabilist William Feller had originally called it the Bachelier-Wiener Process.
 * It appears that Einstein in 1905 was ignorant of the work of Bachelier.

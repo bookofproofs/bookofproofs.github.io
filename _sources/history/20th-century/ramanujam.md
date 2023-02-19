@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **C P Ramanujam** was an Indian mathematician who worked in number theory and algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-* Ramanujam's father was C S Padmanabhan who was an advocate working in Madras, (now Chennai) India, at the High Court.
 * C P Ramanujam was educated in Madras, first at Ewart's School, where he had his primary and the first part of his secondary education, and then at the Sir M Ct Muthiah Chetty High School at Vepery, Madras.
 * Ramanujam's achievements at High School had been outstanding and he had shown that he was extraordinarily gifted, so he entered Loyola College with great expectations.
 * On the other hand it may have resulted from a lack of belief in himself which haunted Ramanujam throughout his life.

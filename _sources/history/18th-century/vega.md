@@ -40,7 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * On 1 April 1784, Vega was promoted to lieutenant and, in the same year, the second volume of his textbook appeared.
 * We should note that Vega's love of tables extended to his textbook, for this second volume contains trigonometric tables.
 * The year 1787 was particularly eventful for Vega.
-* This was also the year in which the 33-year old Vega married the 16-year old Josefa Swoboda.
 * The year 1787 was also significant in the history of the region for the wars in which Vega would participate over the following years began in that year.
 * Austria was unwillingly dragged into the conflict through the 1781 pact and when the Turks attacked Austria in 1788, Vega made it clear that he wanted to participate actively in the fighting.
 * Certainly someone in his position would have been expected to remain in Vienna, but Vega was keen to apply his theoretical expertise in military applications of mathematics to practical situations.
@@ -49,7 +48,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The effective use of the heavy mortars, whose angle of elevation had been corrected by Vega, was a major factor in the Austrians taking Belgrade on 8 October 1789.
 * Vega's calculating abilities, often carried on during military campaigns, is clear in his remarkable achievement of calculating π to 140 places, a record which stood for over 50 years.
 * After this treaty had been signed, Vega returned to his teaching position in Vienna.
-* Vega's son Henrik was born in 1791 and, on 20 April 1792, the War of the First Coalition began in which Austria was now fighting the French.
 * Vega was involved in many battles over the following years but also had periods when he was able to concentrate on his mathematics.
 * The year 1753, in which Austria, Prussia, Spain, the United Provinces, and Great Britain allied against France, was a particularly eventful one for Vega.
 * Vega was also part of the Austrian force that captured Fort Louis from the French on 10 November.
@@ -58,7 +56,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Vega continued to participate in the fighting which was part of the French Revolutionary Wars.
 * Vega was again present when the Austrian forces besieged the fort at Kehl later that year in October.
 * Vega was able to spend more time on his mathematics after the treaty of Campo Formido of 18 October 1797 ended hostilities, with the Austrians accepting defeat by the French under Napoleon Bonaparte.
-* However, July 1800 was a tragic month for Vega for his wife Josefa died on the 7th  and then, less than two weeks later, his daughter Maria Tereza died.
 * On 22 August 1800 Vega was given the hereditary title of baron, including the right to his own coat of arms.
 * Perhaps at this point we should note other honours which had been given to Vega.
 * In early 1802 Vega was promoted to lieutenant colonel.

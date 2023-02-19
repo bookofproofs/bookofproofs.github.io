@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Eduard Kummer**'s main achievement was the extension of results about the integers to other integral domains by introducing the concept of an ideal.
 
 ### Mathematical Profile (Excerpt):
-* However he died when Eduard was only three years old and Eduard and his elder brother were brought up by their mother.
 * Eduard received private coaching before entering the Gymnasium in Sorau when he was nine years old.
 * In 1828 Kummer entered the University of Halle with the intention of studying Protestant theology.
 * Fortunately for the good of mathematics, Kummer received mathematics teaching as part of his degree, designed to provide a proper foundation to the study of philosophy.
@@ -37,19 +36,14 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This led to Jacobi, and later Dirichlet, corresponding with Kummer on mathematical topics and they soon realised the great potential for the highest level of mathematics that Kummer possessed.
 * In 1839, although still a school teacher, Kummer was elected to the Berlin Academy on Dirichlet's recommendation.
 * Jacobi now realised that he had to find Kummer a university professorship.
-* In 1840 Kummer married a cousin of Dirichlet's wife.
 * However these where years of great achievement for Kummer.
-* After the death of his wife in 1848, Kummer remarried fairly soon.
-* Nobody could fail to have strong political views at this time and indeed Kummer had strong right wing political views.
 * He recommended to Berlin that they offer the vacant chair to Kummer, which indeed they did.
-* Then Kummer played a clever political trick.
 * All went according to plan for Kummer and, in 1856, Weierstrass was appointed to Berlin.
 * In 1861 Kummer and Weierstrass established Germany's first pure mathematics seminar in Berlin.
 * While Weierstrass and Kronecker offered the most recent results of their research in their lectures, Kummer in his restricted himself, after instituting the seminar, to laying firm foundations.
 * Surprisingly, given Kummer's outstanding qualities as a teacher of mathematics, he never wrote any textbooks.
 * Having first been elected to the Berlin Academy while still a school teacher, Kummer ended up with high office in the Academy.
 * While at Berlin, Kummer supervised a large number of doctoral students including many who went on to hold mathematics chairs at universities, including Bachmann, Cantor, du Bois-Reymond, Gordan, Schönflies and Schwarz.
-* In fact Schwarz became related to Kummer when he married one of his daughters.
 * Kummer also appointed many talented young lecturers including Clebsch, Christoffel and Fuchs.
 * It was Fuchs who succeeded Kummer when he decided to retire in 1883 on the grounds that his memory was failing, although nobody other than Kummer himself ever detected this.
 * During Kummer's first period of mathematics he worked on function theory.

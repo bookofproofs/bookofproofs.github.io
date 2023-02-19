@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Mary Cannell** was an English mathematician and historian who worked extensively on George Green.
 
 ### Mathematical Profile (Excerpt):
-* Robert Cannell (born 24 November 1882) and Mary Singleton (born 1 January 1883) were married on 10 August 1911 at the Parish Church, St Johns Bootle, Lancashire.
-* Mary, the mother of the subject of this biography, was the oldest child of the tram owner William Singleton and his wife Martha.
-* Robert and Mary Cannell lived at 35 Merton Road, Bootle, Liverpool and they had two children, Mary Cannell, the subject of this biography, and Robert Leslie Cannell, born 6 October 1920, who became an engineer.
 * After completing her first degree, Cannell studied for a postgraduate diploma in education so that she might enter the teaching profession.
 * There is no hint in the biographical details which we have just given as to why Mary Cannell might figure in an archive of mathematicians.
 * widespread knowledge of Green himself dates only from the 1970s when Cannell and other Nottingham colleagues worked to restore his windmill and his memory.

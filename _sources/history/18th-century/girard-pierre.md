@@ -38,8 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Girard gave a full account of the Ourcq canal project in a two volume treatise Mémoires sur le Canal de l'Ourcq et la distribution de ses eaux: sur le dessèchement et l'assainissement de Paris, et les divers canaux navigables Ⓣ(Memoir on the Ourcq Canal and the distribution of its waters: the drainage and sanitation of Paris, and the various navigable canals) (1831-1840).
 * Once he was no longer involved in the Ourcq canal project, Girard was free to undertake other work and in 1819 he was commissioned to direct a project installing gas lighting in large Paris theatres and in various neighborhoods of Paris.
 * The canal is estimated by P-S Girard, the engineer who constructed it and had the whole superintendence of distributing the water in Paris, at 4,000 inches of water.
-* Girard wrote extensively on fluids, in particular on flow in capillary tubes; for example Mémoire sur le Mouvement des Fluides dans les Tubes capillaires, et l'Influence de la Température sur ce Mouvement Ⓣ(Submission on fluid Movement in capillary tubes, and the influence of temperature on the movement) (1817).
-* Although Girard was brought up a Calvinist, he was not religious and so his daughter Louise Françoise Adèle (born 1803) was happy to convert to become a Roman Catholic before her marriage to the jurist, author and politician Charles Renouard on 23 March 1821.
 
 Born 4 November 1765, Caen, France. Died 30 November 1836, Paris, France.
 

@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * His parents were Jacob Moiseiwitsch and Chana Kotlerman.
-* Jacob and Chana Moiseiwitsch were Russians and their first child Daniel Moiseiwitsch was born in Russia in 1919.
-* They had two other children, Victoria, and Benjamin, the subject of this biography born in 1927.
 * Let us say a little about Daniel Moiseiwitsch at this point.
 * As we will see below, although Benjamin became an applied mathematician, he also had an interest in art, in particular in the connections between art and mathematics.
 * Benjamin grew up in Romford where he attended the Royal Liberty School, a grammar school in Upper Brentwood Road, founded in 1921.
@@ -36,9 +34,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1950 Massey and Moiseiwitsch published The Scattering of Electrons by Hydrogen Atoms in the Physical Review.
 * This short paper announced results which they stated would be published later in full and, indeed, in August 1950, Massey and Moiseiwitsch submitted the paper The Application of Variational Methods to Atomic Scattering Problems.
 * In 1952 Moiseiwitsch graduated from University College London with a Ph.D. awarded for his thesis on quantum theory The Application of Variational Methods To Collision Problems.
-* On 20 June 1953 Moiseiwitsch married Sheelagh McKeon; they had four children: Tanya Moiseiwitsch (born 1954), Lisa Moiseiwitsch, Julian Moiseiwitsch and Nicholas Moiseiwitsch (born 1968).
 * Julian Moiseiwitsch studied dental surgery at University College London and was awarded a Ph.D. from the University of North Carolina at Chapel Hill.
-* He now works in Washington D.C. His wife Françoise Seillier-Moiseiwitsch is a mathematician.
 * Nicholas Moiseiwitsch studied electronic engineering at the University of Southampton and became Head of Engineering Policy at the Institute of Electrical Engineers.
 * Moiseiwitsch was promoted to Reader in Applied Mathematics at the Queen's University, Belfast in 1962 and Professor in Applied Mathematics and Theoretical Physics in 1968.
 * Moiseiwitsch was elected to the Royal Irish Academy in 1969.

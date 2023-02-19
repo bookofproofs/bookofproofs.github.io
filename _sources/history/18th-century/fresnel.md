@@ -24,15 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Jacques Fresnel was an architect who undertook major building works.
-* It was while he was working on this project that he met Augustine Mérimée the daughter of the overseer of de Broglie's estate and the two were married.
-* Jacques Fresnel was still working on de Broglie's estate when his son Augustin was born.
-* After work on de Broglie's château had been completed Jacques and Augustine, with their son Augustin, went to Cherbourg where Jacques was employed on the construction of the harbour.
 * We should note that Jacques and Augustine Fresnel were Jansenists; that is they were followers of Cornelius Otto Jansen (1585-1638) who led the Roman Catholic reform movement named after him.
 * Augustin was brought up with strict Jansenist values in a stern atmosphere which would strongly influence him for the rest of his life.
 * The French Revolution began with the storming of the Bastille on 14 July 1789 when Augustin was one year old.
-* In 1794, when Augustin was now six years old, the political situation in France was so difficult that the construction work on the harbour at Cherbourg had to be halted.
-* The Fresnel family went to Mathieu, a village north of Caen.
-* There young Fresnel spent the rest of his childhood years, and there his elementary education was provided by his parents.
 * At age twelve Fresnel began his studies at the École Centrale in Caen.
 * There was little doubt in Fresnel's mind at this time regarding his future career for he was firmly set on engineering.
 * Fresnel was employed on a programme of road building which was designed to link this town with the rest of Vendée.

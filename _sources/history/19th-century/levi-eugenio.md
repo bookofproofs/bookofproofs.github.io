@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Eugenio Levi** was an Italian mathematician who worked in complex analysis, differential geometry, Lie groups, partial differential equations and the minimum principle.
 
 ### Mathematical Profile (Excerpt):
-* The family was Jewish and Eugenio was the ninth of his parents' ten children.
-* The fourth of these ten children was Beppo Levi (born 1875) who also became a mathematician and has a biography in this archive.
-* The youngest member of the family was Decio Levi (1885-1917), who became an engineer.
 * Eugenio attended the Azeglio High School in Turin where he showed that he was an extremely gifted pupil.
 * Two aspects of Bianchi's work would be particularly significant in his influences on Levi.
 * He had published two important works before Levi began to study with him, namely Lectures on differential geometry (1894) and Lectures on the theory of groups of substitutions (1900).

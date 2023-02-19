@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Leopold Infeld** was a Polish physicist who worked in the theory of relativity.
 
 ### Mathematical Profile (Excerpt):
-* His father, Salomon Infeld, was a leather merchant and although the family was better off than many others around them, their living conditions were still poor.
 * Infeld wanted desperately to escape and be able to go to university, so he begged his parents to allow him to attend a gymnasium which would prepare him for university entrance.
 * Infeld certainly was not going to give up his ambitions that easily, so he studied on his own to enable him to take the 'matura' exams.
 * After two years spent in Konin, Infeld was appointed as a physics teacher at a Jewish gymnasium for girls in Warsaw.
@@ -31,11 +30,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The result of this collaboration was the Born-Infeld electrodynamics.
 * In Princeton, Infeld collaborated with Einstein writing a popular text Evolution of Physics (1938).
 * In 1938 Infeld received an offer from J L Synge of a professorship at the University of Toronto.
-* In 1939 Infeld married Helen, an American who was a graduate from Cornell in mathematics.
 * Already famed as a collaborator of Einstein, Infeld published many important papers over the next few years.
-* After the war Infeld's wife Helen lectured to engineers while bringing up their two children Eric and Joan who had both been born in Toronto.
 * Infeld had all his life been a pacifist.
-* This became a problem in North America in the later 1940s and Infeld was not one to keep his political views to himself.
 * The agent had been assigned to report on guest speaker Dr Leopold Infeld, then Canada's greatest physicist.
 * A professor at the University of Toronto, Infeld was well known as a close collaborator of Albert Einstein.
 * It was a great prize for Canada's scientific community when, 10 years earlier, Dr Infeld left the United States to come north.

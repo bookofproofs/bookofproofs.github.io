@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Lyman Spitzer** was an American theoretical physicist and astronomer best known for pioneering the idea of a space telescope. He also worked on nuclear fusion.
 
 ### Mathematical Profile (Excerpt):
-* His middle name of 'Strong' came from Lyman Strong Spitzer Sr.'s mother Sarah Elizabeth Strong who was married to Adelbert Lorenzo Spitzer.
 * Spitzer Sr. worked in Real Estate in Toledo and later was Manager of a paper and box company.
 * Lyman Jr attended Scott High School in Toledo and then studied at Phillips Academy in Andover, Massachusetts, graduating in 1931.
 * Having won a fellowship to St John's College, Cambridge to enable him to study there during the academic year 1935-36, he was taught by Arthur Eddington and was strongly influenced by Subrahmanyan Chandrasekhar who was about four years older than Spitzer.

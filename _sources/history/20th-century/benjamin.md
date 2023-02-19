@@ -24,8 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Brooke's parents recognised his brilliance before he entered primary school at Wallasey, where his teachers quickly saw his exceptional abilities.
-* This followed in the family tradition but Brooke was deeply unhappy although he still did well in his studies.
-* They moved, with Brooke and their two younger children, to Mold in north Wales, and there Brooke attended Alun County School.
 * In 1947 Benjamin entered Liverpool University where he studied engineering but continued to occupy a large part of his time with the Liverpool University Music Society, conducting several concerts in Liverpool.
 * Benjamin began working on bubbles in liquids, in particular studying how the bubbles collapse when pressure rises.
 * In fact, like most of his projects, Benjamin returned to them throughout his career.

@@ -23,14 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hermann of Reichenau** was a German mathematician who important for the transmission of Arabic mathematics, astronomy and scientific instruments into central Europe.
 
 ### Mathematical Profile (Excerpt):
-* They were a noble family from Upper Swabia, a district north of the Bodensee (also known as Lake Constance).
 * The lake has a western arm, west of the city of Konstanz, and in this is situated the island of Reichenau.
 * This island, about 5 km long and 1.5 km wide, was the artistic and literary centre of south west Germany during this period and was the site of a famous Benedictine monastery which had been founded there in 724.
-* Historians seem almost equally divided between those who believe that Hermann was born in Saulgau and those who believe he was born in his father's castle, Castle Altshausen, in Altshausen.
 * Hermann is called 'the Lame' or 'Contractus' for very good reason.
 * Using the biography written by his disciple Berthold, the most important contemporary source about Hermann's life, an approach to a correct diagnosis from a neurologists point of view was the aim of this study.
 * By unbiased analysis of the symptoms described by Berthold a neurologic syndrome is worked out: it comprised a flaccid tetraparesis involving the bulbar area.
-* Considering this syndrome and other details of Hermann'  life as well as the beginning and course of his illness, a traumatic birth injury, an early childhood disease and a central nervous as well as an infectious disease are ruled out.
 * Hermann entered the Cloister School at Reichenau, attached to the monastery, on 13 September 1020 and studied there under the Abbot Berno (about 978-1048).
 * The monastery was a centre of learning at this time, containing a fine library and a well-equipped workshop.
 * Hermann became a monk at the Benedictine Monastery at Reichenau in 1043, later becoming Abbot of the Monastery after the death of Abbot Berno on 7 June 1048.
@@ -65,7 +62,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * There seems little doubt, however, that even if these works have been modified later, they are based on hymns written by Hermann.
 * A poem about the eight deadly sins, written for the nuns at Buchau, shows that Hermann had an excellent sense of humour.
 * Finally, let us note Hermann's important contributions to history.
-* In his historical chronicle, Hermann records the death of his own mother Hiltrud in 1052.
 * He had requested that his disciple, Berthold of Reichenau, should take wax tablets on which his writings were recorded and have these made into manuscripts.
 * Indeed, it is because Berthold faithfully carried out Hermann's request that so much of Hermann's work was preserved.
 * Hermann also requested that Berthold continue to record the chronicle which he had taken as far as the year 1054.

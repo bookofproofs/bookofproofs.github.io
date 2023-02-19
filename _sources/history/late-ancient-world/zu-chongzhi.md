@@ -23,12 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Zu Chongzhi** was a Chinese mathematician and astronomer. He introduced the approximation `$\frac{355}{113}$` to `$\pi$` which is correct to 6 decimal places.
 
 ### Mathematical Profile (Excerpt):
-* Zu Chongzhi's grandfather and father both served as officials of the Liu-Sung dynasty which also had its court at Jiankang (now Nanking).
-* The Zu family was an extremely talented one with successive generations being, in addition to court officials, astronomers with special interests in the calendar.
-* The Zu family handed their mathematical and astronomical skills down from father to son and, indeed, this was one of the main ways that such skills were transmitted.
-* Zu Chongzhi, in the family tradition, was taught a variety of skills as he grew up.
 * Zu learnt other skills too for he excelled in engineering and was skilled in literary composition writing ten novels.
-* Zu Chongzhi followed in the family tradition of serving the emperors.
 * During this time Zu worked on mathematics and astronomy.
 * Zu, however, had an opponent at the court as far as his calendar was concerned.
 * Despite having such a powerful opponent as Tai Faxin, Zu won approval for his calendar from Emperor Xiao-wu and the Tam-ing calendar was due to come into use in 464.

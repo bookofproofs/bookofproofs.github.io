@@ -25,8 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Gerald Henry Grattan-Guinness had studied mathematics at King's College, London, between 1927 and 1930.
 * It was in Bakewell that Ivor attended primary school.
-* In 1952 Gerald Grattan-Guinness was appointed as Deputy Director of Education in Huddersfield, Yorkshire, and the family moved there.
-* After the family settled in Huddersfield, Ivor began to attend Huddersfield College.
 * In 1958, while Grattan-Guinness was a pupil there, the College merged with Hillhouse Technical School forming a new boys' grammar school at a new campus in the Salendine Nook area of Huddersfield.
 * This new college was called Huddersfield New College and it was from this excellent school that Grattan-Guinness graduated in 1959.
 * After winning an Open Minor Scholarship to Wadham College, Oxford, Grattan-Guinness matriculated and began studying there in autumn 1959.
@@ -34,8 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * There was one, very positive, side to Grattan-Guinness taking this job in London.
 * Offord was an expert on measure theory and Grattan-Guinness was tempted to change to undertake research on the history of measure theory but he decided to stay with Fourier and related ideas.
 * Collingwood suggested that Grattan-Guinness would find interesting material at the Mittag-Leffler Institue and Collingwood personally funded Grattan-Guinness's research visit there in 1968.
-* Collingwood, who had known W H Young personally at Aberystwyth, put Grattan-Guinness in touch with Cecily Tanner (1900-1992), the eldest daughter of W H Young and G C Young.
-* Cecily Tanner had the manuscripts left by her parents and she was also able to put Grattan-Guinness in touch with Georg Cantor's grandchildren who possessed Cantor's manuscripts.
 * Grattan-Guinness was awarded a Ph.D. in 1969 for his thesis The development of the foundations of mathematical analysis from Euler to Riemann.
 * This work, with its extensive examination of the mathematics of Cauchy and his immediate predecessors, also served to focus Grattan-Guinness's attentions on the early nineteenth-century French scene, a vast topic that came to dominate his research for some two decades.
 * We mentioned above that Grattan-Guinness began teaching at Enfield College of Technology in 1964.

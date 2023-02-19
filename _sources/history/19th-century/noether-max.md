@@ -20,13 +20,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ![Noether_Max.jpg](https://github.com/bookofproofs/bookofproofs.github.io/blob/main/_sources/_assets/images/portraits/Noether_Max.jpg?raw=true)
 
-**Max Noether** was a German mathematician who was one of the leaders of nineteenth century algebraic geometry. Although himself a very distinguished mathematician, his daughter Emmy Noether was to bring greater innovation to mathematics than did her father.
+**Max Noether** was a German mathematician who was one of the leaders of nineteenth century algebraic geometry. 
+Although himself a very distinguished mathematician, his daughter Emmy Noether was to bring greater innovation to mathematics than did her father.
 
 ### Mathematical Profile (Excerpt):
-* In fact Max's paternal grandfather was Elias Samuel, the founder of a business in Bruchsal.
-* Hermann Nöther and his wife Amalia had five children, the third of which was Max.
-* The two children older than Max were Sarah (born 6 November 1839) and Emil.
-* Although the family name was chosen to be Nöther by Max's grandfather, Max and his family always used the form Noether (except on Max's wedding certificate where the form Nöther appears).
 * Max attended school in Mannheim but his studies at the gymnasium were interrupted in 1858.
 * At this stage Noether was interested in astronomy, so before beginning his university studies he spent a short period at Mannheim Observatory.
 * His doctorate from Heidelberg was on astronomy, and Noether was not required to write a dissertation.
@@ -37,16 +34,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Given Noether's friendship with Clebsch it is not surprising that he would make his journal the main outlet for his publication.
 * Noether published many papers in Mathematische Annalen  with a major contribution appearing almost every year between 1870 and 1921.
 * Appointed a privatdozent in Heidelberg in 1870, Noether was promoted to extraordinary professor there on 25 September 1874.
-* Max and Ida had four children, one of whom was the famous mathematician Emmy Noether; we give further details below of their children.
 * Max Noether was one of the leaders of nineteenth century algebraic geometry.
 * Following Cremona, Max Noether studied the invariant properties of an algebraic variety under the action of birational transformations.
 * In 1873 Noether proved an important result on the intersection of two algebraic curves in the paper Über einen Satz aus der Theorie der algebraischen Functionen Ⓣ(On a set from the theory of algebraic functions) published in volume 6 of Mathematische Annalen.
 * Volume 7 of Mathematische Annalen  contains the important paper Über die algebraischen Functionen und ihre Anwendung in der Geometrie Ⓣ(On the algebraic functions and their applications in geometry) which was written jointly by Noether and Brill.
 * Let us also note that Noether wrote many obituaries.
 * Many of the articles in this archive use material from Noether's obituaries.
-* In 1882 his daughter Emmy Noether was born.
-* In 1883 Max and Ida Noether had a son named Alfred, who later studied chemistry.
-* Max and Ida Noether's fourth child was Gustav Robert, born in 1889.
 
 Born 24 September 1844, Mannheim, Baden, Germany. Died 13 December 1921, Erlangen, Germany.
 

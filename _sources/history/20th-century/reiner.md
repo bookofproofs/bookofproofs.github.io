@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Max Reiner was born in Austria and emigrated to the United States in 1907 when he was twenty-two years old.
-* Irving, the subject of this biography, was their third child.
 * Irving attended both elementary school and high school in Brooklyn then, in 1940, he entered Brooklyn College.
 * Alex Heller, who was a year younger than Reiner, was, like him, born and brought up in New York.
 * Reiner graduated from Brooklyn College with a B.A. in 1944.
@@ -32,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Reiner was awarded a Master's Degree for his thesis on binary quadratic forms in 1945.
 * Reiner was awarded his doctorate in June 1947 for his thesis A generalisation of Meyer's theorem, his doctoral advisor being Burton W Jones.
 * While at Cornell University, Reiner met Irma Moses who was also a graduate student of mathematics being supervised by Burton W Jones.
-* They were married in August 1948 and had two children, David Reiner and Peter Reiner.
 * After completing work on his doctoral thesis, Reiner went to the Institute for Advanced Study at Princeton where he spent a year.
 * Reiner remained at the University of Illinois for the rest of his career but Loo-Keng Hua was only there for two years before returning to his native China.
 * Although Reiner was to remain at the University of Illinois throughout his career, he held various visiting appointments in particular in London and at the University of Warwick, England.

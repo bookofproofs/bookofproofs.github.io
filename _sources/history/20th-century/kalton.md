@@ -24,11 +24,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Kalton is not the name that appears on Nigel's birth certificate, rather it is the surname Kaltenbach.
-* In fact Nigel's grandfather was Gordon Edelbert Kaltenbach (1879-1955), a photographic dealer living in Birmingham.
 * He changed his name by deed poll from the Germanic Kaltenbach to the British Kalton in March 1938.
-* Other members of the family also adopted the name Kalton.
-* Gordon and Stella Kalton were married in Surrey, England in June 1932.
-* Nigel had an older sister Stella Pamela (1933-1973) and an older brother Gordon G W (born 1936).
 * Keene was about 18 months younger than Kalton and the two were both on the Dulwich College chess team.
 * In the College championships, Kalton once beat Keene but, although Kalton was one of the top players in Britain, he usually lost to Keene.
 * Kalton was in the Dulwich College team that came second in the 1964 UK Schools Team Championship.
@@ -39,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * At Cambridge, Kalton had met Jennifer.
 * In 1970 Kalton was awarded a doctorate for his thesis Schauder decompositions in locally convex spaces and he was awarded the Rayleigh Prize for the high quality of this work.
 * After returning from the United States, Kalton was appointed as a Science Research Council Fellow at the Warwick University in England.
-* "He was one of those get-on-the-floor-and-roll-around kind of fathers," Kalton's daughter, Helen Kurtz, said.
 * The story of how Kalton became an expert on differential games is an interesting one that says much about his character and ability.
 * As luck would have it, Professor Tulcea was away the term Nigel came.
 * Nigel's plans had to be adapted to the situation, so he sat around the lounge talking to various mathematicians and came to the belief that his most enjoyable mathematical conversations were with Professors Elliot and Friedman; hence he worked with them for a term.

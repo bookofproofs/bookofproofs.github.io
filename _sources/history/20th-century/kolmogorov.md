@@ -23,11 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Andrey Kolmogorov** was one of the developers of probability theory. He later used this work to study the motion of the planets and the turbulent flow of air from a jet engine.
 
 ### Mathematical Profile (Excerpt):
-* Kolmogorov's mother also, tragically, took no part in his upbringing since she died in childbirth at Kolmogorov's birth.
-* His mother's sister, Vera Yakovlena, brought Kolmogorov up and he always had the deepest affection for her.
-* In fact it was chance that had Kolmogorov born in Tambov since the family had no connections with that place.
-* Kolmogorov's mother had been on a journey from the Crimea back to her home in Tunoshna near Yaroslavl and it was in the home of his maternal grandfather in Tunoshna that Kolmogorov spent his youth.
-* Kolmogorov's name came from his grandfather, Yakov Stepanovich Kolmogorov, and not from his own father.
 * After Kolmogorov left school he worked for a while as a conductor on the railway.
 * Then, in 1920, Kolmogorov entered Moscow State University but at this stage he was far from committed to mathematics.
 * Kolmogorov may have told this story as a joke but nevertheless jokes are only funny if there is some truth in them and undoubtedly this is the case here.

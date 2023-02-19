@@ -28,7 +28,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1943 Hoehnke graduated from school following the Abitur but given the wartime conditions there was no possibility for him to progress to a university education at that time.
 * Hoehnke then began studying mathematics at university and was awarded his doctorate by the Martin Luther University in Halle-Wittenberg in 1952 after undertaking research under Heinrich Brandt.
 * From 1956 until his retirement in 1990, Hoehnke worked at the Mathematical Institute of the Academy of Science of the German Democratic Republic.
-* Only those who are familiar with the conditions in the German Democratic Republic can appreciate the difficulties and disadvantages connected with such an upright attitude (for example, despite being highly qualified in his field, H-J Hoehnke could never become a professor.
 * Hoehnke's early papers include Über die definierenden Gleichungen für Matrizeneinheiten in primären Ringen Ⓣ(On the defining equations for Matrix units in primary rings) (1956) in which he looks at multiplicative semigroups inside matrix rings over completely primary rings, Identische Kongruenzen für Polynome nach zusammengesetzten Moduln Ⓣ(Identical congruences of polynomials in composite moduli) (1956), and Nilpotenzkriterien Ⓣ(Criterion for nilpotence) (1957) in which he looks at conditions on a ring which force certain radicals to be nilpotent.
 * Although Hoehnke continued to keep these interests, he also became interested in universal algebras, automata, categories and functors.
 

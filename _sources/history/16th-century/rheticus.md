@@ -24,12 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Rheticus was, therefore, born Georg Joachim Iserin.
-* One of the legal requirements of such an execution was that his name could no longer be used, so Rheticus's mother reverted to her maiden name and Rheticus's became Georg Joachim de Porris.
 * 'De porris' means 'of the leeks' in Italian and, since Rheticus did not consider himself Italian he translated it into German 'von Lauchen' and called himself Georg Joachim von Lauchen.
 * He later took the additional name of Rheticus after the Roman province of Rhaetia in which he had been born.
-* Achilles Gasser took over the medical practice in Feldkirch after Rheticus's father was executed.
 * He helped Rheticus continue his studies and was a strong support to him.
-* After his father's execution, Rheticus studied at the Latin school in Feldkirch, then went to Zürich where he studied at the Frauenmuensterschule from 1528 to 1531.
 * Melanchthon played a major role in getting Rheticus an appointment to teach mathematics and astronomy at the University of Wittenberg in 1536.
 * This appointment, which involved teaching arithmetic and geometry, gave Rheticus a salary of 100 gulden.
 * Two years later Melanchthon again used his influence to arrange leave for Rheticus to study with some of the leading astronomers of the day, but his main reason was to visit Copernicus.

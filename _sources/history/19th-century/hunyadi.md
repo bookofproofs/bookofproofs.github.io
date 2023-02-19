@@ -33,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1867 Hunyadi was elected to the Hungarian Academy of Sciences, and two years later he became a mathematics professor at the Technical University.
 * Hunyadi worked mainly on geometrical topics and his contributions were not to produce new theories but rather to improve the methods of others by simplifying proofs, finding elegant proofs to replace non-transparent ones, and putting apparently unrelated results into a general setting.
 * Some of Hunyadi's most significant results concern determinants.
-* We mentioned at the start of this article that Hunyadi came from a well-off family.
 
 Born 28 April 1838, Pest, Hungary. Died 26 December 1889, Budapest, Hungary.
 

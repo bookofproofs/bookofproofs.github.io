@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was around the time that Sato entered middle school that he became interested in mathematics.
 * Other school subjects, however, did not interest Sato and except for mathematics he found middle school boring.
 * In 1945, after the war ended, Sato entered the First High School in Tokyo, a school closely linked to the University of Tokyo.
-* In 1948, after three years at the First High School, Sato would have liked to continue his education at the University of Tokyo but as his father was ill, he had to earn money to support his younger sister and brother aged, at that time, nine and five respectively.
 * However, things did not work out for Sato as he had hoped.
 * Sato then changed to study theoretical physics, first at the University of Tokyo then after two years at the Tokyo School of Education where he studied until 1958.
 * Sato held this position for two years, 1958-60, then was appointed as a lecturer at the Tokyo University of Education.

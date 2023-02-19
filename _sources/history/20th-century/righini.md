@@ -41,12 +41,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Not only the place of long residence was in common between Galileo and Guglielmo Righini; also their interest in applying and devising technological devices to improve astronomical observations and measurements.
 * In 1964, for the 400th  anniversary of the birth of Galileo, Righini wrote the 118-page work Contributo alla interpretazione scientifica dell'opera astronomica di Galileo Ⓣ(Contribution to scientific interpretation of Galileo's astronomical work).
 * This was published in 1978 shortly after Righini's death.
-* In 1965 Righini, who by then was 57 years old, married Maria Luisa Bonelli (1917-1981).
-* When she married Righini she was the director of the Museum of the History of Science in Florence, which today is called the Museo Galileo.
 * Thanks to international solidarity and the efforts of Maria Luisa Righini Bonelli, then-director of the Museum, it was possible to quickly carry out recovery of the instruments, reopen the exposition rooms to the public and return energies towards library collecting and research activities.
-* We note that was, like her husband, Maria Luisa Righini Bonelli was an expert on Galileo.
-* After Righini died in 1978, it was due to his wife that his final two works, Contributo alla interpretazione scientifica dell'opera astronomica di Galileo Ⓣ(Contribution to scientific interpretation of Galileo's astronomical work) (1978) and Le operazioni del compasso geometrico et militare di Galileo Galilei Ⓣ(Transactions of the geometric and military scope of Galileo Galilei) (1980) were published by the Istituto e museo di storia della scienza in Florence.
-* Finally, we note that Righini's son, Alberto Righini (1942-), is an associate professor at the University of Florence with interests very similar to those of his father.
 
 Born 16 February 1908, Castelfranco Veneto, Italy. Died 29 May 1978, Florence, Italy.
 

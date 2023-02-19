@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Eduard Čech** was a Czech mathematician known for his work in projective differential geometry and topology. He introduced the idea of the higher homotopy groups of a space.
 
 ### Mathematical Profile (Excerpt):
-* Eduard, his parent's fourth child, was born in Stracov which was in northeastern Bohemia but he attended the Gymnasium in Hradec Kralove where his talent for mathematics first became evident and he decided at this time that he wanted to be a school teacher of mathematics.
 * Already Čech was studying mathematical texts which were much more advanced than the level of his courses and he spent much time in the Mathematics library.
 * Čech spent three years in the army, but they were not totally wasted as far as his academic studies were concerned for he took the opportunity to learn Italian, German and Russian.
 * Having obtained his degree, Čech began to teach in secondary schools in Prague but he continued to undertake research in mathematics and completed his doctorate in 1920.

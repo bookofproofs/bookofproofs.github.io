@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Nathan Mendelsohn** was an American-born Canadian mathematician who worked in several areas of discrete mathematics, including group theory and combinatorics.
 
 ### Mathematical Profile (Excerpt):
-* Nathan was born into a modern Orthodox Jewish family at a time when there was considerable anti-Semitism in the United States.There was an upsurge of anti-Jewish feeling as part of a general wave of resentment of minority groups, especially in New York, around the time he was born.
 * They settled in Euclid Avenue, a particularly appropriate place for the future mathematician Nathan! As a high school student, he quickly understood his own mathematical abilities when he realised he knew far more mathematics than his teacher.
 * With a four-year scholarship, Mendelsohn entered the University of Toronto to study mathematics.
 * After completing his first degree, Mendelsohn remained in Toronto to study for a Master's Degree.
@@ -32,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This paper is particularly singled out when Mendelsohn was awarded the Henry Marshall Tory Medal of the Royal Society of Canada in 1979.
 * However there was much more to say about Mendelsohn's contributions to mathematics, particularly in Canada, beyond research contributions.
 * Mendelsohn's interests outside mathematics were, like his mathematical interests, varied.
-* Mendelsohn married Helen and they had two sons Eric and Alan.
 * Eric Mendelsohn obtained his doctorate in mathematics from McGill University in 1968 and is currently Professor of Mathematics at the University of Toronto.
 * Three great heroes of mine were Donald Coxeter, Willie Moser and Nathan Mendelsohn who all had made stunning contributions to producing algorithms to study groups given by generators and relations.
 

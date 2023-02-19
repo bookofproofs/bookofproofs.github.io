@@ -36,8 +36,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Mazur gives his views in poetic fashion in Number Theory as Gadfly.
 * Another honour given to Mazur which we have not mentioned above was his election as a member of the National Academy of Sciences in 1982.
 * Mazur has written several research books such as Étale homotopy  with Mike Artin in 1969, Smoothings of piecewise linear manifolds  with Morris Hirsch in 1974, and Arithmetic moduli of elliptic curves  with Nicholas Katz in 1985.
-* Mazur, however, is not the only member of his family writing popular books.
-* His wife Grace Dane Mazur left science in 1986 for writing fiction (unlike her husband whose work is definitely non-fiction!).
 
 Born 19 December 1937, New York, New York, USA.
 

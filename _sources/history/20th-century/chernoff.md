@@ -29,8 +29,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Wald was at North Carolina and Chernoff prepared by reading papers by Wald on sequential analysis.
 * After some hesitation, Wald agreed and so Chernoff's doctoral thesis Asymptotic Studentization in Testing of Hypotheses was supervised by Wald although his official supervisor at Brown University was shown to be James Krumhansl and the degree was awarded by Brown.
 * Chernoff was awarded the degree in 1948 and part of his thesis was published as Asymptotic Studentization in testing of hypotheses  in 1949.
-* While studying at Brown University, Chernoff met Judy Ullman and they married in September 1947; they had two daughters Ellen and Miriam.
-* After completing the work for his doctorate Chernoff and his wife moved to Chicago where he had an appointment as Research Instructor at the University of Chicago with the Cowles Commission for Research in Economics.
 * In 1949 Chernoff became an Assistant Professor of Mathematics at the University of Illinois at Urbana.
 * Although on the faculty at Illinois until 1952, Chernoff went to Stanford University as a visitor from June 1951 until January 1952, then later that year accepted the position of Associate Professor of Statistics there.
 * In 1959 Chernoff, in collaboration with Lincoln E Moses, published a classic text Elementary decision theory.

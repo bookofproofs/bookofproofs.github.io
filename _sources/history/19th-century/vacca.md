@@ -33,7 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Vacca, on his return to Genoa in 1902, worked for the Party again becoming a member of the Socialist Council and also a member of the national party administration.
 * However Vacca continued his mathematical work and gave a course at the University of Genoa on mathematical logic.
 * In 1904 Vacca returned to Turin and was assistant to Peano for one further year.
-* However Vacca had by this time yet a third interest in addition to mathematics and politics.
 * In 1905, this interest in Chinese became the road that Vacca decided to follow.
 * They shared mathematical interests and certainly Vacca continued his mathematical research and interest in the history of mathematics.
 * In fact Vacca would be one of the editors of Vailati's collected works, published in 1911, two years after Vailati's death.

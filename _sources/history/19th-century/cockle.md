@@ -23,13 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **James Cockle** was an English lawyer and mathematician who wrote papers on both pure and applied mathematics, as well as on the history of science. He became Chief Justice of Queensland.
 
 ### Mathematical Profile (Excerpt):
-* James (senior) married Elizabeth (whose maiden name was probably Moss) in 1814; they had five sons and one daughter.
-* The family moved from Great Oakley to London when James, the subject of this biography, was still a child.
 * James entered Stormond House, Kensington in 1825 and was educated there until 1829 when he attended Charterhouse as a day pupil for two years.
 * Many intending to enter the legal profession studied mathematics at this time and indeed Cockle began his legal training at the Middle Temple in 1838.
 * Despite the relatively low position in the tripos, Cockle had demonstrated his mathematical abilities by having a paper published while still an undergraduate.
 * Cockle was called to the bar in November 1846 and, although a barrister by profession, he maintained his interest in mathematics.
-* Cockle married Adelaide Catharine Wilkin on 22 August 1855; they had nine children.
 * For his efforts in Australia, then of course a British Colony, Cockle was knighted in 1869.
 * Despite the positions of high authority that Cockle held, he was remarkably productive as a mathematician publishing over 100 papers.
 * Cockle joined the Royal Astronomical Society in 1854, the Cambridge Philosophical Society in 1856, and the London Mathematical Society in 1870.

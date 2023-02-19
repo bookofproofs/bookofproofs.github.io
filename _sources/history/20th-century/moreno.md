@@ -23,29 +23,19 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Adelina Gutiérrez** was a Chilean professor, scientist and academic who was the main force behind setting up the first Bachelor's degree in Astronomy in Chile and later the first Master's degree in Astronomy. She was the first Chilean to obtain a doctorate in astrophysics and also the first woman elected to the Chilean Academy of Sciences.
 
 ### Mathematical Profile (Excerpt):
-* She was the daughter of Ramón Gutiérrez and Carmen Alonso.
 * Adelina attended the María Auxiliadora school in Santiago de Chile.
 * In 1903 it moved to Avenida Matta 726 and it was there when Adelina attended the school.
 * We will refer to her as Gutiérrez for the rest of this biography, although from 1966 on she published under the name Gutiérrez-Moreno.
 * While studying at the Pedagogical Institute, Gutiérrez met a fellow student Hugo Moreno León who was also studying science subjects.
-* Hugo Moreno also worked at the National Astronomical Observatory and it is unclear whether he influenced Gutiérrez to move to astronomy or whether she influenced him.
-* They married in 1951 and went on to have three children: Hugo Moreno, Carmen Moreno and Alfredo Moreno.
 * Soon after Gutiérrez began working there, Federico Rutllant (1904-1971) became the director.
-* When Gutiérrez began working at the National Astronomical Observatory in 1949 she was assigned to mathematical tasks related to the reduction of astronomical data obtained by other colleagues, including her future husband Hugo Moreno.
 * Gutiérrez wished to undertake research for a doctorate and was encouraged by the Director of the National Astronomical Observatory.
-* She had the support of her husband, Hugo Moreno, who stayed in Chile with her children while she studied.
 * On 12 January 1960, Gutiérrez flew on the airline Lan from Santiago de Chile to Miami, Florida on her way to Indiana University in Bloomington, Indiana.
-* After the award of her doctorate, Gutiérrez returned to the University of Chile and together with her husband Hugo Moreno and Claudio Anguita (1930-2000), who was the director of the Department of Astronomy at the University of Chile, worked on setting up the first Bachelor's Degree in Astronomy offered in Chile.
 * Towards the end of 1967 Gutiérrez was elected as the first woman member of the Academy.
 * Having established a Bachelor's Degree in Astronomy, Gutiérrez worked on the introduction of a Master's Degree in Astronomy in the Faculty of Physical and Mathematical Sciences of the University of Chile.
 * Gutiérrez was a pioneer in photoelectric photometry of southern stars and the author of many books and study manuals, among which we mention Observando los Astros: Desarrollo de las Técnicas de Astrofísica Ⓣ(Observing the stars: developing astrophysical techniques) (1978).
-* We have found over 60 papers written by Gutiérrez, most of them with her husband and sometimes also with other colleagues.
-* We should note that Gutiérrez spent much time bringing up her children and only worked part-time until the end of 1973.
-* Gutiérrez had interests in addition to astronomy and her family; she loved music, movies and literature.
 * These last two were poets and Gutiérrez was keen to write poems herself.
 * Then Dr Adelina Gutiérrez, the only woman in the Department of Astronomy, the only astronomer who had a doctorate, made a great impression on me, the rest of the professors had not studied abroad.
 * From 1 January 1974 Gutiérrez worked full time until she retired on 30 December 1987.
-* Her husband Hugo Moreno died in 2000 but Gutiérrez outlived him by 15 years during which time she continued to live in Santiago de Chile.
 * After her death the Chilean Academy of Sciences honoured her by establishing the Adelina Gutiérrez Award for Scientific Excellence which recognises outstanding research abilities in those under the age of 40.
 * Perhaps Gutiérrez achieved her greatest fame in 2020, five years after her death, when on 27 May of that year, Google celebrated what would have been her 95th birthday with one of their famous doodles on the main page of their search engine in Chile, Argentina and Peru.
 * With this doodle we want to continue fulfilling our mission of contributing to the conservation and democratisation of the legacy of women like Adelina Gutiérrez and we extend an invitation to learn more about her enormous legacy to national science.

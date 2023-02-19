@@ -24,18 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * His parents were Robert Hirsch and Anna Lehmann.
-* His father, Kurt Hirsch's grandfather, was Aron Simon Hirsch who was a Jew.
-* His son Robert, Kurt's father, was brought up a Christian and, of course, gave his son the middle name of 'August' after his grandfather.
 * August Hirsch was for a time rector of the University of Berlin, something which would prove helpful to his grandson many years later.
-* Kurt was the youngest of Robert and Anna Hirsch's five children, having four older sisters.
-* In 1913, when Kurt was seven years old, his father's soap factory failed.
-* The blow of losing his father was too much for Kurt and his behaviour became extremely difficult.
-* At this stage he benefited from having August Hirsch as his grandfather, for the University of Berlin were prepared to offer a scholarship to the grandson of a former distinguished rector of the university.
 * Kurt Hirsch began his studies there in the autumn of 1925, taking courses in both mathematics and philosophy.
 * Completed and examined on 10 June 1930 (Bieberbach was an examiner), it was not until 1933 that Kurt could afford to get it printed, so he did not receive the degree until 1933.
-* In order to be able to support his family, Kurt became a journalist in 1928, writing a scientific column for the Vossische Zeitung.
-* Kurt's wife was Jewish and he had adopted the faith for her sake.
-* By this time Kurt and Elsa had a second child, Sabine who was born in 1932.
 * Kurt was introduced to Philip Hall who strongly encouraged him to pursue his intention of working on soluble groups with the maximum condition on subgroups.
 * Up to this stage Hirsch had been totally undecided whether to pursue mathematics or journalism as a career but his meeting with Hall quickly led to him choosing mathematics.
 * Despite having a doctorate, Hirsch decided that his prospects in Britain would be better if he had a British doctorate so he became a student of Hall.

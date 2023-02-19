@@ -24,16 +24,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Saverio Bianchi had studied law at the University of Parma, graduating in July 1848.
-* In January 1856 his second son, Luigi (the subject of this biography) was born at Parma and later in the same year Saverio was appointed Professor of Civil Law at the University of Parma.
-* Ferdinando and Luigi grew up in one of the leading families of the city of Parma for Saverio not only held important positions in the University (for example Dean of the Faculty of Law from 1868 to 1873) but he also held many public positions.
-* Luigi Bianchi was educated at a school in Parma as was his elder brother Ferdinando who followed his father into the legal profession studying civil law.
 * Luigi, however, was attracted to mathematics and he took the competitive entrance examinations for the Scuola Normale Superiore of Pisa in November 1873.
-* In fact not only did Luigi leave Parma in 1873, but so did his father who was named to the chair of Civil Law at the University of Siena in this year.
 * At the University of Pisa, Luigi Bianchi studied under Enrico Betti and Ulisse Dini and graduated with the highest distinction from Pisa on 30 November 1877.
 * After his return to Italy in 1881, Bianchi was appointed to a professorship at the Scuola Normale Superiore at Pisa.
-* Also in 1886 he married; the Bianchi's had five sons.
-* We note that his father Saverio Bianchi left the academic world in 1880 when he moved to the judiciary as an advisor of the Court of Cassation of Turin, a position he held until 1882 after which he became an advisor of the Court of Cassation in Rome.
-* When Saverio Bianchi resigned his chair at Siena in 1880, Luigi's brother Ferdinando was appointed as his successor.
 * Luigi Bianchi made important contributions to differential geometry.
 * Bianchi also turns to non-Euclidean geometry, taking up the ideas of Beltrami; the surfaces of curvature zero in such geometry draw his special attention.
 * Bianchi partial differential equations play an important role.

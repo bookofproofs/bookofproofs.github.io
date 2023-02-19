@@ -25,10 +25,8 @@ contributors: @Ian-T-Durham,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Ralph's early education was handled at home by a governess.
 * At the age of 13, in 1902, Ralph won a scholarship to Winchester College placing second in the entrance examination (which apparently annoyed him despite the fact that he was sick at the time).
-* Once again, athletics was a major focus of Ralph's life, though despite his success at golf, he was outdone by his sister Dorothy who was a champion golfer.
 * Ralph's academic ability was exceptional at Winchester.
 * At Winchester Ralph made numerous friends.
-* During Ralph's stay at Winchester his family moved from Essex to Norfolk, taking up residence in Weybourne, near Sheringham which was where the Fowlers golfed regularly.
 * A bit later they moved on to Glebelands, Burnham-on-Sea, Somerset, but not before Ralph got in a bit of cricket, playing for Norfolk County for some time.
 * In December of 1906, Ralph won a Major Scholarship to Trinity College, Cambridge, and he left for Trinity during Michaelmas term 1908.
 * Needless to say, Cambridge was quite good to Ralph - or, rather, Ralph was quite good to Cambridge.
@@ -47,7 +45,6 @@ contributors: @Ian-T-Durham,bookofproofs
 * In 1919 Fowler left the service and returned to Trinity, though he was to have a part in the newly formed Ordnance Board during the Second World War later on.
 * This was when Fowler came under the influence of Lord Rutherford who had just been appointed Cavendish Professor.
 * The two became very good friends and Fowler was eventually appointed College Lecturer in Mathematics in 1920.
-* In 1921, Ralph married Eileen, the only daughter of Lord Rutherford, Ralph's good friend and colleague at Cambridge.
 * In 1922, Ralph became a Proctor at Cambridge which, being a Marine, he was well-suited for, finding himself chasing after undergraduates frequently and, on one occasion, injuring himself doing so.
 * It was also in 1922 that Ralph began what would be his most seminal work.
 * Having developed a new technique for approaching physical chemistry through statistical mechanics, the two, and later Fowler alone, justified a number of formulae and calculations performed by the likes of Saha, Lindemann, and Chapman.

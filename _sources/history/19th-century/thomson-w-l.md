@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Leslie Thomson** studied at Edinburgh and Cambridge. He taught at Kirkwall, at Kilmarnock and at George Heriot's School in Edinburgh.
 
 ### Mathematical Profile (Excerpt):
-* His mother was  Margaret Thomson (born Edinburgh about 1843).
 * William Thomson attended school in Penicuik, then at St Andrew's School, Perth.
-* He married Jessie Thomson.
 * Thomson became a school teacher, teaching mathematics first in in Kirkwall, then at Kilmarnock Academy.
 * Thomson was appointed to George Heriot's School to fill the vacancy and he taught there until he retired in 1928.
 

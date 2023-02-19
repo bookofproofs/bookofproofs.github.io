@@ -23,8 +23,6 @@ contributors: @Stefanie-Eminger,bookofproofs
 **Ernst Fiedler** was a German born Swiss  school teacher.
 
 ### Mathematical Profile (Excerpt):
-* Wilhelm Fiedler married Elise Springer in 1860, in Chemnitz and Ernst was born there.
-* He had two brothers and four sisters, among them Alfred Fiedler (1863-1894), who lectured on zoology at the University of Zürich.
 * Three years later Wilhelm Fiedler was appointed to fill the chair of descriptive geometry at the Polytechnic in Zürich, which had been vacant since Wolfgang von Deschwanden's death.
 * Ernst attended the Gymnasium in Zürich and, from 1879 onwards, the Polytechnic, where he studied mathematics at the Department for Mathematics and Physics Teachers.
 * Fiedler was influential in the school's development, especially after having become Director of the school in 1904, when it was re-organised and renamed as Oberrealschule.

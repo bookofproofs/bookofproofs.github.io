@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **John Turner** graduated from the university of Edinburgh and taught at the Royal High School of Edinburgh.
 
 ### Mathematical Profile (Excerpt):
-* The 1881 census, taken when John Turner was ten years old, describes his father as a mill worker.
-* John Turner is the youngest of the family having older siblings: Duncan (born about 1856 and a student of theology), Thomas (born about 1858 and a railway clerk), Jeanie (born about 1860), William (born about 1866 and an apprentice moulder) and Robert (born about 1869 and an apprentice grocer).
 * John Turner entered Bridge of Weir Public School in 1877, when he was six years old, and after two years moved to Paisley Public School.
 * Turner first matriculated at the University of Edinburgh in October 1886 when he was fifteen years old.
 * John Marshall, M.A. Oxon., LL.D. Edin., a classics scholar, was Rector of The Edinburgh High School when Turner was appointed.

@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Bernard Malgrange** is a French mathematician who worked on differential equations and singularity theory.
 
 ### Mathematical Profile (Excerpt):
-* Bernard grew up in Paris, living in the family home on the Rue de Rennes near the Luxembourg gardens.
-* At this stage Malgrange's family moved to the provinces where he continued his education.
-* Malgrange's father certainly would have preferred his son to attend the École Polytechnique.
 * Malgrange took Cartan's courses on differential geometry and Lie groups in his second year.
 * Following a suggestion by Jean Dieudonné, enthusiastically supported by Henri Cartan, Malgrange and his fellow student André Blanchard spent one semester of their second year of study at the Faculty of Sciences at Nancy.
 * Malgrange and Blanchard were two active participants.

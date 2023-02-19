@@ -30,11 +30,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Two years later Marcinkiewicz was awarded his doctorate, something which would be impressive enough if he had spent two years working for it, but he did not have this luxury since he had to undertake a years military service immediately after the award of his Master's degree.
 * After being awarded his doctorate, Marcinkiewicz received a Fellowship from the Fund for National Culture which enabled him to spend a year at the University of Lwów (now Lviv in Ukraine).
 * For in the field of real variable Marcinkiewicz had exceptionally strong intuition and technique, and the results he obtained in the theory of conjugate functions, had they been extended to functions of several variables might have given (as we see clearly now) a strong push to the theory of partial differential equations.
+* The only visible trace of Schauder's influence is a very interesting paper of Marcinkiewicz on the multipliers of Fourier series, a paper which originated in connection with a problem proposed by Schauder ...
 * During his year in Lwów, Marcinkiewicz also collaborated with Kaczmarz.
 * He suggested problems on general orthogonal systems to Marcinkiewicz and this resulted in a series of papers from him on this topic.
 * Returning to Wilno in the autumn of 1936, Marcinkiewicz became a senior assistant there, and in the following year he became a Dozent.
 * Perhaps through his contacts with Schauder, who had greatly benefited from his time in Paris, Marcinkiewicz applied to the Fund for National Culture for another Fellowship, this time to study in Paris.
-* From Paris Marcinkiewicz went to England and he was there in August 1939 when the deteriorating political situation made him decide to return to Poland.
 * War broke out a few days after Marcinkiewicz returned to Wilno.
 * It seems that this was the last news about Marcinkiewicz.
 * During his time in Paris and England, Marcinkiewicz had produced some mathematical work which he had written down in manuscript form.

@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * School was not very easy for Herman despite the fact that he was clever.
-* The consequence of these school problems were that Herman was eventually taken away from school and he was tutored privately at home by the family's Lutheran minister.
 * Hollerith entered the City College of New York in 1875 and he became an engineering graduate of the Columbia School of Mines in 1879, obtaining a distinction in his final examinations.
 * His undergraduate record had been outstanding and one of his teachers, Professor W P Trowbridge, was so impressed that he asked Hollerith to become his assistant.
 * So after graduating Hollerith became an assistant to Trowbridge, first at Columbia University but later he joined the US Census Bureau as a statistician when Trowbridge was appointed Chief Special Agent to the Census Bureau.

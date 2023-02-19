@@ -23,13 +23,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Christian Kramp** was a French mathematician who worked on analysis and combinatorics. He introduced the factorial notation.
 
 ### Mathematical Profile (Excerpt):
-* His father, Jean-Michel Kramp, was a teacher in the Gymnasium at Strasbourg.
 * It has been a free city, a part of France and a part of Germany but in 1760, when Kramp was born there, it had been part of France for over 60 years and had enjoyed a long period of peace and prosperity.
 * With both French and German spoken in the city, it was natural that Kramp was brought up to speak and write in both languages.
 * It is clear from this work on mortality tables that Kramp was intent on applying mathematical techniques in his medical research.
 * In 1795 France annexed the Rhineland region in which Kramp was carrying out his medical work and after this he decided to give up his work as a medical doctor and was appointed as a teacher in Cologne at the École Centrale of the Département of the Ruhr.
 * The following years saw Kramp embrace mathematics more and more seriously.
-* This was a period of French dominance under Napoleon and Kramp responded to the new political order by publishing books in French instead of German.
 * The influence of the French Revolution is seen on the title page since the author is given as "citizen Kramp" and it was "printed in the 7th  year of the Republic".
 * He followed this with the mathematical textbooks Éléments d'arithmétique Ⓣ(Elements of arithmetic) (Cologne-Paris, 1801), where again on the title page the author is given as "citizen Kramp" and the date is given as the 9th  year of the Republic, and Éléments de géométrie Ⓣ(Elements of geometry) (Cologne, 1806), where now the author is C Kramp and there is no dating by year of the Republic.
 * Kramp was appointed professor of mathematics at Strasbourg, the town of his birth, in 1809.

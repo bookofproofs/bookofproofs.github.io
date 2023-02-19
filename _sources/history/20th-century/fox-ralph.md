@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * In fact Swarthmore is less than 20 km from Philadelphia, so geographically this was not difficult, and Fox continued with these two studies for two years.
 * After taking his first degree from Swarthmore, Fox went to Johns Hopkins University where he studied for a Master's Degree in mathematics before going to Princeton where he undertook research advised by the topologist Solomon Lefschetz.
-* While he was a student, Fox had married Cynthia Atkinson; they had one son Robin.
 * Fox spent the year after the award of his doctorate at the Institute for Advanced Studies at Princeton.
 * The year after Fox was appointed as a lecturer at Princeton, Emil Artin left Indiana University at Bloomington and was appointed to Princeton.
 * After arriving in Princeton he began to think again about braids and he began working with Fox on certain topological ideas.

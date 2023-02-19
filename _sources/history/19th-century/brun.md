@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Now, from the dates we have just given we can see that Viggo's parents died when he was young.
-* However, Viggo was the youngest of his parents' ten children and he had older sisters who brought him up.
 * Many bright pupils in Brun's position would have read mathematics books to take them into deeper studies than those being presented in their courses.
 * Brun's approach was, however, different and he tried to develop his own mathematical ideas without having the support of teachers or advanced texts and, as a consequence, he produced some rather original ideas while still an undergraduate.
 * In 1910 Brun went to Göttingen University in Germany, the leading mathematics centre in the world at this time, and while he was there he began to work on what were some of the most difficult problems in number theory.
@@ -38,7 +37,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The proof uses what today is called 'Brun's sieve'.
 * Later mathematicians have strengthened these results, using methods based on those first developed by Brun, but the two conjectures are still open.
 * Let us return to Brun's career.
-* We note that her home town of Frogn was adjacent to Drobak where Brun's father had bought an old house.
 * In 1946 Brun was appointed to a chair at the University of Oslo which he occupied for nine years until he retired in 1955 at the age of seventy.
 * Brun published two books after he retired, namely The Art of Calculating in Old Norway until the Time of Abel (Norwegian) (1962) and All is Number, a History of Mathematics from Antiquity to the Renaissance (Norwegian) (1964).
 * In addition to these books on the history of mathematics, Brun wrote many papers on the subject.

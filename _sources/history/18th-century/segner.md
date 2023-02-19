@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jan Segner** was a Hungarian mathematician who was the first professor of mathematics at Göttingen. He made substantial contributions to the theoery of Dynamics.
 
 ### Mathematical Profile (Excerpt):
-* There is genuine reason for both German and Hungarian versions, for Segner was from a family of German origins, and although he spent about 25 years of his life in Hungary he spent most of his career in Germany.
 * Segner attended school at Pozsony's Lyceum where he showed special talents for medicine and mathematics.
 * Segner's was therefore the first to fill what was to become one of the foremost chairs of mathematics in the world.
 * In 1743 Segner was put in charge of the construction of the university observatory which was finished in 1751.

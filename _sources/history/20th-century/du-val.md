@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Patrick Du Val** was an English mathematician who worked in algebraic geometry, differential geometry and general relativity.
 
 ### Mathematical Profile (Excerpt):
-* In fact Patrick was brought up by his mother in a single-parent family.
-* He suffered from bad health as a child, due to an asthmatic condition, and was not well enough to attend school.
-* He was educated at home by his mother, who was a truly remarkable woman capable of teaching her son to a high level.
 * They got to know Henry Baker and he persuaded Patrick to undertake research into algebraic geometry at Cambridge; Du Val matriculated as a research student at Cambridge in 1927.
 * Baker's research group contained a remarkable collection of geometers: Donald Coxeter, Leonard Edge, William Hodge and John Semple were all close to Du Val in age (only one year separated them all), and there also was the younger John Todd.
 * During his period as a research student these geometers, all later making outstanding mathematical contributions, became good friends and Du Val formed a particularly strong friendship with Coxeter and Semple.
@@ -41,8 +38,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The idea for the pamphlet was due to Coxeter who wanted to construct models of 59 polyhedral stellations and write a paper to explain them but, realising the immense amount of work involved, enlisted the help of three friends, one of whom was Du Val.
 * The pamphlet was reprinted in 1951, then 44 years after it was first published, Du Val brought out a second edition in 1982.
 * After five years in Manchester, Du Val went to Istanbul in 1941 to take up the chair of Pure Mathematics.
-* In 1945 he made a short return visit to Cambridge, during which time he married Isobel Shimwell.
-* The newly married couple went to Istanbul where they started a family and Du Val continued to undertake his duties at the University.
 * He publication record during this period was no longer the remarkable one of the years 1932-36 when he had published 19 papers.
 * Together with Semple he led the London Geometry Seminar during the time he spent in London.
 * After he retired Du Val returned to Istanbul and for three years  where he held the same post as he had held 30 years before.

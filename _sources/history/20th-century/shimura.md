@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Goro Shimura** was a Japanese mathematician who worked on algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-* Even after Goro's birth, the family moved from one house to another in Hamamatsu, a city about 240 km west of Tokyo.
-* In March 1933 the family moved to Tokyo and, three years later, in April 1936, Goro began his schooling.
-* In 1938 the family moved to a larger home in Tokyo but Goro continued to attend the same elementary school until he had completed the forth grade.
 * There had been food shortages during the war but, after the war ended, the shortages became worse and Shimura was constantly hungry.
 * In 1946 Shimura entered the First High School.
 * Shimura began his studies at the University of Tokyo in 1949.

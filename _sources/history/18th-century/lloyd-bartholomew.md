@@ -23,14 +23,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Bartholomew Lloyd** was an Irish mathematician who became a bishop and provost of Trinity College Dublin.
 
 ### Mathematical Profile (Excerpt):
-* Humphrey and Margaret Lloyd were married on 22 November 1766 and had three sons: Bartholomew Lloyd, the subject of this biography; John Lloyd, born 24 December 1774; and Robert Lloyd, born 6 January 1785.
-* Bartholomew's uncle died when he was nine years old and his father died when he was fourteen so at this stage Bartholomew had, to some extent, to make his own way in the world although he still had a large extended family.
 * Although Lloyd entered Trinity without the award of a scholarship, his progress was excellent and in 1790 he was awarded a scholarship for his classical achievements.
 * We note that through Lloyd's time as an undergraduate at Trinity College, Dublin, Richard Murray was the Professor of Mathematics.
 * Lloyd continued to undertake research in mathematics despite having an extremely high teaching load.
-* In July 1799 Lloyd married Eleanor McLaughlin, a daughter of Patrick McLaughlin of Dublin, Dunsaughlin and Kilmartin.
 * Bartholomew and Eleanor Lloyd had four sons: Humphrey Lloyd (born 1800, who has a biography in this archive); Bartholomew Clifford Lloyd (born 1808); Robert Clifford Lloyd (born 1809); and John Frederick Lloyd (born 1810).
-* Fellows of Trinity College were required to be celibate so the reader may ask how Bartholomew Lloyd could have married and had many children.
 * Certainly, despite having studied no calculus as an undergraduate, nevertheless Lloyd was now reading continental mathematics texts.
 * In 1813 Magee became Dean of Cork and, in the same year Lloyd was appointed to succeed him as Professor of Mathematics at Trinity College, Dublin.
 * This, we note, was quite remarkable since Lloyd had never been promoted to a senior fellowship and had remained a junior fellow from 1796 to 1813.
@@ -44,7 +40,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1831 Lloyd became Provost of Trinity College, Dublin.
 * One of Lloyd's first tasks as Provost was to improve the structure of Mathematics and of Natural Philosophy.
 * Lloyd separated these roles and made other improvements such as in the structure of the fellowship examinations.
-* The first to benefit from the restructuring of the professorships was his son Humphrey Lloyd who was appointed to fill the Erasmus Smith Chair of Natural and Experimental Philosophy.
 * Lloyd indicated that he wanted to see this rule changed for the newly restructured chairs but, seeing that there was strong opposition to this he dropped his proposal.
 * The first to benefit from Lloyd's changes to the chair of mathematics was James MacCullagh who filled this position in 1835.
 * In the thirteen years between Lloyd leaving the chair of mathematics and MacCullagh filling the chair there had been two professors, namely James Wilson, who had published First Elements of the Theory of Series and Differences (1822), and Franc Sadleir (1775-1851).

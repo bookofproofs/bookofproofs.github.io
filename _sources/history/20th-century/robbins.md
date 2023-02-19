@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Herbert Robbins** was an American mathematician and statistician who worked in topology, measure theory, statistics,and other fields.
 
 ### Mathematical Profile (Excerpt):
-* Herbert's father died when he was thirteen years old leaving the family in financial difficulties.
 * Robbins graduated with an A.B. from Harvard in 1935 and remained there undertaking graduate studies.
 * He immediately invited Robbins to be his assistant for the academic year 1938-39 which Robbins happily accepted.
 * The collaboration between Courant and Robbins on What is Mathematics?
@@ -31,11 +30,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, Robbins had a nasty shock when the final page proofs came from the printers as his name did not appear as an author.
 * Despite having done a large part of the writing, he had quite a battle to have his name included as a joint author and, even after he succeeded, Courant held the copyright for the book and forwarded some money to Robbins each year as his share of the royalties although he never knew how many copies had sold and whether what he received was fair.
 * It was during his time at NYU that Robbins first became involved in statistics.
-* Robbins married Mary Dimock in 1943; they had two daughters Mary Susannah and Marcia.
 * Robbins was promoted to professor at the University of North Carolina, Chapel Hill in 1950.
 * Robbins not only studied and developed an increasingly deep interest in statistics, but he also made a number of profound contributions to his new field: complete convergence, compound decision theory, stochastic approximation, and the sequential design of experiments, to name a few.
-* In 1955 Robbins and his wife Mary were divorced.
-* He married Carol Hallett in 1966; they had two sons, Mark Hallett and David Herbert, and a daughter Emily Carol.
 * Robbins spent two years 1966-68 as Professor of Mathematics at the University of Michigan, Ann Arbor, before returning to Columbia.
 * Robbins' paper with his student Sutton Monro on Stochastic Approximation provided an analogue of an iterative method due to Isaac Newton for finding the root of a function, even when the function's equation is unknown and the evaluation of the function involves experimental error.
 * During the 1960s and for part of the 1970s, Robbins main area of research was on sequential analysis.

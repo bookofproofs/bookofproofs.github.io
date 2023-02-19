@@ -23,15 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Arthur Cayley**'s most important work was in developing the algebra of matrices and work in non-euclidean and _n_-dimensional geometry.
 
 ### Mathematical Profile (Excerpt):
-* Henry Cayley was married to Maria Antonia Doughty (1794-1875), a daughter of William Doughty.
-* Henry and Maria Cayley had five children: Sophia Cayley (1816-1889), William Henry Cayley (1818-1819), Arthur Cayley the subject of this biography, Charles Bagot Cayley (1823-1883) and Henrietta-Caroline Cayley (1828-1886).
-* The connection with St Petersburg was more than just where Henry Cayley's job had taken him for his father, Arthur Cayley's paternal grandfather, John Cayley (1730-1795), had served as Consul General in St Petersburg.
-* The family, although living in St Petersburg, returned to England for the summers and it was on such a summer visit in 1821 that Arthur Cayley was born.
 * Arthur spent the first seven years of his life in St Petersburg where he came in contact with several languages, particularly Russian, English and French - the international business language there was French.
-* It was after the family returned to London that Arthur Cayley's sister Henrietta-Caroline was born there.
-* While we are describing the Cayley family we should mention that Sir George Cayley, F.R.S. (1773-1857), a pioneer of aerial navigation and aeronautical engineering, was Arthur Cayley's fourth cousin.
 * Arthur showed great skill in numerical calculations at a private school in Blackheath and, after he moved to King's College School in 1835, at age 14 rather than the usual age of entry of 16, his aptitude for advanced mathematics became apparent.
-* His mathematics teacher advised his parents that Arthur be encouraged to pursue his studies in this area rather than follow his father's wishes to enter the family business as a merchant.
 * In 1838 Arthur began his studies at Trinity College, Cambridge, having George Peacock as tutor in his first year.
 * Cayley graduated as Senior Wrangler in 1842 and won the first Smith's prize.
 * After the examinations, Cayley and his friend Edmund Venables led a reading party of undergraduates to Aberfeldy in Scotland.
@@ -49,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * This appointment involved a very large decrease in income for Cayley who now had to manage on a salary only a fraction of that which he had earned as a skilled lawyer.
 * However Cayley was very happy to have the chance to devote himself entirely to mathematics.
 * Cayley was to more than fulfil these conditions.
-* Arthur and Susan Cayley had two children: Henry Cayley (1870-1949) who studied mathematics at Cambridge but decided that he couldn't live up to his father's achievements so became an architect, and Mary Cayley (1872-1950).
 * In 1864 Cayley purchased Garden House, Little St Mary's Lane, in Cambridge.
 * On 8 November 1863 Cayley gave his inaugural lecture Analytical geometry - Introductory lecture.
 * As early as 1849 Cayley had written a paper linking his ideas on permutations with Cauchy's.
@@ -61,6 +53,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1883 Cayley became President of the British Association for the Advancement of Science.
 * In his presidential address Cayley gave an elementary account of his own views of mathematics.
 * Two descriptions of Cayley, both of him as an old man, are interesting.
+* The room was small, and some twelve mathematicians were assembled round a table, among them was Prof Cayley ...
 * At the close of the meeting Cayley gave me a cordial handshake and referred in the kindest terms to my papers which he had read.
 * Sylvester told me he never saw him angry but once, and that was (both were practicing law!) when a messenger broke in on one of their interviews with a mass of legal documents - new business for Cayley.
 * In an access of disgust, Cayley dashed the documents upon the floor.

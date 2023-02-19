@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hardy**'s interests covered many topics of pure mathematics:- Diophantine analysis, summation of divergent series, Fourier series, the Riemann zeta function and the distribution of primes.
 
 ### Mathematical Profile (Excerpt):
-* His mother Sophia had been a teacher at Lincoln Teacher's Training School.
 * Both parents were highly intelligent with some mathematical skills but, coming from poor families, had not been able to have a university education.
 * He came top of his class in all subjects.
 * But, as a result of coming top of his class, he had to go in front of the school to receive prizes: and that he could not bear.
@@ -54,20 +53,18 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Germany had, after all, been the great educating force of the nineteenth century.
 * To Eastern Europe, to Russia, to the United States, it was the German universities which had taught the meaning of research.
 * in most respects the German culture, including its social welfare, appeared to him higher than his own.
+* Hardy, like Russell ...
 * did not believe that the war should have been fought.
-* Further, with his ingrained distrust of English politicians, he thought the balance of wrong was on the English side.
 * Deeply unhappy at Cambridge, Hardy took the opportunity to leave in 1919 when he was appointed as Savilian professor of geometry at Oxford.
 * These were in many ways the years when he was happiest and also the years when he produced his best mathematics in the collaboration with Littlewood.
 * This collaboration was achieved during a period when Littlewood was in Cambridge and Hardy was in Oxford, making joint research a quite difficult logistical exercise.
 * the confident, booming, imperialist bourgeois English.
-* The designation included most bishops, headmasters, judges, and all politicians, with the single exception of Lloyd George.
 * He had chosen not to live in the best rooms while at Cambridge, and Hilbert was so concerned that Hardy was not being properly treated that he wrote to the Master of the College pointing out that the best mathematician in England should have the best rooms.
 * However, Hardy did not think that way.
 * He held a trade union office for two years (1924-26) as President of the Association of Scientific Workers.
 * At a time when it seemed difficult to do so, Hardy liked equally both the United States and Russia.
 * He spent the academic year 1928-29 at Princeton in an exchange with Veblen, who spent the year in Oxford.
 * Despite having been unhappy at Cambridge, Hardy returned to the Sadleirian chair there in 1931 when Hobson retired.
-* To the unmarried Hardy, this held an attraction as he began to look toward old age.
 * Hardy's interests covered many topics of pure mathematics - Diophantine analysis, summation of divergent series, Fourier series, the Riemann zeta function, and the distribution of primes.
 * His long collaboration with Littlewood produced mathematics of the highest quality.
 * It was a collaboration in which Hardy acknowledged Littlewood's greater technical mathematical skills, but at the same time Hardy brought great talents of mathematical insight and a great ability to write their work up in papers with great clarity.
@@ -119,6 +116,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * He would not try to kill himself again.
 * He was not  good at it.
 * He was prepared to wait.
+* With an inconsistency which might have pained him - for he ...
 * Hardy received many honours for his work.
 * for his important contributions to many branches of pure mathematics.
 * for his distinguished part in the development of mathematical analysis in England during the last thirty years.

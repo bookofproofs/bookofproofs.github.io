@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alan Turing**'s work was fundamental in the theoretical foundations of computer science.
 
 ### Mathematical Profile (Excerpt):
-* His father, Julius Mathison Turing, was a British member of the Indian Civil Service and he was often abroad.
-* Alan's mother, Ethel Sara Stoney, was the daughter of the chief engineer of the Madras railways and Alan's parents had met and married in India.
-* When Alan was about one year old his mother rejoined her husband in India, leaving Alan in England with friends of the family.
 * Alan was sent to school but did not seem to be obtaining any benefit so he was removed from the school after a few months.
 * Now 1926 was the year of the general strike and when the strike was in progress Turing cycled 60 miles to the school from his home, not too demanding a task for Turing who later was to become a fine athlete of almost Olympic standard.
 * Many of the most original thinkers have found conventional schooling an almost incomprehensible process and this seems to have been the case for Turing.

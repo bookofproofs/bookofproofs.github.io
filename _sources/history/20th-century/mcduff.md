@@ -25,14 +25,11 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Dusa was educated at a girls school in Edinburgh and, although the standard was less good than at the boys school, nevertheless she had an exceptionally good mathematics teacher.
 * By the time that Dusa completed her secondary schooling in Edinburgh she had a boyfriend.
-* During her undergraduate years at Edinburgh Dusa married her boyfriend and took his name becoming Dusa McDuff.
 * Awarded a B.Sc. from Edinburgh in 1967, Dusa went to Girton College, Cambridge for her doctoral studies.
 * At Cambridge McDuff was supervised by G A Reid and she worked on problems in functional analysis.
 * After completing her doctorate in 1971 McDuff was appointed to a two-year Science Research Council Postdoctoral Fellowship at Cambridge.
-* Then McDuff followed her husband again, this time with a six month visit to Moscow.
 * He was studying the Russian Symbolist poet Innokenty Annensky and Dusa had no specific plans, yet it would turn out a very profitable visit for her mathematically.
 * Perhaps 1974 was a turning point for McDuff.
-* Back in England, McDuff separated from her husband and, soon afterwards, she was appointed to a post at the University of Warwick in 1976.
 * McDuff had a friend, the mathematician Jack Milnor who worked in Princeton.
 * After two years at Warwick, McDuff resigned her tenured post there and accepted an untenured post at the State University of New York at Stony Brook so that she could be close to Milnor.
 * From the early 1980s McDuff worked on symplectic topology.

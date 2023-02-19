@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * The versions Styfel, Styffel, Stieffell, Stieffel are all used, as is the Latin version of his name Stifelius.
-* His father was Conrad Stifel, but nothing is known of Michael's upbringing and early education.
 * However Stifel did not conform correctly to the Catholic faith when he became unhappy with taking money from the poor and he began to absolve poor people of their sins without taking indulgence money.
 * Stifel also began, around 1520, to attempt to use methods of numerology to deduce hidden religious meanings from names particularly using the numbers which appear in the book of Revelation and in the Book of Daniel (he identified Pope Leo X with the Antichrist; we say more below about how numbers led him to this).
 * Fearing for his life, Stifel fled from the monastery at Esslingen in 1522.
@@ -33,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Stifel lived in Luther's own house for a while and the two became close friends; also at this time he became friendly with Philipp Melanchthon, the Professor of Greek in Wittenberg and one of Luther's first supporters.
 * In 1523 Luther obtained a position for Stifel as a pastor but anti-Lutheran pressure forced him out of this and a number of other positions, in particular one in Mansfeld and one in Upper Austria.
 * Luther then set Stifel up in a parish at Annaburg travelling there with him in October of that year.
-* Not only did Stifel take over the duties of the priest who had just died, but he also married the widow of the deceased, the marriage being conducted by Luther himself.
 * Stifel settled down well in Annaburg.
 * Luther was delighted with his staunch supporter and there was a lighter side to life too; in the summer of 1531 Luther wrote to Stifel that he, along with many cherry-loving boys, will soon visit Stifel's cherry garden.
 * However, Stifel now had the time and peace to return to his earlier ways of using numerology to deduce hidden meanings.
@@ -52,6 +50,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Stifel wrote Arithmetica integra in Latin but his next publication Deutsche arithmetica (1545) was written in German and was clearly designed to make algebra more widely understandable to a wide range of people.
 * In 1553 Stifel brought out a new edition of Rudolff's Coss, but he added more material in the form of notes and comments at the end of each chapter that he more than doubled the length of the original text.
 * One of the advances in Stifel's notes is an early attempt to use negative numbers to reduce the solution of a quadratic equation to a single case.
+* Another of Stifel's advances in this text was to introduce the notation A,AA,AAA,AAAAA, AA, AAA, AAAAA,AA,AAA,AAAA, ...
 * Although he is producing a new edition of Rudolff's Coss, Stifel uses his own notation for roots.
 * If we use ζ for Stifel's symbol for the square of the unknown, then he writes √ζ for the square root that Rudolff wrote √.
 * We stress here, not that Stifel is introducing a particularly wonderful notation, but that he is so concerned with good notation.

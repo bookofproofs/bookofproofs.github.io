@@ -25,18 +25,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * His parents were David Edward Kadison (29 May 1895 - 26 August 1974) and Rae Siegel (23 April 1900 - 27 August 1988).
 * David Kadison had been born in New York to parents Jacob L and Sophie Kadushin.
-* David and Rae Kadison were married in the Bronx, New York, on 22 September 1924.
 * David Kadison had changed the spelling of his name from Kadushin to Kadison before his marriage; he was still David Kadushin in the 1920 census.
 * Richard Kadison attended the Bronx High School of Science, graduating in 1942.
 * Not only did Kadison excel with his mathematical studies, but he also was a remarkable gymnast, being a member of the University of Chicago gymnastic team.
-* My father was a gymnast, a specialist in the flying rings, and he told me of Dick Kadison, a genius with the still rings.
 * Kadison graduated with a Ph.D. from the University of Chicago in 1950 after writing his 108-page thesis A Unified Representation Theory for Topological Algebra.
 * Two of the 1951 papers are joint works by Kadison and Bent Fuglede who, after graduating with a D.Phil.
 * Kadison was appointed assistant professor at Columbia University, New York, in 1952.
-* On 5 June 1956 he married Karen M Holm (born in Sioux City, Iowa, on 23 December 1931); they had one son Lars David Kadison who was born on 24 February 1958.
 * Lars Kadison went on to become a mathematician being awarded a Ph.D. from the University of California, Berkeley, in 1989 for his thesis Cyclic Homology of Extension Algebras with Application to Matrix Algebras, Algebraic K-Theory and Nest Algebras of Operators.
-* During his time at Columbia University, Kadison made trips to Denmark with his family.
-* For example in the summer of 1960 Kadison, his wife and two-year old son, went to Denmark.
 * An important aspect of Kadison's work at Columbia was the Ph.D. students he attracted and advised.
 * We should make special mention of Richard Kenneth Lashof (Topological Group Extensions and Lie Algebras of Locally Compact Groups, 1954); James G Glimm (On a Certain Class of Operator Algebras, 1959); Marc Aristide Rieffel (A Characterization of Commutative Group Algebras and Measure Algebras, 1963); Erling Størmer (Point Measures in the Two-Sided Non-Commutative Integration Theory, 1963); and Laurence Terrell Gardner, Jr. (On Isomorphisms of C*-Algebras, 1964).
 * Kadison left Columbia University in 1964 to take up the Gustave C Kuemmerle chair of mathematics at the University of Pennsylvania.

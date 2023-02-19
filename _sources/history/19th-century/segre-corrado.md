@@ -23,11 +23,9 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Corrado Segre** was an Italian mathematician who was responsible for important early work in algebraic geometry.
 
 ### Mathematical Profile (Excerpt):
-* He had a brother, Arturo  Segre.
 * The young Corrado completed his secondary education at the Sommeiller Technical Institute in Turin where he had Giuseppe Bruno as a mathematics teacher.
 * At this time Giuseppe Bruno was also teaching descriptive geometry at the University of Turin and he gave the young Segre a great love of geometry.
 * Segre, only 16 years old, was awarded his diploma and received a prize of 300 lire from the Chamber of Commerce for being ranked first in his class at the Technical Institute.
-* Although Abramo Segre, Corrado's father, wanted him to train to be an engineer, his experiences of learning mathematics from Giuseppe Bruno made him very keen to study mathematics at university.
 * Gino Loria, who was to write famous texts on the history of mathematics, was a fellow student of Segre's and they remained friends throughout their lives.
 * In his fourth and final year of study (1882-83), in addition to the compulsory courses on Higher Mechanics, Astronomy and Mathematical Physics, Segre again followed the course of higher geometry given by D'Ovidio and the analysis course by Faà di Bruno.
 * Segre fully understood the importance of mastering both the geometrical methods as well as those of analysis.
@@ -43,7 +41,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1891 Segre went on an extended tour of Germany visiting the mathematical centres of Göttingen, Frankfurt, Nuremberg, Leipzig and Munich.
 * It is a fascinating article, both for the advice it gives young people and also for the insight it gives us into Segre's thinking about geometrical research.
 * With regard to rigour, Segre recommends the geometer to be as rigorous as he can, and to own up like a man when he makes use of methods of doubtful parentage.
-* In 1893 Segre married Olga Michelli; they had two daughters, Elena and Adriana.
 * Later in his career, Segre took on administrative positions in the university.
 * On the other side, Veronese and Bertini at first, and then Corrado Segre were perfectly aware that not only the geometry of hyperspaces would shed new light on the geometry of curves and surfaces of ordinary space, but also that these latter could be viewed - and this is certainly innovative - as points (defined by a number of parameters) belonging to new algebraic varieties that could not be placed in ordinary space.
 * Segre worked on geometric properties invariant under linear transformations, algebraic curves and ruled surfaces studying transformations already considered by Alexander von Brill, Alfred Clebsch, Paul Gordan and Max Noether.

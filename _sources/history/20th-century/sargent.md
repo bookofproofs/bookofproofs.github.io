@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Winifred Lydia Caunden Sargent** was an English mathematician who worked in Lebesgue integration, and fractional integration and differentiation.
 
 ### Mathematical Profile (Excerpt):
-* John Grant Sargent and his wife Catherine Doubell, settled in Fritchley, Derbyshire in 1864 where they founded a very strict Quaker Community providing an alternative to the London Meeting.
-* Winifred's father, Henry C Sargent, was a descendent of John Grant Sargent and Winifred was the only child of Henry Sargent's second marriage to Edith M Sargent.
 * In September 1915 Sargent entered Ackworth School which had been founded by the Quakers in 1779 in the abandoned buildings of a Foundling Hospital in Ackworth near Pontefract and still occupied these building when Sargent became a boarder there.
 * Sargent left The Mount School in York and became a day pupil at The Herbert Strutt School in Derby Road, Belper, Derbyshire.
 * In 1923, while studying at The Herbert Strutt School, Sargent gained a Derby County Scholarship, a State Scholarship, and a Mary Ewart Scholarship to study mathematics at Newnham College, Cambridge.

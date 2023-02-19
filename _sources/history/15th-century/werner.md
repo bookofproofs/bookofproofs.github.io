@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Johann Werner** was a German mathematician whose main work was on astronomy, mathematics and geography.
 
 ### Mathematical Profile (Excerpt):
-* (In fact in later life Dürer consulted Werner on mathematical matters.) Werner, in later life writing about his upbringing, said that, from early childhood, he knew he would be a mathematician.
 * The university had been founded just four years after Werner's birth; in fact this university moved to Landshut in 1800 and then to Munich in 1826 becoming the present University of Munich.
 * After studying in Ingolstadt, Werner was appointed chaplain in Herzogenaurach in 1490.
 * He became the parish priest at a small church in Wöhrd, just outside the city, in 1503 but by 1508 he was the priest at the Church of St John (St Johannis) in the city of Nuremberg.

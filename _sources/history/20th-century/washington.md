@@ -27,7 +27,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Washington's school education was in Evansville where she attended the Benjamin Bosse High School.
 * While at the University of Connecticut, Washington was employed as a Teaching Assistant in the Department of Mathematics from September 1996 to August 2001.
 * Washington was awarded her Ph.D. in 2001 for her thesis "Mathematical Model of Proteins Acting as On/Off Switches." This meant that she was the first African American to graduate with a doctorate in mathematics from the University of Connecticut.
-* We note that she married Raymond W Washington (born about 1958) on 4 April 1998 in Windham, Connecticut.
 * Yung-Sze Choi, Washington's Ph.D. advisor, encouraged her to seek a postdoctoral position.
 * By the time she went to Howard University, Washington had six publications.
 * Another important colleague with whom Washington collaborated was Ronald E Mickens.

@@ -32,7 +32,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * The army reached the Dresden plant where Zalts was working on 1 May 1945 and he was required by the Russians to work as an an interpreter for the Red Army until 1 September of that year.
 * One might think that Zalts problems would end there, but they did not.
 * The various Institutes of the Latvian Academy of Sciences were being set up at this time and Zalts was about to be appointed when Soviet checks of his suitability were run and his publications on folklore, education, and philosophy in the 1920s and 1930s were discovered.
-* Their policy of severe political repression and extreme Russification meant that Zalts became an "unwelcome person".
 
 Born 10 March 1885, Burtnieki, Latvia. Died 1953, Riga, Latvia.
 

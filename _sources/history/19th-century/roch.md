@@ -31,6 +31,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Roch continued his research on the mathematical theory of electricity and magnetism, publishing four further articles Über magnetische Momente Ⓣ(On magnetic moments) (1859), Über Magnetismus Ⓣ(On magnetism) (1859), Bemerkung zur Theorie der electrischen Ströme Ⓣ(Remarks to the theory of the electrical currents) (1860), and Über Magnetismus Ⓣ(On magnetism) (1861), all of which appeared in Schlömilch's Zeitschrift.
 * On 13 April 1861 Roch entered the University of Göttingen.
 * Following his time in Göttingen, Roch went to Berlin where he made contact with L Kronecker, E E Kummer, K  Weierstrass and K W  Borchardt.
+* Roch was awarded a Master's Degree by the University of Leipzig in 1862 and later that year, on 28 May, he was awarded his doctorate for his thesis Über die Darstellung von Functionen dreier Variablen durch Potentialausdrücke ...
 * Roch submitted his habilitation thesis De theoremate quodam circa functiones Abelianas Ⓣ(The theory of Abelian functions)  to the University of Halle on 13 October 1863.
 * It appear in print in the following year and contains the theorem now known as the Riemann-Roch theorem.
 * It was not the first of Roch's papers to appear in Crelle's Journal for he had published Über eine Transformation des Potentials Ⓣ(On a transformation of  potentials)  in it in 1864.

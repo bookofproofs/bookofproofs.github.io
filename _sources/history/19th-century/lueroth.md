@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Jacob Lüroth** was a German mathematician who worked on rational curves and the invariance of dimension. He discovered the _Student t_-distribution before Gosset.
 
 ### Mathematical Profile (Excerpt):
-* His father, also named Jacob Lüroth (1792-1860), was a brewer and a member of the local town council.
-* However, his father died when Jacob was sixteen years old and after that time he was brought up by his mother, Katharina Voisin, who did her utmost to give her son a good education despite financial difficulties.
 * Jacob attended the Lyceum in Mannheim where he showed himself to be a gifted linguist.
 * Lüroth took part in observing and was given much encouragement by Schönfeld.
 * In the autumn of 1862, Lüroth passed the matriculation examination for the University of Bonn and he began to study astronomy with Friedrich Wilhelm Argelander (1799-1875).
@@ -35,9 +33,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * It was working with Clebsch in Giessen that directed Lüroth's research towards geometry and function theory.
 * Lüroth habilitated at the University of Heidelberg in the summer of 1867 after submitting the thesis Zur Theorie der windschiefen Flächen Ⓣ(On the theory of wind-swept surfaces) and he was appointed to the teaching staff.
 * He worked there until 1868 and initially Lüroth was appointed to help Dienger out but, after Dienger left, he became a candidate to fill the vacant professorship and in January 1869 he was appointed as a full professor of mathematics at the Technische Hochschule in Karlsruhe.
-* Lüroth married Karoline Antonie Schepp (1850-1920) (known as Antonie) in 1875 and their only child, a daughter Emilie, was born in Karlsruhe in 1876.
-* Antonie was the sister of Lieutenant Adolf Schepp (1837-1905) who collaborated with Lüroth on translations of English and Italian mathematical texts into German.
-* In the year that his daughter was born, Lüroth was director of the Technische Hochschule in Karlsruhe, a position he held in 1876-77.
 * Lüroth spent twelve years at Karlsruhe, then in 1880 he moved to Munich, teaching at the Technische Hochschule there for three years.
 * In 1883 Lüroth moved again, this time being appointed to the University of Freiburg.
 * Because he had a remarkable memory, Lüroth was effortlessly at home in almost all areas of mathematics, including applied mathematics, many branches of astronomy, geodesy and even more remote areas of knowledge.
@@ -47,6 +42,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lüroth's work on this curve came out of an investigation he was carrying out into when a ternary quartic form could be represented as the sum of five fourth powers of linear forms.
 * In 1883 Lüroth published his method on constructing a Riemann surface for a given algebraic curve.
 * Lüroth also worked on the big problem of the topological invariance of dimension.
+* Jacob Lüroth, Johannes Thomae, Enno Jürgens, Eugen Netto, as well as Cantor himself, addressed this problem ....
 * Lüroth assumed a one-to-one correspondence between two coordinate manifolds of different dimension and arrived at a contradiction but only for certain special cases of particular choices of dimension.
 * Although Lüroth made some useful progress, this difficult problem was not completely solved until the work of L E J Brouwer in 1911.
 * Among his other work, Lüroth undertook editing.

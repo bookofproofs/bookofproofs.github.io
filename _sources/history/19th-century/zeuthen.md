@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Hieronymus Georg Zeuthen** was a Danish mathematician who worked on the geometry of conic sections, algebraic surfaces and the history of mathematics.
 
 ### Mathematical Profile (Excerpt):
-* However Zeuthen's father moved in 1849 from a church in Grimstrup to a church in Soro and at this time Zeuthen began his secondary education.
 * At Copenhagen Zeuthen studied a broad mathematics course attending courses on topics in both pure and applied mathematics.
 * This was extremely important for Zeuthen since his research areas of mathematics were firmly shaped by Chasles during this period.
 * The first topic on which Zeuthen undertook research was enumerative geometry.

@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Johann Hudde** was a Dutch mathematician who worked on maxima and minima and the theory of equations. He gave an ingenious method to find multiple roots of an equation.
 
 ### Mathematical Profile (Excerpt):
-* Johann's mother was Maria Jonas de Witsen.
 * From around 1648 Johann attended the University of Leiden where he studied law.
 * Van Schooten had established a vigorous research school in Leiden which included Hudde, and this school was one of the main reasons for the rapid development of Cartesian geometry in the mid 17th  century.
 * Sluze, Huygens, van Schooten, Hudde and van Heuraet corresponded regarding the properties of curves, in particular Hudde was interested in techniques for determining tangents and finding maxima and minima.
@@ -33,6 +32,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * A second two-volume translation of the same work (1659-1661) contained appendices by de Witt, Hudde and van Heuraet.
 * Hudde worked on maxima and minima and the theory of equations.
 * An example of Hudde's rule appeared first in van Schooten's Exercitatione mathematicae Ⓣ(Mathematical practice) in 1657.
+* Hudde had no notion of the derivative, but his approach to finding maxima of algebraic expressions is procedurally similar to ours - and yet curiously different ...
 * A fuller account of Hudde's rule was given in a letter he wrote dated 21 November 1659 which was not published at the time but, was published during the Newton-Leibniz controversy on who deserved priority for discovering the calculus, Hudde's letter was published as part of the evidence.
 * This was entirely appropriate since Newton refers to Hudde's rule many times.
 * Leibniz also studied Hudde's manuscripts and reported finding many excellent results.

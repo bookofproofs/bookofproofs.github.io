@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * His parents, Alexander and Emma Fekete, owned a bookshop in Zenta and they also edited a local newspaper.
-* Michael, one of his parents' four children, attended elementary school in Zenta and then moved on to study at the local Gymnasium.
 * After graduating from the Gymnasium, Fekete entered the University of Budapest to study mathematics.
 * Just a little note at this point; in Hungarian 'Fekete' means 'black' and 'Fejér' means 'white' so the student and his advisor were 'black and white'! Fekete was awarded a doctorate by the University of Budapest in 1909 but already he had a number of papers related to his doctoral thesis in print: A general treatment of linear congruence systems (Hungarian) (1908), Über die additive Darstellung einiger zahlentheoretischer Funktionen Ⓣ(On the additive representation of some number theoretical functions) (1908), and On the additive representation of some number theoretical functions (Hungarian) (1909).
 * After the award of his doctorate, Fekete went to Göttingen to undertake postdoctoral studies in 1909-10 at the Georg-August University of Göttingen.

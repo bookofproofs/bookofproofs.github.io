@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ahmad Banu Musa** was one of the three Bana Musa brothers. He wrote about mechanics.
 
 ### Mathematical Profile (Excerpt):
-* However, there is some information specific to the second brother: Ahmed ibn Musa ibn Shakir.
-* Another text on the theory of the balance was written by the three brother but probably Ahmad played the leading role.
 
 Born about 805, Baghdad, Iraq. Died after 873, Baghdad, Iraq.
 

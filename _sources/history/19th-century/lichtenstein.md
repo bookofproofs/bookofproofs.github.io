@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Leon Lichtenstein** was a Polish-born mathematician, who made contributions to the areas of differential equations, conformal mapping, potential theory, hydrodynamics and astronomy.
 
 ### Mathematical Profile (Excerpt):
-* Leo Wiener was Norbert Wiener's father and Leo Wiener's mother Freda was related to Leon Lichtenstein, the subject of this biography, who was her first cousin.
 * Leon attended Mr Pankiewicz's High School in Warsaw, then attended the supplementary classes for science in the state-owned school in Jezuicka Street, graduating in 1894.
 * In 1903, a year after Lichtenstein joined the company, it merged part of its activities with Schuckert and Co. of Nuremberg and became Siemens and Schuckert.
 * Lichtenstein spent three years as an electrical engineer in the research laboratory of Siemens which made electrical motors, followed by a year as a theorist in the electric railway department.
@@ -36,7 +35,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However, by the summer of 1917, Lichtenstein's ideas for a new mathematical journal were taking shape and a contract was signed with Springer Verlag for the new journal Mathematische Zeitschrift with Lichtenstein as executive editor and the other editors being Konrad Knopp, Erhard Schmidt and Issai Schur.
 * In 1919, after the war had ended, Lichtenstein became a full honorary professor at the Technische Hochschule in Berlin-Charlottenburg.
 * Emil Lampe (1840-1918) had been the editor of the Jahrbuch since 1885 but he died in 1918 and, after Arthur Korn (1870-1945) stood in for a year as a temporary editor, in early 1919 Lichtenstein took over as editor.
-* Hilda Geiringer, who later married Richard Von Mises, spent two years assisting Lichtenstein with his editorial duties.
 * The war had made publication of the Jahrbuch a very hard task and Lichtenstein took over in the most difficult of circumstances.
 * In 1920 David Hilbert named Felix Hausdorff, Ludwig Bieberbach and Leon Lichtenstein as suitable candidates for the 2nd   and 3rd   position in the appointments list in Kiel.
 * Lichtenstein was not appointed but, in the same year, he was appointed as a full professor at the Westfälische Wilhelms-Universität in Münster.
@@ -50,7 +48,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Lichtenstein published the monograph Vorlesungen über einige Klassen nichtlinearer Integralgleichungen und Integrodifferentialgleichungen nebst Anwendungen Ⓣ(Lectures on some classes of nonlinear integral equations and integrals with applications) in 1931.
 * In 1933 Lichtenstein published Gleichgewichtsfiguren rotierender Flüssigkeiten Ⓣ(Equilibrium figures of rotating liquids) in which he collected all the work that he had done on the theory of rotating fluids since 1918.
 * Lichtenstein spent the rest of his career at Leipzig where he supervised several students who became leading mathematicians.
-* Lichtenstein was married to Stefania, who had a doctorate in psychology.
 * In 1928 Lichtenstein had resigned from his role as editor-in-chief of the Jahrbuchs über die Fortschritte der Mathematik Ⓣ(Yearbook on the progress of mathematics).
 * The events of 1933 were devastating for the Jewish Lichtenstein.
 

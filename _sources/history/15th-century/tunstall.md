@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Cuthbert Tunstall** wrote the first printed work published in England devoted exclusively to mathematics.
 
 ### Mathematical Profile (Excerpt):
-* At the time of Cuthbert's birth his parents were not married and it appears that, when he was young, he was sent to work as a kitchen boy in the household of Sir Thomas Holland.
-* After working in that role for two years, by which time his parents had married, Cuthbert returned to live with his father who had provided a good education for his son.
 * Cuthbert was educated at Balliol College, Oxford, which he entered in 1491, but it is recorded that left because of the plague.
 * Although the length of Cuthbert's time in Oxford is in some doubt, there is no doubt in the fact that he left both Oxford and Cambridge without taking a degree.
 * Between 1499 and 1505 Tunstall studied Canon and Roman law at Padua.

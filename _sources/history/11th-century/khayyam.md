@@ -23,16 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Omar Khayyam** was an Islamic scholar who was a poet as well as a mathematician. He compiled astronomical tables and contributed to calendar reform and discovered a geometrical method of solving cubic equations by intersecting a parabola with a circle.
 
 ### Mathematical Profile (Excerpt):
-* A literal translation of the name al-Khayyami (or al-Khayyam) means 'tent maker' and this may have been the trade of Ibrahim his father.
 * It was in this difficult unstable military empire, which also had religious problems as it attempted to establish an orthodox Muslim state, that Khayyam grew up.
 * However, this was not an empire in which those of learning, even those as learned as Khayyam, found life easy unless they had the support of a ruler at one of the many courts.
 * However Khayyam was an outstanding mathematician and astronomer and, despite the difficulties which he described in this quote, he did write several works including Problems of Arithmetic, a book on music and one on algebra before he was 25 years old.
 * There Khayyam was supported by Abu Tahir, a prominent jurist of Samarkand, and this allowed him to write his most famous algebra work, Treatise on Demonstration of Problems of Algebra from which we gave the quote above.
 * An invitation was sent to Khayyam from Malik-Shah and from his vizier Nizam al-Mulk asking Khayyam to go to Esfahan to set up an Observatory there.
 * Other leading astronomers were also brought to the Observatory in Esfahan and for 18 years Khayyam led the scientists and produced work of outstanding quality.
-* It was a period of peace during which the political situation allowed Khayyam the opportunity to devote himself entirely to his scholarly work.
 * During this time Khayyam led work on compiling astronomical tables and he also contributed to calendar reform in 1079.
-* In 1092 political events ended Khayyam's period of peaceful existence.
 * Funding to run the Observatory ceased and Khayyam's calendar reform was put on hold.
 * Khayyam also came under attack from the orthodox Muslims who felt that Khayyam's questioning mind did not conform to the faith.
 * Despite being out of favour on all sides, Khayyam remained at the Court and tried to regain favour.

@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Henry White** worked on invariant theory, the geometry of curves and surfaces, algebraic curves and twisted curves. He is one of the few mathematicians in our archive to die on his birthday (in 1943).
 
 ### Mathematical Profile (Excerpt):
-* Henry attended Cazenovia Seminary where his father was a teacher of elementary mathematics and surveying.
 * From there White entered the Wesleyan University, in Middletown, Connecticut, which was founded in 1831 by a group of Methodists.
-* At the Wesleyan University White was taught mathematics and astronomy by Van Vleck's father, John Monroe Van Vleck.
 * It was John Monroe Van Vleck who persuaded White that he should continue to study mathematics at graduate level.
 * After graduating with an A.B. in 1882, White was appointed as an assistant to John Monroe Van Vleck in the astronomical observatory at the Wesleyan University, then he moved to Centenary Collegiate Institute, Hackettstown, New Jersey where he taught mathematics and chemistry for a year before returning to the Wesleyan University to become a tutor.
 * White's friend, William J James, had studied under Klein at Göttingen and also under Kronecker and Fuchs in Berlin.

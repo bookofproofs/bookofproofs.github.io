@@ -23,15 +23,12 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Siegfried Aronhold** made important contributions to the theory of invariants.
 
 ### Mathematical Profile (Excerpt):
-* The Aronhold family were Jewish, and when Siegfried Aronhold matriculated at university he gave his religion as Jewish.
-* His father died while he was studying at the Gymnasium and, following this tragedy, his mother moved to Königsberg where Aronhold attended the Altstädtischen Gymnasium, graduating in 1841.
 * Aronhold then entered the University of Königsberg to study mathematics and natural sciences, matriculating on 25 October 1841.
 * When Jacobi was appointed to the University of Berlin in June 1844, Aronhold followed him and he continued his studies of mathematics in Berlin under Lejeune Dirichlet and Jakob Steiner.
 * Things were certainly not easy for the young Aronhold.
 * Aronhold continued to teach at the Academy of Architecture as a dozent for several years.
 * Maximilian Aronhold became an assistant judge in 1900.
 * At this stage Aronhold took over Weierstrass's teaching and, two years later, succeeded to his chair at the Industrial Institute.
-* The most famous of these students was Arthur Moritz Schönflies, who was one of Aronhold's students in the early 1870s, but he had also taught Schönflies's older brother Samuel Martin Schönflies over ten years earlier.
 * Aronhold became Vice President of the new Technical University but was forced to step down from this post on 1 July 1880 because of a serious illness.
 * Aronhold made important contributions to the theory of invariants.
 * The topic was also being intensively studied by Sylvester, Cayley, Clebsch and Hesse but Aronhold was the first German to work on this topic.

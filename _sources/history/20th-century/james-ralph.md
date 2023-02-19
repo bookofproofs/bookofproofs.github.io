@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ralph Duncan James** was an English-born Canadian mathematician who worked on number theory and mathematical analysis.
 
 ### Mathematical Profile (Excerpt):
-* His mother was Rose Annie Joabel James (born in Liverpool about 1872).
 * Ralph James spent the early years of his life in England, then went to Vancouver in Canada when his parents emigrated.
 * After the award of his undergraduate degree, James had intended to train to become an actuary, but he was persuaded to continue his studies at the University of British Columbia, completing a Master's Degree in mathematics with Frederick S Nowlan.
 * It was through Nowlan's advice, and also his help, that James then went to the University of Chicago where he studied for his doctorate under L E Dickson.

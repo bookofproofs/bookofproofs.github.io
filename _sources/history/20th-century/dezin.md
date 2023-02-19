@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * Aleksei Alekseevich senior was an important figure in the currency reforms of the 1920s when the chervonet, based on the gold standard, was introduced to replace the rouble which had become worthless.
 * Until the end of the war, Dezin served in the army in the Far East region.
-* Dezin had only completed his ninth grade as school in 1937 when his mother was arrested and his education came to an end.
 * After the war ended and he was released from the army, Dezin returned to Moscow where he completed his secondary education, graduating with the silver medal, after the ten year interruption.
 * Of course the Russian doctorate (similar to the German habilitation) is a higher degree and Dezin continued to undertake research with this as his goal.
 * However in 1994, when over seventy years of age, Dezin was appointed as a professor in the Department of General Mathematics in the Faculty of Numerical Mathematics and Cybernetics at Moscow State University.

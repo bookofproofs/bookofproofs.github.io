@@ -23,17 +23,13 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Alexander D D Craik** was an expert on fluid mechanics writing many significant papers on the topic, but he was also interested in the history of mathematics, particularly Scottish mathematics, and wrote over 30 historical works.
 
 ### Mathematical Profile (Excerpt):
-* Alexander and Mary Craik were married on 10 May 1933 in the Cooperative Rooms, High Street, Brechin.
 * On their Marriage Certificate, Alexander gives his address as 107 River Street, Brechin and his occupation as Trader (Master) while Mary gives her address as 13 City Road, Brechin and her occupation as Photographer's Assistant.
-* Alex's name Davidson comes from his paternal grandfather Davidson Craik while the name Duncan comes from his maternal grandfather Duncan Thomson.
 * Craik attended primary school in Brechin, continuing to study at Brechin High School from 1950 to 1956.
 * At this time Edward Copson was the Regius Professor of Mathematics and, among those who taught Craik, were Daniel Rutherford, David Borwein and Jim Tatchell.
 * In May-June 1960 Craik sat the honours examinations in Applied Mathematics.
 * After graduating from St Andrews, Craik went to Churchill College, Cambridge, to undertake research for his doctorate.
 * In 1963 Craik was appointed as a lecturer in the Department of Applied Mathematics, St Salvator's College, University of St Andrews.
 * Craik was an excellent lecturer, delivering well-prepared and well thought out material.
-* On 15 July 1964, Craik married Elizabeth Mary Farmer, the daughter of John Farmer and Annie Watson.
-* Alex and Elizabeth Craik had two children: Peter Alexander Craik (born 1970) and Katharine Anne Craik (born 1972).
 * At the time of his appointment to St Andrews, Craik was still working on his Ph.D. dissertation Wind-generated waves in thin liquid films which he submitted to the University of Cambridge and was awarded a Ph.D. in 1965.
 * Craik made a visit to the University of California's Cecil H and Ida M Green Institute of Geophysics and Planetary Physics at La Jolla, California.
 * Three of the four papers Craik published in 1968 related to his research to La Jolla.
@@ -46,7 +42,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1997 Elizabeth Craik was appointed as Professor of Classics at Kyoto University, Japan.
 * Alex Craik spent periods in Japan where he made many friends among the mathematicians, particularly the fluid dynamicist Hisashi Okamoto, and became interested in the history of Japanese mathematics.
 * Craik died at his home in St Andrews after a short illness, leukamia having been diagnosed in July 2019.
-* Craik's interests outside his mathematics and his family (including his four grandchildren Gregor, Stuart, Heather and Jamie) were music (and he played classical guitar to a high standard), travelling (especially in Greece) and enjoyment of his large house and garden.
 * After we both retired Alex would come to the Mathematical Institute, take the opportunity to talk to me about his latest research, often giving me a copy of one of his newly published papers, and would ask with interest about my latest MacTutor project.
 
 Born 25 August 1938, Brechin, Angus, Scotland. Died 17 November 2019, St Andrews, Fife, Scotland.

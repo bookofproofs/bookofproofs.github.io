@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Albert Tucker**  was a Canadian mathematician who worked in topology, game theory and non-linear programming.
 
 ### Mathematical Profile (Excerpt):
-* His father, William B Tucker, had some mathematical training but it was his role as a Methodist minister which led to the many moves.
-* Albert's mother was Florence M Huff.
 * Although the Principal of his High School had suggested that he aim at becoming an actuary, in fact Tucker thought at this stage that he would become a schoolteacher of mathematics.
 * The chairman of physics was very impressed with Tucker's report and asked him to change from a joint mathematics-physics degree to a single subject physics degree.
 * The chairman of mathematics, Alfred Tennyson DeLury, agreed that he should change to a single subject degree but, of course, thought Tucker should choose mathematics.
@@ -36,8 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * However there was a part-time Instructorship which Princeton was about to fill so, with Alfred DeLury's support, Tucker was appointed to this position for 1929-30.
 * Tucker received his doctorate in 1932 for his thesis An Abstract Approach to Manifolds.
 * Tucker was a National Research Fellow during 1932-33, spending the autumn term at the University of Cambridge working with Max Newman.
-* On 17 December 1938, soon after he was promoted to Associate Professor, Tucker married Alice Judson Curtiss.
-* They had three children; sons Alan Curtiss Tucker (born 6 July 1943) and Thomas William Tucker (born 15 July 1945) and a daughter Barbara Jane Tucker.
 * In 1954 he succeeded Emil Artin (who became Fine Professor at this time) as Albert Baldwin Dod Professor of Mathematics at Princeton, having become chairmen of the mathematics department at Princeton in the previous year.
 * By chance, on this visit he met Tucker who asked him to explain what linear programming was.
 * Tucker immediately saw it as a topic which would interest him particularly since he saw connections to ideas from his topological research.
@@ -52,8 +48,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1967 the Mathematical Association of America presented their Award for Distinguished Service to Tucker.
 * By his willing service to those ho would learn, teach, advance, or use mathematics, Albert William Tucker has added measurably to the vigour and quality of mathematics today.
 * Tucker died of pneumonia at the Presbyterian Home of Meadow Lakes, a nursing home in Hightstown, New Jersey, after a long illness.
-* He and his wife Alice had divorced in June 1960 and Tucker had married Mary F Shaw on 26 February 1964.
-* He was survived by his second wife Mary, his two sons Alan and Tom (both eminent professors of mathematics), and his daughter Barbara Tucker Cervone (Special Assistant to the president of Brown University).
 
 Born 28 November 1905, Oshawa, Ontario, Canada. Died 25 January 1995, Hightstown, New Jersey, USA.
 

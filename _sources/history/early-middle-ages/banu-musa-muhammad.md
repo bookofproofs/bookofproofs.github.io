@@ -25,7 +25,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 ### Mathematical Profile (Excerpt):
 * However, there is some information specific to the eldest: Jafar Muhammad ibn Musa ibn Shakir.
 * In addition to making perhaps the major contribution to the geometry text described above, Jafar Muhammad also wrote Premises of the book of conics which was a critical revision of Apollonius's Conics.
-* However, Jafar Muhammad was also the most politically active of the brothers, particularly in the last part of his life when the Turks were gaining control of the empire.
 * It appears that his dispute with al-Kindi coloured Jafar Muhammad actions and he opposed anyone who had been a friend of al-Kindi's.
 * In fact Jafar Muhammad was sent by al-Musta'in to negotiate the terms of his surrender with the besieging forces.
 

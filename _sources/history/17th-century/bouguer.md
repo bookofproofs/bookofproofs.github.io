@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Pierre Bouguer** was a French surveyor who took part in an expedition to South America to calculate the size of a degree of latitude.
 
 ### Mathematical Profile (Excerpt):
-* Jean Bouguer taught his son Pierre both mathematics and hydrography, and Pierre turned out to be an outstanding pupil.
 * Jean Boutroux died when Pierre was fifteen years old and so his professorship of hydrography became vacant.
-* Pierre applied for his father's professorship and he was such a remarkable young man, both brilliant and knowledgeable, that he was appointed.
 * The Académie Royale des Sciences further honoured Bouguer when he was elected as an associate in the mathematics section in 1731 and then, in 1735, he was elected to full membership.
 * In April 1735 Bouguer set out on an expedition, organised by the Académie Royale des Sciences, to Peru to measure the length of a degree of meridian at the equator.
 * The three finished their journey to their destination by different routes, Bouguer and Godin sailing to Quito, while La Condamine went overland from Manta.

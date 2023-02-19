@@ -30,7 +30,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * No writings of del Ferro have survived.
 * This must be due, at least in part, to his reluctance to make his results widely known, preferring to communicate them only to a few close friends and students.
 * This notebook passed to del Ferro's son-in-law Hannibal Nave when del Ferro died in 1526.
-* Hannibal Nave was also a mathematician and he had married del Ferro's daughter Filippa, who of course was named after del Ferro's mother.
 * Hannibal Nave took over del Ferro's lecturing duties at the University of Bologna in 1526 and also his name since he adopted the name of dalla Nave alias dal Ferro.
 * The outstanding problem which del Ferro solved was to find a formula to solve a cubic equation similar to the formula which had been known since the time of the Babylonians for solving quadratic equations.
 * In del Ferro's time, although such solutions were known, they were not known in this form.

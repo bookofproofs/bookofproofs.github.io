@@ -23,9 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Gheorghe Mihoc** was a Romanian mathematician and statistician.
 
 ### Mathematical Profile (Excerpt):
-* They were in that city when their son Gheorghe, the subject of this biography, was born but they did not remain there for very much longer.
-* Again hoping to improve their circumstances, the family moved when Gheorghe was two years old, settling in Bucharest.
-* It was in this city that Gheorghe spent the rest of his childhood, indeed he spent most of the rest of his life in Bucharest.
 * After attending elementary school in Bucharest, Mihoc's secondary education was at the Gheorghe Sincai Gymnasium.
 * Mihoc graduated from the Gheorghe Sincai Gymnasium in 1925 and, in the same year, entered the Faculty of Science of the University of Bucharest.
 * At Bucharest University, he was taught geometry by Gheorghe Țițeica, the professor of Analytical Geometry.

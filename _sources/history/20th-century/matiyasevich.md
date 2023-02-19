@@ -23,10 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Yuri Matiyasevich** is a Russian mathematician and computer scientist who is  known for his negative solution of Hilbert's tenth problem.
 
 ### Mathematical Profile (Excerpt):
-* The family were from the nobility since Vladimir Mikhailovich's father, Mikhail Stepanovich Matiyasevich, was a professional soldier.
-* Yuri's mother, Galina Korotchenko, had wanted to become a doctor but she had not been able to fulfil her ambitions.
 * During the war she worked as an army typist but after Yuri was born she devoted herself to bringing him up.
-* Yuri was a late child for his father was forty-five years old and his mother thirty-six when he was born.
 * Soon, however, Matiyasevich was taking part in Mathematical Olympiad competitions and proving highly successful.
 * Matiyasevich had shown his outstanding mathematical abilities while in Leningrad for he had been highly successful in the Leningrad Mathematical Olympiad Competitions between 1960 and 1963 and in the All-Union Mathematical Olympiads between 1961 and 1963.
 * at the beginning of his second year, autumn 1965, Matiyasevich was introduced to Post's canonical systems and his career as a mathematician properly began.

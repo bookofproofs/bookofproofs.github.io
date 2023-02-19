@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Angelo Genocchi** was an Italian mathematician who worked on number theory, series and the integral calculus.
 
 ### Mathematical Profile (Excerpt):
-* Genocchi was, however, very active politically.
-* Genocchi and his liberal friends had formed a provisional government in Piacenza but before they could make political progress the Austrians attacked the region.
 * Before the Austrians arrived in Piacenza Genocchi, greatly disappointed at the turn of events, and other liberals, left the city.
 * Genocchi went to live in Turin, refusing requests from his friends to return to Piacenza saying he would not return until freedom returned.
 * From 1859 Genocchi held the Chair of Algebra and Complementary Geometry at Turin, then the following year he moved to the Chair of Higher Analysis.

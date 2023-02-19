@@ -23,13 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Erdős** posed and solved problems in number theory and other areas and founded the field of discrete mathematics.
 
 ### Mathematical Profile (Excerpt):
-* Paul's father Lajos and his mother Anna had two daughters, aged three and five, who died of scarlet fever just days before Paul was born.
 * This naturally had the effect making Lajos and Anna extremely protective of Paul.
-* Paul's father Lajos was captured by the Russian army as it attacked the Austro-Hungarian troops.
-* As soon as Lajos was captured, with Paul's mother Anna teaching during the day, a German governess was employed to look after Paul.
-* Anna, excessively protective after the loss of her two daughters, kept Paul away from school for much of his early years and a tutor was provided to teach him at home.
 * He quickly moved against those perceived as Communists and Anna Erdős fell into that category due to her failing to obey the Communist strike call when Kun was in power.
-* The year 1920 was not all bad for Paul, for his father Lajos returned home from Siberia.
 * He now set about teaching Paul to speak English, but the strange English accent which this gave Paul remained one of his characteristics throughout his life.
 * Despite the restrictions on Jews entering universities in Hungary, Erdős, as the winner of a national examination, was allowed to enter in 1930.
 * During his tenure of the fellowship, Erdős travelled widely in the UK.
@@ -54,11 +49,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Erdős was simply too honest in saying that he would wish to return to Budapest at the end of the war.
 * This episode does give the feeling that Erdős never wanted to work at Los Alamos, but was simply amusing himself.
 * In 1943 Erdős worked at Purdue University, taking a part-time appointment.
-* Although it was a difficult time with great uncertainty about the fate of his family in Hungary, yet mathematically Erdős flourished.
 * It is unlikely that the full extent of the horror was understood by Erdős in the United States at the time.
-* However, in August 1945, Erdős received a telegram giving details of his family.
-* The family had suffered terribly through the Nazi campaign against the Jews, however, and four of Erdős's uncles and aunts had been murdered.
-* Near the end of 1948 Erdős was able to return to Hungary for a visit and there he was reunited with his surviving family and friends.
 * It was an inspired offer which gave Erdős complete freedom to rush off to do some joint research whenever he wanted.
 * Erdős could not bring himself to accept the same generous offer on a permanent basis, which both the University of Notre Dame and Erdős's friends tried hard to encourage him to accept.
 * Erdős began to come under suspicion from authorities who saw imaginary problems everywhere.

@@ -26,13 +26,10 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Frederick Bisacre had three older siblings: Edith Blanche (born about 1872), Elizabeth C (born about 1877) and Ernest born about 1880.
 * Bisacre was educated privately and at Trinity College, Cambridge.
 * From 1910 to 1919 he was with Merz and McLellan Consulting, Engineers, first as Assistant, and later as Personal Assistant to Mr Charles Merz.
-* In 1915 Bisacre married Jean Margaret Blackie, eldest daughter of Walter W Blackie (1861-1953)  and Anna Christina Younger (1866-1957).
 * Walter W Blackie was the director of the well-known Glasgow publisher.
-* John G C Christie, B.D., Helensburgh, Frederick Francis Percival Bisacre, son of George Bisacre, Southborough, Kent, to Jean Margaret Blackie, eldest daughter of Walter W Blackie, The Hill House, Helensburgh, Dumbartonshire.
 * The Hill House is the finest of Charles Rennie Mackintosh's domestic creations.
 * It is situated high above the Clyde commanding fine views over the river estuary.
 * Walter Blackie commissioned not only the house and garden but much of the furniture and all the interior fittings and decorative schemes.
-* In 1904 the Blackie family had moved into their new home.
 * The Hill House is now a National Trust for Scotland property, and is open to the public.
 * In 1920 Bisacre joined Blackie & Son Ltd, and became a Director, and subsequently he was Chairman of the Company.
 * Bisacre was elected an Associate Member of the Institute of Civil Engineers in 1914.
@@ -64,11 +61,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In this method the diamond is given a uniform chordal displacement, from line to line, as in the present method of ruling, but during its displacement from line to line it is constrained to rotate about an axis parallel to the ruled lines and passing through the centre of curvature of the face of the grating.
 * For the metal concave grating of more than 20,000 lines per inch this method of ruling would do what figuring does for an astronomical mirror, though not to so high an order of accuracy.
 * In December 1925 Bisacre joined the Edinburgh Mathematical Society giving his address as c/o Messrs Blackie & Co., 17 Stanhope Street, Glasgow.
-* Bisacre and his wife had two sons and one daughter.
 * Their first son, George Henry Bisacre, was born on 13 March 1916.
-* Their second son, David Walter Bisacre, was born three years later and their daughter, Margaret A Bisacre, was born in 1925.
 * Margaret Bisacre graduated M.A. Ordinary from the University of St Andrews in 1947, then was awarded Second Class Honours in English Language and Literature in 1949.
-* On 9 October 1947 the engagement was announced between George Henry Bisacre, elder son of Mr and Mrs F F P Bisacre, Ascania, Helensburgh, Dumbartonshire and Barbara Joan Plant.
 * David Walter Bisacre attended Charterhouse School and was on the winning team for the School's Cup yachting races on the Gareloch in August 1936.
 
 Born 20 June 1885, Tonbridge, Kent, England. Died 9 November 1954, Helensburgh, Scotland.

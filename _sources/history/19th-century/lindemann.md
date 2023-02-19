@@ -23,8 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Ferdinand von Lindemann** was the first to prove that `$\pi$` is transcendental, i.e. `$\pi$` is not the root of any algebraic equation with rational coefficients.
 
 ### Mathematical Profile (Excerpt):
-* When Ferdinand (the subject of this biography) was two years old his father was appointed as director of a gasworks in Schwerin.
-* The family moved to that town where Ferdinand spent his childhood years and he attended school in Schwerin.
 * As was the standard practice of students in Germany in the second half of the 19th  century, Lindemann moved from one university to another.
 * Later Lindemann was able to make use of the lecture notes he had taken attending Clebsch's geometry lectures when he edited and revised these note for publication in 1876.
 * Lindemann also studied at Erlangen and at Munich.

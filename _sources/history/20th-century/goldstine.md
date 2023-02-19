@@ -31,7 +31,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Goldstine was given the task of liaising with the mathematicians at the Moore School.
 * After Mauchly wrote a report towards the end of 1942 detailing the ideas for a better computer that he had been working on with Eckert, Goldstine quickly saw the potential in what was being proposed.
 * Various committees then considered the proposal before money could be assigned to the project of building the computer, and in April 1943 Goldstine persuaded Veblen, who was the chief scientist at the Ballistics Research Laboratory in Aberdeen, to approve the idea.
-* In that year Herman and his wife Adele published the joint paper The electronic numerical integrator and computer (ENIAC).
 * Goldstine had been promoted from Instructor to Assistant Professor at the University of Michigan in 1942 and continued to hold this post while undertaking army work at the Ballistics Research Laboratory in Maryland.
 * Goldstine was appointed Associate Project Director of the Electronic Computer Project at the Institute for Advanced Study, Princeton University, and with von Neumann worked on their own ideas for a new computer.
 * There was Preliminary Discussion of the Logical Design of an Electronic Computing Instrument (1947) by Arthur Bucks, John von Neumann and Herman Goldstine.
@@ -40,7 +39,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * In 1955 a joint work by Goldstine and von Neumann Blast wave calculation was published as well as On the stability of two superposed compressible fluids which was joint work by Goldstine and J Gillis.
 * Goldstine became Project Director in 1954.
 * After von Neumann's death in 1957, Goldstine left Princeton and in 1958 was appointed research administrator at IBM.
-* Goldstine's wife Adele died in 1964 and two years later he married Ellen Watson.
 * Goldstine wrote a number of outstanding books.
 * Goldstine received many honours for his outstanding contributions to the development of the computer and its applications to mathematics.
 * Dr Herman H Goldstine by renaming a major postdoctoral fellowship for the mathematician.

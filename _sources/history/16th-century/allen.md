@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * Thomas matriculated at the University of Oxford in 1561, when he was twenty years old.
-* Although Allen was nominally a member of the Church of England, it is clear that he came from a family with Roman Catholic connections and had leanings in that direction.
 * In 1670 Allen resigned his fellowship at Trinity and moved to Gloucester Hall where he spent the rest of his life.
 * Let us emphasise that we should not think any the less of Allen because of his interests in magic and astrology; most of the great scientists and mathematicians of his time, and much later, had such interests.
 * We have already noted Allen's interest in collecting manuscripts.
@@ -35,7 +34,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Allen became a friend of Henry Percy, ninth earl of Northumberland, in the early 1580s.
 * He had held them so long that he could not identify them and left it to Allen to do so.
 * Allen made many visits to Syon House during the years that Harriot lived and worked there.
-* How closely he was involved in this Plot to blow up Parliament is unclear but certainly his relative Thomas Percy was one of the four main conspirators.
 * Harriot was held on suspicion of being involved in the Plot and imprisoned for a short while, but Allen appears to have avoided the problems of some of his friends.
 * However, Allen needed a new patron, particularly to help him fund the building of his library, and he turned to Sir John Scudamore of Holme Lacy, Herefordshire, whom he already knew through Henry Percy.
 * Allen drew up his will in January 1629 when he was 88 years old.

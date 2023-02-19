@@ -24,7 +24,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 
 ### Mathematical Profile (Excerpt):
 * It was, in Empedocles time, a rich city containing the finest Greek culture.
-* Empedocles was born into a rich aristocratic family.
 * There are many legends regarding Empedocles life.
 * It is not difficult to see the source of most of the legends about Empedocles for these are built on the poems that he wrote himself.
 * Certainly Empedocles was attributed with many "firsts".

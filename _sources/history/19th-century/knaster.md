@@ -23,12 +23,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Bronisław Knaster** was a Polish mathematician who was known for his work in point-set topology.
 
 ### Mathematical Profile (Excerpt):
-* Bronisław's father, Ludwik Knaster, was a much respected hospital doctor in Warsaw, the head of the therapeutic clinic at the 'Baby Jesus' hospital and president of the Association of Physicians.
 * School education proved difficult for young Knaster who entered the first class of the Fourth Junior High School in 1902.
 * After the closure of this school in May 1908 and the arrest of many of its students, Knaster moved to the Second Boys Junior High School, at which he completed his school education in 1911 with a silver medal.
-* Knaster's father, however, had studied in Paris so it was natural for his son to follow suit.
-* One might imagine that Paris was an ideal city for someone to obtain an outstanding mathematical education but at this stage Knaster was looking to follow his father and obtain a medical degree.
-* Knaster married Maria Morska in Dabrowa near Tarnów in October 1914.
 * Knaster took a job in the Judicial Department of the Commissariat of the Fourth Civil Guard District of the City of Warsaw.
 * Knaster enrolled and began studying logic under Jan Lukasiewicz who had been invited to the new University of Warsaw when it reopened.
 * The first students to enter into this high powered mathematical environment were Knaster, Kazimierz Kuratowski and Stanisław Saks.
@@ -47,7 +43,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * With his health improving, Knaster had returned to Warsaw in early 1929 and began to run his advanced seminar in topology, taught courses, took on editorial duties and other organizational activities.
 * Knaster and his wife, and many of his fellow Poles, fled to the east to Lwów (now Lviv in Ukraine).
 * Knaster, however, was allowed to teach there and became a professor in the Chair of Geometry, headed by Stanislaw Mazur.
-* Many Polish staff of the university and their families were massacred by the Germans but Knaster and his wife survived.
 * Knaster was given the job of feeding lice at Rudolf Weigel's Institute in Lwów.
 * Knaster was now head hunted by all four of these new universities and offered professorships.
 * A mathematician of world renown, an energetic organiser of scientific life, an experienced mathematical editor - Knaster was a man of greatest importance for the new university.

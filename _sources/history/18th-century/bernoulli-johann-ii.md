@@ -23,7 +23,6 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Johann(II) Bernoulli** was a member of the Swiss mathematical family. He worked mainly on heat and light.
 
 ### Mathematical Profile (Excerpt):
-* On the strength of this he was appointed to his father's chair in Basel when Johann Bernoulli died.
 * Johann (II) Bernoulli worked mainly on heat and light.
 * Voltaire was so critical of Maupertuis' work that eventually he left Berlin and, in 1756, travelled to Basel where he took refuge in Johann(II) Bernoulli home.
 * Maupertuis remained in Johann's home for the last three years of his life.

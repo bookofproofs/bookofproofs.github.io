@@ -23,11 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **William Jones** was a Welsh mathematician who corresponded with many of the important English mathematicians of his day.
 
 ### Mathematical Profile (Excerpt):
-* An obvious question would be: why was his father not named 'Jones'?
 * The answer is simple, he was named Jones since this is the English version of the Welsh Siôn.
-* William's mother was Elizabeth Rowland who was from Llanddeusant in the island of Anglesey.
-* William was born on a farm in Anglesey and the family moved to Llanbabo on Anglesey, then moved again after the death of William's father.
-* The family were poor and William attended a charity school at Llanfechell about 3 km from the north coast of Anglesey.
 * This job saw Jones serving at sea on a voyage to the West Indies, and he taught mathematics and navigation on board ships between 1695 and 1702.
 * Navigation was a topic which greatly interested Jones and his first published work was A New Compendium of the Whole Art of Navigation published in 1702.
 * After the battle of Vigo, Jones left the navy and became a teacher of mathematics in the coffee houses of London.
@@ -45,11 +41,8 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 * Jones made a copy of the original Latin, giving it the title Artis analyticae specimina sive geometria analytic Ⓣ(The analytical art of models or analytic geometry) and it was this version which was eventually published.
 * In 1731 Jones published Discourses of the Natural Philosophy of the Elements.
 * We left our description of the events in Jones' life after he was unsuccessful in obtaining the mastership of Christ's Hospital Mathematical School.
-* Jones was long associated with the Parker family and lived for long spells at their castle at Shirburn.
 * His two former pupils were by this time men of great influence and were able to obtain various positions for Jones which provided him with an income without requiring any real work.
-* Jones' first wife died and he remarried several years later to Mary Nix on 17 April 1731.
 * She was 25 years old and Jones was 56 at the time of their marriage.
-* They had three children, two of whom survived to adulthood: Mary born in 1736 and William born 10 years later.
 * On his death Jones left a large collection of manuscripts and correspondence which it appears he had intended to publish as a major piece of work.
 * Among Jones's manuscripts was another projected mathematical book, which his son, Sir William, had intended, but failed, to publish.
 

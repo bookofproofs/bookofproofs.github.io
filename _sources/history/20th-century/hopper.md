@@ -23,9 +23,7 @@ contributors: @J-J-O'Connor,@E-F-Robertson,bookofproofs
 **Grace Hopper** was one of the pioneers in the development of the electronic computer. She is (probably) the only mathematician to have a warship named after her.
 
 ### Mathematical Profile (Excerpt):
-* Both Grace's parents believed that she and her sister should have an education of the same quality as her brother.
 * Grace was educated at two private schools for girls, namely Graham School and Schoonmakers School both in New York City.
-* In 1930 Grace Murray married Vincent Foster Hopper, an English teacher from New York University.
 * Hopper was awarded her doctorate by Yale University in 1934 for a thesis New Types of Irreducibility Criteria which was supervised by Øystein Ore.
 * Hopper attended New York University as a Vassar Faculty Fellow in 1941.
 * Hopper wanted to join the military as soon as the United States entered World War II.
